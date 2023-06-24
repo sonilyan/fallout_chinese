@@ -1,0 +1,260 @@
+#{100}{}{You see a working terminal.}
+{100}{}{你看到一个工作终端。}
+#{101}{}{You see a reactor control terminal.}
+{101}{}{你看到一个反应堆控制终端。}
+#{126}{}{Shouldn't have done that!}
+{126}{}{不该那么做！}
+#{127}{}{}
+{127}{}{}
+#{128}{}{I don't need that!}
+{128}{}{我不需要那个！}
+#{129}{}{Not a chance! That's forbidden.}
+{129}{}{一点机会也没有！那是禁止的。}
+#{130}{}{Don't even think of doing it again!}
+{130}{}{别再想了！}
+#{131}{}{We are not allowed to try this.}
+{131}{}{我们不能尝试这个。}
+#{150}{}{You've closed a Nuka-Cola deal. Congratulations!}
+{150}{}{你已经完成了一笔努卡可乐的交易。祝贺 你！}
+#{151}{}{You received a new achievement.}
+{151}{}{你获得了新的成就。}
+#{152}{}{The deal of the Nuka-Cola sale in this establishment is no longer valid.}
+{152}{}{这家公司出售努卡可乐的交易不再有效。}
+#{153}{}{Looks like this place's revenue is about to plummet.}
+{153}{}{看来这个地方的收入要暴跌了。}
+#{160}{}{You succeeded in breaking into the system. Judging from documents inside, this plant wasn't used solely for peaceful purposes by the government.}
+{160}{}{你成功地闯入了系统。从里面的文件来看，这座核电站并不仅仅被政府用于和平目的。}
+#{161}{}{Look at reports on uranium ore supply.}
+{161}{}{看看铀矿石供应的报告。}
+#{162}{}{Look at "Lovelock" radio station project.}
+{162}{}{看看“洛夫洛克”电台项目。}
+#{163}{}{Look at "Lovelock" radio station coordinates.}
+{163}{}{看看“洛夫洛克”电台的坐标。}
+#{164}{}{Look at PoseidonNet debugging report.}
+{164}{}{看海神网调试报告。}
+#{165}{}{As uranium ore was used by the military, its mining and distribution was under strict governmental control. So "Poseidon Oil" power plant had to undergo regular inspections and maintain impeccable accounting. According to these records, at the time of the power plant shutdown there was enough uranium in stock to keep the plant running for another 250 years straight in economy mode.}
+{165}{}{由于铀矿石被军方使用，其开采和分配受到政府的严格控制。所以“波塞冬石油”发电厂必须接受定期检查，并保持无可挑剔的会计。根据这些记录，在核电站关闭时，有足够的铀库存，使核电站在经济模式下连续运行250年。}
+#{166}{}{By special decree a separate power branch was provided to supply a radio tower near Lovelock settlement. The facility was marked as of critical significance and was supervised by the military. The nuclear power plant should have supplied the station with enough power.}
+{166}{}{根据特别法令，在洛夫洛克定居点附近提供了一个独立的电力分支，为一座无线电塔供电。该设施被标记为具有重要意义，并由军方监督。核电站应该为核电站提供足够的电力。}
+#{167}{}{You download the station coordinates to your Pip-Boy.}
+{167}{}{你把站坐标下载到你的皮普小子那里。}
+#{168}{}{Apparently this station is located in the same spot as the Cheyenne tribe.}
+{168}{}{显然，这个车站和夏延部落位于同一地点。}
+#{169}{}{You have already downloaded the coordinates. The station is located in the South.}
+{169}{}{你已经下载了坐标。车站位于南部。}
+#{170}{}{It's a computer network designed for long-distance communication. It's purpose is to connect different military and governmental facilities of the United States. The network is offline now, which isn't particularly surprising.}
+{170}{}{这是一个为长途通信而设计的计算机网络。它的目的是连接美国不同的军事和政府设施。网络现在处于离线状态，这并不奇怪。}
+#{171}{}{[Finish]}
+{171}{}{[完成]}
+#{172}{}{You download the station coordinates to your Pip-Boy. Apparently this station is located in the same spot as the Cheyenne tribe.}
+{172}{}{你把站坐标下载到你的皮普小子那里。显然，这个车站和夏延部落位于同一地点。}
+#{173}{}{Evidently it's that station by the Cheyenne tribe settlement you have already visited.}
+{173}{}{很明显，你已经去过夏延部落定居点旁边的车站了。}
+#{200}{}{You cannot use the computer during combat.}
+{200}{}{你不能在战斗中使用电脑。}
+#{201}{}{Your science skill is too low for this operation.}
+{201}{}{你的科学技能太低，不适合做这个手术。}
+#{202}{}{Science skill is needed in order to use this computer.}
+{202}{}{使用这台计算机需要科学技能。}
+#{388}{}{Who's been shouting?!}
+{388}{}{谁在喊？！}
+#{389}{}{Damn tourists!}
+{389}{}{该死的游客！}
+#{390}{}{I won't fall for it again!}
+{390}{}{我不会再上当了！}
+#{391}{}{?!}
+{391}{}{?!}
+#{392}{}{!!}
+{392}{}{!!}
+#{393}{}{ }
+{393}{}{ }
+#{400}{}{Who's been shouting?}
+{400}{}{谁一直在喊？}
+#{401}{}{Why would you be shouting like that?}
+{401}{}{你为什么要那样大喊大叫？}
+#{402}{}{Are you talking to me?}
+{402}{}{你在跟我说话吗？}
+#{403}{}{I can hear just fine!}
+{403}{}{我听得很清楚！}
+#{404}{}{Can you keep it down a little?}
+{404}{}{你能小声点吗？}
+#{405}{}{Lunatics roam freely...}
+{405}{}{疯子们到处游荡。。。}
+#{406}{}{Something's wrong?!}
+{406}{}{出什么事了？！}
+#{407}{}{What's the matter?!}
+{407}{}{怎么了？！}
+#{408}{}{Never a cop around when you need one}
+{408}{}{当你需要警察的时候，千万别让警察在身边}
+#{450}{}{I won't fall for it again!}
+{450}{}{我不会再上当了！}
+#{451}{}{Here we go again, some more psychos!}
+{451}{}{又来了，精神病患者！}
+#{452}{}{No way, I better stay where I'm at...}
+{452}{}{不可能，我最好呆在原地。。。}
+#{453}{}{What? Again?!}
+{453}{}{什么？再一次？！}
+#{454}{}{How many more times!}
+{454}{}{还有多少次！}
+#{455}{}{Settle down already!}
+{455}{}{已经安定下来了！}
+#{460}{}{Is this a prank or something?}
+{460}{}{这是恶作剧还是什么？}
+#{461}{}{So, what happened?}
+{461}{}{那么，发生了什么？}
+#{462}{}{Who was screaming?}
+{462}{}{谁在尖叫？}
+#{463}{}{I don't get who's been shouting}
+{463}{}{我不明白是谁在喊}
+#{464}{}{Wasn't somebody shouting here?}
+{464}{}{不是有人在喊吗？}
+#{465}{}{Damn tourists! They really getting on my nerves!}
+{465}{}{该死的游客！他们真让我心烦！}
+#{466}{}{That's it, I'm not acting on it anymore!}
+{466}{}{就这样，我再也不做了！}
+#{467}{}{Uh... What was that?}
+{467}{}{休斯敦大学。。。那是什么？}
+#{470}{}{WHAT? WHAT HAPPENED?!}
+{470}{}{什么？怎么了？！}
+#{471}{}{Did somebody get stabbed?!}
+{471}{}{有人被刺了吗？！}
+#{472}{}{Goddammit!?}
+{472}{}{他妈的！？}
+#{473}{}{What's the ruckus!!?}
+{473}{}{什么骚动！！？}
+#{474}{}{Uh... What was that?}
+{474}{}{休斯敦大学。。。那是什么？}
+#{475}{}{}
+{475}{}{}
+#{476}{}{}
+{476}{}{}
+#{477}{}{}
+{477}{}{}
+#{500}{}{Who be screaming?}
+{500}{}{谁在尖叫？}
+#{501}{}{Why you shouting?}
+{501}{}{你为什么大喊大叫？}
+#{502}{}{You hollering at me?}
+{502}{}{你对我吼叫？}
+#{503}{}{Me hear, yes yes...}
+{503}{}{我听到了，是的。。。}
+#{504}{}{Hey you! You too loud!}
+{504}{}{嘿，你！你太大声了！}
+#{505}{}{Evil spirits took your mind}
+{505}{}{恶魔占据了你的心}
+#{506}{}{What be wrong?!}
+{506}{}{怎么了？！}
+#{507}{}{You step on a spike?!}
+{507}{}{你踩到钉子了？！}
+#{550}{}{No, me only go when evil spirits scream no more}
+{550}{}{不，只有当恶魔不再尖叫的时候我才会去}
+#{551}{}{Spirits be playing tricks again!}
+{551}{}{鬼魂又在耍把戏了！}
+#{552}{}{No, me better not go...}
+{552}{}{不，我最好不要去。。。}
+#{553}{}{What? Again?!}
+{553}{}{什么？再一次？！}
+#{554}{}{Not again!?}
+{554}{}{又来了！？}
+#{555}{}{You too wild, should give you some sleeping herbs}
+{555}{}{你太狂野了，应该给你一些安眠药}
+#{560}{}{Your joke bad!}
+{560}{}{你的笑话太糟了！}
+#{561}{}{Eh?!}
+{561}{}{嗯？！}
+#{562}{}{Where the shouting at?!}
+{562}{}{你在喊什么？！}
+#{563}{}{Me no understand, where evil spirits be?}
+{563}{}{我不明白，恶灵在哪里？}
+#{564}{}{Phew... Should smoke less herbs...}
+{564}{}{呸。。。应该少抽烟。。。}
+#{565}{}{Me having visions?}
+{565}{}{我有幻觉吗？}
+#{566}{}{No, me only go when evil spirits scream no more}
+{566}{}{不，只有当恶魔不再尖叫的时候我才会去}
+#{567}{}{Eh...}
+{567}{}{呃。。。}
+#{570}{}{WHAT?! WHAT HAPPENED?!}
+{570}{}{什么？！怎么了？！}
+#{571}{}{Fight!? Who be fighting!?}
+{571}{}{战斗！？谁在打架！？}
+#{572}{}{Oh!? Evil spirits!!!}
+{572}{}{哦！？恶魔！！！}
+#{573}{}{Me no understand, who be screaming?}
+{573}{}{我不明白，谁在尖叫？}
+#{574}{}{Eh?}
+{574}{}{嗯？}
+#{575}{}{}
+{575}{}{}
+#{576}{}{}
+{576}{}{}
+#{577}{}{}
+{577}{}{}
+#{600}{}{Why the hell are you screaming like a lunatic?!}
+{600}{}{你为什么像疯子一样尖叫？！}
+#{601}{}{Hey, dipshit! Stop shouting!}
+{601}{}{嘿，笨蛋！别喊了！}
+#{602}{}{Are you shouting at me, motherfucker?}
+{602}{}{你在冲我喊吗，混蛋？}
+#{603}{}{Hey, I can hear just fine, cut it out!}
+{603}{}{嘿，我听得很清楚，别说了！}
+#{604}{}{What the hell are you trying to do here?}
+{604}{}{你到底想在这里干什么？}
+#{605}{}{Looks like we got another loon here...}
+{605}{}{看来我们又来了个笨蛋。。。}
+#{606}{}{Did someone tear something off of you? Why are you screaming like that?}
+{606}{}{有人从你身上撕下什么东西吗？你为什么那样尖叫？}
+#{607}{}{God damn it, shut up already!}
+{607}{}{该死的，闭嘴！}
+#{608}{}{Go to hell!!}
+{608}{}{去死吧！！}
+#{609}{}{God-fucking-damn it, shut the hell up already!}
+{609}{}{他妈的，闭嘴！}
+#{650}{}{Don't mind this one, clearly out of his mind}
+{650}{}{别介意这个，显然是他疯了}
+#{651}{}{Fuck it!}
+{651}{}{去他妈的！}
+#{652}{}{I better just look at what's going on from a distance...}
+{652}{}{我最好从远处看看发生了什么。。。}
+#{653}{}{What? Again?!}
+{653}{}{什么？再一次？！}
+#{654}{}{How many more times?!}
+{654}{}{还要几次？！}
+#{655}{}{Look, another dimwit}
+{655}{}{听着，又一个傻瓜}
+#{660}{}{Damn, missed the most interesting part!}
+{660}{}{该死，错过了最有趣的部分！}
+#{661}{}{Damn, late for the show again!}
+{661}{}{该死，又迟到了！}
+#{662}{}{Wasn't somebody getting stabbed here?}
+{662}{}{这里不是有人被捅了吗？}
+#{663}{}{Can someone tell me where the hell did the screaming come from?}
+{663}{}{有人能告诉我尖叫是从哪里来的吗？}
+#{664}{}{Damn, there was a fight and now it's gone! Wonders!}
+{664}{}{妈的，刚才吵架了，现在不见了！奇迹！}
+#{665}{}{Shit, am I hearing things?!}
+{665}{}{妈的，我听到什么了吗？！}
+#{666}{}{Err... Was it just my imagination acting up?}
+{666}{}{呃。。。只是我的想象力出了问题吗？}
+#{667}{}{To hell with it, I'ma take a nap}
+{667}{}{去他妈的，我要小睡一会儿}
+#{670}{}{WHAT? WHAT HAPPENED?!}
+{670}{}{什么？怎么了？！}
+#{671}{}{Yeah! Someone's having their ass kicked!!}
+{671}{}{是 啊！有人被踢屁股了！！}
+#{672}{}{Finally a rumble!!}
+{672}{}{终于听到隆隆声了！！}
+#{673}{}{A brawl? I should go have a look!}
+{673}{}{吵架？我应该去看看！}
+#{674}{}{Dammit, what was that?}
+{674}{}{该死，那是什么？}
+#{700}{}{Moo!}
+{700}{}{哞！}
+#{701}{}{Moo-o!}
+{701}{}{呜呜！}
+#{702}{}{Mooo!}
+{702}{}{呜呜！}
+#{703}{}{Moo?}
+{703}{}{哞？}
+#{704}{}{Moo-moo?}
+{704}{}{哞哞？}

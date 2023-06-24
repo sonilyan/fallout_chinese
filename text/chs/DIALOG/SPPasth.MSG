@@ -1,0 +1,64 @@
+#{100}{}{You see Flayer.}
+{100}{}{你看弗莱耶。}
+#{101}{}{You see a hick looking after his herd. His appearance resembles that of an executioner with his filthy apron and massive bare arms.}
+{101}{}{你看到一个乡巴佬在照顾他的牛群。他的外表像一个刽子手，围着肮脏的围裙，赤裸的胳膊。}
+#{102}{}{Hey, that shepherd is running away from you!}
+{102}{}{嘿，那个牧羊人要从你身边跑了！}
+#{110}{}{So, ya got me huh. I ain't done nothin' wrong, just tendin' mah brahmins, is all!}
+{110}{}{所以，你抓住我了。我没做错什么，只是照顾婆罗门，就这样！}
+#{111}{}{Then why the hell were you running away?}
+{111}{}{那你为什么要逃跑？}
+#{112}{}{Oh, so yer not one of them Salt Lake fools? Well then ya better not be pokin' about here.}
+{112}{}{哦，你不是盐湖城的傻瓜吗？那你最好别在这里闲逛。}
+#{113}{}{Why not?}
+{113}{}{为什么不呢？}
+#{114}{}{Cause town folks don't much appreciate these parts, and yer better off not knowin' why.}
+{114}{}{因为镇上的人不太欣赏这些地方，你最好不知道为什么。}
+#{115}{}{Whatever.}
+{115}{}{无论什么。}
+#{116}{}{All righty then. I'll get back to mah herd.}
+{116}{}{那好吧。我会回到马赫德。}
+#{117}{}{Wait a sec. Who lives in that grand hotel? The doors are locked, but it's clearly inhabited.}
+{117}{}{等一下。谁住在那家大饭店？门是锁着的，但显然有人住。}
+#{118}{}{[Leave]}
+{118}{}{[离开]}
+#{119}{}{Listen, ya really don't want to know, buddy. Ya better mind yer own beeswax, if you want my advice.}
+{119}{}{听着，你真的不想知道，伙计。如果你需要我的建议，你最好小心你自己的蜂蜡。}
+#{120}{}{Leave me alone!}
+{120}{}{别管我！}
+#{121}{}{}
+{121}{}{}
+#{122}{}{}
+{122}{}{}
+#{123}{}{Oh yeah? Then I am the Salt Lake's future sheriff... Leave me alone!}
+{123}{}{哦，是吗？那我就是盐湖城未来的治安官。。。别管我！}
+#{124}{}{Ugh... All right, but don't come a-whinin' I ain't warned ya. Come to the gate and ring the bell this way: one short, one long and one short. The Boss is in the back, go straight to him.}
+{124}{}{呃。。。好吧，但别过来-我没警告过你。到大门口按门铃：一短一长一短。老板在后面，直接去找他。}
+#{125}{}{Now that's better.}
+{125}{}{现在好多了。}
+#{126}{}{All right, I'll tell ya! But that's gonna be your problem then! Salt Lake outcasts live there. They are a desperate bunch and trust no one. If you really need to get in, come to the gate and ring the bell this way: one short, one long and one short. The Boss is in the back, go straight to him, don't talk to nobody else. Now leave me alone!}
+{126}{}{好吧，我告诉你！但那就是你的问题了！盐湖城的弃儿住在那里。他们是一群绝望的人，不信任任何人。如果你真的需要进去的话，就到门口按这样的门铃：一短一长一短。老板在后面，直接去找他，别跟别人说话。现在别管我！}
+#{127}{}{Yer here again? Boy, am I not glad to see ya.}
+{127}{}{你又来了？孩子，我不高兴见到你。}
+#{128}{}{Got any meat jerky?}
+{128}{}{有肉干吗？}
+#{129}{}{Yeah, bye.}
+{129}{}{好的，再见。}
+#{130}{}{That's it. Now leave me alone!}
+{130}{}{就这样。现在别管我！}
+#{131}{}{With pleasure!}
+{131}{}{很高兴见到你！}
+#{132}{}{Tell me right now, you son of a bitch, otherwise you won't be able to speak after I'm done with your jaw!}
+{132}{}{马上告诉我，你这个狗娘养的，否则我把你的下巴弄好后你就不能说话了！}
+#{133}{}{I will give you 100 bucks for a chance of a contact.}
+{133}{}{我给你100块钱让你联系。}
+#{134}{}{Why not tell me willingly? Come on, it will stay between you and me.}
+{134}{}{为什么不心甘情愿地告诉我？来吧，这件事就在你我之间。}
+#{135}{}{I'm didn't here to play hide and seek. I have to speak to a man in charge.}
+{135}{}{我不是来捉迷藏的。我得和一个负责人谈谈。}
+#{136}{}{Maybe we can come with an agreement. I know how to do this.}
+{136}{}{也许我们可以达成协议。我知道怎么做。}
+#{1110}{}{So, ya got me huh. I ain't done nothin' wrong, just tendin' mah brahmins, is all!}
+{1110}{}{所以，你抓住我了。我没做错什么，只是照顾婆罗门，就这样！}
+#{1119}{}{Listen, ya really don't want to know, sugar. Ya better mind your own beeswax, if you want my advice.}
+{1119}{}{听着，你真的不想知道，甜心。如果你需要我的建议，你最好管好你自己的蜂蜡。}

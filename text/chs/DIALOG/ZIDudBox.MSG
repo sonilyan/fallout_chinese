@@ -1,0 +1,84 @@
+#{100}{}{You see a safe.}
+{100}{}{你看到一个保险箱。}
+#{101}{}{This is your personal safe with a code lock.}
+{101}{}{这是带密码锁的个人保险箱。}
+#{102}{}{You see a reinforced safe which can be used to store items.}
+{102}{}{你看到一个加固的保险箱，可以用来存放物品。}
+#{103}{}{You see your personal safe.}
+{103}{}{你看到你的个人保险箱了。}
+#{104}{}{The safe has a mechanical code lock. It's locked, and you won't be able to open it while you can't hear anything.}
+{104}{}{保险箱有机械密码锁。锁上了，你什么都听不到就不能打开。}
+#{105}{}{Not in combat!}
+{105}{}{不是在战斗中！}
+#{106}{}{You didn't even leave a scratch.}
+{106}{}{你连一点划痕都没留下。}
+#{107}{}{The safe has a mechanical lock consisting of 5 tumblers, each opened with its own number. You can try and guess the code, but that will take some time.}
+{107}{}{保险箱有一个机械锁，由5个制栓组成，每个制栓都有自己的编号。你可以试着猜代码，但那需要一些时间。}
+#{108}{}{[Crack the code.]}
+{108}{}{[破解密码]}
+#{109}{}{[Not now.]}
+{109}{}{[现在不行。]}
+#{110}{}{[Pick the first digit of the code.]}
+{110}{}{[选择代码的第一位。]}
+#{111}{}{[Pick the second digit of the code.]}
+{111}{}{[选择代码的第二位。]}
+#{112}{}{[Pick the third digit of the code.]}
+{112}{}{[选择代码的第三位数字。]}
+#{113}{}{[Pick the fourth digit of the code.]}
+{113}{}{[选择代码的第四位数字。]}
+#{114}{}{[Pick the last, fifth, digit of the code.]}
+{114}{}{[选择代码的最后第五位数字。]}
+#{115}{}{0}
+{115}{}{0}
+#{116}{}{1}
+{116}{}{1}
+#{117}{}{2}
+{117}{}{2}
+#{118}{}{3}
+{118}{}{三}
+#{119}{}{4}
+{119}{}{4}
+#{120}{}{5}
+{120}{}{5}
+#{121}{}{[Leave the lock alone.]}
+{121}{}{[别碰锁。]}
+#{122}{}{As you set the digit, you hear a quiet click.}
+{122}{}{当你设置数字时，你会听到一个安静的咔嗒声。}
+#{123}{}{As you set the digit, you hear an ordinary click.}
+{123}{}{当你设置数字时，你会听到一声普通的咔嗒声。}
+#{124}{}{As you set the digit, you hear a clear click.}
+{124}{}{当你设置数字时，你会听到清晰的咔嗒声。}
+#{125}{}{[Move on to the next number.]}
+{125}{}{[转到下一个号码。]}
+#{126}{}{[Try to open the safe.]}
+{126}{}{[试着打开保险箱。]}
+#{127}{}{[Give up.]}
+{127}{}{[放弃]}
+#{128}{}{You've cracked the code! You turn the handle and the door swings open.}
+{128}{}{你破解了密码！你转动把手，门就打开了。}
+#{129}{}{For cracking the safe combination, you receive 500 experience and a personal safe to store your gear.}
+{129}{}{破解保险箱组合，你将获得500经验和个人保险箱存储你的装备。}
+#{130}{}{Done.}
+{130}{}{完成。}
+#{131}{}{You turn the handle and }
+{131}{}{你转动手柄}
+#{132}{}{ tumblers turn before locking back in place. The safe is still locked. It looks like you got }
+{132}{}{制栓在锁定到位前转动。保险箱还锁着。看起来你有}
+#{133}{}{ digits out of five right.}
+{133}{}{右边五位数。}
+#{134}{}{[Try again.]}
+{134}{}{[再试一次。]}
+#{135}{}{Not even close. None of your digits were correct.}
+{135}{}{一点也不接近。你的数字都不对。}
+#{136}{}{You turn the handle and hear one tumbler move before locking back in place. The safe is still locked. It looks like you got 1 digit out of five right.}
+{136}{}{你转动手柄，听到一个不倒翁移动，然后锁回原位。保险箱还锁着。你好像五个数字中有一个是对的。}
+#{137}{}{For cracking the safe combination so quickly, you receive 700 experience as well as a personal safe to store your gear.}
+{137}{}{快速破解保险箱组合，您将获得700经验以及个人保险箱来存放您的装备。}
+#{138}{}{[Carefully examine the numbers for signs of wear.]}
+{138}{}{[仔细检查数字是否有磨损迹象。]}
+#{139}{}{Inspecting the safe lock, you see that the digits }
+{139}{}{检查保险柜，你会发现}
+#{140}{}{ and }
+{140}{}{和}
+#{141}{}{ show signs of repeated wear. They probably appear in the safe's combination.}
+{141}{}{有反复磨损的迹象。它们可能出现在保险箱的组合中。}

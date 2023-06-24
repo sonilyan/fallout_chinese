@@ -1,0 +1,2 @@
+#{100}{}{This settlement has been abandoned for a long time.}
+{100}{}{这个定居点被遗弃了很长时间。 -- This settlement has been abandoned for a long time.}

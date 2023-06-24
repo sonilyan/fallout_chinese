@@ -1,0 +1,120 @@
+#{100}{}{You see a caravan master.}
+{100}{}{你看到一个大篷车的主人。}
+#{101}{}{Thank the Maker you made it here here. It seems it's getting tougher and tougher to get from one place to another, without getting attacked by someone or something.}
+{101}{}{感谢造物主你来到这里。似乎从一个地方到另一个地方越来越难，不被人或物攻击。}
+#{102}{}{What can I do for you now?}
+{102}{}{我现在能为你做什么？}
+#{103}{}{Where are you headed?}
+{103}{}{你要去哪里？}
+#{104}{}{What's your cargo?}
+{104}{}{你的货物是什么？}
+#{105}{}{Bye.}
+{105}{}{再见。}
+#{106}{}{Ugh.}
+{106}{}{啊。}
+#{107}{}{I just picked up a shipment from }
+{107}{}{我刚收到一批货}
+#{108}{}{ and now I'm headed for }
+{108}{}{现在我要去}
+#{109}{}{.}
+{109}{}{.}
+#{198}{}{New Reno}
+{198}{}{新里诺}
+#{199}{}{Wind of War}
+{199}{}{战争之风}
+#{200}{}{Vault City}
+{200}{}{地下掩体市}
+#{201}{}{Wendover}
+{201}{}{温多弗}
+#{202}{}{ }
+{202}{}{ }
+#{203}{}{Vegas}
+{203}{}{维加斯}
+#{204}{}{Ailie}
+{204}{}{艾莉}
+#{205}{}{NPP}
+{205}{}{核电站}
+#{206}{}{Salt Lake City}
+{206}{}{盐湖城}
+#{207}{}{Lovelock}
+{207}{}{洛夫洛克}
+#{208}{}{Wendover}
+{208}{}{温多弗}
+#{209}{}{ }
+{209}{}{ }
+#{110}{}{What's your cargo?}
+{110}{}{你的货物是什么？}
+#{111}{}{Bye.}
+{111}{}{再见。}
+#{112}{}{We're carrying }
+{112}{}{我们带着}
+#{150}{}{medicine.}
+{150}{}{医学。}
+#{151}{}{gold ore.}
+{151}{}{金矿石。}
+#{152}{}{uranium ore.}
+{152}{}{铀矿石。}
+#{153}{}{farm goods.}
+{153}{}{农产品。}
+#{154}{}{drugs.}
+{154}{}{药物。}
+#{155}{}{slaves.}
+{155}{}{奴隶。}
+#{156}{}{stuff.}
+{156}{}{什么东西。}
+#{113}{}{Do you think I might be able to trade with you?}
+{113}{}{你觉得我能和你交易吗？}
+#{114}{}{Where are you headed?}
+{114}{}{你要去哪里？}
+#{115}{}{Bye.}
+{115}{}{再见。}
+#{116}{}{Well, I don't see why not, considering you helped us out in a pinch and all. Here's what I got.}
+{116}{}{好吧，我不明白为什么不，考虑到你在紧要关头帮助了我们。这是我得到的。}
+#{117}{}{[Barter]}
+{117}{}{[易货]}
+#{118}{}{I changed my mind.}
+{118}{}{我改变主意了。}
+#{119}{}{I know I've seen you somewhere. Holy shit! You're the one on all those wanted posters! Look, we don't want no trouble. You go your way and we'll go our way. I won't even tell anyone we've seen you. Now go!}
+{119}{}{我知道我在什么地方见过你。天啊！所有通缉令上都是你！听着，我们不想惹麻烦。你走你的路，我们也会走我们的路。我甚至不会告诉任何人我们见过你。快走！}
+#{120}{}{Hey! You're the one on all those wanted posters. Don't worry, I won't turn you in; as I recall, I'm wanted in couple places myself. Now, you want to trade, or not?..}
+{120}{}{嘿！所有通缉令上都是你。别担心，我不会告发你的；我记得，我自己也有几个地方要找我。现在，你想不想交易？。。}
+#{121}{}{[Barter]}
+{121}{}{[易货]}
+#{122}{}{Good enough, then. We got to get going. Don't worry, I won't tell the law I saw you.}
+{122}{}{那就够了。我们得走了。别担心，我不会告诉法律我看见你了。}
+#{123}{}{Wait a minute! I've heard of you. You're that abomination which harassing all caravaneers in Nevada? We don't like your kind, so buzz off!}
+{123}{}{等一下！我听说过你。你就是那个骚扰内华达所有商队的讨厌的家伙？我们不喜欢你这种人，所以滚开！}
+#{124}{}{I've heard good things about a person fitting your description. I guess it would be all right to trade some of our cargo to you. Here's what I got.}
+{124}{}{我听说过一个符合你描述的人的优点。我想可以把我们的一些货物卖给你。这是我得到的。}
+#{125}{}{[Barter]}
+{125}{}{[易货]}
+#{126}{}{Bye.}
+{126}{}{再见。}
+#{127}{}{I've heard of you. You're that bad-ass going around raising a ruckus all over the place. I've been looking forward to meet you so I can shake your hand. Thinking of all the rude and crude rumors about you just brings a tear to my eye. It would be my honor to trade with you.}
+{127}{}{我听说过你。你就是那个到处吵闹的坏蛋。我一直盼望着见到你，这样我就可以和你握手了。想到那些关于你的粗俗的谣言，我不禁泪流满面。我很荣幸能和你交易。}
+#{128}{}{[Barter]}
+{128}{}{[易货]}
+#{129}{}{Bye}
+{129}{}{拜伊}
+#{130}{}{Word is you or someone who looks like you has been causing trouble lately. I don't do business with your kind. Sorry.}
+{130}{}{有消息说你或者某个看起来像你的人最近在制造麻烦。我不和你们做生意。对不起的。}
+#{131}{}{I don't know what you're wanted for and I don't rightly care. We don't do business with your type.}
+{131}{}{我不知道你想要什么，我也不在乎。我们不和你这种人做生意。}
+#{132}{}{Why don't you... 'do good' somewhere else. }
+{132}{}{你为什么不…'在别的地方行善。}
+#{133}{}{I'm sure a person of your reputation can find supplies elsewhere.}
+{133}{}{我相信像你这样的人能在别处找到补给。}
+#{134}{}{State your business.}
+{134}{}{陈述你的生意。}
+#{135}{}{Where are you headed?}
+{135}{}{你要去哪里？}
+#{136}{}{What's your cargo?}
+{136}{}{你的货物是什么？}
+#{137}{}{Bye.}
+{137}{}{再见。}
+#{138}{}{Ugh.}
+{138}{}{啊。}
+#{139}{}{That's... Nice. You have a nice day now. }
+{139}{}{那是。。。不错。祝你今天愉快。}
+#{300}{}{Thanks for your business.}
+{300}{}{谢谢你的生意。}

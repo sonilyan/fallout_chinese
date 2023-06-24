@@ -1,0 +1,26 @@
+#{100}{}{Code door.}
+{100}{}{密码门。}
+#{101}{}{You see a reinforced code door leading to the power plant. Predictably enough, it's locked.}
+{101}{}{你看到一扇通往发电厂的强化密码门。可以预见的是，它是锁着的。}
+#{102}{}{The door is locked.}
+{102}{}{门是锁着的。}
+#{105}{}{The blast blows the door off the hinges, sending its debris into the air.}
+{105}{}{爆炸把门从铰链上炸开，把碎片抛向空中。}
+#{106}{}{You'll need something powerful.}
+{106}{}{你需要一些强有力的东西。}
+#{110}{}{Might makes right! The lock falls off.}
+{110}{}{强权是正确的！锁掉了。}
+#{111}{}{You've dismantled the lock and opened the door.}
+{111}{}{你拆了锁，打开了门。}
+#{112}{}{You've forced the lock.}
+{112}{}{你把门锁上了。}
+#{113}{}{You've tricked the code lock with a security exploit.}
+{113}{}{你用安全漏洞欺骗了密码锁。}
+#{114}{}{This does nothing.}
+{114}{}{这没用。}
+#{115}{}{What did you expect? This case is way more serious!}
+{115}{}{你期望什么？这个案子更严重！}
+#{116}{}{Good thinking, but your skills leave much to be desired.}
+{116}{}{想法不错，但你的技能还有很多需要改进的地方。}
+#{117}{}{This door is too strong for you.}
+{117}{}{这扇门对你来说太坚固了。}

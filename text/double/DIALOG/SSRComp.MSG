@@ -1,0 +1,112 @@
+#{100}{}{You see a working terminal.}
+{100}{}{你看到一个工作终端。 -- You see a working terminal.}
+#{101}{}{You see a functional computer terminal.}
+{101}{}{你看到一个功能正常的计算机终端。 -- You see a functional computer terminal.}
+#{110}{}{You cannot use this terminal until you restore power.}
+{110}{}{在恢复电源之前，您不能使用此终端。 -- You cannot use this terminal until you restore power.}
+#{111}{}{No power}
+{111}{}{没有电源 -- No power}
+#{112}{}{This terminal is working, but cannot connect to the station's server, which is located in a different part of the bunker.}
+{112}{}{此终端正在工作，但无法连接到位于掩体另一部分的工作站服务器。 -- This terminal is working, but cannot connect to the station's server, which is located in a different part of the bunker.}
+#{113}{}{[Exit.]}
+{113}{}{[退出。] -- [Exit.]}
+#{114}{}{You lack the scientific knowledge to effectively use this kind of software.}
+{114}{}{你缺乏有效使用这种软件的科学知识。 -- You lack the scientific knowledge to effectively use this kind of software.}
+#{115}{}{Welcome to the Lovelock information channel broadcasting network.}
+{115}{}{欢迎来到洛夫洛克信息频道广播网。 -- Welcome to the Lovelock information channel broadcasting network.}
+#{116}{}{[Look for any record of past broadcasts.]}
+{116}{}{[查找过去广播的任何记录。] -- [Look for any record of past broadcasts.]}
+#{117}{}{[Scan every frequency for a signal.]}
+{117}{}{[扫描每个频率的信号。] -- [Scan every frequency for a signal.]}
+#{118}{}{}
+{118}{}{ -- }
+#{119}{}{}
+{119}{}{ -- }
+#{120}{}{}
+{120}{}{ -- }
+#{121}{}{[Read the mission statement for this station.]}
+{121}{}{[阅读本站的任务声明。] -- [Read the mission statement for this station.]}
+#{122}{}{[End.]}
+{122}{}{[结束] -- [End.]}
+#{123}{}{[Return to main menu.]}
+{123}{}{[返回主菜单。] -- [Return to main menu.]}
+#{124}{}{[End.]}
+{124}{}{[结束] -- [End.]}
+#{150}{}{Access granted. Searching... Search complete. The Lovelock radio station is designated for top-secret government and military broadcasting. All workers must sign a non-disclosure agreement related to any information obtained during the course of receiving, processing, and transmitting messages via the Lovelock radio station. Current primary functions include: Production, processing and transmission of radio signals between military installations, top-secret laboratories, the Vault network and government staff within the state of Nevada.}
+{150}{}{已授予访问权限。搜索。。。搜索完成。洛夫洛克广播电台被指定为最高机密的政府和军事广播电台。所有工人必须签署一份保密协议，该协议涉及在通过Lovelock无线电台接收、处理和发送信息的过程中获得的任何信息。目前的主要职能包括：在内华达州的军事设施、绝密实验室、保险库网络和政府工作人员之间生产、处理和传输无线电信号。 -- Access granted. Searching... Search complete. The Lovelock radio station is designated for top-secret government and military broadcasting. All workers must sign a non-disclosure agreement related to any information obtained during the course of receiving, processing, and transmitting messages via the Lovelock radio station. Current primary functions include: Production, processing and transmission of radio signals between military installations, top-secret laboratories, the Vault network and government staff within the state of Nevada.}
+#{151}{}{Access granted. Searching... Search complete.}
+{151}{}{已授予访问权限。搜索。。。搜索完成。 -- Access granted. Searching... Search complete.}
+#{152}{}{[Determine the the station's signal coverage.]}
+{152}{}{[确定电台的信号覆盖范围。] -- [Determine the the station's signal coverage.]}
+#{153}{}{[Scan every frequency for a signal.]}
+{153}{}{[扫描每个频率的信号。] -- [Scan every frequency for a signal.]}
+#{154}{}{}
+{154}{}{ -- }
+#{155}{}{Access granted. Initializing program... [you hear nothing but white noise on all channels]}
+{155}{}{已授予访问权限。正在初始化程序。。。[所有频道都只听到白噪音] -- Access granted. Initializing program... [you hear nothing but white noise on all channels]}
+#{156}{}{[Examine the archive of previous communication contacts.]}
+{156}{}{[检查以前通信联系人的档案。] -- [Examine the archive of previous communication contacts.]}
+#{157}{}{}
+{157}{}{ -- }
+#{158}{}{[Under normal conditions, the station's range would include the entire state of Nevada. When running on emergency power, however, the station's signal barely reaches Vault City.]}
+{158}{}{[在正常情况下，空间站的范围将包括整个内华达州。然而，当使用应急电源运行时，车站的信号几乎无法到达保险库所在的城市。] -- [Under normal conditions, the station's range would include the entire state of Nevada. When running on emergency power, however, the station's signal barely reaches Vault City.]}
+#{159}{}{[Scan every frequency for a signal.]}
+{159}{}{[扫描每个频率的信号。] -- [Scan every frequency for a signal.]}
+#{160}{}{[Broadcast a message.]}
+{160}{}{[广播信息。] -- [Broadcast a message.]}
+#{161}{}{[No one responds.]}
+{161}{}{[没有人回应。] -- [No one responds.]}
+#{162}{}{[You hear nothing but static.]}
+{162}{}{[你只听到静电声] -- [You hear nothing but static.]}
+#{163}{}{[Scan every frequency again.]}
+{163}{}{[再次扫描每个频率。] -- [Scan every frequency again.]}
+#{164}{}{}
+{164}{}{ -- }
+#{165}{}{}
+{165}{}{ -- }
+#{166}{}{}
+{166}{}{ -- }
+#{167}{}{}
+{167}{}{ -- }
+#{168}{}{Searching... Search complete. [The list is mostly made up of various settlements where wiretapping was conducted before the war. Additional contacts include three military bases (Sierra, Hawthorne, and Area 51), several vaults (8, 13, and 15), and private laboratories. All of these contacts are located within or close to Nevada borders, but their exact locations are not listed. Radio operators don't need a contact's exact location - they just work within their channels.]}
+{168}{}{搜索。。。搜索完成。[名单主要由战前进行窃听的各种定居点组成。其他联系人包括三个军事基地（塞拉利昂、霍桑和51区）、几个金库（8、13和15）和私人实验室。所有这些联系人都位于内华达州边界之内或附近，但他们的确切位置没有列出。无线电接线员不需要联系人的确切位置，他们只是在自己的频道内工作。] -- Searching... Search complete. [The list is mostly made up of various settlements where wiretapping was conducted before the war. Additional contacts include three military bases (Sierra, Hawthorne, and Area 51), several vaults (8, 13, and 15), and private laboratories. All of these contacts are located within or close to Nevada borders, but their exact locations are not listed. Radio operators don't need a contact's exact location - they just work within their channels.]}
+#{169}{}{The Lovelock radio station receives and transmits signals on a predetermined range of communication channels designated within Project }
+{169}{}{洛夫洛克无线电台在项目指定的预定通信信道范围内接收和发送信号 -- The Lovelock radio station receives and transmits signals on a predetermined range of communication channels designated within Project }
+#{170}{}{. Wiretapping programs are not currently in effect.}
+{170}{}{. 窃听程序目前尚未生效。 -- . Wiretapping programs are not currently in effect.}
+#{171}{}{[Find information on this project.]}
+{171}{}{[查找有关此项目的信息。] -- [Find information on this project.]}
+#{172}{}{Project }
+{172}{}{项目 -- Project }
+#{173}{}{ is a communication system used for encrypted communication between top-level military and government personnel. It incorporates signal encoding, fixed communication channels not available for civilian use, and a nation-wide network of relay stations capable of operating autonomously for 100 years. This system will guarantee that top-priority communication between departments is uninterrupted even in emergency conditions.}
+{173}{}{是一种通信系统，用于军队和政府高层人员之间的加密通信。它包含了信号编码、民用不可用的固定通信信道，以及能够自主运行100年的全国性中继站网络。该系统将确保各部门之间的最高优先级通信即使在紧急情况下也不会中断。 --  is a communication system used for encrypted communication between top-level military and government personnel. It incorporates signal encoding, fixed communication channels not available for civilian use, and a nation-wide network of relay stations capable of operating autonomously for 100 years. This system will guarantee that top-priority communication between departments is uninterrupted even in emergency conditions.}
+#{174}{}{Hmm, this name is... Familiar?}
+{174}{}{嗯，这个名字是。。。熟悉吗？ -- Hmm, this name is... Familiar?}
+#{175}{}{Project }
+{175}{}{项目 -- Project }
+#{176}{}{ is named in honor of one of the most powerful nuclear tests in American history.}
+{176}{}{是为了纪念美国历史上最强大的核试验之一而命名的。 --  is named in honor of one of the most powerful nuclear tests in American history.}
+#{177}{}{That's all the information I need.}
+{177}{}{这就是我需要的全部信息。 -- That's all the information I need.}
+#{301}{}{HIROSHIMA}
+{301}{}{广岛 -- HIROSHIMA}
+#{302}{}{NAGASAKI}
+{302}{}{长崎 -- NAGASAKI}
+#{303}{}{TRINITY}
+{303}{}{三位一体 -- TRINITY}
+#{304}{}{CASTLE}
+{304}{}{城堡 -- CASTLE}
+#{305}{}{BRAVO}
+{305}{}{好极了 -- BRAVO}
+#{306}{}{EASY}
+{306}{}{容易的 -- EASY}
+#{307}{}{RANGER}
+{307}{}{护林员 -- RANGER}
+#{308}{}{YOKE}
+{308}{}{轭 -- YOKE}
+#{309}{}{BAKER}
+{309}{}{面包师 -- BAKER}
+#{310}{}{FATMAN}
+{310}{}{胖子 -- FATMAN}
+#{311}{}{LITTLEBOY}
+{311}{}{小男孩 -- LITTLEBOY}

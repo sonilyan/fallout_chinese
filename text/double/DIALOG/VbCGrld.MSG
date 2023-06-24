@@ -1,0 +1,194 @@
+#{100}{}{Oh, my God! A living corpse!}
+{100}{}{哦，天哪！活生生的尸体！ -- Oh, my God! A living corpse!}
+#{101}{}{You see: a ghoul named Harold.}
+{101}{}{你看：一个叫哈罗德的食尸鬼。 -- You see: a ghoul named Harold.}
+#{102}{}{You see Harold.}
+{102}{}{你看到哈罗德了。 -- You see Harold.}
+#{106}{}{I'll talk to him. See you.}
+{106}{}{我会和他谈谈。再见。 -- I'll talk to him. See you.}
+#{107}{}{Hmm. Sergeant Graves says that you're the victim of some special virus.}
+{107}{}{嗯。格雷夫斯警官说你是某种特殊病毒的受害者。 -- Hmm. Sergeant Graves says that you're the victim of some special virus.}
+#{108}{}{Did he figure that out on his own? He's a clever one! [laughs, then coughs] Or maybe he talked that doctor in your vault. You should do that too. He's smart... Smart and cunning.}
+{108}{}{他自己想出来的吗？他是个聪明人！[笑，然后咳嗽]也许他和你保险库里的那个医生谈过。你也应该这么做。他很聪明。。。聪明狡猾。 -- Did he figure that out on his own? He's a clever one! [laughs, then coughs] Or maybe he talked that doctor in your vault. You should do that too. He's smart... Smart and cunning.}
+#{109}{}{That's it, I've seen enough. I'm out of here.}
+{109}{}{就这样，我看够了。我要走了。 -- That's it, I've seen enough. I'm out of here.}
+#{110}{}{Hey, smoothskin! You ever seen the walking dead before? BOO! Ha-ha-ha! [laughing turns to coughing] Scary, huh? Maybe I should take a couple of bucks for the show.}
+{110}{}{嘿，光滑的皮肤！你以前见过行尸走肉吗？喝倒采！哈哈哈！[笑转咳嗽]吓人吧？也许我该拿几块钱去看演出。 -- Hey, smoothskin! You ever seen the walking dead before? BOO! Ha-ha-ha! [laughing turns to coughing] Scary, huh? Maybe I should take a couple of bucks for the show.}
+#{111}{}{No. I'm not scared.}
+{111}{}{不，我不害怕。 -- No. I'm not scared.}
+#{112}{}{Is that what passes for a show out in the wastes?}
+{112}{}{这就是在荒野中的表演吗？ -- Is that what passes for a show out in the wastes?}
+#{113}{}{Eww! I think I'm going to be sick!}
+{113}{}{哎哟！我想我要生病了！ -- Eww! I think I'm going to be sick!}
+#{114}{}{Heh! Tough guy, huh? Sergeant Friendly out front wasn't scared of me either... Until I told him what's happening out in the wastes, that is.}
+{114}{}{嘿！硬汉，哈？前线的友好中士也不怕我。。。直到我告诉他荒野里发生了什么。 -- Heh! Tough guy, huh? Sergeant Friendly out front wasn't scared of me either... Until I told him what's happening out in the wastes, that is.}
+#{115}{}{You look like you've been around. Who are you?}
+{115}{}{你看起来好像在附近。你是谁？ -- You look like you've been around. Who are you?}
+#{116}{}{Name's Harold, friend. I was a trader once, used to run a caravan to the south. Retired now, though.}
+{116}{}{我叫哈罗德，朋友。我曾经是个商人，曾经开着一辆大篷车去南方。不过，现在退休了。 -- Name's Harold, friend. I was a trader once, used to run a caravan to the south. Retired now, though.}
+#{117}{}{How did you end up here?}
+{117}{}{你怎么到这里来的？ -- How did you end up here?}
+#{118}{}{Looking for someplace me and other ghouls could live. We went to Las Vegas, but the locals weren't happy to see us. Then we tried New Reno, but they didn't like us either. A fellow caravaneer told me about a nuclear plant up around here, but I found one of your friendly patrols instead [coughs]. If I hadn't played dead - deader than I already look, I mean, heh-heh - I don't know what they'd have done. Ask your commander. He's the one that put me up in this classy apartment.}
+{118}{}{在找我和其他食尸鬼能住的地方。我们去了拉斯维加斯，但是当地人不高兴见到我们。然后我们尝试了新雷诺，但他们也不喜欢我们。一个商队的同伴告诉我这里附近有一座核电站，但我发现你们的一个友好巡逻队（咳嗽）。如果我没有装死，我的意思是，嘿嘿，我不知道他们会怎么做。问问你的指挥官。是他把我安置在这间豪华公寓的。 -- Looking for someplace me and other ghouls could live. We went to Las Vegas, but the locals weren't happy to see us. Then we tried New Reno, but they didn't like us either. A fellow caravaneer told me about a nuclear plant up around here, but I found one of your friendly patrols instead [coughs]. If I hadn't played dead - deader than I already look, I mean, heh-heh - I don't know what they'd have done. Ask your commander. He's the one that put me up in this classy apartment.}
+#{119}{}{I see. See you later then.}
+{119}{}{我懂了。待会儿见。 -- I see. See you later then.}
+#{120}{}{See you, friend. I'll just be here, mutating... }
+{120}{}{再见，朋友。我就在这里，变异。。。 -- See you, friend. I'll just be here, mutating... }
+#{121}{}{Uh... Sure.}
+{121}{}{休斯敦大学。。。当然。 -- Uh... Sure.}
+#{122}{}{But still - where did you get infected?}
+{122}{}{但是-你在哪里感染的？ -- But still - where did you get infected?}
+#{123}{}{The same place Richard Grey did. He was a doctor in the Hub, when I was still... Smooth, like infant's butt cheeks. I'd known him for, oh... About ten years then. We put together an expedition to find where source was.}
+{123}{}{和理查德·格雷一样。他是中心的医生，那时我还在。。。光滑的，像婴儿的屁股脸颊。我认识他是因为，哦。。。大约十年了。我们组织了一支探险队去寻找源头。 -- The same place Richard Grey did. He was a doctor in the Hub, when I was still... Smooth, like infant's butt cheeks. I'd known him for, oh... About ten years then. We put together an expedition to find where source was.}
+#{124}{}{The source? You mean, the source of all the mutated animals? You found it?}
+{124}{}{源头？你是说，所有变异动物的源头？你找到了？ -- The source? You mean, the source of all the mutated animals? You found it?}
+#{125}{}{We found something, all right. Wasn't a lot left of us by the time we got inside. [cough] It was just Grey and me, who made it to the core - and then a couple of robotic cranes got the drop on us. Last I saw of Grey, he was falling into some sort of giant acid tank. Me, I passed out... I don't know what happened next. Woke up in the wasteland, and then lookie that - it's not me anymore, but some corpse, ha-ha-ha!}
+{125}{}{我们找到了一些东西，好吧。我们进去的时候已经所剩无几了。[咳嗽]只有格雷和我，他们到达了地核-然后几个机器人起重机把水投到了我们身上。我最后一次看到格雷，他掉进了某种巨大的酸槽里。我，我昏过去了。。。我不知道接下来发生了什么。在荒地里醒来，然后看-这不是我，而是一些尸体，哈哈哈！ -- We found something, all right. Wasn't a lot left of us by the time we got inside. [cough] It was just Grey and me, who made it to the core - and then a couple of robotic cranes got the drop on us. Last I saw of Grey, he was falling into some sort of giant acid tank. Me, I passed out... I don't know what happened next. Woke up in the wasteland, and then lookie that - it's not me anymore, but some corpse, ha-ha-ha!}
+#{126}{}{Robot cranes? Acid tanks? Bullshit, I don't buy it!}
+{126}{}{机器人起重机？酸槽？胡说，我不信！ -- Robot cranes? Acid tanks? Bullshit, I don't buy it!}
+#{127}{}{Uh, hold on. When did this happen?}
+{127}{}{呃，等等。什么时候发生的？ -- Uh, hold on. When did this happen?}
+#{128}{}{Oh, this was long ago, friend. I don't even remember where the place was. All I can remember is that it is somewhere in the desert.}
+{128}{}{哦，这是很久以前的事了，朋友。我都不记得那地方在哪里了。我只记得它在沙漠的某个地方。 -- Oh, this was long ago, friend. I don't even remember where the place was. All I can remember is that it is somewhere in the desert.}
+#{129}{}{The desert? That narrows it down to a pretty much the whole continent... }
+{129}{}{沙漠？它缩小到几乎整个大陆的范围。。。 -- The desert? That narrows it down to a pretty much the whole continent... }
+#{130}{}{[Laughs] You know, you're not that bad, for a smoothskin.}
+{130}{}{[笑]你知道，你没那么坏，为了光滑的皮肤。 -- [Laughs] You know, you're not that bad, for a smoothskin.}
+#{131}{}{Hmm... Still, when did this happen?}
+{131}{}{隐马尔可夫模型。。。不过，这是什么时候发生的？ -- Hmm... Still, when did this happen?}
+#{132}{}{I'd say about fifty years ago. I know, I look too young and handsome for that, right? [laughs, then coughs] I'm not as pretty as I used to be, but I'm pretty well preserved. Tends to spook people, though. That's why I left the Hub - figured I'd rather walk out than get thrown out.}
+{132}{}{我想大概五十年前吧。我知道，我看起来太年轻帅气了，不是吗？[笑，然后咳嗽]我不像以前那么漂亮了，但我保存得很好。不过，这会吓唬人。这就是我离开中心的原因-我想我宁愿走出去也不愿被扔出去。 -- I'd say about fifty years ago. I know, I look too young and handsome for that, right? [laughs, then coughs] I'm not as pretty as I used to be, but I'm pretty well preserved. Tends to spook people, though. That's why I left the Hub - figured I'd rather walk out than get thrown out.}
+#{133}{}{How far away is this Hub?}
+{133}{}{这个枢纽有多远？ -- How far away is this Hub?}
+#{134}{}{Far. Don't even think about going there.}
+{134}{}{远。别想去那儿。 -- Far. Don't even think about going there.}
+#{135}{}{Let's talk about your friend... Richard Grey, right?}
+{135}{}{让我们谈谈你的朋友。。。理查德·格雷，对吧？ -- Let's talk about your friend... Richard Grey, right?}
+#{136}{}{Little older than me, and, oh boy, was he smart. A doctor and a philosopher. We knew each other for about ten years. [sighs] Once he got drunk and told me he came from Vault 8. Funny, huh?}
+{136}{}{比我大一点，天哪，他很聪明。医生和哲学家。我们认识大约十年了。有一次他喝醉了告诉我他是从8号金库来的。有意思吧？ -- Little older than me, and, oh boy, was he smart. A doctor and a philosopher. We knew each other for about ten years. [sighs] Once he got drunk and told me he came from Vault 8. Funny, huh?}
+#{137}{}{Wait, he came from here? How? What happened to him, where is he now?!}
+{137}{}{等等，他是从这里来的？怎样？他怎么了，他现在在哪？！ -- Wait, he came from here? How? What happened to him, where is he now?!}
+#{138}{}{I don't know exactly what happened to him. But I know, that not far from the Hub cultists are building some sort of cathedral. I've been there, and I know who's behind it.}
+{138}{}{我不知道他到底怎么了。但我知道，在离中心不远的地方，信徒们正在建造某种大教堂。我去过那里，我知道幕后黑手是谁。 -- I don't know exactly what happened to him. But I know, that not far from the Hub cultists are building some sort of cathedral. I've been there, and I know who's behind it.}
+#{139}{}{How did you find out?}
+{139}{}{你怎么知道的？ -- How did you find out?}
+#{140}{}{I can't explain it to you. But soon you'll understand. Things in the wastes are changing fast.}
+{140}{}{我无法向你解释。但很快你就会明白。废物中的东西变化很快。 -- I can't explain it to you. But soon you'll understand. Things in the wastes are changing fast.}
+#{141}{}{Why are you telling me about it then? Did you talk to anyone in the Hub about it?}
+{141}{}{那你为什么要告诉我？你和中心里的人谈过吗？ -- Why are you telling me about it then? Did you talk to anyone in the Hub about it?}
+#{142}{}{Because when I saw the number on your vault, I remembered Richard. And your doctor believed me right away. Ask him why. Everyone in the Hub just called me crazy. And, to be honest, they're right! Ha-ha...}
+{142}{}{因为当我看到你金库上的号码时，我想起了理查德。你的医生马上就相信了我。问他为什么。中心里的人都说我疯了。老实说，他们是对的！哈哈。。。 -- Because when I saw the number on your vault, I remembered Richard. And your doctor believed me right away. Ask him why. Everyone in the Hub just called me crazy. And, to be honest, they're right! Ha-ha...}
+#{143}{}{Whatever. I won't get anything useful from you anyway. Just a bunch of crazy stuff.}
+{143}{}{无论什么。反正我也不会从你那里得到任何有用的东西。只是一堆疯狂的东西。 -- Whatever. I won't get anything useful from you anyway. Just a bunch of crazy stuff.}
+#{200}{}{Yeesh. I don't want to be rude, but I didn't get here just for kicks.}
+{200}{}{是的。我不想粗鲁，但我来这里不是为了好玩。 -- Yeesh. I don't want to be rude, but I didn't get here just for kicks.}
+#{201}{}{What are you doing here then?}
+{201}{}{那你在这里干什么？ -- What are you doing here then?}
+#{202}{}{You tell me! It's your brave guys stopped my caravan, when we came too close. Looks like they had an order to capture someone like me for the info about outside world... Or maybe just to poke me with your damn needles.}
+{202}{}{你告诉我！是你们勇敢的人拦住了我的商队，当我们离得太近的时候。看来他们接到命令要抓捕像我这样的人来获取外部世界的信息。。。或者只是用你那该死的针戳我。 -- You tell me! It's your brave guys stopped my caravan, when we came too close. Looks like they had an order to capture someone like me for the info about outside world... Or maybe just to poke me with your damn needles.}
+#{203}{}{Oh, Doctor Willmouth must be looking for subjects for his studies... What's a caravan, anyway?}
+{203}{}{哦，威尔茅斯医生一定在找他的研究对象。。。什么是大篷车？ -- Oh, Doctor Willmouth must be looking for subjects for his studies... What's a caravan, anyway?}
+#{204}{}{It means I travel around looking for junk to buy and sell, kiddo, and maybe make enough profit to eat once in a while. You don't even know that? You're a funny bunch. I've never met anyone like you in the wastes, and I've been working for a *long* time.}
+{204}{}{这意味着我四处寻找可以买卖的垃圾，孩子，也许能赚足够的钱偶尔吃一次。你都不知道？你真是个有趣的家伙。我在荒野里从没见过像你这样的人，而且我已经工作了很长时间了。 -- It means I travel around looking for junk to buy and sell, kiddo, and maybe make enough profit to eat once in a while. You don't even know that? You're a funny bunch. I've never met anyone like you in the wastes, and I've been working for a *long* time.}
+#{205}{}{Good, because I want to know everything about the outside world.}
+{205}{}{很好，因为我想知道外面世界的一切。 -- Good, because I want to know everything about the outside world.}
+#{206}{}{What? Don't take this the wrong way, friend, but you people don't belong out there. The outside world is cruel. The Hub or Necropolis would eat you alive. You're lucky, living in a place like this, with all this technology. Most fellas can't even dream of such life.}
+{206}{}{什么？别误会，朋友，但你们不属于这里。外面的世界是残酷的。中心或墓地会把你活活吃掉。你很幸运，住在这样一个有着这么多科技的地方。大多数人甚至做梦都想不到这样的生活。 -- What? Don't take this the wrong way, friend, but you people don't belong out there. The outside world is cruel. The Hub or Necropolis would eat you alive. You're lucky, living in a place like this, with all this technology. Most fellas can't even dream of such life.}
+#{207}{}{[Next]}
+{207}{}{[下一步] -- [Next]}
+#{208}{}{It's uglier out there than I am. Ha! The closest city, New Reno, is in the middle of a civil war. And in Vegas, the local royalty are at each other's throats, while everyone else is begging for their crumbs. To the south from that is just emptyness. Burned with nuclear fire... Cities in ashes... Radioactive, twisted forms of life... }
+{208}{}{外面比我还难看。哈！最近的城市新里诺正处于内战之中。而在维加斯，当地的皇室成员互相争斗，而其他人都在乞讨他们的面包屑。从那往南走就是空虚。被核武器烧毁。。。灰烬中的城市。。。放射性的，扭曲的生命形式。。。 -- It's uglier out there than I am. Ha! The closest city, New Reno, is in the middle of a civil war. And in Vegas, the local royalty are at each other's throats, while everyone else is begging for their crumbs. To the south from that is just emptyness. Burned with nuclear fire... Cities in ashes... Radioactive, twisted forms of life... }
+#{209}{}{It must be horrible.}
+{209}{}{一定很可怕。 -- It must be horrible.}
+#{210}{}{Nevada and California to the west might be all that's left. At least those cities are just old, not destroyed. You should appreciate it, friend.}
+{210}{}{西边的内华达州和加利福尼亚州可能就剩下这么多了。至少那些城市是老的，没有被摧毁。你应该很感激，朋友。 -- Nevada and California to the west might be all that's left. At least those cities are just old, not destroyed. You should appreciate it, friend.}
+#{211}{}{Interesting. But I have to go.}
+{211}{}{很有趣。但我得走了。 -- Interesting. But I have to go.}
+#{220}{}{Ha! Judging from your face, you found the place, didn't you?}
+{220}{}{哈！从你的脸上看，你找到那个地方了，不是吗？ -- Ha! Judging from your face, you found the place, didn't you?}
+#{221}{}{And what did you find?}
+{221}{}{你发现了什么？ -- And what did you find?}
+#{222}{}{This sounds like it was a long time ago.}
+{222}{}{听起来好像是很久以前的事了。 -- This sounds like it was a long time ago.}
+#{223}{}{What do you think I am, an idiot? Coordinates! Fast!}
+{223}{}{你以为我是什么，白痴？协调！快点！ -- What do you think I am, an idiot? Coordinates! Fast!}
+#{224}{}{I'd love to, but when you're my age, you start to forget that kind of thing. [laughs, then coughs]}
+{224}{}{我很想，但当你到了我这个年纪，你就开始忘记那种事了。[笑，然后咳嗽] -- I'd love to, but when you're my age, you start to forget that kind of thing. [laughs, then coughs]}
+#{225}{}{Fine. Do you even remember when this happened?}
+{225}{}{好的。你还记得什么时候发生的吗？ -- Fine. Do you even remember when this happened?}
+#{226}{}{A crazy old story from a crazy old geezer. Do you even remember when this happened?}
+{226}{}{一个疯狂的老家伙讲的一个疯狂的老故事。你还记得什么时候发生的吗？ -- A crazy old story from a crazy old geezer. Do you even remember when this happened?}
+#{227}{}{Hub? Bullshit! There's no such place!}
+{227}{}{集线器？瞎扯！没有这样的地方！ -- Hub? Bullshit! There's no such place!}
+#{228}{}{Uh-huh. Likely story. You got any proof?}
+{228}{}{啊哈。可能的故事。有证据吗？ -- Uh-huh. Likely story. You got any proof?}
+#{229}{}{That sounds pretty hard to believe. Are you sure? You might have had sunstroke or something... }
+{229}{}{听起来很难相信。你确定？你可能中暑了。。。 -- That sounds pretty hard to believe. Are you sure? You might have had sunstroke or something... }
+#{230}{}{I don't believe you! You're trying to hypnotize me! Back! Back, foul demon!!!}
+{230}{}{我不相信你！你想催眠我！后退！回来，邪恶的恶魔！！！ -- I don't believe you! You're trying to hypnotize me! Back! Back, foul demon!!!}
+#{231}{}{This is awfully hard to believe, don't you think?}
+{231}{}{很难相信，你不觉得吗？ -- This is awfully hard to believe, don't you think?}
+#{232}{}{I understand. But your doctor - he believed me. Ask him about it. Everyone in the Hub just called me crazy. And, to be honest, they're right! Ha-ha...}
+{232}{}{我理解。但是你的医生-他相信我。问问他。中心里的人都说我疯了。老实说，他们是对的！哈哈。。。 -- I understand. But your doctor - he believed me. Ask him about it. Everyone in the Hub just called me crazy. And, to be honest, they're right! Ha-ha...}
+#{233}{}{You don't want to believe it, that's your problem. I don't need this crap.}
+{233}{}{你不想相信，那是你的问题。我不需要这些废话。 -- You don't want to believe it, that's your problem. I don't need this crap.}
+#{300}{}{::tries to dance::}
+{300}{}{●试着跳舞： -- ::tries to dance::}
+#{301}{}{* Give me, a kiss to build a dream on... *}
+{301}{}{*给我一个吻，让我建立一个梦想。。。* -- * Give me, a kiss to build a dream on... *}
+#{302}{}{*...and my imagination, will thrive upon that kiss... *}
+{302}{}{*…而我的想象力，将在那个吻上茁壮成长。。。* -- *...and my imagination, will thrive upon that kiss... *}
+#{303}{}{Hm-m-m... }
+{303}{}{嗯，嗯，嗯。。。 -- Hm-m-m... }
+#{304}{}{* Sweetheart... *}
+{304}{}{*亲爱的。。。* -- * Sweetheart... *}
+#{305}{}{*...I ask no more than this... *}
+{305}{}{*……我只要求。。。* -- *...I ask no more than this... *}
+#{306}{}{*...a kiss, to build a dream on... *}
+{306}{}{*…一个吻，一个梦想。。。* -- *...a kiss, to build a dream on... *}
+#{307}{}{::moans in rhythm::}
+{307}{}{●有节奏的呻吟： -- ::moans in rhythm::}
+#{308}{}{* Give me, a kiss, before you leave me... *}
+{308}{}{*给我一个吻，在你离开我之前。。。* -- * Give me, a kiss, before you leave me... *}
+#{309}{}{*...and my imagination... *}
+{309}{}{*…还有我的想象力。。。* -- *...and my imagination... *}
+#{310}{}{*...will feed my hungry heart... *}
+{310}{}{*…会满足我饥饿的心。。。* -- *...will feed my hungry heart... *}
+#{311}{}{::hums a few notes::}
+{311}{}{●哼着几声： -- ::hums a few notes::}
+#{312}{}{*...leave me, one thing before we part... *}
+{312}{}{*…离开我，在我们分手之前。。。* -- *...leave me, one thing before we part... *}
+#{313}{}{*...a kiss to build a dream on *}
+{313}{}{*…一个吻来建立一个梦想* -- *...a kiss to build a dream on *}
+#{314}{}{::hums a few more notes::}
+{314}{}{●哼了几声： -- ::hums a few more notes::}
+#{315}{}{Hey, smoothskins! Join in any time!}
+{315}{}{嘿，光滑的皮肤！随时加入！ -- Hey, smoothskins! Join in any time!}
+#{316}{}{*...When I'm alone, with my fantasies... *}
+{316}{}{*…当我独自一人，带着我的幻想。。。* -- *...When I'm alone, with my fantasies... *}
+#{317}{}{*...I'll, be with you... *}
+{317}{}{*…我会，和你在一起。。。* -- *...I'll, be with you... *}
+#{318}{}{*...weaving... Romances... *}
+{318}{}{*…编织。。。浪漫。。。* -- *...weaving... Romances... *}
+#{319}{}{*...making believe they're true... *}
+{319}{}{*…假装他们是真的。。。* -- *...making believe they're true... *}
+#{320}{}{::takes a deep breath::}
+{320}{}{●深呼吸： -- ::takes a deep breath::}
+#{321}{}{* Oh! Give me, your lips for just a moment... *}
+{321}{}{*哦！给我，你的嘴唇等一下。。。* -- * Oh! Give me, your lips for just a moment... *}
+#{322}{}{*...and my imagination, will make that moment live... *}
+{322}{}{*…我的想象力，会让那一刻活下来。。。* -- *...and my imagination, will make that moment live... *}
+#{323}{}{*...mmm, give me, what you alone can give... *}
+{323}{}{*…嗯，给我，你一个人能给的。。。* -- *...mmm, give me, what you alone can give... *}
+#{324}{}{*...a kiss to build a dream on! *}
+{324}{}{*…一个吻来建立一个梦想！* -- *...a kiss to build a dream on! *}
+#{325}{}{And here the trumpet plays!}
+{325}{}{喇叭吹响了！ -- And here the trumpet plays!}
+#{1110}{}{Hey, smoothskin! You ever seen the walking dead before? BOO! Ha-ha-ha! [laughing turns to coughing] Scary, huh? Maybe I should take a couple of bucks for the show.}
+{1110}{}{嘿，光滑的皮肤！你以前见过行尸走肉吗？喝倒采！哈哈哈！[笑转咳嗽]吓人吧？也许我该拿几块钱去看演出。 -- Hey, smoothskin! You ever seen the walking dead before? BOO! Ha-ha-ha! [laughing turns to coughing] Scary, huh? Maybe I should take a couple of bucks for the show.}
+#{1114}{}{Heh! Tough girl, huh? Sergeant Friendly out front wasn't scared of me either... Until I told him what's happening out in the wastes, that is.}
+{1114}{}{嘿！坚强的女孩，嗯？前线的友好中士也不怕我。。。直到我告诉他荒野里发生了什么。 -- Heh! Tough girl, huh? Sergeant Friendly out front wasn't scared of me either... Until I told him what's happening out in the wastes, that is.}
+#{1130}{}{[Laughs] You know, you're not that bad, for a smoothskin.}
+{1130}{}{[笑]你知道，你没那么坏，为了光滑的皮肤。 -- [Laughs] You know, you're not that bad, for a smoothskin.}
+#{1140}{}{I can't explain it to you. But soon you'll understand. Things in the wastes are changing fast.}
+{1140}{}{我无法向你解释。但很快你就会明白。废物中的东西变化很快。 -- I can't explain it to you. But soon you'll understand. Things in the wastes are changing fast.}

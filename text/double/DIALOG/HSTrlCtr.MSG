@@ -1,0 +1,26 @@
+#{100}{}{This is distribution switchboard.}
+{100}{}{这是配电盘。 -- This is distribution switchboard.}
+#{101}{}{Electric switchboard hums, which means electricity is still delivered somewhere through it.}
+{101}{}{配电盘嗡嗡作响，这意味着电力仍然通过它输送到某处。 -- Electric switchboard hums, which means electricity is still delivered somewhere through it.}
+#{102}{}{The switchboard is destroyed. Forever.}
+{102}{}{总机坏了。永远。 -- The switchboard is destroyed. Forever.}
+#{103}{}{It won't help here.}
+{103}{}{在这里没用。 -- It won't help here.}
+#{104}{}{You were unable to de-energize the turrets with this switchboard.}
+{104}{}{你不能用这个开关板切断炮塔的电源。 -- You were unable to de-energize the turrets with this switchboard.}
+#{105}{}{Short circuit destroys the switchboard and the turrets freeze.}
+{105}{}{短路破坏了配电盘，炮塔冻结。 -- Short circuit destroys the switchboard and the turrets freeze.}
+#{106}{}{This skill is useless here.}
+{106}{}{这技能在这里是没有用的。 -- This skill is useless here.}
+#{107}{}{Switchboard is no longer delivers power supply to the turrets. Though it not relevant anyway.}
+{107}{}{配电盘不再向炮塔供电。尽管这并不相关。 -- Switchboard is no longer delivers power supply to the turrets. Though it not relevant anyway.}
+#{108}{}{You don't have enough strength to tear these wires.}
+{108}{}{你没有足够的力气去撕开这些电线。 -- You don't have enough strength to tear these wires.}
+#{109}{}{You were almost electrocuted.}
+{109}{}{你差点触电。 -- You were almost electrocuted.}
+#{110}{}{You were electrocuted, but your armor protected you.}
+{110}{}{你被电死了，但你的盔甲保护了你。 -- You were electrocuted, but your armor protected you.}
+#{111}{}{You were heavily electrocuted! Boots lowered some damage.}
+{111}{}{你被严重电击了！靴子降低了一些伤害。 -- You were heavily electrocuted! Boots lowered some damage.}
+#{112}{}{You were heavily electrocuted!}
+{112}{}{你被严重电击了！ -- You were heavily electrocuted!}

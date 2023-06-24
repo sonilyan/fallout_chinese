@@ -1,0 +1,16 @@
+#{100}{}{You see: 'AVCS'.}
+{100}{}{你看：“AVCS”。}
+#{101}{}{You see the Automated Vault Control Systems central unit.}
+{101}{}{你可以看到自动保险库控制系统中央单元。}
+#{110}{}{You see the Automated Vault Control Systems central unit. The device stolen by Jay Kukish belongs right here.}
+{110}{}{你可以看到自动保险库控制系统中央单元。杰伊·库基什偷的设备就在这里。}
+#{111}{}{[Leave]}
+{111}{}{[离开]}
+#{112}{}{[Initiate the lab's self destruct]}
+{112}{}{[启动实验室的自毁]}
+#{113}{}{[Escape from this level is impossible, so you will perish with the incubators.]}
+{113}{}{[不可能从这个层次逃脱，所以你会和孵化器一起死去。]}
+#{114}{}{Either way... [initiate self destruct]}
+{114}{}{不管怎样。。。[启动自毁]}
+#{115}{}{Plug in the device and initiate purge of hostiles from Vault.}
+{115}{}{插入设备并开始清除保险库中的敌人。}

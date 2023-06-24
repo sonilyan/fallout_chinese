@@ -1,0 +1,150 @@
+#{100}{}{You see a citizen.}
+{100}{}{你看到一个公民。 -- You see a citizen.}
+#{101}{}{You see an ordinary resident of the slums.}
+{101}{}{你看到一个贫民窟的普通居民。 -- You see an ordinary resident of the slums.}
+#{102}{}{Whatever you want, I'm not in the mood.}
+{102}{}{不管你想要什么，我都没心情。 -- Whatever you want, I'm not in the mood.}
+#{103}{}{Fine, maybe I'll come back later.}
+{103}{}{好吧，也许我晚点再来。 -- Fine, maybe I'll come back later.}
+#{104}{}{I'll make this quick.}
+{104}{}{我会尽快的。 -- I'll make this quick.}
+#{105}{}{My husband does the talking in this house.}
+{105}{}{我丈夫在这房子里说话。 -- My husband does the talking in this house.}
+#{110}{}{Someone is badmouthing Harding. I want to know who and why.}
+{110}{}{有人在说哈丁的坏话。我想知道是谁，为什么。 -- Someone is badmouthing Harding. I want to know who and why.}
+#{111}{}{[He raises his eyebrows in surprise] You're seriously here on *his* behalf? Alright, here's what I've got to say: }
+{111}{}{[他惊讶地扬起眉毛]你真的是代表他来的？好吧，我要说的是： -- [He raises his eyebrows in surprise] You're seriously here on *his* behalf? Alright, here's what I've got to say: }
+#{112}{}{FUCK that sack of shit! And FUCK you, too! }
+{112}{}{去他妈的！去你妈的！ -- FUCK that sack of shit! And FUCK you, too! }
+#{113}{}{Harding doesn't deserve to have someone like you looking out for him. }
+{113}{}{哈丁不配有你这样的人照顾他。 -- Harding doesn't deserve to have someone like you looking out for him. }
+#{114}{}{Harding's a weak little bitch and he deserves everything he gets. Maybe if he wasn't so pathetic, he'd get more respect. But instead of fighting for respect like a man, he'd rather mope and whine and whatever he does at that secret club he goes to every Friday. Guys like him just won't ever improve themselves. }
+{114}{}{哈丁是个软弱的小婊子，他得到的一切都是他应得的。也许如果他不那么可怜，他会得到更多的尊重。但他宁愿闷闷不乐，发牢骚，不管他在那个秘密俱乐部做什么，而不是像男人一样为尊重而战。像他这样的人永远也无法提高自己。 -- Harding's a weak little bitch and he deserves everything he gets. Maybe if he wasn't so pathetic, he'd get more respect. But instead of fighting for respect like a man, he'd rather mope and whine and whatever he does at that secret club he goes to every Friday. Guys like him just won't ever improve themselves. }
+#{115}{}{Now get out of my house, you simpering, bleeding-heart pussy!}
+{115}{}{现在滚出我的房子，你这个傻笑的，流血的女人！ -- Now get out of my house, you simpering, bleeding-heart pussy!}
+#{116}{}{Now, with all due respect, please leave my house.}
+{116}{}{现在，恕我直言，请离开我家。 -- Now, with all due respect, please leave my house.}
+#{117}{}{What secret club?}
+{117}{}{什么秘密俱乐部？ -- What secret club?}
+#{118}{}{Some weird out-of-towner is gathering up all the local rejects and holding weekly meetings. He says he just wants to help them out of the goodness of his heart, which is always a good sign someone's up to no good.}
+{118}{}{一些奇怪的外地人聚集了当地所有的反对者，每周开一次例会。他说他只是出于内心的善良想帮助他们，这总是一个好迹象，表明有人在做坏事。 -- Some weird out-of-towner is gathering up all the local rejects and holding weekly meetings. He says he just wants to help them out of the goodness of his heart, which is always a good sign someone's up to no good.}
+#{119}{}{I should discuss this with Harding.}
+{119}{}{我应该和哈定商量一下。 -- I should discuss this with Harding.}
+#{120}{}{Hey, did you know your son lost Patrick's mail?}
+{120}{}{嘿，你知道你儿子丢了帕特里克的邮件吗？ -- Hey, did you know your son lost Patrick's mail?}
+#{121}{}{Oh, so that holier-than-thou shitbird didn't get his mama's cookies? Cry me a fucking river. Not so high and mighty anymore, is he?}
+{121}{}{哦，那个比你还神圣的混蛋没有得到他妈妈的饼干？他妈的给我哭一场。他不再那么高大威武了，是吗？ -- Oh, so that holier-than-thou shitbird didn't get his mama's cookies? Cry me a fucking river. Not so high and mighty anymore, is he?}
+#{122}{}{Don't be rude. I'm leaving.}
+{122}{}{别这么粗鲁。我要走了。 -- Don't be rude. I'm leaving.}
+#{123}{}{Watch your mouth! Do you know who I work for?}
+{123}{}{小心你的嘴！你知道我为谁工作吗？ -- Watch your mouth! Do you know who I work for?}
+#{124}{}{All I need is a letter. I'll pay money for it.}
+{124}{}{我只需要一封信。我会付钱的。 -- All I need is a letter. I'll pay money for it.}
+#{125}{}{You're playing with fire, you know. Patrick can only be so patient.}
+{125}{}{你在玩火，你知道的。帕特里克只能如此耐心。 -- You're playing with fire, you know. Patrick can only be so patient.}
+#{126}{}{[He pales] Uhh - I'm sorry! I'm sorry! I just got a little carried away. Look, there's no package here. We never saw a package. All we have is this letter, see? Here, you take it! I'm cooperating, see?}
+{126}{}{[他脸色苍白]呃-对不起！我很抱歉！我只是有点忘乎所以。看，这里没有包裹。我们从没见过包裹。我们只有这封信，明白吗？给，你拿着！我在合作，明白吗？ -- [He pales] Uhh - I'm sorry! I'm sorry! I just got a little carried away. Look, there's no package here. We never saw a package. All we have is this letter, see? Here, you take it! I'm cooperating, see?}
+#{127}{}{Don't let this happen again. Remember, in this city there's two types of people - those with guns, and those that work for them. Now get out of my way.}
+{127}{}{别让这种事再发生了。记住，在这个城市里有两种人——持枪的和为他们工作的。现在给我让开。 -- Don't let this happen again. Remember, in this city there's two types of people - those with guns, and those that work for them. Now get out of my way.}
+#{128}{}{Money? I like money. How much money are we talking?}
+{128}{}{钱？我喜欢钱。我们谈的是多少钱？ -- Money? I like money. How much money are we talking?}
+#{129}{}{I'll give you 100 dollars for the letter.}
+{129}{}{我给你100美元买这封信。 -- I'll give you 100 dollars for the letter.}
+#{130}{}{Heh! Easiest hundred bucks I ever made! Here's the letter. Don't bother looking for the rest of the package, it's long gone.}
+{130}{}{嘿！我赚了一百块！这是信。别费心找剩下的包裹了，早就不见了。 -- Heh! Easiest hundred bucks I ever made! Here's the letter. Don't bother looking for the rest of the package, it's long gone.}
+#{131}{}{I'm not surprised. Give me the letter.}
+{131}{}{我并不惊讶。把信给我。 -- I'm not surprised. Give me the letter.}
+#{132}{}{Ha-ha-ha! Shut the fuck up. I've heard him talk - "oh, please, thank you, God bless you!" Spineless little prick. He'll never survive here.}
+{132}{}{哈哈哈！他妈的闭嘴。我听过他说：“哦，求你了，谢谢你，上帝保佑你！”没骨气的小混蛋。他在这里活不下去了。 -- Ha-ha-ha! Shut the fuck up. I've heard him talk - "oh, please, thank you, God bless you!" Spineless little prick. He'll never survive here.}
+#{133}{}{He's lasted this long. Even though he has no weapons, even though he's from out of town, even though he's interfering with the local politics, he's still alive. In fact, he doesn't look like he's even broken a sweat. And someone's sending him packages from out of town. What does that tell you?}
+{133}{}{他坚持了这么久。即使他没有武器，即使他来自外地，即使他干涉了当地的政治，他仍然活着。事实上，他看起来一点也没出汗。有人从外地给他寄包裹。这说明了什么？ -- He's lasted this long. Even though he has no weapons, even though he's from out of town, even though he's interfering with the local politics, he's still alive. In fact, he doesn't look like he's even broken a sweat. And someone's sending him packages from out of town. What does that tell you?}
+#{134}{}{It - uh - [he suddenly looks very agitated] That package... Someone's spending a *lot* of money on him... Uh, hey, listen. The package is gone. I have this letter, though. Why don't you give it to him? Tell him, uh, I'm sorry for the delay. Really, really sorry.}
+{134}{}{它-呃-[他突然看起来很激动]那个包裹。。。有人在他身上花了很多钱。。。呃，嘿，听着。包裹不见了。不过，我有这封信。你为什么不给他？告诉他，呃，很抱歉耽搁了。真的，真的很抱歉。 -- It - uh - [he suddenly looks very agitated] That package... Someone's spending a *lot* of money on him... Uh, hey, listen. The package is gone. I have this letter, though. Why don't you give it to him? Tell him, uh, I'm sorry for the delay. Really, really sorry.}
+#{135}{}{I'll give him this letter and you're apology. Watch yourself from now on - you won't be the only one.}
+{135}{}{我把这封信给他，你就可以道歉了。从现在开始注意你自己-你不会是唯一的一个。 -- I'll give him this letter and you're apology. Watch yourself from now on - you won't be the only one.}
+#{136}{}{Forget it, I'm leaving.}
+{136}{}{算了，我要走了。 -- Forget it, I'm leaving.}
+#{150}{}{You see a ragged man. He clearly misses someone.}
+{150}{}{你看到一个衣衫褴褛的人。他显然想念某个人。 -- You see a ragged man. He clearly misses someone.}
+#{151}{}{You see a ragged man. His eyes are dull with booze.}
+{151}{}{你看到一个衣衫褴褛的人。他的眼睛因酗酒而呆滞。 -- You see a ragged man. His eyes are dull with booze.}
+#{152}{}{You see a ragged man. He looks like he's suffering a crushing hangover.}
+{152}{}{你看到一个衣衫褴褛的人。他看起来像是受了宿醉的折磨。 -- You see a ragged man. He looks like he's suffering a crushing hangover.}
+#{153}{}{You see a ragged man. He's obviously drunk.}
+{153}{}{你看到一个衣衫褴褛的人。他显然喝醉了。 -- You see a ragged man. He's obviously drunk.}
+#{154}{}{You see a ragged man. He gives you an annoyed look, then loses interest.}
+{154}{}{你看到一个衣衫褴褛的人。他生气地看了你一眼，然后就失去了兴趣。 -- You see a ragged man. He gives you an annoyed look, then loses interest.}
+#{155}{}{You see a ragged man. He looks pissed off about something, or maybe everything.}
+{155}{}{你看到一个衣衫褴褛的人。他看起来对什么事很生气，或者什么都生气。 -- You see a ragged man. He looks pissed off about something, or maybe everything.}
+#{160}{}{You see a ragged woman. She clearly misses someone.}
+{160}{}{你看到一个衣衫褴褛的女人。她显然想念某个人。 -- You see a ragged woman. She clearly misses someone.}
+#{161}{}{You see a ragged woman. You'd say she looks lost in thought, but on second thought, you think she's just lost.}
+{161}{}{你看到一个衣衫褴褛的女人。你可能会说她看起来陷入了沉思，但仔细想想，你认为她只是迷失了方向。 -- You see a ragged woman. You'd say she looks lost in thought, but on second thought, you think she's just lost.}
+#{162}{}{You see a ragged woman. She's looking at something a thousand miles away.}
+{162}{}{你看到一个衣衫褴褛的女人。她在看千里之外的东西。 -- You see a ragged woman. She's looking at something a thousand miles away.}
+#{163}{}{You see a ragged woman. She looks a little drunk.}
+{163}{}{你看到一个衣衫褴褛的女人。她看起来有点醉了。 -- You see a ragged woman. She looks a little drunk.}
+#{164}{}{You see a ragged woman. She gives you an annoyed look, then loses interest.}
+{164}{}{你看到一个衣衫褴褛的女人。她生气地看了你一眼，然后就失去了兴趣。 -- You see a ragged woman. She gives you an annoyed look, then loses interest.}
+#{165}{}{You see a ragged woman. She gives a disdainful snort when she makes eye contact.}
+{165}{}{你看到一个衣衫褴褛的女人。她目光接触时轻蔑地哼了一声。 -- You see a ragged woman. She gives a disdainful snort when she makes eye contact.}
+#{200}{}{Do you know what they do to people who bust into people's homes to ask questions around here?}
+{200}{}{你知道他们对闯进别人家里问问题的人做了什么吗？ -- Do you know what they do to people who bust into people's homes to ask questions around here?}
+#{201}{}{I'm looking for 75 Virginia Street. Is this it?}
+{201}{}{我在找弗吉尼亚大街75号。是这个吗？ -- I'm looking for 75 Virginia Street. Is this it?}
+#{202}{}{Yeah, this is it. So what?}
+{202}{}{是的，就是这样。那又怎么样？ -- Yeah, this is it. So what?}
+#{203}{}{Have you ever seen the girl in this picture? This address is written on the back.}
+{203}{}{你见过这张照片里的女孩吗？这个地址写在背面。 -- Have you ever seen the girl in this picture? This address is written on the back.}
+#{204}{}{I don't know and I don't want to know! Get out of my house and quit wasting my time!}
+{204}{}{我不知道也不想知道！滚出我的房子，别再浪费我的时间了！ -- I don't know and I don't want to know! Get out of my house and quit wasting my time!}
+#{205}{}{I think hunger is making you cranky. How about 100 dollars for a warm meal?}
+{205}{}{我觉得饥饿让你暴躁。一顿热饭100美元怎么样？ -- I think hunger is making you cranky. How about 100 dollars for a warm meal?}
+#{206}{}{Well, that's a bust. I'm leaving.}
+{206}{}{好吧，那是个半身像。我要走了。 -- Well, that's a bust. I'm leaving.}
+#{207}{}{What?!}
+{207}{}{什么？！ -- What?!}
+#{208}{}{How about $200?}
+{208}{}{200美元怎么样？ -- How about $200?}
+#{209}{}{Well, that's a bust. I'm leaving.}
+{209}{}{好吧，那是个半身像。我要走了。 -- Well, that's a bust. I'm leaving.}
+#{210}{}{Hey hey hey! Wait a minute! I'm, uh, starting to remember already... }
+{210}{}{嘿嘿嘿！等一下！我，呃，已经开始记得了。。。 -- Hey hey hey! Wait a minute! I'm, uh, starting to remember already... }
+#{211}{}{[Give him the money.]}
+{211}{}{[把钱给他。] -- [Give him the money.]}
+#{212}{}{[Leave.]}
+{212}{}{[离开] -- [Leave.]}
+#{213}{}{No, wait! Give me 100 bucks and I'll tell you everything. Everything I know!}
+{213}{}{不，等等！给我100美元，我会告诉你一切的。我知道的一切！ -- No, wait! Give me 100 bucks and I'll tell you everything. Everything I know!}
+#{214}{}{Okay, here's 100 dollars. What do you know about this girl?}
+{214}{}{好的，这是100美元。你对这个女孩了解多少？ -- Okay, here's 100 dollars. What do you know about this girl?}
+#{215}{}{No, I don't believe you. Better luck next time.}
+{215}{}{不，我不相信你。祝你下次好运。 -- No, I don't believe you. Better luck next time.}
+#{216}{}{Okay, I don't know anything about this girl. But there was a creepy guy living in this house before us. I got a look at his things when he was moving out. There was an album full of pictures of girls, and every one of them had holes burnt in their eyes!}
+{216}{}{好吧，我对这个女孩一无所知。但在我们之前有个毛骨悚然的家伙住在这房子里。他搬出去的时候我看了他的东西。有一本全是女孩照片的相册，每个女孩的眼睛都被烧焦了！ -- Okay, I don't know anything about this girl. But there was a creepy guy living in this house before us. I got a look at his things when he was moving out. There was an album full of pictures of girls, and every one of them had holes burnt in their eyes!}
+#{217}{}{What was his name?}
+{217}{}{他叫什么名字？ -- What was his name?}
+#{218}{}{All I got was Ted. I don't know his last name.}
+{218}{}{我得到的只有泰德。我不知道他的姓。 -- All I got was Ted. I don't know his last name.}
+#{219}{}{Where did he go?}
+{219}{}{他去哪了？ -- Where did he go?}
+#{220}{}{I don't know exactly, but he said he was going somewhere quieter than here, so he's probably not in the city center. I also remember he carried his things south of here.}
+{220}{}{我不太清楚，但他说他要去一个比这里安静的地方，所以他可能不在市中心。我还记得他把东西带到了南方。 -- I don't know exactly, but he said he was going somewhere quieter than here, so he's probably not in the city center. I also remember he carried his things south of here.}
+#{221}{}{Did he leave anything behind?}
+{221}{}{他留下什么了吗？ -- Did he leave anything behind?}
+#{222}{}{Nah, just some old newspapers. We burned them long ago.}
+{222}{}{不，只是一些旧报纸。我们早就烧了。 -- Nah, just some old newspapers. We burned them long ago.}
+#{223}{}{Okay. So Ted moved to someplace quiet in the south. What could that mean... ?}
+{223}{}{可以。所以特德搬到了南方一个安静的地方。那是什么意思？ -- Okay. So Ted moved to someplace quiet in the south. What could that mean... ?}
+#{224}{}{By the way, why do you ask? Who is this guy?}
+{224}{}{顺便问一下，你为什么问？这家伙是谁？ -- By the way, why do you ask? Who is this guy?}
+#{225}{}{He's a homicidal maniac who cuts up dancers from the local club and cuts their eyes out before killing them. You and your family are lucky to be alive.}
+{225}{}{他是个杀人狂，在杀死当地俱乐部的舞者之前，他会把舞者的眼睛割下来。你和你的家人很幸运还活着。 -- He's a homicidal maniac who cuts up dancers from the local club and cuts their eyes out before killing them. You and your family are lucky to be alive.}
+#{226}{}{[His eyes go wide] He... That's... Oh, shit. Really?}
+{226}{}{他。。。那是。。。哦，该死。真的？ -- [His eyes go wide] He... That's... Oh, shit. Really?}
+#{227}{}{I'll leave you to think about that. Bye now.}
+{227}{}{我让你想想。再见。 -- I'll leave you to think about that. Bye now.}
+#{228}{}{You uncovered some of the mystery behind Ted Bundy's photo.}
+{228}{}{你揭开了泰德·邦迪照片背后的神秘面纱。 -- You uncovered some of the mystery behind Ted Bundy's photo.}
+#{1112}{}{FUCK that sack of shit! And FUCK you, too! }
+{1112}{}{去他妈的！去你妈的！ -- FUCK that sack of shit! And FUCK you, too! }

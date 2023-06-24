@@ -1,0 +1,116 @@
+#{0}{}{}
+{0}{}{}
+#{100}{}{You see a console.}
+{100}{}{你看到一个控制台。}
+#{101}{}{You see a password entry console. Looks like it controls the door nearby.}
+{101}{}{您将看到一个密码输入控制台。看起来它控制着附近的门。}
+#{102}{}{You've already used this console, it has no use for you anymore.}
+{102}{}{你已经用过这个控制台了，它对你已经没有用了。}
+#{103}{}{I don't need this}
+{103}{}{我不需要这个}
+#{104}{}{This console has no power supply.}
+{104}{}{这个控制台没有电源。}
+#{105}{}{No power}
+{105}{}{没有电源}
+#{110}{}{Welcome. Please enter password.}
+{110}{}{欢迎光临。请输入密码。}
+#{111}{}{[Try to hack the password]}
+{111}{}{[尝试破解密码]}
+#{112}{}{[Type in the password]}
+{112}{}{[键入密码]}
+#{113}{}{[Exit]}
+{113}{}{[退出]}
+#{114}{}{Password accepted. Welcome!}
+{114}{}{密码已接受。欢迎光临！}
+#{115}{}{[Finish]}
+{115}{}{[完成]}
+#{116}{}{You hack the security system and gain }
+{116}{}{你侵入了安全系统}
+#{117}{}{ exp. points.}
+{117}{}{经验点。}
+#{118}{}{Password incorrect.}
+{118}{}{密码不正确。}
+#{119}{}{Wow, it worked! Well, time to enjoy the comforts of someone's office.}
+{119}{}{哇，成功了！是时候享受一下别人办公室的舒适了。}
+#{120}{}{The system only accepts passwords consisting of letters of the English alphabet. All that's left for you to do is cycle through variants.}
+{120}{}{系统只接受由英文字母组成的密码。剩下要做的就是循环各种变体。}
+#{121}{}{Enter the password.}
+{121}{}{输入密码。}
+#{122}{}{You are entering: }
+{122}{}{您正在输入：}
+#{123}{}{?}
+{123}{}{?}
+#{124}{}{Clear last letter.}
+{124}{}{清除最后一个字母。}
+#{125}{}{Clear everything and start over.}
+{125}{}{把一切都清理干净，重新开始。}
+#{126}{}{Password incorrect.}
+{126}{}{密码不正确。}
+#{127}{}{Password accepted. Welcome!}
+{127}{}{密码已接受。欢迎光临！}
+#{128}{}{Well, time to enjoy the comforts of someone's office.}
+{128}{}{是时候享受一下别人办公室的舒适了。}
+#{129}{}{This riddle is far beyond me at this point.}
+{129}{}{在这一点上，这个谜我还远远猜不透。}
+#{130}{}{}
+{130}{}{}
+#{150}{}{A}
+{150}{}{A}
+#{151}{}{B}
+{151}{}{B类}
+#{152}{}{C}
+{152}{}{C级}
+#{153}{}{D}
+{153}{}{D级}
+#{154}{}{E}
+{154}{}{电子}
+#{155}{}{F}
+{155}{}{F级}
+#{156}{}{G}
+{156}{}{克}
+#{157}{}{H}
+{157}{}{小时}
+#{158}{}{I}
+{158}{}{我}
+#{159}{}{J}
+{159}{}{日本}
+#{160}{}{K}
+{160}{}{K公司}
+#{161}{}{L}
+{161}{}{我}
+#{162}{}{M}
+{162}{}{米}
+#{163}{}{N}
+{163}{}{不}
+#{164}{}{O}
+{164}{}{O}
+#{165}{}{P}
+{165}{}{第}
+#{166}{}{Q}
+{166}{}{问}
+#{167}{}{R}
+{167}{}{右}
+#{168}{}{S}
+{168}{}{S码}
+#{169}{}{T}
+{169}{}{T型}
+#{170}{}{U}
+{170}{}{U型}
+#{171}{}{V}
+{171}{}{五}
+#{172}{}{W}
+{172}{}{W型}
+#{173}{}{X}
+{173}{}{十}
+#{174}{}{Y}
+{174}{}{是的}
+#{175}{}{Z}
+{175}{}{Z轴}
+#{176}{}{-more-}
+{176}{}{-更多-}
+#{177}{}{Finish entering the password.}
+{177}{}{完成密码输入。}
+#{178}{}{To the beginning of the alphabet.}
+{178}{}{到字母表的开头。}
+#{179}{}{Back.}
+{179}{}{回来。}

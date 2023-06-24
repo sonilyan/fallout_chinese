@@ -1,0 +1,322 @@
+#{100}{}{You see: Sam.}
+{100}{}{你看：山姆。 -- You see: Sam.}
+#{101}{}{You see Sam, a young man responsible for warehouse operations.}
+{101}{}{你看山姆，一个负责仓库运作的年轻人。 -- You see Sam, a young man responsible for warehouse operations.}
+#{102}{}{If I see you trying one more time... }
+{102}{}{如果我看到你再试一次。。。 -- If I see you trying one more time... }
+#{110}{}{Hi, citizen }
+{110}{}{嗨，市民 -- Hi, citizen }
+#{112}{}{. How can I help you?}
+{112}{}{. 我能帮你什么？ -- . How can I help you?}
+#{113}{}{You? After that business with Joshua, I thought they would isolate you. Strange to still see you here.}
+{113}{}{你呢？在和约书亚做了那件事之后，我以为他们会孤立你。在这里还见到你真奇怪。 -- You? After that business with Joshua, I thought they would isolate you. Strange to still see you here.}
+#{114}{}{I wanted to say goodbye before I leave. So... Goodbye.}
+{114}{}{我想在离开前说再见。所以。。。再见。 -- I wanted to say goodbye before I leave. So... Goodbye.}
+#{115}{}{Anything else?}
+{115}{}{还有别的吗？ -- Anything else?}
+#{118}{}{I don't recognize any of this stuff.}
+{118}{}{我一点也不认识这些东西。 -- I don't recognize any of this stuff.}
+#{119}{}{That's none of my business, I just take inventory. I heard you lost your memory, so I'm not surprised you don't remember any of it. Probably, those things belonged to the outsider that brought you here. They're definitely not from Vault City.}
+{119}{}{那不关我的事，我只是清点一下。我听说你失忆了，所以你一点都不记得我一点也不奇怪。也许，这些东西是外人带你来这里的。他们肯定不是从金库城来的。 -- That's none of my business, I just take inventory. I heard you lost your memory, so I'm not surprised you don't remember any of it. Probably, those things belonged to the outsider that brought you here. They're definitely not from Vault City.}
+#{120}{}{I came to get my things.}
+{120}{}{我来拿我的东西。 -- I came to get my things.}
+#{121}{}{I was told to assemble everything you had on you when you came in. They're in the locker on the left. They include... [checks his list] ...One pistol, one switchblade, one water flask, one paper note, and 128 dollars. Please check if everything is in order and sign... Here.}
+{121}{}{你进来的时候，我被告知要把你身上所有的东西都整理好。它们在左边的储物柜里。它们包括。。。[核对清单]…一把手枪，一把刀，一个水瓶，一张纸条，还有128美元。请检查是否一切正常并签字。。。在这里。 -- I was told to assemble everything you had on you when you came in. They're in the locker on the left. They include... [checks his list] ...One pistol, one switchblade, one water flask, one paper note, and 128 dollars. Please check if everything is in order and sign... Here.}
+#{122}{}{What if I need anything else?}
+{122}{}{如果我还需要什么呢？ -- What if I need anything else?}
+#{123}{}{Good. Thank you.}
+{123}{}{很好。非常感谢。 -- Good. Thank you.}
+#{124}{}{I wasn't told to supply you with anything else.}
+{124}{}{我没被要求给你提供其他东西。 -- I wasn't told to supply you with anything else.}
+#{125}{}{You mean I can't request anything from the warehouse!?}
+{125}{}{你是说我不能向仓库要任何东西！？ -- You mean I can't request anything from the warehouse!?}
+#{126}{}{I can't do anything for you, unless I receive an order from my superiors. But you could complete an assignment for the warehouse.}
+{126}{}{我不能为你做任何事，除非我接到上级的命令。但你可以完成仓库的任务。 -- I can't do anything for you, unless I receive an order from my superiors. But you could complete an assignment for the warehouse.}
+#{127}{}{And how can I put in an order?}
+{127}{}{我怎样才能下订单呢？ -- And how can I put in an order?}
+#{128}{}{Assignment for the warehouse? What do you mean?}
+{128}{}{仓库的任务？什么意思？ -- Assignment for the warehouse? What do you mean?}
+#{129}{}{Fine, forget it.}
+{129}{}{好吧，算了吧。 -- Fine, forget it.}
+#{130}{}{Can you give me something out of the warehouse?}
+{130}{}{你能把仓库里的东西给我吗？ -- Can you give me something out of the warehouse?}
+#{131}{}{If it's important, ask someone with authority to put in a request to the warehouse. They'll fill out the form for you.}
+{131}{}{如果很重要，请有权的人向仓库提出申请。他们会帮你填表格的。 -- If it's important, ask someone with authority to put in a request to the warehouse. They'll fill out the form for you.}
+#{132}{}{You said something about an assignment for the warehouse?}
+{132}{}{你说了仓库的任务？ -- You said something about an assignment for the warehouse?}
+#{133}{}{You said something about requesting an order from your superiors?}
+{133}{}{你说要上级下令？ -- You said something about requesting an order from your superiors?}
+#{134}{}{We've got some requests for equipment we don't have in stock. There's special procedures in place for trading items with outsiders, if they can give us something valuable.}
+{134}{}{我们有人要买一些没有存货的设备。如果外人能给我们一些有价值的东西，我们有专门的程序与他们进行交易。 -- We've got some requests for equipment we don't have in stock. There's special procedures in place for trading items with outsiders, if they can give us something valuable.}
+#{135}{}{What will I get if I bring you those items?}
+{135}{}{如果我把那些东西带给你，我会得到什么？ -- What will I get if I bring you those items?}
+#{136}{}{You'll be able to request high-value items from the warehouse, like sniper rifles and armor. But it's a long list, and you'll need to get everything on it.}
+{136}{}{你可以向仓库索要贵重物品，比如狙击步枪和防具。但这是一个很长的清单，你需要把所有的东西都记下来。 -- You'll be able to request high-value items from the warehouse, like sniper rifles and armor. But it's a long list, and you'll need to get everything on it.}
+#{137}{}{Great. Can I have that list?}
+{137}{}{伟大的。能给我那张单子吗？ -- Great. Can I have that list?}
+#{138}{}{Sure. I'll put it into your Pip-Boy.}
+{138}{}{当然。我会把它放进你的皮普小子。 -- Sure. I'll put it into your Pip-Boy.}
+#{139}{}{[Next]}
+{139}{}{[下一步] -- [Next]}
+#{140}{}{Done. All of those items are Vault-Tec, so you should know where to look.}
+{140}{}{完成。所有这些物品都是保险库技术，所以你应该知道去哪里找。 -- Done. All of those items are Vault-Tec, so you should know where to look.}
+#{141}{}{I'll keep that in mind.}
+{141}{}{我会记住的。 -- I'll keep that in mind.}
+#{150}{}{I want to talk to you about that special assignment.}
+{150}{}{我想和你谈谈那个特殊任务。 -- I want to talk to you about that special assignment.}
+#{151}{}{You've got the list in your Pip-Boy. Did you manage to find anything?}
+{151}{}{你已经把名单放在你的皮普小子里了。你找到什么了吗？ -- You've got the list in your Pip-Boy. Did you manage to find anything?}
+#{152}{}{No, not yet.}
+{152}{}{不，还没有。 -- No, not yet.}
+#{153}{}{Yes. }
+{153}{}{对。 -- Yes. }
+#{154}{}{.}
+{154}{}{. -- .}
+#{155}{}{The item seems to be missing.}
+{155}{}{物品好像不见了。 -- The item seems to be missing.}
+#{156}{}{}
+{156}{}{ -- }
+#{157}{}{}
+{157}{}{ -- }
+#{158}{}{}
+{158}{}{ -- }
+#{159}{}{}
+{159}{}{ -- }
+#{160}{}{Hmm. Looks functional. Thanks, citizen. Do you have anything else?}
+{160}{}{嗯。看起来很实用。谢谢，市民。你还有别的东西吗？ -- Hmm. Looks functional. Thanks, citizen. Do you have anything else?}
+#{161}{}{That's everything on the list. All that's left is the reward.}
+{161}{}{名单上就这些了。剩下的就是奖励了。 -- That's everything on the list. All that's left is the reward.}
+#{162}{}{I'll come back when I find the rest of the items.}
+{162}{}{我找到剩下的东西就回来。 -- I'll come back when I find the rest of the items.}
+#{163}{}{Really? Oh, you're serious! To be honest, this has never happened before. Well, the Overseer's orders were clear, you now have high-level access to the warehouse.}
+{163}{}{真正地？哦，你说真的！老实说，这以前从未发生过。好吧，监工的命令很明确，你现在有权进入仓库。 -- Really? Oh, you're serious! To be honest, this has never happened before. Well, the Overseer's orders were clear, you now have high-level access to the warehouse.}
+#{164}{}{Let's see what you've got.}
+{164}{}{让我们看看你有什么。 -- Let's see what you've got.}
+#{165}{}{I want to receive my reward.}
+{165}{}{我想得到我的奖赏。 -- I want to receive my reward.}
+#{166}{}{Yes, I remember. Let's get this over with.}
+{166}{}{是的，我记得。让我们结束这一切吧。 -- Yes, I remember. Let's get this over with.}
+#{167}{}{Before I decide, I want to ask you about something else.}
+{167}{}{在我决定之前，我想问你一些别的事情。 -- Before I decide, I want to ask you about something else.}
+#{168}{}{You know, I can't decide yet. Let's do this later, okay?}
+{168}{}{你知道，我还不能决定。我们晚点再做，好吗？ -- You know, I can't decide yet. Let's do this later, okay?}
+#{169}{}{I can't decide yet. We'll do this later.}
+{169}{}{我还不能决定。我们稍后再做。 -- I can't decide yet. We'll do this later.}
+#{170}{}{You can choose only one thing out of the list.}
+{170}{}{你只能从列表中选择一件事。 -- You can choose only one thing out of the list.}
+#{171}{}{[Power fist]}
+{171}{}{【拳法】 -- [Power fist]}
+#{172}{}{[Super sledge]}
+{172}{}{[超级雪橇] -- [Super sledge]}
+#{173}{}{[Pancor Jackhammer shotgun]}
+{173}{}{[手提式手枪] -- [Pancor Jackhammer shotgun]}
+#{174}{}{[Sniper rifle]}
+{174}{}{[狙击步枪] -- [Sniper rifle]}
+#{175}{}{[Laser rifle]}
+{175}{}{[激光步枪] -- [Laser rifle]}
+#{176}{}{[Plasma rifle]}
+{176}{}{[等离子步枪] -- [Plasma rifle]}
+#{177}{}{[Grenade launcher]}
+{177}{}{[榴弹发射器] -- [Grenade launcher]}
+#{178}{}{[Electronic lock pick Mk II]}
+{178}{}{[电子开锁器Mk II] -- [Electronic lock pick Mk II]}
+#{179}{}{[Super tool kit]}
+{179}{}{[超级工具箱] -- [Super tool kit]}
+#{180}{}{[Combat armor]}
+{180}{}{[战斗装甲] -- [Combat armor]}
+#{181}{}{[Automatic rifle m2041]}
+{181}{}{[自动步枪m2041] -- [Automatic rifle m2041]}
+#{182}{}{[20 stimpaks]}
+{182}{}{[20包] -- [20 stimpaks]}
+#{183}{}{[]}
+{183}{}{[] -- []}
+#{184}{}{[]}
+{184}{}{[] -- []}
+#{185}{}{[]}
+{185}{}{[] -- []}
+#{186}{}{[]}
+{186}{}{[] -- []}
+#{187}{}{[]}
+{187}{}{[] -- []}
+#{188}{}{Next list.}
+{188}{}{下一个列表。 -- Next list.}
+#{189}{}{Previous list.}
+{189}{}{上一个列表。 -- Previous list.}
+#{190}{}{This? Are you sure? Wait here, I'll fill out the paperwork and get it from storage.}
+{190}{}{这个？你确定？在这儿等着，我填好文件从仓库拿过来。 -- This? Are you sure? Wait here, I'll fill out the paperwork and get it from storage.}
+#{191}{}{That's my choice. Hurry it up, please.}
+{191}{}{那是我的选择。请快点。 -- That's my choice. Hurry it up, please.}
+#{192}{}{Wait, I changed my mind! I need something else.}
+{192}{}{等等，我改变主意了！我需要别的东西。 -- Wait, I changed my mind! I need something else.}
+#{193}{}{Thank you for your help, }
+{193}{}{谢谢你的帮助， -- Thank you for your help, }
+#{194}{}{. Here's you go.}
+{194}{}{. 给你。 -- . Here's you go.}
+#{195}{}{If this were New Reno, I'd even tip you, heh heh.}
+{195}{}{如果这是新雷诺，我甚至会给你小费，呵呵。 -- If this were New Reno, I'd even tip you, heh heh.}
+#{196}{}{Finally, some use out of your stingy warehouse!}
+{196}{}{最后，从你吝啬的仓库里拿出一些有用的东西！ -- Finally, some use out of your stingy warehouse!}
+#{200}{}{Well, well, well, what do we have here? Where'd you get this magazine, Sam? These women have lost all of their clothes!}
+{200}{}{好吧，好吧，好吧，我们这里有什么？你从哪儿弄来的这本杂志，山姆？这些女人把衣服都丢了！ -- Well, well, well, what do we have here? Where'd you get this magazine, Sam? These women have lost all of their clothes!}
+#{201}{}{What - how - [looks around wildly] D-don't tell anyone! Please! It's not even mine... }
+{201}{}{什么-怎么-别告诉任何人！拜托！它甚至不是我的。。。 -- What - how - [looks around wildly] D-don't tell anyone! Please! It's not even mine... }
+#{202}{}{Yeah, yeah, likely story.}
+{202}{}{是的，是的，可能是故事。 -- Yeah, yeah, likely story.}
+#{203}{}{If not yours, then whose?}
+{203}{}{如果不是你的，那是谁的？ -- If not yours, then whose?}
+#{204}{}{It's true! It's not mine. It belonged to that prisoner in the cells. They sent it here for storage, and... I was just looking, that's all. That's not against the rules, right?}
+{204}{}{是真的！不是我的。它属于牢房里的那个囚犯。他们把它送到这里存放，然后。。。我只是看看而已。这不违反规定，对吧？ -- It's true! It's not mine. It belonged to that prisoner in the cells. They sent it here for storage, and... I was just looking, that's all. That's not against the rules, right?}
+#{205}{}{Maybe not. But you know about the physical contact restrictions. Of course, this is just visual contact, but you might still get in trouble for it.}
+{205}{}{也许不是。但你知道身体接触的限制。当然，这只是视觉上的接触，但你可能还是会遇到麻烦。 -- Maybe not. But you know about the physical contact restrictions. Of course, this is just visual contact, but you might still get in trouble for it.}
+#{206}{}{[Hangs his head] I know... It's just so, so *new* to me. They never showed this to us, how other people look... You know, under their clothes. Maybe the doctors know. Even looking at these pictures, it's so... Weird and confusing... }
+{206}{}{我知道。。。这对我来说太新鲜了。他们从未向我们展示过，其他人的样子。。。你知道，在他们的衣服下面。也许医生知道。即使是看这些照片，它是如此。。。奇怪又混乱。。。 -- [Hangs his head] I know... It's just so, so *new* to me. They never showed this to us, how other people look... You know, under their clothes. Maybe the doctors know. Even looking at these pictures, it's so... Weird and confusing... }
+#{207}{}{Would you like to see... The real thing? You know what I mean.}
+{207}{}{你想看看。。。真的吗？你知道我的意思。 -- Would you like to see... The real thing? You know what I mean.}
+#{208}{}{The rules apply to everyone. Such an act, even if they're just pictures, is unforgivable.}
+{208}{}{规则适用于每个人。这样的行为，即使只是照片，也是不可原谅的。 -- The rules apply to everyone. Such an act, even if they're just pictures, is unforgivable.}
+#{209}{}{I don't care if you're curious about what people look like under their clothes, Sam. It's your problem and you'll have to deal with it yourself.}
+{209}{}{我不在乎你是否好奇人们衣服下的样子，山姆。这是你的问题，你得自己解决。 -- I don't care if you're curious about what people look like under their clothes, Sam. It's your problem and you'll have to deal with it yourself.}
+#{210}{}{Yes... Indeed. There's no rules against reading magazines, only physical contact. The committee can give me a hard time, but they can't punish me too badly. Let's just keep this between you and me, okay?}
+{210}{}{对。。。的确。没有禁止看杂志的规定，只有身体接触。委员会可以给我一个艰难的时刻，但他们不能惩罚我太重。让我们保守秘密，好吗？ -- Yes... Indeed. There's no rules against reading magazines, only physical contact. The committee can give me a hard time, but they can't punish me too badly. Let's just keep this between you and me, okay?}
+#{211}{}{You can trust me, but I'll take the magazine. I might need it in my travels.}
+{211}{}{你可以相信我，但我要买这本杂志。我可能在旅行中需要它。 -- You can trust me, but I'll take the magazine. I might need it in my travels.}
+#{212}{}{Give me the magazine, and you can sleep peacefully. But I won't go so easy on you next time.}
+{212}{}{把杂志给我，你就可以安睡了。但下次我不会对你这么好。 -- Give me the magazine, and you can sleep peacefully. But I won't go so easy on you next time.}
+#{213}{}{You think? Oh crap, I'm in big trouble... Look, just take it! Take it out of the city and... And just get it out of here! I'll delete it from the records, so no one will ever know!}
+{213}{}{你觉得呢？糟了，我有大麻烦了。。。听着，拿着它！把它带出城市。。。把它弄出去！我会把它从记录中删除，这样就没人知道了！ -- You think? Oh crap, I'm in big trouble... Look, just take it! Take it out of the city and... And just get it out of here! I'll delete it from the records, so no one will ever know!}
+#{214}{}{You're making the right choice, Sam. Maybe I'll find use for it out there in the wastes.}
+{214}{}{你的选择是对的，山姆。也许我会在荒野中找到它的用处。 -- You're making the right choice, Sam. Maybe I'll find use for it out there in the wastes.}
+#{215}{}{I don't need your permission, you abhorrent pervert. Just pray I keep this a secret.}
+{215}{}{我不需要你的允许，你这个可恶的变态。祈祷我能保守秘密。 -- I don't need your permission, you abhorrent pervert. Just pray I keep this a secret.}
+#{216}{}{But it's forbidden... I mean, it's not forbidden to look, but... }
+{216}{}{但这是禁止的。。。我是说，不禁止看，但是。。。 -- But it's forbidden... I mean, it's not forbidden to look, but... }
+#{217}{}{Come on, Sam, don't be shy. We'll lock the door and be all by ourselves... }
+{217}{}{拜托，山姆，别害羞。我们会锁上门独自一人。。。 -- Come on, Sam, don't be shy. We'll lock the door and be all by ourselves... }
+#{218}{}{You uncovered Sam's voyeuristic fantasies. Strange as it sounds, Vault City residents do not have any sexual experiences.}
+{218}{}{你揭露了山姆的偷窥癖。听起来很奇怪，金库市的居民没有任何性经历。 -- You uncovered Sam's voyeuristic fantasies. Strange as it sounds, Vault City residents do not have any sexual experiences.}
+#{234}{}{[Mouth hangs open in shock] I... I, er... Uh... }
+{234}{}{[震惊地张嘴]我。。。一、 呃。。。休斯敦大学。。。 -- [Mouth hangs open in shock] I... I, er... Uh... }
+#{235}{}{Don't just stand there, Sam. Be honest, you *want* to look, don't you?}
+{235}{}{别站在那儿，山姆。老实说，你想看看，是吗？ -- Don't just stand there, Sam. Be honest, you *want* to look, don't you?}
+#{236}{}{Oh, you look so cute when you're flustered, Sam. You don't just want to look, do you? What if I sit in your lap so you can *touch* it?}
+{236}{}{哦，你慌乱的时候看起来很可爱，山姆。你不只是想看，是吗？如果我坐在你腿上让你摸它呢？ -- Oh, you look so cute when you're flustered, Sam. You don't just want to look, do you? What if I sit in your lap so you can *touch* it?}
+#{237}{}{Well then stay there standing, while I get out of here.}
+{237}{}{那就站着别动，等我离开这里。 -- Well then stay there standing, while I get out of here.}
+#{238}{}{[Swallows] Y-yes... I mean, no! I mean... Why are you doing this?}
+{238}{}{[燕子]是的。。。我是说，不！我是说。。。你为什么这么做？ -- [Swallows] Y-yes... I mean, no! I mean... Why are you doing this?}
+#{239}{}{Why? You're so sweet, Sam. You're curious about this, aren't you? [sit in his lap and wrap your arms around his neck]}
+{239}{}{为什么？你真好，山姆。你对这个很好奇，不是吗？[坐在他的大腿上，用胳膊搂住他的脖子] -- Why? You're so sweet, Sam. You're curious about this, aren't you? [sit in his lap and wrap your arms around his neck]}
+#{240}{}{Goddamn it, you're boring. I'm out of here.}
+{240}{}{该死，你真无聊。我要走了。 -- Goddamn it, you're boring. I'm out of here.}
+#{241}{}{[Tries to push you away] No, stop! What are you doing? We, we can't... The rules... The Overseer... [breathes heavily] ...l-leave me alone, don't touch me. We can't... Physical contact is forbidden, remember?}
+{241}{}{[试图推开你]不，停下！你在做什么？我们，我们不能。。。规则。。。监工。。。[气喘吁吁]…别管我，别碰我。我们不能。。。身体接触是禁止的，记得吗？ -- [Tries to push you away] No, stop! What are you doing? We, we can't... The rules... The Overseer... [breathes heavily] ...l-leave me alone, don't touch me. We can't... Physical contact is forbidden, remember?}
+#{242}{}{Oh man... }
+{242}{}{哦，伙计。。。 -- Oh man... }
+#{243}{}{[Swallows] Wha... No, don't, wait... Why?}
+{243}{}{[燕子]什么。。。不，不要，等等。。。为什么？ -- [Swallows] Wha... No, don't, wait... Why?}
+#{244}{}{D-don't... }
+{244}{}{别。。。 -- D-don't... }
+#{245}{}{It's not what you expected, is it, Sam? [hug him tighter] Do you feel that? It's soft, isn't it?... }
+{245}{}{这不是你所期望的，是吗，山姆？[紧紧拥抱他]你感觉到了吗？它很软，不是吗？。。。 -- It's not what you expected, is it, Sam? [hug him tighter] Do you feel that? It's soft, isn't it?... }
+#{246}{}{Okay, that's enough. No more, alright?}
+{246}{}{好了，够了。不要了，好吗？ -- Okay, that's enough. No more, alright?}
+#{247}{}{[As you get out of his lap, Sam instinctively tries to hold on to you and falls to the floor] What are you... No, no, we can't! It's forbidden! Get... Get out of here! GET OUT OF HERE!}
+{247}{}{[当你从他的腿上下来，山姆本能地试图抓住你，然后摔倒在地上]你是什么。。。不，不，我们不能！这是禁止的！获取。。。离开这里！离开这里！ -- [As you get out of his lap, Sam instinctively tries to hold on to you and falls to the floor] What are you... No, no, we can't! It's forbidden! Get... Get out of here! GET OUT OF HERE!}
+#{248}{}{Okay, okay, I'm going.}
+{248}{}{好吧，好吧，我要走了。 -- Okay, okay, I'm going.}
+#{249}{}{[Sam slowly slides his hands down your body, silently looking at you, but then looks down at his lap in panic] Ohh, what is this? What's happening to me?! [shoves you off him in panic] WHAT IS HAPPENING TO ME?! [stumbles to the corner, holding his crotch, and looks at you with wide eyes] Leave! Get out! GET THE HELL OUT OF HERE!}
+{249}{}{[山姆慢慢地把手放在你身上，默默地看着你，然后惊恐地看着他的膝盖]哦，这是什么？我怎么了？！[慌乱中把你推离他]我怎么了？！[跌跌撞撞地走到角落，抓住他的胯部，睁大眼睛看着你]离开！走出！滚出去！ -- [Sam slowly slides his hands down your body, silently looking at you, but then looks down at his lap in panic] Ohh, what is this? What's happening to me?! [shoves you off him in panic] WHAT IS HAPPENING TO ME?! [stumbles to the corner, holding his crotch, and looks at you with wide eyes] Leave! Get out! GET THE HELL OUT OF HERE!}
+#{250}{}{I can't stop thinking out it. Listen, don't do that again, okay?}
+{250}{}{我无法停止思考。听着，别再这样了，好吗？ -- I can't stop thinking out it. Listen, don't do that again, okay?}
+#{251}{}{That was so weird... Let's not do it again.}
+{251}{}{太奇怪了。。。别再这样了。 -- That was so weird... Let's not do it again.}
+#{270}{}{Without well-armed guards, we're taking a big risk.}
+{270}{}{如果没有全副武装的警卫，我们就要冒很大的风险。 -- Without well-armed guards, we're taking a big risk.}
+#{271}{}{Sergeant Graves is acting strange lately.}
+{271}{}{格雷夫斯中士最近表现得很奇怪。 -- Sergeant Graves is acting strange lately.}
+#{272}{}{They've increased the patrols outside the city.}
+{272}{}{他们增加了城外的巡逻。 -- They've increased the patrols outside the city.}
+#{273}{}{We heard screaming outside the city last night.}
+{273}{}{昨晚我们听到城外的尖叫声。 -- We heard screaming outside the city last night.}
+#{274}{}{Did you hear something?}
+{274}{}{你听到什么了吗？ -- Did you hear something?}
+#{275}{}{I think I'd rather keep the door closed... }
+{275}{}{我想我宁愿把门关上。。。 -- I think I'd rather keep the door closed... }
+#{276}{}{I want to go back into the vault.}
+{276}{}{我想回到保险库。 -- I want to go back into the vault.}
+#{277}{}{Ugh... }
+{277}{}{呃。。。 -- Ugh... }
+#{278}{}{Great, now I'm imagining things... }
+{278}{}{太好了，现在我在想象。。。 -- Great, now I'm imagining things... }
+#{279}{}{Sergeant Stark asked for a lot of ammo.}
+{279}{}{斯塔克中士要了很多弹药。 -- Sergeant Stark asked for a lot of ammo.}
+#{280}{}{This thing is crap.}
+{280}{}{这东西是垃圾。 -- This thing is crap.}
+#{281}{}{I'm sweating already.}
+{281}{}{我已经出汗了。 -- I'm sweating already.}
+#{282}{}{The guards have me running nonstop.}
+{282}{}{警卫让我不停地跑。 -- The guards have me running nonstop.}
+#{283}{}{Did the last patrol finally come back? Good!}
+{283}{}{最后一个巡逻队回来了吗？很好！ -- Did the last patrol finally come back? Good!}
+#{284}{}{Don't hold up the line.}
+{284}{}{别挂断电话。 -- Don't hold up the line.}
+#{285}{}{It's not my business, but... }
+{285}{}{这不关我的事，但是。。。 -- It's not my business, but... }
+#{286}{}{Give me this, give me that... I'm sick of it.}
+{286}{}{给我这个，给我那个。。。我受够了。 -- Give me this, give me that... I'm sick of it.}
+#{287}{}{Just garbage.}
+{287}{}{只是垃圾。 -- Just garbage.}
+#{288}{}{I need to write up another report.}
+{288}{}{我需要再写一份报告。 -- I need to write up another report.}
+#{289}{}{No, I can't "lose" something for you.}
+{289}{}{不，我不能为你“丢”东西。 -- No, I can't "lose" something for you.}
+#{300}{}{I need a fuse for a water pump.}
+{300}{}{我需要一个水泵的保险丝。 -- I need a fuse for a water pump.}
+#{301}{}{Oh yeah, I got that order. Just a minute.}
+{301}{}{哦，是的，我接到命令了。等一下。 -- Oh yeah, I got that order. Just a minute.}
+#{302}{}{Good.}
+{302}{}{很好。 -- Good.}
+#{303}{}{I haven't received any orders for that. Ask Sergeant Graves to put in an order.}
+{303}{}{我还没有接到任何这方面的订单。请格雷夫斯中士下令。 -- I haven't received any orders for that. Ask Sergeant Graves to put in an order.}
+#{304}{}{Are you kidding me? So much running around for such a little thing?}
+{304}{}{你在开玩笑吧？为了这么一件小事到处跑？ -- Are you kidding me? So much running around for such a little thing?}
+#{305}{}{Fine, I�ll go find him.}
+{305}{}{好吧，我去找他。 -- Fine, I�ll go find him.}
+#{306}{}{Those are the rules.}
+{306}{}{这就是规则。 -- Those are the rules.}
+#{307}{}{Rules, huh? Strange, I remember some rules against physical contact... }
+{307}{}{规矩，嗯？奇怪，我记得一些禁止身体接触的规则。。。 -- Rules, huh? Strange, I remember some rules against physical contact... }
+#{308}{}{Okay, I�ll go ask for permission.}
+{308}{}{好的，我去请求允许。 -- Okay, I�ll go ask for permission.}
+#{309}{}{You... You wouldn't. [wipes sweat from his forehead] Look, I'll give it to you, just don't tell anyone, okay?}
+{309}{}{你。。。你不会的听着，我会给你的，只是不要告诉任何人，好吗？ -- You... You wouldn't. [wipes sweat from his forehead] Look, I'll give it to you, just don't tell anyone, okay?}
+#{310}{}{Smart decision, Sam. Now give me the fuse!}
+{310}{}{明智的决定，山姆。现在把导火索给我！ -- Smart decision, Sam. Now give me the fuse!}
+#{311}{}{Relax, I�m kidding.}
+{311}{}{别紧张，我开玩笑的。 -- Relax, I�m kidding.}
+#{312}{}{And where do naked magazines fit into those rules?}
+{312}{}{裸体杂志在哪里符合这些规则？ -- And where do naked magazines fit into those rules?}
+#{313}{}{Done. Sign here.}
+{313}{}{完成。在这里签名。 -- Done. Sign here.}
+#{314}{}{Whatever you say.}
+{314}{}{不管你说什么。 -- Whatever you say.}
+#{320}{}{Is there anyone in the city that could repair a train?}
+{320}{}{城里有人能修火车吗？ -- Is there anyone in the city that could repair a train?}
+#{321}{}{Uh, maybe someone from the technical services could help you out. Why are you asking me?}
+{321}{}{呃，也许技术服务部的人能帮你。你为什么问我？ -- Uh, maybe someone from the technical services could help you out. Why are you asking me?}
+#{322}{}{Okay.}
+{322}{}{可以。 -- Okay.}
+#{1110}{}{Hi, citizen }
+{1110}{}{嗨，市民 -- Hi, citizen }
+#{1120}{}{I came to get my stuff.}
+{1120}{}{我是来拿东西的。 -- I came to get my stuff.}
+#{1160}{}{Hmm. Looks functional. Thanks, citizen. Do you have anything else?}
+{1160}{}{嗯。看起来很实用。谢谢，市民。你还有别的东西吗？ -- Hmm. Looks functional. Thanks, citizen. Do you have anything else?}
+#{1192}{}{Wait, I changed my mind! I need something else.}
+{1192}{}{等等，我改变主意了！我需要别的东西。 -- Wait, I changed my mind! I need something else.}
+#{1195}{}{If this were New Reno, I'd even tip you, heh-heh.}
+{1195}{}{如果这是新雷诺，我甚至会给你小费，呵呵。 -- If this were New Reno, I'd even tip you, heh-heh.}
+#{1207}{}{I understand, Sam. I'm curious too. Would you like to see... The real thing? You know what I mean.}
+{1207}{}{我明白，山姆。我也很好奇。你想看看。。。真的吗？你知道我的意思。 -- I understand, Sam. I'm curious too. Would you like to see... The real thing? You know what I mean.}
+#{1212}{}{Give me the magazine, and you can sleep peacefully. But I won't go so easy on you next time.}
+{1212}{}{把杂志给我，你就可以安睡了。但下次我不会对你这么好。 -- Give me the magazine, and you can sleep peacefully. But I won't go so easy on you next time.}

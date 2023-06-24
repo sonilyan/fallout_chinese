@@ -1,0 +1,38 @@
+#{100}{}{You see a water tank.}
+{100}{}{你看到一个水箱。 -- You see a water tank.}
+#{101}{}{You see a huge tank full of fetid rainwater. It's rusted through and leaking in several spots.}
+{101}{}{你看到一个装满恶臭雨水的巨大水箱。它锈透了，有好几个地方漏水。 -- You see a huge tank full of fetid rainwater. It's rusted through and leaking in several spots.}
+#{102}{}{You see a huge water tank. It has seen better days, but it's watertight.}
+{102}{}{你看到一个巨大的水箱。它经历了更好的日子，但它是无懈可击的。 -- You see a huge water tank. It has seen better days, but it's watertight.}
+#{103}{}{You can't examine the water tank in combat!}
+{103}{}{你不能在战斗中检查水箱！ -- You can't examine the water tank in combat!}
+#{110}{}{It's just a huge water tank.}
+{110}{}{只是一个巨大的水箱。 -- It's just a huge water tank.}
+#{111}{}{You see a huge water tank. It's almost empty.}
+{111}{}{你看到一个巨大的水箱。几乎是空的。 -- You see a huge water tank. It's almost empty.}
+#{112}{}{Good as new!}
+{112}{}{像新的一样好！ -- Good as new!}
+#{113}{}{All the leaks in the water tank have been patched. The tribe will be happy to hear about this.}
+{113}{}{水箱里所有的漏洞都已修补。部落会很高兴听到这个消息的。 -- All the leaks in the water tank have been patched. The tribe will be happy to hear about this.}
+#{120}{}{You see the tribe's leaking water tank.}
+{120}{}{你看到部落的水箱漏水了。 -- You see the tribe's leaking water tank.}
+#{121}{}{Examine the tank more thoroughly.}
+{121}{}{更彻底地检查油箱。 -- Examine the tank more thoroughly.}
+#{122}{}{Attempt to repair the tank.}
+{122}{}{尝试修理油箱。 -- Attempt to repair the tank.}
+#{123}{}{Leave it be.}
+{123}{}{别管它了。 -- Leave it be.}
+#{124}{}{The tank has rusted through in several spots and leaks constantly. It can be repaired, but you'll need a lot of scrap metal.}
+{124}{}{油箱有几个地方生锈了，经常漏水。它可以修理，但你需要很多废金属。 -- The tank has rusted through in several spots and leaks constantly. It can be repaired, but you'll need a lot of scrap metal.}
+#{125}{}{You'll need more scrap to fix this.}
+{125}{}{你需要更多的碎片来修复这个。 -- You'll need more scrap to fix this.}
+#{126}{}{I don't have the skill to fix this.}
+{126}{}{我没有能力解决这个问题。 -- I don't have the skill to fix this.}
+#{127}{}{[Repair the water tank.]}
+{127}{}{[修理水箱。] -- [Repair the water tank.]}
+#{128}{}{Repairing this tank will be a long, difficult, and resource-intensive effort.}
+{128}{}{修复这个坦克将是一项长期、困难和资源密集型的工作。 -- Repairing this tank will be a long, difficult, and resource-intensive effort.}
+#{129}{}{It takes some careful thought and a skilled hand, but you manage to patch the tank's leaks using several pieces of scrap metal. This tank should continue to serve the tribe for many years to come.}
+{129}{}{这需要一些仔细的思考和熟练的手，但你设法修补坦克的泄漏使用几块废金属。这辆坦克将在未来的许多年里继续为部落服务。 -- It takes some careful thought and a skilled hand, but you manage to patch the tank's leaks using several pieces of scrap metal. This tank should continue to serve the tribe for many years to come.}
+#{130}{}{Great!}
+{130}{}{太好了！ -- Great!}

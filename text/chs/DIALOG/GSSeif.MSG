@@ -1,0 +1,84 @@
+#{100}{}{You see a safe locked by a code.}
+{100}{}{你看到一个被密码锁着的保险箱。}
+#{101}{}{You see a formidably-looking safe.}
+{101}{}{你看到一个看起来非常安全的人。}
+#{102}{}{Explosion leaves no damage on the safe, it must be made from some super-strong alloy.}
+{102}{}{爆炸不会对保险箱造成任何损坏，它必须由某种超强合金制成。}
+#{103}{}{Your keenness of observation is astounding! You discover a hidden compartment within the safe, containing some note.}
+{103}{}{你的观察力真是惊人！你发现保险柜里有一个隐藏的隔间，里面有一些纸条。}
+#{104}{}{It's a very durable manager's safe. These things are generally known to hold lots of valuables.}
+{104}{}{这是一个非常耐用的保险箱。众所周知，这些东西里面有很多贵重物品。}
+#{105}{}{This won't do any good.}
+{105}{}{这没什么好处。}
+#{106}{}{A very strong-looking safe. It's bound to have some valuables in it.}
+{106}{}{一个看起来很结实的保险箱。里面肯定有贵重物品。}
+#{107}{}{No use}
+{107}{}{没用}
+#{108}{}{Mechanical lockpicks won't do you any good - this safe has an electronic kind of lock.}
+{108}{}{机械撬锁对你没有任何好处-这个保险箱有电子锁。}
+#{109}{}{That's not what I need}
+{109}{}{那不是我需要的}
+#{110}{}{You spot an electric trap on the safe, but you don't have enough skill to disarm it.}
+{110}{}{你发现保险箱上有一个电动陷阱，但你没有足够的技能来解除它。}
+#{111}{}{You've disarmed the trap on the safe.}
+{111}{}{你解除了保险箱上的陷阱。}
+#{112}{}{Just like that!}
+{112}{}{就这样！}
+#{113}{}{The trap hits you with an electric charge, but your gear absorbs the damage.}
+{113}{}{陷阱以电荷击中你，但你的装备会吸收伤害。}
+#{114}{}{The trap hits you with an electric charge, but your rubber boots help reduce the damage.}
+{114}{}{陷阱会给你带来电荷，但你的橡胶靴可以帮助减少伤害。}
+#{115}{}{The trap hits you with an electric charge and you take damage.}
+{115}{}{陷阱带着电荷击中你，你就会受到伤害。}
+#{116}{}{Failure}
+{116}{}{失败}
+#{117}{}{Dammit!}
+{117}{}{该死！}
+#{118}{}{No traps.}
+{118}{}{没有陷阱。}
+#{120}{}{This safe has already been picked.}
+{120}{}{这个保险箱已经被拿走了。}
+#{121}{}{Your skill is too low to pick this lock. There's no use trying.}
+{121}{}{你的技能太低了，不能撬开这把锁。尝试是没有用的。}
+#{122}{}{There's an electric trap protecting this safe. You better disarm it before trying to pick it.}
+{122}{}{保险箱里有个电动陷阱。你最好先解除它的武装再去捡它。}
+#{123}{}{There's a trap}
+{123}{}{有个陷阱}
+#{124}{}{The safe is protected by very high voltage.}
+{124}{}{保险箱有很高的电压保护。}
+#{125}{}{You skillfully pick the lock.}
+{125}{}{你熟练地撬开了锁。}
+#{126}{}{Well, what do we have here?!}
+{126}{}{我们这里有什么？！}
+#{127}{}{You fail to pick this safe.}
+{127}{}{你没选这个保险箱。}
+#{130}{}{Fail}
+{130}{}{失败}
+#{131}{}{Come on!}
+{131}{}{加油！}
+#{132}{}{Ugh!}
+{132}{}{啊！}
+#{133}{}{Open up, damn you!}
+{133}{}{开门，该死的！}
+#{134}{}{By the power invested in me by...}
+{134}{}{以…赋予我的力量。。。}
+#{135}{}{Come on already!}
+{135}{}{快点！}
+#{136}{}{How many more times?!}
+{136}{}{还要几次？！}
+#{137}{}{I want you to open this very instant!}
+{137}{}{我要你马上打开！}
+#{138}{}{Come on, what are you hiding from me?}
+{138}{}{拜托，你对我隐瞒了什么？}
+#{139}{}{A little more...}
+{139}{}{再多一点。。。}
+#{140}{}{Just a teensie-weensie bit more...}
+{140}{}{再多一点。。。}
+#{141}{}{Ummmm...}
+{141}{}{嗯。。。}
+#{142}{}{Aw crap...}
+{142}{}{糟糕。。。}
+#{143}{}{Bullshit!}
+{143}{}{瞎扯！}
+#{144}{}{I smell valuables...}
+{144}{}{我闻到贵重物品的味道。。。}

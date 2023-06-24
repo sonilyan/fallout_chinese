@@ -1,0 +1,16 @@
+#{102}{}{You can't use this during combat.}
+{102}{}{你不能在战斗中使用这个。}
+#{103}{}{You don't need this terminal anymore.}
+{103}{}{你不再需要这个终端了。}
+#{190}{}{Barrels are in place. One spark - and the gates will be blown to pieces!}
+{190}{}{桶已就位。一个火花-大门就会被炸成碎片！}
+#{191}{}{This is control terminal for hangar's crane. Too bad it doesn't work, since power supply is absent.}
+{191}{}{这是机库起重机的控制终端。可惜它不工作，因为没有电源。}
+#{192}{}{This is control terminal for hangar's crane. However, your attempts to influence the crane from it are unsuccessfull. Apparently, there is a break somewhere in the hangar's electric wires.}
+{192}{}{这是机库起重机的控制终端。然而，你试图从中影响起重机，却没有成功。很明显，机库的电线有个缺口。}
+#{193}{}{[Leave]}
+{193}{}{[离开]}
+#{194}{}{The terminal lights up different lights. Brushing off the dust and sand from the toggle switches, you see the inscriptions. Yes, you can use it.}
+{194}{}{航站楼亮着不同的灯。拂去拨动开关上的灰尘和沙子，你会看到上面的铭文。是的，你可以用它。}
+#{195}{}{[Move the fuel barrels to the gate with a crane]}
+{195}{}{[用起重机把燃料桶移到门上]}

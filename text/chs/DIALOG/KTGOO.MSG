@@ -1,0 +1,2 @@
+#{100}{}{Your boots just melted.}
+{100}{}{你的靴子融化了。}

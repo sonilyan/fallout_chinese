@@ -1,0 +1,410 @@
+#{100}{}{You see the Mayor.}
+{100}{}{你去见市长。}
+#{101}{}{You see Mr. Williamson, the mayor of Las Vegas. Despite his high position he looks rather simple.}
+{101}{}{你看到威廉森先生了，拉斯维加斯市长。尽管他地位很高，但他看上去很单纯。}
+#{102}{}{Do you have an appointment? Please leave my office before I call the guards!}
+{102}{}{你有预约吗？在我叫警卫之前请离开我的办公室！}
+#{103}{}{Security! An intruder in the office!}
+{103}{}{保安！办公室里有个入侵者！}
+#{110}{}{I'm listening.}
+{110}{}{我在听。}
+#{111}{}{Mr. Williamson, maybe I could provide some services for the city? Or even to you personally?}
+{111}{}{威廉森先生，也许我可以为这个城市提供一些服务？甚至对你个人？}
+#{112}{}{About the investigation...}
+{112}{}{关于调查。。。}
+#{113}{}{Could you help me find the coordinates of Area 51?}
+{113}{}{你能帮我找到51区的坐标吗？}
+#{114}{}{I don't have anything. Take care.}
+{114}{}{我什么都没有。当心。}
+#{115}{}{Is that it? Please don't bother me with such minor issues. Talk to my secretary.}
+{115}{}{是这样吗？请不要为这些小事打扰我。和我的秘书谈谈。}
+#{116}{}{Wait, hold on! I really need this!..}
+{116}{}{等等，等等！我真的需要这个！。。}
+#{117}{}{Alright, I'll ask somebody else then.}
+{117}{}{好吧，那我去问问别人。}
+#{118}{}{Well, I think you deserve access to our archive. Talk to our head archivist; he'll give you the necessary information.}
+{118}{}{嗯，我认为你应该进入我们的档案。和我们的首席档案管理员谈谈，他会给你必要的信息。}
+#{119}{}{Thank you, Mr. Williamson!}
+{119}{}{谢谢你，威廉森先生！}
+#{121}{}{Yes, I think I have something for you. I ask you to take this matter as my personal request, although its resolution would greatly influence the fate of the city.}
+{121}{}{是的，我想我有东西要给你。我请求你把这件事作为我个人的请求，尽管它的解决将极大地影响这座城市的命运。}
+#{122}{}{Sounds intriguing.}
+{122}{}{听起来很有趣。}
+#{123}{}{Make yourself comfortable. We have a lot to discuss.}
+{123}{}{让自己舒服点。我们有很多事情要讨论。}
+#{124}{}{Thank you, Mr. Williamson.}
+{124}{}{谢谢你，威廉森先生。}
+#{125}{}{Would you like a cup of coffee? Caramel? Cigar?}
+{125}{}{你想喝杯咖啡吗？焦糖？雪茄？}
+#{126}{}{Thank you, I won't say no to a caramel.}
+{126}{}{谢谢，我不会拒绝焦糖的。}
+#{127}{}{No thank you, let's get straight to the point.}
+{127}{}{不用了，谢谢，我们直说吧。}
+#{128}{}{I'm afraid you don't look like you're fit for the job at hand. Thanks for the offer.}
+{128}{}{恐怕你看起来不适合这份工作。谢谢你的提议。}
+#{129}{}{That's unfortunate.}
+{129}{}{那太不幸了。}
+#{130}{}{Alright, on to business.}
+{130}{}{好的，开始工作。}
+#{131}{}{I'm listening.}
+{131}{}{我在听。}
+#{132}{}{As you probably know, there is a huge power plant near the Las Vegas, which, as unusual as it could be, stayed almost intact after the Great War. I'm talking, of course, about the Hoover Dam. For our city it is a very important enterprise. Thanks to it, the Las Vegas is now what it is - a major strategic point on the map and an influental global player. Naturally, such an important object cannot be owned by a single party, be it the one person or an organization. So, the city made a decision to split the rights on controlling the plant between the representatives of the city elites. A system of shares - or quotas - was introduced, to turn the decision-making process into more transparent and responsible... Unfortunately, lately, the situation became more tense.}
+{132}{}{如你所知，拉斯维加斯附近有一座巨大的发电厂，尽管很不寻常，但在二战后几乎完好无损。当然，我说的是胡佛大坝。对我们城市来说，这是一项非常重要的事业。多亏了它，拉斯维加斯现在已经成为了一个重要的战略要地和一个有影响力的全球玩家。当然，这样一个重要的对象，无论是一个人，还是一个组织，都不可能是一方所有。因此，城市做出了一个决定，在城市精英的代表之间分配对工厂的控制权。引入了股份制或配额制，使决策过程变得更加透明和负责。。。不幸的是，最近局势变得更加紧张。}
+#{133}{}{What do you mean by "more tense"?}
+{133}{}{你说的“更紧张”是什么意思？}
+#{134}{}{The working conditions on the plant are... Not the most pleasant. Such big enterprise as the Hoover Dam requires a lot of manpower to employ, including engineers and supporting services personnel. This is a huge financial burden for the city, so the level of salaries for low-qualified workers leaves much to be desired. Furthermore, worn-out condition of equipment, increased radiation level, poor soundproofing and other problems led to a certain difficulties with... The hiring of staff. However, you'd better talk about it with Bob Neil himself - he is the chief engineer and head manager of the Hoover Dam.}
+{134}{}{工厂的工作条件是。。。不是最愉快的。像胡佛大坝这样的大企业需要大量的人力来雇佣，包括工程师和支持服务人员。这对这个城市来说是一个巨大的财政负担，因此低水平工人的工资水平还有很多需要改进的地方。此外，设备的磨损、辐射水平的提高、隔音效果差等问题也给设备的使用带来了一定的困难。。。雇佣员工。不过，你最好和鲍勃·尼尔本人谈谈——他是胡佛大坝的总工程师和总经理。}
+#{135}{}{Do you want me to help with searching the workforce for the power plant?}
+{135}{}{你想让我帮忙找发电厂的工人吗？}
+#{136}{}{...No. The thing is, when the public became aware of this problems, the level of crime in the city started to rise prominently. And, in the most cases, the victims in this crimes were plant's workers. I don't think this is a coincidence. Moreover, judging by the police reports, the majority of arrested criminals were under the influence of drugs. And that bothers me even more.}
+{136}{}{……不。问题是，当公众意识到这些问题时，这个城市的犯罪率开始显著上升。而且，在大多数情况下，这些罪行的受害者都是工厂的工人。我不认为这是巧合。此外，从警方的报告来看，大多数被捕的罪犯都受到毒品的影响。这让我更加困扰。}
+#{137}{}{What drugs are we talking about?}
+{137}{}{我们在说什么药？}
+#{138}{}{I am no specialist in fields of medical or chemical science, but the same police reports said it's not about harmless pot, or even mushrooms - we are dealing here with psychedelics, opiates and other synthetic or partially synthetic drugs. That means this is not about some single amateur chemists, although, I wouldn't discard any possibility.}
+{138}{}{我不是医学或化学科学领域的专家，但同一份警方报告说，这与无害的大麻，甚至蘑菇无关——我们这里处理的是迷幻药、鸦片剂和其他合成或部分合成毒品。这意味着这不是关于某个业余化学家，尽管，我不会放弃任何可能性。}
+#{139}{}{That means there is a primary drug supplier to find.}
+{139}{}{这意味着要找到一个主要的药物供应商。}
+#{140}{}{Correct. But my main point is this - I have grounds to believe that all is connected: the problems on the Hoover Dam, increased number of crimes and attacks on the staff of the Dam. And that means, without a doubt, that there is someone who benefits from it.}
+{140}{}{对的。但我的主要观点是——我有理由相信一切都是相关联的：胡佛大坝的问题、犯罪数量的增加以及对大坝工作人员的攻击。这意味着，毫无疑问，有人从中受益。}
+#{141}{}{So, you suspect that all of this is made to achieve some shady goal?}
+{141}{}{所以，你怀疑这一切都是为了达到一个阴暗的目的？}
+#{142}{}{I assume that everything that happens, happens for a reason. Someone is taking advantage of it. And that's what you are going to investigate.}
+{142}{}{我认为每件事的发生，都是有原因的。有人在利用它。这就是你要调查的。}
+#{143}{}{Why don't you assign the police on this?}
+{143}{}{你为什么不派警察来处理这件事？}
+#{144}{}{The police is already trying to do everything possible, but its forces are not enough to handle everything altogether. With that said, they already have some leads. They think the group of the outcast ghouls - freaks - are involved, and also have some suspicions about another major entrepreneur in the Las Vegas - mr. Sam Phillips. More details on that can be provided by the police chief, Oscar Davis. I know him as honest and responsible officer - although, he is a little too serious when it comes to following protocols.}
+{144}{}{警方已经在尽一切可能，但其力量还不足以处理所有事情。话说回来，他们已经有了一些线索。他们认为这群被遗弃的食尸鬼——怪胎——与此有关，而且对拉斯维加斯的另一位主要企业家——山姆·菲利普斯先生也有一些怀疑。更多细节可以由警察局长奥斯卡·戴维斯提供。我知道他是一个诚实负责的官员——不过，在遵守协议方面，他有点太严肃了。}
+#{145}{}{I see.}
+{145}{}{我懂了。}
+#{146}{}{So, I want you to find out, who is responsible for everything happening in the city. I'm asking you to search for evidence - documents, recordings, letters - anything that can justify your arguments.}
+{146}{}{所以，我想让你找出，谁对城市里发生的一切负责。我要求你搜索证据-文件，录音，信件-任何能证明你论点的东西。}
+#{147}{}{Are you assuming that there is some limited circle of persons of interest?}
+{147}{}{你是在假设有一些有限的利益相关者吗？}
+#{148}{}{You see, there are not so many people who can really influence upon the economical situation here. Las Vegas is, let's say, limited in powerful human assets. The possibility of upward social mobility is practically nonexistent, therefore, in our case, the one who desires more power is clearly the one who already has plenty.}
+{148}{}{你看，能真正影响这里经济形势的人并不多。比方说，拉斯维加斯的人力资源有限。社会向上流动的可能性实际上是不存在的，因此，在我们的例子中，渴望更多权力的人显然是已经拥有足够权力的人。}
+#{149}{}{Do you suspect anyone specific?}
+{149}{}{你怀疑有什么人吗？}
+#{150}{}{Yes, I do. But I don't want to give you my hypothesis prematurely. I want you to make your own perspective on events.}
+{150}{}{是的，我知道。但我不想过早地给你我的假设。我要你对事件有自己的看法。}
+#{151}{}{Okay. Let's summarize then.}
+{151}{}{可以。让我们总结一下。}
+#{152}{}{Let's do that. Here's what your job will entail. Investigate the source of drugs invading the city. Find out the key manufacturer and supplier. And the most of all - who benefits from it. When you gather enough evidence that can be strung together, report to me. If you succeed, you will have your payment in amount of 30,000 dollars, cash.}
+{152}{}{我们来吧。这是你的工作需要做的。调查入侵该市的毒品来源。找出关键制造商和供应商。最重要的是谁从中受益。当你收集到足够的证据，可以串连起来，向我报告。如果你成功了，你将得到3万美元的现金。}
+#{153}{}{Can I see any of it in advance?}
+{153}{}{我能提前看一下吗？}
+#{154}{}{Now that's a price worth working for. I'll take the job.}
+{154}{}{这是一个值得努力的代价。我接受这份工作。}
+#{155}{}{Very well. I'll be waiting for your report. Try not to take too long, and... Be careful. By the way, I see you have a Pip-Boy. You do know about the capabilities of this device, don't you? Particularly that it includes the fuctionality of recording conversations.}
+{155}{}{很好。我等你的报告。尽量不要花太长时间，而且。。。小心。顺便说一句，我看你有个小男孩。你知道这个设备的功能，是吗？特别是它包含了记录对话的功能。}
+#{156}{}{Yes, I'm familiar with my Pip-Boy and know how to use this function.}
+{156}{}{是的，我熟悉我的Pip男孩，知道如何使用这个函数。}
+#{157}{}{Honestly, I didn't know about it.}
+{157}{}{老实说，我不知道。}
+#{158}{}{Then keep that in mind. I suppose the recordings could be used as evidence against some persons on their involvement in specific events.}
+{158}{}{那就记住这一点。我想这些录音可以作为指控某些人参与特定事件的证据。}
+#{159}{}{Alright, I'll make sure to remember it.}
+{159}{}{好吧，我一定要记住。}
+#{160}{}{Well, good luck in your investigation.}
+{160}{}{祝你调查顺利。}
+#{161}{}{I'll begin immediately, Mr. Williamson.}
+{161}{}{我马上就开始，威廉森先生。}
+#{162}{}{You took on a investigation case involving drugs. The job is as dangerous as it is important.}
+{162}{}{你接手了一起毒品调查案。这工作既危险又重要。}
+#{163}{}{Yes, of course. But no more than 10% of the reward. How much do you need?}
+{163}{}{是的，当然。但不超过奖励的10%。你需要多少钱？}
+#{164}{}{6000}
+{164}{}{6000}
+#{165}{}{5000}
+{165}{}{5000}
+#{166}{}{4000}
+{166}{}{4000}
+#{167}{}{3000}
+{167}{}{3000}
+#{168}{}{2000}
+{168}{}{2000}
+#{169}{}{1000}
+{169}{}{1000}
+#{170}{}{I think I'll collect everything upon completion.}
+{170}{}{我想完成后我会把所有的东西都收集起来。}
+#{171}{}{Here is your deposit. You won't be given more until you complete the task.}
+{171}{}{这是您的押金。在你完成任务之前，你不会得到更多。}
+#{172}{}{Understood.}
+{172}{}{理解。}
+#{173}{}{Can I get advance payment to help myself in the investigation?}
+{173}{}{我能得到预付款来协助调查吗？}
+#{174}{}{On another thought, I'd rather collect everything at once.}
+{174}{}{另一个想法是，我宁愿立刻收集所有的东西。}
+#{175}{}{Well, time to earn it.}
+{175}{}{好吧，是时候挣钱了。}
+#{176}{}{Do you have new clues about your investigation?}
+{176}{}{你对你的调查有新的线索吗？}
+#{177}{}{I don't think I have enough.}
+{177}{}{我想我还不够。}
+#{178}{}{Yes, I'm sure I gathered enough evidence to explain everything.}
+{178}{}{是的，我确信我收集了足够的证据来解释一切。}
+#{179}{}{Very well. [To the secretary] Marion, don't let anyone into my office, I'm holding an important meeting! Okay, I'm listening.}
+{179}{}{很好。[对秘书说]马里恩，别让任何人进入我的办公室，我在开一个重要的会议！好的，我在听。}
+#{180}{}{I suppose, I should begin by saying that our mysterious suspect has a major influence on the Las Vegas city police. Not long after I asked some questions in the department, I was met by one of the inspectors at the Clean City gates. He had an order to kill me. I didn't manage to figure out who or what made him carry that, but it is obvious that it wasn't his own initiative.}
+{180}{}{我想，我应该先说我们的神秘嫌犯对拉斯维加斯市警方有重大影响。我在部门里问了几个问题后不久，一位视察员在清洁城市门口迎接了我。他接到命令要杀我。我没能弄清楚是谁或是什么让他带着那个，但很明显，这不是他自己的主动。}
+#{181}{}{So, the police is involved. No surprise though - any social institute always includes someone who dissatisfied with current state of things. Do you have some evidence, which could help to identify the person of interest? }
+{181}{}{所以，警察介入了。不过，毫不奇怪，任何一个社会机构总是包括对现状不满的人。你有什么证据可以帮助你辨认出感兴趣的人吗？}
+#{182}{}{I do. According to this document here, the police had been spending additional budget funds with the goal of prioritizing the investigations connected to drug cases. But, at the same time, the police already had its key suspects - the freaks and Sam Phillips.}
+{182}{}{我愿意。根据这份文件，警方一直在追加预算资金，目的是优先处理与毒品案件有关的调查。但与此同时，警方已经掌握了关键嫌疑人——怪胎和山姆·菲利普斯。}
+#{183}{}{[Mayor carefully studies Oscar Davis' receipt] Huh. The decision to go overbudget is made by Tom Parker. And it seems that he decided to take action using the chief of the police. "Prioritizing" the drug cases at the same time when the freaks and Sam Phillips are already accused... Knowing Davis, I am sure he took this matter very seriously - he wouldn't do anything without serious evidence on both ghouls and Sam. What did you manage to find out about Phillips?}
+{183}{}{[市长仔细研究奥斯卡·戴维斯的收据]嗯。超额预算的决定是由汤姆·帕克作出的。他似乎决定利用警察局长采取行动。”优先考虑“毒品案件的同时，怪胎和山姆菲利普斯已经被指控。。。了解戴维斯，我确信他对这件事非常认真——如果没有关于食尸鬼和山姆的确凿证据，他不会做任何事。关于菲利普斯，你发现了什么？}
+#{184}{}{That he was accused of producing chems - it was reported to the police by anonymous source. During the search the cops found some substance, which, allegedly, could be used for drug manufacturing.}
+{184}{}{他被指控制造化学物质，这是匿名人士向警方报告的。在搜查过程中，警察发现了一些据称可用于制造毒品的物质。}
+#{185}{}{Is he really involved in this?}
+{185}{}{他真的参与其中了吗？}
+#{186}{}{I have the recording of conversation with Larry Geller, the leader of the ghouls. He believes that Phillips is operating within the law.}
+{186}{}{我有和食尸鬼首领拉里·盖勒的谈话录音。他认为菲利普斯是在法律范围内运作的。}
+#{187}{}{I have the recording of conversation with one of the local dealers. He said that Phillips didn't purchase any drugs or materials for producing them.}
+{187}{}{我有和当地一个经销商的谈话录音。他说，菲利普斯没有购买任何药品或生产它们的材料。}
+#{188}{}{He has been detained. Although, no proof of his guilt has been found, so it would seem he is innocent.}
+{188}{}{他被拘留了。虽然还没有找到他有罪的证据，所以看起来他是无辜的。}
+#{189}{}{I haven't found that out yet.}
+{189}{}{我还没发现呢。}
+#{190}{}{What are you doing here then?! Go and do your job!}
+{190}{}{那你在这里干什么？！去做你的工作吧！}
+#{191}{}{As you wish, mr. mayor.}
+{191}{}{如你所愿，市长先生。}
+#{192}{}{I think so... Yes... Is there another Sam Phillips in the city?}
+{192}{}{我认为是这样。。。对。。。城里还有萨姆·菲利普斯吗？}
+#{193}{}{I think so, although, I don't know who is responsible.}
+{193}{}{我想是的，不过，我不知道谁该对此负责。}
+#{194}{}{I have the recording of conversation with Larry Geller, the leader of the ghouls. He believes that Phillips is operating within the law.}
+{194}{}{我有和食尸鬼首领拉里·盖勒的谈话录音。他认为菲利普斯是在法律范围内运作的。}
+#{195}{}{I talked with Larry Geller, the leader of the ghouls. He believes that Phillips is operating within the law.}
+{195}{}{我和食尸鬼首领拉里·盖勒谈过。他认为菲利普斯是在法律范围内运作的。}
+#{196}{}{I still haven't managed to figure this out.}
+{196}{}{我还没弄明白。}
+#{197}{}{I have the recording of conversation with one of the local "pushers". He said that Phillips didn't purchase any drugs or materials for producing them.}
+{197}{}{我有和当地一个“推手”的谈话录音。他说，菲利普斯没有购买任何药品或生产它们的材料。}
+#{198}{}{I talked with one of the local "pushers". He said that Phillips didn't purchase any drugs or materials for producing them.}
+{198}{}{我和当地的一个“推手”谈过。他说，菲利普斯没有购买任何药品或生产它们的材料。}
+#{199}{}{I still haven't managed to figure this out.}
+{199}{}{我还没弄明白。}
+#{200}{}{You're saying I should trust your word on it?}
+{200}{}{你是说我应该相信你的话？}
+#{201}{}{Well... I didn't record the conversation.}
+{201}{}{好。。。我没有录下对话。}
+#{202}{}{Despite the Police Department's scepticism, I've managed to convince them that the materials they have on Sam Phillips does not prove his participation in drug dealing.}
+{202}{}{尽管警察局对此持怀疑态度，但我还是设法说服他们，他们掌握的有关山姆·菲利普斯的资料并不能证明他参与了毒品交易。}
+#{203}{}{Okay, the situation with involvement of Sam Phillips is mostly clear. But the question still remains: where do the drugs come from? What about freaks, do they have any connections to it?}
+{203}{}{好吧，山姆·菲利普斯的情况基本清楚。但问题依然存在：这些药物从何而来？怪胎们呢，他们和这有什么关系吗？}
+#{204}{}{Actually, I've managed to locate the entire drug laboratory on the outskirts of the city.}
+{204}{}{实际上，我已经把整个毒品实验室都安排在了市郊。}
+#{205}{}{I'm still looking into it. Don't have answer for now.}
+{205}{}{我还在调查。暂时没有答案。}
+#{206}{}{An entire laboratory?! Just as I suspected. The amounts of chems were just too much, if not impossible, to make for a small operation. What did you find out about it? The main thing - do you know who is in charge of the facility?}
+{206}{}{整个实验室？！就像我怀疑的那样。如果不是不可能的话，化学药品的数量太多了，不足以进行一次小规模的手术。你发现了什么？最重要的是-你知道谁负责这个设施吗？}
+#{207}{}{Although the lab uses slaves as a labor and as a guinea pigs for testing new products, which itself could point at the connection to the slavers guild, there are no names in the lab's records. But I think we can write the freaks off the list of suspects - here are the documents I found in the Slavertown.}
+{207}{}{尽管实验室使用奴隶作为劳动力和试验新产品的豚鼠，这本身可能表明与奴隶工会有联系，但实验室的记录中没有名字。但我想我们可以把这些怪胎从嫌疑犯名单上划掉-这是我在斯拉夫镇找到的文件。}
+#{208}{}{I haven't managed to work that out yet.}
+{208}{}{我还没想好。}
+#{209}{}{Let me see. Where did you get that?}
+{209}{}{我想一下。你从哪儿弄来的？}
+#{210}{}{In the safe belonging to Vortis, the head of the slavers guild.}
+{210}{}{在沃蒂斯的保险箱里，他是奴隶公会的首领。}
+#{211}{}{Judging by this, Vortis is waiting for the freaks to be set up. So we can safely say, that freaks are innocent here, although I'm still worried by this "Boss" person, who is keen on the overpriced slave deal. Do you have any clues, who that might be?}
+{211}{}{由此判断，沃蒂斯正在等待怪胎被陷害。所以我们可以放心地说，这里的怪胎是无辜的，尽管我仍然担心这个“老板”的人，他热衷于定价过高的奴隶交易。你有什么线索吗，那可能是谁？}
+#{212}{}{I have another note from the lab, about the purchasing the shipment of chems. It contains some mentions about buyer - and it's the "Three-card Monte" casino.}
+{212}{}{我从实验室收到另一封信，是关于购买化学药品的。它包含了一些关于买家的内容——这是“三卡蒙特”赌场。}
+#{213}{}{I know that Hal Wallace is connected to the drugs. I've recorded a conversation with him when he tried to convince me to commit a crime.}
+{213}{}{我知道哈尔·华莱士和毒品有关。我录了他说服我犯罪时的谈话。}
+#{214}{}{Unfortunately, that is all I have proof on.}
+{214}{}{不幸的是，我只有这些证据。}
+#{215}{}{The casino is a very profitable business. Why does he need to involve himself with drugs?}
+{215}{}{赌场是一个非常有利可图的行业。他为什么要吸毒？}
+#{216}{}{I have no evidence, but my theory is this - there are always people willing for more than currently at the menu. Why to pass on such opportunity? He is just maximizing his profits.}
+{216}{}{我没有证据，但我的理论是-总有人愿意比目前在菜单上。为什么要传递这样的机会？他只是在最大化他的利润。}
+#{217}{}{Let's suppose that. So, by now you've found out that the chems flooding the city were produced by a major drug lab. On its territory is widely used slave labor, additionally, testing of new products also involves using slaves. There is someone in charge of this lab. And it is not Hal Wallace - he is the buyer. At the same time, Vortis participates in the negotiations with some "Boss" about mutual benefits from slave deal after setting up ghouls - but who would have a problem with them?}
+{217}{}{让我们假设一下。所以，到目前为止，你已经发现充斥城市的化学物质是由一个主要的药物实验室生产的。在它的领土上广泛使用的是奴隶劳动，此外，新产品的测试也涉及使用奴隶。有人负责这个实验室，不是哈尔·华莱士，他是买家。同时，沃蒂斯参与了与一些“老板”关于建立食尸鬼后奴隶交易互利的谈判——但谁会对他们有意见呢？}
+#{218}{}{As far as I understand, the ghouls are perfect fit for Hoover Dam - their labor is cheap, the ghouls themselves are friendly, and also, no one else would want to work on the Dam in current situation. If there are no freaks, the only option left for the chief of the power plant is to use slaves.}
+{218}{}{据我所知，食尸鬼非常适合胡佛大坝——他们的劳动力很便宜，食尸鬼本身也很友好，而且，在目前的情况下，没有人愿意在大坝上工作。如果没有怪胎，留给发电厂厂长的唯一选择就是使用奴隶。}
+#{219}{}{[Nods] I understand. It is beneficial for those who deal slaves. In our case - for slavers.}
+{219}{}{[点头]我明白。这对那些贩卖奴隶的人是有益的。在我们的情况下-为奴隶主。}
+#{220}{}{Even more specific - for the same "Boss" of slavers and the owner of drug lab. I suspect he is the same person.}
+{220}{}{更具体地说，是同一个奴隶主的“老板”和毒品实验室的老板。我怀疑他是同一个人。}
+#{221}{}{It's not Sam Phillips - he is not involved with drugs, nor with slavers. It's not Hal Wallace - no sense in writing yourself into a document as a buyer and be exposed if it leaks out. It's not Vortis, because he received the information about the freaks from someone else. It's definitely not Bob Neil - this mysterious someone has connections or influence in the Las Vegas police. And the Oscar Davis himself is also not the culprit, because he wouldn't wait for some evidence to deal with Sam Phillips and freaks. So it leaves us with...}
+{221}{}{这不是山姆·菲利普斯——他既没有毒品，也没有奴隶贩子。这不是哈尔·华莱士——把你自己写进一个买家的文件里，如果它泄露出去，你就会暴露出来，这是毫无意义的。不是沃蒂斯，因为他从别人那里得到了关于怪胎的信息。绝对不是鲍勃·尼尔——这个神秘的人在拉斯维加斯警方有关系或影响力。而奥斯卡·戴维斯本人也不是罪魁祸首，因为他不会等待一些证据来对付山姆·菲利普斯和怪胎。所以它留给我们。。。}
+#{222}{}{Tom Parker. I have a document, signed by him, concerning a transfer of 6% of the municipality's shares to the head of slavers.}
+{222}{}{汤姆·帕克。我有一份由他签署的文件，是关于把市政府6%的股份转让给奴隶主的。}
+#{223}{}{Tom Parker. Though I have no proof of him connected to the lab or the slavers.}
+{223}{}{汤姆·帕克。虽然我没有证据证明他和实验室或奴隶贩子有关。}
+#{224}{}{[Takes the focument from you] Tom Parker. He is ambitious, that's for sure, but I don't understand what he wanted to achieve. If he would try to execute this transfer, it would've raised a lot of questions. And not only mine.}
+{224}{}{汤姆·帕克。他雄心勃勃，这是肯定的，但我不明白他想达到什么。如果他想执行这次转移，会引起很多问题。不仅仅是我的。}
+#{225}{}{I suppose he came up with an explanation for this.}
+{225}{}{我想他对此有个解释。}
+#{226}{}{Let's say, he is our man. How the slavers and Parker are tied? What is Hal Wallace's role?}
+{226}{}{假设他是我们的人。奴隶主和帕克的关系如何？哈尔·华莱士的角色是什么？}
+#{227}{}{I think that Wallace was needed to take care of the freaks. Without involvement of the police or the slavers.}
+{227}{}{我觉得需要华莱士来照顾那些怪胎。没有警察和奴隶贩子的参与。}
+#{228}{}{It makes sense. Parker already once tried to push the drastic measures regarding the freaks, although that didn't work with Davis - was no hard proof. If Parker would continue to accuse them of guilt, it would've raised a lot of suspicions.}
+{228}{}{这是有道理的。帕克曾经试图推行针对这些怪胎的严厉措施，尽管这对戴维斯不起作用，但这并不是确凿的证据。如果帕克继续指控他们有罪，就会引起很多怀疑。}
+#{229}{}{So he makes an alibi for himself by forcing Wallace do the job.}
+{229}{}{所以他强迫华莱士做这件事，为自己做了不在场证明。}
+#{230}{}{Looks like it. Let's go to the beginning and summarize.}
+{230}{}{看起来是这样。让我们开始总结一下。}
+#{231}{}{Yes. It goes like this: Tom Parker - a boss of the slavers and owner of the drug lab. When problems with the workforce on the Dam arose, he decided to make profits on destabilized situation.}
+{231}{}{对。事情是这样的：汤姆·帕克——奴隶主的老板和毒品实验室的老板。当大坝上的工人出现问题时，他决定在不稳定的情况下获利。}
+#{232}{}{He increases the volume of drug production and its supply to the city, which leads to rise of the crime rate. Probably, he even gave direct orders to carry attacks on the plant's workers.}
+{232}{}{他增加了毒品的生产量和对城市的供应量，这导致了犯罪率的上升。很可能，他甚至直接下令对工厂工人发动袭击。}
+#{233}{}{Considering that city cannot exist without the electricity, and the manpower on the Dam continues to thin, sooner or later Bob Neil would be concerned with the lacking of workers for the facility.}
+{233}{}{考虑到城市的存在离不开电力，大坝上的人力也越来越少，鲍勃·尼尔迟早会担心大坝缺少工人。}
+#{234}{}{But the social situation leads to absence of willing to take the jobs. So, eventually, there are only two options - freaks or slaves. And the second option benefits greatly for Parker.}
+{234}{}{但由于社会环境的原因，导致了大学生就业意愿的缺失。所以，最终，只有两个选择-怪物或奴隶。而第二种选择对帕克有很大好处。}
+#{235}{}{But here is the problem - the freaks are cheap, endurant, doesn't care for radiation, and, which is a paradox, many of them have vast and different experience. They are much better option for the Dam.}
+{235}{}{但问题是，这些怪胎价格便宜，耐性强，不喜欢辐射，而且，这是一个悖论，他们中的许多人有着广泛而不同的经历。它们是大坝更好的选择。}
+#{236}{}{But it would contradict the business interest of Tom. So, he decides to get rid of the freaks.}
+{236}{}{但这与汤姆的商业利益相矛盾。所以，他决定除掉那些怪胎。}
+#{237}{}{Knowing working methods of Oscar Davis, Parker starts to actively campaign against drug problems and raises the funding of the police, trying to make them follow the cases he is interested in - the cases about the freaks involvement.}
+{237}{}{帕克了解了奥斯卡·戴维斯的工作方法，开始积极反对毒品问题，并提高了对警方的资助，试图让他们关注他感兴趣的案件——与怪胎有关的案件。}
+#{238}{}{However, Davis doesn't rush in accusing ghouls and demands a solid evidence. So, Parker makes a move.}
+{238}{}{然而，戴维斯并不急于指控食尸鬼，并要求提供确凿的证据。所以，帕克采取了行动。}
+#{239}{}{He drags Hal Wallace into the game, planning to take care of the matter while staying clean himself. I suppose, they've already had some common business running - the lab supplied casino with drugs, while the casino ensured additional profits by selling, which, in turn, contributed more to the chaos in the city.}
+{239}{}{他把哈尔·华莱士拖进了游戏，计划在自己保持清白的同时处理好这件事。我想，他们已经有了一些共同的业务经营——实验室向赌场提供毒品，而赌场则通过销售确保额外利润，这反过来又加剧了城市的混乱。}
+#{240}{}{Together they make a new deal - Wallace helps to set up the freaks with producing chems, and in return he gets a promise to get his main competitor - mr. Sam Phillips - dealt with.}
+{240}{}{他们共同达成了一项新协议——华莱士帮助怪胎们生产化学药品，作为回报，他得到了一个承诺，让他的主要竞争对手山姆·菲利普斯先生得到处理。}
+#{241}{}{Naturally, Tom Parker sees in it another opportunity to divert attention from himself and his attention to freaks, and openly accuses Sam Phillips in involvement with chems. }
+{241}{}{很自然，汤姆帕克看到了另一个机会，转移注意力从他自己和他的注意怪胎，并公开指责山姆菲利普斯参与化学。}
+#{242}{}{Oscar Davis starts an investigation against Phillips. Wallace sets up the freaks by planting some real drugs to them.}
+{242}{}{奥斯卡·戴维斯开始调查菲利普斯。华莱士给这些怪胎植入了一些真正的毒品。}
+#{243}{}{The police deals with the freaks. The power plant is forced to buy slaves to keep itself running.}
+{243}{}{警察对付那些怪胎。发电厂被迫购买奴隶来维持运转。}
+#{244}{}{Parker gets an immense profits, both from the slave deal and the drug dealing in the city.}
+{244}{}{帕克从奴隶交易和毒品交易中获得了巨大的利润。}
+#{245}{}{He could even turn Hal Wallace to look like a primary suspect, if there was something wrong.}
+{245}{}{如果有什么不对劲的话，他甚至可以把哈尔·华莱士变成一个主要嫌疑犯。}
+#{246}{}{True. But why he tried to transfer a municipality's shares to the slavers? And how he would have explained it?}
+{246}{}{是的。但他为什么要把市政府的股份转让给奴隶主呢？他会怎么解释呢？}
+#{247}{}{He would get a profit, and also inscreased his influence on the Dam - after all, the slavers' shares are his shares. I think the only thing that had been stopping him was the lack of explanation why to do so. But he would find that out eventually.}
+{247}{}{他将获得利润，同时也增加了他对大坝的影响——毕竟，奴隶主的股份就是他的股份。我想阻止他的唯一原因就是没有解释为什么要这样做。但他最终会发现。}
+#{248}{}{Maybe. Or maybe he could persuade me in signing it somehow. Then I would look like I am involved in this. He could use the document as a leverage on me.}
+{248}{}{也许 吧。或者他能说服我签个名。那我就好像卷入了这件事。他可以用这份文件作为我的筹码。}
+#{249}{}{The one who desires more power is clearly the one who already has plenty.}
+{249}{}{渴望更多权力的人显然是已经拥有足够权力的人。}
+#{250}{}{Yes, that's what I said when we first met. I am sorry that I was right in that.}
+{250}{}{是的，我们第一次见面时我就是这么说的。我很抱歉我说得对。}
+#{251}{}{Parker made only one mistake: he assigned the hit on me to the police officer.}
+{251}{}{帕克只犯了一个错误：他把对我的袭击交给了警察。}
+#{252}{}{And because of this you understood that the one who is behind of this is influencing the police.}
+{252}{}{正因为如此，你才明白幕后黑手是在影响警方。}
+#{253}{}{Yes. This was the first lead.}
+{253}{}{对。这是第一条线索。}
+#{254}{}{Well, you have performed your job admirably and did what no one else could. For the brilliant resolution of this case I express my personal gratitude to you. Thank you.}
+{254}{}{嗯，你出色地完成了你的工作，做了别人做不到的事。对于这个案子的出色解决，我个人向你表示感谢。非常感谢。}
+#{255}{}{Thank you, mr. Williams.}
+{255}{}{谢谢你，威廉姆斯先生。}
+#{256}{}{I'm asking you to leave me the evidence you brought in - they will be used in prosecution. Also, I'd be grateful if you would help me to prepare the full report on this for the council.}
+{256}{}{我要你把你带来的证据留给我-这些证据将用于起诉。另外，如果你能帮助我为安理会准备这份完整的报告，我将不胜感激。}
+#{257}{}{Of course. Let's summarize the results again...}
+{257}{}{当然。让我们再总结一下结果。。。}
+#{258}{}{And here is your reward. Thank you, from the behalf of the entire Clean City!}
+{258}{}{这是你的奖赏。谢谢你，代表整个清洁城市！}
+#{259}{}{Thank you. What are you going to do now?}
+{259}{}{非常感谢。你现在要做什么？}
+#{260}{}{The evidence will be handed to the court. Tom Parker will be charged with organized crime, Hal Wallace will be prosecuted as the accomplice. For the time of the court process Oscar Davis is suspended from his duties as the police chief - there is a need to check the involvement of his staff. Then I should raise an issue to the Council about the Hoover Dam... Is there someone behind the door? Marion, I asked not to let anyone in!}
+{260}{}{证据将交给法庭。汤姆·帕克将被控有组织犯罪，哈尔·华莱士将作为共犯被起诉。在法庭审理期间，奥斯卡·戴维斯被暂停了警察局长的职务——有必要检查他的工作人员是否参与其中。那么我应该向议会提出一个关于胡佛大坝的问题。。。门后面有人吗？马里恩，我要求不要让任何人进来！}
+#{261}{}{Looks like you have visitors...}
+{261}{}{看来你有访客。。。}
+#{262}{}{Tom? What is it?}
+{262}{}{汤姆？这是怎么一回事？}
+#{263}{}{I see you have the legendary detective of Las Vegas with you?}
+{263}{}{我看你身边有拉斯维加斯的传奇侦探？}
+#{264}{}{This is none of your concern, Tom...}
+{264}{}{这不关你的事，汤姆。。。}
+#{265}{}{Oh no, I think it is. Your dog put his nose where it shouldn't have.}
+{265}{}{哦，不，我想是的。你的狗把鼻子放在不该放的地方。}
+#{266}{}{...You wiretapped me?}
+{266}{}{…你窃听了我？}
+#{267}{}{Of course. And I should have done one thing earlier...}
+{267}{}{当然。我应该早点做一件事。。。}
+#{268}{}{Thrown you out of fucking window, you old bastard.}
+{268}{}{把你扔出窗外，你这个老混蛋。}
+#{269}{}{Tom! Calm down!}
+{269}{}{汤姆！冷静！}
+#{270}{}{Too late.}
+{270}{}{太晚了。}
+#{271}{}{Tom! No!!!}
+{271}{}{汤姆！不！！！}
+#{272}{}{Although the lab uses slaves as a labor and as a guinea pigs for testing new products, which itself could point at the connection to the slave guild, there are no names in the lab's records. But I think we can write the freaks off the list of suspects - I found the documents in the Slave Town, which contained the information that someone wants to set them up with drug making. I gave it to Oscar Davis.}
+{272}{}{尽管该实验室使用奴隶作为劳动力，并作为测试新产品的试验品，这本身可能指向与奴隶公会的联系，但实验室的记录中没有名字。但我想我们可以把这些怪胎从嫌疑犯名单上抹去——我在奴隶城找到了文件，里面有人想让他们制造毒品。我把它给了奥斯卡·戴维斯。}
+#{273}{}{Why don you think I won't be able to handle it?}
+{273}{}{你为什么不认为我能应付得了？}
+#{274}{}{Alright then.}
+{274}{}{那好吧。}
+#{275}{}{This job will require a careful approach to many people. Careful, *delicate* approach.}
+{275}{}{这项工作需要与许多人周密接触。小心，精细的方法。}
+#{276}{}{You don't seem to be one gifted with a silver tongue. And this is a key skill in this task.}
+{276}{}{你似乎不是一个天生的能言善辩者。这是这项任务的关键技能。}
+#{277}{}{Ahem, sorry if this will hurt your feelings, but your intellectual abilities seem rather... Lacking. Not what's needed for the job.}
+{277}{}{如果这会伤害你的感情，我很抱歉，但是你的智力似乎。。。缺乏。不是工作所需要的。}
+#{278}{}{You seem to be lacking the experience to undertake such an important and dangerous task.}
+{278}{}{你似乎缺乏承担如此重要和危险任务的经验。}
+#{279}{}{How about you take on something more suitable to your abilities.}
+{279}{}{不如你做些更适合你能力的事。}
+#{280}{}{}
+{280}{}{}
+#{281}{}{ First of all.}
+{281}{}{首先。}
+#{282}{}{ Secondly.}
+{282}{}{其次。}
+#{283}{}{ Third.}
+{283}{}{第三。}
+#{284}{}{That's a shame. I actually have some experience. I've already played a role in solving over five serious cases in my journey.}
+{284}{}{真可惜。我确实有一些经验。在我的旅程中，我已经为解决五起以上的严重案件发挥了作用。}
+#{285}{}{Ahem. If you do have an experience, then, I guess, I could tell you the details.}
+{285}{}{啊哼。如果你确实有经验，那么，我想，我可以告诉你细节。}
+#{300}{}{I'm here for a personal issue. An acquaintance of mine, a sandwich vendor, has a debt she's having trouble settling. Could you help?}
+{300}{}{我是来处理个人问题的。我的一个熟人，一个卖三明治的小贩，欠了一笔债，她很难还清。你能帮忙吗？}
+#{301}{}{As a fellow human being, I am very sorry about your friend. But she has obligations which needed to be followed. Before taking the loan she should have read the agreement.}
+{301}{}{作为人类同胞，我对你的朋友感到非常抱歉。但她有义务要履行。在接受贷款之前，她应该先看一下协议书。}
+#{302}{}{But it's only thanks to the immense pays that she can't get any profits. Could the Clean City give her a few months? She could expand her business and provide more money to the budget.}
+{302}{}{但是，只有由于巨额的工资，她才能得到任何利润。清洁城市能给她几个月吗？她可以扩大业务，为预算提供更多的资金。}
+#{303}{}{I'll be frank - it's not my responsibility. I can't spend my time convincing the city council to change the contract of some minor trader. She should put an application to the administration, so it could be processed according to the procedures.}
+{303}{}{坦白说，这不是我的责任。我不能花时间说服市议会改变某个小商人的合同。她应该向行政部门提出申请，以便按照程序处理。}
+#{304}{}{Is that so?.. Well, I have a business of my own here - I'm selling Nuka-Cola. I could pledge some of my own product if the layoff won't bear any results.}
+{304}{}{是这样吗？。。嗯，我在这里有自己的生意——我在卖努卡可乐。如果裁员不会产生任何结果，我可以保证自己的一些产品。}
+#{305}{}{I know about business, so I think I can convince your Council in profits from this, using real statistics.}
+{305}{}{我了解商业，所以我想我可以用真实的数据说服你们委员会从中获利。}
+#{306}{}{It is way better to give the trader a postponement than to loose income from her taxes forever. I think I can convince your Council.}
+{306}{}{推迟交易者的交税时间要比永远减少交税收入要好得多。我想我可以说服你的委员会。}
+#{307}{}{Mr. Williams, I'm asking this as a personal request.}
+{307}{}{威廉姆斯先生，这是我个人的要求。}
+#{308}{}{You could help with sorting this out with the Council as an experienced leader.}
+{308}{}{作为一个有经验的领导人，你可以帮助委员会解决这个问题。}
+#{309}{}{Well, looks like you can't be convinced. In that case, I'll be going.}
+{309}{}{好吧，看来你不能被说服。那样的话，我就走了。}
+#{310}{}{I don't see any reason to do so. The council simply won't listen to you without some powerful arguments. If you, for instance, would have had a business in Vegas, or your name carried any weight in the city, then you might have had some hope to affect the decisions of some members.}
+{310}{}{我看不出有什么理由这么做。如果没有有力的论据，委员会根本不会听你的。例如，如果你在维加斯有一家公司，或者你的名字在维加斯有任何影响力，那么你可能有希望影响一些会员的决定。}
+#{311}{}{Hmm... This certainly changes things. I'll give the word and you give the documents to my secretary.}
+{311}{}{隐马尔可夫模型。。。这当然改变了一切。我说了算，你把文件交给我的秘书。}
+#{312}{}{Perfect.}
+{312}{}{很 完美。}
+#{313}{}{I'd like to sort some things out on my end first.}
+{313}{}{我想先把我这边的一些事情整理一下。}
+#{314}{}{Hmm... I don't think the council will listen to a small-time trader.}
+{314}{}{隐马尔可夫模型。。。我不认为议会会听取一个小商人的意见。}
+#{315}{}{You look like you could hold your point of view even against the hardheaded council members. I'll give the word, and my secretary will arrange the documents. Everything else depends on you.}
+{315}{}{你看起来可以坚持你的观点，甚至反对顽固的安理会成员。我会告诉你的，我的秘书会整理文件。其他一切都取决于你。}
+#{316}{}{Considering your help, I'm ready to return the favor. I'll give the word, and my secretary will arrange the documents. Everything else depends on you.}
+{316}{}{考虑到你的帮助，我准备报答你。我会告诉你的，我的秘书会整理文件。其他一切都取决于你。}
+#{317}{}{The council gave a layoff. Time to give the good news.}
+{317}{}{委员会决定裁员。是时候宣布好消息了。}
+#{1157}{}{Honestly, I didn't know about it.}
+{1157}{}{老实说，我不知道。}
+#{1174}{}{On another thought, I'd rather collect everything at once.}
+{1174}{}{另一个想法是，我宁愿立刻收集所有的东西。}
+#{1178}{}{Yes, I'm sure I gathered enough evidence to explain everything.}
+{1178}{}{是的，我确信我收集了足够的证据来解释一切。}
+#{1180}{}{I suppose, I should begin by saying that our mysterious suspect has a major influence on the Las Vegas city police. Not long after I asked some questions in the department, I was met by one of the inspectors at the Clean City gates. He had an order to kill me. I didn't manage to figure out who or what made him carry that, but it is obvious that it wasn't his own initiative.}
+{1180}{}{我想，我应该先说我们的神秘嫌犯对拉斯维加斯市警方有重大影响。我在部门里问了几个问题后不久，一位视察员在清洁城市门口迎接了我。他接到命令要杀我。我没能弄清楚是谁或是什么让他带着那个，但很明显，这不是他自己的主动。}
+#{1205}{}{I'm still looking into it. Don't have answer for now.}
+{1205}{}{我还在调查。暂时没有答案。}
+#{1208}{}{I haven't managed to work that out yet.}
+{1208}{}{我还没想好。}
+#{1253}{}{Yes. This was the first lead.}
+{1253}{}{对。这是第一条线索。}
+#{1272}{}{Although the lab uses slaves as a labor and a guinea pigs for testing new products, which itself could point at the connection to the slave guild, there are no names in the lab's records. But I think we can write the freaks off the list of suspects - I found the documents in the Slave Town, which contained the information that someone wants to set them up with drug making. I gave it to Oscar Davis.}
+{1272}{}{尽管该实验室使用奴隶作为劳动力，并用豚鼠来测试新产品，这本身就可能指向与奴隶公会的联系，但在实验室的记录中没有名字。但我想我们可以把这些怪胎从嫌疑犯名单上抹去——我在奴隶城找到了文件，里面有人想让他们制造毒品。我把它给了奥斯卡·戴维斯。}

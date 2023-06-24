@@ -1,0 +1,110 @@
+#{100}{}{}
+{100}{}{ -- }
+#{101}{}{}
+{101}{}{ -- }
+#{139}{}{All this radon makes your backpack feel warm.}
+{139}{}{所有这些氡使你的背包感到温暖。 -- All this radon makes your backpack feel warm.}
+#{140}{}{You did not trick the target.}
+{140}{}{你没有欺骗目标。 -- You did not trick the target.}
+#{141}{}{The device successfully affects the target.}
+{141}{}{设备成功影响目标。 -- The device successfully affects the target.}
+#{142}{}{Proceeding}
+{142}{}{诉讼程序 -- Proceeding}
+#{143}{}{Done}
+{143}{}{多恩 -- Done}
+#{150}{}{}
+{150}{}{ -- }
+#{151}{}{}
+{151}{}{ -- }
+#{152}{}{You should hold onto that until the job is done.}
+{152}{}{你应该坚持到工作完成为止。 -- You should hold onto that until the job is done.}
+#{153}{}{This thief is too experienced to fall for your trick.}
+{153}{}{这个小偷太有经验了，不会上当的。 -- This thief is too experienced to fall for your trick.}
+#{154}{}{You have been disqualified from the darts game for cheating.}
+{154}{}{你因作弊被取消了飞镖比赛的资格。 -- You have been disqualified from the darts game for cheating.}
+#{155}{}{This ghoul is watching you very closely. Don't even try to trick him.}
+{155}{}{这个食尸鬼正密切注视着你。别想骗他。 -- This ghoul is watching you very closely. Don't even try to trick him.}
+#{156}{}{No}
+{156}{}{不 -- No}
+#{158}{}{There's already a trap there.}
+{158}{}{那里已经有陷阱了。 -- There's already a trap there.}
+#{159}{}{There is no space for this trap.}
+{159}{}{没有空间放这个陷阱。 -- There is no space for this trap.}
+#{160}{}{Proceeding...}
+{160}{}{诉讼程序。。。 -- Proceeding...}
+#{161}{}{Just a minute...}
+{161}{}{等一下。。。 -- Just a minute...}
+#{162}{}{Easy!}
+{162}{}{容易的！ -- Easy!}
+#{163}{}{I'm doing it...}
+{163}{}{我正在做。。。 -- I'm doing it...}
+#{164}{}{They won't suspect a thing.}
+{164}{}{他们什么都不会怀疑。 -- They won't suspect a thing.}
+#{165}{}{Kiss my ass, baby!}
+{165}{}{亲我的屁股，宝贝！ -- Kiss my ass, baby!}
+#{166}{}{This should clean up the gene pool.}
+{166}{}{这应该会清理基因库。 -- This should clean up the gene pool.}
+#{167}{}{One hot surprise, coming up!}
+{167}{}{一个惊喜就要来了！ -- One hot surprise, coming up!}
+#{168}{}{One hell of an Easter egg...}
+{168}{}{一个该死的复活节彩蛋。。。 -- One hell of an Easter egg...}
+#{169}{}{Heh-heh-heh...}
+{169}{}{嘿嘿。。。 -- Heh-heh-heh...}
+#{170}{}{Just a moment}
+{170}{}{请稍等 -- Just a moment}
+#{171}{}{Before someone sees me...}
+{171}{}{在别人看到我之前。。。 -- Before someone sees me...}
+#{180}{}{You've been spotted!}
+{180}{}{你被发现了！ -- You've been spotted!}
+#{181}{}{Hey! What are you doing there?!}
+{181}{}{嘿！你在那里干什么？！ -- Hey! What are you doing there?!}
+#{182}{}{You cannot set traps during combat.}
+{182}{}{你不能在战斗中设陷阱。 -- You cannot set traps during combat.}
+#{183}{}{Your chem abuse has caused you permanent harm.}
+{183}{}{你滥用化学药品给你造成了永久的伤害。 -- Your chem abuse has caused you permanent harm.}
+#{184}{}{Ooohhhh, dude, I�m wasted... Totally wasted...}
+{184}{}{哦，伙计，我太浪费了。。。完全浪费了。。。 -- Ooohhhh, dude, I�m wasted... Totally wasted...}
+#{185}{}{Word gets around. You've developed a good reputation among caravan merchants.}
+{185}{}{消息传开了。你在商队商人中建立了良好的声誉。 -- Word gets around. You've developed a good reputation among caravan merchants.}
+#{186}{}{Word gets around. You've lost your good reputation among caravan merchants.}
+{186}{}{消息传开了。你在商队商人中失去了好名声。 -- Word gets around. You've lost your good reputation among caravan merchants.}
+#{187}{}{You've earned a new achievement and increased your Intelligence score for solving so many detective mysteries.}
+{187}{}{你已经获得了一个新的成就，并提高了你的智力得分为解决这么多的侦探之谜。 -- You've earned a new achievement and increased your Intelligence score for solving so many detective mysteries.}
+#{188}{}{You have learned how to craft healing powder and poison antidote.}
+{188}{}{你已经学会了如何制作治疗粉和解毒药。 -- You have learned how to craft healing powder and poison antidote.}
+#{189}{}{Much better now!}
+{189}{}{现在好多了！ -- Much better now!}
+#{190}{}{Your dedicated physical conditioning has made you more appealing!}
+{190}{}{你专注的身体锻炼让你更具吸引力！ -- Your dedicated physical conditioning has made you more appealing!}
+#{191}{}{You've earned the achievement "Safecracker" for picking a large amount of locks.}
+{191}{}{你已经赢得了成就“安全钳”为挑选大量的锁。 -- You've earned the achievement "Safecracker" for picking a large amount of locks.}
+#{192}{}{You feel light chills that just won't go away.}
+{192}{}{你会感到轻微的寒意，但不会消失。 -- You feel light chills that just won't go away.}
+#{193}{}{*cough-cough*}
+{193}{}{*咳嗽* -- *cough-cough*}
+#{194}{}{*Unghh*}
+{194}{}{*嗯* -- *Unghh*}
+#{195}{}{Congratulations! Your disease has developed into full-blown leprosy.}
+{195}{}{祝贺 你！你的病已发展成严重的麻风病。 -- Congratulations! Your disease has developed into full-blown leprosy.}
+#{196}{}{You feel feverish and nauseous.}
+{196}{}{你感到发烧和恶心。 -- You feel feverish and nauseous.}
+#{197}{}{You keep coughing up blood. You need medical attention!}
+{197}{}{你一直在咳血。你需要医疗照顾！ -- You keep coughing up blood. You need medical attention!}
+#{198}{}{You are suffering from an infectious disease.}
+{198}{}{你得了传染病。 -- You are suffering from an infectious disease.}
+#{199}{}{You feel less sick than before.}
+{199}{}{你的病比以前轻了。 -- You feel less sick than before.}
+#{200}{}{Your Pip-Boy indicates the degree of your radiation poisoning: }
+{200}{}{你的Pip男孩表明你的辐射中毒程度： -- Your Pip-Boy indicates the degree of your radiation poisoning: }
+#{202}{}{You are now known as the "Hero of the slums".}
+{202}{}{你现在被称为“贫民窟的英雄”。 -- You are now known as the "Hero of the slums".}
+#{203}{}{How soon they forget. You are no longer known as the "Hero of the slums".}
+{203}{}{他们很快就忘记了。你不再被称为“贫民窟的英雄”。 -- How soon they forget. You are no longer known as the "Hero of the slums".}
+#{204}{}{You have learned how to craft healing powder and poison antidotes.}
+{204}{}{你已经学会了如何制作治疗粉和解毒药。 -- You have learned how to craft healing powder and poison antidotes.}
+#{205}{}{You have learned how to craft "Blood-purifier" medicine and "Horsekiller" poison.}
+{205}{}{你已经学会了如何制作“血液净化”药物和“杀马”毒药。 -- You have learned how to craft "Blood-purifier" medicine and "Horsekiller" poison.}
+#{206}{}{You have learned how to craft "Blood-purifier" medicine, "Horsekiller" poison, healing powder and poison antidotes.}
+{206}{}{你已经学会了如何制作“血液净化”药物、“杀马”毒药、疗愈粉和解毒药。 -- You have learned how to craft "Blood-purifier" medicine, "Horsekiller" poison, healing powder and poison antidotes.}
+#{207}{}{You have earned the "Sycophant" reputation. Of course, it doesn't work if you tell them that.}
+{207}{}{你赢得了“阿谀奉承”的名声。当然，如果你告诉他们那是行不通的。 -- You have earned the "Sycophant" reputation. Of course, it doesn't work if you tell them that.}

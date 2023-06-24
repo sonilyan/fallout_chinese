@@ -1,0 +1,32 @@
+#{100}{}{You see a man who saw a lot in his life.}
+{100}{}{你会看到一个在生活中看到很多东西的人。 -- You see a man who saw a lot in his life.}
+#{101}{}{You see a trader.}
+{101}{}{你看到一个商人。 -- You see a trader.}
+#{102}{}{Wow, there are not a lot of people in these parts.}
+{102}{}{哇，这一带人不多。 -- Wow, there are not a lot of people in these parts.}
+#{103}{}{Hey! Wait! I've got goods that might come in handy for you!}
+{103}{}{嘿！等待！我有一些东西可能对你有用！ -- Hey! Wait! I've got goods that might come in handy for you!}
+#{104}{}{Hey! Do you have something for exchange?}
+{104}{}{嘿！你有东西要换吗？ -- Hey! Do you have something for exchange?}
+#{105}{}{I guess it's my lucky day. Look what I've got for sale.}
+{105}{}{我想今天是我的幸运日。看我有什么要卖的。 -- I guess it's my lucky day. Look what I've got for sale.}
+#{200}{}{Hello, traveler! On this route, people are rare to meet, but I'm always happy with new customers. Shall we trade?}
+{200}{}{你好，旅行者！在这条路上，很少有人见面，但我对新顾客总是很满意。我们可以交易吗？ -- Hello, traveler! On this route, people are rare to meet, but I'm always happy with new customers. Shall we trade?}
+#{201}{}{Hey there! Good that you stopped by. Most people on this route are just continue on their way. Hey, do you want to trade?}
+{201}{}{嘿，那里！很高兴你来了。大多数走这条路的人只是继续他们的路。嘿，你想交易吗？ -- Hey there! Good that you stopped by. Most people on this route are just continue on their way. Hey, do you want to trade?}
+#{202}{}{Do you want to see my goods?}
+{202}{}{你想看看我的货吗？ -- Do you want to see my goods?}
+#{250}{}{That would be nice.}
+{250}{}{那太好了。 -- That would be nice.}
+#{251}{}{I'm sorry. Time to go.}
+{251}{}{我很抱歉。该走了。 -- I'm sorry. Time to go.}
+#{252}{}{Yes. Me have goods!}
+{252}{}{对。我有货！ -- Yes. Me have goods!}
+#{253}{}{Me go.}
+{253}{}{让我走。 -- Me go.}
+#{260}{}{Glad doing business with you. Good luck in your travels.}
+{260}{}{很高兴和你做生意。祝你旅途好运。 -- Glad doing business with you. Good luck in your travels.}
+#{261}{}{Bye.}
+{261}{}{再见。 -- Bye.}
+#{270}{}{Good, you're back. May I offer you something else?}
+{270}{}{很好，你回来了。我能给你点别的吗？ -- Good, you're back. May I offer you something else?}

@@ -1,0 +1,2 @@
+#{100}{}{You came to a rundown shack.}
+{100}{}{你来到一个破旧的小屋。 -- You came to a rundown shack.}

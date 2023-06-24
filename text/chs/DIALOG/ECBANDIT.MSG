@@ -1,0 +1,46 @@
+#{100}{}{You see a bandit.}
+{100}{}{你看见一个强盗。}
+#{101}{}{You see a marauder.}
+{101}{}{你看到一个掠夺者。}
+#{102}{}{You see a robber.}
+{102}{}{你看见一个强盗。}
+#{103}{}{You see a convict.}
+{103}{}{你看到一个罪犯。}
+#{104}{}{You see a rogue.}
+{104}{}{你看到一个流氓。}
+#{105}{}{You see a runaway prisoner in gear stolen from the guard.}
+{105}{}{你看到一个逃跑的囚犯，穿着从警卫那里偷来的装备。}
+#{200}{}{Surrender!}
+{200}{}{投降！}
+#{201}{}{Your money or your life.}
+{201}{}{你的钱还是你的命。}
+#{202}{}{This is a stick up.}
+{202}{}{这是一个大棒。}
+#{203}{}{Give me all your valuables.}
+{203}{}{把你所有的贵重物品都给我。}
+#{204}{}{I'll get you!}
+{204}{}{我会抓住你的！}
+#{205}{}{Put yer hands up.}
+{205}{}{把手举起来。}
+#{206}{}{Stick 'em up.}
+{206}{}{把它们粘起来。}
+#{207}{}{Don't panic; this will be over in a minute.}
+{207}{}{别慌，马上就结束了。}
+#{208}{}{Let's see those hands there.}
+{208}{}{让我们看看那些手。}
+#{209}{}{Cover me, fellas.}
+{209}{}{掩护我，伙计们。}
+#{210}{}{Don't make this hard on yourself.}
+{210}{}{别让自己难受。}
+#{211}{}{Hand over the loot.}
+{211}{}{交出赃物。}
+#{212}{}{Get 'em, boys.}
+{212}{}{抓住他们，孩子们。}
+#{213}{}{Kill them all.}
+{213}{}{把他们都杀了。}
+#{214}{}{I promise to make your death quick.}
+{214}{}{我保证让你快点死。}
+#{215}{}{Reach for the sky.}
+{215}{}{伸向天空。}
+#{216}{}{Don't move.}
+{216}{}{别动。}

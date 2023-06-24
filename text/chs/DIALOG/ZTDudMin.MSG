@@ -1,0 +1,242 @@
+#{0}{}{ }
+{0}{}{ }
+#{90}{}{You disarmed the trap.}
+{90}{}{你解除了陷阱。}
+#{91}{}{You couldn't disarm the trap.}
+{91}{}{你不能解除陷阱。}
+#{92}{}{That wasn't the best decision.}
+{92}{}{那不是最好的决定。}
+#{100}{}{Ughh!!!}
+{100}{}{啊！！！}
+#{101}{}{Whoops! Me trip?!}
+{101}{}{哎呀！我被绊倒了？！}
+#{102}{}{You laugh at me?}
+{102}{}{你嘲笑我？}
+#{103}{}{Me lucky - not hurt.}
+{103}{}{我很幸运-没受伤。}
+#{104}{}{This mine now.}
+{104}{}{这是我的。}
+#{105}{}{Ooh! Me nose break!}
+{105}{}{哦！我鼻子破了！}
+#{106}{}{What me step on?}
+{106}{}{我踩到什么了？}
+#{107}{}{Oooh! This mine now.}
+{107}{}{哦哦！这是我的。}
+#{108}{}{::illegible sting of words::}
+{108}{}{●字迹模糊：}
+#{109}{}{::grumbles and swears menacingly::}
+{109}{}{●威胁性地发牢骚和咒骂：}
+#{110}{}{Dammit!!!}
+{110}{}{该死！！！}
+#{111}{}{Aw damn! I tore my pants again. Mum's gonna kill me...}
+{111}{}{噢，该死！我又把裤子撕破了。妈妈会杀了我。。。}
+#{112}{}{Oooh weeeell!!!}
+{112}{}{哦，小家伙！！！}
+#{113}{}{I'm so clumsy!}
+{113}{}{我太笨了！}
+#{120}{}{Goddammit!!!}
+{120}{}{他妈的！！！}
+#{121}{}{Ah! Panties are slipping!}
+{121}{}{啊！内裤滑了！}
+#{122}{}{Anyone seen my panties?}
+{122}{}{有人看到我的内裤了吗？}
+#{123}{}{*adjusts skirt*}
+{123}{}{*调整裙子*}
+#{124}{}{That's not funny!}
+{124}{}{一点都不好笑！}
+#{125}{}{They won't pay me for a dirty face.}
+{125}{}{他们不会付钱给我的。}
+#{126}{}{Lost all my shit... Again}
+{126}{}{丢了我所有的东西。。。阿盖恩}
+#{127}{}{Damn brats! Better hope I don't find you!}
+{127}{}{该死的小子！最好希望我找不到你！}
+#{128}{}{}
+{128}{}{}
+#{129}{}{}
+{129}{}{}
+#{130}{}{What the hell?!}
+{130}{}{我勒个去？！}
+#{131}{}{Is this some joke?!}
+{131}{}{这是开玩笑吗？！}
+#{132}{}{THIS is why we spank kids!}
+{132}{}{这就是为什么我们打孩子！}
+#{133}{}{This is a pretty stupid joke, you know...}
+{133}{}{这是一个相当愚蠢的笑话，你知道。。。}
+#{134}{}{This isn't funny!}
+{134}{}{这一点都不好笑！}
+#{135}{}{Who did that?! WHO THE FUCK DID THAT?!}
+{135}{}{谁干的？！是谁干的？！}
+#{136}{}{Looks like, I shouldn't wander around here...}
+{136}{}{看来，我不该在这里闲逛。。。}
+#{137}{}{Damn kids! If I find you - I'll beat your ass!}
+{137}{}{该死的孩子们！如果我找到你-我就揍你！}
+#{138}{}{Hey! Who's being funny?! I'll kick your ass!}
+{138}{}{嘿！谁在开玩笑？！我要踢你的屁股！}
+#{139}{}{Ahh, how did I fell for this stupid trick!}
+{139}{}{啊，我怎么会爱上这个愚蠢的把戏！}
+#{140}{}{Fucking dammit!!!}
+{140}{}{该死的！！！}
+#{141}{}{What cretin did that!?}
+{141}{}{什么白痴干的！？}
+#{142}{}{what a shitty day!}
+{142}{}{多么糟糕的一天！}
+#{143}{}{I need a beer after this.}
+{143}{}{之后我需要一杯啤酒。}
+#{144}{}{Ugh! Gonna have to wash my pants again.}
+{144}{}{啊！我又要洗裤子了。}
+#{145}{}{Ugh... Soles are fucked.}
+{145}{}{呃。。。鞋底坏了。}
+#{146}{}{I'm gonna find this joker - and when I do... Someone's gonna eat dirt!}
+{146}{}{我要找到这个小丑-当我找到的时候。。。有人要吃泥土了！}
+#{147}{}{Get ready punks! Now I'm *really* pissed!}
+{147}{}{准备好朋克！现在我真的很生气！}
+#{148}{}{Who's this milksop?! Huh?}
+{148}{}{这个奶嘴是谁？！嗯？}
+#{149}{}{Hey joker! Come out, asshole!!!}
+{149}{}{嘿，小丑！出来，混蛋！！！}
+#{150}{}{Screw that!!!}
+{150}{}{去他的！！！}
+#{151}{}{Who did that!?}
+{151}{}{是谁干的！？}
+#{152}{}{Can this day get any worse?!}
+{152}{}{今天还会更糟吗？！}
+#{153}{}{Is this a joke?! Not funny!}
+{153}{}{这是开玩笑吗？！不好笑！}
+#{154}{}{I worked all day, and you're fucking with me?!}
+{154}{}{我工作了一整天，你在耍我？！}
+#{155}{}{Ugh... Soles are fucked.}
+{155}{}{呃。。。鞋底坏了。}
+#{156}{}{I'm gonna find this joker - and when I do... Someone's gonna eat dirt!}
+{156}{}{我要找到这个小丑-当我找到的时候。。。有人要吃泥土了！}
+#{157}{}{DON'T EVER DO THAT AGAIN!!!}
+{157}{}{别再那样做了！！！}
+#{158}{}{Are you kidding me?!}
+{158}{}{你在开玩笑吧？！}
+#{159}{}{}
+{159}{}{}
+#{160}{}{Oh!!!}
+{160}{}{哦！！！}
+#{161}{}{!?}
+{161}{}{!?}
+#{162}{}{Ah... More bad luck...}
+{162}{}{啊。。。更多的坏运气。。。}
+#{163}{}{Is this a joke?!}
+{163}{}{这是开玩笑吗？！}
+#{164}{}{I am... I'm... Do you even know WHO I AM!?}
+{164}{}{我是。。。我是。。。你知道我是谁吗！？}
+#{165}{}{Ughh...}
+{165}{}{呃。。。}
+#{166}{}{::groans, picking himself out of the mud::}
+{166}{}{●呻吟着，从泥泞中爬出来：}
+#{167}{}{DON'T YOU EVER DO THAT AGAIN!!!}
+{167}{}{别再那样做了！！！}
+#{168}{}{}
+{168}{}{}
+#{169}{}{}
+{169}{}{}
+#{170}{}{GODDAMMIT!!!}
+{170}{}{他妈的！！！}
+#{171}{}{I'm gonna find you and then tear you apart!!!}
+{171}{}{我会找到你，然后把你撕碎！！！}
+#{172}{}{ARE YOU KIDDING ME!? GET OUT AND FIGHT YOU LITTLE BITCH!!!}
+{172}{}{你在开玩笑吧！？出去和你这个小婊子打架！！！}
+#{180}{}{Goddammit!!!}
+{180}{}{他妈的！！！}
+#{181}{}{Is this for me or what?!!!}
+{181}{}{这是给我的还是什么？！！！}
+#{182}{}{You're dead, wise guy!}
+{182}{}{你死定了，聪明人！}
+#{183}{}{That's it! You're done for!}
+{183}{}{就这样！你完了！}
+#{183}{}{Not your day, chummer!}
+{183}{}{不是你的日子，笨蛋！}
+#{184}{}{Who did that?! Who the fuck did that?!!!}
+{184}{}{谁干的？！是谁干的？！！！}
+#{185}{}{Well, well! What have we here? Another dead man walking?}
+{185}{}{好吧，好吧！我们这里有什么？又一个死人在走路？}
+#{186}{}{Hey, wise guy? Come out, and we'll talk this out like men!}
+{186}{}{嘿，聪明人？出来，我们要像男人一样说出来！}
+#{190}{}{Goddammit!!!}
+{190}{}{他妈的！！！}
+#{191}{}{Is this for me or what?!!!}
+{191}{}{这是给我的还是什么？！！！}
+#{192}{}{You're dead, fucker!!!}
+{192}{}{你死定了，混蛋！！！}
+#{193}{}{I'm gonna shove your head so far up your ass!!!}
+{193}{}{我要把你的头塞进你的屁股里！！！}
+#{193}{}{I'll find you, I swear!}
+{193}{}{我会找到你的，我发誓！}
+#{194}{}{Who did that?! Who the fuck did that?!!!}
+{194}{}{谁干的？！是谁干的？！！！}
+#{195}{}{I'm gonna!.. I don't even *know*, what I'm gonna do to you!!!}
+{195}{}{我要去！。。我都不知道，我要对你做什么！！！}
+#{196}{}{Hey, wise guy? Come out, and we'll talk this out like men!}
+{196}{}{嘿，聪明人？出来，我们要像男人一样说出来！}
+#{200}{}{WAAAAGH!!!}
+{200}{}{哇！！！}
+#{201}{}{I'm gonna tear your arms off! and legs!.. and... Dick!}
+{201}{}{我要把你的胳膊扯下来！还有腿！。。还有。。。家伙！}
+#{202}{}{I'll find you and stomp you to the grave!}
+{202}{}{我会找到你，把你踩进坟墓！}
+#{203}{}{Perfect! One more corpse. Just come out!}
+{203}{}{很 完美！又一具尸体。快出来！}
+#{210}{}{Ow-ow-ow!!!}
+{210}{}{噢，噢！！！}
+#{211}{}{One eye more, one eye less, who cares?}
+{211}{}{多一只眼，少一只眼，谁在乎？}
+#{212}{}{I think my ear fell off...}
+{212}{}{我想我的耳朵掉下来了。。。}
+#{213}{}{Anyone see where my thumb went?}
+{213}{}{有人看到我的拇指去哪了吗？}
+#{214}{}{I'm not looking half bad!}
+{214}{}{我看起来还不错！}
+#{215}{}{Ugh! At least I'm alive!}
+{215}{}{啊！至少我还活着！}
+#{216}{}{People! You can't be this cruel!}
+{216}{}{人！你不能这么残忍！}
+#{220}{}{Aiee!!!}
+{220}{}{好的！！！}
+#{221}{}{Now, whose balls need to be strung up?! Come on!}
+{221}{}{现在，谁的球需要串起来？！加油！}
+#{222}{}{Come out! I won't hurt you!}
+{222}{}{出来！我不会伤害你的！}
+#{223}{}{I saw you, joker! I know who you are! Now come out!}
+{223}{}{我看见你了，小丑！我知道你是谁！现在出来！}
+#{224}{}{Who did that?! Hiding, you little pussy?! YOU'RE WEAK! WEAK!!!}
+{224}{}{谁干的？！躲起来，你这个小娘娘腔？！你太软弱了！软弱！！！}
+#{225}{}{When I find you - you're gonna eat dirt!}
+{225}{}{当我找到你的时候-你会吃屎的！}
+#{230}{}{Oh!!!}
+{230}{}{哦！！！}
+#{231}{}{Hmm... Looks like I fell into a trap.}
+{231}{}{隐马尔可夫模型。。。看来我掉进陷阱了。}
+#{232}{}{Don't think these are kids fooling around.}
+{232}{}{别以为这些是孩子在胡闹。}
+#{233}{}{I'm not sure, but I think that was an attempt at my life!}
+{233}{}{我不确定，但我想那是对我生命的一次尝试！}
+#{234}{}{I wonder, who this trap was for?}
+{234}{}{我想知道，这个陷阱是给谁的？}
+#{270}{}{Obstruction detected.}
+{270}{}{检测到障碍物。}
+#{271}{}{Obstruction removed.}
+{271}{}{清除障碍物。}
+#{272}{}{Dangerous device detected. Possible hostiles in the area.}
+{272}{}{检测到危险装置。该地区可能有敌人。}
+#{273}{}{Running attention protocols.}
+{273}{}{运行注意协议。}
+#{274}{}{WARNING! SABOTAGING DEVICE DETECTED!!!}
+{274}{}{警告！检测到破坏装置！！！}
+#{300}{}{Your trap worked, damaging the target.}
+{300}{}{你的陷阱成功了，破坏了目标。}
+#{301}{}{Your trap worked, the target falls and drops all their things.}
+{301}{}{你的陷阱成功了，目标掉了下来，掉了所有的东西。}
+#{302}{}{Your target found and disarmed your trap.}
+{302}{}{你的目标发现并解除了你的陷阱。}
+#{303}{}{Your target injured a limb.}
+{303}{}{你的目标伤了一条腿。}
+#{304}{}{The robot falls into the trap but it's sheer mass goes right through it.}
+{304}{}{机器人掉进了陷阱里，但它的质量很大。}
+#{305}{}{The animal trips on the rope before quickly rising back from the ground.}
+{305}{}{这只动物在迅速从地上爬起来之前被绳子绊倒了。}
+#{306}{}{Enraged, your target breaks the trap.}
+{306}{}{愤怒，你的目标突破陷阱。}

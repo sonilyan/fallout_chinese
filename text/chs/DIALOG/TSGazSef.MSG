@@ -1,0 +1,82 @@
+#{0}{}{.}
+{0}{}{.}
+#{100}{}{Combination safe.}
+{100}{}{密码保险箱。}
+#{101}{}{You see a sturdy-looking safe with a combination lock.}
+{101}{}{你看到一个结实的保险箱，上面有一把组合锁。}
+#{110}{}{You cannot do that in combat!}
+{110}{}{你不能在战斗中那样做！}
+#{111}{}{}
+{111}{}{}
+#{112}{}{One of the codes opened the safe!}
+{112}{}{其中一个密码打开了保险箱！}
+#{113}{}{Locked}
+{113}{}{锁定}
+#{114}{}{The safe is locked with a combination lock.}
+{114}{}{保险箱是用组合锁锁的。}
+#{120}{}{The safe is locked with a dial combination mechanism. As it has seen virtually no use, picking it by sound would be nearly impossible.}
+{120}{}{保险箱是用表盘组合机构锁着的。因为事实上它已经看不到任何用处，所以用声音来挑选它几乎是不可能的。}
+#{121}{}{Dial a code.}
+{121}{}{拨一个号码。}
+#{122}{}{Attempt to pick.}
+{122}{}{尝试挑选。}
+#{123}{}{leave.}
+{123}{}{离开。}
+#{124}{}{Code: }
+{124}{}{代码：}
+#{125}{}{ -- }
+{125}{}{--}
+#{126}{}{}
+{126}{}{}
+#{127}{}{}
+{127}{}{}
+#{128}{}{}
+{128}{}{}
+#{129}{}{}
+{129}{}{}
+#{130}{}{1}
+{130}{}{1}
+#{131}{}{2}
+{131}{}{2}
+#{132}{}{3}
+{132}{}{三}
+#{133}{}{4}
+{133}{}{4}
+#{134}{}{5}
+{134}{}{5}
+#{135}{}{6}
+{135}{}{6}
+#{136}{}{7}
+{136}{}{7}
+#{137}{}{8}
+{137}{}{8}
+#{138}{}{9}
+{138}{}{9}
+#{139}{}{0}
+{139}{}{0}
+#{140}{}{More.}
+{140}{}{更多。}
+#{141}{}{Back.}
+{141}{}{回来。}
+#{142}{}{Delete.}
+{142}{}{删除。}
+#{143}{}{Finish.}
+{143}{}{完成。}
+#{144}{}{}
+{144}{}{}
+#{145}{}{The code is incorrect.}
+{145}{}{代码不正确。}
+#{146}{}{Clear and try again.}
+{146}{}{清除并重试。}
+#{147}{}{Finish.}
+{147}{}{完成。}
+#{150}{}{The code is correct! The safe opens.}
+{150}{}{代码正确！保险箱打开了。}
+#{151}{}{With perception like yours you wouldn't be able to hear a gunshot if it was fired next to your ear, let alone pick a lock by sound.}
+{151}{}{像你这样的人，如果枪声靠近你的耳朵，你就听不到枪声，更不用说用声音开锁了。}
+#{152}{}{Your skills are nowhere near enough to pick this lock. Don't even try, it's just way too difficult for you.}
+{152}{}{你的技术还远远不足以撬开这把锁。别尝试，这对你来说太难了。}
+#{153}{}{Nothing happens. Try again paying more attention.}
+{153}{}{什么都没发生。再多注意一次。}
+#{154}{}{Try again.}
+{154}{}{再试一次。}

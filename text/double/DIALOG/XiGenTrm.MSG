@@ -1,0 +1,30 @@
+#{110}{}{You see a device for distribution of power through the upper levels. Without it, the vault will have no power.}
+{110}{}{你可以看到一个通过上层分配能量的装置。没有它，金库就没有电了。 -- You see a device for distribution of power through the upper levels. Without it, the vault will have no power.}
+#{111}{}{The device does not work, and it�s your fault!}
+{111}{}{设备坏了，是你的错！ -- The device does not work, and it�s your fault!}
+#{112}{}{You've already disconnected the power from this distributor.}
+{112}{}{您已经断开了此分配器的电源。 -- You've already disconnected the power from this distributor.}
+#{113}{}{You disable this distributor and hear the hum from the wires in the vault grows quiet.}
+{113}{}{你禁用了这个分配器，听到保险库里电线发出的嗡嗡声变得很安静。 -- You disable this distributor and hear the hum from the wires in the vault grows quiet.}
+#{114}{}{You have very little time left before the backup generators turn on.}
+{114}{}{在备用发电机启动之前，你只有很少的时间了。 -- You have very little time left before the backup generators turn on.}
+#{115}{}{**WARNING! BACKUP GENERATORS ACTIVATED!*}
+{115}{}{**警告！备用发电机启动！* -- **WARNING! BACKUP GENERATORS ACTIVATED!*}
+#{116}{}{You will not be able to turn off the distributor, your technical skills are not good enough.}
+{116}{}{你不能关掉经销商，你的技术还不够好。 -- You will not be able to turn off the distributor, your technical skills are not good enough.}
+#{117}{}{That won�t do anything.}
+{117}{}{那没用。 -- That won�t do anything.}
+#{118}{}{The device does not work}
+{118}{}{设备不工作 -- The device does not work}
+#{119}{}{This is an important thing}
+{119}{}{这是一件重要的事情 -- This is an important thing}
+#{120}{}{Done}
+{120}{}{多恩 -- Done}
+#{121}{}{Not clear}
+{121}{}{不清楚 -- Not clear}
+#{122}{}{That won't work here.}
+{122}{}{这在这里行不通。 -- That won't work here.}
+#{123}{}{The explosives should be placed *under* the device.}
+{123}{}{炸药应该放在装置下面。 -- The explosives should be placed *under* the device.}
+#{124}{}{Not working}
+{124}{}{不起作用 -- Not working}

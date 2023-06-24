@@ -1,0 +1,2 @@
+#{100}{}{You stand before the door to the outside world. The future events will change your vault forever.}
+{100}{}{你站在通向外面世界的门前。未来的事件将永远改变你的保险库。 -- You stand before the door to the outside world. The future events will change your vault forever.}

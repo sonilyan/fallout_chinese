@@ -1,0 +1,2 @@
+#{100}{}{You enter a dilapidated rail station.}
+{100}{}{你进入一个破旧的火车站。 -- You enter a dilapidated rail station.}

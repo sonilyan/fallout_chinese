@@ -1,0 +1,16 @@
+#{100}{}{Articles about "Chryslus Motors" cars were very helpful. You reduced the load on the vehicle and slightly increased the speed and trunk load limit.}
+{100}{}{关于“Chryslus Motors”汽车的文章非常有用。您降低了车辆的负载，并略微提高了车速和行李箱负载限制。}
+#{101}{}{10 percent is serious business!}
+{101}{}{10%是正经事！}
+#{102}{}{Now this magazine is useless.}
+{102}{}{现在这本杂志没用了。}
+#{103}{}{With the help of this magazine, you could improve your pickup quite well, but this requires a professional toolbox, that you do not have.}
+{103}{}{有了这本杂志的帮助，你可以很好地提高你的皮卡，但这需要一个专业的工具箱，你没有。}
+#{104}{}{Need toolbox}
+{104}{}{需要工具箱吗}
+#{105}{}{With the help of this magazine, you could improve your pickup quite well, but this requires a professional toolbox and... The car itself.}
+{105}{}{有了这本杂志的帮助，你可以提高你的皮卡相当好，但这需要一个专业的工具箱和。。。汽车本身。}
+#{106}{}{Your repair skills are not good enough.}
+{106}{}{你的修理技术还不够好。}
+#{107}{}{Something's unclear...}
+{107}{}{有点不清楚。。。}

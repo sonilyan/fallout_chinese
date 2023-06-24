@@ -1,0 +1,256 @@
+#{100}{}{You see: Sergeant Stark.}
+{100}{}{你看：斯塔克中士。}
+#{101}{}{You see Sergeant Stark, the head of the south patrolling sector.}
+{101}{}{你可以看到斯塔克中士，南部巡逻区的负责人。}
+#{110}{}{Yes, citizen }
+{110}{}{是的，公民}
+#{111}{}{Yes, citizen }
+{111}{}{是的，公民}
+#{112}{}{? Looking for something to do?}
+{112}{}{? 想找点事做吗？}
+#{113}{}{I'll think about it. Take care.}
+{113}{}{我会考虑的。当心。}
+#{120}{}{Long live Vault City!}
+{120}{}{金库城万岁！}
+#{121}{}{Yeah, uh, long live Vault City, officer!}
+{121}{}{是的，呃，金库城万岁，警官！}
+#{122}{}{If you say so, officer.}
+{122}{}{如果你这么说的话，警官。}
+#{200}{}{Excuse me, but what are you doing here?}
+{200}{}{对不起，你在这里干什么？}
+#{201}{}{I command the south sector patrols. But right now, I'm off duty.}
+{201}{}{我指挥南区巡逻队。但现在，我下班了。}
+#{202}{}{What can you tell me about the patrols?}
+{202}{}{你能告诉我巡逻队的情况吗？}
+#{203}{}{Can you tell me anything about the south sector?}
+{203}{}{你能告诉我南区的情况吗？}
+#{204}{}{Have you ever met any outsiders?}
+{204}{}{你见过外人吗？}
+#{205}{}{How do you deal with outsiders?}
+{205}{}{你怎么和外人打交道？}
+#{206}{}{}
+{206}{}{}
+#{207}{}{}
+{207}{}{}
+#{208}{}{I have another question.}
+{208}{}{我还有一个问题。}
+#{209}{}{Thanks, that will be all.}
+{209}{}{谢谢，就这些。}
+#{210}{}{The patrols keep watch of the local area. The mountains make it easy for us to see and not be seen. Anything we find, we record in our databases.}
+{210}{}{巡逻队监视着当地。群山使我们容易看见，也容易看不见。我们找到的任何东西都会记录在数据库里。}
+#{211}{}{It's mostly uninhabitable, so outsiders or wild animals are rare. We know of two settlements, Gerlach and Black Rock, but I can't tell you much about them. We've always kept our distance.}
+{211}{}{它大多不适合居住，所以外来者或野生动物很少。我们知道两个定居点，杰拉克和黑岩，但我不能告诉你太多关于他们。我们一直保持距离。}
+#{212}{}{Of course! Most of them are psychos. Stay away from anyone in the wastes. Only talk to people in communities - they're usually safer and more civilized.}
+{212}{}{当然！他们大多数是精神病患者。远离荒野中的任何人。只和社区里的人交谈——他们通常更安全、更文明。}
+#{213}{}{We keep them away from the city. Usually we just gather tabs on where they're going, but, if necessary, we'll stop them and turn them around. With our weapons and armor, not many try to argue. The rest can be scared off with a few warning shots.}
+{213}{}{我们让他们远离城市。通常我们只是收集他们要去的地方的标签，但是，如果必要的话，我们会阻止他们并把他们转过来。有了我们的武器和盔甲，没有多少人试图争辩。剩下的人可能会被几枪警告吓跑。}
+#{214}{}{Can you show me where Gerlach is on the map?}
+{214}{}{你能告诉我杰拉克在地图上的什么地方吗？}
+#{215}{}{Hmm... I have another proposition, if you're interested.}
+{215}{}{隐马尔可夫模型。。。如果你有兴趣的话，我还有一个建议。}
+#{216}{}{Understood.}
+{216}{}{理解。}
+#{217}{}{Oh yeah, I almost forgot. Our patrols know of your mission, so if you meet them outside you can ask for medical help or safe escort.}
+{217}{}{哦，是的，我差点忘了。我们的巡逻队知道你的任务，所以如果你在外面遇到他们，你可以请求医疗帮助或安全护送。}
+#{218}{}{How can I help?}
+{218}{}{我能帮忙吗？}
+#{219}{}{You already know where it is. It's to the south.}
+{219}{}{你已经知道它在哪里了。在南边。}
+#{220}{}{Can I help you in any way?}
+{220}{}{我能帮你什么忙吗？}
+#{221}{}{Do you have any assignments for me?}
+{221}{}{你有什么任务给我吗？}
+#{222}{}{It sounds like an important job. Not as important as mine, though.}
+{222}{}{听起来这是一项重要的工作。不过，没有我的重要。}
+#{223}{}{If you want to think that, that's your problem. Our city needs patrols to keep outsiders from finding us. We both keep Vault City safe. Isn't that enough?}
+{223}{}{如果你想那样想，那是你的问题。我们的城市需要巡逻以防外人发现我们。我们都保证保险库的安全。这还不够吗？}
+#{224}{}{}
+{224}{}{}
+#{225}{}{}
+{225}{}{}
+#{226}{}{}
+{226}{}{}
+#{227}{}{}
+{227}{}{}
+#{228}{}{}
+{228}{}{}
+#{230}{}{Have you seen that green man in the cell?}
+{230}{}{你看到牢房里的那个绿人了吗？}
+#{231}{}{That walking corpse? When we captured him, he was driving a caravan. I've never seen anything so disgusting. If that's what the wastes are turning into, then we'd better be more careful with outsiders.}
+{231}{}{那个行尸走肉？我们抓到他的时候，他开着一辆大篷车。我从没见过这么恶心的东西。如果这就是废物正在变成的东西，那么我们最好对外人更加小心。}
+#{232}{}{Right.}
+{232}{}{正确的。}
+#{250}{}{Can you give me any advice for surviving the wastes?}
+{250}{}{你能给我一些关于如何在废物中生存的建议吗？}
+#{251}{}{My best piece of advice is to stay away from the highways. It might take longer, going off-road, but it'll be safer. Less chance of meeting outsiders that way.}
+{251}{}{我最好的建议是远离高速公路。越野行驶可能需要更长时间，但会更安全。这样会见外人的机会就少了。}
+#{252}{}{Well, it's better than nothing, so thanks.}
+{252}{}{好吧，总比没有强，所以谢谢。}
+#{300}{}{We need someone that can get intelligence on Gerlach without raising suspicion. You're just the right one for the job.}
+{300}{}{我们需要一个能在不引起怀疑的情况下获得有关杰拉克情报的人。你正是这份工作的合适人选。}
+#{301}{}{Go to Gerlach and come back? No problem!}
+{301}{}{去杰拉克回来？没问题！}
+#{302}{}{No, you'll have to do that without me.}
+{302}{}{不，你得在没有我的情况下做那件事。}
+#{303}{}{No, not just "go to Gerlach". We need detailed information on their community. Social structure, laws, problems - a full picture of our neighbors.}
+{303}{}{不，不只是“去杰拉克”。我们需要他们社区的详细信息。社会结构，法律，问题-我们邻居的全貌。}
+#{304}{}{Got it. I'll learn everything I can.}
+{304}{}{知道了。我会尽我所能学习的。}
+#{305}{}{No, do it without me.}
+{305}{}{不，不用我做。}
+#{306}{}{Good! I'll mark it on your map. We're looking forward to your report!}
+{306}{}{很好！我会把它标在你的地图上。我们期待你的报告！}
+#{307}{}{Consider it done!}
+{307}{}{考虑一下吧！}
+#{308}{}{About Gerlach... }
+{308}{}{关于Gerlach。。。}
+#{309}{}{What do you know about Gerlach?}
+{309}{}{你对杰拉克了解多少？}
+#{310}{}{It's one of the two communities we know of. We've always kept our distance, so I can't tell you anything useful.}
+{310}{}{这是我们知道的两个社区之一。我们一直保持距离，所以我不能告诉你任何有用的事情。}
+#{311}{}{Maybe I can get there?}
+{311}{}{也许我能到那里？}
+#{312}{}{You can't help me, then.}
+{312}{}{那你帮不了我。}
+#{313}{}{I've just returned from there.}
+{313}{}{我刚从那里回来。}
+#{314}{}{You've been there? Did you learn anything useful?}
+{314}{}{你去过吗？你学到什么有用的东西了吗？}
+#{315}{}{They're savages, they'll slit each other throats over an argument!}
+{315}{}{他们是野蛮人，他们会在争吵中割断彼此的喉咙！}
+#{316}{}{They're a strong-willed community with strict laws.}
+{316}{}{他们是一个意志坚强、法律严格的社区。}
+#{317}{}{I'm afraid, no. I'll tell if I learn anything.}
+{317}{}{恐怕不行，如果我学到什么我就告诉你。}
+#{318}{}{Can't say I'm surprised. We can't allow such wild and miserable brutes near our city! We need to... Take care of them, for our own safety.}
+{318}{}{不能说我很惊讶。我们不能让这样的野蛮和可怜的畜生靠近我们的城市！我们需要。。。照顾好他们，为了我们自己的安全。}
+#{319}{}{But how?}
+{319}{}{但是怎么做呢？}
+#{320}{}{I don�t want to be a part of this.}
+{320}{}{我不想参与其中。}
+#{321}{}{I've been there already. I'll tell you everything I know.}
+{321}{}{我已经去过了。我会告诉你我所知道的一切。}
+#{322}{}{Thank you citizen, that's very useful! We mostly need information on their social structure - what kind of people they are, what they want, how they treat themselves and others.}
+{322}{}{谢谢市民，这很有用！我们最需要的是关于他们社会结构的信息——他们是什么样的人，他们想要什么，他们如何对待自己和他人。}
+#{323}{}{Sorry, I can't give you that kind of information yet.}
+{323}{}{对不起，我还不能给你那种信息。}
+#{324}{}{You said the town has just the one water tank? By poisoning it, we can kill everybody in town. This poison, of course, will be provided to you.}
+{324}{}{你说镇上只有一个水箱？毒死它，我们就能杀死镇上所有人。当然，这种毒药会提供给你的。}
+#{325}{}{Sounds like a good plan!}
+{325}{}{听起来是个好计划！}
+#{326}{}{That might not work - the community's water pump isn't working.}
+{326}{}{这可能行不通——社区的水泵坏了。}
+#{327}{}{No way! This is genocide!}
+{327}{}{不可能！这是种族灭绝！}
+#{328}{}{No problem. We'll give you everything you need.}
+{328}{}{没问题。我们会给你所需要的一切。}
+#{329}{}{[Wait]}
+{329}{}{[等等]}
+#{330}{}{We are looking forward for your report, citizen! Long live Vault City!}
+{330}{}{我们期待你的报告，公民！金库城万岁！}
+#{331}{}{Uh, yeah... Long live Vault City.}
+{331}{}{呃，是的。。。金库城万岁。}
+#{332}{}{You've been there, you tell me.}
+{332}{}{你告诉我你去过那里。}
+#{333}{}{Then we'll have to watch them more closely.}
+{333}{}{那我们就得更仔细地观察他们。}
+#{334}{}{Is it done?}
+{334}{}{完成了吗？}
+#{335}{}{I refuse to do this!}
+{335}{}{我拒绝这样做！}
+#{336}{}{Yes, I poisoned their water supply. They're dead.}
+{336}{}{是的，我毒死了他们的水源。他们死了。}
+#{337}{}{No, not yet.}
+{337}{}{不，还没有。}
+#{338}{}{[Looks disappointed] I understand, it's not easy. Well, we'll find someone. You can go now... Citizen.}
+{338}{}{[看起来很失望]我明白，这不容易。好吧，我们会找到人的。你可以走了。。。公民。}
+#{339}{}{[Leave]}
+{339}{}{[离开]}
+#{340}{}{[Looks pleased] I knew you had the stomach for it. You really are something special, just as the Overseer said. We're all grateful to you.}
+{340}{}{[看起来很高兴]我就知道你有胃口。你真的很特别，就像监工说的。我们都很感激你。}
+#{341}{}{[Leave]}
+{341}{}{[离开]}
+#{342}{}{The outsiders are a good workforce. We're still trying to find a way to fit them into our society, but I'm sure we'll get them working soon enough.}
+{342}{}{外来者是一支优秀的劳动力队伍。我们仍在设法让他们融入我们的社会，但我相信我们很快就能让他们工作。}
+#{343}{}{It is done, for once and for all. Vault City can sleep safely at night.}
+{343}{}{这是一劳永逸的。金库城晚上可以安然入睡。}
+#{344}{}{It is done. Let's hope that's the last we hear about them.}
+{344}{}{已经完成了。希望这是我们最后一次听说他们。}
+#{350}{}{Really? Hmm... Now that I think about it, that's not so surprising. They try to live as a small, tight-knit community. Maybe that's why they left big cities. Maybe we should get acquainted more closely.}
+{350}{}{真正地？隐马尔可夫模型。。。现在想想，这并不奇怪。他们试图作为一个小而紧密的社区生活。也许这就是他们离开大城市的原因。也许我们应该多了解一些。}
+#{351}{}{More closely? What do you mean?}
+{351}{}{更接近？什么意思？}
+#{352}{}{I'll let you handle that without me.}
+{352}{}{我让你自己处理。}
+#{353}{}{Please understand - to keep Vault City going, we have to risk our citizens doing dangerous tasks, such as decontaminating radioactive areas. We need an external workforce, so we don't have to risk our own citizens.}
+{353}{}{请理解-为了让金库城继续运转，我们必须让我们的公民承担危险的任务，比如净化放射性区域。我们需要一个外部劳动力，所以我们不必冒着自己公民的风险。}
+#{354}{}{Slaves? Are you serious?!}
+{354}{}{奴隶？你是认真的吗？！}
+#{355}{}{Hired workers? This makes sense!}
+{355}{}{雇佣工人？这是有道理的！}
+#{356}{}{I don't want to hear about this. Do it without me.}
+{356}{}{我不想听这个。不用我做。}
+#{357}{}{We're not bandits, citizen. We're talking about mutual benefit: we give them food, shelter, and medicine, and in exchange they give us free labor for life. It's a fair deal, don't you think?}
+{357}{}{我们不是强盗，公民。我们谈论的是互利：我们给他们食物、住所和药品，作为交换，他们给我们终身免费劳动。这是公平交易，你不觉得吗？}
+#{358}{}{That's right. Everybody wins: we give them food, shelter, and medicine, and in exchange they give us free labor for life. It's a fair deal, don't you think?}
+{358}{}{这是正确的。每个人都赢了：我们给他们食物、住所和药品，作为交换，他们给我们终身免费劳动。这是公平交易，你不觉得吗？}
+#{359}{}{Yes, it's fair, if the slaves... Er, hired workers are given the same rights as citizens.}
+{359}{}{是的，这是公平的，如果奴隶们。。。呃，雇佣工人享有与公民同等的权利。}
+#{360}{}{No, I don't! This is slavery and a disgrace to our city! I'm out of here!}
+{360}{}{不，我没有！这是奴隶制，是我们城市的耻辱！我要走了！}
+#{361}{}{I'm glad to hear that. We've discussed this with the committee, but they haven't made a decision yet. Now we have you. Give Gerlach our proposal, but don't tell them our location until you make the deal.}
+{361}{}{听到这个我很高兴。我们已经和委员会讨论过了，但他们还没有做出决定。现在我们有你了。把我们的建议给Gerlach，但在达成协议之前不要告诉他们我们的位置。}
+#{362}{}{I'm happy to help the city! I'll do it!}
+{362}{}{我很高兴帮助这个城市！我会的！}
+#{363}{}{No, I won't do this.}
+{363}{}{不，我不会这么做的。}
+#{364}{}{I hope this isn't a mistake. Good luck! And long live Vault City!}
+{364}{}{我希望这不是一个错误。祝你好运！金库城万岁！}
+#{365}{}{Yeah... Long live!}
+{365}{}{是 啊。。。万岁！}
+#{366}{}{Did you tell them our offer?}
+{366}{}{你告诉他们我们的报价了吗？}
+#{367}{}{I'm not going to do this. Find someone else.}
+{367}{}{我不会这么做的。找其他人。}
+#{368}{}{Yes, they were happy to accept. They're waiting to start.}
+{368}{}{是的，他们很乐意接受。他们在等着开始。}
+#{369}{}{Not yet. I'm working on it.}
+{369}{}{还没有。我正在努力。}
+#{370}{}{So be it. In time, I hope we'll find someone to replace you. Now get out.}
+{370}{}{就这样吧。我希望我们能及时找到人来代替你。现在出去。}
+#{371}{}{[Leave]}
+{371}{}{[离开]}
+#{372}{}{Excellent news! I'll send a team as soon as possible. Vault City owes you a great debt, citizen!}
+{372}{}{好消息！我会尽快派一个小组。金库城欠你一大笔债，市民！}
+#{373}{}{[Leave]}
+{373}{}{[离开]}
+#{374}{}{You've decided the fate of the entire community.}
+{374}{}{你决定了整个社区的命运。}
+#{375}{}{We'll have to fix Gerlach's water pump before they trust us.}
+{375}{}{在他们信任我们之前，我们得先修好Gerlach的水泵。}
+#{376}{}{No problem. I'll put in a request with the warehouse right now.}
+{376}{}{没问题。我马上向仓库提出申请。}
+#{377}{}{Excellent!}
+{377}{}{杰出的！}
+#{1313}{}{I've just returned from there.}
+{1313}{}{我刚从那里回来。}
+#{1321}{}{I've been there already. I'll tell you everything I know.}
+{1321}{}{我已经去过了。我会告诉你我所知道的一切。}
+#{1322}{}{Thank you citizen, that's very useful! We mostly need information on their social structure - what kind of people they are, what they want, how they treat themselves and others.}
+{1322}{}{谢谢市民，这很有用！我们最需要的是关于他们社会结构的信息——他们是什么样的人，他们想要什么，他们如何对待自己和他人。}
+#{1327}{}{No way! This is genocide!}
+{1327}{}{不可能！这是种族灭绝！}
+#{1330}{}{We are looking forward for your report, citizen! Long live Vault City!}
+{1330}{}{我们期待你的报告，公民！金库城万岁！}
+#{1338}{}{(looks disappointed) I understand, it's not easy. Well, we'll find someone. You can go now... Citizen.}
+{1338}{}{（看起来很失望）我明白，这不容易。好吧，我们会找到人的。你可以走了。。。公民。}
+#{1340}{}{(looks pleased) I knew you had the stomach for it. You really are something special, just as the Overseer said. We're all grateful to you.}
+{1340}{}{（看起来很高兴）我就知道你有胃口。你真的很特别，就像监工说的。我们都很感激你。}
+#{1357}{}{We're not bandits, citizen. We're talking about mutual benefit: we give them food, shelter, and medicine, and in exchange they give us free labor for life. It's a fair deal, don't you think?}
+{1357}{}{我们不是强盗，公民。我们谈论的是互利：我们给他们食物、住所和药品，作为交换，他们给我们终身免费劳动。这是公平交易，你不觉得吗？}
+#{1358}{}{That's right. Everybody wins: we give them food, shelter, and medicine, and in exchange they give us free labor for life. It's a fair deal, don't you think?}
+{1358}{}{这是正确的。每个人都赢了：我们给他们食物、住所和药品，作为交换，他们给我们终身免费劳动。这是公平交易，你不觉得吗？}
+#{1360}{}{No, I don't! This is slavery and a disgrace to our city! I'm out of here!}
+{1360}{}{不，我没有！这是奴隶制，是我们城市的耻辱！我要走了！}
+#{1362}{}{I'm happy to help the city! I'll do it!}
+{1362}{}{我很高兴帮助这个城市！我会的！}

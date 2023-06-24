@@ -1,0 +1,38 @@
+#{100}{}{}
+{100}{}{ -- }
+#{101}{}{Perhaps, you can scavenge something useful out of it.}
+{101}{}{也许，你能从中找到有用的东西。 -- Perhaps, you can scavenge something useful out of it.}
+#{102}{}{It is very unlikely you find anything useful in here.}
+{102}{}{你不大可能在这里找到有用的东西。 -- It is very unlikely you find anything useful in here.}
+#{103}{}{Damn it!}
+{103}{}{该死的！ -- Damn it!}
+#{104}{}{This skill is useless here.}
+{104}{}{这技能在这里是没有用的。 -- This skill is useless here.}
+#{105}{}{Put it back inside? Oh no, this won�t make the car running again.}
+{105}{}{把它放回去？哦，不，这不会让车再跑了。 -- Put it back inside? Oh no, this won�t make the car running again.}
+#{110}{}{You found an intact fuel controller under the hood.}
+{110}{}{你在引擎盖下发现了一个完好无损的燃料控制器。 -- You found an intact fuel controller under the hood.}
+#{111}{}{You already took out everything you could from the Corvega.}
+{111}{}{你已经从Corvega拿走了所有能得到的东西。 -- You already took out everything you could from the Corvega.}
+#{112}{}{Your skills prevent you from finding anything useful in here.}
+{112}{}{你的技能使你在这里找不到任何有用的东西。 -- Your skills prevent you from finding anything useful in here.}
+#{114}{}{You took some leftover fuel out of the gas tank and made some Molotov cocktails.}
+{114}{}{你从油箱里拿出一些剩余的燃料，做了一些燃烧瓶。 -- You took some leftover fuel out of the gas tank and made some Molotov cocktails.}
+#{115}{}{You took some scrap metal from under the hood. It will come in handy in repair.}
+{115}{}{你从引擎盖下拿了些废金属。修理时会派上用场的。 -- You took some scrap metal from under the hood. It will come in handy in repair.}
+#{116}{}{In a car door you found some forgotten money. }
+{116}{}{在车门上你发现了一些被遗忘的钱。 -- In a car door you found some forgotten money. }
+#{117}{}{You surprisingly found some 0,223 ammo in the back seat.}
+{117}{}{你居然在后座发现了0223弹药。 -- You surprisingly found some 0,223 ammo in the back seat.}
+#{118}{}{This can come in handy}
+{118}{}{这个可以派上用场 -- This can come in handy}
+#{119}{}{Yeah!}
+{119}{}{是 啊！ -- Yeah!}
+#{120}{}{Now there is *definitely* nothing useful left}
+{120}{}{现在肯定没有什么有用的了 -- Now there is *definitely* nothing useful left}
+#{121}{}{Hmm...}
+{121}{}{隐马尔可夫模型。。。 -- Hmm...}
+#{122}{}{You took out a microfusion battery.}
+{122}{}{你拿出了微型聚变电池。 -- You took out a microfusion battery.}
+#{123}{}{ bucks.}
+{123}{}{美元。 --  bucks.}

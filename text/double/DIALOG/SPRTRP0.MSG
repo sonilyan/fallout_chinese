@@ -1,0 +1,14 @@
+#{100}{}{You see a raised plate. It looks to be part of a trap.}
+{100}{}{你看到一个凸起的盘子。看来是陷阱的一部分。 -- You see a raised plate. It looks to be part of a trap.}
+#{101}{}{ sees a raised plate. It looks to be part of a trap.}
+{101}{}{看到一个凸起的盘子。看来是陷阱的一部分。 --  sees a raised plate. It looks to be part of a trap.}
+#{102}{}{You see a raised plate.}
+{102}{}{你看到一个凸起的盘子。 -- You see a raised plate.}
+#{103}{}{ sees a raised plate.}
+{103}{}{看到一个凸起的盘子。 --  sees a raised plate.}
+#{104}{}{You trigger the trap and narrowly avoid the projectile shot from the wall.}
+{104}{}{你触发陷阱，险些从墙上射出去。 -- You trigger the trap and narrowly avoid the projectile shot from the wall.}
+#{105}{}{ triggers the trap and narrowly avoids the projectile shot from the wall.}
+{105}{}{触发陷阱，险些从墙上射出去。 --  triggers the trap and narrowly avoids the projectile shot from the wall.}
+#{106}{}{You see a raised plate that looks harmless.}
+{106}{}{你看到一个凸起的盘子看起来无害。 -- You see a raised plate that looks harmless.}

@@ -1,0 +1,40 @@
+#{100}{}{You see a door of the train.}
+{100}{}{你看到火车的一扇门。 -- You see a door of the train.}
+#{101}{}{This train will not budge - its last journey came to an end.}
+{101}{}{这列火车一动不动，它的最后一程结束了。 -- This train will not budge - its last journey came to an end.}
+#{110}{}{The train is well preserved under the roof of the hangar.}
+{110}{}{火车在机库的屋顶下保存得很好。 -- The train is well preserved under the roof of the hangar.}
+#{111}{}{[Start the train]}
+{111}{}{[启动列车] -- [Start the train]}
+#{112}{}{[Assess the situation]}
+{112}{}{[评估情况] -- [Assess the situation]}
+#{113}{}{[Check train systems]}
+{113}{}{[检查列车系统] -- [Check train systems]}
+#{114}{}{[Leave]}
+{114}{}{[离开] -- [Leave]}
+#{120}{}{It seems that the train is serviceable and ready to go.}
+{120}{}{这列火车似乎可以使用，随时可以开走。 -- It seems that the train is serviceable and ready to go.}
+#{121}{}{It seems that the train is okay, but the onboard computer is not working. It�s difficult to say why. Qualified maintenance is required.}
+{121}{}{火车似乎没问题，但车载电脑坏了。很难说为什么。需要合格的维护。 -- It seems that the train is okay, but the onboard computer is not working. It�s difficult to say why. Qualified maintenance is required.}
+#{122}{}{[Dismantle an inoperative onboard computer]}
+{122}{}{[拆卸不工作的车载计算机] -- [Dismantle an inoperative onboard computer]}
+#{123}{}{[Install the functional onboard computer]}
+{123}{}{[安装功能板载计算机] -- [Install the functional onboard computer]}
+#{124}{}{Done.}
+{124}{}{完成。 -- Done.}
+#{125}{}{You install the onboard computer and press the button in anticipation. The screen lights up brightly with green light. For a few minutes you look at message "checking up systems...", then the screen at last notifies you that the status of the trains is functional.}
+{125}{}{你安装了车载电脑，并按了预期的按钮。屏幕上亮着绿灯。几分钟后，您会看到消息“checking up systems…”，然后屏幕最后会通知您列车的状态正常。 -- You install the onboard computer and press the button in anticipation. The screen lights up brightly with green light. For a few minutes you look at message "checking up systems...", then the screen at last notifies you that the status of the trains is functional.}
+#{126}{}{This train is created by modern pre-war technology. The interface is pretty simple, but even if you manage to start the train it will be hard to keep an eye on complex reactor system and other important parameters and metrics at the same time. You will have to find an assistant.}
+{126}{}{这列火车是用战前的现代技术制造的。界面相当简单，但即使你设法启动了列车，也很难同时关注复杂的反应堆系统和其他重要的参数和指标。你得找个助手。 -- This train is created by modern pre-war technology. The interface is pretty simple, but even if you manage to start the train it will be hard to keep an eye on complex reactor system and other important parameters and metrics at the same time. You will have to find an assistant.}
+#{130}{}{The train is ready to go, but you can't do it alone. You will have to look for the driver.}
+{130}{}{火车准备好了，但你一个人做不到。你得去找司机。 -- The train is ready to go, but you can't do it alone. You will have to look for the driver.}
+#{131}{}{The train is ready to go, but you won't be able to speed it up to knock out the gates of the hangar. You must find a way to open the gate.}
+{131}{}{火车已经准备好开动了，但是你不能加快速度去撞开机库的大门。你必须想办法打开大门。 -- The train is ready to go, but you won't be able to speed it up to knock out the gates of the hangar. You must find a way to open the gate.}
+#{132}{}{The train is ready to move, but where to go?}
+{132}{}{火车准备开动了，但是去哪儿呢？ -- The train is ready to move, but where to go?}
+#{133}{}{The train is ready for dispatch.}
+{133}{}{列车已准备好派车。 -- The train is ready for dispatch.}
+#{134}{}{Go!}
+{134}{}{快走！ -- Go!}
+#{135}{}{The train is nonfunctional.}
+{135}{}{火车坏了。 -- The train is nonfunctional.}

@@ -1,0 +1,62 @@
+#{100}{}{Body.}
+{100}{}{身体。 -- Body.}
+#{101}{}{The body is chest deep in the nest, but what remains still seems to be breathing!}
+{101}{}{尸体深埋在鸟巢里，但剩下的似乎还在呼吸！ -- The body is chest deep in the nest, but what remains still seems to be breathing!}
+#{102}{}{Uhh... Mghhhh....}
+{102}{}{呃。。。Mghhhh。。。。 -- Uhh... Mghhhh....}
+#{103}{}{Hey! Can you hear me? Do you understand what I'm saying?}
+{103}{}{嘿！你能听见我说话吗？你明白我的意思吗？ -- Hey! Can you hear me? Do you understand what I'm saying?}
+#{104}{}{Maaaah...}
+{104}{}{哎呀。。。 -- Maaaah...}
+#{105}{}{You don't look too well, man. Maybe I should pull you out of the nest?}
+{105}{}{你看起来不太好，伙计。也许我应该把你从巢里拉出来？ -- You don't look too well, man. Maybe I should pull you out of the nest?}
+#{106}{}{[Leave him be]}
+{106}{}{[别管他] -- [Leave him be]}
+#{107}{}{Ugghh... Help...}
+{107}{}{啊。。。帮助。。。 -- Ugghh... Help...}
+#{108}{}{[Try to pull him out]}
+{108}{}{[试着把他拉出来] -- [Try to pull him out]}
+#{109}{}{[Leave him be]}
+{109}{}{[别管他] -- [Leave him be]}
+#{110}{}{Hey, get up before we get eaten here!}
+{110}{}{嘿，在我们被吃之前起来！ -- Hey, get up before we get eaten here!}
+#{111}{}{Come on!}
+{111}{}{加油！ -- Come on!}
+#{112}{}{Holy shit!..}
+{112}{}{天啊！。。 -- Holy shit!..}
+#{113}{}{You're lucky to be alive!}
+{113}{}{你还活着真幸运！ -- You're lucky to be alive!}
+#{114}{}{What the... Wait a sec, it feels weird...}
+{114}{}{怎么了。。。等等，感觉很奇怪。。。 -- What the... Wait a sec, it feels weird...}
+#{115}{}{What?}
+{115}{}{什么？ -- What?}
+#{116}{}{A-A-A-A-A-A-AH!!!}
+{116}{}{啊啊啊啊啊啊啊啊！！！ -- A-A-A-A-A-A-AH!!!}
+#{117}{}{What the hell was that?}
+{117}{}{那到底是什么？ -- What the hell was that?}
+#{118}{}{This poor fellow's end was predetermined.}
+{118}{}{这个可怜的家伙的结局是注定的。 -- This poor fellow's end was predetermined.}
+#{120}{}{*moan*}
+{120}{}{*呻吟* -- *moan*}
+#{121}{}{*whizz*}
+{121}{}{*嗖嗖* -- *whizz*}
+#{122}{}{Ooh...}
+{122}{}{哦。。。 -- Ooh...}
+#{123}{}{Hurr...}
+{123}{}{哈。。。 -- Hurr...}
+#{124}{}{Mmmph...}
+{124}{}{嗯。。。 -- Mmmph...}
+#{125}{}{Help...}
+{125}{}{帮助。。。 -- Help...}
+#{200}{}{This ghoul is a goner. It appears he didn't die because biomass sucked him in, but on the contrary, when biomass died from gas, this man died with it... Or what was left of him.}
+{200}{}{这个食尸鬼死定了。看来他死不是因为生物质把他吸进去了，但恰恰相反，当生物质死于瓦斯时，这个人就和瓦斯一起死了。。。或者他剩下什么。 -- This ghoul is a goner. It appears he didn't die because biomass sucked him in, but on the contrary, when biomass died from gas, this man died with it... Or what was left of him.}
+#{201}{}{[Search the corpse for valuables]}
+{201}{}{[在尸体上搜寻贵重物品] -- [Search the corpse for valuables]}
+#{202}{}{[Leave the corpse be]}
+{202}{}{[离开尸体] -- [Leave the corpse be]}
+#{203}{}{These remains are of no interest to you now.}
+{203}{}{你现在对这些遗骸不感兴趣了。 -- These remains are of no interest to you now.}
+#{204}{}{You unexpectedly find a red keycard within the remains.}
+{204}{}{你意外地在遗骸里发现了一张红色的钥匙卡。 -- You unexpectedly find a red keycard within the remains.}
+#{205}{}{Nothing else here.}
+{205}{}{这里没有别的了。 -- Nothing else here.}

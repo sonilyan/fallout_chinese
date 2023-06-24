@@ -1,0 +1,250 @@
+#{100}{}{You see Big Louie!}
+{100}{}{你看到大路易了！}
+#{101}{}{Holy crap! It's Big Louie! He actually found stardom in Vegas!}
+{101}{}{我靠！是大路易！他真的在维加斯成名了！}
+#{102}{}{Hey, look who it is! Let's have a round of applause for my old friend! Without him, I wouldn't be here!}
+{102}{}{嘿，看看是谁！让我们为我的老朋友鼓掌吧！没有他，我就不会在这里！}
+#{103}{}{We accomplished a lot together, but he has no time to tell you the details... No time, I said!}
+{103}{}{我们一起完成了很多，但他没有时间告诉你细节。。。没时间了，我说！}
+#{104}{}{Hey, look who it is! Let's have a round of applause for my old friend! Without her, I wouldn't be here!}
+{104}{}{嘿，看看是谁！让我们为我的老朋友鼓掌吧！没有她，我就不会在这里！}
+#{105}{}{We accomplished a lot together, but she has no time to tell you the details... No time, I said!}
+{105}{}{我们一起完成了很多，但她没有时间告诉你细节。。。没时间了，我说！}
+#{106}{}{I'm happy to see you, but I'm about to go onstage. We'll talk later.}
+{106}{}{很高兴见到你，但我马上就要上台了。我们稍后再谈。}
+#{107}{}{The show just ended! Give me a minute.}
+{107}{}{演出刚刚结束！给我一分钟。}
+#{110}{}{Hey, brother. It's good to see you! We're a long way from that Indian camp, aren't we?}
+{110}{}{嘿，兄弟。很高兴见到你！我们离印第安人营地很远，不是吗？}
+#{111}{}{Big Louie! You seem to be doing well.}
+{111}{}{大路易！你似乎做得很好。}
+#{112}{}{I'm terrific! At first I almost regretted leaving that Cheyenne canyon. I was feared and respected there. But here, the elites... Accepted me. For the first time I feel *needed*... I never thought I'd achieve this. And I owe it all to you. Speaking of which, you look a little rough... }
+{112}{}{我太棒了！一开始我几乎后悔离开夏延峡谷。我在那里受到恐惧和尊敬。但在这里，精英们。。。接受了我。我第一次感到需要。。。我从没想过我能做到这一点。我欠你的。说到这里，你看起来有点粗鲁。。。}
+#{113}{}{I've been busy. Sometimes it feels like everyone I talk to has another job for me. Anyway, can we chat?}
+{113}{}{我一直很忙。有时我觉得每个和我交谈的人都有另一份工作给我。不管怎样，我们能聊聊吗？}
+#{114}{}{I'll always have time for you... When I'm not on stage, that is.}
+{114}{}{我会一直有时间陪你。。。当我不在舞台上的时候，就是这样。}
+#{115}{}{I have to go. We'll talk later.}
+{115}{}{我得走了。我们稍后再谈。}
+#{116}{}{It was good to see you. I enjoyed this.}
+{116}{}{很高兴见到你。我喜欢这个。}
+#{117}{}{Good luck to you.}
+{117}{}{祝你好运。}
+#{118}{}{Bad news. Everyone in your gang is dead.}
+{118}{}{坏消息。你那帮人都死了。}
+#{119}{}{I was wondering why they've been so quiet... Well, no turning back now. Don't worry, I'm not upset. I had no love for those dogs.}
+{119}{}{我在想他们为什么这么安静。。。好吧，现在不要回头了。别担心，我不难过。我不喜欢那些狗。}
+#{120}{}{Ripper is getting out of hand. What do we do, boss?}
+{120}{}{开膛手失控了。我们该怎么办，老板？}
+#{121}{}{The Ripper? When I was in charge, he was useful... On his place. But he can't lead them. Don't worry, they'll tear themselves apart if he tries.}
+{121}{}{开膛手？当我负责的时候，他很有用。。。在他的位置上。但他不能领导他们。别担心，如果他试的话，他们会把自己撕成碎片的。}
+#{122}{}{He wants to take your place. He says you went soft, and... }
+{122}{}{他想取代你的位置。他说你很软弱，而且。。。}
+#{123}{}{Let's talk about something else.}
+{123}{}{我们再谈点别的吧。}
+#{124}{}{Hmm. We'll leave it at that, then.}
+{124}{}{嗯。那就到此为止吧。}
+#{125}{}{Soft? ME?! I was feeding that whole gang when he was still sucking his mother's milk! Why, he ought to...  [he cuts himself off, then takes several deep breaths]}
+{125}{}{柔软？我？！我在喂那帮人的时候他还在吮吸他妈妈的奶！为什么，他应该。。。[他切断了自己，然后做了几次深呼吸]}
+#{126}{}{[Let him calm down.]}
+{126}{}{[让他冷静下来。]}
+#{127}{}{I won't fall back down to their level. But Ripper has to go. I'll give you 1000 dollars - buy some poison from the dealer outside the cafe, or just some ammo for your gun. I won't be going back, so it's up to you how to solve this problem. Don't worry - I know you can handle this.}
+{127}{}{我不会回到他们的水平。但开膛手得走了。我给你1000美元-从咖啡馆外面的毒贩那里买点毒药，或者给你的枪买些弹药。我不回去了，怎么解决这个问题就看你了。别担心-我知道你能应付的。}
+#{128}{}{Okay, boss.}
+{128}{}{好的，老板。}
+#{129}{}{}
+{129}{}{}
+#{130}{}{Will you ever come back?}
+{130}{}{你还会回来吗？}
+#{131}{}{I've thought about it. But my schedule here is filled tight for the next couple of months. If I ever go back, it won't be soon.}
+{131}{}{我已经考虑过了。但我接下来几个月的日程安排很紧。如果我再回去，不会很快的。}
+#{132}{}{How much money do you make off your show?}
+{132}{}{你的节目赚了多少钱？}
+#{133}{}{A lot less than I did with the gang. You can't make a lot of money like this these days. But there are... Other benefits.}
+{133}{}{比我和那帮人做的要少很多。现在你不可能像这样赚很多钱。但是有。。。其他福利。}
+#{134}{}{When's your next show?}
+{134}{}{你的下一场演出是什么时候？}
+#{135}{}{This evening, after six. You should see it. It'll be fun!}
+{135}{}{今晚，六点以后。你应该看看。会很有趣的！}
+#{200}{}{Do you folks like coffee?~}
+{200}{}{你们喜欢咖啡吗？~}
+#{201}{}{Real coffee}
+{201}{}{真正的咖啡}
+#{202}{}{From the Hills}
+{202}{}{从山上}
+#{203}{}{Of Colombia?~}
+{203}{}{哥伦比亚的？~}
+#{204}{}{Hey you! Do you have some grave dug out for you or what? Dance suckers, you're in the best bar in the wasteland - cause I'm here!}
+{204}{}{嘿，你！你有没有为你挖坟墓？跳舞的笨蛋，你在荒原上最好的酒吧-因为我在这里！}
+#{205}{}{~The Duncan Hills will wake you~}
+{205}{}{~z~邓肯山会吵醒你的~}
+#{206}{}{~From a thousand deaths,}
+{206}{}{~从上千人的死亡中，}
+#{207}{}{~A cup of blackened blood}
+{207}{}{~一杯熏黑的血}
+#{208}{}{~Dying, dying... You're dying for a cup~}
+{208}{}{~快死了，快死了。。。你真想喝一杯~}
+#{209}{}{Hey! You, asshole to the right! Put that back! My boys would chop off your hand for that, in our gan- I mean in our jazz gan- er, jazz-band. You know... }
+{209}{}{嘿！你，右边的混蛋！把它放回去！我的孩子们会因此而砍掉你的手，在我们的gan-我是说在我们的爵士gan-er，爵士乐队。你知道的。。。}
+#{210}{}{~Guatemala blend, ethiopian,}
+{210}{}{~危地马拉，埃塞俄比亚，}
+#{211}{}{French vanilla roast~}
+{211}{}{法式香草烤肉~}
+#{212}{}{Dying, dying~}
+{212}{}{快死了，快死了~}
+#{213}{}{You're dying for a cup!}
+{213}{}{你真想喝一杯！}
+#{214}{}{Prepare for ultimate flavor! You're gonna get some now... And scream - for your cream!}
+{214}{}{为终极口味做好准备！你现在就去拿。。。尖叫-为了你的奶油！}
+#{215}{}{Duncan Hills,}
+{215}{}{邓肯山，}
+#{216}{}{Duncan Hills~ }
+{216}{}{邓肯山~}
+#{217}{}{Duncan... Hills...}
+{217}{}{邓肯。。。山。。。}
+#{218}{}{Coffee! Yeeeeeeeaah!}
+{218}{}{咖啡！是啊！}
+#{219}{}{Yeah, life's great, even with your rotten faces around... Heh, JK LOL. You're the best audience I've ever had! Let's do something completely different -}
+{219}{}{是啊，生活很美好，即使你的臭脸。。。嘿，JK哈哈。你是我见过的最好的观众！让我们做些完全不同的事情-}
+#{220}{}{~Musta-Krakish, Musta - Krakish!~}
+{220}{}{~z~穆斯塔·克拉奇什，穆斯塔·克拉奇什！~}
+#{221}{}{The time has come, to awaken him~}
+{221}{}{是时候唤醒他了~}
+#{222}{}{I call upon the ancient lords of the underworld, }
+{222}{}{我召唤古老的冥界领主，}
+#{223}{}{~To bring forth this beast and -}
+{223}{}{~z~把这只野兽带出来-}
+#{224}{}{Come on, boys and girls! We've already been through the apocalypse! So, what's left to be afraid of? Sing with me!}
+{224}{}{加油，孩子们！我们已经经历了世界末日！那么，还有什么好怕的呢？和我一起唱！}
+#{225}{}{Awaken, awaken, awaken, awaken~}
+{225}{}{醒醒，醒醒，醒醒，醒醒~}
+#{226}{}{Take the land, that must be taken~}
+{226}{}{占领土地，那是必须占领的~}
+#{227}{}{Awaken, awaken, awaken, awaken~}
+{227}{}{醒醒，醒醒，醒醒，醒醒~}
+#{228}{}{~Devour worlds, smite forsaken!}
+{228}{}{~吞噬世界，打败被遗弃的人！}
+#{229}{}{By the way, ladies, you can invite the gents to dance! If they are still capable to... }
+{229}{}{顺便说一句，女士们，你们可以邀请男士们跳舞！如果他们还能。。。}
+#{230}{}{~Rise up from your thousand year old sleep,}
+{230}{}{~从你千年的睡眠中醒来，}
+#{231}{}{~Break forth from your grave eternallyyy~ }
+{231}{}{~永远从你的坟墓里出来yyy~}
+#{232}{}{~I command you to... }
+{232}{}{~z~我命令你。。。}
+#{233}{}{~Rise! Rise! Rise! Rise!~}
+{233}{}{~起来！起来！起来！起来！~}
+#{234}{}{Yeah, yeah, I did my time with all kinds of inner struggles, you know... Like any other artist!}
+{234}{}{是的，是的，我做了我的时间与各种内心斗争，你知道。。。像其他艺术家一样！}
+#{235}{}{~I'm the conjurer of demons,}
+{235}{}{~z~我是恶魔的魔术师，}
+#{236}{}{I'm the father of your death~}
+{236}{}{我是你的死神~}
+#{237}{}{I bring forth the ancient evil,}
+{237}{}{我带来了古老的邪恶，}
+#{238}{}{~I control his every breath.~}
+{238}{}{~z~我控制着他的呼吸~}
+#{239}{}{Once I had a... Uh... Fellow, er... Drummer, that could butcher anyone... Like a French meringue! In cards of course! Then he met a "bigger fish"... }
+{239}{}{有一次我。。。休斯敦大学。。。伙计，呃。。。鼓手，那可以屠杀任何人。。。像法国蛋白酥皮！当然是纸牌！然后他遇到了一条“更大的鱼”。。。}
+#{240}{}{~I instigate your misfortune...~}
+{240}{}{~z~我挑起了你的不幸~}
+#{241}{}{With the birth of killing trolls!!}
+{241}{}{随着杀人巨魔的诞生！！}
+#{242}{}{I awaken Armageddon!}
+{242}{}{我唤醒了世界末日！}
+#{243}{}{~Feeding on a thousand souls~}
+{243}{}{~以一千个灵魂为食~}
+#{244}{}{Don't forget to try today's special cocktail! Two for the price of one! Goes great together with your booze! So, where were we... Oh yeah! Next song!}
+{244}{}{别忘了尝尝今天的特色鸡尾酒！两个一个的价钱！和你的酒搭配得很好！那么，我们在哪里。。。哦，是的！下一首歌！}
+#{245}{}{I wanna roll with the gangsters~}
+{245}{}{我想和歹徒们打成一片~}
+#{246}{}{~But so far they all think I'm too white and nerdy~}
+{246}{}{~z~但到目前为止，他们都认为我太白痴了~}
+#{247}{}{~Think I'm just too white and nerdy, yeah I'm just too white and nerdy,}
+{247}{}{~我觉得我太白痴了，是的，我太白痴了，}
+#{248}{}{You see I'm white and nerdy - Look, I'm white and nerdy!~ }
+{248}{}{你看我又白又书呆子-看，我又白又书呆子！~}
+#{249}{}{Yes, my dear alcoholics, junkies and lovers of cheap whores! Put out your ears - here goes real skill!}
+{249}{}{是的，我亲爱的酒鬼，瘾君子和廉价妓女的情人！伸出你的耳朵-这是真正的技能！}
+#{250}{}{First in my class here at MIT, got skills of a champion at D'n'D,}
+{250}{}{我在麻省理工学院的第一个同学，在D'n'D获得了冠军的技能，}
+#{251}{}{M.C. Escher, that's my favorite M.C. - Keep your forty, I'll just have an Earl Grey tea,}
+{251}{}{M、 C.埃舍尔，那是我最喜欢的M.C.-留着你的四十，我要一杯伯爵茶，}
+#{252}{}{My rims never spin, to the contrary, you'll find that they're quite stationary,}
+{252}{}{我的轮辋从不旋转，相反，你会发现它们是固定的，}
+#{253}{}{All of my action figures are cherry, Stephen Hawking's in my library~}
+{253}{}{我所有的动作人物都是樱桃，史蒂芬·霍金在我的图书馆里~}
+#{254}{}{I'd like to thank, uh, MTV, for giving me the chance... Wait a second, what? Moving on!}
+{254}{}{我要感谢，呃，MTV，给我这个机会。。。等等，什么？继续前进！}
+#{255}{}{~Get your towels ready it's about to go down~}
+{255}{}{~把毛巾准备好，马上就要沉下去了~}
+#{256}{}{~Everybody in the place hit the fuckin' deck~}
+{256}{}{~z~这里的人都到甲板上去了~}
+#{257}{}{~But stay on your motherfuckin' toes~}
+{257}{}{~z~但你他妈的要小心~}
+#{258}{}{Big Louie's runnin' this - let's go!~}
+{258}{}{大路易在跑-我们走！~}
+#{259}{}{I'd very much appreciate autotune now, T-Pain style! But it's, like, post-apocalypse, so let's proceed with what we have!}
+{259}{}{我非常感谢现在自动调谐，T-Pain风格！但这是，像，后启示录，所以让我们继续我们所拥有的！}
+#{260}{}{I'm on a boat - I'm on a boat! On a boat - I'm on a boat!}
+{260}{}{我在船上-我在船上！在船上-我在船上！}
+#{261}{}{Everybody look at me cause I'm sailin' on a boat!}
+{261}{}{每个人都看着我因为我在船上航行！}
+#{262}{}{I'm on a boat - I'm on a boat! On a boat - I'm on a boat!-}
+{262}{}{我在船上-我在船上！在船上-我在船上！-}
+#{263}{}{Take a good hard look at the motherfuckin' boat!!}
+{263}{}{好好看看那该死的船！！}
+#{264}{}{So, seriously, big thanks to these guys, attending us today! We are glad you were with us and will always remember you!}
+{264}{}{所以，说真的，非常感谢今天出席我们的这些人！我们很高兴你和我们在一起，并将永远记住你！}
+#{265}{}{Johny-17, Drobovik, .Pixote., Risewild, Sagez, Matt Drax,}
+{265}{}{约翰尼-17，德罗博维克，皮克索特，利塞维德，萨奇，马特德拉克斯，}
+#{266}{}{theslitherydeee, gorlomi, Vault15, dozen, xps, Muttie,}
+{266}{}{斯莱特莱迪，戈洛米，保险库15，打，xps，穆蒂，}
+#{267}{}{heatEXTEND, Reikis, Navarrrro, RetrospectiveGaming channel on Youtube,}
+{267}{}{heatEXTEND，Reikis，Navarrro，Youtube上的回顾频道，}
+#{268}{}{also, TheChosen1 and 0wing - thanks guys, for being here from the start}
+{268}{}{还有，乔森和沃恩-谢谢你们，从一开始就在这里}
+#{269}{}{The biggest ones come to the great and unbelievable Foxx, awesome _Pyran_ and Snikers, who all did tremendous amount of work.}
+{269}{}{最大的一个来自伟大而难以置信的福克斯，可怕的皮兰和狙击手，他们都做了大量的工作。}
+#{270}{}{And, of course, big shout-out to the ideologist and heart of the translation project - Dionis.}
+{270}{}{当然，也要向思想家和翻译项目的核心——迪奥尼斯大声疾呼。}
+#{271}{}{Thank you, for putting like 2 years of life and passion into it.}
+{271}{}{谢谢你，为它投入了两年的生命和激情。}
+#{272}{}{Great thanks to all players, to nma-fallout.com forum, for every playthrough and feedback on bugs.}
+{272}{}{非常感谢所有玩家，感谢nma-fallout.com论坛，为每一个播放和反馈的错误。}
+#{273}{}{Final cut by Keyboard Gecko. Shit, I forgot the original team! Thanks, guys! And especially you, BlackDesigner. Looking out for Fallout:Sonora. Good luck with that.}
+{273}{}{最后被键盘切到壁虎。妈的，我忘了原来的队伍！谢谢，伙计们！尤其是你，黑人设计师。留心辐射：索诺拉。祝你好运。}
+#{274}{}{���� �� ������, ����� ��������,}
+{274}{}{���� �� ������, ����� ��������,}
+#{275}{}{�� �� ��������, ���� ������ ����������}
+{275}{}{�� �� ��������, ���� ������ ����������}
+#{276}{}{������ ����� � ������� ����, ��� ����� ��,}
+{276}{}{������ ����� � ������� ����, ��� ����� ��,}
+#{277}{}{������ ���� ������, � ������� ���������}
+{277}{}{������ ���� ������, � ������� ���������}
+#{278}{}{� ����, ��� ������ ���� ���� ��������}
+{278}{}{� ����, ��� ������ ���� ���� ��������}
+#{279}{}{������ ��� �� �������� - ��� � ��� �������! -}
+{279}{}{������ ��� �� �������� - ��� � ��� �������! -}
+#{280}{}{�� ��� ��� ����� � �������� ��������,}
+{280}{}{�� ��� ��� ����� � �������� ��������,}
+#{281}{}{������� ��� ����� ��� "�����������"... }
+{281}{}{������� ��� ����� ��� "�����������"...}
+#{282}{}{��� ���� ����� � �����������-�����... }
+{282}{}{��� ���� ����� � �����������-�����...}
+#{283}{}{������ � ��� ������ ���� ���� �� �����... }
+{283}{}{������ � ��� ������ ���� ���� �� �����...}
+#{284}{}{��, ��� �� ������� ����� �� �� �����!}
+{284}{}{��, ��� �� ������� ����� �� �� �����!}
+#{285}{}{����� ����, ������, �� ���� �������!}
+{285}{}{����� ����, ������, �� ���� �������!}
+#{286}{}{��� ������ ����� � ���� � ��� ������}
+{286}{}{��� ������ ����� � ���� � ��� ������}
+#{287}{}{����� � ����, ����� ����� � ������!}
+{287}{}{����� � ����, ����� ����� � ������!}
+#{288}{}{�������, ��������, ���� ��� �� ��������,}
+{288}{}{�������, ��������, ���� ��� �� ��������,}
+#{289}{}{������ �������, ��� ��� - ������!}
+{289}{}{������ �������, ��� ��� - ������!}
+#{1110}{}{Hey, sister. It's good to see you! We're a long way from that Indian camp, aren't we?}
+{1110}{}{嘿，姐姐。很高兴见到你！我们离印第安人营地很远，不是吗？}

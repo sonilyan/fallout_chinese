@@ -1,0 +1,530 @@
+#{100}{}{You see a caravan master.}
+{100}{}{你看到一个大篷车的主人。 -- You see a caravan master.}
+#{102}{}{Would you look at that, the death of a caravan merchant himself in front of me. You think I will shit my pants in fear? No. Forget it.}
+{102}{}{你看看，一个商队商人在我面前的死。你以为我会吓得尿裤子吗？不，算了吧。 -- Would you look at that, the death of a caravan merchant himself in front of me. You think I will shit my pants in fear? No. Forget it.}
+#{103}{}{I don�t want anything from you. Bye.}
+{103}{}{我不想要你的任何东西。再见。 -- I don�t want anything from you. Bye.}
+#{104}{}{You see a man with unwashed head. The badge on the shoulder reads: "Salt Lake - Las Vegas"}
+{104}{}{你看到一个头没洗的男人。肩章上写着：“盐湖城-拉斯维加斯” -- You see a man with unwashed head. The badge on the shoulder reads: "Salt Lake - Las Vegas"}
+#{105}{}{You see a man, covered in road dust. The badge on the shoulder reads: "Salt Lake - New Reno"}
+{105}{}{你看到一个男人，满身是道路上的灰尘。肩章上写着：“盐湖城-新雷诺” -- You see a man, covered in road dust. The badge on the shoulder reads: "Salt Lake - New Reno"}
+#{106}{}{You see a man, heavily tanned. The badge on the shoulder reads: "Las Vegas - New Reno"}
+{106}{}{你看到一个男人，晒得黝黑。肩章上写着：“拉斯维加斯-新雷诺” -- You see a man, heavily tanned. The badge on the shoulder reads: "Las Vegas - New Reno"}
+#{107}{}{You see a tired man. The emblem on the shoulder identifies him as a master of the caravan.}
+{107}{}{你看到一个疲倦的人。肩膀上的徽章表明他是商队的主人。 -- You see a tired man. The emblem on the shoulder identifies him as a master of the caravan.}
+#{110}{}{Well, hello.}
+{110}{}{嗯，你好。 -- Well, hello.}
+#{111}{}{Yes?}
+{111}{}{对？ -- Yes?}
+#{112}{}{Oh, a client!? How can I help?}
+{112}{}{哦，客户！？我能帮忙吗？ -- Oh, a client!? How can I help?}
+#{113}{}{Did you came to talk business? Or just to waste my time?}
+{113}{}{你是来谈生意的吗？还是浪费我的时间？ -- Did you came to talk business? Or just to waste my time?}
+#{114}{}{I�m listening... Hmm, who knows, maybe you have something useful to say?}
+{114}{}{我在听。。。嗯，谁知道呢，也许你有什么有用的话要说？ -- I�m listening... Hmm, who knows, maybe you have something useful to say?}
+#{115}{}{Can�t wait you to tell me something nice. Like for example, something about free money. Ha-ha!}
+{115}{}{等不及你告诉我一些好消息了。比如说，免费的钱。哈哈！ -- Can�t wait you to tell me something nice. Like for example, something about free money. Ha-ha!}
+#{116}{}{Hey, I�m busy. So make it fast.}
+{116}{}{嘿，我很忙。所以快点。 -- Hey, I�m busy. So make it fast.}
+#{117}{}{[Sighs] Well, ok! Ask your stupid question already!}
+{117}{}{好吧，好吧！已经问你的蠢问题了！ -- [Sighs] Well, ok! Ask your stupid question already!}
+#{118}{}{Hello. What do you want?}
+{118}{}{你好。你想要什么？ -- Hello. What do you want?}
+#{119}{}{Hello. Wanna make 10 bucks? We don�t have anybody to replace a brahmin... HA-HA-HA!!!}
+{119}{}{你好。想赚10美元吗？我们没有人能代替婆罗门。。。哈哈哈！！！ -- Hello. Wanna make 10 bucks? We don�t have anybody to replace a brahmin... HA-HA-HA!!!}
+#{120}{}{Oh! Just when we need free labor! You�re just in time!.. HA-HA-HA!!!}
+{120}{}{哦！就在我们需要自由劳动的时候！你来得正是时候！。。哈哈哈！！！ -- Oh! Just when we need free labor! You�re just in time!.. HA-HA-HA!!!}
+#{150}{}{I wanted to ask something about this city.}
+{150}{}{我想问一些关于这个城市的事情。 -- I wanted to ask something about this city.}
+#{151}{}{Well there is not much to say? Nothing special. Not the best city in these parts.}
+{151}{}{没什么好说的？没什么特别的。不是这些地方最好的城市。 -- Well there is not much to say? Nothing special. Not the best city in these parts.}
+#{152}{}{New Reno. City on a par with hell. There is even similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Because even the Wasteland is safer then this!}
+{152}{}{新雷诺。城市与地狱不相上下。这里甚至有类似的等级制度，从恶魔到魔鬼。魔鬼是当地的歹徒。你最好离这些家伙远点。你做了交易就走。因为即使是荒地也比这安全！ -- New Reno. City on a par with hell. There is even similar hierarchy here, from demons to devils. Devils are the local gangsters. You'd better stay away from these guys. You make a deal, you leave. Because even the Wasteland is safer then this!}
+#{153}{}{New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. Shortly speaking, you have to be careful here. The times city is having now are not the best. That�s for sure.}
+{153}{}{新雷诺。城市与地狱不相上下。即使有自己的魔鬼，尽管不久前有两个。简而言之，你在这里要小心。城市现在的时代不是最好的。那是肯定的。 -- New Reno. City on a par with hell. Even has its own Devil, despite that not long ago there were two of them. Shortly speaking, you have to be careful here. The times city is having now are not the best. That�s for sure.}
+#{154}{}{New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can find big trouble on your ass. Easy!}
+{154}{}{新雷诺。城市与地狱不相上下。在有人干掉了两个当地老板之后，看起来大家都疯了。远离黑暗的小巷。你会发现你屁股上有大麻烦的。放松！ -- New Reno. City on a par with hell. And after someone put down two local bosses, it looks like everybody went nuts. Stay away from dark alleys. You can find big trouble on your ass. Easy!}
+#{160}{}{Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade.}
+{160}{}{拉斯维加斯。这座城市总是充满活力，比其他城市安全得多。一个放松和交易的好地方。 -- Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade.}
+#{161}{}{Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade... Except there is some strange business going on in it. Anyway, that�s not our problem for now.}
+{161}{}{拉斯维加斯。这座城市总是充满活力，比其他城市安全得多。一个放松和交易的好地方。。。只是里面有些奇怪的事情。不管怎样，这不是我们现在的问题。 -- Las Vegas. City that is always lively and much safer than the rest. A great place to relax and trade... Except there is some strange business going on in it. Anyway, that�s not our problem for now.}
+#{170}{}{Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet there is much more peaceful population, than in New Reno. At least here you can not to be afraid of a knife in the back.}
+{170}{}{盐湖城。一大堆狗屎。污秽和贫穷无处不在。然而，比起在新里诺，这里的人口要和平得多。至少在这里你可以不怕刀背。 -- Salt Lake. A big pile of shit. The filth and poverty is everywhere. Yet there is much more peaceful population, than in New Reno. At least here you can not to be afraid of a knife in the back.}
+#{171}{}{Salt Lake. Dirty city, yet there is much more peaceful population, than in New Reno. At least here you can not to be afraid of a knife in the back - and you can make a fine trade.}
+{171}{}{盐湖城。肮脏的城市，但有更多的和平人口，比在新雷诺。至少在这里你可以不怕刀子在背后-你可以做一个很好的交易。 -- Salt Lake. Dirty city, yet there is much more peaceful population, than in New Reno. At least here you can not to be afraid of a knife in the back - and you can make a fine trade.}
+#{172}{}{Salt Lake. The city may be a little dirty, but if not for my work, it would be where I chose to settle down. You can�t find a better place to live in the whole region. Everyone has a job and ways to make a living, without worrying about a knife in the back. Good place.}
+{172}{}{盐湖城。这个城市可能有点脏，但如果不是因为我的工作，它将是我选择定居的地方。在整个地区你找不到更好的地方居住。每个人都有工作和谋生的方法，不用担心背后有刀。好地方。 -- Salt Lake. The city may be a little dirty, but if not for my work, it would be where I chose to settle down. You can�t find a better place to live in the whole region. Everyone has a job and ways to make a living, without worrying about a knife in the back. Good place.}
+#{175}{}{Wind of War - it�s a military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
+{175}{}{战争之风-这是一个军事解决方案。这些人认为自己是派拉蒙荒原的居民，这个地区的血统治者，以及其他所有人——一头挤奶的牛，他们从中得到他们想要的任何东西。 -- Wind of War - it�s a military settlement. These are people who consider themselves residents of paramount Wastes, blood rulers of this region, and everyone else - a cow for milking, from which they take whatever they want.}
+#{179}{}{Fine, let�s go back a little.}
+{179}{}{好吧，让我们往回走一点。 -- Fine, let�s go back a little.}
+#{180}{}{Have you seen this girl from the photograph?}
+{180}{}{你看到照片上的这个女孩了吗？ -- Have you seen this girl from the photograph?}
+#{181}{}{[Studies the photograph] Cute... No, I don�t think so.}
+{181}{}{[研究照片]可爱。。。不，我不这么认为。 -- [Studies the photograph] Cute... No, I don�t think so.}
+#{182}{}{Okay. Another question.}
+{182}{}{可以。另一个问题。 -- Okay. Another question.}
+#{183}{}{Forget it then. Bye.}
+{183}{}{那就算了吧。再见。 -- Forget it then. Bye.}
+#{184}{}{And if more detail - where you can go hang out, for example?}
+{184}{}{如果你想了解更多细节，比如你可以去哪里玩？ -- And if more detail - where you can go hang out, for example?}
+#{185}{}{Listen, I don�t stay here for long myself, and I�m in no mood for parties after the road. I�m tired. You know, there is one caravan merchant around, retired, so to speak. His name is Ricky - The Musher. He stayed on the third floor in "Rainbow", it�s across the street of "El Dorado". Go to him, buy him a drink, and he will tell you everything about the city. He knows a lot, believe me.}
+{185}{}{听着，我自己也不会在这里呆太久，而且我也没心情在路上开派对。我累了。你知道，周围有一个商队商人，可以说是退休了。他的名字叫瑞奇-穆舍。他住在“彩虹”的三楼，彩虹就在“埃尔多拉多”街的对面。到他那里去，请他喝一杯，他就会把城里的一切都告诉你。他知道很多，相信我。 -- Listen, I don�t stay here for long myself, and I�m in no mood for parties after the road. I�m tired. You know, there is one caravan merchant around, retired, so to speak. His name is Ricky - The Musher. He stayed on the third floor in "Rainbow", it�s across the street of "El Dorado". Go to him, buy him a drink, and he will tell you everything about the city. He knows a lot, believe me.}
+#{186}{}{Okay, but I have some other questions.}
+{186}{}{好吧，但我还有其他问题。 -- Okay, but I have some other questions.}
+#{187}{}{I�ll go to him then. Bye.}
+{187}{}{那我就去找他。再见。 -- I�ll go to him then. Bye.}
+#{188}{}{Listen, did you happened to know a caravan merchant that... Well he looks like a dead man. He has burned skin, and his teeth are exposed...}
+{188}{}{听着，你是不是碰巧认识一个商队商人。。。他看起来像个死人。他烧伤了皮肤，牙齿暴露在外。。。 -- Listen, did you happened to know a caravan merchant that... Well he looks like a dead man. He has burned skin, and his teeth are exposed...}
+#{189}{}{Ho-ho! You mean Harold?!! I haven�t seen him in a long time. A good guy. Caravan merchants always loved him. Even half-dead, he is very entertaining.}
+{189}{}{呵呵！你是说哈罗德？！！我好久没见到他了。一个好人。商队的商人们一直很喜欢他。即使半死了，他也很有趣。 -- Ho-ho! You mean Harold?!! I haven�t seen him in a long time. A good guy. Caravan merchants always loved him. Even half-dead, he is very entertaining.}
+#{190}{}{Does he come here often?}
+{190}{}{他经常来这儿吗？ -- Does he come here often?}
+#{191}{}{Forget it. Another question.}
+{191}{}{算了吧。另一个问题。 -- Forget it. Another question.}
+#{192}{}{Fine, forget it.}
+{192}{}{好吧，算了吧。 -- Fine, forget it.}
+#{193}{}{No, he always travels. They say, he looks for a place to settle down with people like him. Last time I have seen him on his way to Hub. It�s very far, don�t even ask, where is it.}
+{193}{}{不，他总是旅行。他们说，他在找一个地方和像他这样的人一起安顿下来。上次我在去哈勃的路上见过他。太远了，别问，在哪儿。 -- No, he always travels. They say, he looks for a place to settle down with people like him. Last time I have seen him on his way to Hub. It�s very far, don�t even ask, where is it.}
+#{194}{}{Right. Another question.}
+{194}{}{正确的。另一个问题。 -- Right. Another question.}
+#{195}{}{Well fine. I think, I�ll go now.}
+{195}{}{很好。我想，我现在就走。 -- Well fine. I think, I�ll go now.}
+#{196}{}{Do bikers ever come around here? Perhaps, you have seen them?}
+{196}{}{骑自行车的人来过这里吗？也许，你见过他们？ -- Do bikers ever come around here? Perhaps, you have seen them?}
+#{197}{}{They do come here, but rarely. Never staying for long. Hang out at the bar, beat someone up and leave in the morning. It's easier to meet them on the caravan routes, they like to race on their loud piles of metal there. Really impressive sights, by the way.}
+{197}{}{他们确实来过这里，但很少来。永远不会停留太久。在酒吧闲逛，殴打某人，明早离开。在大篷车路线上更容易遇到他们，他们喜欢在那里大声堆金属比赛。顺便说一句，真是令人印象深刻。 -- They do come here, but rarely. Never staying for long. Hang out at the bar, beat someone up and leave in the morning. It's easier to meet them on the caravan routes, they like to race on their loud piles of metal there. Really impressive sights, by the way.}
+#{198}{}{Do you know if they have some regular place to camp? Where can they always be found, if needed to?}
+{198}{}{你知道他们有没有固定的地方露营吗？如果需要的话，在哪里总能找到它们？ -- Do you know if they have some regular place to camp? Where can they always be found, if needed to?}
+#{199}{}{If you would be a stranger, I would say I don�t know. Bikers don�t want everyone to know about their base. But since it�s you asking, I will show it on your map...}
+{199}{}{如果你是个陌生人，我会说我不知道。摩托车手不想让每个人都知道他们的基地。但既然是你问的，我会在你的地图上显示。。。 -- If you would be a stranger, I would say I don�t know. Bikers don�t want everyone to know about their base. But since it�s you asking, I will show it on your map...}
+#{200}{}{Show me.}
+{200}{}{向我展示。 -- Show me.}
+#{201}{}{I don�t know. Perhaps, someone else knows, someone who uses other trading routes.}
+{201}{}{我不知道。也许，有人知道，有人使用其他交易途径。 -- I don�t know. Perhaps, someone else knows, someone who uses other trading routes.}
+#{202}{}{Another question then.}
+{202}{}{那又是一个问题。 -- Another question then.}
+#{203}{}{Right here. This is the old ruins, their camp is somewhere on the outskirts, away from the road.}
+{203}{}{就在这里。这是古老的废墟，他们的营地就在郊外的某个地方，远离公路。 -- Right here. This is the old ruins, their camp is somewhere on the outskirts, away from the road.}
+#{204}{}{Thank you! But I have questions left.}
+{204}{}{谢谢您！但我还有问题要问。 -- Thank you! But I have questions left.}
+#{205}{}{Thanks, that is all, I needed.}
+{205}{}{谢谢，我只需要这些。 -- Thanks, that is all, I needed.}
+#{206}{}{Even if I knew - I wouldn�t tell. Not to just anyone, at least. I don�t want any problems with them later.}
+{206}{}{即使我知道-我也不会说。不只是对任何人，至少。我不想以后和他们有任何问题。 -- Even if I knew - I wouldn�t tell. Not to just anyone, at least. I don�t want any problems with them later.}
+#{207}{}{Yes! What a surprise. It�s a waitress from the "Hard-Rock" cafe. She's a nice girl.}
+{207}{}{对！真是个惊喜。是“硬石”咖啡馆的女招待。她是个好女孩。 -- Yes! What a surprise. It�s a waitress from the "Hard-Rock" cafe. She's a nice girl.}
+#{210}{}{What are you doing here then? Why don�t you leave?}
+{210}{}{那你在这里干什么？你为什么不离开？ -- What are you doing here then? Why don�t you leave?}
+#{211}{}{Well, they are not generally bloodthirsty. In the west wing of the station there is a doctor, merchant and a mechanic. It�s their people. They are very useful, but charge high prices for their service. We, of course, need a mechanic, most of all. It can be hard without him. Although, he is often busy with his rotor friend in the garage.}
+{211}{}{他们一般不嗜血。车站西翼有一位医生、一位商人和一位机械师。是他们的人。他们很有用，但服务价格很高。当然，我们最需要的是一个机械师。没有他很难。不过，他经常和他的朋友在车库里忙。 -- Well, they are not generally bloodthirsty. In the west wing of the station there is a doctor, merchant and a mechanic. It�s their people. They are very useful, but charge high prices for their service. We, of course, need a mechanic, most of all. It can be hard without him. Although, he is often busy with his rotor friend in the garage.}
+#{212}{}{Er... "rotor friend"? What the heck is that?}
+{212}{}{呃……”“朋友”？那是什么鬼东西？ -- Er... "rotor friend"? What the heck is that?}
+#{213}{}{I don�t know myself. But sometimes you can hear some buzzing and roaring from the garage, like sound of a running engine. They say, he is making a plane. Ha! If it is true, then it will be major news for our region!}
+{213}{}{我不了解我自己。但有时你可以听到一些嗡嗡声和轰鸣声从车库，像一个运行的发动机的声音。他们说，他正在做飞机。哈！如果这是真的，那么这将是我们地区的重大新闻！ -- I don�t know myself. But sometimes you can hear some buzzing and roaring from the garage, like sound of a running engine. They say, he is making a plane. Ha! If it is true, then it will be major news for our region!}
+#{214}{}{Hmm. Very, very interesting! Another question.}
+{214}{}{嗯。非常，非常有趣！另一个问题。 -- Hmm. Very, very interesting! Another question.}
+#{215}{}{Very interesting, but I have to go.}
+{215}{}{很有趣，但我得走了。 -- Very interesting, but I have to go.}
+#{216}{}{Have you heard anything about "Speed Hawk"? They say the guys were attacked by the raiders...}
+{216}{}{你听说过“飞鹰”吗？他们说他们被袭击者袭击了。。。 -- Have you heard anything about "Speed Hawk"? They say the guys were attacked by the raiders...}
+#{217}{}{I did. Everyone here already knows this story. Bad luck - to lose the merchandise and their people. Also they themselves scattered around. There was one of them somewhere here, looking for his people.}
+{217}{}{是的。这里的每个人都知道这个故事。坏运气-失去商品和他们的人。他们自己也四处散落。他们中的一个正在找他的人。 -- I did. Everyone here already knows this story. Bad luck - to lose the merchandise and their people. Also they themselves scattered around. There was one of them somewhere here, looking for his people.}
+#{218}{}{There is one of them here? I should look for him...}
+{218}{}{这里有一个吗？我应该去找他。。。 -- There is one of them here? I should look for him...}
+#{219}{}{Have you seen anyone of the survivors from the "Speed Hawk"?}
+{219}{}{你见过“速度鹰”的幸存者吗？ -- Have you seen anyone of the survivors from the "Speed Hawk"?}
+#{220}{}{I�ve seen one. The poor guy was wandering somewhere around here. But I think, he already left to Vegas. But you can ask people here, you may learn something.}
+{220}{}{我见过一个。那个可怜的家伙在这附近徘徊。但我想，他已经去维加斯了。但你可以问这里的人，你可能会学到一些东西。 -- I�ve seen one. The poor guy was wandering somewhere around here. But I think, he already left to Vegas. But you can ask people here, you may learn something.}
+#{221}{}{Right.}
+{221}{}{正确的。 -- Right.}
+#{222}{}{Have you heard what happened to "Speed Hawk"?}
+{222}{}{你听说“飞鹰”怎么了吗？ -- Have you heard what happened to "Speed Hawk"?}
+#{223}{}{Yes, the guys were unlucky. It�s a shame, it was a good caravan. I don�t think they will find the rest of the guys. If they are lost, it means no one survived. Otherwise they would reach Vegas already.}
+{223}{}{是的，那些家伙很不走运。真遗憾，那是一辆很好的大篷车。我想他们找不到其他人了。如果他们迷路了，就意味着没人能活下来。否则他们早就到维加斯了。 -- Yes, the guys were unlucky. It�s a shame, it was a good caravan. I don�t think they will find the rest of the guys. If they are lost, it means no one survived. Otherwise they would reach Vegas already.}
+#{224}{}{Yeah, sad story.}
+{224}{}{是啊，悲惨的故事。 -- Yeah, sad story.}
+#{225}{}{Remind me, were you accompanied from New Reno to Vegas by a bald weirdo with a scar on his neck?}
+{225}{}{提醒我，你是不是有个脖子上有疤的秃头怪人陪你从新里诺到维加斯的？ -- Remind me, were you accompanied from New Reno to Vegas by a bald weirdo with a scar on his neck?}
+#{226}{}{No, nothing like this. I would remember.}
+{226}{}{不，不是这样的。我会记得的。 -- No, nothing like this. I would remember.}
+#{227}{}{Damn, no luck.}
+{227}{}{该死，运气不好。 -- Damn, no luck.}
+#{228}{}{Wait a minute, I think, I�ve seen someone like this with another caravan. Ask around, you may find something about it.}
+{228}{}{等等，我想，我见过这样的人和另一个商队在一起。四处打听，你可能会发现一些东西。 -- Wait a minute, I think, I�ve seen someone like this with another caravan. Ask around, you may find something about it.}
+#{229}{}{Okay!}
+{229}{}{可以！ -- Okay!}
+#{230}{}{Wait a minute! There was a fella. I do not know his name, but he was with us from New Reno to Vegas, and was also bald. Where is he now I do not know. Probably having a good time in Clean City.}
+{230}{}{等一下！有个家伙。我不知道他的名字，但他和我们一起从新里诺到维加斯，而且还秃顶。他现在在哪里我不知道。可能在清洁城市玩得很开心。 -- Wait a minute! There was a fella. I do not know his name, but he was with us from New Reno to Vegas, and was also bald. Where is he now I do not know. Probably having a good time in Clean City.}
+#{231}{}{Hmm, thanks! I should look for him there...}
+{231}{}{嗯，谢谢！我应该在那里找他。。。 -- Hmm, thanks! I should look for him there...}
+#{232}{}{Do you know, where to get a filter for artesian tower in Salt Lake?}
+{232}{}{你知道，盐湖城自流塔的过滤器在哪里？ -- Do you know, where to get a filter for artesian tower in Salt Lake?}
+#{233}{}{If I knew, I would be already bathing myself in gold.}
+{233}{}{如果我知道的话，我早就把自己泡在金子里了。 -- If I knew, I would be already bathing myself in gold.}
+#{234}{}{Wow, okay.}
+{234}{}{哇，好吧。 -- Wow, okay.}
+#{235}{}{Is there any place here where you can go to relax?}
+{235}{}{这儿有什么地方可以让你放松一下吗？ -- Is there any place here where you can go to relax?}
+#{236}{}{First have a look at the "Tin Angel". It�s always fun there, very nice place. There is also a hotel, where you can rest, and even a trading hall across the street. There are two merchants there, one sells guns, and the other - all kinds of junk.}
+{236}{}{先看看“锡天使”。那里总是很有趣，很好的地方。还有一个酒店，你可以在那里休息，甚至在街对面有一个交易大厅。那里有两个商人，一个卖枪，另一个卖各种垃圾。 -- First have a look at the "Tin Angel". It�s always fun there, very nice place. There is also a hotel, where you can rest, and even a trading hall across the street. There are two merchants there, one sells guns, and the other - all kinds of junk.}
+#{237}{}{What makes the city work anyway?}
+{237}{}{是什么让城市运转起来的？ -- What makes the city work anyway?}
+#{238}{}{The most important thing is a Nuka-Cola factory. If you want to start your own business, to sell this stuff in the Wasteland, then go straight in there. It�s to the east from the center. But, in general, there is not much to do around, not many options... And yes, also, Vocas nuts grow here, very nutrient. There are a whole plantations, just outside the city.}
+{238}{}{最重要的是努卡可乐厂。如果你想自己创业，想在荒地里卖这些东西，那就直接进去吧。从中心向东。但是，总的来说，周围没什么可做的，选择也不多。。。是的，还有，这里生长的坚果，营养丰富。就在城外，有一整片种植园。 -- The most important thing is a Nuka-Cola factory. If you want to start your own business, to sell this stuff in the Wasteland, then go straight in there. It�s to the east from the center. But, in general, there is not much to do around, not many options... And yes, also, Vocas nuts grow here, very nutrient. There are a whole plantations, just outside the city.}
+#{239}{}{And what is the social situation in the city?}
+{239}{}{这个城市的社会状况如何？ -- And what is the social situation in the city?}
+#{240}{}{They have Sheriff's office. The way I see it, they manage to keep the scum away. At least it is a lot safer here, than in New Reno.}
+{240}{}{他们有警长办公室。在我看来，他们设法把那些人渣赶走了。至少这里比新里诺安全多了。 -- They have Sheriff's office. The way I see it, they manage to keep the scum away. At least it is a lot safer here, than in New Reno.}
+#{241}{}{Right. That would be all.}
+{241}{}{正确的。就这些了。 -- Right. That would be all.}
+#{242}{}{Wait, there is another place here to avoid. Just a friendly warning, because I see - you are a good person, you help our people. We always value that.}
+{242}{}{等等，这里还有一个地方要避开。只是一个友好的警告，因为我明白了-你是一个好人，你帮助我们的人民。我们一直重视这一点。 -- Wait, there is another place here to avoid. Just a friendly warning, because I see - you are a good person, you help our people. We always value that.}
+#{243}{}{Huh, tell me.}
+{243}{}{嗯，告诉我。 -- Huh, tell me.}
+#{244}{}{Provo - a district to the south of the Salt Lake. We always stay away from it, because all of the scums, that were kicked out by the sheriff, gathered there. Thieves, murderers, maniacs - the whole package. Do not go there.}
+{244}{}{普罗沃-盐湖以南的一个地区。我们总是远离它，因为所有被警长赶出来的人渣都聚集在那里。小偷，杀人犯，疯子-整个包裹。不要去那里。 -- Provo - a district to the south of the Salt Lake. We always stay away from it, because all of the scums, that were kicked out by the sheriff, gathered there. Thieves, murderers, maniacs - the whole package. Do not go there.}
+#{245}{}{Okay!}
+{245}{}{可以！ -- Okay!}
+#{246}{}{Do you know anything about a place called Provo?}
+{246}{}{你知道一个叫普罗沃的地方吗？ -- Do you know anything about a place called Provo?}
+#{247}{}{I do. If I didn�t, I would be dead a long time ago, because this district lays right on the trading route. All kind of scum lives there, people that have been kicked out by the sheriff. Dangerous bunch, stay away from that region.}
+{247}{}{我愿意。如果我不这样做，我早就死了，因为这个地区就在贸易通道上。那里住着各种各样的人渣，被警长赶出来的人。危险的一群，离那个地区远点。 -- I do. If I didn�t, I would be dead a long time ago, because this district lays right on the trading route. All kind of scum lives there, people that have been kicked out by the sheriff. Dangerous bunch, stay away from that region.}
+#{248}{}{Got it.}
+{248}{}{知道了。 -- Got it.}
+#{290}{}{What kind of raiders are bothering you on the way?}
+{290}{}{什么样的袭击者在路上打扰你？ -- What kind of raiders are bothering you on the way?}
+#{291}{}{Well, first, in Provo region, the raids and ambushes on caravans became more frequent. They say, all kind of criminals gathered there, that ran off from Salt Lake City. Also, you might meet some crazy locals that forgot how to live peacefully. Watch out for them too.}
+{291}{}{首先，在普罗沃地区，对商队的突袭和伏击变得更加频繁。他们说，各种各样的罪犯聚集在那里，从盐湖城逃跑。另外，你可能会遇到一些疯狂的当地人，他们忘记了如何平静地生活。也要小心他们。 -- Well, first, in Provo region, the raids and ambushes on caravans became more frequent. They say, all kind of criminals gathered there, that ran off from Salt Lake City. Also, you might meet some crazy locals that forgot how to live peacefully. Watch out for them too.}
+#{292}{}{More?}
+{292}{}{更多？ -- More?}
+#{293}{}{Another tough gang is making raids between Vegas and Salt Lake City, around the spot where the road turns to the west. The Bloom brothers are running the gang. There is not many of them, but they are real killers, very well armed and very experienced. Nobody really knows where they came from. Rumors say, it�s the ex-soldiers from Wind of War, that took path of robbing and raiding. It must be them, otherwise, it's impossible to explain their top-notch equipment and an excellent understanding of how to fight.}
+{293}{}{另一个强悍的团伙正在拉斯维加斯和盐湖城之间进行突袭，突袭地点是公路向西的地方。布鲁姆兄弟在管理这个团伙。他们不多，但他们是真正的杀手，武器精良，经验丰富。没有人真正知道它们来自哪里。有传言说，是《战风》中的退役士兵走上了劫掠之路。一定是他们，否则，就不可能解释他们一流的装备和对如何作战的高超理解。 -- Another tough gang is making raids between Vegas and Salt Lake City, around the spot where the road turns to the west. The Bloom brothers are running the gang. There is not many of them, but they are real killers, very well armed and very experienced. Nobody really knows where they came from. Rumors say, it�s the ex-soldiers from Wind of War, that took path of robbing and raiding. It must be them, otherwise, it's impossible to explain their top-notch equipment and an excellent understanding of how to fight.}
+#{294}{}{On the outskirts of Reno and Vegas there is always some small gangs waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. Besides, to the south of highway there is a tribe of savages, they sometimes come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, which can't be said about lone travelers.}
+{294}{}{在里诺和维加斯的郊区，总有一些小帮派在等着你。最著名的是风车人，洞穴人，桑德斯，大角人和蝎子。此外，在公路的南面有一个野蛮部落，他们有时会从山上下来打人。幸运的是，他们没有胆量攻击商队，这不能说是孤独的旅行者。 -- On the outskirts of Reno and Vegas there is always some small gangs waiting for you. The most famous ones are the Windmill people, the Caverners, the Sanders, the Bighorns and the Scorpions. Besides, to the south of highway there is a tribe of savages, they sometimes come down from the mountains to hunt people. Luckily, they don't have the guts to attack caravans, which can't be said about lone travelers.}
+#{295}{}{Savages?}
+{295}{}{野蛮人？ -- Savages?}
+#{296}{}{They are called Coyotes tribe, even though nobody know anything about them. We know for sure, that they are cannibals and that they are using weapons custom-made from the old farming technologies. They live high in the mountains, so nobody goes there. Some rare lucky ones happened to see roadblocks and abandoned camps of those animals. That is all that is known. Nobody cares about them, besides, maybe, the slavers.}
+{296}{}{他们被称为土狼部落，即使没有人知道他们的任何事情。我们肯定地知道，他们是食人族，他们使用的武器是从古老的农业技术定制的。他们住在高山上，所以没人去那里。一些罕见的幸运儿碰巧看到了路障和这些动物被遗弃的营地。这就是我们所知道的一切。没人关心他们，也许还有奴隶主。 -- They are called Coyotes tribe, even though nobody know anything about them. We know for sure, that they are cannibals and that they are using weapons custom-made from the old farming technologies. They live high in the mountains, so nobody goes there. Some rare lucky ones happened to see roadblocks and abandoned camps of those animals. That is all that is known. Nobody cares about them, besides, maybe, the slavers.}
+#{300}{}{Tell me, how is it out there - in the Wasteland?}
+{300}{}{告诉我，外面怎么样-在荒地里？ -- Tell me, how is it out there - in the Wasteland?}
+#{301}{}{It is harsh in the Wasteland. We are forced to travel on the pre-war highways, because it�s faster and more comfortable, that to walk through the desert. But the raiders know about this, that�s why when we are approaching gas stations and small settlements we are always staying alert.}
+{301}{}{荒地里很严酷。我们被迫在战前的高速公路上旅行，因为穿越沙漠更快更舒适。但袭击者知道这一点，这就是为什么当我们接近加油站和小定居点时，我们总是保持警惕。 -- It is harsh in the Wasteland. We are forced to travel on the pre-war highways, because it�s faster and more comfortable, that to walk through the desert. But the raiders know about this, that�s why when we are approaching gas stations and small settlements we are always staying alert.}
+#{302}{}{Between which cities do you trade?}
+{302}{}{你们在哪个城市之间交易？ -- Between which cities do you trade?}
+#{303}{}{So, most travelers are using that highways? I will have to remember that. Bye.}
+{303}{}{所以，大多数旅行者都在使用高速公路？我必须记住这一点。再见。 -- So, most travelers are using that highways? I will have to remember that. Bye.}
+#{304}{}{What settlements have you seen on your travels?}
+{304}{}{你在旅行中看到过什么定居点？ -- What settlements have you seen on your travels?}
+#{305}{}{Right. That is all, I wanted.}
+{305}{}{正确的。这就是我想要的。 -- Right. That is all, I wanted.}
+#{306}{}{I trade between New Reno and Salt Lake.}
+{306}{}{我在新雷诺和盐湖之间做生意。 -- I trade between New Reno and Salt Lake.}
+#{307}{}{I trade between New Reno and Las Vegas.}
+{307}{}{我在新雷诺和拉斯维加斯之间交易。 -- I trade between New Reno and Las Vegas.}
+#{308}{}{I trade between New Reno and Las Vegas. And here, in the Wind of War, we have a temporary stop.}
+{308}{}{我在新雷诺和拉斯维加斯之间交易。在这里，在战争之风中，我们有一个暂时的停留。 -- I trade between New Reno and Las Vegas. And here, in the Wind of War, we have a temporary stop.}
+#{309}{}{I trade between Las Vegas and Salt Lake.}
+{309}{}{我在拉斯维加斯和盐湖城之间做生意。 -- I trade between Las Vegas and Salt Lake.}
+#{310}{}{Can you show me, where is the second city?}
+{310}{}{你能告诉我，第二个城市在哪里吗？ -- Can you show me, where is the second city?}
+#{311}{}{[Caravan merchant indicates location of final destination point of their caravan on the world map] Here.}
+{311}{}{[商队商人在世界地图上标明商队最终目的地的位置]这里。 -- [Caravan merchant indicates location of final destination point of their caravan on the world map] Here.}
+#{312}{}{Thanks! But I have another question.}
+{312}{}{谢谢！但我还有一个问题。 -- Thanks! But I have another question.}
+#{313}{}{Thanks! That�s exactly, what I needed.}
+{313}{}{谢谢！这正是我所需要的。 -- Thanks! That�s exactly, what I needed.}
+#{314}{}{That New Reno. Can you show it on the map?}
+{314}{}{那个新雷诺。你能在地图上显示它吗？ -- That New Reno. Can you show it on the map?}
+#{315}{}{I�m interested in Salt Lake. Can you show it on the map?}
+{315}{}{我对盐湖城很感兴趣。你能在地图上显示它吗？ -- I�m interested in Salt Lake. Can you show it on the map?}
+#{316}{}{Las Vegas? Very interesting, Can you show it on the map?}
+{316}{}{拉斯维加斯？很有趣，你能在地图上显示吗？ -- Las Vegas? Very interesting, Can you show it on the map?}
+#{317}{}{The location of New Reno have been marked on your Pip-Boy.}
+{317}{}{新雷诺的位置已经标记在你的皮普男孩。 -- The location of New Reno have been marked on your Pip-Boy.}
+#{318}{}{The location of Salt Lake City have been marked on your Pip-Boy.}
+{318}{}{盐湖城的位置已经标在你的皮普男孩身上了。 -- The location of Salt Lake City have been marked on your Pip-Boy.}
+#{319}{}{The location of Las Vegas have been marked on your Pip-Boy.}
+{319}{}{拉斯维加斯的位置已经标在你的皮普小子身上了。 -- The location of Las Vegas have been marked on your Pip-Boy.}
+#{320}{}{Can you show me those cities?}
+{320}{}{你能给我看看那些城市吗？ -- Can you show me those cities?}
+#{321}{}{We trade in many places. But for now we are settled here.}
+{321}{}{我们在许多地方做贸易。但现在我们在这里定居。 -- We trade in many places. But for now we are settled here.}
+#{322}{}{Another question.}
+{322}{}{另一个问题。 -- Another question.}
+#{323}{}{I think, that is everything I wanted to ask.}
+{323}{}{我想，这就是我想问的一切。 -- I think, that is everything I wanted to ask.}
+#{324}{}{Almost all of population is living in cities, not in a desert. Besides caravans and raiders you can rarely meet anyone else on the road.}
+{324}{}{几乎所有的人口都生活在城市，而不是沙漠。除了商队和袭击者，你很少能在路上遇到其他人。 -- Almost all of population is living in cities, not in a desert. Besides caravans and raiders you can rarely meet anyone else on the road.}
+#{325}{}{On my way you can�t find anyone, except some tribe natives.}
+{325}{}{在我的路上你找不到任何人，除了一些土著部落。 -- On my way you can�t find anyone, except some tribe natives.}
+#{326}{}{Tell me, what tribe?}
+{326}{}{告诉我，什么部落？ -- Tell me, what tribe?}
+#{327}{}{Indian tribe. Good people, if you don�t mind excessive distrust to outsiders. You can trade a lot of food off them. But honestly, many are afraid to come to them, because the Big Louie gang is also settled there.}
+{327}{}{印第安部落。好人，如果你不介意对外人过分不信任的话。你可以用他们交换很多食物。但老实说，很多人都不敢来找他们，因为路易帮也在那里定居。 -- Indian tribe. Good people, if you don�t mind excessive distrust to outsiders. You can trade a lot of food off them. But honestly, many are afraid to come to them, because the Big Louie gang is also settled there.}
+#{328}{}{Can you show the location on the map?}
+{328}{}{你能在地图上标出位置吗？ -- Can you show the location on the map?}
+#{329}{}{The location of Lovelock have been marked on your Pip-Boy.}
+{329}{}{洛夫洛克的位置已经标记在你的皮普男孩身上了。 -- The location of Lovelock have been marked on your Pip-Boy.}
+#{330}{}{[Caravan merchant indicates the location of the settlement Lovelock on the world map, waypoint on his caravan route] Right here.}
+{330}{}{[商队商人在世界地图上标明营地Lovelock的位置，商队路线上的航路点]就在这里。 -- [Caravan merchant indicates the location of the settlement Lovelock on the world map, waypoint on his caravan route] Right here.}
+#{331}{}{This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides, there is a waypoint in the middle, where you can rest and get some food.}
+{331}{}{这是一条相当活跃的贸易路线，因为拉斯维加斯和雷诺建立了良好的贸易关系。另外，中间还有一个航路点，你可以在那里休息，吃点东西。 -- This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides, there is a waypoint in the middle, where you can rest and get some food.}
+#{332}{}{What waypoint?}
+{332}{}{什么航路点？ -- What waypoint?}
+#{333}{}{This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides there is a Wind of War on the way, where you can rest from the road.}
+{333}{}{这是一条相当活跃的贸易路线，因为拉斯维加斯和雷诺建立了良好的贸易关系。此外，路上还有一股战风，你可以在路上休息。 -- This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. Besides there is a Wind of War on the way, where you can rest from the road.}
+#{334}{}{Wind of War? A military town. Soldiers are in charge there. To be frank, not the best place for a stop, the locals can be a pain in the ass sometimes. But still, it's better to rest there, than to risk it in the desert.}
+{334}{}{战争之风？军事城镇。士兵们在那里负责。坦率地说，这不是最好的停留地，当地人有时也会让人讨厌。不过，与其在沙漠中冒险，不如在那里休息。 -- Wind of War? A military town. Soldiers are in charge there. To be frank, not the best place for a stop, the locals can be a pain in the ass sometimes. But still, it's better to rest there, than to risk it in the desert.}
+#{335}{}{Can you show me where is it?}
+{335}{}{你能告诉我它在哪里吗？ -- Can you show me where is it?}
+#{336}{}{The location of Wind of War, the settlement, located in the middle of a trading route, have been marked on your Pip-Boy.}
+{336}{}{战争之风的位置，定居点，位于一条贸易路线的中间，已经标记在你的皮普男孩。 -- The location of Wind of War, the settlement, located in the middle of a trading route, have been marked on your Pip-Boy.}
+#{337}{}{[Caravan merchant indicates the location of the Wind of War on the world map, a waypoint in the middle his trading route] Here.}
+{337}{}{[商队商人在世界地图上标明了战争之风的位置，在他的贸易路线中间的一个航路点]这里。 -- [Caravan merchant indicates the location of the Wind of War on the world map, a waypoint in the middle his trading route] Here.}
+#{338}{}{This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. You can even meet local population on that way.}
+{338}{}{这是一条相当活跃的贸易路线，因为拉斯维加斯和雷诺建立了良好的贸易关系。你甚至可以在那条路上见到当地人。 -- This is pretty active trading route, because Las Vegas and Reno established a good trading relationship. You can even meet local population on that way.}
+#{339}{}{This is pretty boring trading route. When approaching Salt Lake, you have to be careful, because of the acid geckos. But in comparison with other routes it�s the safest one. The main problem is, perhaps, the slavers. But raiders are seen very rarely.}
+{339}{}{这是一条很无聊的交易路线。当你接近盐湖时，你必须小心，因为酸壁虎。但与其他路线相比，它是最安全的。主要的问题也许是奴隶主。但袭击者很少出现。 -- This is pretty boring trading route. When approaching Salt Lake, you have to be careful, because of the acid geckos. But in comparison with other routes it�s the safest one. The main problem is, perhaps, the slavers. But raiders are seen very rarely.}
+#{340}{}{Where are you heading?}
+{340}{}{你要去哪里？ -- Where are you heading?}
+#{341}{}{See this badge? Next time, just read it more carefully... We are heading to New Reno, to trade with local dealers, and then we will hang out at "El Dorado", hell yeah!}
+{341}{}{看到这个徽章了吗？下一次，请仔细阅读。。。我们要去新里诺，和当地的经销商交易，然后我们会在“埃尔多拉多”闲逛，见鬼！ -- See this badge? Next time, just read it more carefully... We are heading to New Reno, to trade with local dealers, and then we will hang out at "El Dorado", hell yeah!}
+#{342}{}{See this badge? Next time, just read it more carefully... We are heading to Salt Lake, to restock on merchandise, then back here, to sell it.}
+{342}{}{看到这个徽章了吗？下一次，请仔细阅读。。。我们要去盐湖城，重新进货，然后回到这里，卖掉它。 -- See this badge? Next time, just read it more carefully... We are heading to Salt Lake, to restock on merchandise, then back here, to sell it.}
+#{343}{}{See this badge? Next time, just read it more carefully... We are heading to Las Vegas, to restock on merchandise, then back here, to sell it.}
+{343}{}{看到这个徽章了吗？下一次，请仔细阅读。。。我们要去拉斯维加斯，重新进货，然后回到这里，卖掉它。 -- See this badge? Next time, just read it more carefully... We are heading to Las Vegas, to restock on merchandise, then back here, to sell it.}
+#{344}{}{See this badge? Next time, just read it more carefully... We are heading to New Reno, to trade with local dealers, and then we will hang out at "El Dorado", hell yeah!}
+{344}{}{看到这个徽章了吗？下一次，请仔细阅读。。。我们要去新里诺，和当地的经销商交易，然后我们会在“埃尔多拉多”闲逛，见鬼！ -- See this badge? Next time, just read it more carefully... We are heading to New Reno, to trade with local dealers, and then we will hang out at "El Dorado", hell yeah!}
+#{345}{}{Nowhere for now. We will stay here for a couple of days, to rest. Then we'll head out to Vegas, to restock on merchandise.}
+{345}{}{暂时没有。我们将在这里呆几天，休息一下。然后我们去维加斯，重新进货。 -- Nowhere for now. We will stay here for a couple of days, to rest. Then we'll head out to Vegas, to restock on merchandise.}
+#{346}{}{See this badge? Next time, just read it more carefully... We are heading to Las Vegas, to trade. In Vegas is still left some good equipment and the water is clean there, and Salt has less food problems and, of course, Cola!}
+{346}{}{看到这个徽章了吗？下一次，请仔细阅读。。。我们要去拉斯维加斯交易。在维加斯仍然有一些好的设备，那里的水是干净的，而且盐的食物问题更少，当然还有可乐！ -- See this badge? Next time, just read it more carefully... We are heading to Las Vegas, to trade. In Vegas is still left some good equipment and the water is clean there, and Salt has less food problems and, of course, Cola!}
+#{347}{}{See this badge? Next time, just read it more carefully... We are heading to Salt Lake, to trade. In Vegas is still left some good equipment and the water is clean there, and Salt has less food problems and, of course, Cola!}
+{347}{}{看到这个徽章了吗？下一次，请仔细阅读。。。我们要去盐湖城交易。在维加斯仍然有一些好的设备，那里的水是干净的，而且盐的食物问题更少，当然还有可乐！ -- See this badge? Next time, just read it more carefully... We are heading to Salt Lake, to trade. In Vegas is still left some good equipment and the water is clean there, and Salt has less food problems and, of course, Cola!}
+#{348}{}{Nowhere for now. We have to rest, gear up, and then we'll head out.}
+{348}{}{暂时没有。我们得休息，准备好装备，然后出发。 -- Nowhere for now. We have to rest, gear up, and then we'll head out.}
+#{349}{}{Can I accompany your caravan on its travels?}
+{349}{}{我能陪你的商队旅行吗？ -- Can I accompany your caravan on its travels?}
+#{350}{}{No, don�t even think about it. We are full. And we don�t like accepting strangers, it�s unsafe.}
+{350}{}{不，想都别想。我们吃饱了。我们不喜欢接受陌生人，这是不安全的。 -- No, don�t even think about it. We are full. And we don�t like accepting strangers, it�s unsafe.}
+#{351}{}{Shame. But I have another question.}
+{351}{}{羞愧。但我还有一个问题。 -- Shame. But I have another question.}
+#{352}{}{That�s a shame. I�ll go, ask someone else.}
+{352}{}{真可惜。我去问问别人。 -- That�s a shame. I�ll go, ask someone else.}
+#{353}{}{Right, but I would like to ask something about the city.}
+{353}{}{是的，但是我想问一些关于这个城市的事情。 -- Right, but I would like to ask something about the city.}
+#{354}{}{Fine, forget it.}
+{354}{}{好吧，算了吧。 -- Fine, forget it.}
+#{359}{}{The caravan route to Bridgeport is opened.}
+{359}{}{通往布里奇波特的商队路线开通了。 -- The caravan route to Bridgeport is opened.}
+#{360}{}{Bridgeport needs some things. Here is the list. Will you take the order?}
+{360}{}{布里奇波特需要一些东西。这是名单。你要点菜吗？ -- Bridgeport needs some things. Here is the list. Will you take the order?}
+#{361}{}{Yes, seems like it can be a good deal. It�s on our way anyway.}
+{361}{}{是的，看来这是个不错的交易。反正已经在路上了。 -- Yes, seems like it can be a good deal. It�s on our way anyway.}
+#{362}{}{Great. You can handle this without me from now on.}
+{362}{}{伟大的。从现在起你不用我也能处理。 -- Great. You can handle this without me from now on.}
+#{363}{}{I would be interested, if not for your reputation.}
+{363}{}{如果不是为了你的名声，我会感兴趣的。 -- I would be interested, if not for your reputation.}
+#{364}{}{[Leave]}
+{364}{}{[离开] -- [Leave]}
+#{365}{}{Honestly speaking, even in this difficult time for us, this contact doesn�t looks serious. We will have to go too far, and the payoff is not that much. It may even cost us. Too risky.}
+{365}{}{老实说，即使在这个困难的时候，这种接触看起来并不严重。我们将不得不走得太远，而回报并没有那么多。这甚至会让我们付出代价。太冒险了。 -- Honestly speaking, even in this difficult time for us, this contact doesn�t looks serious. We will have to go too far, and the payoff is not that much. It may even cost us. Too risky.}
+#{366}{}{I can promise you a good deal. My reputation among caravan merchants will back that up.}
+{366}{}{我可以答应你一笔好交易。我在商队商人中的声誉将支持这一点。 -- I can promise you a good deal. My reputation among caravan merchants will back that up.}
+#{367}{}{It�s a shame I�m not a caravan merchant, because losing a good caravan route is just stupid.}
+{367}{}{可惜我不是一个商队商人，因为失去一条好的商队路线是愚蠢的。 -- It�s a shame I�m not a caravan merchant, because losing a good caravan route is just stupid.}
+#{368}{}{Either you risk it, or someone else will. Your call.}
+{368}{}{不是你冒这个险，就是别人冒这个险。你的电话。 -- Either you risk it, or someone else will. Your call.}
+#{369}{}{You won�t pull that trick on me.}
+{369}{}{你不会骗我的。 -- You won�t pull that trick on me.}
+#{400}{}{The wind of War is ready to trade cola, but I need a supplier. Are you up for it?}
+{400}{}{战争之风已经准备好交易可乐了，但我需要一个供应商。你准备好了吗？ -- The wind of War is ready to trade cola, but I need a supplier. Are you up for it?}
+#{401}{}{Ha! Are you out of your mind?! You want our guys to be involved with that scum?! More likely a radscorpion will bite off its tail, than you�ll see one of us working for those bloodsuckers.}
+{401}{}{哈！你疯了吗？！你想让我们的人和那个人渣扯上关系？！更有可能是一只蝎子会咬掉它的尾巴，而不是你会看到我们中的一个为那些吸血鬼工作。 -- Ha! Are you out of your mind?! You want our guys to be involved with that scum?! More likely a radscorpion will bite off its tail, than you�ll see one of us working for those bloodsuckers.}
+#{402}{}{As you wish, but I have another question.}
+{402}{}{如你所愿，但我还有一个问题。 -- As you wish, but I have another question.}
+#{403}{}{Wow, I see you have tense relations with them. I will do without you then.}
+{403}{}{哇，我看你和他们关系很紧张。那我就不用你了。 -- Wow, I see you have tense relations with them. I will do without you then.}
+#{404}{}{Wind of War? No, we take a different route.}
+{404}{}{战争之风？不，我们走另一条路。 -- Wind of War? No, we take a different route.}
+#{405}{}{Shame, but I have another question.}
+{405}{}{不好意思，我还有一个问题。 -- Shame, but I have another question.}
+#{406}{}{Ok, have it your way.}
+{406}{}{好吧，随你的便。 -- Ok, have it your way.}
+#{407}{}{Admirable. But what this has to do with us? We have a totally different route, we run between Vegas and Salt Lake.}
+{407}{}{好极了。但这跟我们有什么关系？我们有一条完全不同的路线，在拉斯维加斯和盐湖城之间。 -- Admirable. But what this has to do with us? We have a totally different route, we run between Vegas and Salt Lake.}
+#{408}{}{}
+{408}{}{ -- }
+#{409}{}{You�re out of your mind! How are we going to transfer cola from Salt Lake to such far region?! We don�t know those parts anyway, none of us been there before.}
+{409}{}{你疯了！我们怎么把可乐从盐湖运到这么远的地方？！不管怎样，我们都不知道那些地方，我们以前都没去过。 -- You�re out of your mind! How are we going to transfer cola from Salt Lake to such far region?! We don�t know those parts anyway, none of us been there before.}
+#{410}{}{To be honest, it�s not a bad idea. Tell me only one thing, who will supply us? Resellers are too expensive - you will lose all customers with such prices, believe me.}
+{410}{}{老实说，这主意不错。告诉我一件事，谁来供应我们？转售商太贵了-相信我，这样的价格会让你失去所有的客户。 -- To be honest, it�s not a bad idea. Tell me only one thing, who will supply us? Resellers are too expensive - you will lose all customers with such prices, believe me.}
+#{411}{}{There is a caravan from Salt Lake. Everything has been set with them. Straight delivery from Salt Lake and you will transfer the merchandise from Vegas to Wind of War.}
+{411}{}{有一辆来自盐湖城的大篷车。一切都安排好了。从盐湖城直接送货，你就可以把商品从维加斯转到战争之风。 -- There is a caravan from Salt Lake. Everything has been set with them. Straight delivery from Salt Lake and you will transfer the merchandise from Vegas to Wind of War.}
+#{412}{}{Can't you transfer it from Salt Lake yourself?}
+{412}{}{你不能自己从盐湖城转过来吗？ -- Can't you transfer it from Salt Lake yourself?}
+#{413}{}{No, the journey is too long. But we can take it from someone in Vegas, and then, on our way to Reno, we can stop at Wind of War. That would be the best.}
+{413}{}{不，旅途太长了。但我们可以从维加斯的某个人那里拿走，然后，在去雷诺的路上，我们可以在战风中停下来。那将是最好的。 -- No, the journey is too long. But we can take it from someone in Vegas, and then, on our way to Reno, we can stop at Wind of War. That would be the best.}
+#{414}{}{This means, I have to arrange the supply from Salt Lake to Vegas first? Oh my, this is going to be tough.}
+{414}{}{也就是说，我得先安排从盐湖城到维加斯的补给？天哪，这会很艰难的。 -- This means, I have to arrange the supply from Salt Lake to Vegas first? Oh my, this is going to be tough.}
+#{415}{}{Excellent! I like the terms. Who will pay us?}
+{415}{}{杰出的！我喜欢这些条件。谁来付钱给我们？ -- Excellent! I like the terms. Who will pay us?}
+#{416}{}{A merchant in Wind of War, the one you will be supplying.}
+{416}{}{战争之风中的商人，你将提供的那个。 -- A merchant in Wind of War, the one you will be supplying.}
+#{417}{}{Okay. And you... Ehmm, you�re saying, that you�re an official representative? Can I see the papers?}
+{417}{}{可以。和你。。。嗯，你是说你是官方代表？我能看看报纸吗？ -- Okay. And you... Ehmm, you�re saying, that you�re an official representative? Can I see the papers?}
+#{418}{}{No problem! Here's the license. Sighed and sealed. Everything is in order.}
+{418}{}{没问题！这是执照。叹了口气，封了信。一切都井然有序。 -- No problem! Here's the license. Sighed and sealed. Everything is in order.}
+#{419}{}{I don�t have them on me.}
+{419}{}{我身上没有。 -- I don�t have them on me.}
+#{420}{}{Okay! We can move out right now.}
+{420}{}{可以！我们现在可以搬出去了。 -- Okay! We can move out right now.}
+#{421}{}{Great! Let me tell you the details, and you�re on your own after that...}
+{421}{}{太好了！让我告诉你细节，然后你就可以自己了。。。 -- Great! Let me tell you the details, and you�re on your own after that...}
+#{422}{}{Well, prove, that you can be trusted, and we will make a deal. I can�t risk here.}
+{422}{}{好吧，证明你是可以信任的，我们会达成协议的。我不能在这里冒险。 -- Well, prove, that you can be trusted, and we will make a deal. I can�t risk here.}
+#{423}{}{Is this so important?! Damn, fine, I�ll go look for that paper...}
+{423}{}{这很重要吗？！妈的，好吧，我去找那张纸。。。 -- Is this so important?! Damn, fine, I�ll go look for that paper...}
+#{424}{}{On the other hand, screw the formalities. [mumbles to himself] Why should we care... [speaks to you] I agree.}
+{424}{}{另一方面，去搞手续。我们为什么要关心。。。我同意。 -- On the other hand, screw the formalities. [mumbles to himself] Why should we care... [speaks to you] I agree.}
+#{425}{}{Good! Let me tell you the details, and you�re on your own after that...}
+{425}{}{很好！让我告诉你细节，然后你就可以自己了。。。 -- Good! Let me tell you the details, and you�re on your own after that...}
+#{426}{}{You have successfully set Nuka-Cola trading route to Wind of War. The only thing left is to seal the deal with the intendant.}
+{426}{}{你已经成功地将努卡可乐的交易路线设定为战争之风。唯一剩下的就是和监管者达成协议。 -- You have successfully set Nuka-Cola trading route to Wind of War. The only thing left is to seal the deal with the intendant.}
+#{450}{}{I'm establishing a Nuka-Cola trading spot in Vegas, and I need a supplier. Will you take the job?}
+{450}{}{我要在维加斯建立一个努卡可乐的交易点，我需要一个供应商。你愿意接受这份工作吗？ -- I'm establishing a Nuka-Cola trading spot in Vegas, and I need a supplier. Will you take the job?}
+#{451}{}{Because a caravan is needed, the one that could transfer cola straight to Vegas to another caravan, which would transfer it further to Wind of War. You get the point?}
+{451}{}{因为需要一个大篷车，一个可以把可乐直接运到维加斯的大篷车，再把可乐运到另一个大篷车上，这会把它进一步转移到战争之风。明白了吗？ -- Because a caravan is needed, the one that could transfer cola straight to Vegas to another caravan, which would transfer it further to Wind of War. You get the point?}
+#{452}{}{Our own delivery line? Great idea, if you have a client there. Besides we are moving on that route anyway.}
+{452}{}{我们自己的送货路线？好主意，如果你有客户的话。况且我们还是要走那条路。 -- Our own delivery line? Great idea, if you have a client there. Besides we are moving on that route anyway.}
+#{453}{}{Our own delivery line? Hmm! Good idea, if you have a client there. But we have another route planned. On unknown route and so far... No. No, guys won�t accept such deal.}
+{453}{}{我们自己的送货路线？隐马尔可夫模型！好主意，如果你有客户的话。但我们计划了另一条路线。在未知的路线上，到目前为止。。。不，不，男人们不会接受这样的交易。 -- Our own delivery line? Hmm! Good idea, if you have a client there. But we have another route planned. On unknown route and so far... No. No, guys won�t accept such deal.}
+#{454}{}{Too bad. Another question.}
+{454}{}{太糟糕了。另一个问题。 -- Too bad. Another question.}
+#{455}{}{Too bad. I�ll go look for someone else.}
+{455}{}{太糟糕了。我去找别人。 -- Too bad. I�ll go look for someone else.}
+#{456}{}{Yes, there is a trading spot, and not a bad one. So? Will you take the job?}
+{456}{}{是的，有一个交易点，而且还不错。所以呢？你愿意接受这份工作吗？ -- Yes, there is a trading spot, and not a bad one. So? Will you take the job?}
+#{457}{}{Great idea! Go on, tell me the details, to whom we are taking the merchandise?}
+{457}{}{好主意！说吧，告诉我细节，我们要把商品带给谁？ -- Great idea! Go on, tell me the details, to whom we are taking the merchandise?}
+#{458}{}{Here's how it goes...}
+{458}{}{事情是这样的。。。 -- Here's how it goes...}
+#{459}{}{Great idea, it�s just that, err, do you have the papers for it? Can I have a look?}
+{459}{}{好主意，只是，呃，你有文件吗？我能看看吗？ -- Great idea, it�s just that, err, do you have the papers for it? Can I have a look?}
+#{460}{}{You can. Here's the license.}
+{460}{}{你可以。这是执照。 -- You can. Here's the license.}
+#{461}{}{The license is not on me right now. Is this so important?}
+{461}{}{执照现在不在我身上。这有那么重要吗？ -- The license is not on me right now. Is this so important?}
+#{462}{}{Hmm. You know, you�re right. Why do I care, the merchandise is merchandise and the buyer is ready on the spot. Go on, tell me the details.}
+{462}{}{嗯。你知道，你是对的。为什么我在乎，商品就是商品，买家当场就准备好了。继续，告诉我细节。 -- Hmm. You know, you�re right. Why do I care, the merchandise is merchandise and the buyer is ready on the spot. Go on, tell me the details.}
+#{463}{}{Okay, now listen...}
+{463}{}{好了，现在听着。。。 -- Okay, now listen...}
+#{464}{}{The guys must be sure there won�t be any set-ups, do you understand? So, prove it first, that you can be trusted, then we can have a deal.}
+{464}{}{伙计们一定要确定不会有任何安排，明白吗？所以，先证明你是可以信任的，然后我们才能达成协议。 -- The guys must be sure there won�t be any set-ups, do you understand? So, prove it first, that you can be trusted, then we can have a deal.}
+#{465}{}{Oh, what the hell! Even the money doesn�t convince him! Urgh, fine, we'll see what we can do here.}
+{465}{}{哦，见鬼！连钱都说服不了他！呃，好吧，我们看看能做些什么。 -- Oh, what the hell! Even the money doesn�t convince him! Urgh, fine, we'll see what we can do here.}
+#{466}{}{Now that�s is a deal! The papers are fine, and the business is thought through! Go on, tell me the details, I�m ready to collaborate.}
+{466}{}{现在这是一个交易！文件很好，生意考虑周全！继续，告诉我细节，我准备好合作了。 -- Now that�s is a deal! The papers are fine, and the business is thought through! Go on, tell me the details, I�m ready to collaborate.}
+#{467}{}{Okay, now here's how it goes...}
+{467}{}{好吧，现在事情是这样的。。。 -- Okay, now here's how it goes...}
+#{468}{}{You organized your own supply line of Nuka-Cola to Las Vegas! The only thing left is to seal the deal with the buyer.}
+{468}{}{你组织了你自己的努卡可乐供应线去拉斯维加斯！唯一剩下的就是和买家达成交易。 -- You organized your own supply line of Nuka-Cola to Las Vegas! The only thing left is to seal the deal with the buyer.}
+#{469}{}{Sounds tempting. But I will risk only when we discuss the details with the Cola factory and get the guarantees, that you won�t set us up. Then I won�t even need your license. So, I�ll meet you in Salt Lake - then we talk business.}
+{469}{}{听起来很诱人。但只有当我们和可乐厂讨论细节并得到保证时，我才会冒险，你不会陷害我们。那我就不需要你的驾照了。所以，我会在盐湖城见你-然后我们谈生意。 -- Sounds tempting. But I will risk only when we discuss the details with the Cola factory and get the guarantees, that you won�t set us up. Then I won�t even need your license. So, I�ll meet you in Salt Lake - then we talk business.}
+#{470}{}{Hmm. Well, as you wish. But I have a question.}
+{470}{}{嗯。好吧，如你所愿。但我有个问题。 -- Hmm. Well, as you wish. But I have a question.}
+#{471}{}{Okay. Be seeing you in Salt Lake then.}
+{471}{}{可以。到时候盐湖城见。 -- Okay. Be seeing you in Salt Lake then.}
+#{480}{}{A supplier of Nuka-Cola from Salt Lake to Reno is needed. Are you in?}
+{480}{}{需要一个从盐湖到雷诺的努卡可乐供应商。你在吗？ -- A supplier of Nuka-Cola from Salt Lake to Reno is needed. Are you in?}
+#{481}{}{If we would be in Salt Lake, then yes. But until we are here, we can�t risk it. There, in Salt Lake, we can go straight to the factory and discuss all the details, to have guarantees from many uncertainties.}
+{481}{}{如果我们在盐湖城，那是的。但在我们来到这里之前，我们不能冒险。在那里，在盐湖城，我们可以直接去工厂讨论所有的细节，从许多不确定因素中得到保证。 -- If we would be in Salt Lake, then yes. But until we are here, we can�t risk it. There, in Salt Lake, we can go straight to the factory and discuss all the details, to have guarantees from many uncertainties.}
+#{482}{}{Before I head out to Salt Lake, I would like to ask another question.}
+{482}{}{在我去盐湖城之前，我想问另一个问题。 -- Before I head out to Salt Lake, I would like to ask another question.}
+#{483}{}{Hmm. This means, the caravans in Salt Lake can take the deal? Great! Then I�ll go to Salt Lake.}
+{483}{}{嗯。这意味着，盐湖城的商队可以接受这笔交易？太好了！那我就去盐湖城。 -- Hmm. This means, the caravans in Salt Lake can take the deal? Great! Then I�ll go to Salt Lake.}
+#{484}{}{Not a bad idea. And the factory is not far from here. I'm already counting the profit.}
+{484}{}{不错的主意。工厂离这儿不远。我已经在数利润了。 -- Not a bad idea. And the factory is not far from here. I'm already counting the profit.}
+#{485}{}{So it�s a deal?}
+{485}{}{那就这么说定了？ -- So it�s a deal?}
+#{486}{}{Wow, pal, we are taking a different route, we never been in those parts. Sorry.}
+{486}{}{哇，伙计，我们走的是另一条路，我们从没去过那些地方。对不起的。 -- Wow, pal, we are taking a different route, we never been in those parts. Sorry.}
+#{487}{}{Right. Still, I have a question.}
+{487}{}{正确的。不过，我还有一个问题。 -- Right. Still, I have a question.}
+#{488}{}{Right. Well, good luck then.}
+{488}{}{正确的。好吧，祝你好运。 -- Right. Well, good luck then.}
+#{489}{}{You organized your own supply line of Nuka-Cola to New Reno! Soon you�ll become rich... Maybe.}
+{489}{}{你组织了你自己的努卡可乐供应线到新雷诺！很快你就会变得富有。。。也许 吧。 -- You organized your own supply line of Nuka-Cola to New Reno! Soon you�ll become rich... Maybe.}
+#{500}{}{I want to order a delivery to another city.}
+{500}{}{我想订一份到另一个城市的送货单。 -- I want to order a delivery to another city.}
+#{501}{}{Good idea! But, we are moving only on our own route. And, of course, we will charge our percentage for the job.}
+{501}{}{好主意！但是，我们只是走自己的路。当然，我们也会收取一定比例的费用。 -- Good idea! But, we are moving only on our own route. And, of course, we will charge our percentage for the job.}
+#{502}{}{How much?}
+{502}{}{多少？ -- How much?}
+#{503}{}{ percent from the overall amount. Yes, by the way, how much do you have in the warehouse? I don�t want to deliver small shipments - more complications, than profit. If you want to trade, let's load the full wagons!}
+{503}{}{占总金额的百分比。是的，顺便问一下，你们仓库里有多少钱？我不想运送小批量的货物，这比利润更复杂。如果你想交易的话，让我们把货装满！ --  percent from the overall amount. Yes, by the way, how much do you have in the warehouse? I don�t want to deliver small shipments - more complications, than profit. If you want to trade, let's load the full wagons!}
+#{504}{}{What?! 15% - or I�ll find another caravan.}
+{504}{}{什么？！15%——否则我会找到另一辆大篷车。 -- What?! 15% - or I�ll find another caravan.}
+#{505}{}{You transfer 1000 bottles.}
+{505}{}{你转移了1000瓶。 -- You transfer 1000 bottles.}
+#{506}{}{You transfer 750 bottles.}
+{506}{}{你转移了750瓶。 -- You transfer 750 bottles.}
+#{507}{}{You transfer 500 bottles.}
+{507}{}{你转了500瓶。 -- You transfer 500 bottles.}
+#{508}{}{You transfer 300 bottles.}
+{508}{}{你转移300瓶。 -- You transfer 300 bottles.}
+#{509}{}{You transfer 200 bottles.}
+{509}{}{你转移了200瓶。 -- You transfer 200 bottles.}
+#{510}{}{You transfer 100 bottles.}
+{510}{}{你转移100瓶。 -- You transfer 100 bottles.}
+#{511}{}{I will think about it.}
+{511}{}{我会考虑的。 -- I will think about it.}
+#{512}{}{Good. Where are we taking it?}
+{512}{}{很好。我们带它去哪？ -- Good. Where are we taking it?}
+#{513}{}{"Cotton" cafe in New Reno.}
+{513}{}{新里诺的“棉花”咖啡馆。 -- "Cotton" cafe in New Reno.}
+#{514}{}{"Silver" restaurant in New Reno.}
+{514}{}{新里诺的“银色”餐厅。 -- "Silver" restaurant in New Reno.}
+#{515}{}{"Hard Rock" cafe in Vegas.}
+{515}{}{拉斯维加斯的“硬石”咖啡馆。 -- "Hard Rock" cafe in Vegas.}
+#{516}{}{Trading store in Wind of War.}
+{516}{}{战风中的贸易商店。 -- Trading store in Wind of War.}
+#{517}{}{Nowhere yet. I still have to make a deal with the buyer.}
+{517}{}{还没有。我还得和买家做笔交易。 -- Nowhere yet. I still have to make a deal with the buyer.}
+#{518}{}{No problem. We will deliver the stuff and take }
+{518}{}{没问题。我们会把东西送过去 -- No problem. We will deliver the stuff and take }
+#{519}{}{ percent from the total amount of bottles. I hope this is not our last deal.}
+{519}{}{占瓶子总数的百分比。我希望这不是我们最后的交易。 --  percent from the total amount of bottles. I hope this is not our last deal.}
+#{520}{}{Good, start working!}
+{520}{}{很好，开始工作！ -- Good, start working!}
+#{521}{}{Hey, we are taking another route. I don�t think that our team would want to move in completely unknown direction. Ask those, who is heading in Reno.}
+{521}{}{嘿，我们走另一条路。我不认为我们的队伍会朝着完全未知的方向前进。问问那些人，谁要去里诺。 -- Hey, we are taking another route. I don�t think that our team would want to move in completely unknown direction. Ask those, who is heading in Reno.}
+#{522}{}{Ok, maybe you can take the Cola to another city then?}
+{522}{}{好吧，也许你可以把可乐带到另一个城市？ -- Ok, maybe you can take the Cola to another city then?}
+#{523}{}{Then I don't need your service. Bye.}
+{523}{}{那我就不需要你的服务了。再见。 -- Then I don't need your service. Bye.}
+#{524}{}{Hey, we are taking another route. I don�t think that our team will want to move in completely unknown direction. Ask those, who is heading in Vegas.}
+{524}{}{嘿，我们走另一条路。我不认为我们的队伍会朝着完全未知的方向前进。问问他们，谁要去维加斯。 -- Hey, we are taking another route. I don�t think that our team will want to move in completely unknown direction. Ask those, who is heading in Vegas.}
+#{525}{}{ or nothing! No decent caravan is gonna work to less.}
+{525}{}{或者什么都没有！任何一辆像样的大篷车都不能少用。 --  or nothing! No decent caravan is gonna work to less.}
+#{526}{}{Damn, I wouldn�t want to lose such a deal... Fine! }
+{526}{}{妈的，我可不想失去这么一笔交易。。。好的！ -- Damn, I wouldn�t want to lose such a deal... Fine! }
+#{527}{}{ percent - and we're in business. This is our final price.}
+{527}{}{百分之-我们在做生意。这是我们的最终价格。 --  percent - and we're in business. This is our final price.}
+#{1150}{}{I wanted to ask something about this city.}
+{1150}{}{我想问一些关于这个城市的事情。 -- I wanted to ask something about this city.}
+#{1228}{}{Wait a minute, I think I�ve seen someone like this, with another caravan. Ask around, you may find something about it.}
+{1228}{}{等等，我想我见过这样的人，还有另一辆大篷车。四处打听，你可能会发现一些东西。 -- Wait a minute, I think I�ve seen someone like this, with another caravan. Ask around, you may find something about it.}
+#{1305}{}{Right. That is all I wanted.}
+{1305}{}{正确的。这就是我想要的。 -- Right. That is all I wanted.}
+#{1323}{}{I think that is everything I wanted to ask.}
+{1323}{}{我想这就是我想问的一切。 -- I think that is everything I wanted to ask.}
+#{1353}{}{Right, but I would like to ask something about the city.}
+{1353}{}{是的，但是我想问一些关于这个城市的事情。 -- Right, but I would like to ask something about the city.}
+#{1462}{}{Hmm. You know, actually you�re right. Why do I care, the merchandise is merchandise and the buyer is ready on the spot. Go on, tell me the details.}
+{1462}{}{嗯。你知道，实际上你是对的。为什么我在乎，商品就是商品，买家当场就准备好了。继续，告诉我细节。 -- Hmm. You know, actually you�re right. Why do I care, the merchandise is merchandise and the buyer is ready on the spot. Go on, tell me the details.}
+#{1409}{}{You�re out of your mind! How are we going to transfer Cola from Salt Lake to such far region?! We don�t know those parts anyway, none of us been there before.}
+{1409}{}{你疯了！我们怎么把可乐从盐湖运到这么远的地方？！不管怎样，我们都不知道那些地方，我们以前都没去过。 -- You�re out of your mind! How are we going to transfer Cola from Salt Lake to such far region?! We don�t know those parts anyway, none of us been there before.}
+#{1486}{}{Wow, gal, we are taking a different route, we never been in those parts. Sorry.}
+{1486}{}{哇，姑娘，我们走的是另一条路，我们从没去过那些地方。对不起的。 -- Wow, gal, we are taking a different route, we never been in those parts. Sorry.}

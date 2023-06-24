@@ -1,0 +1,116 @@
+#{0}{}{}
+{0}{}{ -- }
+#{100}{}{You see a console.}
+{100}{}{你看到一个控制台。 -- You see a console.}
+#{101}{}{You see a password entry console. Looks like it controls the door nearby.}
+{101}{}{您将看到一个密码输入控制台。看起来它控制着附近的门。 -- You see a password entry console. Looks like it controls the door nearby.}
+#{102}{}{You've already used this console, it has no use for you anymore.}
+{102}{}{你已经用过这个控制台了，它对你已经没有用了。 -- You've already used this console, it has no use for you anymore.}
+#{103}{}{I don't need this}
+{103}{}{我不需要这个 -- I don't need this}
+#{104}{}{This console has no power supply.}
+{104}{}{这个控制台没有电源。 -- This console has no power supply.}
+#{105}{}{No power}
+{105}{}{没有电源 -- No power}
+#{110}{}{Welcome. Please enter password.}
+{110}{}{欢迎光临。请输入密码。 -- Welcome. Please enter password.}
+#{111}{}{[Try to hack the password]}
+{111}{}{[尝试破解密码] -- [Try to hack the password]}
+#{112}{}{[Type in the password]}
+{112}{}{[键入密码] -- [Type in the password]}
+#{113}{}{[Exit]}
+{113}{}{[退出] -- [Exit]}
+#{114}{}{Password accepted. Welcome!}
+{114}{}{密码已接受。欢迎光临！ -- Password accepted. Welcome!}
+#{115}{}{[Finish]}
+{115}{}{[完成] -- [Finish]}
+#{116}{}{You hack the security system and gain }
+{116}{}{你侵入了安全系统 -- You hack the security system and gain }
+#{117}{}{ exp. points.}
+{117}{}{经验点。 --  exp. points.}
+#{118}{}{Password incorrect.}
+{118}{}{密码不正确。 -- Password incorrect.}
+#{119}{}{Wow, it worked! Well, time to enjoy the comforts of someone's office.}
+{119}{}{哇，成功了！是时候享受一下别人办公室的舒适了。 -- Wow, it worked! Well, time to enjoy the comforts of someone's office.}
+#{120}{}{The system only accepts passwords consisting of letters of the English alphabet. All that's left for you to do is cycle through variants.}
+{120}{}{系统只接受由英文字母组成的密码。剩下要做的就是循环各种变体。 -- The system only accepts passwords consisting of letters of the English alphabet. All that's left for you to do is cycle through variants.}
+#{121}{}{Enter the password.}
+{121}{}{输入密码。 -- Enter the password.}
+#{122}{}{You are entering: }
+{122}{}{您正在输入： -- You are entering: }
+#{123}{}{?}
+{123}{}{? -- ?}
+#{124}{}{Clear last letter.}
+{124}{}{清除最后一个字母。 -- Clear last letter.}
+#{125}{}{Clear everything and start over.}
+{125}{}{把一切都清理干净，重新开始。 -- Clear everything and start over.}
+#{126}{}{Password incorrect.}
+{126}{}{密码不正确。 -- Password incorrect.}
+#{127}{}{Password accepted. Welcome!}
+{127}{}{密码已接受。欢迎光临！ -- Password accepted. Welcome!}
+#{128}{}{Well, time to enjoy the comforts of someone's office.}
+{128}{}{是时候享受一下别人办公室的舒适了。 -- Well, time to enjoy the comforts of someone's office.}
+#{129}{}{This riddle is far beyond me at this point.}
+{129}{}{在这一点上，这个谜我还远远猜不透。 -- This riddle is far beyond me at this point.}
+#{130}{}{}
+{130}{}{ -- }
+#{150}{}{A}
+{150}{}{A -- A}
+#{151}{}{B}
+{151}{}{B类 -- B}
+#{152}{}{C}
+{152}{}{C级 -- C}
+#{153}{}{D}
+{153}{}{D级 -- D}
+#{154}{}{E}
+{154}{}{电子 -- E}
+#{155}{}{F}
+{155}{}{F级 -- F}
+#{156}{}{G}
+{156}{}{克 -- G}
+#{157}{}{H}
+{157}{}{小时 -- H}
+#{158}{}{I}
+{158}{}{我 -- I}
+#{159}{}{J}
+{159}{}{日本 -- J}
+#{160}{}{K}
+{160}{}{K公司 -- K}
+#{161}{}{L}
+{161}{}{我 -- L}
+#{162}{}{M}
+{162}{}{米 -- M}
+#{163}{}{N}
+{163}{}{不 -- N}
+#{164}{}{O}
+{164}{}{O -- O}
+#{165}{}{P}
+{165}{}{第 -- P}
+#{166}{}{Q}
+{166}{}{问 -- Q}
+#{167}{}{R}
+{167}{}{右 -- R}
+#{168}{}{S}
+{168}{}{S码 -- S}
+#{169}{}{T}
+{169}{}{T型 -- T}
+#{170}{}{U}
+{170}{}{U型 -- U}
+#{171}{}{V}
+{171}{}{五 -- V}
+#{172}{}{W}
+{172}{}{W型 -- W}
+#{173}{}{X}
+{173}{}{十 -- X}
+#{174}{}{Y}
+{174}{}{是的 -- Y}
+#{175}{}{Z}
+{175}{}{Z轴 -- Z}
+#{176}{}{-more-}
+{176}{}{-更多- -- -more-}
+#{177}{}{Finish entering the password.}
+{177}{}{完成密码输入。 -- Finish entering the password.}
+#{178}{}{To the beginning of the alphabet.}
+{178}{}{到字母表的开头。 -- To the beginning of the alphabet.}
+#{179}{}{Back.}
+{179}{}{回来。 -- Back.}

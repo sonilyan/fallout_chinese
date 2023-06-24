@@ -1,0 +1,18 @@
+#{100}{}{You enter a vast area, where military planes used to land. Some buildings can be seen to the west.}
+{100}{}{你进入一个广阔的区域，军用飞机曾经在那里降落。西边可以看到一些建筑物。}
+#{101}{}{You are trespassing on federal property. Before the war you'd be shot for that.}
+{101}{}{你侵入了联邦财产。在战争之前你会因此被枪毙的。}
+#{102}{}{You got into some special hangar. Maybe you are gazing upon something seen only by few.}
+{102}{}{你进了一个特别的机库。也许你正凝视着一些只有少数人才能看到的东西。}
+#{103}{}{A heavy blast shatters the insides of the hangar. The structure, however, miraculously doesn't cave in.}
+{103}{}{一阵猛烈的爆炸把机库的内部炸得粉碎。然而，这座建筑奇迹般地没有坍塌。}
+#{104}{}{Goddammit!!!}
+{104}{}{他妈的！！！}
+#{105}{}{This place looks like an aircraft refuelling station. Those tanks must still house jet fuel.}
+{105}{}{这个地方看起来像个飞机加油站。那些油箱里肯定还有喷气燃料。}
+#{106}{}{}
+{106}{}{}
+#{107}{}{The stench is barely bearable...}
+{107}{}{恶臭难忍。。。}
+#{108}{}{The poison gas is still present in the air inside the hangar.}
+{108}{}{毒气仍然存在于机库内的空气中。}

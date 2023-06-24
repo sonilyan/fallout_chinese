@@ -1,0 +1,180 @@
+#{10}{}{ }
+{10}{}{  --  }
+#{11}{}{ }
+{11}{}{  --  }
+#{100}{}{You see a casino client.}
+{100}{}{你看到一个赌场客户。 -- You see a casino client.}
+#{101}{}{You see your client.}
+{101}{}{你看到你的客户了。 -- You see your client.}
+#{102}{}{What is this, a new fashion trend? Take off that rag from your head, if you want to talk to me.}
+{102}{}{这是什么，新的时尚潮流？如果你想和我说话，把你头上的破布脱下来。 -- What is this, a new fashion trend? Take off that rag from your head, if you want to talk to me.}
+#{103}{}{I just wanted to relax. It seemed like today is a nice day for this.}
+{103}{}{我只是想放松一下。看来今天是个好日子。 -- I just wanted to relax. It seemed like today is a nice day for this.}
+#{104}{}{What do you want? [examines you from head to toe until a sudden realization hits him after he sees a pizza in your hands] Are you kidding me?! I ordered a pizza God knows when! And now, when I've already had a dinner, it is absolutely useless. Get out, courier, and tell your boss to *fire* you!}
+{104}{}{你想要什么？[从头到脚检查你，直到他看到你手里拿着比萨饼时突然意识到]你开玩笑吧？！我点了披萨天知道什么时候！现在，当我已经吃过饭的时候，它是完全没有用的。出去，信使，告诉你的老板解雇你！ -- What do you want? [examines you from head to toe until a sudden realization hits him after he sees a pizza in your hands] Are you kidding me?! I ordered a pizza God knows when! And now, when I've already had a dinner, it is absolutely useless. Get out, courier, and tell your boss to *fire* you!}
+#{105}{}{[Go away]}
+{105}{}{[走开] -- [Go away]}
+#{106}{}{What do you want? [examines you from head to toe until a sudden realization hits him after he sees a pizza in your hands] Where the hell have you been, courier!? How long must I wait! Ten minutes more and I would have died of hunger, now give me the pizza and get out of here!}
+{106}{}{你想要什么？[从头到脚检查你，直到他看到你手里拿着比萨饼时突然意识到]你到底去哪了，信使！？我要等多久！再过十分钟我就饿死了，现在把比萨饼给我，离开这里！ -- What do you want? [examines you from head to toe until a sudden realization hits him after he sees a pizza in your hands] Where the hell have you been, courier!? How long must I wait! Ten minutes more and I would have died of hunger, now give me the pizza and get out of here!}
+#{107}{}{It's }
+{107}{}{它是 -- It's }
+#{108}{}{$, sir.}
+{108}{}{$，先生。 -- $, sir.}
+#{109}{}{For what!? For your lousy service? To hell with you, here's the money, just give me the pizza. [tosses you money, composed of small change and crumpled bills]}
+{109}{}{为什么！？因为你糟糕的服务？去你妈的，钱来了，把比萨饼给我。[扔给你钱，由零钱和皱巴巴的钞票组成] -- For what!? For your lousy service? To hell with you, here's the money, just give me the pizza. [tosses you money, composed of small change and crumpled bills]}
+#{110}{}{What is it? Stood on the porch, huh? It's clearly the case.}
+{110}{}{它是什么？站在门廊上，嗯？显然是这样。 -- What is it? Stood on the porch, huh? It's clearly the case.}
+#{111}{}{Thank you, sir. Bon appetite and good day to you! Sam Phillips' cafe is always happy to open its doors to you. All the best!}
+{111}{}{谢谢，先生。祝你胃口好，一天好！山姆·菲利普斯的咖啡馆总是乐于向你敞开大门。祝你一切顺利！ -- Thank you, sir. Bon appetite and good day to you! Sam Phillips' cafe is always happy to open its doors to you. All the best!}
+#{112}{}{[Go away]}
+{112}{}{[走开] -- [Go away]}
+#{113}{}{[Widen eyes] I didn't expect such a *wild arrogance*!! And where only they find such savages in this city! Damn me if I use the delivery service again! Uh... Get out!}
+{113}{}{[睁大眼睛]我没想到会有这么狂妄自大！！只有他们才能在这个城市找到这样的野蛮人！如果我再使用送货服务，我就完了！休斯敦大学。。。走出！ -- [Widen eyes] I didn't expect such a *wild arrogance*!! And where only they find such savages in this city! Damn me if I use the delivery service again! Uh... Get out!}
+#{114}{}{[Stares at you] You are talking like some dude from TV. But... You talk nice. Okay, now leave, I don't like people watching me eat.}
+{114}{}{[盯着你]你说话就像电视里的某个家伙。但是。。。你说话很好。好了，走吧，我不喜欢别人看着我吃饭。 -- [Stares at you] You are talking like some dude from TV. But... You talk nice. Okay, now leave, I don't like people watching me eat.}
+#{150}{}{You see one of the casino patrons. He looks tired.}
+{150}{}{你看到一个赌场的顾客。他看起来很累。 -- You see one of the casino patrons. He looks tired.}
+#{151}{}{You see one of the casino patrons. His eyes sparkle with excitement.}
+{151}{}{你看到一个赌场的顾客。他的眼睛因兴奋而闪闪发光。 -- You see one of the casino patrons. His eyes sparkle with excitement.}
+#{152}{}{You see one of the casino patrons. He covers his face.}
+{152}{}{你看到一个赌场的顾客。他捂着脸。 -- You see one of the casino patrons. He covers his face.}
+#{153}{}{You see one of the casino patrons. He looks a little tipsy.}
+{153}{}{你看到一个赌场的顾客。他看起来有点醉了。 -- You see one of the casino patrons. He looks a little tipsy.}
+#{154}{}{You see one of the casino patrons. He winks at you and wobbly goes away.}
+{154}{}{你看到一个赌场的顾客。他向你眨眨眼，摇摇晃晃地走开了。 -- You see one of the casino patrons. He winks at you and wobbly goes away.}
+#{155}{}{You see one of the casino patrons. He's trying to get the waitress's attention.}
+{155}{}{你看到一个赌场的顾客。他想引起女服务员的注意。 -- You see one of the casino patrons. He's trying to get the waitress's attention.}
+#{156}{}{You see one of the casino patrons. She looks tired.}
+{156}{}{你看到一个赌场的顾客。她看起来很累。 -- You see one of the casino patrons. She looks tired.}
+#{157}{}{You see one of the casino patrons. Her eyes sparkle with excitement.}
+{157}{}{你看到一个赌场的顾客。她的眼睛因兴奋而闪闪发光。 -- You see one of the casino patrons. Her eyes sparkle with excitement.}
+#{158}{}{You see one of the casino patrons. She covers her face with her hands.}
+{158}{}{你看到一个赌场的顾客。她用手捂住脸。 -- You see one of the casino patrons. She covers her face with her hands.}
+#{159}{}{You see one of the casino patrons. She looks a little tipsy.}
+{159}{}{你看到一个赌场的顾客。她看起来有点醉了。 -- You see one of the casino patrons. She looks a little tipsy.}
+#{160}{}{You see one of the casino patrons. She winks at you and wobbly goes away.}
+{160}{}{你看到一个赌场的顾客。她向你眨眨眼，摇摇晃晃地走开了。 -- You see one of the casino patrons. She winks at you and wobbly goes away.}
+#{161}{}{You see one of the casino patrons. She is trying to attract the attention of the waiter.}
+{161}{}{你看到一个赌场的顾客。她想引起服务员的注意。 -- You see one of the casino patrons. She is trying to attract the attention of the waiter.}
+#{280}{}{Lady Luck, don't let me down.}
+{280}{}{幸运女神，别让我失望。 -- Lady Luck, don't let me down.}
+#{281}{}{Let's play dice.}
+{281}{}{我们来掷骰子吧。 -- Let's play dice.}
+#{282}{}{Baby needs a new pair of shoes...}
+{282}{}{宝贝需要一双新鞋。。。 -- Baby needs a new pair of shoes...}
+#{283}{}{Damn poor tourists...}
+{283}{}{可怜的游客。。。 -- Damn poor tourists...}
+#{284}{}{Dammit! I was up *53* chips, but then...}
+{284}{}{该死！我涨了53个筹码，但是。。。 -- Dammit! I was up *53* chips, but then...}
+#{285}{}{That's really unlucky...}
+{285}{}{真不走运。。。 -- That's really unlucky...}
+#{286}{}{So close!}
+{286}{}{太近了！ -- So close!}
+#{287}{}{Now I'll break the bank.}
+{287}{}{现在我要打破银行。 -- Now I'll break the bank.}
+#{288}{}{Me? I'm breaking the bank. Look.}
+{288}{}{我？我要破产了。你看。 -- Me? I'm breaking the bank. Look.}
+#{289}{}{Everything was against me.}
+{289}{}{一切都对我不利。 -- Everything was against me.}
+#{290}{}{Lady Luck turned away from me.}
+{290}{}{幸运女神离开了我。 -- Lady Luck turned away from me.}
+#{291}{}{Will someone come to my funeral?}
+{291}{}{有人来参加我的葬礼吗？ -- Will someone come to my funeral?}
+#{292}{}{The bank had mercy on me.}
+{292}{}{银行对我很仁慈。 -- The bank had mercy on me.}
+#{293}{}{Between the tips and these huge sums of money spent while being drunk...}
+{293}{}{在小费和醉酒时花的大笔钱之间。。。 -- Between the tips and these huge sums of money spent while being drunk...}
+#{294}{}{Keep betting like that and very soon you will find yourself at Golgotha...}
+{294}{}{继续这样下注，很快你就会发现自己在各各他。。。 -- Keep betting like that and very soon you will find yourself at Golgotha...}
+#{295}{}{Waitress, another drink!}
+{295}{}{服务员，再来一杯！ -- Waitress, another drink!}
+#{296}{}{Waiter, another drink!}
+{296}{}{服务员，再来一杯！ -- Waiter, another drink!}
+#{297}{}{These drinks taste... Odd.}
+{297}{}{这些饮料味道。。。奇怪。 -- These drinks taste... Odd.}
+#{298}{}{I have a fever!}
+{298}{}{我发烧了！ -- I have a fever!}
+#{299}{}{I have already lost all my money.}
+{299}{}{我已经把钱都丢了。 -- I have already lost all my money.}
+#{300}{}{Luck is a flighty bitch, and so is the mother of my other half.}
+{300}{}{幸运是个爱飞的婊子，我另一半的母亲也是。 -- Luck is a flighty bitch, and so is the mother of my other half.}
+#{301}{}{So, so...}
+{301}{}{所以，所以。。。 -- So, so...}
+#{302}{}{Oh, do not disappoint me!}
+{302}{}{哦，别让我失望！ -- Oh, do not disappoint me!}
+#{303}{}{Go, my dear!}
+{303}{}{走吧，亲爱的！ -- Go, my dear!}
+#{304}{}{Wherever you go, everywhere are these damn scammers...}
+{304}{}{无论你走到哪里，到处都是这些该死的骗子。。。 -- Wherever you go, everywhere are these damn scammers...}
+#{305}{}{Great, another beggar.}
+{305}{}{太好了，又一个乞丐。 -- Great, another beggar.}
+#{306}{}{I'm SO lucky.}
+{306}{}{我真幸运。 -- I'm SO lucky.}
+#{307}{}{I'll get enough sleep in coffin.}
+{307}{}{我会在棺材里睡够的。 -- I'll get enough sleep in coffin.}
+#{308}{}{Look, I need to pee. I already feel sick to my stomach.}
+{308}{}{听着，我要尿尿。我已经觉得胃不舒服了。 -- Look, I need to pee. I already feel sick to my stomach.}
+#{309}{}{Man, I gotta drain the snake.}
+{309}{}{伙计，我得把蛇抽干。 -- Man, I gotta drain the snake.}
+#{310}{}{Damn, they'll let anyone in here.}
+{310}{}{该死，他们会让任何人进来的。 -- Damn, they'll let anyone in here.}
+#{311}{}{Come on, I need seven!}
+{311}{}{快点，我需要七个！ -- Come on, I need seven!}
+#{312}{}{You've got character, baby.}
+{312}{}{你很有个性，宝贝。 -- You've got character, baby.}
+#{313}{}{Who's the big winner tonight? Mikey!}
+{313}{}{今晚谁是大赢家？麦克！ -- Who's the big winner tonight? Mikey!}
+#{314}{}{Don't lose... C'mon...}
+{314}{}{别输了。。。拜托。。。 -- Don't lose... C'mon...}
+#{315}{}{If only we could negotiate...}
+{315}{}{如果我们能谈判。。。 -- If only we could negotiate...}
+#{316}{}{This is SUCH a bullshit.}
+{316}{}{真是胡说八道。 -- This is SUCH a bullshit.}
+#{317}{}{I've managed to lose only 60 chips. In the first five minutes.}
+{317}{}{我只损失了60个筹码。在前五分钟。 -- I've managed to lose only 60 chips. In the first five minutes.}
+#{318}{}{23 red! 23 red! Come on... 23 red...}
+{318}{}{23红色！23红色！来吧。。。23红色。。。 -- 23 red! 23 red! Come on... 23 red...}
+#{319}{}{50 chips on 15 black...}
+{319}{}{15个黑色的50个筹码。。。 -- 50 chips on 15 black...}
+#{320}{}{Ball's circling the roulette... Guess which cell...}
+{320}{}{球在轮盘赌上。。。猜猜哪个细胞。。。 -- Ball's circling the roulette... Guess which cell...}
+#{321}{}{Heh!}
+{321}{}{嘿！ -- Heh!}
+#{322}{}{Ha! Now the whole bank is mine!}
+{322}{}{哈！现在整个银行都是我的了！ -- Ha! Now the whole bank is mine!}
+#{323}{}{Hey, I actually won? Well, yes!}
+{323}{}{嘿，我真的赢了？嗯，是的！ -- Hey, I actually won? Well, yes!}
+#{324}{}{Now it's MINE! Ha-ha-ha!}
+{324}{}{现在是我的了！哈哈哈！ -- Now it's MINE! Ha-ha-ha!}
+#{325}{}{Damn goats, I won!}
+{325}{}{该死的山羊，我赢了！ -- Damn goats, I won!}
+#{326}{}{And they said that it's a scam!}
+{326}{}{他们说这是个骗局！ -- And they said that it's a scam!}
+#{327}{}{::jumps with joy::}
+{327}{}{●欣喜若狂： -- ::jumps with joy::}
+#{328}{}{::claps::}
+{328}{}{●鼓掌声： -- ::claps::}
+#{329}{}{It's my win!!!}
+{329}{}{我赢了！！！ -- It's my win!!!}
+#{330}{}{Dammit!}
+{330}{}{该死！ -- Dammit!}
+#{331}{}{Fucking bad luck}
+{331}{}{真倒霉 -- Fucking bad luck}
+#{332}{}{I lost *again*!}
+{332}{}{我又输了！ -- I lost *again*!}
+#{333}{}{It's nothing, I still have my change money}
+{333}{}{没什么，我还有零钱 -- It's nothing, I still have my change money}
+#{334}{}{Damn, when I will win back?}
+{334}{}{该死，我什么时候能赢回来？ -- Damn, when I will win back?}
+#{335}{}{I'll tear that bastard to pieces!}
+{335}{}{我要把那个混蛋撕成碎片！ -- I'll tear that bastard to pieces!}
+#{336}{}{I lost... It sucks...}
+{336}{}{我输了。。。太糟糕了。。。 -- I lost... It sucks...}
+#{337}{}{Am I such a loser?}
+{337}{}{我真是个失败者吗？ -- Am I such a loser?}
+#{338}{}{It's time to quit...}
+{338}{}{是时候退出了。。。 -- It's time to quit...}
+#{339}{}{I'm amazed I suck that bad.}
+{339}{}{我很惊讶我这么烂。 -- I'm amazed I suck that bad.}
+#{340}{}{Soon, I will be left with nothing.}
+{340}{}{很快，我将一无所有。 -- Soon, I will be left with nothing.}

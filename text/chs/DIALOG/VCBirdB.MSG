@@ -1,0 +1,8 @@
+#{100}{}{It's the caravan merchant Bibbit!}
+{100}{}{是商队商人毕比！}
+#{101}{}{You see the same caravan merchant from the Wind of War! As you can witness, he made it to Vegas.}
+{101}{}{你看到的是同一个商队商人！如你所见，他去了维加斯。}
+#{102}{}{And here is my savior! Let me pinch you, maybe this is a mirage?}
+{102}{}{这是我的救世主！让我掐你一下，也许这是海市蜃楼？}
+#{1102}{}{And here is my savior! Let me pinch you, maybe this is a mirage?}
+{1102}{}{这是我的救世主！让我掐你一下，也许这是海市蜃楼？}

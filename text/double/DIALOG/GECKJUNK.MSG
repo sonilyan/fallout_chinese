@@ -1,0 +1,4 @@
+#{100}{}{You have entered the junkyard near the old power plant.}
+{100}{}{你进入了旧发电厂附近的垃圾场。 -- You have entered the junkyard near the old power plant.}
+#{101}{}{Goddammit!}
+{101}{}{他妈的！ -- Goddammit!}

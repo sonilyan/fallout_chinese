@@ -1,0 +1,20 @@
+#{100}{}{You see a terminal.}
+{100}{}{你看到一个终端。 -- You see a terminal.}
+#{101}{}{You see a working terminal.}
+{101}{}{你看到一个工作终端。 -- You see a working terminal.}
+#{102}{}{The computer does not turn on. Apparently, it just doesn't have enough power.}
+{102}{}{电脑不开机。显然，它的能量不够。 -- The computer does not turn on. Apparently, it just doesn't have enough power.}
+#{103}{}{[Shutdown]}
+{103}{}{[关机] -- [Shutdown]}
+#{104}{}{This terminal lights up with all the bulbs, then they fade out and the main monitor turns on. It's amazing how this is still working.}
+{104}{}{这个终端与所有的灯泡一起亮起，然后它们淡出，主显示器打开。令人惊讶的是，这项技术仍然有效。 -- This terminal lights up with all the bulbs, then they fade out and the main monitor turns on. It's amazing how this is still working.}
+#{105}{}{[Follow the tracker signal from Overseer's Pip-Boy]}
+{105}{}{[跟随监工的跟踪信号] -- [Follow the tracker signal from Overseer's Pip-Boy]}
+#{106}{}{[Check radio]}
+{106}{}{[检查收音机] -- [Check radio]}
+#{107}{}{You hear only "white noise".}
+{107}{}{你只听到“白噪音”。 -- You hear only "white noise".}
+#{110}{}{There is a signal! The green dot is moving quickly to the north-east of the Salt Lake. You will not be able to catch up with the kidnappers even by car. Soon the signal will come out of the radar coverage.}
+{110}{}{有信号！绿点正迅速向盐湖东北方向移动。你连开车都追不上绑匪。很快信号就会从雷达覆盖范围内消失。 -- There is a signal! The green dot is moving quickly to the north-east of the Salt Lake. You will not be able to catch up with the kidnappers even by car. Soon the signal will come out of the radar coverage.}
+#{111}{}{It looks like that you will have to find some kind of transport to keep up with them by rail. Maybe there is something in Salt Lake?}
+{111}{}{看来你得找些交通工具才能赶上火车。也许盐湖里有什么东西？ -- It looks like that you will have to find some kind of transport to keep up with them by rail. Maybe there is something in Salt Lake?}

@@ -1,0 +1,240 @@
+#{100}{}{You see Damien Clark.}
+{100}{}{你看到达米恩·克拉克了。 -- You see Damien Clark.}
+#{101}{}{You see an archivist. He is, probably, the most inconspicuous City Hall employee.}
+{101}{}{你看到一个档案管理员。他可能是市政厅最不起眼的雇员。 -- You see an archivist. He is, probably, the most inconspicuous City Hall employee.}
+#{102}{}{I lost my... Although, you wouldn't be interested in that.}
+{102}{}{我失去了我的。。。不过，你不会对此感兴趣的。 -- I lost my... Although, you wouldn't be interested in that.}
+#{110}{}{Broke my pencil again...}
+{110}{}{又把我的铅笔弄坏了。。。 -- Broke my pencil again...}
+#{111}{}{When is the salary?}
+{111}{}{什么时候发工资？ -- When is the salary?}
+#{112}{}{With the next paycheck I'll buy a bulletproof vest.}
+{112}{}{下一份薪水我要买一件防弹背心。 -- With the next paycheck I'll buy a bulletproof vest.}
+#{113}{}{What to read? Oh, the tax declaration!}
+{113}{}{读什么？哦，纳税申报单！ -- What to read? Oh, the tax declaration!}
+#{114}{}{Boring.}
+{114}{}{真无聊。 -- Boring.}
+#{115}{}{Such data...}
+{115}{}{这样的数据。。。 -- Such data...}
+#{116}{}{Well, don�t ask me.}
+{116}{}{好吧，别问我。 -- Well, don�t ask me.}
+#{117}{}{I'll never earn so much.}
+{117}{}{我再也挣不到这么多了。 -- I'll never earn so much.}
+#{118}{}{Reports, reports, reports...}
+{118}{}{报告，报告，报告。。。 -- Reports, reports, reports...}
+#{119}{}{Need to add that to catalogue}
+{119}{}{需要把它加到目录上吗 -- Need to add that to catalogue}
+#{120}{}{Not so promising as it seems.}
+{120}{}{不像看上去那么有希望。 -- Not so promising as it seems.}
+#{121}{}{Another stupid idea.}
+{121}{}{又是个愚蠢的主意。 -- Another stupid idea.}
+#{122}{}{Need to throw that out}
+{122}{}{我得把它扔掉 -- Need to throw that out}
+#{123}{}{Another ridiculous report.}
+{123}{}{又一个荒谬的报道。 -- Another ridiculous report.}
+#{124}{}{When is the planning session?}
+{124}{}{计划会议什么时候举行？ -- When is the planning session?}
+#{125}{}{When is the lunch break?}
+{125}{}{午休时间是什么时候？ -- When is the lunch break?}
+#{126}{}{How long for dinner time?}
+{126}{}{晚餐要多长时间？ -- How long for dinner time?}
+#{127}{}{I�m tired.}
+{127}{}{我累了。 -- I�m tired.}
+#{128}{}{A little rest, and then - to work again}
+{128}{}{休息一下，然后-再去工作 -- A little rest, and then - to work again}
+#{129}{}{My eyes hurt.}
+{129}{}{我的眼睛疼。 -- My eyes hurt.}
+#{130}{}{To read all this? Better fire me!}
+{130}{}{读这些？最好解雇我！ -- To read all this? Better fire me!}
+#{131}{}{Just don�t fire me.}
+{131}{}{别解雇我。 -- Just don�t fire me.}
+#{200}{}{Hello. What did you want?}
+{200}{}{你好。你想要什么？ -- Hello. What did you want?}
+#{201}{}{Where am I? Is this an archive?}
+{201}{}{我在哪？这是档案吗？ -- Where am I? Is this an archive?}
+#{202}{}{Is this an archive? Can I find the coordinates of a military base called "Area 51" here?}
+{202}{}{这是档案吗？我能在这里找到一个叫“51区”的军事基地的坐标吗？ -- Is this an archive? Can I find the coordinates of a military base called "Area 51" here?}
+#{203}{}{Police told me about your daughter's disappearance. I volunteered to help in the search.}
+{203}{}{警察告诉我你女儿失踪的事。我自愿帮忙寻找。 -- Police told me about your daughter's disappearance. I volunteered to help in the search.}
+#{204}{}{Wrong door, sorry.}
+{204}{}{走错门了，对不起。 -- Wrong door, sorry.}
+#{205}{}{Yes, all data is stored here, though it's mostly reports from City Hall departments. I'm a senior employee of the unit... However, our archive is for internal use only.}
+{205}{}{是的，所有的数据都存储在这里，尽管大部分是市政厅部门的报告。我是单位的高级职员。。。但是，我们的档案仅供内部使用。 -- Yes, all data is stored here, though it's mostly reports from City Hall departments. I'm a senior employee of the unit... However, our archive is for internal use only.}
+#{206}{}{In this case, I need the coordinates of a military base called "Area 51".}
+{206}{}{在这种情况下，我需要一个叫“51区”的军事基地的坐标。 -- In this case, I need the coordinates of a military base called "Area 51".}
+#{207}{}{Nothing like that. Another question.}
+{207}{}{不是那样的。另一个问题。 -- Nothing like that. Another question.}
+#{208}{}{I think, I don�t need anything.}
+{208}{}{我想，我什么都不需要。 -- I think, I don�t need anything.}
+#{209}{}{But our archive is for internal use only, I cannot give you access to any documents.}
+{209}{}{但我们的档案仅供内部使用，我不能让你查阅任何文件。 -- But our archive is for internal use only, I cannot give you access to any documents.}
+#{210}{}{Oh! Of course! After all you've done for us, I'll scour every corner of the archive to find this information...}
+{210}{}{哦！当然！在你为我们做了这么多之后，我会搜遍档案馆的每一个角落来找到这些信息。。。 -- Oh! Of course! After all you've done for us, I'll scour every corner of the archive to find this information...}
+#{211}{}{Great!}
+{211}{}{太好了！ -- Great!}
+#{212}{}{...However, our archive is for internal use only. But I don't think that something will happen to the municipality if someone would obtain some coordinates...}
+{212}{}{…但是，我们的档案仅供内部使用。但我不认为如果有人能得到一些坐标，市政当局会出什么事。。。 -- ...However, our archive is for internal use only. But I don't think that something will happen to the municipality if someone would obtain some coordinates...}
+#{213}{}{There won�t be any consequences, don't worry.}
+{213}{}{不会有任何后果的，别担心。 -- There won�t be any consequences, don't worry.}
+#{214}{}{Yes, good to hear. But I need a little time... So, Area 51... A military base... ... ...Yeah. [he moves to the archive room]}
+{214}{}{是的，很高兴听到。但我需要一点时间。。。所以，51区。。。军事基地。。。是 啊。[他搬到档案室] -- Yes, good to hear. But I need a little time... So, Area 51... A military base... ... ...Yeah. [he moves to the archive room]}
+#{215}{}{[Wait]}
+{215}{}{[等等] -- [Wait]}
+#{216}{}{Yes! Found it! In one of the pre-war reports... Here. And here are the geographic coordinates. Is that a Pip-Boy? Is it working? Then you can simply type in the coordinates and you�ll be able to see the location on the map.}
+{216}{}{对！找到了！在一份战前报告中。。。在这里。这是地理坐标。那是个皮普男孩吗？有效吗？然后你只需输入坐标，就能看到地图上的位置。 -- Yes! Found it! In one of the pre-war reports... Here. And here are the geographic coordinates. Is that a Pip-Boy? Is it working? Then you can simply type in the coordinates and you�ll be able to see the location on the map.}
+#{217}{}{Right! Thank you so much, you helped me a lot!}
+{217}{}{正确的！非常感谢你，你帮了我很多！ -- Right! Thank you so much, you helped me a lot!}
+#{218}{}{Oh no! Thank you!}
+{218}{}{哦，不！谢谢您！ -- Oh no! Thank you!}
+#{219}{}{Bye.}
+{219}{}{再见。 -- Bye.}
+#{220}{}{}
+{220}{}{ -- }
+#{221}{}{You're not a stupid man and should understand that for helping me I will help you back.}
+{221}{}{你不是一个愚蠢的人，你应该明白，帮助我，我会帮助你回来。 -- You're not a stupid man and should understand that for helping me I will help you back.}
+#{222}{}{Then we could make a deal. What the municipality requires in exchange for this information?}
+{222}{}{那我们就可以做笔交易了。市政府需要什么来交换这些信息？ -- Then we could make a deal. What the municipality requires in exchange for this information?}
+#{223}{}{Okay, enough! I need the coordinates before I get really mad! Fast!}
+{223}{}{好了，够了！在我生气之前我需要坐标！快点！ -- Okay, enough! I need the coordinates before I get really mad! Fast!}
+#{224}{}{Well, that�s a shame.}
+{224}{}{好吧，那太可惜了。 -- Well, that�s a shame.}
+#{225}{}{Err... Young man, don�t try to threaten me... Uh... The security is right behind the door, so...}
+{225}{}{呃。。。年轻人，别想威胁我。。。休斯敦大学。。。保安就在门后，所以。。。 -- Err... Young man, don�t try to threaten me... Uh... The security is right behind the door, so...}
+#{226}{}{Listen, shithead, I had enough of your bullshit! I�m not fucking around here! Give me the coordinates!}
+{226}{}{听着，混蛋，我受够你的胡说八道了！我可没在这胡闹！把坐标给我！ -- Listen, shithead, I had enough of your bullshit! I�m not fucking around here! Give me the coordinates!}
+#{227}{}{Maybe the municipality has some procedure to get the information from the archive? Can I fill the application form?}
+{227}{}{也许市政府有一些程序从档案中获取信息？我能填一下申请表吗？ -- Maybe the municipality has some procedure to get the information from the archive? Can I fill the application form?}
+#{228}{}{Okay, okay, I'll leave you alone.}
+{228}{}{好吧，好吧，我不打扰你了。 -- Okay, okay, I'll leave you alone.}
+#{229}{}{[The man fixes his glasses on his nose, his eyes are avoiding yours] Er... I repeat... Threats are useless. You won�t get anything. The archive is *only* for mayor's office employees...}
+{229}{}{[那人把眼镜戴在鼻子上，眼睛避开你的]呃。。。我再说一遍。。。威胁是无用的。你什么也得不到。档案馆只为市长办公室的员工准备。。。 -- [The man fixes his glasses on his nose, his eyes are avoiding yours] Er... I repeat... Threats are useless. You won�t get anything. The archive is *only* for mayor's office employees...}
+#{230}{}{Then maybe I can persuade someone to take the information for me?}
+{230}{}{那也许我能说服别人帮我把资料拿走？ -- Then maybe I can persuade someone to take the information for me?}
+#{231}{}{Well... I don�t think, that... For you... But if you know someone already, then...}
+{231}{}{好。。。我不认为。。。为你。。。但是如果你已经认识某人了，那么。。。 -- Well... I don�t think, that... For you... But if you know someone already, then...}
+#{232}{}{Fine, I�ll leave you alone for now.}
+{232}{}{好吧，我暂时不打扰你。 -- Fine, I�ll leave you alone for now.}
+#{233}{}{Okay, that�s it, you four-eyed! I�m sick of you! For the last time - give me the coordinates! Or your old ass will be squashed on the spot and no security will save you!}
+{233}{}{好了，就这样，你这四只眼睛！我讨厌你！最后一次-给我坐标！否则你的老屁股会被当场压扁，没有保安会救你！ -- Okay, that�s it, you four-eyed! I�m sick of you! For the last time - give me the coordinates! Or your old ass will be squashed on the spot and no security will save you!}
+#{234}{}{[Turns pale. Suddenly starts shouting] Guards!!! Guards!!! Intruder!!!}
+{234}{}{[脸色苍白。突然开始大叫]守卫！！！警卫！！！入侵者！！！ -- [Turns pale. Suddenly starts shouting] Guards!!! Guards!!! Intruder!!!}
+#{235}{}{You son of a bitch! You think that they are faster than my bullet!?}
+{235}{}{你这狗娘养的！你认为他们比我的子弹还快！？ -- You son of a bitch! You think that they are faster than my bullet!?}
+#{236}{}{Er... Honestly, I don�t know... Until now, only City Hall employees had any interest for the archive, and all other citizens didn't care...}
+{236}{}{呃。。。老实说，我不知道。。。直到现在，只有市政厅的员工对这个档案有兴趣，其他所有的市民都不在乎。。。 -- Er... Honestly, I don�t know... Until now, only City Hall employees had any interest for the archive, and all other citizens didn't care...}
+#{237}{}{Hmm. How much are you being paid for this work?}
+{237}{}{嗯。这项工作给你多少钱？ -- Hmm. How much are you being paid for this work?}
+#{238}{}{Err� I�m afraid, I can�t tell that either. Not much, really...}
+{238}{}{呃，恐怕我也说不出来。不多，真的。。。 -- Err� I�m afraid, I can�t tell that either. Not much, really...}
+#{239}{}{Then I�ll pay 100 bucks for your trouble.}
+{239}{}{那我就付100美元给你添麻烦。 -- Then I�ll pay 100 bucks for your trouble.}
+#{240}{}{Then I�ll pay 200 bucks for your trouble.}
+{240}{}{那我就付200美元给你添麻烦。 -- Then I�ll pay 200 bucks for your trouble.}
+#{241}{}{Then I�ll pay 300 bucks for your trouble.}
+{241}{}{那我就为你的麻烦付300美元。 -- Then I�ll pay 300 bucks for your trouble.}
+#{242}{}{Then I�ll pay 500 bucks for your trouble.}
+{242}{}{那我就付500美元给你添麻烦。 -- Then I�ll pay 500 bucks for your trouble.}
+#{243}{}{Forget it then. Bye.}
+{243}{}{那就算了吧。再见。 -- Forget it then. Bye.}
+#{244}{}{You know, I think this is fair. I do need to look after myself after this dusty work... I will get you the coordinates for this price.}
+{244}{}{你知道，我觉得这很公平。在这尘土飞扬的工作之后，我确实需要照顾自己。。。我会给你这个价格的坐标。 -- You know, I think this is fair. I do need to look after myself after this dusty work... I will get you the coordinates for this price.}
+#{245}{}{Here is the money.}
+{245}{}{这是钱。 -- Here is the money.}
+#{246}{}{Only I have no money on me right now. But you can look for coordinates, while I fetch them.}
+{246}{}{只是我现在身上没带钱。但你可以找坐标，我去拿。 -- Only I have no money on me right now. But you can look for coordinates, while I fetch them.}
+#{247}{}{Uh... You know, I value my job more than an opportunity to get bribed once. I really don�t want to lose it.}
+{247}{}{休斯敦大学。。。你知道，我看重我的工作胜过一次受贿的机会。我真的不想失去它。 -- Uh... You know, I value my job more than an opportunity to get bribed once. I really don�t want to lose it.}
+#{248}{}{Well I, of course, will, but only when you bring the, uh, compensation. For my trouble.}
+{248}{}{当然，我会的，但只有当你拿到赔偿金的时候。为了我的麻烦。 -- Well I, of course, will, but only when you bring the, uh, compensation. For my trouble.}
+#{249}{}{Shit, then wait I�ll be back soon.}
+{249}{}{妈的，等等，我马上回来。 -- Shit, then wait I�ll be back soon.}
+#{250}{}{Grrm, oh look, here is the money in another pocket. Now, do me a favor and find the coordinates!}
+{250}{}{哦，看，这是另一个口袋里的钱。现在，帮我找一下坐标！ -- Grrm, oh look, here is the money in another pocket. Now, do me a favor and find the coordinates!}
+#{251}{}{[The archivist, mumbling something, walks away to the room with archives. He returns half an hour later, with a piece of paper in his hand] That's the coordinates. I see you have a Pip-Boy. Then you could type the coordinates there and see the location on the map.}
+{251}{}{[档案管理员咕哝着什么，带着档案走到房间里。他半小时后回来，手里拿着一张纸]这就是坐标。我看你有个小男孩。然后你可以在那里输入坐标并在地图上看到位置。 -- [The archivist, mumbling something, walks away to the room with archives. He returns half an hour later, with a piece of paper in his hand] That's the coordinates. I see you have a Pip-Boy. Then you could type the coordinates there and see the location on the map.}
+#{252}{}{Great! Thanks.}
+{252}{}{太好了！谢谢。 -- Great! Thanks.}
+#{253}{}{What are you doing, trying to profit off my problems?!}
+{253}{}{你在干什么，想从我的问题中获利？！ -- What are you doing, trying to profit off my problems?!}
+#{254}{}{So you do have problems?! Great, then, we could make a deal.}
+{254}{}{你真的有问题吗？！太好了，我们可以做笔交易。 -- So you do have problems?! Great, then, we could make a deal.}
+#{255}{}{Er, no. See you.}
+{255}{}{呃，不。再见。 -- Er, no. See you.}
+#{256}{}{Ugh, I have a big problem, something police cannot solve. My daughter disappeared.}
+{256}{}{呃，我有个大问题，警察解决不了的。我女儿失踪了。 -- Ugh, I have a big problem, something police cannot solve. My daughter disappeared.}
+#{257}{}{Under what circumstances?}
+{257}{}{在什么情况下？ -- Under what circumstances?}
+#{258}{}{My daughter Anna... She's missing. Before we had a long and unpleasant conversation about some new friends, whom she consorted with. I tried to convince her not to get outside the walls of the Clean City. It�s not safe. Seems like she didn�t listen.}
+{258}{}{我女儿安娜。。。她失踪了。之前，我们就她结交的一些新朋友进行了一次冗长而不愉快的谈话。我试图说服她不要走出清洁城市的围墙。这不安全。好像她不听。 -- My daughter Anna... She's missing. Before we had a long and unpleasant conversation about some new friends, whom she consorted with. I tried to convince her not to get outside the walls of the Clean City. It�s not safe. Seems like she didn�t listen.}
+#{259}{}{Is it really safer here?}
+{259}{}{这里真的安全吗？ -- Is it really safer here?}
+#{260}{}{What friends?}
+{260}{}{什么朋友？ -- What friends?}
+#{261}{}{Of course. But those dirty hippies, riding the wasteland on their bikes - they always fool young and silly girls like Anna.}
+{261}{}{当然。但是那些肮脏的嬉皮士，骑着自行车在荒地上-他们总是愚弄像安娜这样的年轻愚蠢的女孩。 -- Of course. But those dirty hippies, riding the wasteland on their bikes - they always fool young and silly girls like Anna.}
+#{262}{}{It looks like we're talking about bikers...}
+{262}{}{看起来我们在谈论摩托车手。。。 -- It looks like we're talking about bikers...}
+#{263}{}{I don�t know much about them, and I don�t want to. She loves these guys. It's, of course, not surprising - she's only fifteen. I usually looked for her in "Hard-Rock", but no one seen her there lately... Maybe they are hiding her from me? I don�t think she could decide to run away from the city at her age.}
+{263}{}{我对他们了解不多，我也不想。她喜欢这些家伙。当然，这并不奇怪——她才15岁。我通常在“硬石”里找她，但最近没人在那里看到她。。。也许他们在瞒着我？我认为她这个年纪还不能决定离开这个城市。 -- I don�t know much about them, and I don�t want to. She loves these guys. It's, of course, not surprising - she's only fifteen. I usually looked for her in "Hard-Rock", but no one seen her there lately... Maybe they are hiding her from me? I don�t think she could decide to run away from the city at her age.}
+#{264}{}{You�re, of course, somewhat cowardly, but I�ll help you find her. Perhaps, I should start from that cafe...}
+{264}{}{你当然有点胆小，但我会帮你找到她的。也许，我应该从那家咖啡馆开始。。。 -- You�re, of course, somewhat cowardly, but I�ll help you find her. Perhaps, I should start from that cafe...}
+#{265}{}{It's too difficult, I'm not sure I can help.}
+{265}{}{太难了，我不确定能不能帮上忙。 -- It's too difficult, I'm not sure I can help.}
+#{266}{}{It�s you! I�m so happy to see you! You know, she really came back! But she looks awful. I told her not to mess with those bikers, but she didn�t listen! Now she will listen to her father more. I�m so thankful to you... Ahem. You know, I was thinking, such things cannot go without reward. Here is 2000 bucks - I hope, it is enough, to at least cover your expenses on the travel.}
+{266}{}{是你！很高兴见到你！你知道，她真的回来了！但她看起来糟透了。我告诉她不要和那些摩托车手乱搞，但她不听！现在她要多听她父亲的话。我太感谢你了。。。啊哼。你知道，我在想，这样的事情不能没有回报。这是2000美元-我希望，这足够了，至少可以支付你的旅行费用。 -- It�s you! I�m so happy to see you! You know, she really came back! But she looks awful. I told her not to mess with those bikers, but she didn�t listen! Now she will listen to her father more. I�m so thankful to you... Ahem. You know, I was thinking, such things cannot go without reward. Here is 2000 bucks - I hope, it is enough, to at least cover your expenses on the travel.}
+#{267}{}{Not bad for such an easy job! Take care.}
+{267}{}{这么简单的工作还不错！当心。 -- Not bad for such an easy job! Take care.}
+#{268}{}{That's good, but I am looking for Area 51. This is a military base, 80 miles from Vegas. Could you search the files for its coordinates?}
+{268}{}{很好，但我在找51区。这是一个军事基地，离维加斯80英里。你能在文件里查一下它的坐标吗？ -- That's good, but I am looking for Area 51. This is a military base, 80 miles from Vegas. Could you search the files for its coordinates?}
+#{269}{}{Oh, of course! I've been notified. Mr. Williamson asked for you himself! Well, let�s see... What do you need to find again?}
+{269}{}{哦，当然！我接到通知了。威廉森先生亲自找你的！好吧，让我们看看。。。你还需要找到什么？ -- Oh, of course! I've been notified. Mr. Williamson asked for you himself! Well, let�s see... What do you need to find again?}
+#{270}{}{Coordinates of Area 51...}
+{270}{}{51区的坐标。。。 -- Coordinates of Area 51...}
+#{271}{}{}
+{271}{}{ -- }
+#{272}{}{}
+{272}{}{ -- }
+#{273}{}{}
+{273}{}{ -- }
+#{274}{}{}
+{274}{}{ -- }
+#{275}{}{Nothing for now.}
+{275}{}{暂时没有。 -- Nothing for now.}
+#{276}{}{}
+{276}{}{ -- }
+#{277}{}{Thanks.}
+{277}{}{谢谢。 -- Thanks.}
+#{278}{}{Mr. Clark, this pendant is your daughter's, right?}
+{278}{}{克拉克先生，这个吊坠是你女儿的，对吗？ -- Mr. Clark, this pendant is your daughter's, right?}
+#{279}{}{[His hands are shaking] Oh, my God... It's her pendant, but... Where!? Where did you get it!? Answer me!!!}
+{279}{}{[他的手在颤抖]哦，天哪。。。是她的吊坠，但是。。。哪里！？你从哪儿弄来的！？回答我！！！ -- [His hands are shaking] Oh, my God... It's her pendant, but... Where!? Where did you get it!? Answer me!!!}
+#{280}{}{That's all that's left of her. She died.}
+{280}{}{她只剩下这些了。她死了。 -- That's all that's left of her. She died.}
+#{281}{}{She gave it to me, saying that she'll never come back to you.}
+{281}{}{她把它给了我，说她再也不会回到你身边了。 -- She gave it to me, saying that she'll never come back to you.}
+#{282}{}{It was on one of the bikers. These bastards didn't tell me what they did to her.}
+{282}{}{是在一个骑自行车的人身上。这些混蛋没告诉我他们对她做了什么。 -- It was on one of the bikers. These bastards didn't tell me what they did to her.}
+#{283}{}{No! Nooo! [He takes the pendant to the heart and begins to cry painfully]}
+{283}{}{不！不！[他把吊坠放在心上，痛苦地哭了起来] -- No! Nooo! [He takes the pendant to the heart and begins to cry painfully]}
+#{284}{}{Yeah, cry, you pussy.}
+{284}{}{是啊，哭吧，你个娘娘腔。 -- Yeah, cry, you pussy.}
+#{285}{}{I'm so sorry.}
+{285}{}{我很抱歉。 -- I'm so sorry.}
+#{286}{}{Oh no... [pops his eyes frantically and sits down to keep himself from falling to the ground] No... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face with hands and begins to cry]}
+{286}{}{哦不。。。[疯狂地瞪大眼睛，坐下来不让自己摔倒在地]不。。。这都是我的错！我应该多关心我心爱的女儿！现在。。。现在太晚了。。。[他用手捂住脸开始哭] -- Oh no... [pops his eyes frantically and sits down to keep himself from falling to the ground] No... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face with hands and begins to cry]}
+#{287}{}{Oh no... [pops his eyes frantically and sits down to keep himself from falling to the ground] No... They did it. They killed her!.. Oh God... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face his hands and begins to cry]}
+{287}{}{哦不。。。[疯狂地瞪大眼睛，坐下来不让自己摔倒在地]不。。。他们做到了。他们杀了她！。。哦上帝。。。这都是我的错！我应该多关心我心爱的女儿！现在。。。现在太晚了。。。[他捂着脸和手开始哭] -- Oh no... [pops his eyes frantically and sits down to keep himself from falling to the ground] No... They did it. They killed her!.. Oh God... This is all my fault! I should have paid more attention to my beloved daughter! And now... Now it's too late... [He covers his face his hands and begins to cry]}
+#{288}{}{::cries::}
+{288}{}{●哭声： -- ::cries::}
+#{289}{}{Today he won't talk to you.}
+{289}{}{今天他不跟你说话。 -- Today he won't talk to you.}
+#{1201}{}{Where am I? Is this an archive?}
+{1201}{}{我在哪？这是档案吗？ -- Where am I? Is this an archive?}
+#{1204}{}{Wrong door.}
+{1204}{}{开错门了。 -- Wrong door.}
+#{1223}{}{Okay, enough! I need the coordinates, before I get really mad! Fast!}
+{1223}{}{好了，够了！我需要坐标，在我生气之前！快点！ -- Okay, enough! I need the coordinates, before I get really mad! Fast!}
+#{1225}{}{Err... Young lady, don't try to threaten me... Uh... The security is right behind the door, so...}
+{1225}{}{呃。。。小姐，别想威胁我。。。休斯敦大学。。。保安就在门后，所以。。。 -- Err... Young lady, don't try to threaten me... Uh... The security is right behind the door, so...}
+#{1265}{}{It's too difficult, I'm not sure I can help.}
+{1265}{}{太难了，我不确定能不能帮上忙。 -- It's too difficult, I'm not sure I can help.}

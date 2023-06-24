@@ -1,0 +1,12 @@
+#{102}{}{You cannot do that in combat.}
+{102}{}{你不能在战斗中那样做。}
+#{103}{}{You've already downloaded the data from this monitor.}
+{103}{}{您已经从该监视器下载了数据。}
+#{104}{}{You copied the local data onto your holodisk.}
+{104}{}{你把本地数据复制到了全息磁盘上。}
+#{105}{}{Done}
+{105}{}{多恩}
+#{106}{}{You've copied the data from the last monitor. It's time to get back to the vault.}
+{106}{}{您已从上一个监视器复制了数据。该回保险库了。}
+#{107}{}{Was that a scream?!}
+{107}{}{那是尖叫声吗？！}

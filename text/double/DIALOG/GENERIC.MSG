@@ -1,0 +1,458 @@
+#{100}{}{You gain }
+{100}{}{你得到了什么 -- You gain }
+#{101}{}{ experience points.}
+{101}{}{经验点。 --  experience points.}
+#{102}{}{You successfully disarm the trap.}
+{102}{}{你成功地解除了陷阱。 -- You successfully disarm the trap.}
+#{103}{}{You fail to disarm the trap.}
+{103}{}{你没能解除陷阱。 -- You fail to disarm the trap.}
+#{104}{}{You accidentally set off the trap.}
+{104}{}{你不小心引爆了陷阱。 -- You accidentally set off the trap.}
+#{105}{}{ successfully disarms the trap.}
+{105}{}{成功解除陷阱。 --  successfully disarms the trap.}
+#{106}{}{ fail to disarms the trap.}
+{106}{}{未能解除陷阱。 --  fail to disarms the trap.}
+#{107}{}{ accidentally sets off the trap.}
+{107}{}{不小心引爆了陷阱。 --  accidentally sets off the trap.}
+#{200}{}{Thank you.}
+{200}{}{非常感谢。 -- Thank you.}
+#{201}{}{Good Day.}
+{201}{}{很好的一天。 -- Good Day.}
+#{202}{}{Thanks.}
+{202}{}{谢谢。 -- Thanks.}
+#{203}{}{Thanks!}
+{203}{}{谢谢！ -- Thanks!}
+#{204}{}{No thank you.}
+{204}{}{不用了，谢谢。 -- No thank you.}
+#{205}{}{No thanks.}
+{205}{}{不用了，谢谢。 -- No thanks.}
+#{206}{}{Sure.}
+{206}{}{当然。 -- Sure.}
+#{207}{}{Yes.}
+{207}{}{对。 -- Yes.}
+#{208}{}{No.}
+{208}{}{不。 -- No.}
+#{209}{}{Okay.}
+{209}{}{可以。 -- Okay.}
+#{300}{}{Ug.}
+{300}{}{Ug公司。 -- Ug.}
+#{301}{}{Og.}
+{301}{}{奥格。 -- Og.}
+#{302}{}{Ooga.}
+{302}{}{哦。 -- Ooga.}
+#{303}{}{Urg.}
+{303}{}{乌格。 -- Urg.}
+#{350}{}{[END]}
+{350}{}{[结束] -- [END]}
+#{351}{}{[BYE]}
+{351}{}{[再见] -- [BYE]}
+#{352}{}{[MORE]}
+{352}{}{[更多] -- [MORE]}
+#{353}{}{[CONTINUE]}
+{353}{}{[继续] -- [CONTINUE]}
+#{354}{}{[COMBAT]}
+{354}{}{[战斗] -- [COMBAT]}
+#{355}{}{[GIVE MONEY]}
+{355}{}{[给钱] -- [GIVE MONEY]}
+#{375}{}{Bye.}
+{375}{}{再见。 -- Bye.}
+#{376}{}{Goodbye.}
+{376}{}{再见。 -- Goodbye.}
+#{450}{}{The coast is clear. Let's move out!}
+{450}{}{海岸安全。我们走吧！ -- The coast is clear. Let's move out!}
+#{900}{}{The old, worn door looks like it could be destroyed with a well-placed explosive.}
+{900}{}{这扇破旧的旧门看起来可能会被放置好的炸药炸毁。 -- The old, worn door looks like it could be destroyed with a well-placed explosive.}
+#{901}{}{You see the slave cart to take the slaves back to the Den.}
+{901}{}{你看到奴隶车把奴隶带回了巢穴。 -- You see the slave cart to take the slaves back to the Den.}
+#{905}{}{Woof! Woof!}
+{905}{}{呜呜！呜呜！ -- Woof! Woof!}
+#{910}{}{You are shocked by the electrified floor.}
+{910}{}{你被带电的地板震惊了。 -- You are shocked by the electrified floor.}
+#{911}{}{ is shocked by the electrified floor.}
+{911}{}{被带电的地板震惊了。 --  is shocked by the electrified floor.}
+#{912}{}{The power level drops to zero and then goes back to 50% as the backup generators kick in.}
+{912}{}{当备用发电机启动时，功率水平下降到零，然后又回到50%。 -- The power level drops to zero and then goes back to 50% as the backup generators kick in.}
+#{913}{}{A slight humming is heard as the power once more flows through the base.}
+{913}{}{当能量再次流过底座时，会听到轻微的嗡嗡声。 -- A slight humming is heard as the power once more flows through the base.}
+#{920}{}{You stumble across the remains of Nagor, who died trying to save his dog.}
+{920}{}{你偶然发现了纳戈尔的遗骸，他为了救他的狗而死。 -- You stumble across the remains of Nagor, who died trying to save his dog.}
+#{921}{}{Nagor died trying to drag his dog's body back to the village.}
+{921}{}{纳戈尔死在试图把他的狗的尸体拖回村庄。 -- Nagor died trying to drag his dog's body back to the village.}
+#{930}{}{Hoooooowl!}
+{930}{}{呼！ -- Hoooooowl!}
+#{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase by 5%.}
+{950}{}{你花点时间练习一些动作。徒手格斗技能提升5%。 -- You take some time out to practice some moves. Your unarmed combat skills increase by 5%.}
+#{951}{}{The fighting molerat goes in for the death blow.}
+{951}{}{打架的鼹鼠受到致命一击。 -- The fighting molerat goes in for the death blow.}
+#{952}{}{The match is over.}
+{952}{}{比赛结束了。 -- The match is over.}
+#{2000}{}{zero}
+{2000}{}{零 -- zero}
+#{2001}{}{one}
+{2001}{}{一 -- one}
+#{2002}{}{two}
+{2002}{}{二 -- two}
+#{2003}{}{three}
+{2003}{}{三 -- three}
+#{2004}{}{four}
+{2004}{}{四 -- four}
+#{2005}{}{five}
+{2005}{}{五 -- five}
+#{2006}{}{six}
+{2006}{}{六 -- six}
+#{2007}{}{seven}
+{2007}{}{七 -- seven}
+#{2008}{}{eight}
+{2008}{}{八 -- eight}
+#{2009}{}{nine}
+{2009}{}{九 -- nine}
+#{2010}{}{ten}
+{2010}{}{十 -- ten}
+#{2011}{}{eleven}
+{2011}{}{十一 -- eleven}
+#{2012}{}{twelve}
+{2012}{}{十二 -- twelve}
+#{2013}{}{thirteen}
+{2013}{}{十三 -- thirteen}
+#{2014}{}{fourteen}
+{2014}{}{十四 -- fourteen}
+#{2015}{}{fifteen}
+{2015}{}{十五 -- fifteen}
+#{2016}{}{sixteen}
+{2016}{}{十六 -- sixteen}
+#{2017}{}{seventeen}
+{2017}{}{十七 -- seventeen}
+#{2018}{}{eighteen}
+{2018}{}{十八 -- eighteen}
+#{2019}{}{nineteen}
+{2019}{}{十九 -- nineteen}
+#{21020}{}{twenty}
+{21020}{}{二十 -- twenty}
+#{2021}{}{twenty-one}
+{2021}{}{21 -- twenty-one}
+#{2022}{}{twenty-two}
+{2022}{}{22 -- twenty-two}
+#{2023}{}{twenty-three}
+{2023}{}{23 -- twenty-three}
+#{2024}{}{twenty-four}
+{2024}{}{24 -- twenty-four}
+#{2025}{}{twenty-five}
+{2025}{}{25 -- twenty-five}
+#{2026}{}{twenty-six}
+{2026}{}{26 -- twenty-six}
+#{2027}{}{twenty-seven}
+{2027}{}{27 -- twenty-seven}
+#{2028}{}{twenty-eight}
+{2028}{}{28 -- twenty-eight}
+#{2029}{}{twenty-nine}
+{2029}{}{29 -- twenty-nine}
+#{2030}{}{thirty}
+{2030}{}{三十 -- thirty}
+#{2031}{}{thirty-one}
+{2031}{}{31 -- thirty-one}
+#{2032}{}{thirty-two}
+{2032}{}{32 -- thirty-two}
+#{2033}{}{thirty-three}
+{2033}{}{33 -- thirty-three}
+#{2034}{}{thirty-four}
+{2034}{}{34 -- thirty-four}
+#{2035}{}{thirty-five}
+{2035}{}{35 -- thirty-five}
+#{2036}{}{thirty-six}
+{2036}{}{36 -- thirty-six}
+#{2037}{}{thirty-seven}
+{2037}{}{37 -- thirty-seven}
+#{2038}{}{thirty-eight}
+{2038}{}{38 -- thirty-eight}
+#{2039}{}{thirty-nine}
+{2039}{}{39 -- thirty-nine}
+#{2040}{}{forty}
+{2040}{}{四十 -- forty}
+#{2041}{}{forty-one}
+{2041}{}{41 -- forty-one}
+#{2042}{}{forty-two}
+{2042}{}{42 -- forty-two}
+#{2043}{}{forty-three}
+{2043}{}{43 -- forty-three}
+#{2044}{}{forty-four}
+{2044}{}{44 -- forty-four}
+#{2045}{}{forty-five}
+{2045}{}{45 -- forty-five}
+#{2046}{}{forty-six}
+{2046}{}{46 -- forty-six}
+#{2047}{}{forty-seven}
+{2047}{}{47 -- forty-seven}
+#{2048}{}{forty-eight}
+{2048}{}{48 -- forty-eight}
+#{2049}{}{forty-nine}
+{2049}{}{49 -- forty-nine}
+#{2050}{}{fifty}
+{2050}{}{五十 -- fifty}
+#{2051}{}{fifty-one}
+{2051}{}{51 -- fifty-one}
+#{2052}{}{fifty-two}
+{2052}{}{五十二 -- fifty-two}
+#{2053}{}{fifty-three}
+{2053}{}{五十三 -- fifty-three}
+#{2054}{}{fifty-four}
+{2054}{}{54 -- fifty-four}
+#{2055}{}{fifty-five}
+{2055}{}{55 -- fifty-five}
+#{2056}{}{fifty-six}
+{2056}{}{56 -- fifty-six}
+#{2057}{}{fifty-seven}
+{2057}{}{57 -- fifty-seven}
+#{2058}{}{fifty-eight}
+{2058}{}{58 -- fifty-eight}
+#{2059}{}{fifty-nine}
+{2059}{}{五十九 -- fifty-nine}
+#{2060}{}{sixty}
+{2060}{}{六十 -- sixty}
+#{2061}{}{sixty-one}
+{2061}{}{61 -- sixty-one}
+#{2062}{}{sixty-two}
+{2062}{}{62 -- sixty-two}
+#{2063}{}{sixty-three}
+{2063}{}{63 -- sixty-three}
+#{2064}{}{sixty-four}
+{2064}{}{64 -- sixty-four}
+#{2065}{}{sixty-five}
+{2065}{}{65 -- sixty-five}
+#{2066}{}{sixty-six}
+{2066}{}{66 -- sixty-six}
+#{2067}{}{sixty-seven}
+{2067}{}{67 -- sixty-seven}
+#{2068}{}{sixty-eight}
+{2068}{}{68 -- sixty-eight}
+#{2069}{}{sixty-nine}
+{2069}{}{69 -- sixty-nine}
+#{2070}{}{seventy}
+{2070}{}{七十 -- seventy}
+#{2071}{}{seventy-one}
+{2071}{}{71 -- seventy-one}
+#{2072}{}{seventy-two}
+{2072}{}{72 -- seventy-two}
+#{2073}{}{seventy-three}
+{2073}{}{73 -- seventy-three}
+#{2074}{}{seventy-four}
+{2074}{}{74 -- seventy-four}
+#{2075}{}{seventy-five}
+{2075}{}{75 -- seventy-five}
+#{2076}{}{seventy-six}
+{2076}{}{七十六 -- seventy-six}
+#{2077}{}{seventy-seven}
+{2077}{}{七十七 -- seventy-seven}
+#{2078}{}{seventy-eight}
+{2078}{}{78 -- seventy-eight}
+#{2079}{}{seventy-nine}
+{2079}{}{七十九 -- seventy-nine}
+#{2080}{}{eighty}
+{2080}{}{八十 -- eighty}
+#{2081}{}{eighty-one}
+{2081}{}{81 -- eighty-one}
+#{2082}{}{eighty-two}
+{2082}{}{八十二 -- eighty-two}
+#{2083}{}{eighty-three}
+{2083}{}{83 -- eighty-three}
+#{2084}{}{eighty-four}
+{2084}{}{84 -- eighty-four}
+#{2085}{}{eighty-five}
+{2085}{}{八十五 -- eighty-five}
+#{2086}{}{eighty-six}
+{2086}{}{86 -- eighty-six}
+#{2087}{}{eighty-seven}
+{2087}{}{87 -- eighty-seven}
+#{2088}{}{eighty-eight}
+{2088}{}{八十八 -- eighty-eight}
+#{2089}{}{eighty-nine}
+{2089}{}{八十九 -- eighty-nine}
+#{2090}{}{ninety}
+{2090}{}{九十 -- ninety}
+#{2091}{}{ninety-one}
+{2091}{}{91 -- ninety-one}
+#{2092}{}{ninety-two}
+{2092}{}{92 -- ninety-two}
+#{2093}{}{ninety-three}
+{2093}{}{九十三 -- ninety-three}
+#{2094}{}{ninety-four}
+{2094}{}{94 -- ninety-four}
+#{2095}{}{ninety-five}
+{2095}{}{95 -- ninety-five}
+#{2096}{}{ninety-six}
+{2096}{}{九十六 -- ninety-six}
+#{2097}{}{ninety-seven}
+{2097}{}{97 -- ninety-seven}
+#{2098}{}{ninety-eight}
+{2098}{}{九十八 -- ninety-eight}
+#{2099}{}{ninety-nine}
+{2099}{}{99 -- ninety-nine}
+#{2100}{}{one-hundred}
+{2100}{}{一百 -- one-hundred}
+#{3000}{}{}
+{3000}{}{ -- }
+#{3025}{}{}
+{3025}{}{ -- }
+#{3050}{}{If you try that again, I'll have to kill you.}
+{3050}{}{如果你再试一次，我就杀了你。 -- If you try that again, I'll have to kill you.}
+#{3051}{}{I don't have anything to steal, you idiot.}
+{3051}{}{我没什么可偷的，你这个白痴。 -- I don't have anything to steal, you idiot.}
+#{3052}{}{I don't think we know each other *that* well.}
+{3052}{}{我觉得我们彼此不太了解。 -- I don't think we know each other *that* well.}
+#{3053}{}{Touch that again and you'll have to pay for it.}
+{3053}{}{再碰一下你就得付钱了。 -- Touch that again and you'll have to pay for it.}
+#{3054}{}{Get your hands off of me.}
+{3054}{}{把你的手拿开。 -- Get your hands off of me.}
+#{3055}{}{Do that again and I'll rip you head off.}
+{3055}{}{再来一次，我就把你的头撕下来。 -- Do that again and I'll rip you head off.}
+#{3056}{}{Hands off!}
+{3056}{}{把手拿开！ -- Hands off!}
+#{3057}{}{You looking for trouble?}
+{3057}{}{你在找麻烦吗？ -- You looking for trouble?}
+#{3058}{}{Touch me again and die.}
+{3058}{}{再碰我就死定了。 -- Touch me again and die.}
+#{3059}{}{Only trouble is for free.}
+{3059}{}{唯一的麻烦是免费的。 -- Only trouble is for free.}
+#{3060}{}{Hey! Back off.}
+{3060}{}{嘿！退后。 -- Hey! Back off.}
+#{3061}{}{Watch it!}
+{3061}{}{小心点！ -- Watch it!}
+#{3062}{}{You look'n ta die?}
+{3062}{}{你看起来要死了？ -- You look'n ta die?}
+#{3063}{}{You try that again, and I'll bust your head.}
+{3063}{}{你再试一次，我就打爆你的头。 -- You try that again, and I'll bust your head.}
+#{3064}{}{That's mine; hands off!}
+{3064}{}{那是我的，把手拿开！ -- That's mine; hands off!}
+#{3075}{}{}
+{3075}{}{ -- }
+#{3100}{}{}
+{3100}{}{ -- }
+#{3300}{}{}
+{3300}{}{ -- }
+#{3325}{}{Why don�t you put everything right back where you found it?}
+{3325}{}{你为什么不把所有东西都放回你找到的地方呢？ -- Why don�t you put everything right back where you found it?}
+#{3326}{}{You know, it ain�t nice to take what�s not yours.}
+{3326}{}{你知道，拿走不属于你的东西是不好的。 -- You know, it ain�t nice to take what�s not yours.}
+#{3327}{}{Get away from there, punk!}
+{3327}{}{滚开，朋克！ -- Get away from there, punk!}
+#{3328}{}{Now don�t go telling me you�re "just looking for your keys." Get outta here!}
+{3328}{}{现在别告诉我你“只是在找你的钥匙”。滚开！ -- Now don�t go telling me you�re "just looking for your keys." Get outta here!}
+#{3329}{}{Whatever you�re looking for, it ain�t there. Understand?}
+{3329}{}{不管你在找什么，它都不在那里。明白吗？ -- Whatever you�re looking for, it ain�t there. Understand?}
+#{3350}{}{}
+{3350}{}{ -- }
+#{3375}{}{}
+{3375}{}{ -- }
+#{3400}{}{}
+{3400}{}{ -- }
+#{3600}{}{}
+{3600}{}{ -- }
+#{3625}{}{Hey, you! What�re you poking around that for?}
+{3625}{}{嘿，你！你在那瞎扯什么？ -- Hey, you! What�re you poking around that for?}
+#{3626}{}{If you ain�t got a key in you hand, you�d better be stepping away.}
+{3626}{}{如果你手里没有钥匙，你最好走开。 -- If you ain�t got a key in you hand, you�d better be stepping away.}
+#{3627}{}{It�s locked for a reason, punk.}
+{3627}{}{它被锁住是有原因的，朋克。 -- It�s locked for a reason, punk.}
+#{3628}{}{Knock it off before there�s trouble!}
+{3628}{}{在有麻烦之前把它停下来！ -- Knock it off before there�s trouble!}
+#{3650}{}{}
+{3650}{}{ -- }
+#{3675}{}{}
+{3675}{}{ -- }
+#{3700}{}{}
+{3700}{}{ -- }
+#{3900}{}{}
+{3900}{}{ -- }
+#{3925}{}{Hey you! What�re you doing there?}
+{3925}{}{嘿，你！你在那里干什么？ -- Hey you! What�re you doing there?}
+#{3926}{}{You�re not supposed to be here!}
+{3926}{}{你不应该在这里！ -- You�re not supposed to be here!}
+#{3927}{}{If you think you�re just walking by me, you can forget that!}
+{3927}{}{如果你以为你只是从我身边走过，那你就忘了吧！ -- If you think you�re just walking by me, you can forget that!}
+#{3928}{}{You better not be planning what I think you�re planning, stranger.}
+{3928}{}{你最好别像我想的那样计划，陌生人。 -- You better not be planning what I think you�re planning, stranger.}
+#{3929}{}{What? Like you think I don�t notice you? Get outta here!}
+{3929}{}{什么？你以为我没注意到你？离开这里！ -- What? Like you think I don�t notice you? Get outta here!}
+#{3950}{}{}
+{3950}{}{ -- }
+#{3975}{}{}
+{3975}{}{ -- }
+#{4000}{}{}
+{4000}{}{ -- }
+#{4200}{}{}
+{4200}{}{ -- }
+#{4225}{}{}
+{4225}{}{ -- }
+#{4250}{}{}
+{4250}{}{ -- }
+#{4275}{}{}
+{4275}{}{ -- }
+#{4300}{}{}
+{4300}{}{ -- }
+#{4500}{}{}
+{4500}{}{ -- }
+#{4525}{}{}
+{4525}{}{ -- }
+#{4550}{}{}
+{4550}{}{ -- }
+#{4575}{}{}
+{4575}{}{ -- }
+#{4600}{}{}
+{4600}{}{ -- }
+#{4800}{}{}
+{4800}{}{ -- }
+#{4825}{}{}
+{4825}{}{ -- }
+#{4850}{}{}
+{4850}{}{ -- }
+#{4875}{}{}
+{4875}{}{ -- }
+#{4900}{}{}
+{4900}{}{ -- }
+#{5100}{}{}
+{5100}{}{ -- }
+#{5125}{}{}
+{5125}{}{ -- }
+#{5150}{}{}
+{5150}{}{ -- }
+#{5175}{}{}
+{5175}{}{ -- }
+#{5200}{}{}
+{5200}{}{ -- }
+#{5400}{}{Stay away from there.}
+{5400}{}{离那远点。 -- Stay away from there.}
+#{9000}{}{Repairs Complete.}
+{9000}{}{维修完成。 -- Repairs Complete.}
+#{9001}{}{Rearming Complete.}
+{9001}{}{重整完毕。 -- Rearming Complete.}
+#{9002}{}{Repairing Structural Damage.}
+{9002}{}{修复结构损坏。 -- Repairing Structural Damage.}
+#{10000}{}{Tell me something.}
+{10000}{}{告诉我一些事情。 -- Tell me something.}
+#{10001}{}{You should heal yourself now.}
+{10001}{}{你现在应该自愈了。 -- You should heal yourself now.}
+#{10002}{}{I need you to wait here until I come back.}
+{10002}{}{我要你在这里等我回来。 -- I need you to wait here until I come back.}
+#{10003}{}{Put your weapon away.}
+{10003}{}{把你的武器收起来。 -- Put your weapon away.}
+#{10004}{}{Stay close to me.}
+{10004}{}{靠近我。 -- Stay close to me.}
+#{10005}{}{Don't get too far away.}
+{10005}{}{别走得太远。 -- Don't get too far away.}
+#{10006}{}{We should spread out a bit.}
+{10006}{}{我们应该摊开一点。 -- We should spread out a bit.}
+#{10007}{}{That's it for now.}
+{10007}{}{现在就这样。 -- That's it for now.}
+#{10008}{}{We need to change our distance from one another.}
+{10008}{}{我们需要改变彼此之间的距离。 -- We need to change our distance from one another.}
+#{10009}{}{I need to talk to you about your gear.}
+{10009}{}{我要和你谈谈你的装备。 -- I need to talk to you about your gear.}
+#{10010}{}{On second thought, I think this distance is OK for now.}
+{10010}{}{仔细想想，我觉得这个距离现在还可以。 -- On second thought, I think this distance is OK for now.}
+#{10011}{}{Actually, I guess there's nothing I need to really know right about your gear.}
+{10011}{}{事实上，我想你的装备没什么我需要知道的。 -- Actually, I guess there's nothing I need to really know right about your gear.}
+#{10012}{}{I need you to remove the armor that you're wearing.}
+{10012}{}{我需要你脱掉你身上的盔甲。 -- I need you to remove the armor that you're wearing.}
+#{10013}{}{I need to know what kind of weapons you can use.}
+{10013}{}{我要知道你能用什么武器。 -- I need to know what kind of weapons you can use.}
+#{10100}{}{Let's go.}
+{10100}{}{走吧。 -- Let's go.}

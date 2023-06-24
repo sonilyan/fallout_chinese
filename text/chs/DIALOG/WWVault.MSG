@@ -1,0 +1,2 @@
+#{100}{}{In front of you is the entrance to the abandoned vault. You could swear you're being watched from the dark.}
+{100}{}{在你面前是废弃金库的入口。你可以发誓你被黑暗监视着。}

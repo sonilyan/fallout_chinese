@@ -1,0 +1,6 @@
+#{100}{}{You are inside the nuclear power plant. The plant emits a heavy amounts of radiation.}
+{100}{}{你在核电站里面。这种植物发出大量的辐射。}
+#{101}{}{FEELS PRETTY HOT AND LOUSY IN HERE}
+{101}{}{感觉这里很热很难受}
+#{102}{}{THAT'S IT, BABY!}
+{102}{}{就这样，宝贝！}

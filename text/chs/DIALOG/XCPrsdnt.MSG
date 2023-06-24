@@ -1,0 +1,466 @@
+#{100}{}{You see a vessel filled with liquid.}
+{100}{}{你看到一个装满液体的容器。}
+#{101}{}{You see a vessel containing the severed head inside.}
+{101}{}{你看到一个容器里面装着被切断的头。}
+#{102}{}{You see a vessel with the severed head of former President of United States of America inside. Surprised?}
+{102}{}{你看到一艘内有美国前总统头部被砍断的船只。惊讶吗？}
+#{103}{}{Away from my precious, you!}
+{103}{}{远离我的宝贝，你！}
+#{104}{}{*Zzzzz*}
+{104}{}{*zzzz*}
+#{105}{}{Something is blocking the console!}
+{105}{}{有东西挡住了控制台！}
+#{106}{}{Nothing useful.}
+{106}{}{没什么用。}
+#{107}{}{You got your victory!}
+{107}{}{你胜利了！}
+#{108}{}{Better hurry up and get out of here.}
+{108}{}{最好快点离开这里。}
+#{109}{}{What the...}
+{109}{}{怎么了。。。}
+#{110}{}{Aw shit!!!}
+{110}{}{噢，妈的！！！}
+#{111}{}{[Before you is a head with wires sticking out of the upper jaw. It silently looks at you, with one eye, in expectation]}
+{111}{}{[在你面前的是一个头，上颚伸出电线。它默默地看着你，用一只眼睛，期待着]}
+#{112}{}{You promised you wouldn't hurt me? Why didn't you keep your word? I believed you!}
+{112}{}{你答应过不会伤害我的？你为什么不遵守诺言？我相信你！}
+#{113}{}{[The head is silent]}
+{113}{}{[头部沉默]}
+#{114}{}{Hey, don't pretend you can't hear me!}
+{114}{}{嘿，别装作听不见我说话！}
+#{115}{}{We... [crying] Mister is wrong!}
+{115}{}{我们。。。先生错了！}
+#{116}{}{Is that so? Why?!}
+{116}{}{是这样吗？为什么？}
+#{117}{}{We with my precious always wanted good and fought for justice. We didn't want! We swear! It was an accident! This will happen no more!}
+{117}{}{我们和我的宝贝一直都想要美好，为正义而战。我们不想！我们发誓！那是个意外！这不会再发生了！}
+#{118}{}{Sure it won't happen, because the turrets are now destroyed.}
+{118}{}{当然不会发生，因为炮塔现在被摧毁了。}
+#{119}{}{We didn't want! We didn't mean to!!! Let the mister forgive us! I demand that mister forgave us!}
+{119}{}{我们不想！我们不是故意的！！！让先生原谅我们吧！我要求先生原谅我们！}
+#{120}{}{That�s an idea. But how would I know that you won�t kill me if I step out of that door, where the turrets are still working?}
+{120}{}{这是个主意。但是我怎么知道如果我走出那扇门你不会杀了我，那里的炮塔还在工作呢？}
+#{121}{}{They themselves! It's not us! Honest presidential word!}
+{121}{}{他们自己！不是我们！总统真话！}
+#{122}{}{Yeah?}
+{122}{}{是 啊？}
+#{123}{}{Yes! Yes! They wanted to kill mister themselves! But we didn't!}
+{123}{}{对！对！他们想自杀！但我们没有！}
+#{124}{}{But you first said that you would kill me. How to understand this?}
+{124}{}{但你先说要杀了我。如何理解？}
+#{125}{}{Mister have to forgive us! We were just joking! We wouldn't do it! For some reason, the others don't like our jokes. Never did! Why...}
+{125}{}{先生，请原谅我们！我们只是开玩笑！我们不会这么做的！出于某种原因，其他人不喜欢我们的笑话。从来没有！为什么？}
+#{126}{}{All right. I forgive you. Let's forget the past?}
+{126}{}{好吧。我原谅你。让我们忘掉过去？}
+#{127}{}{I don't believe you. Now open the big door so I can get the hell outta here!}
+{127}{}{我不相信你。现在把门打开，我就可以离开这里了！}
+#{128}{}{I need to think. I'll be back soon and tell you my decision.}
+{128}{}{我需要思考。我很快回来告诉你我的决定。}
+#{129}{}{}
+{129}{}{}
+#{130}{}{What does he say, precious? Oooh... Mister is very wise and very courteous! Mister President likes mister! Ah! If all subordinates were like that, right, precious?!}
+{130}{}{他怎么说，宝贝？哦哦。。。先生很聪明，很有礼貌！总统先生喜欢总统先生！啊！如果所有的下属都是这样，对吧，宝贝？！}
+#{131}{}{You've been mistreated?}
+{131}{}{你被虐待了？}
+#{132}{}{Mister President doesn't want to remember the past. It's a bad memory. But the precious may recall how cruelly the President was treated the last time! They made him cry in public! In front of all subordinates! Mister had never seen such a pitiful sight!}
+{132}{}{总统先生不想回忆过去。记性不好。但宝贝儿可能还记得上次总统受到了多么残酷的对待！他们让他当众哭了！在所有下属面前！先生从来没见过这么可怜的景象！}
+#{133}{}{Can precious tell about why mister President is here, and not on his legitimate post?}
+{133}{}{你能告诉我为什么总统先生在这里，而不是在他的合法职位上吗？}
+#{134}{}{Precious, you're not gonna tell mister? Yes, mister don't need to know. But maybe mister wants a cup of tea? No, my precious, we have no time to deal with the tea party. Remember, how everyone abused cola? Everyone got their tongues blue. It was so ugly!}
+{134}{}{宝贝，你不告诉先生？是的，先生不需要知道。但也许先生想喝杯茶？不，亲爱的，我们没有时间处理茶话会。记得吗，每个人都是怎么滥用可乐的？每个人的舌头都是蓝色的。太难看了！}
+#{135}{}{And what does Nuka-Cola has to with everything?}
+{135}{}{努卡可乐和一切有什么关系？}
+#{136}{}{Quiet! Mister should not interrupt the President's speech! Where is the mister's manners?!}
+{136}{}{安静的！先生不应该打断总统的讲话！先生的举止呢？！}
+#{137}{}{That�s it, skull, enough nonsense! Open the damn door!!!}
+{137}{}{就这样，骷髅头，够废话了！打开该死的门！！！}
+#{138}{}{Oh, I'm sorry. Keep going.}
+{138}{}{哦，对不起。继续前进。}
+#{139}{}{They did not know how dangerous this liquid was! They thought that they were just worried about the bad memories and doubts, but this was something different. They thought they control everything, that they control *everything*! Heh-heh-heh! The precious remembers, how we laughed at their naivety.}
+{139}{}{他们不知道这种液体有多危险！他们以为他们只是担心那些糟糕的记忆和疑虑，但这是另一回事。他们认为他们控制着一切，他们控制着一切！嘿嘿！珍贵的回忆，我们如何嘲笑他们的天真。}
+#{140}{}{Naivety? And what was in this liquid, that made it such a threat?}
+{140}{}{天真？这液体里有什么，使它成为一种威胁？}
+#{141}{}{Oh! mister wants to know? But can we tell him? Yes, now, when all these stupid people left our apartment, we *can* tell mister the truth.}
+{141}{}{哦！先生想知道吗？但我们能告诉他吗？是的，现在，当这些愚蠢的人离开我们的公寓时，我们可以告诉先生真相。}
+#{142}{}{Sure. I'm listening.}
+{142}{}{当然。我在听。}
+#{143}{}{They thought that Cola is harmless. But they were delivered with a *special* supply. This supply... Hmm... Supply was intended to enhance the activity of their central nervous system and brain. Yes.}
+{143}{}{他们认为可乐是无害的。但它们是用一种“特殊”的供应来运送的。这个供应。。。隐马尔可夫模型。。。供应是为了增强他们的中枢神经系统和大脑的活动。对。}
+#{144}{}{Interesting. So, Cola caused greater anxiety?}
+{144}{}{很有趣。那么，可乐引起了更大的焦虑？}
+#{145}{}{Ooo, yes! Mister guessed right. But Cola doesn't just intensified their emotional state, it intensified it *selectively*. Some time passed, and when the poison has seeped deep inside, they were not able to stop. ... They went crazy! They fought, they shouted, beat each other with chairs, and after we restricted access to Cola, they freaked out even more and began to fight to the death.}
+{145}{}{哦，是的！先生猜对了。但可乐不仅强化了他们的情绪状态，它还选择性地强化了他们的情绪状态。一段时间过去了，当毒液渗到深处时，他们无法阻止。。。他们疯了！他们吵架，大声喊叫，用椅子互相殴打，在我们限制了他们喝可乐后，他们更加惊慌失措，开始战斗至死。}
+#{146}{}{They even beat the President?}
+{146}{}{他们甚至打败了总统？}
+#{147}{}{[Plaintively] Mister President does not want to remember how he was beaten.}
+{147}{}{总统先生不想记起他是怎么被打的。}
+#{148}{}{So they did. Which is probably why you are here?}
+{148}{}{他们就这么做了。这可能就是你来这里的原因？}
+#{149}{}{Yees. Since that time we are here. The precious is also with us since that day. We were considered too important to throw out into the trash can. We were re-assembled and revived.}
+{149}{}{是的。从那时起我们就在这里。从那一天起，珍宝也与我们同在。我们被认为太重要了，不能扔进垃圾桶。我们重新集结，重新振作起来。}
+#{150}{}{Probably, for a good reason. And why, you say, you laughed at their naivety? Because you knew in advance, that the vault dwellers were test subjects?}
+{150}{}{也许，有个很好的理由。为什么，你说，你嘲笑他们的天真？因为你事先知道，金库里的人是测试对象？}
+#{151}{}{Not everyone knew that they are experimented upon. On the contrary, they thought it's them who made experiments.}
+{151}{}{不是每个人都知道他们是被实验过的。相反，他们认为是他们做的实验。}
+#{152}{}{You mean the experiment with the vaults?}
+{152}{}{你是说关于金库的实验？}
+#{153}{}{How did mister know all these secrets, precious? Is mister somehow related to the secret government circles?}
+{153}{}{先生怎么知道这些秘密的，宝贝？先生和秘密政府有什么关系吗？}
+#{154}{}{What circles? No, I don't belong to them. But I know about the vault project. It has been known for a long time.}
+{154}{}{什么圆圈？不，我不属于他们。但我知道保险库项目。这是众所周知的很长一段时间。}
+#{155}{}{Oh... And again, mister President, was not notified! How is it possible, to work with such subordinates!?}
+{155}{}{哦。。。总统先生，又一次没有得到通知！怎么可能，和这样的下属一起工作！？}
+#{156}{}{That's for sure. So, maybe I will go now to punish your subordinates, so they knew how to behave in future?!}
+{156}{}{那是肯定的。所以，也许我现在就去惩罚你的下属，让他们知道以后该怎么做？！}
+#{157}{}{Oh, mister want to leave our apartment? So fast? Why so fast?}
+{157}{}{哦，先生想离开我们的公寓吗？这么快？为什么这么快？}
+#{158}{}{Because my family and fellow citizens are waiting for me. I need to get to them, otherwise the place will become the victim of numerous mutated animals and raiders. This is my civic duty. Mister President, after all, should care about his people. He would not gonna let them die, would he?}
+{158}{}{因为我的家人和同胞都在等我。我必须找到他们，否则这个地方会成为无数变异动物和袭击者的牺牲品。这是我的公民义务。毕竟，总统先生应该关心他的人民。他不会让他们死的，是吗？}
+#{159}{}{No no no!!! Precious said that mister wants to confuse us! Let mister shut up!!! Make him stop!!!}
+{159}{}{不不不！！！宝贝说先生想迷惑我们！让先生闭嘴！！！让他停下来！！！}
+#{160}{}{Come on! I *need* to go! The well-being of our people, so as yours and mine, depends on it.}
+{160}{}{加油！我得走了！我们人民的福祉，以及你我的福祉，都取决于此。}
+#{161}{}{SHUT UP! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Mister is very strict! Let mister leave our apartment. We don't want to hear him anymore!}
+{161}{}{闭嘴！我不要！！！保持安静！！！先生很严厉！让先生离开我们的公寓。我们不想再听他说话了！}
+#{162}{}{That's right.}
+{162}{}{这是正确的。}
+#{163}{}{Mister doesn't want to see. Mister just wants to get out of here.}
+{163}{}{先生不想见你。先生只是想离开这里。}
+#{164}{}{But... [looks like is confused] But... Is mister bored with our company? Why mister wants to leave so quickly?}
+{164}{}{但是。。。[看起来很困惑]但是。。。先生对我们公司厌倦了吗？为什么先生要这么快离开？}
+#{165}{}{Because my people are waiting for me - my family, my fellow citizens. I need to get to them, otherwise the place will become the victim of numerous mutated animals and raiders. This is my civic duty.}
+{165}{}{因为我的人民在等我——我的家人，我的同胞们。我必须找到他们，否则这个地方会成为无数变异动物和袭击者的牺牲品。这是我的公民义务。}
+#{166}{}{Civic duty? Mister President has already forgotten what civic duty is... Oh...}
+{166}{}{公民义务？总统先生已经忘了什么是公民义务。。。哦。。。}
+#{167}{}{Does President remembers his national anthem?}
+{167}{}{总统还记得他的国歌吗？}
+#{168}{}{No. mister President doesn't remember! Doesn't remember!!!}
+{168}{}{不，总统先生不记得了！不记得了！！！}
+#{169}{}{What's painted on the national emblem of America?}
+{169}{}{美国国徽上画了什么？}
+#{170}{}{Mister President does NOT REMEMBER!!!}
+{170}{}{总统先生不记得了！！！}
+#{171}{}{Yes, mister President have forgotten many things. Maybe it's time to get out and see the world for what it is now?}
+{171}{}{是的，总统先生忘了很多事情。也许是时候走出去看看这个世界了？}
+#{172}{}{NO, NO, NO!!! It's dangerous outside! Precious said that mister wants to confuse us! Make mister shut up!!! We're not getting out, mister is not getting out! There's dangerous!!! Dangerous!!!}
+{172}{}{不，不，不！！！外面很危险！宝贝说先生想迷惑我们！让先生闭嘴！！！我们不能出去，先生不能出去！有危险！！！危险！！！}
+#{173}{}{Yes, Yes, Yes!!! Mister President wants to go outside! He wants to watch! Yes! mister will help us, right?}
+{173}{}{是的，是的，是的！！！总统先生想出去！他想看！对！先生会帮助我们的，对吗？}
+#{174}{}{Mister President wants to remember? Maybe we will look for the anthem's lyrics in the in the network of the vault, and sing it together?}
+{174}{}{总统先生想记住？也许我们会在金库的网络里寻找国歌的歌词，一起唱？}
+#{175}{}{NO, NO, NO!!! Precious said that mister wants to confuse us! Make mister shut up!!! Shut up!!!}
+{175}{}{不，不，不！！！宝贝说先生想迷惑我们！让先生闭嘴！！！闭嘴！！！}
+#{176}{}{Yes, Yes, Yes!!! Mister President wants to remember! Attention!! Rise up! Raise heads! Homeland!! Make America!! Great again!! But... What?.. no! Precious said that mister wants to confuse us! Make mister shut up!!! Shut up!!!}
+{176}{}{是的，是的，是的！！！总统先生想记住！注意！！起来！抬起头来！家园！！创造美国！！又好极了！！但是。。。什么？。。不！宝贝说先生想迷惑我们！让先生闭嘴！！！闭嘴！！！}
+#{177}{}{But you do remember the days when you were human. You cannot lose your humanity, even after your tragedy. Remember about the responsibility, let me go, for the sake of your people for which you fought and for which you suffered.}
+{177}{}{但你还记得你是人类的日子。你不能失去你的人性，即使在你的悲剧之后。记住你的责任，让我走吧，为了你的人民，你为他们战斗，为他们受苦。}
+#{178}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Mister is very strict! Let mister leave our apartment. We don't want to hear him anymore!}
+{178}{}{闭嘴！我！我不要！！！保持安静！！！先生很严厉！让先生离开我们的公寓。我们不想再听他说话了！}
+#{179}{}{That's right.}
+{179}{}{这是正确的。}
+#{180}{}{Well, maybe mister President will remember *his* presidential duty and let go of his servant - the one, thanks to which he was put to this post.}
+{180}{}{好吧，也许总统先生会记住他的总统职责，放开他的仆人——正是因为这个，他才被任命为总统。}
+#{181}{}{Mister President remembers, honor... Freedom... Independence...}
+{181}{}{总统先生记得，法官大人。。。自由。。。独立。。。}
+#{182}{}{Well?}
+{182}{}{好？}
+#{183}{}{NO, NO, NO!!! Precious said that mister wants to confuse us! Make mister shut up!!! Shut up!!!}
+{183}{}{不，不，不！！！宝贝说先生想迷惑我们！让先生闭嘴！！！闭嘴！！！}
+#{184}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Mister is very strict! Let mister leave our apartment. We don't want to hear him anymore!}
+{184}{}{闭嘴！我！我不要！！！保持安静！！！先生很严厉！让先生离开我们的公寓。我们不想再听他说话了！}
+#{185}{}{That's right.}
+{185}{}{这是正确的。}
+#{186}{}{What he says, precious? Oooh... Mister didn't want to accept our hospitality. And how mister will feel about little boom in Korea? What, precious? Ah, yes... We've ran out of bombs... Oh well. We put forward a petition to the Council, to lock the doors and to not let go of inhospitable mister.. FOREVER!!! [crying] We want to smoke a cuban cigar so badly... Don't we, precious? Let someone bring a cigar!}
+{186}{}{他说什么，宝贝？哦哦。。。先生不想接受我们的款待。先生对韩国的小繁荣会有什么感觉？什么，宝贝？啊，是的。。。我们的炸弹用完了。。。哦，好吧。我们向议会提出请愿书，要求锁上门，不要放过冷漠的先生。。永远！！！我们真想抽一支古巴雪茄。。。不是吗，宝贝？让人带雪茄来！}
+#{187}{}{That so? What if I just kill you?}
+{187}{}{是这样吗？如果我杀了你呢？}
+#{188}{}{Ugh!!! Hahaha! Mister decided to make a joke! We like it, don't we, precious?!}
+{188}{}{啊！！！哈哈哈！先生决定开个玩笑！我们喜欢，不是吗，宝贝？！}
+#{189}{}{Mister became furious from your mumblings! Open the gate or I'll break this glass!}
+{189}{}{先生被你的咕哝声激怒了！把门打开，不然我就打碎这个玻璃杯！}
+#{190}{}{Wow! Mister is furious! We always liked misters this stubborn.}
+{190}{}{哇！先生很生气！我们总是喜欢先生这么固执。}
+#{191}{}{Stop raving, you, skull!}
+{191}{}{别胡说了，你这个笨蛋！}
+#{192}{}{AH-ha-HA-HAH!!!}
+{192}{}{哈哈哈！！！}
+#{193}{}{[He won't just release you, you need a strong argument]}
+{193}{}{[他不会放了你，你需要一个有力的论据]}
+#{194}{}{Enough of it!!! I'll put the dynamite here, and you will finally get some fresh air!}
+{194}{}{够了！！！我把炸药放在这里，你终于可以呼吸新鲜空气了！}
+#{195}{}{Arch? [his eye looks on your dynamite in fear] Mister is joking, right? Mister is joking? It's not a real bomb! Let mister blow it elsewhere! We order him! We impose a veto on mister's decision!}
+{195}{}{拱门？[他恐惧地看着你的炸药]先生在开玩笑，对吧？先生在开玩笑吗？不是真的炸弹！让先生把它吹到别处去！我们命令他！我们否决了先生的决定！}
+#{196}{}{You stupid, you can�t veto anything. Not anymore. [continue placing the dynamite]}
+{196}{}{你这个笨蛋，你什么都不能否决。不再是了。[继续放置炸药]}
+#{197}{}{But... Precious, what are we going to do? Mister is not kidding! Mister is ordered to assassinate us! Maybe mister will accept a counter-offer? 50% more over the amount! We're not kidding, mister.}
+{197}{}{但是。。。宝贝，我们该怎么办？先生不是开玩笑！先生奉命暗杀我们！也许先生会接受还盘？超过50%！我们不是开玩笑，先生。}
+#{198}{}{Hmm. It would be interesting.}
+{198}{}{嗯。那会很有趣的。}
+#{199}{}{We got the money. We will pay to mister if he put the red thing in that container.}
+{199}{}{我们拿到钱了。如果先生把红色的东西放在那个容器里，我们就付钱给他。}
+#{200}{}{I will, if you pay me 1.000.000}
+{200}{}{如果你付我1000，我会的}
+#{201}{}{I will, if you'll pay me 500,000}
+{201}{}{我会的，如果你付我50万}
+#{202}{}{I will, if you pay me 50,000}
+{202}{}{我会的，如果你付我5万}
+#{203}{}{I will, if you pay me 5.000}
+{203}{}{我会的，如果你付我5000}
+#{204}{}{Weeee-haaa! We have tricked mister! Ha-ha!!! Mister is a patsy! Perhaps mister came from Canada? Well. Guards! Walk our guest to the door!}
+{204}{}{万岁！我们骗了先生！哈哈！！！先生是个笨蛋！也许先生来自加拿大？好。警卫！把客人送到门口！}
+#{205}{}{Hey! I was really fooled by severed head!}
+{205}{}{嘿！我真的被砍掉的头给骗了！}
+#{206}{}{I'm sick of your nonsense. I start the bomb.}
+{206}{}{我受够了你的胡说八道。我引爆炸弹。}
+#{207}{}{No! Let mister not hurry. We need to think! The precious also wants to think!}
+{207}{}{不！先生不要着急。我们需要思考！宝贝也要想！}
+#{208}{}{You don't have time. You decide - either you open that door, or I will blow you up and you'll stop to control it.}
+{208}{}{你没时间了。你决定-要么你打开那扇门，要么我把你炸了，你停下来控制它。}
+#{209}{}{[Ignore and run the clockwork]}
+{209}{}{[忽略并运行时钟]}
+#{210}{}{Okay. We make a decision. We, with the precious, command to open the door. Yes. Let mister take his red thing and go away... [groans]}
+{210}{}{可以。我们做决定。我们，用宝贵的，命令打开门。对。让先生拿着他的红色东西走开。。。[呻吟声]}
+#{211}{}{That's it, I'm going.}
+{211}{}{就这样，我要走了。}
+#{212}{}{I'll do something simpler - open this box and pull out some wires.}
+{212}{}{我会做更简单的事——打开这个盒子，拔出一些电线。}
+#{213}{}{What? But... But... The precious, is mister authorized to go into that box with wires?}
+{213}{}{什么？但是。。。但是。。。宝贝，先生有权用电线进入那个盒子吗？}
+#{214}{}{No. But as you can see, I still do.}
+{214}{}{不。但正如你所看到的，我仍然是。}
+#{215}{}{Mister can't cause us pain! Mister has no right!}
+{215}{}{先生不能给我们带来痛苦！先生没有权利！}
+#{216}{}{I don�t. But I don't care.}
+{216}{}{我不知道。但我不在乎。}
+#{217}{}{Arrgh... We were President! We *cannot* be hurt!}
+{217}{}{啊。。。我们是总统！我们不能受伤！}
+#{218}{}{Yeah. [open the controller]}
+{218}{}{是 啊。[打开控制器]}
+#{219}{}{But precious, mister is not subjected to our laws! What do we do?!}
+{219}{}{但是宝贝，先生不受我们的法律约束！我们该怎么办？！}
+#{220}{}{[Snatch a few inconsequential wires]}
+{220}{}{[抓住一些无关紧要的电线]}
+#{221}{}{Ow-ow-ow-ow!!! Mister can't do this!}
+{221}{}{哦哦哦！！！先生不能这么做！}
+#{222}{}{[Short a couple of wires]}
+{222}{}{[短接几根电线]}
+#{223}{}{Ughh!! Mister hurts us very much!}
+{223}{}{啊！！先生很疼我们！}
+#{224}{}{[Do it again]}
+{224}{}{[再来一次]}
+#{225}{}{No! Mister must stop!}
+{225}{}{不！先生必须停下来！}
+#{226}{}{[And again]}
+{226}{}{[再一次]}
+#{227}{}{AHHH! Make mister stop! Stop!!!}
+{227}{}{啊哈！让先生停下来！停下！！！}
+#{228}{}{[Rip out the main hose containing a nutrient liquid]}
+{228}{}{[撕开装有营养液的主软管]}
+#{229}{}{[Short circuiting harder for control]}
+{229}{}{[短路更难控制]}
+#{230}{}{If you don't open the door, I will continue to torment you.}
+{230}{}{如果你不开门，我就继续折磨你。}
+#{231}{}{Mister is very cruel! We have done so much good, but mister is hurting us! Precious, it's not fair! [crying]}
+{231}{}{先生很残忍！我们做了这么多好事，但是先生伤害了我们！宝贝，这不公平！[哭]}
+#{232}{}{Shut up and open the door!}
+{232}{}{闭嘴，开门！}
+#{233}{}{[Short circuiting again, this time stronger]}
+{233}{}{[再次短路，这次更强]}
+#{234}{}{NO!!! NO!!! MOTHER F!!!.. [looks like the brain of the poor fellow could not stand it]}
+{234}{}{不！！！不！！！F妈！！！。。[看起来这个可怜的家伙的大脑受不了]}
+#{235}{}{No! Uh... The President is against the aggressive actions! The President insists on a peaceful solution to the issue!}
+{235}{}{不！休斯敦大学。。。总统反对这种侵略行为！总统坚持和平解决这个问题！}
+#{236}{}{I also insist on a peaceful solution. So, maybe, you'll let me go peacefully?}
+{236}{}{我也坚持和平解决。所以，也许，你会让我平静地离开？}
+#{237}{}{No, mister has not yet fulfilled his duties as a citizen. Mister can't just walk away. Mister President is not in the mood, but...}
+{237}{}{不，先生还没有履行他的公民义务。先生不能就这么走了。总统先生没有心情，但是。。。}
+#{238}{}{Now I tear off his left leg.}
+{238}{}{现在我把他的左腿扯下来。}
+#{239}{}{NOOO!!! The President will miss the precious! It is not necessary to hurt precious! My precious! My precious! Hang in there! The police is on its way!}
+{239}{}{不！！！总统会想念你的宝贝的！没有必要伤害宝贝！我的宝贝！我的宝贝！坚持住！警察来了！}
+#{240}{}{You idiot, soon the leg of your precious will fly into the far corner of the room!}
+{240}{}{你这个白痴，很快你宝贝的腿就会飞到房间的另一个角落！}
+#{241}{}{NOOOO!!! Why mister is so cruel! Why?!! For years we've been with the precious in a good relationship! No one has ever been so close! Let mister be sensible and bring back the precious! The President would even stand up to his knees if he had ones! Honestly!}
+{241}{}{不！！！为什么先生这么残忍！为什么？多年来，我们一直与珍爱保持着良好的关系！从来没有人这么亲近过！让先生理智一点，把珍贵的东西带回来！如果总统有膝盖，他甚至会站起来！说真的？}
+#{242}{}{[Tear the doll and throw it in all the sides]}
+{242}{}{[撕开娃娃，扔到四面八方]}
+#{243}{}{NO!!! NO!!! MOTHER F!!!.. [looks like the brain of the poor fellow could not stand it]}
+{243}{}{不！！！不！！！F妈！！！。。[看起来这个可怜的家伙的大脑受不了]}
+#{244}{}{So, what is the decision the President makes in such a difficult situation? Isn't it better to give up the guest for your own benefit?}
+{244}{}{那么，总统在如此困难的情况下做出了什么决定？为了自己的利益放弃客人不是更好吗？}
+#{245}{}{Yes!!! Mister is right! We let mister go, but the precious must stay here!!!}
+{245}{}{对！！！先生是对的！我们放了先生，但宝贝必须留在这里！！！}
+#{246}{}{}
+{246}{}{}
+#{247}{}{[Stand back and watch]}
+{247}{}{[退后看]}
+#{248}{}{I think that's mister President's doll. What if I tear off a few limbs?}
+{248}{}{我想那是总统先生的洋娃娃。如果我撕下几条腿呢？}
+#{249}{}{}
+{249}{}{}
+#{250}{}{AAAHHHHHH-HA-HA-HA!!! Welcome to our apartment, mister! Sorry we are not in uniform, nothing to wear it on! Maybe mister could tickle us with a feather, m?}
+{250}{}{哈哈哈！！！欢迎来到我们的公寓，先生！对不起，我们没有穿制服，没什么可穿的！也许先生可以用一根羽毛逗我们，m？}
+#{251}{}{Uh... A talking head?! Is it real?! And you... You're alive?}
+{251}{}{休斯敦大学。。。会说话的脑袋？！是真的吗？！和你。。。你还活着？}
+#{252}{}{Mister is IDIOT!!! Mister President is alive! Where did this mister crawled from, if he can't distinguish alive head from dead skull?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{252}{}{先生是白痴！！！总统先生还活着！这个先生是从哪里爬来的，如果他分不清活脑袋和死脑袋的话？！。。什么，宝贝？从屁股里出来？！！！宝贝，你应该学点礼貌！}
+#{253}{}{Well, that's not what I meant...}
+{253}{}{我不是这个意思。。。}
+#{254}{}{What do you say, precious?! Yes, we agree. Such misters should be decimated. Everyone, who has come out of ass - all of them must be DESTROYED!!!}
+{254}{}{你说什么，宝贝？！是的，我们同意。这样的先生应该被消灭。所有从屁股里出来的人-他们都必须被消灭！！！}
+#{255}{}{Are you sure this is a good idea?}
+{255}{}{你确定这是个好主意吗？}
+#{256}{}{What? What is he saying, precious? He wants to scare us? Well. Let the citizen come out and cling to my eyeglasses... I mean... I wanted to say, to my finger. What, my precious? I have no finger? Well, then... Then to my something. Let mister come out. We won't touch him.}
+{256}{}{什么？他在说什么，宝贝？他想吓唬我们？好。让市民出来抓住我的眼镜。。。我是说。。。我想对我的手指说。什么，宝贝？我没有手指？那么。。。然后是我的东西。让先生出来。我们不会碰他的。}
+#{257}{}{Do you promise? Can I trust you?}
+{257}{}{你保证吗？我能相信你吗？}
+#{258}{}{Yes, Yes, YES!!! We'll be nice! Just let mister come closer! We haven't seen anyone for a long time! We want to see the mister!}
+{258}{}{是的，是的，是的！！！我们会很好的！让先生走近点！好久没见了！我们要见先生！}
+#{259}{}{Hmm...}
+{259}{}{隐马尔可夫模型。。。}
+#{260}{}{You were severely electrocuted while disabling!!! This is the work of the head!}
+{260}{}{你在致残时严重触电！！！这是头的工作！}
+#{261}{}{Ah! Damn!!!}
+{261}{}{啊！该死！！！}
+#{262}{}{And you still managed to do what you tried to!}
+{262}{}{你还是做了你想做的！}
+#{263}{}{Broken tank}
+{263}{}{破损的油箱}
+#{264}{}{All that remains of the former President - the pieces of green brain and a little of meat.}
+{264}{}{前总统剩下的一切——一片绿色的大脑和一点点肉。}
+#{270}{}{Mister President! On the surface now established quite a normal life. There is no threat of falling bombs, and quite tolerable level of radiation. You have nothing to fear!}
+{270}{}{总统先生！在表面上，现在建立了相当正常的生活。这里没有炸弹坠落的威胁，辐射水平也相当可以忍受。你没什么好怕的！}
+#{271}{}{You spoilsport...}
+{271}{}{你毁了运动。。。}
+#{272}{}{But... How we can trust these doubtful words?!}
+{272}{}{但是。。。我们怎么能相信这些可疑的话？！}
+#{273}{}{Just for the fact, that before you stands a person from the outside world, who easily entered through the front door. Isn't that the evidence?}
+{273}{}{事实上，在你面前站着一个来自外部世界的人，他很容易从前门进来。这不是证据吗？}
+#{274}{}{Oh, that's right... But we're not sure yet. And... And why should we go out?}
+{274}{}{哦，没错。。。但我们还不确定。还有。。。我们为什么要出去？}
+#{275}{}{Don't you want to look at the outside world? Well, at least once? Look, you can come back, if you won't like it. It's so easy!}
+{275}{}{你不想看看外面的世界吗？至少一次？听着，如果你不喜欢的话，你可以回来。太简单了！}
+#{276}{}{Hahaha! Mister is right! And you, precious, what do you say? The precious also wants to see the outside world? Yes, we'll do it! We'll see, we will be brave!}
+{276}{}{哈哈哈！先生是对的！你呢，宝贝，你怎么说？宝贝也想看看外面的世界？是的，我们会的！我们拭目以待，我们会勇敢的！}
+#{277}{}{What determination!}
+{277}{}{多么坚定的决心！}
+#{278}{}{Okay!  Advisors! WE SOLEMNLY ANNOUNCE THE OPENING OF OUR VAULT AND START OF THE PROCESS OF REBUILDING AMERICAN SOCIETY AFTER A NUCLEAR WAR! Begin the procedure of "Sarcophagus" directive!}
+{278}{}{可以！顾问！我们郑重宣布我们的金库开放，开始核战争后重建美国社会的进程！开始“石棺”指令的程序！}
+#{279}{}{Wow! Sounds cool! It is better to step aside and see...}
+{279}{}{哇！听起来很酷！最好靠边去看看。。。}
+#{280}{}{*Ladies and gentleman! It's time to get our asses off the monitors! IN THE NAME OF AMERICA!!!*}
+{280}{}{*女士们先生们！是时候离开监视器了！以美国的名义！！！*}
+#{281}{}{You manage to convince the head to come to the surface! And where will it go now?}
+{281}{}{你说服了头浮出水面！它现在会去哪里？}
+#{282}{}{All right!!! Now I'll place this Cordex here, and you'll find yourself getting some fresh air!}
+{282}{}{好吧！！！现在我把这条绳索放在这里，你会发现自己呼吸到了新鲜空气！}
+#{1108}{}{And for this I made such a long way?!}
+{1108}{}{为了这个我走了这么远的路？！}
+#{1112}{}{You promised you wouldn't hurt me? Why didn't you keep your word? I believed you!}
+{1112}{}{你答应过不会伤害我的？你为什么不遵守诺言？我相信你！}
+#{1115}{}{We... [crying] Miss is not right!}
+{1115}{}{我们。。。小姐不对！}
+#{1119}{}{We didn't want! We didn't mean to!!! Let the miss forgive us! I demand that miss forgave us!}
+{1119}{}{我们不想！我们不是故意的！！！让小姐原谅我们吧！我要求小姐原谅我们！}
+#{1123}{}{Yes! Yes! They wanted to kill miss! But we didn't!}
+{1123}{}{对！对！他们想杀小姐！但我们没有！}
+#{1125}{}{Miss have to forgive us! We were just joking! We wouldn't do it! For some reason, the others don't like our jokes. Never did! Why...}
+{1125}{}{小姐一定要原谅我们！我们只是开玩笑！我们不会这么做的！出于某种原因，其他人不喜欢我们的笑话。从来没有！为什么？}
+#{1127}{}{I don't believe you. Now open the big door so I can get the hell outta here!}
+{1127}{}{我不相信你。现在把门打开，我就可以离开这里了！}
+#{1130}{}{What does she say, precious? Oooh... Miss is very wise and very courteous! Mister President likes Miss! Ah! If all subordinates were like that, right, precious?!}
+{1130}{}{她怎么说，宝贝？哦哦。。。小姐很聪明，很有礼貌！总统先生喜欢小姐！啊！如果所有的下属都是这样，对吧，宝贝？！}
+#{1132}{}{Mister President doesn't want to remember the past. It's a bad memory. But the precious may recall how cruelly they treated the President last time! They made him cry in public! In front of all subordinates! Miss had never seen such a pitiful sight!}
+{1132}{}{总统先生不想回忆过去。记性不好。但宝贝儿可能还记得上次他们对总统是多么残忍！他们让他当众哭了！在所有下属面前！小姐从没见过这么可怜的景象！}
+#{1134}{}{Precious, you're not gonna tell? Yes, Miss don't need to know. But maybe Miss wants a cup of tea? No, precious, we have no time to deal with the tea party. Remember how everyone abused cola? Everyone got their tongues blue. It was so ugly!}
+{1134}{}{宝贝，你不想告诉我？是的，小姐不需要知道。但也许小姐想喝杯茶？不，宝贝，我们没时间处理茶话会。还记得每个人是怎么滥用可乐的吗？每个人的舌头都是蓝色的。太难看了！}
+#{1136}{}{Quiet! Let miss not interrupt the President's speech! Where is her manners?!}
+{1136}{}{安静的！让小姐不要打断总统的讲话！她的举止呢？！}
+#{1141}{}{Oh! Miss wants to know? But can we tell her? Yes, now, when all these stupid people left our apartment, we *can* tell Miss the truth.}
+{1141}{}{哦！小姐想知道吗？但我们能告诉她吗？是的，现在，当这些愚蠢的人离开我们的公寓时，我们可以说实话。}
+#{1145}{}{Ooo, yes! Miss guessed it. But Cola doesn't just intensified their emotional state, it intensified it *selectively*. Some time passed, and when the poison has seeped deep inside, they were not able to stop. ... They went crazy! They fought, they shouted, beat each other with chairs, and after we restricted access to Cola, they freaked out even more and began to fight to the death.}
+{1145}{}{哦，是的！小姐猜到了。但可乐不仅强化了他们的情绪状态，它还选择性地强化了他们的情绪状态。一段时间过去了，当毒液渗到深处时，他们无法阻止。。。他们疯了！他们吵架，大声喊叫，用椅子互相殴打，在我们限制了他们喝可乐后，他们更加惊慌失措，开始战斗至死。}
+#{1153}{}{How did miss know all these secrets, precious? Is miss related to the secret government circles?}
+{1153}{}{小姐怎么知道这些秘密的，宝贝？小姐和秘密政府有关系吗？}
+#{1157}{}{Oh, miss want to leave our apartment? So fast? Why so fast?}
+{1157}{}{哦，小姐，你想离开我们的公寓吗？这么快？为什么这么快？}
+#{1159}{}{No no no!!! Precious said that miss wants to confuse us! Make miss shut up!!! Make her stop!!!}
+{1159}{}{不不不！！！宝贝说小姐想迷惑我们！让小姐闭嘴！！！让她停下来！！！}
+#{1161}{}{SHUT UP! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Miss is very strict! Let miss leave our apartment. We don't want to hear it!}
+{1161}{}{闭嘴！我不要！！！保持安静！！！小姐很严厉！让小姐离开我们的公寓。我们不想听！}
+#{1163}{}{Miss don�t want to see us. Miss just wants to get out of here.}
+{1163}{}{小姐不想见我们。小姐只是想离开这里。}
+#{1164}{}{But... [looks like he is confused] But... Is miss bored with our company? Why miss wants to leave so quickly?}
+{1164}{}{但是。。。[看起来他很困惑]但是。。。小姐对我们公司厌倦了吗？小姐怎么这么快就走了？}
+#{1172}{}{No no no!!! It's dangerous outside! Precious said that miss wants to confuse us! Make miss shut up!!! We're not getting out, this won't work! It's dangerous!!! Dangerous!!!}
+{1172}{}{不不不！！！外面很危险！宝贝说小姐想迷惑我们！让小姐闭嘴！！！我们不能出去，这行不通！太危险了！！！危险！！！}
+#{1173}{}{Yes, Yes, Yes!!! mister President wants to go outside! He wants to watch! Yes! Miss will help us, right?}
+{1173}{}{是的，是的，是的！！！总统先生想出去！他想看！对！小姐会帮助我们的，对吗？}
+#{1175}{}{No no no!!! Precious said that miss wants to confuse us! Make miss shut up!!! Shut up!!!}
+{1175}{}{不不不！！！宝贝说小姐想迷惑我们！让小姐闭嘴！！！闭嘴！！！}
+#{1176}{}{Yes, Yes, Yes!!! Mister President wants to remember! Attention!! Rise up! Raise heads! Homeland!! Make America!! Great again!! But... What?.. no! Precious said that miss wants to confuse us! Make miss shut up!!! Shut up!!!}
+{1176}{}{是的，是的，是的！！！总统先生想记住！注意！！起来！抬起头来！家园！！创造美国！！又好极了！！但是。。。什么？。。不！宝贝说小姐想迷惑我们！让小姐闭嘴！！！闭嘴！！！}
+#{1178}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Miss is very strict! Let miss leave our apartment. We don't want to hear her anymore!}
+{1178}{}{闭嘴！我！我不要！！！保持安静！！！小姐很严厉！让小姐离开我们的公寓。我们不想再听她说话了！}
+#{1183}{}{No no no!!! Precious said that miss wants to confuse us! Let miss shut up!!! Shut up!!!}
+{1183}{}{不不不！！！宝贝说小姐想迷惑我们！让小姐闭嘴！！！闭嘴！！！}
+#{1184}{}{SHUT UP! I! I DON'T WANT!!! KEEP IT QUIET!!! [sobbing] Miss is very strict! Let miss leave our apartment. We don't want to hear her anymore!}
+{1184}{}{闭嘴！我！我不要！！！保持安静！！！小姐很严厉！让小姐离开我们的公寓。我们不想再听她说话了！}
+#{1186}{}{What she says, precious? Ooo... Miss did not want to accept our hospitality. And how miss will feel about little boom in Korea? What, precious? Ah, yes... We've ran out of bombs... Oh well. We put forward a petition to the Council, to lock doors and not to give access to inhospitable miss... FOREVER!!! [crying] We want to smoke a cuban cigar so badly... Don't we, precious? Let someone bring a cigar!}
+{1186}{}{她说什么，宝贝？哦。。。小姐不愿意接受我们的款待。小姐对韩国的小繁荣会有什么感觉？什么，宝贝？啊，是的。。。我们的炸弹用完了。。。哦，好吧。我们向议会提出请愿书，要求锁门，不让不友善的小姐进入。。。永远！！！我们真想抽一支古巴雪茄。。。不是吗，宝贝？让人带雪茄来！}
+#{1188}{}{Ugh!!! Hahaha! Miss decided to make a joke! We like it, don't we, precious?!}
+{1188}{}{啊！！！哈哈哈！小姐决定开个玩笑！我们喜欢，不是吗，宝贝？！}
+#{1189}{}{The miss is just furious from your mumblings! Open the gate or I'll break this glass!}
+{1189}{}{小姐对你的喃喃自语很生气！把门打开，不然我就打碎这个玻璃杯！}
+#{1190}{}{Wow! Miss is furious! We always loved the stubborn misses.}
+{1190}{}{哇！小姐很生气！我们总是喜欢顽固的思念。}
+#{1195}{}{Arch? [his eye looks on your dynamite in fear] Miss is joking, right? Miss is joking? It's not a real bomb! Let miss blow it elsewhere! We order her! We impose a veto on the decision of miss!}
+{1195}{}{拱门？[他恐惧地看着你的炸药]小姐在开玩笑，对吧？小姐在开玩笑吗？不是真的炸弹！让小姐把它吹到别处去！我们命令她！我们对小姐的决定行使否决权！}
+#{1197}{}{But... Precious, what are we going to do? Miss is not kidding! Miss is ordered to assassinate us! Maybe miss will accept a counter-offer? 50% more over the amount you will be paid for the assassination! We're not kidding, miss.}
+{1197}{}{但是。。。宝贝，我们该怎么办？小姐不是开玩笑！小姐奉命暗杀我们！也许小姐会接受还盘？50%以上的金额将支付你的暗杀！我们不是开玩笑，小姐。}
+#{1199}{}{We got the money. We will pay Miss if she puts the red thing in that container.}
+{1199}{}{我们拿到钱了。如果小姐把红色的东西放在那个容器里，我们就付给她钱。}
+#{1204}{}{Weeeeeee-haaaa! We have tricked miss! Ha-ha!!! Miss is stupid! Perhaps miss came from Canada? Well. Guards! Walk our guest to the door!}
+{1204}{}{再见，再见！我们骗了小姐！哈哈！！！小姐真蠢！也许小姐来自加拿大？好。警卫！把客人送到门口！}
+#{1207}{}{No! Let miss not hurry. We need to think! The precious also wants to think!}
+{1207}{}{不！让小姐不要着急。我们需要思考！宝贝也要想！}
+#{1210}{}{Okay. We make a decision. We, with the precious, command to open the door. Yes. Let miss take his red thing and go away... [groans]}
+{1210}{}{可以。我们做决定。我们，用宝贵的，命令打开门。对。让小姐拿着他的红衣服走吧。。。[呻吟声]}
+#{1213}{}{What? But... But... The precious, is miss authorized to go into that box with wires?}
+{1213}{}{什么？但是。。。但是。。。宝贝，小姐有权用电线进入那个盒子吗？}
+#{1215}{}{Miss can't cause us pain! Miss has no right!}
+{1215}{}{思念不能给我们带来痛苦！小姐没有权利！}
+#{1219}{}{But precious, miss is not subjected to our laws! What do we do?}
+{1219}{}{但是宝贝，小姐不受我们的法律约束！我们该怎么办？}
+#{1221}{}{Ow-ow-ow-ow!!! Miss can't do this!}
+{1221}{}{哦哦哦！！！小姐不能这样！}
+#{1223}{}{Uhh!! Miss hurts us very much!}
+{1223}{}{啊！！小姐很疼我们！}
+#{1225}{}{No! Miss must stop!}
+{1225}{}{不！小姐必须停下来！}
+#{1227}{}{AHHH! Make miss stop! Stop!!!}
+{1227}{}{啊哈！让小姐停下！停下！！！}
+#{1231}{}{Miss is very cruel! We have done so much good, but miss is hurting us! Precious, it's not fair! [crying]}
+{1231}{}{小姐很残忍！我们做了这么多好事，但是小姐伤害了我们！宝贝，这不公平！[哭]}
+#{1237}{}{No, miss has not yet fulfilled her duties as a citizen. Miss can't just walk away. Mister President is not in the mood, but...}
+{1237}{}{不，小姐还没有履行她的公民义务。小姐不能就这么走了。总统先生没有心情，但是。。。}
+#{1241}{}{NOOOO!!! Why miss is so cruel! Why?!! For years we've been with the precious in a good relationship! No one has ever been so close! Let miss be sensible and bring back the precious! The President would even stand up to his knees if he had ones! Honestly!}
+{1241}{}{不！！！为什么思念如此残忍！为什么？多年来，我们一直与珍爱保持着良好的关系！从来没有人这么亲近过！让小姐懂事，把珍贵的带回来！如果总统有膝盖，他甚至会站起来！说真的？}
+#{1244}{}{So what is the decision the President will make in such a difficult situation? Isn't it better to give up the guest for your own benefit?}
+{1244}{}{那么，在如此困难的情况下，总统将作出什么决定？为了自己的利益放弃客人不是更好吗？}
+#{1245}{}{Yes!!! Miss is right! We let miss go, but the precious must stay here!!!}
+{1245}{}{对！！！小姐说得对！我们放了小姐，但宝贝必须留在这里！！！}
+#{1250}{}{AAAHHHHHH-HA-HA-HA!!! Welcome to our apartment, miss! Sorry we are not in uniform, nothing to wear it on! Maybe miss could tickle us with a feather, m?}
+{1250}{}{哈哈哈！！！欢迎来到我们的公寓，小姐！对不起，我们没有穿制服，没什么可穿的！也许小姐可以用羽毛逗我们，m？}
+#{1252}{}{Miss is IDIOT!!! Mister President is alive! Where did this Miss crawled from if she can't distinguish alive head from dead skull?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{1252}{}{小姐是白痴！！！总统先生还活着！如果这个小姐分不清活脑袋和死脑袋，她从哪里爬来的？！。。什么，宝贝？从屁股里出来？！！！宝贝，你应该学点礼貌！}
+#{1253}{}{Well, that's not what I meant...}
+{1253}{}{我不是这个意思。。。}
+#{1254}{}{What you say precious?! Yes, we agree. Such misses should be decimated. Everyone who has come out of ass - all of them must be DESTROYED!!!}
+{1254}{}{你说什么宝贝？！是的，我们同意。这样的失误应该被彻底消除。所有从屁股里出来的人都必须被消灭！！！}
+#{1256}{}{What? What is she saying, precious? She wants to scare us? Well. Let the citizen come out and cling to my eyeglasses... I mean... I wanted to say, to my finger. What, my precious? I have no finger? Well, then... Then to my something. Let miss come out. We won't touch her.}
+{1256}{}{什么？她在说什么，宝贝？她想吓唬我们？好。让市民出来抓住我的眼镜。。。我是说。。。我想对我的手指说。什么，宝贝？我没有手指？那么。。。然后是我的东西。让小姐出来。我们不会碰她的。}
+#{1258}{}{Yes, Yes, YES!!! We'll be nice! Just let miss come closer! We haven't seen anyone for a long time! We want to see the miss!}
+{1258}{}{是的，是的，是的！！！我们会很好的！让小姐走近点！好久没见了！我们要见小姐！}
+#{1276}{}{Hahaha! Miss is correct! And you, precious, what do you say? The precious also wants to see the outside world? Yes, we'll do it! We'll see, we will be brave!}
+{1276}{}{哈哈哈！小姐说得对！你呢，宝贝，你怎么说？宝贝也想看看外面的世界？是的，我们会的！我们拭目以待，我们会勇敢的！}

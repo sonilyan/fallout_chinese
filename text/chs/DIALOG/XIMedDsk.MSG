@@ -1,0 +1,6 @@
+#{100}{}{You see a ragged ribbon.}
+{100}{}{你看到一条破烂的缎带。}
+#{101}{}{Display Pip-Boy: a file found in the system. The download aborted.}
+{101}{}{显示Pip Boy：在系统中找到的文件。下载已中止。}
+#{102}{}{Display Pip-Boy: Copying data from disk.}
+{102}{}{显示Pip Boy：从磁盘复制数据。}

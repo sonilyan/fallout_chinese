@@ -1,0 +1,2 @@
+#{100}{}{You see a catholic temple and it seems it's still operates.}
+{100}{}{你看到一座天主教寺庙，它似乎还在运作。 -- You see a catholic temple and it seems it's still operates.}

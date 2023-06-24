@@ -1,0 +1,80 @@
+#{100}{}{You see a computer.}
+{100}{}{你看到一台电脑。}
+#{101}{}{You see a powerful computer with voice control module. He watches you with a few micro-cameras.}
+{101}{}{你会看到一台功能强大的电脑带有语音控制模块。他用几个微型摄像机看着你。}
+#{104}{}{Welcome to the central terminal of vault the network. To enter a query, just to announce it orally.}
+{104}{}{欢迎使用网络中心终端。输入查询，只是口头宣布。}
+#{105}{}{Who inhabited this vault?}
+{105}{}{谁住在这个地下室？}
+#{106}{}{When the population left this vault?}
+{106}{}{当人们离开这个保险库的时候？}
+#{107}{}{What do you know about vault 8?}
+{107}{}{你对8号金库了解多少？}
+#{108}{}{What? This means you understand my words, right?}
+{108}{}{什么？这意味着你明白我的话，对吧？}
+#{109}{}{Leave.}
+{109}{}{离开。}
+#{110}{}{Query processing. Please wait... The vault was intended for the President of the United States of America, his retinue and attendants.}
+{110}{}{查询处理。请稍候。。。这个金库是为美利坚合众国总统、他的随从和随从准备的。}
+#{111}{}{These remnants of the former government are still alive?}
+{111}{}{这些前政府的残余还活着？}
+#{112}{}{No reliable data. According to the surveillance, during a mass escape of the population from the vault, 22% of the inhabitants were killed, the rest managed to reach the outside world. Indirect evidences suggest that the population could survive and relocate to another government base.}
+{112}{}{没有可靠的数据。根据监控，在一次人口大规模逃离金库的过程中，22%的居民被杀，其余的人设法逃到了外面的世界。间接证据表明，这些人可以生存下来并迁移到另一个政府基地。}
+#{113}{}{What kind of data and what base?}
+{113}{}{什么样的数据，什么样的数据库？}
+#{114}{}{According to the communication system's logs, before the mass escape, negotiations from the command center with a base in the Pacific ocean took place. This base, known as "Poseidon oil rig", seems to be the most suitable place to relocate to, for the dwellers of this vault. Periodically, there are remote requests for status information to a government vault from there.}
+{114}{}{根据通讯系统的记录，在大规模越狱之前，指挥中心与太平洋基地进行了谈判。这个被称为“波塞冬石油钻井平台”的基地似乎是这个地下室的居民最适合搬迁的地方。定期有远程请求从那里向政府金库提供状态信息。}
+#{115}{}{Hmm. In the outside world nothing of this government is known. Why all the secrecy?}
+{115}{}{嗯。在外面的世界里，这个政府什么都不知道。为什么要保密？}
+#{116}{}{Query processing. Please wait... Information on the objectives of the government is closed. A government program is not available.}
+{116}{}{查询处理。请稍候。。。有关政府目标的信息已关闭。政府项目不可用。}
+#{117}{}{I see.}
+{117}{}{我懂了。}
+#{118}{}{You got the holodisk with the data.}
+{118}{}{你有带数据的全息光盘。}
+#{130}{}{Query processing. Please wait... After sealing, the first opening of the large doors occurred 34 days after. Subsequently, the doors were opened repeatedly. The latest case happened at 2090, followed by massive escape of dwellers.}
+{130}{}{查询处理。请稍候。。。密封后，34天后第一次打开大型门。随后，门被反复打开。最新的病例发生在2090年，随后居民大量逃逸。}
+#{131}{}{What was the cause of the mass escape?}
+{131}{}{大规模越狱的原因是什么？}
+#{132}{}{Increased social instability among the residents of the shelter. In particular, a year before this event was recorded rebellious riots and attempts at regime change. However, the main reason is a deliberate escalation of the situation by the head of the President, which threatened the life and health of the population.}
+{132}{}{收容所居民社会不稳定加剧。特别是在这一事件发生的前一年，有记录显示发生了叛乱暴动和政权更迭的企图。然而，主要原因是总统首脑蓄意使局势升级，威胁到民众的生命和健康。}
+#{133}{}{"The head of the President"? What is it, some kind of a name?}
+{133}{}{“总统的头”？什么名字？}
+#{134}{}{The President's head - established brand name parts of the body of Mr. Fredericks, who was the current President of the United States at the time of his murder. The head was recognized as an inanimate object and used as artificial intelligence and database. However, it retained a part of consciousness and was able to intelligently make decisions.}
+{134}{}{总统的头像在弗雷德里克先生的尸体上建立了品牌，弗雷德里克先生在遇害时是美国现任总统。头部被认为是无生命物体，并被用作人工智能和数据库。然而，它保留了一部分意识，并且能够明智地做出决定。}
+#{135}{}{Where is the President's head now?}
+{135}{}{总统的头现在在哪里？}
+#{136}{}{According to recent reports, it is on the bottom floor of the vault in a special, computer-controlled tank.}
+{136}{}{根据最近的报道，这是在地下室的一个特殊的，电脑控制的坦克。}
+#{137}{}{How interesting... A living head!}
+{137}{}{真有趣。。。活生生的脑袋！}
+#{150}{}{Negative. My artificial intelligence was removed by the order of the President. I can't make meaningful decisions and initiate data analysis. My task is only to find solutions to user requests.}
+{150}{}{没有。我的人工智能被总统命令删除了。我无法做出有意义的决定并启动数据分析。我的任务只是找到解决用户请求的方法。}
+#{151}{}{Where does the information come from then?}
+{151}{}{那么这些信息是从哪里来的呢？}
+#{152}{}{Vault database is constantly updated by robotic tracking system and data inputs from the outside.}
+{152}{}{Vault数据库通过机器人跟踪系统和外部数据输入不断更新。}
+#{153}{}{Outside?}
+{153}{}{在外面？}
+#{154}{}{There is currently a working line of external communication with other government institutions outside the vault.}
+{154}{}{目前与金库外的其他政府机构有一条对外沟通的工作线。}
+#{155}{}{}
+{155}{}{}
+#{156}{}{Back.}
+{156}{}{回来。}
+#{160}{}{According to official data, vault number 8 is used by a private company under government control as a base for growing of "insurance products". Note: this information may be outdated and no longer relevant.}
+{160}{}{根据官方数据，8号保险库被一家政府控制的私人公司用作“保险产品”增长的基地。注意：此信息可能已过时，不再相关。}
+#{161}{}{Wait, what "insurance products"?! What's that?}
+{161}{}{等等，什么“保险产品”？！那是什么？}
+#{162}{}{According to official data, the insurance product is the body organism, devoid of intelligence. The structure of this organism allows to transplant its organs to a human. New organs quickly adapt to a specific features of new host. This allows to extend the life of a person or to deprive him of a serious illness, if any of the organs ceases to function properly.}
+{162}{}{根据官方数据，保险产品是人体有机体，缺乏智力。这种有机体的结构允许将其器官移植到人身上。新器官很快适应新宿主的特定特征。如果一个人的任何器官停止正常功能，这就可以延长他的寿命或使他得不到重病。}
+#{163}{}{But I don't look like "insurance product"! Is this information reliable?}
+{163}{}{但我看起来不像“保险产品”！这个消息可靠吗？}
+#{164}{}{, this information is based on official data and may not be relevant. More details can be found in the locked database.}
+{164}{}{，此信息基于官方数据，可能不相关。更多细节可以在锁定的数据库中找到。}
+#{165}{}{It's all a lie! It's not up to you to tell, a tin can with no intelligence! Yeah, looks like the problems of my vault are a lot bigger than it seemed before.}
+{165}{}{全是谎言！不是你说了算，一个没有智慧的罐头！是啊，看来我保险库的问题比以前严重多了。}
+#{166}{}{Sir}
+{166}{}{西尔}
+#{167}{}{Ma'am}
+{167}{}{太太}

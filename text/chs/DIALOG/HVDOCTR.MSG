@@ -1,0 +1,342 @@
+#{100}{}{You see Doctor Willmouth.}
+{100}{}{你去看威尔茅斯医生。}
+#{101}{}{You see Ian Willmouth. People usually call him Doc.}
+{101}{}{你看伊恩·威尔茅斯。人们通常叫他医生。}
+#{102}{}{Why are you staring at me like that?}
+{102}{}{你为什么那样盯着我看？}
+#{103}{}{I feel like I'm being watched... }
+{103}{}{我觉得我被监视了。。。}
+#{104}{}{You gain 100 experience points for learning more about Harold and his origins.}
+{104}{}{学习更多哈罗德和他的出身，你将获得100点经验值。}
+#{110}{}{I'm glad to see you're awake, }
+{110}{}{我很高兴看到你醒了，}
+#{111}{}{, but you're probably confused, aren't you? Yes, I understand you have a lot of questions, especially regarding your amnesia. I would have preferred the Overseer to wait longer, before sending you outside, but nonetheless, I'm glad to see your brain is recuperating. Oh, and if you don't remember, my name is Doctor Willmouth.}
+{111}{}{，但你可能很困惑，不是吗？是的，我知道你有很多问题，特别是关于你的健忘症。我希望监工在把你送出去之前再等一段时间，不过，我很高兴看到你的大脑正在恢复。哦，如果你不记得了，我叫威尔茅斯医生。}
+#{112}{}{I can't remember anything, Doc. What happened to me?}
+{112}{}{我什么都不记得了，医生。我怎么了？}
+#{113}{}{That is to be expected. Your brain has been exposed to the destructive influence of the outside world. I... Won't get into details, but the important thing is that we managed to restore it. Unfortunately, part of your memory was lost forever.}
+{113}{}{这是意料之中的。你的大脑已经暴露在外部世界的破坏性影响之下。一、 。。。不会透露细节，但重要的是我们设法恢复了它。不幸的是，你的部分记忆永远消失了。}
+#{114}{}{How did this happen?}
+{114}{}{这是怎么发生的？}
+#{115}{}{You were brought to us by a stranger calling himself a biker, tied up on the back seat of his two-wheeled vehicle. You can ask Sergeant Graves about him. When you were rushed to me, you had limited mobility and were not aware of your surroundings. I diagnosed brain damage and memory loss.}
+{115}{}{你是被一个自称摩托车手的陌生人带到我们这里来的，他被绑在两轮车的后座上。你可以问问格雷夫斯中士关于他的事。当你被冲到我身边时，你行动不便，对周围环境一无所知。我诊断出脑损伤和记忆丧失。}
+#{116}{}{I'll talk to him. Can I count on your medical help in the future?}
+{116}{}{我会和他谈谈。我将来能指望你的医疗帮助吗？}
+#{117}{}{Of course. If you need medical attention, I will do everything I can to help. The Overseer ordered it himself.}
+{117}{}{当然。如果你需要医疗照顾，我会尽我所能帮助你。监工亲自下令。}
+#{118}{}{Can you give me any advice before I leave the city?}
+{118}{}{在我离开这座城市之前，你能给我一些建议吗？}
+#{119}{}{Remember - watch out for radiation and avoid physical contact with dead or living organisms.}
+{119}{}{记住-小心辐射，避免身体接触死的或活的有机体。}
+#{120}{}{I appreciate your help, Doc, but it would be easier to treat myself in the field, rather than trying to get to you every time I hurt myself.}
+{120}{}{我很感激你的帮助，医生，但是在野外待我自己要比每次我受伤时都试图接近你容易得多。}
+#{121}{}{You're right. Your body is still very weak, and your immune system haven't recovered yet.}
+{121}{}{你说得对。你的身体仍然很虚弱，你的免疫系统还没有恢复。}
+#{122}{}{I need something in case of emergencies. Can you help me with something?}
+{122}{}{我需要些东西以备不时之需。你能帮我做点什么吗？}
+#{123}{}{I can give you a stimpak or one first aid kit. The former is a chem that increases the regeneration rate of damaged cells. The latter is a set of different drugs and tools for more serious procedures. Stimpaks don't require any medical knowledge, though, whereas the first aid kit most certainly does.}
+{123}{}{我可以给你一个stimpak或一个急救箱。前者是一种提高受损细胞再生率的化学物质。后者是一套不同的药物和工具，用于更严肃的程序。不过，史汀帕克不需要任何医学知识，而急救箱肯定需要。}
+#{124}{}{I'll take a stimpak.}
+{124}{}{我要一杯咖啡。}
+#{125}{}{I'll take the first aid kit.}
+{125}{}{我要急救箱。}
+#{126}{}{This is all I can give you. Anything more would be noticed, and I may be called before the committee. That's the last thing I want right now.}
+{126}{}{我只能给你这些了。任何更多的事情都会被注意到，我可能会被召集到委员会面前。这是我现在最不想要的。}
+#{127}{}{Thanks, Doc.}
+{127}{}{谢谢，医生。}
+#{128}{}{Maybe, but self-treatment is very dangerous for an amateur. You may get overdose on chems, or bandage yourself incorrectly. It would be better to avoid such situations altogether.}
+{128}{}{也许吧，但自我治疗对业余爱好者来说是非常危险的。你可能服用过量的化学药品，或绷带不正确。最好完全避免这种情况。}
+#{129}{}{I understand, Doc.}
+{129}{}{我明白，医生。}
+#{130}{}{You lied to me! You didn't restore my memory, you overwrote it with a new one!}
+{130}{}{你骗了我！你没有恢复我的记忆，你用一个新的重写了它！}
+#{131}{}{How did you - did you manage to break into my computer? How extraordinary! I should be angry, but I'm just proud. I've never performed such a successful personality transfer. Granted, with you it was easier.}
+{131}{}{你-你怎么闯入我的电脑的？多么非凡！我应该生气，但我只是骄傲。我从未进行过如此成功的人格转换。当然，有你就容易多了。}
+#{132}{}{You've done this on someone else?!}
+{132}{}{你在别人身上做的？！}
+#{133}{}{Only a couple of times, usually due to accidental brain damage. Your case was unique. Your brain was damaged in a very precise, very specific way. Whoever did this to you obviously wanted you to survive it.}
+{133}{}{只有几次，通常是因为意外的脑损伤。你的案子很独特。你的大脑受到了非常精确，非常特殊的损伤。对你做这种事的人显然是想让你活下来。}
+#{134}{}{Who could have done this?}
+{134}{}{是谁干的？}
+#{135}{}{It would have required an advanced lab and a skilled surgeon. Even me couldn't perform such an operation. It definitely happened outside of Vault City. Before you showed up, you were officially missing for a few months... Which could explain a lot of things.}
+{135}{}{这需要一个先进的实验室和一个熟练的外科医生。即使是我也不能做这样的手术。这事肯定发生在金库城外。在你出现之前，你正式失踪了几个月。。。这可以解释很多事情。}
+#{136}{}{Then I'll have to look for answers somewhere else. I'm sure that biker knows something... And doctor, don't mention it to anyone until I get to the bottom of this.}
+{136}{}{那我就得在别的地方找答案了。我肯定那个骑摩托车的人知道些什么。。。医生，在我弄清真相之前别跟任何人提起。}
+#{140}{}{I just had a flashback, as if I was a part of the first team to go outside the vault. What does that mean, Doc?}
+{140}{}{我只是有一个倒叙，好像我是第一支走出金库的队伍的一员。什么意思，医生？}
+#{141}{}{Dreams are rare among our citizens. I can't tell you much about them. Given the amount of time that has passed from the first expedition outside the vault, I can say it is probably nothing special. Maybe it's something subconscious? I'm sure you'll find an explanation later.}
+{141}{}{梦想在我们的公民中是罕见的。我不能告诉你太多关于他们的事。考虑到第一次在金库外探险的时间，我可以说这可能没什么特别的。也许是潜意识里的事？我相信你以后会找到解释的。}
+#{142}{}{Okay, Doc.}
+{142}{}{好的，医生。}
+#{143}{}{Then I must speak to him. Take care, Doctor Willmouth.}
+{143}{}{那我必须和他谈谈。保重，威尔茅斯医生。}
+#{144}{}{That's useful advice. Now I need to see Sergeant Graves.}
+{144}{}{这是有用的建议。现在我要见格雷夫斯警官。}
+#{306}{}{Can you tell me more about radiation?}
+{306}{}{你能告诉我更多关于辐射的情况吗？}
+#{307}{}{Sure. What do you want to know?}
+{307}{}{当然。你想知道什么？}
+#{308}{}{Are there any specific areas I should avoid?}
+{308}{}{有什么我应该避免的地方吗？}
+#{309}{}{How can I treat my radiation poisoning?}
+{309}{}{如何治疗我的辐射中毒？}
+#{310}{}{Are there any chems I can use to prevent radiation poisoning?}
+{310}{}{有什么化学药品可以用来防止辐射中毒吗？}
+#{311}{}{What effect does prolonged exposure to radiation have on the body?}
+{311}{}{长期暴露在辐射中对身体有什么影响？}
+#{312}{}{I think that's it. See you later.}
+{312}{}{我想就是这样。再见。}
+#{313}{}{I already knew that. Goodbye.}
+{313}{}{我早就知道了。再见。}
+#{314}{}{Obviously, don't spend too long in areas with high levels of background radiation. But sometimes individual objects emit radiation too. Large metal objects, such as old cars, are especially likely to be radioactive.}
+{314}{}{显然，不要在背景辐射水平高的地区呆太久。但有时个别物体也会发出辐射。大型金属物体，如旧车，特别可能具有放射性。}
+#{315}{}{Rad-X pills will boost your body's initial defenses against radiation. You should take them before entering contaminated areas. If you're already radiated, RadAway will flush it out of your system. There might be other chems that will help with radiation, but I'm not aware of any.}
+{315}{}{Rad-X药丸会增强你身体对辐射的初始防御能力。你应该在进入污染区域前服用。如果你已经被辐射了，RadAway会把它从你的系统中清除。可能还有其他化学物质对辐射有帮助，但我不知道有什么。}
+#{316}{}{Keep your radiation levels below 100 rad. Anything exceeding that is very dangerous.}
+{316}{}{保持你的辐射水平低于100拉德。任何超过这个标准的东西都是非常危险的。}
+#{317}{}{Long-term radiation exposure will have negative effects on your body, such as weakness, clumsiness and loss of stamina. You will recover with treatment, but that will take time.}
+{317}{}{长期辐射会对你的身体产生负面影响，比如虚弱、笨拙和缺乏耐力。经过治疗你会康复的，但那需要时间。}
+#{318}{}{Take care, citizen }
+{318}{}{保重，市民}
+#{319}{}{. And long live Vault City!}
+{319}{}{. 金库城万岁！}
+#{320}{}{Long live Vault City!}
+{320}{}{金库城万岁！}
+#{321}{}{Yeah, I'll see you around, Doc.}
+{321}{}{好的，回头见，医生。}
+#{400}{}{Hello, savior. I'm doing my best, despite the mess. How can I help you, }
+{400}{}{你好，救世主。尽管一团糟，我还是尽力了。我能帮你什么吗，}
+#{401}{}{?}
+{401}{}{?}
+#{402}{}{You don't look so good! Believe me, taking this crap won't make your problems go away.}
+{402}{}{你看起来不太好！相信我，接受这些垃圾不会让你的问题消失。}
+#{403}{}{Yes, }
+{403}{}{对，}
+#{404}{}{? How can I help?}
+{404}{}{? 我能帮忙吗？}
+#{405}{}{Helping everyone in the city is difficult sometimes. But they are worthy people.}
+{405}{}{帮助城里的每一个人有时是困难的。但他们是有价值的人。}
+#{406}{}{Well, I'll go.}
+{406}{}{好吧，我去。}
+#{407}{}{You look terrible! You should have come by earlier.}
+{407}{}{你看起来糟透了！你应该早点来的。}
+#{410}{}{I need medical attention.}
+{410}{}{我需要医疗照顾。}
+#{411}{}{Take a seat. This won't hurt a bit.}
+{411}{}{请坐。一点也不疼。}
+#{412}{}{Okay, Doc, I trust you... }
+{412}{}{好吧，医生，我相信你。。。}
+#{413}{}{Better answer couple of questions for me.}
+{413}{}{最好回答我几个问题。}
+#{414}{}{No, I'll take care of it myself.}
+{414}{}{不，我自己来处理。}
+#{415}{}{Done. Next!}
+{415}{}{完成。下一个！}
+#{416}{}{Thanks, Doc, but I have some more questions.}
+{416}{}{谢谢，医生，但我还有一些问题。}
+#{417}{}{Thanks, Doc.}
+{417}{}{谢谢，医生。}
+#{418}{}{I have a fever, a headache and internal bleeding. What is wrong with me?}
+{418}{}{我发烧，头痛，内出血。我怎么了？}
+#{419}{}{Let's find out. Sit in the Auto-Doc, please... }
+{419}{}{让我们看看。请坐在自动档。。。}
+#{420}{}{Heal me, Doc!}
+{420}{}{治愈我，医生！}
+#{421}{}{I have some things to do first. I'll be right back.}
+{421}{}{我有一些事情要先做。我马上回来。}
+#{422}{}{What, again? Was the last treatment ineffective? Well, let's try again shall we.}
+{422}{}{什么，再说一遍？上次治疗无效吗？好吧，我们再试一次好吗。}
+#{423}{}{[Doctor Willmouth examines you and finds a viral infection] I gave you some antivirals to help with the infection. You should be fine now, but I can't guarantee that the virus won't come back. Be more careful next time.}
+{423}{}{[威尔茅斯医生检查你发现病毒感染]我给了你一些抗病毒药物来帮助你治疗感染。你现在应该没事了，但我不能保证病毒不会复发。下次小心点。}
+#{424}{}{How could I get infected anyway?}
+{424}{}{我怎么会被感染呢？}
+#{425}{}{What would have happened if you hadn't treated me?}
+{425}{}{如果你不治疗我会怎么样？}
+#{426}{}{Thanks, Doc, I feel lot better now.}
+{426}{}{谢谢，医生，我现在感觉好多了。}
+#{427}{}{Well... Honestly, the immune system of our citizens is weaker than those who live in the wasteland. Any creature you came in contact with could have infected you. Try to remember... Maybe something bit you, like a dog or an insect, or maybe touched something. You could even get infected from someone or something that looks completely healthy, but still carries some kind of viral infection.}
+{427}{}{好。。。老实说，我们公民的免疫系统比生活在荒地的人弱。任何你接触过的生物都可能感染你。试着记住。。。也许有什么东西咬了你，比如狗或昆虫，或者碰了什么东西。你甚至可能被某个人或某件看起来完全健康的东西感染，但仍然携带某种病毒感染。}
+#{428}{}{It's hard to say for sure, but such an infection won't go away easily. If your body could adapt to it, then you wouldn't suffer the symptoms, but that could damage your body in other ways.}
+{428}{}{很难说清楚，但这种感染不会轻易消失。如果你的身体能够适应它，那么你就不会出现症状，但这可能会以其他方式损害你的身体。}
+#{480}{}{Doc, you knew that we're clones, didn't you?}
+{480}{}{医生，你知道我们是克隆人，不是吗？}
+#{481}{}{To be honest - yes, I knew.}
+{481}{}{说实话-是的，我知道。}
+#{482}{}{Then why didn't you say anything?}
+{482}{}{那你为什么什么都不说？}
+#{483}{}{Is every person in the city a clone?}
+{483}{}{城里的每个人都是克隆人吗？}
+#{484}{}{Are you a clone too?}
+{484}{}{你也是克隆人吗？}
+#{485}{}{What do you think about Vault 8's mission?}
+{485}{}{你觉得8号保险库的任务怎么样？}
+#{486}{}{Would you sacrifice yourself in favor of your "prototype"?}
+{486}{}{你会为了你的“原型”牺牲自己吗？}
+#{487}{}{I don't even want to talk about it.}
+{487}{}{我都不想谈这个。}
+#{488}{}{}
+{488}{}{}
+#{489}{}{}
+{489}{}{}
+#{490}{}{}
+{490}{}{}
+#{491}{}{}
+{491}{}{}
+#{492}{}{To tell the truth was unacceptable. Otherwise, we'd have to keep everyone locked up.}
+{492}{}{说实话是不能接受的。否则，我们就得把所有人都关起来。}
+#{493}{}{Not everyone. Vault management consisted of native vault dwellers. But many got old and died, because they couldn't produce their own clones, or it would lead to disarray, and eventually - riots in the city.}
+{493}{}{不是所有人。金库管理由本地金库居民组成。但是许多人老了，死了，因为他们不能生产自己的克隆人，否则会导致混乱，最终-城市骚乱。}
+#{494}{}{I was created "via test-tube" soon after the vault was locked. But after the original doctor, Richard Moreau disappeared, our government needed another reliable man in medical personnel, so I was told some truth. Still, I didn't know much!}
+{494}{}{我是在保险库被锁上后不久被“通过试管”创造出来的。但在原来的医生理查德·莫罗失踪后，我们的政府需要另一个可靠的医务人员，所以我被告知了一些真相。不过，我知道的不多！}
+#{495}{}{Hmm. Perhaps the government was cruel to create a whole city as a lab for their own selfish purposes, but our bodies helped saving lives of many people. I don't know how I feel about it. I need to understand everything thoroughly, before I judge anyone.}
+{495}{}{嗯。也许政府为了他们的私利而把整个城市建成实验室是残忍的，但是我们的身体帮助拯救了许多人的生命。我不知道我是怎么想的。在我评判任何人之前，我需要彻底了解一切。}
+#{496}{}{You know, perhaps being someone's clone isn't so bad. I mean, just look at you - in the vault we were happy, educated, protected. How many places like this exist in the wasteland? Living half of life happily, save someone else's later... It's not so bad at all, the way I see it. People outside the city are far less lucky.}
+{496}{}{你知道，也许成为某人的克隆人并不坏。我是说，看看你-在金库里我们很快乐，受过教育，受到保护。荒地里有多少这样的地方？快乐地过着半辈子，以后救别人。。。在我看来，一点也不坏。城外的人要幸运得多。}
+#{497}{}{}
+{497}{}{}
+#{498}{}{}
+{498}{}{}
+#{499}{}{}
+{499}{}{}
+#{500}{}{Did you see that ghoul guy in the cells?}
+{500}{}{你看到牢房里那个食尸鬼了吗？}
+#{501}{}{Let's talk about mutations.}
+{501}{}{我们来谈谈突变。}
+#{510}{}{The mutant? He was exposed to some sort of unknown virus, but radiation may have played a part too. On the other hand, the virus extends his lifetime along with his sufferings.}
+{510}{}{那个变种人？他接触了某种未知的病毒，但辐射可能也起了作用。另一方面，病毒伴随着他的痛苦延长了他的生命。}
+#{511}{}{Could he infect us?}
+{511}{}{他能感染我们吗？}
+#{512}{}{What do you think of Harold's mental abilities?}
+{512}{}{你觉得哈罗德的智力怎么样？}
+#{513}{}{Tell me about Richard Grey.}
+{513}{}{告诉我理查德·格雷的事。}
+#{514}{}{Tell me about the mutations.}
+{514}{}{告诉我突变的情况。}
+#{515}{}{I think that's enough about that.}
+{515}{}{我想这就够了。}
+#{521}{}{Not likely. He himself is not a source of radiation, nor is he a viral carrier.}
+{521}{}{不太可能。他本人不是辐射源，也不是病毒携带者。}
+#{522}{}{Despite his mutation and age, this mutant is... A teenager. He likes to fool around, but understands everything perfectly. He's preserved his interest in life... At least, for now. Who knows, maybe being able to live unnaturally long life will someday change him.}
+{522}{}{尽管他有变异和年龄，这个变种人。。。青少年。他喜欢胡闹，但对每件事都了如指掌。他保持了对生活的兴趣。。。至少现在是这样。谁知道呢，也许有一天能过上超乎自然的长寿生活会改变他。}
+#{523}{}{Richard Grey? We never had any citizens by that name. Perhaps you mean Richard Moreau. He mysteriously disappeared during the first expedition to the outside world. That was a long time ago.}
+{523}{}{理查德·格雷？我们从来没有叫这个名字的公民。也许你是说理查德·莫罗。他在第一次到外部世界探险时神秘失踪了。那是很久以前的事了。}
+#{524}{}{Harold said he knew Richard Grey from Vault 8.}
+{524}{}{哈罗德说他认识8号金库的理查德·格雷。}
+#{525}{}{I wouldn't take him so seriously. Who knows what's going on in his head? If Richard Moreau mutated just like Harold, then theoretically he could change his name. But I doubt it.}
+{525}{}{我不会把他当回事。谁知道他脑子里在想什么？如果理查德·莫罗像哈罗德一样变异，那么理论上他可以改名。但我对此表示怀疑。}
+#{530}{}{There are three types of mutations I'm aware of, if we classify them by genesis factor: toxins, radiation and viruses. The first two are usually very unstable and cause death or a twisted form of existence. But viral mutation is... Special. Unfortunately, I have little knowledge in this field. I simply have no material for studies.}
+{530}{}{我知道有三种类型的突变，如果我们按成因因素分类的话：毒素、辐射和病毒。前两者通常非常不稳定，会导致死亡或扭曲的存在形式。但病毒突变是。。。特别的。不幸的是，我在这方面的知识很少。我根本没有学习的材料。}
+#{531}{}{You need a mutant for your research?}
+{531}{}{你的研究需要一个变种人吗？}
+#{532}{}{No, not a whole live one. I'd need to compare Harold's blood with samples from different mutated creatures in the wasteland. I've tried to organize a research team to collect samples several times, but the committee always denies me. They say the patrols risk their lives enough without having to worry about my research.}
+{532}{}{不，不是整个活的。我需要把哈罗德的血液和荒地里不同变异生物的样本进行比较。我曾多次试图组织一个研究小组收集样本，但委员会总是拒绝我。他们说巡逻队冒着生命危险，不用担心我的研究。}
+#{533}{}{I can get those samples for you.}
+{533}{}{我可以帮你拿那些样品。}
+#{534}{}{You can? I didn't think of that! Take this set of sterile syringes and collect samples of animal blood from the wastes. I'm interested in pig rats, coyotes and geckos. Or something that resembles their family, at least. Write it down so you can remember. And be careful! If something happens, I can always provide you with medical assistance.}
+{534}{}{你可以？我没想到！取这套无菌注射器，从废物中采集动物血液样本。我对猪鼠、土狼和壁虎感兴趣。或者是类似于他们家庭的东西。把它写下来，这样你就能记住了。小心点！如果发生什么事，我随时可以为你提供医疗援助。}
+#{535}{}{Where can I find those animals?}
+{535}{}{我在哪里能找到那些动物？}
+#{536}{}{Good. But I have another question.}
+{536}{}{很好。但我还有一个问题。}
+#{537}{}{I'll see what I can do.}
+{537}{}{我看看我能做什么。}
+#{538}{}{Pig rats can be found in the west ruins. For coyotes you'll have to look further, but patrol reports suggest you can find them in the desert to the south-east. Geckos are all over the place, but usually congregate near the mountains.}
+{538}{}{在西部废墟中可以找到猪鼠。对于郊狼，你必须进一步寻找，但巡逻报告显示，你可以在东南部的沙漠中找到它们。壁虎到处都是，但通常聚集在山附近。}
+#{540}{}{Did you get the samples?}
+{540}{}{你拿到样品了吗？}
+#{541}{}{I have a sample of pig rat blood.}
+{541}{}{我有一份猪血和老鼠血的样本。}
+#{542}{}{I have a sample of coyote blood.}
+{542}{}{我有一份郊狼的血液样本。}
+#{543}{}{I didn't manage to get coyote blood. How about dog or wolf blood?}
+{543}{}{我没能弄到狼血。狗血还是狼血？}
+#{544}{}{I have a sample of gecko blood.}
+{544}{}{我有壁虎的血样。}
+#{545}{}{Not yet. I wanted to talk about something else.}
+{545}{}{还没有。我想谈点别的。}
+#{546}{}{Not yet. I'll go and take care of it right now.}
+{546}{}{还没有。我现在就去处理。}
+#{550}{}{Excellent! We must freeze the sample immediately...  [Takes the sample from you]}
+{550}{}{杰出的！我们必须立即冷冻样品。。。[从你身上取样本]}
+#{551}{}{[Next]}
+{551}{}{[下一步]}
+#{552}{}{Oh yeah, if you find any more samples, bring them to me.}
+{552}{}{哦，是的，如果你找到更多的样品，把它们带给我。}
+#{553}{}{Okay, Doc.}
+{553}{}{好的，医生。}
+#{554}{}{Oh yeah. This, I think, is all I needed. These samples will be enough for couple of weeks of research. I'm very grateful, thank you.}
+{554}{}{哦，是的。我想，这就是我所需要的。这些样本足够做几周的研究了。我非常感激，谢谢。}
+#{555}{}{You're welcome, but... Doc, after I worked with those dead mutants, I feel kinda strange... Nauseous, feverish, my head hurts... What's happpening to me?}
+{555}{}{不客气，但是。。。医生，在我和那些死去的变种人共事之后，我觉得有点奇怪。。。恶心，发烧，我的头疼。。。我怎么了？}
+#{556}{}{Quick, sit down so I can examine you... }
+{556}{}{快，坐下让我检查你。。。}
+#{557}{}{[Next]}
+{557}{}{[下一步]}
+#{558}{}{You're fine now. It was just an infection.}
+{558}{}{你现在没事了。只是感染而已。}
+#{559}{}{Inn-feck-shin?}
+{559}{}{福信酒店？}
+#{560}{}{I think I understand what you're talking about - foreign microorganisms and viruses invading the body, leading to an immune reaction.}
+{560}{}{我想我明白你在说什么-外来微生物和病毒侵入人体，导致免疫反应。}
+#{561}{}{I see you've managed to learn basic medicine. Nice work! Very impressive for a person that just got out of a coma.}
+{561}{}{我看你已经学会了基础医学。干得好！对一个刚从昏迷中醒过来的人来说印象深刻。}
+#{562}{}{But how could such a tiny creature cause such a strong reaction?}
+{562}{}{但这么小的生物怎么会引起如此强烈的反应呢？}
+#{563}{}{Heterogenous micro-organisms and viruses invade the body, leading to an immune reaction. The symptoms you described are how your body fights the invasion.}
+{563}{}{异质性微生物和病毒侵入人体，导致免疫反应。你描述的症状是你的身体如何抵抗入侵。}
+#{564}{}{I'm afraid, this is a common problem for vault citizens. You see, our bodies are used to sterile and clean habitat. The wastes, on the other hand, are anything but that. An organism can adapt to an infection only after it receives it in small doses, and due to our clean living environment, our immune systems are not exposed to many infections. That's why you got sick so easily.}
+{564}{}{恐怕，这是市民的通病。你看，我们的身体习惯于无菌和清洁的栖息地。另一方面，废物可不是这样的。一个有机体只有在接受小剂量的感染后才能适应它，由于我们干净的生活环境，我们的免疫系统不会受到很多感染。所以你很容易生病。}
+#{565}{}{What will happen, if it don't get treated in time?}
+{565}{}{如果不及时治疗会发生什么？}
+#{566}{}{That depends on the severity of the infection. Small ones will go away with your noticing them. Stronger infections will cause nausea, fever, and other symptoms, and very strong ones can kill. Keep yourself healthy so you don't end up looking like Harold. But as I said before, after passing each step of infection, your body will adapt to it.}
+{566}{}{这取决于感染的严重程度。小的会随着你的注意而消失。强烈的感染会引起恶心、发烧和其他症状，而非常强烈的感染会导致死亡。保持健康，这样你就不会看起来像哈罗德。但正如我之前所说，经过感染的每一步，你的身体都会适应它。}
+#{567}{}{How can I treat it on my own?}
+{567}{}{我自己怎么治疗？}
+#{568}{}{You should go to a doctor if possible, but if you find yourself infected in the middle of the desert, then try to mix antibiotics with xander root. You have to heat the mixture, so you'll need a fire. It's not perfect, but in an emergency it'll do. Clean water will help too, if there is a thing like clean water in the wastes.}
+{568}{}{如果可能的话，你应该去看医生，但是如果你发现自己在沙漠中被感染了，那就试着把抗生素和仙人掌混在一起。你得把混合物加热，所以需要生火。这并不完美，但在紧急情况下可以。如果废物中有像清水这样的东西，清水也会有帮助。}
+#{569}{}{Willmouth taught you how to treat infection with a campfire, using wild plants.}
+{569}{}{威尔茅斯教你如何用野火治疗感染，用野生植物。}
+#{570}{}{How long can the sickness last?}
+{570}{}{这种病能持续多久？}
+#{571}{}{Your body will fight as hard as it can, depending on your own endurance. If you isolate yourself from the outside environment, your body will eventually clear the infection entirely. If you're constantly exposed to a hostile environment however, your infection will spread much faster.}
+{571}{}{你的身体会尽可能地战斗，这取决于你自己的耐力。如果你把自己与外界隔离开来，你的身体最终会彻底清除感染。然而，如果你经常暴露在敌对的环境中，你的感染会传播得更快。}
+#{572}{}{Thanks for the explanation, Doc. That will come in handy outside the city.}
+{572}{}{谢谢你的解释，医生。在城外会派上用场的。}
+#{600}{}{Have you already met our servants?}
+{600}{}{你见过我们的仆人了吗？}
+#{601}{}{Yes. Very interesting material for studies.}
+{601}{}{对。非常有趣的学习材料。}
+#{602}{}{Did you examine them?}
+{602}{}{你检查过吗？}
+#{603}{}{Are they dangerous to us?}
+{603}{}{他们对我们有危险吗？}
+#{604}{}{What do you think about their mental abilities?}
+{604}{}{你觉得他们的智力怎么样？}
+#{605}{}{Don't you think stuffing them full of pills is unethical?}
+{605}{}{你不觉得把药片塞满他们是不道德的吗？}
+#{606}{}{}
+{606}{}{}
+#{607}{}{}
+{607}{}{}
+#{608}{}{I'm interested in something else.}
+{608}{}{我对别的东西感兴趣。}
+#{609}{}{That's all, I wanted to know.}
+{609}{}{仅此而已，我想知道。}
+#{610}{}{Yes, otherwise they would not be released out of the isolation block.}
+{610}{}{是的，否则它们不会从隔离块中释放出来。}
+#{611}{}{Well, it depends on what you mean by that. If mean in terms of viruses or infections, then no.}
+{611}{}{好吧，这取决于你的意思。如果是指病毒或感染，那么不是。}
+#{612}{}{They're a miserable lot. But they can hold a conversation and even be train... Err, educated.}
+{612}{}{他们真可怜。但他们可以进行对话，甚至是训练。。。呃，受过教育。}
+#{613}{}{No, I don't. We give them medication twice a day to suppress their will and urges, so they work instead of causing trouble. Believe me, this is in our best interest.}
+{613}{}{不，我没有。我们每天给他们两次药来抑制他们的意志和冲动，这样他们就不会惹麻烦了。相信我，这对我们最有利。}
+#{1115}{}{You were brought to us by a stranger calling himself a biker, tied up on the back seat of his two-wheeled vehicle. You can ask Sergeant Graves about him. You had limited mobility and were not aware of your surroundings. After you were rushed to me, I diagnosed brain damage and memory loss.}
+{1115}{}{你是被一个自称摩托车手的陌生人带到我们这里来的，他被绑在两轮车的后座上。你可以问问格雷夫斯中士关于他的事。你行动不便，对周围环境一无所知。你急忙找我，我诊断出脑损伤和记忆丧失。}
+#{1318}{}{Well, take care, citizen }
+{1318}{}{好吧，保重，市民}
+#{1400}{}{Hello, savior. I'm doing my best, despite the mess. How can I help you, }
+{1400}{}{你好，救世主。尽管一团糟，我还是尽力了。我能帮你什么吗，}
+#{1407}{}{You look terrible! You should have come by earlier.}
+{1407}{}{你看起来糟透了！你应该早点来的。}
+#{1424}{}{How could I get infected, anyway?}
+{1424}{}{我怎么会被感染呢？}

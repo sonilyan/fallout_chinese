@@ -1,0 +1,30 @@
+#{100}{}{You see a controller.}
+{100}{}{你看到一个控制器。 -- You see a controller.}
+#{101}{}{You see a substation to base building power supply controller. Damaged.}
+{101}{}{你看到一个变电站到基地大楼的电源控制器。损坏。 -- You see a substation to base building power supply controller. Damaged.}
+#{102}{}{You see a substation to base building power supply controller. It hums and the current flows.}
+{102}{}{你看到一个变电站到基地大楼的电源控制器。它嗡嗡作响，水流湍急。 -- You see a substation to base building power supply controller. It hums and the current flows.}
+#{103}{}{The controller has some wires and parts burnt. Need to find a replacement for repair.}
+{103}{}{控制器有些电线和零件烧坏了。需要找一个替代品来修理。 -- The controller has some wires and parts burnt. Need to find a replacement for repair.}
+#{104}{}{Need to replace the part}
+{104}{}{需要更换零件吗 -- Need to replace the part}
+#{105}{}{This equipment is in working condition and doesn't need repair.}
+{105}{}{这台设备处于工作状态，不需要修理。 -- This equipment is in working condition and doesn't need repair.}
+#{106}{}{Everything is in order.}
+{106}{}{一切都井然有序。 -- Everything is in order.}
+#{107}{}{It is hardly appropriate here.}
+{107}{}{在这里很不合适。 -- It is hardly appropriate here.}
+#{108}{}{It's useless}
+{108}{}{没用的 -- It's useless}
+#{109}{}{This generators needs a parts replacement, not recharge.}
+{109}{}{这台发电机需要更换零件，而不是充电。 -- This generators needs a parts replacement, not recharge.}
+#{110}{}{Done}
+{110}{}{多恩 -- Done}
+#{111}{}{Without replacing some parts, you can't repair the generator.}
+{111}{}{如果不更换一些零件，你就不能修理发电机。 -- Without replacing some parts, you can't repair the generator.}
+#{112}{}{You have replaced the damaged parts of the generator. Now the nearest buildings are receiving electricity.}
+{112}{}{你已经更换了发电机损坏的部件。现在最近的建筑物正在接受电力供应。 -- You have replaced the damaged parts of the generator. Now the nearest buildings are receiving electricity.}
+#{114}{}{Your repair skills are not good enough.}
+{114}{}{你的修理技术还不够好。 -- Your repair skills are not good enough.}
+#{115}{}{Can't do that}
+{115}{}{不能那样做 -- Can't do that}

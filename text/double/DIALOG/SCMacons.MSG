@@ -1,0 +1,132 @@
+#{100}{}{You see Makkon.}
+{100}{}{你看到麦肯了。 -- You see Makkon.}
+#{101}{}{You see a little Cheyenne boy named Makkon the Little Bear.}
+{101}{}{你看到一个夏延小男孩，名叫小熊麦肯。 -- You see a little Cheyenne boy named Makkon the Little Bear.}
+#{102}{}{That won't work. This boy needs extensive surgery.}
+{102}{}{那不行。这个男孩需要大手术。 -- That won't work. This boy needs extensive surgery.}
+#{103}{}{He needs surgery.}
+{103}{}{他需要动手术。 -- He needs surgery.}
+#{110}{}{Hey, mister!}
+{110}{}{嘿，先生！ -- Hey, mister!}
+#{111}{}{How do you feel, Makkon?}
+{111}{}{你觉得怎么样，麦肯？ -- How do you feel, Makkon?}
+#{112}{}{It's good to see you.}
+{112}{}{很高兴见到你。 -- It's good to see you.}
+#{113}{}{I can even run now! No one can believe it! You is a great shaman, like Avanigizhig! Thank you, thank you!}
+{113}{}{我现在甚至可以跑了！没人能相信！你是一个伟大的萨满，像阿瓦尼吉吉！谢谢，谢谢！ -- I can even run now! No one can believe it! You is a great shaman, like Avanigizhig! Thank you, thank you!}
+#{114}{}{That's good. I hope you get better.}
+{114}{}{那很好。我希望你能好起来。 -- That's good. I hope you get better.}
+#{115}{}{Sad, that I can't run like before. But happy that my legs have no pain anymore! Thank you! May the ruler walk your path forever!}
+{115}{}{可悲的是，我不能像以前那样跑了。但很高兴我的腿不再痛了！谢谢您！愿统治者永远走在你的道路上！ -- Sad, that I can't run like before. But happy that my legs have no pain anymore! Thank you! May the ruler walk your path forever!}
+#{116}{}{I walk so strange now, but anything is better than before. It was so scary...I saw evil spirits around me, waiting for me to die, like when I drank Avanigizhig's potion by mistake. Thank you for saving me from that.}
+{116}{}{我现在走路很奇怪，但一切都比以前好了。太可怕了…我看到恶魔在我身边，等着我死去，就像我误喝了阿凡尼吉的药水。谢谢你救了我。 -- I walk so strange now, but anything is better than before. It was so scary...I saw evil spirits around me, waiting for me to die, like when I drank Avanigizhig's potion by mistake. Thank you for saving me from that.}
+#{120}{}{This poor child is unconscious. His bloody, swollen feet are tied with cloth and herbs, intoxicating smoke wafts from a nearby bowl. But without surgery these treatments only delay the inevitable.}
+{120}{}{这个可怜的孩子昏迷了。他那血淋淋、肿胀的脚被布和药草绑着，附近的碗里飘着醉人的烟雾。但如果不做手术，这些治疗只能推迟不可避免的结果。 -- This poor child is unconscious. His bloody, swollen feet are tied with cloth and herbs, intoxicating smoke wafts from a nearby bowl. But without surgery these treatments only delay the inevitable.}
+#{121}{}{Leave him alone.}
+{121}{}{别管他。 -- Leave him alone.}
+#{122}{}{Perform a medical examination.}
+{122}{}{进行体检。 -- Perform a medical examination.}
+#{123}{}{Even through the swelling and inflammation, you can tell his bones and muscles have been broken and torn. He'll need extensive surgery to recover.}
+{123}{}{即使通过肿胀和发炎，你也可以看出他的骨头和肌肉已经断裂和撕裂。他需要大手术才能康复。 -- Even through the swelling and inflammation, you can tell his bones and muscles have been broken and torn. He'll need extensive surgery to recover.}
+#{124}{}{Determine how long the patient will live in this condition.}
+{124}{}{确定患者在这种情况下能活多久。 -- Determine how long the patient will live in this condition.}
+#{125}{}{Determine the odds of recovery.}
+{125}{}{确定恢复的可能性。 -- Determine the odds of recovery.}
+#{126}{}{Examine the boy in detail.}
+{126}{}{仔细检查这个男孩。 -- Examine the boy in detail.}
+#{127}{}{It's hard to tell how long the patient will live - between a few weeks and six months. But without advanced medicinal help his death is inevitable.}
+{127}{}{很难说病人能活多久——几周到六个月。但如果没有先进的医疗帮助，他的死亡是不可避免的。 -- It's hard to tell how long the patient will live - between a few weeks and six months. But without advanced medicinal help his death is inevitable.}
+#{128}{}{You don't have the medical skill for this. You'll need a more experienced doctor to help you.}
+{128}{}{你没有这方面的医术。你需要一个更有经验的医生来帮助你。 -- You don't have the medical skill for this. You'll need a more experienced doctor to help you.}
+#{129}{}{After examination, you have confidence, that you can save this boy's life. Though, it's hard to predict how fully he'll recover.}
+{129}{}{经过检查，你有信心，你能救这个男孩的命。不过，很难预测他会恢复到什么程度。 -- After examination, you have confidence, that you can save this boy's life. Though, it's hard to predict how fully he'll recover.}
+#{130}{}{You can't even determine where the fractures are located. This is clearly beyond your skill level.}
+{130}{}{你甚至不能确定骨折的位置。这显然超出了你的技能水平。 -- You can't even determine where the fractures are located. This is clearly beyond your skill level.}
+#{131}{}{This patient is being treated with traditional medicine, such as broths from roots, flowers, mouse feces and smudge. Though this treatment does have analgesic, sedative, antiseptic, and regenerative effects, it's only enough to stave off death, not encourage recovery. He's locked in a morbid state between life and death.}
+{131}{}{这个病人正在用传统的药物治疗，如根汤、花、老鼠粪便和污渍。虽然这种疗法确实有镇痛、镇静、杀菌和再生的效果，但它只足以延缓死亡，而不足以促进康复。他处于生死之间的病态状态。 -- This patient is being treated with traditional medicine, such as broths from roots, flowers, mouse feces and smudge. Though this treatment does have analgesic, sedative, antiseptic, and regenerative effects, it's only enough to stave off death, not encourage recovery. He's locked in a morbid state between life and death.}
+#{132}{}{Evaluate the surgical tools available.}
+{132}{}{评估可用的手术工具。 -- Evaluate the surgical tools available.}
+#{133}{}{The healer's tent includes some primitive tools, but they're not enough. To treat this boy you'll need painkillers, a stimpak to speed tissue repair, a first aid kit or doctor's kit, a scalpel or other sharp blade, and of course, an impressive set of medical skills.}
+{133}{}{治疗者的帐篷里有一些原始的工具，但还不够。要治疗这个男孩，你需要止痛药，一个加速组织修复的stimpak，一个急救箱或医生的工具箱，一把手术刀或其他锋利的刀片，当然，还有一套令人印象深刻的医疗技能。 -- The healer's tent includes some primitive tools, but they're not enough. To treat this boy you'll need painkillers, a stimpak to speed tissue repair, a first aid kit or doctor's kit, a scalpel or other sharp blade, and of course, an impressive set of medical skills.}
+#{134}{}{Prepare the patient for surgery.}
+{134}{}{让病人做好手术准备。 -- Prepare the patient for surgery.}
+#{135}{}{Leave the patient alone.}
+{135}{}{别管病人。 -- Leave the patient alone.}
+#{136}{}{The healer will probably not appreciate your proactiveness. You can't carry out the operation with him here.}
+{136}{}{治疗者可能不会欣赏你的主动性。你不能和他一起做手术。 -- The healer will probably not appreciate your proactiveness. You can't carry out the operation with him here.}
+#{137}{}{The healer is telling stories to children around the campfire. You'll have about an hour to perform the operation, which should be enough.}
+{137}{}{治疗师正在营火旁给孩子们讲故事。你大概有一个小时来做手术，这应该足够了。 -- The healer is telling stories to children around the campfire. You'll have about an hour to perform the operation, which should be enough.}
+#{138}{}{I�m ready. Let�s begin!}
+{138}{}{我准备好了。我们开始吧！ -- I�m ready. Let�s begin!}
+#{139}{}{Looking at the swollen limb, you realize you can't even tell where the fractures are located. Don't even think of carrying out this surgery on your own.}
+{139}{}{看着肿胀的肢体，你意识到你甚至不知道骨折的位置。别想自己做这个手术。 -- Looking at the swollen limb, you realize you can't even tell where the fractures are located. Don't even think of carrying out this surgery on your own.}
+#{140}{}{Makozid is still following you throughout the village. Unless you get permission, you can't perform the surgery with him here.}
+{140}{}{Makozid还在全村跟着你。除非你得到允许，否则你不能和他一起做手术。 -- Makozid is still following you throughout the village. Unless you get permission, you can't perform the surgery with him here.}
+#{141}{}{Makkon can regain consciousness during surgery, but you have painkillers to keep him calm.}
+{141}{}{Makkon可以在手术中恢复意识，但你有止痛药让他保持冷静。 -- Makkon can regain consciousness during surgery, but you have painkillers to keep him calm.}
+#{142}{}{Makkon can regain consciousness during surgery and you have nothing to relieve his pain.}
+{142}{}{Makkon可以在手术中恢复知觉，你没有什么可以减轻他的痛苦。 -- Makkon can regain consciousness during surgery and you have nothing to relieve his pain.}
+#{143}{}{Next.}
+{143}{}{下一个。 -- Next.}
+#{144}{}{Leave.}
+{144}{}{离开。 -- Leave.}
+#{145}{}{You need gauze and bandages. Fortunately, you have these in your doctor's bag.}
+{145}{}{你需要纱布和绷带。幸运的是，你的医生包里有这些。 -- You need gauze and bandages. Fortunately, you have these in your doctor's bag.}
+#{146}{}{You need gauze and bandages. Fortunately, you have these in your first aid kit.}
+{146}{}{你需要纱布和绷带。幸运的是，你的急救箱里有这些。 -- You need gauze and bandages. Fortunately, you have these in your first aid kit.}
+#{147}{}{You need gauze and bandages, but you don't have any.}
+{147}{}{你需要纱布和绷带，但你没有。 -- You need gauze and bandages, but you don't have any.}
+#{148}{}{After surgery is complete, you should inject a stimpak into his legs to kickstart the healing process.}
+{148}{}{手术完成后，你应该在他的腿上注射一个stimpak来启动愈合过程。 -- After surgery is complete, you should inject a stimpak into his legs to kickstart the healing process.}
+#{149}{}{You need a stimpak to speed up the healing process after surgery is complete, but you don't have any.}
+{149}{}{手术完成后，你需要一个stimpak来加速愈合过程，但你没有。 -- You need a stimpak to speed up the healing process after surgery is complete, but you don't have any.}
+#{150}{}{You need a blade to get the surgery started. Fortunately, you just so happen to have one in your backpack.}
+{150}{}{你需要刀片才能开始手术。幸运的是，你的背包里正好有一个。 -- You need a blade to get the surgery started. Fortunately, you just so happen to have one in your backpack.}
+#{151}{}{Stay strong, Makkon. Once I set your bones, they can start growing back together.}
+{151}{}{坚强点，麦肯。一旦我把你的骨头固定好，它们就可以重新长起来了。 -- Stay strong, Makkon. Once I set your bones, they can start growing back together.}
+#{152}{}{All you need now is a blade for the surgery.}
+{152}{}{你现在只需要一把手术刀。 -- All you need now is a blade for the surgery.}
+#{153}{}{You have everything you need for the surgery. No one can see you. It's the perfect time to start!}
+{153}{}{手术所需的一切你都准备好了。没人能看见你。现在是开始的最佳时机！ -- You have everything you need for the surgery. No one can see you. It's the perfect time to start!}
+#{154}{}{During and after the operation you will need clean water to wash Makkon's wounds and your own hands.}
+{154}{}{手术期间和之后，你需要干净的水来清洗Makkon的伤口和你自己的手。 -- During and after the operation you will need clean water to wash Makkon's wounds and your own hands.}
+#{155}{}{You still don't have everything you need for the operation.}
+{155}{}{你还没有准备好手术所需的一切。 -- You still don't have everything you need for the operation.}
+#{156}{}{}
+{156}{}{ -- }
+#{157}{}{}
+{157}{}{ -- }
+#{170}{}{Who... Who are you? Are you a savior, sent by Heavenly Mother?}
+{170}{}{谁。。。你是谁？你是天母派来的救世主吗？ -- Who... Who are you? Are you a savior, sent by Heavenly Mother?}
+#{171}{}{Er, it's complicated...}
+{171}{}{呃，很复杂。。。 -- Er, it's complicated...}
+#{172}{}{What's happening in... By the Ruler! Outsider, what have you done?!}
+{172}{}{发生了什么。。。靠尺子！外人，你干了什么？！ -- What's happening in... By the Ruler! Outsider, what have you done?!}
+#{173}{}{It's a miracle, Ruffled Feathers! Outsider is sent by Heavenly Mother to heal me! I feel... I feel better!}
+{173}{}{这是个奇迹，皱巴巴的羽毛！外人是天母派来医治我的！我觉得。。。我感觉好多了！ -- It's a miracle, Ruffled Feathers! Outsider is sent by Heavenly Mother to heal me! I feel... I feel better!}
+#{174}{}{Let me see you, Makkon... It's... It's... Heavenly Mother! It's a miracle!}
+{174}{}{让我看看你，麦肯。。。这是。。。这是。。。天母啊！真是奇迹！ -- Let me see you, Makkon... It's... It's... Heavenly Mother! It's a miracle!}
+#{175}{}{You earn 10000 experience points and the Cheyenne tribe's eternal love for healing Makkon.}
+{175}{}{你将获得10000点经验值和夏延部落对治愈玛肯的永恒之爱。 -- You earn 10000 experience points and the Cheyenne tribe's eternal love for healing Makkon.}
+#{180}{}{What's happening in... By the Ruler! Outsider, what have you done?!}
+{180}{}{发生了什么。。。靠尺子！外人，你干了什么？！ -- What's happening in... By the Ruler! Outsider, what have you done?!}
+#{181}{}{I wanted to help him, but his condition was too severe. I did everything I could.}
+{181}{}{我想帮助他，但他的病情太严重了。我尽了我所能。 -- I wanted to help him, but his condition was too severe. I did everything I could.}
+#{182}{}{Did I allow you?! Did I ask you?!}
+{182}{}{我允许你吗？！我问过你吗？！ -- Did I allow you?! Did I ask you?!}
+#{183}{}{He was dying! I was trying to help!}
+{183}{}{他快死了！我只是想帮忙！ -- He was dying! I was trying to help!}
+#{184}{}{Your "help" killed this child! Get out!}
+{184}{}{你的“帮助”杀了这个孩子！走出！ -- Your "help" killed this child! Get out!}
+#{185}{}{Leave this village and never return!}
+{185}{}{离开这个村子，永远不要回来！ -- Leave this village and never return!}
+#{186}{}{If ever your path crosses the Cheyenne again, turn around! You will be hated by the Cheyenne from this day forward!}
+{186}{}{如果你的路再次穿过夏延河，就掉头！从今天起夏延人会恨你的！ -- If ever your path crosses the Cheyenne again, turn around! You will be hated by the Cheyenne from this day forward!}
+#{187}{}{You could not cure Makkon, but it was a great learning experience. You earn 5000 experience points and gain +10 to your Doctor skill.}
+{187}{}{You could not cure Makkon, but it was a great learning experience. You earn 5000 experience points and gain +10 to your Doctor skill. -- You could not cure Makkon, but it was a great learning experience. You earn 5000 experience points and gain +10 to your Doctor skill.}
+#{1110}{}{Hey, miss!}
+{1110}{}{嘿，小姐！ -- Hey, miss!}
+#{1112}{}{It's good to see you.}
+{1112}{}{很高兴见到你。 -- It's good to see you.}
+#{1113}{}{I can even run now! No one can believe it! You is a great shaman, like Avanigizhig! Thank you, thank you!}
+{1113}{}{我现在甚至可以跑了！没人能相信！你是一个伟大的萨满，像阿瓦尼吉吉！谢谢，谢谢！ -- I can even run now! No one can believe it! You is a great shaman, like Avanigizhig! Thank you, thank you!}

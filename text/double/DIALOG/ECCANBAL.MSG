@@ -1,0 +1,16 @@
+#{100}{}{You see a cannibal.}
+{100}{}{你看到一个食人族。 -- You see a cannibal.}
+#{101}{}{Foood!}
+{101}{}{笨蛋！ -- Foood!}
+#{102}{}{It's meal time!}
+{102}{}{吃饭时间到了！ -- It's meal time!}
+#{103}{}{Hmmm... White meat.}
+{103}{}{六羟甲基三聚氰胺六甲醚。。。白肉。 -- Hmmm... White meat.}
+#{104}{}{Yum!}
+{104}{}{好极了！ -- Yum!}
+#{105}{}{Tasty!}
+{105}{}{美味的！ -- Tasty!}
+#{106}{}{It looks tender.}
+{106}{}{它看起来很嫩。 -- It looks tender.}
+#{107}{}{::Slurp::}
+{107}{}{●咕噜声： -- ::Slurp::}

@@ -1,0 +1,46 @@
+#{100}{}{You see a street kid.}
+{100}{}{你看到一个流浪汉。 -- You see a street kid.}
+#{101}{}{You see the "elusive" graffiti artist.}
+{101}{}{你会看到“难以捉摸”的涂鸦艺术家。 -- You see the "elusive" graffiti artist.}
+#{102}{}{Your old beater has been transformed into one slick ride!}
+{102}{}{你的旧打手已经变成了一个光滑的坐骑！ -- Your old beater has been transformed into one slick ride!}
+#{103}{}{That looks amazing!}
+{103}{}{看起来太棒了！ -- That looks amazing!}
+#{104}{}{Help!}
+{104}{}{救命啊！ -- Help!}
+#{110}{}{You again?! I'm not doing anything wrong, I swear!}
+{110}{}{又是你？！我发誓，我没有做错任何事！ -- You again?! I'm not doing anything wrong, I swear!}
+#{111}{}{Yeah? Looks like you're up to your old tricks. If I catch you one more time...}
+{111}{}{是 啊？看来你在耍老把戏。如果我再抓住你一次。。。 -- Yeah? Looks like you're up to your old tricks. If I catch you one more time...}
+#{112}{}{I hope you've learned your lesson. See you around.}
+{112}{}{我希望你已经吸取了教训。回头见。 -- I hope you've learned your lesson. See you around.}
+#{113}{}{Hey kid, you open for commissions? I think my car needs a new coat of paint.}
+{113}{}{嘿，孩子，你愿意接受佣金吗？我想我的车需要刷一层新漆。 -- Hey kid, you open for commissions? I think my car needs a new coat of paint.}
+#{114}{}{R-really? I can paint a *working* car?! I'll do it!!! What do you want on it? I can do anything!}
+{114}{}{真的吗？我能画一辆正在工作的车？！我会做的！！！你想要什么？我什么都能做！ -- R-really? I can paint a *working* car?! I'll do it!!! What do you want on it? I can do anything!}
+#{115}{}{Just repaint the whole thing so it looks new again. And... Put a Sheriff's star on the door. It'll be very... Conceptual.}
+{115}{}{把整件东西重新粉刷一下，让它看起来又新了。还有。。。在门上挂一颗警长星。这将是非常。。。概念的。 -- Just repaint the whole thing so it looks new again. And... Put a Sheriff's star on the door. It'll be very... Conceptual.}
+#{116}{}{It'll be perfect, I swear! But, uh... How much are you going to pay for it?}
+{116}{}{一定会很完美的，我发誓！但是，呃。。。你打算付多少钱？ -- It'll be perfect, I swear! But, uh... How much are you going to pay for it?}
+#{117}{}{I'll give you a hundred dollars.}
+{117}{}{我给你一百美元。 -- I'll give you a hundred dollars.}
+#{118}{}{Nothing.}
+{118}{}{没有什么。 -- Nothing.}
+#{119}{}{Pfft, a hundred for all that? Give me, uh... Two hundred.}
+{119}{}{Pfft，100美元？给我，呃。。。两百。 -- Pfft, a hundred for all that? Give me, uh... Two hundred.}
+#{120}{}{You little bloodsucker! Fine, two hundred. And not a penny more!}
+{120}{}{你这个吸血鬼！好吧，两百。一分钱也不要！ -- You little bloodsucker! Fine, two hundred. And not a penny more!}
+#{121}{}{Sorry, kid. You're getting a hundred.}
+{121}{}{对不起，孩子。你得到一百块。 -- Sorry, kid. You're getting a hundred.}
+#{122}{}{Two hundred, or nothing!}
+{122}{}{两百，或者什么都没有！ -- Two hundred, or nothing!}
+#{123}{}{Fine! Here's two hundred dollars. Get to work!}
+{123}{}{好的！这是两百美元。开始工作吧！ -- Fine! Here's two hundred dollars. Get to work!}
+#{124}{}{Then nothing. Bye, little bloodsucker.}
+{124}{}{然后什么都没有。再见，小吸血鬼。 -- Then nothing. Bye, little bloodsucker.}
+#{125}{}{Hmph! Okay, okay, you convinced me. Oh, boy... A real car! Give me the money, I'll be quick.}
+{125}{}{哼！好吧，好吧，你说服了我。哦，孩子。。。一辆真正的车！把钱给我，我会很快的。 -- Hmph! Okay, okay, you convinced me. Oh, boy... A real car! Give me the money, I'll be quick.}
+#{126}{}{Here's your hundred. Let's see your magic.}
+{126}{}{这是你的一百元。让我们看看你的魔法。 -- Here's your hundred. Let's see your magic.}
+#{127}{}{On second thought, I think I like the beat-up look. Never mind, kid.}
+{127}{}{再想一想，我想我喜欢那破旧的样子。没关系，孩子。 -- On second thought, I think I like the beat-up look. Never mind, kid.}

@@ -1,0 +1,46 @@
+#{100}{}{You see a guest.}
+{100}{}{你看到一个客人。 -- You see a guest.}
+#{101}{}{You see a passing trader. Now he is resting from the road and gaining strength for a long journey.}
+{101}{}{你看到一个过路的交易者。现在他在路上歇息，渐渐强壮起来，可以作长途旅行。 -- You see a passing trader. Now he is resting from the road and gaining strength for a long journey.}
+#{102}{}{Thank you for your help}
+{102}{}{谢谢你的帮助 -- Thank you for your help}
+#{110}{}{Yes? What do you want?}
+{110}{}{对？你想要什么？ -- Yes? What do you want?}
+#{111}{}{Just to chat if you don't mind.}
+{111}{}{如果你不介意的话，只是聊聊天。 -- Just to chat if you don't mind.}
+#{112}{}{Nothing. Just wrong door.}
+{112}{}{没有什么。只是走错了门。 -- Nothing. Just wrong door.}
+#{113}{}{This, of course, is great, but I would like to rest from the road and after all this turmoil. You know, sometimes you have to run around the city in order to sort things out. And then my wallet was stolen! Thieves can't let you breathe.}
+{113}{}{当然，这是伟大的，但我想休息的道路和经过所有这些动荡。你知道，有时候你得在城里跑来跑去把事情弄清楚。然后我的钱包被偷了！小偷不能让你呼吸。 -- This, of course, is great, but I would like to rest from the road and after all this turmoil. You know, sometimes you have to run around the city in order to sort things out. And then my wallet was stolen! Thieves can't let you breathe.}
+#{114}{}{Your wallet was stolen? Tell me more about it.}
+{114}{}{你的钱包被偷了？告诉我更多。 -- Your wallet was stolen? Tell me more about it.}
+#{115}{}{Then I will not interfere with your melancholy. Goodbye.}
+{115}{}{那我就不打扰你的忧郁了。再见。 -- Then I will not interfere with your melancholy. Goodbye.}
+#{116}{}{It was an old leather purse with a pile of papers and notes. There was no money there. The last time I used it was in the caravaneers' office. Then he returned here, and the purse was gone! I really do not know who could have rob me on this short path.}
+{116}{}{那是一个旧皮包，里面有一堆文件和纸条。那里没有钱。我上次用它是在商队的办公室里。然后他回来了，钱包不见了！我真不知道谁能在这条小路上抢我的钱。 -- It was an old leather purse with a pile of papers and notes. There was no money there. The last time I used it was in the caravaneers' office. Then he returned here, and the purse was gone! I really do not know who could have rob me on this short path.}
+#{117}{}{So, on the path from the caravaneers to the hotel... I'll remember it.}
+{117}{}{所以，在从商队到酒店的路上。。。我会记住的。 -- So, on the path from the caravaneers to the hotel... I'll remember it.}
+#{118}{}{If you find it, I'll pay.}
+{118}{}{如果你找到了，我会付钱的。 -- If you find it, I'll pay.}
+#{119}{}{Good.}
+{119}{}{很好。 -- Good.}
+#{120}{}{Yes?}
+{120}{}{对？ -- Yes?}
+#{121}{}{Tell me again about stolen wallet.}
+{121}{}{再告诉我一次钱包被偷的事。 -- Tell me again about stolen wallet.}
+#{122}{}{Nothing, nevermind.}
+{122}{}{没什么，没关系。 -- Nothing, nevermind.}
+#{123}{}{Your purse was found. Don't ask where. I have my own professional secrets.}
+{123}{}{你的钱包被发现了。别问在哪儿。我有自己的职业秘密。 -- Your purse was found. Don't ask where. I have my own professional secrets.}
+#{124}{}{Phew, what a relief! If it wasn't found, you can't even imagine how much time and effort I'd spent on the papers' restoration. Thanks a bunch. I promised you a reward. Here's 100$ for the finding.}
+{124}{}{呸，真是松了一口气！如果没有找到，你甚至无法想象我花了多少时间和精力修复这些文件。多谢了。我答应给你报酬的。这是100美元。 -- Phew, what a relief! If it wasn't found, you can't even imagine how much time and effort I'd spent on the papers' restoration. Thanks a bunch. I promised you a reward. Here's 100$ for the finding.}
+#{125}{}{You don't need to pay. Taking rewards for other's belongings isn't really fair.}
+{125}{}{你不需要付钱。拿别人的东西作为奖励是不公平的。 -- You don't need to pay. Taking rewards for other's belongings isn't really fair.}
+#{126}{}{You're welcome. Be careful in this town. Now I need to go.}
+{126}{}{不客气。在这个镇上要小心。现在我要走了。 -- You're welcome. Be careful in this town. Now I need to go.}
+#{127}{}{You're a wonderful person! Thank you again.}
+{127}{}{你真是个好人！再次感谢你。 -- You're a wonderful person! Thank you again.}
+#{128}{}{You're welcome. Be careful in this town. Now I need to go.}
+{128}{}{不客气。在这个镇上要小心。现在我要走了。 -- You're welcome. Be careful in this town. Now I need to go.}
+#{1112}{}{Nothing. Just wrong door.}
+{1112}{}{没有什么。只是走错了门。 -- Nothing. Just wrong door.}

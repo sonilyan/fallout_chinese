@@ -1,0 +1,12 @@
+#{100}{}{You see the cook.}
+{100}{}{你看到厨师了。}
+#{101}{}{You see the cook. He cuts, shreds, rubs and scrapes something. All the time.}
+{101}{}{你看到厨师了。他切、撕、擦、刮东西。总是。}
+#{102}{}{Get out!}
+{102}{}{走出！}
+#{103}{}{Hey, young man! Staff only! Go on and get out! And close the door behind you! Shoo! Shoo!}
+{103}{}{嘿，年轻人！仅限员工！快出去！把门关上！嘘！嘘！}
+#{104}{}{Fine.}
+{104}{}{好的。}
+#{1103}{}{Hey, young lady! Staff only! Go on and get out! And close the door behind you! Shoo! Shoo!}
+{1103}{}{嘿，小姐！仅限员工！快出去！把门关上！嘘！嘘！}

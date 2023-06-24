@@ -1,0 +1,2 @@
+#{100}{}{The ruins ahead are uninhabited. But, judging from army boots footprints, you're not alone here.}
+{100}{}{前面的废墟无人居住。但是，从军靴上的脚印来看，这里不止你一个人。 -- The ruins ahead are uninhabited. But, judging from army boots footprints, you're not alone here.}

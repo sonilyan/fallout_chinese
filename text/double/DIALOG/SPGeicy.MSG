@@ -1,0 +1,72 @@
+#{100}{}{You see a Provo resident.}
+{100}{}{你看到一个普罗沃居民。 -- You see a Provo resident.}
+#{101}{}{You see Gary Gilmore.}
+{101}{}{你看到加里·吉尔摩了。 -- You see Gary Gilmore.}
+#{102}{}{You see a very unpleasant looking man.}
+{102}{}{你看到一个很难看的人。 -- You see a very unpleasant looking man.}
+#{103}{}{You see that Gilmore, one and only. But you wish you didn�t.}
+{103}{}{你看，只有吉尔摩一个。但你希望你没有。 -- You see that Gilmore, one and only. But you wish you didn�t.}
+#{104}{}{Gary Gilmore is dead. May his soul be condemned to torments of hell!}
+{104}{}{加里·吉尔摩死了。愿他的灵魂受到地狱的折磨！ -- Gary Gilmore is dead. May his soul be condemned to torments of hell!}
+#{110}{}{And who the hell are you?!}
+{110}{}{你到底是谁？！ -- And who the hell are you?!}
+#{111}{}{I�m here for business, so sit quietly and don�t fuck with me.}
+{111}{}{我是来办事的，所以安静地坐着，别跟我上床。 -- I�m here for business, so sit quietly and don�t fuck with me.}
+#{112}{}{Well! Look who is here!}
+{112}{}{好！看谁来了！ -- Well! Look who is here!}
+#{113}{}{Well, well, look who is here. Looking for trouble? You came into right place.}
+{113}{}{好吧，好吧，看看谁来了。找麻烦？你来对地方了。 -- Well, well, look who is here. Looking for trouble? You came into right place.}
+#{114}{}{Keep quiet, I have business here.}
+{114}{}{别出声，我有事。 -- Keep quiet, I have business here.}
+#{115}{}{[Force the justice on this fucker]}
+{115}{}{[给这个混蛋伸张正义] -- [Force the justice on this fucker]}
+#{116}{}{By the authority of Salt Lake Sheriff, you are sentenced to be hanged. Do you have anything to say in your defense?}
+{116}{}{根据盐湖警长的授权，你被判处绞刑。你有什么要说的吗？ -- By the authority of Salt Lake Sheriff, you are sentenced to be hanged. Do you have anything to say in your defense?}
+#{117}{}{Yes, goddamn it! The Sheriff can kiss my ass, and you...}
+{117}{}{是的，该死！警长可以亲我的屁股，而你。。。 -- Yes, goddamn it! The Sheriff can kiss my ass, and you...}
+#{118}{}{And about your sentence?}
+{118}{}{你的判决呢？ -- And about your sentence?}
+#{119}{}{Shut the fuck up, scum! [attack]}
+{119}{}{闭嘴，混蛋！[攻击] -- Shut the fuck up, scum! [attack]}
+#{120}{}{Relax, I don�t want any trouble.}
+{120}{}{别紧张，我不想惹麻烦。 -- Relax, I don�t want any trouble.}
+#{121}{}{Those worthless idiots brought it to themselves. I *helped* the city, I cleansed it, something that that coward with a badge could never do.}
+{121}{}{那些没用的白痴自作主张。我帮助了这个城市，我净化了它，这是那个拿着徽章的懦夫永远做不到的。 -- Those worthless idiots brought it to themselves. I *helped* the city, I cleansed it, something that that coward with a badge could never do.}
+#{122}{}{Coward with a badge? You mean the Sheriff?}
+{122}{}{有徽章的懦夫？你是说警长？ -- Coward with a badge? You mean the Sheriff?}
+#{123}{}{Who do you think I am - the public library?! Yes, I mean the Sheriff!}
+{123}{}{你以为我是谁-公共图书馆？！是的，我是说警长！ -- Who do you think I am - the public library?! Yes, I mean the Sheriff!}
+#{124}{}{So, I guess, you really did something bad in the city?}
+{124}{}{所以，我猜，你真的在城里做了坏事？ -- So, I guess, you really did something bad in the city?}
+#{125}{}{Do you really want to know? Fine, I�ll tell you. Not one son of a bitch wants to hear me on this, let alone understand! But all I ever needed was a little human appreciation. I suffered for my whole life because of someone else�s stupidity. So, I decided to have my revenge on everybody and rid this city from bad people while doing it.}
+{125}{}{你真的想知道吗？好吧，我告诉你。没有一个狗娘养的想听我说，更别说明白了！但我所需要的只是一点人类的欣赏。因为别人的愚蠢，我一辈子都在受苦。所以，我决定向所有人复仇，同时把这个城市从坏人手中赶走。 -- Do you really want to know? Fine, I�ll tell you. Not one son of a bitch wants to hear me on this, let alone understand! But all I ever needed was a little human appreciation. I suffered for my whole life because of someone else�s stupidity. So, I decided to have my revenge on everybody and rid this city from bad people while doing it.}
+#{126}{}{That�s why you made so many people suffer?}
+{126}{}{所以你才让这么多人受苦？ -- That�s why you made so many people suffer?}
+#{127}{}{Suffer? No, they didn�t suffer for long. I still have a soul, you know, something you can�t say about them. Just think about it: I wouldn�t just be easily executed in Salt Lake, would I? I would be tortured first, for the whole day. So, it turns out I was even kind, unlike them.}
+{127}{}{受苦？不，他们没有受苦太久。我还有一个灵魂，你知道，一些你不能说的东西。想想看：我不会在盐湖城被轻易处决吧？我会先被折磨一整天。所以，事实证明我甚至很善良，不像他们。 -- Suffer? No, they didn�t suffer for long. I still have a soul, you know, something you can�t say about them. Just think about it: I wouldn�t just be easily executed in Salt Lake, would I? I would be tortured first, for the whole day. So, it turns out I was even kind, unlike them.}
+#{128}{}{Funny, a maniac that is talking about kindness...}
+{128}{}{有趣的是，一个疯子在谈论善良。。。 -- Funny, a maniac that is talking about kindness...}
+#{129}{}{W-what?! How dare you! I... I... [starts to tremble hysterically and make all kind of faces] Do you even imagine how it feels - to slice a throat of some bitch with a blunt knife? Or to pull out intestines through the belly button with bare hands? That's UNBEARABLE! Every time I have a seizure at the end. I can't take it anymore!}
+{129}{}{什么？！你怎么敢！一、 。。。一、 。。。[开始歇斯底里地颤抖，做出各种各样的表情]你能想象那种感觉吗——用钝刀割一个婊子的喉咙？还是徒手从肚脐拔肠？真让人受不了！每次我最后发作的时候。我受不了了！ -- W-what?! How dare you! I... I... [starts to tremble hysterically and make all kind of faces] Do you even imagine how it feels - to slice a throat of some bitch with a blunt knife? Or to pull out intestines through the belly button with bare hands? That's UNBEARABLE! Every time I have a seizure at the end. I can't take it anymore!}
+#{130}{}{I should rip your guts out right here, but no one in the city would believe me. You�re coming with me and you will be hanged publicly.}
+{130}{}{我应该把你的肠子挖出来，但城里没人相信我。你跟我来，你会被公开绞死。 -- I should rip your guts out right here, but no one in the city would believe me. You�re coming with me and you will be hanged publicly.}
+#{131}{}{Then have your sentence! Executed, right now!}
+{131}{}{那就宣判吧！马上执行！ -- Then have your sentence! Executed, right now!}
+#{132}{}{What a heartbreaking story. I hope you will understand what you did someday.}
+{132}{}{多么令人心碎的故事。我希望有一天你会明白你做了什么。 -- What a heartbreaking story. I hope you will understand what you did someday.}
+#{133}{}{What? To die, just like that? Suck it, all of you!}
+{133}{}{什么？就这样死去？去死吧，你们所有人！ -- What? To die, just like that? Suck it, all of you!}
+#{134}{}{Well, that�s it, I had enough! I will execute you right now!}
+{134}{}{好吧，就这样，我受够了！我现在就处决你！ -- Well, that�s it, I had enough! I will execute you right now!}
+#{135}{}{Think about what you did, and I'll come back later.}
+{135}{}{想想你做了什么，我一会儿再来。 -- Think about what you did, and I'll come back later.}
+#{136}{}{You bring Gilmore to the Salt Lake, to face justice. The city will be happy about this.}
+{136}{}{你把吉尔摩带到盐湖城，面对正义。城市会为此感到高兴的。 -- You bring Gilmore to the Salt Lake, to face justice. The city will be happy about this.}
+#{137}{}{Publicly? This means... I will be remembered, right? Yes, I will go and die, just like they all want! And you'll be the one to execute me! YOU!}
+{137}{}{公开？这意味着。。。我会被记住的，对吗？是的，我会去死，就像他们想的那样！你就是那个处决我的人！你！ -- Publicly? This means... I will be remembered, right? Yes, I will go and die, just like they all want! And you'll be the one to execute me! YOU!}
+#{138}{}{Let's go, you piece of shit...}
+{138}{}{我们走，你这个混蛋。。。 -- Let's go, you piece of shit...}
+#{139}{}{Before you went to the city you took all of Gilmore�s belongings.}
+{139}{}{在你进城之前，你拿走了吉尔摩所有的东西。 -- Before you went to the city you took all of Gilmore�s belongings.}
+#{140}{}{This is not enough. Let�s bring you to justice right now! [attack]}
+{140}{}{这还不够。现在就把你绳之以法！[攻击] -- This is not enough. Let�s bring you to justice right now! [attack]}

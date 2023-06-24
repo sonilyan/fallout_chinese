@@ -1,0 +1,4 @@
+#{100}{}{You see mercenary.}
+{100}{}{你看到雇佣兵了。 -- You see mercenary.}
+#{101}{}{It seems this man is here to kill you.}
+{101}{}{看来这个人是来杀你的。 -- It seems this man is here to kill you.}

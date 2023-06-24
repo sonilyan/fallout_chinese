@@ -1,0 +1,22 @@
+#{100}{}{You see a guard.}
+{100}{}{你看到一个警卫。}
+#{101}{}{You see one of the guards, they guard the caravan with you.}
+{101}{}{你看到一个守卫，他们和你一起守卫商队。}
+#{200}{}{You see a caravan merchant.}
+{200}{}{你看到一个商队商人。}
+#{201}{}{You see one of your fellow travelers on the caravan.}
+{201}{}{你在大篷车上看到你的一个同伴。}
+#{300}{}{I hope we won't meet anyone else on the road.}
+{300}{}{我希望我们不会在路上遇到其他人。}
+#{301}{}{It'll be nice to get our money in the end.}
+{301}{}{最后能拿到我们的钱就好了。}
+#{302}{}{I hope when we arrive, the bar will be open.}
+{302}{}{我希望我们到的时候，酒吧会开门。}
+#{303}{}{It's good to finally eat real food.}
+{303}{}{终于可以吃到真正的食物了。}
+#{304}{}{I always wanted to travel. I think it's the closest thing to traveling.}
+{304}{}{我一直想去旅行。我认为这是最接近旅行的地方。}
+#{305}{}{My feet are killing me. And why these stupid brahmin walk so slow?}
+{305}{}{我的脚疼死了。为什么这些愚蠢的婆罗门走得这么慢？}
+#{306}{}{They say, we are not so far from our destination.}
+{306}{}{他们说，我们离目的地不远了。}

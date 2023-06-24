@@ -1,0 +1,148 @@
+#{100}{}{You see the organizer.}
+{100}{}{你看到组织者了。}
+#{101}{}{You see the organizer of hanging events.}
+{101}{}{你看到了绞刑事件的组织者。}
+#{102}{}{I'm busy now. Let's talk after the event.}
+{102}{}{我现在很忙。我们事后再谈吧。}
+#{103}{}{You... Was hanged.}
+{103}{}{你。。。他被吊死了。}
+#{104}{}{You gain a new achievement.}
+{104}{}{你获得了新的成就。}
+#{110}{}{Ladies and gentlemen!}
+{110}{}{女士们先生们！}
+#{111}{}{Today, something exciting will take place here!}
+{111}{}{今天，一些令人兴奋的事情将在这里发生！}
+#{112}{}{Right before your eyes... Justice will be done!}
+{112}{}{就在你眼前。。。正义将会得到伸张！}
+#{113}{}{This person stole grandma's apple pie!}
+{113}{}{这个人偷了奶奶的苹果派！}
+#{114}{}{Such a crime is unforgivable!}
+{114}{}{这样的罪行是不可饶恕的！}
+#{115}{}{A grieving grandmother caught the criminal, and now he's HERE!}
+{115}{}{一个悲伤的祖母抓住了罪犯，现在他来了！}
+#{116}{}{We'll see what happens with the kidnappers of grandma's pie!}
+{116}{}{我们看看绑架外婆派的人会怎么样！}
+#{117}{}{He will writhe in agony, suspended 30 inches above the ground!}
+{117}{}{他会痛苦地挣扎，悬在离地面30英寸的地方！}
+#{118}{}{He should remember this lesson and will never do such things again!}
+{118}{}{他应该记住这一课，以后再也不会做这种事了！}
+#{119}{}{Do you want that?!}
+{119}{}{你想要吗？！}
+#{120}{}{Do you REALLY WANT that, dammit?!}
+{120}{}{你真的想要吗，该死的？！}
+#{121}{}{For the grandma!}
+{121}{}{为了奶奶！}
+#{122}{}{For the pie!}
+{122}{}{为了馅饼！}
+#{123}{}{For justice in Salt Lake City!!!}
+{123}{}{为了盐湖城的正义！！！}
+#{124}{}{Long live the Sheriff. And long live Salt Lake!}
+{124}{}{警长万岁。盐湖万岁！}
+#{125}{}{But first, let's listen to the criminal's last words...}
+{125}{}{但首先，让我们听听罪犯的遗言。。。}
+#{150}{}{Well, what can I say!}
+{150}{}{好吧，我能说什么！}
+#{151}{}{Yes, I am so bad, stole grandma's pie...}
+{151}{}{是的，我太坏了，偷了奶奶的馅饼。。。}
+#{152}{}{I confess!}
+{152}{}{我承认！}
+#{153}{}{I'm glad that our city never sleeps and tries to *punish* any thief!}
+{153}{}{我很高兴我们的城市从不睡觉，并试图惩罚任何小偷！}
+#{154}{}{But honestly! I admitted my mistakes! I won't do it again!}
+{154}{}{但老实说！我承认我的错误！我不会再做了！}
+#{155}{}{Yes, I used to steal grandma's pies in the past...}
+{155}{}{是的，我过去常偷奶奶的馅饼。。。}
+#{156}{}{... And not just pies!}
+{156}{}{... 不仅仅是馅饼！}
+#{157}{}{I even stole... Oh! I am ashamed to admit...}
+{157}{}{我甚至偷了。。。哦！我很惭愧地承认。。。}
+#{158}{}{No! I will say it!}
+{158}{}{不！我会说的！}
+#{159}{}{I stole her heel massager and hid it far away from the city!}
+{159}{}{我偷了她的脚后跟按摩器藏在远离城市的地方！}
+#{160}{}{Now I repent!}
+{160}{}{现在我后悔了！}
+#{161}{}{I'm ready to surrender to justice, because it is true!}
+{161}{}{我准备向正义投降，因为这是真的！}
+#{162}{}{I believe in our Sheriff!}
+{162}{}{我相信我们的警长！}
+#{163}{}{After the hanging I'll *never* get on this path again!}
+{163}{}{绞刑之后，我再也不走这条路了！}
+#{164}{}{I swear!}
+{164}{}{我发誓！}
+#{165}{}{And I hope no one will.}
+{165}{}{我希望没有人会。}
+#{166}{}{::nods to the executioner to start::}
+{166}{}{●向刽子手点头示意：}
+#{200}{}{Have you heard? How will he live after these words?}
+{200}{}{你听说了吗？在这些话之后他将如何生活？}
+#{201}{}{Now we *must* put an end to his sufferings!}
+{201}{}{现在我们必须结束他的痛苦！}
+#{202}{}{String him up!}
+{202}{}{把他绑起来！}
+#{203}{}{*mommy*}
+{203}{}{*妈咪*}
+#{204}{}{Thank you all, you're free.}
+{204}{}{谢谢大家，你们自由了。}
+#{205}{}{Actually, it was awesome! We should do it again.}
+{205}{}{事实上，这太棒了！我们应该再来一次。}
+#{206}{}{Still, I've been hanged! I knew this would happen.}
+{206}{}{不过，我还是被吊死了！我就知道会这样。}
+#{210}{}{Have you heard? How she could live after these words?}
+{210}{}{你听说了吗？听了这些话她怎么能活下去？}
+#{211}{}{Now we *must* end her suffering!}
+{211}{}{现在我们必须结束她的痛苦！}
+#{212}{}{Hang her!}
+{212}{}{吊死她！}
+#{300}{}{What do you want?}
+{300}{}{你想要什么？}
+#{301}{}{What the hell is going on here?!}
+{301}{}{这到底是怎么回事？！}
+#{302}{}{Oh, you are a stranger, apparently. Relax. Thats how our folks are having fun.}
+{302}{}{哦，显然你是个陌生人。放松。我们的家人就是这样玩的。}
+#{303}{}{Fun?!}
+{303}{}{好玩？！}
+#{304}{}{Yes. We hanged criminals here just a while ago. But since the Sheriff Burton dealt with the criminal underworld and kicked all the bastards out of town, the gallows was empty and the folks in town got bored.}
+{304}{}{对。我们刚刚在这里绞死了罪犯。但是自从伯顿警长处理了黑社会犯罪并把所有的混蛋赶出了城镇，绞刑架上空无一人，镇上的人都厌烦了。}
+#{305}{}{And? Didn't you have something better to came up with?}
+{305}{}{然后呢？你没有更好的办法吗？}
+#{306}{}{That is the point! The city is generally pretty boring. And the gallows is a real outlet.}
+{306}{}{这就是重点！这个城市一般都很无聊。绞刑架是一个真正的出口。}
+#{307}{}{And who plays the role of a hanged man?}
+{307}{}{谁扮演一个被绞死的人？}
+#{308}{}{The folks themselves step up into "the podium". It's fun to them. Sheriff Burton says that confession for crimes they did not commit helps to clear the mind from dirty thoughts.}
+{308}{}{人们自己走上了“讲台”。对他们来说很有趣。伯顿警长说，对他们没有犯下的罪行供认有助于清除头脑中的肮脏思想。}
+#{309}{}{So, does it?}
+{309}{}{那么，是吗？}
+#{310}{}{I guess. At least, the more I live in this town, the less I hear about some crime. But the credit for this goes, of course, not to our performances, but to the Sheriff himself.}
+{310}{}{我想是吧。至少，我在这个镇上住得越多，就越少听到犯罪的消息。当然，这要归功于警长本人，而不是我们的表演。}
+#{311}{}{But doesn't it scare the newcomers?}
+{311}{}{但这不会吓到新来的人吗？}
+#{312}{}{It does. And that's good. Lets the city be cleared of all unwanted elements.}
+{312}{}{是的。这很好。让这座城市清除所有不必要的元素。}
+#{313}{}{Hmm. Can I participate in the role of a hanged?}
+{313}{}{嗯。我能参加绞刑的角色吗？}
+#{314}{}{This is all strange somehow. I have to go.}
+{314}{}{不知怎么的，这一切都很奇怪。我得走了。}
+#{315}{}{What?}
+{315}{}{什么？}
+#{316}{}{Yes! I want to be on your show!}
+{316}{}{对！我想上你的节目！}
+#{317}{}{Nevermind... Nothing.}
+{317}{}{没有关系。。。没有什么。}
+#{318}{}{Hmm. Interesting. What tipped you off? Fine. The more shows, the better. But we hold only one show per person. So you won't be able to do this again.}
+{318}{}{嗯。很有趣。你怎么知道的？好的。节目越多越好。但我们每人只举办一场演出。所以你不能再这样了。}
+#{319}{}{Great! Let's start!!!}
+{319}{}{太好了！我们开始吧！！！}
+#{320}{}{Actually, I changed my mind... Uh... I can do without hangings.}
+{320}{}{实际上，我改变主意了。。。休斯敦大学。。。我可以不用绞刑架。}
+#{321}{}{[to the executioner] Okay here, take this one to the podium. He is new in town, so don't go easy on him.}
+{321}{}{[对刽子手]好的，把这个拿到讲台上。他是新来的，所以不要对他太客气。}
+#{322}{}{WHA... Ow! Let me go!!!}
+{322}{}{什么。。。噢！放开我！！！}
+#{1206}{}{Still, I've been hanged! I knew this would happen.}
+{1206}{}{不过，我还是被吊死了！我就知道会这样。}
+#{1320}{}{Actually, I changed my mind... Uh... I can do without hangings.}
+{1320}{}{实际上，我改变主意了。。。休斯敦大学。。。我可以不用绞刑架。}
+#{1321}{}{[to the executioner] Okay here, take this one to the podium. She is new in town, so don't go easy on her.}
+{1321}{}{[对刽子手]好的，把这个拿到讲台上。她是新来的，所以不要对她太客气。}

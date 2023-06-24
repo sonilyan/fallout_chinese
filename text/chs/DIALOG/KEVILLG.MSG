@@ -1,0 +1,6 @@
+#{100}{}{You entered the residential area. It seems people here are not used to outsiders.}
+{100}{}{你进入了居民区。看来这里的人不习惯外人。}
+#{101}{}{You entered the railroad junction area. From the first look, it seems like it has been abandoned for a long time.}
+{101}{}{你进入了铁路枢纽区。从第一眼看，它似乎已经被遗弃了很长一段时间。}
+#{102}{}{You found a big stationary science installation. You wonder if it still works.}
+{102}{}{你发现了一个很大的固定科学装置。你想知道它是否仍然有效。}

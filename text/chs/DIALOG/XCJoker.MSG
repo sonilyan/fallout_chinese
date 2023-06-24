@@ -1,0 +1,124 @@
+#{100}{}{}
+{100}{}{}
+#{101}{}{You see: Reaper of Souls!}
+{101}{}{你看：灵魂的收割者！}
+#{102}{}{You see: the mysterious "reaper of pure souls".}
+{102}{}{你看：神秘的“纯洁灵魂的收割者”。}
+#{103}{}{Well, shit! Looks you've got ambushed!}
+{103}{}{好吧，妈的！看来你被伏击了！}
+#{104}{}{Oh damn! That bugger somehow grew back his injured limbs!}
+{104}{}{哦，该死！那家伙不知怎的把他受伤的四肢长回来了！}
+#{105}{}{Hm... Regeneration!!!}
+{105}{}{嗯。。。再生！！！}
+#{106}{}{Waaagh... Regeneration!!!}
+{106}{}{哇。。。再生！！！}
+#{107}{}{My strength is fading... Regeneration!!!}
+{107}{}{我的力量正在衰退。。。再生！！！}
+#{108}{}{How did he do that!?..}
+{108}{}{他是怎么做到的！？。。}
+#{110}{}{Shit! I knew this job smelled fishy! So, you're gonna kill me?}
+{110}{}{倒霉！我知道这份工作有点可疑！所以，你要杀了我？}
+#{111}{}{You are of no interest to me. Where's the Wanderer?}
+{111}{}{我对你不感兴趣。流浪者在哪里？}
+#{112}{}{I'll talk! I'll talk! He went towards that vault on the other end of the bridge!.. Just let me go!..}
+{112}{}{我会说的！我会说的！他朝桥另一端的那个金库走去！。。让我走吧！。。}
+#{113}{}{Lock him up!}
+{113}{}{把他关起来！}
+#{114}{}{But I helped you!}
+{114}{}{但我帮了你！}
+#{115}{}{Move!}
+{115}{}{快走！}
+#{116}{}{This is the only way out, cover all the access points.}
+{116}{}{这是唯一的出路，覆盖所有的入口。}
+#{117}{}{He won't get away this time... Men! In position!}
+{117}{}{他这次逃不掉了。。。伙计们！就位！}
+#{118}{}{Go! Go! Go! Double time!!!}
+{118}{}{快走！快走！快走！加倍时间！！！}
+#{119}{}{She's not getting away this time... Men! In position!}
+{119}{}{她这次逃不掉了。。。伙计们！就位！}
+#{120}{}{Citizen, you have trespassed on governmental property. Walk out with your hands up or we'll open fire.}
+{120}{}{公民，你侵犯了政府财产。举起手出去，否则我们就开枪。}
+#{121}{}{And who are you!?}
+{121}{}{你是谁！？}
+#{122}{}{I repeat. Resistance is futile. All exists are closed off. We will let you live, if you lay down your weapons and walk out with your hands in the air.}
+{122}{}{我重复一遍。抵抗是徒劳的。所有存在的都被关闭。如果你放下武器，举起双手走出去，我们会让你活着。}
+#{123}{}{(Talk about bad luck...)}
+{123}{}{（谈论厄运……）}
+#{124}{}{Hey, hold up big guy! Let's talk this out?}
+{124}{}{嘿，抓住那个大家伙！我们谈谈吧？}
+#{125}{}{I've said everything.}
+{125}{}{我什么都说了。}
+#{126}{}{Oh no, you didn't tell me why I need to surrender *alive.* A bullet in my skull isn't part of your plan for my body, is it?}
+{126}{}{哦，不，你没告诉我为什么我要活着投降。我头骨中的子弹不是你为我的身体计划的一部分，是吗？}
+#{127}{}{Damn, I need to think...}
+{127}{}{妈的，我得想想。。。}
+#{128}{}{Hm. You're bluffing. I can hear it in your head.}
+{128}{}{嗯。你在虚张声势。我能在你脑子里听到。}
+#{129}{}{Hear? Somehow, I doubt that...}
+{129}{}{听到了吗？不知怎的，我怀疑。。。}
+#{130}{}{Surrender peacefully. It'll be best for everyone. A bullet between your eyes will only make my job easier.}
+{130}{}{和平投降。这对每个人都是最好的。你眼中的一颗子弹只会让我的工作更轻松。}
+#{131}{}{Surrender peacefully. It'll be best for everyone. A bullet between your eyes will only make my job easier.}
+{131}{}{和平投降。这对每个人都是最好的。你眼中的一颗子弹只会让我的工作更轻松。}
+#{132}{}{First, I want answers... Reaper. That's your codename, isn't it?}
+{132}{}{首先，我想要答案。。。收割者。那是你的代号，不是吗？}
+#{133}{}{Is that a threat? Well, looks like you'll kill me either way. Fine, I'll think about it...}
+{133}{}{这是威胁吗？好吧，看来不管怎样你都会杀了我。好吧，我会考虑的。。。}
+#{134}{}{[Snorts at your pathetic bad-assery] Ask.}
+{134}{}{问吧。}
+#{135}{}{Who are you?}
+{135}{}{你是谁？}
+#{136}{}{What are you doing to my fellow citizens?}
+{136}{}{你对我的同胞们做了什么？}
+#{137}{}{Why did you need the Overseer?}
+{137}{}{你为什么需要监工？}
+#{138}{}{What is this vault?}
+{138}{}{这个金库是什么？}
+#{139}{}{My callsign is Reaper of Souls. My real name is Jason Bayham. As you can see, the answer gave you nothing.}
+{139}{}{我的呼号是灵魂的收割者。我的真名是杰森·拜厄姆。如你所见，答案什么也没有给你。}
+#{140}{}{I take the most valuable - what save lives of others. The rest goes towards guard rations}
+{140}{}{我拿最有价值的东西来拯救别人的生命。其余的用于警卫口粮}
+#{141}{}{He became a burden in my plans. Just like you. But he did his job - after all, you're here. He was only a bait.}
+{141}{}{他成了我计划中的负担。就像你一样。但他做了他的工作-毕竟，你在这里。他只是个诱饵。}
+#{142}{}{The true owners of America lived here. So as I. But... That is in the past now.}
+{142}{}{美国真正的主人住在这里。我也是。但是。。。那已经过去了。}
+#{143}{}{Don't like bad memories, eh? Looks like you didn't completely lose your humanity.}
+{143}{}{不喜欢糟糕的回忆，嗯？看起来你并没有完全失去人性。}
+#{144}{}{I've lived far longer than anyone. Your reasoning means nothing to me. Now stop wasting time.}
+{144}{}{我活得比任何人都长。你的推理对我来说毫无意义。别再浪费时间了。}
+#{165}{}{You're pathetic, let's end this!}
+{165}{}{你真可悲，让我们结束这一切！}
+#{166}{}{Hey, we've only just began!..}
+{166}{}{嘿，我们才刚刚开始！。。}
+#{167}{}{You know what, I don't care. So just go fuck yourself..}
+{167}{}{你知道吗，我不在乎。去你妈的。。}
+#{168}{}{Stop wasting my time.}
+{168}{}{别再浪费我的时间了。}
+#{169}{}{What are you talking about? A bit strange, don't you think? Maybe you should answer something else.}
+{169}{}{你在说什么？有点奇怪，你不觉得吗？也许你应该回答别的问题。}
+#{170}{}{That sounds rational... Mind telling me something else?}
+{170}{}{听起来很合理。。。介意跟我说点别的吗？}
+#{171}{}{Do you really have some kind of a mission? Interesting... Maybe you could tell me a little more?}
+{171}{}{你真的有什么使命吗？有趣。。。也许你能多告诉我一点？}
+#{172}{}{So, you're not the only one? Damn, I need to know more!}
+{172}{}{你不是唯一一个？该死，我需要知道更多！}
+#{173}{}{What was that about souls?..}
+{173}{}{灵魂是怎么回事？。。}
+#{174}{}{You can't understand. You purpose... Your true mission was in this.}
+{174}{}{你不能理解。你的目的。。。你真正的使命就在这里。}
+#{175}{}{In what? Becoming soup for your goons?}
+{175}{}{在什么地方？成为你手下的汤？}
+#{176}{}{No. Pathetic, worthless life clings to your body. It means nothing. It could save the life of a worthy man, but now it's too late. The Overseer, biker and you - you all broke the rules. A grave mistake. But your soul... I'm going to keep it until a worthy purpose is found.}
+{176}{}{不。可怜的，毫无价值的生命依附在你的身体上。这毫无意义。它可以拯救一个有价值的人的生命，但现在已经太迟了。监工，摩托车手和你-你们都违反了规则。一个严重的错误。但你的灵魂。。。我要保留它直到找到一个有价值的目标。}
+#{177}{}{What? What does that mean!?}
+{177}{}{什么？什么意思！？}
+#{178}{}{It's time.}
+{178}{}{是时候。}
+#{179}{}{Hey, what are you even on!?}
+{179}{}{嘿，你在说什么！？}
+#{1112}{}{I'll talk! I'll talk! She went towards that Vault on the other end of the bridge!.. Just let me go!..}
+{1112}{}{我会说的！我会说的！她朝桥另一端的那个金库走去！。。让我走吧！。。}
+#{1120}{}{Citizen, you have trespassed on governmental property. Walk out with your hands up or we'll open fire.}
+{1120}{}{公民，你侵犯了政府财产。举起手出去，否则我们就开枪。}
+#{1126}{}{Oh no, you didn't tell me why I need to surrender *alive.* A bullet in my skull isn't part of your plan for my body, is it?}
+{1126}{}{哦，不，你没告诉我为什么我要活着投降。我头骨中的子弹不是你为我的身体计划的一部分，是吗？}

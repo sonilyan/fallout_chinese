@@ -1,0 +1,36 @@
+#{100}{}{}
+{100}{}{}
+#{101}{}{You see your trainman.}
+{101}{}{你看到你的列车员了。}
+#{102}{}{You see your trainman.}
+{102}{}{你看到你的列车员了。}
+#{103}{}{I'll be here if I needed.}
+{103}{}{如果需要的话我会在这里的。}
+#{104}{}{Wait for me.}
+{104}{}{等等我。}
+#{105}{}{Oh, shit! You?.. What the hell?! What did you drag me into!!!}
+{105}{}{哦，该死！你呢？。。我勒个去？！你把我拖到什么地方去了！！！}
+#{106}{}{Calm down. We don't time to sort things out now. Let's go back to the train.}
+{106}{}{冷静。我们现在没时间解决问题。我们回火车上去吧。}
+#{107}{}{We'll deal with this later. For now just be here.}
+{107}{}{我们稍后再处理。现在就在这里。}
+#{108}{}{If I ever do this again!..}
+{108}{}{如果我再这样做！。。}
+#{110}{}{Hey! Anybody!}
+{110}{}{嘿！任何人！}
+#{111}{}{Get me outta here!}
+{111}{}{把我弄出去！}
+#{112}{}{Oh shit...}
+{112}{}{哦，妈的。。。}
+#{113}{}{Damn it, what I got myself into...}
+{113}{}{该死的，我让自己陷入了。。。}
+#{114}{}{Where is this partner?..}
+{114}{}{这个搭档在哪？。。}
+#{115}{}{Hey, would anybody save me!?}
+{115}{}{嘿，有人能救我吗！？}
+#{116}{}{Am I here all alone?}
+{116}{}{我一个人在这里吗？}
+#{117}{}{Am I really going to be left here?}
+{117}{}{我真的要被留在这里吗？}
+#{1105}{}{Oh, shit! You?.. What the hell?! What did you drag me into!!!}
+{1105}{}{哦，该死！你呢？。。我勒个去？！你把我拖到什么地方去了！！！}

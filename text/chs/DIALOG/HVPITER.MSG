@@ -1,0 +1,164 @@
+#{100}{}{You see Sergeant Graves.}
+{100}{}{你看到格雷夫斯中士了。}
+#{101}{}{You see Peter Graves, head of Vault City's security service.}
+{101}{}{你可以看到彼得·格雷夫斯，保险库市安全局局长。}
+#{102}{}{What happened here?!}
+{102}{}{这里发生了什么？！}
+#{103}{}{Not long before you came back, the city was attacked.}
+{103}{}{就在你回来前不久，这个城市遭到了袭击。}
+#{110}{}{Nothing more to report. You will have to act by yourself from now on.}
+{110}{}{没什么要报告的了。从现在起你必须自己行动。}
+#{111}{}{Take care.}
+{111}{}{当心。}
+#{112}{}{Who is that weird guy in the cell?}
+{112}{}{牢房里那个怪人是谁？}
+#{113}{}{I sometimes have dreams that I'm part of the first team to go outside the vault. Has anything like this ever happened to you?}
+{113}{}{我有时会梦想自己是第一支跳马队的一员。你有过这样的事吗？}
+#{114}{}{No. Like all other normal citizens, I've never had any dreams. I've heard that Doctor Willmouth encountered this anomaly a few times, but I never paid any attention to it. Neither should you; it's probably nothing.}
+{114}{}{不。和其他普通市民一样，我从来没有做过任何梦。我听说威尔茅斯医生有几次遇到这种异常，但我从来没有注意过。你也不应该，那可能没什么。}
+#{115}{}{Ok.}
+{115}{}{好 啊。}
+#{140}{}{I came across some interesting documents in Lovelock's radio station. I thought they might be of interest to you.}
+{140}{}{我在洛夫洛克的电台里看到了一些有趣的文件。我想你可能会感兴趣。}
+#{141}{}{[Carefully studies the documents] Hmm. According to this, our vault has been under surveillance for a long time. The station secured communication between our vault systems and some governmental vault. Consider this information classified! Common citizens should not know about this, but we'll put them to work securing our systems. Thank you for this valuable intelligence. Continue your mission.}
+{141}{}{[仔细研究文件]嗯。根据这个，我们的金库被监视了很长时间。车站确保了我们的保险库系统和一些政府保险库之间的通信。将此信息视为机密信息！普通公民不应该知道这一点，但我们会让他们保护我们的系统。谢谢你的宝贵情报。继续你的任务。}
+#{142}{}{Of course.}
+{142}{}{当然。}
+#{150}{}{I see you're feeling better. Doctor Willmouth did a great job getting you back on your feet. He recommended to not give you any assignments, but we have no choice. Something terrible has happened - something we should have expected an outsider to do.}
+{150}{}{我看你感觉好多了。威尔茅斯医生帮你恢复了元气。他建议不给你任何任务，但我们别无选择。发生了一些可怕的事情——我们本该期待一个局外人去做的事情。}
+#{151}{}{What are you talking about?}
+{151}{}{你在说什么？}
+#{152}{}{It seems the man that brought you back to Vault City only did so in order to infiltrate the vault. He stole a device, that we depend on to provide security and prosperity, and we can't catch up to his vehicle on foot. As the only citizen to have traveled far outside the city, you're the only one we can entrust with this task.}
+{152}{}{看来把你带回金库城的那个人只是为了潜入金库。他偷了一个装置，我们依靠这个装置来提供安全和繁荣，我们步行赶不上他的车。作为唯一一个远道而来的市民，你是唯一一个我们可以委托的人。}
+#{153}{}{I understand what you're saying, but I can't remember anything. I need to know more about what happened.}
+{153}{}{我明白你的意思，但我什么都不记得了。我需要知道更多的事情。}
+#{154}{}{Of course. Doctor Willmouth warned us about your amnesia. I'll tell you everything.}
+{154}{}{当然。威尔茅斯医生警告过我们你的健忘症。我会告诉你一切的。}
+#{155}{}{Tell me.}
+{155}{}{告诉我。}
+#{156}{}{Some biker calling himself "Jay Kukish" brought your body to the city. He demanded to see the Overseer, who spoke with him, while Doctor Willmouth tended to you. After a long conversation, the biker used some sort of neutralization weapon to knock the guards and the Overseer unconscious. Then he stole the device and fought his way out of the city. Are there any other questions?}
+{156}{}{有个自称“杰伊·库基什”的摩托车手把你的尸体带到了城里。他要求见监工，监工和他说话，而威尔茅斯医生照顾你。经过长时间的交谈，骑自行车的人用某种中和武器把警卫和监工打昏了。然后他偷了装置，奋力逃出了城市。还有其他问题吗？}
+#{157}{}{Yes, I have another question.}
+{157}{}{是的，我还有一个问题。}
+#{158}{}{No more questions.}
+{158}{}{没有问题了。}
+#{159}{}{Good. Did you want to ask something?}
+{159}{}{很好。你想问什么吗？}
+#{160}{}{Tell me everything you know about Jay Kukish.}
+{160}{}{告诉我你所知道的关于杰伊·库基什的一切。}
+#{161}{}{Tell me more about that stolen device.}
+{161}{}{告诉我更多关于那个被偷设备的事。}
+#{162}{}{How can I find that biker?}
+{162}{}{我怎样才能找到那个骑摩托车的人？}
+#{163}{}{Will I get any gear for my travels?}
+{163}{}{我有旅行的装备吗？}
+#{164}{}{What to expect in the outside world?}
+{164}{}{外界期待什么？}
+#{165}{}{What if I refuse to help?}
+{165}{}{如果我拒绝帮忙怎么办？}
+#{166}{}{}
+{166}{}{}
+#{167}{}{}
+{167}{}{}
+#{168}{}{Okay. Another question.}
+{168}{}{可以。另一个问题。}
+#{169}{}{I think that's all I wanted to know.}
+{169}{}{我想这就是我想知道的。}
+#{170}{}{He wears dirty leather jacket with a symbol of a flaming skull on its back. He could have changed his clothes, but he smelled like he doesn't do that often. He is rude and aggressive, and, apparently, only cares about our technology. He came and left on a motorcycle. That is all I can tell you about him.}
+{170}{}{他穿着脏皮夹克，背上有燃烧的头骨的标志。他本来可以换衣服的，但他闻起来好像不常换。他粗鲁好斗，显然只关心我们的技术。他骑摩托车来了又走。关于他我只能告诉你这么多。}
+#{171}{}{I don't know what that device is called, nor its exact function. But, from the reports, you can tell that it's required for our automatic defense, and some other systems. Without it, we are vulnerable to outside attacks.}
+{171}{}{我不知道那个设备叫什么，也不知道它的确切功能。但是，从报告中，你可以看出这是我们的自动防御系统和其他一些系统所需要的。没有它，我们很容易受到外界的攻击。}
+#{172}{}{I recommend following his tire tracks. Our patrols report that they lead to Black Rock, located south-east from here. The local population should know more.}
+{172}{}{我建议跟踪他的轮胎痕迹。我们的巡逻队报告说，他们通往黑岩，从这里向东南。当地居民应该知道更多。}
+#{173}{}{The Overseer did not assign you any gear, but the warehouse has everything we found on you. Perhaps another citizen can lend you something.}
+{173}{}{监工没有给你任何装备，但仓库里有我们在你身上找到的一切。也许另一个公民可以借给你一些东西。}
+#{174}{}{I have little information to give you. Our scouts have reported outsider towns in the local region... If you can call them towns. Sometimes we make contact with travelers in the wastes, but we usually try to scare them off. They do not belong here.}
+{174}{}{我没有什么信息可以告诉你。我们的侦察员报告了当地的外来城镇。。。如果你能称之为城镇。有时我们会与荒野中的旅行者接触，但我们通常试图吓跑他们。他们不属于这里。}
+#{175}{}{You don't have a choice. Your citizenship has been suspended, until you return the device. You may enter Vault City and receive medical assistance, but little else.}
+{175}{}{你别无选择。您的公民身份已被暂停，直到您归还设备。你可以进入金库城接受医疗救助，但其他的很少。}
+#{176}{}{He says he's a caravan merchant, traveling between Nevada and California. Our patrols arrested him when he was scouting our perimeter. He says he was searching for a nuclear plant. I believe him, but we must still be wary of outsiders. Doctor Willmouth says he was exposed to some sort of virus, poor guy. But you don't need to worry about him. Get back to your duties.}
+{176}{}{他说他是一个商队商人，在内华达州和加利福尼亚州之间旅行。我们的巡逻队在他侦察我们周围时逮捕了他。他说他在寻找一座核电站。我相信他，但我们还是要提防外人。威尔茅斯医生说他接触了某种病毒，可怜的家伙。但你不用担心他。回到你的职责上来。}
+#{186}{}{Well, good luck. Stop by the warehouse to pick up your belongings. And remember, be wary of people in the wastes. Do not mention the existence of this city to anyone. That is all.}
+{186}{}{好吧，祝你好运。到仓库去拿你的东西。记住，要提防荒地里的人。不要向任何人提及这个城市的存在。仅此而已。}
+#{187}{}{Consider it done, sir!}
+{187}{}{考虑一下，先生！}
+#{188}{}{You received new quest. Open your Pip-Boy to check its status.}
+{188}{}{你收到了新任务。打开Pip Boy查看它的状态。}
+#{200}{}{I need a replacement fuse for a water pump, but I've been denied. Can you help me?}
+{200}{}{我需要换一个水泵的保险丝，但被拒绝了。你能帮助我吗？}
+#{201}{}{You'd better have a good reason for this.}
+{201}{}{你最好有个充分的理由。}
+#{202}{}{Gerlach needs a replacement part for their water pump. I want to help them.}
+{202}{}{Gerlach需要一个水泵的替换零件。我想帮助他们。}
+#{203}{}{[Lie] I have a contact outside the city. He wants the fuse in exchange for information.}
+{203}{}{我在城外有个联系人。他想用导火索来交换情报。}
+#{204}{}{I don't have any good reasons, but I'll find them!}
+{204}{}{我没有什么好的理由，但我会找到的！}
+#{205}{}{}
+{205}{}{}
+#{206}{}{}
+{206}{}{}
+#{207}{}{I hope you know what you're doing. We can't just give our technology away. I will put in an order to the warehouse for you. Now go.}
+{207}{}{我希望你知道你在做什么。我们不能就这样放弃我们的技术。我会为你向仓库下订单的。现在走吧。}
+#{208}{}{Thanks.}
+{208}{}{谢谢。}
+#{209}{}{Gerlach? The community to the south? Why would we give them anything? Anyway, Sergeant Stark is responsible for the south sector. You can find him in the building across the street.}
+{209}{}{杰拉克？南边的社区？我们为什么要给他们任何东西？不管怎样，斯塔克中士负责南区。你可以在街对面的大楼里找到他。}
+#{210}{}{Thank you. I'll go find the sergeant.}
+{210}{}{非常感谢。我去找中士。}
+#{300}{}{What an odd coincidence - just when our city is in trouble again, you show up.}
+{300}{}{真是奇怪的巧合，就在我们的城市再次陷入困境的时候，你出现了。}
+#{301}{}{What happened here?}
+{301}{}{这里发生了什么？}
+#{302}{}{We were attacked. Everything happened so fast - the attackers seized the Overseer and dragged him outside the city's perimeter.}
+{302}{}{我们被袭击了。一切发生得太快了——袭击者抓住了监工，把他拖到城外。}
+#{303}{}{I have a bad feeling about this. Too many coincidences to be random.}
+{303}{}{我有种不好的预感。太多的巧合是随机的。}
+#{304}{}{Tell me everything.}
+{304}{}{告诉我一切。}
+#{305}{}{I managed to track down the biker and take back the device. Some people were following and watching us. My Pip-Boy was bugged. Someone's been operating behind our backs, Sergeant. And they've been doing it for a long time.}
+{305}{}{我设法找到了那个骑自行车的人并取回了那个装置。有人在跟踪和监视我们。我儿子被窃听了。有人在背后操纵我们，中士。他们已经做了很长时间了。}
+#{306}{}{Hmm... The Overseer warned me about this, but I didn't understand him then. It was off the record and behind closed doors. The Overseer said that changes are coming and we must be ready.}
+{306}{}{隐马尔可夫模型。。。监工警告过我这件事，但我当时不明白他的意思。这是不公开的，关起门来的。监工说变革即将到来，我们必须做好准备。}
+#{307}{}{Tell me more about the attack.}
+{307}{}{告诉我更多关于这次袭击的情况。}
+#{308}{}{We were attacked by a group of armed people in combat armor. They entered the city using some sort of paralyzing device and took the Overseer, while we were unconscious. As they were leaving, a few guards managed to shake off the paralysis, but were killed on the spot.}
+{308}{}{我们遭到一群身穿战斗装甲的武装人员的袭击。他们用某种瘫痪装置进入城市，带走了监工，而我们却失去了知觉。当他们离开时，几个警卫设法摆脱了瘫痪，但当场被打死。}
+#{309}{}{What do they want with the Overseer?}
+{309}{}{他们想对监工做什么？}
+#{310}{}{We cannot know for sure. My guess is it has something do with with the device and what he knows about it. He's the only one in the vault with access to that information. Whatever they want, they took him too far for us to follow.}
+{310}{}{我们不能确定。我猜这跟那个装置和他所知道的有关。他是金库里唯一能查到这些信息的人。不管他们想要什么，他们把他带得太远了，我们跟不上。}
+#{311}{}{I managed to find the device. Here, look.}
+{311}{}{我设法找到了那个装置。来，看。}
+#{312}{}{Yes, this seems to be the stolen device. But only the Overseer knows how to use it.}
+{312}{}{是的，这似乎是被盗的设备。但只有监工知道如何使用它。}
+#{313}{}{What are you suggesting?}
+{313}{}{你有什么建议？}
+#{314}{}{The Overseer knows information about the vault that no one else does. Information that would be extremely dangerous in the wrong hands. That's why we must stop the abductors at *any* cost. You... Understand, don't you, citizen?}
+{314}{}{监工对金库的信息了如指掌。在坏人手中极为危险的信息。所以我们必须不惜一切代价阻止绑架者。你。。。明白吗，公民？}
+#{315}{}{It looks like I have a new mission.}
+{315}{}{看来我有新任务了。}
+#{316}{}{Good. There's no one else I can trust with this. No one else has your knowledge of the wastes.}
+{316}{}{很好。我再也不能相信别人了。没有人知道你的废物。}
+#{317}{}{Any more clues?}
+{317}{}{还有线索吗？}
+#{318}{}{We've managed to determine that the abductors are traveling using train. Our radar tracked the Overseer's Pip-Boy until it got out of range. Perhaps this information will be useful if you find another radio station.}
+{318}{}{我们已经确定绑架者是乘火车旅行的。我们的雷达一直跟踪监工的皮普，直到它超出了射程。如果你找到另一个电台，也许这些信息会有用。}
+#{319}{}{Understood. I'll see what I can do.}
+{319}{}{理解。我看看我能做什么。}
+#{320}{}{You are our last hope, citizen.}
+{320}{}{你是我们最后的希望，公民。}
+#{321}{}{Yeah, sure. First you suspend my citizenship and kick me out of the city, and now suddenly I'm your last hope! Great, whatever, I'll take care of everything. Again.}
+{321}{}{是的，当然。先是你中止我的公民身份，把我赶出城市，现在突然间我成了你最后的希望！太好了，不管怎样，我会处理好一切的。再一次。}
+#{322}{}{I understand. I hope, when this is over, everything goes back to the way it was. See you soon, Sergeant.}
+{322}{}{我理解。我希望，当这一切结束后，一切都回到原来的样子。再见，中士。}
+#{323}{}{}
+{323}{}{}
+#{324}{}{Kill the Overseer?! Are you out of your mind?!}
+{324}{}{杀了监工？！你疯了吗？！}
+#{325}{}{We have no choice. The Overseer knows everything about the city. His knowledge is a weapon that could kill us all.}
+{325}{}{我们别无选择。监工对这个城市了如指掌。他的知识是可以杀死我们所有人的武器。}
+#{1314}{}{The Overseer knows information about the vault that no one else does. Information that would be extremely dangerous in the wrong hands. That's why we must stop the abductors at *any* cost. You... Understand, don't you, citizen?}
+{1314}{}{监工对金库的信息了如指掌。在坏人手中极为危险的信息。所以我们必须不惜一切代价阻止绑架者。你。。。明白吗，公民？}
+#{1320}{}{You are our last hope, citizen.}
+{1320}{}{你是我们最后的希望，公民。}

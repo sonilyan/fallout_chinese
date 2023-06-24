@@ -1,0 +1,84 @@
+#{100}{}{You see Bob.}
+{100}{}{你看到鲍勃了。}
+#{101}{}{You see a caravan merchant with a very important look. He obviously thinks too much of himself.}
+{101}{}{你看到一个看起来很重要的商队商人。他显然太看重自己了。}
+#{110}{}{What do you want?}
+{110}{}{你想要什么？}
+#{111}{}{Are you that Bob, who delivers the goods for "Monte" and "Hard Rock"?}
+{111}{}{你就是那个为“蒙特”和“硬石”送货的鲍勃吗？}
+#{112}{}{Nothing.}
+{112}{}{没有什么。}
+#{113}{}{I only do wholesale, sorry, pal.}
+{113}{}{我只做批发，对不起，伙计。}
+#{114}{}{Dickhead, I�m not here to buy! Tell me, why did you snitch on the cafe owner?!}
+{114}{}{白痴，我不是来买东西的！告诉我，你为什么告密咖啡馆老板？！}
+#{115}{}{I�m not here to buy. Have you heard that the police tries to imprison the cafe owner?}
+{115}{}{我不是来买东西的。你听说过警察想把咖啡馆老板关起来吗？}
+#{116}{}{Well, bye then.}
+{116}{}{那么，再见。}
+#{117}{}{Snitch?! How dare you to accuse me! Me and Sam are old pals!}
+{117}{}{告密者？！你竟敢控告我！我和山姆是老朋友了！}
+#{118}{}{You�re lying! Answer, you son of a bitch!}
+{118}{}{你在撒谎！回答，你这狗娘养的！}
+#{119}{}{Whoa, okay, maybe I made a mistake. Do you know anything about what happened?}
+{119}{}{喔，好吧，也许我搞错了。你知道发生了什么事吗？}
+#{120}{}{That�s it cowboy! Piss off, or me and my guys will throw you out of the parking lot!}
+{120}{}{是牛仔！滚开，否则我和我的人会把你扔出停车场！}
+#{121}{}{Why so nervous? Are you involved in this after all? Maybe you will think faster without oxygen. [grab him by the throat]}
+{121}{}{为什么这么紧张？你到底参与其中了吗？也许没有氧气你会想得更快。[抓住他的喉咙]}
+#{122}{}{Ha, some fight in this one! Fine, I will leave you alone for now.}
+{122}{}{哈，这里面有人打架！好吧，我暂时不打扰你。}
+#{123}{}{I don�t know anything! Now piss off or me and my guys will throw you off the parking lot!}
+{123}{}{我什么都不知道！滚开不然我和我的人会把你从停车场扔出去！}
+#{124}{}{Phillips - to prison?! Damn... I didn�t know. For what?}
+{124}{}{菲利普斯-去监狱？！该死。。。我不知道。为了什么？}
+#{125}{}{You lie! Confess, why did you rat on him!?}
+{125}{}{你撒谎！坦白说，你为什么背叛他！？}
+#{126}{}{For spreading a poison, from which people died.}
+{126}{}{因为传播毒药，导致人们死亡。}
+#{127}{}{Bullshit! He would never do that!.. Wait, if by "poison" they mean additive supplement emulsifier E30, then...}
+{127}{}{瞎扯！他决不会那样做的！。。等等，如果“毒”是指添加剂补充乳化剂E30，那么。。。}
+#{128}{}{Aha! I knew it! Go on, spit it out, you did rat him out didn't you!?}
+{128}{}{啊哈！我就知道！说吧，吐出来，你真的出卖了他，不是吗！？}
+#{129}{}{What is this? Looks like some chemical component.}
+{129}{}{这是什么？看起来像某种化学成分。}
+#{130}{}{Sam uses this emulsifier in cooking. Probably, he knows what he�s doing. But not me. I only deliver the substance from Salt Lake - they extract this stuff from the bottom of lake, enriching it with something in the process... Hell, I have an agreement with him on the supply of this thing for the next six months!}
+{130}{}{萨姆在做饭时用这种乳化剂。也许，他知道自己在做什么。但不是我。我只从盐湖中提取这种物质-他们从湖底提取这种物质，在这个过程中用一些东西来丰富它。。。见鬼，我和他有个协议，在接下来的六个月里供应这个东西！}
+#{131}{}{What agreement? Do you have the contract?}
+{131}{}{什么协议？你有合同吗？}
+#{132}{}{Can you die from it?}
+{132}{}{你会死吗？}
+#{133}{}{Yeah. It seems you won�t help. Bye.}
+{133}{}{是 啊。看来你不会帮忙的。再见。}
+#{134}{}{Well, no, the worst case scenario is explosion of your butt on the toilet for a day, if you eat too much. But honestly, this stuff stinks worse than stale Nuka-Cola. We even fend off geckos with it.}
+{134}{}{不，最坏的情况是，如果你吃得太多，屁股会在马桶上炸一天。但老实说，这东西比不新鲜的努卡可乐更臭。我们甚至用它赶走壁虎。}
+#{135}{}{No, of course. Why? Sam just gives me a list of what he needs, and I try to supply it. That's all.}
+{135}{}{当然不是。为什么？山姆只是给了我一张他需要的清单，我试着提供。这就是全部。}
+#{136}{}{Can you give me some to take a look?}
+{136}{}{你能给我一些看看吗？}
+#{137}{}{Well, you know... It�s not so easy to get... Look...}
+{137}{}{嗯，你知道。。。这不是那么容易得到。。。看。。。}
+#{138}{}{Oh, come on! Just a small piece! You won�t lose much, will you?}
+{138}{}{哦，来吧！只是一小块！你不会损失太多吧？}
+#{139}{}{Fine. How much for a small piece? 10 bucks is enough?}
+{139}{}{好的。一小块多少钱？10块钱够了吗？}
+#{140}{}{What a stingy one! I think I�ll get out of here.}
+{140}{}{真是小气！我想我会离开这里。}
+#{141}{}{Well, just one small piece... Okay, here, take it. [he pulls out the bag something yellow and crumbling, wraps it in paper and gives to you.]}
+{141}{}{嗯，就一小块。。。好的，拿着。[他拿出一个黄色的碎裂的袋子，用纸包起来递给你。]}
+#{142}{}{Thanks. It really does stink, worse than brahmin shit...}
+{142}{}{谢谢。它真的很臭，比婆罗门的屎还臭。。。}
+#{143}{}{You know, it may be cheap, but I don't do hand-outs. Give me 10 bucks and everyone's happy.}
+{143}{}{你知道，这可能很便宜，但我不派发。给我10块钱，大家都高兴。}
+#{144}{}{Here, take your 10 bucks.}
+{144}{}{给，拿你的10块钱。}
+#{145}{}{You got evidence against Sam Phillips. Or proof of his innocence. Or maybe just a piece of junk, who knows.}
+{145}{}{你有指控山姆·菲利普斯的证据。或是他清白的证据。或者只是一块垃圾，谁知道呢。}
+#{1113}{}{I only do wholesale, sorry gal.}
+{1113}{}{我只做批发，对不起。}
+#{1119}{}{Whoa, okay, maybe I made a mistake. Do you know anything about what happened?}
+{1119}{}{喔，好吧，也许我搞错了。你知道发生了什么事吗？}
+#{1120}{}{Okay! That�s it cowgirl! Piss off, or me and my guys will throw you out of the parking lot!}
+{1120}{}{可以！就是那个牛仔女孩！滚开，否则我和我的人会把你扔出停车场！}
+#{1128}{}{Aha! I knew it! Go on, spit it out! You did rat on him, didn't you!?}
+{1128}{}{啊哈！我就知道！快，吐出来！你背叛了他，不是吗！？}

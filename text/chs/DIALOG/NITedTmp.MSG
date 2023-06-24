@@ -1,0 +1,48 @@
+#{100}{}{You open the fridge to see several hanging condoms. Inside of each one you see a human eye.}
+{100}{}{你打开冰箱看到几只安全套挂着。在每一个里面你都能看到一只人眼。}
+#{101}{}{[Close the terrible fridge.]}
+{101}{}{[关上可怕的冰箱。]}
+#{102}{}{The fridge is as ghastly as ever.}
+{102}{}{冰箱和以前一样可怕。}
+#{200}{}{[Steel yourself and look through the fridge]}
+{200}{}{[锻炼自己，看看冰箱]}
+#{201}{}{The eyes have been preserved with salt. Some still have the remains of eyelids and eyelashes, suggesting that they belonged to women. Some have lost all color with time, indicating that they have possibly been here for over a year.}
+{201}{}{眼睛被盐保存了下来。有些人还保留着眼睑和睫毛，表明它们属于女性。有些人随着时间的推移已经失去了所有的颜色，这表明他们可能已经在这里一年多了。}
+#{202}{}{[Collect intact condoms.]}
+{202}{}{[收集完整的避孕套。]}
+#{300}{}{[Open the freezer.]}
+{300}{}{[打开冰箱。]}
+#{301}{}{The freezer is full of severed fingers. They likely came from the same source as the hanging eyes.}
+{301}{}{冰箱里满是断掉的手指。它们很可能和吊眼来自同一个地方。}
+#{302}{}{[Study the fingers.]}
+{302}{}{[研究手指。]}
+#{303}{}{Only a few of the fingers have rings from the Reno Club. Maybe not all of the victims were Mom's dancers.}
+{303}{}{只有少数手指上有雷诺俱乐部的戒指。也许不是所有的受害者都是妈妈的舞者。}
+#{400}{}{[Look at the fridge door.]}
+{400}{}{[看冰箱门。]}
+#{401}{}{The fridge door has some unopened bottles of beer and a spare small energy cell.}
+{401}{}{冰箱门上有几瓶未打开的啤酒和一个备用的小能量电池。}
+#{402}{}{The fridge door has nothing interesting.}
+{402}{}{冰箱门没有什么有趣的东西。}
+#{403}{}{[Take the beer and the small energy cell.]}
+{403}{}{[拿啤酒和小能量电池来说。]}
+#{500}{}{[Search the lower shelf.]}
+{500}{}{[搜索下架子。]}
+#{501}{}{You find a spoiled can of meat and a dried-up omelette of indeterminate age. You don't need to try any of that.}
+{501}{}{你会发现一罐变质的肉和一个不确定年龄的干煎蛋卷。你什么都不用试。}
+#{600}{}{[Pull out the vegetable crisper.]}
+{600}{}{[拿出蔬菜脆片。]}
+#{601}{}{You feel the weight of something inside. What could it be?}
+{601}{}{你感觉到里面有东西的重量。可能是什么？}
+#{602}{}{[Open the crisper.]}
+{602}{}{[打开薯片。]}
+#{603}{}{Nothing too bad, just a few more fingers and photos. The fingers are carefully wrapped in a clear bag. Most of them are missing nails.}
+{603}{}{没什么不好的，只是多了几根手指和几张照片。手指被小心地包在一个透明的袋子里。他们中的大多数人都少了指甲。}
+#{604}{}{[Study the photos.]}
+{604}{}{[研究照片。]}
+#{605}{}{You see pictures of Mom's dancers. All of them have holes burned where their eyes should be... Except one. In one group photo, you see the girl from the picture you found on the maniac's body, with her eyes intact. She may still be alive!}
+{605}{}{你看妈妈跳舞的照片。所有人的眼睛都应该被烧成洞。。。除了一个。在一张合影中，你看到了你在疯子身上发现的照片中的女孩，她的眼睛完好无损。她可能还活着！}
+#{606}{}{It's unlikely she could get away from Ted in this city... Nothing's left to search here.}
+{606}{}{在这个城市她不太可能从泰德身边逃脱。。。这里什么也找不到了。}
+#{607}{}{You found new evidence for the Ted Bundy case.}
+{607}{}{你找到了泰德·邦迪案的新证据。}

@@ -1,0 +1,12 @@
+#{101}{}{You see the terminal of a nuclear reactor.}
+{101}{}{你看到核反应堆的终端。 -- You see the terminal of a nuclear reactor.}
+#{110}{}{[Turn off the electricity to garrison]}
+{110}{}{[关掉卫戍区的电源] -- [Turn off the electricity to garrison]}
+#{111}{}{[Open the door of the reactor]}
+{111}{}{[打开反应堆的门] -- [Open the door of the reactor]}
+#{112}{}{[Leave]}
+{112}{}{[离开] -- [Leave]}
+#{113}{}{Done.}
+{113}{}{完成。 -- Done.}
+#{114}{}{This should disable the security turret and trigger a reboot of the system in the garrison. However, the buildings probably have backup generators.}
+{114}{}{这将禁用安全炮塔并触发卫戍区系统的重新启动。然而，这些建筑可能有备用发电机。 -- This should disable the security turret and trigger a reboot of the system in the garrison. However, the buildings probably have backup generators.}

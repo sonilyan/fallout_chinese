@@ -1,0 +1,64 @@
+#{100}{}{You see: a Vault City guard.}
+{100}{}{你看：一个地下城守卫。 -- You see: a Vault City guard.}
+#{101}{}{You see a fellow citizen, guarding the entrance to the City.}
+{101}{}{你看到一个市民，守卫着城市的入口。 -- You see a fellow citizen, guarding the entrance to the City.}
+#{103}{}{That was a big mistake, citizen!}
+{103}{}{这是个大错误，公民！ -- That was a big mistake, citizen!}
+#{104}{}{That was a big mistake, citizen!}
+{104}{}{这是个大错误，公民！ -- That was a big mistake, citizen!}
+#{110}{}{Are they issuing black jumpsuits now?}
+{110}{}{他们现在在发黑色连身衣吗？ -- Are they issuing black jumpsuits now?}
+#{111}{}{What's with the outfit?}
+{111}{}{这套衣服怎么了？ -- What's with the outfit?}
+#{112}{}{Is that a... Skull?}
+{112}{}{那是。。。颅骨？ -- Is that a... Skull?}
+#{113}{}{I never seen a jumpsuit like that before.}
+{113}{}{我从没见过这样的连身衣。 -- I never seen a jumpsuit like that before.}
+#{114}{}{I really hope that jumpsuit isn't from the Wasteland.}
+{114}{}{我真希望那件连身衣不是从荒地来的。 -- I really hope that jumpsuit isn't from the Wasteland.}
+#{115}{}{I think I've seen clothes like that on outsiders.}
+{115}{}{我想我在外人身上见过这样的衣服。 -- I think I've seen clothes like that on outsiders.}
+#{120}{}{Remember! Service guarantees citizenship!}
+{120}{}{记得！服务保障公民身份！ -- Remember! Service guarantees citizenship!}
+#{121}{}{You need help?}
+{121}{}{你需要帮助吗？ -- You need help?}
+#{122}{}{Sorry, no talking on duty.}
+{122}{}{对不起，值班时不准讲话。 -- Sorry, no talking on duty.}
+#{123}{}{I've got nothing to report... Not to you.}
+{123}{}{我没什么要报告的。。。不是对你。 -- I've got nothing to report... Not to you.}
+#{124}{}{I'm on duty.}
+{124}{}{我在值班。 -- I'm on duty.}
+#{125}{}{Anything wrong, citizen?}
+{125}{}{有什么问题吗，公民？ -- Anything wrong, citizen?}
+#{126}{}{Greetings, citizen.}
+{126}{}{你好，公民。 -- Greetings, citizen.}
+#{127}{}{Stay vigilant!}
+{127}{}{保持警惕！ -- Stay vigilant!}
+#{128}{}{Long live Vault City!}
+{128}{}{金库城万岁！ -- Long live Vault City!}
+#{129}{}{The enemy never rests. We must always be ready.}
+{129}{}{敌人从不休息。我们必须随时准备好。 -- The enemy never rests. We must always be ready.}
+#{130}{}{Tough day, citizen?}
+{130}{}{艰难的一天，公民？ -- Tough day, citizen?}
+#{1120}{}{Remember! Service guarantees citizenship.}
+{1120}{}{记得！服务保障公民身份。 -- Remember! Service guarantees citizenship.}
+#{1121}{}{You need help?}
+{1121}{}{你需要帮助吗？ -- You need help?}
+#{1122}{}{Sorry, no talking on duty.}
+{1122}{}{对不起，值班时不准讲话。 -- Sorry, no talking on duty.}
+#{1123}{}{I've got nothing to report... Not to you.}
+{1123}{}{我没什么要报告的。。。不是对你。 -- I've got nothing to report... Not to you.}
+#{1124}{}{I'm on duty.}
+{1124}{}{我在值班。 -- I'm on duty.}
+#{1125}{}{Anything wrong, citizen?}
+{1125}{}{有什么问题吗，公民？ -- Anything wrong, citizen?}
+#{1126}{}{Greetings, citizen.}
+{1126}{}{你好，公民。 -- Greetings, citizen.}
+#{1127}{}{Stay vigilant!}
+{1127}{}{保持警惕！ -- Stay vigilant!}
+#{1128}{}{Long live the Vault City!}
+{1128}{}{金库城万岁！ -- Long live the Vault City!}
+#{1129}{}{The enemy never rests, we must always be ready.}
+{1129}{}{敌人从不休息，我们必须随时准备。 -- The enemy never rests, we must always be ready.}
+#{1130}{}{Tough day, citizen?}
+{1130}{}{艰难的一天，公民？ -- Tough day, citizen?}

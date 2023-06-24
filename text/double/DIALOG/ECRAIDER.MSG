@@ -1,0 +1,28 @@
+#{100}{}{You see a rough-looking person.}
+{100}{}{你看到一个长相粗糙的人。 -- You see a rough-looking person.}
+#{101}{}{You see a raider.}
+{101}{}{你看到一个袭击者。 -- You see a raider.}
+#{200}{}{You trespass into our lands. Now you die!}
+{200}{}{你侵入我们的土地。现在你死定了！ -- You trespass into our lands. Now you die!}
+#{201}{}{How dare you come here uninvited!}
+{201}{}{你竟敢不请自来！ -- How dare you come here uninvited!}
+#{202}{}{Die, city walker!}
+{202}{}{死吧，城市行者！ -- Die, city walker!}
+#{203}{}{Your death should bring me some money.}
+{203}{}{你的死会给我带来一些钱。 -- Your death should bring me some money.}
+#{204}{}{Flee before me, puny one!}
+{204}{}{在我面前逃跑，小个子！ -- Flee before me, puny one!}
+#{205}{}{You know the drill, gentlemen.}
+{205}{}{你们知道规矩，先生们。 -- You know the drill, gentlemen.}
+#{206}{}{No witnesses.}
+{206}{}{没有目击者。 -- No witnesses.}
+#{207}{}{Cover me.}
+{207}{}{掩护我。 -- Cover me.}
+#{208}{}{No mercy!}
+{208}{}{没有怜悯！ -- No mercy!}
+#{209}{}{The man says no survivors.}
+{209}{}{那人说没有幸存者。 -- The man says no survivors.}
+#{210}{}{Boss says no trespassing.}
+{210}{}{老板说不许擅闯。 -- Boss says no trespassing.}
+#{211}{}{Let's get paid!}
+{211}{}{我们拿工资吧！ -- Let's get paid!}

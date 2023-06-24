@@ -1,0 +1,4 @@
+#{100}{}{The vault was destroyed. Evidence of violence and gunfire make it clear what happened.}
+{100}{}{金库被毁了。暴力和枪声的证据表明发生了什么。}
+#{101}{}{Prolonged sexual abstinence caused a hormonal explosion in your body.}
+{101}{}{长期的性禁欲会导致体内荷尔蒙爆炸。}

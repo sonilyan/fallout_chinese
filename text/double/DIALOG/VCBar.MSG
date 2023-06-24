@@ -1,0 +1,130 @@
+#{100}{}{You see bartender Tony.}
+{100}{}{你看到酒保托尼了。 -- You see bartender Tony.}
+#{101}{}{You see a chubby man behind the bar. He smiles to each visitor.}
+{101}{}{你看见吧台后面有个胖乎乎的男人。他对每个来访者微笑。 -- You see a chubby man behind the bar. He smiles to each visitor.}
+#{102}{}{Show your face first, I want to see who I'm serving.}
+{102}{}{先露个脸，我要看看我在为谁服务。 -- Show your face first, I want to see who I'm serving.}
+#{126}{}{It won't take long for you to get punched in the face doing that!}
+{126}{}{用不了多久你就会被打到脸上！ -- It won't take long for you to get punched in the face doing that!}
+#{130}{}{Hey, bartender, keep this $10 as a tip.}
+{130}{}{嘿，酒保，留着这10美元作为小费。 -- Hey, bartender, keep this $10 as a tip.}
+#{131}{}{[Smiles immediately in response to you] Thank you for your generosity, sir.}
+{131}{}{[微笑着回应你]谢谢你的慷慨，先生。 -- [Smiles immediately in response to you] Thank you for your generosity, sir.}
+#{132}{}{Can you tell something interesting, if you're not too busy?}
+{132}{}{如果你不太忙，你能讲点有趣的事吗？ -- Can you tell something interesting, if you're not too busy?}
+#{133}{}{I've heard there's a real treasure buried somewhere in Vegas. If you find it, you'll become truly rich. I don't know if it's true, so far no one's found it yet.}
+{133}{}{我听说在维加斯的某个地方埋藏着一个真正的宝藏。如果你找到它，你会变得真正富有。我不知道这是不是真的，到目前为止还没有人找到它。 -- I've heard there's a real treasure buried somewhere in Vegas. If you find it, you'll become truly rich. I don't know if it's true, so far no one's found it yet.}
+#{134}{}{Want me to tell you about the gun Mr. Hal Wallace has? It is a real rarity! Taking a bullet from this gun isn't to be envied. And the engraving on it, m-m! Something with Indian accents, real classy.}
+{134}{}{要我告诉你哈尔·华莱士先生的枪吗？真是稀罕！从这把枪里拿子弹是不值得羡慕的。还有上面的雕刻，m-m！有印度口音的东西，很有档次。 -- Want me to tell you about the gun Mr. Hal Wallace has? It is a real rarity! Taking a bullet from this gun isn't to be envied. And the engraving on it, m-m! Something with Indian accents, real classy.}
+#{135}{}{Barney Hill is a strange person. There he is, standing next to the treadmill. Wears this stupid hat, says some awkward and stupid things. On the other hand, who cares when he's paying, right? Heh! Our boss said that good clients have to receive discounts, that's how Barney became a resident and settled in his own room. He doesn't allow even room service to go in there. No one at all. How does an ordinary prospector have so much money? Beats me... }
+{135}{}{巴尼·希尔是个奇怪的人。他在那儿，站在跑步机旁边。戴着这顶愚蠢的帽子，说一些尴尬和愚蠢的话。另一方面，谁在乎他什么时候付钱，对吧？嘿！我们的老板说，好的客户必须得到折扣，巴尼就是这样成为一个住户，在自己的房间里安顿下来的。他连客房服务都不让进去。一个人也没有。一个普通的探矿者怎么会有这么多钱？打败我。。。 -- Barney Hill is a strange person. There he is, standing next to the treadmill. Wears this stupid hat, says some awkward and stupid things. On the other hand, who cares when he's paying, right? Heh! Our boss said that good clients have to receive discounts, that's how Barney became a resident and settled in his own room. He doesn't allow even room service to go in there. No one at all. How does an ordinary prospector have so much money? Beats me... }
+#{136}{}{Oh, no biggie. Here was a guy, Sam Riley, our employee, went on a business trip to the west with the caravan. The caravan returned, but Sam didn't. No one's heard of him since. Looks like it's time to throw him a memorial service and get really drunk.}
+{136}{}{哦，没什么大不了的。有个人，山姆·莱利，我们的雇员，和大篷车一起去西部出差。商队回来了，但萨姆没有回来。从那以后就没人听说过他了。看来是时候给他开个追悼会然后喝得酩酊大醉了。 -- Oh, no biggie. Here was a guy, Sam Riley, our employee, went on a business trip to the west with the caravan. The caravan returned, but Sam didn't. No one's heard of him since. Looks like it's time to throw him a memorial service and get really drunk.}
+#{137}{}{Tibbett sells great guns, but usually keeps them away from prying eyes. It is more important for him to trade with the police, although they pay him much less than ordinary buyers. They are pressing an honest man, that pigs... Oh, excuse me, that was inappropriate.}
+{137}{}{蒂贝特卖的枪很好，但通常让他们远离窥探的眼睛。对他来说，与警察交易更重要，尽管警察付给他的报酬比普通买家少得多。他们在逼迫一个诚实的人，那猪。。。哦，对不起，那不合适。 -- Tibbett sells great guns, but usually keeps them away from prying eyes. It is more important for him to trade with the police, although they pay him much less than ordinary buyers. They are pressing an honest man, that pigs... Oh, excuse me, that was inappropriate.}
+#{138}{}{Thanks.}
+{138}{}{谢谢。 -- Thanks.}
+#{139}{}{Anything else, sir?}
+{139}{}{还有别的事吗，先生？ -- Anything else, sir?}
+#{140}{}{My pleasure.}
+{140}{}{我的荣幸。 -- My pleasure.}
+#{141}{}{Alas, nothing interesting.}
+{141}{}{唉，没什么有趣的。 -- Alas, nothing interesting.}
+#{150}{}{I heard someone got poisoned having a drink from the bar. What can you say about this?}
+{150}{}{我听说有人在酒吧喝酒时中毒了。你能说些什么？ -- I heard someone got poisoned having a drink from the bar. What can you say about this?}
+#{151}{}{[Raises an eyebrow skeptically] Competitors, damn them. They spread stories, or even try to mix some stuff into customer's drinks when they aren't looking. Why would we poison our own customers? It's too expensive.}
+{151}{}{[怀疑地扬起眉毛]竞争对手，该死的。他们散布故事，甚至在顾客不注意的时候尝试在饮料中掺入一些东西。我们为什么要毒害自己的顾客？太贵了。 -- [Raises an eyebrow skeptically] Competitors, damn them. They spread stories, or even try to mix some stuff into customer's drinks when they aren't looking. Why would we poison our own customers? It's too expensive.}
+#{152}{}{Sure, sure... }
+{152}{}{当然，当然。。。 -- Sure, sure... }
+#{153}{}{Innocent till proved guilty, right? Sitting pretty, aren't you... }
+{153}{}{在被证明有罪之前是无辜的，对吧？你坐得很漂亮，不是吗。。。 -- Innocent till proved guilty, right? Sitting pretty, aren't you... }
+#{154}{}{That sounds quite logical and convincing.}
+{154}{}{这听起来很有逻辑和说服力。 -- That sounds quite logical and convincing.}
+#{200}{}{One serving of Rot Gut is on the way... }
+{200}{}{一份腐烂的肠子在路上。。。 -- One serving of Rot Gut is on the way... }
+#{201}{}{That'll be three coins... }
+{201}{}{一共是三个硬币。。。 -- That'll be three coins... }
+#{202}{}{Another one for you, buddy?}
+{202}{}{再给你一个，伙计？ -- Another one for you, buddy?}
+#{203}{}{Here's the cure if you want.}
+{203}{}{如果你想的话，这是解药。 -- Here's the cure if you want.}
+#{204}{}{It is not allowed to vomit in here! Get out and puke on the streets!}
+{204}{}{这里不准呕吐！出去在街上呕吐！ -- It is not allowed to vomit in here! Get out and puke on the streets!}
+#{205}{}{Two packets by half an ounce or a can?}
+{205}{}{两包半盎司还是一罐？ -- Two packets by half an ounce or a can?}
+#{206}{}{A special request from Tim Cain is on the way... }
+{206}{}{蒂姆·凯恩的特别请求马上就要到了。。。 -- A special request from Tim Cain is on the way... }
+#{207}{}{Let me guess: put it on your tab?}
+{207}{}{让我猜猜：记在你的帐上？ -- Let me guess: put it on your tab?}
+#{208}{}{One "dive bomb" with ice, coming right up.}
+{208}{}{一个带冰块的“潜水炸弹”，马上就来。 -- One "dive bomb" with ice, coming right up.}
+#{209}{}{We don't allow customers to get high in here, pal.}
+{209}{}{我们不允许顾客在这里兴奋，伙计。 -- We don't allow customers to get high in here, pal.}
+#{210}{}{Do you know why those theater guys have to be hanged? Because the theater begins with a hanger... Ha-ha-ha!!!}
+{210}{}{你知道为什么那些戏剧演员要被绞死吗？因为剧院从衣架开始。。。哈哈哈！！！ -- Do you know why those theater guys have to be hanged? Because the theater begins with a hanger... Ha-ha-ha!!!}
+#{230}{}{What do you want, buddy?}
+{230}{}{你想要什么，伙计？ -- What do you want, buddy?}
+#{231}{}{Booze. Show me what do you have.}
+{231}{}{喝酒。给我看看你有什么。 -- Booze. Show me what do you have.}
+#{232}{}{No thanks.}
+{232}{}{不用了，谢谢。 -- No thanks.}
+#{233}{}{Want more?}
+{233}{}{想要更多吗？ -- Want more?}
+#{234}{}{Give me more.}
+{234}{}{再给我一点。 -- Give me more.}
+#{235}{}{Can I book a room?}
+{235}{}{我能预订房间吗？ -- Can I book a room?}
+#{239}{}{Uh... Hey, slow down mug, are you sure you came to the right venue?}
+{239}{}{休斯敦大学。。。嘿，慢点，马克杯，你确定你来对地方了吗？ -- Uh... Hey, slow down mug, are you sure you came to the right venue?}
+#{240}{}{Sir, I won't serve you until you put away this... Self-defense tool.}
+{240}{}{先生，在你把这个收起来之前我不会为你服务的。。。自卫工具。 -- Sir, I won't serve you until you put away this... Self-defense tool.}
+#{241}{}{Who's that shabby guy to the left of the bar counter?}
+{241}{}{吧台左边那个衣衫褴褛的家伙是谁？ -- Who's that shabby guy to the left of the bar counter?}
+#{242}{}{Who's that weirdo with the wig to the right of the bar counter?}
+{242}{}{那个戴假发在吧台右边的怪人是谁？ -- Who's that weirdo with the wig to the right of the bar counter?}
+#{243}{}{That's a regular. He hadn't been here for a while, got lost somewhere. He says he was seized by the military, but managed to escape. Ha! He's such a windbag.}
+{243}{}{这是一个固定的。他有一阵子没来了，在什么地方迷路了。他说他被军方抓获，但成功逃脱。哈！他真是个无赖。 -- That's a regular. He hadn't been here for a while, got lost somewhere. He says he was seized by the military, but managed to escape. Ha! He's such a windbag.}
+#{244}{}{That is an associate of my boss. The only thing he does is sleep during the day and throw money at the casino at night. He's a bit [twists a finger at his temple] cuckoo.}
+{244}{}{那是我老板的同事。他唯一做的就是白天睡觉，晚上在赌场扔钱。他有点[在太阳穴扭手指]疯疯癫癫的。 -- That is an associate of my boss. The only thing he does is sleep during the day and throw money at the casino at night. He's a bit [twists a finger at his temple] cuckoo.}
+#{245}{}{Room's on the third floor, here are the keys... }
+{245}{}{房间在三楼，这是钥匙。。。 -- Room's on the third floor, here are the keys... }
+#{246}{}{Okay, thanks.}
+{246}{}{好的，谢谢。 -- Okay, thanks.}
+#{247}{}{Here are the keys, your room is on the third floor. Have a nice stay!}
+{247}{}{这是钥匙，你的房间在三楼。祝您入住愉快！ -- Here are the keys, your room is on the third floor. Have a nice stay!}
+#{248}{}{Thanks.}
+{248}{}{谢谢。 -- Thanks.}
+#{249}{}{You're well rested and gained strength.}
+{249}{}{你休息得很好，体力也增强了。 -- You're well rested and gained strength.}
+#{250}{}{Damn! You vomited all over the floor! Now who is going to clean it?!!}
+{250}{}{该死！你吐得满地都是！现在谁来打扫？！！ -- Damn! You vomited all over the floor! Now who is going to clean it?!!}
+#{251}{}{Tell me, who lives in room 26 on the third floor?}
+{251}{}{告诉我，谁住在三楼26号房？ -- Tell me, who lives in room 26 on the third floor?}
+#{252}{}{Oh, that's Barney Hill. I hope he didn't cause any inconvenience for you? I understand that his somewhat eccentric appearance may be... Off-putting, but he doesn't do any harm. He claims that he was abducted by aliens from outer space, can you imagine? Heh. He was even waving around some pre-war toy, stylized as an alien blaster. Apparently, he's obsessed with the theory of an alien invasion. A strange person, but always amusing nonetheless.}
+{252}{}{哦，那是巴尼山。希望他没有给你带来任何不便？我知道他有些古怪的外表可能是。。。令人讨厌，但他没有造成任何伤害。他声称他是被外星人从外太空绑架的，你能想象吗？嘿。他甚至在一些战前玩具周围挥手，造型像外星人爆炸机。显然，他痴迷于外星人入侵的理论。一个奇怪的人，但总是有趣的。 -- Oh, that's Barney Hill. I hope he didn't cause any inconvenience for you? I understand that his somewhat eccentric appearance may be... Off-putting, but he doesn't do any harm. He claims that he was abducted by aliens from outer space, can you imagine? Heh. He was even waving around some pre-war toy, stylized as an alien blaster. Apparently, he's obsessed with the theory of an alien invasion. A strange person, but always amusing nonetheless.}
+#{253}{}{I see. Would you answer another question?}
+{253}{}{我懂了。你能回答另一个问题吗？ -- I see. Would you answer another question?}
+#{254}{}{Hmm, how curious. Thanks for the tip and bye.}
+{254}{}{嗯，真好奇。谢谢你的小费，再见。 -- Hmm, how curious. Thanks for the tip and bye.}
+#{255}{}{I'm doing the direct delivery of Nuka-Cola. We could cooperate with you.}
+{255}{}{我是直接送Nuka可乐的。我们可以和你合作。 -- I'm doing the direct delivery of Nuka-Cola. We could cooperate with you.}
+#{256}{}{Can't you see that we *already* sell Nuka-Cola? And anticipating the follow-up question - yes, we have our own supply line from Salt Lake.}
+{256}{}{你看不出来我们已经在卖Nuka可乐了吗？接下来的问题是——是的，我们有自己的盐湖供应线。 -- Can't you see that we *already* sell Nuka-Cola? And anticipating the follow-up question - yes, we have our own supply line from Salt Lake.}
+#{257}{}{So I was beaten by competitors? Bad luck... }
+{257}{}{所以我被竞争对手打败了？运气不好。。。 -- So I was beaten by competitors? Bad luck... }
+#{258}{}{Yes, of course. The room costs }
+{258}{}{是的，当然。这房间很贵 -- Yes, of course. The room costs }
+#{259}{}{ bucks a day.}
+{259}{}{一天两块钱。 --  bucks a day.}
+#{260}{}{[Go into your room]}
+{260}{}{[进入你的房间] -- [Go into your room]}
+#{1131}{}{[Smiles immediately in response to you] Thank you for your generosity, miss.}
+{1131}{}{谢谢你的慷慨，小姐。 -- [Smiles immediately in response to you] Thank you for your generosity, miss.}
+#{1139}{}{Anything else, ma'am?}
+{1139}{}{还有别的吗，女士？ -- Anything else, ma'am?}
+#{1230}{}{What do you want, friend?}
+{1230}{}{你想要什么，朋友？ -- What do you want, friend?}
+#{1239}{}{Uh... Hey, slow down mug, are you sure you came to the right venue?}
+{1239}{}{休斯敦大学。。。嘿，慢点，马克杯，你确定你来对地方了吗？ -- Uh... Hey, slow down mug, are you sure you came to the right venue?}
+#{1240}{}{Ma'am, I won't serve you until you put away this... Self-defense tool.}
+{1240}{}{夫人，在你把这个收起来之前我不会为你服务的。。。自卫工具。 -- Ma'am, I won't serve you until you put away this... Self-defense tool.}

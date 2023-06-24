@@ -1,0 +1,12 @@
+#{970}{}{That is my name.}
+{970}{}{那是我的名字。}
+#{971}{}{You are talking to me.}
+{971}{}{你在跟我说话。}
+#{972}{}{Why do you ask silly questions. I am that person.}
+{972}{}{你为什么问一些愚蠢的问题。我就是那个人。}
+#{980}{}{I don't know anything about that.}
+{980}{}{我对此一无所知。}
+#{981}{}{Sorry, no clue.}
+{981}{}{抱歉，不知道。}
+#{982}{}{Never heard of it.}
+{982}{}{从没听说过。}

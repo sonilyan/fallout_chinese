@@ -1,0 +1,214 @@
+#{100}{}{You see Bishop.}
+{100}{}{你看主教。 -- You see Bishop.}
+#{101}{}{You see an entrepreneur with a very serious expression on his face.}
+{101}{}{你看到一个企业家脸上带着非常严肃的表情。 -- You see an entrepreneur with a very serious expression on his face.}
+#{102}{}{Stop cheating, you bastard! I swear, this is better be the last time... }
+{102}{}{别作弊了，你这个混蛋！我发誓，这最好是最后一次。。。 -- Stop cheating, you bastard! I swear, this is better be the last time... }
+#{103}{}{[Start combat.]}
+{103}{}{[开始战斗。] -- [Start combat.]}
+#{104}{}{[Exit.]}
+{104}{}{[退出。] -- [Exit.]}
+#{110}{}{[He looks at you appraisingly] Hmm. What do you need, sport?}
+{110}{}{[他评价地看着你]嗯。你需要什么，运动？ -- [He looks at you appraisingly] Hmm. What do you need, sport?}
+#{111}{}{So you're the one who organizes these fights?}
+{111}{}{你是组织这些战斗的人？ -- So you're the one who organizes these fights?}
+#{112}{}{Nothing. See you later.}
+{112}{}{没有什么。再见。 -- Nothing. See you later.}
+#{113}{}{Indeed I am. If you're looking to see men bash each other's faces into a pulp, you've come to the right place. My name is Jordan Bishop. I'm the manager of the ring and nothing happens here without my permission. So what business do you have with me?}
+{113}{}{我确实是。如果你想看到男人们把对方的脸打成肉，那你来对地方了。我叫乔丹·毕晓普。我是拳击场的经理，没有我的允许这里什么事都不会发生。你跟我有什么关系？ -- Indeed I am. If you're looking to see men bash each other's faces into a pulp, you've come to the right place. My name is Jordan Bishop. I'm the manager of the ring and nothing happens here without my permission. So what business do you have with me?}
+#{114}{}{Tell me about the rules of the ring. I'm thinking I might want to participate.}
+{114}{}{告诉我拳击场的规则。我想我可能想参加。 -- Tell me about the rules of the ring. I'm thinking I might want to participate.}
+#{115}{}{I want to bet on a fighter.}
+{115}{}{我想赌一个拳击手。 -- I want to bet on a fighter.}
+#{116}{}{Where did you get those fighters that are in the ring right now?}
+{116}{}{你从哪儿弄来的拳手现在在拳击场上？ -- Where did you get those fighters that are in the ring right now?}
+#{117}{}{Business? I just wanted to talk. Well, if you're so busy, I'd better just go... }
+{117}{}{生意？我只是想谈谈。好吧，如果你这么忙，我最好还是去。。。 -- Business? I just wanted to talk. Well, if you're so busy, I'd better just go... }
+#{118}{}{I run this ring, and I don't have time for stupid questions. I hope you've come to do business this time?}
+{118}{}{我负责这场比赛，没时间回答愚蠢的问题。希望你这次来做生意？ -- I run this ring, and I don't have time for stupid questions. I hope you've come to do business this time?}
+#{120}{}{Oh, that. I'm not the one who takes the bets. We have another guy in the hall dealing with that kinda stuff, look for him.}
+{120}{}{哦，那个。不是我下注的。大厅里有另一个人在处理这类事情，找他。 -- Oh, that. I'm not the one who takes the bets. We have another guy in the hall dealing with that kinda stuff, look for him.}
+#{121}{}{Just some ordinary slaves. They're not really cut out for the heavyweights. So they just dance a bit, it isn't a serious fight. Why do you ask?}
+{121}{}{只是一些普通的奴隶。他们不适合重量级选手。所以他们只是跳一点舞，这不是一场严肃的战斗。你为什么问？ -- Just some ordinary slaves. They're not really cut out for the heavyweights. So they just dance a bit, it isn't a serious fight. Why do you ask?}
+#{122}{}{You?! Listen, our conditions aren't right for you, they're too... Harsh. We have only one rule of battle here - no weapons. Opponents fight to the death, until their final fucking breath. Of course, the fighter can be kept alive, but no one ever gives such a mercy in the ring. If you want to participate, you'd better be ready for this sort of thing.}
+{122}{}{你？！听着，我们的条件不适合你，他们太。。。严厉的。我们这里只有一条战斗规则-没有武器。对手战斗至死，直到他们最后的呼吸。当然，拳击手可以活下来，但在拳击场上从来没有人给予这样的仁慈。如果你想参加，你最好为这类事情做好准备。 -- You?! Listen, our conditions aren't right for you, they're too... Harsh. We have only one rule of battle here - no weapons. Opponents fight to the death, until their final fucking breath. Of course, the fighter can be kept alive, but no one ever gives such a mercy in the ring. If you want to participate, you'd better be ready for this sort of thing.}
+#{123}{}{So what? I don't match up? That's a shame... }
+{123}{}{那又怎么样？我不匹配？真可惜。。。 -- So what? I don't match up? That's a shame... }
+#{124}{}{[He studies you closely] Hmm. It's hard to get a good look at you under that clothing... But I'm willing to give you a try. But I warn you - our fights don't have any restrictions! No one is gonna pull punches, people can and often do die in this ring. The only string attached to these fights is: no weapons. I can advise you to go warm up in the gym, there is a hell of a coach there to help you out.}
+{124}{}{[他仔细研究你]嗯。很难在那件衣服下看清你。。。但我愿意给你一次机会。但我警告你-我们的战斗没有任何限制！没人会动手，人们可以而且经常死在这个圈子里。与这些战斗有关的唯一条件是：没有武器。我可以建议你去健身房热身，那里有个很棒的教练来帮你。 -- [He studies you closely] Hmm. It's hard to get a good look at you under that clothing... But I'm willing to give you a try. But I warn you - our fights don't have any restrictions! No one is gonna pull punches, people can and often do die in this ring. The only string attached to these fights is: no weapons. I can advise you to go warm up in the gym, there is a hell of a coach there to help you out.}
+#{125}{}{How much will I earn for winning?}
+{125}{}{我能赢多少钱？ -- How much will I earn for winning?}
+#{126}{}{It depends on how much money the betting audience loses. Bids happen during the fight. After the staff gets their cut, we pass the remainder on to you.}
+{126}{}{这取决于投注的观众输了多少钱。竞拍发生在战斗中。员工们拿到工资后，剩下的就交给你了。 -- It depends on how much money the betting audience loses. Bids happen during the fight. After the staff gets their cut, we pass the remainder on to you.}
+#{127}{}{Who will be my opponents?}
+{127}{}{谁会是我的对手？ -- Who will be my opponents?}
+#{128}{}{To start off, let's see how you deal with the slaves. If the audience likes what you got... Well, we do have some professionals, but you'll still need to grow in order to fight them. Dont worry, they'll give you hell if you ever get in the ring with them!}
+{128}{}{首先，让我们看看你是怎么对付奴隶的。如果观众喜欢你的表演。。。嗯，我们确实有一些专业人士，但你仍然需要成长才能与他们抗争。别担心，如果你和他们一起上拳击场，他们会狠狠揍你的！ -- To start off, let's see how you deal with the slaves. If the audience likes what you got... Well, we do have some professionals, but you'll still need to grow in order to fight them. Dont worry, they'll give you hell if you ever get in the ring with them!}
+#{129}{}{Tempting offer!}
+{129}{}{诱人的提议！ -- Tempting offer!}
+#{130}{}{Then get ready for a fight. Usually our serious fights are in the evening, at 21:00.}
+{130}{}{那就准备战斗吧。我们通常在晚上21:00打仗。 -- Then get ready for a fight. Usually our serious fights are in the evening, at 21:00.}
+#{131}{}{Can't wait!}
+{131}{}{等不及了！ -- Can't wait!}
+#{132}{}{Hey, ready to fight, sport?}
+{132}{}{嘿，准备好战斗了吗？ -- Hey, ready to fight, sport?}
+#{133}{}{Hell yeah!}
+{133}{}{见鬼，耶！ -- Hell yeah!}
+#{134}{}{Not now.}
+{134}{}{不是现在。 -- Not now.}
+#{135}{}{Excellent! The coach will warm you up. Give 'em hell!}
+{135}{}{杰出的！教练会让你热身的。让他们见鬼去吧！ -- Excellent! The coach will warm you up. Give 'em hell!}
+#{136}{}{[Wait until 21:00 and enter the ring.]}
+{136}{}{[等到21:00进入擂台。] -- [Wait until 21:00 and enter the ring.]}
+#{137}{}{Hey, where the hell is our champion? Oh, there you are! Here's your money. [he gives you your winnings] When you're ready for the next fight, let me know.}
+{137}{}{嘿，我们的冠军到底在哪里？哦，你来了！这是你的钱。[他给你赢的钱]等你准备好下一场比赛的时候，告诉我。 -- Hey, where the hell is our champion? Oh, there you are! Here's your money. [he gives you your winnings] When you're ready for the next fight, let me know.}
+#{138}{}{Okay.}
+{138}{}{可以。 -- Okay.}
+#{139}{}{Hey, sport! You came for your next pump of adrenaline?}
+{139}{}{嘿，运动！你来是为了下一次肾上腺素？ -- Hey, sport! You came for your next pump of adrenaline?}
+#{140}{}{You bet I am! I'm ready to fight.}
+{140}{}{我当然是！我准备好战斗了。 -- You bet I am! I'm ready to fight.}
+#{141}{}{No, I just came to watch the slaves fight.}
+{141}{}{不，我只是来看奴隶们打架。 -- No, I just came to watch the slaves fight.}
+#{142}{}{Sorry, sport, we're not ready for the next battle. Come tomorrow, okay?}
+{142}{}{抱歉，运动，我们还没准备好下一场战斗。明天来，好吗？ -- Sorry, sport, we're not ready for the next battle. Come tomorrow, okay?}
+#{143}{}{Such determination, I like it! Well, go on then!}
+{143}{}{这样的决心，我喜欢！好吧，那就继续吧！ -- Such determination, I like it! Well, go on then!}
+#{144}{}{You probably noticed we're increasing the pressure in the ring, giving you some stronger opponents. But this time it's gonna be a *real* challenge for you. For this fight I pay a higher fee. You'd better come out swinging!}
+{144}{}{你可能注意到了我们正在增加拳击场的压力，给你一些更强的对手。但这次对你来说将是一个真正的挑战。为了这场比赛我付了更高的费用。你最好出来荡秋千！ -- You probably noticed we're increasing the pressure in the ring, giving you some stronger opponents. But this time it's gonna be a *real* challenge for you. For this fight I pay a higher fee. You'd better come out swinging!}
+#{145}{}{I paid a top fee for your opponent tonight. I guess they've heard of you all the way down to Vegas, because this one came from there specifically to fight you. Be warned - this one is serious business. My advice is to remember *all* your weaknesses in combat. They will become a major issue in the ring this time.}
+{145}{}{今晚我为你的对手付了最高的费用。我想他们在去维加斯的路上都听说过你，因为这个人是专门来和你打架的。请注意，这是一件严肃的事情。我的建议是记住你在战斗中的所有弱点。这一次他们将成为拳击场的主要议题。 -- I paid a top fee for your opponent tonight. I guess they've heard of you all the way down to Vegas, because this one came from there specifically to fight you. Be warned - this one is serious business. My advice is to remember *all* your weaknesses in combat. They will become a major issue in the ring this time.}
+#{146}{}{If only you could have seen yourself! That was the best left hook that's ever been swung in my ring! Tricks like that are what makes us a lot of money. The audience was ecstatic, the whole city was trying to get in to watch! Anyway, here's your money. [he gives you your winnings] When you're ready, come by and we'll arrange another fight... IN YOUR HONOR!}
+{146}{}{你要是能亲眼看看就好了！那是我打过的最好的左勾拳！像这样的把戏使我们赚了很多钱。观众们欣喜若狂，整个城市都想进去观看！不管怎样，这是你的钱。[他给你赢的钱]等你准备好了，过来我们再安排一场比赛。。。以你的名义！ -- If only you could have seen yourself! That was the best left hook that's ever been swung in my ring! Tricks like that are what makes us a lot of money. The audience was ecstatic, the whole city was trying to get in to watch! Anyway, here's your money. [he gives you your winnings] When you're ready, come by and we'll arrange another fight... IN YOUR HONOR!}
+#{147}{}{I'm exhausted just from watching that amazing fight! It was... It was crazy! Our ring's the hottest spot in town, sport, and it's all thanks to you. [he gives you your winnings] ...But now let's talk about the bad news.}
+{147}{}{我看了那场精彩的比赛就筋疲力尽了！那是。。。太疯狂了！我们的戒指是镇上最热的地方，体育，这一切都要感谢你。[他给你赢的钱]…现在我们来谈谈坏消息。 -- I'm exhausted just from watching that amazing fight! It was... It was crazy! Our ring's the hottest spot in town, sport, and it's all thanks to you. [he gives you your winnings] ...But now let's talk about the bad news.}
+#{148}{}{What is it? Give it to me straight!}
+{148}{}{它是什么？直接给我！ -- What is it? Give it to me straight!}
+#{149}{}{Audience loves you so much they bet the bank on you... And they win! You see where I'm going with this?}
+{149}{}{观众是如此爱你，他们把赌注押在你身上。。。他们赢了！你知道我要说什么吗？ -- Audience loves you so much they bet the bank on you... And they win! You see where I'm going with this?}
+#{150}{}{Uh-oh... }
+{150}{}{哦哦。。。 -- Uh-oh... }
+#{151}{}{You're so good, we can't make money on you. Every fight is a sure bet. You're bleeding us dry, sport! We can't earn money on this kind of situation.}
+{151}{}{你太好了，我们靠你赚不了钱。每一场战斗都是一个确定的赌注。你在榨干我们的血，运动！在这种情况下我们赚不到钱。 -- You're so good, we can't make money on you. Every fight is a sure bet. You're bleeding us dry, sport! We can't earn money on this kind of situation.}
+#{152}{}{Wait a minute, so the ring lives on lost bets?}
+{152}{}{等等，那戒指靠输掉的赌注活着？ -- Wait a minute, so the ring lives on lost bets?}
+#{153}{}{Well, of course! What else? Well, there's the bar, but that's barely a pittance compared to what we get from bets. And some of the fans go on to gamble in the casino, but that only goes so far.}
+{153}{}{好吧，当然！还有什么？好吧，这里有酒吧，但这和我们从赌博中得到的钱相比简直微不足道。一些球迷继续在赌场赌博，但这只是一个例外。 -- Well, of course! What else? Well, there's the bar, but that's barely a pittance compared to what we get from bets. And some of the fans go on to gamble in the casino, but that only goes so far.}
+#{154}{}{Someone doesn't have enough marketers!}
+{154}{}{有人没有足够的营销人员！ -- Someone doesn't have enough marketers!}
+#{155}{}{Yeah, well... I've seen some real pain in the ring, but nothing more painful than this. You made us, but you'll ruin us. I'm sorry. You're the best... And you have to leave.}
+{155}{}{是啊，嗯。。。我在拳击场上看到了一些真正的痛苦，但没有比这更痛苦的了。你创造了我们，但你会毁了我们。我很抱歉。你是最棒的。。。你必须离开。 -- Yeah, well... I've seen some real pain in the ring, but nothing more painful than this. You made us, but you'll ruin us. I'm sorry. You're the best... And you have to leave.}
+#{156}{}{And it all went so well... }
+{156}{}{一切都很顺利。。。 -- And it all went so well... }
+#{157}{}{Sorry, sport. Some fights you just can't win.}
+{157}{}{抱歉，运动。有些战斗你就是赢不了。 -- Sorry, sport. Some fights you just can't win.}
+#{158}{}{Why can't I participate?}
+{158}{}{为什么我不能参加？ -- Why can't I participate?}
+#{159}{}{First, your arms are like noodles. The audience doesn't like a short fight, which is what you'd be. Secondly, just from the way you move I see you don't know a thing about boxing. Do you understand what I'm putting down, Noodle Arms?}
+{159}{}{首先，你的手臂就像面条。观众不喜欢短兵相接，你就是这样。其次，从你的动作来看，我看你对拳击一无所知。你明白我在说什么吗，面条手臂？ -- First, your arms are like noodles. The audience doesn't like a short fight, which is what you'd be. Secondly, just from the way you move I see you don't know a thing about boxing. Do you understand what I'm putting down, Noodle Arms?}
+#{160}{}{Maybe you've got the technique of unarmed combat down, but we choose strong opponents, and you don't look strong enough. Whether you win or lose, it'll be a short fight. Our fans don't like that.}
+{160}{}{也许你有徒手格斗的技巧，但是我们选择了强大的对手，而你看起来不够强大。不管你赢还是输，这将是一场短暂的战斗。我们的粉丝不喜欢这样。 -- Maybe you've got the technique of unarmed combat down, but we choose strong opponents, and you don't look strong enough. Whether you win or lose, it'll be a short fight. Our fans don't like that.}
+#{161}{}{You look strong enough, but that doesn't mean you know how to fight. This isn't a drunken brawl here. Talk to our coach, he'll show you the ropes.}
+{161}{}{你看起来很强壮，但这并不意味着你知道如何战斗。这里不是酒后打架。跟我们的教练谈谈，他会教你的。 -- You look strong enough, but that doesn't mean you know how to fight. This isn't a drunken brawl here. Talk to our coach, he'll show you the ropes.}
+#{162}{}{Right, thanks.}
+{162}{}{好的，谢谢。 -- Right, thanks.}
+#{163}{}{Wait a minute. I heard Mr. Bertolini was looking for someone for a "special task". I don't know what the hell he's up to, but if you want to earn money and reputation in this city, go to him. Tell him I sent you, he'll understand.}
+{163}{}{等一下。我听说伯托里尼先生在找一个“特殊任务”的人。我不知道他到底在搞什么鬼，但如果你想在这个城市赚钱和赢得名声，就去找他。告诉他是我派你来的，他会理解的。 -- Wait a minute. I heard Mr. Bertolini was looking for someone for a "special task". I don't know what the hell he's up to, but if you want to earn money and reputation in this city, go to him. Tell him I sent you, he'll understand.}
+#{164}{}{Thank you, Mr. Bishop. I'll think about it.}
+{164}{}{谢谢你，毕晓普先生。我会考虑的。 -- Thank you, Mr. Bishop. I'll think about it.}
+#{200}{}{LET THE BATTLE BEGIN!}
+{200}{}{让战斗开始吧！ -- LET THE BATTLE BEGIN!}
+#{201}{}{You won! It was awesome!}
+{201}{}{你赢了！太棒了！ -- You won! It was awesome!}
+#{202}{}{I'LL BITE YOUR EARS OFF!!!}
+{202}{}{我要咬掉你的耳朵！！！ -- I'LL BITE YOUR EARS OFF!!!}
+#{203}{}{BANZAI!!!}
+{203}{}{班仔！！！ -- BANZAI!!!}
+#{204}{}{GRRR!!!}
+{204}{}{GRRR！！！ -- GRRR!!!}
+#{205}{}{IT'S TIME TO END YOU!!!}
+{205}{}{是时候结束你了！！！ -- IT'S TIME TO END YOU!!!}
+#{206}{}{HRRR!!!}
+{206}{}{HRRR！！！ -- HRRR!!!}
+#{207}{}{BEG FOR MERCY, WHELP!!!}
+{207}{}{求饶吧，小崽子！！！ -- BEG FOR MERCY, WHELP!!!}
+#{208}{}{ONLY ONE OF US WALKS AWAY!!!}
+{208}{}{只有我们一个人离开！！！ -- ONLY ONE OF US WALKS AWAY!!!}
+#{209}{}{YOU ARE ALREADY DEAD!!!}
+{209}{}{你已经死了！！！ -- YOU ARE ALREADY DEAD!!!}
+#{210}{}{I'M THE POWER!!!}
+{210}{}{我是力量！！！ -- I'M THE POWER!!!}
+#{211}{}{WELL WELL!!!}
+{211}{}{好吧，好吧！！！ -- WELL WELL!!!}
+#{212}{}{TREMBLE, SCUM!!!}
+{212}{}{颤抖，人渣！！！ -- TREMBLE, SCUM!!!}
+#{213}{}{I WILL HANG YOUR TEETH AROUND MY NECK!!!}
+{213}{}{我要把你的牙齿挂在我脖子上！！！ -- I WILL HANG YOUR TEETH AROUND MY NECK!!!}
+#{214}{}{I WILL MAKE A TALISMAN OUT OF YOUR BONES!!!}
+{214}{}{我要用你的骨头做护身符！！！ -- I WILL MAKE A TALISMAN OUT OF YOUR BONES!!!}
+#{215}{}{YOU'RE NOBODY!!!}
+{215}{}{你是无名小卒！！！ -- YOU'RE NOBODY!!!}
+#{216}{}{FACE DOWN!!!}
+{216}{}{面朝下！！！ -- FACE DOWN!!!}
+#{217}{}{ASS UP!!!}
+{217}{}{混蛋！！！ -- ASS UP!!!}
+#{218}{}{ANOTHER WUSSY!!!}
+{218}{}{又一个胆小鬼！！！ -- ANOTHER WUSSY!!!}
+#{219}{}{ANOTHER ASSHOLE!!!}
+{219}{}{又是个混蛋！！！ -- ANOTHER ASSHOLE!!!}
+#{220}{}{DROP DEAD, FILTH!!!}
+{220}{}{去死吧，混蛋！！！ -- DROP DEAD, FILTH!!!}
+#{221}{}{I'LL KILL YOU ALL!!!}
+{221}{}{我要杀了你们所有人！！！ -- I'LL KILL YOU ALL!!!}
+#{222}{}{IT'S TIME FOR YOU TO RETIRE!!!}
+{222}{}{你该退休了！！！ -- IT'S TIME FOR YOU TO RETIRE!!!}
+#{223}{}{THAT'S IT!!! THE PARTY HAS STARTED!!!}
+{223}{}{就这样！！！派对开始了！！！ -- THAT'S IT!!! THE PARTY HAS STARTED!!!}
+#{224}{}{DRY YOUR PANTS, PIECE OF SHIT!!!}
+{224}{}{把裤子擦干，狗屎！！！ -- DRY YOUR PANTS, PIECE OF SHIT!!!}
+#{225}{}{DON'T PANIC!!!}
+{225}{}{不要惊慌！！！ -- DON'T PANIC!!!}
+#{226}{}{EAT SHIT!!!}
+{226}{}{吃屎！！！ -- EAT SHIT!!!}
+#{227}{}{KAMIKAZE!!!}
+{227}{}{神风！！！ -- KAMIKAZE!!!}
+#{228}{}{ARGHHH!!!}
+{228}{}{啊！！！ -- ARGHHH!!!}
+#{250}{}{You won!}
+{250}{}{你赢了！ -- You won!}
+#{251}{}{You won! It was awesome!}
+{251}{}{你赢了！太棒了！ -- You won! It was awesome!}
+#{252}{}{You have won against a very formidable opponent! It was an amazing experience!}
+{252}{}{你战胜了一个强大的对手！这是一次奇妙的经历！ -- You have won against a very formidable opponent! It was an amazing experience!}
+#{253}{}{You have won against a very dangerous opponent! The room pulses with euphoric energy. The crowd looks upon you like a god!}
+{253}{}{你战胜了一个非常危险的对手！房间里充满了欢乐的活力。群众把你当成上帝！ -- You have won against a very dangerous opponent! The room pulses with euphoric energy. The crowd looks upon you like a god!}
+#{254}{}{Can you buy chems here?}
+{254}{}{你能在这里买到化学品吗？ -- Can you buy chems here?}
+#{255}{}{No. Absolutely not. I have nothing against chems, but it harms the reputation of my place. And reputation is worth a lot in Reno.}
+{255}{}{不，绝对不是。我不反对化学，但它损害了我的声誉。在里诺名声也很值钱。 -- No. Absolutely not. I have nothing against chems, but it harms the reputation of my place. And reputation is worth a lot in Reno.}
+#{256}{}{Then what's this? [show Fatso's receipt]}
+{256}{}{那这是什么？[出示胖子的收据] -- Then what's this? [show Fatso's receipt]}
+#{257}{}{Right.}
+{257}{}{正确的。 -- Right.}
+#{258}{}{Huh. Well, we can't watch over everything. In any case, we have nothing to do with this.}
+{258}{}{呵呵。嗯，我们不能什么都看。无论如何，我们与此无关。 -- Huh. Well, we can't watch over everything. In any case, we have nothing to do with this.}
+#{259}{}{Hmm.}
+{259}{}{隐马尔可夫模型。 -- Hmm.}
+#{1117}{}{Business? I just wanted to talk. Well, if you're so busy, I'd better just go... }
+{1117}{}{生意？我只是想谈谈。好吧，如果你这么忙，我最好还是去。。。 -- Business? I just wanted to talk. Well, if you're so busy, I'd better just go... }
+#{1132}{}{Hey, ready to fight, sport?}
+{1132}{}{嘿，准备好战斗了吗？ -- Hey, ready to fight, sport?}
+#{1137}{}{Hey, where the hell is our champion? Oh, there you are! Here's your money. [he gives you your winnings] When you're ready for the next fight, let me know.}
+{1137}{}{嘿，我们的冠军到底在哪里？哦，你来了！这是你的钱。[他给你赢的钱]等你准备好下一场比赛的时候，告诉我。 -- Hey, where the hell is our champion? Oh, there you are! Here's your money. [he gives you your winnings] When you're ready for the next fight, let me know.}
+#{1139}{}{Hey, sport! You came for your next pump of adrenaline?}
+{1139}{}{嘿，运动！你来是为了下一次肾上腺素？ -- Hey, sport! You came for your next pump of adrenaline?}
+#{1140}{}{You bet I am! I'm ready to fight.}
+{1140}{}{我当然是！我准备好战斗了。 -- You bet I am! I'm ready to fight.}
+#{1141}{}{No, I just came to watch the slaves fight.}
+{1141}{}{不，我只是来看奴隶们打架。 -- No, I just came to watch the slaves fight.}
+#{1142}{}{Sorry, sport, we're not ready for the next battle. Come tomorrow, okay?}
+{1142}{}{抱歉，运动，我们还没准备好下一场战斗。明天来，好吗？ -- Sorry, sport, we're not ready for the next battle. Come tomorrow, okay?}
+#{1144}{}{You probably noticed we're increasing the pressure in the ring, giving you some stronger opponents. But this time it's gonna be a *real* challenge for you. For this fight I paid a higher fee. You'd better come out swinging!}
+{1144}{}{你可能注意到了我们正在增加拳击场的压力，给你一些更强的对手。但这次对你来说将是一个真正的挑战。为了这场比赛我付了更高的费用。你最好出来荡秋千！ -- You probably noticed we're increasing the pressure in the ring, giving you some stronger opponents. But this time it's gonna be a *real* challenge for you. For this fight I paid a higher fee. You'd better come out swinging!}
+#{1146}{}{If only you could have seen yourself! That was the best left hook that's ever been swung in my ring! Tricks like that are what makes us a lot of money, the audience was ecstatic, the whole city was trying to get in to watch! Anyway, here's your money. [he gives you your winnings] When you're ready, come by and we'll arrange another fight... IN YOUR HONOR!}
+{1146}{}{你要是能亲眼看看就好了！那是我打过的最好的左勾拳！这样的把戏让我们赚了很多钱，观众欣喜若狂，整个城市都想进去看！不管怎样，这是你的钱。[他给你赢的钱]等你准备好了，过来我们再安排一场比赛。。。以你的名义！ -- If only you could have seen yourself! That was the best left hook that's ever been swung in my ring! Tricks like that are what makes us a lot of money, the audience was ecstatic, the whole city was trying to get in to watch! Anyway, here's your money. [he gives you your winnings] When you're ready, come by and we'll arrange another fight... IN YOUR HONOR!}

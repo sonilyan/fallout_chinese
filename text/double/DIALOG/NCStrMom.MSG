@@ -1,0 +1,352 @@
+#{100}{}{You see Mom.}
+{100}{}{你看到妈妈了。 -- You see Mom.}
+#{101}{}{You see the owner of the night club.}
+{101}{}{你看到夜总会的老板了。 -- You see the owner of the night club.}
+#{102}{}{Oh God! What have they done to you?!}
+{102}{}{哦，上帝！他们对你做了什么？！ -- Oh God! What have they done to you?!}
+#{103}{}{After this the club will be closed to you forever.}
+{103}{}{之后俱乐部将永远对你关闭。 -- After this the club will be closed to you forever.}
+#{110}{}{[Looks you up and down] Young man, this is a staff only room. I only allow visitors here to do business, so if you have no business with me, then I have to ask you to leave.}
+{110}{}{年轻人，这是员工专用的房间。我只允许访客来这里做生意，所以如果你和我没有生意，那我只好请你离开。 -- [Looks you up and down] Young man, this is a staff only room. I only allow visitors here to do business, so if you have no business with me, then I have to ask you to leave.}
+#{111}{}{I need to talk to you.}
+{111}{}{我要和你谈谈。 -- I need to talk to you.}
+#{112}{}{No, I have no business with you... }
+{112}{}{不，我和你没有生意。。。 -- No, I have no business with you... }
+#{113}{}{About what?}
+{113}{}{关于什么？ -- About what?}
+#{114}{}{Err, forget it.}
+{114}{}{呃，算了吧。 -- Err, forget it.}
+#{115}{}{Sure. What do you want to talk about?}
+{115}{}{当然。你想谈什么？ -- Sure. What do you want to talk about?}
+#{116}{}{Every girl has potential, you are no exception. But you'll have to bring yourself together. Girls with a look like yours will have trouble turning the crowd on.}
+{116}{}{每个女孩都有潜力，你也不例外。但你得振作起来。长得像你这样的女孩很难吸引观众。 -- Every girl has potential, you are no exception. But you'll have to bring yourself together. Girls with a look like yours will have trouble turning the crowd on.}
+#{120}{}{[Studies you from the legs up] What is it, girl?}
+{120}{}{什么事，女孩？ -- [Studies you from the legs up] What is it, girl?}
+#{121}{}{I would like to perform in the club.}
+{121}{}{我想在俱乐部表演。 -- I would like to perform in the club.}
+#{122}{}{I don't even know, I just walked into the wrong room.}
+{122}{}{我都不知道，我进错房间了。 -- I don't even know, I just walked into the wrong room.}
+#{123}{}{[Studies you from legs up] Oh my, what legs! How can I help you, doll?}
+{123}{}{[从腿向上研究你]天哪，什么腿！我能帮你什么，娃娃？ -- [Studies you from legs up] Oh my, what legs! How can I help you, doll?}
+#{124}{}{You really think I'm a "doll"? What about a dancing job then? Can I do it?}
+{124}{}{你真的认为我是个“娃娃”？那去跳舞怎么样？我能做吗？ -- You really think I'm a "doll"? What about a dancing job then? Can I do it?}
+#{125}{}{I'm glad that you like my legs, but I just walked into the wrong room.}
+{125}{}{我很高兴你喜欢我的腿，但我走错房间了。 -- I'm glad that you like my legs, but I just walked into the wrong room.}
+#{126}{}{I understand, but I have to talk to you about something else.}
+{126}{}{我明白，但我得和你谈谈别的事。 -- I understand, but I have to talk to you about something else.}
+#{127}{}{Mmm... You see, dancing is all about grace and flexibility, and you're lacking that. Just a pretty face won't be enough to turn on the crowd. So, my sweet, we will have to do without you.}
+{127}{}{嗯。。。你看，跳舞就是优雅和灵活，而你却缺乏这一点。只是一张漂亮的脸不足以吸引观众。所以，亲爱的，我们只好离开你了。 -- Mmm... You see, dancing is all about grace and flexibility, and you're lacking that. Just a pretty face won't be enough to turn on the crowd. So, my sweet, we will have to do without you.}
+#{128}{}{Please! Just let me try!}
+{128}{}{拜托！让我试试！ -- Please! Just let me try!}
+#{129}{}{Shame... Well, I'll go then.}
+{129}{}{羞愧。。。好吧，那我就去。 -- Shame... Well, I'll go then.}
+#{130}{}{I like your dedication. But I know what I am talking about. You have to practice in front of a mirror first.}
+{130}{}{我喜欢你的奉献精神。但我知道我在说什么。你必须先在镜子前练习。 -- I like your dedication. But I know what I am talking about. You have to practice in front of a mirror first.}
+#{131}{}{What dedication! You look very cute. I think if you really try, you will do very well with the crowd. Oh, yes - what's your name, sweetie?}
+{131}{}{多么奉献啊！你看起来很可爱。我想如果你真的努力，你会在人群中表现得很好。哦，是的-你叫什么名字，亲爱的？ -- What dedication! You look very cute. I think if you really try, you will do very well with the crowd. Oh, yes - what's your name, sweetie?}
+#{132}{}{.}
+{132}{}{. -- .}
+#{133}{}{You can call me Mom - like everyone does. So, you want to try? Let's see how you move, okay?}
+{133}{}{你可以像其他人一样叫我妈妈。你想试试吗？让我们看看你怎么移动，好吗？ -- You can call me Mom - like everyone does. So, you want to try? Let's see how you move, okay?}
+#{134}{}{Okay!}
+{134}{}{可以！ -- Okay!}
+#{135}{}{Maybe later. I have some things to do.}
+{135}{}{也许以后吧。我有些事要做。 -- Maybe later. I have some things to do.}
+#{136}{}{What confidence! Okay, show me what you got. }
+{136}{}{多有信心啊！好吧，让我看看你有什么。 -- What confidence! Okay, show me what you got. }
+#{137}{}{[Change clothes and show your potential]}
+{137}{}{[换衣服展示你的潜力] -- [Change clothes and show your potential]}
+#{138}{}{Not bad for the first time. You do have talent. I think you'll manage!}
+{138}{}{第一次还不错。你确实很有天赋。我想你会成功的！ -- Not bad for the first time. You do have talent. I think you'll manage!}
+#{139}{}{This is great! Can I know more about the job?}
+{139}{}{这太好了！我能多了解一下这份工作吗？ -- This is great! Can I know more about the job?}
+#{140}{}{With pleasure! Babes like you earn $100 a night at the beginning. We will put you in the morning show first - the club is usually almost empty at this time - so we can see you in action and make a final decision.}
+{140}{}{很高兴见到你！像你这样的宝贝一开始就赚100美元。我们会先让你参加早间秀——这个时候俱乐部几乎空无一人——这样我们就可以看到你的表演并做出最终决定。 -- With pleasure! Babes like you earn $100 a night at the beginning. We will put you in the morning show first - the club is usually almost empty at this time - so we can see you in action and make a final decision.}
+#{141}{}{And if you decide to keep me?}
+{141}{}{如果你决定留下我？ -- And if you decide to keep me?}
+#{142}{}{If you're really good, you will perform in the afternoon, when the club is full. It's the most profitable time, so I pay $500 an hour. By the way, kitty cat, I don't advise you perform at this time for the first few days.}
+{142}{}{如果你真的很好，你会在下午俱乐部客满的时候表演。这是最赚钱的时候，所以我每小时付500美元。顺便说一下，小猫，我不建议你在头几天的这个时候表演。 -- If you're really good, you will perform in the afternoon, when the club is full. It's the most profitable time, so I pay $500 an hour. By the way, kitty cat, I don't advise you perform at this time for the first few days.}
+#{143}{}{Why?}
+{143}{}{为什么？ -- Why?}
+#{144}{}{You know, not every client is well behaved in businesses like ours. Sometimes they are a bit... Troublesome. You have to learn to work with them.}
+{144}{}{你知道，不是每个客户在我们这样的行业都表现良好。有时候他们有点。。。麻烦。你必须学会和他们一起工作。 -- You know, not every client is well behaved in businesses like ours. Sometimes they are a bit... Troublesome. You have to learn to work with them.}
+#{145}{}{This sounds a little scary!}
+{145}{}{这听起来有点吓人！ -- This sounds a little scary!}
+#{146}{}{Don't worry about it. Keep yourself together, no matter what the clients do. They may fight in the middle of the show, but you'll have to ignore it and keep dancing. There are some that throw food at you. But believe me baby, this is not an insult, it's the opposite - this means they like you!}
+{146}{}{别担心。不管客户做什么，都要保持镇定。他们可能会在演出中途打架，但你必须忽略它，继续跳舞。有人向你扔食物。但是相信我，宝贝，这不是侮辱，相反-这意味着他们喜欢你！ -- Don't worry about it. Keep yourself together, no matter what the clients do. They may fight in the middle of the show, but you'll have to ignore it and keep dancing. There are some that throw food at you. But believe me baby, this is not an insult, it's the opposite - this means they like you!}
+#{147}{}{That's nothing! I'll be fine! Honest!}
+{147}{}{那没什么！我会没事的！老实说！ -- That's nothing! I'll be fine! Honest!}
+#{148}{}{Ugh! I don't want to deal with such creeps. Take care, sorry to bother you... }
+{148}{}{啊！我不想和这种怪人打交道。保重，抱歉打扰你。。。 -- Ugh! I don't want to deal with such creeps. Take care, sorry to bother you... }
+#{149}{}{Shame, baby, that's a shame. I hope you will find your courage. We could do good with legs like yours.}
+{149}{}{太可惜了，宝贝，太可惜了。我希望你能找到勇气。我们可以用你这样的腿。 -- Shame, baby, that's a shame. I hope you will find your courage. We could do good with legs like yours.}
+#{150}{}{Well, maybe... }
+{150}{}{嗯，也许。。。 -- Well, maybe... }
+#{151}{}{Mmm! I believe in you. Well, then come back in the morning any day you're ready, and we'll put you on the stage.}
+{151}{}{嗯！我相信你。好吧，那你准备好了哪天早上再来，我们就把你送上舞台。 -- Mmm! I believe in you. Well, then come back in the morning any day you're ready, and we'll put you on the stage.}
+#{152}{}{Thank you! I will come! Be sure of that!}
+{152}{}{谢谢您！我会来的！一定要这样！ -- Thank you! I will come! Be sure of that!}
+#{160}{}{Just like me, all of my girls are very caring towards children. We've seen your face on wanted posters all over the city. Get out of my club.}
+{160}{}{就像我一样，我所有的女孩都很关心孩子。我们在全市的通缉令上都看到了你的脸。离开我的俱乐部。 -- Just like me, all of my girls are very caring towards children. We've seen your face on wanted posters all over the city. Get out of my club.}
+#{161}{}{[Leave quietly.]}
+{161}{}{[安静地离开。] -- [Leave quietly.]}
+#{162}{}{[Lie] I will explain! This is a setup from my rivals... }
+{162}{}{我会解释的！这是我的对手设计的。。。 -- [Lie] I will explain! This is a setup from my rivals... }
+#{163}{}{Oh, I understand. If this is true, it explains a lot. I'm not sure I can trust you, but at least you can stay at the club.}
+{163}{}{哦，我明白了。如果这是真的，说明了很多。我不确定我能不能相信你，但至少你可以留在俱乐部。 -- Oh, I understand. If this is true, it explains a lot. I'm not sure I can trust you, but at least you can stay at the club.}
+#{164}{}{Better than nothing.}
+{164}{}{总比什么都没有强。 -- Better than nothing.}
+#{170}{}{You had a drunken fight here recently. Do you know anything about it?}
+{170}{}{你最近酒后打架。你知道这件事吗？ -- You had a drunken fight here recently. Do you know anything about it?}
+#{171}{}{Yes, one of Stryker's men started bothering the girls. When the guards tried to calm him down, he started a fight and injured one of the guards with a broken glass. Our boys threw him out onto the street.}
+{171}{}{是的，史崔克的一个手下开始骚扰那些女孩。当警卫试图让他冷静下来时，他开始打架，用碎玻璃打伤了一名警卫。我们的人把他扔到街上。 -- Yes, one of Stryker's men started bothering the girls. When the guards tried to calm him down, he started a fight and injured one of the guards with a broken glass. Our boys threw him out onto the street.}
+#{172}{}{You do know that Stryker is one of the most powerful people in the city, right? One think you'd be more careful with his men.}
+{172}{}{你知道史崔克是城里最有权势的人之一，对吧？有人认为你会更小心他的人。 -- You do know that Stryker is one of the most powerful people in the city, right? One think you'd be more careful with his men.}
+#{173}{}{}
+{173}{}{ -- }
+#{174}{}{Did he wear shades?}
+{174}{}{他戴墨镜了吗？ -- Did he wear shades?}
+#{175}{}{Thanks, that's all I wanted to know.}
+{175}{}{谢谢，我只想知道这些。 -- Thanks, that's all I wanted to know.}
+#{176}{}{Typically we tolerate drunken antics. But with this guy it was different. He thinks too much of himself because of his relationship with Stryker. He thought it would make him invincible. We needed to show that even people like him should follow the rules and behave. If not, then they know that they will receive a baton to the head and be out on the street.}
+{176}{}{通常我们容忍酒后的滑稽行为。但和这个人不同。因为他和史崔克的关系，他太看重自己了。他认为这会使他战无不胜。我们需要证明，即使是像他这样的人也应该遵守规则和行为。如果没有，那么他们知道他们将收到一个指挥棒的头部，并在街上。 -- Typically we tolerate drunken antics. But with this guy it was different. He thinks too much of himself because of his relationship with Stryker. He thought it would make him invincible. We needed to show that even people like him should follow the rules and behave. If not, then they know that they will receive a baton to the head and be out on the street.}
+#{177}{}{I don't know anything about it. There was a fight, I didn't care about shades or anything.}
+{177}{}{我对此一无所知。有人打架了，我不在乎阴影什么的。 -- I don't know anything about it. There was a fight, I didn't care about shades or anything.}
+#{200}{}{Here is our sweet girl! How are you feeling?}
+{200}{}{这是我们可爱的女孩！你感觉怎么样？ -- Here is our sweet girl! How are you feeling?}
+#{201}{}{Here is our sweet girl! How are you?}
+{201}{}{这是我们可爱的女孩！你好吗？ -- Here is our sweet girl! How are you?}
+#{202}{}{Here is our sweet girl! You came to conquer the dancefloor?}
+{202}{}{这是我们可爱的女孩！你是来征服舞池的？ -- Here is our sweet girl! You came to conquer the dancefloor?}
+#{203}{}{Here is our sweet girl! Are you missing the dancefloor already?}
+{203}{}{这是我们可爱的女孩！你已经错过舞池了吗？ -- Here is our sweet girl! Are you missing the dancefloor already?}
+#{204}{}{Here is our queen!}
+{204}{}{我们的女王来了！ -- Here is our queen!}
+#{210}{}{I want to perform!}
+{210}{}{我要表演！ -- I want to perform!}
+#{211}{}{Just came by to say hi.}
+{211}{}{只是过来打个招呼。 -- Just came by to say hi.}
+#{219}{}{Have you missed the dancefloor? But it's not the time yet. Come around 9 to 10 pm.}
+{219}{}{你错过舞池了吗？但现在还不是时候。晚上9点到10点左右来。 -- Have you missed the dancefloor? But it's not the time yet. Come around 9 to 10 pm.}
+#{220}{}{Very good, but this is not a good time. Come by in the morning before lunch, between 8 and 12 am.}
+{220}{}{很好，但现在不是时候。早上8点到12点，午饭前过来。 -- Very good, but this is not a good time. Come by in the morning before lunch, between 8 and 12 am.}
+#{221}{}{Okay.}
+{221}{}{可以。 -- Okay.}
+#{222}{}{Just in time! Let's go... }
+{222}{}{来得正是时候！走吧。。。 -- Just in time! Let's go... }
+#{223}{}{[Change your clothes and get on stage.]}
+{223}{}{[换衣服上台] -- [Change your clothes and get on stage.]}
+#{224}{}{Come around 6 to 8 pm.}
+{224}{}{下午6点到8点左右来。 -- Come around 6 to 8 pm.}
+#{225}{}{Fine.}
+{225}{}{好的。 -- Fine.}
+#{226}{}{Have you missed the dancefloor? You're just in time!}
+{226}{}{你错过舞池了吗？你来得正是时候！ -- Have you missed the dancefloor? You're just in time!}
+#{227}{}{I'm ready!}
+{227}{}{我准备好了！ -- I'm ready!}
+#{228}{}{Wait, I'm not ready.}
+{228}{}{等等，我还没准备好。 -- Wait, I'm not ready.}
+#{229}{}{Can't believe you missed the dancefloor so much, right? But it's not the time yet. Come by at 1 am tonight.}
+{229}{}{不敢相信你这么想念舞池，对吧？但现在还不是时候。今晚一点过来。 -- Can't believe you missed the dancefloor so much, right? But it's not the time yet. Come by at 1 am tonight.}
+#{230}{}{Oh, I like your passion! Well, it's the right time to entertain the audience.}
+{230}{}{哦，我喜欢你的热情！嗯，现在正是娱乐观众的时候。 -- Oh, I like your passion! Well, it's the right time to entertain the audience.}
+#{231}{}{Wait... [her face changes] You know... I want to say... I'm glad that you still do this. Now is a very tough time for everyone in the city, and to make a whole club work is even harder. But you'll see... Just don't be scared! I didn't mention troublesome clients just for show. There is one really nasty guy. Stay away from him. I wish I could find that son of a bitch. The things I would do to him... He appears from nowhere and does such horrible things to our girls! Look out for... Ted Bundy. Remember this name and avoid it. Okay? Now go to the dancefloor. You've got this, sweetie!}
+{231}{}{等待。。。你知道的。。。我想说。。。我很高兴你还这么做。现在对这个城市的每个人来说都是一个非常艰难的时期，而要让整个俱乐部工作起来就更难了。但你会看到。。。别害怕！我不是为了作秀才提麻烦客户的。有一个很讨厌的家伙。离他远点。我真希望能找到那个狗娘养的。我会对他做的事。。。他不知从哪里冒出来，对我们的女孩做了这么可怕的事！小心。。。泰德·邦迪。记住这个名字，避免使用它。可以？现在去舞池。你有这个，亲爱的！ -- Wait... [her face changes] You know... I want to say... I'm glad that you still do this. Now is a very tough time for everyone in the city, and to make a whole club work is even harder. But you'll see... Just don't be scared! I didn't mention troublesome clients just for show. There is one really nasty guy. Stay away from him. I wish I could find that son of a bitch. The things I would do to him... He appears from nowhere and does such horrible things to our girls! Look out for... Ted Bundy. Remember this name and avoid it. Okay? Now go to the dancefloor. You've got this, sweetie!}
+#{232}{}{I'm not afraid of any Ted Bundy. Let's go!}
+{232}{}{我不怕任何泰德·邦迪。走吧！ -- I'm not afraid of any Ted Bundy. Let's go!}
+#{233}{}{Great! Let's not waste time - change your clothes and go to your audience. They are waiting for you.}
+{233}{}{太好了！我们不要浪费时间——换衣服去见你的观众。他们在等你。 -- Great! Let's not waste time - change your clothes and go to your audience. They are waiting for you.}
+#{234}{}{[Looks at the door, thinking] Mmm. You know, there is a lot of clients out there right now, and they are very excited. Listen! This is a big responsibility - a full club, a whole crowd. Are you really ready, sweetie? Think. I don't want to discourage you, I just want to know if you're in the mood. You can refuse and come some other day.}
+{234}{}{[看着门，想着]嗯。你知道，现在有很多客户，他们非常兴奋。听！这是一个很大的责任-一个完整的俱乐部，一大群人。你真的准备好了吗，亲爱的？想想看。我不想让你泄气，我只想知道你是否有心情。你可以拒绝，改天再来。 -- [Looks at the door, thinking] Mmm. You know, there is a lot of clients out there right now, and they are very excited. Listen! This is a big responsibility - a full club, a whole crowd. Are you really ready, sweetie? Think. I don't want to discourage you, I just want to know if you're in the mood. You can refuse and come some other day.}
+#{235}{}{You just turned on my appetite! I love risk! I'm ready!}
+{235}{}{你让我胃口大开！我喜欢冒险！我准备好了！ -- You just turned on my appetite! I love risk! I'm ready!}
+#{236}{}{You're frightening me! I don't want to do it. What if I'm raped right on the stage!?}
+{236}{}{你吓到我了！我不想这么做。如果我在舞台上被强奸了怎么办！？ -- You're frightening me! I don't want to do it. What if I'm raped right on the stage!?}
+#{237}{}{Sure, I understand. Come some other time.}
+{237}{}{当然，我明白。改天再来吧。 -- Sure, I understand. Come some other time.}
+#{238}{}{See you.}
+{238}{}{再见。 -- See you.}
+#{239}{}{Honey, please, sit down, don't be scared! I'm begging you, don't panic, okay? You did amazing today! But a little too amazing!}
+{239}{}{亲爱的，请坐，别害怕！我求你了，别慌，好吗？你今天做得太棒了！但有点太神奇了！ -- Honey, please, sit down, don't be scared! I'm begging you, don't panic, okay? You did amazing today! But a little too amazing!}
+#{240}{}{Did something happen?}
+{240}{}{发生什么事了吗？ -- Did something happen?}
+#{241}{}{Nothing yet, but... Oh... Did you see what is happening outside? Your popularity backfired! Just outside the front door there is a whole horny crowd. They want you! The security can barely hold them back. Quick, you have to escape out the back door! We only use it for emergencies, there shouldn't be anyone there. Don't risk your health for your fame!}
+{241}{}{还没有，但是。。。哦。。。你看到外面发生的事了吗？你的人气适得其反！就在前门外面有一大群好色的人。他们想要你！保安几乎不能阻止他们。快点，你得从后门逃走！我们只在紧急情况下使用，那里不应该有人。不要为了你的名声而拿你的健康冒险！ -- Nothing yet, but... Oh... Did you see what is happening outside? Your popularity backfired! Just outside the front door there is a whole horny crowd. They want you! The security can barely hold them back. Quick, you have to escape out the back door! We only use it for emergencies, there shouldn't be anyone there. Don't risk your health for your fame!}
+#{242}{}{I'm getting out of here!}
+{242}{}{我要离开这里！ -- I'm getting out of here!}
+#{243}{}{Please, hurry! They are looking for you!}
+{243}{}{拜托，快点！他们在找你！ -- Please, hurry! They are looking for you!}
+#{244}{}{It was interesting to work with you, but everything has to end. I hope you're not too upset.}
+{244}{}{和你一起工作很有趣，但一切都得结束。我希望你不要太难过。 -- It was interesting to work with you, but everything has to end. I hope you're not too upset.}
+#{245}{}{Fine.}
+{245}{}{好的。 -- Fine.}
+#{246}{}{It's a shame, but I can't risk you or my place. Reno has too many maniacs. It's in your own best interest to stay off the stage.}
+{246}{}{很遗憾，但我不能拿你和我的位置冒险。雷诺有太多的疯子。你最好别上台。 -- It's a shame, but I can't risk you or my place. Reno has too many maniacs. It's in your own best interest to stay off the stage.}
+#{247}{}{I understand... }
+{247}{}{我理解。。。 -- I understand... }
+#{248}{}{I remember our talk, but now is not the best time for dancing. Come by as usual - 9 to 10 pm.}
+{248}{}{我记得我们的谈话，但现在不是跳舞的最佳时机。像往常一样-晚上9点到10点。 -- I remember our talk, but now is not the best time for dancing. Come by as usual - 9 to 10 pm.}
+#{249}{}{Everything is ready. The audience is waiting! Come on, baby, make me proud! This is your chance to shine!!!}
+{249}{}{一切都准备好了。观众在等着呢！来吧，宝贝，让我骄傲！这是你闪耀的机会！！！ -- Everything is ready. The audience is waiting! Come on, baby, make me proud! This is your chance to shine!!!}
+#{250}{}{Honey, you'll make it, if you work on yourself. Here is your first payment. I hope you will come again. Come at earlier in the afternoon, we'll see how you do when there are more customers.}
+{250}{}{亲爱的，你会成功的，只要你自己努力。这是您的第一笔付款。我希望你能再来。下午早些时候来，等顾客多了我们再看看你的情况。 -- Honey, you'll make it, if you work on yourself. Here is your first payment. I hope you will come again. Come at earlier in the afternoon, we'll see how you do when there are more customers.}
+#{251}{}{My first payment! Thanks!}
+{251}{}{我的第一笔付款！谢谢！ -- My first payment! Thanks!}
+#{252}{}{Not bad for the first performance! Girls like you have a future. Come by at the later at the same time and we'll make another show. Oh, yes, here is your money [winks and whispers in your ear] - You did good!}
+{252}{}{第一场演出还不错！像你这样的女孩有前途。同时晚些时候过来，我们再表演一次。哦，是的，这是你的钱[在你耳边眨眼和耳语]——你做得很好！ -- Not bad for the first performance! Girls like you have a future. Come by at the later at the same time and we'll make another show. Oh, yes, here is your money [winks and whispers in your ear] - You did good!}
+#{253}{}{Thanks.}
+{253}{}{谢谢。 -- Thanks.}
+#{254}{}{You're getting better! Way to go. I've been thinking about it and decided to pay you more - you've earned it! It's time to step up your game. Come from 9 to 10 pm. There'll be more customers, and that means more pay!}
+{254}{}{你越来越好了！干得好。我已经考虑过了，决定给你更多的钱——这是你应得的！是时候加强你的比赛了。晚上9点到10点。会有更多的顾客，这意味着更多的报酬！ -- You're getting better! Way to go. I've been thinking about it and decided to pay you more - you've earned it! It's time to step up your game. Come from 9 to 10 pm. There'll be more customers, and that means more pay!}
+#{255}{}{Thank you!}
+{255}{}{谢谢您！ -- Thank you!}
+#{256}{}{You know, the crowd was very pleased with your performance. You did good! If you keep improving, our clients will go broke! Ha-ha, just kidding. But you really did it, so here's your well earned money. Rest and come back at the same time. We'll be waiting!}
+{256}{}{你知道，观众对你的表演很满意。你做得很好！如果你继续改进，我们的客户会破产的！哈哈，开玩笑而已。但你真的做到了，所以这是你应得的钱。休息，同时回来。我们等着呢！ -- You know, the crowd was very pleased with your performance. You did good! If you keep improving, our clients will go broke! Ha-ha, just kidding. But you really did it, so here's your well earned money. Rest and come back at the same time. We'll be waiting!}
+#{257}{}{I'll pay you in a minute! You had an amazing show tonight! The customers were going wild and we made a fortune! You're an idol to every bachelor in Reno! Be careful on the streets from now on, okay? Here is your money. Good girl! And now... Farewell, sweetie.}
+{257}{}{我马上付钱给你！你今晚的表演太棒了！顾客们疯了，我们发了财！你是雷诺所有单身汉的偶像！从现在开始在街上小心点，好吗？这是你的钱。好姑娘！现在。。。再见，亲爱的。 -- I'll pay you in a minute! You had an amazing show tonight! The customers were going wild and we made a fortune! You're an idol to every bachelor in Reno! Be careful on the streets from now on, okay? Here is your money. Good girl! And now... Farewell, sweetie.}
+#{258}{}{Goodbye, Mom! [hug her and leave]}
+{258}{}{再见，妈妈！[拥抱她然后离开] -- Goodbye, Mom! [hug her and leave]}
+#{259}{}{You earn an achievement for mastering the art of burlesque.}
+{259}{}{你因为掌握了滑稽艺术而获得了成就。 -- You earn an achievement for mastering the art of burlesque.}
+#{260}{}{I'm so sorry, but I can't let you in looking like this. Look at you - not one spot left untouched by illness. Nobody will look at your performance, even under a layers of makeup. Sorry.}
+{260}{}{很抱歉，我不能让你这样进来。看看你-没有一个地方没有被疾病影响过。没人会看你的表演，即使是在化妆的时候。对不起的。 -- I'm so sorry, but I can't let you in looking like this. Look at you - not one spot left untouched by illness. Nobody will look at your performance, even under a layers of makeup. Sorry.}
+#{261}{}{Oh no... }
+{261}{}{哦不。。。 -- Oh no... }
+#{270}{}{What a body!}
+{270}{}{多好的尸体啊！ -- What a body!}
+#{271}{}{Good girl!}
+{271}{}{好姑娘！ -- Good girl!}
+#{272}{}{Yes, slower, honey, slower!}
+{272}{}{是的，慢点，亲爱的，慢点！ -- Yes, slower, honey, slower!}
+#{273}{}{Yes, come on... Lift that leg a little higher!}
+{273}{}{是的，来吧。。。把那条腿抬高一点！ -- Yes, come on... Lift that leg a little higher!}
+#{280}{}{Dear gentlemen! Presenting to you!}
+{280}{}{亲爱的先生们！呈现给你！ -- Dear gentlemen! Presenting to you!}
+#{281}{}{Our new Miss Burlesque!}
+{281}{}{我们的新滑稽小姐！ -- Our new Miss Burlesque!}
+#{282}{}{You'll *love* her! }
+{282}{}{你会爱她的！ -- You'll *love* her! }
+#{283}{}{!}
+{283}{}{! -- !}
+#{284}{}{Don't disappoint, baby.}
+{284}{}{别失望，宝贝。 -- Don't disappoint, baby.}
+#{292}{}{Gentlemen!}
+{292}{}{先生们！ -- Gentlemen!}
+#{293}{}{Meet our most charming }
+{293}{}{遇见我们最迷人的 -- Meet our most charming }
+#{294}{}{...Your favorite girl!}
+{294}{}{…你最喜欢的女孩！ -- ...Your favorite girl!}
+#{295}{}{This is her final performance!}
+{295}{}{这是她最后的表演！ -- This is her final performance!}
+#{296}{}{Before you for the last time... }
+{296}{}{最后一次在你面前。。。 -- Before you for the last time... }
+#{297}{}{!}
+{297}{}{! -- !}
+#{298}{}{Oh!}
+{298}{}{哦！ -- Oh!}
+#{299}{}{Rock them sweetie! MUSIC!!!}
+{299}{}{摇他们，亲爱的！音乐！！！ -- Rock them sweetie! MUSIC!!!}
+#{300}{}{I have to tell you something about Ted Bundy.}
+{300}{}{我得告诉你一些关于泰德·邦迪的事。 -- I have to tell you something about Ted Bundy.}
+#{302}{}{[Her eyes widen in shock] My God, baby, you saw him?!}
+{302}{}{天哪，宝贝，你看见他了？！ -- [Her eyes widen in shock] My God, baby, you saw him?!}
+#{303}{}{You bet! He came at me with a terrible electric knife shouting he would carve my eyes out! I had no other choice, I had to kill him!}
+{303}{}{当然！他拿着一把可怕的电刀朝我冲过来，喊着要把我的眼睛挖出来！我别无选择，我必须杀了他！ -- You bet! He came at me with a terrible electric knife shouting he would carve my eyes out! I had no other choice, I had to kill him!}
+#{304}{}{[She looks even more surprised] My God, baby, you should look at yourself! On one hand, this was probably terrifying, but on the other - you did this city a big favor!}
+{304}{}{[她看起来更惊讶]天哪，宝贝，你应该看看你自己！一方面，这可能很可怕，但另一方面-你帮了这个城市一个大忙！ -- [She looks even more surprised] My God, baby, you should look at yourself! On one hand, this was probably terrifying, but on the other - you did this city a big favor!}
+#{305}{}{Are you sure?}
+{305}{}{你确定吗？ -- Are you sure?}
+#{306}{}{Yes! I... I didn't tell you the whole truth about him. I didn't want you to be scared before you get on stage. You see, he's not just a man, he's a merciless murderer! He used to be our guard, but I started to notice him looking strangely at our girls. It was... Evil!}
+{306}{}{对！一、 。。。我没有告诉你关于他的全部真相。我不想让你在上台前害怕。你看，他不只是个男人，他是个残忍的杀人犯！他曾经是我们的警卫，但我开始注意到他奇怪地看着我们的女孩。那是。。。邪恶！ -- Yes! I... I didn't tell you the whole truth about him. I didn't want you to be scared before you get on stage. You see, he's not just a man, he's a merciless murderer! He used to be our guard, but I started to notice him looking strangely at our girls. It was... Evil!}
+#{307}{}{Evil?}
+{307}{}{邪恶？ -- Evil?}
+#{308}{}{After some time he became unbearable, always bothering girls with strange questions, frightening them before they got on stage, the situation just kept escalating... In the end I fired him.}
+{308}{}{过了一段时间，他变得难以忍受，总是用奇怪的问题来打扰女孩子，在她们上台前吓唬她们，情况只是不断升级。。。最后我解雇了他。 -- After some time he became unbearable, always bothering girls with strange questions, frightening them before they got on stage, the situation just kept escalating... In the end I fired him.}
+#{309}{}{So he was angry at you?}
+{309}{}{所以他生你的气了？ -- So he was angry at you?}
+#{310}{}{I don't know. Maybe. But six months later, in the courtyard next to the back door we found body of one of our dancers. She was so beautiful, so many people loved her performances. There were other attacks after that, always lethal. In three years he took the lives of twelve of our girls!}
+{310}{}{我不知道。也许 吧。但六个月后，在后门旁边的院子里，我们发现了一具舞者的尸体。她太漂亮了，很多人都喜欢她的表演。之后还有其他的袭击，总是致命的。三年内他夺走了我们十二个女孩的生命！ -- I don't know. Maybe. But six months later, in the courtyard next to the back door we found body of one of our dancers. She was so beautiful, so many people loved her performances. There were other attacks after that, always lethal. In three years he took the lives of twelve of our girls!}
+#{311}{}{But why did he do that?}
+{311}{}{但他为什么这么做？ -- But why did he do that?}
+#{312}{}{I don't think we will ever find out what he was thinking. I don't think we want to.}
+{312}{}{我想我们永远也不会知道他在想什么。我想我们不想。 -- I don't think we will ever find out what he was thinking. I don't think we want to.}
+#{313}{}{Probably not.}
+{313}{}{可能不会。 -- Probably not.}
+#{314}{}{Now life will be easier! You did very good deed. Thank you. If you want, you can have one more night. We will put up a show in your honor! We'll gather a full house! We'll post announcements all over the city! It will be a show of the grandest proportions! Everyone will make a lot of money!}
+{314}{}{现在生活会更轻松！你做得很好。非常感谢。如果你愿意，你可以再多睡一晚。我们会为你表演的！我们要召集一大群人！我们将在全市张贴公告！这将是一场最盛大的演出！每个人都会赚很多钱！ -- Now life will be easier! You did very good deed. Thank you. If you want, you can have one more night. We will put up a show in your honor! We'll gather a full house! We'll post announcements all over the city! It will be a show of the grandest proportions! Everyone will make a lot of money!}
+#{315}{}{Great idea!}
+{315}{}{好主意！ -- Great idea!}
+#{316}{}{You know, I think I've had enough. See you.}
+{316}{}{我想我受够了。再见。 -- You know, I think I've had enough. See you.}
+#{317}{}{Well then. Get ready and come back in a couple of days, in the afternoon!}
+{317}{}{那好吧。准备好，过几天下午再来！ -- Well then. Get ready and come back in a couple of days, in the afternoon!}
+#{318}{}{See you later then!}
+{318}{}{回头见！ -- See you later then!}
+#{319}{}{Of course, as you wish. But if you change your mind - remember, the proposition still stands.}
+{319}{}{当然，如你所愿。但是如果你改变主意-记住，这个提议仍然有效。 -- Of course, as you wish. But if you change your mind - remember, the proposition still stands.}
+#{320}{}{I will think about it.}
+{320}{}{我会考虑的。 -- I will think about it.}
+#{350}{}{I found a photo on that freak. Do you know who is she?}
+{350}{}{我在那个怪物身上发现了一张照片。你知道她是谁吗？ -- I found a photo on that freak. Do you know who is she?}
+#{351}{}{Oh, yes. That's Susie, she had such a great body. But she disappeared a long time ago. Pretty girls, like her, don't live long in Reno... [she sighs sadly] You know, this is a very sad story. I don't want to talk about it.}
+{351}{}{哦，是的。那是苏西，她有一个很好的身体。但她很久以前就失踪了。像她这样的漂亮女孩在雷诺活不了多久。。。你知道，这是一个非常悲伤的故事。我不想谈这个。 -- Oh, yes. That's Susie, she had such a great body. But she disappeared a long time ago. Pretty girls, like her, don't live long in Reno... [she sighs sadly] You know, this is a very sad story. I don't want to talk about it.}
+#{352}{}{I understand... }
+{352}{}{我理解。。。 -- I understand... }
+#{353}{}{I told you already and I have nothing more to say. Susie disappeared six months before Ted started his attacks. I don't know what happened to her. But I don't think it was something good.}
+{353}{}{我已经告诉过你了，我没什么好说的了。苏西在泰德开始攻击前六个月失踪了。我不知道她怎么了。但我不认为这是件好事。 -- I told you already and I have nothing more to say. Susie disappeared six months before Ted started his attacks. I don't know what happened to her. But I don't think it was something good.}
+#{354}{}{Right... }
+{354}{}{正确的。。。 -- Right... }
+#{360}{}{That girl from the photo - Susie. I found her in Vegas!}
+{360}{}{照片里的那个女孩-苏西。我在维加斯找到她了！ -- That girl from the photo - Susie. I found her in Vegas!}
+#{361}{}{Oh God! It's been so long. It means she survived, did she escape Ted?}
+{361}{}{哦，上帝！好久没见了。意思是她活下来了，她逃过特德了吗？ -- Oh God! It's been so long. It means she survived, did she escape Ted?}
+#{362}{}{It seems she was the reason Ted lost his mind. Susie couldn't satisfy his sexual desires and they broke up. Then Ted began taking revenge on beautiful women. He cut out their eyes because he always loved to kiss Susie's eyelashes.}
+{362}{}{看来她是特德失去理智的原因。苏西无法满足他的性欲，他们分手了。然后泰德开始报复美女。他割掉了他们的眼睛，因为他总是喜欢亲吻苏西的睫毛。 -- It seems she was the reason Ted lost his mind. Susie couldn't satisfy his sexual desires and they broke up. Then Ted began taking revenge on beautiful women. He cut out their eyes because he always loved to kiss Susie's eyelashes.}
+#{363}{}{Eww! That's disgusting! I would run away from a man like that too... }
+{363}{}{哎哟！太恶心了！我也会从那样的男人身边逃跑。。。 -- Eww! That's disgusting! I would run away from a man like that too... }
+#{364}{}{She's in Vegas now, she's a waitress. She is afraid of men, but it seems everything else is very good for her.}
+{364}{}{她现在在维加斯，她是个女招待。她害怕男人，但似乎其他一切都对她很好。 -- She's in Vegas now, she's a waitress. She is afraid of men, but it seems everything else is very good for her.}
+#{365}{}{Poor girl! Her whole life was ruined. But I'm happy she found her place. In Reno pretty girls don't have many options.}
+{365}{}{可怜的女孩！她的一生都毁了。但我很高兴她找到了自己的位置。在雷诺，漂亮的女孩没有很多选择。 -- Poor girl! Her whole life was ruined. But I'm happy she found her place. In Reno pretty girls don't have many options.}
+#{366}{}{Yes, she will be happier there.}
+{366}{}{是的，她在那里会更快乐。 -- Yes, she will be happier there.}
+#{367}{}{Thank you for telling me this. Now everything makes sense. Don't forget us and stop by sometimes!}
+{367}{}{谢谢你告诉我这个。现在一切都有意义了。别忘了我们，有时过来看看！ -- Thank you for telling me this. Now everything makes sense. Don't forget us and stop by sometimes!}
+#{368}{}{Well of course! See you!}
+{368}{}{好吧，当然！再见！ -- Well of course! See you!}
+#{380}{}{I would like to talk to you about a... Troublesome person. His name is Harding.}
+{380}{}{我想和你谈谈。。。麻烦的人。他的名字叫哈丁。 -- I would like to talk to you about a... Troublesome person. His name is Harding.}
+#{381}{}{Harding? I can't remember anyone by that name.}
+{381}{}{哈丁？我不记得有人叫这个名字了。 -- Harding? I can't remember anyone by that name.}
+#{382}{}{He visits the anonymous club for the mentally ill.}
+{382}{}{他拜访了精神病匿名俱乐部。 -- He visits the anonymous club for the mentally ill.}
+#{383}{}{Oh, now I understand. It's not surprising that they don't come to us. Poor people... }
+{383}{}{哦，现在我明白了。他们不来找我们并不奇怪。可怜的人。。。 -- Oh, now I understand. It's not surprising that they don't come to us. Poor people... }
+#{384}{}{Do you feel sorry for these people? Perhaps you could help Harding then, he is suffering from childhood memories of sexual harassment.}
+{384}{}{你为这些人感到难过吗？或许你可以帮哈丁一下，他正遭受着童年记忆中的性骚扰。 -- Do you feel sorry for these people? Perhaps you could help Harding then, he is suffering from childhood memories of sexual harassment.}
+#{385}{}{You feel sorry for these people? Then you and I have nothing more to talk about.}
+{385}{}{你为这些人感到难过？那我们就没什么好谈的了。 -- You feel sorry for these people? Then you and I have nothing more to talk about.}
+#{386}{}{Perhaps we can discuss this later, but I have to go now.}
+{386}{}{也许我们可以稍后再讨论，但我现在得走了。 -- Perhaps we can discuss this later, but I have to go now.}
+#{387}{}{You know people change when they are in our club. Everyone's different - sometimes they change for the worse, sometimes for the better. But Harding obviously just doesn't get any attention or care in his life. Our girls could help him, but not beyond the limits of decency.}
+{387}{}{你知道在我们俱乐部里的人会变的。每个人都不一样——有时变差，有时变好。但是哈丁显然在他的生活中没有得到任何关注和关心。我们的姑娘们可以帮助他，但不能超出体面的限度。 -- You know people change when they are in our club. Everyone's different - sometimes they change for the worse, sometimes for the better. But Harding obviously just doesn't get any attention or care in his life. Our girls could help him, but not beyond the limits of decency.}
+#{388}{}{Great! Does this mean I can bring him in the club?}
+{388}{}{太好了！这意味着我可以把他带进俱乐部吗？ -- Great! Does this mean I can bring him in the club?}
+#{389}{}{You know, I think I will manage by myself.}
+{389}{}{你知道，我想我会自己处理的。 -- You know, I think I will manage by myself.}
+#{390}{}{Let's be honest - I can't be sure it isn't a hoax and that the ticket will not go to someone else. So I'll write a complimentary ticket for half price, so that will be... 50 bucks.}
+{390}{}{老实说，我不能肯定这不是一个骗局，票不会给别人。所以我会写一张半价的赠票，这样就。。。50美元。 -- Let's be honest - I can't be sure it isn't a hoax and that the ticket will not go to someone else. So I'll write a complimentary ticket for half price, so that will be... 50 bucks.}
+#{391}{}{No problem, here is the payment.}
+{391}{}{没问题，这是付款。 -- No problem, here is the payment.}
+#{392}{}{Then no, I will find another way.}
+{392}{}{那不行，我会另找办法的。 -- Then no, I will find another way.}
+#{393}{}{Here's the ticket. And tell Harding that we are waiting for him.}
+{393}{}{这是票。告诉哈丁我们在等他。 -- Here's the ticket. And tell Harding that we are waiting for him.}
+#{394}{}{Thanks!}
+{394}{}{谢谢！ -- Thanks!}
+#{395}{}{Oh, I can trust you. I will get the ticket to the poor guy right away. Tell him that we are waiting for him.}
+{395}{}{哦，我可以相信你。我马上把票给那个可怜的家伙。告诉他我们在等他。 -- Oh, I can trust you. I will get the ticket to the poor guy right away. Tell him that we are waiting for him.}
+#{396}{}{Thanks, Mom!}
+{396}{}{谢谢，妈妈！ -- Thanks, Mom!}
+#{1389}{}{You know, I think I will manage by myself.}
+{1389}{}{你知道，我想我会自己处理的。 -- You know, I think I will manage by myself.}

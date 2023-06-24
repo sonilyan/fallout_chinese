@@ -1,0 +1,20 @@
+#{100}{}{This is one odious looking settlement, staying alert at all times would be a good idea.}
+{100}{}{这是一个令人讨厌的定居点，时刻保持警惕是个好主意。 -- This is one odious looking settlement, staying alert at all times would be a good idea.}
+#{110}{}{Hey, you! No guns allowed!}
+{110}{}{嘿，你！不准带枪！ -- Hey, you! No guns allowed!}
+#{111}{}{Can't you hear me? Put your gun away!}
+{111}{}{你听不见我说话吗？把枪收起来！ -- Can't you hear me? Put your gun away!}
+#{112}{}{You're asking for it, aren't you?!}
+{112}{}{你是自找的，不是吗？！ -- You're asking for it, aren't you?!}
+#{113}{}{This is your final warning! Put away your gun or I'll shoot!}
+{113}{}{这是你最后的警告！把枪收起来，否则我开枪！ -- This is your final warning! Put away your gun or I'll shoot!}
+#{114}{}{ALARM! WE'RE UNDER ATTACK!}
+{114}{}{警报！我们受到攻击了！ -- ALARM! WE'RE UNDER ATTACK!}
+#{115}{}{Wow! That's unexpected!}
+{115}{}{哇！真是出人意料！ -- Wow! That's unexpected!}
+#{116}{}{Now you get why the mechanic guards the garage entrance so hectically.}
+{116}{}{现在你明白了为什么机修工如此忙碌地守卫车库入口了。 -- Now you get why the mechanic guards the garage entrance so hectically.}
+#{117}{}{What is that!?}
+{117}{}{那是什么！？ -- What is that!?}
+#{118}{}{Hey! Seems like the sound of a running engine is coming from the garage by the station!}
+{118}{}{嘿！好像火车站旁边的车库里传来了发动机运转的声音！ -- Hey! Seems like the sound of a running engine is coming from the garage by the station!}

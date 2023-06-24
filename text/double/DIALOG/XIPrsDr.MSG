@@ -1,0 +1,58 @@
+#{100}{}{This skill won't help you here - this lock is beyond difficult.}
+{100}{}{这技能对你没有帮助-这把锁不难。 -- This skill won't help you here - this lock is beyond difficult.}
+#{101}{}{It seems that ordinary explosives won't open this door.}
+{101}{}{看来普通炸药开不了这扇门。 -- It seems that ordinary explosives won't open this door.}
+#{102}{}{You see a very strong hermetic doors with electronic locks. Access card is required.}
+{102}{}{你看到一个非常强大的密封门与电子锁。需要门禁卡。 -- You see a very strong hermetic doors with electronic locks. Access card is required.}
+#{103}{}{Phew! I'm lucky!}
+{103}{}{呸！我很幸运！ -- Phew! I'm lucky!}
+#{104}{}{Something blocks the lock.}
+{104}{}{有东西挡住了锁。 -- Something blocks the lock.}
+#{105}{}{You see hermetic doors.}
+{105}{}{你看到密封门。 -- You see hermetic doors.}
+#{106}{}{Picking locks won't help this time.}
+{106}{}{这次挑锁没用。 -- Picking locks won't help this time.}
+#{110}{}{AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, mister! Sorry that we are not in uniform, nothing to wear it on! Maybe mister would tickle us with a feather, m?}
+{110}{}{啊哈哈哈！！！欢迎来到我们的公寓，先生！对不起，我们没有穿制服，没什么可穿的！也许先生会用一根羽毛逗我们，m？ -- AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, mister! Sorry that we are not in uniform, nothing to wear it on! Maybe mister would tickle us with a feather, m?}
+#{111}{}{Eh... Talking head?! Is it real?! Are you... Alive?}
+{111}{}{呃。。。会说话的头？！是真的吗？！你是吗。。。还活着？ -- Eh... Talking head?! Is it real?! Are you... Alive?}
+#{112}{}{Mister is IDIOT!!! I'm not just talking head! It's a Mr. President himself! Where did this mister crawled from, if he can not distinguish the president from anyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{112}{}{先生是白痴！！！我说的可不只是头！是总统先生本人！这位先生是从哪里爬来的，如果他不能把总统和其他人区别开来的话？！。。什么，宝贝？从屁股里出来？！！！宝贝，你应该学点礼貌！ -- Mister is IDIOT!!! I'm not just talking head! It's a Mr. President himself! Where did this mister crawled from, if he can not distinguish the president from anyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+#{113}{}{Well, that's not what I meant...}
+{113}{}{我不是这个意思。。。 -- Well, that's not what I meant...}
+#{114}{}{What are you saying, my precious?! Yes, we agree. Such misters should be quartered. All those who came out of ass - all of them must be DESTROYED!!!}
+{114}{}{你在说什么，宝贝？！是的，我们同意。这样的先生应该分居。所有从屁股里出来的人都必须被消灭！！！ -- What are you saying, my precious?! Yes, we agree. Such misters should be quartered. All those who came out of ass - all of them must be DESTROYED!!!}
+#{115}{}{Are you sure about that?}
+{115}{}{你确定吗？ -- Are you sure about that?}
+#{116}{}{What? What does he say? He wants to scare us? Alright. Let this citizen come out and come to my rim... I mean... I said to my ring. What's that my precious? I don't have it? Well... Then to something. Let mister come out. We won't hurt him.}
+{116}{}{什么？他说什么？他想吓唬我们？好吧。让这个公民出来，来到我的边缘。。。我是说。。。我对我的戒指说。那是什么我的宝贝？我没有？好。。。然后去做点什么。让先生出来。我们不会伤害他的。 -- What? What does he say? He wants to scare us? Alright. Let this citizen come out and come to my rim... I mean... I said to my ring. What's that my precious? I don't have it? Well... Then to something. Let mister come out. We won't hurt him.}
+#{117}{}{You promise? I can trust you?}
+{117}{}{你保证？我能相信你吗？ -- You promise? I can trust you?}
+#{118}{}{YES-YES-YES!!! We'll be good! Let mister comes close! We haven't see anyone for a long time! We want to take a look at the mister!}
+{118}{}{是的，是的，是的！！！我们会很好的！让先生靠近！好久没见了！我们想看看先生！ -- YES-YES-YES!!! We'll be good! Let mister comes close! We haven't see anyone for a long time! We want to take a look at the mister!}
+#{119}{}{Hm...}
+{119}{}{嗯。。。 -- Hm...}
+#{120}{}{This door activates only in an emergency situation.}
+{120}{}{这扇门只有在紧急情况下才会启动。 -- This door activates only in an emergency situation.}
+#{121}{}{Emergency back door. Obviously, activates only in an emergency situation}
+{121}{}{紧急后门。显然，只有在紧急情况下才会激活 -- Emergency back door. Obviously, activates only in an emergency situation}
+#{122}{}{Useless.}
+{122}{}{没用的。 -- Useless.}
+#{123}{}{This key card is not for this door.}
+{123}{}{这张钥匙卡不是这扇门用的。 -- This key card is not for this door.}
+#{124}{}{Not that}
+{124}{}{不是那样的 -- Not that}
+#{125}{}{You can't do it during combat!}
+{125}{}{你不能在战斗中这样做！ -- You can't do it during combat!}
+#{1110}{}{AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, Miss! Sorry that we are not in uniform, nothing to wear it on! Maybe Miss would tickle us with a feather, m?}
+{1110}{}{啊哈哈哈！！！欢迎来到我们的公寓，小姐！对不起，我们没有穿制服，没什么可穿的！也许小姐会用羽毛逗我们，m？ -- AAAAHHHA-HA-HA-HA!!! Welcome to our apartments, Miss! Sorry that we are not in uniform, nothing to wear it on! Maybe Miss would tickle us with a feather, m?}
+#{1112}{}{Miss's IDIOT!!! I'm not just talking head! I'm a Mr. President himself! Where did this Miss crawled from, if she can not distinguish the president from anyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+{1112}{}{小姐的白痴！！！我说的可不只是头！我自己就是总统先生！这位小姐是从哪里爬来的，如果她不能把总统和其他人区别开来的话？！。。什么，宝贝？从屁股里出来？！！！宝贝，你应该学点礼貌！ -- Miss's IDIOT!!! I'm not just talking head! I'm a Mr. President himself! Where did this Miss crawled from, if she can not distinguish the president from anyone else?!.. What, my precious? Out of ass?!!! My precious, you should learn some manners!}
+#{1113}{}{Well, that's not what I meant...}
+{1113}{}{我不是这个意思。。。 -- Well, that's not what I meant...}
+#{1114}{}{What are you saying, my precious?! Yes, we agree. Such misses should be quartered. All those who came out of ass - all of them must be DESTROYED!!!}
+{1114}{}{你在说什么，宝贝？！是的，我们同意。这样的失误应该分给四分之一。所有从屁股里出来的人都必须被消灭！！！ -- What are you saying, my precious?! Yes, we agree. Such misses should be quartered. All those who came out of ass - all of them must be DESTROYED!!!}
+#{1116}{}{What? What does she say? She wants to scare us? Alright. Let this citizen come out and come to my rim... I mean... I said to my ring. What's that my precious? I don't have it? Well... Then to something. Let Miss come out. We won't hurt her.}
+{1116}{}{什么？她说什么？她想吓唬我们？好吧。让这个公民出来，来到我的边缘。。。我是说。。。我对我的戒指说。那是什么我的宝贝？我没有？好。。。然后去做点什么。让小姐出来。我们不会伤害她的。 -- What? What does she say? She wants to scare us? Alright. Let this citizen come out and come to my rim... I mean... I said to my ring. What's that my precious? I don't have it? Well... Then to something. Let Miss come out. We won't hurt her.}
+#{1118}{}{YES-YES-YES!!! We'll be good! Let the Miss comes close! We haven't see anyone for a long time! We want to take a look at the Miss!}
+{1118}{}{是的，是的，是的！！！我们会很好的！让小姐靠近！好久没见了！我们想看看小姐！ -- YES-YES-YES!!! We'll be good! Let the Miss comes close! We haven't see anyone for a long time! We want to take a look at the Miss!}

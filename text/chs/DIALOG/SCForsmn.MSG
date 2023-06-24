@@ -1,0 +1,206 @@
+#{100}{}{You see Diesel.}
+{100}{}{你看到柴油机了。}
+#{101}{}{You see a raider nicknamed Diesel. He's shuffling a deck of cards.}
+{101}{}{你看到一个绰号叫迪塞尔的袭击者。他在洗牌。}
+#{105}{}{I'm beat. I gotta hit the hay.}
+{105}{}{我累了。我要干草了。}
+#{110}{}{[He glances up at you and deftly continues to shuffle the cards in his hands without looking] Yeah?}
+{110}{}{[他抬头看了你一眼，然后熟练地继续洗牌]是吗？}
+#{111}{}{Bye.}
+{111}{}{再见。}
+#{112}{}{Never mind, I'm leaving.}
+{112}{}{没关系，我要走了。}
+#{113}{}{Let's go back to what we were talking about before.}
+{113}{}{让我们回到我们之前谈论的话题。}
+#{114}{}{Forget it. Let's go back to what we were talking about before.}
+{114}{}{算了吧。让我们回到我们之前谈论的话题。}
+#{115}{}{I�m leaving.}
+{115}{}{我要走了。}
+#{120}{}{How's the gang?}
+{120}{}{帮派怎么样了？}
+#{121}{}{Right now? It's been pretty boring lately. Outside of fucking around with the locals, all we do is sit around playing poker.}
+{121}{}{马上？最近很无聊。除了和当地人鬼混，我们所做的就是围坐在一起打扑克。}
+#{122}{}{Tell me about yourself. How did you end up in the gang?}
+{122}{}{跟我说说你自己。你怎么会加入帮派的？}
+#{123}{}{Me? [he chuckles] It wasn't my first choice, let me tell you. Back in Reno, I was known as one hell of a gambler. One day I was a little *too* good and ended up with a bounty on my head. I figured that the only way to survive at that point would be to join a gang.}
+{123}{}{我？告诉你，这不是我的第一选择。在里诺，我是个有名的赌徒。有一天，我有点太棒了，结果我头上顶着一笔赏金。我想在那一刻生存的唯一方法就是加入帮派。}
+#{124}{}{What's your job here? You don't really look like a raider.}
+{124}{}{你在这里做什么工作？你看起来不像个袭击者。}
+#{125}{}{Smart choice. What do you do around here?}
+{125}{}{明智的选择。你在这附近干什么？}
+#{126}{}{Look who's talking. Anyway, most of the guys here aren't good for anything but starting fights. I'm the one that deals with our clients and the local tribe.}
+{126}{}{看谁在说话。不管怎样，这里的大多数人除了打架什么都不擅长。我是和我们的客户和当地部落打交道的人。}
+#{127}{}{You need more than thugs in an operation like this. For dealing with clients and the locals, they need someone with an appreciation for subtlety. [he jerks a thumb towards himself] That's me.}
+{127}{}{在这样的行动中你需要的不仅仅是暴徒。在与客户和当地人打交道时，他们需要一个对细节有鉴赏力的人。[他向自己伸出大拇指]那是我。}
+#{128}{}{Clients?}
+{128}{}{客户？}
+#{129}{}{Hey, we do more than push around Indians, you know. The revolution in Reno? That was us. Sometimes people ask us for help in business, and... Er, maybe the boss wouldn't like me talking about that. Never mind.}
+{129}{}{嘿，你知道，我们做的不仅仅是在印第安人周围推来推去。雷诺革命？那是我们。有时人们在生意上向我们求助，然后。。。呃，也许老板不喜欢我说这些。不要介意。}
+#{130}{}{There should be a radio station around here. Have you heard anything about that?}
+{130}{}{这附近应该有个电台。你听说了吗？}
+#{131}{}{[He stops shuffling the cards and looks at you out of the corner of his eye] Radio... What? Dunno. If it's here, it's pretty hard to find. Around us are only ruins, besides that camp to the south.}
+{131}{}{[他停止洗牌，用眼角看着你]收音机。。。什么？不知道。如果在这里，很难找到。除了南边的营地，我们周围只有废墟。}
+#{132}{}{Would 300 dollars jog your memory?}
+{132}{}{300美元能唤起你的记忆吗？}
+#{133}{}{Oh yeah, it's all coming back now. Give me the money and I might just remember enough to take you to where you need.}
+{133}{}{哦，是的，现在都回来了。把钱给我，我也许会记得足够多，带你去你需要的地方。}
+#{134}{}{Take it. Now, where's the station?}
+{134}{}{拿去吧。现在，车站在哪里？}
+#{135}{}{I'll think about it. Let's talk about something else.}
+{135}{}{我会考虑的。我们再谈点别的吧。}
+#{136}{}{I'll keep that in mind. I have to go now.}
+{136}{}{我会记住的。我得走了。}
+#{140}{}{The healer from the tribe said someone took his things. Do you know anything about that?}
+{140}{}{部落的医生说有人拿走了他的东西。你知道吗？}
+#{141}{}{Yeah, that was me. I was bored. [he raises an eyebrow] Why?}
+{141}{}{是的，是我。我很无聊。[他扬起眉毛]为什么？}
+#{150}{}{I see you like playing cards. Wanna gamble?}
+{150}{}{我看你喜欢打牌。想赌博吗？}
+#{151}{}{Forget it, I�m leaving.}
+{151}{}{算了吧，我要走了。}
+#{152}{}{I have some plans for that stuff. But that's none of your concern.}
+{152}{}{我有一些计划。但这不关你的事。}
+#{153}{}{He needs that stuff. I want to give it back to him.}
+{153}{}{他需要那些东西。我想把它还给他。}
+#{154}{}{You don't care anyway. Just tell me what you want for it.}
+{154}{}{反正你也不在乎。告诉我你想要什么。}
+#{155}{}{Just curious. Let�s change the subject.}
+{155}{}{只是好奇。我们换个话题吧。}
+#{156}{}{Oh, isn't it? [he smirks] I'm concerned with how much it's worth to you.}
+{156}{}{哦，不是吗？[他笑了]我关心的是它对你来说值多少钱。}
+#{157}{}{Aww, aren't you good Samaritan. Cut the shit. Whatever you're getting out of this, you're not getting it for free. Understand?}
+{157}{}{啊，你真是个好心人。别说了。不管你从中得到什么，都不是免费的。明白吗？}
+#{158}{}{[He leans forward] Oooh, aren't we businesslike! I think I'm gonna like having you around here.}
+{158}{}{[他向前倾]哦，我们不是很公事公办吗！我想我会喜欢你在这的。}
+#{159}{}{What do you want for it?}
+{159}{}{你想要什么？}
+#{160}{}{Hmm! [he rubs his chin exaggeratedly] Let me think! I've got a lot of options here. I want money. I want to gamble. I want to fuck. What do you have to offer?}
+{160}{}{隐马尔可夫模型！[他夸张地揉着下巴]让我想想！我有很多选择。我想要钱。我想赌博。我想做爱。你能提供什么？}
+#{161}{}{I'll pay you }
+{161}{}{我付钱给你}
+#{162}{}{ dollars for it.}
+{162}{}{我花了10美元。}
+#{163}{}{If you want sex, I'm right here. Interested?}
+{163}{}{如果你想做爱，我就在这里。有兴趣吗？}
+#{164}{}{Put cards on the table and I'll win that stuff for sure.}
+{164}{}{把牌放在桌上，我肯定会赢的。}
+#{165}{}{I won�t offer anything.}
+{165}{}{我不会提供任何东西。}
+#{166}{}{Let me think. I'll come back when I make up my mind.}
+{166}{}{让我想想。我下定决心就回来。}
+#{167}{}{Sounds good to me. When you get that money, come back here.}
+{167}{}{听起来不错。等你拿到钱，回来。}
+#{168}{}{What else were you interested in, again?}
+{168}{}{你还对什么感兴趣？}
+#{169}{}{[He pockets the money and gives you the healer's things] Not bad. I didn't even think I'd get anything out of that crap.}
+{169}{}{[他把钱装进口袋，把治疗师的东西给你]不错。我甚至没想到我能从那些废话中得到什么。}
+#{170}{}{[He sneers in disgust] What are you, kidding? I'd rather fuck one of the scorpions outside.}
+{170}{}{你在开什么玩笑？我宁愿在外面操一只蝎子。}
+#{171}{}{Fuck you... }
+{171}{}{去你妈的。。。}
+#{172}{}{Suit yourself.}
+{172}{}{随便你。}
+#{173}{}{[He licks his lips] Damn, am I still drunk from yesterday? No time like the present, baby! Hope you like it hot!}
+{173}{}{[他舔着嘴唇]妈的，我昨天还醉吗？没有时间像现在，宝贝！希望你喜欢热的！}
+#{174}{}{How tempting. Let's go, hot guy, before I cool down.}
+{174}{}{多诱人啊。走吧，帅哥，在我冷静下来之前。}
+#{175}{}{Eugh, really? How about no.}
+{175}{}{呃，真的吗？不呢。}
+#{176}{}{What the hell, baby? [he stands in your way] Where you going, huh? You can't say something like that and then take it back!}
+{176}{}{怎么回事，宝贝？[他挡着你的路]你要去哪？你不能说那样的话然后收回！}
+#{177}{}{Relax, I'm just fucking around. Let's do it!}
+{177}{}{别紧张，我只是在胡闹。我们开始吧！}
+#{178}{}{Touch me and I'll give you your own vagina to play with, you festering sack of gecko shit. But in return, I get to take your balls with me.}
+{178}{}{摸摸我，我就给你自己的阴道玩，你这个烂壁虎屎袋子。但作为回报，我可以把你的蛋蛋带走。}
+#{179}{}{I said no. Leave me alone.}
+{179}{}{我说不。别管我。}
+#{180}{}{[He backs up, holding up his hands] Woah, I got it. I got it.}
+{180}{}{[他后退，举起手]哇，我明白了。我得到了它。}
+#{181}{}{That's better.}
+{181}{}{这样更好。}
+#{182}{}{[He imitates you in a high voice] "I toooold you, leave me aloooone." Get the fuck out of here.}
+{182}{}{[他高声模仿你]“我骗了你，让我一个人呆着。”滚开。}
+#{183}{}{Fucker... }
+{183}{}{混蛋。。。}
+#{184}{}{Fine.}
+{184}{}{好的。}
+#{185}{}{After some rough, wild, and very loud sex, you get the healer's things.}
+{185}{}{在一段粗暴、狂野、吵闹的性爱之后，你得到了治疗者的东西。}
+#{190}{}{I usually play for money. I won't go below 100 bucks. What do you say?}
+{190}{}{我通常是为了钱而玩。我不会低于100美元。你怎么说？}
+#{191}{}{I'll bet 100 bucks.}
+{191}{}{我赌100美元。}
+#{192}{}{I don�t want to play.}
+{192}{}{我不想玩。}
+#{200}{}{Leave me alone. I'm not playing with you again.}
+{200}{}{别管我。我不会再和你玩了。}
+#{201}{}{Well, if you say so.}
+{201}{}{好吧，如果你这么说的话。}
+#{202}{}{Not today. Someone stole my cards, and I won't play with someone else's. What if they're marked?}
+{202}{}{今天不行。有人偷了我的牌，我不会和别人的牌一起玩。如果他们被标记了呢？}
+#{203}{}{Let�s talk about something else, then.}
+{203}{}{那我们谈点别的吧。}
+#{204}{}{Well, well.}
+{204}{}{好吧，好吧。}
+#{205}{}{Not until I figure out which of these cards are mine. Someone's fucking with me - I found another deck of cards in my pocket. They're probably marked.}
+{205}{}{除非我弄清楚这些卡片中哪张是我的。有人在耍我-我口袋里又发现了一副牌。他们可能有记号。}
+#{210}{}{I want money. I bet drugs, you bet cash. Deal?}
+{210}{}{我想要钱。我赌毒品，你赌现金。处理？}
+#{211}{}{Yes. What will you bet this time?}
+{211}{}{对。这次你赌什么？}
+#{212}{}{No deal. I have questions, instead.}
+{212}{}{没有交易。我有问题。}
+#{213}{}{No deal. I�m leaving.}
+{213}{}{没有交易。我要走了。}
+#{214}{}{Healing powder. Don't worry, it works and it's safe. Fatso knows what he's doing. You put up 50 bucks.}
+{214}{}{疗伤粉。别担心，它很有效而且很安全。胖子知道他在干什么。你付了50美元。}
+#{215}{}{Here's the money. Let's play.}
+{215}{}{这是钱。我们来玩吧。}
+#{216}{}{Tempting, but I don�t have enough cash.}
+{216}{}{很诱人，但我没有足够的现金。}
+#{217}{}{I only play for money.}
+{217}{}{我只是为了钱而玩。}
+#{218}{}{Super stimpak, against 100 bucks.}
+{218}{}{超级stimpak，100美元。}
+#{219}{}{Psycho, against 300 bucks. You ever tried this shit? You should be happy I'm even risking it for that bet.}
+{219}{}{神经病，300块。你试过这个吗？你应该高兴，我甚至冒着这个险。}
+#{220}{}{Shit, you're starting to piss me off. Alright, I bet my gun and ammo against 500 bucks.}
+{220}{}{妈的，你开始惹我生气了。好吧，我拿枪和弹药赌500块。}
+#{221}{}{Fucking hell, alright, this is my last bet. If I don't win this, I'm out for good. You put up 700 bucks, and I'll put up *this*. [he shows you a viscose substance rolled up in a newspaper] This is amphetamine gum, made in Reno. When they caught up with the guy, they made him dig his own grave, then cut off his arms and legs and lit him on fire. Not because of the gum, but... You know what, it's a long story. The point is, there's never gonna be any more. This is all there'll ever be. Do we have a deal?}
+{221}{}{他妈的，好吧，这是我最后的赌注。如果我赢不了，我就永远输了。你付700块，我付这个。[他给你看报纸上卷起的粘胶物质]这是雷诺制造的安非他明口香糖。当他们追上那个家伙时，他们让他自掘坟墓，然后砍掉他的胳膊和腿，点燃了他的火。不是因为口香糖，而是。。。你知道吗，说来话长。关键是，再也不会有了。这就是一切。我们有协议吗？}
+#{222}{}{I'll just leave.}
+{222}{}{我就走。}
+#{230}{}{Heh. Prepare to learn some humility. [he takes the cards out and the game begins]}
+{230}{}{嘿。准备学点谦虚。[他拿出牌开始游戏]}
+#{231}{}{Quit the bullshit. Let�s play already.}
+{231}{}{别胡说了。我们已经开始玩了。}
+#{232}{}{[Diesel deals the cards. So far, everything is fair.]}
+{232}{}{[迪塞尔发牌。到目前为止，一切都是公平的。]}
+#{233}{}{[Next]}
+{233}{}{[下一步]}
+#{234}{}{Ha-ha, what is this? You lost ace and king! I'll kick your ass in the next hand.}
+{234}{}{哈哈，这是什么？你失去了王牌和王牌！下一手我就揍你。}
+#{235}{}{Woah! Where did you get that ace from? It was... Ah, yeah, that's right. Let's keep going.}
+{235}{}{哇！你从哪儿弄来的王牌？那是。。。啊，是的，没错。我们继续走吧。}
+#{236}{}{[The game is all but finished. Time to count the points.]}
+{236}{}{[比赛快结束了。是时候数点了。]}
+#{237}{}{[Show your cards.]}
+{237}{}{[出示名片]}
+#{240}{}{God fucking damn it! [he throws the bet down on the table]}
+{240}{}{该死的！[他把赌注扔到桌子上]}
+#{241}{}{You want to play again?}
+{241}{}{你想再玩一次吗？}
+#{242}{}{How dare you yell at me! I'm going to teach you some manners. [Attack]}
+{242}{}{你竟敢对我大喊大叫！我要教你一些礼貌。[攻击]}
+#{243}{}{Hey, relax. I'll just go.}
+{243}{}{嘿，放松。我就走。}
+#{244}{}{Draw! Damn, you're pretty good. I should be more careful.}
+{244}{}{抽签！妈的，你真厉害。我应该更加小心。}
+#{245}{}{Let's finish up and go our separate ways.}
+{245}{}{我们结束了，各奔东西吧。}
+#{246}{}{Read 'em and weep. What's yours is now mine. Go cry about your loss.}
+{246}{}{读了就哭。你的现在是我的了。去为你的损失哭泣吧。}
+#{247}{}{[Unbelieveably, you win] Fuck! Fine, take it! [he throws the healer's stuff on the table] Never fucking talk to me again!}
+{247}{}{[难以置信，你赢了]操！好吧，拿去吧！[他把治疗师的东西扔到桌子上]他妈的别再跟我说话了！}
+#{1234}{}{Ha-ha, what is this? You lost ace and queen! I'll kick your ass in the next hand.}
+{1234}{}{哈哈，这是什么？你失去了王牌和皇后！下一手我就揍你。}

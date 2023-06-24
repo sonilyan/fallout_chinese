@@ -1,0 +1,32 @@
+#{100}{}{Rusty door.}
+{100}{}{生锈的门。 -- Rusty door.}
+#{101}{}{A very rusty yet still very durable door. Doors like this were often installed in prisons. Impossible to knock out!}
+{101}{}{一扇生锈但仍很耐用的门。像这样的门经常安装在监狱里。不可能击倒！ -- A very rusty yet still very durable door. Doors like this were often installed in prisons. Impossible to knock out!}
+#{102}{}{Can't be opened without a key.}
+{102}{}{没有钥匙不能打开。 -- Can't be opened without a key.}
+#{103}{}{Can't be opened without a key.}
+{103}{}{没有钥匙不能打开。 -- Can't be opened without a key.}
+#{104}{}{The door is open!}
+{104}{}{门是开着的！ -- The door is open!}
+#{105}{}{No luck.}
+{105}{}{运气不好。 -- No luck.}
+#{106}{}{The lock doesn't give in.}
+{106}{}{这把锁不松。 -- The lock doesn't give in.}
+#{107}{}{You force a complicated lock and earn 100 exp. points.}
+{107}{}{你强制一个复杂的锁，赚取100经验点。 -- You force a complicated lock and earn 100 exp. points.}
+#{108}{}{The lock is mechanical.}
+{108}{}{这把锁是机械的。 -- The lock is mechanical.}
+#{109}{}{You need a key or at the very least a lock-pick.}
+{109}{}{你需要一把钥匙或者至少是一把撬锁。 -- You need a key or at the very least a lock-pick.}
+#{110}{}{The door is too strong for that.}
+{110}{}{这扇门太坚固了。 -- The door is too strong for that.}
+#{111}{}{Dammit!}
+{111}{}{该死！ -- Dammit!}
+#{112}{}{You lock the door with the key.}
+{112}{}{你用钥匙锁门。 -- You lock the door with the key.}
+#{113}{}{The door is locked.}
+{113}{}{门是锁着的。 -- The door is locked.}
+#{114}{}{The lock is already picked}
+{114}{}{锁已经被撬开了 -- The lock is already picked}
+#{115}{}{The lock has already been picked. It can't be double-picked.}
+{115}{}{锁已经被撬开了。不能重复挑选。 -- The lock has already been picked. It can't be double-picked.}

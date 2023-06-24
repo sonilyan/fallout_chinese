@@ -1,0 +1,52 @@
+#{100}{}{You see a tightly locked door.}
+{100}{}{你看到一扇紧锁的门。 -- You see a tightly locked door.}
+#{101}{}{Looks like this door is closed by an electromagnetic mechanism.}
+{101}{}{看起来这扇门是用电磁装置关上的。 -- Looks like this door is closed by an electromagnetic mechanism.}
+#{102}{}{It appears to be the emergency exit, it only opens when you turn on the alarm.}
+{102}{}{它似乎是紧急出口，只有当你打开警报器时它才会打开。 -- It appears to be the emergency exit, it only opens when you turn on the alarm.}
+#{103}{}{Looks like that door has electromagnetic mechanism with improved control system.}
+{103}{}{看起来那扇门有电磁装置和改进的控制系统。 -- Looks like that door has electromagnetic mechanism with improved control system.}
+#{110}{}{The door opens only with a special code that you do not know.}
+{110}{}{门只打开一个你不知道的特殊代码。 -- The door opens only with a special code that you do not know.}
+#{111}{}{Needs a key card}
+{111}{}{需要一张钥匙卡 -- Needs a key card}
+#{112}{}{This is an emergency entry to the lower level, it only opens when you turn on the alarm.}
+{112}{}{这是一个紧急进入较低的水平，它只打开时，你打开警报。 -- This is an emergency entry to the lower level, it only opens when you turn on the alarm.}
+#{113}{}{Locked}
+{113}{}{锁定 -- Locked}
+#{114}{}{The door is jammed. To open it you'll need to use brute force.}
+{114}{}{门卡住了。要打开它，你需要使用暴力。 -- The door is jammed. To open it you'll need to use brute force.}
+#{115}{}{Ugh!..}
+{115}{}{啊！。。 -- Ugh!..}
+#{116}{}{Loudly creaking, the door yields to your impact and opens.}
+{116}{}{当啷一声，门就随着你的撞击而打开了。 -- Loudly creaking, the door yields to your impact and opens.}
+#{117}{}{Yes!}
+{117}{}{对！ -- Yes!}
+#{118}{}{This door is already open.}
+{118}{}{这扇门已经开了。 -- This door is already open.}
+#{119}{}{Useless}
+{119}{}{无用的 -- Useless}
+#{120}{}{You open the door with the key card.}
+{120}{}{你用钥匙卡开门。 -- You open the door with the key card.}
+#{121}{}{Open}
+{121}{}{正常开放 -- Open}
+#{122}{}{This key card is not valid.}
+{122}{}{此钥匙卡无效。 -- This key card is not valid.}
+#{123}{}{The door is locked, you need a key card.}
+{123}{}{门锁上了，你需要一张钥匙卡。 -- The door is locked, you need a key card.}
+#{124}{}{The skill of hacking will not help. Need a key card.}
+{124}{}{黑客的技术是无济于事的。我需要一张钥匙卡。 -- The skill of hacking will not help. Need a key card.}
+#{125}{}{The door opens only in an emergency. There's not even a lock to crack.}
+{125}{}{门只有在紧急情况下才能打开。连一把锁都没有。 -- The door opens only in an emergency. There's not even a lock to crack.}
+#{126}{}{The door is actually opened, it�s just stuck.}
+{126}{}{门实际上是开着的，只是卡住了。 -- The door is actually opened, it�s just stuck.}
+#{127}{}{Not even a scratch.}
+{127}{}{一点划痕都没有。 -- Not even a scratch.}
+#{128}{}{Wrong}
+{128}{}{错 -- Wrong}
+#{129}{}{This key card is not suitable for this type of doors.}
+{129}{}{此钥匙卡不适用于此类门。 -- This key card is not suitable for this type of doors.}
+#{130}{}{Impossible}
+{130}{}{不可能的 -- Impossible}
+#{131}{}{Access granted}
+{131}{}{已授予访问权限 -- Access granted}

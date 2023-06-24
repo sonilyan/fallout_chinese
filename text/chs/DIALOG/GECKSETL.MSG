@@ -1,0 +1,6 @@
+#{100}{}{You stumble upon abandoned workers village near the power plant.}
+{100}{}{你在发电厂附近的村子里偶然发现了被遗弃的工人。}
+#{101}{}{The nuclear power plant is emitting a heavy amounts of radiation. You'd better hurry up!}
+{101}{}{核电站正在释放大量的辐射。你最好快点！}
+#{102}{}{I'm getting some strange sensations! Where's that Geiger counter?}
+{102}{}{我有一些奇怪的感觉！盖革计数器在哪里？}

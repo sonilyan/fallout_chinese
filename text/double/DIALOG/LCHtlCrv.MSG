@@ -1,0 +1,56 @@
+#{100}{}{You see a caravaneer.}
+{100}{}{你看到一个商队。 -- You see a caravaneer.}
+#{101}{}{You see a cunning caravaneer. His face makes his creed clear: "I know a price for everything".}
+{101}{}{你看到一个狡猾的商队队员。他的脸清楚地表明了他的信条：“我知道任何东西的价格”。 -- You see a cunning caravaneer. His face makes his creed clear: "I know a price for everything".}
+#{102}{}{Hi}
+{102}{}{您好! -- Hi}
+#{103}{}{Stealing an object for your own benefit negatively affects your karma.}
+{103}{}{为了你自己的利益偷东西会对你的业力产生负面影响。 -- Stealing an object for your own benefit negatively affects your karma.}
+#{104}{}{Cheeky cheater!}
+{104}{}{厚脸皮的骗子！ -- Cheeky cheater!}
+#{110}{}{What do you want?}
+{110}{}{你想要什么？ -- What do you want?}
+#{111}{}{Word on a street that you have an encoder, which is needed on a Nuka-Cola factory.}
+{111}{}{有人在街上说你有一个编码器，这是努卡可乐厂需要的。 -- Word on a street that you have an encoder, which is needed on a Nuka-Cola factory.}
+#{112}{}{Nothing.}
+{112}{}{没有什么。 -- Nothing.}
+#{113}{}{Have one. I'll sell it for 1000$.}
+{113}{}{有一个。我要卖1000美元。 -- Have one. I'll sell it for 1000$.}
+#{114}{}{But the factory negotiated for 300$.}
+{114}{}{但工厂以300美元议价。 -- But the factory negotiated for 300$.}
+#{115}{}{I have nothing to say against such a price. Let me just pay and take the encoder to the factory.}
+{115}{}{我对这样的价格没什么可说的。让我付钱把编码器送到工厂。 -- I have nothing to say against such a price. Let me just pay and take the encoder to the factory.}
+#{116}{}{I advise you not go so stubborn on me. Otherwise, it may end badly.}
+{116}{}{我劝你不要对我这么固执。否则，结局可能会很糟糕。 -- I advise you not go so stubborn on me. Otherwise, it may end badly.}
+#{117}{}{And I'm not buying. Bye.}
+{117}{}{我不买。再见。 -- And I'm not buying. Bye.}
+#{118}{}{And I do not care what's expected at the factory. I own the thing, I acquired it, so it is me, who sets the price. And factory should be happy, if I won't raise the price by another five hundred next week.}
+{118}{}{我不在乎工厂里的期望。我拥有这个东西，我得到了它，所以是我决定了价格。如果我下周不再提价500英镑，工厂应该会高兴的。 -- And I do not care what's expected at the factory. I own the thing, I acquired it, so it is me, who sets the price. And factory should be happy, if I won't raise the price by another five hundred next week.}
+#{119}{}{Trying to threaten me? Ha-ha, won't work here. }
+{119}{}{想威胁我？哈哈，不会在这里工作的。 -- Trying to threaten me? Ha-ha, won't work here. }
+#{120}{}{I get it, but you should return to the initial price, if you don't want to lose the opportunity to earn.}
+{120}{}{我明白，但如果你不想失去赚钱的机会，你应该回到最初的价格。 -- I get it, but you should return to the initial price, if you don't want to lose the opportunity to earn.}
+#{121}{}{No shit? Give me at least one reason why I should lower the price for the huge factory with a huge income.}
+{121}{}{什么都没有？请至少给我一个理由，为什么我要为这个收入巨大的工厂降价。 -- No shit? Give me at least one reason why I should lower the price for the huge factory with a huge income.}
+#{122}{}{I'm in trading business of Nevada for a long time. During this, I had to see a lot. Do you really want to take the risk? Then go, don't sell it, I'm only here to warn you in a friendly manner, like a fellow caravaneer.}
+{122}{}{我在内华达州做贸易生意很久了。在这期间，我看到了很多。你真的想冒险吗？那就走吧，别卖了，我只是来友好地警告你，就像一个商队的同伴。 -- I'm in trading business of Nevada for a long time. During this, I had to see a lot. Do you really want to take the risk? Then go, don't sell it, I'm only here to warn you in a friendly manner, like a fellow caravaneer.}
+#{123}{}{Hm... You have a point. I wanted to scratch more money out of them, but the longer I'm holding this thing, the sooner they'll find a replacement... Okay, you made me sober. I agree to return to initial price of 300$.}
+{123}{}{嗯。。。你说得有道理。我想从他们身上多掏点钱，但我拿这东西的时间越长，他们就越快找到替代品。。。好吧，你让我清醒了。我同意恢复原价300美元。 -- Hm... You have a point. I wanted to scratch more money out of them, but the longer I'm holding this thing, the sooner they'll find a replacement... Okay, you made me sober. I agree to return to initial price of 300$.}
+#{124}{}{I see through the likes of you. I'm more experienced.}
+{124}{}{我看穿了你这样的人。我更有经验。 -- I see through the likes of you. I'm more experienced.}
+#{125}{}{Have your 300$ and give me the encoder.}
+{125}{}{拿着你的300美元，把编码器给我。 -- Have your 300$ and give me the encoder.}
+#{126}{}{Good, but I don't have money to pay. I'll be back later, with cash.}
+{126}{}{很好，但我没钱付。我一会儿回来，带着现金。 -- Good, but I don't have money to pay. I'll be back later, with cash.}
+#{127}{}{Right decision. Do you have 1000$?}
+{127}{}{正确的决定。你有1000美元吗？ -- Right decision. Do you have 1000$?}
+#{128}{}{I've got it. Take them and give me the encoder.}
+{128}{}{我知道了。拿着它们把编码器给我。 -- I've got it. Take them and give me the encoder.}
+#{129}{}{I still doubt if I'm doing the right thing. Understand me correctly - It's not only about me, but for my guys too. We need to work hard to feed themselves. But let's not talk about this.}
+{129}{}{我仍然怀疑我做的是否正确。正确地理解我-这不仅是关于我，也是为了我的人。我们需要努力工作养活自己。但我们不要谈这个。 -- I still doubt if I'm doing the right thing. Understand me correctly - It's not only about me, but for my guys too. We need to work hard to feed themselves. But let's not talk about this.}
+#{130}{}{Bye.}
+{130}{}{再见。 -- Bye.}
+#{131}{}{This is what I was counting on! And I don't even doubt that I did the right thing by inflating the price after the contract. Understand me correctly - It's not only about me, but for my guys too. We need to work hard to feed themselves. But let's not talk about this.}
+{131}{}{这就是我所指望的！我甚至毫不怀疑我在合同签订后抬高价格是正确的。正确地理解我-这不仅是关于我，也是为了我的人。我们需要努力工作养活自己。但我们不要谈这个。 -- This is what I was counting on! And I don't even doubt that I did the right thing by inflating the price after the contract. Understand me correctly - It's not only about me, but for my guys too. We need to work hard to feed themselves. But let's not talk about this.}
+#{132}{}{Bye then.}
+{132}{}{再见。 -- Bye then.}

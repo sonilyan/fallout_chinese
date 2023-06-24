@@ -1,0 +1,80 @@
+#{100}{}{You see a janitor.}
+{100}{}{你看见一个看门人。 -- You see a janitor.}
+#{101}{}{You see a child cleaning the halls.}
+{101}{}{你看到一个孩子在打扫大厅。 -- You see a child cleaning the halls.}
+#{110}{}{Can I help you, sir?}
+{110}{}{先生，我能为您效劳吗？ -- Can I help you, sir?}
+#{111}{}{Tell me what you do here.}
+{111}{}{告诉我你在这里做什么。 -- Tell me what you do here.}
+#{112}{}{Nothing yet.}
+{112}{}{还没有。 -- Nothing yet.}
+#{113}{}{I'm just a janitor, sir. I make sure the hallways and rooms are clean.}
+{113}{}{我只是个看门人，先生。我确保走廊和房间干净。 -- I'm just a janitor, sir. I make sure the hallways and rooms are clean.}
+#{114}{}{But... You're just a kid.}
+{114}{}{但是。。。你只是个孩子。 -- But... You're just a kid.}
+#{115}{}{}
+{115}{}{ -- }
+#{116}{}{[He furrows his brow] Everybody says that! Then they go outside and get shot, or die from overdose laying in trash. I get my money without lying or hurting anyone. That's better than most of the grown-ups I've met.}
+{116}{}{每个人都这么说！然后他们到外面被枪杀，或者死于过量的药物躺在垃圾桶里。我得到我的钱没有撒谎或伤害任何人。这比我见过的大多数成年人都好。 -- [He furrows his brow] Everybody says that! Then they go outside and get shot, or die from overdose laying in trash. I get my money without lying or hurting anyone. That's better than most of the grown-ups I've met.}
+#{117}{}{Tell me honestly, are you *forced* to work?}
+{117}{}{老实告诉我，你是被迫工作的吗？ -- Tell me honestly, are you *forced* to work?}
+#{118}{}{Hmm, does your boss treat you well?}
+{118}{}{嗯，你老板对你好吗？ -- Hmm, does your boss treat you well?}
+#{119}{}{Hey, do you know who cleans Bertolini's office?}
+{119}{}{嘿，你知道谁打扫伯托里尼的办公室吗？ -- Hey, do you know who cleans Bertolini's office?}
+#{120}{}{I see. I'll let you get back to work.}
+{120}{}{我懂了。我让你回去工作。 -- I see. I'll let you get back to work.}
+#{121}{}{Oh no, sir! Well... I have to work to get money. Even if I'm dead tired at the end of shift. No one will feed me, but myself.}
+{121}{}{哦，不，先生！好。。。我得工作赚钱。即使下班后我累得要死。没有人会喂我，只有我自己。 -- Oh no, sir! Well... I have to work to get money. Even if I'm dead tired at the end of shift. No one will feed me, but myself.}
+#{122}{}{He... Well... Yes. He doesn't beat me, but... He's scary... And rude sometimes. But I'm still glad I got the job. It's an honor.}
+{122}{}{他。。。好。。。对。他没有打我，但是。。。他很吓人。。。有时也很粗鲁。但我还是很高兴我得到了这份工作。很荣幸。 -- He... Well... Yes. He doesn't beat me, but... He's scary... And rude sometimes. But I'm still glad I got the job. It's an honor.}
+#{123}{}{[He looks worried] That would be me, sir... Is Mr. Bertolini unhappy? He's... He's not angry, is he?}
+{123}{}{[他看起来很担心]那就是我，先生。。。贝托里尼先生不高兴吗？他是。。。他没有生气，是吗？ -- [He looks worried] That would be me, sir... Is Mr. Bertolini unhappy? He's... He's not angry, is he?}
+#{124}{}{Something tells me this is a tough job. How about we make a deal?}
+{124}{}{我觉得这是一个艰难的工作。我们做个交易怎么样？ -- Something tells me this is a tough job. How about we make a deal?}
+#{125}{}{No, err, just wanted to say you did a great job.}
+{125}{}{不，呃，我只是想说你做得很好。 -- No, err, just wanted to say you did a great job.}
+#{126}{}{A deal? Is that when you pay me for something special and then Mr. Bertolini takes half?}
+{126}{}{成交？是不是你付我特别的钱然后贝托里尼先生拿走一半？ -- A deal? Is that when you pay me for something special and then Mr. Bertolini takes half?}
+#{127}{}{Not this time. In fact, you shouldn't tell him about it. I'll pay you to install these bugs in his study.}
+{127}{}{这次不行。事实上，你不应该告诉他这件事。我付钱让你在他的书房里安装这些窃听器。 -- Not this time. In fact, you shouldn't tell him about it. I'll pay you to install these bugs in his study.}
+#{128}{}{Bu-gs? What are these?}
+{128}{}{布格斯？这些是什么？ -- Bu-gs? What are these?}
+#{129}{}{Don't worry. Just remember - nobody should ever find them, understood?!}
+{129}{}{别担心。记住-没人能找到他们，明白吗？！ -- Don't worry. Just remember - nobody should ever find them, understood?!}
+#{130}{}{I... I think so. But if Mr. Bertolini finds out, he'll kill me!}
+{130}{}{一、 。。。我认为是这样。但如果贝托里尼先生发现了，他会杀了我！ -- I... I think so. But if Mr. Bertolini finds out, he'll kill me!}
+#{131}{}{In that case, forget everything I said.}
+{131}{}{那样的话，把我说的都忘了。 -- In that case, forget everything I said.}
+#{132}{}{Then make sure he doesn't. Do this and you get paid. Deal?}
+{132}{}{那就确保他不这样做，你就能得到报酬。处理？ -- Then make sure he doesn't. Do this and you get paid. Deal?}
+#{133}{}{Ugh, listen kid, if you keep your mouth shut and don't screw up, I'll pay you so much you can forget about work for a month!}
+{133}{}{呃，听着，孩子，如果你闭上嘴不搞砸，我会付给你这么多钱，你可以一个月都忘了工作！ -- Ugh, listen kid, if you keep your mouth shut and don't screw up, I'll pay you so much you can forget about work for a month!}
+#{134}{}{[He thinks about it, looking at you with doubt in his eyes] No... No, sir, this is too dangerous!}
+{134}{}{[他想了想，用怀疑的眼神看着你]不。。。不，先生，这太危险了！ -- [He thinks about it, looking at you with doubt in his eyes] No... No, sir, this is too dangerous!}
+#{135}{}{I knew it! Never send a child to do a man's job. I'll handle it without you.}
+{135}{}{我就知道！永远不要送孩子去做男人的工作。没有你我会处理的。 -- I knew it! Never send a child to do a man's job. I'll handle it without you.}
+#{136}{}{Hmm, looks like I'll have to try something else.}
+{136}{}{嗯，看来我得试试别的了。 -- Hmm, looks like I'll have to try something else.}
+#{137}{}{Really?! [he thinks hard for a moment] Uh, give me... $500, and I'll hide your bugs in Mr. Bertolini's office.}
+{137}{}{真正地？！[他想了一会儿]呃，给我。。。500美元，我把你的虫子藏在伯托里尼先生的办公室里。 -- Really?! [he thinks hard for a moment] Uh, give me... $500, and I'll hide your bugs in Mr. Bertolini's office.}
+#{138}{}{Here's the money and the bugs. I'll be waiting. And remember - not a word to anyone!}
+{138}{}{这是钱和虫子。我会等的。记住-不要对任何人说一句话！ -- Here's the money and the bugs. I'll be waiting. And remember - not a word to anyone!}
+#{139}{}{Wait up, I'll be back.}
+{139}{}{等等，我会回来的。 -- Wait up, I'll be back.}
+#{140}{}{Bertolini's study is now wired.}
+{140}{}{贝托里尼的研究已经连线。 -- Bertolini's study is now wired.}
+#{1110}{}{Can I help you, ma'am?}
+{1110}{}{有什么事吗，女士？ -- Can I help you, ma'am?}
+#{1113}{}{I'm just a janitor, ma'am. I make sure the hallways and rooms are clean.}
+{1113}{}{我只是个看门人，夫人。我确保走廊和房间干净。 -- I'm just a janitor, ma'am. I make sure the hallways and rooms are clean.}
+#{1121}{}{Oh no, ma'am! Well... I have to work to get money. Even if I'm dead tired at the end of shift. No one will feed me, but myself.}
+{1121}{}{哦，不，女士！好。。。我得工作赚钱。即使下班后我累得要死。没有人会喂我，只有我自己。 -- Oh no, ma'am! Well... I have to work to get money. Even if I'm dead tired at the end of shift. No one will feed me, but myself.}
+#{1123}{}{[He looks worried] That would be me, ma'am... Is Mr. Bertolini unhappy? He's... He's not angry, is he?}
+{1123}{}{[他看起来很担心]那就是我，女士。。。贝托里尼先生不高兴吗？他是。。。他没有生气，是吗？ -- [He looks worried] That would be me, ma'am... Is Mr. Bertolini unhappy? He's... He's not angry, is he?}
+#{1131}{}{In that case, forget everything I said.}
+{1131}{}{那样的话，把我说的都忘了。 -- In that case, forget everything I said.}
+#{1134}{}{[He thinks about it, looking at you with doubt in his eyes] No... No, ma'am, this is too dangerous!}
+{1134}{}{[他想了想，用怀疑的眼神看着你]不。。。不，女士，这太危险了！ -- [He thinks about it, looking at you with doubt in his eyes] No... No, ma'am, this is too dangerous!}
+#{1135}{}{I knew it! Never send a child to do a woman's job. I'll handle it without you.}
+{1135}{}{我就知道！千万不要送孩子去做女人的工作。没有你我会处理的。 -- I knew it! Never send a child to do a woman's job. I'll handle it without you.}

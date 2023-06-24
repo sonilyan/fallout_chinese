@@ -1,0 +1,24 @@
+#{100}{}{You see a little boy.}
+{100}{}{你看到一个小男孩。}
+#{101}{}{You see a little girl.}
+{101}{}{你看到一个小女孩。}
+#{200}{}{Did we arrive?}
+{200}{}{我们到了吗？}
+#{201}{}{I want to sleep.}
+{201}{}{我想睡觉。}
+#{202}{}{Will you carry me?}
+{202}{}{你会背我吗？}
+#{203}{}{My mother forbids me to talk with strangers.}
+{203}{}{我妈妈禁止我和陌生人说话。}
+#{204}{}{Mommy and daddy are gone.}
+{204}{}{妈妈和爸爸都走了。}
+#{205}{}{See my shiny rock?}
+{205}{}{看到我闪亮的石头了吗？}
+#{206}{}{Play with me?}
+{206}{}{跟我玩？}
+#{207}{}{La-la-la, la-la-la. Can't hear you.}
+{207}{}{啦啦，啦啦。听不见你说话。}
+#{208}{}{Why can't play now?}
+{208}{}{为什么现在不能玩？}
+#{209}{}{Want to play?}
+{209}{}{想玩吗？}

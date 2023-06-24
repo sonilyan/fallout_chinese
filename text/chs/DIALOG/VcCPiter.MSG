@@ -1,0 +1,48 @@
+#{100}{}{You see: Sergeant Graves.}
+{100}{}{你看：格雷夫斯中士。}
+#{101}{}{You see: Peter Graves, head of the security service.}
+{101}{}{你看：彼得·格雷夫斯，安全局局长。}
+#{102}{}{Oww, my head.}
+{102}{}{噢，我的头。}
+#{103}{}{You have accessed the door, which leads to the second elevator.}
+{103}{}{你已经进入了通往第二部电梯的门。}
+#{104}{}{You have accessed the door, which leads to the warehouse.}
+{104}{}{你已经进入了通往仓库的门。}
+#{110}{}{[You see Sergeant Graves - brutally beaten, with arms and legs tied.]}
+{110}{}{[你看到格雷夫斯中士-被残忍地殴打，手脚被绑着。]}
+#{111}{}{[Free him]}
+{111}{}{[释放他]}
+#{112}{}{[Leave him]}
+{112}{}{[离开他]}
+#{113}{}{Ughh... Thank you, citizen. You�re just in time. These outsiders have taken over the vault. How did you manage to get in here?}
+{113}{}{呃。。。谢谢你，市民。你来得正是时候。这些外人接管了金库。你怎么进来的？}
+#{114}{}{It wasn�t that hard. More importantly, what do we do next?}
+{114}{}{没那么难。更重要的是，我们下一步该怎么办？}
+#{115}{}{Right. Fighting the outsiders is pointless. It�s too many of them and they are well armed. The only option left for us is to comply with their demands, or find some other, more clever way to neutralize them.}
+{115}{}{正确的。与外人作战毫无意义。他们太多了，而且装备精良。留给我们的唯一选择就是遵从他们的要求，或者找到其他更聪明的方法来压制他们。}
+#{116}{}{Any ideas?}
+{116}{}{有什么想法吗？}
+#{117}{}{We could try to activate the defense systems. I have access to the Automated Vault Control Systems, if we can get there and turn on the defenses. But it is probably jammed.}
+{117}{}{我们可以试着启动防御系统。如果我们能到达那里并打开防御系统，我可以进入自动保险库控制系统。但它可能卡住了。}
+#{118}{}{Any other ways to deal with them?}
+{118}{}{还有别的办法对付他们吗？}
+#{119}{}{Yes, but it's lethal. According to the procedure, in the case of a hostile invasion we must destroy the entire secret floor downstairs. The explosion will completely destroy the entire Vault, we won�t be able to escape.}
+{119}{}{是的，但它是致命的。按照程序，如果有敌人入侵，我们必须摧毁楼下的整个秘密楼层。爆炸将彻底摧毁整个保险库，我们将无法逃生。}
+#{120}{}{That�s not fair...}
+{120}{}{这不公平。。。}
+#{121}{}{Then we either fight them all by ourselves or comply with their demands. There�s a guard robot in the next room, if we could repair it, it should give us a little edge. In any case, I can�t just sit here doing nothing, after all of this. The council lied to us, and these guys aren�t exactly handing out cake and balloons. [he rubs his bruises]}
+{121}{}{然后我们要么自己和他们战斗要么服从他们的要求。隔壁房间有个警卫机器人，如果我们能修好它，它会给我们一点优势。无论如何，我不能坐在这里无所事事，毕竟这一切。委员会对我们撒了谎，而这些人并没有分发蛋糕和气球。[他擦伤]}
+#{122}{}{Excellent, in that case, follow me Sergeant. I need someone covering my back.}
+{122}{}{太好了，那样的话，跟我来，中士。我需要有人掩护我。}
+#{123}{}{Sit tight for a while, I need to scout around. We have to think about this first.}
+{123}{}{坐一会儿，我要四处侦察。我们得先考虑一下。}
+#{124}{}{What�s the situation?}
+{124}{}{情况如何？}
+#{125}{}{Wait up, I need to look around.}
+{125}{}{等等，我要四处看看。}
+#{126}{}{Let's move, I think I know what to do.}
+{126}{}{我们走吧，我想我知道该怎么办了。}
+#{127}{}{We'll talk later.}
+{127}{}{我们稍后再谈。}
+#{1113}{}{Ughh... Thank you, citizen. You�re just in time. These outsiders have taken over the vault. How did you manage to get here?}
+{1113}{}{呃。。。谢谢你，市民。你来得正是时候。这些外人接管了金库。你怎么到这儿来的？}

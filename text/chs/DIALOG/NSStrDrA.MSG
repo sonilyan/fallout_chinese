@@ -1,0 +1,48 @@
+#{100}{}{The front door.}
+{100}{}{前门。}
+#{101}{}{A door leading to the night club. It looks well guarded.}
+{101}{}{通往夜总会的门。它看起来守卫得很好。}
+#{102}{}{It's no use.}
+{102}{}{没用的。}
+#{103}{}{The reinforced door withstands your feeble blows.}
+{103}{}{这扇加固的门经得起你那无力的一击。}
+#{104}{}{ dollars.}
+{104}{}{美元。}
+#{105}{}{Good day, sir. Here to relax? The entrance fee is }
+{105}{}{你好，先生。来放松一下？入场费是}
+#{106}{}{No problem. Here's the money.}
+{106}{}{没问题。这是钱。}
+#{107}{}{I've changed my mind. Sorry for bothering you.}
+{107}{}{我改变主意了。抱歉打扰你了。}
+#{108}{}{I'm a bit short. Maybe another time.}
+{108}{}{我有点矮。也许下次吧。}
+#{109}{}{Er... Are you sure you're at the right place, ma'am? This is a *gentleman's* club.}
+{109}{}{呃。。。你确定你来对地方了吗，女士？这是一个绅士俱乐部。}
+#{110}{}{What's the problem? Maybe I'd like to see a dance too!}
+{110}{}{有什么问题吗？也许我也想去看舞会！}
+#{111}{}{Actually, I want to talk to your boss. Maybe I'd have a chance working for her?}
+{111}{}{实际上，我想和你老板谈谈。也许我有机会为她工作？}
+#{112}{}{Oh, I had no idea! I'll just go.}
+{112}{}{哦，我不知道！我就走。}
+#{113}{}{Suit yourself, ma'am. The entrance fee is }
+{113}{}{随便你，夫人。入场费是}
+#{114}{}{Hmm... Come in, then. Mom's office is on the left.}
+{114}{}{隐马尔可夫模型。。。那就进来吧。妈妈的办公室在左边。}
+#{115}{}{Thanks.}
+{115}{}{谢谢。}
+#{116}{}{I've changed my mind. Sorry for bothering you.}
+{116}{}{我改变主意了。抱歉打扰你了。}
+#{117}{}{Don't worry, I have an invitation.}
+{117}{}{别担心，我有请柬。}
+#{118}{}{Come right through, sir.}
+{118}{}{直接过来，先生。}
+#{119}{}{Come right through, ma'am.}
+{119}{}{直接过来，女士。}
+#{120}{}{ Good day.}
+{120}{}{很好的一天。}
+#{121}{}{ Have a good night.}
+{121}{}{晚安。}
+#{130}{}{This door is locked from inside. It doesn't sound like anyone's hurrying to open it.}
+{130}{}{这扇门是从里面锁着的。听起来好像没人急着打开。}
+#{131}{}{Hey, what's this!? What happened to "the customer is always right"?}
+{131}{}{嘿，这是什么！？“顾客总是对的”怎么了？}

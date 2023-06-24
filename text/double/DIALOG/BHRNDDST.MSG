@@ -1,0 +1,282 @@
+#{100}{}{You encounter rogues and wolves.}
+{100}{}{你会遇到盗贼和狼。 -- You encounter rogues and wolves.}
+#{101}{}{You encounter rogues.}
+{101}{}{你会遇到流氓。 -- You encounter rogues.}
+#{102}{}{You encounter wolves.}
+{102}{}{你会遇到狼。 -- You encounter wolves.}
+#{103}{}{You encounter scorpions.}
+{103}{}{你会遇到蝎子。 -- You encounter scorpions.}
+#{104}{}{You encounter spore plants.}
+{104}{}{你会遇到孢子植物。 -- You encounter spore plants.}
+#{105}{}{You encounter a Unity Patrol fighting rogues.}
+{105}{}{你遇到了一个与流氓战斗的联合巡逻队。 -- You encounter a Unity Patrol fighting rogues.}
+#{106}{}{You encounter a Unity Patrol fighting wolves.}
+{106}{}{你遇到了一个与狼战斗的联合巡逻队。 -- You encounter a Unity Patrol fighting wolves.}
+#{107}{}{You encounter a Unity Patrol.}
+{107}{}{你遇到了一个联合巡逻队。 -- You encounter a Unity Patrol.}
+#{150}{}{You encounter slavers and dogs.}
+{150}{}{你会遇到奴隶主和狗。 -- You encounter slavers and dogs.}
+#{151}{}{You encounter slavers.}
+{151}{}{你遇到奴隶贩子。 -- You encounter slavers.}
+#{152}{}{You encounter golden geckos.}
+{152}{}{你会遇到金壁虎。 -- You encounter golden geckos.}
+#{153}{}{You encounter wild dogs.}
+{153}{}{你会遇到野狗。 -- You encounter wild dogs.}
+#{154}{}{You encounter a patrol and dogs fighting slavers.}
+{154}{}{你遇到一个巡逻队和狗打奴隶。 -- You encounter a patrol and dogs fighting slavers.}
+#{155}{}{You encounter slavers fighting golden geckos.}
+{155}{}{你会遇到奴隶主和金壁虎战斗。 -- You encounter slavers fighting golden geckos.}
+#{156}{}{You encounter a patrol fighting slavers.}
+{156}{}{你遇到了一个和奴隶贩子战斗的巡逻队。 -- You encounter a patrol fighting slavers.}
+#{157}{}{You encounter a patrol fighting golden geckos.}
+{157}{}{你遇到一个巡逻队在和金壁虎战斗。 -- You encounter a patrol fighting golden geckos.}
+#{158}{}{You encounter a patrol fighting wild dogs.}
+{158}{}{你遇到一个巡逻队在和野狗搏斗。 -- You encounter a patrol fighting wild dogs.}
+#{159}{}{You encounter a patrol.}
+{159}{}{你遇到一个巡逻队。 -- You encounter a patrol.}
+#{200}{}{You are ambushed by raiders.}
+{200}{}{你被袭击者伏击了。 -- You are ambushed by raiders.}
+#{201}{}{You encounter wolves.}
+{201}{}{你会遇到狼。 -- You encounter wolves.}
+#{202}{}{You encounter a caravan fending off raiders.}
+{202}{}{你遇到了一辆大篷车，挡住了袭击者。 -- You encounter a caravan fending off raiders.}
+#{203}{}{You encounter a caravan fending off raiders.}
+{203}{}{你遇到了一辆大篷车，挡住了袭击者。 -- You encounter a caravan fending off raiders.}
+#{204}{}{You encounter a caravan fending off raiders}
+{204}{}{你遇到一辆大篷车挡住了袭击者 -- You encounter a caravan fending off raiders}
+#{205}{}{You encounter a caravan fending off raiders.}
+{205}{}{你遇到了一辆大篷车，挡住了袭击者。 -- You encounter a caravan fending off raiders.}
+#{206}{}{You encounter a caravan.}
+{206}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{207}{}{You encounter a caravan.}
+{207}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{208}{}{You encounter a caravan.}
+{208}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{209}{}{You encounter a caravan.}
+{209}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{250}{}{You encounter marauders.}
+{250}{}{你遇到掠夺者。 -- You encounter marauders.}
+#{251}{}{You encounter wolves.}
+{251}{}{你会遇到狼。 -- You encounter wolves.}
+#{252}{}{You encounter scorpions.}
+{252}{}{你会遇到蝎子。 -- You encounter scorpions.}
+#{253}{}{You encounter a caravan fending off marauders.}
+{253}{}{你遇到了一辆大篷车，挡住了掠夺者。 -- You encounter a caravan fending off marauders.}
+#{254}{}{You encounter a caravan fending off marauders.}
+{254}{}{你遇到了一辆大篷车，挡住了掠夺者。 -- You encounter a caravan fending off marauders.}
+#{255}{}{You encounter a caravan fending off wolves.}
+{255}{}{你遇到了一个大篷车挡着狼。 -- You encounter a caravan fending off wolves.}
+#{256}{}{You encounter a caravan fending off scorpions.}
+{256}{}{你遇到了一辆用来抵御蝎子的大篷车。 -- You encounter a caravan fending off scorpions.}
+#{257}{}{You encounter a caravan.}
+{257}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{258}{}{You encounter a caravan.}
+{258}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{259}{}{You encounter a caravan.}
+{259}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{260}{}{You encounter a caravan.}
+{260}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{261}{}{You encounter a traveler.}
+{261}{}{你遇到一个旅行者。 -- You encounter a traveler.}
+#{300}{}{You encounter remnants of the Master's army.}
+{300}{}{你遇到了大师军队的残余。 -- You encounter remnants of the Master's army.}
+#{301}{}{You encounter marauders.}
+{301}{}{你遇到掠夺者。 -- You encounter marauders.}
+#{302}{}{You encounter NCR Rangers battling remnants of the Master's army.}
+{302}{}{你会遇到NCR护林员在和主人军队的残余作战。 -- You encounter NCR Rangers battling remnants of the Master's army.}
+#{303}{}{You encounter NCR Rangers fighting marauders.}
+{303}{}{你会遇到NCR流浪者和掠夺者战斗。 -- You encounter NCR Rangers fighting marauders.}
+#{304}{}{You encounter farmers fending off remnants of the Master's army.}
+{304}{}{你会遇到农民们在抵挡主人军队的残余。 -- You encounter farmers fending off remnants of the Master's army.}
+#{305}{}{You encounter farmers fending off marauders.}
+{305}{}{你会遇到农民抵御掠夺者。 -- You encounter farmers fending off marauders.}
+#{306}{}{You encounter NCR Rangers.}
+{306}{}{你遇到了NCR护林员。 -- You encounter NCR Rangers.}
+#{307}{}{You encounter farmers.}
+{307}{}{你会遇到农民。 -- You encounter farmers.}
+#{350}{}{You encounter a slaver caravan.}
+{350}{}{你遇到一个奴隶商队。 -- You encounter a slaver caravan.}
+#{351}{}{You encounter highwaymen and robbers.}
+{351}{}{你会遇到强盗和强盗。 -- You encounter highwaymen and robbers.}
+#{352}{}{You encounter highwaymen.}
+{352}{}{你遇到了强盗。 -- You encounter highwaymen.}
+#{353}{}{You encounter robbers.}
+{353}{}{你遇到强盗。 -- You encounter robbers.}
+#{354}{}{You encounter a caravan fending off highwaymen.}
+{354}{}{你遇到一辆大篷车挡住了公路上的人。 -- You encounter a caravan fending off highwaymen.}
+#{355}{}{You encounter a caravan fighting robbers.}
+{355}{}{你遇到一个商队在和强盗搏斗。 -- You encounter a caravan fighting robbers.}
+#{356}{}{You encounter a caravan fighting highwaymen.}
+{356}{}{你遇到了一个商队在和强盗搏斗。 -- You encounter a caravan fighting highwaymen.}
+#{357}{}{You encounter a caravan besieged by robbers.}
+{357}{}{你遇到一个被强盗包围的商队。 -- You encounter a caravan besieged by robbers.}
+#{358}{}{You encounter a slave caravan fighting a caravan.}
+{358}{}{你遇到一个奴隶商队和一个商队战斗。 -- You encounter a slave caravan fighting a caravan.}
+#{359}{}{You encounter highwaymen fighting robbers.}
+{359}{}{你会遇到强盗和强盗搏斗。 -- You encounter highwaymen fighting robbers.}
+#{360}{}{You encounter a caravan.}
+{360}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{361}{}{You encounter a caravan.}
+{361}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{400}{}{You encounter highwaymen.}
+{400}{}{你遇到了强盗。 -- You encounter highwaymen.}
+#{401}{}{You encounter robbers.}
+{401}{}{你遇到强盗。 -- You encounter robbers.}
+#{402}{}{You encounter robbers and highwaymen.}
+{402}{}{你会遇到强盗和强盗。 -- You encounter robbers and highwaymen.}
+#{403}{}{You encounter golden geckos and scorpions.}
+{403}{}{你会遇到金壁虎和蝎子。 -- You encounter golden geckos and scorpions.}
+#{404}{}{You encounter golden geckos.}
+{404}{}{你会遇到金壁虎。 -- You encounter golden geckos.}
+#{405}{}{You encounter mole rats and pig rats.}
+{405}{}{你会遇到鼹鼠和猪鼠。 -- You encounter mole rats and pig rats.}
+#{406}{}{You encounter scorpions.}
+{406}{}{你会遇到蝎子。 -- You encounter scorpions.}
+#{407}{}{You encounter spore plants.}
+{407}{}{你会遇到孢子植物。 -- You encounter spore plants.}
+#{408}{}{You encounter robbers fighting highwaymen.}
+{408}{}{你遇到强盗和强盗搏斗。 -- You encounter robbers fighting highwaymen.}
+#{409}{}{You encounter a caravan fending off highwaymen.}
+{409}{}{你遇到一辆大篷车挡住了公路上的人。 -- You encounter a caravan fending off highwaymen.}
+#{410}{}{You encounter a caravan fending off robbers.}
+{410}{}{你遇到了一辆大篷车挡开了强盗。 -- You encounter a caravan fending off robbers.}
+#{411}{}{You encounter a caravan fending off scorpions.}
+{411}{}{你遇到了一辆用来抵御蝎子的大篷车。 -- You encounter a caravan fending off scorpions.}
+#{412}{}{You encounter geckos fighting scorpions.}
+{412}{}{你会遇到壁虎和蝎子搏斗。 -- You encounter geckos fighting scorpions.}
+#{413}{}{You encounter a caravan.}
+{413}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{450}{}{You encounter highwaymen and robbers.}
+{450}{}{你会遇到强盗和强盗。 -- You encounter highwaymen and robbers.}
+#{451}{}{You encounter highwaymen and geckos.}
+{451}{}{你会遇到强盗和壁虎。 -- You encounter highwaymen and geckos.}
+#{452}{}{You encounter golden geckos.}
+{452}{}{你会遇到金壁虎。 -- You encounter golden geckos.}
+#{453}{}{You encounter scorpions and spore plants.}
+{453}{}{你会遇到蝎子和孢子植物。 -- You encounter scorpions and spore plants.}
+#{454}{}{You encounter robbers fighting scorpions.}
+{454}{}{你会遇到强盗和蝎子搏斗。 -- You encounter robbers fighting scorpions.}
+#{455}{}{You encounter scorpions fighting robbers.}
+{455}{}{你会遇到蝎子和强盗搏斗。 -- You encounter scorpions fighting robbers.}
+#{456}{}{You encounter a caravan fending off highwaymen.}
+{456}{}{你遇到一辆大篷车挡住了公路上的人。 -- You encounter a caravan fending off highwaymen.}
+#{457}{}{You encounter a caravan fending off robbers.}
+{457}{}{你遇到了一辆大篷车挡开了强盗。 -- You encounter a caravan fending off robbers.}
+#{458}{}{You encounter some highwaymen weeding out some spore plants.}
+{458}{}{你遇到一些强盗在清除一些孢子植物。 -- You encounter some highwaymen weeding out some spore plants.}
+#{459}{}{You encounter a caravan.}
+{459}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{500}{}{You encounter highwaymen and wild dogs.}
+{500}{}{你会遇到强盗和野狗。 -- You encounter highwaymen and wild dogs.}
+#{501}{}{You encounter robbers and wild dogs.}
+{501}{}{你会遇到强盗和野狗。 -- You encounter robbers and wild dogs.}
+#{502}{}{You encounter robbers.}
+{502}{}{你遇到强盗。 -- You encounter robbers.}
+#{503}{}{You encounter highwaymen.}
+{503}{}{你遇到了强盗。 -- You encounter highwaymen.}
+#{504}{}{You encounter a swarm of mantis and some spore plants.}
+{504}{}{你会遇到一群螳螂和一些孢子植物。 -- You encounter a swarm of mantis and some spore plants.}
+#{505}{}{You encounter dogs and spore plants.}
+{505}{}{你会遇到狗和孢子植物。 -- You encounter dogs and spore plants.}
+#{506}{}{You encounter a swarm of mantis.}
+{506}{}{你遇到一群螳螂。 -- You encounter a swarm of mantis.}
+#{507}{}{You encounter wild dogs.}
+{507}{}{你会遇到野狗。 -- You encounter wild dogs.}
+#{508}{}{You encounter robbers fighting dogs.}
+{508}{}{你遇到强盗和狗搏斗。 -- You encounter robbers fighting dogs.}
+#{509}{}{You encounter a caravan fending off dogs.}
+{509}{}{你会遇到一辆大篷车挡着狗。 -- You encounter a caravan fending off dogs.}
+#{510}{}{You encounter a caravan fending off robbers.}
+{510}{}{你遇到了一辆大篷车挡开了强盗。 -- You encounter a caravan fending off robbers.}
+#{511}{}{You encounter a caravan fending off highwaymen.}
+{511}{}{你遇到一辆大篷车挡住了公路上的人。 -- You encounter a caravan fending off highwaymen.}
+#{512}{}{You encounter a caravan.}
+{512}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{550}{}{You encounter geckos and wolves.}
+{550}{}{你会遇到壁虎和狼。 -- You encounter geckos and wolves.}
+#{551}{}{You encounter claim jumpers.}
+{551}{}{你遇到了索赔跳跃者。 -- You encounter claim jumpers.}
+#{552}{}{You encounter wolves.}
+{552}{}{你会遇到狼。 -- You encounter wolves.}
+#{553}{}{You encounter golden geckos.}
+{553}{}{你会遇到金壁虎。 -- You encounter golden geckos.}
+#{554}{}{You encounter prospectors fending off claim jumpers.}
+{554}{}{你会遇到探矿者挡开索赔者。 -- You encounter prospectors fending off claim jumpers.}
+#{555}{}{You encounter trappers hunting geckos.}
+{555}{}{你会遇到捕猎壁虎的捕猎者。 -- You encounter trappers hunting geckos.}
+#{556}{}{You encounter bootleggers fighting wolves.}
+{556}{}{你会遇到与狼搏斗的走私犯。 -- You encounter bootleggers fighting wolves.}
+#{557}{}{You encounter homesteaders fighting claim jumpers}
+{557}{}{你会遇到宅基地居民和索赔跳跃者打架 -- You encounter homesteaders fighting claim jumpers}
+#{558}{}{You encounter homesteaders fighting wolves.}
+{558}{}{你遇到了与狼搏斗的农夫。 -- You encounter homesteaders fighting wolves.}
+#{559}{}{You encounter bootleggers.}
+{559}{}{你遇到了走私犯。 -- You encounter bootleggers.}
+#{560}{}{You encounter trappers.}
+{560}{}{你会遇到陷阱。 -- You encounter trappers.}
+#{561}{}{You encounter prospectors.}
+{561}{}{你会遇到探矿者。 -- You encounter prospectors.}
+#{600}{}{You encounter deathclaws.}
+{600}{}{你会遇到死亡之爪。 -- You encounter deathclaws.}
+#{601}{}{You encounter fire geckos.}
+{601}{}{你会遇到火壁虎。 -- You encounter fire geckos.}
+#{602}{}{You encounter a caravan fleeing from deathclaws.}
+{602}{}{你遇到了一个从死亡之爪逃跑的商队。 -- You encounter a caravan fleeing from deathclaws.}
+#{603}{}{You encounter a caravan fighting deathclaws.}
+{603}{}{你遇到一个商队在与死亡之爪搏斗。 -- You encounter a caravan fighting deathclaws.}
+#{604}{}{You encounter a caravan fighting fire geckos.}
+{604}{}{你遇到一个商队在灭火壁虎。 -- You encounter a caravan fighting fire geckos.}
+#{605}{}{You encounter a caravan fighting fire geckos.}
+{605}{}{你遇到一个商队在灭火壁虎。 -- You encounter a caravan fighting fire geckos.}
+#{606}{}{You encounter a caravan.}
+{606}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{607}{}{You encounter a caravan.}
+{607}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{608}{}{You encounter a caravan.}
+{608}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{609}{}{You encounter a caravan.}
+{609}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{650}{}{You encounter aliens and deathclaws.}
+{650}{}{你会遇到外星人和死爪。 -- You encounter aliens and deathclaws.}
+#{651}{}{You encounter centaurs and floaters.}
+{651}{}{你会遇到半人马和漂浮者。 -- You encounter centaurs and floaters.}
+#{652}{}{You encounter fire geckos.}
+{652}{}{你会遇到火壁虎。 -- You encounter fire geckos.}
+#{653}{}{You encounter aliens.}
+{653}{}{你会遇到外星人。 -- You encounter aliens.}
+#{654}{}{You encounter deathclaws.}
+{654}{}{你会遇到死亡之爪。 -- You encounter deathclaws.}
+#{655}{}{You encounter fire geckos.}
+{655}{}{你会遇到火壁虎。 -- You encounter fire geckos.}
+#{656}{}{You encounter aliens.}
+{656}{}{你会遇到外星人。 -- You encounter aliens.}
+#{657}{}{You encounter centaurs.}
+{657}{}{你会遇到半人马。 -- You encounter centaurs.}
+#{658}{}{You encounter floaters.}
+{658}{}{你会遇到漂浮物。 -- You encounter floaters.}
+#{700}{}{You encounter some Yakuza.}
+{700}{}{你遇到了黑帮。 -- You encounter some Yakuza.}
+#{701}{}{You encounter a gang.}
+{701}{}{你遇到一帮人。 -- You encounter a gang.}
+#{702}{}{You encounter some wolves.}
+{702}{}{你遇到一些狼。 -- You encounter some wolves.}
+#{703}{}{You encounter some mobsters fighting some Yakuza.}
+{703}{}{你会遇到一些黑帮分子和黑帮搏斗。 -- You encounter some mobsters fighting some Yakuza.}
+#{704}{}{You encounter some mobsters fighting a gang.}
+{704}{}{你会遇到一些黑帮分子和帮派斗争。 -- You encounter some mobsters fighting a gang.}
+#{705}{}{You encounter some mobsters.}
+{705}{}{你遇到了一些暴徒。 -- You encounter some mobsters.}
+#{706}{}{You encounter a traveler.}
+{706}{}{你遇到一个旅行者。 -- You encounter a traveler.}
+#{750}{}{You encounter a caravan fending off remnants of the Master's army.}
+{750}{}{你遇到了一辆大篷车，挡住了主人军队的残余。 -- You encounter a caravan fending off remnants of the Master's army.}
+#{751}{}{You encounter a caravan fighting remnants of the master's army.}
+{751}{}{你遇到了一个商队在与主人军队的残余战斗。 -- You encounter a caravan fighting remnants of the master's army.}
+#{752}{}{You encounter a caravan fighting deathclaws.}
+{752}{}{你遇到一个商队在与死亡之爪搏斗。 -- You encounter a caravan fighting deathclaws.}
+#{753}{}{You encounter a caravan.}
+{753}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{754}{}{You encounter a caravan.}
+{754}{}{你遇到一辆大篷车。 -- You encounter a caravan.}
+#{755}{}{You encounter a caravan.}
+{755}{}{你遇到一辆大篷车。 -- You encounter a caravan.}

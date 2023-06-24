@@ -1,0 +1,22 @@
+#{100}{}{This is the dripping tap.}
+{100}{}{这是滴水的水龙头。 -- This is the dripping tap.}
+#{101}{}{You see an ordinary sink. Drops of water are rarely falling from the tap, and looking at them you somehow want to sing.}
+{101}{}{你看到一个普通的水槽。很少有水滴从水龙头上掉下来，看着它们，你不知怎的想唱歌。 -- You see an ordinary sink. Drops of water are rarely falling from the tap, and looking at them you somehow want to sing.}
+#{102}{}{The water is out!}
+{102}{}{水出来了！ -- The water is out!}
+#{103}{}{As expected, you just turn the tap and gather a flask of pure water.}
+{103}{}{正如所料，你只需打开水龙头，收集一瓶纯净水。 -- As expected, you just turn the tap and gather a flask of pure water.}
+#{104}{}{After rigorous scientific analysis, you have come to the conclusion that you just need to turn the tap and fill the flask with water.}
+{104}{}{经过严格的科学分析，你得出的结论是，你只需要打开水龙头，把烧瓶装满水。 -- After rigorous scientific analysis, you have come to the conclusion that you just need to turn the tap and fill the flask with water.}
+#{105}{}{You quietly turn the tap on and gather a flask of water, like you are about to be captured for something bad.}
+{105}{}{你悄悄地打开水龙头，收集一瓶水，就像你要被抓去做坏事一样。 -- You quietly turn the tap on and gather a flask of water, like you are about to be captured for something bad.}
+#{106}{}{Demonstrating the wonders of lockpicking, you turn the tap and get the flask of water, although you can just turn the damn valve.}
+{106}{}{为了展示开锁的神奇，你只需打开水龙头就可以得到一瓶水，尽管你只需打开该死的阀门。 -- Demonstrating the wonders of lockpicking, you turn the tap and get the flask of water, although you can just turn the damn valve.}
+#{107}{}{Well, what the hell do you want from an ordinary sink?!}
+{107}{}{你到底想从一个普通的水槽里得到什么？！ -- Well, what the hell do you want from an ordinary sink?!}
+#{110}{}{Hey, that tap is leaking! Boo- hoo!}
+{110}{}{嘿，水龙头漏水了！呜呜！ -- Hey, that tap is leaking! Boo- hoo!}
+#{111}{}{Pure water is flowing in this tap, with virtually no restrictions on the amount.}
+{111}{}{纯水在这个水龙头里流动，几乎不受水量的限制。 -- Pure water is flowing in this tap, with virtually no restrictions on the amount.}
+#{112}{}{You gain a full flask of clean water.}
+{112}{}{你得到一瓶干净的水。 -- You gain a full flask of clean water.}

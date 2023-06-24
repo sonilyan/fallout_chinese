@@ -1,0 +1,28 @@
+#{100}{}{You see a security console.}
+{100}{}{你会看到一个安全控制台。}
+#{101}{}{You see a plant's security system remote command input console.}
+{101}{}{你可以看到一个工厂的安全系统远程命令输入控制台。}
+#{102}{}{You'll have to use a scientific approach to activate the console.}
+{102}{}{你必须用科学的方法来激活控制台。}
+#{103}{}{You have already disabled security system.}
+{103}{}{您已经禁用了安全系统。}
+#{104}{}{No go}
+{104}{}{不行}
+#{105}{}{You have hacked and disabled the security system.}
+{105}{}{你已经侵入并禁用了安全系统。}
+#{106}{}{Your scientific knowledge is insufficient to hack this console.}
+{106}{}{你的科学知识不足以破解这个游戏机。}
+#{107}{}{Can't do it}
+{107}{}{我做不到}
+#{108}{}{That's better!}
+{108}{}{这样更好！}
+#{109}{}{You failed to hack the security system this time.}
+{109}{}{你这次没能破解安全系统。}
+#{110}{}{Failure}
+{110}{}{失败}
+#{111}{}{}
+{111}{}{}
+#{112}{}{Security system does not respond.}
+{112}{}{安全系统没有响应。}
+#{113}{}{No signal}
+{113}{}{无信号}

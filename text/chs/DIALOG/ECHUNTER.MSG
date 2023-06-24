@@ -1,0 +1,16 @@
+#{100}{}{You see a hunter.}
+{100}{}{你看到一个猎人。}
+#{101}{}{May every traveler find the sun shining in his back!}
+{101}{}{愿每一个旅行者都能发现阳光照耀在他的背上！}
+#{102}{}{What are you looking for in this parts?}
+{102}{}{你在这里找什么？}
+#{103}{}{Our ways separate, child of wondering.}
+{103}{}{我们分道扬镳，好奇的孩子。}
+#{104}{}{May your travels be without pain.}
+{104}{}{愿你的旅行没有痛苦。}
+#{105}{}{May the strength of the Wasteland Spirit be with you!}
+{105}{}{愿荒原精神的力量与你同在！}
+#{106}{}{Don't drink from the creek.}
+{106}{}{别喝小溪里的水。}
+#{107}{}{Our spirits don�t speak to you.}
+{107}{}{我们的灵魂不会和你说话。}

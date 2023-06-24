@@ -1,0 +1,4 @@
+#{100}{}{Looks like you found the Salt Lake city's source of contagion. Most of the sewage is dumped here, and the Nuka-Cola plant waste apparently constitutes most part of it.}
+{100}{}{看来你找到了盐湖城的传染源。大部分污水都倾倒在这里，努卡可乐厂的垃圾显然是其中的大部分。 -- Looks like you found the Salt Lake city's source of contagion. Most of the sewage is dumped here, and the Nuka-Cola plant waste apparently constitutes most part of it.}
+#{101}{}{So that's where disease spreads over Salt Lake City from!}
+{101}{}{所以这就是疾病从盐湖城蔓延的地方！ -- So that's where disease spreads over Salt Lake City from!}

@@ -1,0 +1,94 @@
+#{100}{}{You see computer.}
+{100}{}{你看电脑。}
+#{101}{}{You see a powerful security service's computer.}
+{101}{}{你会看到一个强大的安全部门的电脑。}
+#{102}{}{You see security service computer.}
+{102}{}{你看到安全服务计算机。}
+#{103}{}{[Cancel]}
+{103}{}{[取消]}
+#{104}{}{[Next]}
+{104}{}{[下一步]}
+#{105}{}{Hm... Self-destruct protocol - what's this?}
+{105}{}{嗯。。。自毁协议-这是什么？}
+#{109}{}{Like you expected, this command should lead to hangar's self-destruction, along with the underlying underground levels. The command activates a nuclear warhead with a plutonium charge with the capacity of 0.3 kilotons, which is securely immured in the lower levels. If you activate it, you will have to run like hell to avoid being hit by a blast wave.}
+{109}{}{如你所料，这个命令会导致机库的自毁，以及地下的底层。该司令部激活了一个装钚量为0.3千吨的核弹头，该核弹头在较低的水平上安全地被免疫。如果你激活它，你将不得不拼命地跑，以避免被冲击波击中。}
+#{110}{}{Try to break into the system and activate the protocol.}
+{110}{}{尝试闯入系统并激活协议。}
+#{111}{}{[Leave this section]}
+{111}{}{[离开本节]}
+#{112}{}{To crack this protection system, you have to be almost a computer genius. This is clearly beyond your skill.}
+{112}{}{要破解这个保护系统，你必须是个电脑天才。这显然超出了你的能力。}
+#{113}{}{}
+{113}{}{}
+#{114}{}{You find a way to circumvent the protection system and activate the hangar's self-destruct protocol.}
+{114}{}{你想办法绕过保护系统启动机库的自毁程序。}
+#{115}{}{Well, it's time to do it!}
+{115}{}{好吧，是时候做了！}
+#{116}{}{No way, leave this thing as it is.}
+{116}{}{不行，就这样吧。}
+#{117}{}{Select the time delay for the protocol activation.}
+{117}{}{选择协议激活的时间延迟。}
+#{119}{}{You set the time and boldly press the red button. It's time to think about your future, if you don't want to become part of the background radiation...}
+{119}{}{你设定了时间，大胆地按了红色按钮。是时候想想你的未来了，如果你不想成为背景辐射的一部分。。。}
+#{120}{}{[Run like hell]}
+{120}{}{[拼命跑]}
+#{121}{}{1 minute.}
+{121}{}{1分钟。}
+#{122}{}{2 minutes.}
+{122}{}{2分钟。}
+#{123}{}{3 minutes.}
+{123}{}{3分钟。}
+#{124}{}{4 minutes.}
+{124}{}{4分钟。}
+#{125}{}{5 minutes.}
+{125}{}{5分钟。}
+#{126}{}{Refuse to activate and leave.}
+{126}{}{拒绝激活并离开。}
+#{127}{}{[Return to main menu]}
+{127}{}{[返回主菜单]}
+#{128}{}{Cancel. Return to main menu.}
+{128}{}{取消。返回主菜单。}
+#{129}{}{You find the assembly schematics. However, the process looks too intricate for you, so without special knowledge in the field of subversive matters these schemes won't help you.}
+{129}{}{你可以找到装配图。然而，这个过程对你来说太复杂了，所以如果没有颠覆性事件领域的专门知识，这些计划对你不会有帮助。}
+#{131}{}{Doesn't work}
+{131}{}{不起作用}
+#{132}{}{Terminal is offline.}
+{132}{}{终端脱机。}
+#{200}{}{Examine the turret operational program.}
+{200}{}{检查炮塔操作程序。}
+#{201}{}{Run the turret operational program.}
+{201}{}{运行炮塔操作程序。}
+#{202}{}{Return to main menu.}
+{202}{}{返回主菜单。}
+#{203}{}{Shut down.}
+{203}{}{关闭。}
+#{204}{}{It seems the program doesn't work.}
+{204}{}{似乎这个程序不起作用。}
+#{205}{}{Search for reports.}
+{205}{}{搜索报告。}
+#{206}{}{The computer has an unfinished bug report, but no clear algorithm for fixing the program is found.}
+{206}{}{计算机有一个未完成的错误报告，但没有找到修复程序的明确算法。}
+#{207}{}{Look into the source code.}
+{207}{}{查看源代码。}
+#{208}{}{It's too difficult for you.}
+{208}{}{对你来说太难了。}
+#{209}{}{Spending six hours on analyzing the code, you find that the error was in a cyclic subroutine checking the signal variables of the turrets. But since the signal and the cycle were out of sync, the program took it as a malfunction in computer and restarted. You could reset the cycle to get rid of this problem and to make the program working again.}
+{209}{}{花六个小时分析代码，你会发现错误是在一个循环子程序检查信号变量的炮塔。但由于信号和循环不同步，程序将其视为计算机故障并重新启动。您可以重新设置周期以解决此问题并使程序重新工作。}
+#{210}{}{Rewrite the code to complete extermination of aliens, then recompile.}
+{210}{}{重写代码以完成外星人的灭绝，然后重新编译。}
+#{211}{}{Ready. Start the program?}
+{211}{}{准备好了。启动程序？}
+#{212}{}{Yes.}
+{212}{}{对。}
+#{213}{}{No, leave it offline.}
+{213}{}{不，让它离线。}
+#{214}{}{Ready! Program started. On the surveillance monitors, you see how the turrets shoot aliens crawling behind the walls of the hangar.}
+{214}{}{准备好了！程序已启动。在监控监视器上，你可以看到炮塔是如何射杀爬在机库墙后的外星人的。}
+#{215}{}{Not with you intelligence.}
+{215}{}{不是你的智慧。}
+#{216}{}{With your education here is *absolutely* nothing to do.}
+{216}{}{你在这里受的教育绝对是无济于事的。}
+#{217}{}{If you were more educated, perhaps you could've read the code.}
+{217}{}{如果你受过更多的教育，也许你能读懂密码。}
+#{218}{}{Perhaps you could've understand the code if you were more educated.}
+{218}{}{如果你受过更多的教育，也许你能理解代码。}

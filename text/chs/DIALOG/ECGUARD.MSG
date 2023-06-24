@@ -1,0 +1,22 @@
+#{100}{}{You see a scarred traveler.}
+{100}{}{你看到一个伤痕累累的旅行者。}
+#{101}{}{You see the merchant's guard.}
+{101}{}{你看到商人的守卫了。}
+#{200}{}{No drawn weapons near the boss.}
+{200}{}{在老大附近禁止携带武器。}
+#{201}{}{No one comes to the boss armed.}
+{201}{}{没有人持枪来找老板。}
+#{202}{}{Put your weapon away before we shoot you.}
+{202}{}{在我们开枪之前把你的武器收起来。}
+#{203}{}{Put 'em away or get away.}
+{203}{}{把它们收起来或者走开。}
+#{250}{}{You were warned - now you will pay.}
+{250}{}{你被警告了-现在你要付出代价。}
+#{300}{}{Talk to the boss, he'll set you up right.}
+{300}{}{跟老板说，他会给你安排好的。}
+#{301}{}{I take my job seriously. Mess with the boss, and you die.}
+{301}{}{我认真对待我的工作。和老板乱搞，你就死定了。}
+#{302}{}{The boss is a good guy for the most part.}
+{302}{}{老板在很大程度上是个好人。}
+#{303}{}{Don't even think of stealing from the boss.}
+{303}{}{别想偷老板的东西。}

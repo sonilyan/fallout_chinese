@@ -1,0 +1,14 @@
+#{100}{}{You see a terminal.}
+{100}{}{你看到一个终端。 -- You see a terminal.}
+#{101}{}{This terminal is responsible for the operation of all subsystems of the sump.}
+{101}{}{该终端负责油底壳所有子系统的运行。 -- This terminal is responsible for the operation of all subsystems of the sump.}
+#{102}{}{}
+{102}{}{ -- }
+#{103}{}{This terminal is now useless.}
+{103}{}{这个终端现在没用了。 -- This terminal is now useless.}
+#{106}{}{The floodgates: closed. Pressure: normal. Emergency drain terminal: locked.}
+{106}{}{闸门：关闭。压力：正常。紧急排水终端：锁定。 -- The floodgates: closed. Pressure: normal. Emergency drain terminal: locked.}
+#{107}{}{Emergency drain terminal? This is probably the one that hangs in front. No thanks, it�s easier from here. Now - open the floodgates!}
+{107}{}{紧急排水终端？这可能就是挂在前面的那个。不用了，谢谢，从这里开始容易多了。现在-打开闸门！ -- Emergency drain terminal? This is probably the one that hangs in front. No thanks, it�s easier from here. Now - open the floodgates!}
+#{108}{}{[Leave]}
+{108}{}{[离开] -- [Leave]}

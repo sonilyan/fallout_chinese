@@ -1,0 +1,34 @@
+#{100}{}{You see a robot.}
+{100}{}{你看到一个机器人。 -- You see a robot.}
+#{101}{}{You see a robot. You got a hunch that it might be hostile.}
+{101}{}{你看到一个机器人。你有预感那可能是敌对的。 -- You see a robot. You got a hunch that it might be hostile.}
+#{102}{}{Welcome}
+{102}{}{欢迎光临 -- Welcome}
+#{110}{}{Alarm! Trespasser spotted!}
+{110}{}{警报！发现入侵者！ -- Alarm! Trespasser spotted!}
+#{111}{}{Activate security system!}
+{111}{}{启动安全系统！ -- Activate security system!}
+#{112}{}{Received command to eliminate trespassers! Engaging.}
+{112}{}{收到了消灭非法闯入者的命令！迷人的。 -- Received command to eliminate trespassers! Engaging.}
+#{120}{}{Welcome to "Poseidon Oil" Power Plant! Please do not disrupt public order and keep facility grounds clean.}
+{120}{}{欢迎来到“波塞冬石油”发电厂！请勿扰乱公共秩序，保持设施场地清洁。 -- Welcome to "Poseidon Oil" Power Plant! Please do not disrupt public order and keep facility grounds clean.}
+#{121}{}{We apologize for any further inconvenience. We hope no such incident occurs again.}
+{121}{}{对于由此带来的不便，我们深表歉意。我们希望不会再发生这样的事件。 -- We apologize for any further inconvenience. We hope no such incident occurs again.}
+#{122}{}{Welcome, visitor.}
+{122}{}{欢迎光临，客人。 -- Welcome, visitor.}
+#{123}{}{Welcome, visitor. We are always glad to see you.}
+{123}{}{欢迎光临，客人。我们总是很高兴见到你。 -- Welcome, visitor. We are always glad to see you.}
+#{130}{}{Robot disabled.}
+{130}{}{机器人已禁用。 -- Robot disabled.}
+#{131}{}{This one is done for}
+{131}{}{这一个已经完成了 -- This one is done for}
+#{132}{}{You fail to make sense of the robot's systems and only draw unwanted attention.}
+{132}{}{你无法理解机器人的系统，只会引起不必要的注意。 -- You fail to make sense of the robot's systems and only draw unwanted attention.}
+#{133}{}{Unauthorized personnel shouldn't do this}
+{133}{}{未经授权的人员不应该这样做 -- Unauthorized personnel shouldn't do this}
+#{134}{}{Don't make me use force}
+{134}{}{别逼我用武力 -- Don't make me use force}
+#{135}{}{Trespasser detected! Eliminate immediately!}
+{135}{}{检测到非法闯入者！立即消除！ -- Trespasser detected! Eliminate immediately!}
+#{136}{}{You lack the repair skill to successfully disable the robot.}
+{136}{}{你缺乏修复技能，无法成功禁用机器人。 -- You lack the repair skill to successfully disable the robot.}

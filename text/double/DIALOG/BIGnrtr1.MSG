@@ -1,0 +1,16 @@
+#{100}{}{You see a generator.}
+{100}{}{你看到一个发电机。 -- You see a generator.}
+#{101}{}{The generator is in power saving mode. You can restore normal mode for a short time.}
+{101}{}{发电机处于节电模式。您可以在短时间内恢复正常模式。 -- The generator is in power saving mode. You can restore normal mode for a short time.}
+#{102}{}{The generator is operational and power supply is restored.}
+{102}{}{发电机运行，电源恢复。 -- The generator is operational and power supply is restored.}
+#{103}{}{Watts Electronics generators uses a different power source.}
+{103}{}{美国瓦茨电子公司的发电机使用不同的电源。 -- Watts Electronics generators uses a different power source.}
+#{104}{}{Generator is operational.}
+{104}{}{发电机运行。 -- Generator is operational.}
+#{105}{}{You restore the generator's operating mode. The radar station power supply is restored.}
+{105}{}{恢复发电机的工作模式。雷达站电源恢复。 -- You restore the generator's operating mode. The radar station power supply is restored.}
+#{106}{}{Done}
+{106}{}{多恩 -- Done}
+#{107}{}{This is no longer required.}
+{107}{}{这不再是必需的。 -- This is no longer required.}

@@ -1,0 +1,10 @@
+#{100}{}{You see }
+{100}{}{你看 -- You see }
+#{101}{}{You see }
+{101}{}{你看 -- You see }
+#{102}{}{You shortened the wires and the turret burned out.}
+{102}{}{你缩短了电线，炮塔烧坏了。 -- You shortened the wires and the turret burned out.}
+#{103}{}{You are unable to understand such a complex system.}
+{103}{}{你无法理解如此复杂的系统。 -- You are unable to understand such a complex system.}
+#{104}{}{You can't do this in combat!}
+{104}{}{你不能在战斗中这样做！ -- You can't do this in combat!}

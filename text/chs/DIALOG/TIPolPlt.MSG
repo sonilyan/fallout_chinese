@@ -1,0 +1,12 @@
+#{100}{}{Nothing happens}
+{100}{}{什么都没发生}
+#{101}{}{The remote doesn't work from here.}
+{101}{}{遥控器在这里坏了。}
+#{102}{}{No luck}
+{102}{}{不走运}
+#{103}{}{The signal didn't come through, move closer to the field generator.}
+{103}{}{信号没有通过，靠近磁场发生器。}
+#{104}{}{Done}
+{104}{}{多恩}
+#{105}{}{The remote worked.}
+{105}{}{遥控器工作了。}

@@ -1,0 +1,4 @@
+#{100}{}{You see the gecko-toki.}
+{100}{}{你看到东京壁虎了。 -- You see the gecko-toki.}
+#{101}{}{You see toki, running like crazy.}
+{101}{}{你看东京，疯狂地跑。 -- You see toki, running like crazy.}

@@ -1,0 +1,4 @@
+#{100}{}{You see... An executor!}
+{100}{}{你看。。。遗嘱执行人！ -- You see... An executor!}
+#{101}{}{You see a huge guy with a bag on his head and in a dirty apron. In some other circumstances, he could be taken for a butcher, but this time he's an executor.}
+{101}{}{你看到一个头上戴着包，围着脏围裙的大个子。在其他一些情况下，他可能会被当成屠夫，但这次他是一个遗嘱执行人。 -- You see a huge guy with a bag on his head and in a dirty apron. In some other circumstances, he could be taken for a butcher, but this time he's an executor.}

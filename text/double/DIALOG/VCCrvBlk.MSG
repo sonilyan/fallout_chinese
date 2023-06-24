@@ -1,0 +1,96 @@
+#{100}{}{You see a suspicious caravan merchant.}
+{100}{}{你看到一个可疑的商队商人。 -- You see a suspicious caravan merchant.}
+#{101}{}{One of many caravan merchants. You would not be able to separate him from others, if not for his shady looks.}
+{101}{}{商队商人。如果不是他阴暗的外表，你就无法把他和别人分开。 -- One of many caravan merchants. You would not be able to separate him from others, if not for his shady looks.}
+#{102}{}{Piss off!}
+{102}{}{滚开！ -- Piss off!}
+#{110}{}{Hey, pal, this is *our* parking spot. Walk around somewhere else, away from our wagons.}
+{110}{}{嘿，伙计，这是我们的停车位。去别的地方走走，远离我们的马车。 -- Hey, pal, this is *our* parking spot. Walk around somewhere else, away from our wagons.}
+#{111}{}{Do you own the place? Come on - prove it, that it�s *yours*!}
+{111}{}{这地方是你的吗？来吧-证明它是你的！ -- Do you own the place? Come on - prove it, that it�s *yours*!}
+#{112}{}{You are that "black" ones, are you? I need it... You understand? Very badly! Only one dose!}
+{112}{}{你就是那个“黑人”吧？我需要它。。。你明白吗？非常糟糕！只有一剂！ -- You are that "black" ones, are you? I need it... You understand? Very badly! Only one dose!}
+#{113}{}{Okay! Show me, where the laboratory is! Faster!}
+{113}{}{可以！告诉我，实验室在哪里！快点！ -- Okay! Show me, where the laboratory is! Faster!}
+#{114}{}{Fine, I�ll go someplace else.}
+{114}{}{好吧，我去别的地方。 -- Fine, I�ll go someplace else.}
+#{115}{}{Keep it down, cop. It�s in your interest, I warn you.}
+{115}{}{小声点，警察。我警告你，这符合你的利益。 -- Keep it down, cop. It�s in your interest, I warn you.}
+#{116}{}{You bad at running your mouth, pal, let me correct that jaw of yours!}
+{116}{}{你嘴巴不好，伙计，让我纠正你的下巴！ -- You bad at running your mouth, pal, let me correct that jaw of yours!}
+#{117}{}{Woo, so scary. Fine, I will let it slide... For now.}
+{117}{}{哇，太吓人了。好吧，我就让它溜走。。。现在。 -- Woo, so scary. Fine, I will let it slide... For now.}
+#{118}{}{Just one? Not interested. There, near "Hard Rock", there is one guy. Perhaps, he can help.}
+{118}{}{就一个？不感兴趣。在“硬岩”附近，有一个人。也许，他能帮上忙。 -- Just one? Not interested. There, near "Hard Rock", there is one guy. Perhaps, he can help.}
+#{119}{}{Just one? Not interested.}
+{119}{}{就一个？不感兴趣。 -- Just one? Not interested.}
+#{120}{}{You, as it seem, confessed. It�s time to punish you. Right now! [Attack]}
+{120}{}{你，看起来，承认了。是惩罚你的时候了。马上！[攻击] -- You, as it seem, confessed. It�s time to punish you. Right now! [Attack]}
+#{121}{}{Well, don�t you see, I�m in bad shape?! Just one dose! I�ll pay!}
+{121}{}{好吧，你没看到吗，我身体不好？！就一剂！我会付钱的！ -- Well, don�t you see, I�m in bad shape?! Just one dose! I�ll pay!}
+#{122}{}{Then I�ll go look somewhere else.}
+{122}{}{那我就去别的地方看看。 -- Then I�ll go look somewhere else.}
+#{123}{}{I told you - it�s your problem! I don�t deal with junkies, do you understand?!}
+{123}{}{我告诉过你-这是你的问题！我不跟瘾君子打交道，你明白吗？！ -- I told you - it�s your problem! I don�t deal with junkies, do you understand?!}
+#{124}{}{Junkie?! Me? I will fuck you up for this!}
+{124}{}{瘾君子？！我？我会为此把你搞砸的！ -- Junkie?! Me? I will fuck you up for this!}
+#{125}{}{I got it, sorry.}
+{125}{}{我知道了，对不起。 -- I got it, sorry.}
+#{126}{}{Look at him, we have a fighter here! keep it down, gorilla, you�re not alone in here.}
+{126}{}{看看他，我们这里有个战士！小声点，大猩猩，这里不止你一个人。 -- Look at him, we have a fighter here! keep it down, gorilla, you�re not alone in here.}
+#{127}{}{I won�t keep it down, unless you tell me! Go on, spit it out, pal!}
+{127}{}{除非你告诉我，否则我不会小声点的！快，吐出来，伙计！ -- I won�t keep it down, unless you tell me! Go on, spit it out, pal!}
+#{128}{}{Grmm, whatever you say... Baboon.}
+{128}{}{嗯，不管你说什么。。。狒狒。 -- Grmm, whatever you say... Baboon.}
+#{129}{}{Okay, one more word and even fellow caravaneers won�t save you.}
+{129}{}{好吧，再说一句话，连商队的同伴都救不了你。 -- Okay, one more word and even fellow caravaneers won�t save you.}
+#{130}{}{Ooh, how scary! And who will strike first? Maybe, you?}
+{130}{}{哦，好可怕！谁先动手？也许吧，你呢？ -- Ooh, how scary! And who will strike first? Maybe, you?}
+#{131}{}{Shit, you convinced me, I should be more careful. Bye.}
+{131}{}{妈的，你说服我了，我应该小心点。再见。 -- Shit, you convinced me, I should be more careful. Bye.}
+#{132}{}{You get nothing, you monkey, nothing! NO-THI-NG!}
+{132}{}{你什么都得不到，你这个猴子，什么都得不到！别这样！ -- You get nothing, you monkey, nothing! NO-THI-NG!}
+#{133}{}{Why is that? Maybe, I want to work there?}
+{133}{}{为什么？也许，我想在那里工作？ -- Why is that? Maybe, I want to work there?}
+#{134}{}{Nothing? Okay, I'll look somewhere else then.}
+{134}{}{没有什么？好吧，那我去别的地方看看。 -- Nothing? Okay, I'll look somewhere else then.}
+#{135}{}{Because for such kind of work, people are specifically found. Nobody wants you there.}
+{135}{}{因为这样的工作，人是专门找来的。没人要你去。 -- Because for such kind of work, people are specifically found. Nobody wants you there.}
+#{136}{}{And I'll still come and knock at the gate.}
+{136}{}{我还是会来敲门的。 -- And I'll still come and knock at the gate.}
+#{137}{}{Shame. Too bad.}
+{137}{}{羞愧。太糟糕了。 -- Shame. Too bad.}
+#{138}{}{...and you'll become a gecko breakfast. You'll be shot right at the entrance.}
+{138}{}{…你会变成壁虎早餐。你就在入口处被枪杀。 -- ...and you'll become a gecko breakfast. You'll be shot right at the entrance.}
+#{139}{}{Could you recommend me?}
+{139}{}{你能推荐我吗？ -- Could you recommend me?}
+#{140}{}{NO, idiot! Do you even understand, who are you speaking to? I drive caravans! to whom will I recommend you? To brahmin's ass?}
+{140}{}{不，白痴！你明白吗，你在和谁说话？我开大篷车！我向谁推荐你？给婆罗门的屁股？ -- NO, idiot! Do you even understand, who are you speaking to? I drive caravans! to whom will I recommend you? To brahmin's ass?}
+#{141}{}{Is this... A tricky proposition?}
+{141}{}{这是。。。一个棘手的提议？ -- Is this... A tricky proposition?}
+#{142}{}{NO, you monkey! This is a tricky warning. I transfer the goods, and I don�t give a shit about anything else. I�m not here to help you, got it?}
+{142}{}{不，你这个猴子！这是一个棘手的警告。我转移货物，其他的我都不在乎。我不是来帮你的，明白吗？ -- NO, you monkey! This is a tricky warning. I transfer the goods, and I don�t give a shit about anything else. I�m not here to help you, got it?}
+#{143}{}{Got it. And who can help me?}
+{143}{}{知道了。谁能帮我？ -- Got it. And who can help me?}
+#{144}{}{Oh, well then I will leave you alone.}
+{144}{}{哦，那我就不打扰你了。 -- Oh, well then I will leave you alone.}
+#{145}{}{You�re sick, right? I told you - my job is to transfer the goods, I don�t know anything else. Just fuck off.}
+{145}{}{你病了，对吧？我告诉过你-我的工作是转移货物，我什么都不知道。滚开。 -- You�re sick, right? I told you - my job is to transfer the goods, I don�t know anything else. Just fuck off.}
+#{146}{}{Ehh, not good.}
+{146}{}{呃，不太好。 -- Ehh, not good.}
+#{147}{}{Fuck, my fingers are itching for a trigger. I can solve this very fast - just shoot you in your stupid head. My partner will help me. But I don�t need attention. Go, fuck off. Don�t make this bad for both of us.}
+{147}{}{妈的，我的手指都想扣扳机了。我能很快解决这个问题-就朝你愚蠢的脑袋开枪。我的搭档会帮我的。但我不需要关注。快走，滚开。别让这件事对我们俩都不好。 -- Fuck, my fingers are itching for a trigger. I can solve this very fast - just shoot you in your stupid head. My partner will help me. But I don�t need attention. Go, fuck off. Don�t make this bad for both of us.}
+#{148}{}{...}
+{148}{}{... -- ...}
+#{1110}{}{Hey, gal, this is *our* parking spot. Walk around somewhere else, away from our wagons.}
+{1110}{}{嘿，姑娘，这是我们的停车位。去别的地方走走，远离我们的马车。 -- Hey, gal, this is *our* parking spot. Walk around somewhere else, away from our wagons.}
+#{1125}{}{I got it, sorry.}
+{1125}{}{我知道了，对不起。 -- I got it, sorry.}
+#{1126}{}{Look at her, we have a fighter here! keep it down, gorilla, you�re not alone in here.}
+{1126}{}{看看她，我们这里有个斗士！小声点，大猩猩，这里不止你一个人。 -- Look at her, we have a fighter here! keep it down, gorilla, you�re not alone in here.}
+#{1140}{}{NO, you idiot! Do you even understand, who are you speaking to? I drive caravans! Where will I recommend you? In brahmin ass?}
+{1140}{}{不，你这个白痴！你明白吗，你在和谁说话？我开大篷车！我推荐你去哪里？在婆罗门屁股里？ -- NO, you idiot! Do you even understand, who are you speaking to? I drive caravans! Where will I recommend you? In brahmin ass?}
+#{1142}{}{NO, you monkey! This is a trick warning. I transfer the goods, and I don�t give a fuck about anything else. I�m not here to help you, got it?}
+{1142}{}{不，你这个猴子！这是一个诡计警告。我转移货物，我不在乎其他任何事。我不是来帮你的，明白吗？ -- NO, you monkey! This is a trick warning. I transfer the goods, and I don�t give a fuck about anything else. I�m not here to help you, got it?}
+#{1145}{}{You�re sick, right? I told you - my job is to transfer the goods, I don�t know anything else. So just fuck off.}
+{1145}{}{你病了，对吧？我告诉过你-我的工作是转移货物，我什么都不知道。所以滚开。 -- You�re sick, right? I told you - my job is to transfer the goods, I don�t know anything else. So just fuck off.}

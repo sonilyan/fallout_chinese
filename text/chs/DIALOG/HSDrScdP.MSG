@@ -1,0 +1,18 @@
+#{100}{}{Warehouse door.}
+{100}{}{仓库门。}
+#{101}{}{It's a huge metal door leading into the warehouse.}
+{101}{}{一扇巨大的金属门通向仓库。}
+#{102}{}{Looks like the door's blocked from the other side. Can't be opened from here.}
+{102}{}{看起来门从另一边堵住了。不能从这里打开。}
+#{103}{}{Even this strong a blow does not make the door budge.}
+{103}{}{即使如此猛烈的一击也不能使门动起来。}
+#{104}{}{The door is jammed from the inside, it can't be opened from here.}
+{104}{}{门从里面卡住了，从这里开不开。}
+#{105}{}{Jammed from the inside}
+{105}{}{从里面卡住了}
+#{106}{}{With great effort you finally manage to pry open the door.}
+{106}{}{你费了很大劲终于撬开了门。}
+#{107}{}{The door is jammed for good now, it's not going to open.}
+{107}{}{门现在永远卡住了，打不开了。}
+#{108}{}{The door doesn't give way}
+{108}{}{门不开}

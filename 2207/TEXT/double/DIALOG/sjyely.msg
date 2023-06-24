@@ -1,0 +1,182 @@
+#############################################################
+#????????? ???? ??? ???????? << ??????? (????) >> 
+#????? ?????? ? scripts.lst << 149 >>
+#############################################################
+#????????? ?????:
+#?????? 1-9 - ???????? ?????????;
+#?????? 10-29 - ?????????? ? ?????????;
+#?????? 30-99 - ???? ?? ????, ?? ?????, ??? ??????????...
+#?????, ?? ?????? ???????.
+#?????? ????? ?????? 100, ?.?. 100 - ???? ???? ???????, 200 - ??????.
+#??????? ????????? ???? ????? 10, ?.?. 100, 110, 120 ? ?.?. ??? ??? 
+#??? ??????? 100 ???????????? Node010, ??? ??????? 240 - Node024.
+#??? ??????? ?????? - ???????? ?????????, ?.?. ?? ??????? 650 ?????? ????? 651, 652, 653 ? ?.?. 
+#??? ?????? ??????????? ???????????? ?????????????? ????? (????????, ??????? 360 ??????? ?? 3601 ? 3602,
+#??? ?? ???????? ????????? Node, ?????? ?? ????? ? ??????? ????? - 361, 362 ? ?.?.)
+#############################################################
+#????? ??????????????? ??????? ?? ????????? ????????? ??????? ??????? ???????,
+#??? ??? ???? ????? ????? ??????!!!
+############################################################
+#?????????? ??? "????? 2207", by Rainman, 06/11/2010
+#############################################################
+#
+#???????? ????????
+#
+# ?? ??????????
+#
+### {1}{}{You see a vagabond.}
+{1}{}{你看到一个流浪汉。 -- You see a vagabond.}
+### {2}{}{He looks a little... Distracted.}
+{2}{}{他看起来有点。。。心烦意乱 -- He looks a little... Distracted.}
+#
+# ????? ??????????
+#
+### {3}{}{You see a familiar vagabond.}
+{3}{}{你看到了一个熟悉的流浪汉。 -- You see a familiar vagabond.}
+### {4}{}{He looks like he's waiting for something.}
+{4}{}{他看起来好像在等什么。 -- He looks like he's waiting for something.}
+#
+#????? ?????????? ?????? ?? ??????????
+#
+### {10}{}{Hey, stranger! Greetings! I would tread lightly if I were you - so many cannibals around...}
+{10}{}{嘿，陌生人！问候！如果我是你，我会轻举妄动——周围有那么多食人族。。。 -- Hey, stranger! Greetings! I would tread lightly if I were you - so many cannibals around...}
+### {11}{}{Hey yourself. I was just... Wait, who are you again?}
+{11}{}{你好。我只是。。。等等，你又是谁？ -- Hey yourself. I was just... Wait, who are you again?}
+### {12}{}{I don't have time to talk.}
+{12}{}{我没有时间说话。 -- I don't have time to talk.}
+{13}{}{}
+### {14}{}{You can call me vagabond because that's who I am. Are you interested in... Strange things?}
+{14}{}{你可以叫我流浪汉，因为我就是流浪汉。你对…奇怪的事情感兴趣吗？ -- You can call me vagabond because that's who I am. Are you interested in... Strange things?}
+### {15}{}{I am. Spill it out.}
+{15}{}{我是，说出来。 -- I am. Spill it out.}
+### {16}{}{No, I'm not. I better go.}
+{16}{}{不，我不是。我最好走了。 -- No, I'm not. I better go.}
+{17}{}{}
+{18}{}{}
+{19}{}{}
+#
+#????? ?????????? ?????? ????? ??????????
+#
+### {100}{}{You again. [he smiles] Have something to tell me?}
+{100}{}{又是你。[他微笑着]有什么要告诉我的吗？ -- You again. [he smiles] Have something to tell me?}
+### {101}{}{You wanted to show me something, I recall? Spill it.}
+{101}{}{我记得你想给我看点什么吗？撒出去。 -- You wanted to show me something, I recall? Spill it.}
+### {102}{}{I got you money for the book.}
+{102}{}{我给你买了这本书的钱。 -- I got you money for the book.}
+### {103}{}{I managed to translate the title. It turned out to be not so hard.}
+{103}{}{我设法翻译了标题。结果并没有那么难。 -- I managed to translate the title. It turned out to be not so hard.}
+### {104}{}{No, I was just walking by.}
+{104}{}{没有，我只是路过。 -- No, I was just walking by.}
+{105}{}{}
+{106}{}{}
+
+### {110}{}{I have one... Book. I think. It is probably a book. A kind of unusual one - it has dots and lines engraved on each page instead of letters. Looks like some strange code. But why would someone encode something like this?}
+{110}{}{我有一个。。。书我想。这可能是一本书。一种不寻常的——它在每一页上都刻着点和线，而不是字母。看起来像是一些奇怪的代码。但为什么有人会编码这样的东西？ -- I have one... Book. I think. It is probably a book. A kind of unusual one - it has dots and lines engraved on each page instead of letters. Looks like some strange code. But why would someone encode something like this?}
+### {111}{}{A code or not, why would I care?}
+{111}{}{代码与否，我为什么会在意？ -- A code or not, why would I care?}
+### {112}{}{Huh. Interesting.}
+{112}{}{嗯。有趣的 -- Huh. Interesting.}
+### {113}{}{Boring. I have to go, many things to do.}
+{113}{}{没趣的我得走了，还有很多事情要做。 -- Boring. I have to go, many things to do.}
+
+### {120}{}{I am sure that it's something important, but I don't know how to crack the code. Maybe you could try? Let's do this - I will sell a book to you for ten batteries, and if you learn how to decrypt it, I will buy it back for a hundred, together with a key. Deal?}
+{120}{}{我确信这很重要，但我不知道如何破解代码。也许你可以试试？让我们这样做吧——我会以十块电池的价格卖给你一本书，如果你学会了如何解密，我会以一百块的价格把它和一把钥匙一起买回来。处理 -- I am sure that it's something important, but I don't know how to crack the code. Maybe you could try? Let's do this - I will sell a book to you for ten batteries, and if you learn how to decrypt it, I will buy it back for a hundred, together with a key. Deal?}
+### {121}{}{Deal, here are the batteries.}
+{121}{}{成交，这是电池。 -- Deal, here are the batteries.}
+### {122}{}{I don't have such a sum.}
+{122}{}{我没有这么多钱。 -- I don't have such a sum.}
+
+### {123}{}{Come back when you do. I won't leave anywhere.}
+{123}{}{你回来的时候再来。我哪儿也不离开。 -- Come back when you do. I won't leave anywhere.}
+### {124}{}{Deal.}
+{124}{}{处理 -- Deal.}
+
+### {130}{}{[vagabond hands you a book in perfect condition] I will wait for you here. Without the book I have nowhere to go.}
+{130}{}{[流浪汉递给你一本完好无损的书]我在这里等你。没有这本书我无处可去。 -- [vagabond hands you a book in perfect condition] I will wait for you here. Without the book I have nowhere to go.}
+### {131}{}{Suit yourself.}
+{131}{}{随你便。 -- Suit yourself.}
+
+### {140}{}{[vagabond gets close] So? What does it say?}
+{140}{}{[流浪汉靠近了]那又怎样？上面写着什么？ -- [vagabond gets close] So? What does it say?}
+### {141}{}{Uh, "John Smith. A poem".}
+{141}{}{“约翰·史密斯，一首诗”。 -- Uh, "John Smith. A poem".}
+### {142}{}{Looks like it says "Bible. Old testament". No idea what this could mean.}
+{142}{}{看起来上面写着“圣经，旧约”。不知道这意味着什么。 -- Looks like it says "Bible. Old testament". No idea what this could mean.}
+### {143}{}{I'm not sure, actually. I need to do some more research... See you.}
+{143}{}{实际上，我不确定。我需要做更多的研究。。。再见 -- I'm not sure, actually. I need to do some more research... See you.}
+
+### {150}{}{[A vagabond forcefully pushes you away] LIAR! I'm getting used to it... Still, I need the truth. Come to me with the right answer, or give the book back.}
+{150}{}{[一个流浪汉强行推开你]骗子！我已经习惯了…不过，我需要真相。给我正确的答案，或者把书还给我。 -- [A vagabond forcefully pushes you away] LIAR! I'm getting used to it... Still, I need the truth. Come to me with the right answer, or give the book back.}
+### {151}{}{[leave]}
+{151}{}{[离开 -- leave]}
+
+### {160}{}{Really!? That's what it says? [his breathing becomes heavy] A bible then... Okay, I'm paying you a hundred and fifty for the book.}
+{160}{}{真正地上面是这么写的？[他的呼吸变得沉重]一本圣经然后。。。好的，我付你一百五十元买这本书。 -- Really!? That's what it says? [his breathing becomes heavy] A bible then... Okay, I'm paying you a hundred and fifty for the book.}
+### {161}{}{Deal!}
+{161}{}{处理 -- Deal!}
+### {162}{}{What's so valuable about it? I better keep it to myself.}
+{162}{}{它有什么价值？我最好保密。 -- What's so valuable about it? I better keep it to myself.}
+
+### {170}{}{Then I'll take it by force. [he takes a battle stance] Give me the book!}
+{170}{}{那我就用武力夺取它。[他摆出战斗姿态]把书给我！ -- Then I'll take it by force. [he takes a battle stance] Give me the book!}
+### {171}{}{Okay, okay! Here.}
+{171}{}{好的，好的！在这里 -- Okay, okay! Here.}
+### {172}{}{No way! [fight]}
+{172}{}{不可能！[战斗] -- No way! [fight]}
+
+### {180}{}{[he throws you a bag of batteries, grabs the book, and hastily leaves.]}
+{180}{}{[他扔给你一袋电池，抓起书，匆匆离去。 -- he throws you a bag of batteries, grabs the book, and hastily leaves.]}
+### {181}{}{Bye to you too. Such a strange fella...}
+{181}{}{再见。这么奇怪的家伙。。。 -- Bye to you too. Such a strange fella...}
+#
+#????????? ????????? (????????????? ???????)
+#
+{1000}{}{}
+{1001}{}{}
+{1002}{}{}
+{1003}{}{}
+{1004}{}{}
+{1005}{}{}
+{1006}{}{}
+{1007}{}{}
+{1008}{}{}
+{1009}{}{}
+#
+#????????? ????????? (??????????? ???????)
+#
+{1010}{}{}
+{1011}{}{}
+{1012}{}{}
+{1013}{}{}
+{1014}{}{}
+{1015}{}{}
+{1016}{}{}
+{1017}{}{}
+{1018}{}{}
+{1019}{}{}
+#
+#????????? ????????? (????????????? ???????)
+#
+{1020}{}{}
+{1021}{}{}
+{1022}{}{}
+{1023}{}{}
+{1024}{}{}
+{1025}{}{}
+{1026}{}{}
+{1027}{}{}
+{1028}{}{}
+{1029}{}{}
+#
+#????????? ????????? (?????????????)
+#
+{1030}{}{}
+{1031}{}{}
+{1032}{}{}
+{1033}{}{}
+{1034}{}{}
+{1035}{}{}
+{1036}{}{}
+{1037}{}{}
+{1038}{}{}
+{1039}{}{}

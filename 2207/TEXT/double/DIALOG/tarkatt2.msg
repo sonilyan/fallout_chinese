@@ -1,0 +1,191 @@
+#############################################################
+#????????? ???? ??? ???????? << ??? >> 
+#????? ?????? ? scripts.lst << ??? >>
+#############################################################
+#????????? ?????:
+#?????? 1-9 - ???????? ?????????;
+#?????? 10-29 - ?????????? ? ?????????;
+#?????? 30-99 - ???? ?? ????, ?? ?????, ??? ??????????...
+#?????, ?? ?????? ???????.
+#?????? ????? ?????? 100, ?.?. 100 - ???? ???? ???????, 200 - ??????.
+#??????? ????????? ???? ????? 10, ?.?. 100, 110, 120 ? ?.?. ??? ??? 
+#??? ??????? 100 ???????????? Node010, ??? ??????? 240 - Node024.
+#??? ??????? ?????? - ???????? ?????????, ?.?. ?? ??????? 650 ?????? ????? 651, 652, 653 ? ?.?. 
+#??? ?????? ??????????? ???????????? ?????????????? ????? (????????, ??????? 360 ??????? ?? 3601 ? 3602,
+#??? ?? ???????? ????????? Node, ?????? ?? ????? ? ??????? ????? - 361, 362 ? ?.?.)
+#############################################################
+#????? ??????????????? ??????? ?? ????????? ????????? ??????? ??????? ???????,
+#??? ??? ???? ????? ????? ??????!!!
+############################################################
+#?????????? ??? "????? 2207", by Rainman, 06/11/2010
+#############################################################
+#
+#???????? ????????
+#
+# ?? ??????????
+#
+### {1}{}{You see Catty.}
+{1}{}{你看到凯蒂了。 -- You see Catty.}
+### {2}{}{Your childhood friend. Cheerful and naughty, as always.}
+{2}{}{你儿时的朋友。一如既往地快乐顽皮。 -- Your childhood friend. Cheerful and naughty, as always.}
+#
+# ????? ??????????
+#
+### {3}{}{You see Catty.}
+{3}{}{你看到凯蒂了。 -- You see Catty.}
+### {4}{}{Your childhood friend. Cheerful and naughty, as always.}
+{4}{}{你儿时的朋友。一如既往地快乐顽皮。 -- Your childhood friend. Cheerful and naughty, as always.}
+#
+#????? ?????????? ?????? ?? ??????????
+#
+### {10}{}{Who're you?}
+{10}{}{你是谁？ -- Who're you?}
+### {11}{}{Ima hero!}
+{11}{}{伊玛英雄！ -- Ima hero!}
+### {12}{}{YOU! BASTARD! How could you do this to my dad! I HATE YOU!}
+{12}{}{你！混蛋！你怎么能这样对我爸爸！我恨你！ -- YOU! BASTARD! How could you do this to my dad! I HATE YOU!}
+### {13}{}{He got what he deserved. it was the right thing to do.}
+{13}{}{他得到了他应得的。这是正确的做法。 -- He got what he deserved. it was the right thing to do.}
+### {14}{}{But Catty, I wanted to do what's better for all of us.}
+{14}{}{但是凯蒂，我想做对我们所有人都更好的事情。 -- But Catty, I wanted to do what's better for all of us.}
+### {15}{}{Your father was lazy and treacherous! And looks like you are the same!}
+{15}{}{你父亲又懒又奸诈！看起来你是一样的！ -- Your father was lazy and treacherous! And looks like you are the same!}
+{16}{}{}
+{17}{}{}
+{18}{}{}
+{19}{}{}
+#
+#????? ?????????? ?????? ????? ??????????
+#
+### {100}{}{Oh, hey there, }
+{100}{}{哦，嘿， -- Oh, hey there, }
+### {101}{}{! How are you doing? I was just thinking about you...}
+{101}{}{！你好吗？我只是在想你。。。 -- ! How are you doing? I was just thinking about you...}
+### {102}{}{Hey, Catty! I'm alright, what about you?}
+{102}{}{嘿，凯蒂！我很好，你呢？ -- Hey, Catty! I'm alright, what about you?}
+### {103}{}{Hello, and see you later!}
+{103}{}{你好，回头见！ -- Hello, and see you later!}
+### {104}{}{It seems like you have a lot on your hands. Maybe I can help you with something?}
+{104}{}{看来你手头有很多东西。也许我能帮你做点什么？ -- It seems like you have a lot on your hands. Maybe I can help you with something?}
+### {105}{}{Catty, do you know what's wrong with your father? Seems like he doesn't care about his duties lately.}
+{105}{}{凯蒂，你知道你父亲怎么了吗？他最近似乎不在乎自己的职责。 -- Catty, do you know what's wrong with your father? Seems like he doesn't care about his duties lately.}
+### {106}{}{A vegetable delivery! Here, 24 cobs total!}
+{106}{}{送蔬菜！给，总共24个玉米棒！ -- A vegetable delivery! Here, 24 cobs total!}
+### {107}{}{Look, Catty, my back hurts so much from all this crawling around patches, you wouldn't believe it! Better gather that corn yourself.}
+{107}{}{看，凯蒂，我的背被这些爬来爬去的补丁弄得很疼，你不会相信的！最好自己把玉米收起来。 -- Look, Catty, my back hurts so much from all this crawling around patches, you wouldn't believe it! Better gather that corn yourself.}
+### {1101}{}{It's okay, I'm getting by... On the other hand, you know, I don't! [she makes a pouty face and taps her foot] I'm sick of all this corn! And I should not only make patches but also take harvest! It never ends!}
+{1101}{}{没关系，我过得去……另一方面，你知道，我没有！[她嘟着嘴轻拍着脚]我受够了这些玉米！我不仅要打补丁，还要收获！它永远不会结束！ -- It's okay, I'm getting by... On the other hand, you know, I don't! [she makes a pouty face and taps her foot] I'm sick of all this corn! And I should not only make patches but also take harvest! It never ends!}
+### {1102}{}{You know, with you helping me, it doesn't look so hopeless! [she giggles] Thanks again!}
+{1102}{}{你知道，有你的帮助，这看起来并没有那么绝望！[她咯咯地笑]再次感谢！ -- You know, with you helping me, it doesn't look so hopeless! [she giggles] Thanks again!}
+### {111}{}{You do realize that if "it" ends, we are going to starve? So be kind, put in some effort. I'm having a hard time too!}
+{111}{}{你知道吗，如果“它”结束了，我们会饿死吗？所以要善良，付出一些努力。我也过得很艰难！ -- You do realize that if "it" ends, we are going to starve? So be kind, put in some effort. I'm having a hard time too!}
+### {112}{}{But you know that your job is good for all of us. Don't worry, you'll have your rest in the evening.}
+{112}{}{但你知道你的工作对我们所有人都有好处。别担心，你晚上会休息的。 -- But you know that your job is good for all of us. Don't worry, you'll have your rest in the evening.}
+### {113}{}{Yeah, it seems you are pretty busy. Let me help you! How much corn do you need to harvest?}
+{113}{}{是的，看来你很忙。让我来帮你！你需要收割多少玉米？ -- Yeah, it seems you are pretty busy. Let me help you! How much corn do you need to harvest?}
+### {114}{}{Stop thanking me, I told you that I'm just happy to help! Anyway, see you!}
+{114}{}{别谢我了，我告诉过你我很乐意帮忙！不管怎样，再见！ -- Stop thanking me, I told you that I'm just happy to help! Anyway, see you!}
+### {115}{}{I'll never get tired of listening to your words of gratitude! The job was VERY hard - but worth it! [leave, enjoying your humbleness]}
+{115}{}{我永远听不腻你的感激之词！这份工作很辛苦，但值得！[离开，享受你的谦逊] -- I'll never get tired of listening to your words of gratitude! The job was VERY hard - but worth it! [leave, enjoying your humbleness]}
+### {1201}{}{You are right, of course, but it doesn't make me feel any better.}
+{1201}{}{当然，你是对的，但这并没有让我感觉好一点。 -- You are right, of course, but it doesn't make me feel any better.}
+### {1202}{}{Really!? I knew it, I knew that you are really my best friend! Okay, so, today I need to gather... Uhh... [she wrinkles] 23 cobs! Well, maybe 24. I'm not quite sure.}
+{1202}{}{真正地我知道，我知道你真的是我最好的朋友！好吧，所以，今天我需要集合。。。嗯。。。[她皱了皱]23根棒子！好吧，也许24。我不太确定。 -- Really!? I knew it, I knew that you are really my best friend! Okay, so, today I need to gather... Uhh... [she wrinkles] 23 cobs! Well, maybe 24. I'm not quite sure.}
+### {121}{}{Of course I'm right! Okay, keep up the good work, bye!}
+{121}{}{我当然是对的！好的，继续努力，再见！ -- Of course I'm right! Okay, keep up the good work, bye!}
+### {122}{}{So many?! Well, okay, if I signed up for this...}
+{122}{}{这么多？！好吧，如果我报名参加。。。 -- So many?! Well, okay, if I signed up for this...}
+### {123}{}{Good. Wait here, you're getting your 24 cobs. In the next 24 hours, haha! Just kidding, I'll be right back.}
+{123}{}{好的在这里等着，你得到了你的24个玉米棒。在接下来的24小时里，哈哈！开玩笑，我马上回来。 -- Good. Wait here, you're getting your 24 cobs. In the next 24 hours, haha! Just kidding, I'll be right back.}
+### {124}{}{HOW MANY?? You know, I've just remembered something. I need to run, see you around!}
+{124}{}{多少？？你知道，我刚刚想起了一些事情。我要跑了，回头见！ -- HOW MANY?? You know, I've just remembered something. I need to run, see you around!}
+### {130}{}{Wow!!! Thank you, thank you, thank you, thank youthankyouthankyouthankyoooou!!!}
+{130}{}{哇！谢谢你，谢谢你，感谢你，谢谢谢谢你谢谢你！！！ -- Wow!!! Thank you, thank you, thank you, thank youthankyouthankyouthankyoooou!!!}
+### {131}{}{[turn your cheek for a kiss]}
+{131}{}{[转过脸来亲吻 -- turn your cheek for a kiss]}
+### {132}{}{Don't mention it, that was easy for me!}
+{132}{}{别提了，那对我来说很容易！ -- Don't mention it, that was easy for me!}
+### {133}{}{Oh wow, I almost got woozy from all these thank-yous! You're welcome.}
+{133}{}{哦，哇，我差点被这些谢谢弄晕了！不客气。 -- Oh wow, I almost got woozy from all these thank-yous! You're welcome.}
+### {140}{}{[Catty loudly and powerfully kisses you on the cheek. Nearby Servants meaningfully glance at each other.]}
+{140}{}{[凯蒂大声有力地吻了你的脸颊。附近的仆人意味深长地互相看了一眼。 -- Catty loudly and powerfully kisses you on the cheek. Nearby Servants meaningfully glance at each other.]}
+### {141}{}{Hah, and for that - thank YOU! Well, tee-hee, I'd better go now.}
+{141}{}{哈，谢谢你！哦，蒂，我最好现在就走。 -- Hah, and for that - thank YOU! Well, tee-hee, I'd better go now.}
+### {142}{}{Oh man! Catty, they are looking at us! Now we're gonna be laughed at.}
+{142}{}{天哪！凯蒂，他们在看着我们！现在我们要被嘲笑了。 -- Oh man! Catty, they are looking at us! Now we're gonna be laughed at.}
+### {143}{}{Well... Uh... Umm... Err... Bye, Catty.}
+{143}{}{好嗯嗯。。。犯错误再见，凯蒂。 -- Well... Uh... Umm... Err... Bye, Catty.}
+### {150}{}{Oh, just ignore it! Dad has a, umm... He doesn't see the point in what he's doing. I think it's temporary. It'll go away soon.}
+{150}{}{哦，别理它！爸爸有一个，嗯。。。他认为自己所做的没有意义。我认为这是暂时的。它很快就会消失。 -- Oh, just ignore it! Dad has a, umm... He doesn't see the point in what he's doing. I think it's temporary. It'll go away soon.}
+### {151}{}{You know, if this won't go away "soon", he would end up in the Mouth of Hades, and then fertilizing patches where you grow your corn. Do you realize it's serious?}
+{151}{}{你知道，如果这种情况不会“很快”消失，他最终会进入冥王之口，然后在你种植玉米的地方施肥。你意识到这很严重吗？ -- You know, if this won't go away "soon", he would end up in the Mouth of Hades, and then fertilizing patches where you grow your corn. Do you realize it's serious?}
+### {152}{}{Really? Alrighty then.}
+{152}{}{真正地好吧。 -- Really? Alrighty then.}
+### {160}{}{Yes... Yes! You are right, as always! I'll talk to him the first chance I get! }
+{160}{}{对对你是对的，一如既往！我一有机会就和他谈谈！ -- Yes... Yes! You are right, as always! I'll talk to him the first chance I get! }
+### {161}{}{Great!}
+{161}{}{太棒了 -- Great!}
+### {162}{}{Don't forget it! I know how bad you are at remembering things.}
+{162}{}{别忘了！我知道你记性有多差。 -- Don't forget it! I know how bad you are at remembering things.}
+### {170}{}{[Catty becomes very upset now.]}
+{170}{}{[凯蒂现在很不高兴。 -- Catty becomes very upset now.]}
+### {171}{}{Oh come on! Stop this whining, tears... It's hard for all of us, but still, everyone does what they can! Anyway, I'll go now.}
+{171}{}{哦，来吧！别哭了，眼泪。。。这对我们所有人来说都很难，但每个人都尽自己所能！不管怎样，我现在就走。 -- Oh come on! Stop this whining, tears... It's hard for all of us, but still, everyone does what they can! Anyway, I'll go now.}
+### {172}{}{Whoa, whoa, no-no-no, stop it! My back feels much better now! No, really! I'll bring you everything right away!}
+{172}{}{哇，哇，不，不，住手！我的背部现在感觉好多了！不，真的！我马上给你带来一切！ -- Whoa, whoa, no-no-no, stop it! My back feels much better now! No, really! I'll bring you everything right away!}
+#
+#????????? ????????? (????????????? ???????)
+#
+{1000}{}{}
+{1001}{}{}
+{1002}{}{}
+{1003}{}{}
+{1004}{}{}
+{1005}{}{}
+{1006}{}{}
+{1007}{}{} 
+{1008}{}{}
+{1009}{}{}
+#
+#????????? ????????? (??????????? ???????)
+#
+{1010}{}{}
+{1011}{}{}
+{1012}{}{}
+{1013}{}{}
+{1014}{}{}
+{1015}{}{}
+{1016}{}{}
+{1017}{}{}
+{1018}{}{}
+{1019}{}{}
+#
+#????????? ????????? (????????????? ???????)
+#
+### {1020}{}{I HATE YOU!}
+{1020}{}{我恨你！ -- I HATE YOU!}
+### {1021}{}{You! BASTARD! GET OFF ME!}
+{1021}{}{你混蛋！放开我！ -- You! BASTARD! GET OFF ME!}
+### {1022}{}{I won't forget it! Never!}
+{1022}{}{我不会忘记的！从不 -- I won't forget it! Never!}
+### {1023}{}{You'll get what you deserve!}
+{1023}{}{你会得到你应得的！ -- You'll get what you deserve!}
+{1024}{}{}
+{1025}{}{}
+{1026}{}{}
+{1027}{}{}
+{1028}{}{}
+{1029}{}{}
+#
+#????????? ????????? (?????????????)
+#
+{1030}{}{}
+{1031}{}{}
+{1032}{}{}
+{1033}{}{}
+{1034}{}{}
+{1035}{}{}
+{1036}{}{}
+{1037}{}{}
+{1038}{}{}
+{1039}{}{}

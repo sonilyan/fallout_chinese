@@ -1,0 +1,208 @@
+#############################################################
+#????????? ???? ??? ???????? << ??? ????????? ????????' ?????? >> 
+#????? ?????? ? scripts.lst << 477 >>
+#############################################################
+#????????? ?????:
+#?????? 1-9 - ???????? ?????????;
+#?????? 10-29 - ?????????? ? ?????????;
+#?????? 30-99 - ???? ?? ????, ?? ?????, ??? ??????????...
+#?????, ?? ?????? ???????.
+#?????? ????? ?????? 100, ?.?. 100 - ???? ???? ???????, 200 - ??????.
+#??????? ????????? ???? ????? 10, ?.?. 100, 110, 120 ? ?.?. ??? ??? 
+#??? ??????? 100 ???????????? Node010, ??? ??????? 240 - Node024.
+#??? ??????? ?????? - ???????? ?????????, ?.?. ?? ??????? 650 ?????? ????? 651, 652, 653 ? ?.?. 
+#??? ?????? ??????????? ???????????? ?????????????? ????? (????????, ??????? 360 ??????? ?? 3601 ? 3602,
+#??? ?? ???????? ????????? Node, ?????? ?? ????? ? ??????? ????? - 361, 362 ? ?.?.)
+#############################################################
+#????? ??????????????? ??????? ?? ????????? ????????? ??????? ??????? ???????,
+#??? ??? ???? ????? ????? ??????!!!
+############################################################
+#?????????? ??? "????? 2207", by Rainman, 06/11/2010
+#############################################################
+#
+#???????? ????????
+#
+### {1}{}{A huge savage, oozing with power and malice.}
+{1}{}{一个巨大的野蛮人，充满了力量和恶意。 -- A huge savage, oozing with power and malice.}
+### {2}{}{Looks like he wandered around Radius for a really long time.}
+{2}{}{看起来他在Radius周围徘徊了很长一段时间。 -- Looks like he wandered around Radius for a really long time.}
+### {3}{}{The woman looks extremely exhausted. It is suprising how she is still alive.}
+{3}{}{这个女人看起来非常疲惫。她竟然还活着，真是令人惊讶。 -- The woman looks extremely exhausted. It is suprising how she is still alive.}
+### {4}{}{A typical bandit, covered with scars and tattoos. His bloody eyes are bulging out at you.}
+{4}{}{一个典型的土匪，满身伤痕和纹身。他那双带血的眼睛向你瞪大。 -- A typical bandit, covered with scars and tattoos. His bloody eyes are bulging out at you.}
+### {5}{}{A real daredevil! The face is tattoed, body is pierced in all places.}
+{5}{}{真是胆大包天！脸上有纹身，身上到处都是穿孔。 -- A real daredevil! The face is tattoed, body is pierced in all places.}
+### {6}{}{He looks like an experienced fighter who is not going to fool around.}
+{6}{}{他看起来像一个经验丰富的战士，不会糊弄人。 -- He looks like an experienced fighter who is not going to fool around.}
+### {7}{}{The woman looks threatening. Extremely threatening.}
+{7}{}{这个女人看起来很有威胁。极具威胁性。 -- The woman looks threatening. Extremely threatening.}
+### {8}{}{The man looks exhausted. He definitely haven't eaten for days.}
+{8}{}{这个男人看起来筋疲力尽。他肯定好几天没吃东西了。 -- The man looks exhausted. He definitely haven't eaten for days.}
+### {9}{}{It hurts to even look at her, all skin and bones. How's she still standing?}
+{9}{}{看着她，全身的皮肤和骨头都很疼。她怎么还站着？ -- It hurts to even look at her, all skin and bones. How's she still standing?}
+#
+#????? ?????????? ??????
+#
+#?????????
+### {10}{}{Meat in can! Hurts teeth!}
+{10}{}{罐头里的肉！伤了牙齿！ -- Meat in can! Hurts teeth!}
+### {11}{}{Tasty, but metal! Get away!}
+{11}{}{味道不错，但很金属！逃掉 -- Tasty, but metal! Get away!}
+### {12}{}{Knife and spear no pierce metal skin.}
+{12}{}{刀枪不入。 -- Knife and spear no pierce metal skin.}
+### {13}{}{Metal monster can go.}
+{13}{}{金属怪物可以走了。 -- Metal monster can go.}
+### {14}{}{We not know how to remove metal skin.}
+{14}{}{我们不知道如何去除金属皮。 -- We not know how to remove metal skin.}
+#???????
+### {15}{}{Nothing personal - I just need your stuff.}
+{15}{}{没什么私人的，我只需要你的东西。 -- Nothing personal - I just need your stuff.}
+### {16}{}{I'm just trying to survive, and you are going to help me with that!}
+{16}{}{我只是想活下来，你会帮我的！ -- I'm just trying to survive, and you are going to help me with that!}
+### {17}{}{I haven't eaten for a really long time...}
+{17}{}{我好久没吃东西了。。。 -- I haven't eaten for a really long time...}
+### {18}{}{No one is going to be sad about you, outsider.}
+{18}{}{没有人会为你难过，局外人。 -- No one is going to be sad about you, outsider.}
+### {19}{}{Your stuff suits me better!}
+{19}{}{你的东西更适合我！ -- Your stuff suits me better!}
+### {20}{}{Hey, stranger! We are of the same kind, aren't we? Let's just go our separate ways.}
+{20}{}{嘿，陌生人！我们是同类，不是吗？我们分道扬镳吧。 -- Hey, stranger! We are of the same kind, aren't we? Let's just go our separate ways.}
+### {21}{}{Hello, friend! Don't be nervous, alright? I'm just looking around here.}
+{21}{}{你好，朋友！别紧张，好吗？我只是四处看看。 -- Hello, friend! Don't be nervous, alright? I'm just looking around here.}
+### {22}{}{Don't be twitchy, I need nothing from you.}
+{22}{}{别紧张，我什么都不需要你。 -- Don't be twitchy, I need nothing from you.}
+### {23}{}{Easy! Don't start trouble, I am a good guy, just like you!}
+{23}{}{容易的别惹麻烦，我是个好人，和你一样！ -- Easy! Don't start trouble, I am a good guy, just like you!}
+### {24}{}{Let's not make any trouble for each other, okay?}
+{24}{}{我们不要给对方制造任何麻烦，好吗？ -- Let's not make any trouble for each other, okay?}
+### {25}{}{Every road in this damn Radius leads to Olympus.}
+{25}{}{在这个该死的半径上的每一条路都通向奥林巴斯。 -- Every road in this damn Radius leads to Olympus.}
+### {26}{}{Everything will be great when we make it to the tower.}
+{26}{}{当我们到达塔楼时，一切都会很好。 -- Everything will be great when we make it to the tower.}
+### {27}{}{We've been walking for a really long time. Not all of us have made it here.}
+{27}{}{我们已经走了很长时间了。并不是我们所有人都能来到这里。 -- We've been walking for a really long time. Not all of us have made it here.}
+### {28}{}{Damn, I can't even remember my name!}
+{28}{}{妈的，我连名字都记不起来了！ -- Damn, I can't even remember my name!}
+### {29}{}{The trip is dangerous, of course. You can be safe only inside of Olympus.}
+{29}{}{当然，这次旅行很危险。只有在奥林匹斯山里面你才能安全。 -- The trip is dangerous, of course. You can be safe only inside of Olympus.}
+#??????, ???????
+### {30}{}{Here comes you death, bro!}
+{30}{}{你的死来了，兄弟！ -- Here comes you death, bro!}
+### {31}{}{Ready to die, loser!}
+{31}{}{准备好死了，失败者！ -- Ready to die, loser!}
+### {32}{}{You are so lucky to meet me today!}
+{32}{}{你今天能见到我真是太幸运了！ -- You are so lucky to meet me today!}
+### {33}{}{Dead don't resist!}
+{33}{}{死了不要反抗！ -- Dead don't resist!}
+### {34}{}{Hey you! Stay where you are, so I could kill you more easily!}
+{34}{}{嘿！呆在原地，这样我可以更容易地杀死你！ -- Hey you! Stay where you are, so I could kill you more easily!}
+### {35}{}{We're just romantics of the world!}
+{35}{}{我们只是世界上的浪漫主义者！ -- We're just romantics of the world!}
+### {36}{}{Hey, handsome! I'm gonna have fun with your corpse when it's all over!}
+{36}{}{嘿，帅！一切结束后，我会和你的尸体玩得很开心！ -- Hey, handsome! I'm gonna have fun with your corpse when it's all over!}
+### {37}{}{Get the hell away!}
+{37}{}{滚！ -- Get the hell away!}
+### {38}{}{Fuck you!}
+{38}{}{操你！ -- Fuck you!}
+### {39}{}{No! Get off! I don't want anything!}
+{39}{}{不离开我什么都不要！ -- No! Get off! I don't want anything!}
+#??????? ???
+### {40}{}{Now you're going to pay for your crimes!}
+{40}{}{现在你要为你的罪行付出代价！ -- Now you're going to pay for your crimes!}
+### {41}{}{It's payback time, bitch!}
+{41}{}{现在是回报的时候了，婊子！ -- It's payback time, bitch!}
+### {42}{}{You will no longer be able to cause us problems, asshole!}
+{42}{}{你再也不能给我们制造麻烦了，混蛋！ -- You will no longer be able to cause us problems, asshole!}
+### {43}{}{Bastard! Now you'll answer for everything!}
+{43}{}{混蛋！现在你要为一切负责！ -- Bastard! Now you'll answer for everything!}
+### {44}{}{You are dead man! Payback is a bitch!}
+{44}{}{你死定了！回报是婊子养的！ -- You are dead man! Payback is a bitch!}
+### {45}{}{Yeah, we're patrolling the area.}
+{45}{}{是的，我们正在该地区巡逻。 -- Yeah, we're patrolling the area.}
+### {46}{}{Should Jackals attack us again - we'll know.}
+{46}{}{如果豺狼再次攻击我们，我们会知道的。 -- Should Jackals attack us again - we'll know.}
+### {47}{}{It's an uncertain times, can't do without patrols.}
+{47}{}{这是一个不确定的时代，离不开巡逻。 -- It's an uncertain times, can't do without patrols.}
+### {48}{}{We are on duty. Don't distract us.}
+{48}{}{我们在值班。不要分散我们的注意力。 -- We are on duty. Don't distract us.}
+### {49}{}{Get on your way, and be calm.}
+{49}{}{上路，保持冷静。 -- Get on your way, and be calm.}
+### {50}{}{Don't do anything illegal and everything will be fine.}
+{50}{}{不要做任何违法的事情，一切都会好起来的。 -- Don't do anything illegal and everything will be fine.}
+#????????
+### {51}{}{We haven't eaten for a really long time...}
+{51}{}{我们已经很久没吃东西了。。。 -- We haven't eaten for a really long time...}
+### {52}{}{What's there to say? Just looking for anything useful.}
+{52}{}{有什么好说的？只是在寻找有用的东西。 -- What's there to say? Just looking for anything useful.}
+### {53}{}{Everything you find can be used to make life easier...}
+{53}{}{你找到的一切都可以用来让生活更轻松。。。 -- Everything you find can be used to make life easier...}
+### {54}{}{There may be a lot of things in Olympus, but nobody got there alive.}
+{54}{}{奥林匹斯山上可能有很多东西，但没有人活着到达那里。 -- There may be a lot of things in Olympus, but nobody got there alive.}
+### {55}{}{Our families expect us to bring something useful. Or edible.}
+{55}{}{我们的家人希望我们能带来一些有用的东西。或者可食用。 -- Our families expect us to bring something useful. Or edible.}
+{56}{}{}
+{57}{}{}
+{58}{}{}
+{59}{}{}
+{60}{}{}
+{61}{}{}
+{62}{}{}
+{63}{}{}
+{64}{}{}
+{65}{}{}
+{66}{}{}
+{67}{}{}
+{68}{}{}
+{69}{}{}
+#
+#????????? ????????? (????????????? ???????)
+#
+{1000}{}{}
+{1001}{}{}
+{1002}{}{}
+{1003}{}{}
+{1004}{}{}
+{1005}{}{}
+{1006}{}{}
+{1007}{}{}
+{1008}{}{}
+{1009}{}{}
+#
+#????????? ????????? (??????????? ???????)
+#
+{1010}{}{}
+{1011}{}{}
+{1012}{}{}
+{1013}{}{}
+{1014}{}{}
+{1015}{}{}
+{1016}{}{}
+{1017}{}{}
+{1018}{}{}
+{1019}{}{}
+#
+#????????? ????????? (????????????? ???????)
+#
+{1020}{}{}
+{1021}{}{}
+{1022}{}{}
+{1023}{}{}
+{1024}{}{}
+{1025}{}{}
+{1026}{}{}
+{1027}{}{}
+{1028}{}{}
+{1029}{}{}
+#
+#????????? ????????? (?????? ?????)
+#
+{1030}{}{}
+{1031}{}{}
+{1032}{}{}
+{1033}{}{}
+{1034}{}{}
+{1035}{}{}
+{1036}{}{}
+{1037}{}{}
+{1038}{}{}
+{1039}{}{}

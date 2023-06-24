@@ -1,0 +1,40 @@
+# ????? ?? ??????? ??饭??,
+# ??????騥?? ? ???? ?業??
+#
+# Created by Artem "Rainman" Samoylov
+# 30/07/2013
+#
+# ??? ????
+# ?? - ?? ???? ???????? ?????
+#
+# ?????? 1
+### {1}{}{You see a burial.}
+{1}{}{你看到了葬礼。 -- You see a burial.}
+### {2}{}{You see a grave.}
+{2}{}{你看到一个坟墓。 -- You see a grave.}
+
+# ?????? 2
+### {3}{}{...where's the shovel when you need it?...}
+{3}{}{…当你需要铲子的时候，它在哪里？。。。 -- ...where's the shovel when you need it?...}
+### {4}{}{Fresly dug grave. Still smells like dirt and your sweat.}
+{4}{}{挖得怪怪的坟墓。仍然闻起来像泥土和汗水。 -- Fresly dug grave. Still smells like dirt and your sweat.}
+
+# ??????
+### {5}{}{With hands? No, such thick layer can be dug out only with a shovel.}
+{5}{}{用手？不行，这么厚的一层只能用铲子挖出来。 -- With hands? No, such thick layer can be dug out only with a shovel.}
+### {6}{}{Uhh... No, this is NOT the best tool for excavating the graves.}
+{6}{}{嗯。。。不，这不是挖掘坟墓的最佳工具。 -- Uhh... No, this is NOT the best tool for excavating the graves.}
+{7}{}{}
+{8}{}{}
+{9}{}{}
+{10}{}{}
+{11}{}{}
+{12}{}{}
+{13}{}{}
+{14}{}{}
+{15}{}{}
+{16}{}{}
+{17}{}{}
+{18}{}{}
+{19}{}{}
+{20}{}{}

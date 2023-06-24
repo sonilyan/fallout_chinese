@@ -1,0 +1,194 @@
+#{100}{}{You see an older man.}
+{100}{}{你看到一个老人。}
+#{150}{}{You see Samuel.}
+{150}{}{你看到塞缪尔了。}
+#{200}{}{You see an older irritated man with a rifle.}
+{200}{}{你看到一个老男人拿着枪生气了。}
+#{250}{}{You see Samuel, he's holding a rifle.}
+{250}{}{你看，塞缪尔，他拿着枪。}
+#{301}{}{Hey, you there! Get out of here!}
+{301}{}{嘿，你在吗！离开这里！}
+#{302}{}{Goddamn thieves!}
+{302}{}{该死的小偷！}
+#{350}{}{You fucking swiping shithead!}
+{350}{}{你这个混蛋！}
+#{351}{}{Hey, I don't have it ready yet. Come back later.}
+{351}{}{嘿，我还没准备好呢。晚点再来。}
+#{352}{}{Thanks for everything, you're always welcome here.}
+{352}{}{谢谢你所做的一切，这里永远欢迎你。}
+#{353}{}{Thanks for everything, you're always welcome here.}
+{353}{}{谢谢你所做的一切，这里永远欢迎你。}
+#{354}{}{Thanks for that letter!}
+{354}{}{谢谢你的来信！}
+#{355}{}{Hey.}
+{355}{}{嘿。}
+#{356}{}{Leave us alone.}
+{356}{}{别管我们。}
+#{500}{}{FREEZE! Stay put or this gun'll blow your brains out! Now turn in the direction of the door and get out!}
+{500}{}{别动！别动，不然这枪会把你的脑袋打爆的！现在朝门的方向转出去！}
+#{501}{}{OK, OK, I'll leave peacefully.}
+{501}{}{好吧，好吧，我会平静地离开。}
+#{502}{}{Why so rude, old man, I just want to ask you something.}
+{502}{}{为什么这么粗鲁，老头子，我只想问你一件事。}
+#{503}{}{The one getting out of here is gonna be you. Feet first.}
+{503}{}{离开这里的人是你。先用脚。}
+#{504}{}{Bai Yay.}
+{504}{}{白耶。}
+#{505}{}{You Adam? Huh? Huh?}
+{505}{}{你是亚当吗？呵呵？嗯？}
+#{506}{}{ beats you!}
+{506}{}{打败你！}
+#{550}{}{You again?! You know the way, so get lost!}
+{550}{}{又是你？！你知道路，所以滚开！}
+#{551}{}{Well then, I'll leave peacefully.}
+{551}{}{好吧，那我就平静地离开。}
+#{552}{}{Why so rude, old man, I just want to ask you something.}
+{552}{}{为什么这么粗鲁，老头子，我只想问你一件事。}
+#{553}{}{The one getting out of here is gonna be you. Feet first.}
+{553}{}{离开这里的人是你。先用脚。}
+#{554}{}{Bai Yay.}
+{554}{}{白耶。}
+#{555}{}{You Adam? Huh? Huh?}
+{555}{}{你是亚当吗？呵呵？嗯？}
+#{556}{}{ beats you!}
+{556}{}{打败你！}
+#{600}{}{Hey. So I'm done with the reply for Adam. [He hands you a letter.] Don't think I have no idea about the great risk you're taking for me. The wasteland is an unpredictable place. I... Wait a second! [Samuel bends down and loosens a parquet block and uncovers a small stash. With extreme caution, he picks up one stimpak, which he gives to you.] Hide it well. Julian's goons unscrupulously confiscate all meds. I've been saving it for a rainy day, but you need it more now.}
+{600}{}{嘿。亚当的回答我说完了。[他递给你一封信]别以为我不知道你为我冒了多大的风险。这片荒地是个变幻莫测的地方。一、 。。。等等！[塞缪尔弯下腰，松开一块拼花地板，打开一个小仓库。他非常小心地拿起一个stimpak，给了你]把它藏好。朱利安的手下肆无忌惮地没收所有药品。我一直在存钱以备不时之需，但你现在更需要它。}
+#{601}{}{Thanks. I'll deliver the letter for sure.}
+{601}{}{谢谢。我一定把信送过去。}
+#{603}{}{Yaaay! Yep.}
+{603}{}{耶！是的。}
+#{604}{}{Hey. So I'm done with the reply for Adam. [He hands you a letter.] Don't think I have no idea about the great risk you're taking for me. The wasteland is an unpredictable place. I... Wait a second! [Samuel bends down and loosens a parquet block and uncovers a small stash. With extreme caution, he picks up one stimpak, which he gives to you.] Julian's goons were unscrupulously confiscating all meds so I had to hide it well. I've been saving it for a rainy day, but you need it more now.}
+{604}{}{嘿。亚当的回答我说完了。[他递给你一封信]别以为我不知道你为我冒了多大的风险。这片荒地是个变幻莫测的地方。一、 。。。等等！[塞缪尔弯下腰，松开一块拼花地板，打开一个小仓库。他非常小心地拿起一个stimpak，给了你]朱利安的手下肆无忌惮地没收了所有的药物，所以我不得不把它藏好。我一直在存钱以备不时之需，但你现在更需要它。}
+#{650}{}{You stealing fucker, don't even try to buy time! You either get out now or I'll pump you full of lead!}
+{650}{}{你这个偷东西的混蛋，别想争取时间！你要么现在出去，要么我给你灌满铅！}
+#{651}{}{Wait! I'm just searching for someone who knows Adam from New Hope!}
+{651}{}{等待！我只是在找一个认识亚当和新希望的人！}
+#{652}{}{Well, I'm leaving then.}
+{652}{}{好吧，那我就走了。}
+#{653}{}{Your last words...}
+{653}{}{你的遗言。。。}
+#{654}{}{You stealing bitch, don't even try to buy time! You either get out now or I'll pump you full of lead!}
+{654}{}{你这个偷东西的婊子，别想争取时间！你要么现在出去，要么我给你灌满铅！}
+#{750}{}{[The old guy pauses in surprise.] W-wait! You know Adam? Was it him who sent you?}
+{750}{}{[老家伙惊讶地停顿了一下]等等！你认识亚当吗？是他派你来的吗？}
+#{751}{}{Yes, I have a letter for his family. Do you know where to find them?}
+{751}{}{是的，我有一封给他家人的信。你知道在哪儿能找到他们吗？}
+#{752}{}{M'kay. Letter. Give! M'kay.}
+{752}{}{好的。信。给我！好的。}
+#{800}{}{Of course! I'm his brother Samuel! Surely he must've told you about me!}
+{800}{}{当然！我是他哥哥塞缪尔！他一定告诉过你我的事！}
+#{801}{}{Well, truth be said, he didn't mention you at all. He just wanted me to find his family and give them the letter.}
+{801}{}{嗯，说实话，他根本没提你。他只是想让我找到他的家人，把信给他们。}
+#{802}{}{Yes, he was praising you and raving about you all the time. He likes you a lot for sure.}
+{802}{}{是的，他一直在夸奖你，说你坏话。他肯定很喜欢你。}
+#{803}{}{So do you want the letter or not? This jabbering is starting to bore me to death.}
+{803}{}{你到底要不要这封信？这种喋喋不休让我烦死了。}
+#{850}{}{He didn't? Well, yes, we had a huge argument last time. He's probably still angry at me. However, I forgave him a long time ago.}
+{850}{}{他没有？嗯，是的，上次我们吵了一架。他可能还在生我的气。不过，我早就原谅他了。}
+#{851}{}{Why'd you argue?}
+{851}{}{你为什么要争论？}
+#{852}{}{Sorry to hear that, but maybe he wants to make it up to you with this letter.}
+{852}{}{很抱歉听到这个，但也许他想用这封信来补偿你。}
+#{853}{}{Oh my God, I'm glad I'm not a full-time postman...}
+{853}{}{天哪，我很高兴我不是全职邮递员。。。}
+#{900}{}{Because of this stinking hole. He wanted to leave, I didn't. Kirtland was our home after all! Had I known the way this place would end up, I would've left with him back then. Today, neither of us have any strength left for traveling anyway. You said you have his letter? Could you give it to me?}
+{900}{}{因为这个臭洞。他想离开，我没有。科特兰毕竟是我们的家！如果我知道这地方的结局，我早就跟他走了。今天，我们都没有力气去旅行了。你说你有他的信？你能把它给我吗？}
+#{901}{}{Because of this stinking hole. He wanted to leave, I didn't. Kirtland was our home after all! Had I known the way this place would end up, I would've left with him back then. Today, neither of us have any strength left for traveling anyway. You said you have his letter? Could you give it to me?}
+{901}{}{因为这个臭洞。他想离开，我没有。科特兰毕竟是我们的家！如果我知道这地方的结局，我早就跟他走了。今天，我们都没有力气去旅行了。你说你有他的信？你能把它给我吗？}
+#{902}{}{You're Adam's brother. This letter's rightfully yours. [Give him the letter.]}
+{902}{}{你是亚当的哥哥。这封信是你的。[把信给他。]}
+#{903}{}{Maybe, but it won't be for free.}
+{903}{}{也许吧，但不是免费的。}
+#{950}{}{Thanks! I'll read it right now! Could you come back for the reply tomorrow, please? I have a lot to write about.}
+{950}{}{谢谢！我马上读！请你明天再来回信好吗？我有很多东西要写。}
+#{951}{}{Thanks! I'll read it right now! Could you come back for the reply tomorrow, please? I have a lot to write about.}
+{951}{}{谢谢！我马上读！请你明天再来回信好吗？我有很多东西要写。}
+#{952}{}{Of course. I'll do that with joy for you.}
+{952}{}{当然。我会为你高兴的。}
+#{953}{}{Oh hold on! I'm not going to play your damn postman for free. You'll have to pay me.}
+{953}{}{哦，等等！我不会免费扮演你那该死的邮差。你得付钱给我。}
+#{954}{}{Are you nuts? Do you have any idea how hard it was to get here, and now I should go the entire way back? All for a stupid piece of paper?! No way.}
+{954}{}{你疯了吗？你知道到这里有多难，现在我应该一路回去吗？为了一张愚蠢的纸？！不可能。}
+#{1000}{}{Look around. Do you think I can offer you anything for your help? Maybe just a roof over your head, I have nothing else.}
+{1000}{}{看看周围。你觉得我能帮你什么忙吗？也许只是你头上的一个屋顶，我没有别的了。}
+#{1001}{}{Alright, that won't be necessary. I'll be back for the reply tomorrow.}
+{1001}{}{好吧，那没必要。我明天回来拿回信。}
+#{1002}{}{If you don't show me the money, you can forget about my help. I'm not a charity.}
+{1002}{}{如果你不把钱给我看，你可以忘记我的帮助。我不是慈善机构。}
+#{1050}{}{Then I'm sorry, but thanks anyway.}
+{1050}{}{那我很抱歉，不过还是谢谢你。}
+#{1051}{}{Farewell.}
+{1051}{}{再会。}
+#{1052}{}{Bye!}
+{1052}{}{再见！}
+#{1100}{}{Look around. Do you see anything I could possibly pay you with?}
+{1100}{}{看看周围。你看到我能付你的钱了吗？}
+#{1101}{}{You're right, I'm sorry. Here's the letter. [Give him the letter.]}
+{1101}{}{你说得对，对不起。这是信。[把信给他。]}
+#{1102}{}{Hmm, not at all. In that case forget about the letter.}
+{1102}{}{嗯，一点也不。那样的话，忘了信吧。}
+#{1103}{}{I don't believe you! I bet when I'm searching your dead bodies, I'll find more than enough.}
+{1103}{}{我不相信你！我打赌当我搜索你的尸体时，我会找到更多的。}
+#{1150}{}{Yes, Yes, I hope so. Would you be so kind and give it to me?}
+{1150}{}{是的，是的，我希望如此。你能把它给我吗？}
+#{1151}{}{Yes, Yes, I hope so. Would you be so kind and give it to me?}
+{1151}{}{是的，是的，我希望如此。你能把它给我吗？}
+#{1152}{}{Of course, here you go.}
+{1152}{}{当然，给你。}
+#{1153}{}{Hold on a bit, there ain't no such thing as a free brahmin.}
+{1153}{}{等等，没有自由的双头牛。}
+#{1154}{}{Hmm, now that I'm thinking about it, I don't see a single reason to give the letter to such a basket case like you.}
+{1154}{}{嗯，现在我想起来了，我看不出有什么理由把这封信交给像你这样的人。}
+#{1200}{}{Now, now, just take it easy! Be so kind and give me the letter.}
+{1200}{}{现在，现在，放松点！太好了，把信给我。}
+#{1201}{}{Of course, here you go.}
+{1201}{}{当然，给你。}
+#{1202}{}{Wait. I won't give you anything for free.}
+{1202}{}{等待。我不会免费给你任何东西。}
+#{1203}{}{Hmm, now that I'm thinking about it, I don't see a single reason to give the letter to such a basket case like you.}
+{1203}{}{嗯，现在我想起来了，我看不出有什么理由把这封信交给像你这样的人。}
+#{1250}{}{You liar! He hated me! Before parting, we had a fierce argument! Tell me one good reason not to shoot you right now.}
+{1250}{}{你这个骗子！他恨我！临别前，我们吵了一架！告诉我一个很好的理由现在不要开枪。}
+#{1251}{}{You liar! He hated me! Before parting, we had a fierce argument! Tell me one good reason not to shoot you right now.}
+{1251}{}{你这个骗子！他恨我！临别前，我们吵了一架！告诉我一个很好的理由现在不要开枪。}
+#{1252}{}{Maybe because I have the letter from him, and I will tear it to pieces before you pull the trigger.}
+{1252}{}{也许因为我有他的信，我会在你扣动扳机之前把它撕成碎片。}
+#{1253}{}{I was just trying to spare your feelings. Why did you argue?}
+{1253}{}{我只是不想伤害你的感情。你为什么争论？}
+#{1254}{}{Well, have it your way. We'll see who's the better marksman!}
+{1254}{}{好吧，随你的便。我们看看谁是更好的射手！}
+#{1255}{}{I was just trying to spare your feelings. Why did you argue?}
+{1255}{}{我只是不想伤害你的感情。你为什么争论？}
+#{1300}{}{Ah well, that's just like Adam, for serious tasks he hires irresponsible people. Never mind, so listen, loony, I'm his BROTHER, get it? That means we share a mother and maybe even a father. So you can give the letter to me, get it?}
+{1300}{}{啊，那就像亚当，为了严肃的工作他雇佣不负责任的人。没关系，听着，疯子，我是他哥哥，明白吗？这意味着我们有一个母亲，甚至可能有一个父亲。所以你可以把信给我，明白吗？}
+#{1301}{}{Yeeeeep. [Give him the letter.]}
+{1301}{}{是的。[把信给他。]}
+#{1302}{}{[Nod in agreement and start swaying.]}
+{1302}{}{[点头表示同意并开始摇摆。]}
+#{1303}{}{Ah well, that's just like Adam, for serious tasks he hires irresponsible people. Never mind, so listen, loony, I'm his BROTHER, get it? That means we share a mother and maybe even a father. So you can give the letter to me, get it?}
+{1303}{}{啊，那就像亚当，为了严肃的工作他雇佣不负责任的人。没关系，听着，疯子，我是他哥哥，明白吗？这意味着我们有一个母亲，甚至可能有一个父亲。所以你可以把信给我，明白吗？}
+#{1350}{}{There you go, you're able to think from time to time! Thank God. Could you stop by for the reply tomorrow and take it to Adam? By tomorrow I mean the Sun going to bed, and after it wakes up and be up in the sky again, you can come. Get it?}
+{1350}{}{好了，你可以不时地思考！感谢上帝。你明天能顺便过来给亚当回信吗？我说的明天是指太阳要睡觉了，等它醒来，又升上天空，你就可以来了。了解了？}
+#{1351}{}{A-e-i-o-u, yeeeeh.}
+{1351}{}{A-e-i-o-u，耶。}
+#{1352}{}{Nooooo, nooo more!}
+{1352}{}{不，不更多！}
+#{1400}{}{What a nifty guy you are! So could you give me the letter already?}
+{1400}{}{你真是个帅哥！你能把信给我吗？}
+#{1401}{}{What a nifty girl you are! So could you give me the letter already?}
+{1401}{}{你真是个漂亮的女孩！你能把信给我吗？}
+#{1402}{}{There, there!}
+{1402}{}{好了，好了！}
+#{1403}{}{U-uh? Yeh weh?}
+{1403}{}{你-呃？是吗？}
+#{1450}{}{Oh well, you're apparently even more stupid than I thought. LETTER. GIVE. ME. NOW. Get it?}
+{1450}{}{哦，你显然比我想象的还要蠢。信。给予。我。现在。了解了？}
+#{1451}{}{Yee-eh.}
+{1451}{}{是啊。}
+#{1452}{}{[Say nothing.]}
+{1452}{}{[什么也不说。]}
+#{1500}{}{Aaaargh! You MORON! I will give you fifty caps if you come to your senses, at least for a second, and understand what I want from you!}
+{1500}{}{啊！你这个白痴！如果你能清醒过来，至少一秒钟，明白我想从你那里得到什么，我就给你五十顶瓶盖！}
+#{1501}{}{Yaaay, casps! [Give him the letter.]}
+{1501}{}{耶，卡斯普斯！[把信给他。]}

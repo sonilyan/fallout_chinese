@@ -1,0 +1,32 @@
+#{100}{}{You can see no way to use the emitter.}
+{100}{}{你看不到使用发射器的方法。}
+#{101}{}{You can see no way to use the force field.}
+{101}{}{你看不到使用力场的方法。}
+#{102}{}{You are shocked by the weakened force field.}
+{102}{}{你被削弱的力场震惊了。}
+#{103}{}{ is shocked by the weakened force field.}
+{103}{}{被削弱的力场所震惊。}
+#{107}{}{You are shocked by the force field.}
+{107}{}{你被力场震惊了。}
+#{108}{}{ is shocked by the force field.}
+{108}{}{受到力场的冲击。}
+#{109}{}{You fail to lower the force field.}
+{109}{}{你不能降低力场。}
+#{110}{}{ fails to lower the force field.}
+{110}{}{无法降低力场。}
+#{111}{}{You hear over the loud speaker: Warning! Intruder Alert! Enable Security Systems.}
+{111}{}{你从扩音器里听到：警告！入侵者警报！启用安全系统。}
+#{112}{}{You disable the force field.}
+{112}{}{禁用力场。}
+#{113}{}{ disables the force field.}
+{113}{}{禁用力场。}
+#{114}{}{You enable the force field.}
+{114}{}{启用力场。}
+#{115}{}{ enables the force field.}
+{115}{}{启用力场。}
+#{116}{}{You destroy the force field emitter.}
+{116}{}{你摧毁了力场发射器。}
+#{200}{}{The emitter is switched off. The force field is not active.}
+{200}{}{发射器已关闭。力场未激活。}
+#{201}{}{The emitter keeps the active force field in defined space.}
+{201}{}{发射器将主动力场保持在定义的空间中。}

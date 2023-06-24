@@ -1,0 +1,370 @@
+#{100}{}{You see an old man.}
+{100}{}{你看到一个老人。}
+#{150}{}{You see father Farley.}
+{150}{}{你看到法利神父了。}
+#{200}{}{You see a skinny old man dressed in a ragged cassock.}
+{200}{}{你看到一个瘦削的老人穿着破衣服。}
+#{250}{}{You see father Farley. He looks like a kind man.}
+{250}{}{你看到法利神父了。他看起来像个好人。}
+#{300}{}{In the name of the Father, the Son, and the Holy Spirit.}
+{300}{}{以圣父，圣子，圣灵的名义。}
+#{301}{}{Amen, brothers.}
+{301}{}{阿门，兄弟们。}
+#{302}{}{Go away! I have nothing to say to the likes of you!}
+{302}{}{走开！我对你这种人没什么好说的！}
+#{303}{}{Go away! I have nothing to say to the likes of you!}
+{303}{}{走开！我对你这种人没什么好说的！}
+#{500}{}{Welcome to the house of God, son. I'm father Farley and it's my pleasure to welcome you to this shrine. You look like a decent person. Or are you tormented by the sins you need to confess?}
+{500}{}{欢迎来到上帝之家，孩子。我是法利神父，很高兴欢迎你来到这个神殿。你看起来像个正派的人。或者你被你需要忏悔的罪恶所折磨？}
+#{501}{}{Welcome to the house of God, son. I'm father Farley. How can I be of assistance? Do you wish to confess your sins?}
+{501}{}{欢迎来到上帝之家，孩子。我是法利神父。我能帮忙吗？你想认罪吗？}
+#{502}{}{Welcome to the house of God, daughter. I'm father Farley and it's my pleasure to welcome you to this shrine. You look like a decent person. Or are you tormented by the sins you need to confess?}
+{502}{}{欢迎来到上帝之家，女儿。我是法利神父，很高兴欢迎你来到这个神殿。你看起来像个正派的人。或者你被你需要忏悔的罪恶所折磨？}
+#{503}{}{Welcome to the house of God, daughter. I'm father Farley. How can I be of assistance? Do you wish to confess your sins?}
+{503}{}{欢迎来到上帝之家，女儿。我是法利神父。我能帮忙吗？你想认罪吗？}
+#{504}{}{Thanks, padre. Can I ask you something?}
+{504}{}{谢谢，神父。我能问你件事吗？}
+#{505}{}{Shut up, geezer. I'm in no mood for your religious babbling.}
+{505}{}{闭嘴，老头子。我没心情听你胡说八道。}
+#{506}{}{The house of God? God resides in such a ruin?}
+{506}{}{上帝之家？上帝就住在这样的废墟里？}
+#{507}{}{Sins? That'd be what?}
+{507}{}{罪恶？那是什么？}
+#{508}{}{Not that, really. I want to ask you a few questions.}
+{508}{}{不是那样，真的。我想问你几个问题。}
+#{509}{}{Eh, thanks, but I have to go now.}
+{509}{}{呃，谢谢，但我现在得走了。}
+#{510}{}{Give yummies?}
+{510}{}{给你好吃的？}
+#{511}{}{Bai bai, mister.}
+{511}{}{白白，先生。}
+#{512}{}{[Point at the cross on the lapel of his cassock.] Cross-ie! Veeeery nice.}
+{512}{}{[指着他衣领上的十字架]十字架！非常好。}
+#{550}{}{How can I be of assistance, son?}
+{550}{}{我能帮上什么忙吗，孩子？}
+#{551}{}{How can I be of assistance, daughter?}
+{551}{}{我能帮什么忙，女儿？}
+#{552}{}{I need to ask you something.}
+{552}{}{我要问你一件事。}
+#{553}{}{Alexa told me she donates to you just to get more drug customers. I think you should know this.}
+{553}{}{Alexa告诉我她捐钱给你只是为了吸引更多的吸毒者。我想你应该知道这个。}
+#{554}{}{No need for that this time. Farewell, padre.}
+{554}{}{这次没必要了。再见，神父。}
+#{555}{}{Frowsie owsie? What a lousie?}
+{555}{}{弗罗西·奥西？多差劲啊？}
+#{556}{}{Bai.}
+{556}{}{白。}
+#{557}{}{[Point at the cross on the lapel of his cassock.] Cross-ie! Veeeery nice.}
+{557}{}{[指着他衣领上的十字架]十字架！非常好。}
+#{600}{}{Of course, just ask. Curiosity is the mother of wisdom.}
+{600}{}{当然，只要问问。好奇心是智慧之母。}
+#{601}{}{How did the conflict between Julian and Leonard start?}
+{601}{}{朱利安和伦纳德之间的冲突是怎么开始的？}
+#{602}{}{What can you tell me about Rat Hole?}
+{602}{}{关于老鼠洞你能告诉我什么？}
+#{603}{}{Where can I find a job here?}
+{603}{}{我在哪能找到工作？}
+#{604}{}{What do you do here?}
+{604}{}{你在这里做什么？}
+#{605}{}{What are sins?}
+{605}{}{什么是罪恶？}
+#{606}{}{Have you seen this sign before? [Show him the talisman.]}
+{606}{}{你以前见过这个牌子吗？[给他看护身符]}
+#{609}{}{I need to learn something about Maria.}
+{609}{}{我需要了解玛丽亚。}
+#{610}{}{George told me you handed him a note from doctor Reed. Can you tell me more about that?}
+{610}{}{乔治告诉我你递给他一张里德医生的纸条。你能告诉我更多吗？}
+#{611}{}{Forget that. I have to go.}
+{611}{}{算了吧。我得走了。}
+#{613}{}{Can I donate to the church?}
+{613}{}{我能捐给教堂吗？}
+#{614}{}{Have you seen this sign before? [Describe the talisman to him.]}
+{614}{}{你以前见过这个牌子吗？[向他描述护身符。]}
+#{650}{}{It's not a happy story. Today, hardly anybody knows that Julian and Leonard used to be best friends a long time ago. They came to this town together and started a business that made them a fortune. It seemed their success couldn't be thwarted by anything. But then, however, Maria - the mayor's daugher - stepped in. She was beautiful and they both fell crazily in love with her. She became the source of increasingly severe quarrels that she helped to flourish. It seemed she couldn't pick one and dated both.}
+{650}{}{这不是一个快乐的故事。今天，几乎没有人知道朱利安和伦纳德很久以前是最好的朋友。他们一起来到这个小镇，开始了一项生意，赚了一大笔钱。他们的成功似乎没有任何阻碍。然而，后来，市长的女儿玛丽亚介入了此事。她很漂亮，他们都疯狂地爱上了她。她成了越来越激烈的争吵的根源，她促成了争吵的兴盛。看来她选不到一个，两个都约会了。}
+#{651}{}{It's not a happy story. Today, hardly anybody knows that Julian and Leonard used to be best friends a long time ago. They came to this town together and started a business that made them a fortune. It seemed their success couldn't be thwarted by anything. But then, however, Maria - the mayor's daugher - stepped in. She was beautiful and they both fell crazily in love with her. She became the source of increasingly severe quarrels that she helped to flourish. It seemed she couldn't pick one and dated both.}
+{651}{}{这不是一个快乐的故事。今天，几乎没有人知道朱利安和伦纳德很久以前是最好的朋友。他们一起来到这个小镇，开始了一项生意，赚了一大笔钱。他们的成功似乎没有任何阻碍。然而，后来，市长的女儿玛丽亚介入了此事。她很漂亮，他们都疯狂地爱上了她。她成了越来越激烈的争吵的根源，她促成了争吵的兴盛。看来她选不到一个，两个都约会了。}
+#{652}{}{The love triangle is a tricky thing. But I still don't understand why it dragged this town into war.}
+{652}{}{三角恋是一件棘手的事情。但我还是不明白为什么它会把这个城市拖进战争。}
+#{653}{}{It actually doesn't interest me that much. I want to ask something else.}
+{653}{}{其实我没那么感兴趣。我想问点别的。}
+#{654}{}{You'll have to end this story next time. Farewell, padre.}
+{654}{}{下次你得把这个故事结束了。再见，神父。}
+#{850}{}{What do you want to know exactly?}
+{850}{}{你到底想知道什么？}
+#{851}{}{Tell me something about the North Side.}
+{851}{}{告诉我一些关于北边的事。}
+#{852}{}{Tell me something about the South Side.}
+{852}{}{告诉我一些关于南边的事。}
+#{853}{}{I'd like to know where I can shop here.}
+{853}{}{我想知道我在哪里可以购物。}
+#{854}{}{How come the war in town is lasting so long?}
+{854}{}{城里的战争怎么会持续这么久？}
+#{855}{}{You surely noticed the most important stuff by yourself - this town is torn into two halves that wage merciless war against each other. The North Side is ruled by Leonard, the South Side is ruled by Julian. Both have gathered a great number of mercenaries and they won't stop till they've eliminated each other. Their long lasting feud destroyed the town so much it's on the verge of doom.}
+{855}{}{你自己肯定注意到了最重要的事情——这个城市被分成两半，彼此之间展开无情的战争。北面由伦纳德统治，南面由朱利安统治。两人都聚集了大量的雇佣兵，他们不消灭对方是不会罢休的。他们长期的宿怨把这个城市毁得一塌糊涂。}
+#{856}{}{You surely noticed the most important stuff by yourself - this town is torn into two halves that wage merciless war against each other. The North Side is ruled by Leonard, the South Side is ruled by Julian. Both have gathered a great number of mercenaries and they won't stop till they've eliminated each other. Their long lasting feud destroyed the town so much it's on the verge of doom.}
+{856}{}{你自己肯定注意到了最重要的事情——这个城市被分成两半，彼此之间展开无情的战争。北面由伦纳德统治，南面由朱利安统治。两人都聚集了大量的雇佣兵，他们不消灭对方是不会罢休的。他们长期的宿怨把这个城市毁得一塌糊涂。}
+#{900}{}{I doubt anyone in town would employ you. You can see how things are here. There's no work even for locals, let alone for strangers.}
+{900}{}{我怀疑城里有人会雇用你。你可以看到这里的情况。连本地人都没有工作，更不用说陌生人了。}
+#{901}{}{There's really no work to do?}
+{901}{}{真的没有工作要做？}
+#{902}{}{Forget that. I have a different question.}
+{902}{}{算了吧。我有一个不同的问题。}
+#{903}{}{Ah, that'd be all. Farewell, padre.}
+{903}{}{啊，就这些。再见，神父。}
+#{950}{}{Well you can try your luck at Julian's or Leonard's. These two are the only ones hiring here. But it won't be risk-free. They're both so paranoid they don't even trust their own men. Leonard even completely cut connections to the outside world. The word is he's hiding in the underground of his headquarters where only his most loyal are allowed. Apart from those, nobody has seen him for years.}
+{950}{}{好吧，你可以去朱利安或莱纳德那碰碰运气。这两个是这里唯一招人的。但这不是没有风险的。他们都很偏执，甚至不相信自己的人。伦纳德甚至完全切断了与外界的联系。据说他躲在总部的地下室里，只有他最忠诚的人才能进去。除此之外，多年来没有人见过他。}
+#{951}{}{Thanks for the warning, but I probably won't get any caps anywhere else. I'll have to visit them.}
+{951}{}{谢谢你的警告，但我可能在别的地方找不到瓶盖了。我得去看看他们。}
+#{952}{}{Understood. One more question.}
+{952}{}{理解。还有一个问题。}
+#{953}{}{I'll have to go. Farewell, padre.}
+{953}{}{我得走了。再见，神父。}
+#{1000}{}{In that case, all I can do is to wish you luck. You'll need it.}
+{1000}{}{那样的话，我只能祝你好运了。你会需要的。}
+#{1001}{}{Thanks for that, too. I have another question.}
+{1001}{}{也谢谢你。我还有一个问题。}
+#{1002}{}{It won't be that bad, hopefully. Farewell, Farley.}
+{1002}{}{希望不会那么糟。再见，法利。}
+#{1050}{}{The North Side? I think you've seen everything important. Among the ruins, only the church, the bar and Leonard's headquarters still stand. The residents are mostly wretched junkies and their numbers are dwindling constantly. Julian's people shoot them on sight. It's sad, those poor souls meet God so young. [He sighs.]}
+{1050}{}{北边？我想你已经看到了所有重要的事情。废墟中，只有教堂、酒吧和伦纳德的总部仍然矗立着。居民大多是可怜的瘾君子，他们的人数不断减少。朱利安的人一看到他们就开枪。真悲哀，那些可怜的灵魂这么年轻就遇见了上帝。[他叹了口气]}
+#{1051}{}{The North Side? I think you've seen everything important. Among the ruins, only the church, the bar and Leonard's headquarters still stand. The residents are mostly wretched junkies and their numbers are dwindling constantly. Julian's people shoot them on sight. It's sad, those poor souls meet God so young. [He sighs.]}
+{1051}{}{北边？我想你已经看到了所有重要的事情。废墟中，只有教堂、酒吧和伦纳德的总部仍然矗立着。居民大多是可怜的瘾君子，他们的人数不断减少。朱利安的人一看到他们就开枪。真悲哀，那些可怜的灵魂这么年轻就遇见了上帝。[他叹了口气]}
+#{1052}{}{Yes. I want to ask something else.}
+{1052}{}{对。我想问点别的。}
+#{1053}{}{I'll have to go. Farewell, padre.}
+{1053}{}{我得走了。再见，神父。}
+#{1100}{}{The South Side probably looks more orderly, but that's just an illusion. Julian introduced a tough order that allows his mercenaries do anything they think of. Practically everyone wields a gun there. The clinic is still standing, but after all those years it has to be almost without supplies. And doctor Moore surely saves the last bits of medicine for Julian's men. Ordinary residents cannot afford his services.}
+{1100}{}{南边看起来可能更整齐，但那只是一种错觉。朱利安提出了一个严格的命令，允许他的雇佣军做任何他们想做的事。几乎每个人都有枪。诊所仍然存在，但经过这么多年，它几乎没有供应。摩尔医生肯定为朱利安的手下留了最后一点药。普通居民负担不起他的服务。}
+#{1101}{}{The South Side probably looks more orderly, but that's just an illusion. Julian introduced a tough order that allows his mercenaries do anything they think of. Practically everyone wields a gun there. The clinic is still standing, but after all those years it has to be almost without supplies. And doctor Moore surely saves the last bits of medicine for Julian's men. Ordinary residents cannot afford his services.}
+{1101}{}{南边看起来可能更整齐，但那只是一种错觉。朱利安提出了一个严格的命令，允许他的雇佣军做任何他们想做的事。几乎每个人都有枪。诊所仍然存在，但经过这么多年，它几乎没有供应。摩尔医生肯定为朱利安的手下留了最后一点药。普通居民负担不起他的服务。}
+#{1102}{}{Probably not. I want to ask something else.}
+{1102}{}{可能不会。我想问点别的。}
+#{1103}{}{I'll have to go. Farewell, padre.}
+{1103}{}{我得走了。再见，神父。}
+#{1150}{}{Only at Julian's or Leonard's. Nobody else will have anything of value to sell.}
+{1150}{}{只有在朱利安或伦纳德的。没有人会有任何有价值的东西出售。}
+#{1151}{}{I see. I want to ask something else.}
+{1151}{}{我懂了。我想问点别的。}
+#{1152}{}{I'll have to go. Farewell, padre.}
+{1152}{}{我得走了。再见，神父。}
+#{1200}{}{Pardon me? Your tone of voice marks hostility, son. However, I am not an enemy of yours. I want to help you.}
+{1200}{}{什么？孩子，你的语气显示出敌意。不过，我不是你的敌人。我想帮助你。}
+#{1201}{}{Pardon me? Your tone of voice marks hostility, daughter. However, I am not an enemy of yours. I want to help you.}
+{1201}{}{什么？你的语气显示出敌意，女儿。不过，我不是你的敌人。我想帮助你。}
+#{1202}{}{I'm not your son, old man. And you can stick your help up your ass.}
+{1202}{}{我不是你儿子，老头子。你可以把你的帮助塞进你的屁股。}
+#{1203}{}{I'm not your daughter, old man. And you can stick your help up your ass.}
+{1203}{}{我不是你女儿，老头子。你可以把你的帮助塞进你的屁股。}
+#{1204}{}{I'm sorry, padre. Can I ask you something?}
+{1204}{}{对不起，神父。我能问你件事吗？}
+#{1250}{}{In that case, I have nothing to tell you. Leave this sanctuary. People like you have no business being here.}
+{1250}{}{那样的话，我没什么要告诉你的。离开这个避难所。像你这样的人没必要在这里。}
+#{1251}{}{No, it'll be you who leaves... legs first!}
+{1251}{}{不，是你离开。。。先用腿！}
+#{1252}{}{Luckily for you, I'm in a good mood and won't kill you... this time.}
+{1252}{}{你很幸运，我心情很好，不会杀了你。。。这一次。}
+#{1300}{}{God is everywhere. The house of God is just a name for a sanctuary where you're closest to God. Now tell me what burdens you and I will try to help you.}
+{1300}{}{上帝无处不在。上帝之家只是一个圣所的名字，在那里你最接近上帝。现在告诉我你有什么负担，我会尽力帮助你。}
+#{1301}{}{I just want to ask a few questions.}
+{1301}{}{我只想问几个问题。}
+#{1302}{}{Actually, I have to go. Farewell, padre.}
+{1302}{}{实际上，我得走了。再见，神父。}
+#{1350}{}{Don't you know what a sin is? Something had to've smashed your head if you don't know the meaning of that word. Sins are bad things you've done. A confession will ease your conscience and erase many sins.}
+{1350}{}{你不知道什么是罪吗？如果你不知道那个词的意思，一定有什么东西砸了你的头。罪恶是你做的坏事。忏悔会减轻你的良心，消除许多罪恶。}
+#{1351}{}{Don't you know what a sin is? Something had to've smashed your head if you don't know the meaning of that word. Sins are bad things you've done. A confession will ease your conscience and erase many sins.}
+{1351}{}{你不知道什么是罪吗？如果你不知道那个词的意思，一定有什么东西砸了你的头。罪恶是你做的坏事。忏悔会减轻你的良心，消除许多罪恶。}
+#{1352}{}{Maybe another time. Can I ask you something?}
+{1352}{}{也许下次吧。我能问你件事吗？}
+#{1353}{}{Does stabbing a few infants count?}
+{1353}{}{刺伤几个婴儿算吗？}
+#{1354}{}{Ah. I'll have to go.}
+{1354}{}{啊。我得走了。}
+#{1400}{}{Why, you are a hideous murderer with not a bit of remorse! Get out of my sight!}
+{1400}{}{为什么，你是一个没有一丝悔恨的可怕的杀人犯！快离开我的视线！}
+#{1401}{}{Why, you are a hideous murderer with not a bit of remorse! Get out of my sight!}
+{1401}{}{为什么，你是一个没有一丝悔恨的可怕的杀人犯！快离开我的视线！}
+#{1402}{}{Were those your last words? Okay, get ready to meet your maker.}
+{1402}{}{那是你的遗言吗？好的，准备好见你的造物主。}
+#{1403}{}{Farewell, your turn will probably come later.}
+{1403}{}{再见，轮到你了。}
+#{1450}{}{Poor child, your mind was not touched by the hand of the creator. On this holy land, you will always find a refuge and safety. I promise you that.}
+{1450}{}{可怜的孩子，造物主的手没有触动你的心。在这片圣地上，你将永远得到庇护和安全。我向你保证。}
+#{1451}{}{Thankies! Bai.}
+{1451}{}{谢谢！白。}
+#{1500}{}{Of course, of course, silly. You can stay here as long as you want. You will always find a refuge here. I promise you that.}
+{1500}{}{当然，当然，傻瓜。你想呆多久就呆多久。你总会在这里找到避难所的。我向你保证。}
+#{1501}{}{Thankies! Bai bai.}
+{1501}{}{谢谢！白白。}
+#{1550}{}{I look after the church and people who need my help here. Not everybody can get themselves food or cure their illnesses. If it wasn't for me, most of these poor souls would die before long.}
+{1550}{}{我在这里照顾教会和需要我帮助的人。不是每个人都能给自己买食物或治愈疾病。如果不是我，这些可怜的灵魂中的大多数不久就会死去。}
+#{1551}{}{Who do you look after the most?}
+{1551}{}{你最照顾谁？}
+#{1552}{}{Where do you get the supplies for that? Surely no one here will give you anything for free.}
+{1552}{}{你从哪儿弄来的？这里肯定没有人会免费给你任何东西。}
+#{1553}{}{Tell me something about you.}
+{1553}{}{告诉我一些关于你的事。}
+#{1554}{}{Actually I want to ask you something else.}
+{1554}{}{其实我想问你点别的。}
+#{1600}{}{The old, the sick, the helpless... basically after everyone who comes here pleading for help. I provide a roof over head for many, too.}
+{1600}{}{老人，病人，无助的人。。。基本上是在所有来这里求救的人之后。我也为很多人提供了一个顶棚。}
+#{1601}{}{Where do you get the supplies for that? Surely no one here will give you anything for free.}
+{1601}{}{你从哪儿弄来的？这里肯定没有人会免费给你任何东西。}
+#{1602}{}{That's really generous of you. I have more questions.}
+{1602}{}{你真慷慨。我还有更多的问题。}
+#{1650}{}{You are right. But God stands by my side. From time to time, Alexa visits me and gives me some caps and food. She's a holy woman.}
+{1650}{}{你是对的。但上帝站在我身边。Alexa不时来看我，给我一些瓶盖和食物。她是个圣洁的女人。}
+#{1651}{}{Who's Alexa?}
+{1651}{}{Alexa是谁？}
+#{1652}{}{Can I contribute, too?}
+{1652}{}{我也能贡献吗？}
+#{1653}{}{I want to ask you something else.}
+{1653}{}{我想问你点别的。}
+#{1700}{}{What would you like to know about me? I am but an old man, devoted to God and the needy. I dedicated my entire life to him. I believe it was the right choice.}
+{1700}{}{你想了解我什么？我只是一个老人，献身于上帝和穷人。我把我的一生都献给了他。我相信这是正确的选择。}
+#{1701}{}{What would you like to know about me? I am but an old man, devoted to God and the needy. I dedicated my entire life to him. I believe it was the right choice.}
+{1701}{}{你想了解我什么？我只是一个老人，献身于上帝和穷人。我把我的一生都献给了他。我相信这是正确的选择。}
+#{1703}{}{Good for you. I want to ask you something else.}
+{1703}{}{真为你高兴。我想问你点别的。}
+#{1850}{}{Alexa's Leonard's right hand. After Leonard started avoiding people, she began taking care of most of the business. You can meet her in his headquarters. But beware, she's very suspicious when it comes to strangers.}
+{1850}{}{Alexa是Leonard的右手。伦纳德开始回避别人后，她开始处理大部分业务。你可以在他的总部见她。但是小心，她对陌生人很怀疑。}
+#{1851}{}{Thanks for the warning. I have another question.}
+{1851}{}{谢谢你的警告。我还有一个问题。}
+#{1852}{}{Ah, I have to go. Farewell, padre.}
+{1852}{}{啊，我得走了。再见，神父。}
+#{1900}{}{But of course! It's been a long time since a stranger contributed to the church. I will be very grateful for whatever gift you give.}
+{1900}{}{但是当然！很久没有陌生人为教堂捐款了。无论你送什么礼物，我都会非常感激的。}
+#{1901}{}{Please, accept 5 caps then.}
+{1901}{}{请接受5个大写字母。}
+#{1902}{}{Please, accept 10 caps then.}
+{1902}{}{请接受10个大写字母。}
+#{1903}{}{Please, accept 15 caps then.}
+{1903}{}{请接受15个大写字母。}
+#{1904}{}{Please, accept 20 caps then.}
+{1904}{}{请接受20个大写字母。}
+#{1905}{}{Ah, maybe later, I would rather ask...}
+{1905}{}{啊，也许以后，我宁愿问。。。}
+#{1950}{}{Thank you, you just did a good deed. God will surely reward you soon.}
+{1950}{}{谢谢，你刚刚做了一件好事。上帝一定会很快报答你的。}
+#{1951}{}{Thank you, you just did a good deed. God will surely reward you soon.}
+{1951}{}{谢谢，你刚刚做了一件好事。上帝一定会很快报答你的。}
+#{1952}{}{You're welcome. I have another question.}
+{1952}{}{不客气。我还有一个问题。}
+#{1953}{}{You're welcome, but I have to go.}
+{1953}{}{不客气，但我得走了。}
+#{2000}{}{Julian and Leonard gradually reached a no-win situation. Each of them fortified himself in the part of the town he had seized, but neither was able to gain the upper hand. Direct clashes became scarcer and scarcer. Today, those are exceptional, but the forced stalemate isn't much better than open war. The situation in town gets worse every day. I don't know how much longer we can take it.}
+{2000}{}{朱利安和伦纳德逐渐陷入了一种无赢的局面。他们各人在所夺城的地上坚固自己，却都不能占上风。直接冲突越来越少。今天，这些都是例外，但被迫的僵局并不比公开战争好多少。城里的情况每天都在恶化。我不知道我们还能忍受多久。}
+#{2001}{}{Ah. I would like to ask you something else.}
+{2001}{}{啊。我想问你别的问题。}
+#{2002}{}{Thanks for the answers. Farewell, padre.}
+{2002}{}{谢谢你的回答。再见，神父。}
+#{2050}{}{[Father Farley thinks for a while.] No, sadly, I have never seen anything like this in my life. And I doubt that anyone here would tell you something else. Since the caravans have stopped coming here, we live in complete isolation. That talisman of yours is surely one of many things from the outside world we have no grasp of.}
+{2050}{}{[法利神父想了一会儿]不，很遗憾，我这辈子从没见过这样的事。我怀疑这里有人会告诉你别的事情。既然商队不来了，我们就完全与世隔绝了。你的护身符肯定是我们无法掌握的来自外部世界的许多东西之一。}
+#{2051}{}{That's unfortunate. I would like to ask you something else.}
+{2051}{}{那太不幸了。我想问你别的问题。}
+#{2052}{}{Thanks anyway. Farewell, padre.}
+{2052}{}{无论如何谢谢你。再见，神父。}
+#{2053}{}{Caravans used to come here? Where from?}
+{2053}{}{大篷车过去常来这里？从哪里来的？}
+#{2100}{}{Well yes, caravans. They had a direct route here from Sedit, a great caravan town eastwards. I can show it to you on a map. [After a while of thinking over the map on your Pip-Boy, he marks the town's location.]}
+{2100}{}{是的，商队。他们有一条从塞迪特向东的大篷车镇直达这里的路线。我可以在地图上给你看。[在仔细考虑了一下你的皮普男孩的地图后，他标出了这个城镇的位置。]}
+#{2101}{}{Thanks, I would like to ask you something else.}
+{2101}{}{谢谢，我想问你别的问题。}
+#{2103}{}{I have to go. Farewell, padre.}
+{2103}{}{我得走了。再见，神父。}
+#{2200}{}{It was such a long time ago... But ask away, what exactly interests you?}
+{2200}{}{那是很久以前的事了。。。但你要问，你到底感兴趣的是什么？}
+#{2201}{}{I need to know what exactly happened to her.}
+{2201}{}{我要知道她到底怎么了。}
+#{2202}{}{Do you know who would've wanted to kill her?}
+{2202}{}{你知道谁会想杀了她吗？}
+#{2203}{}{Nevermind, I want to ask something else.}
+{2203}{}{没关系，我想问点别的。}
+#{2250}{}{[Farley sighs.] It was a terrible night. They found Maria dead in some alley, stabbed so many times they almost didn't recognize her. I didn't see her myself, but surely it was a terrible sight. For doctor Reed, who was in charge of the autopsy and funeral, it had to be a terrible experience. Maybe that was one of the reasons she decided to leave.}
+{2250}{}{这是一个可怕的夜晚。他们发现玛丽亚死在某个巷子里，被捅了很多刀，差点认不出她来。我自己没看见她，但那肯定是一个可怕的景象。对负责尸检和葬礼的里德医生来说，这一定是一次可怕的经历。也许这就是她决定离开的原因之一。}
+#{2251}{}{Do you know someone who might know more about the murder scene?}
+{2251}{}{你认识更了解谋杀现场的人吗？}
+#{2252}{}{Ah. Let's get back to Maria.}
+{2252}{}{啊。让我们回到玛丽亚身边。}
+#{2253}{}{Doctor Reed? Who's that?}
+{2253}{}{里德医生？那是谁？}
+#{2300}{}{Sorry, I have no idea. But you can ask the local gravedigger. He usually slacks around the graveyard. He knows more about the dead than me. All in all, my task is to take care mainly of those still living.}
+{2300}{}{对不起，我不知道。但你可以问问当地的掘墓人。他通常在墓地周围闲逛。他比我更了解死者。总而言之，我的任务主要是照顾那些还活着的人。}
+#{2301}{}{Do you know someone who might know more about the murder scene?}
+{2301}{}{你认识更了解谋杀现场的人吗？}
+#{2302}{}{Thanks for the information, but let's get back to Maria.}
+{2302}{}{谢谢你的消息，但让我们回到玛丽亚身边。}
+#{2350}{}{No, I don't really know. I don't want to judge anyone, but it's true that Julian and Leonard had the strongest motif. But who is the actual murderer? That's the question.}
+{2350}{}{不，我真的不知道。我不想评判任何人，但朱利安和伦纳德确实有着最强烈的主题。但真正的凶手是谁？这就是问题所在。}
+#{2351}{}{Who knows. Let's get back to Maria.}
+{2351}{}{谁知道呢。让我们回到玛丽亚身边。}
+#{2400}{}{That, I don't know. Those who found her are long gone. I am sorry.}
+{2400}{}{我不知道。找到她的人早就不见了。我很抱歉。}
+#{2401}{}{What a pity. Let's get back to Maria.}
+{2401}{}{真遗憾。让我们回到玛丽亚身边。}
+#{2402}{}{Thank you anyway. Farewell, padre.}
+{2402}{}{无论如何谢谢你。再见，神父。}
+#{2450}{}{A note from doctor Reed? Yes, of course, I remember that. Shortly after Maria's death I found it pinned on the church's door. The doctor was probably in a hurry. She was one of the first who left this town. She probably foresaw what was going to happen to us. In the note she wrote that the ceremony was taken care of. It was weird to me that she took care of it instead of me, but I supposed it's the way George wanted it. I gave him the note and he didn't ask anything. He had a lot to worry about anyway.}
+{2450}{}{里德医生的便条？是的，当然，我记得。玛丽亚死后不久，我发现它被钉在教堂的门上。医生可能很匆忙。她是第一批离开这个城市的人之一。她可能预见到了我们会发生什么。她在便条上写道，仪式已经办妥了。我觉得奇怪的是她代替我来处理它，但我想这是乔治想要的方式。我把纸条给了他，他什么也没问。反正他有很多事要担心。}
+#{2451}{}{Thanks, padre. That'll be all.}
+{2451}{}{谢谢，神父。就这些了。}
+#{2452}{}{Can I ask you something else?}
+{2452}{}{我能问你点别的吗？}
+#{2453}{}{So you didn't attend the funeral. Don't you at least know where her grave is?}
+{2453}{}{所以你没有参加葬礼。你难道不知道她的坟墓在哪里吗？}
+#{2500}{}{She was a local doctor. She left right after Maria's death. Doctor Moore took over Reed's clinic after his arrival.}
+{2500}{}{她是当地的医生。玛丽亚死后她就离开了。里德到达后，摩尔医生接管了他的诊所。}
+#{2501}{}{Do you know someone who might know more about the murder scene?}
+{2501}{}{你认识更了解谋杀现场的人吗？}
+#{2502}{}{Let's get back to Maria.}
+{2502}{}{让我们回到玛丽亚身边。}
+#{2550}{}{What are you saying? Alexa may have some quirks, but she's a religious woman. You should not be backtalking her like this.}
+{2550}{}{你在说什么？Alexa可能有一些怪癖，但她是个虔诚的女人。你不应该这样反驳她。}
+#{2551}{}{What are you saying? Alexa may have some quirks, but she's a religious woman. You should not be backtalking her like this.}
+{2551}{}{你在说什么？Alexa可能有一些怪癖，但她是个虔诚的女人。你不应该这样反驳她。}
+#{2552}{}{Think about it. Most of the poor you give caps to spend it on drugs at Alexa's. In this quarter, they're the cheapest, and easier obtain than food. Once they start with it, they can't stop and will do anything for Alexa just to get another dose.}
+{2552}{}{好好想想。大多数穷人都会给你瓶盖，让他们在Alexa's买药。在这个季度，他们是最便宜的，而且比食物更容易买到。一旦他们开始服用，他们就不能停下来，为了再服用一剂，他们会为Alexa做任何事。}
+#{2553}{}{Sorry, padre. It won't happen again. I'll be on my way.}
+{2553}{}{对不起，神父。不会再发生了。我马上就来。}
+#{2600}{}{Quiet! I am no longer willing to listen to your stories. There's enough wickedness in this town anyway. Leave.}
+{2600}{}{安静的！我不再愿意听你讲故事了。反正这个镇上的邪恶已经够多了。离开。}
+#{2601}{}{Whatever. Farewell.}
+{2601}{}{无论什么。再会。}
+#{2650}{}{[Farley becomes sad suddenly.] You speak wisely... And probably the truth. This is a terrible discovery. Sadly, I cannot stop accepting donations from Alexa. If I didn't help those people, they could end up even worse. Even if I can save only one soul this way, it's worth it. Thank you anyway. I will try hand out more food than caps and I will focus on warning against drugs. God bless you.}
+{2650}{}{[法利突然伤心起来]你说话很明智。。。也许是事实。这是一个可怕的发现。可悲的是，我不能停止接受亚历克斯的捐赠。如果我不帮助那些人，他们的结局可能会更糟。即使我只能用这种方式拯救一个灵魂，这也是值得的。无论如何谢谢你。我会尝试分发更多的食物而不是瓶盖，我会集中注意戒毒。上帝保佑你。}
+#{2651}{}{You're welcome, padre.}
+{2651}{}{不客气，神父。}
+#{2700}{}{Julian and Leonard's feud was getting worse. Once, they argued about Maria so much that Leonard left their business and started his own. That only aggravated their relationship. They surrounded themselves with mercenaries whose clashes threatened the entire town. The order was kept only with the greatest difficulties. And then it happened. [Farley falls silent.] They found Maria stabbed to death in some alley. Julian and Leonard started blaming her murder on each other, and began using direct violence afterwards. They threw their mercenary bands against each other and dragged this town into a neverending war.}
+{2700}{}{朱利安和伦纳德的不和越来越严重。有一次，他们为玛丽亚吵得不可开交，伦纳德离开了他们的公司，开始了自己的事业。那只会加剧他们的关系。他们被雇佣军包围，他们的冲突威胁到整个城镇。秩序是在最困难的情况下维持的。然后就发生了。他们发现玛丽亚在某个巷子里被刺死了。朱利安和伦纳德开始互相指责她的谋杀，然后开始使用直接暴力。他们用雇佣军组织互相攻击，把这个城市拖进了一场无休止的战争。}
+#{2701}{}{How come their conflict has lasted so long?}
+{2701}{}{为什么他们的冲突持续了这么久？}
+#{2702}{}{What a sad story. I would like to ask you something else.}
+{2702}{}{多悲惨的故事啊。我想问你别的问题。}
+#{2703}{}{Thanks for your story. Farewell, padre.}
+{2703}{}{谢谢你的故事。再见，神父。}
+#{2750}{}{[He smiles leniently.] Yes, you are right. That's a symbol of my faith. God's son died on the cross to redeem our sins.}
+{2750}{}{是的，你说得对。那是我信仰的象征。神的儿子死在十字架上是为了赎罪。}
+#{2751}{}{ symbol too! [Wave the talisman in front of his face.] You know?}
+{2751}{}{符号也是！你知道吗？}
+#{2752}{}{ symbol too! Lost. Didn't find? [Wave your hands in the air to indicate the shape of the talisman.] Round.}
+{2752}{}{符号也是！迷路的。没有找到？[在空中挥手示意护身符的形状]圆形。}
+#{2753}{}{Uh, dieded? Run away!}
+{2753}{}{呃，死了？快跑！}
+#{2800}{}{No, my child. I haven't ever seen such a talisman. You can put it down again.}
+{2800}{}{不，我的孩子。我从没见过这样的护身符。你可以再把它放下。}
+#{2801}{}{[Start waving faster.] You know?!}
+{2801}{}{你知道吗？！}
+#{2802}{}{[Hide the talisman.] Bai then!}
+{2802}{}{[把护身符藏起来]那就拜！}
+#{2850}{}{Indeed not! [He sighs.] But you know where they might recognize it? In the town of Sedit. It's big enough. I'll show you where it is. [He marks the city's location on your Pip-Boy map.] You should go there. Right now, if possible. May God lead your steps.}
+{2850}{}{确实不是！[他叹了口气]但是你知道他们在哪里能认出它吗？在塞迪特镇。它够大了。我会告诉你它在哪里。[他在你的地图上标出了这个城市的位置]你应该去那里。现在，如果可能的话。愿上帝引领你的脚步。}
+#{2851}{}{Indeed not! [He sighs.] But you know where they might recognize it? In the town of Sedit. It's big enough. I'll show you where it is. [He marks the city's location on your Pip-Boy map.] You should go there. Right now, if possible. May God lead your steps.}
+{2851}{}{确实不是！[他叹了口气]但是你知道他们在哪里能认出它吗？在塞迪特镇。它够大了。我会告诉你它在哪里。[他在你的地图上标出了这个城市的位置]你应该去那里。现在，如果可能的话。愿上帝引领你的脚步。}
+#{2852}{}{Se-dit. Yeep-yep.}
+{2852}{}{编辑。是的，是的。}
+#{2900}{}{No, my child. I am sorry, but it doesn't ring a bell.}
+{2900}{}{不，我的孩子。我很抱歉，但它不响。}
+#{2901}{}{[Wave your hands more.] Did-not-find?!}
+{2901}{}{[再挥挥手]没找到？！}
+#{2902}{}{Bai then!}
+{2902}{}{那就拜！}

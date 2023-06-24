@@ -1,0 +1,1254 @@
+#{100}{}{You see a woman with sharp facial features.}
+{100}{}{你看到的是一个五官鲜明的女人。}
+#{150}{}{You see Alexa.}
+{150}{}{你看到亚历克斯了。}
+#{200}{}{You see a woman with sharp facial features and an unsettlingly piercing gaze.}
+{200}{}{你看到的是一个面容犀利、目光锐利的女人。}
+#{250}{}{You see Alexa, Leonard's right hand. She inspires respect mixed with fear.}
+{250}{}{你看亚历克斯，伦纳德的右手。她激起了人们的尊敬和恐惧。}
+#{350}{}{Come here and die!}
+{350}{}{过来死吧！}
+#{351}{}{Death's waiting for you!}
+{351}{}{死神在等你！}
+#{352}{}{You chose it yourself. Guys, get him.}
+{352}{}{你自己选的。伙计们，抓住他。}
+#{353}{}{You chose it yourself. Guys, get her.}
+{353}{}{你自己选的。伙计们，抓住她。}
+#{354}{}{Get him, guys!}
+{354}{}{抓住他，伙计们！}
+#{355}{}{Get her, guys!}
+{355}{}{抓住她，伙计们！}
+#{356}{}{"Hah hah"; Too bad I have no sense of humor.}
+{356}{}{哈哈，可惜我没有幽默感。}
+#{357}{}{If you think I'm gonna let you go, you're wrong.}
+{357}{}{如果你认为我会放你走，那你就错了。}
+#{358}{}{I knew it! You're dead meat!}
+{358}{}{我就知道！你死定了！}
+#{359}{}{Get out! I'm not in the mood for you.}
+{359}{}{走出！我没心情看你。}
+#{360}{}{Get outta there, you scumbag!}
+{360}{}{滚开，你这个混蛋！}
+#{361}{}{Get outta there, you bitch!}
+{361}{}{滚开，你这个婊子！}
+#{370}{}{Harry, Harry. It reached my ears that you're a snitch of Julian's. How can you justify yourself?}
+{370}{}{哈利，哈利。我听说你是朱利安的告密者。你怎么为自己辩护？}
+#{371}{}{But Harry, we saw you going to the North Side flat broke and then you returned with your pockets full...}
+{371}{}{但是哈利，我们看到你去北边公寓时破产了，然后你带着满满的口袋回来了。。。}
+#{372}{}{I know, I know. I promise it won't last long...}
+{372}{}{我知道，我知道。我保证不会持续太久。。。}
+#{373}{}{So show off, "doctor"!}
+{373}{}{所以炫耀一下，“医生”！}
+#{374}{}{So show off, "doctor"!}
+{374}{}{所以炫耀一下，“医生”！}
+#{375}{}{Okay, that's enough for me.}
+{375}{}{好了，我受够了。}
+#{376}{}{Where are you running, you chickenshit? The fun's not over yet!}
+{376}{}{你跑哪去了，胆小鬼？乐趣还没有结束！}
+#{377}{}{Harry was killed.}
+{377}{}{哈利被杀了。}
+#{378}{}{Clean the damn floor of that shit!}
+{378}{}{把那该死的地板擦干净！}
+#{379}{}{This bores me. Kill!}
+{379}{}{这让我厌烦。杀了我！}
+#{380}{}{That's a lie! You know I would never do anything against your will!}
+{380}{}{那是个谎言！你知道我决不会违背你的意愿！}
+#{381}{}{That... that is filthy slander! I've always been snitching just for you. You have to believe me, Alexa!}
+{381}{}{那个。。。那是肮脏的诽谤！我一直在为你告密。你必须相信我，亚历克斯！}
+#{382}{}{So show what you got, "doctor"!}
+{382}{}{所以展示你的“医生”！}
+#{383}{}{So show what you got, "doctor"!}
+{383}{}{所以展示你的“医生”！}
+#{384}{}{And here we go!}
+{384}{}{我们来了！}
+#{385}{}{Leonard can finally loose up himself, thanks!}
+{385}{}{伦纳德终于可以放松了，谢谢！}
+#{386}{}{So hurry up before he bleeds out!}
+{386}{}{所以在他流血之前赶快！}
+#{390}{}{Alexa's mercenaries marched you out from the city. It seems your newly acquired wealth tempted them, but the fear of Alexa prevailed in the end, so they let you go.}
+{390}{}{亚历克斯的雇佣兵把你从城里赶了出去。好像你新得的财宝诱惑了他们，但亚力撒的恐惧最终占了上风，所以他们放你走了。}
+#{400}{}{Meet your death, bastards!}
+{400}{}{见死不救，混蛋！}
+#{401}{}{Ha Ha! There you go, you bastard!}
+{401}{}{哈哈！给你，混蛋！}
+#{402}{}{Fuck it!}
+{402}{}{去他妈的！}
+#{403}{}{Farewell, you fucking swine.}
+{403}{}{再见，你这该死的猪。}
+#{500}{}{Who the hell are you and what do you want here? [She menacingly runs her eye over you.]}
+{500}{}{你到底是谁？你想在这里干什么？[她威胁性地盯着你。]}
+#{501}{}{I'm }
+{501}{}{我是}
+#{502}{}{I want to talk to you.}
+{502}{}{我想和你谈谈。}
+#{503}{}{Just looking around.}
+{503}{}{只是四处看看。}
+#{504}{}{And who are you?}
+{504}{}{你是谁？}
+#{505}{}{Sorry, wrong door.}
+{505}{}{对不起，走错门了。}
+#{506}{}{ blah blaaah.}
+{506}{}{废话废话。}
+#{507}{}{Ebeha? Ebshhurrrr!}
+{507}{}{埃比哈？埃布什胡尔！}
+#{508}{}{Bad! Bad! Bleeeh! [Stick your tongue out at her.]}
+{508}{}{糟糕！糟糕！天哪！[向她伸出舌头。]}
+#{509}{}{ and I want just to talk to you.}
+{509}{}{我只想和你谈谈。}
+#{550}{}{What do you want?}
+{550}{}{你想要什么？}
+#{551}{}{Nice to see you again, what do you need from me?}
+{551}{}{很高兴再次见到你，你需要我做什么？}
+#{552}{}{About that job...}
+{552}{}{关于那份工作。。。}
+#{553}{}{I want to ask you something.}
+{553}{}{我想问你一件事。}
+#{554}{}{I'd like to buy something.}
+{554}{}{我想买点东西。}
+#{555}{}{Do you have any work for me?}
+{555}{}{你有工作给我吗？}
+#{556}{}{What do you sell anyway?}
+{556}{}{你卖什么？}
+#{557}{}{I have money for that bag!}
+{557}{}{我有钱买那个包！}
+#{558}{}{I finally know who killed Maria! I think it'll really be of interest to you.}
+{558}{}{我终于知道谁杀了玛丽亚！我想你会很感兴趣的。}
+#{559}{}{Nevermind, take care.}
+{559}{}{别客气，保重。}
+#{560}{}{Iiiii, haaaaave!}
+{560}{}{三，哈瓦夫！}
+#{561}{}{Youuuu sell?}
+{561}{}{你要卖吗？}
+#{562}{}{ helps!}
+{562}{}{救命啊！}
+#{563}{}{Bye Bye!}
+{563}{}{再见！}
+#{600}{}{I asked first. So once again, and better this time. Who the hell are you? [Reaches for her weapon.]}
+{600}{}{我先问。所以再一次，这次更好。你到底是谁？[伸手去拿她的武器。]}
+#{601}{}{I'm }
+{601}{}{我是}
+#{602}{}{Just looking around.}
+{602}{}{只是四处看看。}
+#{603}{}{ and I want just to talk to you.}
+{603}{}{我只想和你谈谈。}
+#{650}{}{Why do you want to talk to me? Did Julian send you? That bastard sends such a wuss to kill me? You'll be dead sooner than you fall to the ground!}
+{650}{}{你为什么要和我说话？朱利安派你来的吗？那个混蛋派这么个胆小鬼来杀我？你会死得比倒在地上还快！}
+#{651}{}{Hold on, Julian didn't send me!}
+{651}{}{等等，朱利安没有派我来！}
+#{652}{}{That "wuss" is the last thing you're going to see. Get ready to die!}
+{652}{}{“胆小鬼”是你最不可能看到的。准备好去死吧！}
+#{653}{}{Yes, Julian sent me, I'm not denying that, but before you tell your goons to turn me into a bloody mess, you should hear me out.}
+{653}{}{是的，朱利安派我来的，我不否认这一点，但在你告诉你的手下把我弄得一团糟之前，你应该听我说完。}
+#{654}{}{Well, I'll be on my way.}
+{654}{}{好吧，我马上就来。}
+#{700}{}{And I should believe that? I don't trust anyone on principle, so why should you be an exception?}
+{700}{}{我应该相信吗？我原则上不相信任何人，那你为什么要例外呢？}
+#{701}{}{Eh, my honest word won't be enough, will it?}
+{701}{}{呃，我诚实的话是不够的，是吗？}
+#{702}{}{Because only an idiot would gang up with someone like Julian.}
+{702}{}{因为只有白痴才会和朱利安这样的人勾结。}
+#{703}{}{Just trust me. What could one person do against such superior numbers?}
+{703}{}{相信我。一个人能对如此高的数字做些什么？}
+#{704}{}{You know, forget that. I'm leaving.}
+{704}{}{算了吧。我要走了。}
+#{750}{}{Hmph, ass kissing won't help you at all, but I won't kill you... this time. What do you want?}
+{750}{}{嗯，吻屁股根本帮不了你，但我不会杀了你。。。这一次。你想要什么？}
+#{751}{}{I want to ask you about something.}
+{751}{}{我想问你一件事。}
+#{752}{}{I'm here on business; I want to buy something.}
+{752}{}{我是来出差的，我想买点东西。}
+#{753}{}{Do you have any work for me?}
+{753}{}{你有工作给我吗？}
+#{754}{}{What do you sell anyway?}
+{754}{}{你卖什么？}
+#{756}{}{I finally know who killed Maria! I think it'll really be of interest to you.}
+{756}{}{我终于知道谁杀了玛丽亚！我想你会很感兴趣的。}
+#{757}{}{Nevermind, take care.}
+{757}{}{别客气，保重。}
+#{800}{}{On business? So what it'll be? Wanna fly? Relax? Get some energy? For new customers, I give a discount on the first piece.}
+{800}{}{出差？那会是什么？想飞吗？放松点？有精力吗？对于新顾客，我给第一件打折。}
+#{801}{}{On business? So what it'll be? Wanna fly? Relax? Get some energy? For new customers, I give a discount on the first piece.}
+{801}{}{出差？那会是什么？想飞吗？放松点？有精力吗？对于新顾客，我给第一件打折。}
+#{802}{}{I want to fly.}
+{802}{}{我想飞。}
+#{803}{}{I want to relax.}
+{803}{}{我想放松一下。}
+#{804}{}{I want a bit of that energy.}
+{804}{}{我想要一点能量。}
+#{805}{}{I don't want a drug, I want to buy something normal.}
+{805}{}{我不想吸毒，我想买些正常的东西。}
+#{850}{}{Give me 25 caps and it's yours }
+{850}{}{给我25个瓶盖，这是你的}
+#{851}{}{Yep, there you go.}
+{851}{}{是的，给你。}
+#{852}{}{That's too much, give something else.}
+{852}{}{太多了，给点别的。}
+#{900}{}{Give me 10 caps and it's yours. }
+{900}{}{给我10个瓶盖，它就是你的了。}
+#{901}{}{Yep, there you go.}
+{901}{}{是的，给你。}
+#{902}{}{That's too much, give something else.}
+{902}{}{太多了，给点别的。}
+#{950}{}{Give me 50 caps and it's yours. }
+{950}{}{给我50个瓶盖，它就是你的了。}
+#{951}{}{Yep, there you go.}
+{951}{}{是的，给你。}
+#{952}{}{That's too much, give something else.}
+{952}{}{太多了，给点别的。}
+#{1000}{}{Something normal? In this town, only drugs are sold. Aren't our goods good enough for you?}
+{1000}{}{正常的事情？在这个镇上，只卖毒品。我们的货物对你来说不够好吗？}
+#{1001}{}{They are, but I just wanted some medicine.}
+{1001}{}{是的，但我只是想要些药。}
+#{1002}{}{Of course they are good, I'm just not in the mood for them.}
+{1002}{}{当然他们很好，我只是没心情。}
+#{1003}{}{You know what? I thought it over, I'll have some drugs.}
+{1003}{}{你知道吗？我考虑过了，我要买些药。}
+#{1004}{}{You know what? I thought it over, I'll have some drugs.}
+{1004}{}{你知道吗？我考虑过了，我要买些药。}
+#{1005}{}{You interrogate every customer like this? Why won't you simply show me all of your goods and I simply pick something?}
+{1005}{}{你这样审问每个顾客？你为什么不干脆把你所有的东西都给我看，我就随便挑点什么？}
+#{1050}{}{Medicine? What for? How can I be sure you won't sell it to Julian afterwards?}
+{1050}{}{药物？为何？我怎么能确定你以后不会把它卖给朱利安？}
+#{1051}{}{Will my word be enough?}
+{1051}{}{我的话够了吗？}
+#{1052}{}{Why would I do that? I have a long road ahead of me, and a few stimpaks would greatly raise my odds of survival.}
+{1052}{}{我为什么要这么做？我还有很长的路要走，几次刺激会大大提高我的生存几率。}
+#{1053}{}{Why would I do that? I have a long road ahead of me, and a few stimpaks would greatly raise my odds of survival.}
+{1053}{}{我为什么要这么做？我还有很长的路要走，几次刺激会大大提高我的生存几率。}
+#{1054}{}{Why would I sell it to him? You can see yourself that I could use a few stimpaks.}
+{1054}{}{我为什么要卖给他？你可以想象我需要一些兴奋剂。}
+#{1055}{}{Well, Julian actually hired me to buy them.}
+{1055}{}{嗯，朱利安实际上雇我来买的。}
+#{1100}{}{I thought so. Besides a junkie, only an idiot could crawl in here! So, poor thing, what can auntie Alexa do for you? Would you like some junk for your hard earned money?}
+{1100}{}{我想是的。除了瘾君子，只有白痴才能爬进来！那么，可怜的家伙，亚历克斯阿姨能为你做些什么？你的辛苦挣来的钱想要些垃圾吗？}
+#{1101}{}{Yeeeah, heee!}
+{1101}{}{耶，嘿！}
+#{1102}{}{Junkies?}
+{1102}{}{吸毒者？}
+#{1103}{}{Nooo! I help!}
+{1103}{}{不！我来帮忙！}
+#{1104}{}{Go, bai.}
+{1104}{}{走吧，白。}
+#{1150}{}{But sweety, it won't work that way. You have too much inside of you; Another dose could kill you and auntie Alexa definitely doesn't want any harm'd come to such an angel. Come back when you run out of drugs, provided you've still got some cash.}
+{1150}{}{但是亲爱的，这样不行。你体内有太多的东西，再给你一剂可能会杀了你，而亚历克斯阿姨绝对不想伤害这样一个天使。如果你还有现金，等你没药了再来。}
+#{1151}{}{[Leave.]}
+{1151}{}{[离开]}
+#{1200}{}{So pick something...}
+{1200}{}{所以选些东西。。。}
+#{1201}{}{[Continue.]}
+{1201}{}{[继续。]}
+#{1250}{}{Yes, junk! It's a yummie that makes you relaxed and you'll be in a good mood. So what, do you want it or not?}
+{1250}{}{是的，垃圾！这是一款让你放松的美味佳肴，你的心情也会很好。那又怎样，你到底要不要？}
+#{1251}{}{Yeeeeah!}
+{1251}{}{是啊！}
+#{1252}{}{Nooo! I help!}
+{1252}{}{不！我来帮忙！}
+#{1253}{}{No. Bai, go.}
+{1253}{}{不，白，走。}
+#{1300}{}{Anything else?}
+{1300}{}{还有别的吗？}
+#{1301}{}{Yep, I need something else.}
+{1301}{}{是的，我还需要点别的。}
+#{1302}{}{No, thanks, that's all.}
+{1302}{}{不，谢谢，就这些。}
+#{1303}{}{Say, do you have a doctor's bag?}
+{1303}{}{喂，你有医生的包吗？}
+#{1304}{}{Yeeees.}
+{1304}{}{是的。}
+#{1305}{}{No-noooos, bai.}
+{1305}{}{不知道，白。}
+#{1350}{}{Help? Hm, maybe I would have something for you. For the idiot you are, it should be a piece of cake. I doubt someone would suspect you of working for me. So what, will you take it?}
+{1350}{}{救命啊？嗯，也许我能给你点东西。对于你这个白痴来说，这应该是小菜一碟。我怀疑有人会怀疑你为我工作。那又怎样，你要吗？}
+#{1351}{}{Help? Hm, maybe I would have something for you. For the idiot you are, it should be a piece of cake. I doubt someone would suspect you of working for me. So what, will you take it?}
+{1351}{}{救命啊？嗯，也许我能给你点东西。对于你这个白痴来说，这应该是小菜一碟。我怀疑有人会怀疑你为我工作。那又怎样，你要吗？}
+#{1352}{}{Haw Haaw!}
+{1352}{}{哈哈！}
+#{1353}{}{Nooo, yuck.}
+{1353}{}{不，恶心。}
+#{1400}{}{Fine, but if you change your mind, you know where to look for me.}
+{1400}{}{好吧，但如果你改变主意，你知道去哪里找我。}
+#{1401}{}{[Leave.]}
+{1401}{}{[离开]}
+#{1450}{}{Fine, listen closely so your little retarded brain understands. I need some ammo for my people, we've almost run dry. You have to get 5 sets of 10mm JHP, 2 sets of AP and at least one magazine of .44 Magnum JHP. Go get it somewhere, even from Julian. He'll have it for sure. Is that clear? And most importantly DO NOT TELL ANYONE I SENT YOU, OTHERWISE THEY'LL SHOOT YOU and a corpse'll hardly get me anything. Is everything clear?}
+{1450}{}{好吧，仔细听好让你弱智的大脑明白。我需要一些弹药给我的人，我们快用完了。你必须得到5套10毫米JHP，2套AP和至少一个杂志的.44万能JHP。去别的地方弄吧，即使是朱利安。他肯定会得到的。明白了吗？最重要的是不要告诉任何人是我派你来的，否则他们会开枪打死你，一具尸体很难给我任何东西。一切都清楚了吗？}
+#{1451}{}{Okie dokie!}
+{1451}{}{好的，多奇！}
+#{1452}{}{Ooooh?}
+{1452}{}{哦哦？}
+#{1500}{}{Good, so go. You'll get paid after the work.}
+{1500}{}{很好，走吧。下班后你会得到报酬的。}
+#{1501}{}{[Leave.]}
+{1501}{}{[离开]}
+#{1600}{}{Too much? It's almost for free! But okay, you look like a poor thing, such drivel all the way. So then, what do you want instead?}
+{1600}{}{太多？几乎是免费的！但好吧，你看起来像个可怜的家伙，一路胡说八道。那么，你想要什么呢？}
+#{1601}{}{I want to fly.}
+{1601}{}{我想飞。}
+#{1602}{}{I want to relax.}
+{1602}{}{我想放松一下。}
+#{1603}{}{I want a bit of that energy.}
+{1603}{}{我想要一点能量。}
+#{1604}{}{I don't want a drug, I want to buy something normal.}
+{1604}{}{我不想吸毒，我想买些正常的东西。}
+#{1650}{}{I didn't catch your name, you pile of shit. Didn't they teach you that you should introduce yourself to a lady?}
+{1650}{}{我没听清你的名字，你这个混蛋。他们不是教你应该向一位女士作自我介绍吗？}
+#{1651}{}{Sorry, my name's }
+{1651}{}{对不起，我的名字是}
+#{1652}{}{ and I want just to talk to you.}
+{1652}{}{我只想和你谈谈。}
+#{1653}{}{You'll learn my name in hell, you whore!}
+{1653}{}{你会在地狱里知道我的名字的，你这个婊子！}
+#{1700}{}{True... you look like a wimp. I think you're no threat. So what do you want from me?}
+{1700}{}{是的。。。你看起来像个懦夫。我觉得你没有威胁。你想从我这里得到什么？}
+#{1701}{}{I want to ask you about something.}
+{1701}{}{我想问你一件事。}
+#{1702}{}{I'm here on business; I want to buy something.}
+{1702}{}{我是来出差的，我想买点东西。}
+#{1703}{}{Do you have any work for me?}
+{1703}{}{你有工作给我吗？}
+#{1704}{}{What do you sell anyway?}
+{1704}{}{你卖什么？}
+#{1705}{}{I finally know who killed Maria! I think it'll really be of interest to you.}
+{1705}{}{我终于知道谁杀了玛丽亚！我想你会很感兴趣的。}
+#{1706}{}{Nevermind, take care.}
+{1706}{}{别客气，保重。}
+#{1750}{}{Okay, I'm listening, but unless you convince me of your usefulness, these guys here [With a tiny gesture she implies the present guards.] will take you out legs first.}
+{1750}{}{好吧，我在听，但除非你让我相信你的有用性，否则这里的这些家伙（她用一个小小的手势暗示现在的警卫）会先把你的腿拿出来。}
+#{1751}{}{Julian wanted me to get some medicine for doctor Moore, because he's at the end of his tether. He's in a bad way; I think one vigorous attack would completely finish his people off, they can't heal themselves in any way.}
+{1751}{}{朱利安想让我给摩尔医生买些药，因为他已经筋疲力尽了。他的处境很糟糕，我想一次猛烈的攻击就能把他的人民彻底消灭，他们无论如何也无法治愈自己。}
+#{1755}{}{Julian wanted me to get some medicine for doctor Moore, because he's at the end of his tether. He's in a bad way; I think one vigorous attack would completely finish his people off, they can't heal themselves in any way.}
+{1755}{}{朱利安想让我给摩尔医生买些药，因为他已经筋疲力尽了。他的处境很糟糕，我想一次猛烈的攻击就能把他的人民彻底消灭，他们无论如何也无法治愈自己。}
+#{1752}{}{Julian wants to kill Leonard!}
+{1752}{}{朱利安想杀伦纳德！}
+#{1753}{}{Well, actually, I was just kidding.}
+{1753}{}{其实，我只是开玩笑。}
+#{1754}{}{Well, actually, I was just kidding.}
+{1754}{}{其实，我只是开玩笑。}
+#{1800}{}{Hm, I don't think so. Everybody who hangs out with that treacherous bastard deserves death. Very slow and painful death.}
+{1800}{}{嗯，我不这么认为。每个和那个奸诈的混蛋混在一起的人都应该被处死。非常缓慢和痛苦的死亡。}
+#{1801}{}{Wait, no...}
+{1801}{}{等等，不。。。}
+#{1850}{}{But if you shoot up a few times, your mood will surely improve, you'll see.}
+{1850}{}{但是，如果你拍几次，你的情绪肯定会改善，你会看到的。}
+#{1851}{}{Okay then, I'll have some drugs.}
+{1851}{}{好吧，那我要些药。}
+#{1852}{}{And when it wears off I'll feel even worse than now. Yeah, sure. I just want to buy some medicine.}
+{1852}{}{当它消失的时候，我会感觉比现在更糟。是的，当然。我只想买些药。}
+#{1853}{}{You know, forget about it. I want to ask you something.}
+{1853}{}{算了吧。我想问你一件事。}
+#{1900}{}{On business? So what it'll be? Wanna fly? Relax? Get some energy? For new customers, I give a discount on the first piece.}
+{1900}{}{出差？那会是什么？想飞吗？放松点？有精力吗？对于新顾客，我给第一件打折。}
+#{1901}{}{On business? So what it'll be? Wanna fly? Relax? Get some energy? For new customers, I give a discount on the first piece.}
+{1901}{}{出差？那会是什么？想飞吗？放松点？有精力吗？对于新顾客，我给第一件打折。}
+#{1902}{}{I want to fly.}
+{1902}{}{我想飞。}
+#{1903}{}{I want to relax.}
+{1903}{}{我想放松一下。}
+#{1904}{}{I want a bit of that energy.}
+{1904}{}{我想要一点能量。}
+#{1905}{}{I don't want a drug, I want to buy something normal.}
+{1905}{}{我不想吸毒，我想买些正常的东西。}
+#{1950}{}{You can want. The important thing is if I want to reply. So spit it out.}
+{1950}{}{你可以想要。重要的是如果我想回复。所以说出来吧。}
+#{1951}{}{Who are you?}
+{1951}{}{你是谁？}
+#{1953}{}{Who's this Julian guy?}
+{1953}{}{朱利安是谁？}
+#{1956}{}{Tell me something more about Leonard.}
+{1956}{}{告诉我更多关于伦纳德的事。}
+#{1957}{}{What can you tell me about this town?}
+{1957}{}{关于这个城市你能告诉我什么？}
+#{1958}{}{Farley said you contribute to him to keep the church running. Why?}
+{1958}{}{法利说你为他捐款是为了维持教会的运转。为什么？}
+#{1959}{}{I want to ask you about the murder of Maria.}
+{1959}{}{我想问你玛丽亚被谋杀的事。}
+#{1960}{}{Actually I want something completely different.}
+{1960}{}{实际上我想要完全不同的东西。}
+#{2000}{}{You don't know who he is? Now you really made me laugh. Julian is the greatest bastard who's ever lived in this town. He betrayed my boss Leonard way back when he'd still been his buddy. Then he framed him for the murder of some slut and started the war with him which has completely destroyed the entire town. Now he's afraid to get his ass out of the South Side, so he just hires expendable wretches to do his dirty work. If I were you, I would stay away from that Devil's bastard as far as possible, otherwise he'll drag you to burning hell.}
+{2000}{}{你不知道他是谁？现在你真的让我笑了。朱利安是这个镇上最伟大的混蛋。他早就背叛了我的老板伦纳德，那时他还是他的伙伴。然后他陷害他谋杀了一个荡妇，并发动了战争，这场战争彻底摧毁了整个城镇。现在他害怕离开南区，所以他只雇了些可怜虫来干他的脏活。如果我是你，我会尽量远离那个恶魔的混蛋，否则他会把你拖进地狱。}
+#{2001}{}{You don't know who he is? Now you really made me laugh. Julian is the greatest bastard who's ever lived in this town. He betrayed my boss Leonard way back when he'd still been his buddy. Then he framed him for the murder of some slut and started the war with him which has completely destroyed the entire town. Now he's afraid to get his ass out of the South Side, so he just hires expendable wretches to do his dirty work. If I were you, I would stay away from that Devil's bastard as far as possible, otherwise he'll drag you to burning hell.}
+{2001}{}{你不知道他是谁？现在你真的让我笑了。朱利安是这个镇上最伟大的混蛋。他早就背叛了我的老板伦纳德，那时他还是他的伙伴。然后他陷害他谋杀了一个荡妇，并发动了战争，这场战争彻底摧毁了整个城镇。现在他害怕离开南区，所以他只雇了些可怜虫来干他的脏活。如果我是你，我会尽量远离那个恶魔的混蛋，否则他会把你拖进地狱。}
+#{2004}{}{Tell me more about Leonard.}
+{2004}{}{告诉我更多关于伦纳德的事。}
+#{2002}{}{Ah, thanks, I want to ask you something else.}
+{2002}{}{啊，谢谢，我想问你点别的事。}
+#{2003}{}{Actually I want something completely different.}
+{2003}{}{实际上我想要完全不同的东西。}
+#{2100}{}{No.}
+{2100}{}{不。}
+#{2101}{}{Well I didn't expect such a thorough answer.}
+{2101}{}{我没想到会有这么彻底的答案。}
+#{2102}{}{Well I didn't expect such a thorough answer.}
+{2102}{}{我没想到会有这么彻底的答案。}
+#{2103}{}{Why not?}
+{2103}{}{为什么不呢？}
+#{2104}{}{OK, that's enough. I want to ask about something else.}
+{2104}{}{好了，够了。我想问些别的事。}
+#{2150}{}{For a stupid question, a stupid yet completely accurate answer.}
+{2150}{}{对于一个愚蠢的问题，一个愚蠢却完全准确的答案。}
+#{2151}{}{Forget it, I want to ask about something else.}
+{2151}{}{算了吧，我想问点别的。}
+#{2152}{}{Why can't I, then?}
+{2152}{}{为什么我不能呢？}
+#{2200}{}{Because you simply can't. The only one he trusts is me; he won't let anyone else see him.}
+{2200}{}{因为你不能。他唯一信任的人就是我，他不会让别人看到他的。}
+#{2201}{}{Are you saying he doesn't go out at all, and still rots in this shanty?}
+{2201}{}{你是说他根本不出去，还在这个棚屋里腐烂？}
+#{2202}{}{Ah, I want to ask something else.}
+{2202}{}{啊，我想问点别的。}
+#{2203}{}{And what if I said please?}
+{2203}{}{如果我说请呢？}
+#{2204}{}{And what if I said please?}
+{2204}{}{如果我说请呢？}
+#{2250}{}{NO.}
+{2250}{}{不。}
+#{2251}{}{Forget it, I want to ask about something else.}
+{2251}{}{算了吧，我想问点别的。}
+#{2252}{}{And what if I said pretty please?}
+{2252}{}{如果我说漂亮呢？}
+#{2253}{}{And what if I said pretty please?}
+{2253}{}{如果我说漂亮呢？}
+#{2300}{}{Fuck, one more word and tomorrow you'll be eating breakfast in hell!}
+{2300}{}{操，再多说一句，明天你就要在地狱里吃早餐了！}
+#{2301}{}{WORD.}
+{2301}{}{一句话。}
+#{2302}{}{Okay, okay, I'm out then.}
+{2302}{}{好吧，好吧，我出去了。}
+#{2303}{}{Okay, forget it, I want to ask about something else.}
+{2303}{}{好吧，算了吧，我想问点别的。}
+#{2350}{}{I'd have some work to do. The question is if you're just the right person. What do ya think?}
+{2350}{}{我还有工作要做。问题是你是不是合适的人。你觉得怎么样？}
+#{2351}{}{No worries. I'm your man.}
+{2351}{}{别担心。我是你的人。}
+#{2352}{}{I'd rather think this through.}
+{2352}{}{我宁愿把这事想清楚。}
+#{2353}{}{Probably not. Farewell.}
+{2353}{}{可能不会。再会。}
+#{2354}{}{Probably not. Farewell.}
+{2354}{}{可能不会。再会。}
+#{2400}{}{Fine, just don't think too long. For a job well done, I pay a hefty sum of caps. You don't really want me to decide to give it to someone else.}
+{2400}{}{好吧，别想太久。为了把工作做好，我付了一大笔钱。你不会真的想让我决定把它给别人吧。}
+#{2401}{}{The caps will be better off with me. Ok, you've convinced me. I'm listening.}
+{2401}{}{我戴瓶盖会更好。好吧，你说服我了。我在听。}
+#{2402}{}{I'll let you know when I decide.}
+{2402}{}{我决定的时候会告诉你的。}
+#{2450}{}{Fine, you can have a shot at it. It surely didn't pass you by that the war between us and that Julian cunt ended in deadlock. We would've won a long time ago if we hadn't been hindered by one problem - a lack of ammo. We desperately need to replenish it. But to our fucking bad luck, the only ammo in Rat Hole is left at Julian's, and we can't shop there for understandable reasons; and I can't send any of my people to shop at a different town. Any decrease in our numbers could be fatal, so I need every hand possible. But you have nothing to do with us yet. You can easily shop at Julian's or travel wherever you want. That's why I have an offer for you. Get us some ammo - 5 sets of 10mm JHP, 2 sets of AP and one magazine of .44 Magnum JHP - and I'll pay you well for it.}
+{2450}{}{好吧，你可以试试看。我们和那个朱利安贱人之间的战争最终以僵局告终，你一定没有忘记。如果不是因为一个问题——弹药短缺，我们早就赢了。我们急需补充。但让我们倒霉的是，老鼠洞里唯一的弹药就留在朱利安那里了，我们不能在那里购物，因为可以理解的原因；我也不能派我的人去别的城镇购物。我们人数的任何减少都可能是致命的，所以我需要尽可能多的人手。但你和我们还没有任何关系。你可以很容易地在朱利安商店购物或去任何你想去的地方。所以我才给你报了价。给我们拿些弹药——5套10毫米口径的JHP，2套AP和一本44毫米口径的JHP弹匣——我会好好付钱给你的。}
+#{2451}{}{I'm in. I'll be back when I get everything.}
+{2451}{}{我加入了。我拿到东西后会回来的。}
+#{2452}{}{Damn, what a coincidence. I just happen to have that ammo on me.}
+{2452}{}{该死，真是巧合。我正好身上带着弹药。}
+#{2453}{}{But where should I get the caps for such a big purchase? I need an advance at least.}
+{2453}{}{但这么大的一笔采购，我该从哪儿弄到瓶盖呢？我至少需要一笔预付款。}
+#{2454}{}{Well forget about it. I'm not going to risk my life or money. Bye.}
+{2454}{}{算了吧。我不会拿我的生命和金钱冒险。再见。}
+#{2500}{}{Are you making fun of me? If I give you the caps in advance, I'll never see you here again. No, until you have the ammo, I won't pay you anything.}
+{2500}{}{你在取笑我吗？如果我提前把瓶盖给你，我就再也见不到你了。不，在你拿到弹药之前，我不会付你钱的。}
+#{2501}{}{Look, it's simple - there can't be ammo without caps. And I don't have enough to cover the entire purchase. I need an advance. What could you lose? A smaller sum of money is insignificant to you, yet on the contrary, it'll make getting the stuff much easier for me.}
+{2501}{}{听着，很简单-没有瓶盖就没有弹药。我没有足够的钱来支付整个购买。我需要预付款。你会失去什么？一笔小数目的钱对你来说是微不足道的，但恰恰相反，它会使我更容易得到这些东西。}
+#{2502}{}{Fine then. I'll have to find another way.}
+{2502}{}{那好吧。我得另想办法。}
+#{2503}{}{In that case count me out. Bye.}
+{2503}{}{那样的话，把我排除在外。再见。}
+#{2550}{}{[She nods slowly.] You've convinced me. You'll get 300 caps, but that has to be enough for an advance. And remember, if you double-cross me, I'll destroy you. You can count on that.}
+{2550}{}{[她慢慢点头]你说服了我。你可以拿到300顶瓶盖，但那必须足够预付。记住，如果你欺骗我，我会毁了你。你可以放心。}
+#{2551}{}{[She nods slowly.] You've convinced me. You'll get 300 caps, but that has to be enough for an advance. And remember, if you double-cross me, I'll destroy you. You can count on that.}
+{2551}{}{[她慢慢点头]你说服了我。你可以拿到300顶瓶盖，但那必须足够预付。记住，如果你欺骗我，我会毁了你。你可以放心。}
+#{2552}{}{[Take the caps from her.] No double-crossing here. Don't you worry.}
+{2552}{}{[把瓶盖从她身上拿开]不要在这里交叉。别担心。}
+#{2600}{}{I've already told you I won't give you any caps in advance. Stop wasting my time or I'll change my mind about that work.}
+{2600}{}{我已经告诉过你我不会提前给你任何瓶盖。别再浪费我的时间了，否则我会改变主意的。}
+#{2601}{}{Take it easy. I'm in. I'll be back with the ammo.}
+{2601}{}{别紧张。我加入了。我会带着弹药回来的。}
+#{2602}{}{Under these conditions, I'm not doing it. Bye.}
+{2602}{}{在这种情况下，我不会这么做。再见。}
+#{2650}{}{That's great news. How much do you want for it?}
+{2650}{}{这是个好消息。你想要多少钱？}
+#{2651}{}{Nothing at all. Take it as a present.}
+{2651}{}{什么都没有。把它当作礼物。}
+#{2652}{}{I'll give you a discount on it. 500 caps will be enough for me.}
+{2652}{}{我会给你折扣的。500个瓶盖够我用了。}
+#{2653}{}{I want 1000 flat, no less.}
+{2653}{}{我要1000平，不能少。}
+#{2654}{}{Ammo is a very valuable commodity nowadays. To cover my expenses, I have to ask you for 1500 caps.}
+{2654}{}{弹药现在是很值钱的商品。为了支付我的费用，我不得不向你要1500顶瓶盖。}
+#{2655}{}{Who says I want to give it to you? I'd rather keep it to myself.}
+{2655}{}{谁说我要给你的？我宁愿自己留着。}
+#{2656}{}{Ammo is a very valuable commodity nowadays. To cover my expenses, I have to ask you for 1500 caps.}
+{2656}{}{弹药现在是很值钱的商品。为了支付我的费用，我不得不向你要1500顶瓶盖。}
+#{2700}{}{Are you nuts? What's keeping me from taking everything from you now? Get him, boys!}
+{2700}{}{你疯了吗？是什么阻止我现在拿走你的一切？抓住他，孩子们！}
+#{2701}{}{Are you nuts? What's keeping me from taking everything from you now? Get her, boys!}
+{2701}{}{你疯了吗？是什么阻止我现在拿走你的一切？抓住她，孩子们！}
+#{2702}{}{Wait...}
+{2702}{}{等待。。。}
+#{2703}{}{Calm down, it was a joke!}
+{2703}{}{冷静点，这是个玩笑！}
+#{2750}{}{Have it your way. Thanks. [Takes all the ammo.]}
+{2750}{}{随你的便。谢谢。[拿走所有的弹药。]}
+#{2751}{}{You're welcome, is there any more work to do?}
+{2751}{}{不客气，还有什么工作要做吗？}
+#{2752}{}{No problem; excuse me now, please.}
+{2752}{}{没问题，对不起。}
+#{2800}{}{Fine. Here's something extra. [She gives you 500 caps and a stimpak.] Thanks for your help.}
+{2800}{}{好的。这里有一些额外的东西。[她给了你500顶瓶盖和一个stimpak.]谢谢你的帮助。}
+#{2801}{}{You're welcome, is there any more work to do?}
+{2801}{}{不客气，还有什么工作要做吗？}
+#{2802}{}{No problem; excuse me now, please.}
+{2802}{}{没问题，对不起。}
+#{2850}{}{Fine, there you go. Thanks for your help.}
+{2850}{}{好吧，给你。谢谢你的帮助。}
+#{2851}{}{You're welcome, is there any more work to do?}
+{2851}{}{不客气，还有什么工作要做吗？}
+#{2852}{}{No problem; excuse me now, please.}
+{2852}{}{没问题，对不起。}
+#{2900}{}{[She frowns.] That's a much bigger sum than I expected. But fine, I won't let you suffer a loss from our agreement. Here's your money.}
+{2900}{}{[她皱眉]这比我想象的要大得多。但好吧，我不会让你因为我们的协议而蒙受损失。这是你的钱。}
+#{2901}{}{Glad you're reasonable. Would you happen to have any more work for me?}
+{2901}{}{很高兴你讲道理。你还会有更多的工作给我吗？}
+#{2902}{}{No problem; excuse me now, please.}
+{2902}{}{没问题，对不起。}
+#{3000}{}{Yes?}
+{3000}{}{对？}
+#{3001}{}{I have the ammo you wanted.}
+{3001}{}{我有你想要的弹药。}
+#{3002}{}{Doctor Moore was dealt with, he'll never treat anyone again.}
+{3002}{}{摩尔医生被处理了，他再也不会给任何人治病了。}
+#{3003}{}{Nothing, actually.}
+{3003}{}{其实没什么。}
+#{3004}{}{Killing Moore won't be just like that. If I do it, I'll set all Julian's guards against me. I have no chance to survive this!}
+{3004}{}{杀摩尔可不是那么简单。如果我这么做，我会让朱利安的所有警卫都来对付我。我没有机会活下来！}
+#{3050}{}{Of course I have something. But count on your hands getting dirty. Are you really after a job like that or not? Once I introduce you to it, I won't let you back off of it. Clear?}
+{3050}{}{我当然有东西。但你的手会变脏的。你真的想要那样的工作吗？一旦我把它介绍给你，我不会让你放弃的。明白了吗？}
+#{3051}{}{I'm all ears. Tell me.}
+{3051}{}{我洗耳恭听。告诉我。}
+#{3052}{}{In that case, I don't want to hear anything. At least for now.}
+{3052}{}{那样的话，我什么都不想听。至少现在是这样。}
+#{3100}{}{Your ammo delivery gave us a certain advantage. Maybe an advantage big enough to put down those fuckers from the South Side. But I can't afford to risk it. Although Julian is without medical equipment, he still has Doctor Moore by his side, who's worth at least one well-supplied pharmacy. You have to get him out of our way, so we're ensured a kind of superiority that Julian won't have a chance against.}
+{3100}{}{你的弹药给了我们一定的优势。也许这是一个足够大的优势来打倒南边那些混蛋。但我不能冒险。虽然朱利安没有医疗设备，但他身边还有摩尔医生，他至少值一家供应充足的药房。你必须让他离开我们的路，这样我们就有了一种朱利安没有机会对抗的优势。}
+#{3101}{}{Get him out of our way... you mean kill?}
+{3101}{}{把他弄到一边去。。。你是说杀人？}
+#{3102}{}{That quack's done. Don't you worry.}
+{3102}{}{那个庸医完了。别担心。}
+#{3103}{}{Forget it. I don't want to have anything to do with this.}
+{3103}{}{算了吧。我不想和这事有任何关系。}
+#{3150}{}{[She makes an irritated face.] What else could I mean? From a confidential source I know Moore has a seriously ill heart. He's a wreck health-wise. So sending him to the other side shouldn't be a problem for you. Or should it?}
+{3150}{}{我还能说什么？从秘密渠道我知道摩尔的心脏病很严重。他是个非常健康的人。所以把他送到另一边对你来说不成问题。还是应该？}
+#{3151}{}{No, but how should I do it? If I kill him, I'll set all Julian's guards against me. I have no chance to survive this!}
+{3151}{}{不，但我该怎么做呢？如果我杀了他，我会让朱利安所有的守卫都来对付我。我没有机会活下来！}
+#{3152}{}{Don't worry, that quack'll die. I'll take care of it.}
+{3152}{}{别担心，那个庸医会死的。我会处理的。}
+#{3153}{}{You bet! I'm not going to murder anyone.}
+{3153}{}{当然！我不会杀人的。}
+#{3200}{}{I said no backing off. The only way out is through that door. Pick if you'll go out by yourself, or if they'll have to carry you out.}
+{3200}{}{我说不许后退。唯一的出路就是从那扇门出去。选择你是自己出去，还是他们要把你抬出去。}
+#{3201}{}{I said no backing off. The only way out is through that door. Pick if you'll go out by yourself, or if they'll have to carry you out.}
+{3201}{}{我说不许后退。唯一的出路就是从那扇门出去。选择你是自己出去，还是他们要把你抬出去。}
+#{3202}{}{Ah, so make this clear. By getting out of the way you mean kill?}
+{3202}{}{啊，说清楚了。你指的是杀人？}
+#{3203}{}{I'd rather die than kill anyone!}
+{3203}{}{我宁死也不杀任何人！}
+#{3250}{}{Hm, you're not stupid; I like that. That's why I made the murder easier for you. [Alexa takes an empty syringe and a vial of brown liquid from her inner pocket.] This solution is a special kind of poison. It's not really strong, but given Moore's poor condition it's exactly what you need. [She puts a needle on the syringe, draws the poison in, and gets rid of air with a slow counter-pressure.] It'll be enough if you inject the poison while unnoticed and get lost. Julian's people aren't really bright, but they could get a clue where this came from when their doctor collapses.}
+{3250}{}{嗯，你不傻，我喜欢。所以我才让你更容易杀人。[亚历克斯从她的内袋里拿出一个空注射器和一小瓶棕色液体]这种溶液是一种特殊的毒药。它不是很结实，但考虑到摩尔的糟糕状况，它正是你所需要的。[她把针头放在注射器上，吸进毒液，用缓慢的反压力排出空气]如果你在不被注意的情况下注射毒液，然后迷路就足够了。朱利安的人并不是很聪明，但当他们的医生昏倒时，他们可以从中找到线索。}
+#{3251}{}{Hm, you're not stupid; I like that. That's why I made the murder easier for you. [Alexa takes an empty syringe and a vial of brown liquid from her inner pocket.] This solution is a special kind of poison. It's not really strong, but given Moore's poor condition it's exactly what you need. [She puts a needle on the syringe, draws the poison in, and gets rid of air with a slow counter-pressure.] It'll be enough if you inject the poison while unnoticed and get lost. Julian's people aren't really bright, but they could get a clue where this came from when their doctor collapses.}
+{3251}{}{嗯，你不傻，我喜欢。所以我才让你更容易杀人。[亚历克斯从她的内袋里拿出一个空注射器和一小瓶棕色液体]这种溶液是一种特殊的毒药。它不是很结实，但考虑到摩尔的糟糕状况，它正是你所需要的。[她把针头放在注射器上，吸进毒液，用缓慢的反压力排出空气]如果你在不被注意的情况下注射毒液，然后迷路就足够了。朱利安的人并不是很聪明，但当他们的医生昏倒时，他们可以从中找到线索。}
+#{3252}{}{Understood. [Take the syringe filled with poison.] See you after the work's done.}
+{3252}{}{理解。[拿着装满毒药的注射器]工作结束后见。}
+#{3253}{}{You can keep the poison. I'll try to kill him another way.}
+{3253}{}{你可以留着毒药。我会用另一种方法杀死他。}
+#{3254}{}{You can keep the poison. I'll try to kill him another way.}
+{3254}{}{你可以留着毒药。我会用另一种方法杀死他。}
+#{3300}{}{Who other than Leonard? He owns it all here! Any more dumb questions?}
+{3300}{}{除了伦纳德还有谁？他拥有这里的一切！还有什么愚蠢的问题吗？}
+#{3301}{}{If this all belongs to him, why are you acting like the boss here?}
+{3301}{}{如果这一切都属于他，为什么你在这里表现得像老板？}
+#{3302}{}{Can I talk to Leonard?}
+{3302}{}{我能和莱纳德谈谈吗？}
+#{3303}{}{Will you tell me more about Leonard?}
+{3303}{}{你能告诉我更多关于伦纳德的事吗？}
+#{3350}{}{I'm Alexa, Leonard's right hand and his only connection to the outer world. So if you want something with him, you have to tell me and I'll let him know.}
+{3350}{}{我是亚历克萨，伦纳德的右手，他和外部世界的唯一联系。所以如果你想跟他谈点什么，你必须告诉我，我会让他知道的。}
+#{3351}{}{Can I talk to Leonard?}
+{3351}{}{我能和莱纳德谈谈吗？}
+#{3354}{}{Tell me more about Leonard.}
+{3354}{}{告诉我更多关于伦纳德的事。}
+#{3352}{}{Ah. I want to ask something else.}
+{3352}{}{啊。我想问点别的。}
+#{3353}{}{I need something else from you.}
+{3353}{}{我需要你给我点别的东西。}
+#{3400}{}{Why? Because I AM the boss. I'm the highest ranking person after Leonard in this hellhole, and because he won't let anyone else - but me - near himself, I actually took over all his authority.}
+{3400}{}{为什么？因为我是老板。在这个地狱里，我是仅次于伦纳德的最高级别的人，因为他不让任何人——除了我——接近他自己，我实际上接管了他的所有权力。}
+#{3401}{}{But that means you're in charge here, aren't you?}
+{3401}{}{但这意味着你是这里的负责人，不是吗？}
+#{3402}{}{Can I talk to Leonard?}
+{3402}{}{我能和莱纳德谈谈吗？}
+#{3403}{}{Ah, so I want to ask you about...}
+{3403}{}{啊，所以我想问你。。。}
+#{3404}{}{I need something else...}
+{3404}{}{我需要别的东西。。。}
+#{3450}{}{Yeah, you could say that.}
+{3450}{}{是的，你可以这么说。}
+#{3451}{}{Good, that's okay with me, I want to ask something else.}
+{3451}{}{很好，我没问题，我想问点别的。}
+#{3452}{}{Thanks, I need something else.}
+{3452}{}{谢谢，我还需要点别的。}
+#{3500}{}{Drugs, medicine, and shit like that. There's plenty of junkies in this town, so it makes a pretty penny.}
+{3500}{}{毒品，药品，诸如此类的东西。这个镇上有很多瘾君子，所以赚了不少钱。}
+#{3501}{}{Where do you get all those things?}
+{3501}{}{你从哪儿弄来的这些东西？}
+#{3502}{}{Wait, are you saying those junkies have money for drugs? Where do they get it?}
+{3502}{}{等等，你是说那些瘾君子有钱买毒品？他们从哪儿弄来的？}
+#{3503}{}{Ah, so I want to ask you about...}
+{3503}{}{啊，所以我想问你。。。}
+#{3504}{}{I need something else from you.}
+{3504}{}{我需要你给我点别的东西。}
+#{3550}{}{We simply make them here. Leonard taught me how to brew literally any drug or poison on a shoestring, so I help him with it now.}
+{3550}{}{我们只是在这里做。伦纳德教我如何用很小的成本酿造任何药物或毒药，所以我现在就帮他。}
+#{3551}{}{Poison? You make even poison here?}
+{3551}{}{毒药？你在这里做毒药？}
+#{3552}{}{Where do junkies get money for drugs?}
+{3552}{}{吸毒的人从哪里得到毒品的钱？}
+#{3553}{}{I want to ask you about...}
+{3553}{}{我想问你关于。。。}
+#{3554}{}{I need something else from you.}
+{3554}{}{我需要你给我点别的东西。}
+#{3600}{}{Not that much anymore; only junkies come here nowadays, but we used to have a full warehouse of it. People used it to kill rats, or at least the majority of them claimed so.}
+{3600}{}{现在没那么多了，现在只有瘾君子来了，但我们以前有满满的仓库。人们用它来杀老鼠，至少大多数人都这么说。}
+#{3601}{}{Where do junkies get money for drugs?}
+{3601}{}{吸毒的人从哪里得到毒品的钱？}
+#{3602}{}{Ah, thanks, I want to ask you about something else.}
+{3602}{}{啊，谢谢，我想问你别的事。}
+#{3603}{}{Let's change the topic, I need something else.}
+{3603}{}{我们换个话题吧，我还需要别的东西。}
+#{3650}{}{Nope, there's nothing to do anymore.}
+{3650}{}{不，没什么可做的了。}
+#{3651}{}{No, there's something fishy about you. I don't trust you enough to employ you.}
+{3651}{}{不，你有点可疑。我对你不够信任，不能雇用你。}
+#{3652}{}{In that case, I want something different.}
+{3652}{}{那样的话，我想要一些不同的东西。}
+#{3653}{}{Oh.}
+{3653}{}{哦。}
+#{3700}{}{Okay, okay, I'll trust you. So I offer you this...}
+{3700}{}{好吧，好吧，我相信你。所以我给你这个。。。}
+#{3701}{}{[Trade.]}
+{3701}{}{[贸易]}
+#{3750}{}{No.}
+{3750}{}{不。}
+#{3751}{}{Will having a nice sum of money be enough for you? Surely I'll buy more than some junkie.}
+{3751}{}{你有一大笔钱就够了吗？我肯定会买比瘾君子更多的东西。}
+#{3752}{}{In that case I'll take that stuff from your corpse.}
+{3752}{}{那样的话，我就把你尸体上的东西拿走。}
+#{3753}{}{I'll be back...}
+{3753}{}{我会回来的。。。}
+#{3800}{}{Fine, fine. Once I hear the money word, I change my mind instantly. I offer this...}
+{3800}{}{很好，很好。一听到钱这个词，我立刻改变主意。我提供这个。。。}
+#{3801}{}{[Trade.]}
+{3801}{}{[贸易]}
+#{3850}{}{Fuck! D'ya think I don't know that? If he had any medicine, they would've attack us a long time ago. Now both sides need stuff the other has. They have no medicine, we don't have ammo. We've been saving our stock for several months already.}
+{3850}{}{性交！你以为我不知道吗？如果他有药，他们早就攻击我们了。现在双方都需要对方拥有的东西。他们没有药，我们没有弹药。我们已经把存货存了好几个月了。}
+#{3851}{}{That could be changed easily. I can convince Julian to trust me and get some ammo from him.}
+{3851}{}{这很容易改变。我可以说服朱利安相信我，从他那里弄点弹药。}
+#{3852}{}{Why won't you send someone to do some shopping in another town?}
+{3852}{}{你为什么不派人去另一个城镇购物呢？}
+#{3853}{}{Don't trade caravans visit this town?}
+{3853}{}{贸易商队不来这个镇吗？}
+#{3900}{}{You'd really do that? That's great! I need 5 sets of 10mm JHP ammo, 2 sets of AP and at least one magazine of .44 Magnum JHP, clear? Return once you get it all. I'll cover your expenses plus extra cash on top of it.}
+{3900}{}{你真的要这么做？太好了！我需要5套10毫米JHP弹药，2套AP和至少一个44毫米JHP弹匣，明白吗？一旦你得到了一切就回来。我会支付你的费用，再加上额外的现金。}
+#{3901}{}{You'd really do that? That's great! I need 5 sets of 10mm JHP ammo, 2 sets of AP and at least one magazine of .44 Magnum JHP, clear? Return once you get it all. I'll cover your expenses plus extra cash on top of it.}
+{3901}{}{你真的要这么做？太好了！我需要5套10毫米JHP弹药，2套AP和至少一个44毫米JHP弹匣，明白吗？一旦你得到了一切就回来。我会支付你的费用，再加上额外的现金。}
+#{3902}{}{Okay, I'll return once I have it all.}
+{3902}{}{好的，我一拿到就回来。}
+#{3903}{}{Damn, what a coincidence. I just happen to have that ammo on me.}
+{3903}{}{该死，真是巧合。我正好身上带着弹药。}
+#{3904}{}{Hm, but that'll cost an arm and a leg; I need an advance at least.}
+{3904}{}{嗯，但那要花一大笔钱，我至少需要预付款。}
+#{3905}{}{Well screw that. I'm not going to risk my life or money. Bye.}
+{3905}{}{好吧，去他妈的。我不会拿我的生命和金钱冒险。再见。}
+#{3950}{}{Why? The reason would be the same as Julian's. We need every hand; That bastard can exploit our every single disadvantage.}
+{3950}{}{为什么？原因和朱利安的一样。我们需要每一只手；那个混蛋可以利用我们的每一个缺点。}
+#{3951}{}{Well, maybe I can do that task.}
+{3951}{}{好吧，也许我能完成那个任务。}
+#{3952}{}{Don't trade caravans visit this town?}
+{3952}{}{贸易商队不来这个镇吗？}
+#{3953}{}{Well, sorry to hear, take care.}
+{3953}{}{很抱歉，保重。}
+#{4000}{}{They won't appear out of thin air. The last one was here years ago. Look around; Do you really see anyone who could afford to spend money? Aside from Leonard and Julian, that is.}
+{4000}{}{他们不会凭空出现的。上一次是几年前在这里。环顾四周，你真的看到有谁花钱买得起吗？除了伦纳德和朱利安，就是这样。}
+#{4001}{}{Ah... Maybe I can help.}
+{4001}{}{啊。。。也许我能帮上忙。}
+#{4002}{}{Well, sorry to hear, take care.}
+{4002}{}{很抱歉，保重。}
+#{4050}{}{Yes? And that's supposed to be interesting news? Everyone in this town knows that! Those two have been after each other for several years. That's the reason Leonard doesn't trust anybody and does all his dealings through me.}
+{4050}{}{对？那应该是个有趣的消息？镇上每个人都知道！那两个人已经互相追逐了好几年了。这就是为什么伦纳德不信任任何人，他所有的交易都是通过我做的。}
+#{4051}{}{Really? Can I see him?}
+{4051}{}{真正地？我能看看他吗？}
+#{4052}{}{Are you saying he doesn't go out at all, and still rots in this shanty?}
+{4052}{}{你是说他根本不出去，还在这个棚屋里腐烂？}
+#{4053}{}{Perhaps I didn't know that, so it felt right to tell you.}
+{4053}{}{也许我不知道，所以告诉你是对的。}
+#{4054}{}{Perhaps I didn't know that, so it felt right to tell you.}
+{4054}{}{也许我不知道，所以告诉你是对的。}
+#{4100}{}{Exactly. One day, he simply came up with the "everyone wants to kill me" stuff, crawled into the basement, and now I do the business instead of him.}
+{4100}{}{确切地。有一天，他干脆想出了“人人都想杀我”的话，爬进地下室，现在我代替他做生意。}
+#{4101}{}{I don't really envy him that. I want to ask more questions.}
+{4101}{}{我真的不羡慕他那样。我想问更多的问题。}
+#{4102}{}{Well, I'll be on my way then.}
+{4102}{}{好吧，那我就上路了。}
+#{4150}{}{Oh, if it isn't Julian's shitty minion? How dare you to stick your fugly snout around here? Kill that fucker right now!}
+{4150}{}{哦，如果不是朱利安的手下？你怎么敢把你的臭鼻子粘在这里？快杀了那个混蛋！}
+#{4151}{}{[Defend yourself.]}
+{4151}{}{[为自己辩护。]}
+#{4200}{}{Great, my friend! You did a big favor for us and this town. Without that bastard, life will get back on track and this town will soon rise again. I have no idea how to thank you, but you'll always be welcome here. Go to the bar and drink on my expense! Thanks once again.}
+{4200}{}{太好了，我的朋友！你帮了我们和这个镇一个大忙。没有那个混蛋，生活就会回到正轨，这个城市很快就会重新崛起。我不知道该怎么感谢你，但这里永远欢迎你。去酒吧喝我的酒！再次感谢。}
+#{4201}{}{Great, my friend! You did a big favor for us and this town. Without that bastard, life will get back on track and this town will soon rise again. I have no idea how to thank you, but you'll always be welcome here. Go to the bar and drink on my expense! Thanks once again.}
+{4201}{}{太好了，我的朋友！你帮了我们和这个镇一个大忙。没有那个混蛋，生活就会回到正轨，这个城市很快就会重新崛起。我不知道该怎么感谢你，但这里永远欢迎你。去酒吧喝我的酒！再次感谢。}
+#{4202}{}{I knew right away you were a hotshot, great job! Here's your reward, use it well. You did a big favor for us and this town, thanks. Oh and also in the bar, tell them I sent you. You can drink whatever you want there.}
+{4202}{}{我马上就知道你是个大人物，干得好！这是你的奖赏，好好利用。你帮了我们和这个镇一个大忙，谢谢。哦，还有在酒吧里，告诉他们是我派你来的。你想喝什么就喝什么。}
+#{4203}{}{I knew right away you were a hotshot, great job! Here's your reward, use it well. You did a big favor for us and this town, thanks. Oh and also in the bar, tell them I sent you. You can drink whatever you want there.}
+{4203}{}{我马上就知道你是个大人物，干得好！这是你的奖赏，好好利用。你帮了我们和这个镇一个大忙，谢谢。哦，还有在酒吧里，告诉他们是我派你来的。你想喝什么就喝什么。}
+#{4204}{}{Excellent, you did a great job. You make auntie happy. Here, have some treats, but be careful not to get your teeth rotten.}
+{4204}{}{太好了，你做得很好。你让阿姨高兴。来，吃点东西，但小心别把你的牙齿弄坏了。}
+#{4205}{}{Thanks, I'm going to squander all this cash.}
+{4205}{}{谢谢，我要把这些钱都挥霍掉。}
+#{4206}{}{Thanks, can I speak to Leonard now?}
+{4206}{}{谢谢，我现在能和伦纳德说话吗？}
+#{4207}{}{Thanksies.}
+{4207}{}{谢谢。}
+#{4208}{}{You're welcome. I'm going to drink on that now!}
+{4208}{}{不客气。我现在就喝这个！}
+#{4250}{}{I'm afraid that won't be possible. After so many years of hiding in fear for his life, he probably won't get back to normal anytime soon. We need to give him some time.}
+{4250}{}{恐怕那不可能。经过这么多年的生活恐惧，他可能不会很快恢复正常。我们得给他点时间。}
+#{4251}{}{Ah, I understand, so take care.}
+{4251}{}{啊，我明白，所以要小心。}
+#{4301}{}{Fine, fine, I understand. You're not from around here. That's understandable and I appreciate that you have the guts to come here and tell me. And now excuse me, I have work to do.}
+{4301}{}{好吧，好吧，我明白。你不是本地人。这是可以理解的，我很感激你有勇气来告诉我。对不起，我还有工作要做。}
+#{4302}{}{OK, fine, take care.}
+{4302}{}{好吧，好吧，保重。}
+#{4303}{}{Wait! I want to ask you something!}
+{4303}{}{等待！我想问你一件事！}
+#{4350}{}{What would you like to know about him?}
+{4350}{}{你想了解他什么？}
+#{4351}{}{What would you like to know about him?}
+{4351}{}{你想了解他什么？}
+#{4352}{}{Why doesn't he sell his goods by himself?}
+{4352}{}{他为什么不自己卖东西？}
+#{4353}{}{Nothing, I just want to talk to him. Can I?}
+{4353}{}{没什么，我只是想和他谈谈。我可以吗？}
+#{4357}{}{If this place belongs to Leonard, why do you act like the boss here?}
+{4357}{}{如果这个地方是莱纳德的，你为什么要表现得像这里的老板？}
+#{4354}{}{Who is he anyway?}
+{4354}{}{他到底是谁？}
+#{4355}{}{Why doesn't he get on well with Julian?}
+{4355}{}{为什么他和朱利安相处不好？}
+#{4356}{}{Actually, I want to ask about something completely different.}
+{4356}{}{实际上，我想问一些完全不同的问题。}
+#{4400}{}{Because he's afraid for his life. One day he simply crawled into the basement and refused to leave it. The only person he trusts is me, so I do all his dealings for him.}
+{4400}{}{因为他害怕自己的生命。一天，他干脆爬进地下室，拒绝离开。他唯一信任的人是我，所以我替他做所有的交易。}
+#{4402}{}{Are you saying he doesn't go out at all, and still rots in this shanty?}
+{4402}{}{你是说他根本不出去，还在这个棚屋里腐烂？}
+#{4403}{}{Will you tell me something more about him?}
+{4403}{}{你能告诉我更多关于他的情况吗？}
+#{4404}{}{Why doesn't he get on well with Julian?}
+{4404}{}{为什么他和朱利安相处不好？}
+#{4405}{}{Actually, I want to ask about something completely different.}
+{4405}{}{实际上，我想问一些完全不同的问题。}
+#{4450}{}{Well, I don't know what to say about him. He's simply a great guy who came upon a bad partner. If it wasn't for Julian and that bitch he stabbed, the poor sod could lead a normal life and wouldn't have to hide all the time.}
+{4450}{}{我不知道该怎么说他。他只是个遇到坏搭档的好人。如果不是朱利安和他刺伤的那个婊子，这个可怜的家伙可以过正常的生活，也不用一直躲着。}
+#{4451}{}{How long have you known him?}
+{4451}{}{你认识他多久了？}
+#{4452}{}{Whom did Julian stab?}
+{4452}{}{朱利安刺了谁？}
+#{4453}{}{Why doesn't he get on well with Julian?}
+{4453}{}{为什么他和朱利安相处不好？}
+#{4454}{}{I want to ask something different.}
+{4454}{}{我想问一些不同的问题。}
+#{4500}{}{Quite long. Actually, I started working with him not too long after he teamed up with Julian. He taught me to make drugs, medicine, and poisons, so today I can cover for him in pretty much everything.}
+{4500}{}{挺长的。事实上，在他和朱利安合作后不久我就开始和他合作了。他教我制造毒品、药品和毒药，所以今天我几乎可以为他包庇一切。}
+#{4501}{}{Poisons? You make poisons too?}
+{4501}{}{毒药？你也做毒药？}
+#{4502}{}{Leonard and Julian worked together?}
+{4502}{}{伦纳德和朱利安一起工作？}
+#{4503}{}{I want to ask some questions about Leonard.}
+{4503}{}{我想问一些关于伦纳德的问题。}
+#{4550}{}{That's a long story and I have no time to tell it. Go to the church and see father Farley. He likes a good chat and should answer all your questions concerning those two.}
+{4550}{}{说来话长，我没时间讲。去教堂见法利神父。他喜欢闲聊，应该会回答你关于这两个问题的所有问题。}
+#{4551}{}{Thanks, I want to ask about...}
+{4551}{}{谢谢，我想问一下。。。}
+#{4552}{}{I have one more question about Leonard.}
+{4552}{}{我还有一个关于伦纳德的问题。}
+#{4600}{}{The Mayor's daughter. Simply, they both fell in love with her, Julian couldn't handle it, stabbed her and then tried to frame Leonard.}
+{4600}{}{市长的女儿。简单地说，他们都爱上了她，朱利安受不了，捅了她一刀，然后试图陷害伦纳德。}
+#{4601}{}{Are you sure about that? Are there any witnesses?}
+{4601}{}{你确定吗？有目击者吗？}
+#{4602}{}{I want to ask some questions about Leonard.}
+{4602}{}{我想问一些关于伦纳德的问题。}
+#{4650}{}{Of course I am! Leonard would never be able to do something like that! To realize it, you need no witnesses.}
+{4650}{}{我当然是！伦纳德永远不会做那样的事！要实现这一点，你不需要证人。}
+#{4651}{}{OK, fine, let's change the topic. I want to ask you something else.}
+{4651}{}{好吧，我们换个话题。我想问你点别的。}
+#{4652}{}{Fine, fine. So tell me something more about Leonard.}
+{4652}{}{很好，很好。告诉我更多关于伦纳德的事。}
+#{4700}{}{Yep. Julian sold weapons and Leonard medicine, drugs and poisons. When they teamed up, their earnings rose. It would've been rather profitable if it wasn't for that bitch.}
+{4700}{}{是的。朱利安出售武器和伦纳德的药品，毒品和毒药。当他们合作时，他们的收入增加了。如果不是那个婊子的话，那就相当有利可图了。}
+#{4701}{}{What bitch?}
+{4701}{}{什么婊子？}
+#{4702}{}{Poisons? You sell poisons too?}
+{4702}{}{毒药？你也卖毒药？}
+#{4703}{}{I want to ask some questions about Leonard.}
+{4703}{}{我想问一些关于伦纳德的问题。}
+#{4750}{}{The Mayor's daughter. She messed with their heads and they started hating each other. Finally they parted and everyone stuck up with his own stuff, but the business wasn't as smooth as before.}
+{4750}{}{市长的女儿。她弄乱了他们的头，他们开始互相憎恨。最后他们分手了，每个人都坚持自己的东西，但生意不像以前那么顺利。}
+#{4751}{}{Ah, I'm sorry about that, I would like to know something more about Leonard.}
+{4751}{}{啊，很抱歉，我想知道更多关于伦纳德的事。}
+#{4752}{}{I want to ask something different.}
+{4752}{}{我想问一些不同的问题。}
+#{4800}{}{A town? You mean these ruins? They're not worth a spit. During those years of war we've ruined this place so much it's barely holding together. Soon, it'll be history.}
+{4800}{}{一个小镇？你是说这些废墟？他们不值得一吐。在那几年的战争中，我们把这个地方毁得一塌糊涂，几乎无法维系。很快，这将成为历史。}
+#{4801}{}{So why's there a war?}
+{4801}{}{为什么会有战争？}
+#{4802}{}{Ah. I want to ask you another question.}
+{4802}{}{啊。我想问你另一个问题。}
+#{4850}{}{This town became a battleground just because of one treacherous bitch who couldn't choose between two men. But I'm not going to talk to you about that. Bother someone else with it.}
+{4850}{}{因为一个奸诈的婊子不能在两个男人之间做出选择，这个小镇成了战场。但我不想和你谈这个。用它来打扰别人。}
+#{4851}{}{Well then. Farewell, Alexa.}
+{4851}{}{那好吧。再见，亚历克斯。}
+#{4852}{}{I want to ask something different.}
+{4852}{}{我想问一些不同的问题。}
+#{4900}{}{Excellent! You make me damn happy! Here's your reward. [She hands you 500 caps and two stimpaks.] Now there's nothing holding us back from wrecking that motherfucker. Would you like to help us? An extra gun would come in handy and the reward will be big.}
+{4900}{}{杰出的！你让我很开心！这是你的奖赏。[她递给你500顶瓶盖和两个Stimpak.]现在没有什么能阻止我们毁掉那个混蛋。你愿意帮助我们吗？一把额外的枪会派上用场，而且报酬会很大。}
+#{4901}{}{You don't have to say that again. I'm in!}
+{4901}{}{你不用再说了。我加入了！}
+#{4902}{}{Wait a sec, I have to think about it.}
+{4902}{}{等等，我得考虑一下。}
+#{4903}{}{No, sorry, but I'm not going with you. It's enough for me.}
+{4903}{}{不，对不起，我不跟你去。我受够了。}
+#{4950}{}{Great! But we have to hurry. We've got the element of surprise on our side, so Julian's guards at the barricades won't be a problem, we'll roll over them quickly. But once that bastard hears the first gunshots, he'll surely start fortifying his house. The less time we give him, the better. All my men have an order to get there lickety-split and to dope up themselves for that fight. I expect the same from you. Here's your ration. [She hands you Buffout.] Everything clear?}
+{4950}{}{太好了！但我们得快点。我们这边有出其不意的因素，所以朱利安在街垒的守卫不会有问题，我们会很快把他们打翻。但一旦那混蛋听到第一声枪响，他肯定会开始加固他的房子。我们给他的时间越少越好。我所有的人都有一个命令，去那里舔食分裂和吸毒自己的战斗。我对你也有同样的期望。这是你的口粮。[她把你交出来]一切都好吗？}
+#{4951}{}{Great! But we have to hurry. We've got the element of surprise on our side, so Julian's guards at the barricades won't be a problem, we'll roll over them quickly. But once that bastard hears the first gunshots, he'll surely start fortifying his house. The less time we give him, the better. All my men have an order to get there lickety-split and to dope up themselves for that fight. I expect the same from you. Here's your ration. [She hands you Mentats.] Everything clear?}
+{4951}{}{太好了！但我们得快点。我们这边有出其不意的因素，所以朱利安在街垒的守卫不会有问题，我们会很快把他们打翻。但一旦那混蛋听到第一声枪响，他肯定会开始加固他的房子。我们给他的时间越少越好。我所有的人都有一个命令，去那里舔食分裂和吸毒自己的战斗。我对你也有同样的期望。这是你的口粮。[她递给你薄荷糖]一切都好吗？}
+#{4952}{}{Clear. Let's do this.}
+{4952}{}{清除。我们开始吧。}
+#{4953}{}{Great! But we have to hurry. We've got the element of surprise on our side, so Julian's guards at the barricades won't be a problem, we'll roll over them quickly. But once that bastard hears the first gunshots, he'll surely start fortifying his house. The less time we give him, the better, especially since he got some medical supplies from god-knows-where. All my men have an order to get there lickety-split and to dope up themselves for that fight. I expect the same from you. Here's your ration. [She hands you Buffout.] Everything clear?}
+{4953}{}{太好了！但我们得快点。我们这边有出其不意的因素，所以朱利安在街垒的守卫不会有问题，我们会很快把他们打翻。但一旦那混蛋听到第一声枪响，他肯定会开始加固他的房子。我们给他的时间越少越好，特别是他从哪里得到了一些医疗用品。我所有的人都有一个命令，去那里舔食分裂和吸毒自己的战斗。我对你也有同样的期望。这是你的口粮。[她把你交出来]一切都好吗？}
+#{4954}{}{Great! But we have to hurry. We've got the element of surprise on our side, so Julian's guards at the barricades won't be a problem, we'll roll over them quickly. But once that bastard hears the first gunshots, he'll surely start fortifying his house. The less time we give him, the better, especially since he got some medical supplies from god-knows-where. All my men have an order to get there lickety-split and to dope up themselves for that fight. I expect the same from you. Here's your ration. [She hands you Mentats.] Everything clear?}
+{4954}{}{太好了！但我们得快点。我们这边有出其不意的因素，所以朱利安在街垒的守卫不会有问题，我们会很快把他们打翻。但一旦那混蛋听到第一声枪响，他肯定会开始加固他的房子。我们给他的时间越少越好，特别是他从哪里得到了一些医疗用品。我所有的人都有一个命令，去那里舔食分裂和吸毒自己的战斗。我对你也有同样的期望。这是你的口粮。[她递给你薄荷糖]一切都好吗？}
+#{5000}{}{Bad luck, we're going right now. You go either with us or you'll stay here till we're back. I don't want any unpleasant surprises during the battle. So what then?}
+{5000}{}{运气不好，我们现在就走。你要么和我们一起去，要么呆在这里直到我们回来。我不想在战斗中有任何不愉快的惊喜。那又怎样？}
+#{5001}{}{I'm going with you then.}
+{5001}{}{那我和你一起去。}
+#{5002}{}{No, thanks. It's been enough, I'll stay here.}
+{5002}{}{不用了，谢谢。够了，我就呆在这里。}
+#{5050}{}{Hah! Done! [Alexa returns stained in blood. It doesn't seem to be hers.] That bastard won't trouble us anymore! So, chickenshit, you're free to go, but thanks for that small stuff you helped us with.}
+{5050}{}{哈哈！完成！[Alexa回来时血迹斑斑。好像不是她的那个混蛋不会再找我们麻烦了！所以，小鸡，你可以走了，但是谢谢你帮我们做的小事情。}
+#{5051}{}{Hah! Done! [Alexa returns stained in blood. It doesn't seem to be hers.] That bastard won't trouble us anymore! So, chickenshit, you're free to go, but thanks for that small stuff you helped us with.}
+{5051}{}{哈哈！完成！[Alexa回来时血迹斑斑。好像不是她的那个混蛋不会再找我们麻烦了！所以，小鸡，你可以走了，但是谢谢你帮我们做的小事情。}
+#{5052}{}{[Leave.]}
+{5052}{}{[离开]}
+#{5100}{}{Well then, you'll have to stay here till we're done. I don't want any unpleasant surprises during the fight.}
+{5100}{}{好吧，那你就得待在这里直到我们结束。我不想在战斗中有任何不愉快的惊喜。}
+#{5101}{}{[Wait.]}
+{5101}{}{[等等。]}
+#{5102}{}{Wait! I thought it over! I'm going with you!}
+{5102}{}{等待！我考虑过了！我和你一起去！}
+#{5103}{}{Wait! I thought it over! I'm going with you!}
+{5103}{}{等待！我考虑过了！我和你一起去！}
+#{5150}{}{I have that, but I won't sell it. Why would you need such a thing?}
+{5150}{}{我有，但我不卖。你为什么需要这样的东西？}
+#{5151}{}{Well, I have no use for it, I just didn't see it among your goods.}
+{5151}{}{嗯，我没用，只是在你们的货物中没看到。}
+#{5152}{}{Well, I have no use for it, I just didn't see it among your goods.}
+{5152}{}{嗯，我没用，只是在你们的货物中没看到。}
+#{5153}{}{I'm from a caravan that's currently waiting behind town, our doctor's run out of stimpaks, so he could use the bag.}
+{5153}{}{我来自一个大篷车，现在在镇后等着，我们的医生的史汀帕克用完了，所以他可以用这个包。}
+#{5154}{}{Such a bag can come in handy at any time, no?}
+{5154}{}{这样的包随时都能派上用场，不是吗？}
+#{5155}{}{I'm a doctor and I need it for treatment.}
+{5155}{}{我是医生，我需要它来治疗。}
+#{5156}{}{I'm a doctor and I need it for treatment.}
+{5156}{}{我是医生，我需要它来治疗。}
+#{5200}{}{Yeah, sure, but I have no guarantee you won't sell it to Julian's pet. I'm not going to risk that.}
+{5200}{}{是的，当然，但我不能保证你不会把它卖给朱利安的宠物。我不会冒险的。}
+#{5201}{}{Ah, fine. I get it, forget about that. Let's change the topic. I need something else.}
+{5201}{}{啊，很好。我明白了，算了吧。我们换个话题吧。我需要别的东西。}
+#{5202}{}{Why would I sell it to him anyway?}
+{5202}{}{我为什么要卖给他？}
+#{5203}{}{Why would I sell it to him anyway?}
+{5203}{}{我为什么要卖给他？}
+#{5204}{}{But I'm a doctor and I need it for treatment.}
+{5204}{}{但我是医生，我需要它来治疗。}
+#{5205}{}{But I'm a doctor and I need it for treatment.}
+{5205}{}{但我是医生，我需要它来治疗。}
+#{5250}{}{Really? You don't look like one, so I'm not going to risk you selling it to Julian's pet afterwards. Bad luck.}
+{5250}{}{真正地？你看起来不像，所以我不会冒险让你把它卖给朱利安的宠物。运气不好。}
+#{5251}{}{And what if I prove I'm really a doctor?}
+{5251}{}{如果我能证明我是个医生呢？}
+#{5252}{}{And what if I prove I'm really a doctor?}
+{5252}{}{如果我能证明我是个医生呢？}
+#{5253}{}{Well yeah, I don't look like one, so let's drop it, because I need something else from you.}
+{5253}{}{嗯，是的，我看起来不像一个，所以让我们放弃它，因为我需要你的其他东西。}
+#{5300}{}{Do you dare to try proving that? Fine, if you convince me, the bag's yours and maybe even with a discount.}
+{5300}{}{你敢证明这一点吗？好吧，如果你能说服我，这个包是你的，也许还有折扣。}
+#{5301}{}{Fine, let's do this. What am I supposed to do?}
+{5301}{}{好吧，我们开始吧。我该怎么办？}
+#{5302}{}{Rather not, screw it.}
+{5302}{}{不是，去他妈的。}
+#{5350}{}{You'll see. Wait here for a moment.}
+{5350}{}{你会看到的。在这里等一会儿。}
+#{5351}{}{[Wait.]}
+{5351}{}{[等等。]}
+#{5400}{}{Good, I believe you. There you go, take it as a payment for the amusement provided.}
+{5400}{}{很好，我相信你。好了，作为娱乐的报酬。}
+#{5401}{}{Thanks.}
+{5401}{}{谢谢。}
+#{5450}{}{Hah hah, you being a doctor... I should've known you were trying to trick me! Do you have a last wish, or are you ready to sleep forever?}
+{5450}{}{哈哈，你当医生。。。我早该知道你想骗我！你有最后的愿望吗，或者你准备好永远睡觉了吗？}
+#{5451}{}{Wait! You can't shoot a person right in front of me! That messes everyone up so much they don't know what to do next, doctor or not! That's unfair!}
+{5451}{}{等待！你不能在我面前开枪！那会把每个人都搞得一团糟，他们不知道下一步该怎么办，医生！这不公平！}
+#{5452}{}{Yeah, I want to see you squirming in blood and begging for mercy, you bitch!}
+{5452}{}{是啊，我想看到你在血中挣扎求饶，你这个婊子！}
+#{5500}{}{Hm, fine, I'll let you live. Now bugger off, I'm not in the mood for you.}
+{5500}{}{嗯，好吧，我让你活下去。滚开，我没心情看你。}
+#{5501}{}{[Leave.]}
+{5501}{}{[离开]}
+#{5550}{}{Fine, something else?}
+{5550}{}{好吧，还有别的吗？}
+#{5551}{}{Yeah, I want to ask you something.}
+{5551}{}{是的，我想问你一件事。}
+#{5552}{}{Actually, I want something different.}
+{5552}{}{实际上，我想要一些不同的东西。}
+#{5553}{}{No, thanks, I'll be on my way.}
+{5553}{}{不用了，谢谢，我马上就来。}
+#{5600}{}{What exactly?}
+{5600}{}{到底是什么？}
+#{5601}{}{About that work...}
+{5601}{}{关于那个工作。。。}
+#{5602}{}{I want to ask you something.}
+{5602}{}{我想问你一件事。}
+#{5603}{}{I want to buy something.}
+{5603}{}{我想买点东西。}
+#{5604}{}{Do you have any work for me?}
+{5604}{}{你有工作给我吗？}
+#{5605}{}{What do you sell anyway?}
+{5605}{}{你卖什么？}
+#{5606}{}{I have the cash for the bag!}
+{5606}{}{我有买袋子的钱！}
+#{5607}{}{I finally know who killed Maria! I think it'll really be of interest to you.}
+{5607}{}{我终于知道谁杀了玛丽亚！我想你会很感兴趣的。}
+#{5608}{}{Nothing, see ya.}
+{5608}{}{没什么，再见。}
+#{5700}{}{Why? Because I'm like that. I hate to see people suffering.}
+{5700}{}{为什么？因为我就是这样。我讨厌看到人们受苦受难。}
+#{5701}{}{It doesn't look like that to me. If you hated such a sight, you wouldn't sell drugs and you'd try to help others somehow other than with pitiful gifts.}
+{5701}{}{在我看来不是那样的。如果你讨厌这样的景象，你就不会卖毒品，你会设法帮助别人，而不是用可怜的礼物。}
+#{5702}{}{Ah, thanks. I need something else.}
+{5702}{}{啊，谢谢。我需要别的东西。}
+#{5750}{}{Oh, really? Well you saw through me. You want a medal for that? Look, in these quarters, the only people not using drugs are those church-goers who have no money for them. If I give them money, they have enough for drugs and they go to me, clear?}
+{5750}{}{哦，真的吗？你看穿了我。你想要奖章吗？看，在这些地方，唯一不吸毒的人是那些没钱买毒品的教堂信徒。如果我给他们钱，他们就有足够的钱买毒品，然后他们去找我，明白吗？}
+#{5751}{}{Oh, really? Well you saw through me. You want a medal for that? Look, in these quarters, the only people not using drugs are those church-goers who have no money for them. If I give them money, they have enough for drugs and they go to me, clear?}
+{5751}{}{哦，真的吗？你看穿了我。你想要奖章吗？看，在这些地方，唯一不吸毒的人是那些没钱买毒品的教堂信徒。如果我给他们钱，他们就有足够的钱买毒品，然后他们去找我，明白吗？}
+#{5752}{}{Rather clever, you keep your customers this way, although I don't know how can you profit when they pay you with your money.}
+{5752}{}{相当聪明，你这样留住你的顾客，虽然我不知道他们用你的钱付钱给你，你怎么能获利。}
+#{5753}{}{Ew, that's nasty! I'm going to tell Farley right now!}
+{5753}{}{呃，太恶心了！我现在就去告诉法利！}
+#{5754}{}{Forget about that, I want to ask...}
+{5754}{}{算了吧，我想问。。。}
+#{5755}{}{I need something else from you.}
+{5755}{}{我需要你给我点别的东西。}
+#{5800}{}{It's easy. Once they get it, they can't simply leave it, and after a while they're completely dependent on me and they do everything I want. Before Julian didn't have them shot on sight, they had been making a nice mess in the South Side.}
+{5800}{}{这很简单。一旦他们得到了，他们不能简单地离开，过了一段时间，他们完全依赖我，他们做了我想做的一切。在朱利安没有看到他们之前，他们在南区搞得一团糟。}
+#{5801}{}{Ew, that's nasty! I'm going to tell Farley right now!}
+{5801}{}{呃，太恶心了！我现在就去告诉法利！}
+#{5802}{}{Monster! I'll kill you for that!}
+{5802}{}{怪物！我要杀了你！}
+#{5803}{}{You know, let's pretend I didn't hear anything. I'm interested in something else.}
+{5803}{}{你知道，让我们假装我什么都没听到。我对别的东西感兴趣。}
+#{5804}{}{Time for me to leave, I feel sick.}
+{5804}{}{我该走了，我觉得不舒服。}
+#{5850}{}{Feel free to go, but who do you think he'll trust? A stranger or his old acquaintance who's so nice to him?}
+{5850}{}{可以走了，但你认为他会相信谁？对他这么好的陌生人还是他的老熟人？}
+#{5851}{}{Feel free to go, but who do you think he'll trust? A stranger or his old acquaintance who's so nice to him?}
+{5851}{}{可以走了，但你认为他会相信谁？对他这么好的陌生人还是他的老熟人？}
+#{5852}{}{Monster! I'll kill you for that!}
+{5852}{}{怪物！我要杀了你！}
+#{5853}{}{True, screw that. I need something else.}
+{5853}{}{是的，去他妈的。我需要别的东西。}
+#{5854}{}{You make me sick, I need some fresh air.}
+{5854}{}{你让我恶心，我需要一些新鲜空气。}
+#{5900}{}{They steal, dismantling old junk, it varies. There can always be found something you can sell or exchange. Pity that Julian shoots all the junkies that get into his quarters, otherwise there'd instantly be a much better supply of material. But occasionally someone manages to steal something there and return in one piece.}
+{5900}{}{他们偷，拆旧的垃圾，这是不同的。总是可以找到一些你可以出售或交换的东西。可惜朱利安射杀了所有进入他住所的瘾君子，否则马上就会有更好的材料供应。但偶尔有人在那里偷东西，然后一件一件地回来。}
+#{5901}{}{Where do you get all these drugs?}
+{5901}{}{你从哪里弄到这些药的？}
+#{5902}{}{Wait, they shoot junkies in the South Side?}
+{5902}{}{等等，他们在南边射杀瘾君子？}
+#{5903}{}{Well then, I want to ask...}
+{5903}{}{那么，我想问。。。}
+#{5904}{}{I need something else.}
+{5904}{}{我需要别的东西。}
+#{5905}{}{They steal, dismantling old junk, it varies. There can be always found something you can sell or exchange. Now that Julian finally kicked the bucket there'll instantly be much better supply of the material. There's still a lot of stuff in the South Side you can sell.}
+{5905}{}{他们偷，拆旧的垃圾，这是不同的。总是可以找到一些你可以出售或交换的东西。现在朱利安终于成功了，材料的供应马上就会好得多。南区还有很多东西可以卖。}
+#{5950}{}{Well, no wonder, such stuff doesn't sell well. The only one who could use this is doctor Moore and he works for Julian, so no sale's going to happen.}
+{5950}{}{好吧，难怪，这样的东西卖得不好。唯一能用这个的是摩尔医生，他为朱利安工作，所以不会有任何交易。}
+#{5951}{}{Oh well, thanks for the clarification anyway, I'll go.}
+{5951}{}{哦，好吧，谢谢你的澄清，不管怎样，我会去的。}
+#{5952}{}{Ah thanks, I need something else.}
+{5952}{}{啊，谢谢，我还需要点别的。}
+#{5953}{}{Ah thanks, I need something else.}
+{5953}{}{啊，谢谢，我还需要点别的。}
+#{6000}{}{Yep, as soon as they see one, they open fire at him. They think if they rob us of customers, we will collapse. But they are wrong!}
+{6000}{}{是的，他们一看到就向他开火。他们认为如果他们抢走我们的顾客，我们就会崩溃。但他们错了！}
+#{6001}{}{That's really disgusting!}
+{6001}{}{真恶心！}
+#{6002}{}{Ah, I'd like to ask something else.}
+{6002}{}{啊，我想问点别的。}
+#{6003}{}{Ah, I'd like to ask something else.}
+{6003}{}{啊，我想问点别的。}
+#{6004}{}{I still need something from you.}
+{6004}{}{我还需要你的东西。}
+#{6050}{}{It is, but what should one do?}
+{6050}{}{是的，但我们该怎么办呢？}
+#{6051}{}{I feel kinda sick, pardon me.}
+{6051}{}{我觉得有点不舒服，请原谅。}
+#{6052}{}{I want to ask about something.}
+{6052}{}{我想问一些事情。}
+#{6053}{}{I still need something from you.}
+{6053}{}{我还需要你的东西。}
+#{6100}{}{Well, even though - by some miracle - you managed to get the previous job done and survived, I doubt your little primitive brain is ready for the stuff I'll want you to do now. But so be it. What can I lose? So listen: Doctor Moore BAD, you HAVE TO kill him, clear? You do know what the word KILL means, right?}
+{6100}{}{好吧，尽管-奇迹般地-你成功地完成了之前的工作并活了下来，但我怀疑你那小小的原始大脑是否已经为我现在想要你做的事情做好了准备。但就这样吧。我能失去什么？听着：摩尔医生很坏，你必须杀了他，明白吗？你知道杀戮是什么意思吧？}
+#{6102}{}{Well, even though - by some miracle - you managed to get the previous job done and survived, I doubt your little primitive brain is ready for the stuff I'll want you to do now. But so be it. What can I lose? So listen: Doctor Moore BAD, you HAVE TO kill him, clear? You do know what the word KILL means, right?}
+{6102}{}{好吧，尽管-奇迹般地-你成功地完成了之前的工作并活了下来，但我怀疑你那小小的原始大脑是否已经为我现在想要你做的事情做好了准备。但就这样吧。我能失去什么？听着：摩尔医生很坏，你必须杀了他，明白吗？你知道杀戮是什么意思吧？}
+#{6103}{}{Big hurtsies! Won't get up.}
+{6103}{}{大伤！不会起来的。}
+#{6104}{}{No-no?}
+{6104}{}{不，不？}
+#{6150}{}{Exactly. So go and kill him. And in addition. [She hands you Psycho.] Take this medicine before you start killing. It'll help you with Julian's guards. Whatever happens to you, try to kill as many of them as possible. Okay?}
+{6150}{}{确切地。所以去杀了他。除此之外。[她把你交给神经病]在你杀人之前先吃药。它会帮你对付朱利安的警卫。不管发生什么事，尽可能多的杀他们。可以？}
+#{6151}{}{Yeah!}
+{6151}{}{是 啊！}
+#{6200}{}{My god, I hope you've been an idiot since birth and not because of drugs or radiation! [She shows you a pistol.] You take THIS, aim and press this here lever, get it?}
+{6200}{}{我的天，我希望你从出生起就是个白痴，而不是因为药物或辐射！[她给你看了一把手枪]你拿着这个，瞄准并按下这个杠杆，明白吗？}
+#{6201}{}{My god, I hope you've been an idiot since birth and not because of drugs or radiation! [She shows you a pistol.] You take THIS, aim and press this here lever, get it?}
+{6201}{}{我的天，我希望你从出生起就是个白痴，而不是因为药物或辐射！[她给你看了一把手枪]你拿着这个，瞄准并按下这个杠杆，明白吗？}
+#{6202}{}{Yeeah.}
+{6202}{}{是的。}
+#{6203}{}{No-o.}
+{6203}{}{没有。}
+#{6250}{}{Then GET LOST before I change my mind and end your miserable existence! I'm not in the mood for an idiot like you.}
+{6250}{}{在我改变主意结束你悲惨的生活之前滚开！我没心情接受你这样的白痴。}
+#{6251}{}{[Get lost.]}
+{6251}{}{[迷路]}
+#{6300}{}{Of course yes, dearie. You hastened the inevitable and now you can join auntie Alexa and her loyal uncles and together we shall kick Julian's ass, how about that? You'll get this delicious treat. [She waves a pack of Psycho in front of your eyes.]}
+{6300}{}{当然可以，亲爱的。你加快了不可避免的，现在你可以加入阿历克斯阿姨和她的忠实叔叔，我们一起踢朱利安的屁股，怎么样？你会得到这美味的款待。[她在你眼前挥舞着一包疯子。]}
+#{6301}{}{Yeeeaah! Heeee! [Attack the South Side.]}
+{6301}{}{是啊！嘿！[攻击南边。]}
+#{6302}{}{No, no!}
+{6302}{}{不，不！}
+#{6303}{}{Of course yes, dearie. You hastened the inevitable and now you can join auntie Alexa and her loyal uncles and together we shall kick Julian's ass, how about that? You'll get this delicious treat. [She waves a pack of Psycho in front of your eyes.]}
+{6303}{}{当然可以，亲爱的。你加快了不可避免的，现在你可以加入阿历克斯阿姨和她的忠实叔叔，我们一起踢朱利安的屁股，怎么样？你会得到这美味的款待。[她在你眼前挥舞着一包疯子。]}
+#{6350}{}{Well? So what?}
+{6350}{}{好？那又怎么样？}
+#{6351}{}{I has bang bang!}
+{6351}{}{我有砰砰！}
+#{6352}{}{Doctor dead!}
+{6352}{}{医生死了！}
+#{6353}{}{Nuting, auntie.}
+{6353}{}{发疯了，阿姨。}
+#{6400}{}{Great! I didn't expect that! And you're in one piece, unbelievable... Fine, there you go, have 250 caps and a treat. [Hands you Mentats.]}
+{6400}{}{太好了！我没想到！你完好无损，难以置信。。。好吧，给你，有250顶瓶盖和一份请客。[递给你薄荷糖。]}
+#{6401}{}{Moar.}
+{6401}{}{呻吟。}
+#{6402}{}{Fankies.}
+{6402}{}{粉丝们。}
+#{6450}{}{Very well, have more treats. [She gives you 2 Mentats and Buffout.]}
+{6450}{}{很好，多吃点。[她给你2个薄荷糖和咖啡。]}
+#{6451}{}{Moar treatsies.}
+{6451}{}{呻吟疗法。}
+#{6452}{}{Bai bai.}
+{6452}{}{白白。}
+#{6500}{}{Seriously? I haven't heard anything dumber before. A caravan showing up here? From where? None have come here for a long time.}
+{6500}{}{说真的？我从没听过比这更蠢的事。一辆大篷车出现在这里？从哪里来的？很久没有人来过这里了。}
+#{6501}{}{Eh, well... Nevermind.}
+{6501}{}{呃，好吧。。。没有关系。}
+#{6502}{}{Who says it was headed here? We've been taking a shortcut on our way from a little town far away, and we encoutered several geckos that bit some of our guys in a nasty manner. We need to treat them.}
+{6502}{}{谁说是朝这里来的？我们在从一个遥远的小镇走捷径的路上，遇到了几只壁虎，它们以一种恶劣的方式咬了我们的一些人。我们需要治疗他们。}
+#{6503}{}{Forget about it. I need something else.}
+{6503}{}{算了吧。我需要别的东西。}
+#{6550}{}{Hm, I don't believe you anyway. What's that town's name?}
+{6550}{}{嗯，反正我也不相信你。那个城镇叫什么名字？}
+#{6551}{}{That's a trade secret. Only our caravan company knows the name and the location, so we have to protect that secret with our lives. That's why I need the bag. Every member of the caravan is completely discreet and therefore really hard to replace.}
+{6551}{}{这是商业秘密。只有我们的车队公司知道这个名字和地点，所以我们必须用生命来保护这个秘密。所以我需要这个包。商队的每个成员都非常谨慎，因此很难被取代。}
+#{6552}{}{New Hope.}
+{6552}{}{新希望。}
+#{6553}{}{Forget that, this is pointless. I'll be on my way.}
+{6553}{}{算了吧，这是毫无意义的。我马上就来。}
+#{6600}{}{Fine, fine, I'll sell it to you, but because you need it so much, it'll cost a lot - five hundred and don't try to barter, I won't sell it cheaper.}
+{6600}{}{好吧，好吧，我把它卖给你，但是因为你太需要它了，它要花很多钱——五百块钱，别想易货，我不会便宜一点卖的。}
+#{6601}{}{Fine, thanks. There you go, not a cap less.}
+{6601}{}{很好，谢谢。给你，一顶瓶盖也不能少。}
+#{6602}{}{Sadly, I don't have that much on me.}
+{6602}{}{可悲的是，我身上没有那么多。}
+#{6650}{}{Good, here's the stuff, now get out and treat your comrades.}
+{6650}{}{很好，事情是这样的，现在出去给你的同志们治病。}
+#{6651}{}{[Leave.]}
+{6651}{}{[离开]}
+#{6700}{}{So come back when you do.}
+{6700}{}{所以你回来的时候再来。}
+#{6701}{}{Wait! Actually, I have enough.}
+{6701}{}{等待！实际上，我已经够了。}
+#{6702}{}{Okay, take care.}
+{6702}{}{好的，保重。}
+#{6750}{}{What? I don't know such a hellhole and I doubt somewhere like that exists. Don't try to screw me over, otherwise you'll regret it!}
+{6750}{}{什么？我不知道这样一个地狱，我怀疑这样的地方是否存在。别想耍我，否则你会后悔的！}
+#{6751}{}{But I'm not making this up, really! You have to trust me!}
+{6751}{}{但我不是瞎编的，真的！你要相信我！}
+#{6752}{}{Yeah, really? The only one who's going to regret something is you!}
+{6752}{}{是的，真的吗？唯一会后悔的人就是你！}
+#{6753}{}{Forget about it. I need something else.}
+{6753}{}{算了吧。我需要别的东西。}
+#{6800}{}{No, it's kinda fishy. Get lost.}
+{6800}{}{不，有点可疑。滚开。}
+#{6801}{}{[Leave.]}
+{6801}{}{[离开]}
+#{6850}{}{Why? Because he's a doctor, of course, and will surely be short on stimpaks, so this old medical junk could come in handy to him.}
+{6850}{}{为什么？因为他是个医生，当然，而且肯定会缺钱给史汀帕克，所以这些旧的医疗垃圾会对他有用的。}
+#{6851}{}{But I won't sell it to him! You have to trust me!}
+{6851}{}{但我不会卖给他！你要相信我！}
+#{6852}{}{That may be, but there's a caravan waiting for me behind town and the doctor's out of stimpaks, so he could use this bag.}
+{6852}{}{可能是这样，但镇后有一辆大篷车在等我，而医生的史汀帕克不在，所以他可以用这个包。}
+#{6853}{}{Let's change the topic, I need something else.}
+{6853}{}{我们换个话题吧，我还需要别的东西。}
+#{6900}{}{Why are you so interested in it? Do you really want to know who killed the bitch? [Alexa smirks.] You're wasting time. It's clear who's to be blamed and why. That whore was promising herself to so many guys, till one couldn't stand it. Unsurprising.}
+{6900}{}{你为什么对它这么感兴趣？你真的想知道是谁杀了那婊子吗？你在浪费时间。很清楚谁该受责备，为什么。那个婊子向那么多人许诺，直到有人受不了。不足为奇。}
+#{6901}{}{You didn't really like Maria, did you?}
+{6901}{}{你不是很喜欢玛丽亚吧？}
+#{6902}{}{Do you know who killed her?}
+{6902}{}{你知道是谁杀了她吗？}
+#{6903}{}{I want to ask you something else.}
+{6903}{}{我想问你点别的。}
+#{6904}{}{I need something else from you.}
+{6904}{}{我需要你给我点别的东西。}
+#{6950}{}{The way she treated Leonard repelled me. She was just using him. And she was like that to everyone.}
+{6950}{}{她对待伦纳德的方式令我反感。她只是在利用他。她对每个人都是这样。}
+#{6951}{}{Do you know who killed her?}
+{6951}{}{你知道是谁杀了她吗？}
+#{6952}{}{I want to ask you something else.}
+{6952}{}{我想问你点别的。}
+#{6953}{}{I need something else from you.}
+{6953}{}{我需要你给我点别的东西。}
+#{7000}{}{Yeah, I do. Julian did it. He was jealous that Maria chose Leonard, so he stabbed her. Serves her right.}
+{7000}{}{是的，我知道。朱利安做到了。他嫉妒玛丽亚选择了伦纳德，所以他捅了她一刀。为她服务。}
+#{7001}{}{You didn't really like Maria, did you?}
+{7001}{}{你不是很喜欢玛丽亚吧？}
+#{7002}{}{I want to ask you something else.}
+{7002}{}{我想问你点别的。}
+#{7003}{}{I need something else from you.}
+{7003}{}{我需要你给我点别的东西。}
+#{7050}{}{Well, you're wrong. That bitch's death meant nothing to me. Go bother someone else with your fantasies.}
+{7050}{}{你错了。那婊子的死对我来说毫无意义。去用你的幻想去打扰别人吧。}
+#{7051}{}{Whatever you want. Farewell.}
+{7051}{}{你想要什么都行。再会。}
+#{7052}{}{Whatever you want. Farewell.}
+{7052}{}{你想要什么都行。再会。}
+#{7053}{}{I've gathered enough evidence proving you killed Maria.}
+{7053}{}{我收集了足够的证据证明你杀了玛丽亚。}
+#{7054}{}{I've gathered enough evidence proving you killed Maria.}
+{7054}{}{我收集了足够的证据证明你杀了玛丽亚。}
+#{7100}{}{[She pierces you with her gaze.] Really? Tell me.}
+{7100}{}{[她用目光刺穿你]真的吗？告诉我。}
+#{7101}{}{Maria was poisoned with a potent poison. She was stabbed only after her death. And the only people who've mastered the poison trade here are you and Leonard. But he didn't do it, because the murderer was a woman. It had to be you.}
+{7101}{}{玛丽亚被一种烈性毒药毒死了。她死后才被刺伤。只有你和莱纳德掌握了毒药交易。但他没有这么做，因为凶手是个女人。一定是你。}
+#{7150}{}{Correct. Doctor Reed figured this out as well. Maybe you know what happened to her next, too. I can't stand someone trying to blackmail me.}
+{7150}{}{对的。里德医生也发现了这一点。也许你也知道她接下来发生了什么。我受不了有人勒索我。}
+#{7151}{}{Why did you kill Maria anyway? She didn't do anything to you.}
+{7151}{}{你为什么要杀玛丽亚？她没有对你做任何事。}
+#{7200}{}{[Alexa smirks hatefully.] She was a whore! Sleeping with that pathetic wretch Julian wasn't enough for her; She had to seduce Leonard too. My Leonard! She messed up his mind completely. He was thinking just about her, he was spending all his money on her. He had no time for the trade anymore... He had no time even for me. And that Maria slut couldn't be happier. Once, she confided to me that she chose Leonard and would leave Julian. She apparently thought I was her confidant. Dumb bitch! It was clear to me she had to pop off. I lured her to an alley on the edge of town and injected my strongest poison into her. Then I watched her die slowly.}
+{7200}{}{她是个妓女！和那个可怜的朱利安睡在一起对她来说是不够的，她还得勾引伦纳德。我的伦纳德！她把他的脑子完全搞乱了。他只想着她，把所有的钱都花在了她身上。他没有时间做生意了。。。他甚至没有时间陪我。那个叫玛丽亚的荡妇再高兴不过了。有一次，她向我吐露，她选择了伦纳德，并将离开朱利安。她显然认为我是她的知己。蠢婊子！我很清楚她必须离开。我把她引诱到镇边的一条小巷里，把我最强的毒药注入她体内。然后我看着她慢慢死去。}
+#{7201}{}{But that's not all, is it?}
+{7201}{}{但这还不是全部，是吗？}
+#{7250}{}{When she finally kicked the bucket, I stabbed her. I wanted to divert attention from the real cause of her death. Plus mutilating her that way made me feel good. She finally got what she deserved.}
+{7250}{}{当她最后一脚踢开时，我捅了她一刀。我想转移人们对她死因的注意力。再加上那样残害她让我感觉很好。她终于得到了应得的。}
+#{7251}{}{That's what you think. What about Leonard. Doesn't he suspect you at all?}
+{7251}{}{你就是这么想的。那伦纳德呢。他一点也不怀疑你吗？}
+#{7300}{}{[Her eyes water.] Leonard's been dead for a long time. I killed him right after Maria. I knew how much he loved that bitch. If he had found out she was dead, it would've destroyed him. That's why I poisoned him before it could happen.}
+{7300}{}{伦纳德已经死了很长时间了。玛丽亚死后我就杀了他。我知道他有多爱那个婊子。如果他发现她死了，他早就完了。这就是为什么我在事情发生之前毒死了他。}
+#{7301}{}{And nobody found out?}
+{7301}{}{没人发现？}
+#{7302}{}{But why were you after George? That poor guy doesn't know a thing.}
+{7302}{}{但你为什么跟踪乔治？那个可怜的家伙什么都不知道。}
+#{7303}{}{What's going to happen now? Do you want to kill me too?}
+{7303}{}{现在会发生什么？你也想杀了我吗？}
+#{7350}{}{Once Julian heard about Maria's death, he sent his mercenaries after us and started this pitiful war. During all that killing, nobody minded the death of one person. Nothing has changed since. Even his own people don't care about Leonard. All they're after is doping all day long. They don't care who gives them drugs for that.}
+{7350}{}{朱利安一听说玛丽亚死了，就派他的佣兵来追我们，发动了这场可悲的战争。在所有的杀戮中，没有人在意一个人的死亡。从那以后一切都没有改变。连他自己的人都不关心伦纳德。他们整天只想服用兴奋剂。他们不在乎是谁给他们毒品。}
+#{7351}{}{But why were you after George? That poor guy doesn't know a thing.}
+{7351}{}{但你为什么跟踪乔治？那个可怜的家伙什么都不知道。}
+#{7352}{}{What's going to happen now? Do you want to kill me too?}
+{7352}{}{现在会发生什么？你也想杀了我吗？}
+#{7400}{}{George was constantly trying to discover who killed his pretty little daughter. He was tireless and I was afraid he was on the right track. So I issued the order to kill him. He got away by a stroke of luck, but without access to the North Side, he had no chance to investigate the murder. Until he dragged you in it.}
+{7400}{}{乔治一直在想是谁杀了他漂亮的小女儿。他不知疲倦，我担心他走对了方向。所以我下令杀了他。他侥幸逃脱了，但由于无法进入北边，他没有机会调查这起谋杀案。直到他把你拖进去。}
+#{7401}{}{And what about Leonard? Nobody's found out he's dead?}
+{7401}{}{那伦纳德呢？没人发现他死了？}
+#{7402}{}{Yeah, me. What will you do next? Will you kill me too?}
+{7402}{}{是的，我。你下一步要做什么？你也会杀了我吗？}
+#{7450}{}{Of course I will. Did you really think I would let you go? Coming here was a big mistake. You'll have to pay for it.}
+{7450}{}{我当然会的。你真的以为我会放你走吗？来这里是个大错误。你得付钱。}
+#{7451}{}{Of course I will. Did you really think I would let you go? Coming here was a big mistake. You'll have to pay for it.}
+{7451}{}{我当然会的。你真的以为我会放你走吗？来这里是个大错误。你得付钱。}
+#{7452}{}{You shouldn't underestimate me like this. I investigated the murder for George, who I told I'd be going to see you. If you kill me, he'll figure it out and easily find the last piece of the puzzle. He'll finally know who killed his daughter. And undoubtedly, he'll go to tell Julian and that'll fuel up his thirst for revenge. You personally will be the target this time.}
+{7452}{}{你不应该这样低估我。我为乔治调查了谋杀案，我告诉他我会去见你。如果你杀了我，他会明白的，很容易找到最后一块拼图。他终于知道是谁杀了他的女儿。毫无疑问，他会去告诉朱利安，这会激起他复仇的渴望。你个人将成为这次的目标。}
+#{7453}{}{You shouldn't underestimate me like this. I investigated the murder for George, who I told I'd be going to see you. If you kill me, he'll figure it out and easily find the last piece of the puzzle. He'll finally know who killed his daughter. And undoubtedly, he'll go to tell Julian and that'll fuel up his thirst for revenge. You personally will be the target this time.}
+{7453}{}{你不应该这样低估我。我为乔治调查了谋杀案，我告诉他我会去见你。如果你杀了我，他会明白的，很容易找到最后一块拼图。他终于知道是谁杀了他的女儿。毫无疑问，他会去告诉朱利安，这会激起他复仇的渴望。你个人将成为这次的目标。}
+#{7454}{}{And what then? You'll wage war till you destroy this town completely?}
+{7454}{}{然后呢？你要发动战争直到把这个城市彻底摧毁？}
+#{7455}{}{We'll see about that.}
+{7455}{}{我们拭目以待。}
+#{7500}{}{I can't deny that I would like to avoid that scenario. Okay, what do you want in order to keep our secret to yourself?}
+{7500}{}{我不能否认我想避免这种情况。好吧，你想要什么来保守我们的秘密？}
+#{7501}{}{I can't deny that I would like to avoid that scenario. Okay, what do you want in order to keep our secret to yourself?}
+{7501}{}{我不能否认我想避免这种情况。好吧，你想要什么来保守我们的秘密？}
+#{7502}{}{Stuff every reasonable person wants - caps. And it won't be cheap. Give me }
+{7502}{}{每个通情达理的人都想要的东西——瓶盖。而且不会便宜。给我}
+#{7503}{}{ caps and I'll forget everything.}
+{7503}{}{我会忘记一切的。}
+#{7504}{}{Stuff every reasonable person wants - caps. I'll be okay with }
+{7504}{}{每个通情达理的人都想要的东西——瓶盖。我不会介意的}
+#{7505}{}{ caps. For you, it's got to be a negligible sum, but it'll ensure my silence.}
+{7505}{}{瓶盖。对你来说，这是一个微不足道的数目，但它将确保我的沉默。}
+#{7506}{}{Stuff every reasonable person wants - caps. I understand your dire situation, so I'll be happy with }
+{7506}{}{每个通情达理的人都想要的东西——瓶盖。我理解你的悲惨处境，所以我会很高兴的}
+#{7507}{}{ caps. For you, it's got to be a negligible sum, but it'll ensure my silence.}
+{7507}{}{瓶盖。对你来说，这是一个微不足道的数目，但它将确保我的沉默。}
+#{7508}{}{Don't try. You won't bribe me.}
+{7508}{}{不要尝试。你不会贿赂我的。}
+#{7509}{}{I don't want anything from you. I would just like to know what is it you're after? Will you keep waging war till you destroy it here completely?}
+{7509}{}{我不想要你的任何东西。我只想知道你在找什么？你会继续发动战争直到把这里彻底摧毁吗？}
+#{7520}{}{So that's your price? I'll pay you but you'll have to get out of town. Instantly and forever. My people will escort you to the wasteland, and if you try to show yourself here again, they'll shoot you without hesitation. Is our agreement clear?}
+{7520}{}{这就是你的价格？我会付钱给你，但你得出城。瞬间永远。我的人会护送你去荒原，如果你再在这里露面，他们会毫不犹豫地开枪打死你。我们的协议清楚吗？}
+#{7521}{}{[Nod.] Give me the caps and I'll be on my way this instant. You won't see me here again.}
+{7521}{}{把瓶盖给我，我马上就来。你再也见不到我了。}
+#{7522}{}{I won't accept this. There'll be no agreement.}
+{7522}{}{我不接受这个。不会有协议的。}
+#{7523}{}{I've changed my mind. I can't just leave and let you destroy this town. Don't you care about it?}
+{7523}{}{我改变主意了。我不能就这样离开让你毁了这个城市。你不在乎吗？}
+#{7524}{}{I've changed my mind. I can't just leave and let you destroy this town. Don't you care about it?}
+{7524}{}{我改变主意了。我不能就这样离开让你毁了这个城市。你不在乎吗？}
+#{7550}{}{This town has been on the verge of death for a long time. Let it be destroyed for all I care.}
+{7550}{}{这个城镇早就濒临死亡了。不管我怎么想，让它毁灭吧。}
+#{7551}{}{The only thing you've ever cared about was Leonard, right? And you poisoned him. Now, in front of the whole world, you pretend he's still alive and nobody has a clue about your suffering. That doesn't sound like happily ever after.}
+{7551}{}{你唯一关心的是伦纳德，对吧？你毒死了他。现在，在全世界面前，你假装他还活着，没有人知道你的痛苦。这听起来不像是从此以后的幸福。}
+#{7552}{}{Of course. There really was no other answer to be expected.}
+{7552}{}{当然。真的没有别的答案。}
+#{7600}{}{Shut up! My life's not your business. I live it just the way I have to. I had no other choice than to kill Leonard back then. I wouldn't be able to bear his grief over that bitch's death. It was the only solution for both of us! [Alexa tries to keep calm but with great difficulty.] Do you have any other observations concerning me, or can I finally end you?}
+{7600}{}{闭嘴！我的生活不关你的事。我就是这样生活的。我当时除了杀了伦纳德别无选择。我不能忍受他为那婊子的死而悲伤。这是我们俩唯一的解决办法！[亚历克莎试图保持冷静，但困难重重]你对我还有什么看法吗，或者我能最终结束你吗？}
+#{7601}{}{Eh... just one more. You're wrong. Leonard wouldn't grieve for Maria's death that much. He wanted to break up with her shortly before the murder. George told me that.}
+{7601}{}{呃。。。再来一个。你错了。伦纳德不会为玛丽亚的死那么伤心。他想在谋杀发生前不久和她分手。乔治告诉我的。}
+#{7650}{}{You're a lying pig! What can you know about how it was back then! [She produces a pistol and aims it at you.] Talk! What did George tell you?!}
+{7650}{}{你是个说谎的猪！你能知道那时候是怎么回事吗！[她拿出一把手枪对准你]说话！乔治跟你说了什么？！}
+#{7651}{}{You're a lying pig! What can you know about how it was back then! [She produces a pistol and aims it at you.] Talk! What did George tell you?!}
+{7651}{}{你是个说谎的猪！你能知道那时候是怎么回事吗！[她拿出一把手枪对准你]说话！乔治跟你说了什么？！}
+#{7652}{}{He told me that Leonard visited him a day before his death. He wanted to break up with Maria and he didn't have the guts to tell her in person. He claimed she would take it easier if told by her father.}
+{7652}{}{他告诉我伦纳德死前一天来看过他。他想和玛丽亚分手，却没有勇气当面告诉她。他声称如果她父亲告诉她，她会轻松一些。}
+#{7700}{}{But... I... [She lowers the pistol. It seems she believed your fable.] I killed him right after Maria. I didn't give him a chance to tell that whore he didn't want her anymore. Everything could be... different.}
+{7700}{}{但是。。。一、 。。。[她放下手枪。似乎她相信了你的寓言。]玛丽亚死后我就杀了他。我没给他机会告诉那个妓女他不再想要她了。一切都可能。。。与众不同。}
+#{7701}{}{You're right.}
+{7701}{}{你说得对。}
+#{7750}{}{I killed my only love. I deprived myself of him. That... I can't handle that. [She turns the gun against herself.] Leonard, please... Forgive me. [She puts the barrel in her mouth and pulls the trigger.]}
+{7750}{}{我杀了我唯一的爱人。我失去了他。那个。。。我受不了。[她把枪对着自己]莱纳德，拜托。。。原谅我。[她把枪管放进嘴里扣动扳机。]}
+#{7751}{}{Farewell, Alexa.}
+{7751}{}{再见，亚历克斯。}

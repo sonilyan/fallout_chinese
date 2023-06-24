@@ -1,0 +1,332 @@
+#{100}{}{You see a man in leather armor.}
+{100}{}{你看见一个穿皮甲的人。}
+#{150}{}{You see Trevor.}
+{150}{}{你看到特雷弗了。}
+#{200}{}{You see a man with a stupid smile on his face and a cigarette stuck to his lip. He seems to be watching you.}
+{200}{}{你看到一个男人脸上带着愚蠢的微笑，嘴里叼着一支烟。他好像在看着你。}
+#{250}{}{You see Trevor. As usual, he's smoking a cigarette and looking around.}
+{250}{}{你看到特雷弗了。像往常一样，他抽着烟环顾四周。}
+#{300}{}{::Smokes his cigarette::}
+{300}{}{●抽烟：：}
+#{301}{}{Somehow it's not that good today.}
+{301}{}{不知怎的，今天不太好。}
+#{302}{}{Get out of my sight stranger, before my patience runs out!}
+{302}{}{快离开我的视线，陌生人，在我的耐心耗尽之前！}
+#{303}{}{Get out of my sight bitch, before my patience runs out!}
+{303}{}{滚开，婊子，在我没耐心之前！}
+#{304}{}{Hey! That's MINE!}
+{304}{}{嘿！那是我的！}
+#{305}{}{GET LOST!}
+{305}{}{滚开！}
+#{306}{}{Good work!}
+{306}{}{干得好！}
+#{307}{}{Fuck, it's all fucked up.}
+{307}{}{妈的，都搞砸了。}
+#{500}{}{[He takes a long drag on his cigarette and gives you a dumbass smirk.] Yeah?}
+{500}{}{[他吸了很久烟，傻笑了你一声]是吗？}
+#{501}{}{Hi there. I'd like to ask you a few things.}
+{501}{}{你好。我想问你几件事。}
+#{502}{}{Smokey man!}
+{502}{}{烟熏人！}
+#{503}{}{Oh never mind.}
+{503}{}{哦，没关系。}
+#{504}{}{Bye bye man... Smokeys yucky.}
+{504}{}{再见，伙计。。。Smokeys真恶心。}
+#{505}{}{I've gotten those smokes for you.}
+{505}{}{我给你买了烟。}
+#{550}{}{Ask? Let me tell you just one thing... [He has a coughing fit, his cigarette falls down.] Damn. Just one thing, but it's a very important thing. You can ask whatever, but answers, pal, answers is what you have to pay for around here... [He flashes his half-dumb smile again.] And I bet that's probably the last thing that you'll learn for free in this town.}
+{550}{}{问？让我告诉你一件事。。。[他咳嗽，香烟掉下来了]该死。只有一件事，但这是一件非常重要的事。你可以问任何问题，但是答案，伙计，答案是你在这里必须付出的。。。[他又露出半哑的微笑]我敢打赌这可能是你在这个镇上免费学到的最后一件事。}
+#{551}{}{Ask? Let me tell you just one thing... [He has a coughing fit, his cigarette falls down.] Damn. Just one thing, but it's a very important thing. You can ask whatever, but answers, kitty-cat, answers is what you have to pay for around here... [He flashes his half-dumb smile again.] And I bet that's probably the last thing that you'll learn for free in this town.}
+{551}{}{问？让我告诉你一件事。。。[他咳嗽，香烟掉下来了]该死。只有一件事，但这是一件非常重要的事。你可以问任何问题，但是答案，凯蒂猫，答案是你在这里必须付出的。。。[他又露出半哑的微笑]我敢打赌这可能是你在这个镇上免费学到的最后一件事。}
+#{552}{}{Look, either you talk or I'll have to beat the answers out of you!}
+{552}{}{听着，要么你开口，要么我把你的答案打出来！}
+#{553}{}{I see. Sorry to hear that. I don't have that many spare caps.}
+{553}{}{我懂了。很抱歉听到这个消息。我没有那么多多余的瓶盖。}
+#{554}{}{OK. How much will a short conversation cost me?}
+{554}{}{好 啊。一次简短的谈话要花我多少钱？}
+#{600}{}{What? [He watches you distrustfully.] Well do you want something or not?}
+{600}{}{什么？[他不信任地看着你]你到底想要什么？}
+#{601}{}{Smokey make! Give me, give me!}
+{601}{}{Smokey make！给我，给我！}
+#{602}{}{What this yucky townie?}
+{602}{}{这个讨厌的镇子是什么？}
+#{603}{}{Uh-uh. Bye bye.}
+{603}{}{呃，呃。再见。}
+#{650}{}{Ah, so you wanna smokey? Gimme 10 caps and you can make smokey, OK? Understand?}
+{650}{}{啊，你想抽烟吗？给我10个瓶盖，你就可以做烟熏了，好吗？明白吗？}
+#{651}{}{Ah, so you wanna smokey? Gimme 10 caps and you can make smokey, OK? Understand?}
+{651}{}{啊，你想抽烟吗？给我10个瓶盖，你就可以做烟熏了，好吗？明白吗？}
+#{652}{}{Yeah, yeah, caps here. Give me!}
+{652}{}{是的，是的，瓶盖在这里。给我！}
+#{653}{}{Not have caps, waaaa... Man say something else.}
+{653}{}{没有瓶盖，哇。。。男人说些别的。}
+#{700}{}{Thanks. Here you go. [He lets you have one puff of his cigarette.]}
+{700}{}{谢谢。干得好。[他让你吸一口烟。]}
+#{701}{}{Pufff... Pufff... Want more!}
+{701}{}{帕夫。。。帕夫。。。想要更多！}
+#{702}{}{Yuuuck... Baad... A-choo... Man wants to poison! Away!}
+{702}{}{真恶心。。。巴德。。。阿乔。。。男人想下毒！走开！}
+#{750}{}{Shut up! This place is too good for an idiot like you... Get lost!}
+{750}{}{闭嘴！这个地方对你这样的白痴来说太好了。。。滚开！}
+#{751}{}{Shut up! This place is too good for an idiot like you... Get lost!}
+{751}{}{闭嘴！这个地方对你这样的白痴来说太好了。。。滚开！}
+#{752}{}{[Leave.]}
+{752}{}{[离开]}
+#{753}{}{Man bad! I boom boom you.}
+{753}{}{坏男人！我轰你。}
+#{800}{}{You outsider fuck, that was your last mistake! [He takes the safety off on his rifle.]}
+{800}{}{你这个外人操，那是你最后一个错误！[他把枪上的保险卸了。]}
+#{801}{}{You outsider bitch, that was your last mistake! [He takes the safety off on his rifle.]}
+{801}{}{你这个外人婊子，那是你最后一个错误！[他把枪上的保险卸了。]}
+#{802}{}{We shall see about that.}
+{802}{}{我们拭目以待。}
+#{850}{}{OK. If you get some money, don't hesitate to come by. Trevor's always happy to help.}
+{850}{}{好 啊。如果你有钱，尽管来吧。特雷弗总是乐于帮忙。}
+#{851}{}{We'll see.}
+{851}{}{我们拭目以待。}
+#{900}{}{Fork over a twenty and you can ask away.}
+{900}{}{付20英镑，你就可以问了。}
+#{901}{}{That much? I can't afford that now.}
+{901}{}{那么多？我现在负担不起。}
+#{902}{}{I'll take it. [Pay 20 caps.]}
+{902}{}{我要了。[支付20个上限。]}
+#{950}{}{Thank you my friend. [He puts the caps in his pocket.]}
+{950}{}{谢谢你，我的朋友。[他把瓶盖放在口袋里。]}
+#{951}{}{Thank you, love. [He puts the caps in his pocket.]}
+{951}{}{谢谢你，亲爱的。[他把瓶盖放在口袋里。]}
+#{952}{}{Will you answer now?}
+{952}{}{你现在能回答吗？}
+#{1000}{}{Go ahead and ask me.}
+{1000}{}{去问我吧。}
+#{1001}{}{What town is this?}
+{1001}{}{这是哪个镇？}
+#{1002}{}{Who's in charge here?}
+{1002}{}{这里谁负责？}
+#{1003}{}{Have you ever seen this talisman before? [Show him.]}
+{1003}{}{你以前见过这个护身符吗？[给他看。]}
+#{1004}{}{What's the ruling law here?}
+{1004}{}{这里的法律是什么？}
+#{1005}{}{Is there anything interesting here?}
+{1005}{}{这里有什么有趣的事吗？}
+#{1006}{}{Who are you, anyway?}
+{1006}{}{你到底是谁？}
+#{1007}{}{Can you survive without a smoke?}
+{1007}{}{没有烟你能生存吗？}
+#{1008}{}{Nothing else. If I think of something, I'll stop by.}
+{1008}{}{没别的了。如果我想到什么，我会顺道来的。}
+#{1009}{}{Have you ever seen this talisman before? [Describe it to him.]}
+{1009}{}{你以前见过这个护身符吗？[向他描述一下]}
+#{1050}{}{This pile of shit behind me was apparently named Rat Hole by someone some time ago. I can't think why.}
+{1050}{}{我身后的这堆狗屎显然是前段时间有人给它起名叫“老鼠洞”。我想不出为什么。}
+#{1051}{}{I want to ask you something else.}
+{1051}{}{我想问你点别的。}
+#{1052}{}{Thanks for your time, maybe I'll stop by later.}
+{1052}{}{谢谢你的时间，也许我晚点过来。}
+#{1100}{}{OK, come along whenever it suits you.}
+{1100}{}{好的，你什么时候方便就来。}
+#{1101}{}{[Leave.]}
+{1101}{}{[离开]}
+#{1150}{}{In charge? You mean like a mayor or something? Humpf. You can forget that. George, the last loser who was mayoring around here, is glad he can beg enough to survive. Now, basically only these two guys are in charge - Leonard in the north and Julian to the south.}
+{1150}{}{主管？你是说像市长什么的？哼。你可以忘了。乔治，最后一个在这里当市长的失败者，很高兴他能乞求足够的钱来生存。现在，基本上只有这两个人负责——北部的伦纳德和南部的朱利安。}
+#{1151}{}{Leonard and Julian? Who are they?}
+{1151}{}{伦纳德和朱利安？他们是谁？}
+#{1152}{}{I also want to ask you something else.}
+{1152}{}{我还想问你别的问题。}
+#{1153}{}{Thanks for your time, maybe I'll stop by later.}
+{1153}{}{谢谢你的时间，也许我晚点过来。}
+#{1200}{}{Just a couple of merchants fighting over this town. Leonard's in charge of the North Side. He mainly deals in drugs and similar shit. You better stay away from there. [He puffs on his cigarette and points south.] Julian's in charge of the South Side. If you're looking for work, you should go and see him. I'm sure he'll have something for you. Otherwise, that's the place to go if you're looking for anything to do with guns.}
+{1200}{}{只是几个商人在这个镇上打架。伦纳德负责北区。他主要经营毒品和类似的东西。你最好离那远点。[他抽着烟指着南方]朱利安负责南方。如果你在找工作，你应该去看看他。我肯定他会有东西给你的。否则，如果你想找些和枪有关的东西，那就去那里。}
+#{1201}{}{Just a couple of merchants fighting over this town. Leonard's in charge of the North Side. He mainly deals in drugs and similar shit. You better stay away from there. [He puffs on his cigarette and points south.] Julian's in charge of the South Side. If you're looking for work, you should go and see him. I'm sure he'll have something for you. Otherwise, that's the place to go if you're looking for anything to do with guns.}
+{1201}{}{只是几个商人在这个镇上打架。伦纳德负责北区。他主要经营毒品和类似的东西。你最好离那远点。[他抽着烟指着南方]朱利安负责南方。如果你在找工作，你应该去看看他。我肯定他会有东西给你的。否则，如果你想找些和枪有关的东西，那就去那里。}
+#{1202}{}{How do I get to Julian?}
+{1202}{}{我怎么联系朱利安？}
+#{1203}{}{Tell me more about the North Side.}
+{1203}{}{告诉我更多关于北边的事。}
+#{1204}{}{Tell me more about the South Side.}
+{1204}{}{告诉我更多关于南边的事。}
+#{1205}{}{I also want to ask you something else.}
+{1205}{}{我还想问你别的问题。}
+#{1206}{}{Thanks for your time, maybe I'll stop by later.}
+{1206}{}{谢谢你的时间，也许我晚点过来。}
+#{1250}{}{You'll find him in the building where it says "Guns". Tell him I sent you.}
+{1250}{}{你会在写着“枪”的大楼里找到他。告诉他是我派你来的。}
+#{1251}{}{Thanks. I also want to ask you something else.}
+{1251}{}{谢谢。我还想问你别的问题。}
+#{1252}{}{Thanks for your time, maybe I'll stop by later.}
+{1252}{}{谢谢你的时间，也许我晚点过来。}
+#{1300}{}{In one word, fucked up. Not for softies. If you trip over a dead guy, don't look surprised. I think that gives you an idea, eh? Oh don't look that way. The north also has one bar, a church and the place where that bastard Leonard lives. Like I said, you should avoid that part of town...}
+{1300}{}{一句话，搞砸了。不适合软性子。如果你被一个死人绊倒了，不要显得惊讶。我想这给了你一个主意，嗯？哦，别那样看。北方也有一个酒吧，一个教堂，还有那个混蛋伦纳德住的地方。就像我说的，你应该避开那个地方。。。}
+#{1301}{}{I see. I'd like to ask you something else.}
+{1301}{}{我懂了。我想问你别的问题。}
+#{1302}{}{Thanks for your time, maybe I'll stop by later.}
+{1302}{}{谢谢你的时间，也许我晚点过来。}
+#{1350}{}{Things are a hundred times better here. No paradise, but you can live here. Those three buildings over there, that's the boss' place. Like I told you, if you're looking for work, that's where you go. Then there's Julian's bar and even our very own hospital.}
+{1350}{}{这里的情况好多了。没有天堂，但你可以住在这里。那边那三栋楼，那是老板的地方。就像我告诉你的，如果你在找工作，那就是你要去的地方。还有朱利安的酒吧，甚至我们自己的医院。}
+#{1351}{}{Where can I reach Julian?}
+{1351}{}{我在哪能找到朱利安？}
+#{1352}{}{I see. I'd like to ask you something else.}
+{1352}{}{我懂了。我想问你别的问题。}
+#{1353}{}{Thanks for your time, maybe I'll stop by later.}
+{1353}{}{谢谢你的时间，也许我晚点过来。}
+#{1400}{}{[He waves his hand carelessly.] I'm not interested in crap like that. I have enough troubles as it is. Like how not to be gunned down by Leonard's people. But you could try one of the old residents. If anybody ever saw this trinket of yours around here, they would know something about it.}
+{1400}{}{[他漫不经心地挥挥手]我对那种废话不感兴趣。我已经够麻烦的了。比如怎么不被伦纳德的人枪杀。但你可以试试老住户。如果有人在这附近看到过你的小饰物，他们会知道的。}
+#{1401}{}{[He waves his hand carelessly.] I'm not interested in crap like that. I have enough troubles as it is. Like how not to be gunned down by Leonard's people. But you could try one of the old residents. If anybody ever saw this trinket of yours around here, they would know something about it.}
+{1401}{}{[他漫不经心地挥挥手]我对那种废话不感兴趣。我已经够麻烦的了。比如怎么不被伦纳德的人枪杀。但你可以试试老住户。如果有人在这附近看到过你的小饰物，他们会知道的。}
+#{1402}{}{I hope so. I want to ask you something else.}
+{1402}{}{希望如此。我想问你点别的。}
+#{1403}{}{Thanks for the tip, maybe I'll stop by later.}
+{1403}{}{谢谢你给我的小费，也许我晚点过来。}
+#{1450}{}{Since I came here the only unwritten rule always has been to leave Julian's people alone. You don't respect that and you'll likely only survive a few minutes. You could say that on the North Side the same thing goes for Leonard's people.}
+{1450}{}{自从我来到这里，唯一不成文的规矩就是不要管朱利安的人。你不尊重这一点，你可能只能活几分钟。你可以说，在北边，伦纳德的人也一样。}
+#{1451}{}{Hmm, I'll be careful. I want to ask you something else.}
+{1451}{}{嗯，我会小心的。我想问你点别的。}
+#{1452}{}{Thanks for your time, maybe I'll stop by later.}
+{1452}{}{谢谢你的时间，也许我晚点过来。}
+#{1500}{}{Lately I think the most interesting thing is where all the rats have gone. Could it be they started dying off like this town? [For a moment a shadow of thought crosses his face, but he immediately starts smiling again.] Got'ya! Rats are perhaps the only thing there's plenty of around here. Too many.}
+{1500}{}{最近我觉得最有趣的是老鼠都去了哪里。会不会是他们像这个镇一样开始消亡？[有那么一会儿，他的脸上掠过一丝思想的阴影，但他马上又开始微笑了]明白了！老鼠可能是这附近唯一的动物。太多了。}
+#{1501}{}{Yeah, you got me. I want to ask you something else.}
+{1501}{}{是的，你抓住我了。我想问你点别的。}
+#{1502}{}{Thanks for your time, maybe I'll stop by later.}
+{1502}{}{谢谢你的时间，也许我晚点过来。}
+#{1550}{}{The name's Trevor, I work for Julian and as you can see, I also sometimes act as a guide around here.}
+{1550}{}{我的名字叫特雷弗，我为朱利安工作，正如你所见，我有时也在这里当导游。}
+#{1551}{}{Have you lived here long?}
+{1551}{}{你在这里住了很久吗？}
+#{1552}{}{I understand. I want to ask you something else.}
+{1552}{}{我理解。我想问你点别的。}
+#{1553}{}{Thanks for your time, maybe I'll stop by later.}
+{1553}{}{谢谢你的时间，也许我晚点过来。}
+#{1600}{}{Well, a couple of years now, sure, but when I came, the town was already at war. Whatever went on before that I don't know and I'm sure I'm not interested.}
+{1600}{}{好吧，几年了，当然，但我来的时候，镇上已经打仗了。不管之前发生了什么我都不知道，我肯定我不感兴趣。}
+#{1602}{}{Never mind. I want to ask you something else.}
+{1602}{}{不要介意。我想问你点别的。}
+#{1603}{}{Thanks for your time, maybe I'll stop by later.}
+{1603}{}{谢谢你的时间，也许我晚点过来。}
+#{1650}{}{What? [He drags on his cigarette.] Are you serious? You can't change an addiction.}
+{1650}{}{什么？[他抽着烟]你是认真的吗？你不能改变上瘾。}
+#{1651}{}{And where do you keep getting all these smokes from anyway?}
+{1651}{}{你从哪弄来这么多烟？}
+#{1652}{}{Yeah, you're right, unfortunately. I want to ask you something else.}
+{1652}{}{是的，很不幸，你说得对。我想问你点别的。}
+#{1653}{}{Thanks for your time, maybe I'll stop by later.}
+{1653}{}{谢谢你的时间，也许我晚点过来。}
+#{1700}{}{I can't tell you. [He reaches into his pocket.] Shit! My last pack and only 5 sticks! That'll last me hours at best, and I still have to stand guard for so long.}
+{1700}{}{我不能告诉你。[他把手伸进口袋]妈的！我的最后一包只有5根棍子！那最多只能维持几个小时，我还得站岗这么久。}
+#{1701}{}{If you'd like, I could get you some smokes. Of course it won't be for free.}
+{1701}{}{如果你愿意，我可以给你弄点烟。当然不是免费的。}
+#{1702}{}{I'd say the only place you can get them around here is the North Side. I'd like to know what your boss would think if he knew you do business with Leonard.}
+{1702}{}{我想说你唯一能找到他们的地方就是北边。我想知道如果你老板知道你和莱纳德做生意，他会怎么想。}
+#{1703}{}{I'd say the only place you can get them around here is the North Side. I'd like to know what your boss would think if he knew you do business with Leonard.}
+{1703}{}{我想说你唯一能找到他们的地方就是北边。我想知道如果你老板知道你和莱纳德做生意，他会怎么想。}
+#{1704}{}{As you wish. I'll ask about something else.}
+{1704}{}{如你所愿。我要问些别的事。}
+#{1705}{}{Thanks for your time, maybe I'll stop by later.}
+{1705}{}{谢谢你的时间，也许我晚点过来。}
+#{1750}{}{Yeah? Well if you get them, I'll give you 100 caps. That means you get your questions free and still make a small profit on the side. What do you say?}
+{1750}{}{是 啊？如果你拿到了，我给你100个瓶盖。这意味着你的问题是免费的，但仍然可以从中获得微利。你怎么说？}
+#{1751}{}{Yeah? Well if you get them, I'll give you 100 caps. That means you get your questions free and still make a small profit on the side. What do you say?}
+{1751}{}{是 啊？如果你拿到了，我给你100个瓶盖。这意味着你的问题是免费的，但仍然可以从中获得微利。你怎么说？}
+#{1752}{}{It's a deal.}
+{1752}{}{就这么定了。}
+#{1753}{}{Throw in an extra 50 and it's a deal.}
+{1753}{}{再加50块，就成交了。}
+#{1754}{}{Throw in an extra 50 and it's a deal.}
+{1754}{}{再加50块，就成交了。}
+#{1800}{}{What? He won't say anything. Because you have no proof!}
+{1800}{}{什么？他什么也不说。因为你没有证据！}
+#{1801}{}{Well, let's see what he thinks anyway after I explain things to him.}
+{1801}{}{好吧，我跟他解释完之后，让我们看看他怎么想。}
+#{1802}{}{Well, let's see what he thinks anyway after I explain things to him.}
+{1802}{}{好吧，我跟他解释完之后，让我们看看他怎么想。}
+#{1803}{}{Calm down, I just wanted you to know I'm no dummy. If you'd like, I could get some more smokes for you.}
+{1803}{}{冷静点，我只是想让你知道我不是傻瓜。如果你愿意，我可以再给你弄些烟来。}
+#{1804}{}{Calm down, I just wanted you to know I'm no dummy. If you'd like, I could get some more smokes for you.}
+{1804}{}{冷静点，我只是想让你知道我不是傻瓜。如果你愿意，我可以再给你弄些烟来。}
+#{1850}{}{OK, but you have to come back with them on the double, got that?}
+{1850}{}{好吧，但你得带着他们回来，明白吗？}
+#{1851}{}{Sure thing, I can do that. But first I want to know one more thing.}
+{1851}{}{当然，我能做到。但首先我想知道一件事。}
+#{1852}{}{I don't think I can do that. Better forget the whole deal.}
+{1852}{}{我想我做不到。最好忘了整件事。}
+#{1853}{}{I'll go take care of it now. [Leave.]}
+{1853}{}{我现在就去处理。[离开]}
+#{1900}{}{Hmm, I see you're a fast learner when it comes to the local arrangements. OK then, but you have to get them quickly, got that?}
+{1900}{}{嗯，我看你在当地的安排上学得很快。好吧，但你得快点，明白吗？}
+#{1901}{}{Sure, I can do that. But first I want to know one more thing.}
+{1901}{}{当然，我能做到。但首先我想知道一件事。}
+#{1902}{}{I'll go take care of it now. [Leave.]}
+{1902}{}{我现在就去处理。[离开]}
+#{1950}{}{No way. My offer was more than generous. You better get out of here before I get angry.}
+{1950}{}{不可能。我的提议非常慷慨。你最好在我生气之前离开这里。}
+#{1951}{}{You won't tell me what to do!}
+{1951}{}{你不会告诉我该怎么做的！}
+#{1952}{}{OK, I'm fed up with you anyway.}
+{1952}{}{好吧，反正我受够你了。}
+#{2000}{}{Wait! OK, so what is it you want?}
+{2000}{}{等待！好吧，那你想要什么？}
+#{2001}{}{Let's say... 50 caps for my silence?}
+{2001}{}{比如说。。。我沉默50个瓶盖？}
+#{2002}{}{Let's say... 50 caps for my silence?}
+{2002}{}{比如说。。。我沉默50个瓶盖？}
+#{2003}{}{Let's say... 100 caps for my silence?}
+{2003}{}{比如说。。。100个瓶盖换我的沉默？}
+#{2004}{}{Let's say... 100 caps for my silence?}
+{2004}{}{比如说。。。100个瓶盖换我的沉默？}
+#{2005}{}{Calm down, I just wanted to show you that you had to be more careful with what you say. If you'd like I could get you some smokes myself.}
+{2005}{}{冷静点，我只是想让你知道你说话要更小心。如果你愿意，我可以自己给你弄点烟。}
+#{2050}{}{You're crazy! You think I'll let myself be blackmailed? I should've killed you straight away. You're only trouble!}
+{2050}{}{你疯了！你以为我会被勒索？我应该马上杀了你。你只是个麻烦！}
+#{2051}{}{You bitch! You think I'll let myself be blackmailed? I should've killed you straight away. You're only trouble!}
+{2051}{}{你这个婊子！你以为我会被勒索？我应该马上杀了你。你只是个麻烦！}
+#{2052}{}{No! Wait! Calm down, it was just a joke.}
+{2052}{}{不！等待！冷静点，这只是个玩笑。}
+#{2053}{}{[Defend yourself.]}
+{2053}{}{[为自己辩护。]}
+#{2100}{}{50 caps? OK, here you are, and don't let me see you here again! And if you talk, I'll find you. Remember that!}
+{2100}{}{50个瓶盖？好的，给你，别让我再看到你了！如果你开口，我会找到你。记住！}
+#{2101}{}{Thanks pal. It's been a pleasure doing business with you. Have a nice day!}
+{2101}{}{谢谢，朋友。很高兴和你做生意。祝您有个美好的一天！}
+#{2150}{}{100 caps? OK, here you are, and don't let me see you here again! And if you talk, I'll find you. Remember that!}
+{2150}{}{100个瓶盖？好的，给你，别让我再看到你了！如果你开口，我会找到你。记住！}
+#{2151}{}{Thanks pal. It's been a pleasure doing business with you. Have a nice day!}
+{2151}{}{谢谢，朋友。很高兴和你做生意。祝您有个美好的一天！}
+#{2200}{}{You better get out of here, joker! And if you even try to tell anyone, I'll find you, remember that!}
+{2200}{}{你最好离开这里，小丑！如果你想告诉任何人，我会找到你的，记住！}
+#{2201}{}{You better get out of here, joker! And if you even try to tell anyone, I'll find you, remember that!}
+{2201}{}{你最好离开这里，小丑！如果你想告诉任何人，我会找到你的，记住！}
+#{2202}{}{[Leave.]}
+{2202}{}{[离开]}
+#{2250}{}{You got them? Hallelujah! Fork 'em over!}
+{2250}{}{你拿到了吗？哈利路亚！叉过去！}
+#{2251}{}{You got them? Hallelujah! Fork 'em over!}
+{2251}{}{你拿到了吗？哈利路亚！叉过去！}
+#{2252}{}{Wow, you really are fast! Fork 'em over!}
+{2252}{}{哇，你真快！叉过去！}
+#{2253}{}{Damn, where you been so long? I've been waiting for ages! Well, I suppose you did get them in the end. So fork 'em over.}
+{2253}{}{妈的，你去哪儿这么久了？我等了很久了！好吧，我想你最终还是拿到了。所以把它们叉过来。}
+#{2254}{}{Damn, where you been so long? I've been waiting for ages! Well, I suppose you did get them in the end. So fork 'em over.}
+{2254}{}{妈的，你去哪儿这么久了？我等了很久了！好吧，我想你最终还是拿到了。所以把它们叉过来。}
+#{2255}{}{Here they are.}
+{2255}{}{他们来了。}
+#{2256}{}{Here they are.}
+{2256}{}{他们来了。}
+#{2300}{}{And here's the 100 caps you've just earned.}
+{2300}{}{这是你刚刚赢得的100顶瓶盖。}
+#{2301}{}{Thanks, I'm always glad to help.}
+{2301}{}{谢谢，我很乐意帮忙。}
+#{2302}{}{Thanks, I'm always glad to help.}
+{2302}{}{谢谢，我很乐意帮忙。}
+#{2303}{}{Thanks. I want to ask you something else.}
+{2303}{}{谢谢。我想问你点别的。}
+#{2350}{}{And here's the 100 caps you've earned, plus an extra 50.}
+{2350}{}{这是你赢得的100个瓶盖，再加上50个。}
+#{2351}{}{Thanks, I'm always glad to help.}
+{2351}{}{谢谢，我很乐意帮忙。}
+#{2352}{}{Thanks, I'm always glad to help.}
+{2352}{}{谢谢，我很乐意帮忙。}
+#{2353}{}{Thanks. I want to ask you something else.}
+{2353}{}{谢谢。我想问你点别的。}
+#{2400}{}{Your loss. Now excuse me, I have my watch to go back to.}
+{2400}{}{你的损失。对不起，我还有表要回去。}
+#{2401}{}{[Leave.]}
+{2401}{}{[离开]}

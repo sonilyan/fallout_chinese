@@ -1,0 +1,42 @@
+#{150}{}{You see Alexa.}
+{150}{}{你看到亚历克斯了。}
+#{250}{}{You see Alexa, Leonard's right-hand.}
+{250}{}{你看亚历克斯，伦纳德的右手。}
+#{350}{}{Here we go!}
+{350}{}{开始了！}
+#{351}{}{Leonard can finally take a break, thanks!}
+{351}{}{伦纳德终于可以休息了，谢谢！}
+#{352}{}{You have no idea how happy I am to see you again, geezer!}
+{352}{}{你不知道我有多高兴再次见到你，怪人！}
+#{353}{}{Good job! Come here, you deserve your reward.}
+{353}{}{干得好！过来，你应该得到你的奖励。}
+#{400}{}{There ya go, you bastard!}
+{400}{}{好了，你这个混蛋！}
+#{401}{}{Oh fuck me!}
+{401}{}{哦，操我！}
+#{402}{}{You fucking traitor!}
+{402}{}{你他妈的叛徒！}
+#{403}{}{You fucking traitor!}
+{403}{}{你他妈的叛徒！}
+#{500}{}{Good job, friend. You did a great service for us and this town. Without that bastard, life will be good once again and the city will turn around soon. I have no idea how to thank you, but you will always be welcome here. Get to the bar and drink on my expense! Thanks again.}
+{500}{}{干得好，朋友。你为我们和这个城市做了很大的贡献。没有那个混蛋，生活会再次美好，城市也会很快好转。我不知道该怎么感谢你，但这里永远欢迎你。去酒吧喝我的酒！再次感谢。}
+#{501}{}{Good job, friend. You did a great service for us and this town. Without that bastard, life will be good once again and the city will turn around soon. I have no idea how to thank you, but you will always be welcome here. Get to the bar and drink on my expense! Thanks again.}
+{501}{}{干得好，朋友。你为我们和这个城市做了很大的贡献。没有那个混蛋，生活会再次美好，城市也会很快好转。我不知道该怎么感谢你，但这里永远欢迎你。去酒吧喝我的酒！再次感谢。}
+#{502}{}{I instantly knew you are a hotshot, great work! Here's your reward, use it well. You've done a great service to this city, thanks. Oh and something else - when in the bar, tell them I sent you, you can drink whatever you want.}
+{502}{}{我马上就知道你是个大人物，干得好！这是你的奖赏，好好利用。你为这个城市做了很大的贡献，谢谢。哦，还有别的-在酒吧的时候，告诉他们是我派你来的，你想喝什么就喝什么。}
+#{503}{}{I instantly knew you are a hotshot, great work! Here's your reward, use it well. You've done a great service to this city, thanks. Oh and something else - when in the bar, tell them I sent you, you can drink whatever you want.}
+{503}{}{我马上就知道你是个大人物，干得好！这是你的奖赏，好好利用。你为这个城市做了很大的贡献，谢谢。哦，还有别的-在酒吧的时候，告诉他们是我派你来的，你想喝什么就喝什么。}
+#{504}{}{Well well, nice going; You made auntie happy. Have some treats, but use them in moderation so your teeth won't go rotten.}
+{504}{}{好吧，干得好，你让阿姨高兴了。吃点东西，但要适量使用，这样你的牙齿就不会烂了。}
+#{505}{}{Thanks, I'm gonna spend all that cash.}
+{505}{}{谢谢，我要花光所有的钱。}
+#{506}{}{Thanks, can I speak to Leonard now?}
+{506}{}{谢谢，我现在能和伦纳德说话吗？}
+#{507}{}{Thanksies.}
+{507}{}{谢谢。}
+#{508}{}{You're welcome. I'm going to drink to that right away!}
+{508}{}{不客气。我要马上喝一杯！}
+#{550}{}{I'm afraid that won't be possible. After so many years of hiding in fear for his life, he won't be okay anytime soon. He needs more time.}
+{550}{}{恐怕那不可能。在为自己的生命而恐惧了这么多年之后，他不会很快好起来的。他需要更多的时间。}
+#{551}{}{Ah, I see, see ya.}
+{551}{}{啊，我明白了，再见。}

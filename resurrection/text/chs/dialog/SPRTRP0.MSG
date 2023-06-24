@@ -1,0 +1,14 @@
+#{100}{}{You see a loose tile. It seems to be a part of some trap mechanism.}
+{100}{}{你看到一块松散的瓷砖。这似乎是某种陷阱机制的一部分。}
+#{101}{}{ sees a loose tile. It seems to be a part of some trap mechanism.}
+{101}{}{看到一块松动的瓷砖。这似乎是某种陷阱机制的一部分。}
+#{102}{}{You see a loose tile.}
+{102}{}{你看到一块松散的瓷砖。}
+#{103}{}{ sees a loose tile.}
+{103}{}{看到一块松动的瓷砖。}
+#{104}{}{Your carelessness triggered the trap. You can thank providence nothing happened to you.}
+{104}{}{你的粗心触发了陷阱。你应该感谢上帝，你什么都没发生。}
+#{105}{}{'s carelessness triggered the trap. You can thank providence nothing bad happened.}
+{105}{}{他的粗心大意触发了陷阱。你应该感谢上帝没有发生什么坏事。}
+#{106}{}{You see a loose tile. It doesn't look dangerous.}
+{106}{}{你看到一块松散的瓷砖。看起来并不危险。}

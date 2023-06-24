@@ -1,0 +1,96 @@
+#{100}{}{You see a busy woman.}
+{100}{}{你看到一个忙碌的女人。}
+#{150}{}{You see Natalia.}
+{150}{}{你看到娜塔莉亚了。}
+#{200}{}{You see a middle aged woman. She seems busy.}
+{200}{}{你看到一个中年妇女。她似乎很忙。}
+#{250}{}{You see Natalia, Julian's ever-so-busy helper.}
+{250}{}{你看娜塔莉亚，朱利安总是那么忙的助手。}
+#{350}{}{I have no time to talk to you. If you want something, go bother the boss.}
+{350}{}{我没有时间和你说话。如果你想要什么，去麻烦老板。}
+#{351}{}{I can't talk to you right now. I'm busy.}
+{351}{}{我现在不能和你说话。我很忙。}
+#{352}{}{See me when we get back to the South Side.}
+{352}{}{我们回到南边见。}
+#{500}{}{Oh well! How many times am I supposed to tell Julian I have no idea what the doctor needs. Go see Moore. He'll surely tell you what he needs.}
+{500}{}{哦，好吧！我该告诉朱利安多少次我不知道医生需要什么。去找摩尔。他一定会告诉你他需要什么。}
+#{501}{}{Take it easy. No need to get agitated.}
+{501}{}{别紧张。不用激动。}
+#{502}{}{Wait! Although I don't know this town that much, I reckon getting medicine won't be that easy after all. Am I right?}
+{502}{}{等待！虽然我对这个小镇不太了解，但我想买药终究不会那么容易。我说得对吗？}
+#{503}{}{Sure. I'm going to see him.}
+{503}{}{当然。我要去看他。}
+#{550}{}{Okay, so listen closely, as I'm not going to repeat this. We need Leonard to bleed. We kill his pickpocket addicts on sight but we can't meddle with his income from his bar. You have to go there, get some caps from the bartender, at least 300. I don't care about the way you do it. Feel free to gun down that bastard if there's no way around. Just get out of there with the money. All clear?}
+{550}{}{好吧，仔细听，我不想重复了。我们需要伦纳德流血。我们一眼就杀了他的扒手瘾君子，但我们不能干涉他的酒吧收入。你得去那里，从酒保那里拿些瓶盖，至少300个。我不在乎你怎么做。如果没有办法的话，你可以开枪打死那个混蛋。带着钱离开那里。一切都好吗？}
+#{551}{}{Clear. I'm on it.}
+{551}{}{清除。我会的。}
+#{600}{}{Yep, I have everything you were promised ready. [She hands you some pistol ammo, shotgun shells, and 500 caps.] Feel free to talk to Julian again. He'll have some more work for you, for sure.}
+{600}{}{是的，我已经把答应你的一切都准备好了。[她递给你一些手枪子弹，猎枪弹壳和500顶瓶盖]再跟朱利安谈谈吧。他肯定会给你更多的工作。}
+#{601}{}{Yep, I have everything you were promised ready. [She hands you some pistol ammo, shotgun shells, and 500 caps.] Feel free to talk to Julian again. He'll have some more work for you, for sure.}
+{601}{}{是的，我已经把答应你的一切都准备好了。[她递给你一些手枪子弹，猎枪弹壳和500顶瓶盖]再跟朱利安谈谈吧。他肯定会给你更多的工作。}
+#{602}{}{Yep, I have everything you were promised ready. Julian decided to be extra generous today. [She hands you some pistol ammo, shotgun shells, and 1000 caps.] Feel free to talk to him again. Surely, he'll have some more work for you.}
+{602}{}{是的，我已经把答应你的一切都准备好了。朱利安今天决定格外慷慨。[她递给你一些手枪子弹，猎枪弹壳和1000顶瓶盖]再跟他谈谈吧。当然，他会有更多的工作给你。}
+#{603}{}{Yep, I have everything you were promised ready. Julian decided to be extra generous today. [She hands you some pistol ammo, shotgun shells, and 1000 caps.] Feel free to talk to him again. Surely, he'll have some more work for you.}
+{603}{}{是的，我已经把答应你的一切都准备好了。朱利安今天决定格外慷慨。[她递给你一些手枪子弹，猎枪弹壳和1000顶瓶盖]再跟他谈谈吧。当然，他会有更多的工作给你。}
+#{604}{}{Sure. Thanks, Natalia.}
+{604}{}{当然。谢谢，娜塔莉亚。}
+#{650}{}{I still can't believe the war is over. It's a weird feeling. Shame that bastard Leonard ran away. He dragged this entire town into this deep shit and he didn't even have balls to wait till the end. At least that whore Alexa kicked the bucket. That's damn good news. Here's your reward. [She hands you 200 caps and 50 rounds of .223 FMJ.] Oh and in case you want to celebrate, you can drink whatever you want at our bar.}
+{650}{}{我还是不敢相信战争结束了。感觉很奇怪。可惜那个混蛋伦纳德跑了。他把整个镇子都拖进了这样的深渊，他甚至没有勇气等到最后。至少那个妓女Alexa踢了桶。真是个好消息。这是你的奖赏。[她递给你200顶瓶盖和50发.223 FMJ.]哦，如果你想庆祝的话，你可以在我们的酒吧里喝任何你想喝的东西。}
+#{651}{}{Some booze would do me good after all this. Thanks, Natalia.}
+{651}{}{喝点酒对我有好处。谢谢，娜塔莉亚。}
+#{700}{}{I still can't believe the war is over. It's a weird feeling. But it makes me fucking happy to know that that whore Alexa kicked the bucket. Maybe you finally managed to drag this town out of all the shit.}
+{700}{}{我还是不敢相信战争结束了。感觉很奇怪。但知道那个婊子亚历克莎把桶踢了我他妈的很高兴。也许你终于把这座城市从垃圾堆里拖出来了。}
+#{701}{}{You're welcome. See ya, Natalia.}
+{701}{}{不客气。再见，娜塔莉亚。}
+#{750}{}{Of course it's not gonna be a stroll in the park! The only one selling medicine here is Leonard, and if he finds out who you're getting them for, he'll have you shot on the spot.}
+{750}{}{当然不是在公园里散步！这里唯一卖药的是伦纳德，如果他发现你要给谁买药，他会当场枪毙你。}
+#{751}{}{No other way around?}
+{751}{}{别无选择？}
+#{752}{}{What if I have to kill some of Leonard's men?}
+{752}{}{如果我必须杀了伦纳德的人呢？}
+#{753}{}{And what if I steal the stuff from him? I guess you wouldn't mind?}
+{753}{}{如果我偷了他的东西呢？我想你不会介意吧？}
+#{754}{}{Well, I'd better be going, the sooner it's settled the better.}
+{754}{}{好吧，我最好走了，事情越早解决越好。}
+#{800}{}{If you don't have courage for that, the required things can certainly be found elsewhere. But other towns are quite far from here. It would be a long road awaiting you.}
+{800}{}{如果你没有勇气做到这一点，所需要的东西肯定可以在别处找到。但其他城镇离这里很远。这将是一条漫长的路等着你。}
+#{801}{}{What if I have to kill some of Leonard's men?}
+{801}{}{如果我必须杀了伦纳德的人呢？}
+#{802}{}{And what if I steal the stuff from him? I guess you wouldn't mind?}
+{802}{}{如果我偷了他的东西呢？我想你不会介意吧？}
+#{803}{}{Ah, then I'll go see the doctor first.}
+{803}{}{啊，那我先去看医生。}
+#{850}{}{We're at war with those fuckers. Kill as many as you want. But if I were you, I'd be more careful. Once you make enemies of them, you won't get to the North Side without fighting anymore. If you manage to escape in the first place, that is.}
+{850}{}{我们在和那些混蛋开战。想杀多少就杀多少。但如果我是你，我会更小心。一旦你成为他们的敌人，你就不能不战斗就去北边了。如果你一开始就设法逃跑，那就是。}
+#{851}{}{We're at war with those fuckers. Kill as many as you want. But if I were you, I'd be more careful. Once you make enemies of them, you won't get to the North Side without fighting anymore. If you manage to escape in the first place, that is.}
+{851}{}{我们在和那些混蛋开战。想杀多少就杀多少。但如果我是你，我会更小心。一旦你成为他们的敌人，你就不能不战斗就去北边了。如果你一开始就设法逃跑，那就是。}
+#{852}{}{And can't I possibly get the stuff another way?}
+{852}{}{我就不能换一种方式得到这些东西吗？}
+#{853}{}{And what if I steal the stuff from him? I guess you wouldn't mind?}
+{853}{}{如果我偷了他的东西呢？我想你不会介意吧？}
+#{854}{}{Don't underestimate me. See ya, Natalia.}
+{854}{}{别小看我。再见，娜塔莉亚。}
+#{900}{}{Go on then. But don't think it'll be easy. Leonard protects his property damn well. And he has no problem with shooting thieves. You can't afford to make a mistake.}
+{900}{}{那就继续吧。但不要认为这会很容易。伦纳德很好地保护了他的财产。他射杀小偷也没问题。你不能犯错误。}
+#{901}{}{And can't I possibly get the stuff another way?}
+{901}{}{我就不能换一种方式得到这些东西吗？}
+#{902}{}{What if I have to kill some of Leonard's men?}
+{902}{}{如果我必须杀了伦纳德的人呢？}
+#{903}{}{I don't make mistakes. See ya, Natalia.}
+{903}{}{我不会犯错。再见，娜塔莉亚。}
+#{950}{}{But I have to! It seems Julian thinks I know and see everything and he keeps sending people to me. [She shoots Julian a side-glance but he doesn't notice, or at least pretends not to.] I have a lot of stuff to handle on my own. So go see Moore and leave me alone.}
+{950}{}{但我必须这么做！似乎朱利安认为我什么都知道，什么都看得见，他总是派人来找我。[她斜视了朱利安一眼，但他没有注意到，或者至少假装没有注意到。]我有很多事情要自己处理。去见摩尔，别烦我。}
+#{951}{}{Wait! Although I don't know this town that much, I reckon getting medicine won't be that easy after all. Am I right?}
+{951}{}{等待！虽然我对这个小镇不太了解，但我想买药终究不会那么容易。我说得对吗？}
+#{952}{}{Okay, take care.}
+{952}{}{好的，保重。}
+#{1000}{}{There you go. [She hands you some pistol ammo, shotgun shells, and 100 caps.] If I were you, I wouldn't show myself at the North Side anymore. Leonard's grunts've surely found out what you did and they'll want to gun you down. You shouldn't make it easy for them. If you want more work, talk to Julian. He's planning a big attack against Leonard and he could use your help.}
+{1000}{}{给你。[她递给你一些手枪子弹，霰弹和100顶瓶盖]如果我是你，我就不会再在北边露面了。伦纳德的呼噜声肯定知道你做了什么，他们会想把你枪毙的。你不应该让他们这么容易。如果你想要更多的工作，和朱利安谈谈。他计划对伦纳德发动一场大的攻击，他需要你的帮助。}
+#{1001}{}{There you go. [She hands you some pistol ammo, shotgun shells, and 100 caps.] If I were you, I wouldn't show myself at the North Side anymore. Leonard's grunts've surely found out what you did and they'll want to gun you down. You shouldn't make it easy for them. If you want more work, talk to Julian. He's planning a big attack against Leonard and he could use your help.}
+{1001}{}{给你。[她递给你一些手枪子弹，霰弹和100顶瓶盖]如果我是你，我就不会再在北边露面了。伦纳德的呼噜声肯定知道你做了什么，他们会想把你枪毙的。你不应该让他们这么容易。如果你想要更多的工作，和朱利安谈谈。他计划对伦纳德发动一场大的攻击，他需要你的帮助。}
+#{1002}{}{Sure. Thanks, Natalia.}
+{1002}{}{当然。谢谢，娜塔莉亚。}
+#{1003}{}{There you go. [She hands you some pistol ammo, shotgun shells, and 100 caps.]}
+{1003}{}{给你。[她递给你一些手枪子弹，猎枪子弹和100顶瓶盖。]}
+#{1004}{}{Thanks, Natalia.}
+{1004}{}{谢谢，娜塔莉亚。}

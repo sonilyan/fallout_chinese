@@ -1,0 +1,28 @@
+#{100}{}{You see an older woman.}
+{100}{}{你看到一个年长的女人。}
+#{150}{}{You see Samuel's wife.}
+{150}{}{你看到塞缪尔的妻子了。}
+#{200}{}{You see an older woman, she watches you nervously.}
+{200}{}{你看到一个年长的女人，她紧张地看着你。}
+#{250}{}{You see Samuel's wife trying to smile with no success.}
+{250}{}{你看到塞缪尔的妻子试图微笑却没有成功。}
+#{301}{}{::Sighs::}
+{301}{}{●叹息：}
+#{302}{}{::Bites her fingernails::}
+{302}{}{●咬指甲：}
+#{303}{}{::Looks around carefully::}
+{303}{}{●仔细环顾四周：}
+#{304}{}{Sam, love, put down that gun for a while.}
+{304}{}{萨姆，亲爱的，把枪放下一会儿。}
+#{305}{}{I hate this town.}
+{305}{}{我讨厌这个城市。}
+#{306}{}{I wish we would've left a long time ago.}
+{306}{}{我真希望我们早就走了。}
+#{307}{}{This town is dying.}
+{307}{}{这个城镇正在消亡。}
+#{350}{}{Hi.}
+{350}{}{你好。}
+#{351}{}{You should talk to my husband, rather than me.}
+{351}{}{你应该和我丈夫谈谈，而不是我。}
+#{352}{}{Thank you so much, Samuel is happy once again, at least for a while.}
+{352}{}{非常感谢你，塞缪尔又高兴了，至少有一段时间。}

@@ -1,0 +1,194 @@
+#{100}{}{You see a local bartender.}
+{100}{}{你看到一个当地的酒保。}
+#{200}{}{You see a local bartender and judging from his hospitable expression you can tell he wants you to buy something to drink.}
+{200}{}{你看到一个当地的酒保，从他热情好客的表情可以看出他想让你买点喝的。}
+#{201}{}{You see a local bartender. He doesn't pay attention to you.}
+{201}{}{你看到一个当地的酒保。他没有注意到你。}
+#{300}{}{Get out!}
+{300}{}{走出！}
+#{500}{}{Welcome! It's been a long time since we've had someone from the outside. I hope you'll buy yourself a drink.}
+{500}{}{欢迎光临！好久没有外人来了。我希望你能请自己喝一杯。}
+#{501}{}{Of course, what do you have?}
+{501}{}{当然，你有什么？}
+#{502}{}{No thanks.}
+{502}{}{不用了，谢谢。}
+#{503}{}{I'm here to collect the advance on the protection fee.}
+{503}{}{我是来收取保护费的预付款的。}
+#{504}{}{Drinksies!}
+{504}{}{喝酒！}
+#{505}{}{Nooo drinksies!}
+{505}{}{不喝酒！}
+#{550}{}{So what will you have?}
+{550}{}{那你要什么？}
+#{551}{}{I'll have something to drink.}
+{551}{}{我要喝点东西。}
+#{552}{}{Preferably nothing.}
+{552}{}{最好什么都没有。}
+#{553}{}{I'm here to collect the advance on the protection fee.}
+{553}{}{我是来收取保护费的预付款的。}
+#{554}{}{Drinksiiiies!}
+{554}{}{喝酒！}
+#{555}{}{No eatsies?}
+{555}{}{不吃东西？}
+#{600}{}{I have beer, spirits or rum. Each goes for 20 caps.}
+{600}{}{我有啤酒、烈酒或朗姆酒。每一个装20个。}
+#{601}{}{I have beer, spirits or rum. Each goes for 10 caps.}
+{601}{}{我有啤酒、烈酒或朗姆酒。每杯10个。}
+#{602}{}{I'd like beer.}
+{602}{}{我想要啤酒。}
+#{603}{}{I want some spirits.}
+{603}{}{我想要些烈酒。}
+#{604}{}{I'll have rum.}
+{604}{}{我要朗姆酒。}
+#{605}{}{Beeeeeer!!!!}
+{605}{}{啤酒！！！！}
+#{606}{}{Bam Bam spi-spi.}
+{606}{}{砰砰spi。}
+#{607}{}{Rum, up the bum!}
+{607}{}{朗姆酒，滚蛋！}
+#{608}{}{I think I won't have anything, see you.}
+{608}{}{我想我什么都没有了，再见。}
+#{609}{}{No! Bai.}
+{609}{}{不！白。}
+#{610}{}{See, I think there's something rotten here; Nobody can afford to pay for their own funeral in this city. Despite the outrageous price on your drinks, this place is crammed. Do you want to screw me over?}
+{610}{}{你看，我觉得这里有些不好的东西，在这个城市没有人能负担得起自己的葬礼。尽管你的饮料价格高得离谱，这地方还是挤满了人。你想耍我吗？}
+#{611}{}{I have beer, spirits or rum. Just pick something!}
+{611}{}{我有啤酒、烈酒或朗姆酒。随便挑点东西！}
+#{650}{}{Thank you for the chatter. Come back when you feel like buying something.}
+{650}{}{谢谢你的闲聊。想买东西就回来。}
+#{651}{}{[Leave.]}
+{651}{}{[离开]}
+#{700}{}{Here you go. Bottoms up, man!}
+{700}{}{干得好。干杯，伙计！}
+#{701}{}{Here you go. Bottoms up, girl!}
+{701}{}{干得好。干杯，姑娘！}
+#{702}{}{You bet!}
+{702}{}{当然！}
+#{703}{}{Glubglubcomes!}
+{703}{}{格卢布来了！}
+#{750}{}{What? What do you mean! I'm an honest trader! My beverages are simply good, that's all. So will you get something or will you continue wasting my precious time?}
+{750}{}{什么？你什么意思？我是个诚实的商人！我的饮料很好，仅此而已。你会得到什么还是继续浪费我宝贵的时间？}
+#{751}{}{Yeah, sorry, so what do you have?}
+{751}{}{是的，对不起，你有什么？}
+#{752}{}{I won't let you fuck around with me, goodbye.}
+{752}{}{我不会让你跟我乱搞的，再见。}
+#{800}{}{Heh heh, it's not easy to trick you. I'm getting to like you. Yep, you're right. Locals pay half the price. The surcharge is for outsiders. You got to have more money, so why not to take advantage of that? So now, will you have something or not?}
+{800}{}{嘿嘿，骗你可不容易。我开始喜欢你了。是的，你说得对。当地人付一半的价钱。附加费是给外地人的。你得有更多的钱，为什么不好好利用呢？那么现在，你有什么要吃的吗？}
+#{801}{}{Yep, I see. What do you have then?}
+{801}{}{是的，我明白了。那你有什么？}
+#{802}{}{No chance, not worth my money.}
+{802}{}{没有机会，不值我的钱。}
+#{803}{}{If you're trying to make some money, this isn't a good way. Think about it; the cheaper it is, the more people will buy it, and you'll make money easier. If you give me the same price, there's a chance I'll buy something. In the case of 20 caps, you can be sure I won't ever buy anything here.}
+{803}{}{如果你想赚钱，这不是个好办法。想想看，它越便宜，买它的人就越多，你就越容易赚钱。如果你给我同样的价格，我有可能买点东西。如果有20顶瓶盖，你可以肯定我不会在这里买任何东西。}
+#{850}{}{[Frowns] Yeh, it's clear. No extra money from you. Okay then, you'll have it without the surcharge. 10 caps is still better than nothing at all.}
+{850}{}{是的，很清楚。你没有多余的钱。好吧，那就不收附加费了。10个瓶盖总比什么都没有强。}
+#{851}{}{Wise words, so show me what you got.}
+{851}{}{聪明的话，让我看看你有什么。}
+#{852}{}{Great, on the next visit I'll make use of that. But I have to go now.}
+{852}{}{太好了，下次我会好好利用的。但我现在得走了。}
+#{900}{}{So what do you want? The drinks, of course, are free for you.}
+{900}{}{那你想要什么？当然，这些饮料是免费的。}
+#{901}{}{I'll have something to drink.}
+{901}{}{我要喝点东西。}
+#{902}{}{Preferably nothing.}
+{902}{}{最好什么都没有。}
+#{903}{}{Drinksies!}
+{903}{}{喝酒！}
+#{904}{}{No eatsies???}
+{904}{}{不吃东西？？？}
+#{950}{}{Oh hold on! I already paid the protection fee to Alexa this month. We didn't agree on anything like this!}
+{950}{}{哦，等等！我这个月已经付了保护费给Alexa了。像这样的事我们没有达成一致意见！}
+#{951}{}{Bullshit! If Alexa says you're gonna pay, you'll pay. Otherwise you'll get screwed!}
+{951}{}{瞎扯！如果Alexa说你要付钱，你会付钱的。否则你就完了！}
+#{952}{}{Easy now, it's just an advance on next month's payment. Alexa wants it collected ahead of time.}
+{952}{}{别着急，这只是下个月的预付款。Alexa想提前收集。}
+#{953}{}{What part of "I'm here to collect the advance on the protection fee" did you not understand? [Crack knuckles.]}
+{953}{}{你不明白“我是来收取保护费预付款”的哪一部分？[指节裂开]}
+#{954}{}{And who says Alexa sent me?}
+{954}{}{谁说亚历克斯派我来的？}
+#{1000}{}{Okay, okay! I get it. So how much does she want again?}
+{1000}{}{好吧，好吧！我明白了。那她还要多少钱？}
+#{1001}{}{She'll be happy with two hundred.}
+{1001}{}{有两百她会很高兴的。}
+#{1002}{}{Standard, three hundred.}
+{1002}{}{标准，三百。}
+#{1003}{}{Hand over everything you have and stop talking.}
+{1003}{}{把你所有的东西都交出来，别再说了。}
+#{1050}{}{No damn way! I doubt Alexa sent you. She knows how caps flow here, so if I were you, I'd get out really fast before I tell on you.}
+{1050}{}{不可能！我怀疑亚历克斯派你来的。她知道这里的情况，所以如果我是你，我会在告发你之前很快离开。}
+#{1051}{}{Fine, can't blame a guy for trying.}
+{1051}{}{好吧，不能责怪一个男人。}
+#{1052}{}{Fine, can't blame a gal for trying.}
+{1052}{}{好吧，不能责怪一个女孩。}
+#{1053}{}{That was a mistake. And you'll pay for it!}
+{1053}{}{那是个错误。你会为此付出代价的！}
+#{1054}{}{What part of "I'm here to collect the advance on the protection fee" did you not understand? [Crack knuckles.]}
+{1054}{}{你不明白“我是来收取保护费预付款”的哪一部分？[指节裂开]}
+#{1100}{}{Yeah, I'm scared shitless. If I were you, I'd get out as fast as possible before I call Leonard's mercenaries. They'll shut your mouth!}
+{1100}{}{是啊，我吓得屁滚尿流。如果我是你，我会在叫伦纳德的佣兵之前尽快离开。他们会让你闭嘴的！}
+#{1101}{}{Fine, can't blame a guy for trying.}
+{1101}{}{好吧，不能责怪一个男人。}
+#{1102}{}{Fine, can't blame a gal for trying.}
+{1102}{}{好吧，不能责怪一个女孩。}
+#{1103}{}{That was a mistake. And you'll pay for it!}
+{1103}{}{那是个错误。你会为此付出代价的！}
+#{1104}{}{They won't help you. Alexa sent me, she wants you to pay. Otherwise you'll get screwed!}
+{1104}{}{他们不会帮你的。亚历克斯派我来的，她要你付钱。否则你就完了！}
+#{1105}{}{Easy now, it's just an advance on next month's payment. Alexa wants it collected ahead of time.}
+{1105}{}{别着急，这只是下个月的预付款。Alexa想提前收集。}
+#{1150}{}{Fine, there you go. Now get out.}
+{1150}{}{好吧，给你。现在出去。}
+#{1151}{}{Thanks.}
+{1151}{}{谢谢。}
+#{1200}{}{What? Again? Fuck, do you think I punch out the caps? Oh no way! You should rather shoot me on this very spot!}
+{1200}{}{什么？再一次？妈的，你以为我把瓶盖打出来了吗？哦，不可能！你应该在这个地方开枪打我！}
+#{1201}{}{Your wish is my command.}
+{1201}{}{你的愿望是我的命令。}
+#{1202}{}{Okay, I'll take just 200 caps then.}
+{1202}{}{好吧，那我就要200杯。}
+#{1250}{}{No chance, how could I make a living then?}
+{1250}{}{没有机会，那我怎么谋生呢？}
+#{1251}{}{Your problem, I just follow orders, but it'll be a great pleasure to add another notch on my gun and take those caps no matter what.}
+{1251}{}{你的问题，我只是奉命行事，但我很高兴能在我的枪上再加一个缺口，不管怎样都要戴上瓶盖。}
+#{1252}{}{Well forget it, keep the caps.}
+{1252}{}{算了吧，留着瓶盖。}
+#{1300}{}{Ha ha, I don't trust you; Alexa would never send someone like you. Get out before I call someone to handle you!}
+{1300}{}{哈哈，我不相信你，亚历克萨不会派你这样的人来的。在我叫人来对付你之前滚开！}
+#{1301}{}{Fine, can't blame a guy for trying.}
+{1301}{}{好吧，不能责怪一个男人。}
+#{1302}{}{Fine, can't blame a gal for trying.}
+{1302}{}{好吧，不能责怪一个女孩。}
+#{1303}{}{That was a mistake. And you'll pay for it!}
+{1303}{}{那是个错误。你会为此付出代价的！}
+#{1350}{}{Yeah? And who sent you then?}
+{1350}{}{是 啊？那是谁派你来的？}
+#{1351}{}{Julian. He wants money from you. Otherwise I'm to kill you.}
+{1351}{}{朱利安。他想要你的钱。否则我就杀了你。}
+#{1352}{}{Actually, it was Alexa, and when she says you're gonna pay, you'll pay. Otherwise you'll get screwed!}
+{1352}{}{事实上，是Alexa，当她说你要付钱的时候，你会付钱的。否则你就完了！}
+#{1353}{}{Stop asking stupid questions. What part of "I'm here to collect the advance on the protection fee" did you not understand? [Crack knuckles.]}
+{1353}{}{别再问愚蠢的问题了。你不明白“我是来收取保护费预付款”的哪一部分？[指节裂开]}
+#{1354}{}{Uh, I don't really know; Someone just wanted me to do it. Forget it.}
+{1354}{}{呃，我真的不知道，有人只是想让我做。算了吧。}
+#{1400}{}{Ha ha, fuck you, Julian's powerless here. This is LEONARD'S turf, got it? Now get out before I call someone to handle you!}
+{1400}{}{哈哈，去你妈的，朱利安在这里无能为力。这是伦纳德的地盘，明白吗？在我叫人来对付你之前赶紧出去！}
+#{1401}{}{Fine, can't blame a guy for trying.}
+{1401}{}{好吧，不能责怪一个男人。}
+#{1402}{}{Fine, can't blame a gal for trying.}
+{1402}{}{好吧，不能责怪一个女孩。}
+#{1403}{}{That was a mistake. And you'll pay for it!}
+{1403}{}{那是个错误。你会为此付出代价的！}
+#{1450}{}{Uh, sorry, I'm kinda deaf sometimes. How much do you want then?}
+{1450}{}{呃，对不起，我有时有点聋。那你要多少钱？}
+#{1451}{}{Two hundred will be enough.}
+{1451}{}{两百就够了。}
+#{1452}{}{Gimme three hundred now.}
+{1452}{}{现在给我三百。}
+#{1453}{}{Give me everything you have and no further discussion.}
+{1453}{}{把你所有的都给我，不要再讨论了。}
+#{1500}{}{Of course, but not today. I have certain commitments to other customers, so there should be enough drink left for them. But come back tomorrow, I will be happy to see you again!}
+{1500}{}{当然，但今天不行。我对其他顾客有一定的承诺，所以应该给他们留足够的饮料。但是明天再来，我会很高兴再见到你的！}
+#{1501}{}{Well then, I understand. See ya.}
+{1501}{}{那么，我明白了。再见。}
+#{1502}{}{Drinksies laaaaters? Eeeeeeeh.}
+{1502}{}{喝laaaaters？哎呀。}

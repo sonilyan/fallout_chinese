@@ -1,0 +1,508 @@
+#{100}{}{You gain }
+{100}{}{你得到了什么}
+#{101}{}{ experience points.}
+{101}{}{经验点。}
+#{102}{}{You successfully disarm the trap.}
+{102}{}{你成功地解除了陷阱。}
+#{103}{}{You fail to disarm the trap.}
+{103}{}{你没能解除陷阱。}
+#{104}{}{You accidentally set off the trap.}
+{104}{}{你不小心引爆了陷阱。}
+#{105}{}{ successfully disarms the trap.}
+{105}{}{成功解除陷阱。}
+#{106}{}{ fail to disarms the trap.}
+{106}{}{未能解除陷阱。}
+#{107}{}{ accidentally sets off the trap.}
+{107}{}{不小心引爆了陷阱。}
+#{200}{}{Thank you.}
+{200}{}{非常感谢。}
+#{201}{}{Good Day.}
+{201}{}{很好的一天。}
+#{202}{}{Thanks.}
+{202}{}{谢谢。}
+#{203}{}{Thanks!}
+{203}{}{谢谢！}
+#{204}{}{No thank you.}
+{204}{}{不用了，谢谢。}
+#{205}{}{No thanks.}
+{205}{}{不用了，谢谢。}
+#{206}{}{Sure.}
+{206}{}{当然。}
+#{207}{}{Yes.}
+{207}{}{对。}
+#{208}{}{No.}
+{208}{}{不。}
+#{209}{}{OK.}
+{209}{}{好 啊。}
+#{300}{}{Ug.}
+{300}{}{Ug公司。}
+#{301}{}{Og.}
+{301}{}{奥格。}
+#{302}{}{Ooga.}
+{302}{}{哦。}
+#{303}{}{Urg.}
+{303}{}{乌格。}
+#{350}{}{[END]}
+{350}{}{[结束]}
+#{351}{}{[BYE]}
+{351}{}{[再见]}
+#{352}{}{[MORE]}
+{352}{}{[更多]}
+#{353}{}{[CONTINUE]}
+{353}{}{[继续]}
+#{354}{}{[COMBAT]}
+{354}{}{[战斗]}
+#{355}{}{[GIVE MONEY]}
+{355}{}{[给钱]}
+#{375}{}{Bye.}
+{375}{}{再见。}
+#{376}{}{Goodbye.}
+{376}{}{再见。}
+#{400}{}{You die due to the lethal injection from Dr. Troy.}
+{400}{}{你死于特洛伊医生的致命注射。}
+#{450}{}{The coast is clear. Let's move out!}
+{450}{}{海岸安全。我们走吧！}
+#{900}{}{The old, worn door looks like it could be destroyed with a well-placed explosive.}
+{900}{}{这扇破旧的旧门看起来可能会被放置好的炸药炸毁。}
+#{901}{}{You see the slave cart to take the slaves back to the Den.}
+{901}{}{你看到奴隶车把奴隶带回了巢穴。}
+#{905}{}{Woof! Woof!}
+{905}{}{呜呜！呜呜！}
+#{910}{}{You are shocked by the electrified floor.}
+{910}{}{你被带电的地板震惊了。}
+#{911}{}{ is shocked by the electrified floor.}
+{911}{}{被带电的地板震惊了。}
+#{912}{}{The power level drops to zero and then goes back to 50% as the backup generators kick in.}
+{912}{}{当备用发电机启动时，功率水平下降到零，然后又回到50%。}
+#{913}{}{A slight humming is heard as the power once more flows through the base.}
+{913}{}{当能量再次流过底座时，会听到轻微的嗡嗡声。}
+#{920}{}{You stumble across the remains of Nagor, who died trying to save his dog.}
+{920}{}{你偶然发现了纳戈尔的遗骸，他为了救他的狗而死。}
+#{921}{}{Nagor died trying to drag his dog's body back to the village.}
+{921}{}{纳戈尔死在试图把他的狗的尸体拖回村庄。}
+#{930}{}{Hoooooowl!}
+{930}{}{呼！}
+#{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase by 5%.}
+{950}{}{你花点时间练习一些动作。徒手格斗技能提升5%。}
+#{951}{}{The fighting molerat goes in for the death blow.}
+{951}{}{打架的鼹鼠受到致命一击。}
+#{952}{}{The match is over.}
+{952}{}{比赛结束了。}
+#{1000}{}{You passed the Citizenship Test.}
+{1000}{}{你通过了公民资格考试。}
+#{1001}{}{You reported the Jet addiction of Redding to McClure.}
+{1001}{}{你向麦克卢尔报告了雷丁的喷气机瘾。}
+#{1002}{}{You freed up trade with Redding.}
+{1002}{}{你放开了和雷丁的交易。}
+#{1003}{}{You disable the force fields.}
+{1003}{}{禁用力场。}
+#{1004}{}{You hack into the computer.}
+{1004}{}{你侵入了电脑。}
+#{1005}{}{You repair the well.}
+{1005}{}{你修这口井。}
+#{1006}{}{You bring Hakeswill to justice.}
+{1006}{}{你把哈克斯威尔绳之以法。}
+#{1007}{}{You deliver the excavator chip.}
+{1007}{}{你送挖掘机芯片。}
+#{1008}{}{You took care of the Widow Rooney problem.}
+{1008}{}{你解决了鲁尼寡妇的问题。}
+#{1009}{}{You passed the trials of Arroyo.}
+{1009}{}{你通过了阿罗约的审判。}
+#{1010}{}{You have given Dr. Troy the formula for the antidote.}
+{1010}{}{你给了特洛伊医生解药的配方。}
+#{1011}{}{You have destroyed the reactor.}
+{1011}{}{你摧毁了反应堆。}
+#{1012}{}{WARNING! Complete Reactor MELTDOWN!}
+{1012}{}{警告！反应堆完全熔毁！}
+#{1013}{}{WARNING! TOXINS released into air ducts.}
+{1013}{}{警告！毒素释放到空气管道中。}
+#{1014}{}{You clear out the Wanamingo Mine.}
+{1014}{}{你把Wanamingo矿清理掉。}
+#{1015}{}{You lived through the puzzle room.}
+{1015}{}{你穿过了拼图室。}
+#{1016}{}{Oops, I nearly forgot the GECK. I wonder if one might be somewhere around here.}
+{1016}{}{哎呀，我差点忘了壁虎。我不知道这附近有没有人。}
+#{1017}{}{The door blasts open from your GECK code.}
+{1017}{}{门从你的GECK密码里炸开了。}
+#{1018}{}{You wiped out Frog Morton's Gang.}
+{1018}{}{你消灭了青蛙莫顿的帮派。}
+#{1050}{}{You grind the scorpion toxin into antidote.}
+{1050}{}{你把蝎子毒素磨成解药。}
+#{1051}{}{You mix the xander root and broc flower into healing powder.}
+{1051}{}{你把仙人掌和椰子花混合成治疗粉。}
+#{1099}{}{You can't being yourself to throw away the backpack full of caps.}
+{1099}{}{你不能把装满瓶盖的背包扔掉。}
+#{1100}{}{You can't throw away something like that here. You would be asking for trouble.}
+{1100}{}{你不能在这里扔掉那样的东西。你会自找麻烦的。}
+#{1101}{}{You can't throw away something like that here. You would be asking for trouble.}
+{1101}{}{你不能在这里扔掉那样的东西。你会自找麻烦的。}
+#{2000}{}{zero}
+{2000}{}{零}
+#{2001}{}{one}
+{2001}{}{一}
+#{2002}{}{two}
+{2002}{}{二}
+#{2003}{}{three}
+{2003}{}{三}
+#{2004}{}{four}
+{2004}{}{四}
+#{2005}{}{five}
+{2005}{}{五}
+#{2006}{}{six}
+{2006}{}{六}
+#{2007}{}{seven}
+{2007}{}{七}
+#{2008}{}{eight}
+{2008}{}{八}
+#{2009}{}{nine}
+{2009}{}{九}
+#{2010}{}{ten}
+{2010}{}{十}
+#{2011}{}{eleven}
+{2011}{}{十一}
+#{2012}{}{twelve}
+{2012}{}{十二}
+#{2013}{}{thirteen}
+{2013}{}{十三}
+#{2014}{}{fourteen}
+{2014}{}{十四}
+#{2015}{}{fifteen}
+{2015}{}{十五}
+#{2016}{}{sixteen}
+{2016}{}{十六}
+#{2017}{}{seventeen}
+{2017}{}{十七}
+#{2018}{}{eighteen}
+{2018}{}{十八}
+#{2019}{}{nineteen}
+{2019}{}{十九}
+#{21020}{}{twenty}
+{21020}{}{二十}
+#{2021}{}{twenty-one}
+{2021}{}{21}
+#{2022}{}{twenty-two}
+{2022}{}{22}
+#{2023}{}{twenty-three}
+{2023}{}{23}
+#{2024}{}{twenty-four}
+{2024}{}{24}
+#{2025}{}{twenty-five}
+{2025}{}{25}
+#{2026}{}{twenty-six}
+{2026}{}{26}
+#{2027}{}{twenty-seven}
+{2027}{}{27}
+#{2028}{}{twenty-eight}
+{2028}{}{28}
+#{2029}{}{twenty-nine}
+{2029}{}{29}
+#{2030}{}{thirty}
+{2030}{}{三十}
+#{2031}{}{thirty-one}
+{2031}{}{31}
+#{2032}{}{thirty-two}
+{2032}{}{32}
+#{2033}{}{thirty-three}
+{2033}{}{33}
+#{2034}{}{thirty-four}
+{2034}{}{34}
+#{2035}{}{thirty-five}
+{2035}{}{35}
+#{2036}{}{thirty-six}
+{2036}{}{36}
+#{2037}{}{thirty-seven}
+{2037}{}{37}
+#{2038}{}{thirty-eight}
+{2038}{}{38}
+#{2039}{}{thirty-nine}
+{2039}{}{39}
+#{2040}{}{forty}
+{2040}{}{四十}
+#{2041}{}{forty-one}
+{2041}{}{41}
+#{2042}{}{forty-two}
+{2042}{}{42}
+#{2043}{}{forty-three}
+{2043}{}{43}
+#{2044}{}{forty-four}
+{2044}{}{44}
+#{2045}{}{forty-five}
+{2045}{}{45}
+#{2046}{}{forty-six}
+{2046}{}{46}
+#{2047}{}{forty-seven}
+{2047}{}{47}
+#{2048}{}{forty-eight}
+{2048}{}{48}
+#{2049}{}{forty-nine}
+{2049}{}{49}
+#{2050}{}{fifty}
+{2050}{}{五十}
+#{2051}{}{fifty-one}
+{2051}{}{51}
+#{2052}{}{fifty-two}
+{2052}{}{五十二}
+#{2053}{}{fifty-three}
+{2053}{}{五十三}
+#{2054}{}{fifty-four}
+{2054}{}{54}
+#{2055}{}{fifty-five}
+{2055}{}{55}
+#{2056}{}{fifty-six}
+{2056}{}{56}
+#{2057}{}{fifty-seven}
+{2057}{}{57}
+#{2058}{}{fifty-eight}
+{2058}{}{58}
+#{2059}{}{fifty-nine}
+{2059}{}{五十九}
+#{2060}{}{sixty}
+{2060}{}{六十}
+#{2061}{}{sixty-one}
+{2061}{}{61}
+#{2062}{}{sixty-two}
+{2062}{}{62}
+#{2063}{}{sixty-three}
+{2063}{}{63}
+#{2064}{}{sixty-four}
+{2064}{}{64}
+#{2065}{}{sixty-five}
+{2065}{}{65}
+#{2066}{}{sixty-six}
+{2066}{}{66}
+#{2067}{}{sixty-seven}
+{2067}{}{67}
+#{2068}{}{sixty-eight}
+{2068}{}{68}
+#{2069}{}{sixty-nine}
+{2069}{}{69}
+#{2070}{}{seventy}
+{2070}{}{七十}
+#{2071}{}{seventy-one}
+{2071}{}{71}
+#{2072}{}{seventy-two}
+{2072}{}{72}
+#{2073}{}{seventy-three}
+{2073}{}{73}
+#{2074}{}{seventy-four}
+{2074}{}{74}
+#{2075}{}{seventy-five}
+{2075}{}{75}
+#{2076}{}{seventy-six}
+{2076}{}{七十六}
+#{2077}{}{seventy-seven}
+{2077}{}{七十七}
+#{2078}{}{seventy-eight}
+{2078}{}{78}
+#{2079}{}{seventy-nine}
+{2079}{}{七十九}
+#{2080}{}{eighty}
+{2080}{}{八十}
+#{2081}{}{eighty-one}
+{2081}{}{81}
+#{2082}{}{eighty-two}
+{2082}{}{八十二}
+#{2083}{}{eighty-three}
+{2083}{}{83}
+#{2084}{}{eighty-four}
+{2084}{}{84}
+#{2085}{}{eighty-five}
+{2085}{}{八十五}
+#{2086}{}{eighty-six}
+{2086}{}{86}
+#{2087}{}{eighty-seven}
+{2087}{}{87}
+#{2088}{}{eighty-eight}
+{2088}{}{八十八}
+#{2089}{}{eighty-nine}
+{2089}{}{八十九}
+#{2090}{}{ninety}
+{2090}{}{九十}
+#{2091}{}{ninety-one}
+{2091}{}{91}
+#{2092}{}{ninety-two}
+{2092}{}{92}
+#{2093}{}{ninety-three}
+{2093}{}{九十三}
+#{2094}{}{ninety-four}
+{2094}{}{94}
+#{2095}{}{ninety-five}
+{2095}{}{95}
+#{2096}{}{ninety-six}
+{2096}{}{九十六}
+#{2097}{}{ninety-seven}
+{2097}{}{97}
+#{2098}{}{ninety-eight}
+{2098}{}{九十八}
+#{2099}{}{ninety-nine}
+{2099}{}{99}
+#{2100}{}{one-hundred}
+{2100}{}{一百}
+#{3000}{}{}
+{3000}{}{}
+#{3025}{}{}
+{3025}{}{}
+#{3050}{}{If you try that again, I'll have to kill you.}
+{3050}{}{如果你再试一次，我就杀了你。}
+#{3051}{}{I don't have anything to steal, you idiot.}
+{3051}{}{我没什么可偷的，你这个白痴。}
+#{3052}{}{I don't think we know each other *that* well.}
+{3052}{}{我觉得我们彼此不太了解。}
+#{3053}{}{Touch that again and you'll have to pay for it.}
+{3053}{}{再碰一下你就得付钱了。}
+#{3054}{}{Get your hands off of me.}
+{3054}{}{把你的手拿开。}
+#{3055}{}{Do that again and I'll rip you head off.}
+{3055}{}{再来一次，我就把你的头撕下来。}
+#{3056}{}{Hands off!}
+{3056}{}{把手拿开！}
+#{3057}{}{You looking for trouble?}
+{3057}{}{你在找麻烦吗？}
+#{3058}{}{Touch me again and die.}
+{3058}{}{再碰我就死定了。}
+#{3059}{}{Only trouble is for free.}
+{3059}{}{唯一的麻烦是免费的。}
+#{3060}{}{Hey! Back off.}
+{3060}{}{嘿！退后。}
+#{3061}{}{Watch it!}
+{3061}{}{小心点！}
+#{3062}{}{You look'n ta die?}
+{3062}{}{你看起来要死了？}
+#{3063}{}{You try that again, and I'll bust your head.}
+{3063}{}{你再试一次，我就打爆你的头。}
+#{3064}{}{That's mine; hands off!}
+{3064}{}{那是我的，把手拿开！}
+#{3075}{}{}
+{3075}{}{}
+#{3100}{}{}
+{3100}{}{}
+#{3300}{}{}
+{3300}{}{}
+#{3325}{}{Why don??t you put everything right back where you found it?}
+{3325}{}{你为什么不把所有东西都放回你找到的地方呢？}
+#{3326}{}{You know, it ain??t nice to take what??s not yours.}
+{3326}{}{你知道，拿走不属于你的东西是不好的。}
+#{3327}{}{Get away from there, punk!}
+{3327}{}{滚开，朋克！}
+#{3328}{}{Now don??t go telling me you??re "just looking for your keys." Get outta here!}
+{3328}{}{现在别告诉我你“只是在找你的钥匙”。滚开！}
+#{3329}{}{Whatever you??re looking for, it ain??t there. Understand?}
+{3329}{}{不管你在找什么，它都不在那里。明白吗？}
+#{3350}{}{}
+{3350}{}{}
+#{3375}{}{}
+{3375}{}{}
+#{3400}{}{}
+{3400}{}{}
+#{3600}{}{}
+{3600}{}{}
+#{3625}{}{Hey, you! What??re you poking around that for?}
+{3625}{}{嘿，你！你在那瞎扯什么？}
+#{3626}{}{If you ain??t got a key in you hand, you??d better be stepping away.}
+{3626}{}{如果你手里没有钥匙，你最好走开。}
+#{3627}{}{It??s locked for a reason, punk.}
+{3627}{}{它被锁住是有原因的，朋克。}
+#{3628}{}{Knock it off before there??s trouble!}
+{3628}{}{在有麻烦之前把它停下来！}
+#{3650}{}{}
+{3650}{}{}
+#{3675}{}{}
+{3675}{}{}
+#{3700}{}{}
+{3700}{}{}
+#{3900}{}{}
+{3900}{}{}
+#{3925}{}{Hey you! What??re you doing there?}
+{3925}{}{嘿，你！你在那里干什么？}
+#{3926}{}{You??re not supposed to be here!}
+{3926}{}{你不应该在这里！}
+#{3927}{}{If you think you??re just walking by me, you can forget that!}
+{3927}{}{如果你以为你只是从我身边走过，那你就忘了吧！}
+#{3928}{}{You better not be planning what I think you??re planning, stranger.}
+{3928}{}{你最好别像我想的那样计划，陌生人。}
+#{3929}{}{What? Like you think I don??t notice you? Get outta here!}
+{3929}{}{什么？你以为我没注意到你？离开这里！}
+#{3950}{}{}
+{3950}{}{}
+#{3975}{}{}
+{3975}{}{}
+#{4000}{}{}
+{4000}{}{}
+#{4200}{}{}
+{4200}{}{}
+#{4225}{}{}
+{4225}{}{}
+#{4250}{}{}
+{4250}{}{}
+#{4275}{}{}
+{4275}{}{}
+#{4300}{}{}
+{4300}{}{}
+#{4500}{}{}
+{4500}{}{}
+#{4525}{}{}
+{4525}{}{}
+#{4550}{}{}
+{4550}{}{}
+#{4575}{}{}
+{4575}{}{}
+#{4600}{}{}
+{4600}{}{}
+#{4800}{}{}
+{4800}{}{}
+#{4825}{}{}
+{4825}{}{}
+#{4850}{}{}
+{4850}{}{}
+#{4875}{}{}
+{4875}{}{}
+#{4900}{}{}
+{4900}{}{}
+#{5100}{}{}
+{5100}{}{}
+#{5125}{}{}
+{5125}{}{}
+#{5150}{}{}
+{5150}{}{}
+#{5175}{}{}
+{5175}{}{}
+#{5200}{}{}
+{5200}{}{}
+#{5400}{}{Stay away from there.}
+{5400}{}{离那远点。}
+#{9000}{}{Repairs Complete.}
+{9000}{}{维修完成。}
+#{9001}{}{Rearming Complete.}
+{9001}{}{重整完毕。}
+#{9002}{}{Repairing Structural Damage.}
+{9002}{}{修复结构损坏。}
+#{10000}{}{Tell me something.}
+{10000}{}{告诉我一些事情。}
+#{10001}{}{You should heal yourself now.}
+{10001}{}{你现在应该自愈了。}
+#{10002}{}{I need you to wait here until I come back.}
+{10002}{}{我要你在这里等我回来。}
+#{10003}{}{Put your weapon away.}
+{10003}{}{把你的武器收起来。}
+#{10004}{}{Stay close to me.}
+{10004}{}{靠近我。}
+#{10005}{}{Don't get too far away.}
+{10005}{}{别走得太远。}
+#{10006}{}{We should spread out a bit.}
+{10006}{}{我们应该摊开一点。}
+#{10007}{}{That's it for now.}
+{10007}{}{现在就这样。}
+#{10008}{}{We need to change our distance from one another.}
+{10008}{}{我们需要改变彼此之间的距离。}
+#{10009}{}{I need to talk to you about your gear.}
+{10009}{}{我要和你谈谈你的装备。}
+#{10010}{}{On second thought, I think this distance is OK for now.}
+{10010}{}{仔细想想，我觉得这个距离现在还可以。}
+#{10011}{}{Actually, I guess there's nothing I need to really know right about your gear.}
+{10011}{}{事实上，我想你的装备没什么我需要知道的。}
+#{10012}{}{I need you to remove the armor that you're wearing.}
+{10012}{}{我需要你脱掉你身上的盔甲。}
+#{10013}{}{I need to know what kind of weapons you can use.}
+{10013}{}{我要知道你能用什么武器。}
+#{10100}{}{Let's go.}
+{10100}{}{走吧。}

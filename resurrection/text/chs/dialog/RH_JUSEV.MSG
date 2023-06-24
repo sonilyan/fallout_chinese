@@ -1,0 +1,56 @@
+#{150}{}{You see Julian.}
+{150}{}{你看朱利安。}
+#{250}{}{You see Julian, the ruler of the South Side.}
+{250}{}{你看朱利安，南边的统治者。}
+#{350}{}{Give them bastards hell!}
+{350}{}{让他们见鬼去吧！}
+#{351}{}{Go inside and get Leonard! We'll secure the place.}
+{351}{}{进去找莱纳德！我们会保护这个地方。}
+#{352}{}{Thanks for all!}
+{352}{}{谢谢大家！}
+#{353}{}{Fuck! Alexa's still alive, we have to get her!}
+{353}{}{性交！Alexa还活着，我们必须抓住她！}
+#{400}{}{Fuck, that hurts.}
+{400}{}{妈的，疼死了。}
+#{401}{}{You dumb fuckface! You're not gonna shoot my men!}
+{401}{}{你个蠢蛋！你不能开枪打我的人！}
+#{402}{}{You dumb bitch! You're not gonna shoot my men!}
+{402}{}{你这个蠢婊子！你不能开枪打我的人！}
+#{500}{}{Finally, the bitch is dead! Thanks for the help. You did me and this town a big favor. There's still one unsolved mystery. Where the hell is that motherfucking Leonard?!}
+{500}{}{最后，那婊子死了！谢谢你的帮助。你帮了我和这个镇一个大忙。还有一个未解之谜。那该死的伦纳德在哪？！}
+#{501}{}{Finally, the bitch is dead! Thanks for the help. You did me and this town a big favor. There's still one unsolved mystery. Where the hell is that motherfucking Leonard?!}
+{501}{}{最后，那婊子死了！谢谢你的帮助。你帮了我和这个镇一个大忙。还有一个未解之谜。那该死的伦纳德在哪？！}
+#{502}{}{No idea, I'll have to look for him.}
+{502}{}{不知道，我得去找他。}
+#{503}{}{Leonard's been dead for some time. He died shortly after Maria. Both were killed by Alexa. She killed Maria out of jealousy because she loved Leonard. And Leonard died because he didn't love her back. Then she spread the rumor he was hiding in the basement so she could be in command in his name.}
+{503}{}{伦纳德已经死了一段时间了。玛丽亚死后不久他就死了。两人都被亚历克斯杀死了。她出于嫉妒杀了玛丽亚，因为她爱伦纳德。莱纳德死了，因为他不爱她。然后她散布谣言说他藏在地下室，这样她就可以以他的名义指挥了。}
+#{504}{}{I think Leonard has been dead for a while. Alexa killed him. That rumor that he's hiding in the basement was just a cover so she could be in command in his name.}
+{504}{}{我想伦纳德已经死了一段时间了。亚历克斯杀了他。他躲在地下室的谣言只是个幌子，好让她以他的名义指挥。}
+#{505}{}{The basement is completely empty. There's just a collapsed corridor. I'm sorry, but Leonard probably managed to escape.}
+{505}{}{地下室空无一人。只有一条坍塌的走廊。对不起，伦纳德可能逃了出来。}
+#{506}{}{There's no one in the basement. It finally makes sense now. I think Leonard's been dead for a while. He actually didn't kill Maria, it was Alexa who killed her, and then Leonard shortly afterwards. That way she could spread the rumor about him hiding in the basement afraid to crawl out, and take command in his name.}
+{506}{}{地下室里没有人。现在终于有意义了。我想伦纳德已经死了一段时间了。他并没有杀玛丽亚，是亚历克莎杀了她，不久之后又杀了伦纳德。这样她就可以散布谣言说他躲在地下室不敢爬出来，并以他的名义指挥。}
+#{507}{}{Uga! Head, boom! Uwaaaaaaah.}
+{507}{}{乌加！头，砰！啊啊啊啊啊。}
+#{550}{}{So whatcha waiting for?! Move it before he gets away! We need to get him!}
+{550}{}{那你还在等什么？！在他走之前把它挪开！我们要抓住他！}
+#{551}{}{[Leave.]}
+{551}{}{[离开]}
+#{600}{}{Fuck, now that's something! Now it dawns on me! I was so blinded by vengeance I didn't even think about that possibility. Thanks again for everything, I'm glad you helped, I feel much better now. Go to the weapon storage and take whatever you can carry. It's all yours.}
+{600}{}{妈的，现在有点事了！现在我明白了！我被复仇蒙蔽了双眼，我甚至没有想到这种可能性。再次感谢你所做的一切，我很高兴你的帮助，我现在感觉好多了。去武器库拿你能带的东西。都是你的了。}
+#{601}{}{Thanks!}
+{601}{}{谢谢！}
+#{650}{}{Damn, so I've been fighting a dead man for all these years? That's terrible. Alexa was one damn bitch, I hope she fries in hell. Thanks again for your help. I told the guards to unlock the weapon storage. Go there, get whatever you can carry. It's all yours.}
+{650}{}{该死，这么多年来我一直在和一个死人战斗？太可怕了。Alexa是个该死的婊子，我希望她能下地狱。再次感谢你的帮助。我叫警卫打开武器库。去那里，拿你能拿的东西。都是你的了。}
+#{651}{}{Damn, so I've been fighting a dead man for all these years? That's terrible. Alexa was one damn bitch, I hope she fries in hell for all those people that died because of her. Thanks again for your help. I told the guards to unlock the weapon storage. Go there, get whatever you can carry. It's all yours.}
+{651}{}{该死，这么多年来我一直在和一个死人战斗？太可怕了。亚历克斯是个该死的婊子，我希望她能为那些因为她而死的人下地狱。再次感谢你的帮助。我叫警卫打开武器库。去那里，拿你能拿的东西。都是你的了。}
+#{652}{}{Thanks!}
+{652}{}{谢谢！}
+#{700}{}{Damn, what a shame! At least we could destroy that cunt Alexa along with her entire gang. I'll set up patrols all around town. Maybe we can still get him. I'm not giving up on my revenge. Thanks for your help, Natalia will give you your reward.}
+{700}{}{该死，真可惜！至少我们可以把那个贱人亚历克斯和她的整个帮派一起消灭。我会在镇上到处巡逻。也许我们还能找到他。我不会放弃复仇。谢谢你的帮助，娜塔莉亚会给你报酬的。}
+#{701}{}{Thanks!}
+{701}{}{谢谢！}
+#{750}{}{Damn, get yourself together! Maybe it was all a little bit much for you. Heh, heh.}
+{750}{}{该死，振作起来！也许这对你来说有点过分。嘿，嘿。}
+#{751}{}{[Leave.]}
+{751}{}{[离开]}

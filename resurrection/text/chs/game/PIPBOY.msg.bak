@@ -1,0 +1,2296 @@
+#
+# Special holiday dates
+#
+{100}{}{元旦快乐!}      # New years
+{101}{}{情人节快乐!}     # April fools
+{102}{}{愚人节快乐!}      # April fools
+{103}{}{轮船日快乐!}            # Shipping day!
+{104}{}{独立日快乐!}    # Independence day
+{105}{}{万圣节快乐!}           # Halloween
+{106}{}{感恩节快乐!}    # Thanksgiving
+{107}{}{圣诞快乐!}           # X-mas
+
+#
+# System messages
+#
+{200}{}{更多}
+{201}{}{返回}
+{202}{}{状态}
+{203}{}{当前没有任务.}
+{204}{}{提示}  # clues gone
+{205}{}{地图}
+{206}{}{视频档案}
+{207}{}{数据}
+{208}{}{}
+{209}{}{}
+{210}{}{状态}
+{211}{}{数据}
+{212}{}{of}
+{213}{}{页面}
+{214}{}{完成}
+{215}{}{你别想在这个地方休息!}
+
+#
+# Alarm clock
+#
+{300}{}{时间}
+{301}{}{生命值}
+{302}{}{休息十分钟}
+{303}{}{休息30分钟}
+{304}{}{休息一小时}
+{305}{}{休息两小时}
+{306}{}{休息三小时}
+{307}{}{休息四个小时}
+{308}{}{休息五个小时}
+{309}{}{休息六个小时}
+{310}{}{休息至早上(0800)}
+{311}{}{休息到中午(1200)}
+{312}{}{休息到晚上(1800)}
+{313}{}{休息到午夜(0000)}
+{314}{}{休息,直到痊愈}
+{315}{}{休息到全队生命值全满}
+#
+# Holodisk titles
+#
+{400}{}{A Treatise on Mutations}
+{401}{}{Nuclear Attacks and You}
+{402}{}{Vault Locations v12.004}
+{403}{}{The Journal of Asmodeus}
+{404}{}{Oliver Brooke: Journal}
+{405}{}{Donor Collection Records}
+{406}{}{Sebastian's speech}
+{407}{}{Mutant Hunter's History}
+{408}{}{Our Greatest Warriors}
+{409}{}{Analysis of Subject: Alien}
+{410}{}{Tunrida: Report 4Q 2169}
+{411}{}{Tunrida: Report 4Q 2169}
+{412}{}{脉冲武器研究}
+{413}{}{Imperial Army Armor}
+{414}{}{Vault-Tec BRC New Mexico}
+{415}{}{The Ultra Stimpak Project}
+{416}{}{Andrew Ryamon: Personal log}
+{417}{}{The Empire's Greatest Tales}
+{418}{}{Vault 16 Recon Mission}
+{419}{}{Vault 16 Recon Mission}
+{420}{}{Col. Feustel: Private Journal}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+{500}{}{InterPlay Logo}               # Not shown in Pipboy
+{501}{}{介绍}
+{502}{}{Pulling into the lair}
+{503}{}{Vault Suit Recovery}
+{504}{}{Arroyo Failure}
+{505}{}{Arroyo Destroyed}
+{506}{}{Starting the Car}
+{507}{}{Family Cartucci}
+{508}{}{Deathclaw Leader}
+{509}{}{Destruction of Albuquerque}
+{510}{}{Outro}
+{511}{}{Explosion of the base}
+{512}{}{Arroyo Dream 1}
+{513}{}{Arroyo Dream 2}
+{514}{}{Arroyo Dream 3}
+{515}{}{Arroyo Dream 4}
+{516}{}{Credits}
+
+#
+# Things for the Mac version to speak
+#
+#
+{600}{}{状态}
+{601}{}{提示}  # Clues gone
+{602}{}{Automaps}
+{603}{}{档案}
+{604}{}{Alarm Clock}
+{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+{606}{}{欢迎来到罗伯特哔哔小子2000.}
+{607}{}{再见.}
+{608}{}{醒来.}
+
+
+#
+# Status thread text
+#
+# Format:
+# 0 City name
+# 1 ... 9 thread/quest name
+#
+{700}{}{13号避难所}
+{701}{}{Calm rebel faction.}
+{702}{}{摧毁变种人首领.}
+{703}{}{摧毁变种人的源头.}
+{704}{}{找到净水芯片.}
+{705}{}{找到偷水贼.}
+#
+{710}{}{埋葬的避难所}
+#
+{720}{}{沙荫镇}
+{721}{}{Cure Jarvis of Radscorpion Poison.}
+{722}{}{Make Poison Antidote.}
+{723}{}{Rescue Tandi from the Raiders.}
+{724}{}{Stop the Radscorpions.}
+#
+{730}{}{垃圾小镇}
+{731}{}{Help Saul.}
+{732}{}{Kill Killian.}
+{733}{}{Rescue Sinthia.}
+{734}{}{Save Trish.}
+{735}{}{Stop Gizmo.}
+{736}{}{Bust the Skulz gang.}
+#
+{740}{}{掠夺者}
+#
+{750}{}{大墓地}
+{751}{}{Destroy the Super Mutants at the Watershed.}
+{752}{}{Fix the Necropolis water pump.}
+#
+{760}{}{哈勃}
+{761}{}{Destroy Deathclaw.}
+{762}{}{Dispose of Jain.}
+{763}{}{Dispose of merchant.}
+{764}{}{Find the missing caravans.}
+{765}{}{Steal necklace from the Merchants.}
+#
+{770}{}{兄弟会}
+{771}{}{Become an Initiate.}
+{772}{}{Rescue Initiate from the Hub.}
+#
+{780}{}{军事基地}
+#
+{790}{}{发光}
+{791}{}{Disarm Traps for the Facility.}
+{792}{}{Turn on power for the Glow.}
+#
+{800}{}{大墓地}
+{801}{}{Become a Blade.}
+{802}{}{Deliver Locket for Romero.}
+{803}{}{Deliver package from the Gun Runners.}
+{804}{}{Find Children spy in the Followers.}
+{805}{}{Fix hydroponic farms in Adytum.}
+{806}{}{Rescue Jason Zimmerman.}
+{807}{}{Stop the Gangs from attacking Adytum.}
+{810}{}{大教堂}
+
+#
+# Holodisk text
+#
+
+# GVAR_NKR_FAKE_VAULT13_HOLODISK
+#
+{1000}{}{Why is it that an organism is plagued by mutation? What}
+{1001}{}{causes some to be born with the defect we call}
+{1002}{}{mutation? What causes the creation of mutants?}
+{1003}{}{**END-PAR**}
+{1004}{}{Let us first briefly explain what mutations are. As you}
+{1005}{}{surely know, the entire "blueprint" of the human body}
+{1006}{}{is located in the nucleus of each and every cell. The}
+{1007}{}{information about how any given organ should develop is}
+{1008}{}{encoded in the chromosomes - long  "crumpled" sections}
+{1009}{}{of the double helix of deoxyribonucleic acid (DNA).}
+{1010}{}{Humans have 23 pairs of chromosomes. On these}
+{1011}{}{chromosomes, in specific places known as loci,}
+{1012}{}{stretches of DNA are positioned. They are responsible}
+{1013}{}{for the creation of a particular trait or set of}
+{1014}{}{traits. We call these stretches genes. It would be best}
+{1015}{}{to compare them to the individual pages of a}
+{1016}{}{construction manual. Four molecules provide the genetic}
+{1017}{}{information; the so-called bases ?adenine, guanine,}
+{1018}{}{cytosine and thymine, for simplification referred to by}
+{1019}{}{their initial letters. The combination of these four}
+{1020}{}{letters of the Alphabet of Life gives rise to all}
+{1021}{}{living things around us, including ourselves.}
+{1022}{}{**END-PAR**}
+{1023}{}{Every time a living cell divides itself, its}
+{1024}{}{"blueprint" is copied by means of a rather complex}
+{1025}{}{process, which provides for a precise transcription.}
+{1026}{}{During this process, one pair of chromosomes may become}
+{1027}{}{subject to a phenomenon called mitotic crossing-over.}
+{1028}{}{This phenomenon is the reason why it is impossible for}
+{1029}{}{two identical individuals to be created ?excessive}
+{1030}{}{similitude of the genetic code is always to the}
+{1031}{}{disadvantage of a species. When two identical}
+{1032}{}{chromosomes cross over and an exchange of two identical}
+{1033}{}{loci bearing genes of the same type takes place (we}
+{1034}{}{call them different alleles of the same gene),}
+{1035}{}{everything is in order. Problems start to occur when}
+{1036}{}{chromosomes cross over incorrectly. Then, both}
+{1037}{}{chromosomes receive a section they already possess and}
+{1038}{}{lose a part of the "blueprint" ?which may lead to}
+{1039}{}{fatal consequences, of course. Let us, for a moment,}
+{1040}{}{imagine a situation when you have a house built}
+{1041}{}{according to a construction plan featuring instructions}
+{1042}{}{for two chimneys but none for a roof. Amusing, isn抰}
+{1043}{}{it? The problem is that here, we are talking about the}
+{1044}{}{replication of organic and, yes, even human cells. So}
+{1045}{}{if the nucleus of such a newly created cell contains a}
+{1046}{}{blueprint with two nose structures but none for legs -}
+{1047}{}{I think you get the idea.}
+{1048}{}{**END-PAR**}
+{1049}{}{Now, this may be shocking to you, but these mistakes}
+{1050}{}{are quite common. The process of multiplying genetic}
+{1051}{}{information is more complex than any other man-made}
+{1052}{}{construction. Millions of structures with the size of}
+{1053}{}{just a few molecules participate in it, and even though}
+{1054}{}{the entire system of evolution is fine-tuned almost to}
+{1055}{}{perfection, mistakes occur quite often. Luckily, there}
+{1056}{}{are mechanisms in place to correct these errors, or at}
+{1057}{}{least limit their expression. Groups of molecules exist}
+{1058}{}{which we could call "handymen", which move along the}
+{1059}{}{DNA strand repairing any issues they encounter.}
+{1060}{}{Another important fact is that every human being}
+{1061}{}{possesses two of each chromosome, whereby each}
+{1062}{}{chromosome consists of two identical parts 杴}
+{1063}{}{chromatids. Hence, each body cell contains four copies}
+{1064}{}{of a given blueprint, even if in different versions.}
+{1065}{}{Should one variant be erroneous, others can replace it.}
+{1066}{}{It is as if you lost your construction plans for a}
+{1067}{}{shingle roof and decided to build a metal roof instead.}
+{1068}{}{**END-PAR**}
+{1069}{}{In case this mechanism should fail as well, there still}
+{1070}{}{is a last safety backup. I mentioned that these errors}
+{1071}{}{in transcription occur quite often. Indeed, it is often}
+{1072}{}{and if we consider a single individual, in the course}
+{1073}{}{of just one day, several thousand of such errors occur}
+{1074}{}{in their body. However, it is important to keep in mind}
+{1075}{}{that on average, a human body comprises cells in}
+{1076}{}{numbers reaching twenty digits! In this amount, the}
+{1077}{}{several hundred transcriptions that result in}
+{1078}{}{irreparable errors are easily overlooked. You may be}
+{1079}{}{aware of the fact that even though each cell contains a}
+{1080}{}{complete blueprint, it partakes in only a certain part}
+{1081}{}{of the construction process. This means that if, say, a}
+{1082}{}{"foot cell" loses its blueprint for the nose, it does}
+{1083}{}{not matter ?it wouldn抰 use it anyway. The odds of an}
+{1084}{}{error affecting the exact section of the blueprint used}
+{1085}{}{by a given cell are very low.}
+{1086}{}{**END-PAR**}
+{1087}{}{However, as with all complex processes, here too we}
+{1088}{}{find a large BUT. This issue is represented by human}
+{1089}{}{sex cells ?the spermatozoa and the ovum. In their}
+{1090}{}{development, which is far more complex than the}
+{1091}{}{development of bodily (somatic) cells, they go through}
+{1092}{}{a phase in which they possess only a single chromatid}
+{1093}{}{of each type of chromosome ?i.e. all the plans, all}
+{1094}{}{genetic information are not present in four copies but}
+{1095}{}{merely once. The second half of each chromosome is}
+{1096}{}{later produced according to this single sample, and the}
+{1097}{}{sex cell is thus haploid. As soon as the sperm and the}
+{1098}{}{ovum merge, a single cell is created carrying a full,}
+{1099}{}{diploid number of chromosomes. Nevertheless, if an}
+{1100}{}{error occurs in course of this delicate process and a}
+{1101}{}{single chromatid is compromised, the error is carried}
+{1102}{}{on. It is copied in the completion of the chromosome}
+{1103}{}{and after the merging of sex cells, one half of the}
+{1104}{}{genetic code of the embryo is already compromised.}
+{1105}{}{Luckily, there still is the second half, the other two}
+{1106}{}{sets of blueprints (which are equally identical). It}
+{1107}{}{may however happen that the damaged allele, the}
+{1108}{}{so-called defective gene, may become dominant and push}
+{1109}{}{the original, intact version into submission (The}
+{1110}{}{process defining the dominant and recessive versions of}
+{1111}{}{a gene is largely governed by chance). In such a case,}
+{1112}{}{the defective gene becomes directive for all future}
+{1113}{}{copies, for all future cells originating from the}
+{1114}{}{embryo. Should this happen, it is very bad, as all the}
+{1115}{}{cells of the future body will have the correct}
+{1116}{}{blueprint but it will be locked away, unused, and the}
+{1117}{}{body will instead build according to the dominant,}
+{1118}{}{albeit defective plan. And if cells responsible for}
+{1119}{}{building a leg lack an active blueprint to build it,}
+{1120}{}{they just won抰 build it at all.}
+{1121}{}{**END-PAR**}
+{1122}{}{This is the reason why mutants may come to be. In the}
+{1123}{}{period when a human body is made up of just a single}
+{1124}{}{pair of haploid cell or even by a single or several}
+{1125}{}{hundred diploid cells, the odds of an error occurring}
+{1126}{}{are the same as always, but any error will have}
+{1127}{}{significant, even fatal effects. Such cases, however,}
+{1128}{}{are rather rare. The transcription apparatus is}
+{1129}{}{impossibly complex and may break down but under normal}
+{1130}{}{circumstances this happens extremely rarely. If,}
+{1131}{}{however, the equilibrium of a delicate system is}
+{1132}{}{compromised, the probability of a defective gene being}
+{1133}{}{created rises manifold. The physical processes that}
+{1134}{}{lead to such imbalance and to the emergence of}
+{1135}{}{defective genes are called mutation factors; the}
+{1136}{}{chemical substances with this effect are then called}
+{1137}{}{mutagens. Mutation factors, like for example strong}
+{1138}{}{ionizing radiation, X-rays or extreme thermal shocks}
+{1139}{}{are not circumstances we encounter on a daily basis, it}
+{1140}{}{may however be beneficial to mention something in this}
+{1141}{}{respect.}
+{1142}{}{**END-PAR**}
+{1143}{}{It is a generally known fact that hard radiation does}
+{1144}{}{not bring too many benefits to our health, but the}
+{1145}{}{reason why that may be is less known. Radiation affects}
+{1146}{}{the human body in three ways. After radiation hits the}
+{1147}{}{skin, the irradiated surface exhibits a rapid increase}
+{1148}{}{in temperature and burns. These wounds resemble burn}
+{1149}{}{wounds and are treated in the same way. Further, when}
+{1150}{}{high-energy particles and waves penetrate tissues, they}
+{1151}{}{cause spot burns and cell damage on a molecular level 杴}
+{1152}{}{they destroy the cytoplasmic membrane, damage}
+{1153}{}{secretion pathways, and degrade enzymes. This type of}
+{1154}{}{damage usually kills the cell, but should this not be}
+{1155}{}{the case, the cell is terminated by the third effect 杴}
+{1156}{}{damage to the delicate nucleic matter. The radiation}
+{1157}{}{particles hit molecular chains and knock individual}
+{1158}{}{atoms out of them. A short exposition to}
+{1159}{}{a concentrated beam of hard radiation is enough to}
+{1160}{}{render vital genetic information useless, as it becomes}
+{1161}{}{full of gaps. A cell affected in this manner is no}
+{1162}{}{longer able to synthesize important substances and soon}
+{1163}{}{dies. It may, however, happen that the dose of}
+{1164}{}{radiation is not lethal, which means that the damage it}
+{1165}{}{causes does not lead to a demise of the cell. It may}
+{1166}{}{continue to reproduce and live on but the damage to its}
+{1167}{}{nucleus will result in a defect. Dysfunctions of}
+{1168}{}{internal cellular processes thus give rise to some}
+{1169}{}{somatic mutation.}
+{1170}{}{**END-PAR**}
+{1171}{}{Mutagens were discovered during the Second World War,}
+{1172}{}{in 1943, during research on war gasses. Due to their}
+{1173}{}{aggressive composition, these substances cause an}
+{1174}{}{irregular crossing-over. They impact cell division and}
+{1175}{}{the copying of genetic information, insert defective}
+{1176}{}{molecules into new genes, and deprive and deperidinate}
+{1177}{}{the DNA string, cracking individual "letters" out of}
+{1178}{}{it. Alkylating agents are considered to be}
+{1179}{}{super-mutagens. As far as more common substances go,}
+{1180}{}{cigarette smoke, some solvents, and benzene are}
+{1181}{}{mutagenic.}
+{1182}{}{**END-PAR**}
+{1183}{}{There is a third mutagenic agent ?viral diseases. When}
+{1184}{}{a virus penetrates into a cell, it writes over a part}
+{1185}{}{of its code by its own, just as computer viruses do.}
+{1186}{}{With time, the virus destroys its host cell and moves}
+{1187}{}{on to the next one. But it may happen that a viral}
+{1188}{}{infection suddenly subsides. Viruses multiplying inside}
+{1189}{}{the cell change and stop harming it, or further}
+{1190}{}{replication may even be halted. The cell survives but}
+{1191}{}{its genetic code is damaged. Some sections are missing,}
+{1192}{}{others are shifted and there may even be completely new}
+{1193}{}{sections created by the virus. This might lead to}
+{1194}{}{completely unexpected mutations the forms of which}
+{1195}{}{depend on the specific type of virus and the section of}
+{1196}{}{the DNA string it attacked. Still, even these mutations}
+{1197}{}{originating in viral infection are rather rare, and}
+{1198}{}{normally not expressed. You really need not worry that}
+{1199}{}{the common flu would cause you to turn into some kind}
+{1200}{}{of monster.}
+{1201}{}{**END-PAR**}
+{1202}{}{Recently, there has been speculations concerning the}
+{1203}{}{treatment of these mutations. The most diverse}
+{1204}{}{procedures have been proposed, all of them reeking of}
+{1205}{}{quack medicine. Consider what I just wrote concerning}
+{1206}{}{the origin of mutations and you must inadvertently come}
+{1207}{}{to the same conclusion. The medication would have to}
+{1208}{}{penetrate into all cells, mysteriously find out what is}
+{1209}{}{damaged (forget about the fact that damaged as well as}
+{1210}{}{healthy sections have the same base content, just}
+{1211}{}{ordered differently) and repair it. This is utterly}
+{1212}{}{impossible. Not just impossible as far as the current}
+{1213}{}{state of science, goes but impossible on principle.}
+{1214}{}{**END-PAR**}
+{1215}{}{And that is all. I believe I presented a clear and}
+{1216}{}{relevantly complex image of the issue of mutation, but}
+{1217}{}{you still have to understand that this is just an}
+{1218}{}{overview of a topic of infinite complexity, as it}
+{1219}{}{treats the very nature of the most amazing and most}
+{1220}{}{complex process in the universe ?life.}
+{1221}{}{**END-PAR**}
+{1222}{}{Prof. George L. Webster, M.D., Ph.D.}
+{1223}{}{**END-DISK**}
+
+{2000}{}{Just as we are ready for other dangers that threaten}
+{2001}{}{us daily, we must also be ready for the danger of a}
+{2002}{}{nuclear attack. We know what to do when there is a fire}
+{2003}{}{or when someone is injured, but what do we do when an}
+{2004}{}{atomic bomb explodes?}
+{2005}{}{Let us hope it never happens - but if it does, we must}
+{2006}{}{be ready. The explosion of an atomic bomb is so}
+{2007}{}{powerful it can rip up trees, destroy houses, or break}
+{2008}{}{all the windows; and it can burn you far more than}
+{2009}{}{falling asleep while sunbathing. That is why it is}
+{2010}{}{important to know what to do if it happens.}
+{2011}{}{It all depends on what kind of an attack it is - with}
+{2012}{}{warning or without warning.}
+{2013}{}{**END-PAR**}
+{2014}{}{Civil Defense is working hard to do all it can to warn}
+{2015}{}{us of an atomic bomb before it goes off. When they}
+{2016}{}{detect danger approaching, the sound of sirens will}
+{2017}{}{warn you, wherever you are. When you hear these sirens,}
+{2018}{}{you must head to a vault assigned to you right away.}
+{2019}{}{Wherever you are, whatever you are doing, you must}
+{2020}{}{stop and immediately go to your vault.}
+{2021}{}{It is important to head to the vault that has been}
+{2022}{}{assigned to you by the Office of Civil Defense. Only in}
+{2023}{}{this way can we ensure a safe number of people will be}
+{2024}{}{in each vault. Remember your vault well, because you}
+{2025}{}{will not be allowed to enter a vault that is not yours,}
+{2026}{}{no matter what happens. Failing to remember your vault}
+{2027}{}{puts your life, and the lives of your fellow citizens,}
+{2028}{}{in danger.}
+{2029}{}{**END-PAR**}
+{2030}{}{If you cannot find your vault, it is best to ask the}
+{2031}{}{nearest Civil Defense worker and obey his orders. Civil}
+{2032}{}{Defense workers know what to do and are doing all they}
+{2033}{}{can for our safety - your safety.}
+{2034}{}{We are conducting exercises to ensure a quick and easy}
+{2035}{}{evacuation of all citizens into vaults in case of}
+{2036}{}{danger, so you should already know where to find your}
+{2037}{}{vault and what to do. Please, do not underestimate the}
+{2038}{}{importance of these exercises - they are done for your}
+{2039}{}{own safety. And you never know if this time, God}
+{2040}{}{forbid, the threat might be real.}
+{2041}{}{**END-PAR**}
+{2042}{}{In an extreme case, it is possible that the bombs will}
+{2043}{}{explode without any warning. The first thing we would}
+{2044}{}{notice would be a bright flash, brighter than the Sun,}
+{2045}{}{brighter than anything you have ever seen. If you see}
+{2046}{}{it, you must quickly duck and cover, no matter what you}
+{2047}{}{are doing; there is no time to wait or look around. It}
+{2048}{}{is important to remain in that position until the}
+{2049}{}{danger passes. If you can, duck under a table and cover}
+{2050}{}{the back of your head, just to be sure. If you are in a}
+{2051}{}{room without tables or in a corridor, duck and cover}
+{2052}{}{tight against the closest wall. Try to lie down away}
+{2053}{}{from windows and doors with glass, because the glass}
+{2054}{}{could hurt you if it breaks. If you are on the bus, do}
+{2055}{}{not wait: duck into the aisle between the seats, far}
+{2056}{}{from windows, so the glass does not cut you.}
+{2057}{}{The atomic bomb can fall when you are outside. It does}
+{2058}{}{not matter where you are or what you are doing, it is}
+{2059}{}{important to duck and cover right away. It is best to}
+{2060}{}{duck against the closest wall, but if there is no wall}
+{2061}{}{around, duck on the ground and cover your head with}
+{2062}{}{clothing or at least your hands. Even a newspaper may}
+{2063}{}{protect you from severe burns.}
+{2064}{}{**END-PAR**}
+{2065}{}{It does not matter if we live in the city or the}
+{2066}{}{countryside, we must always be ready for the atomic}
+{2067}{}{bomb. Yes, we all need to be ready - and now you are}
+{2068}{}{ready, too. You know what to do when an atomic bomb}
+{2069}{}{explodes.}
+{2070}{}{This holodisk was created by the Civil Defense}
+{2071}{}{Administration in cooperation with the Vault-Tec}
+{2072}{}{company.}
+{2073}{}{**END-DISK**}
+
+{3000}{}{Hello and welcome to the first edition of the Vault-Tec}
+{3001}{}{information pamphlet for the Southern United States,}
+{3002}{}{published as a means of providing information about}
+{3003}{}{vaults in your area. Yes, you read correctly, even in}
+{3004}{}{your neighborhood, you can find or soon will find the}
+{3005}{}{most high-end shelter, specially designed for your}
+{3006}{}{protection. Remember that vaults are not just for the}
+{3007}{}{upwardly mobile, but for everyone.}
+{3008}{}{**END-PAR**}
+{3009}{}{**END-PAR**}
+{3010}{}{Vault 16}
+{3011}{}{**END-PAR**}
+{3012}{}{Directly below the large metropolitan area of}
+{3013}{}{Albuquerque lies the latest wonder of modern technology}
+{3014}{}{- Vault 16. Compared to other vaults, its construction}
+{3015}{}{may have taken slightly longer, but it is this delay to}
+{3016}{}{which the vault owes the highest level of comfort and}
+{3017}{}{security for its future inhabitants. Special attention}
+{3018}{}{was devoted to its walls, which have been greatly}
+{3019}{}{enforced. Its interior is equipped with a number of}
+{3020}{}{robots, able to provide fully automated cleaning and}
+{3021}{}{maintenance tasks. During the construction of the}
+{3022}{}{Vault, certain rumors spread which blamed officials of}
+{3023}{}{mistakes in organizing measures. These accusations were}
+{3024}{}{investigated by the Supreme Controlling Commission and}
+{3025}{}{correctly deemed to lack any merit. In all respects,}
+{3026}{}{Vault 16 meets the highest standards and is perfectly}
+{3027}{}{prepared for its potential inhabitants.}
+{3028}{}{**END-DISK**}
+
+{4000}{}{[620915]}
+{4001}{}{I, Asmodeus the Great, decided to write this journal so}
+{4002}{}{that future generations will know how I established my}
+{4003}{}{reign.}
+{4004}{}{It was not easy. It took lots of sacrifice, but now I}
+{4005}{}{can feel that success is in the air. Years of disregard}
+{4006}{}{and mockery from Morpheus and the others is finally}
+{4007}{}{over. From now on, I shall be the one to laugh!}
+{4008}{}{**END-PAR**}
+{4009}{}{[630107]}
+{4010}{}{Soldiers of The Unity deserted and spread after}
+{4011}{}{Master's death. Supermutants fled far to the east.}
+{4012}{}{Floaters and centaurs remained and learned the ways of}
+{4013}{}{survival. Their anatomy did not change, however. There}
+{4014}{}{is still a part of their brain sensible to the mind of}
+{4015}{}{humans. Alas, this tele-cortex only responds to the}
+{4016}{}{Master's mind. I am certain, however, that it can be}
+{4017}{}{adapted to any human's mind using a process called}
+{4018}{}{neural reorganization. Once I succeed, I shall have}
+{4019}{}{thousands of absolutely loyal soldiers. With the Unity}
+{4020}{}{resurrected I can conquer the entire world!}
+{4021}{}{**END-PAR**}
+{4022}{}{[650913]}
+{4023}{}{Be damned, world! One of the centaurs died today,}
+{4024}{}{suddenly, without warning. During post-mortem I}
+{4025}{}{discovered that Forced Evolutionary Virus used as}
+{4026}{}{primary neurotransformer mutated heavily since the last}
+{4027}{}{test, and ceased to serve its original purpose. I must}
+{4028}{}{redo the virus transmutation procedure, regardless of}
+{4029}{}{the delay.}
+{4030}{}{The autopsy, however, indicated that I am on the right}
+{4031}{}{track. The neural organizer worked the way it was}
+{4032}{}{supposed to in the beginning, altering the tele-cortext}
+{4033}{}{structure properly. After a couple of minutes the FEV}
+{4034}{}{became unstable, attacking the somatic tissue which,}
+{4035}{}{unfortunately, led to exitus. Obviously, the mutation}
+{4036}{}{must be regulated somehow, as it is currently too}
+{4037}{}{excessive.}
+{4038}{}{**END-PAR**}
+{4039}{}{[680315]}
+{4040}{}{Experimenting with neural reorganization using an}
+{4041}{}{altered FEV batch 13-024 yields positive results with}
+{4042}{}{both floaters and centaurs. The modern plague virus}
+{4043}{}{proved to be a good mutation regulator. Good fortune}
+{4044}{}{smiles on me. Proof that I was always meant to rule}
+{4045}{}{这个世界!}
+{4046}{}{Floaters seem to be more exploitable than centaurs.}
+{4047}{}{Probably because they have fewer heads. Three young}
+{4048}{}{floaters are being altered from infancy. They are}
+{4049}{}{showing great progress. My hopes lie with them. They}
+{4050}{}{shall become my very first soldiers!}
+{4051}{}{**END-PAR**}
+{4052}{}{[691224]}
+{4053}{}{I can feel my ultimate goal is at hand. Sometimes I}
+{4054}{}{speculate why was I predestined to be the next great}
+{4055}{}{leader of the world. I understand now where the Master}
+{4056}{}{erred. He held down too much, not using all the}
+{4057}{}{available resources. Blinded by his utopic visions of}
+{4058}{}{harmony, he failed to see that the proper way to}
+{4059}{}{establish power only lays through massive violence. He}
+{4060}{}{refused to use it sufficiently. The entire Unity was}
+{4061}{}{smothered in his utopic dreams. It was always meant to}
+{4062}{}{fall. The Master held back. I shall not repeat his}
+{4063}{}{mistakes. More and more, I become aware of how misled}
+{4064}{}{he and his entire organization were. Perhaps I should}
+{4065}{}{have disposed of my robe, my only connection with}
+{4066}{}{Children of the Cathedral, but I became accustomed to}
+{4067}{}{it over the years. Besides, it seems to have a calming}
+{4068}{}{effect on floaters and centaurs. That could, however,}
+{4069}{}{imply that their knowledge comes from genetic memory.}
+{4070}{}{Nonsense! I should keep myself away from such foolish}
+{4071}{}{thoughts, I still have a lot to accomplish. It is time}
+{4072}{}{to embrace my fate.}
+{4073}{}{**END-PAR**}
+{4074}{}{[700330]}
+{4075}{}{Today I performed the last set of tests on three young}
+{4076}{}{floaters. Subject 1 shows the most positive reaction to}
+{4077}{}{the transmutation agent. I think it's ready for the}
+{4078}{}{final phase. It shall be treated with the final dose of}
+{4079}{}{the neuromutation virus today. Then it shall prove its}
+{4080}{}{allegiance to me. It shall lead its brethren and bring}
+{4081}{}{the nearest city to oblivion!}
+{4082}{}{The new dawn of humanity shall end before it even}
+{4083}{}{started! People shall submit to my tremendous power -}
+{4084}{}{or die.}
+{4085}{}{**END-DISK**}
+
+{5000}{}{October 23, 2077}
+{5001}{}{They really did it... It was looming over us the whole}
+{5002}{}{time, I was prepared for it, but I still can't believe}
+{5003}{}{the world really ended. Thank God the alarm was sounded}
+{5004}{}{in time. We managed to hide in our bunker built exactly}
+{5005}{}{for that purpose. We're safe. Many people didn't take}
+{5006}{}{the alarm seriously. They thought it was just another}
+{5007}{}{exercise. Most of the others went to hide in vaults.}
+{5008}{}{How long can they be safe there? Safe in a vault, built}
+{5009}{}{and controlled by the Government, the same Government,}
+{5010}{}{which started a war and launched all of their nuclear}
+{5011}{}{weapons! They can't be trusted. They won't have any}
+{5012}{}{problem with turning the vault dwellers into their}
+{5013}{}{slaves. Or riots may break out, and everyone will be at}
+{5014}{}{each other's throats. I'd rather take care of my family}
+{5015}{}{on my own, that's my responsibility. That's why I built}
+{5016}{}{this bunker below our house. It's for me, my wife, and}
+{5017}{}{our son Donald. Judith didn't really agree with it, but}
+{5018}{}{she must understand that this is the best solution. I'm}
+{5019}{}{sure she'll realize that in time. I think she's just in}
+{5020}{}{shock because of what happened. I mean, who wouldn't}
+{5021}{}{be? She keeps talking about my brother who has a spot}
+{5022}{}{in Vault 16. But he doesn't have a family that he needs}
+{5023}{}{to take care of, and he's young. He doesn't understand}
+{5024}{}{what responsibility is yet. God, I hope he's alright.}
+{5025}{}{**END-PAR**}
+{5026}{}{October 30, 2077}
+{5027}{}{A week has passed and we're all still feeling a bit}
+{5028}{}{dazed. Me and Judith often go through the whole day}
+{5029}{}{without talking, her merely dropping a venomous remark}
+{5030}{}{from time to time. Something about living in an}
+{5031}{}{accursed hole underground. It will take a while before}
+{5032}{}{she accepts the terrible fact that we're going to be}
+{5033}{}{stuck here for many years. I know that, but she's}
+{5034}{}{starting to get on my nerves. And Donald is constantly}
+{5035}{}{asking stupid questions. He's just six years old, he}
+{5036}{}{doesn't understand what's going on.}
+{5037}{}{**END-PAR**}
+{5038}{}{November 15, 2077}
+{5039}{}{We're slowly settling in and getting used to our}
+{5040}{}{situation. My wife is finally talking to me. I just}
+{5041}{}{wish our conversations didn't end in arguments so}
+{5042}{}{often. When she started whining about how awful our}
+{5043}{}{bunker is again, I got so angry I shouted at her to get}
+{5044}{}{out and die if she doesn't like it. I'm ashamed I let}
+{5045}{}{myself be provoked this way. Donald overheard. It's}
+{5046}{}{hard enough for him to keep listening to his own mother}
+{5047}{}{complaining all the time, and now this.}
+{5048}{}{**END-PAR**}
+{5049}{}{December 4, 2077}
+{5050}{}{While I was checking our supplies today, I found out}
+{5051}{}{that half of our tin cans are rotten. They're}
+{5052}{}{completely inedible, we could get food poisoning from}
+{5053}{}{them. I'm certain that I stored them properly, and}
+{5054}{}{according to the expiration dates, they should've}
+{5055}{}{lasted for several more decades. Some bastards probably}
+{5056}{}{got rich on selling expired tin cans, all they needed}
+{5057}{}{to do was change the labels. Well, it's not like I can}
+{5058}{}{file a complaint anywhere now. We'll have to save our}
+{5059}{}{food even more to make sure that what we have lasts}
+{5060}{}{longer. Judith just added this to her repertoire of}
+{5061}{}{criticisms.}
+{5062}{}{**END-PAR**}
+{5063}{}{December 7, 2077}
+{5064}{}{Yesterday, Judith quite bluntly said that she'd be}
+{5065}{}{better off if she went to the vault with my brother. I}
+{5066}{}{couldn't restrain myself and slapped her. She hasn't}
+{5067}{}{talked to me for the rest of the day. Judith's hostile}
+{5068}{}{silence was perhaps worse than her venomous talk. But}
+{5069}{}{it's hard enough for me to think about my brother. I}
+{5070}{}{keep telling myself I should've tried harder to}
+{5071}{}{convince him to join us. Perhaps I could've broken his}
+{5072}{}{stubbornness. Sure, our little shelter isn't ideal, but}
+{5073}{}{it can't be worse than a vault. Hard to say what}
+{5074}{}{horrors are taking place there right now.}
+{5075}{}{**END-PAR**}
+{5076}{}{December 11, 2077}
+{5077}{}{I've done a terrible thing. Judith started complaining}
+{5078}{}{again this morning, we had a big argument and I just}
+{5079}{}{couldn't take it. I took my pistol and hit her in the}
+{5080}{}{head with it. Again, and again. I just couldn't stop, I}
+{5081}{}{kept hearing her criticisms even after she was long}
+{5082}{}{silent, her face beaten to a bloody pulp. She said it}
+{5083}{}{would've been better if we all died right after the}
+{5084}{}{bombs fell instead of living in this grave. Why did she}
+{5085}{}{have to say something like that? Why did she have to}
+{5086}{}{say she wanted us all to be dead? I don't even know why}
+{5087}{}{I had a gun hidden right next to the bed. Luckily,}
+{5088}{}{Donald wasn't in the room at the time. He doesn't know}
+{5089}{}{what happened.}
+{5090}{}{**END-PAR**}
+{5091}{}{December 13, 2077}
+{5092}{}{Donald keeps asking about his mom. I made something up,}
+{5093}{}{but he just keeps asking on. I wasn't even able to}
+{5094}{}{respond to him today. I had to stay alone so he}
+{5095}{}{wouldn't see me cry. God, what have I done? I've killed}
+{5096}{}{the boy's mother, my own wife!}
+{5097}{}{**END-PAR**}
+{5098}{}{December 18, 2077}
+{5099}{}{Since this morning, I've had the feeling that I smell}
+{5100}{}{something strange. Perhaps the smell of burning, but}
+{5101}{}{it's barely perceptible. Maybe I'm just telling that to}
+{5102}{}{myself because I don't believe anything good could}
+{5103}{}{happen to us ever again. If it really is a}
+{5104}{}{short-circuit, there's a danger of fire on the}
+{5105}{}{electrical wiring. We could suffocate on the smoke}
+{5106}{}{here. I'll have to check all the cables I can get to.}
+{5107}{}{Maybe I'll stop thinking of Judith so much during work,}
+{5108}{}{I still see her bloody face before my eyes. May the God}
+{5109}{}{forgive me.}
+{5110}{}{**END-PAR**}
+{5111}{}{December 19, 2077}
+{5112}{}{The smell is more noticeable than yesterday. I've}
+{5113}{}{discovered what the problem is. It's worse than a}
+{5114}{}{short-circuit. The air filters aren't working properly,}
+{5115}{}{the dust from the outside keeps getting in. With every}
+{5116}{}{breath we take increasing doses of radiation. I don't}
+{5117}{}{know how to repair that. I've tried nearly everything,}
+{5118}{}{I don't know what I'm going to do.}
+{5119}{}{**END-PAR**}
+{5120}{}{December 21, 2077}
+{5121}{}{I have to end this. It's pointless. We'd just slowly}
+{5122}{}{die of radiation exposure. I can't do that to Donald.}
+{5123}{}{We'll have a big dinner this evening then I'll end it.}
+{5124}{}{Donald is being a good boy. He's in a good mood because}
+{5125}{}{I told him he'll see his mother soon. I think that}
+{5126}{}{knowing it will all end soon, I finally feel relieved.}
+{5127}{}{**END-DISK**}
+
+{6000}{}{2/26/2168}
+{6001}{}{RECEIVED: 11 men, 5 women}
+{6002}{}{TURNED IN: 3 men}
+{6003}{}{A small tribal village hiding in caves, likely because}
+{6004}{}{of the Rebirth. The doctor immediately took three of}
+{6005}{}{them for some standard tests.}
+{6006}{}{**END-PAR**}
+{6007}{}{3/15/2168}
+{6008}{}{TURNED IN: 2 men}
+{6009}{}{I had to remind my people not to tell the donors}
+{6010}{}{anything they don't need to know. One of them poked}
+{6011}{}{out his eyes in anger when he found out they were to be}
+{6012}{}{transplanted to someone.}
+{6013}{}{**END-PAR**}
+{6014}{}{3/29/2168}
+{6015}{}{TURNED IN: 1 woman}
+{6016}{}{Last night, the doctor injected one of the donors with}
+{6017}{}{something as a part of a test, but he only had her}
+{6018}{}{brought to him this morning. She spent the whole night}
+{6019}{}{writhing on the ground, howling in pain.}
+{6020}{}{**END-PAR**}
+{6021}{}{4/20/2168}
+{6022}{}{TURNED IN: 6 men, 4 women}
+{6023}{}{Ten donors for brain research and other tests. The}
+{6024}{}{doctor is supposedly trying to improve the ability}
+{6025}{}{enhancement procedures. But we're running out of}
+{6026}{}{donors, everything has been empty lately. One}
+{6027}{}{expedition even almost hit upon a unit of the Rebirth.}
+{6028}{}{**END-PAR**}
+{6029}{}{5/11/2168}
+{6030}{}{RECEIVED: 14 men, 7 women, 3 children}
+{6031}{}{TURNED IN: 3 children}
+{6032}{}{A group that left their town in fear of the Rebirth in}
+{6033}{}{order to seek help in Albuquerque. The collectors found}
+{6034}{}{them by accident. For obtaining child donors, the}
+{6035}{}{doctor sent one of his gofers with congratulations and}
+{6036}{}{a bonus payment for everyone.}
+{6037}{}{**END-PAR**}
+{6038}{}{6/29/2168}
+{6039}{}{TURNED IN: 2 women}
+{6040}{}{Two donors which are to be used for transplantation in}
+{6041}{}{one of the ability enhancement surgeries.}
+{6042}{}{**END-PAR**}
+{6043}{}{8/2/2168}
+{6044}{}{RECEIVED: 2 men, 2 women}
+{6045}{}{TURNED IN: 2 men, 2 women}
+{6046}{}{Someone ruined a test with five people during some of}
+{6047}{}{the doctor's research. It was necessary to replace them}
+{6048}{}{as quickly as possible. The doctor's requirements were}
+{6049}{}{quite specific, but fortunately we were able to find}
+{6050}{}{four suitable donors among the bums in the Dead}
+{6051}{}{Quarter. The fool responsible for the mistake served as}
+{6052}{}{the final donor.}
+{6053}{}{**END-PAR**}
+{6054}{}{8/17/2168}
+{6055}{}{RECEIVED: 5 men}
+{6056}{}{Albuquerque tribals hunting geckos.}
+{6057}{}{**END-PAR**}
+{6058}{}{9/28/2168}
+{6059}{}{TURNED IN: 1 man}
+{6060}{}{The doctor stopped by to personally select the best}
+{6061}{}{donor for William's heart transplant. He said that such}
+{6062}{}{a prestigious patient must get only the best, so he}
+{6063}{}{selected the strongest tribal available.}
+{6064}{}{**END-PAR**}
+{6065}{}{...}
+{6066}{}{**END-PAR**}
+{6067}{}{[The holodisk contains many more such records, both old}
+{6068}{}{and new. Countless people lost their lives because of}
+{6069}{}{the hospital.]}
+{6070}{}{**END-DISK**}
+
+{7000}{}{What exactly is a mutant? Some say that it is a}
+{7001}{}{physically changed human. But they are WRONG! A mutant}
+{7002}{}{may have been human once, but once he changes, he}
+{7003}{}{loses all his humanity - and that's why he must die!}
+{7004}{}{Even if the physical manifestations of mutation are}
+{7005}{}{minimal. On the contrary, such a mutant is even more}
+{7006}{}{dangerous, and must be ELIMINATED!}
+{7007}{}{**END-PAR**}
+{7008}{}{Have the mutants ever created anything of value? NO!}
+{7009}{}{What did they ever accomplish? Nothing but murder and}
+{7010}{}{destruction! Only fools dare say that we should}
+{7011}{}{negotiate with mutants. It is NONSENSE! The mutant}
+{7012}{}{minds are so changed that no discussion can be had with}
+{7013}{}{them. They are aggressive and violent! They understand}
+{7014}{}{nothing else, and can't be dealt with in any other way!}
+{7015}{}{We must be stronger than them, and exterminate them}
+{7016}{}{all! Before they do the same to us.}
+{7017}{}{**END-PAR**}
+{7018}{}{How could there be any doubt, when their existence}
+{7019}{}{itself is the greatest proof? For if a mutant was}
+{7020}{}{capable of reason he would surely kill himself! He}
+{7021}{}{would understand how hopeless and pointless his}
+{7022}{}{existence is, and would put an end to his torment! But}
+{7023}{}{instead, they fight against us humans, so we'll have to}
+{7024}{}{take them out ourselves. We must exterminate every last}
+{7025}{}{one of them!}
+{7026}{}{**END-PAR**}
+{7027}{}{Mutants don't hesitate to use every opportunity they}
+{7028}{}{have to kill humans, and that is why we cannot afford}
+{7029}{}{any doubt, and must eradicate them ALL!}
+{7030}{}{**END-PAR**}
+{7031}{}{We must not miss the slightest mutation, because it}
+{7032}{}{would spread to other pure humans, and from them to}
+{7033}{}{others... A world without humans, filled with}
+{7034}{}{senseless, violent mutants - that's the future we are}
+{7035}{}{trying to prevent! That is why EVERY SINGLE MUTANT}
+{7036}{}{MUST DIE!}
+{7037}{}{**END-PAR**}
+{7038}{}{That's what every one of you here is fighting for, and}
+{7039}{}{you should feel proud of that. As I am proud of you!}
+{7040}{}{Because you're saving humanity! Because you're saving}
+{7041}{}{THE WORLD! But we mustn't rejoice yet, we mustn't}
+{7042}{}{relent... Until the mutants have been WIPED FROM THE}
+{7043}{}{FACE OF THE EARTH!}
+{7044}{}{**END-DISK**}
+
+{8000}{}{Foreword}
+{8001}{}{**END-PAR**}
+{8002}{}{Our organization, the Mutant Hunters, grows with every}
+{8003}{}{passing day, and this gives me the conviction that we}
+{8004}{}{will one day reach our common goal - the salvation of}
+{8005}{}{pure humans from mutants. When that blessed time}
+{8006}{}{comes, however, it will be necessary to remember what}
+{8007}{}{preceded so that the people who fought for the safety}
+{8008}{}{of others, and everything they had to sacrifice, is not}
+{8009}{}{forgotten. It should also serve as a warning that this}
+{8010}{}{must not happen again, so that mutants and mutations}
+{8011}{}{may never threaten the lives of pure humans ever again.}
+{8012}{}{That's why I wrote this history of the Hunters, which}
+{8013}{}{may also be the only thing left after us should the}
+{8014}{}{last Mutant Hunter fall. If that happens, let this}
+{8015}{}{document be a moral support for those that would follow}
+{8016}{}{in our steps. Let them know there were people before}
+{8017}{}{them that were determined to fight against the mutants,}
+{8018}{}{so they may learn from the mistakes which may have led}
+{8019}{}{to our demise.}
+{8020}{}{**END-PAR**}
+{8021}{}{**END-PAR**}
+{8022}{}{                                               Sebastian}
+{8023}{}{**END-PAR**}
+{8024}{}{**END-PAR**}
+{8025}{}{**END-PAR**}
+{8026}{}{**END-PAR**}
+{8027}{}{**END-PAR**}
+{8028}{}{**END-PAR**}
+{8029}{}{**END-PAR**}
+{8030}{}{**END-PAR**}
+{8031}{}{**END-PAR**}
+{8032}{}{**END-PAR**}
+{8033}{}{**END-PAR**}
+{8034}{}{**END-PAR**}
+{8035}{}{I saw the mutants ravaging this already desolate land,}
+{8036}{}{I saw the super mutants killing, torturing and}
+{8037}{}{capturing people. I saw pure humans mating with}
+{8038}{}{mutants, I saw the hideous monsters that come from}
+{8039}{}{such unions, sometimes living no longer than a few}
+{8040}{}{hours. It made me sick. I saw that decline of humanity,}
+{8041}{}{I saw it rushing to its destruction, and decided to do}
+{8042}{}{something about it.}
+{8043}{}{There were always enough groups of pure humans strong}
+{8044}{}{enough to survive, but their lives were without}
+{8045}{}{meaning, without purpose. They were merely surviving,}
+{8046}{}{and their existence meant nothing on its own. But when}
+{8047}{}{I showed them what I'd seen, they understood me, and}
+{8048}{}{saw the danger threatening all pure humans on their}
+{8049}{}{own. They joined me, and I united them with a promise}
+{8050}{}{that we'll rid the world of mutants - a promise that I}
+{8051}{}{hope we'll one day fulfill.}
+{8052}{}{**END-PAR**}
+{8053}{}{We helped villages and towns, ridding them of the foul}
+{8054}{}{mutants, despite the nonsensical resistance of the}
+{8055}{}{local people. But above all, we grew stronger. Not only}
+{8056}{}{were we joined by more and more pure humans willing to}
+{8057}{}{fight, we also searched for forgotten pre-war weapons}
+{8058}{}{and armor that would helps us in our fight. This was}
+{8059}{}{necessary because units created by the mad Master with}
+{8060}{}{the help of the betrayers of the human race, the}
+{8061}{}{Children of the Cathedral, were already spreading}
+{8062}{}{across the wasteland. We fought the super mutants many}
+{8063}{}{times. We killed many of them, but many brave Hunters}
+{8064}{}{died as well.}
+{8065}{}{**END-PAR**}
+{8066}{}{Thanks to our efforts, the super mutants stopped}
+{8067}{}{appearing in our territory and remained far in the}
+{8068}{}{west. But then a new menace appeared - the Rebirth.}
+{8069}{}{The Rebirth is some new religion that spread amongst}
+{8070}{}{the ghouls, and they, armed with the best weapons}
+{8071}{}{people had created before the war, started to pillage}
+{8072}{}{towns and villages. We don't know where they got such}
+{8073}{}{equipment, or anything about their foolish faith. The}
+{8074}{}{ghouls talk only of someone called Savior, no doubt}
+{8075}{}{another disgusting mutant. Not only do they kill in his}
+{8076}{}{name, they also capture pure humans and take them}
+{8077}{}{away, but we don't know where or why.}
+{8078}{}{So we continued to look for pre-war technology, as well}
+{8079}{}{as new allies. We found both in the only city that}
+{8080}{}{resisted the Rebirth in the area. Or at least we}
+{8081}{}{thought so. We came to Albuquerque, the city that had}
+{8082}{}{already endured a large ghoul attack, and offer our}
+{8083}{}{help and an alliance. But we were refused, offered only}
+{8084}{}{a twisted agreement concluded in 2157. In return for}
+{8085}{}{defending Albuquerque against the invaders, we were}
+{8086}{}{allowed to eradicate the threat within the city! They}
+{8087}{}{"graciously" gave us the permission to purge the city}
+{8088}{}{of mutants, when it should've been their natural duty}
+{8089}{}{as pure humans! And all we received was the minimum}
+{8090}{}{material required for the construction of our base.}
+{8091}{}{People of the empire, blinded by their easy lives,}
+{8092}{}{didn't realize what threat the Rebirth really was. And}
+{8093}{}{not only the Rebirth, but all mutants.}
+{8094}{}{**END-PAR**}
+{8095}{}{In 2160, many dwellers paid for their foolishness with}
+{8096}{}{their lives. The ghouls mustered enough strength for a}
+{8097}{}{second large attack on the city. Without tactics or}
+{8098}{}{reason, they ferociously threw themselves at}
+{8099}{}{Albuquerque. Their better weapons and especially their}
+{8100}{}{numerical superiority allowed them to penetrate deep}
+{8101}{}{into the city. While confusion spread amongst the}
+{8102}{}{imperial soldiers, we Mutant Hunters eventually forced}
+{8103}{}{the ghouls to retreat. But not even after our triumph}
+{8104}{}{did the emperor offer us the technology and equipment}
+{8105}{}{that they have amply available. The only thing he}
+{8106}{}{agreed with was the construction of a wall around the}
+{8107}{}{entire city. There was plenty of material available.}
+{8108}{}{Not only from around the city, but especially from the}
+{8109}{}{ruins that remained after the ghoul invasion. That}
+{8110}{}{destroyed part of the city has been called the Dead}
+{8111}{}{Quarter ever since.}
+{8112}{}{**END-PAR**}
+{8113}{}{Our relentless search across the wasteland finally bore}
+{8114}{}{fruit in 2161. We discovered an old army warehouse, and}
+{8115}{}{turned it into our second base. Thanks to its excellent}
+{8116}{}{location, it remains hidden from the Rebirth patrols}
+{8117}{}{that frequently appear in the area. Thus, we don't have}
+{8118}{}{to take the captured ghouls far, and especially not}
+{8119}{}{into a city that we strive to keep clean from mutants.}
+{8120}{}{That's why the base, headed by commander Tunrida, is}
+{8121}{}{mostly use for interrogations and conducting tests on}
+{8122}{}{the mutants.}
+{8123}{}{**END-PAR**}
+{8124}{}{In 2166, we finally took at least a part of what}
+{8125}{}{rightfully belongs to us. We defend Albuquerque from}
+{8126}{}{mutants both inside and outside, and the empire still}
+{8127}{}{refuses to help us. We defend their lives, as well as}
+{8128}{}{the lives of all pure humans, and they refuse to give}
+{8129}{}{us the technology that would be of incredible help not}
+{8130}{}{only in our fight against the Rebirth, but all the}
+{8131}{}{mutants! That's why we took the third floor of their}
+{8132}{}{Vault by force. We used killers genetically engineered}
+{8133}{}{by pre-war scientists to capture the floor without the}
+{8134}{}{empire suspecting a thing. The emperor responded to the}
+{8135}{}{loss of the two floors of their Vault by shutting the}
+{8136}{}{Imperial City off from the rest of Albuquerque, proving}
+{8137}{}{that there was no one capable of sensible leadership}
+{8138}{}{among the descendants of the Vault 16 dwellers.}
+{8139}{}{**END-PAR**}
+{8140}{}{Update December 9, 2169:}
+{8141}{}{**END-PAR**}
+{8142}{}{A few days earlier, we received a message from Tunrida}
+{8143}{}{saying that they've finally managed to break one of the}
+{8144}{}{Rebirth ghouls during interrogation, and gain new}
+{8145}{}{information. She was apparently close to discovering}
+{8146}{}{the location of their base. However, the base has not}
+{8147}{}{responded to any of our calls since then. Until a group}
+{8148}{}{of our scouts discovered that it was occupied by super}
+{8149}{}{mutants. The foul beasts killed every Hunter stationed}
+{8150}{}{in the base, and it can be assumed that they destroyed}
+{8151}{}{everything there.}
+{8152}{}{**END-DISK**}
+
+{9000}{}{We fight not for glory, but for the salvation of}
+{9001}{}{mankind. However, the names and deeds of the great}
+{9002}{}{warriors who lost their lives fighting the mutants}
+{9003}{}{should not be forgotten.}
+{9004}{}{**END-PAR**}
+{9005}{}{Cole Gassko}
+{9006}{}{Mercilessly kept purging Albuquerque of mutants hiding}
+{9007}{}{in the city. He was killed by one of those he so}
+{9008}{}{dutifully protected - a city dweller.}
+{9009}{}{**END-PAR**}
+{9010}{}{Leena}
+{9011}{}{Her unit was ambushed by a group of Rebirth ghouls. She}
+{9012}{}{was the only one to survive, and she chased the ghouls,}
+{9013}{}{even through irradiated areas, until she killed them}
+{9014}{}{all. She died a few days later due to radiation}
+{9015}{}{poisoning.}
+{9016}{}{**END-PAR**}
+{9017}{}{Bastel "the Merciless"}
+{9018}{}{Led the Hunters during the cleansing of many towns and}
+{9019}{}{villages from mutants. He fell during the second large}
+{9020}{}{attack on Albuquerque.}
+{9021}{}{**END-PAR**}
+{9022}{}{Andrew Ryamon}
+{9023}{}{Together with the Hunters under his command, he killed}
+{9024}{}{many of the Master's super mutants, until they were}
+{9025}{}{treacherously ambushed by a large group of them. He was}
+{9026}{}{killed along with the majority of his troops.}
+{9027}{}{**END-PAR**}
+{9028}{}{"Mad" Sam}
+{9029}{}{A great fighter and slayer of mutants. Killed along}
+{9030}{}{with other Hunters by the first alien queen after she}
+{9031}{}{awakened.}
+{9032}{}{**END-PAR**}
+{9033}{}{**END-PAR**}
+{9034}{}{**END-PAR**}
+{9035}{}{Soram}
+{9036}{}{Killed many mutants, defended Albuquerque during the}
+{9037}{}{second large attack and took part in the construction}
+{9038}{}{of the city wall. When he found out that his body was}
+{9039}{}{showing the signs of mutation, he correctly chose to}
+{9040}{}{shoot}
+{9041}{}{himself.}
+{9042}{}{**END-PAR**}
+{9043}{}{Anna Taylor}
+{9044}{}{Lured a patrol of the Master's super mutants to}
+{9045}{}{herself, and killed them all by detonating a powerful}
+{9046}{}{explosive charge strapped to her body.}
+{9047}{}{**END-PAR**}
+{9048}{}{Vukovich}
+{9049}{}{Valiantly fought against the Rebirth ghouls during the}
+{9050}{}{second large attack on Albuquerque. Died after}
+{9051}{}{sustaining extensive injuries.}
+{9052}{}{**END-DISK**}
+
+{10000}{}{The subject is a non-humanoid creature moving on two}
+{10001}{}{rear limbs. The front appendages are very flexible and}
+{10002}{}{transformed into a kind of tentacles. On the apical end}
+{10003}{}{of the oval, cylindrical body is a large mouth with a}
+{10004}{}{row of large teeth. Cloaca is placed distally. The tail}
+{10005}{}{is missing. The head part of the body has two round}
+{10006}{}{protrusions covered by skin - likely its photosensoric}
+{10007}{}{organs. There are no signs of other sensory organs.}
+{10008}{}{**END-PAR**}
+{10009}{}{The epidermis is gray, very tough, and composed of}
+{10010}{}{three layers. In addition to the sweat glands, it}
+{10011}{}{contains a number of special glands, whose function is}
+{10012}{}{unknown. Subcutaneous tissue is not particularly rich}
+{10013}{}{in fat.}
+{10014}{}{**END-PAR**}
+{10015}{}{Musculature is of is a very unusual character. The}
+{10016}{}{nearest equivalent would probably be found in human}
+{10017}{}{cardiac muscle. This type of muscular tissue is very}
+{10018}{}{dependent on flawless supply of blood, on the other}
+{10019}{}{hand, it allows tasks that require great strength for}
+{10020}{}{extended periods of time. The aliens would make for}
+{10021}{}{great marathon runners, but the structure of their}
+{10022}{}{limbs does not match that.}
+{10023}{}{**END-PAR**}
+{10024}{}{The respiratory system is similar to that of birds, in}
+{10025}{}{addition to two lung lobes, it also contains rear lung}
+{10026}{}{bags, however, they are stunted and likely are not used}
+{10027}{}{in an environment rich in oxygen. The lung area}
+{10028}{}{bloodstream leads into a system of endocrine glands}
+{10029}{}{secreting unusual chemicals. It seems that these}
+{10030}{}{complex organic substances are capable of neutralizing}
+{10031}{}{several kinds of toxins that may be present in the air,}
+{10032}{}{primarily chlorine-based compounds.}
+{10033}{}{**END-PAR**}
+{10034}{}{The digestive system consists of two stomachs, a}
+{10035}{}{muscular and a glandular one, which are connected to an}
+{10036}{}{extensive lobed duodenum, which reaches highly unusual}
+{10037}{}{dimensions - about 120% of the stomach. Judging by}
+{10038}{}{remnants of undigested food found in the lobes, this}
+{10039}{}{organ is used to store food for times when there is}
+{10040}{}{nothing to hunt, similarly to Arachnidae.}
+{10041}{}{**END-PAR**}
+{10042}{}{The nervous system is tubular, the same as in}
+{10043}{}{vertebrates. The brain is made up of two half-globes}
+{10044}{}{that are relatively large (weight 900 g), but have only}
+{10045}{}{very few creases. Telencephalon is stunted, however,}
+{10046}{}{with the exception of one frontal lobe, which is}
+{10047}{}{unusually large. The function of this section is not}
+{10048}{}{entirely clear yet, however, we found a very strong}
+{10049}{}{link with the subcortical centers that are used for}
+{10050}{}{detection of shapes in humans, and with the center}
+{10051}{}{responsible for fighting and hunting.}
+{10052}{}{**END-PAR**}
+{10053}{}{The cellular structure is ordinary, with slightly}
+{10054}{}{increased amount of mitochondria. The only unusual}
+{10055}{}{thing is the diffused core with minimal amount of}
+{10056}{}{sensitive matter, which makes it very resistant to hard}
+{10057}{}{radiation. The core also contains an unusually low}
+{10058}{}{amount of chromatin, far less than even the lowest of}
+{10059}{}{the animals. This has to do with the shocking}
+{10060}{}{discoveries in the field of genetics.}
+{10061}{}{**END-PAR**}
+{10062}{}{Microbiochemical analysis:}
+{10063}{}{**END-PAR**}
+{10064}{}{From the viewpoint of genetics, the alien completely}
+{10065}{}{surpasses everything we know. Its hereditary}
+{10066}{}{information is stored in what might be called the penta}
+{10067}{}{alpha helix - a helix made of five primary strips of}
+{10068}{}{its own ribonucleic acid. This DNA is supplemented by a}
+{10069}{}{quantity of completely unknown proteins. The histones}
+{10070}{}{keeping the whole structure together are extremely}
+{10071}{}{complex and yet stable. The molecular structure is}
+{10072}{}{simply amazing. The diffused cores contain five pairs}
+{10073}{}{of chromosomes, which are relatively short and make the}
+{10074}{}{same sense when read from either side. This creates a}
+{10075}{}{sort of secondary failsafe, so the chances of fatal}
+{10076}{}{damage to the code is eight times less than in normal}
+{10077}{}{organisms. We haven't found any parasitic DNA during}
+{10078}{}{sequencing, unless we count long stretches coding the}
+{10079}{}{transcription of various enzymes, however, the alien}
+{10080}{}{does not use these under normal conditions. We assume}
+{10081}{}{that these 乬recipes乭 allow aliens to adapt to a}
+{10082}{}{variety of external conditions extremely quickly. After}
+{10083}{}{being brought into a foreign environment, these}
+{10084}{}{creatures can fully adapt within a single generation.}
+{10085}{}{**END-PAR**}
+{10086}{}{All of this confirms my original assumption that aliens}
+{10087}{}{are not a natural species modified by breeding and}
+{10088}{}{selection, and certainly are not mutants that occurred}
+{10089}{}{naturally. This is a creature created completely from}
+{10090}{}{scratch. An artificial organism. An organic machine.}
+{10091}{}{For what purpose was it created?}
+{10092}{}{The answer to the question can be found by observing}
+{10093}{}{the captured aliens. They are willing and able to}
+{10094}{}{attack anything that disrupts their territory. During}
+{10095}{}{experiments with a deathclaw in the open terrarium, the}
+{10096}{}{deathclaw was victorious, but when he proceeded further}
+{10097}{}{into the alien lair, it was torn to pieces. The aliens}
+{10098}{}{are able to perfectly coordinate their moves, even}
+{10099}{}{though we did not detect any usual forms of}
+{10100}{}{communication among them. Although they can perfectly}
+{10101}{}{orientate themselves in both light and dark, they seem}
+{10102}{}{to prefer darkness, apparently to help cool their}
+{10103}{}{oversized organism. However, they don't seem to mind}
+{10104}{}{heat at all! The overall structure of their bodies}
+{10105}{}{makes them almost perfect killers. What is missing to}
+{10106}{}{complete perfection is caused by the concessions needed}
+{10107}{}{to ensure reproduction. The aliens are gonochoric. The}
+{10108}{}{mother, also called the Queen, is larger than the}
+{10109}{}{males. The Queen, after mating with one of the males,}
+{10110}{}{lays a large number of eggs. The Queen can keep viable}
+{10111}{}{sperm in special pockets and maintain them for a very}
+{10112}{}{long period of time, this way she can lay fertilized}
+{10113}{}{eggs long after seeing the last male. The sex of the}
+{10114}{}{offspring isn't genetically determined, but further}
+{10115}{}{details are not yet known.}
+{10116}{}{**END-PAR**}
+{10117}{}{It is likely that the aliens were created before the}
+{10118}{}{War as killing machines for the army. They've more than}
+{10119}{}{proven themselves in that role, even in these times,}
+{10120}{}{however, we do not currently recommend their use. The}
+{10121}{}{pre-war scientists managed to build into them only one}
+{10122}{}{control mechanism, a so called "genetic clock". As we}
+{10123}{}{have already stated, the alien's genome is grouped in}
+{10124}{}{ten chromosomes. That is not entirely accurate, as}
+{10125}{}{there is one extra (non-paired!) short chromosome. Due}
+{10126}{}{to the influence of hormones contained in the male}
+{10127}{}{sexual secretions, there is an expression of genes on}
+{10128}{}{this otherwise non-functioning chromosome after mating.}
+{10129}{}{Though this only happens in the primordial gonocytes of}
+{10130}{}{the embryonic tissue, it happens in all of them at}
+{10131}{}{once! These chemical reactions are not yet fully}
+{10132}{}{clarified. The microchromosome is composed of three}
+{10133}{}{parts: The first (in front of the centriola) creates}
+{10134}{}{depended RNA polymerase, which than cuts off a small}
+{10135}{}{(but always the same sized) part of the chromatin on}
+{10136}{}{the opposite end of the microchromosome. The third part}
+{10137}{}{of the microchromosome is firmly connected to the}
+{10138}{}{second part, but unlike it, it is nonsensical. The}
+{10139}{}{order of the bases has no purpose and renders the code}
+{10140}{}{in the second, middle section of microchromosome}
+{10141}{}{inactive. However, during each division, a part of this}
+{10142}{}{meaningless section is cut off until there is none}
+{10143}{}{left, causing the second part to become active and}
+{10144}{}{immediately begin its expression. Its result is}
+{10145}{}{cellular death. This means that after a set (hard-wired}
+{10146}{}{in advance!) number of divisions (followed by the}
+{10147}{}{creation of eggs), all the cells of the embryonal line}
+{10148}{}{commit mass suicide and the queen becomes sterile. The}
+{10149}{}{old world scientists probably did this because they}
+{10150}{}{thought it would ensure that the aliens wouldn't breed}
+{10151}{}{uncontrollably in case of an escape. I consider this}
+{10152}{}{failsafe to be extremely effective, though theories}
+{10153}{}{have appeared that tried to prove it's potential}
+{10154}{}{inefficacy under extreme conditions, but the hypotheses}
+{10155}{}{were found to be improbable.}
+{10156}{}{There are no other apparent means of controlling the}
+{10157}{}{aliens. Training them is impossible at the current}
+{10158}{}{state of our knowledge. They're like an unguided}
+{10159}{}{nuclear missile, you release them and who knows where}
+{10160}{}{they'll fall. However, there were indications that}
+{10161}{}{pointed to the possibility of changing that fact. It}
+{10162}{}{seems very likely that in the future, after more}
+{10163}{}{advanced research is done, we will be able to}
+{10164}{}{understand the structure of the alien brains and use}
+{10165}{}{this knowledge to control them. Though it will require}
+{10166}{}{long and arduous effort from the entire science team,}
+{10167}{}{we belief that it will be a success.}
+{10168}{}{**END-PAR**}
+{10169}{}{Signed: Science team 1}
+{10170}{}{**END-PAR**}
+{10171}{}{**END-PAR**}
+{10172}{}{**END-PAR**}
+{10173}{}{**END-PAR**}
+{10174}{}{**END-PAR**}
+{10175}{}{Reconnaissance team report (selected passages):}
+{10176}{}{**END-PAR**}
+{10177}{}{The second reconnaissance team discovered a large}
+{10178}{}{complex of cryochambers on the third underground floor.}
+{10179}{}{Five of them were active, but three seemed to have met}
+{10180}{}{a fatal accident in the past - there was only some}
+{10181}{}{sticky biological crap inside. The other two chambers}
+{10182}{}{contained unknown organisms. Some idiot from the team}
+{10183}{}{triggered the unfreezing program on one of them,}
+{10184}{}{reviving the organism inside. According to the first}
+{10185}{}{reports, it just waddled around in confusion and tried}
+{10186}{}{to orientate itself, but a moment after we heard only}
+{10187}{}{screams and gunfire.}
+{10188}{}{The foreign organism clearly proved its vitality. It}
+{10189}{}{massacred the entire first team, as well as the second}
+{10190}{}{one I dispatched. When I arrived with more people, all}
+{10191}{}{eight Hunters were dead, mostly torn into pieces. We}
+{10192}{}{lost the creature, it likely escaped into the wasteland}
+{10193}{}{using the ventilation system.}
+{10194}{}{**END-PAR**}
+{10195}{}{I've called all squads to the unfreezing of the second}
+{10196}{}{organism and oversaw the process personally. As with}
+{10197}{}{the previous case, it was a queen of the species that}
+{10198}{}{someone idiotically named aliens. As the queen started}
+{10199}{}{to regain her life functions, we pumped a large amount}
+{10200}{}{of tranquilizers into her, so she didn't fully react,}
+{10201}{}{however, she still managed to kill one man that wasn't}
+{10202}{}{careful enough. We securely tied her with several}
+{10203}{}{chains and placed her into a transport container, in}
+{10204}{}{which we managed to get her into our base without a}
+{10205}{}{fuss.}
+{10206}{}{**END-PAR**}
+{10207}{}{There wasn't anything else of use in the military base}
+{10208}{}{we discovered, except various large scientific devices,}
+{10209}{}{most of them non-functional. However, since the base is}
+{10210}{}{too far, it wouldn't be worth it to disassemble them}
+{10211}{}{and transport them to Albuquerque. That's why I had}
+{10212}{}{the base destroyed using the local stock of industrial}
+{10213}{}{explosives. The underground floors were systematically}
+{10214}{}{buried and the surface floors were blown up.}
+{10215}{}{**END-PAR**}
+{10216}{}{Signed: Commander Tunrida}
+{10217}{}{**END-DISK**}
+
+{11000}{}{Report from the forward base 4Q 2169}
+{11001}{}{Tunrida, commander of the forward base}
+{11002}{}{**END-PAR**}
+{11003}{}{10/31/2169}
+{11004}{}{Mild Rebirth activity in our area, which began in}
+{11005}{}{February of this year, still persists. Once again we}
+{11006}{}{came across several units heading towards the north}
+{11007}{}{and northwest. The ghouls are after something, but}
+{11008}{}{whatever it is, it's not in this area.}
+{11009}{}{**END-PAR**}
+{11010}{}{11/9/2169}
+{11011}{}{We have completed the last batch of doctor Yaotzin's}
+{11012}{}{tests on our test subjects. I will attach a second}
+{11013}{}{holodisk with the results. We do not have anymore test}
+{11014}{}{subjects right now. Although I have to thank Yaotzin}
+{11015}{}{for the excellent show I got from the reactions the}
+{11016}{}{mutants had to his substance, it is not suited to}
+{11017}{}{practical application because it took them too long to}
+{11018}{}{die.}
+{11019}{}{**END-PAR**}
+{11020}{}{11/27/2169}
+{11021}{}{The scouts have caught a lone Rebirth ghoul in the}
+{11022}{}{wastes. Due to previous failures in gathering}
+{11023}{}{information, I'm going to take care of his tomorrow}
+{11024}{}{interrogation personally.}
+{11025}{}{**END-PAR**}
+{11026}{}{11/28/2169}
+{11027}{}{After four hours and 22 minutes of interrogation, the}
+{11028}{}{ghoul finally started talking. He gave us a lot of}
+{11029}{}{important and serious information. The Rebirth has a}
+{11030}{}{base in a Vault-Tec research complex, which contains a}
+{11031}{}{machine capable of regenerating tissue, and which is}
+{11032}{}{thus able to transform even a ghoul into a pure human.}
+{11033}{}{However, this procedure requires donors from among the}
+{11034}{}{genetically pure humans. This is the reason for the}
+{11035}{}{Rebirth raids on human towns and villages. It sounds}
+{11036}{}{ridiculous, but it is the truth. I made sure that the}
+{11037}{}{ghoul would not be able to lie to us.}
+{11038}{}{Of course, mutants cannot really become truly pure}
+{11039}{}{humans, not even such advanced pre-war technology can}
+{11040}{}{do the impossible. The transformation is only}
+{11041}{}{temporary, after some time (depending on the genetic}
+{11042}{}{purity of the donors), the organism collapses and the}
+{11043}{}{body literally falls apart. But the Rebirth is led by a}
+{11044}{}{madman called the Savior. He let himself be transformed}
+{11045}{}{as the first and is keeping a large part of the Rebirth}
+{11046}{}{in the belief that the machine works as imagined, and a}
+{11047}{}{smaller, more informed part, in the belief that the}
+{11048}{}{machine is malfunctioning and they must find out how to}
+{11049}{}{repair it. And for that, all the ghouls are willing to}
+{11050}{}{fight for him. The interrogated ghoul was not able to}
+{11051}{}{tell us the numbers of the Rebirth ghouls, but he}
+{11052}{}{confirmed that they keep increasing, as evidenced by}
+{11053}{}{our observations.}
+{11054}{}{For now they only transform one mutant a year, thus,}
+{11055}{}{pure humans die mainly as a result of heinous}
+{11056}{}{experiments meant to help fix the machine. The last}
+{11057}{}{transformed mutant, the Thirteenth Reborn, as they}
+{11058}{}{themselves call him, discovered part of the truth and}
+{11059}{}{managed to escape. That's the reason for the increased}
+{11060}{}{activity of the Rebirth in the north, as they are}
+{11061}{}{looking for him. His capture would certainly be useful}
+{11062}{}{to us. However, he looks like a normal, pure human. He}
+{11063}{}{is only recognizable by his vault jumpsuit with the}
+{11064}{}{number 13 on it, signifying the order of his}
+{11065}{}{transformation, unless he got rid of it. It is also}
+{11066}{}{possible that he already died as a consequence of the}
+{11067}{}{transformation.}
+{11068}{}{However, it is more important to attack the base of the}
+{11069}{}{Rebirth as soon as possible to stop their atrocities.}
+{11070}{}{I've managed to gain not only its location, but also}
+{11071}{}{information concerning how to get inside without a}
+{11072}{}{fight. The security measures are weak, the mutants}
+{11073}{}{could not handle anything difficult. It is enough to}
+{11074}{}{mask one's appearance, for example by wearing a robe or}
+{11075}{}{a suit of power armor, and use the password "New Life"}
+{11076}{}{and show their talisman to identify oneself.}
+{11077}{}{**END-PAR**}
+{11078}{}{Coordinates for the Rebirth base:}
+{11079}{}{[Location recorded into map]}
+{11080}{}{**END-PAR**}
+{11081}{}{Given the importance of these findings, I'm sending a}
+{11082}{}{group with my report to Albuquerque tomorrow instead}
+{11083}{}{of the usual date. The main base was informed of our}
+{11084}{}{success during the interrogation by radio.}
+{11085}{}{**END-PAR**}
+{11086}{}{11/29/2169}
+{11087}{}{Sending the report will have to wait. Our scouts have}
+{11088}{}{discovered a group of supermutants heading to our}
+{11089}{}{position. We will need every last man, and I also don't}
+{11090}{}{want the report to fall into their hands by accident.}
+{11091}{}{As soon as we take care of the supermutants, I will}
+{11092}{}{head to Albuquerque with the report personally.}
+{11093}{}{**END-PAR**}
+{11094}{}{12/1/2169}
+{11095}{}{One of my men, Colin, tried to run away to avoid the}
+{11096}{}{battle. I shot him.}
+{11097}{}{The supermutants will attack soon. They're not}
+{11098}{}{intelligent enough for any tactics besides simply}
+{11099}{}{throwing themselves at us, we will handle them easily.}
+{11100}{}{**END-DISK**}
+
+{12000}{}{Report from the forward base 4Q 2169}
+{12001}{}{Tunrida, commander of the forward base}
+{12002}{}{**END-PAR**}
+{12003}{}{10/31/2169}
+{12004}{}{Mild Rebirth activity in our area, which began in}
+{12005}{}{February of this year, still persists. Once again we}
+{12006}{}{came across several units heading towards the north}
+{12007}{}{and northwest. The ghouls are after something, but}
+{12008}{}{whatever it is, it's not in this area.}
+{12009}{}{**END-PAR**}
+{12010}{}{11/9/2169}
+{12011}{}{We have completed the last batch of doctor Yaotzin's}
+{12012}{}{tests on our test subjects. I will attach a second}
+{12013}{}{holodisk with the results. We do not have anymore test}
+{12014}{}{subjects right now. Although I have to thank Yaotzin}
+{12015}{}{for the excellent show I got from the reactions the}
+{12016}{}{mutants had to his substance, it is not suited to}
+{12017}{}{practical application because it took them too long to}
+{12018}{}{die.}
+{12019}{}{**END-PAR**}
+{12020}{}{11/27/2169}
+{12021}{}{The scouts have caught a lone Rebirth ghoul in the}
+{12022}{}{wastes. Due to previous failures in gathering}
+{12023}{}{information, I'm going to take care of his tomorrow}
+{12024}{}{interrogation personally.}
+{12025}{}{**END-PAR**}
+{12026}{}{11/28/2169}
+{12027}{}{After four hours and 22 minutes of interrogation, the}
+{12028}{}{ghoul finally started talking. He gave us a lot of}
+{12029}{}{important and serious information. The Rebirth has a}
+{12030}{}{base in a Vault-Tec research complex, which contains a}
+{12031}{}{machine capable of regenerating tissue, and which is}
+{12032}{}{thus able to transform even a ghoul into a pure human.}
+{12033}{}{However, this procedure requires donors from among the}
+{12034}{}{genetically pure humans. This is the reason for the}
+{12035}{}{Rebirth raids on human towns and villages. It sounds}
+{12036}{}{ridiculous, but it is the truth. I made sure that the}
+{12037}{}{ghoul would not be able to lie to us.}
+{12038}{}{Of course, mutants cannot really become truly pure}
+{12039}{}{humans, not even such advanced pre-war technology can}
+{12040}{}{do the impossible. The transformation is only}
+{12041}{}{temporary, after some time (depending on the genetic}
+{12042}{}{purity of the donors), the organism collapses and the}
+{12043}{}{body literally falls apart. But the Rebirth is led by a}
+{12044}{}{madman called the Savior. He let himself be transformed}
+{12045}{}{as the first and is keeping a large part of the Rebirth}
+{12046}{}{in the belief that the machine works as imagined, and a}
+{12047}{}{smaller, more informed part, in the belief that the}
+{12048}{}{machine is malfunctioning and they must find out how to}
+{12049}{}{repair it. And for that, all the ghouls are willing to}
+{12050}{}{fight for him. The interrogated ghoul was not able to}
+{12051}{}{tell us the numbers of the Rebirth ghouls, but he}
+{12052}{}{confirmed that they keep increasing, as evidenced by}
+{12053}{}{our observations.}
+{12054}{}{For now they only transform one mutant a year, thus,}
+{12055}{}{pure humans die mainly as a result of heinous}
+{12056}{}{experiments meant to help fix the machine. The last}
+{12057}{}{transformed mutant, the Thirteenth Reborn, as they}
+{12058}{}{themselves call her, discovered part of the truth and}
+{12059}{}{managed to escape. That's the reason for the increased}
+{12060}{}{activity of the Rebirth in the north, as they are}
+{12061}{}{looking for her. Her capture would certainly be useful}
+{12062}{}{to us. However, she looks like a normal, pure human.}
+{12063}{}{She is only recognizable by her vault jumpsuit with the}
+{12064}{}{number 13 on it, signifying the order of her}
+{12065}{}{transformation, unless she got rid of it. It is also}
+{12066}{}{possible that she already died as a consequence of the}
+{12067}{}{transformation.}
+{12068}{}{However, it is more important to attack the base of the}
+{12069}{}{Rebirth as soon as possible to stop their atrocities.}
+{12070}{}{I've managed to gain not only its location, but also}
+{12071}{}{information concerning how to get inside without a}
+{12072}{}{fight. The security measures are weak, the mutants}
+{12073}{}{could not handle anything difficult. It is enough to}
+{12074}{}{mask one's appearance, for example by wearing a robe or}
+{12075}{}{a suit of power armor, and use the password "New Life"}
+{12076}{}{and show their talisman to identify oneself.}
+{12077}{}{**END-PAR**}
+{12078}{}{Coordinates for the Rebirth base:}
+{12079}{}{[Location recorded into map]}
+{12080}{}{**END-PAR**}
+{12081}{}{Given the importance of these findings, I'm sending a}
+{12082}{}{group with my report to Albuquerque tomorrow instead}
+{12083}{}{of the usual date. The main base was informed of our}
+{12084}{}{success during the interrogation by radio.}
+{12085}{}{**END-PAR**}
+{12086}{}{11/29/2169}
+{12087}{}{Sending the report will have to wait. Our scouts have}
+{12088}{}{discovered a group of supermutants heading to our}
+{12089}{}{position. We will need every last man, and I also don't}
+{12090}{}{want the report to fall into their hands by accident.}
+{12091}{}{As soon as we take care of the supermutants, I will}
+{12092}{}{head to Albuquerque with the report personally.}
+{12093}{}{**END-PAR**}
+{12094}{}{12/1/2169}
+{12095}{}{One of my men, Colin, tried to run away to avoid the}
+{12096}{}{battle. I shot him.}
+{12097}{}{The supermutants will attack soon. They're not}
+{12098}{}{intelligent enough for any tactics besides simply}
+{12099}{}{throwing themselves at us, we will handle them easily.}
+{12100}{}{**END-DISK**}
+
+{13000}{}{Since the first attacks of the Rebirth, our forces have}
+{13001}{}{faced a hostile army equipped with highly resistant}
+{13002}{}{armor, including powered infantry armor (model T-51b).}
+{13003}{}{This raises the need to increase the effectiveness of}
+{13004}{}{our weapons against these advanced protective}
+{13005}{}{measures. One of the possible directions is the}
+{13006}{}{development of pulse weapons, thus, we began to}
+{13007}{}{examine the issue of development and production of}
+{13008}{}{these high-energy systems. Analysis of the YK32 pistol,}
+{13009}{}{of which we've had several pieces in our armory since}
+{13010}{}{the war, has served as the basis for this research.}
+{13011}{}{**END-PAR**}
+{13012}{}{The pulse weapon from the Yuma Flats Energy Consortium}
+{13013}{}{is characterized by solid construction and high}
+{13014}{}{performance. It is quite notable for its unique}
+{13015}{}{cigar-like shape and three distinct cooling ribs. The}
+{13016}{}{gun fits very well into the hand, as the pistol grip,}
+{13017}{}{where the batteries are hidden, is considerably heavier}
+{13018}{}{than the rest of the weapon, which basically only}
+{13019}{}{consists of light electronics hidden in chassis made of}
+{13020}{}{non-magnetic metals. The electronics in this pistol are}
+{13021}{}{made with amazing precision. Secondary and tertiary}
+{13022}{}{converters are characterized by an unusually high}
+{13023}{}{efficiency, and the primary energy circuits of the}
+{13024}{}{weapons are also designed in original, efficient style}
+{13025}{}{- after all, this gun has only three cooling ribs. The}
+{13026}{}{residual heat generated by a system of particle}
+{13027}{}{accelerators is very small and the weapon does not}
+{13028}{}{appear to have the tendency to overheat even after}
+{13029}{}{many consecutive shots. However, the downside of this}
+{13030}{}{performance is lower accuracy. The gun has only one}
+{13031}{}{radiation rectifier battery. It was simply not possible}
+{13032}{}{to fit more of them into the weapon. When firing from a}
+{13033}{}{greater distance, the pistol thus suffers from a}
+{13034}{}{considerable dispersion. Along the same line, it also}
+{13035}{}{suffers from a problem, or rather is the victim of the}
+{13036}{}{overall design, which is inadequate capacity,}
+{13037}{}{sufficient for just five shots.}
+{13038}{}{**END-PAR**}
+{13039}{}{Despite the novel solution of the model YK32 structure,}
+{13040}{}{it's obvious that it's not possible to concentrate all}
+{13041}{}{the necessary systems (i.e. pulse field generators,}
+{13042}{}{radiation rectifiers, cooling systems, feedback}
+{13043}{}{eliminators, power accumulators) into a small}
+{13044}{}{one-handed weapon that would be simple to operate but}
+{13045}{}{would be of sufficient combat value to us. Low range}
+{13046}{}{and small energy capacity seem to be the critical}
+{13047}{}{factors. The pulse weapon itself needs to be designed}
+{13048}{}{from the beginning as a large two-handed rifle of}
+{13049}{}{generous design, one that is able to contain everything}
+{13050}{}{that needs to be there. This will make it possible to}
+{13051}{}{significantly increase the efficiency of the weapon.}
+{13052}{}{**END-PAR**}
+{13053}{}{As for the structural elements, it is worth trying to}
+{13054}{}{emulate the design of the YK32 primary circuits. The}
+{13055}{}{particle generators can be taken over without problems,}
+{13056}{}{and thinking of something better may not even be}
+{13057}{}{possible. The original diagnostic and regulatory}
+{13058}{}{mechanisms are also suitable. However, the feedback}
+{13059}{}{elimination systems will be more complicated. Adapting}
+{13060}{}{the systems from the pistol to the higher power of the}
+{13061}{}{rifle may be problematic, on the other hand, the higher}
+{13062}{}{mass of the body of the weapon will be very helpful}
+{13063}{}{here. As for the accumulator, charging, and}
+{13064}{}{transformation systems, it will be best to adapt them}
+{13065}{}{from the creations of the Winchester company, as they}
+{13066}{}{are more massive and can handle higher energy values}
+{13067}{}{than the delicate Yuma Flats accumulators. We will have}
+{13068}{}{to develop the targeting electronics (which the YK32}
+{13069}{}{completely lacks) ourselves, or stick with the system}
+{13070}{}{developed near the end of the war by Wattz Electronics.}
+{13071}{}{The development of our own targeting system will of}
+{13072}{}{course take several months. On the other hand, the}
+{13073}{}{Watzz Electronics system may not be fully compatible}
+{13074}{}{with the rectifiers and the generators of the pulse}
+{13075}{}{field. It will be necessary to carry out a more}
+{13076}{}{thorough research in this regard.}
+{13077}{}{**END-PAR**}
+{13078}{}{The development of the pulse rifle will no doubt take a}
+{13079}{}{long time, and its manufacture will require a}
+{13080}{}{significant amount of resources. However, the empire}
+{13081}{}{already possesses the necessary materials. If we choose}
+{13082}{}{to go in the direction of pulse technology, the}
+{13083}{}{resulting weapon could be superior to all other}
+{13084}{}{personal weapons both from the purely technological}
+{13085}{}{side and for its tactical combat value.}
+{13086}{}{**END-PAR**}
+{13087}{}{**END-PAR**}
+{13088}{}{Attachments:}
+{13089}{}{**END-PAR**}
+{13090}{}{Complete design plans of the YK32 pulse pistol.}
+{13091}{}{**END-DISK**}
+
+{14000}{}{In the period after the opening of the vault and the}
+{14001}{}{subsequent resettlement of the surface, our military}
+{14002}{}{encountered numerous hostile groups. Our trained and}
+{14003}{}{disciplined soldiers handled every tribal and raider}
+{14004}{}{attack, as well as attacks by mutated animals. However,}
+{14005}{}{in order to ensure greater security and to unify the}
+{14006}{}{representative look of the imperial army, the}
+{14007}{}{development of a new, unified element of personal}
+{14008}{}{defense began.}
+{14009}{}{**END-PAR**}
+{14010}{}{The basic requirements that shaped our ideas were high}
+{14011}{}{resistance to explosions and fired projectiles, low}
+{14012}{}{production costs and the possibility of serial}
+{14013}{}{production in large quantities. The concept of a system}
+{14014}{}{of anatomically shaped metal plates worn over one's}
+{14015}{}{clothes appeared ideal for this. Such armor had to be}
+{14016}{}{designed to avoid impeding the movement of the wearer}
+{14017}{}{while still offering maximum protection.}
+{14018}{}{**END-PAR**}
+{14019}{}{For the creation of the corpus, a quarter inch of}
+{14020}{}{high-quality boiler steel was used, reinforced with an}
+{14021}{}{additional welded layer on the chest and back. Flexible}
+{14022}{}{components are made of fifty layers of kevlar fibers,}
+{14023}{}{and clamping elements are made up of strong brahmin}
+{14024}{}{leather. The inner lining of the the armor is made up}
+{14025}{}{of ten layers of nomex. The armor is welded, the moving}
+{14026}{}{metal components are connected with screws, and the}
+{14027}{}{fabric and leather are riveted to the metal.}
+{14028}{}{**END-PAR**}
+{14029}{}{Practical tests have shown that the armor provides}
+{14030}{}{complete protection for the chest, shoulders and back}
+{14031}{}{against both stabbing and cutting attacks. The new}
+{14032}{}{armor also seems highly effective against the commonly}
+{14033}{}{used soft-core ammunition. The kevlar parts are of}
+{14034}{}{course ineffective against piercing ammo shot from}
+{14035}{}{shorter range. The imperial soldiers are trained to}
+{14036}{}{fully understand this limitation. The option of}
+{14037}{}{multiplying the layer of fibers was rejected due to}
+{14038}{}{limited supplies of pre-war materials. In the case of}
+{14039}{}{deploying the armor against military weapons using}
+{14040}{}{armor-piercing ammunition, the survival of the wearer}
+{14041}{}{cannot be guaranteed. But weapons of this kind are}
+{14042}{}{quite rare in the wasteland.}
+{14043}{}{**END-PAR**}
+{14044}{}{Using nomex and kevlar fibers for the construction of}
+{14045}{}{the lining and stomach protection proved to be an}
+{14046}{}{excellent decision during the tests. Fabric made from}
+{14047}{}{the combination of these fibers gives the armor a}
+{14048}{}{phenomenal resistance to explosions incomparable to}
+{14049}{}{regular metal armor. Even in the case of exposure to}
+{14050}{}{the effects of relatively powerful explosives during}
+{14051}{}{testing, the volunteers only complained about losing}
+{14052}{}{their breath. Besides the resistance of the pre-war}
+{14053}{}{fabrics against explosions and shrapnel, we must also}
+{14054}{}{mention their excellent resistance against fire. The}
+{14055}{}{armor as a whole is capable of resisting exposure to}
+{14056}{}{temperatures of up to 600 degrees Fahrenheit.}
+{14057}{}{**END-PAR**}
+{14058}{}{The metal armor with nomex-kevlar fiber has proven}
+{14059}{}{itself to be a suitable armor for the imperial army. It}
+{14060}{}{has saved the lives of many heroic soldiers. Each man}
+{14061}{}{or woman in active service is assigned a suit of it.}
+{14062}{}{Due to the excellent results and so far sufficient}
+{14063}{}{stocks of material, it will stay in production for at}
+{14064}{}{least a few more years.}
+{14065}{}{**END-DISK**}
+
+{15000}{}{Vault-Tec Biological Research Complex - New Mexico}
+{15001}{}{**END-PAR**}
+{15002}{}{To satisfy the growing research potential of Vault-Tec,}
+{15003}{}{in 2047 we began the construction of a six floor}
+{15004}{}{complex in New Mexico, and its construction was}
+{15005}{}{finished four years later. All current research and}
+{15006}{}{development on biology and other related fields was}
+{15007}{}{moved here, but we also started new projects for which}
+{15008}{}{we did not have capacity before.}
+{15009}{}{The project with the highest priority was creating an}
+{15010}{}{effective treatment for radiation exposure and}
+{15011}{}{mutation, as another possible stage in rebuilding}
+{15012}{}{civilization after a possible nuclear war. Thus began}
+{15013}{}{the most demanding project in the history of the}
+{15014}{}{company, surpassing in complexity even the successful}
+{15015}{}{GECK project. There is no doubt that it will take many}
+{15016}{}{more years, and will require much effort before the}
+{15017}{}{project reaches the planned result.}
+{15018}{}{A department for manufacturing basic Vault equipment}
+{15019}{}{(such as jumpsuits and Pip-Boys) was also built in the}
+{15020}{}{complex, as its convenient geographical location}
+{15021}{}{permits the easily distribution of goods to vaults in}
+{15022}{}{the west and south of the USA.}
+{15023}{}{Three years of smooth operation have shown that the}
+{15024}{}{facility has enough free space and capacity. Part of}
+{15025}{}{the capacity was freed up by finishing some of the}
+{15026}{}{smaller projects. This made it possible to begin}
+{15027}{}{developing weapons in close cooperation with the United}
+{15028}{}{States' Army. Considering the nature of the local}
+{15029}{}{research, it mostly concerned biological and chemical}
+{15030}{}{weapons.}
+{15031}{}{**END-PAR**}
+{15032}{}{The complex is completely self-sufficient, just like a}
+{15033}{}{vault, and in the extreme case of a nuclear attack, it}
+{15034}{}{can be closed in the same way. The unique underground}
+{15035}{}{structure ensures it can withstand even a direct hit}
+{15036}{}{from a tactical nuclear missile. The main power source}
+{15037}{}{is a massive nuclear reactor near the bottom of the}
+{15038}{}{complex, on the sixth floor. This cutting-edge reactor}
+{15039}{}{guarantees smooth operation for several decades.}
+{15040}{}{Besides modern technologies and lab equipment, the}
+{15041}{}{employees can make use of a spacious cafeteria with a}
+{15042}{}{wide selection of food, as well as luxurious resting}
+{15043}{}{rooms. In the infirmary, the highly qualified staff}
+{15044}{}{have cutting-edge equipment at their disposal, allowing}
+{15045}{}{them to perform even the most demanding procedures.}
+{15046}{}{**END-PAR**}
+{15047}{}{The computers are connected to a local network, TecNet}
+{15048}{}{version 4.1, controlled by the main computer that is}
+{15049}{}{completely satisfactory even though it is not equipped}
+{15050}{}{with artificial intelligence, as Vault-Tec has no}
+{15051}{}{confidence in the reliability of AIs. The latest}
+{15052}{}{version of the software ensures quick and seamless}
+{15053}{}{communication. Advanced safety protocols prevent all}
+{15054}{}{sorts of attacks and allow the system to raise the}
+{15055}{}{alarm and immediately locate unauthorized actions made}
+{15056}{}{by users. All terminals are also equipped with a}
+{15057}{}{modern, in-built microwave connector, which allows them}
+{15058}{}{to wirelessly communicate with Pip-Boys, even with the}
+{15059}{}{oldest version - 2000.}
+{15060}{}{**END-PAR**}
+{15061}{}{Security is provided by Vault-Tec personnel, as well as}
+{15062}{}{US Army soldiers complemented by modern security}
+{15063}{}{robots equipped with deadly weapons. The robots are}
+{15064}{}{connected with the security components of TecNet,}
+{15065}{}{meaning authorized personnel are able to set detailed}
+{15066}{}{defensive parameters. The robots are also completely}
+{15067}{}{self-sufficient, and, on a fully charged battery, will}
+{15068}{}{continue to operate for up to 10 days.}
+{15069}{}{**END-PAR**}
+{15070}{}{Warning!}
+{15071}{}{10/23/2077 at 13:42, the main computer received a}
+{15072}{}{verified signal with the command to immediately close}
+{15073}{}{the complex as per security protocol 16. The main}
+{15074}{}{entrance was immediately sealed.}
+{15075}{}{At 13:43, nerve gas BX-8 was released.}
+{15076}{}{At 13:48, there were no signs of life detected.}
+{15077}{}{At 13:50 the last particles of the BX-8 gas dispersed.}
+{15078}{}{The sealing of the complex has been successful.}
+{15079}{}{**END-DISK**}
+
+{16000}{}{Full report:}
+{16001}{}{**END-PAR**}
+{16002}{}{The advanced healing medication designated super}
+{16003}{}{stimpak has proven to be invaluable in combat}
+{16004}{}{situations where powerful and rapid treatment is}
+{16005}{}{required. However, its negative side-effects,}
+{16006}{}{manifesting mere minutes after being administered, were}
+{16007}{}{responsible for permanent organ damage and, in some}
+{16008}{}{cases, even the death of many soldiers. For these}
+{16009}{}{reasons, we have received a contract from the United}
+{16010}{}{States Armed Forces for a medication with greater}
+{16011}{}{healing power which retains none of these inopportune}
+{16012}{}{characteristics. This new medication has been named}
+{16013}{}{ultra stimpak.}
+{16014}{}{**END-PAR**}
+{16015}{}{An increase in healing potency was easily accomplished}
+{16016}{}{by increasing the volume of alpha-fibrinogen and}
+{16017}{}{hydroxyproline contained in each dose. As expected,}
+{16018}{}{testing confirmed that these ratios are hazardous to}
+{16019}{}{humans, with a single dose proving sufficient to}
+{16020}{}{provoke a cardiac arrest in susceptible individuals. As}
+{16021}{}{a result, our laboratories began developing a mixture}
+{16022}{}{of suppressors and calcium ion emitters which, when}
+{16023}{}{combined with basic proteins, should mitigate the ultra}
+{16024}{}{stimpak's undesirable side-effects without impacting}
+{16025}{}{its healing ability. Batch 5-003 managed to reduce the}
+{16026}{}{potency of the side-effects, while 5-018 blocked them}
+{16027}{}{completely. However, more thorough testing later}
+{16028}{}{revealed that ultra stimpak's effective service life}
+{16029}{}{was limited to two or three weeks at most. After that}
+{16030}{}{time, chemical decomposition occurs, weakening the}
+{16031}{}{effect of molecular markers. Tropocollagen structures}
+{16032}{}{then manifest, as in batch 5-003, or lead to the}
+{16033}{}{collapse of control mechanisms with fatal consequences}
+{16034}{}{- as seen with the super stimpak. Further development}
+{16035}{}{was consequently focused on the stricter control of}
+{16036}{}{glycoprotein distribution, especially using synthetic}
+{16037}{}{fullerene-based nanocapsules. Research in this area has}
+{16038}{}{progressed our understanding of macromolecules}
+{16039}{}{considerably. When the lab produced batch 9-012, it}
+{16040}{}{felt more like a by-product than an end-goal. The}
+{16041}{}{results of our research will change the future of}
+{16042}{}{pharmacology. Batch 9-012 resembles a perfect,}
+{16043}{}{subcellular clockwork mechanism. It can quickly heal}
+{16044}{}{even severe injuries, yet possesses none of the}
+{16045}{}{negative side-effects of our previous efforts. The}
+{16046}{}{overall lifetime of the macromolecules used is}
+{16047}{}{estimated to be 120 years - which should prove more}
+{16048}{}{than sufficient.}
+{16049}{}{**END-PAR**}
+{16050}{}{At present, we have already begun mass producing ultra}
+{16051}{}{stimpaks. We should be able to supply all elite and}
+{16052}{}{special units of the United States Armed Forces during}
+{16053}{}{the year 2077, and all other military branches within}
+{16054}{}{the next two or three years. We estimate that ultra}
+{16055}{}{stimpaks shall completely replace super stimpaks within}
+{16056}{}{the military during the next four years.}
+{16057}{}{**END-DISK**}
+
+{17000}{}{Automatic transcription of audio recording}
+{17001}{}{**END-PAR**}
+{17002}{}{10/17/2150}
+{17003}{}{I have prevailed in every combat situation against the}
+{17004}{}{supermutants. We prevented them from spreading}
+{17005}{}{further to the east. It had been impossible for those}
+{17006}{}{degenerate creatures to outwit me. But this time it was}
+{17007}{}{me and my unit who walked right into a trap. How can we}
+{17008}{}{defeat them when, besides their physical strength and}
+{17009}{}{numbers, they also have individuals among them with}
+{17010}{}{tactical skills? When a small group of supermutants can}
+{17011}{}{butcher of a whole unit of Mutant Hunters?}
+{17012}{}{They hit me several times, but it was the last shot in}
+{17013}{}{the head that finished me. When I woke up, everyone was}
+{17014}{}{dead. I counted the bodies, one Hunter was missing. I}
+{17015}{}{guess he survived and went to tell Sebastian we're all}
+{17016}{}{dead. Including me, I surely must've looked it.}
+{17017}{}{I wandered the wasteland, unable to take any course.}
+{17018}{}{Then all of a sudden, the ground beneath me collapsed.}
+{17019}{}{I fell down right onto dozens of rotting corpses. By}
+{17020}{}{pure accident I discovered this six-floor facility. I}
+{17021}{}{found a few stimpaks and got myself together in a}
+{17022}{}{couple of days. But my head still aches a lot. Damn it!}
+{17023}{}{I've managed to bring the main, fifth floor online and}
+{17024}{}{settled in the commander's office. I've started a}
+{17025}{}{journal. It's possible I'll die here from my wounds and}
+{17026}{}{I want to leave at least something after I'm gone.}
+{17027}{}{**END-PAR**}
+{17028}{}{10/25/2150}
+{17029}{}{I'm still alive, so I guess the head wound won't kill}
+{17030}{}{me. That doesn't mean, however, that the unbearable}
+{17031}{}{ache is gone.}
+{17032}{}{I've gone through all the available records about this}
+{17033}{}{facility. It was mostly a Vault-Tec research facility.}
+{17034}{}{When the nuclear missiles were launched, the main}
+{17035}{}{computer received a signal for an immediate lockout of}
+{17036}{}{the facility, which meant killing all present personnel}
+{17037}{}{within a few minutes. Their remnants are all over the}
+{17038}{}{place, mostly still intact due to the lockout.}
+{17039}{}{Fortunately, I was able to order the robots to clear}
+{17040}{}{the floor so I wouldn't have to do it on my own. So}
+{17041}{}{many deaths simply to protect expensive equipment. To}
+{17042}{}{hell with those who ordered this!}
+{17043}{}{I don't know if some of those dying in here tried to}
+{17044}{}{get outside using explosives or the entrance was}
+{17045}{}{blocked on purpose with an explosion as the fastest}
+{17046}{}{means of sealing the place, but the fact is the}
+{17047}{}{entrance got so loose due to the explosion and the}
+{17048}{}{subsequent landslide, that I was able to fall through.}
+{17049}{}{**END-PAR**}
+{17050}{}{10/30/2150}
+{17051}{}{I've been here quite a long time. Alone. I don't have a}
+{17052}{}{very good feeling about this place, I feel a kind of}
+{17053}{}{emptiness here, the facility was built for thousands of}
+{17054}{}{people, but now it's just me. The only person alive.}
+{17055}{}{**END-PAR**}
+{17056}{}{11/3/2150}
+{17057}{}{I can't stop thinking about the moments during which I}
+{17058}{}{lost my unit. Is it even possible to exterminate the}
+{17059}{}{mutants? No matter how many we kill, more and more}
+{17060}{}{keep coming. The only way to stop their spreading would}
+{17061}{}{be to eliminate the source of their growth. But that}
+{17062}{}{source is humans mutating into those monsters. I'm}
+{17063}{}{afraid the only way of protecting genetically pure}
+{17064}{}{humans is to kill them before they turn into mutants.}
+{17065}{}{That's absurd. Or is it not?}
+{17066}{}{**END-PAR**}
+{17067}{}{11/8/2150}
+{17068}{}{I've been thinking again. What else is there to do}
+{17069}{}{besides that? It was while I was listening to my}
+{17070}{}{previous journal entries that I've realized something.}
+{17071}{}{Humans really cannot be helped, they cannot be saved.}
+{17072}{}{It's too late for them to be saved, they prevented it}
+{17073}{}{themselves with the nuclear war. The fact that some of}
+{17074}{}{them survived is just a mistake that needs to be}
+{17075}{}{corrected. Mankind is in death throes that've been}
+{17076}{}{protracted for too long. The only way to help mankind}
+{17077}{}{is to end its agony. One could call it a coup de gr鈉e.}
+{17078}{}{**END-PAR**}
+{17079}{}{11/9/2150}
+{17080}{}{I haven't been sleeping. I've been thinking about}
+{17081}{}{whether I've gone mad, but there's nothing that seems}
+{17082}{}{to refute my conclusion. It's more likely that the}
+{17083}{}{whole world's gone crazy, a long time ago. Humans}
+{17084}{}{should've been dead for a long time now, they were}
+{17085}{}{always good at killing one another, but they failed}
+{17086}{}{even at this when it came time for self-extinction.}
+{17087}{}{They're all aware of it, they just don't fully realize}
+{17088}{}{it. They keep killing each other to finish their work}
+{17089}{}{without knowing the purpose of their actions. I used to}
+{17090}{}{be like that, even the Hunters want it, they just hide}
+{17091}{}{it behind the facade of offering help to genetically}
+{17092}{}{pure humans. But everybody will turn into a mutant}
+{17093}{}{sooner or later, so they are in fact trying to}
+{17094}{}{exterminate everybody. Mutations, yes, that's clear}
+{17095}{}{proof. Mutations have arisen from the nuclear war to}
+{17096}{}{finish what the war failed to accomplish. A mutant}
+{17097}{}{doesn't mean a thing because it cannot reproduce.}
+{17098}{}{Humanity has always been perceived as something noble,}
+{17099}{}{but it was the self-righteous humans themselves that}
+{17100}{}{defined it so. In truth, it is nothing more than an}
+{17101}{}{ulcer that will eventually be removed, but when? The}
+{17102}{}{world is suffering, the sooner it gets rid of humans,}
+{17103}{}{the earlier someone else, someone better will be able}
+{17104}{}{to take their place. The world needs help to get rid of}
+{17105}{}{that ulcer before it falls off on its own. That is my}
+{17106}{}{purpose.}
+{17107}{}{**END-PAR**}
+{17108}{}{11/10/2150}
+{17109}{}{Everything is clear now. Even the headache is gone. Why}
+{17110}{}{didn't I see this before?}
+{17111}{}{**END-PAR**}
+{17112}{}{11/23/2150}
+{17113}{}{How to fulfill my purpose? I had no idea for a long}
+{17114}{}{time, until a solution presented itself. Fate has}
+{17115}{}{confirmed the rightness of my future actions.}
+{17116}{}{A group of ghouls appeared here. Not by accident. I}
+{17117}{}{could see right away they had been looking for this}
+{17118}{}{place. I blocked all doors and elevators to make their}
+{17119}{}{progress difficult, while I observed them with security}
+{17120}{}{cameras without them knowing. I watched their actions,}
+{17121}{}{listened to their words. As they kept going through the}
+{17122}{}{facility, I began discovering their wishes and desires,}
+{17123}{}{and above all, their goal.}
+{17124}{}{The machine. They hope that thanks to it they can}
+{17125}{}{become normal humans once again. It's a wonderful}
+{17126}{}{invention, by all means, but the scientists who built}
+{17127}{}{it didn't reach their goal. They could treat mutations}
+{17128}{}{and irradiation only temporarily and finally reached}
+{17129}{}{the conclusion that it was impossible to achieve better}
+{17130}{}{results. And so they froze the project.}
+{17131}{}{I have come to realize the ghouls will become my weapon}
+{17132}{}{with which I will eliminate all that remains of}
+{17133}{}{mankind. They are already on the fourth floor, I have}
+{17134}{}{to hurry.}
+{17135}{}{**END-PAR**}
+{17136}{}{11/26/2150}
+{17137}{}{It worked! I still can't believe those fools took the}
+{17138}{}{bait.}
+{17139}{}{Before they got here, I deleted all records about the}
+{17140}{}{machine and everything even remotely related to it.}
+{17141}{}{When they finally came here, I acted surprised as if I}
+{17142}{}{hadn't known about them right from the start. I told}
+{17143}{}{them I'd used the machine, but when I tested it}
+{17144}{}{afterwards, I found out there was something wrong with}
+{17145}{}{it. They were so taken aback that their dream, a}
+{17146}{}{rebirth machine, as I named it, truly exists, that they}
+{17147}{}{accepted everything I told them.}
+{17148}{}{**END-PAR**}
+{17149}{}{11/30/2150}
+{17150}{}{It only took me a few days to become their leader. To}
+{17151}{}{them I'm the savior who'll lead them to a rebirth for}
+{17152}{}{all. It's strange that these creatures who will be the}
+{17153}{}{instrument of my mission, must know absolutely nothing}
+{17154}{}{of its nature in order to reach the final goal. They}
+{17155}{}{are so determined to become normal humans once again}
+{17156}{}{that nothing will stop them until they've accomplished}
+{17157}{}{it. But that's impossible, so they'll keep going at it}
+{17158}{}{until the very end. The end of all mankind. Maybe then,}
+{17159}{}{once they're alone, they'll realize they stand on the}
+{17160}{}{brink of extermination which must be carried out to}
+{17161}{}{alleviate the world of all the remnants of human}
+{17162}{}{existence.}
+{17163}{}{As their savior, I'll make sure to direct everything in}
+{17164}{}{the right way towards this goal. I will make them my}
+{17165}{}{Horsemen of the Apocalypse, so even after I'm gone,}
+{17166}{}{they'll wipe out all of humanity from this world.}
+{17167}{}{**END-DISK**}
+
+{18000}{}{Adviser Beldir Harding-Stillson.}
+{18001}{}{Written on the occasion of emperor Myzrael's 60th}
+{18002}{}{birthday - July 31 2167.}
+{18003}{}{**END-PAR**}
+{18004}{}{The history of the empire and its dwellers contains}
+{18005}{}{many great stories that should never be forgotten.}
+{18006}{}{Each affected the development of the monarchy, each}
+{18007}{}{bears an important message. But three of these stories}
+{18008}{}{stand out because their impact on the empire was}
+{18009}{}{unmeasurable. In fact, the existence of the empire}
+{18010}{}{would not be possible without them. That's why each of}
+{18011}{}{us must take these three tales to heart, so that their}
+{18012}{}{memory may be preserved forever.}
+{18013}{}{**END-PAR**}
+{18014}{}{**END-PAR**}
+{18015}{}{The Schism at the Beginning of Life in Vault 16}
+{18016}{}{When living on the surface became impossible, the}
+{18017}{}{ancestors of today's imperial dwellers descended into a}
+{18018}{}{vault numbered 16. That way, they saved themselves}
+{18019}{}{from the radioactive fallout and were given the}
+{18020}{}{opportunity to repopulate the Earth again in the}
+{18021}{}{future. However, that hope could've been lost because}
+{18022}{}{of a great dispute that erupted in the shelter. Because}
+{18023}{}{of a gross administrative error, not one, but two}
+{18024}{}{overseers were charged with the leadership of the}
+{18025}{}{Vault. Elizabeth Stillson and Abraham Harding, a woman}
+{18026}{}{and a man, both appointed to the same office. Each of}
+{18027}{}{them supported by their subordinates and a large part}
+{18028}{}{of ordinary people, neither willing to stand down.}
+{18029}{}{Conflict seemed inevitable. But the overseers were wise}
+{18030}{}{rulers and came up with a way to prevent unnecessary}
+{18031}{}{bloodshed - they decided to appease the entire Vault by}
+{18032}{}{marrying each other. That way they could both manage}
+{18033}{}{the Vault. Both camps resisted their solution for a}
+{18034}{}{while, but in the end, they recognized its wisdom.}
+{18035}{}{During their wedding, they signed an agreement and}
+{18036}{}{peace, welcomed with enthusiasm by everyone, had taken}
+{18037}{}{hold in the Vault. That's how the united}
+{18038}{}{Harding-Stillson family came to rule, consisting of}
+{18039}{}{both first overseers and their closest relatives.}
+{18040}{}{Together they looked after the welfare of the}
+{18041}{}{community, and the burden of rule was subsequently}
+{18042}{}{passed on to their descendants. This basic system has}
+{18043}{}{lasted to the present day.}
+{18044}{}{**END-PAR**}
+{18045}{}{**END-PAR**}
+{18046}{}{The Establishment of the Empire}
+{18047}{}{After six decades spent in the Vault, the land became}
+{18048}{}{habitable again, and Theodor, the overseer at the time}
+{18049}{}{and the grandson of the first overseers, decided it was}
+{18050}{}{time to resettle it. A difficult period of rebuilding}
+{18051}{}{began, as the dwellers had to transform the ruins of}
+{18052}{}{the old metropolis of Albuquerque into their new home.}
+{18053}{}{Many demanding tasks awaited them. They learned the}
+{18054}{}{practical use of old world technology, defended their}
+{18055}{}{emerging city from enemy attacks, and made contacts}
+{18056}{}{with the surrounding settlements. Overseer Theodor}
+{18057}{}{wisely led them and always showed them the path they}
+{18058}{}{needed to take. When eleven years had passed, he}
+{18059}{}{considered his work complete and decided to pass the}
+{18060}{}{rule to the people. However, they knew how much}
+{18061}{}{Theodor did for them, and how important it was for him}
+{18062}{}{to lead the City in the future as well. That's why they}
+{18063}{}{declined his abdication. On the contrary, they came}
+{18064}{}{with a proposal that would strengthen Theodor's}
+{18065}{}{position even more. To show their appreciation for his}
+{18066}{}{tremendous merits and to make sure the rule stays in}
+{18067}{}{the hands of his descendants, they looked at the}
+{18068}{}{examples from the old world, where they learned about}
+{18069}{}{the title of emperor. Because the powers and majesty of}
+{18070}{}{this position proved to be exactly what they wanted}
+{18071}{}{for Theodor, they decided to award that title to him.}
+{18072}{}{Internally, Theodor was against this, but he didn't}
+{18073}{}{want to oppose the will of the people. That's why he}
+{18074}{}{accepted the position. But he insisted that, at least,}
+{18075}{}{a council with three members be created that would rule}
+{18076}{}{together with him. That's how the empire and the}
+{18077}{}{council of advisers were established. On the request of}
+{18078}{}{the dwellers, only people from the Harding-Stillson}
+{18079}{}{lineage are allowed to become advisers. And things have}
+{18080}{}{remained that way until today.}
+{18081}{}{**END-PAR**}
+{18082}{}{**END-PAR**}
+{18083}{}{The Great Ghoul Attack}
+{18084}{}{Theodor died five years after the formation of the}
+{18085}{}{empire, and was succeeded by his younger brother}
+{18086}{}{Myzrael. Though he's as wise and capable as his}
+{18087}{}{sibling, nothing could've prepared him for the what was}
+{18088}{}{to come. During the second year of his rule, on the}
+{18089}{}{night of February 6 2155, the empire was attacked by a}
+{18090}{}{huge number of disciplined ghouls armed to the teeth,}
+{18091}{}{bent on ransacking it completely. Despite the surprise}
+{18092}{}{of their attack, the imperial army was able to quickly}
+{18093}{}{organize itself and stop the ghoul onslaught. The}
+{18094}{}{fierce battle lasted until dawn, and claimed many lives}
+{18095}{}{of our best and most loyal troops. The ghouls were slow}
+{18096}{}{to retreat at first, and tried several unsuccessful}
+{18097}{}{counterattacks, but their retreat soon turned into a}
+{18098}{}{cowardly escape and their army fell apart completely.}
+{18099}{}{The imperial army was victorious. But because it lost}
+{18100}{}{many men, and needed the rest for the direct defense of}
+{18101}{}{the Imperial City, emperor Myzrael decided to negotiate}
+{18102}{}{a contract with a faction called the Mutant Hunters. He}
+{18103}{}{gave them the means to build their base in the vicinity}
+{18104}{}{of the empire in return for a promise that they would}
+{18105}{}{dispose of the ghoul threat. Originally, they asked for}
+{18106}{}{much more in return for their services, from weapons to}
+{18107}{}{the most advanced technologies of the City, but}
+{18108}{}{Myzrael's deft negotiating prevented that. Sadly, the}
+{18109}{}{Hunters are not too zealous in their task. During the}
+{18110}{}{second ghoul attack seven years ago, they weren't even}
+{18111}{}{able to keep their outer defensive positions and let}
+{18112}{}{the enemy penetrate to the gates of the empire itself.}
+{18113}{}{Thankfully, our soldiers demonstrated much greater}
+{18114}{}{decisiveness and, at the cost of further casualties,}
+{18115}{}{managed to stop the ghoul army again. Then, with}
+{18116}{}{negligible help from the Hunters, they managed to turn}
+{18117}{}{them back and force the ghouls to retreat. The empire}
+{18118}{}{demonstrated its strength and the will to survive}
+{18119}{}{again. There can be no doubt that a great future awaits}
+{18120}{}{it under the wise rule of emperor Myzrael.}
+{18121}{}{**END-DISK**}
+
+{19000}{}{Written by colonel Parson. For emperor Aran's eyes}
+{19001}{}{only.}
+{19002}{}{**END-PAR**}
+{19003}{}{With regards to the long-term loss of contact with the}
+{19004}{}{second and third floors of Vault 16, as per given}
+{19005}{}{order, I've created an operational group which was to}
+{19006}{}{determine the status of the lost floors of the Vault}
+{19007}{}{and prepare a plan to restore our control over them.}
+{19008}{}{After seeing the image records from the lower floors,}
+{19009}{}{which were recorded before the contact was interrupted,}
+{19010}{}{I've deemed it necessary to get more information about}
+{19011}{}{the situation in the Vault. Thus, I decided to form a}
+{19012}{}{three-man reconnaissance team from the elite soldiers}
+{19013}{}{of the empire - corporal Hicks and privates Hudson and}
+{19014}{}{Vasquez. The team was instructed to inspect the status}
+{19015}{}{of the lower floors of the Vault. Each member of the}
+{19016}{}{team was equipped with the necessary technical}
+{19017}{}{equipment to allow him to maintain radio and visual}
+{19018}{}{contact during the mission. This allowed me to}
+{19019}{}{simultaneously watch the entire operation and directly}
+{19020}{}{intervene during the progress of the reconnaissance.}
+{19021}{}{**END-PAR**}
+{19022}{}{**END-PAR**}
+{19023}{}{I've divided the progress of the reconnaissance mission}
+{19024}{}{by time sequence for greater clarity:}
+{19025}{}{**END-PAR**}
+{19026}{}{6:30 - Start of the operation following the final}
+{19027}{}{briefing. The team begins to descend to the second}
+{19028}{}{floor.}
+{19029}{}{**END-PAR**}
+{19030}{}{6:34 - The team enters the second floor. The walls and}
+{19031}{}{the floor are covered with a slimy matter of unknown}
+{19032}{}{origin. The premises are visibly damaged, and most of}
+{19033}{}{the devices do not work. I order the recon team to}
+{19034}{}{scout the corridor and leisure quarters.}
+{19035}{}{6:37 - An unidentified creature is spotted in the}
+{19036}{}{resting area on the southwest of the floor. It is}
+{19037}{}{approximately one meter tall and has dark purple skin}
+{19038}{}{under a thin layer of slime. Judging by the upper limbs}
+{19039}{}{- probably tentacles - and jaws, it is predatory. Its}
+{19040}{}{appearance coincides with the profile of the creature}
+{19041}{}{captured on record shortly before losing contact with}
+{19042}{}{the lower floors. The creature registers corporal Hicks}
+{19043}{}{and attacks him. The corporal starts firing on it but}
+{19044}{}{the creature suffers no wounds from his light weapon.}
+{19045}{}{It quickly, and with great agility, reaches the}
+{19046}{}{corporal and kills him with its left tentacle. I order}
+{19047}{}{Hudson and Vasquez to retreat immediately.}
+{19048}{}{**END-PAR**}
+{19049}{}{6:39 - The rest of the team manages to retreat into}
+{19050}{}{the room across from the elevator without the predator}
+{19051}{}{chasing them. After a brief radio communication, I}
+{19052}{}{order them to head to the elevator and try to get into}
+{19053}{}{the third floor. I task private Vasquez with attaching}
+{19054}{}{the rope while private Hudson secures the corridor.}
+{19055}{}{**END-PAR**}
+{19056}{}{6:44 - Two more predators appear on the western end of}
+{19057}{}{the corridor - one of them, judging by the slight}
+{19058}{}{scratches on its body, is likely the attacker from the}
+{19059}{}{previous encounter. Private Hudson initiates machine}
+{19060}{}{gun fire and kills one of the creatures. However, the}
+{19061}{}{second one manages to reach him and wrestles him to}
+{19062}{}{the ground. At that moment, the video contact with him}
+{19063}{}{is severed - private Hudson is most likely killed.}
+{19064}{}{Private Vasquez manages to get to the elevator and go}
+{19065}{}{down to the third floor.}
+{19066}{}{**END-PAR**}
+{19067}{}{6:47 - After private Vasquez descends, a shot is heard,}
+{19068}{}{hitting him. He succumbs to his injuries almost}
+{19069}{}{immediately. Before the connection is severed, it is}
+{19070}{}{possible to see a defensive perimeter that was set up}
+{19071}{}{there, as well as two armed men. Judging by their}
+{19072}{}{equipment and badges, they were undoubtedly members}
+{19073}{}{of the Mutant Hunters.}
+{19074}{}{**END-PAR**}
+{19075}{}{**END-PAR**}
+{19076}{}{Despite the casualties, I deem the reconnaissance}
+{19077}{}{mission to be a success. Due to the facts that were}
+{19078}{}{discovered, our next course of action may only be}
+{19079}{}{determined by direct orders from emperor Aran. End of}
+{19080}{}{report.}
+{19081}{}{**END-DISK**}
+
+{20000}{}{Written by colonel Parson. For empress Elisa's eyes}
+{20001}{}{only.}
+{20002}{}{**END-PAR**}
+{20003}{}{With regards to the long-term loss of contact with the}
+{20004}{}{second and third floors of Vault 16, as per given}
+{20005}{}{order, I've created an operational group which was to}
+{20006}{}{determine the status of the lost floors of the Vault}
+{20007}{}{and prepare a plan to restore our control over them.}
+{20008}{}{After seeing the image records from the lower floors,}
+{20009}{}{which were recorded before the contact was interrupted,}
+{20010}{}{I've deemed it necessary to get more information about}
+{20011}{}{the situation in the Vault. Thus, I decided to form a}
+{20012}{}{three-man reconnaissance team from the elite soldiers}
+{20013}{}{of the empire - corporal Hicks and privates Hudson and}
+{20014}{}{Vasquez. The team was instructed to inspect the status}
+{20015}{}{of the lower floors of the Vault. Each member of the}
+{20016}{}{team was equipped with the necessary technical}
+{20017}{}{equipment to allow him to maintain radio and visual}
+{20018}{}{contact during the mission. This allowed me to}
+{20019}{}{simultaneously watch the entire operation and directly}
+{20020}{}{intervene during the progress of the reconnaissance.}
+{20021}{}{**END-PAR**}
+{20022}{}{**END-PAR**}
+{20023}{}{I've divided the progress of the reconnaissance mission}
+{20024}{}{by time sequence for greater clarity:}
+{20025}{}{**END-PAR**}
+{20026}{}{6:30 - Start of the operation following the final}
+{20027}{}{briefing. The team begins to descend to the second}
+{20028}{}{floor.}
+{20029}{}{**END-PAR**}
+{20030}{}{6:34 - The team enters the second floor. The walls and}
+{20031}{}{the floor are covered with a slimy matter of unknown}
+{20032}{}{origin. The premises are visibly damaged, and most of}
+{20033}{}{the devices do not work. I order the recon team to}
+{20034}{}{scout the corridor and leisure quarters.}
+{20035}{}{6:37 - An unidentified creature is spotted in the}
+{20036}{}{resting area on the southwest of the floor. It is}
+{20037}{}{approximately one meter tall and has dark purple skin}
+{20038}{}{under a thin layer of slime. Judging by the upper limbs}
+{20039}{}{- probably tentacles - and jaws, it is predatory. Its}
+{20040}{}{appearance coincides with the profile of the creature}
+{20041}{}{captured on record shortly before losing contact with}
+{20042}{}{the lower floors. The creature registers corporal Hicks}
+{20043}{}{and attacks him. The corporal starts firing on it but}
+{20044}{}{the creature suffers no wounds from his light weapon.}
+{20045}{}{It quickly and, with great agility, reaches the}
+{20046}{}{corporal and kills him with its left tentacle. I order}
+{20047}{}{Hudson and Vasquez to retreat immediately.}
+{20048}{}{**END-PAR**}
+{20049}{}{6:39 - The rest of the team manages to retreat into}
+{20050}{}{the room across from the elevator without the predator}
+{20051}{}{chasing them. After a brief radio communication, I}
+{20052}{}{order them to head to the elevator and try to get into}
+{20053}{}{the third floor. I task private Vasquez with attaching}
+{20054}{}{the rope while private Hudson secures the corridor.}
+{20055}{}{**END-PAR**}
+{20056}{}{6:44 - Two more predators appear on the western end of}
+{20057}{}{the corridor - one of them, judging by the slight}
+{20058}{}{scratches on its body, is likely the attacker from the}
+{20059}{}{previous encounter. Private Hudson initiates machine}
+{20060}{}{gun fire and kills one of the creatures. However, the}
+{20061}{}{second one manages to reach him and wrestles him to}
+{20062}{}{the ground. At that moment, the video contact with him}
+{20063}{}{is severed - private Hudson is most likely killed.}
+{20064}{}{Private Vasquez manages to get to the elevator and go}
+{20065}{}{down to the third floor.}
+{20066}{}{**END-PAR**}
+{20067}{}{6:47 - After private Vasquez descends, a shot is heard,}
+{20068}{}{hitting him. He succumbs to his injuries almost}
+{20069}{}{immediately. Before the connection is severed, it is}
+{20070}{}{possible to see a defensive perimeter that was set up}
+{20071}{}{there, as well as two armed men. Judging by their}
+{20072}{}{equipment and badges, they were undoubtedly members}
+{20073}{}{of the Mutant Hunters.}
+{20074}{}{**END-PAR**}
+{20075}{}{**END-PAR**}
+{20076}{}{Despite the casualties, I deem the reconnaissance}
+{20077}{}{mission to be a success. Due to the facts that were}
+{20078}{}{discovered, our next course of action may only be}
+{20079}{}{determined by direct orders from empress Elisa. End of}
+{20080}{}{report.}
+{20081}{}{**END-DISK**}
+
+{21000}{}{Colonel Darryl Feustel, PROGEMA, Commanding Officer.}
+{21001}{}{Private Journal, for personal use only.}
+{21002}{}{**END-PAR**}
+{21003}{}{October 1, 2077}
+{21004}{}{My last day in command at the PROGEMA facility. Today,}
+{21005}{}{we complete the closure of this base - from tomorrow,}
+{21006}{}{there won't be a soul left. I hope I don't forget to}
+{21007}{}{pack anything. The last few days have been turbulent.}
+{21008}{}{Everyone is nervous, working hastily to complete their}
+{21009}{}{tasks to the ludicrous deadlines being set for us. The}
+{21010}{}{fact that our orders came from the President himself}
+{21011}{}{did nothing to help people stay calm, either. I tried}
+{21012}{}{finding out more about the reasons for suddenly}
+{21013}{}{suspending all activity here, but to no avail. The only}
+{21014}{}{thing I do know is we aren't the only ones ordered to}
+{21015}{}{terminate their activity like this, with no questions}
+{21016}{}{asked. I don't like it. When the Army interferes like}
+{21017}{}{this, there is always something big cooking. When they}
+{21018}{}{moved that large contingent of military hardware to}
+{21019}{}{Alaska back in ?6, the next thing we knew we were at}
+{21020}{}{war with China within a week. I don't even want to}
+{21021}{}{think about what will happen this time.}
+{21022}{}{**END-PAR**}
+{21023}{}{I'm sincerely sorry we cannot continue our work. The}
+{21024}{}{genetic manipulation project has shown progress and, in}
+{21025}{}{my opinion, we are nearing the final breakthrough. Even}
+{21026}{}{considering the concerns of some of our scientists -}
+{21027}{}{that the definitive specimen may not be controllable -}
+{21028}{}{we are definitely getting results. I think some of the}
+{21029}{}{scientists allocated to the main project are simply}
+{21030}{}{being overcautious. Not that I'll take the storage of}
+{21031}{}{our subjects lightly - I will personally see that they}
+{21032}{}{are placed safely in stasis. Regardless of any chaos}
+{21033}{}{that might erupt here in the hours before closure,}
+{21034}{}{subject storage is the one procedure we cannot afford}
+{21035}{}{to get wrong. I believe that, in the event of an}
+{21036}{}{escape, a subject would have no trouble punching}
+{21037}{}{through even the sturdiest of this base's walls.}
+{21038}{}{**END-PAR**}
+{21039}{}{I'm not sure what is going to happen to the people}
+{21040}{}{under my authority. The scientists are murmuring about}
+{21041}{}{some large base in New Mexico, a supposed joint}
+{21042}{}{undertaking being managed by the Army and Vault-Tec.}
+{21043}{}{They hardly know the specifics - it seems like rumor}
+{21044}{}{and hearsay to me. Hell, I don't even know exactly}
+{21045}{}{where that base is located. The scientists are just}
+{21046}{}{plain curious, hoping they might be assigned there, but}
+{21047}{}{I know for a fact they're going to be stowed away}
+{21048}{}{someplace safe. Maybe even inside the vaults. A handful}
+{21049}{}{of the scientists assigned to our secondary project,}
+{21050}{}{improving human characteristics, are supposed to begin}
+{21051}{}{field-testing their results for the Secret Service.}
+{21052}{}{Everything is top secret, under the auspices of the}
+{21053}{}{President. They are to report to the Navarro base in}
+{21054}{}{California and, from there, transfer to God only knows}
+{21055}{}{where. The soldiers will be re-assigned to various}
+{21056}{}{other stations. As for me and a few of my people, we'll}
+{21057}{}{be reinforcing the base garrison at Mariposa. I'm}
+{21058}{}{curious as to what awaits us there.}
+{21059}{}{**END-DISK**}
+

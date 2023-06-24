@@ -1,0 +1,256 @@
+#{100}{}{You see a man.}
+{100}{}{你看到一个男人。}
+#{150}{}{You see Steave.}
+{150}{}{你看斯蒂夫。}
+#{200}{}{You see an unshaven scruffy looking mid-aged man.}
+{200}{}{你看到一个没刮胡子的邋遢中年人。}
+#{250}{}{You see Steave. He still hasn't shaved and looks very scruffy.}
+{250}{}{你看斯蒂夫。他还没刮胡子，看上去很邋遢。}
+#{300}{}{Shut up you disgusting drooling bastard!}
+{300}{}{闭嘴，你这个流口水的混蛋！}
+#{301}{}{Shut your grub hole!}
+{301}{}{闭嘴！}
+#{302}{}{Will you shut up!}
+{302}{}{你能闭嘴吗！}
+#{303}{}{If you don't shut up, I'm gonna kick that stinking snout of yours right off!}
+{303}{}{如果你再不闭嘴，我就把你那臭鼻子踢掉！}
+#{304}{}{Get out of there!}
+{304}{}{出去！}
+#{305}{}{That's MY food!}
+{305}{}{那是我的食物！}
+#{306}{}{You ain't supposed to go there!}
+{306}{}{你不应该去那里！}
+#{350}{}{Go away, I don't want to see that drooling beast ever again!}
+{350}{}{走开，我不想再看到那个流口水的野兽了！}
+#{351}{}{So you finally got rid of that mongrel? Huh.}
+{351}{}{所以你终于摆脱了那个杂种？呵呵。}
+#{352}{}{Heeeeey! That's my lunch!}
+{352}{}{嘿！那是我的午餐！}
+#{353}{}{Well come on, take the bastard away already!}
+{353}{}{好吧，快点，把那混蛋带走！}
+#{500}{}{Whaddaya want? This is my house. Get out!}
+{500}{}{你想要什么？这是我的房子。走出！}
+#{501}{}{Sorry, just going.}
+{501}{}{抱歉，我要走了。}
+#{502}{}{Calm down, man, I was just wondering about the dog in the next room.}
+{502}{}{冷静点，伙计，我只是在想隔壁房间的狗。}
+#{503}{}{Calm down, calm down, I just wanted to ask what you were doing here.}
+{503}{}{冷静，冷静，我只是想问你在这里干什么。}
+#{504}{}{And what about some manners? I didn't catch your name for instance.}
+{504}{}{还有一些礼貌呢？比如说，我没听清你的名字。}
+#{505}{}{And what about some manners? I didn't catch your name for instance.}
+{505}{}{还有一些礼貌呢？比如说，我没听清你的名字。}
+#{506}{}{Wrong old man, you're already dead and dead guys can't own houses!}
+{506}{}{错老头子，你已经死了，死人不能拥有房子！}
+#{507}{}{Me like doggy!}
+{507}{}{我喜欢小狗！}
+#{508}{}{Doggy WOOF! WOOF!}
+{508}{}{狗汪汪！呜呜！}
+#{509}{}{Me bye!}
+{509}{}{再见！}
+#{550}{}{What now?}
+{550}{}{现在怎么办？}
+#{551}{}{I think we haven't been introduced yet. My name is }
+{551}{}{我想我们还没被介绍过来。我的名字是}
+#{552}{}{I want to ask you about that dog in the next room.}
+{552}{}{我想问你关于隔壁房间那只狗的事。}
+#{553}{}{I wanted to ask you what you were doing here?}
+{553}{}{我想问你你在这里干什么？}
+#{554}{}{Your head on a platter!}
+{554}{}{你的头在盘子上！}
+#{555}{}{Oh nothing. I'll go now.}
+{555}{}{哦，没什么。我现在就去。}
+#{556}{}{Me like doggy!}
+{556}{}{我喜欢小狗！}
+#{557}{}{Bye bye, bad man.}
+{557}{}{再见，坏人。}
+#{558}{}{Hey, who was that man that stole a nice fat rat a moment ago from 'round back of your house?}
+{558}{}{嘿，刚才从你房子后面偷了一只肥鼠的那个人是谁？}
+#{600}{}{Yeah? And why's that?}
+{600}{}{是 啊？为什么会这样？}
+#{601}{}{He's making quite a noise and I was wondering why.}
+{601}{}{他发出很大的声音，我想知道为什么。}
+#{602}{}{I was wondering whether someone living in a place like this can afford a dog.}
+{602}{}{我想知道住在这种地方的人能不能养得起狗。}
+#{603}{}{I was wondering what breed it was.}
+{603}{}{我想知道它是什么品种的。}
+#{604}{}{You know, we better forget it. I'll be going now.}
+{604}{}{你知道，我们最好忘了它。我要走了。}
+#{650}{}{What do you think? I live here. Any more stupid questions?}
+{650}{}{你怎么认为？我住在这里。还有什么愚蠢的问题吗？}
+#{651}{}{Oh yes. I was wondering about that dog in the next room.}
+{651}{}{哦，是的。我在想隔壁房间的那只狗。}
+#{652}{}{Yes, I have one. What do you want chiseled on your tombstone?}
+{652}{}{是的，我有一个。你想在墓碑上刻什么？}
+#{653}{}{I'd better be going.}
+{653}{}{我最好走了。}
+#{700}{}{The name's Steave, the pleasure ain't mine. And now, if you'd be so kind to excuse me, you'll find the door over there.}
+{700}{}{名字是偷来的，快乐不是我的。现在，如果你能原谅我的话，你会找到那边的门。}
+#{701}{}{The name's Steave, the pleasure ain't mine. And now, if you'd be so kind to excuse me, you'll find the door over there.}
+{701}{}{名字是偷来的，快乐不是我的。现在，如果你能原谅我的话，你会找到那边的门。}
+#{702}{}{Wait. I wanted to ask you about that dog in the next room.}
+{702}{}{等待。我想问你隔壁房间那只狗的事。}
+#{703}{}{Yeah, yeah, OK, I'm going.}
+{703}{}{是的，是的，好的，我要走了。}
+#{704}{}{Oh I see, so now I know which way to carry you feet-first!}
+{704}{}{哦，我明白了，现在我知道该怎么走了！}
+#{750}{}{Yeah, me like doggy too, especially since I haven't eaten for a week. And now excuse me, you little cretin, I have to get the fire started.}
+{750}{}{是啊，我也喜欢小狗，尤其是我已经一个星期没吃东西了。现在请原谅，你这个小白痴，我得去点火了。}
+#{751}{}{No! That no!}
+{751}{}{不！那不！}
+#{752}{}{Me eat too! Hungry!}
+{752}{}{我也吃！饿了！}
+#{753}{}{Man bad! Bad! I go!}
+{753}{}{坏男人！糟糕！我走！}
+#{800}{}{Ha ha, and who'll stop me? You? The pile of brahmin shit that you are? Get lost or I'll have you for dessert!}
+{800}{}{哈哈，谁来阻止我？你呢？你是一堆双头牛的狗屎？滚开，不然我就请你吃甜点！}
+#{801}{}{Grrrrrrrrrr waaaaagh!}
+{801}{}{嘎嘎嘎嘎！}
+#{802}{}{No hurt me!}
+{802}{}{不要伤害我！}
+#{850}{}{Hungry my ass! I've had it up to here with you. Get out!}
+{850}{}{饿了我的屁股！我受够你了。走出！}
+#{851}{}{Bad! Yuck!}
+{851}{}{糟糕！讨厌！}
+#{852}{}{I go away!}
+{852}{}{我走开！}
+#{900}{}{Yes, doggy go woof! And if you keep bothering me, I'll go bang!}
+{900}{}{是的，狗狗！如果你再烦我，我就去揍你！}
+#{901}{}{Me too BANG!}
+{901}{}{我太棒了！}
+#{902}{}{Me like doggy!}
+{902}{}{我喜欢小狗！}
+#{903}{}{Bye bye.}
+{903}{}{再见。}
+#{950}{}{He's locked-up and in a while he'll be cooked-up. Is it clear now?}
+{950}{}{他被关起来了，一会儿他就会被烧死的。现在清楚了吗？}
+#{951}{}{You eat dogs? That's disgusting!}
+{951}{}{你吃狗？太恶心了！}
+#{952}{}{Why do you want to eat him?}
+{952}{}{你为什么要吃他？}
+#{953}{}{Yes, quite clear. I'll be going now.}
+{953}{}{是的，很清楚。我要走了。}
+#{1000}{}{Look who's talking about manners. That bastard stole a nice fat rat from me. I've been hungry for a week because of him. Now that I finally caught him I'll have myself a much better feast.}
+{1000}{}{看看谁在说礼貌。那混蛋偷了我一只漂亮的肥老鼠。因为他我饿了一个星期了。现在我终于抓到他了，我要好好享受一顿。}
+#{1001}{}{You eat dogs? That's disgusting.}
+{1001}{}{你吃狗？真恶心。}
+#{1002}{}{Why do you want to eat him?}
+{1002}{}{你为什么要吃他？}
+#{1003}{}{But such a mongrel, skin and bones... I'll buy him from you, then you can really enjoy yourself. What do you say?}
+{1003}{}{但是这样的杂种，皮包骨头。。。我从你那儿买他，你就可以玩得很开心了。你怎么说？}
+#{1004}{}{Well... bon appetit. Now please excuse me.}
+{1004}{}{好。。。祝你胃口好。现在请原谅。}
+#{1005}{}{Not a moment ago some guy stole a nice fat rat from behind your house. Does that not bother you?}
+{1005}{}{刚才有人从你房子后面偷了一只漂亮的肥老鼠。你不介意吗？}
+#{1050}{}{Bree... what?}
+{1050}{}{布里。。。什么？}
+#{1051}{}{Breed. Simply, what kind of dog it is. Aren't you interested in that?}
+{1051}{}{繁殖。简单地说，它是什么样的狗。你不感兴趣吗？}
+#{1052}{}{Oh I don't know what that is. I just heard it somewhere.}
+{1052}{}{哦，我不知道那是什么。我只是在什么地方听到的。}
+#{1053}{}{Oh I don't know what that is. I just heard it somewhere.}
+{1053}{}{哦，我不知道那是什么。我只是在什么地方听到的。}
+#{1100}{}{No, I'm only interested in dogs when they're on my menu.}
+{1100}{}{不，我只对菜单上的狗感兴趣。}
+#{1101}{}{You eat dogs? That's disgusting.}
+{1101}{}{你吃狗？真恶心。}
+#{1102}{}{Hmm, well it's not very healthy you know, a dog carries lots of bacteria and you never know what you might catch from eating it.}
+{1102}{}{嗯，它不是很健康，你知道，狗携带很多细菌，你永远不知道吃了它会感染什么。}
+#{1103}{}{And what about changing your menu then? Wouldn't you rather have something else?}
+{1103}{}{那换菜单怎么样？你不想要点别的吗？}
+#{1104}{}{I see. In that case I wish you bon appetit. Bye.}
+{1104}{}{我懂了。那样的话，我祝你胃口好。再见。}
+#{1150}{}{Whatever I catch from it can't be worse than what I can catch just by living in this hell. So now, if you'll excuse me, I have a roast to prepare.}
+{1150}{}{无论我从中得到什么，都不会比生活在地狱里得到的更糟。所以现在，请原谅，我要准备烤肉。}
+#{1151}{}{But eating dogs is disgusting!}
+{1151}{}{但是吃狗真恶心！}
+#{1152}{}{Well, off I go then.}
+{1152}{}{好吧，那我走吧。}
+#{1200}{}{W-wait. What could I catch?}
+{1200}{}{等等。我能抓什么？}
+#{1201}{}{Oh, there are many bacterial infections. It's very likely you would bleed heavily from the anus, then there's also vomiting, nausea, and in the end a very painful death.}
+{1201}{}{哦，有很多细菌感染。很可能你会从肛门大量出血，然后呕吐，恶心，最后非常痛苦的死亡。}
+#{1202}{}{Oh nothing, if you roast the meat thoroughly, I guess there's no danger.}
+{1202}{}{哦，没什么，如果你把肉烤透，我想没有危险。}
+#{1250}{}{Damn! I'd rather be hungry than that. Here, that's the key. Take the hound and kill it somewhere. I don't wanna' see it no more.}
+{1250}{}{该死！我宁愿饿也不饿。这是关键。把猎犬带到某个地方杀了。我不想再看到它了。}
+#{1251}{}{Damn! I'd rather be hungry than that. Where is that damned key? [He nervously looks through his pockets.] Shit! Oh well, just take the hound out of here somehow and kill it somewhere. I don't wanna' see it no more!}
+{1251}{}{该死！我宁愿饿也不饿。那该死的钥匙在哪？[他紧张地看了看口袋]妈的！哦，好吧，把猎犬带出去，在什么地方杀了它。我不想再看到它了！}
+#{1252}{}{My pleasure.}
+{1252}{}{我的荣幸。}
+#{1300}{}{Not any more so than eating trash or rats. You wouldn't believe what people have to do around here just to survive.}
+{1300}{}{不比吃垃圾或老鼠更重要。你不会相信这里的人们为了生存必须做些什么。}
+#{1301}{}{Not any more so than eating trash or rats. You wouldn't believe what people have to do around here just to survive.}
+{1301}{}{不比吃垃圾或老鼠更重要。你不会相信这里的人们为了生存必须做些什么。}
+#{1302}{}{Can't you buy anything proper around here?}
+{1302}{}{你在这附近买不到合适的东西吗？}
+#{1303}{}{I'm sorry about your suffering, but I'll be happy to relieve you. You won't need any food down in hell.}
+{1303}{}{对你的痛苦我很抱歉，但我很乐意帮你减轻痛苦。你在地狱里不需要任何食物。}
+#{1350}{}{Why? Because I'm hungry! You think one can eat fruit and brahmin meat in this town?! Dog is as good as it gets 'round here!}
+{1350}{}{为什么？因为我饿了！你觉得在这个镇上可以吃水果和双头牛肉吗？！这条狗在这附近真是太棒了！}
+#{1351}{}{Can't you buy anything proper around here?}
+{1351}{}{你在这附近买不到合适的东西吗？}
+#{1352}{}{Really? I think I have a better idea. I think I'll have human today. And you seem to look just the right-sized grub for me!}
+{1352}{}{真正地？我想我有个更好的主意。我想我今天要吃人。你看起来正适合我！}
+#{1353}{}{I'm sorry about that. Well, I'd better be going.}
+{1353}{}{对此我很抱歉。好吧，我还是走吧。}
+#{1400}{}{You crazy? Here? Unless you're rich, you eat what you find! And there are damn few rich people around here.}
+{1400}{}{你疯了？在这里？除非你有钱，否则你吃你找到的东西！这附近的有钱人真他妈的不多。}
+#{1401}{}{Really? Well what about I buy that dog from you? The money could buy you food for several days.}
+{1401}{}{真正地？那我从你那儿买狗怎么样？这些钱可以给你买几天的食物。}
+#{1402}{}{Really? Well what about I buy that dog from you? The money could buy you food for several days.}
+{1402}{}{真正地？那我从你那儿买狗怎么样？这些钱可以给你买几天的食物。}
+#{1403}{}{Oh, really? Well, you're lucky, because there are no entrance fees to hell!}
+{1403}{}{哦，真的吗？好吧，你很幸运，因为没有进入地狱的费用！}
+#{1404}{}{I see. Excuse me, I must go.}
+{1404}{}{我懂了。对不起，我得走了。}
+#{1450}{}{Yeah, yeah, that could work, OK, but I want at least a hundred for it.}
+{1450}{}{是的，是的，那可能有用，好吧，但我至少要一百块。}
+#{1451}{}{OK, done.}
+{1451}{}{好的，完成了。}
+#{1452}{}{All I have is 75 caps.}
+{1452}{}{我只有75顶瓶盖。}
+#{1453}{}{All I have is 50 caps.}
+{1453}{}{我只有50顶瓶盖。}
+#{1454}{}{Forget it, I'm not giving you a single cap!}
+{1454}{}{算了，我不会给你一顶瓶盖的！}
+#{1500}{}{Here's the key. Watch out that it doesn't bite you. The bastard has some very sharp teeth.}
+{1500}{}{这是钥匙。小心别让它咬到你。那混蛋的牙齿很锋利。}
+#{1501}{}{All right, wait... [He nervously looks through his pockets.] Shit, where is that damned key? Damn! Oh well, never mind, just get the hound out of here somehow, it's yours. But watch out that it doesn't bite you. The bastard has some very sharp teeth.}
+{1501}{}{好吧，等等。。。[他紧张地看了看口袋]妈的，那该死的钥匙在哪儿？该死！哦，好吧，没关系，不管怎样把猎犬弄出去，它是你的。但小心别让它咬到你。那混蛋的牙齿很锋利。}
+#{1502}{}{Thanks.}
+{1502}{}{谢谢。}
+#{1550}{}{OK, OK, that'll do, just so I get rid of it. Here's the key, but watch out that it doesn't bite you. The bastard has some very sharp teeth.}
+{1550}{}{好吧，好吧，就这样，我把它处理掉。这是钥匙，但小心别咬着你。那混蛋的牙齿很锋利。}
+#{1551}{}{OK, OK, that'll do, just so I get rid of it. Wait... [He nervously looks through his pockets.] Shit, where is that damned key? Damn! Oh well, never mind, just get the hound out of here somehow, it's yours. But watch out that it doesn't bite you. The bastard has some very sharp teeth.}
+{1551}{}{好吧，好吧，就这样，我把它处理掉。等待。。。[他紧张地看了看口袋]妈的，那该死的钥匙在哪儿？该死！哦，好吧，没关系，不管怎样把猎犬弄出去，它是你的。但小心别让它咬到你。那混蛋的牙齿很锋利。}
+#{1552}{}{Thanks.}
+{1552}{}{谢谢。}
+#{1600}{}{I see, well, just don't waste your wisdom on me and go bother someone else. I have my lunch to prepare.}
+{1600}{}{我明白了，好吧，别把你的智慧浪费在我身上，去打扰别人。我有午饭要准备。}
+#{1601}{}{Yeah, well, enjoy.}
+{1601}{}{好吧，好好享受。}
+#{1650}{}{No, no, not enough. That won't do at all.}
+{1650}{}{不，不，还不够。那根本不行。}
+#{1651}{}{Well, OK, if you insist I'll give you more...}
+{1651}{}{好吧，如果你坚持我会给你更多。。。}
+#{1652}{}{Well I better get going then.}
+{1652}{}{那我得走了。}
+#{1700}{}{Phew, you really got ol' Steave scared just now. Thanks for the tip, I'll make sure to really burn it good. I wouldn't like to be worse off than I already am.}
+{1700}{}{你刚才真的吓坏了。谢谢你的提示，我一定要好好烧。我不想比现在更糟。}
+#{1701}{}{Glad to help. Take care.}
+{1701}{}{很乐意帮忙。当心。}
+#{1750}{}{What? A rat? Hey, whatever's around my house is mine! Who... Who the hell was it?}
+{1750}{}{什么？老鼠？嘿，我家周围的东西都是我的！谁。。。到底是谁？}
+#{1751}{}{Well, judging from the fact he wore a lab coat and headed for the clinic, he must've been a doctor.}
+{1751}{}{嗯，从他穿着实验服去诊所的事实来看，他一定是个医生。}
+#{1752}{}{Um, well... Somehow I can't remember what he looked like. But if I see him again, I'll make sure to let you know.}
+{1752}{}{嗯，好吧。。。不知怎的，我不记得他长什么样了。但如果我再见到他，我一定会告诉你的。}
+#{1800}{}{A doctor... doctor Moore? Him? Damn if he thinks he can steal my food he's got another thing coming!}
+{1800}{}{一个医生。。。摩尔医生？他？该死的，如果他认为他能偷我的食物，他还有别的事要做！}
+#{1801}{}{Right! Go give him what for!}
+{1801}{}{正确的！去给他什么！}
+#{1850}{}{Damn! Too bad about the rat, it could've made a good lunch. Thanks for the information, I'll watch out for the thief in the future.}
+{1850}{}{该死！那只老鼠太糟糕了，它可以做一顿丰盛的午餐。谢谢你的消息，我以后会小心小偷的。}
+#{1851}{}{Sure thing. See you.}
+{1851}{}{当然。再见。}

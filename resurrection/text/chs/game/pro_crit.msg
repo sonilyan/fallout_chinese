@@ -758,7 +758,7 @@
 {73500}{}{达奇 Dutch}
 {73600}{}{赫尔曼 Herman}
 {73700}{}{塔尔萨 Tulsa}
-{73800}{}{大洼铃子？？ Yaotzin Daichi}
+{73800}{}{耀津 大池 Yaotzin Daichi}
 {73900}{}{获胜者Victor}
 {74000}{}{变种猎人 Mutant Hunter}
 {74100}{}{变种猎人 Mutant Hunter}

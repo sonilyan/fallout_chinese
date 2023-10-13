@@ -1,0 +1,4 @@
+{100}{}{No reaction.}
+{101}{}{There is no lock to pick.}
+{102}{}{The door sensor that detects life forms seems to be dead. Could be linked to the Life Support system.}
+{103}{}{An automatic door, using sensors to function.}

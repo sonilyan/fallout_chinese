@@ -1,0 +1,48 @@
+#LAST HOPE MOD Credits
+
+#SCRIPTING,GRAPHIC,"ARTWORK", MAPPING:	
+Dejan a.k.a. Forgotten Knight 
+ 
+#Special thanks to:
+@Original Fallout 2 game makers
+@Jargo - "Fallout Script Editor" tool
+@Jochua - "Frame Animator" tool 
+@Muttie - proofreading, playtesting, suggestions,
+@improving mod mechanics
+@nma-fallout community 
+@other unknown sources -.-
+
+#Other tools and mods
+#used for making LAST HOPE mod:
+
+@- Frm2bmp by Borg Locutus
+@- Spr2gif by abel
+@- Red!viewer by Red
+@- Dat explorer by Dims
+@- Pixote's tribal animations fix
+@- Other mods/engine tweaks included with Timeslip's Sfall
+
+
+
+
+
+
+
+
+
+
+@Thanks for playing... or seeing this credits, means something ^^ 
+
+
+
+
+
+
+
+
+
+@Many trolls were harmed in the making of this mod!!
+
+
+
+

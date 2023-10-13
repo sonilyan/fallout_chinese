@@ -1,0 +1,42 @@
+{100}{}{You see: a local merchant.}
+{101}{}{You see Sharon, the merchant. She looks tired, and a bit defeated.}
+{102}{}{Come on in. I got plenty of articles.}
+{103}{}{Hey! Wait! I have things that could help you along!}
+{104}{}{Hey! Do you have anything to trade for these?}
+{105}{}{This must be my lucky day. Come, see what I have for sale.}
+#
+{200}{}{Greetings, traveler! I'm Sharon. I rarely see anyone along this route, but I'm always happy to have new
+ customers. Would you like to trade?}
+#
+{250}{}{That'd be good.}
+{251}{}{Sorry, have to keep on moving.}
+{252}{}{Yah. Me got stuff!}
+{253}{}{Me go.}
+#
+{260}{}{Good trade. See you some other time.}
+{261}{}{Bye.}
+#
+{270}{}{Glad to have you back. Can I interest you in something else?}
+#ako je dude krao
+{271}{}{You damn thief!}
+{272}{}{I'm not gonna sell you anything!}
+{273}{}{Get away from me, you thief!}
+#dude je ukrao nesto i dobio upozorenje
+{274}{}{Don't do that again!}
+#
+{275}{}{Can I ask you some questions?}
+#
+{276}{}{Sure. What do you want to know?}
+{277}{}{I met your cousin Nill... He's in jail now, did you know that?}
+#
+{278}{}{Yes I did. What can I say? He was so busy making money that he didn't see the difference between right or
+ wrong. So... how is he doing?}
+{279}{}{He's doing just fine and he wanted me to say hello for him. He also mentioned something about some firearms
+ I could get from you.}
+#
+{280}{}{Of course, take a look...}
+{281}{}{Thanks.}
+#
+{282}{}{You're not welcome here.}
+{283}{}{I can't help you.}
+{284}{}{No, the store is closed today.}

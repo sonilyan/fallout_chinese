@@ -1,0 +1,6 @@
+{100}{}{I put my money on you, don't disappoint me.}
+{101}{}{If you last longer than ten minutes...}
+{102}{}{Better watch yourself, I don't wanna lose my bet.}
+{103}{}{You just go and give us some show.}
+{104}{}{Yeah, what do you want?}
+{105}{}{Show them what you've got, prisoner!}

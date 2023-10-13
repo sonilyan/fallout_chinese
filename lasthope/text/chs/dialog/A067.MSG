@@ -1,0 +1,15 @@
+{100}{}{This is a private property stranger. I suggest you make your stay a short one.}
+{101}{}{What's that building?}
+{102}{}{I'm out of here.}
+#place...
+{103}{}{That's none of your business. In fact, there's nothing here except garbage and radiation. The town area is west
+ of here.}
+{104}{}{Sure.}
+#again...
+{105}{}{I told you there is nothing for you here.}
+{106}{}{What about that building?}
+{107}{}{Alright.}
+#dude found secret base...
+{108}{}{I recall telling you to stay away from this place. And yet, you came back again breaking into my house... Now
+ I'm gonna teach you some manners.}
+{109}{}{Show me what you got, old man!}

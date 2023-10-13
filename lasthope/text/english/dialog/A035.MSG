@@ -1,0 +1,5 @@
+{100}{}{It's shut tight.}
+{101}{}{It's locked by some kind of internal mechanism.}
+{102}{}{The explosion had no effect on the door.}
+{103}{}{Whatever electronic lock it uses, you can't figure it out.}
+{104}{}{The door's mechanism is wired to an external power source, possibly a power generator.}

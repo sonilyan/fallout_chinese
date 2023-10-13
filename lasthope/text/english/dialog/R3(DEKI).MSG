@@ -1,0 +1,59 @@
+{100}{}{You see: a male peasant.}
+{101}{}{A male resident of this town.}
+{102}{}{Working on the fields is hard. But it's a living.}
+{103}{}{He sure knows how to handle himself.}
+{104}{}{A female resident of this town.}
+{105}{}{You see: a female peasant.}
+
+{110}{}{Good day, stranger.}
+{111}{}{How's it going?}
+{112}{}{Are you new here?}
+{113}{}{Greetings. New in town?}
+{114}{}{Hello there, stranger.}
+{115}{}{Heya.}
+{116}{}{I don't know you. New here?}
+{117}{}{Hi.}
+{118}{}{Welcome, amigo.}
+{119}{}{Now, where'd I put those magic beans?}
+{120}{}{Geckos taste just like canned chicken, if you cook them right.}
+{121}{}{Hear any rumors lately?}
+{122}{}{Hello, traveler.}
+{123}{}{Wind's picking up a bit.}
+{124}{}{No rest for the poor.}
+{125}{}{Nice day today.}
+{126}{}{I'm going to relax at the..., god, there is nothing around here, is there?}
+
+{150}{}{Why don't you go back to prison?}
+{151}{}{I'll give you some pretty beads if you leave me alone.}
+{152}{}{::mumbles:: wasteland trash...}
+{153}{}{I sure wish we had a wall around town that keeps people out.}
+{154}{}{I don't have anything to steal; go away!}
+{155}{}{Why are you looking at me like that?}
+{156}{}{Great, another ex-con.}
+{157}{}{Why don't you crawl back into your cell?}
+{158}{}{Just keep away from me.}
+{159}{}{We don't need you stirring up trouble.}
+{160}{}{You must have come straight from Dumbtown!}
+{161}{}{Last thing we need is more like you.}
+
+{190}{}{Nice to see you.}
+{191}{}{Any more like you at home?}
+{192}{}{Hope you're enjoying it here.}
+{193}{}{We could use a few more people of your caliber here.}
+{194}{}{What's up, friend?}
+{195}{}{Good fortune to you.}
+{196}{}{If you need to buy anything, go to Sharon's.}
+{197}{}{Town's mine sure has a lot of rats.}
+{198}{}{You're the most civilized ex-con I've ever met.}
+{199}{}{Watch out for geckos that have changed color.}
+{200}{}{Hello, traveler. Godspeed!}
+{201}{}{Glad to have you in our town.}
+{202}{}{Howdy, stranger. Thanks for all the help. Sure was appreciated.}
+{203}{}{Watch out for those patrols, they are dangerous.}
+#dude wearing prison guard cloth...
+{204}{}{Oh no, you're one of them.}
+{205}{}{Please don't take me away.}
+{206}{}{I wouldn't make any trouble.}
+{207}{}{Who, me...?}
+{208}{}{I didn't say anything.}
+{209}{}{::Stares at you::}

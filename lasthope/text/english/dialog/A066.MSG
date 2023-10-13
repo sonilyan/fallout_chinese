@@ -1,0 +1,63 @@
+{100}{}{Philton bulletin:}
+{101}{}{Shops}
+{102}{}{Drinks}
+{105}{}{Notes}
+{106}{}{[Exit.]}
+#notes...
+{107}{}{Prostitution of any kind is forbidden. Legalized gambling only (written permission required).
+ Drugs and other addictive substances prohibited. Any crime will be sanctioned on sight, no exceptions.
+ Signed: Mayor Donson.}
+{108}{}{[Back.]}
+#shops...
+{109}{}{Philton available shops. [Six places listed:]}
+{110}{}{Philton Machine Parts}
+{111}{}{"Quartz" Electronics}
+{112}{}{Weapons & Ammo}
+{113}{}{Car Workshop}
+{114}{}{Steel Deal}
+{115}{}{Jake's Mining Emporium}
+{116}{}{[A small paper is attached to the board.] Let's see this.}
+{117}{}{[Back.]}
+{118}{}{[Exit.]}
+#drinks...
+{119}{}{[Two places listed:]}
+{120}{}{Red's Tap House}
+{121}{}{Mary's Drink & Meal}
+#philton machine parts...
+{122}{}{We sell parts for industrial machines, electric motors, some rare mechanical parts used in power plants and
+ more. Best thing if you come and visit us. List of our stock is long, so take your time. We are located on Main Street.
+ If you have any trouble finding us, it's the big white building. Ask for Owen.}
+{123}{}{Let me see something else.}
+#quarts...
+{124}{}{Got any broken electronics? Don't worry, we'll fix yer. Lots of electronic equipment that could make your life
+ a lot easier. Our office and working space is just north of this bulletin. You can't miss my tent. - Hank.}
+{125}{}{What else do we have here? [Back.]}
+#W&A...
+{126}{}{Looking for weaponry? No problem! Handguns, rifles, armors, what else could you possibly want? Just
+ come by to see my stock and we'll talk. My shop is on Main Street, just left of the city entrance.}
+{127}{}{This might come in handy. Let me see something else.}
+#car workshop...
+{128}{}{You have some trouble with your car? This could be your lucky day because I've got everything you need.
+ From tires to windshield wipers to bumper stickers. We are located near the old city council building.}
+{129}{}{Interesting. But there's something else on my mind right now.}
+#steel...
+{130}{}{I sell steel bars, metal poles, barrels... My place is at the north side of the city, near the old council building.}
+{131}{}{What else do we have here? [Back.]}
+#jake's mining...
+{132}{}{Your place for all things mining in the city. Working every day just for you. I sell ore and mining
+ tools. So what do you need? Jake's store is just before the docks.}
+{133}{}{OK. Let me see something else.}
+#attached...
+{134}{}{Are you looking for hard-working laborers or you need some servants? We buy and sell. Once you buy you
+ can do whatever you want. Our stock is in good condition. We don't accept complaints in any case! North of the city is
+ where we are.}
+{135}{}{This looks interesting. [Back.]}
+#drinks... Red's...
+{136}{}{Drinks, food, entertainment. All in one place. That's Red's "Tap House". Tables with two and four seats. Bring
+ a party, we have plenty of space. You can make reservations up to one day in advance. Soon we'll add poker tables and
+ slot machines. Better check it out! Down by the city docks.}
+{137}{}{This looks good. What else do we have here?}
+#mary's...
+{138}{}{If you are tired and need a drink, you can visit Mary's bar. We also serve snacks, so it is a great choice in any
+ case. We are on Main Street. Waiting for your order!}
+{139}{}{Maybe some other time. [Back.]}

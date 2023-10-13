@@ -1,0 +1,34 @@
+{100}{}{Welcome to the "House of Pleasure" stranger. I'm Diana and I run this place. So, what would be your pleasure
+ this time?}
+{101}{}{Women.}
+{102}{}{Info.}
+{103}{}{Nothing at the moment.}
+#
+{104}{}{Welcome again stranger. Are you looking for some entertainment?}
+{105}{}{Sure. Do you have something for me?}
+{106}{}{Mind if I ask you something?}
+{107}{}{Nothing at the moment.}
+#women
+{108}{}{Of course, we got a good selection. You can chose regular "action" for $20. For $80 you can get a bath and
+ body massage and spend some time with any girl you chose. Or, if you just require a bath, that'll cost you $40. What
+ would it be?}
+{109}{}{Regular "action" sounds great. Here's $20.}
+{110}{}{A bath would be just fine. [Hand her $40.]}
+{111}{}{I'm in need of some "full" attention, make it $80.}
+{112}{}{Actually, I need something else.}
+{113}{}{I'm not interested right now, maybe later.}
+#no money...
+{114}{}{You don't have the money to pay for that, and my girls don't work for free.}
+{115}{}{I'll be back with some money.}
+#have money...
+#action
+{116}{}{Alright, room number two. Your girl is waiting for you.}
+#bath
+{117}{}{Alright, your bath is waiting at room five.}
+#full
+{118}{}{Nice choice sir. Room number four is just for you.}
+{119}{}{Thanks.}
+#info...
+{120}{}{I don't have anything to talk about, except business.}
+{121}{}{Let's talk some business then.}
+{122}{}{Sorry, some other time then.}

@@ -1,0 +1,21 @@
+{100}{}{I'm looking at you, too.}
+{101}{}{What do you want?}
+{102}{}{Who are you?}
+{103}{}{Why are you bothering me?}
+{104}{}{I can't talk right now.}
+{105}{}{Don't you have something better to do?}
+#
+{106}{}{Badness will follow badman!}
+{107}{}{Go home, we don't want you here!}
+{108}{}{Leave us, you troublemaker!}
+{109}{}{Stupid bastard!}
+{110}{}{Don't make me beat you!}
+{111}{}{Don't you ever talk to me, scum!}
+{112}{}{What?! You are still here?!}
+#
+{113}{}{Welcome stranger.}
+{114}{}{Good day to you.}
+{115}{}{How's it going?}
+{116}{}{Heard any rumors lately?}
+{117}{}{Watch yourself around here.}
+{118}{}{I'm fine, how are you?}

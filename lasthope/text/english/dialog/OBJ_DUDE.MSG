@@ -1,0 +1,9 @@
+{100}{}{Go To:}
+{101}{}{LEVEL 1}
+{102}{}{LEVEL 2}
+{103}{}{LEVEL 3}
+{104}{}{LEVEL 4}
+{105}{}{LEVEL 5}
+{106}{}{LEVEL G}
+{107}{}{[EXIT]}
+{108}{}{Your intelligence is too low, it will affect your ability to speak.}

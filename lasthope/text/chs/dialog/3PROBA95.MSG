@@ -1,0 +1,11 @@
+{100}{}{Hello, sir.}
+{101}{}{Need something repaired? Talk to Nick.}
+{102}{}{Talk to Nick, he can help you.}
+{103}{}{I just work here, Nick is in charge.}
+{104}{}{My boss, Nick, is in the house.}
+#bad chararter...
+{105}{}{I'm busy...}
+{106}{}{I just work, I don't talk.}
+{107}{}{Want some advice? Get the hell out of here.}
+{108}{}{You're not welcome here.}
+{109}{}{You're going to pay for what you did.}

@@ -1,0 +1,203 @@
+@Quotes from the development:
+#(Press ESC to skip)
+
+
+
+#FK doesn't like exit grids, move to commands and half-way 
+#through development he decided that he doesn't like 
+#else begin much either.
+
+#M:
+"Are you sure this is a good idea?"
+#FK:
+"It works, right?"
+#M:
+"Yeah..."
+#FK:
+"Fine, I leave it then."
+
+#FK:
+"This is not the twilight zone."
+#- reply to a 800 word bug report
+
+#M:
+"Or you can just copy & pasta."
+#FK:
+"Yes, please."
+
+#FK:
+"All my maps were build by aliens."
+#M:
+"Those again. Ask them about Elvis."
+#M:
+"Anyway, I think they fixed the script this time."
+
+#FK:
+"Just a detail, I'm glad we agree on that."
+#- after a proposal that a door should give 90 XP instead 85
+
+#FK:
+"I don't want to give too much attention to them, 
+those scum deserve none."
+#- regarding a bandit script
+
+#FK:
+"This brahmin doesn't go anywhere, ever, it's well 
+trained. But I always wanted to have the option to get it 
+drunk for some reason."
+
+#FK:
+"Interesting CSI reconstruction, I just removed the line."
+#- after being offered a full fix of a node (in detail), 
+#or to just delete the line... M won a bet with this one
+
+#FK:
+"Nice, you included a mapping tutorial."
+
+#FK:
+"Keep for later or recycle, but I keep going back asking 
+myself what this does anyway :)."
+#M:
+"-.-"
+
+#M:
+"I'll be checking again. No more funny business. :)"
+#FK:
+"I'm counting on it. :)"
+
+#FK:
+"Back to the future (facepalm)."
+#M:
+"You did get lost along the way... :)"
+#FK:
+"That I'm guilty of. :)"
+
+#FK:
+"Exactly, if ever, corrected of course, we're not 
+preparing for the apocalypse."
+
+#FK:
+"Yes, it's wrong, should be fine now. I was playing 
+roulette while assigning town rep gvars, don't know what 
+they do - don't care. :)"
+
+#FK:
+"I knew the F8 button would save the world! I believe 
+in you, Willy!" 
+
+#FK:
+"Most people don't usually play Ghost Buster games, but 
+when they do, they better consult you. :)"
+
+#M:
+"Yeah, you're right this is stupid... the fix isn't even 
+better than the glitch..."
+
+#M:
+"Potential research project, maybe the frm or proto can 
+be fixed..."
+#FK:
+"Oh no, don't go there. :)"
+
+#FK:
+"Np, lets move on if there's no angry mob waiting 
+outside."
+
+#M:
+"I would clean that up, but it's up to you."
+#FK:
+"Well, hot potatoes! I used wall s.t mostly, I guess 
+I'll do some "shovelling", just here. It will be our little 
+secret."
+
+#FK:
+"I can edit everything that needs to be fixed, with or 
+without patch000. Those are mostly for the main game and 
+I'm not fixing the damn thing, that was Tim's job. :)"
+#M:
+"Still, we can take advantage of the stuff they did fix, 
+especially the generic scripts (lockers, car trunk, dice 
+girl etc.)."
+#FK:
+"My precious! Gollum doesn't want it... -.-"
+
+#M:
+"You forget to adjust Node014:"
+#FK:
+"(cursing in Klingon)...ghuy' "
+
+#FK:
+"This was easy, is everyone alive?"
+
+#FK:
+"I added some walls with no logical explanation of how 
+they got there, but I like those, like the great wall of 
+China. People like walls. :)"
+
+#FK:
+"Players don't usually think about the logic, they want 
+more loot, we (the modders) are here to grant those wishes. 
+:)s"
+
+#FK:
+"When you see how little I've followed your suggestions, 
+you will surely make another report just for this.  JK:)"
+
+#M:
+"Then again, it may also sort itself out (as seen) and the 
+crashes I had were save editor related."
+#FK:
+"It'll sort itself then, problem solved."
+
+#M:
+"(I can give you lists of items (of where they are), but 
+not sure you want to do this atm.)"
+#FK:
+"Good guess, not doing this now. :)"
+
+#M:
+"Remove the Meat Jerky. It has script or something."
+
+#FK:
+"Exposition is da real killer here. Troy burned for this!"
+
+#FK:
+"Bandit leader is already VIP, no presidential pass 
+given."
+#20 minutes later...
+#M:
+"That's not the point!"
+
+#M:
+"Not the most stable of engines, is it? :)"
+#FK:
+"gm's tried, who am I to judge. :="
+#- case-in-hand: player can click a ladder through a trapdoor
+
+#FK:
+"This is a bit harder than it looks."
+#M:
+"But you bloody did it! :) It works!"
+
+#FK:
+"Indeed, I kept files from early version 1.04 (2009), 
+same error. I'm glad this will be fixed 10 years later. :)"
+
+#FK:
+"This door is slowly killing me."
+
+#M:
+"This scripting stuff is more fun than sudoku. :)"
+
+#FK:
+"That's a pretty long explanation of your scripting 
+Frankenstein experiment. :)"
+
+#FK:
+"This was easy, so multiverse final formula is close, 
+Nobel?"
+#M:
+"...almost. ;)"
+
+#FK:
+"I copy-paste, I robot."

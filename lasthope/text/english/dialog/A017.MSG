@@ -1,0 +1,18 @@
+#neutral
+{100}{}{You want a job, talk to Eric.}
+{101}{}{My boss Eric can get you some work.}
+{102}{}{Want to work for us? Talk to Eric.}
+{103}{}{If you are looking for work, talk to Eric.}
+{104}{}{I can't help you, but Eric could.}
+#good
+{105}{}{Thanks for your help.}
+{106}{}{Glad to see you again.}
+{107}{}{I'm sure Eric is here somewhere.}
+{108}{}{Hi!}
+{109}{}{Nice to see you.}
+#bad
+{110}{}{I don't have time for your crap.}
+{111}{}{Don't you have something better to do?!}
+{112}{}{Hey! Don't bother me.}
+{113}{}{You have been told to stay away from this place.}
+{114}{}{Don't just stand there, beat it.}

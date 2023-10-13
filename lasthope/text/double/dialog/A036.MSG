@@ -1,0 +1,7 @@
+{100}{}{You have repaired the power generator. You gain 200 exp. points.}
+{101}{}{You failed to repair the power generator. But you think you can do it.}
+{102}{}{[Chance: }
+{103}{}{You failed to repair the power generator. Seems like an impossible task at the moment.}
+{104}{}{It's not working. But the main parts seem intact and functional. Maybe you can fix this?}
+{105}{}{Doesn't seem to be working.}
+{106}{}{You're not sure what's wrong with it.}

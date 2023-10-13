@@ -1,0 +1,20 @@
+{100}{}{Watch my back.}
+{101}{}{Let's go.}
+{102}{}{It's hunting time.}
+{103}{}{Ready when you are.}
+{104}{}{Take them down.}
+#
+{105}{}{You let my man die.}
+{106}{}{I thought I could trust you.}
+{107}{}{Get the hell out of my face.}
+{108}{}{I told you to watch my back.}
+{109}{}{What's wrong with you? Get the fuck out of my face!}
+#
+{110}{}{You won't get a buck, you let my man die!}
+{111}{}{I don't care about the damn rats, my man died!}
+{112}{}{Oh no, my man is dead. I'm not paying you a damn buck!}
+{113}{}{You let my man die. You're lucky I don't shoot you right in the face!}
+#
+{114}{}{I think we got them all. Nice shooting stranger, here's $2000 for the job. Now, if you don't have any questions,
+ I'm going to skin those molerats. Their fur looks nice... See you later, stranger.}
+{115}{}{Thanks, Martin.}

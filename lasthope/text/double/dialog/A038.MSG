@@ -1,0 +1,2 @@
+{100}{}{The door has no mechanism to open it, nor does it have a lock that can be picked.}
+

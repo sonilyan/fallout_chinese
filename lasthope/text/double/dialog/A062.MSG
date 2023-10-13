@@ -1,0 +1,6 @@
+{100}{}{If you want some action, you'll have to pay.}
+{101}{}{Hi there, want some attention?}
+{102}{}{I can't help you, but if you have some money to spend...}
+{103}{}{Talk to Diana and I'm all yours, handsome.}
+{104}{}{I work, so if you don't mind, I'm waiting for a new customer.}
+{105}{}{Diana can set you something up real nice.}

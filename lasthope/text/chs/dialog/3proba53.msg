@@ -1,0 +1,14 @@
+{100}{}{Who are you, mister?}
+{101}{}{Haven't seen you before.}
+{102}{}{Are you new here, sir?}
+{103}{}{You look funny.}
+#
+{104}{}{I want to be just like you.}
+{105}{}{Hello, mister.}
+{106}{}{You are my hero.}
+{107}{}{You look funny.}
+#
+{108}{}{Oh!}
+{109}{}{The boogieman!}
+{110}{}{Run for your lives!}
+{111}{}{I want my mummy!}

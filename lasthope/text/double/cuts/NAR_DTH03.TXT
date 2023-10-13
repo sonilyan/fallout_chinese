@@ -1,0 +1,2 @@
+1:The wasteland has claimed your life.
+2:Whatever you tried to accomplish has failed.

@@ -1,0 +1,11 @@
+{100}{}{Good day.}
+{101}{}{Welcome to Red's Bar.}
+{102}{}{My boss, Red, is a good man.}
+{103}{}{Don't try to steal anything.}
+{104}{}{You can order a drink at the bar.}
+{105}{}{You'll be back, they always like it here.}
+{106}{}{We don't want troublemakers, so take it easy.}
+#
+{107}{}{I'll have to ask you to put away your weapon, stranger.}
+{108}{}{Please, put your weapon away.}
+{109}{}{We don't allow our customers to walk around waving their guns.}

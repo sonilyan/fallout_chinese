@@ -1,0 +1,10 @@
+{100}{}{Hey!}
+{101}{}{Who are you?}
+{102}{}{I don't like the looks of you.}
+{103}{}{Better watch your step...}
+{104}{}{This is no place for you.}
+{105}{}{I'm watching you.}
+{106}{}{Don't try anything funny.}
+{107}{}{Keep in mind we don't like outsiders.}
+{108}{}{Something you want?}
+{109}{}{I suggest you do your "walking" someplace else.}

@@ -1,0 +1,35 @@
+{100}{}{Hey man, wanna buy some stuff? It can make you fly.}
+{101}{}{What's "it" ?}
+{102}{}{No, I don't want your "stuff".}
+{103}{}{Get lost, junkie.}
+#what's it?
+{104}{}{It's the best stuff you've ever seen. Take a look...}
+{105}{}{Alright, show me the "stuff".}
+{106}{}{No, thanks.}
+#after trade...
+{107}{}{You'll be back. They always come back when they try my stuff.}
+{108}{}{Sure.}
+#don't want...
+{109}{}{If you think somebody is going to give you a better price for it, you're very wrong. I offer best quality at
+ low prices. I'll be here if you change your mind.}
+{110}{}{Sure.}
+#dude reputation accepted
+{111}{}{Sorry man, I don't deal with locals.}
+{112}{}{Alright.}
+#
+{113}{}{How's it going man? Need something to chill you out?}
+#
+{114}{}{Do you know who runs the business up in the town?}
+#
+{115}{}{No, I have no idea. I'm just a small dealer.}
+{116}{}{You sure you don't know?}
+{117}{}{Right.}
+#don't know.
+{118}{}{Of course, guards are inspecting everybody and everything. So I'm not sure outsiders can smuggle something
+ in that easy. It has to be somebody from the inside, at least that's what I think.}
+{119}{}{We'll see.}
+#
+{120}{}{I already told you. It has to be one of the locals, otherwise, I have no idea.}
+{121}{}{Sure. Talk to you later.}
+#
+{122}{}{There has to be some other way to smuggle drugs in...}

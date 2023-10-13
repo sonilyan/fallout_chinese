@@ -1,0 +1,78 @@
+#player is neutral
+{100}{}{Are you new in town?}
+{101}{}{Haven't seen you before.}
+{102}{}{Usually refugees come here looking for food.}
+{103}{}{Are you running away from something?}
+{104}{}{Where did you come from?}
+#player is disliked
+{105}{}{Ever have thoughts about how boring you are?}
+{106}{}{We don't like strangers at all.}
+{107}{}{You are disturbing me!}
+{108}{}{I have nothing to say.}
+{109}{}{This is no place for you.}
+#player is liked
+{110}{}{I'm sure we can get along.}
+{111}{}{Well, I was wrong about you.}
+{112}{}{Glad to have you here.}
+{113}{}{Your help is appreciated.}
+{114}{}{We owe you for this.}
+{115}{}{You have my thanks, traveler.}
+#player is hated
+{116}{}{Damn bastard!}
+{117}{}{You murderer!}
+{118}{}{Who do you think you are? Killing people...}
+{119}{}{Please don't kill me!}
+{120}{}{I don't want to die.}
+{121}{}{Just get away from me.}
+{122}{}{Don't come any closer!}
+#
+{123}{}{Nice to see you stranger. I've heard of your brave deeds. There aren't many of your kind around in these
+ times of darkness. Would you be so kind to hear the words of this old man for a few moments?}
+{124}{}{OK, you've got my attention.}
+{125}{}{Later.}
+#
+{126}{}{There's a man I want to help, but he won't listen. His life is in danger, by a band of gangsters who threatened
+ everybody to keep their mouth shut or get killed. Donson is the name of this person I want to warn. I can tell you what
+ I know... I'm afraid that's all I can do.}
+{127}{}{Who are these gangsters?}
+{128}{}{Who's Donson?}
+{129}{}{What are they after?}
+{130}{}{This is none of my business, I'm gone.}
+#gangsters... 127
+{131}{}{I'm not sure, they go by many names but all these crime circles have one thing in common. They all represent
+ themselves as the "true salvation" of the people. Nobody wants to take responsibility for the mess they are causing on
+ a daily basis but instead they blame our mayor. Some of the locals surely know the whole story, but they won't dare to
+ speak...}
+{132}{}{Can I help somehow?}
+#
+{133}{}{Since I don't know anybody else suited for this, yes, you might be our best chance. Find the mayor, warn
+ him about what's going on. Our fate depends on you.}
+{134}{}{I need to ask you something before I go.}
+{135}{}{I will.}
+#something else...
+{136}{}{Of course, what do you want to know?}
+#who's Donson...
+{137}{}{He's our mayor, not elected though, but accepted by the people of Philton. We had a corrupt government
+ before him... For many years chaos ruled the streets of our town. Only Donson had the strength and financial backup to
+ end that madness... And he did. This situation, however, is different now...}
+{138}{}{Different, how?}
+#
+{139}{}{He's not aware of the danger lurking in the dark, ready to strike anytime. Some people don't like him and want
+ to destroy every trace of his dedication and commitment to this town at all costs. I hope he'll realize that, before
+ it's too late.}
+{140}{}{I agree. Let me ask you something.}
+#what are they after...
+{141}{}{Isn't it obvious they want to eliminate him and take control of the town? Donson may be the only man with a
+ true vision and the will to make this town a better place to live in. So far, he has achieved the unthinkable... We must
+ deal with these criminals! If I only knew how...}
+{142}{}{Can I help somehow?}
+#
+{143}{}{I'm glad we meet again, that only tells me that our hope still lives. What do you want to know?}
+{144}{}{Actually nothing, I'm going.}
+#
+{145}{}{I've heard of you, and I'm afraid I didn't like what I heard. I won't make any trouble, just leave.}
+{146}{}{Time for you to make some noise, old man!}
+{147}{}{Whatever, I'm gone.}
+#
+{148}{}{I'm glad we meet again, that only tells me that our hope still lives. Would you be so kind to hear the words
+ of this old man for a few moments?}

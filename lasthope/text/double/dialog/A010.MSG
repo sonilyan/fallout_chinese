@@ -1,0 +1,6 @@
+{100}{}{There's an old factory, that's what I've heard.}
+{101}{}{The sea air is good, but all I find is garbage here.}
+{102}{}{We never found a way inside that building.}
+{103}{}{We are keeping this place from curious visitors.}
+{104}{}{You better go away, we don't like sticky fingers.}
+{105}{}{This is no place to wander, pal. Walk away.}

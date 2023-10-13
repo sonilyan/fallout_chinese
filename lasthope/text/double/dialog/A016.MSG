@@ -1,0 +1,17 @@
+{100}{}{Lights please... I want to welcome and thank you all for coming here, on this nice evening.}
+{101}{}{As you know, our host Mr. Eric, has prepared a special program for you tonight.}
+{102}{}{We have brought to you the finest warriors from the wasteland. In my left corner, fresh meat from the wasteland...}
+{103}{}{!}
+{104}{}{In my right corner, the ultimate fighter... }
+{105}{}{Bone-Crusher Jacob!}
+{106}{}{So, you have met our two opponents. Place your bets and may the best win!}
+{107}{}{Fight!}
+{108}{}{With great pleasure, I want to announce that our champion is...}
+{109}{}{...and still is... Bone-Crushing Jacob!}
+{110}{}{Well, looks like we have some interesting twists here...}
+{111}{}{...uh... so Mr. Eric wants you to know...}
+{112}{}{...that umm... this was the last fight for tonight...}
+{113}{}{Hey, I won! What's going on?}
+{114}{}{So, join us next time.}
+{115}{}{Well, looks like we have a new winner here!}
+{116}{}{!}

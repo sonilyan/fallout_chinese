@@ -1,0 +1,46 @@
+{100}{}{I can get you the finest brahmin meat.}
+{101}{}{I cut here, I cut there, I cut them everywhere. Makes me happy.}
+{102}{}{If you want to buy meat, we can arrange something.}
+{103}{}{Hey, fresh meat over here.}
+{104}{}{People say that I got the best meat in town.}
+{105}{}{Ever tried my brahmin cutlets? They are number one!}
+#
+{106}{}{I'm sure I've seen you around. Can I get you something?}
+{107}{}{Yeah, some money you owe Eric.}
+{108}{}{You owe $2000 to Eric, hand over the money.}
+{109}{}{Nothing, thanks.}
+#yeah...
+{110}{}{Who's Eric? This is the first time I hear about him... you confuse me with someone or somethin'? What a
+ minute, did you say I owe money to someone?}
+{111}{}{Now, don't be silly. Eric sent me to collect the money you owe him.}
+{112}{}{So you don't want to give me the money?}
+#Eric send me...
+{113}{}{Wait... Eric, hm, must be that bastard everybody is talking about. You have got to be kidding me, everybody
+ owes money to him! How on earth did my name got on his pay list!? Listen man, you're pissing me off so you better
+ run for it before I show you how sharp my butcher knife is!}
+{114}{}{Easy man, I'm going.}
+{115}{}{In that case, I suppose you won't mind to see what I have here!}
+#so you don't want...
+{116}{}{Because I don't have it! Why don't you tell that bastard to buy some veal chops instead! I get very hungry
+ when I'm nervous. And when I'm nervous... [looking at his knife] I like to slice and dice!}
+{117}{}{Hehe, I'm just kidding Mr. Myers! [Leave.]}
+{118}{}{Maybe I got something for you. Here, take your last look!}
+#you owe $2000...
+{119}{}{Yeah, so what? Cutting meat wasn't going to make me rich. But I sure told him that and he agreed to give
+ me the money anyway, and now he wants it back? I'm sorry but I can't give you any because I don't have it. I'm not a
+ liar! Just don't do anything stupid and later find out that I'm right...}
+{120}{}{I don't like to do this dirty work, I must think of something else. But I'm watching you!}
+{121}{}{Maybe I'll kill you, after all it will make me feel a whole lot better.}
+#kill...
+{122}{}{Oh yeah! Look, there's my friend. Say hello, Mr. Butcher Knife.}
+{123}{}{Nice to meet you Mr. Dead Meat!}
+#
+{124}{}{I told you, I don't have the money.}
+#
+{125}{}{Now I'm a free man, thanks to you.}
+{126}{}{I'll not forget this.}
+{127}{}{Thank you stranger, I owe you now.}
+#
+{128}{}{Get lost, you bastard.}
+{129}{}{What did I tell you? Get out!}
+{130}{}{You really are one stupid bastard.}

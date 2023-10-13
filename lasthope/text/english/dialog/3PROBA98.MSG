@@ -1,0 +1,46 @@
+{100}{}{Are you going to do something about those thugs?}
+{101}{}{Look under the docks.}
+{102}{}{This, you'll have to do by yourself.}
+{103}{}{I'm counting on you.}
+{104}{}{Time is running short.}
+{105}{}{Do you have any plan on how to kill those bastards?}
+#
+{110}{}{I'm sure we can get along.}
+{111}{}{Well, I was wrong about you.}
+{112}{}{Glad to have you here.}
+{113}{}{Your help is much appreciated.}
+{114}{}{We owe you for this.}
+{115}{}{You have my thanks, traveler.}
+#
+{123}{}{I heard Mr. Donson hired you... and I know he's never wrong about people. As always I'll trust his judgment,
+ I owe him as much. He will be interested to hear that I know who's behind this...}
+{124}{}{Behind what...?}
+#
+{125}{}{This conspiracy against Mr. Donson. I can't stand aside any more... Those bastards warned me to keep my
+ mouth shut but I don't take orders from wasteland trash. Please tell mayor Donson about a group called the "Mad
+ Scorpions"...}
+{126}{}{So, who are they?}
+#
+{127}{}{They might as well be the very reason for what's happening. I heard they came from the east, disguised as
+ merchants. After several years of silence and planning, they approached the common people of Philton but they pushed
+ their agenda too far. It was only a matter of time until we figured out they are nothing more than petty criminals...}
+{128}{}{...and?}
+#
+{129}{}{When they realized that the locals weren't so easy to break, they turned to desperate measures. Seriously,
+ I'm convinced it's in this town's best interest to "surgically" remove this "cancer", so I did some background check on
+ them and found out the most likely place they would choose for their hideout. But first you must inform Mr. Donson
+ about this, then we will talk more.}
+{130}{}{Alright.}
+#
+{131}{}{You just go inform Mr. Donson about the situation. I will be waiting here.}
+#
+{132}{}{I'm glad you made it back. Now, I'm not sure about their current whereabouts but I think you should check out
+ the more easily accessible places on the edges of town. I could be wrong about this because they may have changed
+ their tactics but I would bet those rats aren't hiding! No, they are too smart and cocky for that... Better hurry
+ before they start doing some bad things around town.}
+{133}{}{You're right, I'm on it.}
+#
+{134}{}{Who are you?}
+{135}{}{No time for talk.}
+{136}{}{You want something?}
+{137}{}{I'm busy here.}

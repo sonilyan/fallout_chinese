@@ -1,0 +1,10 @@
+{100}{}{Did you watch the fight?}
+{101}{}{Are you a fighter or something?}
+{102}{}{I always put my money on Jacob.}
+{103}{}{Did you see Jacob in action, he's a killer.}
+{104}{}{I wonder how much to put on the next fight.}
+{105}{}{Where's my drink!? Oh sorry, I thought you work here.}
+{106}{}{I really don't want to talk right now.}
+{107}{}{Wait 'till you see Jacob. Did you know they call him "The Bone Crusher"?}
+{108}{}{Eric sure knows how to make people entertained. Show some blood, and people will pay for more.}
+{109}{}{I guess you should find yourself a seat before the fight begins.}

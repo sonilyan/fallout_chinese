@@ -1,0 +1,121 @@
+{100}{}{Welcome to my bar, customer. Can I get you something?}
+{101}{}{I want a drink.}
+{102}{}{Can I get some info.}
+{103}{}{Nothing.}
+#drink...
+{104}{}{OK, here's what I got.}
+{105}{}{Beer...............$20}
+{106}{}{Booze..............$15}
+{107}{}{Roentgen Rum........$30}
+{108}{}{Can I ask you something?}
+{109}{}{That's too much for me. I'll pass for now.}
+#ask something...
+{110}{}{Sorry, I talk only with my customers. Buy something and maybe I'll have a few minutes to spare.}
+{111}{}{Alright, let me see what you have.}
+{112}{}{I don't want anything right now, later.}
+#after buy...
+{113}{}{Anything else I can get you?}
+{114}{}{Yeah, let me have another look.}
+{115}{}{Some info would be just fine.}
+{116}{}{Nothing thanks.}
+#info after buy...
+{117}{}{Sure, I can help a customer. What you want?}
+{118}{}{Anything going on here?}
+{119}{}{Nothing actually, bye.}
+#going on...
+{120}{}{Well there's plenty of things going on. First, raider attacks have become more frequent so mayor Donson
+ increased the number of patrols around the city. Then there's a rumor that drug smugglers have a secret base
+ somewhere in town but so far town authorities couldn't confirm it.}
+{121}{}{Anything else?}
+{122}{}{Alright, thanks.}
+#
+{123}{}{Some of the town inhabitants have gone missing. But that's not our problem because they have their precious
+ mayor to take care of them. If they can't protect their own... guess that puts us out of the equation, at least until they
+ blame us.}
+{124}{}{Anything else?}
+{125}{}{I see. Thanks.}
+#
+{126}{}{I can't remember anything else right now. Catch you later.}
+{127}{}{Sure.}
+#
+{128}{}{I sure am glad when my customers come back. So, what can I get you?}
+#dude don't have money for drink...
+{129}{}{And how do you intend to pay for those?}
+{130}{}{I'll get some money next time.}
+#updated... 03.04.2007...
+{131}{}{I'm looking for one of your regular customers, Paul?}
+#
+{132}{}{I'm really not sure...? Who are you talking about?... Can you tell me more about this person?}
+{133}{}{Listen lady! I work for Mr. Donson and I want some answers!}
+{134}{}{I have a gun in my pocket so you better tell me something useful!}
+{135}{}{I've heard he's in some kind of trouble, I want to help before it's too late.}
+{136}{}{Forget it.}
+#133 and 134...
+{137}{}{You wait here... I uh, know someone who can help you. [Pulls a gun from under the bar and points it at you.]}
+{138}{}{Wow, wait...}
+#
+{139}{}{You shouldn't have come here in the first place!}
+#help...
+{140}{}{I agree... Well, he felt he would be safer up in the city. He mentioned the docks but I'm not exactly sure where
+ he is now or how long he's going to stay there...}
+{141}{}{Thanks, that should be enough.}
+#
+{142}{}{I'm looking for some folks... One of them is called Jeff?}
+#
+{143}{}{Sorry stranger, I don't know anyone by that name. Why are you looking for him... He owes you money or something?}
+{144}{}{No, he's actually a convicted criminal... But he escaped from prison...}
+{145}{}{He owes me a lot more than just money...}
+{146}{}{Let's just say I have to find him before someone else does.}
+{147}{}{That's none of your damn business.}
+#criminal...
+{148}{}{Like I said, I can't help you with that but you can ask around. Most of my customers are travelers of some
+ sort, outsiders, because we're not allowed to go inside the town.}
+{149}{}{Why is that?}
+{150}{}{OK, I'll ask around.}
+#why is that...
+{151}{}{Because we don't support Donson's new rule. And it may seem otherwise but he made our survival much
+ harder. Even if I'm considered to be "the rebel" in the eyes of those I once lived with, I still believe my life is better than it used to be.}
+{152}{}{If that is what you wanted, I have nothing more to add.}
+#a lot more...
+{153}{}{Well then, it's not my job to know all the scum that comes here. Whatever business you have with them, you
+ better move it out of my bar!}
+{154}{}{Why, I'm not leaving just yet!}
+{155}{}{Alright, I'll leave your stinking bar!}
+#find him before...
+{156}{}{Right, if you're in a hurry... I could point you in the right direction. Got any tip to start with?}
+{157}{}{How about $500?}
+{158}{}{$1000 sounds good for you?}
+{159}{}{Sorry, I don't have money right now.}
+#500...
+{160}{}{Uh, sure it's better than nothing. It happened a few days ago... Around the evening I think. Usually my bar is
+ full at that time but I couldn't forget those four guys sitting by that table in the corner. They looked different, wearing
+ some funny looking clothes, like... um, you know that old church robes...}
+{161}{}{I've seen something similar before.. I bet those were not purple robes?}
+{162}{}{I think gray or something darker... Anyway, one of them approached to order some drinks. I couldn't resist to
+ ask why they were wearing those robes. We had a little conversation there and I noticed he's in some kind of trouble
+ because he said someone will ask around about them. Obviously he was right. [Smiles.] Since my only concern is MY
+ business, I can tell you that your man went someplace south. That's all I can tell you.}
+{163}{}{Good enough, thanks.}
+#$1000...
+{164}{}{[Counting the money.] Sure thing, my fine customer. I'll be happy to tell you all about it. It happened a few
+ days ago... Around the evening I think. Usually my bar is full at that time but I couldn't forget those four guys sitting by
+ that table in the corner. They looked different; wearing some funny looking clothes like... um, you know those old
+ church robes...}
+{165}{}{Sure, I bet those were not purple robes?}
+{166}{}{I think gray or something darker... Anyway, one of them approached to order some drinks. I couldn't resist
+ and asked why they were wearing those robes. We had a little conversation and I noticed he's in some kind of trouble
+ because he said someone will ask around about them. Obviously, he was right. [Smiles.] Since my only concern is MY
+ business and you sure pay well for your business, I can tell you that your man went south. I believe the place is called
+ Canville. That's all I can tell you.}
+{167}{}{You have been helpful, thanks.}
+#already asked about escaped convicts/Jeff...
+{168}{}{I've asked you earlier about Jeff...}
+#
+{169}{}{Yeah, I remember but I don't know anyone with that name. Why do you keep looking for him... He owes you
+ money or something?}
+#Matthew killed
+{170}{}{You and Donson are all alike. Nothing but common murderers.}
+{171}{}{How dare you come into my place after what you've done.}
+{172}{}{All these people out here are nothing to you, aren't they?}
+{173}{}{What makes you so grand that you think you can enforce your rule on us!}
+{174}{}{Matthew was kind. He really cared. Not like some bastards...}

@@ -1,0 +1,2 @@
+1:You have died.
+2:Your past and present fade to black - and into oblivion.

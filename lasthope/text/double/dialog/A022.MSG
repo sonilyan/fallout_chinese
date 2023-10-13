@@ -1,0 +1,41 @@
+{100}{}{Hey there, stranger. I'm Jake. I'm selling only the finest refined ore. If you want high quality, you talk to me.
+ What do you need?}
+{101}{}{Show me your collection of ores and minerals.}
+{102}{}{Where do you mine ore and such?}
+{103}{}{I don't need anything right now.}
+#
+{104}{}{Did you forgot to buy something or do you really like to look at my stock, huh? Oh, nevermind, just tell me
+ what you need.}
+#
+{105}{}{Thanks for your visit, come back again.}
+{106}{}{I sure will, Jake.}
+#mine ore...
+{107}{}{Well, I don't personally mine it, but I have associates in Miners Town who do the dirty work for me, sending
+ me small samples of whatever they can. I'm too old to hold a shovel, if you know what I mean.}
+{108}{}{Yep, guess I do. Mind if I ask you something?}
+#
+{109}{}{Not at all, I'm always at your service.}
+#
+{110}{}{I thought you were selling mining equipment, too?}
+#mining equipment
+{111}{}{Sorry, with the caravan trade dried up all supplies are running low. I got some ore from up north, but
+ anything else been cut off.}
+{112}{}{And if I make you a special offer?}
+#special offer
+{113}{}{Well, what do you need?}
+{114}{}{3 ropes, 5 flares and explosives.}
+{115}{}{Nothing.}
+#3 ropes, 5 flares and explosives
+{116}{}{Know what, I may be able to find those. Won't be easy, though, but for a good friend - I *just* might be able
+ to. } #space at the end needs to stay
+{117}{}{What about, eh, } #space at the end needs to stay
+{118}{}{$2500, for the effort.}
+{119}{}{$2000, for the effort.}
+{120}{}{$1500, for the effort.}
+{121}{}{Deal.}
+{122}{}{I didn't ask for the entire mine. Thanks, but no thanks.}
+#not enough money
+{123}{}{I don't want to judge your ability to count or anything, but that is not the sum we agreed upon.}
+{124}{}{My bad.}
+#second time
+{125}{}{Can we talk about your price for the mining equipment again?}

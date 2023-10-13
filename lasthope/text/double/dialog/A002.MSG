@@ -1,0 +1,68 @@
+{100}{}{Hey man. What can old Ron do for ya?}
+{101}{}{Do you have anything for sale here?}
+{102}{}{What's your job here?}
+{103}{}{What is this place?}
+{104}{}{Nothing, I'm out of here.}
+#for sale...
+{105}{}{If you are interested, I sell barrels, metal bars, heavy duty tools... all kinds of stuff made of metal.}
+{106}{}{Sounds interesting, let me see...}
+{107}{}{Actually, I wanted to ask you something.}
+#who are you...
+{108}{}{As you can see, I'm the only mechanic in town and I run this shop. Believe it or not, after forty years I
+ still like this work but I'm getting old. Slowly, I'm starting to have problems because these items are becoming more
+ heavier and harder to make... looks like I have to move on to lighter materials [smiles].}
+{109}{}{Interesting idea, need any help?}
+{110}{}{Sorry to hear that, can I ask you something?}
+#troubles...
+{111}{}{Sure I do. You see, to build metal barrels or anything similar I need some iron ore to begin with... which was
+ available when there were caravans around. But since they lost interest in this town and stopped coming, I'm pretty
+ much left on my own.}
+{112}{}{How much ore do you need?}
+{113}{}{Why did they lose interest in this town?}
+#how much...
+{114}{}{About ten pieces should do fine. I can give you $2000 for the trouble. If you accept the job I'll tell you
+ all the details you have to know. So, want the job?}
+{115}{}{Alright, tell me all about it.}
+{116}{}{I'll talk to you later.}
+#all about it...
+{117}{}{Getting that ore shouldn't be a problem. You can get it from local merchants. When you collect all ten
+ pieces, go to the town of Canville and look for Greg, the smelter. Tell him I sent you, he'll know what to do. When you
+ finish the job, come back here.}
+{118}{}{Sure thing, Ron.}
+#lost interest...
+{119}{}{Donson drove the caravans out of town. Most of them were disguised criminals and bandits but any honest
+ minority there was, they were pushed away too. So, did we beat corruption? Only god knows...}
+{120}{}{You mentioned you need some ore...}
+#
+{121}{}{I got time, just say it.}
+#
+{122}{}{Ron likes to listen, so what can I help you with?}
+{123}{}{About those barrels...}
+#
+{124}{}{Interested in getting some iron ore for me?}
+#
+{125}{}{I know you didn't deliver that ore, because Greg told me so. If you don't want the job just tell me and I'll hire
+ somebody else. Until then, please do what we agreed.}
+{126}{}{(I guess smoke signals travel fast...) I'm still on the job.}
+{127}{}{Yeah, you do that. I'm off the job.}
+#
+{128}{}{Hah! I see you've brought some... Please, put them in the corner. As I promised, here's the money you earned.
+ It took me a lot of time to get it... I hope you'll appreciate it.}
+{129}{}{I will, thanks Ron.}
+#this place...
+{130}{}{This is my workshop and my home. Age has caught up with me, so I find myself spending more and more
+ time here. I'd rather go fishing or take a vacation to rest my old soul, but this is life and life is hard.}
+{131}{}{I know, let me ask you something.}
+#
+{132}{}{You have nothing to worry about, there's the door.}
+{133}{}{I don't wanna see you.}
+{134}{}{With that attitude, you'll be fine rat meat soon!}
+{135}{}{I know you and you're not welcome here!}
+{136}{}{Don't bother me. I may be the old one but you're the incapable one!}
+#
+{137}{}{Anything else for you, amigo?}
+{138}{}{Let me take another look at your goods.}
+{139}{}{Nothing else, thanks.}
+#
+{140}{}{Unless you bring me the barrels I asked you for, there's nothing for us to talk about.}
+{141}{}{I'll bring them to you.}

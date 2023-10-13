@@ -1,0 +1,130 @@
+{100}{}{Hey, this is my house and you're not welcome here. If you want to get a friend, visit a bar.}
+{101}{}{That's a good one. [Leave.]}
+{102}{}{What if I don't want to go?}
+#
+{103}{}{Then I'm afraid I'll have to hurt you. Really bad.}
+{104}{}{I was hoping for something else, but...}
+#again...
+{105}{}{What are you doing in my house again? I told you to get lost, punk!}
+{106}{}{Sorry.}
+#
+{107}{}{So you're the guy who's helping out Mr. Donson... I respect that. I don't believe I've introduced myself, I'm
+ Eddie. I also work for Mr. Donson... You must be a hard working man since Donson said a couple of good things about
+ you. That makes us partners, right?}
+{108}{}{If you say so. Can I ask you some questions?}
+{109}{}{Actually I like working alone, if you know what I mean.}
+#alone...
+{110}{}{Hey, no problem. Still... I have a feeling you'll be back. Well, see you around.}
+{111}{}{Good day.}
+#question...
+{112}{}{Sure thing partner, what do you wanna know?}
+{113}{}{What is your job here?}
+{114}{}{Know any place where I could find some work?}
+{115}{}{Nothing actually, I'm leaving.}
+#come back again...
+{116}{}{I knew you'd be back. So, what can I do for you, partner?}
+#job here...
+{117}{}{As Donson's adviser I do paperwork mostly. You would be amazed how much work that can be. Well, the
+ good part is I work here in my house, so there's no pressure and I can always take a short break.}
+{118}{}{If you say so. Let me ask you something else.}
+#any place to work...
+{119}{}{Since your work here is well respected, I can make an exception in your case. For a man of your caliber, this
+ should be no problem. There's a town east of here called Golden Valley and there's a military base on the west side of
+ town...}
+{120}{}{Go on...}
+#
+{121}{}{Their scientists are developing a new type of energy cell weapon. Now, I'm not sure what they are going
+ to use it for, but Mr. Donson is very much concerned it could be used against us...}
+{122}{}{What kind of weapon are we talking about exactly?}
+{123}{}{Why against you?}
+#what weapon... 122 and 131
+{124}{}{Well, one using energy cells... I believe it will be highly destructive and we must check anything
+ that looks suspicious before it falls in the wrong hands. To make this easier I'll tell how we intend to obtain the
+ weapon plans, sketches, anything you can find...}
+{125}{}{What's the plan?}
+#
+{126}{}{Smartest thing would be to make a copy of those plans, they are military property and we can't risk the safety
+ of our citizens. We don't even know what we are up against! To be honest, we don't know how to get you in but once
+ you have those copies, return here so we can study them. Rest assured, all your expenses will be covered once
+ you complete your task, so there's nothing to worry about.}
+{127}{}{Except I could end up dead and all... but I'm ready to start right now.}
+{128}{}{I need to prepare for this, I'll talk to you later.}
+#why against you...
+{129}{}{Well, it's a long story and I'm a busy man... but if you really need to know, ask Mr. Donson. I'm sure he can
+ answer any questions you might have about this issue better than myself.}
+{130}{}{I'll talk to him. Let me ask you something first.}
+{131}{}{What type of weapon were you speaking of?}
+#ready to start...
+{132}{}{Alright, but you'll have to get a Replicator device. With it you'll be able to copy those schematics with no
+ problem and our plan will pass undetected. The only thing, of course, is you'll have to find this device. Actually, we do
+ have one in our town but Hank, the guy who owns it, wants a hell of a lot of money for it. So, you'll have to try to make
+ a deal with him. Let me tell you one thing, we can do all this even without this device but once they find out those
+ schematics were stolen, it will only be a matter of time until they'll figure out who did it. So be smart, if that fails...
+ pray they never become suspicious.}
+{133}{}{Sure.}
+#
+{134}{}{About that job...}
+#
+{135}{}{So, are you ready to obtain those copies?}
+#
+{136}{}{Have you discovered any documentation for that weapon?}
+{137}{}{No, nothing yet.}
+{138}{}{Well, I got something. You better take a look at this.}
+#
+{139}{}{This is something alright, but I never saw such technology used for weapon development before. I'll go inform
+ Mr. Donson about this. I'll need you here so don't wander off.}
+{140}{}{Alright...}
+#
+{141}{}{OK, we got everything under control. There's nothing to worry about anymore. Well, partner, looks like you
+ completed another job successfully. I can only congratulate you for your efforts, with a reward of $5000. You have my
+ thanks as well.}
+{142}{}{Thanks. Guess I'll see you later.}
+#
+{143}{}{Hello again, can I help you with something?}
+{144}{}{Do you have any job for me?}
+#
+{145}{}{Yes, I have. Give me a second to find some files I need...}
+{146}{}{Take your time.}
+#
+{147}{}{OK, here they are. We got a trade agreement with Duntown's power plant and we are currently importing a
+ fair amount of electric power from them. But, due to our town's increasing demand, I have to write a request note and
+ arrange the delivery of more power.}
+{148}{}{So, what has to be done?}
+#
+{149}{}{You have to deliver a data disc to Leonard, who's one of the owners and manager of the distribution section.
+ At least make him understand the problems we are having here. Inform me when you are set to go.}
+{150}{}{I think I'm ready now.}
+{151}{}{I'll be back.}
+#
+{152}{}{Well, I got everything set up for your trip. Just let me know when you are ready.}
+{153}{}{I think I'm ready now.}
+{154}{}{I'll be back.}
+#
+{155}{}{Take this disc and give it to Leonard. He should be able to assess the situation from the stored data. Return as
+ soon as possible after you've delivered that disc, and of course with the good news [smiles].}
+{156}{}{Alright.}
+#
+{157}{}{Have you delivered that disc, what is his answer?}
+{158}{}{Not yet.}
+{159}{}{Yes I did and everything went smoothly. Philton will get more power when they fix a couple of things in the
+ power plant.}
+#
+{160}{}{Excellent, now we'll have more power to satisfy the town's needs. Mr. Donson wanted to thank you
+ personally, but he's busy, so I got your reward of $1800. See you later, partner!}
+{161}{}{Sure thing.}
+#
+{162}{}{I don't have anything for you right now, but I'll inform you if any job shows up.}
+{163}{}{Alright.}
+#
+{164}{}{What the...? You son of a bitch!}
+{165}{}{Oh, the pain...}
+{166}{}{I... I can't see...}
+{167}{}{Oh, God... Help me!}
+{168}{}{Somebody... Ah...}
+#after 133...
+{169}{}{Is there any option other than this Replicator thing?}
+#
+{170}{}{I don't think it's worth the effort, but if you can somehow manage to get the plans out of the base, I've heard
+ that a local guy, Aston, runs some kind of "business" there. So he might be able to make the copies for you. But be
+ careful, if the local authorities catch you smuggling the plans, we might not be able to help you.}
+{171}{}{Alright, I'll keep that in mind.}

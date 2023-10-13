@@ -1,0 +1,40 @@
+{100}{}{Hey, stranger. You're far away from home, I reckon. What brings you here?}
+{101}{}{I'm just a simple traveler, what's going on here?}
+{102}{}{I'm wandering through the wasteland, searching for valuables that could be sold.}
+{103}{}{Nothing, just passing by.}
+#traveler...
+{104}{}{Oh yes, we've met a few of your kind. I always offer some of the goods we find in the wasteland, want to
+ check my stuff?}
+{105}{}{No, thanks. I'd like to ask you something though.}
+{106}{}{Sure...}
+{107}{}{Sorry, I really have to go now.}
+#ask something...
+{108}{}{Alright, ask away.}
+{109}{}{What's that building over there?}
+{110}{}{So, what did you say you do here?}
+{111}{}{I don't want to ask you anything right now, later.}
+#building...
+{112}{}{It's some abandoned factory I think, and it really draws attention, don't you think? Since we got here we get so
+ much stuff from the people passing by. Trading in the wasteland has never been better.}
+{113}{}{Well, good for you. So long.}
+#do here...
+{114}{}{We sell everything you'll ever need, stuff, ammo, drugs, just name it.}
+{115}{}{Let me have a look at your stuff.}
+{116}{}{Right, catch you later.}
+#
+{117}{}{See you next time.}
+{118}{}{Sure.}
+#
+{119}{}{I knew you'd be back. Want to trade some goods?}
+#
+{120}{}{Come, take a look at my inventory.}
+{121}{}{Another traveler, perhaps you have some time for trading...}
+{122}{}{Want to trade some goods?}
+#
+{123}{}{Damn thieves. Hand back my valuables now!}
+#
+{124}{}{I want to ask you something else.}
+#ask...
+{125}{}{Did anyone try to get in?}
+#
+{126}{}{}

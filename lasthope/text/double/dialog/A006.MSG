@@ -1,0 +1,24 @@
+{100}{}{I'm busy right now.}
+{101}{}{I have to catch up a lot of work.}
+{102}{}{Can't talk, got so much work here.}
+{103}{}{I don't know... Where's Jackie?}
+{104}{}{Have you seen Jackie? I can't do all this work by myself.}
+#
+{105}{}{Welcome to Red's Bar. Can I offer you some drinks, something to eat?}
+{106}{}{Sure thing.}
+{107}{}{No thanks, maybe later.}
+#
+{108}{}{Anything you need, I'll be here.}
+{109}{}{Alright, bye.}
+#
+{110}{}{Good day, what can I do for you?}
+{111}{}{Show me what you have on the menu.}
+{112}{}{Nothing at the moment, bye.}
+#
+{113}{}{Can I get some info?}
+#
+{114}{}{Sorry, I'm too busy to talk right now.}
+{115}{}{Later then.}
+#
+{116}{}{You'll have to come back during the day.}
+{117}{}{We don't work at night.}

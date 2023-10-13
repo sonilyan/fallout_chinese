@@ -1,0 +1,125 @@
+{100}{}{Yes, what do you want?}
+{101}{}{Got any job for me?}
+{102}{}{Nothing.}
+#
+{103}{}{Yeah, maybe I got something for you. What kind of job are you looking for?}
+{104}{}{Some easy work that doesn't require shooting skills.}
+{105}{}{I'm good with my fists. Some hand to hand action will do.}
+{106}{}{With a proper gun I can shoot down anything, just point me in the right direction.}
+{107}{}{Actually nothing, later.}
+#some easy work...
+{108}{}{Hmm... I've got something. One old fella, Norman, owes me some money, $2000 to be precise. He's a decent
+ man but I have to pay my bills too, so I want you to collect the money from him. You can find his butcher shop west of
+ here.}
+{109}{}{Right, I'm on it.}
+{110}{}{I don't like this mercenary job.}
+#
+{111}{}{No problem, if you don't want to work for me, fine, but don't waste anymore of my time.}
+{112}{}{Sure thing.}
+{113}{}{I'll talk to you later.}
+#
+{114}{}{Alright, what you want this time?}
+#
+{115}{}{No, nothing here for you. Maybe you want to find something else?}
+{116}{}{Sure thing.}
+{117}{}{I'll talk to you later.}
+#money job...
+{118}{}{About that job...}
+#
+{119}{}{Tell me what you got?}
+{120}{}{I don't have that money yet.}
+#
+{121}{}{Something went wrong... And I didn't get the money.}
+#
+{122}{}{Don't waste your words, I know what you did. Whole fucking town is talking about it! I suggest you get the
+ hell out of town, before they put a price on your head!}
+{123}{}{Alright...}
+{124}{}{Why would you care? You are dead anyway!}
+#
+{125}{}{I got the money from that old fella, here it is. [Give him $2000.]}
+{126}{}{I don't have the money yet.}
+#
+{127}{}{I didn't expect to see you so soon. Well, I guess that old man is actually earning something from selling
+ meat... Good for him. Anyway, here's $200 bucks for you. Come back anytime, maybe I'll have more work for you.}
+{128}{}{Sure thing.}
+#
+{129}{}{So, what are you handy at?}
+#
+{130}{}{I don't know if you can handle yourself well enough. I suggest you try an easier job before this one.}
+{131}{}{Sure thing.}
+#job2...
+{132}{}{This looks like my lucky day. I might even earn some money on you. Pay attention, there's a big unarmed
+ bout coming up. One fight, the winner takes $750. What do you say?}
+{133}{}{Sounds good.}
+{134}{}{I don't want to get hurt or something...}
+#
+{135}{}{Don't you worry, it happens to the best of us. Simply wasn't your day. Well, you can prove me wrong if you
+ like. But it will require much more... }
+{136}{}{What's on your mind?}
+{137}{}{I don't like the sound of it.}
+#on mind...
+{138}{}{I was thinking something like... me and you in the ring? If you win, you'll get any available job you like. And
+ if I win, I'll let you live! [Laughs.] Follow me...}
+{139}{}{[Follow him.]}
+#fight fail...
+{140}{}{Sorry boy, I told you that was going to be too tough for you. Ah, nevermind, pack your bags and [shrugs his
+ shoulders]... there's no need for you to stay here any longer.}
+{141}{}{[Leave.]}
+#good fight...
+{142}{}{Nice moves, I can tell you had a few bar fights before [smiles]. I'm actually glad I won't have to watch you
+ leave. So, I promised a job for you, interested?}
+{143}{}{Yes.}
+{144}{}{Not at the moment, later.}
+#
+{145}{}{This shouldn't be a problem, because it doesn't really require any muscle. Let me explain how this "business"
+ works. It starts when someone owes me money. Just to be clear, I don't care if I lend money to a criminal or some big
+ shot, they are all the same to me. Some are willing to pay, some try very hard to avoid me, well... people have their
+ reasons. Mostly it's about money but sometimes it's about respect...}
+{146}{}{Go on...}
+#
+{147}{}{When somebody doesn't pay his debt, others may feel encouraged to follow the example... But then,
+ people will get hurt because doing nothing is bad itself, but doing something that keeps you going away from your
+ respected goal, which is paying your debt, that is far worse. I want to prevent that because it's bad for business and
+ that's the bottom line. Now the story goes like this, I know this guy, Red, who runs a bar. He was in deep shit with his
+ bills so I wanted to help him, lend him some money. Months passed and he still didn't pay back nothing...}
+{148}{}{So?}
+#
+{149}{}{So, you'll have to ask him nicely to return every last buck he took from me or I'll shut down his place and sell
+ it. If you encounter any "difficulties", stay calm and let me know at once!}
+{150}{}{How much does he owe you?}
+{151}{}{Sure thing.}
+#how much?
+{152}{}{About ten thousand if I recall. I got it written down somewhere. [Moves a piece of paper on his desk, then gives up]. Just get to it, I don't have time for this!}
+{153}{}{Sure thing.}
+#
+{154}{}{So, did Red give you anything at all?}
+{155}{}{It was difficult, but eventually I got it all. [Give him the money.]}
+{156}{}{Nothing yet.}
+#
+{157}{}{Yeah, you did it. [Counts money and shakes your hand.] Well done, please take your reward. [Gives you
+ $1000.] You know... your skills are most welcome here. So if you come back sometime, we can do more business
+ because I see a lot of potential in you.}
+{158}{}{Thanks, I'll be on my way then.}
+#
+{159}{}{Thanks man.}
+{160}{}{Stay around for a while, you'll like it here.}
+{161}{}{Thanks again.}
+#
+{162}{}{Too bad, you almost had me.}
+{163}{}{Better luck next time.}
+{164}{}{I don't have any jobs for you.}
+{165}{}{I'm not hiring at the moment.}
+#
+{166}{}{I don't remember giving you any job. Want to sign up for one?}
+{167}{}{Alright, what do you have for me.}
+{168}{}{No thanks, maybe next time.}
+#Bone Jacob dead
+{169}{}{Why the hell did you have to kill him!? This is a business place not a fuckin' slaughterhouse! Get the fuck out
+ of my sight, you moron!}
+{170}{}{Easy man, I'm going.}
+{171}{}{Listen, asshole... Where's my fucking money!?}
+#
+{172}{}{Get out of here!}
+{173}{}{Out. Now!}
+{174}{}{Don't make me angry!}
+{175}{}{Get lost, moron!}

@@ -1,0 +1,18 @@
+{100}{}{I'm busy.}
+{101}{}{Can't talk.}
+{102}{}{I'm watching these animals.}
+{103}{}{Don't touch the cages, those things can bite off your hand.}
+{104}{}{Don't touch the animals.}
+{105}{}{Stay away from the cages.}
+#
+{106}{}{Want to buy some animals?}
+{107}{}{Saw any mole rats around?}
+{108}{}{Are you a hunter?}
+{109}{}{I can't help you.}
+{110}{}{If you're interested in buying animals, ask Martin.}
+{111}{}{Yes?}
+#
+{112}{}{Don't touch the cages!}
+{113}{}{What are you doing!?}
+{114}{}{I suggest you leave that door alone.}
+{115}{}{Stay away from those cages!}

@@ -1,0 +1,13 @@
+{100}{}{Can't you see I'm talking here?}
+{101}{}{I'm busy.}
+{102}{}{Don't you have something better to do?}
+{103}{}{I'm busy, what about you?}
+{104}{}{Try somebody else, I'm busy.}
+{105}{}{Nice to see you. Now be quiet, I'm talking here.}
+{106}{}{You must be one of those new tribals in town.}
+{107}{}{I got better things to do than talk to you.}
+#bad dude...
+{108}{}{You should get far away from here.}
+{109}{}{They are probably looking for you already.}
+{110}{}{Get out of my sight, killer.}
+{111}{}{I got no time for your crap.}

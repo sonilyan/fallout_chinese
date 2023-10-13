@@ -1,0 +1,114 @@
+{100}{}{Hey stranger, haven't seen you before, first time here?}
+{101}{}{Yep, I'm new in town.}
+{102}{}{No, I've been around for a while now.}
+{103}{}{No time to talk right now.}
+#
+{104}{}{OK, since you're the new guy, let me introduce myself. I'm Red and this is my bar. Since I'm always looking
+ for new workers, are you interested in some easy money?}
+{105}{}{Sure, tell me about it.}
+{106}{}{Sorry, not interested right now.}
+#sure...
+{107}{}{My bartender Jackie, she was supposed to be here at work but she hasn't shown up since yesterday.
+ Can you check on her for me? I have no one to fill in for her so I want to know, is she in some kind of trouble or
+ what...}
+{108}{}{OK, where can I find her?}
+{109}{}{I'm not ready for this, I'll be back.}
+#find her...
+{110}{}{Her place is at the north side of town, first house, you can't miss it. Ask around if you have trouble finding it.}
+{111}{}{I'm off to find her.}
+#
+{112}{}{Any news about my girl Jackie?}
+{113}{}{No, nothing yet.}
+{114}{}{It looks like she moved on. She left you this letter.}
+#letter...
+{115}{}{[His facial expression changes from bad to worse.] What!? I can't believe this shit! Stupid bitch left me
+ because of that bastard...}
+{116}{}{I'm sorry...}
+{117}{}{Why did she leave you?}
+#sorrry...
+{118}{}{No... You are fuckin' lucky I'm in a good mood, you'll get a tip. Take it and get out!}
+{119}{}{[Leave.]}
+{120}{}{Why the hell are you yelling at me? You wanna piece of me, asshole!?}
+#left you...
+{121}{}{Why the hell do you stick your nose where it doesn't belong!? Your compassion is very touching. Now get the
+ fuck out, before I fill you with bullets as a token of my appreciation!}
+{122}{}{Easy, I'm going.}
+{123}{}{I'm not going until you give me some money!}
+#my money...
+{124}{}{Alright. Boys, give this fuckhead his payment!}
+{125}{}{Why can't we all just get along?}
+#job done good...
+{126}{}{I'm sorry about my behavior. I was really upset...}
+{127}{}{I hope you'll forgive me about my behavior.}
+{128}{}{Sorry stranger, times are rough.}
+#bad attitude dude...
+{129}{}{You're not going to get anything from me, so get the hell out!}
+{130}{}{I told you to get out, didn't I? So beat it!}
+{131}{}{You better get out, before I call the guards!}
+#
+{132}{}{What are you doing here then? I'm not the damn waitress, get the hell out of my office!}
+{133}{}{Sorry...}
+{134}{}{Why don't you make me?!}
+#back again, job nottaken...
+{135}{}{Hey, it's the new guy again. Want me to tell you about that job I got for you?}
+{136}{}{Sure, tell me about it.}
+{137}{}{I'm not ready for this, I'll be back.}
+#
+{138}{}{Welcome back. I bet you are not one of the locals, am I right?}
+#money for Eric, previous job done good
+{139}{}{Yeah, I remember you stranger. What do you need?}
+{140}{}{I'm here about that money you owe to Eric.}
+{141}{}{Nothing really.}
+#
+{142}{}{Damn, but I need that money. If I give it back now, I will have no money to cover my expenses. I barely have
+ half of that amount... how much is it this time anyway?}
+{143}{}{Whatever, just give me the money.}
+{144}{}{You owe $12.000 to Eric with monthly interest of course.}
+{145}{}{It's about $11.000, as I've heard.}
+{146}{}{Eric told me it's $10.000. (This is the correct amount.)}
+{147}{}{Cut here and there, it goes something like $9.000.}
+{148}{}{I don't know.}
+#wrong answer...
+{149}{}{...tell you what... You go back to that Eric of yours and tell him I don't have that money. Now, if you don't like
+ my answer... Well, there's nothing you can do. Have a nice day!}
+{150}{}{Wait! I want that money right now, or I'll have to take it by force!}
+{151}{}{[Leave.]}
+#right answer...
+{152}{}{Shit, that's a lot... but you're right. So, lets be reasonable here. I need most of that money but if Eric agrees
+ to me giving you half now and the other half next week, it would mean a lot to me. Alright?}
+{153}{}{Fine with me, I'm just doing my job.}
+{154}{}{How about I come back next week and you give me the whole amount?}
+{155}{}{No, you give me all the money now or there will be trouble.}
+#fine with me...
+{156}{}{Here, take these five thousand and you'll get the rest next week. I suggest you come back around this time,
+ and just in case, don't bother anyone from my staff. I hate when someone makes trouble in my bar, other than me!}
+{157}{}{Sure.}
+#next week all money...
+{158}{}{Even better. I suggest you come back on time because I don't like when someone's late, it makes me nervous...
+ and then bad things start to happen. Keep that in mind.}
+{159}{}{Whatever you say, Red.}
+#all money now...
+{160}{}{But that was not our deal. I told you how things are going here. If you think you are going to blackmail me or
+ something, you're at the wrong bar, stranger! Walk away silently or I'll wipe the floor with your face!}
+{161}{}{Whoa, I'm going!}
+{162}{}{I don't like the tone of your voice. Start cleaning, asshole!}
+#
+{163}{}{I said next week. That means seven days! I don't want to repeat myself.}
+#rest of money...
+{164}{}{I was wondering where you were. Here's the rest of the money. Send my apologies to Eric, I really got
+ through a tough week, he will understand.}
+{165}{}{Sure, I'm off then.}
+#whole sum...
+{166}{}{You cleaned me out man, here's ten thousand for Eric. Send my apologies, I really got through a tough week,
+ he will understand.}
+{167}{}{Sure, I'm off then.}
+#
+{168}{}{Well, you caught me here in the middle of something. I have some urgent business that needs to be taken care
+ of, and since everyone's busy, I just can't get it done. Look, come back when I'm done organizing, or better yet, why
+ don't you help? After that we can talk. How's that?}
+{169}{}{Sounds fair...}
+{170}{}{I'd rather stick to the money. That's my business here.}
+#no more introduction...
+{171}{}{So, want to hear about that job I got for you?}
+#player took Jackie's quest, still persistent with Eric's money quest (14.6.2014)
+{172}{}{I'm working on it but you still owe that money to Eric...}

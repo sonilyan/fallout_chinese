@@ -1,0 +1,10 @@
+{100}{}{Hank deals only with professionals.}
+{101}{}{Hank doesn't like talking, only business.}
+{102}{}{If you need some electronic stuff, ask Hank.}
+{103}{}{You just behave yourself while you're here.}
+{104}{}{You can find any electronic device here.}
+#
+{105}{}{I don't think there's anything for you here!}
+{106}{}{Get the hell out of this town!}
+{107}{}{I knew you were trouble!}
+{108}{}{Fuckin' beat it!}

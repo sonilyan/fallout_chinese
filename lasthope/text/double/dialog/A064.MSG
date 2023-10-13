@@ -1,0 +1,50 @@
+#23.09 - turned into quest
+{100}{}{Hello, stranger. I need some information, can you help me out?}
+{101}{}{Sure. Who are you?}
+{102}{}{No I can't. Have a nice day.}
+#you...
+{103}{}{I'm Gregory from Miners Town. My boss, Murphy, sent me to search for some mining equipment. So far I
+ had no luck finding any equipment for sale... Is there any shop where I could find something useful?}
+{104}{}{I'm not sure. Need something particular?}
+{105}{}{Nope, I'm going now.}
+#
+{106}{}{Some flares... dynamite... and ropes, too. I got some of them in my trailer but I just need more. If you come
+ across any of these items, please let me know, I would be grateful. Or even better, if you bring me another five flares,
+ three ropes and a detonator... I would be all set up, and we can talk business.}
+{107}{}{Sure thing. I'll let you know if I get something.}
+#
+{108}{}{You're back stranger. Do you have anything for me?}
+{109}{}{Not right now. Can I ask you something?}
+{110}{}{No, nothing.}
+#ask...
+{111}{}{Sure stranger, just say it.}
+{112}{}{Sorry, I can't remember anything at the moment.}
+#dude got something to sell...
+{113}{}{I sure got something, take a look.}
+#
+{114}{}{Alright, everything is here. Thank you for this favor, stranger. Here's $3000 for your trouble. It looks like my
+ job is done here so I'll be leaving soon. Take care, stranger!}
+{115}{}{Will do. Thanks.}
+#
+{116}{}{As I recall, you didn't want to help me. I suggest you leave me alone now.}
+{117}{}{Alright.}
+#So how are things going...
+{118}{}{So how are things going in Miners Town?}
+{119}{}{Well, I've been away for quite some time but news spread fast. We got some problem with rats in the mine.
+ Didn't hear all about it, but needless to say those things don't plan on moving out anytime soon.}
+{120}{}{I see. [Leave.]}
+#Going, rats gone...
+{121}{}{Well, they could be better... But one thing is for sure, after having so much trouble with those rats, the mine
+ is back in business, so we hope for some new investments in town.}
+{122}{}{I'm glad to hear it. See you later.}
+#
+{123}{}{Fuckin' thief, eat this!}
+{124}{}{You stupid bastard!}
+#job done...
+{125}{}{Thanks for your help.}
+{126}{}{I'll be going back to Miners soon.}
+#
+{127}{}{You supplied Gregory with enough equipment for the mine. You earn 500 exp. points.}
+#
+{128}{}{Let us trade supplies.}
+{129}{}{Anything else?}

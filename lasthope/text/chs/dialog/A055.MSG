@@ -1,0 +1,86 @@
+{100}{}{A tribal in my house? Get out.}
+{101}{}{I don't have time for tribal scum.}
+{102}{}{Go bother my dog, will you?!}
+{103}{}{Primitive and uncultured, shame on you.}
+{104}{}{Are you the room service? Then what the hell are you doing here?}
+{105}{}{Hey, I didn't say you can come in.}
+#
+{106}{}{Since some people seem to respect your work, I think I can spare you a few minutes. Is there any
+ particular reason for this visit?}
+{107}{}{Do you have any job for me?}
+{108}{}{Can you tell me something about the place?}
+{109}{}{No, sorry.}
+#job...
+{110}{}{Why do you think I have a job for somebody like you?}
+{111}{}{Well, I thought you were somebody important...}
+{112}{}{You guys always have some smuggling jobs, I bet.}
+{113}{}{What do you mean "somebody like you", you got a problem with me?}
+{114}{}{Forget it, I've had enough of it.}
+#about this place... alt see 146
+{115}{}{I don't need to tell you. It's all what it seems. Drugs, crime, whores... and it's all what these people ever
+ wanted. But not me, I didn't ask those bastards from uptown to exile all scum here. So much stench I can't even
+ open the damn window!}
+{116}{}{You're right. But why are you staying here?}
+{117}{}{I don't know about you, but I like it here.}
+#you're right...
+{118}{}{Because I got nowhere else to go. And that, mayor Donson, wouldn't let me inside the place. Let's just say I've
+ done some things which mayor Donson considers to be bad. It wasn't really a crime but... I don't want to talk about it.}
+{119}{}{If you say so. Let me ask you something else.}
+{120}{}{Sorry to hear that. I'm going now.}
+#i don't know... and answers to 112 and 113
+{121}{}{What the hell is wrong with you?! I thought this was going to be a nice conversation... When I count to five...
+ You'd better be out of here!}
+{122}{}{I have a better idea. You dance, I watch!}
+{123}{}{Easy man I'm going.}
+#thought somebody important...
+{124}{}{Well, I was... until I was exiled. I can bet that bastard Eddie is happy now since he took my job. We were
+ good friends once, but when he saw a chance for promotion... guess, it was only a matter of time until he would turn
+ against me. I hope he gets what he deserves.}
+{125}{}{Maybe something could be done about that...}
+{126}{}{Hmm... Let me ask you something else.}
+#something could be done...
+{127}{}{That's a good idea but my hands are tied. If you are offering to do something by yourself, though... I could
+ offer compensation. So if you have any proposal, I would like to hear it.}
+{128}{}{Well, I could get rid of him... for good.}
+{129}{}{I have to go. Sorry for the disturbance.}
+#get rid...
+{130}{}{That's just what I had in mind. But I want it to be clean, no traces. Look, this can be easy... just take this
+ poison needle and use it on him. Then take his body and bury it in the grave marked with a wooden cross, the one I can
+ see from my window. Your money will be waiting here.}
+{131}{}{Alright, I'll be back when the job is done.}
+{132}{}{You sure are one sick bastard... I think I'll kill you first!}
+#after 127...
+{133}{}{What are you saying?}
+#
+{134}{}{I want justice. I'm not saying I am innocent, but his crime was much greater and he must pay for it.}
+{135}{}{Hmm... Let me ask you something else.}
+#job taken...
+{136}{}{About that job...}
+#dude did nothing about job...
+{137}{}{I will not pay you for doing nothing! Do as you've been told and everyone will benefit from this, just
+ wait and see.}
+{138}{}{Sure. I'm going.}
+#job done...
+{139}{}{Job well done. I had no doubt in your skills. I wanted to give you $5000 for the job, but I've changed my mind
+ and prepared $6000. That should cover your expenses. Tell me anyway, did he say something about me... anything?}
+{140}{}{Nope, he didn't have the time. Thanks for the cash.}
+{141}{}{Hey, what is this... lazy $6000 for body disposal?! You better give me some more, right now!}
+#
+{142}{}{Haha, you must be kidding me. If you are not... I'll give you some free shooting lessons instead!}
+{143}{}{If only you would've given me more money... Now I'll have to kill you.}
+#
+{144}{}{Please come in, take a seat. What can I do for you?}
+{145}{}{Nothing.}
+#about place 2, Eddie dead
+{146}{}{I don't need to tell you. It's all what it seems. Drugs, crime, whores... and it's all what these people ever
+ wanted. But not me, I didn't ask those bastards from uptown to exile all scum here. But here I am, until I find some
+ way to better living.}
+{147}{}{If you say so. Let me ask you something else.}
+#something else...
+{148}{}{Sure. What you want to know?}
+#
+{149}{}{You better do something useful instead of wandering around. So, what do you want?}
+#job 1 done, new job?
+{150}{}{Not right now but after that favor you did for me, you will be the first to know if anything needs to be taken
+ care of. Thanks again for getting that "dirt" cleaned up.}
+{151}{}{Sure thing.}

@@ -1,0 +1,11 @@
+{100}{}{We should go hunting.}
+{101}{}{Watch for those mutated molerats.}
+{102}{}{Lets go.}
+{103}{}{It's time to get going.}
+{104}{}{I'm waiting.}
+{105}{}{I think I saw one.}
+#
+{106}{}{That should be it.}
+{107}{}{We killed them all.}
+{108}{}{Nice catch.}
+{109}{}{I never have enough fun.}

@@ -1,0 +1,134 @@
+#lines in case this becomes a fully operational terminal, but currently only lines 300ff are used
+{100}{}{Welcome to WT's medical research lab. Please enter your pass code:}
+{101}{}{[Guess password.]}
+{102}{}{[Hack into computer.]}
+{103}{}{[Log off.]}
+#guess password...
+{104}{}{Error. Password doesn't match with WT database. Please try again.}
+{105}{}{[Back.]}
+#hack if success...
+{106}{}{Current status: online. User status: administrator. Select area:}
+{107}{}{[Logs.]}
+{108}{}{[WT database.]}
+{109}{}{[Status.]}
+{110}{}{[Back.]}
+#logs...
+{111}{}{Available logs:}
+{112}{}{13.June.2193, 03:20AM:}
+{113}{}{15.June.2193, 06:43AM:}
+{114}{}{20.June.2193, 05:33AM:}
+{115}{}{12.Dec.2193, 02:00AM:}
+{116}{}{[Back.]}
+#
+{117}{}{WT med.: Lab 15, lev. 2; Currently off line due to power loss in sector/level 3. All biological subjects
+ transferred to [information withheld]. Exposure time: undetermined. 45% of subjects suffered brain damage and were
+ terminated.}
+{118}{}{WT med.: Shortly after the power loss incident on June 13th, lab 20, lev. 3 lost power at approximately
+ 06:35AM. Reason: off line waste container leak from lev. 2, lab 15. Consequences: contamination on sector/level 3, lab
+ 20 and level 4. Contamination on lev. 2 contained, lab 15 sealed.}
+{119}{}{WT med.: Security breach on sector/level 5, intruders terminated on sight. Damaged uranium cargo bay 2,3.
+ Life support off line. Emergency exit blocked. Number of casualties: 53. Level 5 sealed, level 4 inaccessible.}
+{120}{}{WT med.: Mass evacuation in progress. Air pollution: 78%. Current project status: error...}
+#WT data base...
+{121}{}{Not available, Terminal function: unknown... (You wonder what this means. Maybe this terminal has no
+ privileged access...)}
+{122}{}{[Back.]}
+#status...
+{123}{}{Select area:}
+{124}{}{[Life support.]}
+{125}{}{[Security status.]}
+{126}{}{[Bio activity.]}
+{127}{}{[Storage.]}
+{128}{}{[Lab #]}
+{129}{}{[Back.]}
+#life support...
+{130}{}{ - Sensor system check: error, required emergency repair. - Ventilation check: 60% operative. Recommend:
+ sensor control repair on Level 1, lab 9.}
+{131}{}{[Back.]}
+#security...
+{132}{}{Current status: off line.}
+{133}{}{[Turn on security.]}
+{134}{}{[Function.]}
+{135}{}{[Back.]}
+#turn on security...
+{136}{}{Enter authorization code:}
+{137}{}{J. Donley PF1852. (Let me try this one...)}
+{138}{}{T. Norton KL0921. (This looks about right...)}
+{139}{}{[Guess password.]}
+{140}{}{[Back.]}
+#guess...
+{141}{}{Wrong password, please try again:}
+#j.donley and t.norton
+{142}{}{Password not accepted, higher authorization code required. Please try again:}
+#bio activity...
+{143}{}{ - Bio sensors system check: error, required emergency repair. Recommend: sensor control repair on
+ Level 1, lab 9.}
+{144}{}{[Back.]}
+#storage...
+{145}{}{Select material:}
+{146}{}{[Bio materials.]}
+{147}{}{[Electric components.]}
+{148}{}{[Medical components.]}
+{149}{}{[Back.]}
+#lab#
+{150}{}{Select purpose:}
+{151}{}{[Medical research.]}
+{152}{}{[Subjects storage.]}
+{153}{}{[Extraction units.]}
+{154}{}{[Monitoring system.]}
+{155}{}{[Back.]}
+#sensor system repaired...
+{156}{}{ - Sensor system check: on line, 70% operative. Level 1: 85%, Level 2: 72%, Level 3: 65%, Level 4: 0%,
+ Level 5: 47%. - Ventilation check: 60% operative.}
+#bio activity(dude level 1)...
+{157}{}{Level 1: [1]object/s, Level 2: [0]object/s, Level 3: [1]object/s, Level 4: [0]object/s, Level 5: [?]object/s }
+#bio activity(dude level 2)...
+{158}{}{Level 1: [0]object/s, Level 2: [1]object/s, Level 3: [1]object/s, Level 4: [0]object/s, Level 5: [?]object/s}
+#bio activity(dude level 3)...
+{159}{}{Level 1: [0]object/s, Level 2: [0]object/s, Level 3: [2]object/s, Level 4: [0]object/s, Level 5: [?]object/s}
+#lab medical...
+{160}{}{Level 1: Lab 2,5,6,10. Level 2: Lab 11,15.}
+{161}{}{[Back.]}
+#subjects...
+{162}{}{Level 1: Lab 9. Level 2: Lab 12,14.}
+{163}{}{[Back.]}
+#extraction...
+{164}{}{Level 1: Lab 10. Level 2: Lab 12,15.}
+{165}{}{[Back.]}
+#monitoring...
+{166}{}{Level 1: Lab 7. Level 2: Lab 18. Level 3: Lab 21.}
+{167}{}{[Back.]}
+#storage bio material...
+{168}{}{Level 1: Lab 10. Level 2: Lab 12,16.}
+{169}{}{[Back.]}
+#electric components
+{170}{}{Level 2: Lab 16,17.}
+{171}{}{[Back.]}
+#medical components
+{172}{}{Level 1: Lab 3,5,6. Level 2: Lab 11.}
+{173}{}{[Back.]}
+#turn security( not a good thing)
+{174}{}{Lt. D. Charles AX0032. (I might get lucky this time...)}
+#security on line, dude is a dead meat!
+{175}{}{Security manual override, current status: on line. Detecting unknown life forms: complete. Possible threat detected on Level 1. Termination sequence initiated.}
+{176}{}{Security manual override, current status: on line. Detecting unknown life forms: complete. Possible threat detected on Level 2. Termination sequence initiated.}
+{177}{}{Security manual override, current status: on line. Detecting unknown life forms: complete. Possible threat detected on Level 3. Termination sequence initiated.}
+{178}{}{[Back.]}
+#security function...
+{179}{}{Security functions - unavailable; network off line. Default values.}
+{180}{}{[Back.]}
+#unsuccessful hack into computer...
+{181}{}{[You spent several minutes, suddenly a message appears...] Error, access denied.}
+{182}{}{[Log off.]}
+#placeholders
+{183}{}{}
+#
+{300}{}{You see: a terminal on emergency stand-by.}
+{301}{}{You see: Sensor Terminal.}
+{302}{}{The sensor control terminal looks damaged and needs to be repaired.}
+{303}{}{It's working and it doesn't require any additional repairs.}
+{304}{}{You successfully repaired the sensor terminal. You gain 500 exp. points.}
+{305}{}{[Chance: }
+{306}{}{You failed to repair the sensor terminal.}
+{307}{}{This terminal is not working.}
+{308}{}{The sensor terminal is operating. Nothing to do here.}

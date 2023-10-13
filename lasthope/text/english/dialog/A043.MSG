@@ -1,0 +1,74 @@
+{100}{}{Welcome to Philton, stranger. If you want to enter the city I'll have to search you for any illegal substances.
+ We do not allow any drugs inside town.}
+{101}{}{Fine...}
+{102}{}{Don't touch my things, I don't think I want inside yet.}
+#no drugs...
+{103}{}{OK, you're clean. Is there something I can help you with, before you go?}
+{104}{}{Tell me who's in charge?}
+{105}{}{I thought I was already in the town, how do you call this place?}
+{106}{}{No, thanks.}
+#drugs...
+{107}{}{Sorry, stranger. You possess some items that are not allowed inside the city. Get rid of those... Otherwise, I
+ can't let you in.}
+{108}{}{You'll let me in, just watch.}
+{109}{}{Sure, I'll be back.}
+#just watch...
+{110}{}{All I'm gonna watch is how you dance before you drop dead, asshole!}
+{111}{}{I had something else on my mind but you lead!}
+#who's in charge...
+{112}{}{Out here, nobody. But inside the city, our mayor Mr. Donson. He's one of the few hard working people in
+ these parts. He respects honest work and doesn't tolerate crime.}
+{113}{}{Where can I find Donson?}
+{114}{}{Thanks, I'll be going then.}
+#find...
+{115}{}{His house is on main street square.}
+{116}{}{Can I ask you something?}
+{117}{}{Thanks.}
+#
+{118}{}{Sure thing, stranger.}
+{119}{}{Yes, sir, what can I help you with?}
+#already in the town...
+{120}{}{Well, this is the old part of town. As you can see, every part of that corrupted society remained here.
+ Gambling, drugs, prostitution... But while things are "in order" and that means nobody wants to "cross the line" our job
+ here is to secure the town from bandits and raiders.}
+{121}{}{How are things in town?}
+#
+{122}{}{More civilized, that's for sure. We have strict regulations for items you can carry inside the town. That means
+ no drugs, other things as well.}
+{123}{}{Can I ask you something?}
+{124}{}{Thanks, I'll be going now.}
+#
+{125}{}{Hello again, stranger. I must check you before going in.}
+{126}{}{Sure thing.}
+{127}{}{I don't want in. I'm just looking around.}
+#after line 104...
+{128}{}{I want to buy something. Know any shops around here?}
+#shops...
+{129}{}{You got plenty of them inside the town. If you require something in particular, read the bulletin board on the
+ main street entrance.}
+{130}{}{Thanks.}
+#
+{131}{}{I don't need to ask you anything right now.}
+#
+{132}{}{Just head in.}
+{133}{}{You can pass.}
+{134}{}{You're clean.}
+#reputation liked
+{135}{}{Nice to see you again, sir. I must check your inventory, it will only take a few moments.}
+#clean
+{136}{}{You're clean, sir. Can I help with something before you go?}
+#
+{137}{}{You're so dead, punk!}
+#
+{138}{}{Move along.}
+{139}{}{Why don't you talk to somebody else?!}
+{140}{}{Talk to Gordon if you want in.}
+{141}{}{I can't help you.}
+{142}{}{Haven't seen you before, where did you come from?}
+{143}{}{I hope you're not one of those raiders.}
+{144}{}{You don't need to enter the city, you look like you belong out here.}
+{145}{}{Yeah, I watch your kind all day.}
+#if dude female
+{1119}{}{Yes, ma'am, what can I help you with?}
+{1135}{}{Nice to see you again, ma'am. I must check your inventory, it will only take a few moments.}
+{1136}{}{You're clean, ma'am. Can I help with something before you go?}

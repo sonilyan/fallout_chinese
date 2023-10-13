@@ -1,0 +1,116 @@
+{100}{}{Hey, this is private property! Explain yourself or I'll have to shoot you, punk!}
+{101}{}{Oh, I'm sorry. I'm new in town so I didn't know.}
+{102}{}{So what?! I go wherever I want!}
+#Sorry...
+{103}{}{So you're not one of those damn thieves... well, good for you. Damn, I almost shot you like a pigeon.
+ [Chuckles.] Good thing I always call out once before I fire a warning shot at the head. I don't remember seeing you
+ before, did you say you are lost or... nevermind. I'm Frank and I run this place. So, what brings you here, stranger?}
+{104}{}{I'm looking for supplies and stuff, can't get enough of it...}
+{105}{}{I doesn't matter, because I'm here to rob you!}
+#supplies and stuff...
+{106}{}{Well, we have a few shops in town, they got pretty much everything you'll need these days. Tell me, do you
+ plan to stay here for a while or...?}
+{107}{}{I guess I could. Why do you ask?}
+{108}{}{I don't think so, not even in a hundred years!}
+{109}{}{Maybe, I'll talk to you later.}
+#i guess i could...
+{110}{}{I need some help with resupplying this water station. I expected more fuel reserves almost a week ago... But
+ I'm in trouble already. According to my latest calculation our current supplies are going to last only for another week,
+ at best.}
+{111}{}{I guess I could help you somehow?}
+{112}{}{Looks like you have work to do, goodbye.}
+#somehow...
+{113}{}{To be honest, I would never ask for help if this wasn't urgent. You see, this station doesn't require a lot of
+ fuel to run but it has to work non stop. See, a town of this size really consumes a lot of water. And we are running low
+ on supplies as is. What do you think, care to do something good for this community?}
+{114}{}{I can do that, tell me the details.}
+{115}{}{I would be rather digging ditches...}
+#details...
+{116}{}{That's the spirit... Alright, I wish I could tell you where to find all that fuel, but as you know, Mr. Donson
+ made a few "changes" regarding trade with outside sources. The idea was to keep us safe but at what cost? [Sighs.]
+ With less supplies coming into town, we are left on our own. I tried to speak with Mr. Donson about this...}
+{117}{}{What did he say?}
+#
+{118}{}{He didn't even want to hear it! He just gave me some money and said "That's your job, and you are well paid
+ for it." Man has got a point, I'm satisfied with my pay, but I just can't manage this station twenty four seven.
+ You know, I have to blow off some steam from time to time, [smiles] you understand what I mean. Here's the deal,
+ get me ten fuel cans as soon as possible and you'll earn some decent cash.}
+{119}{}{Sure thing.}
+#
+{120}{}{I knew you'd be back. Now, [points his index finger at you] take the job or get the hell out off my sight.}
+{121}{}{Sure, I'm interested, tell me the details.}
+{122}{}{I don't want the stupid job, go do it yourself.}
+#back, job taken...
+{123}{}{You're back, but aren't you forgetting about something? You were supposed to bring me fuel cans. Don't
+ bother me with nothing again, I got a station to run!}
+{124}{}{OK, sorry.}
+#
+{125}{}{Now we are talking. [Looks at your stuff, and frowns.] Hm, you got some of it, but I sure told you
+ how much I need. Well, what are you waiting for, fuel reserves are getting lower as we speak.}
+{126}{}{Right, I'll be back with more.}
+#
+{127}{}{I can see you got that fuel, that solves some of my problems for the time being. Want to sell it, I have the cash?}
+{128}{}{Yeah, it's yours.}
+{129}{}{I don't want to sell it right now.}
+#
+{130}{}{This is just what I was looking for, lots of people would thank you if they knew what you did for our town. It's
+ worth every buck I'm about to give you. Now I'm broke... [Laughs.] I'm kidding man! Just don't get yourself into
+ trouble, take care.}
+{131}{}{You too, so long.}
+#
+{132}{}{I'll get back to work now.}
+{133}{}{Just don't hang out at night here, it can be dangerous.}
+{134}{}{Watch out for those bandits.}
+{135}{}{Well done.}
+{136}{}{Take care.}
+#
+{137}{}{Get lost, scum.}
+{138}{}{I don't want to shoot you.}
+{139}{}{I don't see you running.}
+{140}{}{Stay away, you could get hurt.}
+#
+{141}{}{OK, this looks good.}
+{142}{}{Yes, as I thought it would be.}
+{143}{}{Temperature looks good. Fuel reserves, very low... That's not good.}
+{144}{}{Uh, this work makes me hungry. I must get that robot working.}
+#
+{145}{}{Hey, you fixed the robot. Well done.}
+{146}{}{OK, this looks good.}
+{147}{}{Temperature looks good. Fuel reserves, very low... That's not good.}
+{148}{}{Yes, as I thought it would be.}
+#module gone...
+{149}{}{Hold it right there! From now on, keep your distance from this station. Recently, we had a failed attempt of
+ sabotage. Until we find out the perpetrator I have orders to shoot anyone going near that control unit, so be warned.
+ Now, leave.}
+{150}{}{Failed attempt you say?}
+{151}{}{I have information regarding your control unit module...}
+{152}{}{[Leave.]}
+{153}{}{I don't take orders from you!}
+#failed
+{154}{}{Yes, that's exactly what I said. I told you to leave now! Do you have a problem with that!?}
+{155}{}{No problem, I'll leave.}
+{156}{}{Calling my work a failure insults me deeply, show some respect!}
+#information
+{157}{}{Alright, you got my attention...}
+{158}{}{I know who did it...}
+{159}{}{Well, I used it as a replacement part in an ore processing machine.}
+{160}{}{My mistake, sorry.}
+#
+{161}{}{And who might that be?}
+{162}{}{I only know that someone inside the mayor's office tried to sabotage the station and blame you for it...}
+{163}{}{I heard there's a drug smuggling ring that had a falling out with the mayor...}
+{164}{}{The word is that local slavers wanted to expand their influence by controlling the town's resources...}
+{165}{}{I don't know, sorry.}
+#I did
+{166}{}{What... when...? [He raises his rifle.] Your honesty will get you far... to the gates of heaven!}
+{167}{}{Oh, at least one of us is going there! Other goes down!}
+#
+{168}{}{[He looks bewildered.] Where did you...? [Then his expression hardens. Your insinuations made him wonder,
+ what if...] Just get lost, you hear me!}
+{169}{}{[Leave.]}
+#
+{170}{}{I told you to keep your distance from this station! If that sabotage hadn't gone wrong, I would start shooting
+ first. Until we find out who the perpetrator was I have orders to shoot anyone going near that control unit, so be
+ warned. Now, leave.}
+#added after 164 as fourth option
+{171}{}{Well, the mayor had outstanding debts and a local loan shark send him a message...}

@@ -1,0 +1,41 @@
+{100}{}{Welcome to "Quartz". Name's Hank and I can offer you various electronic devices and tools. Interested in
+ trading?}
+{101}{}{Yep.}
+{102}{}{Not really, can I get some info?}
+{103}{}{No thanks. Some other time maybe.}
+#info...
+{104}{}{Hey, talking won't bring me money and besides, at my place business always comes first "and" last. So what
+ can I do for you?}
+{105}{}{Let us get down to business then.}
+{106}{}{Nothing, I'm out of here.}
+#finished...
+{107}{}{Same place, any time. Just say what you need.}
+{108}{}{Let me have another look at your electronics.}
+{109}{}{That would be all for now.}
+#info 2th time...
+{110}{}{I'm the man in charge here. So if I say you have to buy something, you buy, because talking is no good here, I
+ mean it.}
+{111}{}{Let us get down to business then.}
+{112}{}{Some other time then.}
+#
+{113}{}{Where do you get all that stuff?}
+#
+{114}{}{You talk too much, you know that? Well, I must say I made some of the stuff myself. Now, I don't want to get
+ sentimental, shall we get down to business?}
+{115}{}{Yes, please.}
+{116}{}{No, thanks.}
+#
+{117}{}{Is it me or have you become addicted to my stuff? Oh, where are my manners... Please take your time with my
+ stock.}
+{118}{}{Alright.}
+{119}{}{No, thanks. I'm leaving.}
+#
+{120}{}{Can I ask you something?}
+#
+{121}{}{Don't touch my stuff!}
+{122}{}{Get away from there!}
+{123}{}{Don't make me warn you again!}
+#
+{124}{}{I don't have anything for you, so get out of my store!}
+{125}{}{I don't want to be rude, but you're a nasty one!}
+{126}{}{Why don't you get out of here, huh?!}

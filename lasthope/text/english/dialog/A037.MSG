@@ -1,0 +1,13 @@
+{100}{}{Welcome to WT's medical research center, please enter your identification card.}
+{101}{}{I guess I don't have it. [Leave.]}
+{102}{}{I wonder if I can use this... [Insert the red key card.]}
+#
+{103}{}{Identification complete. Welcome to WT's medical research center. Internal network available at control
+ center on level 1, 2 and 3. Have a nice day.}
+{104}{}{[Exit.]}
+#
+{105}{}{Welcome to WT's medical research center. Internal network available at the control center on level 1, 2 and 3.
+ Have a nice day.}
+#GENERIC
+{106}{}{You can see a keyboard. It doesn't look too scientific for you to use it.}
+{107}{}{You hear the protesting grind of a hydraulic mechanism slowly set in motion.}

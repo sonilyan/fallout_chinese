@@ -1,0 +1,6 @@
+{100}{}{What are you looking at!?}
+{101}{}{Get out of my face!}
+{102}{}{Beat it, you smell bad.}
+{103}{}{Wanna fly?}
+{104}{}{Are you a tribal of some sort?}
+{105}{}{Get lost, I have nothing to say.}

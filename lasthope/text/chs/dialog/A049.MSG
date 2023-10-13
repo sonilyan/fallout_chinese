@@ -1,0 +1,62 @@
+{100}{}{Hello stranger, I'm Martin. What brings you here?}
+{101}{}{I'm looking to buy some supplies.}
+{102}{}{I'm a traveler, what can you tell me about this place.}
+{103}{}{Just looking around. Talk to you later.}
+#supplies...
+{104}{}{Well, there's a bar behind the corner. If you're looking for stuff, better try up in the town. They have all sorts
+ of fancy shops. My business is hunting wild animals and selling them.}
+{105}{}{What animals do you hunt?}
+{106}{}{Thanks, let me ask you something else.}
+{107}{}{Got it. I have to go now.}
+#what animals.
+{108}{}{Mostly molerats for their fur and claws. They have a decent value on the market. We hunt geckos on rare
+ occasions, but only smaller ones. Run across fire geckos few times, you don't want to mess with those, (smiles) no
+ fucking way! So we stick to molerats hunting for now, safer and more profitable in the long run.}
+{109}{}{I see. Let me ask you something else.}
+#about this place...
+{110}{}{There's not much to say. It's us, the outsiders, and those who live up in the town. Their new mayor makes sure
+ it stays that way. So this is what we got from the prewar days. My job is going well and that's the main reason why I
+ stayed here.}
+{111}{}{Good for you I guess. I've got a question I wanted to ask you.}
+{112}{}{I have to go now.}
+#again...
+{113}{}{Hello again, stranger. Interested in buying some of my finest "furry stock" from the wasteland?}
+{114}{}{No thanks. Where can I find some supplies?}
+{115}{}{What's the story about this place?}
+{116}{}{I'm just looking around. Talk to you later.}
+#
+{117}{}{Where do you hunt those animals?}
+#after line 105
+{118}{}{Take molerats for example. They can live almost anywhere, but they don't like warm places. So we usually
+ find them in the caves, forests, even in the town sewers. Hey, if you wanna see some action, you can come on a hunting
+ trip with us. We could use an extra hand.}
+{119}{}{Do I get some money for it?}
+{120}{}{I'll consider it, later.}
+#money...
+{121}{}{Sure. If you do the job right, you can get $200 for one molerat. This offer can't be better, so what do you say?}
+{122}{}{I'm in.}
+{123}{}{Not right now. I got something to do first.}
+#
+{124}{}{Alright. Talk to me again when you're ready.}
+{125}{}{Sure thing.}
+#
+{126}{}{Does that offer still stand?}
+#
+{127}{}{It sure does. Are you coming with us?}
+{128}{}{Yes, lets go.}
+{129}{}{Not right now. I got something to do first.}
+#
+{130}{}{Nice shooting. Maybe we'll go hunting some other time.}
+{131}{}{Stay around, maybe we'll need your skills.}
+{132}{}{Nice to see you again.}
+{133}{}{Good shooting stranger.}
+{134}{}{Hi there.}
+{135}{}{I'm sure I'll call you next time.}
+{136}{}{Maybe we'll go hunt some geckos soon.}
+#ask something...
+{137}{}{Sure thing stranger.}
+#
+{138}{}{I have to go now. Talk to you later.}
+#go hunting...
+{139}{}{Alright, gather your stuff and meet us in the forest north east of here.}
+{140}{}{Sure thing.}

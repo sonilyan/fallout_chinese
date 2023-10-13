@@ -1,0 +1,24 @@
+{100}{}{Stop right there! Who are you and what are you doing here?}
+{101}{}{Easy, I'm going.}
+{102}{}{I'm new here.}
+{103}{}{You tell me first.}
+#easy...
+{104}{}{You're not going anywhere. Gentlemen, we've got ourselves an intruder!}
+{105}{}{I'm not...}
+#new here...
+{106}{}{Hey, I'm not as stupid as you look. Time to die, scum!}
+{107}{}{Lets party!}
+#first...
+{108}{}{Oh, I forgot. Forgive me, I have to shoot you now!}
+{109}{}{You can try.}
+#
+{110}{}{I'm sure I heard something.}
+{111}{}{Damn rats... Shut up!}
+{112}{}{Who's there?}
+{113}{}{I hear something, it must be those rats.}
+{114}{}{Don't make me come there.}
+{115}{}{I got a feeling somebody is watching me.}
+{116}{}{Strange... Guys, if somebody is sneaking up on me...!}
+#
+{117}{}{Looks like they won't cause any more trouble. I better report this to Mr. Donson.}
+{118}{}{...now I just have to find the missing citizens...}

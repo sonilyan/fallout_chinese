@@ -1,16 +1,16 @@
-# 
+#
 # FALLOUT BATTLECRIES
 # When the Bomb Drops, the real fun begins - So let's get to Work!!!
 #
 # Version 1.0  May 13, 1997  Scott Bennie
-#         1.1  May 14, 1997  Chris Taylor (edits and line number change)
-#         1.2  June 19, 1997 Leonard, Jason, Chris (edits)
+#         1.1  May 14, 1997  Chris Taylor [edits and line number change]
+#         1.2  June 19, 1997 Leonard, Jason, Chris [edits]
 #
 # Version 2.0 July 29, 1998 Feargus Urquhart - modified for Fallout 2, most text has been rearranged, however some lines were still authored by the above people.
 #
 #  READ THIS!! READ THIS!! READ THIS!! READ THIS!!
 #
-#  This new file is different than the old one in that body locations are listed in a generic fashion first and are only listed for particular types of characters.  This is followed by a list of generic characters, which is then followed by the more specific taunts and party member taunts.
+#  This new file is different than the old one in that body locations are listed in a generic fashion first and are only listed for particular types of characters.  This is followed by a list of generic characters, which is then followed by the more speci
 #
 #
 ####################################################################################
@@ -18,13 +18,13 @@
 #                    Generic Body Parts
 #
 ####################################################################################
-#                     
+#
 #                     Notes
-#                     
+#
 #                     00-09 Hit in Head
 #                     10-19 Hit in Left Arm
 #                     20-29 Hit in Right Arm
-#                     30-59 Hit in Torso (Generic Non-Called Shot Hit)
+#                     30-59 Hit in Torso [Generic Non-Called Shot Hit]
 #                     60-69 Hit in Right Leg
 #                     70-79 Hit in Left Leg
 #                     80-89 Hit in Eyes
@@ -37,7 +37,7 @@
 #                     1400 Robot
 #                     1500 Primitive
 #                     1600 Ghoul
-#                     1700 Raider (Khan)
+#                     1700 Raider [Khan]
 #                     1800 Junkie
 #
 ####################################################################################
@@ -49,58 +49,58 @@
 #
 # target hit in head
 #
-{1000}{}{My face! My face!}
-{1001}{}{Ow! That hurt!}
-{1002}{}{Ouch! I need some ice for my head.}
+{1000}{}{我的脸！我的脸！}
+{1001}{}{啊！好痛！}
+{1002}{}{啊！我需要一些冰来敷在头上}
 #
 # target hit in left arm
 #
-{1010}{}{Ow, my arm!}
-{1011}{}{Ow!}
-{1012}{}{You broke my arm!}
+{1010}{}{啊，我的左手}
+{1011}{}{啊！}
+{1012}{}{你把我的左手臂打断了！}
 #
 # target hit in right arm
 #
-{1020}{}{Ow, my arm!}
-{1021}{}{Wahhhh!}
-{1022}{}{My God! My arm!}
+{1020}{}{啊，我的右手}
+{1021}{}{哇！}
+{1022}{}{老天！我的右手！}
 #
 # target hit in torso
 #
-{1030}{}{Ow! That really hurt!}
-{1031}{}{I think I'm gonna faint...}
-{1032}{}{Ouch!}
-{1033}{}{Oooof!}
-{1034}{}{That hurt!}
-{1035}{}{Just leave me alone!}
-{1036}{}{Ohhh, pain!}
+{1030}{}{啊！真痛！}
+{1031}{}{我想我快晕了}
+{1032}{}{啊！}
+{1033}{}{哇！}
+{1034}{}{好痛！}
+{1035}{}{不要再打了！}
+{1036}{}{啊！痛！}
 #
 # target hit in right leg
 #
-{1060}{}{Ow, my leg!}
-{1061}{}{My knee!}
-{1062}{}{Ow!}
+{1060}{}{我的右腿！}
+{1061}{}{我的右膝盖！}
+{1062}{}{啊！}
 #
 # target hit in left leg
 #
-{1070}{}{Ow, my leg!}
-{1071}{}{My knee!}
-{1072}{}{Aaaarrrrggghhh!}
+{1070}{}{我的左腿！}
+{1071}{}{我的左膝盖！}
+{1072}{}{啊！}
 #
 # target hit in eyes
 #
-{1080}{}{Ow!! My eyes!}
-{1081}{}{My face! My eyes! Arrrrgh!}
-{1082}{}{My eyes!}
+{1080}{}{啊！！我的眼睛！}
+{1081}{}{我的脸！我的眼睛！啊啊啊！}
+{1082}{}{我的眼睛！}
 #
 # target hit in groin
 #
-{1090}{}{Ooooooooo, my groin! Ooooooo...}
-{1091}{}{Oww...It burns!}
-{1092}{}{Urp!}
-{1093}{}{Ooorp! aoooww...}
-{1094}{}{I...can't...breathe...}
-{1095}{}{The pain, the pain...}
+{1090}{}{啊！！我的下体！痛痛痛...}
+{1091}{}{啊！！真痛！}
+{1092}{}{哇！}
+{1093}{}{哇！啊...}
+{1094}{}{我...不能...呼吸...}
+{1095}{}{好痛，好痛...}
 #
 ############################################
 # 1100 Normal Person
@@ -108,62 +108,61 @@
 #
 # target hit in head
 #
-{1100}{}{Damn!}
-{1101}{}{My aching skull!}
-{1102}{}{My face! My face!}
+{1100}{}{可恶！}
+{1101}{}{我的头好痛}
+{1102}{}{我的脸！我的脸！}
 #
 # target hit in left arm
 #
-{1110}{}{Aggghhh! My arm!}
-{1111}{}{My arm!}
-{1112}{}{Oh man, that hurts!}
+{1110}{}{啊！我的左手}
+{1111}{}{我的左手！}
+{1112}{}{啊！真痛！}
 #
 # target hit in right arm
 #
-{1120}{}{Aggghhh! My arm!}
-{1121}{}{My arm!}
-{1122}{}{My hand's almost torn off!}
+{1120}{}{啊！我的右手}
+{1121}{}{我的右手！}
+{1122}{}{}
 #
 # target hit in torso
 #
-{1130}{}{My legs, I can't feel my legs.}
-{1131}{}{Oof!}
-{1132}{}{Ouch!}
-{1133}{}{Oof! My ribs hurt.}
-{1134}{}{Ugh! That hurt!}
-{1135}{}{Damn! I spit on you!}
-{1136}{}{Argh!}
-{1137}{}{Dang!}
-{1138}{}{Oh, my ribs!}
-{1139}{}{Ow!!!}
-{1140}{}{Oof!}
+{1130}{}{}
+{1131}{}{啊！}
+{1132}{}{痛！}
+{1133}{}{啊！我的肋骨好痛！}
+{1134}{}{哇！真痛！}
+{1135}{}{可恶！我吐你口水！}
+{1136}{}{痛！}
+{1138}{}{啊，我的肋骨！}
+{1139}{}{疼！}
+{1140}{}{啊！}
 #
 # target hit in right leg
 #
-{1160}{}{Aggghhh! My leg!}
-{1161}{}{My leg!}
-{1162}{}{There goes my knee...}
+{1160}{}{啊！我的右腿！}
+{1161}{}{我的右腿！}
+{1162}{}{我的右膝盖完了。}
 #
 # target hit in left leg
 #
-{1170}{}{Aggghhh! My leg!}
-{1171}{}{My leg!}
-{1172}{}{There goes my knee...}
+{1170}{}{啊！我的左腿！}
+{1171}{}{我的左腿！}
+{1172}{}{我的左膝盖完了。}
 #
 # target hit in eyes
 #
-{1180}{}{Aggghhh! I'm blind!}
-{1181}{}{My eyes! My eyes!}
-{1182}{}{My eye! You'll pay for that one!}
+{1180}{}{啊！我瞎了。}
+{1181}{}{我的眼睛！我的眼睛！}
+{1182}{}{我的眼睛！你会付出代价的！}
 #
 # target hit in groin
 #
-{1190}{}{Oooooo, my groin!}
-{1191}{}{Oooooooooo!}
-{1192}{}{I...can't...breathe...}
-{1193}{}{Erg! Right in the jewels!}
-{1194}{}{The pain, the pain...}
-{1195}{}{Damn, that hurts!}
+{1190}{}{啊啊啊啊！我的下体！}
+{1191}{}{啊啊啊啊！}
+{1192}{}{我...不能...呼吸了...}
+{1193}{}{你打到我传宗接代的宝贝了。}
+{1194}{}{疼...疼...}
+{1195}{}{他妈的，真痛。}
 #
 ############################################
 # 1200 Tough Person
@@ -171,61 +170,61 @@
 #
 # target hit in head
 #
-{1200}{}{Ow! You son of a...}
-{1201}{}{You broke my nose!}
-{1202}{}{I'll take your head off!}
+{1200}{}{啊！你这狗娘养...}
+{1201}{}{你打碎了我的鼻子！}
+{1202}{}{我会把你的头扭断的！}
 #
 # target hit in left arm
 #
-{1210}{}{Ow, my arm.}
-{1211}{}{You just made the biggest mistake of your life.}
-{1212}{}{My arm!}
+{1210}{}{啊，我的左手!}
+{1211}{}{你刚刚犯了你这辈子最大的错误}
+{1212}{}{我的左手！}
 #
 # target hit in right arm
 #
-{1220}{}{Ow, my arm.}
-{1221}{}{You just made the biggest mistake of your life.}
-{1222}{}{My arm!}
+{1220}{}{啊，我的右手}
+{1221}{}{你刚刚犯了你这辈子最大的错误}
+{1222}{}{我的右手！干！}
 #
 # target hit in torso
 #
-{1230}{}{Urp!}
-{1231}{}{Oof!}
-{1232}{}{Ouch!}
-{1233}{}{Yup, that cracked some ribs alright.}
-{1234}{}{Ugh! That hurt!}
-{1235}{}{Ouch!}
-{1236}{}{Argh!}
-{1237}{}{Oh, I think you broke a rib!}
-{1238}{}{Ow!!! My spleen!}
-{1239}{}{Oof!}
+{1230}{}{呜！真的好痛！}
+{1231}{}{我想我快昏倒了！}
+{1232}{}{啊！}
+{1233}{}{呜！}
+{1234}{}{哇！真痛！}
+{1235}{}{别靠近我！}
+{1236}{}{喔！痛啊！}
+{1237}{}{喔，我想我的肋骨断了。}
+{1238}{}{哇呜！我的脾脏！}
+{1239}{}{呜！}
 #
 # target hit in right leg
 #
-{1260}{}{Ow, my leg.}
-{1261}{}{I don't need to stand to kill you!}
-{1262}{}{My knee!}
+{1260}{}{我的右脚！}
+{1261}{}{我不用右脚站着也可以将你杀了！}
+{1262}{}{我的右膝盖！}
 #
 # target hit in left leg
 #
-{1270}{}{Ow, my leg.}
-{1271}{}{I don't need to stand to kill you!}
-{1272}{}{My knee!}
+{1270}{}{我的左脚！}
+{1271}{}{我不用左脚站着也可以将你杀了！}
+{1272}{}{我的左膝盖！早上它还在的！}
 #
 # target hit in eyes
 #
-{1280}{}{I can't see!}
-{1281}{}{This fight is getting worse by the second.}
-{1282}{}{That was a real cheap shot!}
+{1280}{}{我看不见了！}
+{1281}{}{这情况越来越不妙了}
+{1282}{}{那招太他妈贱了！}
 #
 # target hit in groin
 #
-{1290}{}{Oooooo, my groin!}
-{1291}{}{I'll feel that in the morning.}
-{1292}{}{Fucking coward!}
-{1293}{}{Urp!}
-{1294}{}{That won't help you any.}
-{1295}{}{Figures that you'd try that.}
+{1290}{}{啊啊啊啊！我的下体！}
+{1291}{}{我每天早上都会痛的}
+{1292}{}{啊}
+{1293}{}{呜...哇...}
+{1294}{}{我...不能...呼吸了...}
+{1295}{}{好痛...好痛...}
 #
 ############################################
 # 1300 Berserk Person
@@ -233,117 +232,117 @@
 #
 # target hit in head
 #
-{1300}{}{That'll be a cool scar!}
-{1301}{}{I'm starting to get annoyed.}
-{1302}{}{Do that again, pig.}
+{1300}{}{那将会是一个很酷的疤！}
+{1301}{}{我觉得不好玩了}
+{1302}{}{你最好不要再那样}
 #
 # target hit in left arm
 #
-{1310}{}{You winged me!}
-{1311}{}{I can take you one-handed.}
-{1312}{}{You broke my arm, but I'll break your neck!}
+{1310}{}{你打到我了！}
+{1311}{}{}
+{1312}{}{很好，你将我的左手打断，我会将你的脖子打断作为回报的}
 #
 # target hit in right arm
 #
-{1320}{}{I can take you left-handed.}
-{1321}{}{It's just a scratch...}
-{1322}{}{You broke my arm, so I'm gonna break your neck.}
+{1320}{}{}
+{1321}{}{那只是一个小伤而已...}
+{1322}{}{很好，你将我的右手打断，我会将你的脖子打断作为回报的}
 #
 # target hit in torso
 #
-{1330}{}{A little blood ain't hurt no-one.}
-{1331}{}{Oof! I'm gonna scrag you for that...}
-{1332}{}{Ow!}
-{1333}{}{I like the pain!}
-{1334}{}{I love the sound of cracking ribs!}
-{1335}{}{That ain't nothing!}
-{1336}{}{Arg!}
+{1330}{}{流点血死不了人的}
+{1331}{}{啊！我会宰了你的...}
+{1332}{}{啊！}
+{1333}{}{我喜欢痛苦！}
+{1334}{}{我喜欢听到肋骨碎裂的声音！}
+{1335}{}{那不算什么！}
+{1336}{}{可恶！}
 #
 # target hit in right leg
 #
-{1360}{}{I love the sound of bones crunching.}
-{1361}{}{I'll get you if I have to crawl after you.}
-{1362}{}{You broke my leg, but I'll break your neck!}
+{1360}{}{我喜欢听到骨头断掉的声音！}
+{1361}{}{}
+{1362}{}{你这个混蛋！你将我的右腿打断！我会将你的脖子打断的}
 #
 # target hit in left leg
 #
-{1370}{}{I love the sound of bones crunching.}
-{1371}{}{I still have one leg left.}
-{1372}{}{You broke my leg, but I'll break your neck!}
+{1370}{}{我喜欢听到骨头断掉的声音！}
+{1371}{}{}
+{1372}{}{你这个混蛋！你将我的左腿打断！我会将你的脖子打断的}
 #
 # target hit in eyes
 #
-{1380}{}{Hey, I'm blind.}
-{1381}{}{I can't see. That'll make this fair.}
-{1382}{}{My eyes, bitch!}
+{1380}{}{啊，我瞎了！}
+{1381}{}{我看不见了，现在公平了吧！}
+{1382}{}{我的眼睛！干！}
 #
 # target hit in groin
 #
-{1390}{}{Oof, my groin!}
-{1391}{}{That was a ballsy move.}
-{1392}{}{Heh, heh, can't hurt that, it's brass-plated.}
-{1393}{}{Whatta fuckin' sissy you are.}
-{1394}{}{So, that's the way you want to play it?}
-{1395}{}{Ack!}
+{1390}{}{啊，我的老二！}
+{1391}{}{那真不是君子的打法！}
+{1392}{}{}
+{1393}{}{}
+{1394}{}{你就这么喜欢攻击人家的下体吗？}
+{1395}{}{啊！}
 #
 ############################################
-# 1400 Robot 
+# 1400 Robot
 ############################################
 #
 # target hit in CPU
 #
-{1400}{}{Warning, CPU malfunction registered!}
-{1401}{}{Warning! CPU damaged! Processing impaired!}
-{1402}{}{Warning! CPU damaged! Rerouting critical system!}
+{1400}{}{警告！ＣＰＵ出现问题！}
+{1401}{}{警告！ＣＰＵ出现问题！无法运算！}
+{1402}{}{警告！ＣＰＵ出现问题！启动备用系统！}
 #
 # target hit in left manipulator
 #
-{1410}{}{Manipulator damage registered.}
-{1411}{}{Unit struck in left manipulator. Damage assessment.}
-{1412}{}{Manipulator hit registered. Attempting to compensate.}
+{1410}{}{左机械手被击中！}
+{1411}{}{左机械手被击中！开始进行损伤报告！}
+{1412}{}{左机械手被击中！自我修护开始！}
 #
 # target hit in right manipulator
 #
-{1420}{}{Manipulator damage registered.}
-{1421}{}{Unit struck in right manipulator. Damage assessment.}
-{1422}{}{Manipulator hit registered. Attempting to compensate.}
+{1420}{}{右机械手被击中！}
+{1421}{}{右机械手被击中！开始进行损伤报告！}
+{1422}{}{右机械手被击中！启动"发克碧池"程序！}
 #
 # target hit in frame
 #
-{1430}{}{Frame hit. Correcting for damage.}
-{1431}{}{Frame hit. Internal repairs initiated.}
-{1432}{}{Main structure under attack.}
-{1433}{}{Armor penetrated.}
-{1434}{}{Main structure under attack. Correcting.}
-{1435}{}{This unit under attack.}
-{1436}{}{Attempting combat maneuver.}
-{1437}{}{Brzzt!}
-{1438}{}{Minor damage.}
-{1439}{}{Brzzt!}
+{1430}{}{主体被击中，自我调整启动，嘀。}
+{1431}{}{主体被击中，开始自我维修，嘀。}
+{1432}{}{主体遭到攻击，嘀。}
+{1433}{}{装甲被击穿，嘀。}
+{1434}{}{主体遭到攻击。自我维修中，嘀。}
+{1435}{}{这一个机器人正遭受攻击，嘀。}
+{1436}{}{开始战斗模式，嘀。}
+{1437}{}{啪！}
+{1438}{}{轻度伤害，嘀。}
+{1439}{}{啪！}
 #
 # target hit in right motivator
 #
-{1460}{}{Motivator damage registered.}
-{1461}{}{Unit struck in right motivator. Damage assessment.}
-{1462}{}{Motivator hit registered. Attempting to compensate.}
+{1460}{}{右移动器被击中！}
+{1462}{}{右移动器被击中！开始进行损伤报告！}
+{1463}{}{右移动器被击中！启动"竖起中指"程序！}
 #
 # target hit in left motivator
 #
-{1470}{}{Motivator damage registered.}
-{1471}{}{Unit struck in left motivator. Damage assessment.}
-{1472}{}{Motivator hit registered. Attempting to compensate.}
+{1470}{}{左移动器被击中！}
+{1471}{}{左移动器被击中！开始进行损伤报告！}
+{1472}{}{左移动器被击中！自我修护开始！}
 #
 # target hit in sensors
 #
-{1480}{}{Sensor hit! Sensor hit!}
-{1481}{}{Sensors impaired! Sensors impaired!}
-{1482}{}{Sensor system malfunction, attempting bypass.}
+{1480}{}{感应器被击中！}
+{1481}{}{感应器失去功能！}
+{1482}{}{感应器完全破坏！启动备用装置}
 #
 # target hit in regulator
 #
-{1490}{}{Regulator malfunction registered!}
-{1491}{}{Regulator damaged! Regulation impaired!}
-{1492}{}{Regulator damaged! Rerouting critical system!}
+{1490}{}{稳压器被击中！}
+{1491}{}{稳压器被击中！开始进行损伤报告！}
+{1492}{}{稳压器被击中！自我修护开始！}
 #
 #
 ############################################
@@ -352,299 +351,306 @@
 #
 # target hit in head
 #
-{1500}{}{My head is filled with evil spirits.} 
-{1501}{}{I can hear my ancestors calling me.} 
-{1502}{}{That will scar nicely.}
-{1503}{}{Ouuuuch!}
-{1504}{}{My head is on fire!}
-{1505}{}{It burns, it burns!}
-{1506}{}{The pain.}
-{1507}{}{Your magic is powerful.}
-{1508}{}{You cannot steal my soul that way.} 
-{1509}{}{Your magic cannot kill me.}
+{1500}{}{我的头被恶灵占据了。}
+{1501}{}{我可以听到祖先的召唤了。}
+{1502}{}{你将会留下一道疤痕。}
+{1503}{}{啊啊啊！}
+{1504}{}{我的头好痛！}
+{1505}{}{痛死了！痛死了！}
+{1506}{}{疼！}
+{1507}{}{你的法术相当厉害。}
+{1508}{}{你没办法将我的灵魂取走的。}
+{1509}{}{你的法术是杀不了我的。}
 #
 # target hit in left arm
 #
-{1510}{}{I'll use my right arm to kill you.} 
-{1511}{}{I only need one hand to kill you.} 
-{1512}{}{Your pain will be even greater!} 
-{1513}{}{I didn't need that many fingers anyway.} 
-{1514}{}{That arm was a little too long anyhow.} 
-{1515}{}{I will take both your arms for that.} 
-{1516}{}{For that, I kill you slow.} 
-{1517}{}{Youch!}
-{1518}{}{So much blood.}
-{1519}{}{Something to show the young-ones.}
- #
-# target hit in right arm
-#
-{1520}{}{I will kill you with my left hand.} 
-{1521}{}{Is your aim that bad?}
-{1522}{}{I only need one hand to kill you.} 
-{1523}{}{I didn't need that many fingers anyway.} 
-{1524}{}{For that, I kill you slow.}
-{1525}{}{I will take both your arms for that.} 
-{1526}{}{You take my arm, I'll take your head!}
-{1527}{}{You seek to cripple me?}
-{1528}{}{I will dine on your entrails for that.} 
-{1529}{}{You will take a long time to die.}
-#
-# target hit in torso
-#
-{1530}{}{Awwwwwg!}
-{1531}{}{My insides burn!}
-{1532}{}{My guts are on fire!}
-{1533}{}{My life-spirits flee from me.} 
-{1534}{}{I've been torn open!}
-{1535}{}{May I live long enough to finish you.} 
-{1536}{}{Ancestors, I am coming.}
-{1537}{}{I will never see the village again.} 
-{1538}{}{At least I will die with honor.} 
-{1539}{}{My brothers shall avenge me.} 
-{1540}{}{I have no breath left in me.} 
-{1541}{}{You have taken my soul.}
-{1542}{}{You would mutilate me?}
-{1543}{}{I'm gutted like a brahmin.} 
-{1544}{}{I don't feel good.}
-{1545}{}{I can't feel my legs.}
-{1546}{}{Suddenly, I feel warm and sleepy.} 
-{1547}{}{Errrggggg!}
-{1548}{}{Gack! *cough, cough*}
-{1549}{}{Must continue, must slay enemy...} 
-{1550}{}{The darkness beckons to me.} 
-{1551}{}{The hour of my death approaches.} 
-{1552}{}{The Shaman was right, I do not return.} 
-{1553}{}{The outworlder has slain me.} 
-{1554}{}{I am killed.}
-{1555}{}{My guts are loosened from my spine!} 
-{1556}{}{Do not let me shame myself in death.} 
-{1557}{}{Damn these pesky intestines.} 
-{1558}{}{Hey, look here, I can see my lunch.} 
-{1559}{}{Where has all the air gone?}
-#
-# target hit in right leg
-#
-{1560}{}{I will crawl to kill you.}
-{1561}{}{Must keep standing, must...} 
-{1562}{}{Do not make me run to catch you!}
-{1563}{}{You would cripple me, coward!} 
-{1564}{}{Awwwwgg!}
-{1565}{}{Bone? So white...}
-{1566}{}{Why can't I walk?}
-{1567}{}{Arrrrrrgh.}
-{1568}{}{Unnhhh.}
-{1569}{}{Leg feels like fire.}
-#
-# target hit in left leg
-#
-{1570}{}{I will crawl to kill you.}
-{1571}{}{Must keep standing, must...} 
-{1572}{}{Do not make me run to catch you!} 
-{1573}{}{You would cripple me, coward!} 
-{1574}{}{Awwwwgg!}
-{1575}{}{Bone? So white...}
-{1576}{}{Can't walk. Oh the pain...} 
-{1577}{}{I will burn off your foot for that.} 
-{1578}{}{Ooooo-ouuuuch!}
-{1579}{}{Leg burns like fire.}
-#
-# target hit in eyes
-#
-{1580}{}{The darkness is here.}
-{1581}{}{Where are you?}
-{1582}{}{Help, help me.}
-{1583}{}{I can still hear you.}
-{1584}{}{Seeking to blind me? You coward!} 
-{1585}{}{My sight has been stolen.}
-{1586}{}{You can take my eyes but not my courage!} 
-{1587}{}{Come here so I can kill you!} 
-{1588}{}{The darkness, the darkness, Aaaiiiieee!} 
-{1589}{}{Where's my eye, where is it!?!}
-#
-# target hit in groin
-#
-{1590}{}{I have too many young already.} 
-{1591}{}{You fight without honor.}
-{1592}{}{I'm married, didn't use it anyway.} 
-{1593}{}{Holy spirits, the world just exploded.} 
-{1594}{}{::gasp:: ...can't breath...}
-{1595}{}{(in a high, squeaky, voice) Ouch!}
-{1596}{}{Unnhhh. I need to sit down for a bit.} 
-{1597}{}{You bastard--I kill you slow for that.} 
-{1598}{}{You know nothing of honor.}
-{1599}{}{I butcher you like animal for that.}
-#
-#
-############################################
- # 1600 Ghoul
-############################################ 
-#
-# target hit in head
-#
-{1600}{}{Oh, my pretty face.}
-{1601}{}{My brains hurt.}
-{1602}{}{Now I look like Van Gogh.}
-{1603}{}{Damn, there goes my nose.}
-{1604}{}{Hey, that's my last tooth.} 
-{1605}{}{I've been scalped!}
-{1606}{}{I'd rather have a bottle in front-of-me...} 
-{1607}{}{Let me give you a piece of my mind.} 
-{1608}{}{That's me one good eye, Arrr.} 
-{1609}{}{Brings a tear to me one good eye.}
-#
-# target hit in left arm
-#
-{1610}{}{You've disarmed me!}
-{1611}{}{Ooohh, da pain, da pain.}
-{1612}{}{I've still got a couple fingers left.} 
-{1613}{}{I only need one finger for *you* bub.} 
-{1614}{}{I guess I'll give you a hand then.} 
-{1615}{}{That's worse than a hangnail.} 
-{1616}{}{That's just gonna kill my backswing.} 
-{1617}{}{I'll stab you with my stump!} 
-{1618}{}{Hey, where'd my fingers go?} 
-{1619}{}{This'll be great for that Capt. Hook look.} 
+{1510}{}{我会用我的右臂将你杀死的。}
+{1511}{}{我只要一条手臂就可以将你杀死。}
+{1512}{}{你将会受到比我更大的痛苦！}
+{1513}{}{反正我也不需要那一些指头。}
+{1514}{}{反正我也觉得我的手臂太长了。}
+{1515}{}{我会将你的双臂都砍断的。}
+{1516}{}{我会慢慢的折磨你的。}
+{1517}{}{啊！}
+{1518}{}{好多血啊！}
+{1519}{}{可恨！}
 #
 # target hit in right arm
 #
-{1620}{}{I shoulda used right-guard.} 
-{1621}{}{You broke my arm!}
-{1622}{}{You're gonna regret that!}
-{1623}{}{I'm being moyderd heya.}
-{1624}{}{There goes Wimbledon.}
-{1625}{}{Sieg...oh, never mind.}
-{1626}{}{You've disarmed me!}
-{1627}{}{I only need one finger for *you* bub.} 
-{1628}{}{I'll kick you to death then.} 
-{1629}{}{There goes my silver-sequined glove!} 
+{1520}{}{我用左手也能将你杀死。}
+{1521}{}{你的准头那么差吗？}
+{1522}{}{干掉你只用一只手就可以了。}
+{1523}{}{反正我也不需要那一些指头。}
+{1524}{}{我会慢慢的折磨你的。}
+{1525}{}{我会将你的双臂都砍断的。}
+{1526}{}{你砍我的手，我就砍你的头！}
+{1527}{}{你想要把我变成残障吗？}
+{1528}{}{我会将你的肠子拔出来吊死你的。}
+{1529}{}{我会让你生不如死的。}
 #
 # target hit in torso
 #
-{1630}{}{That's *my* liver, give it back!} 
-{1631}{}{Just a little more to the right, ahhh, that's better.} 
-{1632}{}{Gerrk!}
-{1633}{}{What's that musty smell? Oh, it's my innards.} 
-{1634}{}{Just a little off the edges there, doc.} 
-{1635}{}{Arrggghh, my spine!}
-{1636}{}{My legs, I can't feel my legs.} 
-{1637}{}{It's a gut-wound Sarge.}
-{1638}{}{Lungs are for sissies.}
-{1639}{}{Hey, I've got ribs!}
+{1530}{}{啊啊啊啊！}
+{1531}{}{我的身体！}
+{1532}{}{我的内脏！}
+{1533}{}{我的灵魂就快要离开我的躯体了。}
+{1534}{}{我被切开了！}
+{1535}{}{我只要把你杀了我就心满意足了。}
+{1536}{}{祖先啊，我就快来陪你们了。}
+{1537}{}{我再也不能够见到我的家人了。}
+{1538}{}{至少我死也死得有荣耀。}
+{1539}{}{我的家人会替我报仇的。}
+{1540}{}{我撑不下去了。}
+{1541}{}{你将我的灵魂取走了。}
+{1542}{}{你真可恶。}
+{1543}{}{我好像砧板上的肉一样。}
+{1544}{}{我感到很不舒服。}
+{1545}{}{我的下半身没有知觉了。}
+{1546}{}{我突然的觉得想睡觉了。}
+{1547}{}{啊啊！}
+{1548}{}{可恶！咳...咳...}
+{1549}{}{一定要...将你...杀死...}
+{1550}{}{上天已经不再眷怜我了。}
+{1551}{}{我的大限已近。}
+{1552}{}{难道神今天就要召唤我吗？}
+{1553}{}{我居然会被一个外人给杀死。}
+{1554}{}{我死了。}
+{1555}{}{我的内脏都移位了。}
+{1556}{}{让我死也死得有尊严吧。}
+{1557}{}{我的内脏露出来了，好痛！}
+{1558}{}{看哪，我吃的午餐都流出来了。}
+{1559}{}{我无法呼吸了。}
 #
 # target hit in right leg
 #
-{1660}{}{Ow, my leg!}
-{1661}{}{You're gonna pay for that!}
-{1662}{}{Argh! You break my leg, I break your neck!} 
-{1663}{}{Damn, there goes my Tango.}
-{1664}{}{Damn, there go my toes.}
-{1665}{}{I guess I need a leg up.}
-{1666}{}{You scuffed my blue suede shoes!} 
-{1667}{}{You whacked my wingtips!}
-{1668}{}{And I just shaved them too.} 
-{1669}{}{I'll bite your kneecaps off!} 
+{1560}{}{我用爬的都要将你杀死。}
+{1561}{}{我一定站起来，一定要...}
+{1562}{}{不要让我逮到你！}
+{1563}{}{你把我打瘸了，懦夫！}
+{1564}{}{啊啊啊啊！}
+{1565}{}{骨头，白色的骨头露出来了...}
+{1566}{}{为什么我不能走路了？}
+{1567}{}{啊！}
+{1568}{}{痛！}
+{1569}{}{我的腿痛得像着了火一样。}
 #
 # target hit in left leg
 #
-{1670}{}{My leg!}
-{1671}{}{You gored my Gucci's!}
-{1672}{}{Ouch! Hey! That's below the belt!} 
-{1673}{}{You can raise welts like nobody else.} 
-{1674}{}{Spank me Mommy, I've been naughty.} 
-{1675}{}{That'll scab-up nicely.}
-{1676}{}{Is all that blood mine?}
-{1677}{}{Marshall Dillon, Marshall Dillon!} 
-{1678}{}{That's going to blister.}
-{1679}{}{Kai, yai, yippee, ai, ay!}
+{1570}{}{我用爬的也能干掉你。}
+{1571}{}{我一定站起来，一定要...}
+{1572}{}{不要让我逮到你！}
+{1573}{}{你把我打瘸了，懦夫！}
+{1574}{}{啊啊啊啊！}
+{1575}{}{骨头，白色的骨头露出来了...}
+{1576}{}{为什么我不能走路了？}
+{1577}{}{我会把你的脚也砍下来的。}
+{1578}{}{啊啊啊啊！}
+{1579}{}{我的腿痛得像着了火一样。}
 #
 # target hit in eyes
 #
-{1680}{}{Damn blood in my eyes!}
-{1681}{}{My eye! You'll pay for that one!} 
-{1682}{}{Bastard!}
-{1683}{}{Who turned out the lights?} 
-{1684}{}{Hah, that was my glass eye!} 
-{1685}{}{Squishes like a ripe grape, don't it?}
-{1686}{}{I've got my eye on you, uh, could you hand it back please?} 
-{1687}{}{I can still track you by sound alone!}
-{1688}{}{Aiyeee! Aiyeee! My eye!}
-{1689}{}{You're blinding me 'cause you're afraid, ain't ya.} 
+{1580}{}{黑暗降临了。}
+{1581}{}{你在那里？}
+{1582}{}{救救我。}
+{1583}{}{我只靠耳朵就知道你在那里了。}
+{1584}{}{你打算将我打瞎吗？你这懦夫！}
+{1585}{}{我失去了我的的视觉了。}
+{1586}{}{你可以夺走的视觉，但是却无法夺走我的勇气！}
+{1587}{}{过来，我好把你杀了！}
+{1588}{}{好暗，好黑，啊啊啊啊！}
+{1589}{}{我的眼睛呢？我的眼睛呢？}
 #
 # target hit in groin
 #
-{1690}{}{Aren't you chivalrous.}
-{1691}{}{Yooooouuuuch!} 
-{1692}{}{Unnhhhhh!}
-{1693}{}{I think I need to sit down for a bit.}
-{1694}{}{That's my beef bologna!}
-{1695}{}{Gee, if there were any female ghouls I'd be angry with you.} 
-{1696}{}{Oohh, that hurt.}
-{1697}{}{Hey look! Prairie oysters.} 
-{1698}{}{Chopped nuts anyone?}
-{1699}{}{No more writing my name in the snow.}
+{1590}{}{我反正已经有很多小孩了。}
+{1591}{}{你的作战方法一点都不光明正大。}
+{1592}{}{我已经结婚了，反正老二也不常用...}
+{1593}{}{天啊，痛死我了。}
+{1594}{}{啊啊...不能呼吸了...}
+{1595}{}{啊！}
+{1596}{}{我得要坐下来...}
+{1597}{}{你这浑账，我会为此慢慢的折磨你的。}
+{1598}{}{你好贱啊！}
+{1599}{}{我会像杀蜥蜴那样把你的皮剥了。}
+#
 #
 ############################################
-# 1700 Raider (Khan)
+# 1600 Ghoul
 ############################################
 #
 # target hit in head
 #
-{1700}{}{Not the fricken head you...}
-{1701}{}{My...head...getting...dizzy.}
-{1702}{}{Ugnnn!}
-{1703}{}{Not the face! Not the face!}
+{1600}{}{啊啊，我美丽的脸孔。}
+{1601}{}{我的脑好痛。}
+{1602}{}{我现在看起来像梵高了。}
+{1603}{}{该死，我的鼻子不见了。}
+{1604}{}{嘿，那是我最后一只牙齿。} 
+{1605}{}{我被解剖了！}
+{1606}{}{我需要个东西挡在我的前头。} 
+{1607}{}{看来我得给你点教训才行。} 
+{1608}{}{那是我还能用的眼睛，啊。} 
+{1609}{}{那是一只还能用的眼睛啊！}
 #
 # target hit in left arm
 #
-{1710}{}{I can beat you with one arm!}
-{1711}{}{Medic! My arm's fucked!}
-{1712}{}{Ack! Good thing I'm ambi... whatever.}
+{1610}{}{没关系，反正我还剩下几根手指。}
+{1611}{}{我只要一根手指就可以杀了你。}
+{1612}{}{好吧，我就助你″一臂之力″吧。}
+{1613}{}{对付你我只需要一只手指头。} 
+{1614}{}{我发誓一定摘下你一只手。} 
+{1615}{}{再也不可能比只剩一只手指头还糟了。} 
+{1616}{}{你只不过扼杀了我的棒球生涯！} 
+{1617}{}{痛死我了！} 
+{1618}{}{嘿，我的手指跑到那里去了。} 
+{1619}{}{我可以装上钩子当库克船长了。} 
 #
 # target hit in right arm
 #
-{1720}{}{You broke my arm! Now the fight is fair!}
-{1721}{}{Medic! My arm's fucked!}
-{1722}{}{You'll need to remove more than my arm to save your ass!}
+{1620}{}{你会后悔的！}
+{1621}{}{我被谋杀啦！}
+{1622}{}{我再也没有机会参加温布顿世界网球公开赛了。}
+{1623}{}{我被谋杀啦！}
+{1624}{}{那里有个洞。}
+{1625}{}{他妈...喔，算了。}
+{1626}{}{我绝不投降！}
+{1627}{}{对付你我只需要一只手指头。} 
+{1628}{}{我会把你踹死} 
+{1629}{}{我的银“骨”手套不见了。} 
 #
 # target hit in torso
 #
-{1730}{}{Ahhg! Gut shot!}
-{1731}{}{Hnrgggg! Can't... breathe...}
-{1732}{}{My ribs hurt. Soon I will remove yours! It's only fair!}
-{1733}{}{You're...gonna...pay...for...that!}
-{1734}{}{*Ooooof* God I hate that...}
-{1735}{}{Nggg! Solar plexus!}
+{1630}{}{右边一点，啊啊啊，真舒服。}
+{1631}{}{可恶！}
+{1632}{}{什么东西那么臭？喔，是我的肠子。}
+{1633}{}{你把我的内脏都拿掉了，帮我减掉了几公斤，谢谢啦！}
+{1634}{}{...我的心脏啊...}
+{1635}{}{你在帮我搔痒吗？}
+{1636}{}{反正盲肠也没有用处。}
+{1637}{}{你的攻击不过像在做马杀鸡一样。}
+{1638}{}{肺没用了。}
+{1639}{}{嘿，我得到一个肋骨。}
+{1640}{}{我的脚，我感觉不到我的脚了。}
+{1641}{}{我的胆受伤了。}
+{1642}{}{肺没什么用，伤了就伤了。}
+{1643}{}{嘿，我从来都不知道我也有肋骨！}
 #
 # target hit in right leg
 #
-{1760}{}{Dammit! My leg!}
-{1761}{}{I don't need two legs to kick your ass.}
-{1762}{}{Gonna need a stimpak for my leg...}
-{1763}{}{Urggg...leg's...screwed...}
+{1660}{}{疼阿，我的腿！}
+{1661}{}{你会付出代价的！}
+{1662}{}{啊！你打断了我的腿！我会扭断你的脖子的！}
+{1663}{}{可恶，以后我再也不能跳探戈舞了。}
+{1664}{}{可恶，我的脚趾那去了。}
+{1665}{}{我只要一条腿就够了。}
+{1666}{}{你弄伤了我蓝色的“皮”鞋！} 
+{1667}{}{你打掉了我的脚趾头！}
+{1668}{}{你不过打掉我一块脚指甲而以，我正好要也想修剪一下它。} 
+{1669}{}{我会把你的膝盖给咬下来的。} 
 #
 # target hit in left leg
 #
-{1770}{}{Dammit! My leg!}
-{1771}{}{*Ergg* Gonna have a limp after that one...}
-{1772}{}{Gonna need a stimpak for my leg...}
-{1773}{}{Urggg...leg's...screwed...}
+{1670}{}{你只会打人的脚吗？}
+{1671}{}{惩罚我吧，我是个坏小孩。}
+{1672}{}{伤口马上就会结疤的。}
+{1673}{}{就算你打掉别的人腿，你也不会比别人高啊。} 
+{1674}{}{告诉我妈妈，我是很顽皮的。} 
+{1675}{}{那看起来很好呀。}
+{1676}{}{你在挖“血矿”吗？}
+{1677}{}{我装只假脚就能去当海盗了！} 
+{1678}{}{喔，起水泡了。}
+{1679}{}{〔语无伦次中...〕}
 #
 # target hit in eyes
 #
-{1780}{}{Shit! Not the eyes!}
-{1781}{}{Trying to cripple my depth perception, huh?}
-{1782}{}{Can't...see...blood...in...eyes...}
-{1783}{}{Don't havta see ya, I can still smell ya!}
+{1680}{}{见鬼阿，血在我的眼睛里流！}
+{1681}{}{你拿了我的眼睛，可以还我吗？}
+{1682}{}{我光用耳朵就可以知道你的正确位置了！}
+{1683}{}{谁把灯关了？} 
+{1684}{}{哈，那是我的玻璃眼球。} 
+{1685}{}{捏碎眼睛的感觉就像捏葡萄一样，不是吗？}
+{1686}{}{你拿了我的眼睛，可以还我吗？} 
+{1687}{}{我光用耳朵就可以知道你在那里！}
+{1688}{}{唉咿！唉咿！我的眼睛！}
+{1689}{}{因为你怕我，所以才把我弄瞎，对不对？} 
 #
 # target hit in groin
 #
-{1790}{}{What do you think this is? Some cheap action flick?}
-{1791}{}{My balls!!! Come here and let me do that to you!}
-{1792}{}{Well, there go my brass balls.}
-{1793}{}{Excuse me for a moment while I throw up all over myself.}
-{1794}{}{Great. I get to fight someone with a ball fixation.}
-{1795}{}{Let me lie down for a second, then I'll come kill you.}
-{1796}{}{Nuts! Oh well, no kids for me.}
+{1690}{}{难道你没有骑士精神吗？}
+{1691}{}{哟哟哟哟！}
+{1692}{}{啊啊啊啊！}
+{1693}{}{让我站一下，就不痛了...}
+{1694}{}{你打到了我的牛肉香肠！}
+{1695}{}{我再也不能钓马子了。}
+{1696}{}{我想我最好坐下来一下。}
+{1697}{}{如果有女性的僵尸的话我就会很生气。}
+{1698}{}{啊，好痛！}
+{1699}{}{这样做...？喔，耶，有点痛。} 
+{1700}{}{嘿！注意看，大草原的蛆。} 
+{1701}{}{你把我的大肉条烧熟啦！}
+{1702}{}{我无法再在雪地上写字了。}
+#
+############################################
+# 1703 Raider [Khan]
+############################################
+#
+# target hit in head
+#
+{1703}{}{你别再打头了...}
+{1704}{}{我的...头...好...晕...}
+{1705}{}{啊！}
+{1706}{}{别打脸！别打脸！}
+#
+# target hit in left arm
+#
+{1710}{}{我一条手臂一样可以扁你！}
+{1711}{}{医生！我的手臂被“干”了！}
+{1712}{}{啊！还好没事...}
+#
+# target hit in right arm
+#
+{1720}{}{你弄断了我的手臂！现在战斗是公平的！}
+{1721}{}{医生！我的手臂被“干”了！}
+{1722}{}{你得多打几次才能保住你的屁股！}
+#
+# target hit in torso
+#
+{1730}{}{啊！我的肠子中弹了！}
+{1731}{}{呵...无法呼吸了...}
+{1732}{}{你打伤我的肋骨。等一下我也会让你一样，这样才公平！}
+{1733}{}{你...将...付出．代价...}
+{1734}{}{*呜*我恨...}
+{1735}{}{你在我肚子上开了一个洞！}
+#
+# target hit in right leg
+#
+{1760}{}{该死的东西，我的腿！}
+{1761}{}{我不需要两条腿来踹你的屁股。}
+{1762}{}{我需要在这条腿上用支治疗针。}
+{1763}{}{哇...我的腿...}
+#
+# target hit in left leg
+#
+{1770}{}{该死的东西，我的腿！}
+{1771}{}{*喔*看来我以后得当跛子了。}
+{1772}{}{我需要在这条腿上用支治疗针，不！需要两支！}
+{1773}{}{哇...我的腿...}
+#
+# target hit in eyes
+#
+{1780}{}{雪特！别打眼睛！}
+{1781}{}{想让我变成瞎子吗？}
+{1782}{}{看不到．血流．到．眼里了...}
+{1783}{}{我打架根本不用看到你，我用闻的就够了。}
+#
+# target hit in groin
+#
+{1790}{}{你的攻击根本不痛不痒。}
+{1791}{}{我的蛋！！！我要把你阉了！}
+{1792}{}{嗯，那只不过是打掉我的铁制蛋蛋而已。}
+{1793}{}{等我一下，我自己自杀好了。}
+{1794}{}{很好，你这专打卵蛋的家伙。}
+{1795}{}{让我坐下一会儿，我就能杀了你。}
+{1796}{}{天呀！我不能有小孩了！}
 #
 ############################################
 # 1800 Junkie
@@ -652,75 +658,75 @@
 #
 # target hit in head
 #
-{1800}{}{Whoa. Something just hit me in the face.}
-{1801}{}{What just hit me in the head?}
-{1802}{}{Ngggg!}
-{1803}{}{Glad I'm dusted on Jet, or that would have hurt.}
-{1804}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
+{1800}{}{哇，有东西打进我的脸了。}
+{1801}{}{为什么只打我的头？}
+{1802}{}{呃}
+{1803}{}{幸好我刚吸过杰特，不然就痛死了。}
+{1804}{}{呜～～！谁有治疗针或是杰特可以给我！}
 #
 # target hit in left arm
 #
-{1810}{}{Hey! Somebody just hit my arm!}
-{1811}{}{Look, my arm is for needles only. Stop attacking it.}
-{1812}{}{Nggggg!}
-{1813}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
+{1810}{}{嘿！是谁专打我的手臂？}
+{1811}{}{听着，我的手臂是用来打针的，别再打它了。}
+{1812}{}{呃}
+{1813}{}{呜～～！谁有治疗针或是杰特可以给我！最好是双份的！}
 #
 # target hit in right arm
 #
-{1820}{}{Hey! Somebody just hit my arm!}
-{1821}{}{Look, my arm is for needles only. Stop attacking it.}
-{1822}{}{Nggggg!}
-{1823}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
+{1820}{}{嘿！是谁专打我的手臂？}
+{1821}{}{听着，我这只手臂是用来帮女孩打针的，别再打它了。}
+{1822}{}{呃}
+{1823}{}{呜～～！谁有治疗针或是杰特可以给我！}
 #
 # target hit in torso
 #
-{1830}{}{My spleen!}
-{1831}{}{Ow! Owwww, my stupid chest! Ow!}
-{1832}{}{Hey! What did you hit me in the chest for, asshole?!}
-{1833}{}{Stop hitting me in the chest!}
-{1834}{}{Whoa. My chest. You hit it. Cool.}
-{1835}{}{Nrgggg!}
-{1836}{}{*hfff*}
-{1837}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
+{1830}{}{我的脾脏！}
+{1831}{}{哇呜！喔呜，我的胸部！啊！}
+{1832}{}{嘿！你用什么打我的胸部？混蛋。}
+{1833}{}{别再打我的胸部了！}
+{1834}{}{哇！我的胸部，你把它打的好酷。}
+{1835}{}{*呐*}
+{1836}{}{*啊*}
+{1837}{}{呜～～！谁有治疗针或是杰特可以给我！}
 #
 # target hit in right leg
 #
-{1860}{}{Hey! Somebody just hit my leg!}
-{1861}{}{Hey! I walk with that leg!}
-{1862}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
+{1860}{}{嘿！是谁专打我的腿！}
+{1861}{}{嘿！我还要这条腿走路呐！}
+{1862}{}{呜～～！谁有治疗针或是杰特可以给我！最好是双份的！}
 #
 # target hit in left leg
 #
-{1870}{}{Hey! Somebody just hit my leg!}
-{1871}{}{Hey! I walk with that leg!}
-{1872}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
+{1870}{}{嘿！是谁专打我的腿！}
+{1871}{}{嘿！我还要这条腿走路呐！}
+{1872}{}{呜～～！谁有治疗针或是杰特可以给我！}
 #
 # target hit in eyes
 #
-{1880}{}{That didn't FEEL like a needle in my eye...}
-{1881}{}{Hey! I see with that eye!}
-{1882}{}{My eyes! My eyes! My eyes hurt!}
+{1880}{}{那感觉不像是针刺在眼睛里...}
+{1881}{}{嘿！我看见自己的眼睛了！}
+{1882}{}{我的眼睛！我的眼睛！我的眼睛受伤了！}
 #
 # target hit in groin
 #
-{1890}{}{I'm so dusted on Jet, I barely felt that. Oh...no, wait.}
-{1891}{}{*Hurhkkkk*}
-{1892}{}{Kick me in the groin, will you?!}
-{1893}{}{Nghhhhh!}
-{1894}{}{Not the groin! Not the groin!}
-{1895}{}{My genitals! My poor genitals!}
-{1896}{}{Pardon me while I throw up all over the place.}
-{1897}{}{That...hurt...a...LOT.}
-{1898}{}{I hope my groin just went to genital heaven.}
+{1890}{}{我从用了杰特后，几乎感觉不到...不...等等...}
+{1891}{}{*呜啊*}
+{1892}{}{是你踹我的下面吗？}
+{1893}{}{不～～！}
+{1894}{}{别打下面！别打下面！}
+{1895}{}{你竟然敢打我下面！}
+{1896}{}{让我休息一下，我就能打赢这一仗。}
+{1897}{}{那...伤...到...没事。}
+{1898}{}{愿我的生殖器可以上到天堂。}
 #
 ####################################################################################
 #
 #                    Generic People
 #
 ####################################################################################
-#                     
+#
 #                     Notes
-#                     
+#
 #                     00-19 Running Away
 #                     20-39 Moving in to Attack
 #                     40-59 Attacking
@@ -730,12 +736,12 @@
 #                     2100 Normal Person
 #                     2200 Tough Person
 #                     2300 Berserk Person
-#                     2400 Guard (Normal)
-#                     2500 Guard (Tough)
+#                     2400 Guard [Normal]
+#                     2500 Guard [Tough]
 #                     2600 Primitive
 #                     2700 Soldier
 #                     2800 Leader
-#                     2900 Raider (Khan)
+#                     2900 Raider [Khan]
 #                     3000 Robot
 #                     3100 Ghoul
 #                     3200 Junkie
@@ -749,43 +755,43 @@
 #
 #  running away
 #
-{2000}{}{Mercy!}
-{2001}{}{Somebody help me!}
-{2002}{}{Please stop!}
-{2003}{}{Help!}
-{2004}{}{Aaaaahhhh!}
-{2005}{}{Mercy!}
+{2000}{}{天啊，天啊，天啊...}
+{2001}{}{不要杀我，求你！}
+{2002}{}{不要杀我！}
+{2003}{}{请不要杀我！}
+{2004}{}{救我！拜托，救我！}
+{2005}{}{不要再打伤我了。}
 #
 # moving in to attack
 #
-{2020}{}{Hmm, uh, stop!}
-{2021}{}{I don't like your kind...}
-{2022}{}{I really hoped it wouldn't come to this...}
-{2023}{}{I guess I have to defend myself...}
-{2024}{}{I guess I have to defend myself...}
-{2025}{}{I really hoped it wouldn't come to this...}
+{2020}{}{小心一点，我是不好惹的，我说真的。}
+{2021}{}{你最好小心一点，我可是有很多朋友的。}
+{2022}{}{我是不好惹的，识相的快走。}
+{2023}{}{我实在不想要动手。}
+{2024}{}{乖乖的离开，就不会有人受伤。}
+{2025}{}{不要逼我把你打伤。}
 #
 # attacking
 #
-{2040}{}{Take this!}
-{2041}{}{You shouldn't have started this!}
-{2042}{}{You asked for this!}
-{2043}{}{How do you like this?}
-{2044}{}{Take that!}
-{2045}{}{You beast!}
-{2046}{}{I don't want to do this!}
-{2047}{}{Yeah, who's afraid now!}
-{2048}{}{I didn't want this fight, but...}
-{2049}{}{You cad!}
+{2040}{}{看招！}
+{2041}{}{你不应该逼我的！}
+{2042}{}{你自找的！}
+{2043}{}{你开心了吧！}
+{2044}{}{接招吧！}
+{2045}{}{你这沱双头牛屎！}
+{2046}{}{我真不愿意这么做！}
+{2047}{}{哈，怕了吗？}
+{2048}{}{我真不想动手，可是...}
+{2049}{}{你这混帐！}
 #
 # target being missed
 #
-{2060}{}{I'm wilier than I look.}
-{2061}{}{You missed me!}
-{2062}{}{Wow, that could have hurt!}
-{2063}{}{Whew! I'm still alive!}
-{2064}{}{Hey! That could have hurt!}
-{2065}{}{Whew! I'm still alive!}
+{2060}{}{我就知道你打不中的！}
+{2061}{}{啦啦啦，你技术真差！}
+{2062}{}{[对你做鬼脸]啦，啦，啦，啦，啦。}
+{2063}{}{[对你比中指]}
+{2064}{}{你也不过是虚有其表而已。}
+{2065}{}{你真烂，我真不敢相信我刚刚居然会怕你。}
 #
 ############################################
 # 2100 Normal Person
@@ -793,43 +799,43 @@
 #
 #  running away
 #
-{2100}{}{Attack someone else, please!}
-{2101}{}{Have mercy!}
-{2102}{}{Somebody help me!}
-{2103}{}{Please stop!}
-{2104}{}{Just leave me alone.}
-{2105}{}{I ain't dyin' for this!}
+{2100}{}{救命！救～～命！}
+{2101}{}{杀人啊！救命吧！}
+{2102}{}{三十六计走为上策！}
+{2103}{}{我没什么你要的东西，让我活着吧！}
+{2104}{}{嘿，无论我干了什么，我很抱歉！}
+{2105}{}{可恨，可恶，你这沱双头牛屎！}
 #
 # moving in to attack
 #
-{2120}{}{Wait 'til I get you...}
-{2121}{}{That's it, I've had enough of your type.}
-{2122}{}{Hey you!}
-{2123}{}{You're not welcome here.}
-{2124}{}{Nobody's taking this place over...}
-{2125}{}{Who do you think you are?}
+{2120}{}{你们都是一样的坏。}
+{2121}{}{我并不想要这么做。}
+{2122}{}{我恨你。}
+{2123}{}{就是有你这种人，一般的老百姓才会受苦。}
+{2124}{}{一定会有人主持正义，把你抓起来的。}
+{2125}{}{一定会有人教训你的。}
 #
 # attacking
 #
-{2140}{}{You shouldn't have done that.}
-{2141}{}{We take care of our own.}
-{2142}{}{This is what we do to vermin!}
-{2143}{}{You mutant freak!}
-{2144}{}{You bastard!}
-{2145}{}{Gonna feed you to the dogs.}
-{2146}{}{This'll learn ya!}
-{2147}{}{Fine. You asked for this.}
-{2148}{}{You animal!}
-{2149}{}{You deserve what's coming to you!}
+{2140}{}{你不应该这样做的。}
+{2141}{}{我们都上下一心。}
+{2142}{}{这就是我们对付败类的方法！}
+{2143}{}{你这个变种怪物！}
+{2144}{}{你这浑球！}
+{2145}{}{我们会拿你来喂狗的。}
+{2146}{}{我们会教训你的！}
+{2147}{}{好，这是你自找的。}
+{2148}{}{你这禽兽！}
+{2149}{}{这是你应得的下场！}
 #
 # target being missed
 #
-{2160}{}{I'm ain't that bad, am I?}
-{2161}{}{I've seen smarter Brahmin than you.}
-{2162}{}{Whew!}
-{2163}{}{I ain't no pushover.}
-{2164}{}{Thank the gods!}
-{2165}{}{You missed!}
+{2160}{}{感谢上帝。}
+{2161}{}{没打中！}
+{2162}{}{原来你也不怎么样嘛。}
+{2163}{}{哈哈，你技术真烂！}
+{2164}{}{我以为我死定了。}
+{2165}{}{我比我想像中的要厉害嘛。}
 #
 ############################################
 # 2200 Tough Person
@@ -837,43 +843,43 @@
 #
 #  running away
 #
-{2200}{}{This ain't worth it!}
-{2201}{}{I have better things to do.}
-{2202}{}{Somebody help me!}
-{2203}{}{You got the better of me...this time.}
-{2204}{}{You'll get what's coming to you!}
-{2205}{}{I ain't dyin' for this!}
+{2200}{}{你会受到报应的！}
+{2201}{}{我才不要这样就死了！}
+{2202}{}{你总是要睡觉的，我会等你睡着了再找你报仇的。}
+{2203}{}{算你好运。}
+{2204}{}{这一次算你好运，可是下一次就没有那么好运了。}
+{2205}{}{这一次算你赢了。}
 #
 # moving in to attack
 #
-{2220}{}{It's too late to run!}
-{2221}{}{Who let you in here?}
-{2222}{}{Hey you!}
-{2223}{}{We don't like your kind around here!}
-{2224}{}{Nobody's taking this place over...}
-{2225}{}{Who do you think you are?}
+{2220}{}{我们不喜欢像你这种人！!}
+{2221}{}{没有人可以占据这里的...}
+{2222}{}{你以为你是谁啊？}
+{2223}{}{这会让你很舒服。}
+{2224}{}{我不认为你会喜欢这个的。}
+{2225}{}{这将会相当有趣。}
 #
 # attacking
 #
-{2240}{}{Take this!}
-{2241}{}{How do you like this?}
-{2242}{}{This is what we do to vermin!}
-{2243}{}{This is for you!}
-{2244}{}{Good-bye!}
-{2245}{}{Let's get it on!}
-{2246}{}{Troublemaking scum!}
-{2247}{}{I'm gonna beat you like a red-headed stepchild...}
-{2248}{}{You animal!}
-{2249}{}{You'll regret setting foot in the here!}
+{2240}{}{这就是我们对付败类的方法！}
+{2241}{}{真想要听到你骨头碎掉的声音！}
+{2242}{}{永别了！}
+{2243}{}{上吧！}
+{2244}{}{你这败类！}
+{2245}{}{我会把你打得不成人型的...}
+{2246}{}{你这禽兽！}
+{2247}{}{你会为来到这里而后悔！}
+{2248}{}{痛吧！}
+{2249}{}{干你妈的，痛不痛？}
 #
 # target being missed
 #
-{2260}{}{You're not as good as you think.}
-{2261}{}{Pathetic.}
-{2262}{}{You're just a common thug.}
-{2263}{}{You sure ain't nothing special.}
-{2264}{}{I'm not going to be your victim.}
-{2265}{}{That was your last mistake.}
+{2260}{}{你并没有我想像中的那样厉害。}
+{2261}{}{你真可怜。}
+{2262}{}{你只不过是一个小角色而已。}
+{2263}{}{你也没有什么特别的嘛。}
+{2264}{}{我才不会被你杀掉呢。}
+{2265}{}{那将是你一生中最后的一个错误。}
 #
 ############################################
 # 2300 Berserk Person
@@ -881,136 +887,136 @@
 #
 #  running away
 #
-{2300}{}{I'm taking it on the lam.}
-{2301}{}{I'll be back!}
-{2302}{}{Later punk!}
-{2303}{}{This was fun, but I'm gone!}
-{2304}{}{You'll pay for this - later!}
-{2305}{}{Let's do this again soon!}
+{2300}{}{我会回来的。}
+{2301}{}{再见。}
+{2302}{}{我会回来的，我将是你最可怕的恶梦。}
+{2303}{}{好无聊，我走了。}
+{2304}{}{让我回去找一些，有胆量别走！}
+{2305}{}{我得去找比你厉害的人切搓。}
 #
 # moving in to attack
 #
-{2320}{}{I'm gonna pin your ears back!}
-{2321}{}{Fresh meat!}
-{2322}{}{You just made my day!}
-{2323}{}{You're gonna be my bitch!}
-{2324}{}{I'm gonna pin your ears back!}
-{2325}{}{I'm gonna settle your hash!}
+{2320}{}{你不会喜欢这个的，但是我喜欢。}
+{2321}{}{你从来都没有遇到像我一样的高手，对不对？}
+{2322}{}{我觉得越来越爽了。}
+{2323}{}{我最爱听到骨头断裂的声音。}
+{2324}{}{你将会觉得相当舒服的。}
+{2325}{}{你的内脏在地上会很漂亮的。}
 #
 # attacking
 #
-{2340}{}{Gonna get cha!}
-{2341}{}{Time to play!}
-{2342}{}{Please don't beg. Death should be dignified.}
-{2343}{}{I hope you don't die too quick.}
-{2344}{}{Got any last words?}
-{2345}{}{Take this!}
-{2346}{}{Die! Die! Die! Die! Die!}
-{2347}{}{Die!}
-{2348}{}{Let's open you up a little...}
-{2349}{}{You're dogfood, friend.}
+{2340}{}{让我把你切开来看看...}
+{2341}{}{我会将你拿去喂狗的！}
+{2342}{}{你打遍天下无敌手，到头来还不是要死在我手上！}
+{2343}{}{来吧！出招吧！}
+{2344}{}{我喜欢看到你流血的样子！}
+{2345}{}{你有没有看过头骨碎裂的样子呢？}
+{2346}{}{我会让你血溅五步！不！五十步！}
+{2347}{}{你真是干他妈的混帐！}
+{2348}{}{他妈的，真爽！}
+{2349}{}{我会将你好好的干一顿的！}
 #
 # target being missed
 #
-{2360}{}{You didn't even wing me.}
-{2361}{}{You bore me to tears.}
-{2362}{}{C'mon, punk. Give me a fight!}
-{2363}{}{Is that the best you can do?}
-{2364}{}{You suck!}
-{2365}{}{This is gonna be easier than I thought.}
+{2360}{}{这将会是我打过最简单的一场战。}
+{2361}{}{瞄好一点。}
+{2362}{}{你在发抖吗，懦夫？}
+{2363}{}{打我啊！你这他妈的懦夫！打我啊！}
+{2364}{}{有种就打我的头吧！}
+{2365}{}{你不敢打中我吗？}
 #
 ############################################
-# 2400 Guard (Normal)
+# 2400 Guard [Normal]
 ############################################
 #
 #  running away
 #
-{2400}{}{I'm outta here!}
-{2401}{}{Maybe this wasn't a good idea!}
-{2402}{}{Attack someone else, okay!}
-{2403}{}{Yikes!}
-{2404}{}{I ain't dyin' for this!}
-{2405}{}{That's too much for me!}
+{2400}{}{先走了！}
+{2401}{}{那也许不是一个聪明的决定。}
+{2402}{}{去打别人，好吗？}
+{2403}{}{啊！}
+{2404}{}{我才不要这样就死了！}
+{2405}{}{我受不了了}
 #
 # moving in to attack
 #
-{2420}{}{Hey you!}
-{2421}{}{I'm gonna teach you some manners!}
-{2422}{}{We don't like your kind around here!}
-{2423}{}{You need to learn some respect!}
-{2424}{}{Time to earn my pay...}
-{2425}{}{Wait 'til I get you...}
-{2426}{}{Why'd you go and hafta do that?}
-{2427}{}{There's always idiots like you around to mess up a shift.}
+{2420}{}{你！}
+{2421}{}{让我教教你什么叫做礼貌。}
+{2422}{}{我们不喜欢像你这种人！}
+{2423}{}{你的态度太差了！}
+{2424}{}{让我杀了你...}
+{2425}{}{等我抓到你...}
+{2426}{}{你为什么一定要那样呢？}
+{2427}{}{就是像你这种人我们的工作量才那样的重！}
 #
 # attacking
 #
-{2440}{}{Take that!}
-{2441}{}{Feels good, huh?}
-{2442}{}{Shoulda left it alone.}
-{2443}{}{How do you like this?}
-{2444}{}{Where's your mama now?}
-{2445}{}{Take it all!}
-{2446}{}{Let's see how tough you are...}
-{2447}{}{Punk!}
-{2448}{}{Skag!}
-{2449}{}{I'm putting you away for good.}
+{2440}{}{看招！}
+{2441}{}{很舒服，对不对？}
+{2442}{}{你不应该惹我们的。}
+{2443}{}{你喜欢这样吗？}
+{2444}{}{打得你叫妈妈。}
+{2445}{}{接招吧！}
+{2446}{}{让我们看看你有多厉害...}
+{2447}{}{浑球！}
+{2448}{}{死！}
+{2449}{}{我会替游戏设计师杀了你的。}
 #
 # target being missed
 #
-{2460}{}{Your mamma teach you that move?}
-{2461}{}{You just suck!}
-{2462}{}{You ain't good enough.}
-{2463}{}{That was your last mistake.}
-{2464}{}{Amateur.}
-{2465}{}{You learn to fight in bars?}
+{2460}{}{你妈没有教你怎样打人吗？}
+{2461}{}{你真烂！}
+{2462}{}{你的技术真差}
+{2463}{}{那将会是你最后一个错误}
+{2464}{}{败类}
+{2465}{}{你从来没有学过怎样打架吗？}
 #
 ############################################
-# 2500 Guard (Tough)
+# 2500 Guard [Tough]
 ############################################
 #
 #  running away
 #
-{2500}{}{Gotta get outta here!}
-{2501}{}{I'll be back...}
-{2502}{}{You ain't killing me today!}
-{2503}{}{Later punk!}
-{2504}{}{You ain't seen the last of me!}
-{2505}{}{You'll pay for this -- later!}
+{2500}{}{我一定得快跑！}
+{2501}{}{我一定会回来的...}
+{2502}{}{你今天休想杀我！}
+{2503}{}{等会见！}
+{2504}{}{我还没有使出绝招咧！}
+{2505}{}{你等一下会付出代价的！}
 #
 # moving in to attack
 #
-{2520}{}{You're history!}
-{2521}{}{Fresh meat...}
-{2522}{}{I'm gonna dance on your grave.}
-{2523}{}{Everybody! It's target practice!}
-{2524}{}{You ready bitch?}
-{2525}{}{I'm going to enjoy this...}
+{2520}{}{你将会成为历史！}
+{2521}{}{你只不过是一块肉而已...}
+{2522}{}{我会在你的坟上跳舞的}
+{2523}{}{来啊！}
+{2524}{}{准备好了吗？}
+{2525}{}{我真喜欢这个...}
 #
 # attacking
 #
-{2540}{}{Take it all!!!}
-{2541}{}{Don't bother screaming for mercy...}
-{2542}{}{This is the best part...}
-{2543}{}{You want more of this?!! Huh?!}
-{2544}{}{Gonna feed you to the dogs!}
-{2545}{}{Shouldn't start what you can't finish.}
-{2546}{}{Hope you don't die too quick.}
-{2547}{}{Only one of us is walking away.}
-{2548}{}{Die!}
-{2549}{}{I eat punks like you for breakfast.}
-{2550}{}{I'm gonna feed you to my pet iguana.}
-{2551}{}{The last thing you'll see is my grinnin' face.}
-{2552}{}{This is my favorite job.}
+{2540}{}{哈！}
+{2541}{}{不用跪地求饶的...}
+{2542}{}{这是最精彩的地方...}
+{2543}{}{你受得了吗？}
+{2544}{}{我会把你抓去喂狗的。}
+{2545}{}{你惨了！}
+{2546}{}{希望你不要死得那么容易。}
+{2547}{}{我们其中只有一个可以活着离开。}
+{2548}{}{死吧！}
+{2549}{}{我要把你生煎活剥。}
+{2550}{}{我要把你拿去喂我的宠物蜥蜴。}
+{2551}{}{我会是你最后看到的一个人。}
+{2552}{}{这是我最喜欢的工作。}
 #
 # target being missed
 #
-{2560}{}{You're a joke.}
-{2561}{}{Is that the best you can do?}
-{2562}{}{You're making this easy.}
-{2563}{}{Just pathetic...}
-{2564}{}{Too slow!}
-{2565}{}{Loser!}
+{2560}{}{你真是一个玩笑。}
+{2561}{}{那就是你最厉害的攻击吗？}
+{2562}{}{你不要笑死人了。}
+{2563}{}{你真可怜...}
+{2564}{}{你动作太慢了！}
+{2565}{}{失败！}
 #
 ############################################
 # 2600 Primitive
@@ -1018,54 +1024,54 @@
 #
 #  running away
 #
-{2600}{}{Run from the Evil One!}
-{2601}{}{The spirits bid me to save myself.}
-{2602}{}{Our foe has used powerful magics--Run! Someone get the Shaman!}
-{2603}{}{The dark-spirit runs strong in this one. Death walks the earth!}
-{2604}{}{The dark one is here!}
-{2605}{}{The dark one seeks to punish us. Run! My soul flees and I must follow!}
-{2606}{}{Aiiieeeee!!}
+{2600}{}{赶快逃离这个恶魔啊！}
+{2601}{}{圣灵告诉我叫我要救自己。}
+{2602}{}{我们的敌人使用了强大的魔法--快跑啊！}
+{2603}{}{黑暗的使者要来处罚我们了，快跑！我的灵魂已经跑了，我也要跟着跑啊！}
+{2604}{}{黑暗的使者在这里！}
+{2605}{}{这个人的黑暗灵魂非常强大，死亡降临这个土地了！}
+{2606}{}{啊咿！！}
 #
 # moving in to attack
 #
-{2620}{}{Ancestor guide my weapon arm!}
-{2621}{}{Your strength will be mine.}
-{2622}{}{Great will be my glory.}
-{2623}{}{I shall dishonor your tribe.}
-{2624}{}{Ayah! Nabataluk!}
-{2625}{}{Spirits be with me!}
-{2626}{}{Come, let our blades dance.}
-{2627}{}{Let it begin!}
-{2628}{}{U-Suthoooo!}
-{2629}{}{The spirits are with me!}
+{2620}{}{祖先保佑我吧！}
+{2621}{}{你的力量会变成我的。}
+{2622}{}{伟大的你将是我的光荣。}
+{2623}{}{见到先祖的时候别忘了告诉他是我杀了你。}
+{2624}{}{啊打！！！！！}
+{2625}{}{先祖将与我同在！}
+{2626}{}{来吧，让我们的刀刃起舞吧！}
+{2627}{}{让它开始吧！}
+{2628}{}{你死定了！}
+{2629}{}{先祖与我长存！}
 #
 # attacking
 #
-{2640}{}{Your ancestors have deserted you.}
-{2641}{}{Your defeat will bring me great honor. My magic knows not defeat!}
-{2642}{}{Give up now and we will not eat your heart.}
-{2643}{}{You fight bravely--I will eat your courage. The Shamans will sing of my victory.}
-{2644}{}{I will bathe in your blood!}
-{2645}{}{I do not fear you!}
-{2646}{}{I bring you peace, lost one.}
-{2647}{}{Glory in battle buys life everlasting! I honor you, strange one.}
-{2648}{}{The mists beckon to you.}
-{2649}{}{Our ancestors thirst for your soul.}
-{2650}{}{My blade grows thirsty!}
-{2651}{}{Let us drink from the cup of battle!}
+{2640}{}{你的先祖已经背弃你了。}
+{2641}{}{打败你会为我带来至高的光荣。我的魔法里没有失败这项！}
+{2642}{}{现在投降，我们就不吃你的心。}
+{2643}{}{你很勇敢--我将吞噬你的勇气，然后先祖会为我的胜利而高歌。}
+{2644}{}{我要用你的鲜血来沐浴！}
+{2645}{}{我不会怕你的！}
+{2646}{}{我为你带来平静的，将死之人！}
+{2647}{}{战场上的荣耀是靠生命夺得的！我尊重你，陌生人。}
+{2648}{}{薄雾正渐渐地笼罩着你。}
+{2649}{}{我们的先祖正渴望你的灵魂。}
+{2650}{}{我的矛越来越饥渴了。}
+{2651}{}{让我来好好享受战斗的乐趣吧！}
 #
 # target being missed
 #
-{2660}{}{Your eyes are clouded with hatred.}
-{2661}{}{Your spirits have abandoned you.}
-{2662}{}{Our magic is working!}
-{2663}{}{My magic makes me invincible!}
-{2664}{}{Your life-force is weakening!}
-{2665}{}{Fear is the mind-killer.}
-{2666}{}{My battle-song is working!}
-{2667}{}{Our children know more of battle!}
-{2668}{}{You have known peace too long.}
-{2669}{}{Are all of your tribe so weak?}
+{2660}{}{你的先祖是教你这样打架的吗？}
+{2661}{}{你的先祖已经背弃你了。}
+{2662}{}{我们的魔法奏效了！}
+{2663}{}{我的魔法让我所向无敌！}
+{2664}{}{你的生命之源正在消退！}
+{2665}{}{先祖护佑！}
+{2666}{}{我的战斗祈祷果然有用！}
+{2667}{}{我的孙子都比更你了解战斗！}
+{2668}{}{你在和平的日子里过得太久了。}
+{2669}{}{你的部落里都是懦夫吗？}
 #
 ############################################
 # 2700 Soldier
@@ -1073,45 +1079,45 @@
 #
 #  running away
 #
-{2700}{}{Reinforcements!}
-{2701}{}{They can court martial me...}
-{2702}{}{Medic!}
-{2703}{}{Retreat! Retreat!}
-{2704}{}{Fall back! Fall back!}
-{2705}{}{You may have won the battle...}
+{2700}{}{要求支援！}
+{2701}{}{他们会将我送去军事法庭的...}
+{2702}{}{医疗兵！}
+{2703}{}{撤退！撤退！}
+{2704}{}{向后退！往后撤！}
+{2705}{}{算你现在赢了...}
 #
 # moving in to attack
 #
-{2720}{}{Let's get it on!}
-{2721}{}{Hoo-Yah!}
-{2722}{}{I'm gonna teach you some manners!}
-{2723}{}{You're history!}
-{2724}{}{Attack!}
-{2725}{}{Let's bury this loser!}
-{2726}{}{Lock and Load!}
-{2727}{}{We'll let god sort out what's left of ya.}
+{2720}{}{来吧！}
+{2721}{}{上！}
+{2722}{}{让我教训教训你。}
+{2723}{}{你完蛋了！}
+{2724}{}{攻击！攻击！攻击！}
+{2725}{}{让我们将他杀了！}
+{2726}{}{开火！}
+{2727}{}{你死定了！}
 #
 # attacking
 #
-{2740}{}{Take this!}
-{2741}{}{Now I have you!}
-{2742}{}{Now you die!}
-{2743}{}{How do you like this?}
-{2744}{}{This ain't just a job to us.}
-{2745}{}{Shouldn't start what you can't finish.}
-{2746}{}{You better pray to the gods!}
-{2747}{}{You ain't even gonna make it to 6am!}
-{2748}{}{Feel good?}
-{2749}{}{See you in Hell.}
+{2740}{}{看招！}
+{2741}{}{你完了！}
+{2742}{}{死吧！}
+{2743}{}{你觉得这样如何？}
+{2744}{}{接招吧！}
+{2745}{}{你死定了！}
+{2746}{}{向你的神祈祷吧！}
+{2747}{}{这才刚开始呢！}
+{2748}{}{爽吗？}
+{2749}{}{你到地狱去相见！}
 #
 # target being missed
 #
-{2760}{}{Try training some.}
-{2761}{}{Is that the best you can do?}
-{2762}{}{C'mon loser. Gimme a fight!}
-{2763}{}{Try aiming next time.}
-{2764}{}{Civilian...}
-{2765}{}{Leave it to the professionals next time.}
+{2760}{}{打不到！}
+{2761}{}{这就是你最厉害的招数吗？}
+{2762}{}{来啊！}
+{2763}{}{瞄准一点吧！}
+{2764}{}{你是点不够技能点，还是命中率95%都打不中人？废柴！}
+{2765}{}{你的技术真差。}
 #
 ############################################
 # 2800 Leader
@@ -1165,43 +1171,43 @@
 #
 #  running away
 #
-{2900}{}{Flee! Flee!}
-{2901}{}{Retreat!}
-{2902}{}{Regroup!}
-{2903}{}{Fall back!}
-{2904}{}{Withdraw!}
-{2905}{}{Aaaaghhh!}
+{2900}{}{快逃！快逃！}
+{2901}{}{撤退！}
+{2902}{}{脱离这里！}
+{2903}{}{向后撤！}
+{2904}{}{快离开战场！}
+{2905}{}{别留恋，快走！}
 #
 # moving in to attack
 #
-{2920}{}{Kill this fool!}
-{2921}{}{Fresh meat...}
-{2922}{}{Plunder!}
-{2923}{}{This one's mine!}
-{2924}{}{Ahhhhhhh!}
-{2925}{}{Attack!}
+{2920}{}{将这混帐杀了！}
+{2921}{}{哈...}
+{2922}{}{死吧！}
+{2923}{}{这是我的！}
+{2924}{}{啊啊啊啊！}
+{2925}{}{攻击！}
 #
 # attacking
 #
-{2940}{}{Enjoy the last few seconds of your life.}
-{2941}{}{Blood! Blood! Blood!}
-{2942}{}{Your heart is mine!}
-{2943}{}{RAAAAAAARRRR!!}
-{2944}{}{Your weapons will be my trophies!}
-{2945}{}{Death!}
-{2946}{}{You are mine to kill!}
-{2947}{}{Your bones shall bleach in the wastes!}
-{2948}{}{Blood and darkness!}
-{2949}{}{YAAAAAAAAAAAAH!}
-{2950}{}{Drill the scraggin' bastard!}
+{2940}{}{好好的珍惜你最后几分钟的生命吧！}
+{2941}{}{血！血！血！}
+{2942}{}{我要将你的心挖出来！}
+{2943}{}{啊啊啊啊！}
+{2944}{}{死吧！}
+{2945}{}{去死！}
+{2946}{}{好好的珍惜你最后几分钟的生命吧！}
+{2947}{}{血！血！血！}
+{2948}{}{我要将你的心挖出来！}
+{2949}{}{啊啊啊啊！}
+{2950}{}{死吧！}
 #
 # target being missed
 #
-{2960}{}{Wasted effort!}
-{2961}{}{You have failed!}
-{2962}{}{My blood is stronger than yours!}
-{2963}{}{I live!!}
-{2964}{}{Your body is weak and pitiful!}
+{2960}{}{没用的！}
+{2961}{}{你打不中的！}
+{2962}{}{哈！}
+{2963}{}{我是打不死的！}
+{2964}{}{你那一击真是笑话！}
 #
 ############################################
 # 3000 Robot
@@ -1209,139 +1215,139 @@
 #
 #  running away
 #
-{3000}{}{Retreat option initiated.}
-{3001}{}{Tactical plan: retreat.}
-{3002}{}{Combat effectiveness minimal. Retreat advised.}
-{3003}{}{Tactical analysis complete. Retreat recommended.}
-{3004}{}{Downloading escape program.}
-{3005}{}{Retreat sequence initiated.}
+{3000}{}{执行撤退程序}
+{3001}{}{战斗方式：撤退}
+{3002}{}{战斗成功率很低，建议撤退}
+{3003}{}{战斗分析完成，建议撤退}
+{3004}{}{下载逃离程序}
+{3005}{}{执行撤退程序}
 #
 # moving in to attack
 #
-{3020}{}{Target acquired!}
-{3021}{}{Terminate! Terminate!}
-{3022}{}{The humanoid must not escape!}
-{3023}{}{Terminate the intruder!}
-{3024}{}{Combat sequence initiated.}
-{3025}{}{Uploading combat program.}
+{3020}{}{目标锁定！}
+{3021}{}{毁灭！毁灭！}
+{3022}{}{不能让他活着离开}
+{3023}{}{毁灭入侵者}
+{3024}{}{执行战斗程序}
+{3025}{}{上载战斗程序}
 #
 # attacking
 #
-{3040}{}{Combat sequence initiated.}
-{3041}{}{Attacking target.}
-{3042}{}{Initiating attack sequence.}
-{3043}{}{The intruder must be destroyed!}
-{3044}{}{Tactical options selection completed.}
-{3045}{}{Commencing attack.}
-{3046}{}{The target will be destroyed.}
-{3047}{}{Enemy termination sequence begun.}
-{3048}{}{Target must be eliminated.}
-{3049}{}{Offensive selection completed.}
+{3040}{}{执行战斗程序}
+{3041}{}{攻击目标}
+{3042}{}{执行攻击程序}
+{3043}{}{侵入者一定得死！}
+{3044}{}{战斗方式选择完成}
+{3045}{}{开始攻击}
+{3046}{}{目标将会被毁灭}
+{3047}{}{开始敌人摧毁程序}
+{3048}{}{目标必须被排除}
+{3049}{}{进攻方式选择完成}
 #
 # target being missed
 #
-{3060}{}{Analysis. Defensive program successful.}
-{3061}{}{Analysis. Target offensive negligible.}
-{3062}{}{Target attack failed. Calculating response.}
-{3063}{}{Unit was unharmed by attack.}
-{3064}{}{Recalculating target's offensive abilities.}
-{3065}{}{Analysis. Target erred in tactical selection. Unit undamaged.}
+{3060}{}{分析中。防御程序成功}
+{3061}{}{分析中。敌人攻击失败}
+{3062}{}{敌人攻击失败}
+{3063}{}{没有受到任何的损伤}
+{3064}{}{敌人攻击失败}
+{3065}{}{分析中。防御程序成功，没有受到任何的损伤}
 #
-############################################ 
+############################################
 # 3100 Ghoul
-############################################ 
+############################################
 #
 #  running away
 #
-{3100}{}{Gotta get outta here!}
-{3101}{}{I'll be back...}
-{3102}{}{You ain't killing me today!} 
-{3103}{}{Later, normie!}
-{3104}{}{You ain't heard the last of me!} 
-{3105}{}{You'll pay for this -- later!} 
-{3106}{}{I ain't dyin' twice.}
-{3107}{}{Feet don't fail me now!}
-{3108}{}{I'm just executing a retrograde advance.} 
-{3109}{}{Uh, time for a tactical withdrawal here.} 
-{3110}{}{Exit, stage left.}
-{3111}{}{It's later than I thought.} 
-{3112}{}{Gotta run. See ya.}
-{3113}{}{Run awaaaaay!}
-{3114}{}{I've gotta go reattach some parts.} 
-{3115}{}{These old bones can't take this anymore.} 
-{3116}{}{It's not the years, it's the mileage.} 
-{3117}{}{What a world, what a world...}
-{3118}{}{I guess, you've learned your lesson, I'm outta here!} 
-{3119}{}{Hey, stop backing away from me.}
+{3100}{}{我不会再死一次的。}
+{3101}{}{得快离开这里！}
+{3102}{}{我会回来的...}
+{3103}{}{你今天休想将我杀了！}
+{3104}{}{再见！}
+{3105}{}{我走了！}
+{3106}{}{“偶”不会“屎”第二次。}
+{3107}{}{你追不到我的！}
+{3108}{}{我只是在练习向后跑步而已。} 
+{3109}{}{喔，三十六计走上策。} 
+{3110}{}{快逃，闪人啦。}
+{3111}{}{我想这样作还不迟。} 
+{3112}{}{快跑，再见。}
+{3113}{}{逃～～呀！}
+{3114}{}{我已经抢到一些东西了。} 
+{3115}{}{反正那些老骨头已经没用处了。} 
+{3116}{}{快走快走！} 
+{3117}{}{什么世界呀，什么世界呀...}
+{3118}{}{我想，你已经学到你该学的了，我要走了。} 
+{3119}{}{嘿，站住，别再追了！}
 #
 # moving in to attack
 #
-{3120}{}{You're history!}
-{3121}{}{Fresh meat...}
-{3122}{}{Beef, beef, beef--beef bologna!} 
-{3123}{}{Brains...}
-{3124}{}{I'm gonna dig your grave...} 
-{3125}{}{Hope I can keep your head intact...} 
-{3126}{}{More brains...}
-{3127}{}{Send more cops!}
-{3128}{}{Send more paramedics!}
-{3129}{}{I could use some fresh parts.} 
-{3130}{}{Steak Tartar comin' up.}
-{3131}{}{Come an' get it!}
-{3132}{}{Is it soup yet?}
-{3133}{}{Where's the beef?}
-{3134}{}{Mmm, I just love smoothskins.} 
-{3135}{}{You crossed my shadow...or sumthin'.} 
-{3136}{}{I knew I heard the chow-bell.} 
-{3137}{}{Guess who's comin' to dinner.} 
-{3138}{}{Parts is parts.}
-{3139}{}{So, you're my next organ donor huh?} 
+{3120}{}{肉，肉，肉，新鲜的肉！}
+{3121}{}{好吃的脑。}
+{3122}{}{我会帮你挖墓坑的...}
+{3123}{}{我会将你的头扭断的...}
+{3124}{}{你完了！}
+{3125}{}{新鲜的肉...}
+{3126}{}{更多的脑子...}
+{3127}{}{多流些血！}
+{3128}{}{把你抹上盐然后用火烤一定很好吃。}
+{3129}{}{你会成为最新鲜的食材。} 
+{3130}{}{嘿，说的就是你，牛排，别跑。}
+{3131}{}{快来抓他！}
+{3132}{}{他力气很大？}
+{3133}{}{晚餐，别动！}
+{3134}{}{嗯，我就喜欢光滑的部份，它的味道好极了。} 
+{3135}{}{你妨碍了我的影子前进了。} 
+{3136}{}{我想我听到狗铃的声音。} 
+{3137}{}{吃晚餐了。} 
+{3138}{}{我会先切你的蛋蛋的。}
+{3139}{}{所以你是另一个器官捐赠人吗？} 
 #
 # attacking
 #
-{3140}{}{Your number is up!}
-{3141}{}{Don't bother screaming for mercy...} 
-{3142}{}{I'm gonna enjoy this...}
-{3143}{}{Oooo, that's gotta hurt!}
-{3144}{}{Slicin' & Dicin' time.}
-{3145}{}{I'm gonna eat your liver!}
-{3146}{}{Hope you don't die too quick!} 
-{3147}{}{Dinnertime!}
-{3148}{}{Die!}
-{3149}{}{I eat punks like you for breakfast, and lunch.} 
-{3150}{}{How can anything this messy be bad?} 
-{3151}{}{Lemme' just have a taste!}
-{3152}{}{Give Daddy some sugar, baby!} 
-{3153}{}{I got sumpin' for ya!}
-{3154}{}{Stay still! It'll hurt less.}
-{3155}{}{Stop your twitchin', the chef's in the kitchen!} 
-{3156}{}{I loves to watch 'em squirm.}
-{3157}{}{Delicious & nutritious too!}
-{3158}{}{You sure bleed a lot. Must be tender & juicy.} 
-{3159}{}{I'm guessin' that's more fear than excitement.} 
+{3140}{}{我会吃你的肝的！}
+{3141}{}{吃东西时间到了。}
+{3142}{}{我哪里也享受一下这！}
+{3143}{}{不要叫了，没有用的...}
+{3144}{}{真有快感}
+{3145}{}{痛吧！}
+{3146}{}{切割时间到了。}
+{3147}{}{晚餐时间！}
+{3148}{}{吃东西时间到了。}
+{3149}{}{你死定了！}
+{3150}{}{如何将这些脏乱的东西处理掉？} 
+{3151}{}{嗯...有些味道。}
+{3152}{}{给爸爸的晚餐加一点食材，宝贝。} 
+{3153}{}{我拿到了！}
+{3154}{}{别动，这样你就不会受重伤。}
+{3155}{}{停止你的抖动，厨师正要做料理呢！} 
+{3156}{}{我最喜欢把人剥皮了。}
+{3157}{}{美味与营养兼具！}
+{3158}{}{你流了不少血，还真是鲜嫩多汁啊！} 
+{3159}{}{我想这一定是恐怖又刺激。} 
 #
 # target being missed
 #
-{3160}{}{You cannot hurt me!}
-{3161}{}{And you think *Ghouls* are slow?} 
-{3162}{}{You missed, normie!}
-{3163}{}{You missed, normie!}
-{3164}{}{You can't kill what you can't hit!} 
-{3165}{}{Too slow!}
-{3166}{}{OK, let's try that at full speed now.} 
-{3167}{}{Were you actually aiming at me?} 
-{3168}{}{What was that?}
-{3169}{}{This is not a charade.}
-{3170}{}{Combat requires total concentration.}
-{3171}{}{Shame that your first time is gonna be your last too.} 
-{3172}{}{Are you lookin' at me?}
-{3173}{}{You wanna try this again when you know what you're doin'?} 
-{3174}{}{No, no, no, the *pointy-end* goes towards *me.* Got it?} 
-{3175}{}{What were you aimin' at, or were you aimin' at all?} 
-{3176}{}{What is your major malfunction numb-nuts?}
-{3177}{}{You ain't never did this before have ya?} 
-{3178}{}{My turn's next!}
-{3179}{}{Was that really your *best* shot? Man, are you in trouble.}
+{3160}{}{你伤害不了我的！}
+{3161}{}{你以为我的动作很慢吗？}
+{3162}{}{打不到！打不到！}
+{3163}{}{打不到！打不到！}
+{3164}{}{动作太慢了！}
+{3165}{}{哈！}
+{3166}{}{好吧，现在让我试试全力吧。} 
+{3167}{}{你瞄我那里呀？} 
+{3168}{}{那是什么？}
+{3169}{}{这可不是游戏呐。}
+{3170}{}{战斗必须集中精神。}
+{3171}{}{真丢脸，你战斗技能都是不加点的吗？} 
+{3172}{}{你找我吗？}
+{3173}{}{你想再来一次？} 
+{3174}{}{不不不，把手抬起来，对着目标，懂了吗？} 
+{3175}{}{你到底目标是什么呀？} 
+{3176}{}{你的脑子是不是也太迟钝了点。}
+{3177}{}{你以前从没做过？} 
+{3178}{}{看我的下个回合！}
+{3179}{}{这就是你最好的“枪法”？人类，你有麻烦了。}
 #
 ############################################
 # 3200 Junkie
@@ -1349,41 +1355,41 @@
 #
 #  running away
 #
-{3200}{}{Whoa. I am SO outta here.}
-{3201}{}{I'll be back...after I get another hit.}
-{3202}{}{Knew I should have taken more Buffout...}
-{3203}{}{I can't shoot up when I'm dead...}
-{3204}{}{Aieeeeeee! Don't hurt me! Don't hurt me!}
-{3205}{}{This hallucination just became way too real for me...}
+{3200}{}{哇，我必需离开了。}
+{3201}{}{我会回来的，到时候再打一场。}
+{3202}{}{我应该多带点壮大灵。}
+{3203}{}{我不能因为死而闭嘴...}
+{3204}{}{哎，别打我，别打我。}
+{3205}{}{幻觉！让我看清楚前面...}
 #
 # moving in to attack
 #
-{3220}{}{Eat this!}
-{3221}{}{You better hope you have some stimpaks...or some Jet.}
-{3222}{}{Maybe I can sell your body for some Jet...}
-{3223}{}{Gonna...hit...you...when...I...catch...you.}
-{3224}{}{Maybe killing you will be the fix I need...}
-{3225}{}{I'll kill you! I'll kill you! I'll kill you!}
-{3226}{}{Killing you will top off my high nicely...}
+{3220}{}{吃这个！}
+{3221}{}{你最好还有治疗针与杰特...}
+{3222}{}{或许我能拿你的尸体去换点杰特...}
+{3223}{}{等我...抓到你...我一定会...宰了你...}
+{3224}{}{也许杀了你可以修修我需要的部分...}
+{3225}{}{我要杀了你！我要杀了你！我要杀了你！}
+{3226}{}{我会用我高超技术让你死的很漂亮...}
 #
 # attacking
 #
-{3240}{}{Eat this!}
-{3241}{}{I'll kill you! I'll kill you! I'll kill you!}
-{3242}{}{You want some of this?!}
-{3243}{}{Nrrrg!}
-{3244}{}{Hiyaaaaaa!}
-{3245}{}{I'll kill you slow...}
-{3246}{}{You're going down like a 2-cap whore...}
+{3240}{}{吃这招！}
+{3241}{}{我会杀了你！我会杀了你！我会杀了你！}
+{3242}{}{你想要这个吗？}
+{3243}{}{啊}
+{3244}{}{嘿呀}
+{3245}{}{我会慢慢的杀你的。}
+{3246}{}{你会慢慢死的。}
 #
 # target being missed
 #
-{3260}{}{Close, but no Jet.}
-{3261}{}{I'm so high, you'll never touch me!}
-{3262}{}{Which one of me are you aiming at?}
-{3263}{}{Whoa. Nearly got me.}
-{3264}{}{I knew that Jet would make me faster...}
-{3265}{}{You fight pretty badly for a drug-induced hallucination.}
+{3260}{}{吸了杰特真好...}
+{3261}{}{我很厉害，所以你碰不到我的！}
+{3262}{}{你对准我那里呀？}
+{3263}{}{哇，几乎打中我。}
+{3264}{}{我知道杰特能让我行动更快。}
+{3265}{}{你因为幻觉而打的很糟喔！}
 #
 ####################################################################################
 #
@@ -1408,7 +1414,7 @@
 #                     30000 Navarro
 #                     32000 San Francisco
 #                     34000 The Enclave
-#                     36000 Special (Encounters and Created)
+#                     36000 Special [Encounters and Created]
 #
 #                     Note : Some of these people will just have run away, moving to attack, attacking, and getting
 #                                missed.  Others will also have cataloged hit locations.
@@ -1433,7 +1439,7 @@
 #                   12000 Raider Mercs
 #                   12100 Raider Captain
 #                   12200 Gangster
-#                   12300 Raider (Hit Locations)
+#                   12300 Raider [Hit Locations]
 #
 ####################################################################################
 #
@@ -1443,57 +1449,57 @@
 #
 #  running away
 #
-{12000}{}{No way am I staying in this clusterfuck...}
-{12001}{}{Retreat!}
-{12002}{}{Time to get the hell outta Dodge...}
-{12003}{}{Scatter!}
-{12004}{}{Fall back!}
-{12005}{}{I'll wait to get these fuckers when Fallout 3 comes out...}
-{12006}{}{They can keep their fucking money...}
+{12000}{}{别指望我会留下来...}
+{12001}{}{撤退！}
+{12002}{}{我要离开这个地狱...}
+{12003}{}{闪人啦！}
+{12004}{}{向后进攻！}
+{12005}{}{我得去等那些该死的异尘余生３出来...}
+{12006}{}{彼希可以保住他那些该死的钱了。}
 #
 # moving in to attack
 #
-{12020}{}{Target acquired!}
-{12021}{}{Somebody cover me!}
-{12022}{}{Hut hut hut hut hut hut!}
-{12023}{}{Hut hut hut hut hut hut!}
-{12024}{}{Hut hut hut hut hut hut!}
-{12025}{}{Kiss your ass good-bye...}
-{12026}{}{Time to dust this mother fucker...}
-{12027}{}{Lock and load!}
-{12028}{}{Rock and roll!}
-{12029}{}{Look who just walked into the free fire zone...}
-{12030}{}{Better hope you packed some stimpaks, buddy...}
-{12031}{}{Contact!}
-{12032}{}{The area's been breached!}
-{12033}{}{We got us an intruder, boys!}
-{12034}{}{Scramble, boys, we got an intruder!}
-{12035}{}{You got some sand comin' in here...}
-{12036}{}{By the numbers, people, by the numbers.}
-{12037}{}{Attention to detail, people!}
-{12038}{}{Lay down some suppressing fire! Keep their heads down!}
+{12020}{}{目标锁定！}
+{12021}{}{掩护我！}
+{12022}{}{呼，呼，呼，呼。}
+{12023}{}{呼，呼，呼，呼。}
+{12024}{}{呼，呼，呼，呼。}
+{12025}{}{跟你的屁股吻别吧...}
+{12026}{}{我会让这些人渣化成灰的...}
+{12027}{}{锁定，攻击！}
+{12028}{}{摇滚！}
+{12029}{}{看到谁进入射程就开火...}
+{12030}{}{你最好有准备一些治疗针筒，土人...}
+{12031}{}{打中了！}
+{12032}{}{我会让你身上开个洞的！}
+{12033}{}{小子，你这入侵者！}
+{12034}{}{发现入侵者！干掉他！}
+{12035}{}{你将成为这里的沙石...}
+{12036}{}{杀！杀！杀！}
+{12037}{}{注意了，废柴。}
+{12038}{}{这里严禁烟火，把他的头给我摘下来！}
 #
 # attacking
 #
-{12040}{}{Waste 'em!}
-{12041}{}{You're shit out of luck, punk...}
-{12042}{}{I'm going to put my boot so far up your ass, you'll be smelling shoe polish for a week.}
-{12043}{}{::I wanna be an airborne ranger...::}
-{12044}{}{Get critical!}
-{12045}{}{You want some of this?! YOU WANT SOME OF THIS?!}
-{12046}{}{Hiyaaaaaa!!!}
-{12047}{}{Get some!}
-{12048}{}{Better hope you packed some stimpaks, buddy...}
-{12049}{}{Kiss your ass good-bye...}
+{12040}{}{废物！}
+{12041}{}{你走狗屎运了，我有一大把子弹要奖给你！}
+{12042}{}{我会用的靴子踹你的屁股，让你一周都忘不掉。}
+{12043}{}{*气势汹汹*}
+{12044}{}{一决胜负！}
+{12045}{}{你想要这个吗？你想要这个吗？}
+{12046}{}{嘿呀！！！}
+{12047}{}{拿到一些了！}
+{12048}{}{你最好有准备一些治疗针筒，土人...}
+{12049}{}{跟你的屁股吻别吧...}
 #
 # target being missed
 #
-{12060}{}{You fight like old people fuck!}
-{12061}{}{Ha! Missed!}
-{12062}{}{Too fast for you...}
-{12063}{}{You're gonna be a long time dying...}
-{12064}{}{Sloppy...}
-{12065}{}{Weak AND slow, I see.}
+{12060}{}{你的战斗像在和双头牛做爱！}
+{12061}{}{哈！打不到！}
+{12062}{}{我的动作对你来说太快了...}
+{12063}{}{我看你快死了...}
+{12064}{}{我闪！}
+{12065}{}{又弱又慢...}
 #
 ############################################
 # 12100 Raider Captain
@@ -1501,153 +1507,153 @@
 #
 #  running away
 #
-{12100}{}{Gotta get outta here!}
-{12101}{}{I'll be back...}
-{12102}{}{You ain't killing me today!}
-{12103}{}{Later, normie!}
-{12104}{}{You ain't heard the last of me!}
-{12105}{}{You'll pay for this -- later!}
+{12100}{}{快逃呀！}
+{12101}{}{我会回来的...}
+{12102}{}{今天你是杀不了我的！}
+{12103}{}{等等！}
+{12104}{}{你追不到我的！}
+{12105}{}{你会付出代价的，晚一点！}
 #
 # moving in to attack
 #
-{12120}{}{You're history!}
-{12121}{}{Fresh meat...}
-{12122}{}{Ah, dinner's arrived.}
-{12123}{}{Brains...}
-{12124}{}{I'm gonna dig your grave...}
-{12125}{}{Hope I can keep your head intact...}
+{12120}{}{你已经是历史了！}
+{12121}{}{新鲜的肉...}
+{12122}{}{喔，晚餐来了。}
+{12123}{}{脑...}
+{12124}{}{我会去挖你的坟...}
+{12125}{}{希望我能让你的头保持完整...}
 #
 # attacking
 #
-{12140}{}{Your number is up!}
-{12141}{}{Don't bother screaming for mercy...}
-{12142}{}{I'm gonna enjoy this.}
-{12143}{}{Oooo, that's gotta hurt!}
-{12144}{}{Time to die!}
-{12145}{}{I'm gonna eat your liver!}
-{12146}{}{Hope you don't die too quick!}
-{12147}{}{Dinnertime!}
-{12148}{}{Die!}
-{12149}{}{I eat punks like you for breakfast, and lunch.}
+{12140}{}{你的等死号码已经往前排了。}
+{12141}{}{别期待我会原谅你的打扰...}
+{12142}{}{我要好好的享受这个。}
+{12143}{}{喔，你会受伤的。}
+{12144}{}{}
+{12145}{}{我要吃你的肝脏！}
+{12146}{}{希望你别那么快就挂了}
+{12147}{}{吃晚餐喽！}
+{12148}{}{死！}
+{12149}{}{我的早餐和晚餐就是吃像你这样的傻瓜。}
 #
 # target being missed
 #
-{12160}{}{You cannot hurt me!}
-{12161}{}{Missed me!}
-{12162}{}{You missed, normie!}
-{12163}{}{You missed, normie!}
-{12164}{}{You can't kill what you can't hit!}
-{12165}{}{Too slow!}
+{12160}{}{你伤害不了我的！}
+{12161}{}{}
+{12162}{}{你没打到，人类！}
+{12163}{}{你没打到，人类！}
+{12164}{}{你都打不中我，还怎么能杀得了我！}
+{12165}{}{太慢了！}
 #
 ############################################
-# 12200 Gangster (Combat Messages)
+# 12200 Gangster [Combat Messages]
 ############################################
 #
 #  running away
 #
-{12200}{}{Whoa, this shit's getting too heavy.}
-{12201}{}{Time to go get some of the other boys...}
-{12202}{}{I'll get you next time!}
-{12203}{}{You're just lucky I ain't got no stimpaks on me...}
-{12204}{}{Time to get the hell outta Dodge.}
-{12205}{}{Need to find some stimpaks, fast...}
+{12200}{}{哇！这个玩笑开大了！}
+{12201}{}{需要点时间去找人...}
+{12202}{}{我下次会堵到你的！}
+{12203}{}{算你走运，我今天没带治疗针...}
+{12204}{}{我需要点时间逃命。}
+{12205}{}{要赶紧找些治疗针...}
 #
 # moving in to attack
 #
-{12220}{}{I'm gonna roll you like dice.}
-{12221}{}{And here I was, thinking I wasn't gonna get to kill no one today...}
-{12222}{}{Looks like the cemetery just got a new resident...}
-{12223}{}{Looks like we'll be doing this the hard way...}
-{12224}{}{I'm gonna knock out your teeth and make dice out of them.}
-{12225}{}{Looks like someone's gambling with their life...}
-{12226}{}{I'm gonna kill you, your family, then your dog.}
-{12227}{}{Time to take out the trash...}
-{12228}{}{Gonna snap you like a wishbone...}
+{12220}{}{我会把你当骰子一样丢的。}
+{12221}{}{在这想想，原来我今天还没杀过人呢...}
+{12222}{}{看来葛洛沙会有新居民了...}
+{12223}{}{看来我们得做些有趣的事了...}
+{12224}{}{我要打掉你的牙，再拿来做骰子。}
+{12225}{}{看来有人想赌他们的命...}
+{12226}{}{我会杀了你，你的家人，再宰你的狗。}
+{12227}{}{看来要我们要打扫一下废物了...}
+{12228}{}{我会把你当骨头啃掉...}
 #
 # attacking
 #
-{12240}{}{I'm going to kick your ass so hard you'll be wearing your ass as a hat.}
-{12241}{}{Lady Luck ain't with you today...}
-{12242}{}{I'm gonna beat you until you're ugly.}
-{12243}{}{Time to put your ass in a grave.}
-{12244}{}{I'm gonna kick your heart out and stomp on it.}
-{12245}{}{Wish I had time to put your head in a vise...}
-{12246}{}{Let me show you what we do with garbage around here...}
-{12247}{}{I'm going to hit you so hard you'll think it's an earthquake...}
-{12248}{}{I've had enough of this turd...}
-{12249}{}{Say hello to the angels for me...}
+{12240}{}{我会把你们做掉，再拿你们的皮来做帽子。}
+{12241}{}{幸运女神今天不会眷顾你的...}
+{12242}{}{我会狠狠的扁你。}
+{12243}{}{该把你这蠢东西送进坟墓了。}
+{12244}{}{我会把你的心脏踢到你的嘴巴去。}
+{12245}{}{希望我有钳子可以把你的头拔起来...}
+{12246}{}{我会让你看看我如何对付垃圾的...}
+{12247}{}{我随便打你一拳，你也会有像遇到地震一样的感觉...}
+{12248}{}{我对付人渣的经验相当丰富...}
+{12249}{}{帮我向天使问好...}
 #
 # target being missed
 #
-{12260}{}{Moves like that'll put you in the hospital...}
-{12261}{}{You hit like a bitch...}
-{12262}{}{Nice one. I'll show you how it's done in a sec.}
-{12263}{}{You blind and stupid?}
-{12264}{}{You flying on Jet or something?}
-{12265}{}{You couldn't hit the broad side of a casino.}
-{12266}{}{If you tried to hit the air, you'd miss.}
+{12260}{}{你的动作像医院的病患一样慢...}
+{12261}{}{像母狗咬人一样...}
+{12262}{}{不错呀，让我教你如何在一秒内完成。}
+{12263}{}{你是瞎子和蠢猪？}
+{12264}{}{你吸了杰特了吗？}
+{12265}{}{这么大的地方你都打不到？}
+{12266}{}{你很正确地打中了我刚刚放的屁。}
 #
 ############################################
-# 12300 Raider (Hit Locations)
+# 12300 Raider [Hit Locations]
 ############################################
 #
 # target hit in head
 #
-{12300}{}{Ngggg.}
-{12301}{}{My...head...getting...dizzy.}
-{12302}{}{Ugnnn!}
-{12303}{}{Not the face! Not the face!}
+{12300}{}{呃}
+{12301}{}{我的...头...好...晕...}
+{12302}{}{啊！}
+{12303}{}{别打脸！别打脸！}
 #
 # target hit in left arm
 #
-{12310}{}{My...arm...my...beautiful...arm.}
-{12311}{}{Medic! My arm's fucked!}
-{12312}{}{*hffff*}
+{12310}{}{我的...手臂...我美丽的...手臂...}
+{12311}{}{医生！我的手臂被“干”了！}
+{12312}{}{*呼*}
 #
 # target hit in right arm
 #
-{12320}{}{My stroke hand! Have you no shame?!}
-{12321}{}{Medic! My arm's fucked!}
-{12322}{}{Looks like I can't polish my gun with that hand anymore...}
+{12320}{}{我中风的手！你这可耻的东西！}
+{12321}{}{医生！我的手臂被“干”了！}
+{12322}{}{看来我以后在也不能用手擦枪了...}
 #
 # target hit in torso
 #
-{12330}{}{My spleen!}
-{12331}{}{Hnrgggg.}
-{12332}{}{*hff*}
-{12333}{}{You're...gonna...pay...for...that!}
-{12334}{}{*Ooooof*}
-{12335}{}{Nggg! Solar plexus!}
+{12330}{}{我的脾脏！}
+{12331}{}{呐}
+{12332}{}{*呼*}
+{12333}{}{你...将...付出．代价...}
+{12334}{}{*呜*}
+{12335}{}{太阳，赐予我力量！}
 #
 # target hit in right leg
 #
-{12360}{}{Dammit! My leg!}
-{12361}{}{*Ergg*}
-{12362}{}{Gonna need a stimpak for my leg...}
-{12363}{}{Urggg...leg's...screwed...}
+{12360}{}{该死的东西，我的腿！}
+{12361}{}{*呃*}
+{12362}{}{我需要在腿上用只治疗针。}
+{12363}{}{哇...我的腿...}
 #
 # target hit in left leg
 #
-{12370}{}{Dammit! My leg!}
-{12371}{}{*Ergg*}
-{12372}{}{Gonna need a stimpak for my leg...}
-{12373}{}{Urggg...leg's...screwed...}
+{12370}{}{该死的东西，我的腿！}
+{12371}{}{*呃*}
+{12372}{}{我需要在腿上用只治疗针。}
+{12373}{}{哇...我的腿...}
 #
 # target hit in eyes
 #
-{12380}{}{My eye! My beautiful eye!}
-{12381}{}{Trying to cripple my depth perception, huh?}
-{12382}{}{Can't...see...blood...in...eyes...}
+{12380}{}{我的眼睛！我美丽的眼睛！}
+{12381}{}{想让我变成瞎子吗？}
+{12382}{}{看不到．血流．到．眼里了...}
 #
 # target hit in groin
 #
-{12390}{}{What do you think this is? Some cheap action flick?}
-{12391}{}{Now I can't sound off like a got a pair.}
-{12392}{}{Well, there go my brass balls.}
-{12393}{}{Excuse me for a moment while I throw up all over myself.}
-{12394}{}{Great. A player character with a ball fixation.}
-{12395}{}{Let me lie down for a second, then I'll come kill you.}
-{12396}{}{Nuts!}
+{12390}{}{你以为这是什么？三流的动作电影吗？}
+{12391}{}{我现在不再是一对了。}
+{12392}{}{嗯，那只不过是打掉我的白银蛋蛋而已。}
+{12393}{}{等我一下，我自己自杀好了。}
+{12394}{}{很好，一个专打卵蛋的玩家。}
+{12395}{}{让我坐下一会儿，我就能杀了你。}
+{12396}{}{不！}
 #
 ####################################################################################
 #
@@ -1663,35 +1669,35 @@
 ############################################
 #
 #  running away
-{26000}{}{Flee! Flee!}
-{26001}{}{Retreat!}
-{26002}{}{Regroup!}
-{26003}{}{Fall back!}
-{26004}{}{Withdraw!}
-{26005}{}{I'm outta here!}
+{26000}{}{逃！逃！}
+{26001}{}{撤退！}
+{26002}{}{可惜呀！}
+{26003}{}{向后进攻！}
+{26004}{}{撤退！}
+{26005}{}{我要离开这里！}
 #
 # moving in to attack
 #
-{26020}{}{Kill this fool!}
-{26021}{}{You're already dead...}
-{26022}{}{I'm gonna fuck you up!}
-{26023}{}{This one's mine!}
-{26024}{}{Take em!}
-{26025}{}{Your ears will make a nice trophy!}
+{26020}{}{杀了这呆子！}
+{26021}{}{你已经是死人了...}
+{26022}{}{我会好好的“干”你的！}
+{26023}{}{这家伙是我的！}
+{26024}{}{拿下他们！}
+{26025}{}{你的耳朵会是很好的战利品！}
 #
 # attacking
 #
-{26040}{}{Enjoy the last few seconds of your life!}
-{26041}{}{Blood! Blood! Blood!}
-{26042}{}{Your heart is mine!}
-{26043}{}{I love doing this to you!}
-{26044}{}{Your weapons will be my trophies!}
-{26045}{}{Death and dismemberment. Just two of my favorite things!}
-{26046}{}{You are mine to kill!}
-{26047}{}{Your bones shall bleach in the wastes!}
-{26048}{}{Blood and darkness!}
-{26049}{}{I'm gonna loot your corpse!}
-{26050}{}{Drill the scraggin' bastard!}
+{26040}{}{享受你生命中的最后几秒吧！}
+{26041}{}{血！血！血！}
+{26042}{}{你的心脏是我的！}
+{26043}{}{我最喜欢这样对你了！}
+{26044}{}{你的武器将会是我的战利品！}
+{26045}{}{杀人与分钱，是我最喜欢做的两件事！}
+{26046}{}{你会被我杀掉的！}
+{26047}{}{你会成为荒野中的白骨！}
+{26048}{}{鲜血与荣耀！}
+{26049}{}{我会让你变成尸体的！}
+{26050}{}{我要钻烂你，混蛋！}
 #
 ############################################
 # 26100 Khan - Tough
@@ -1699,45 +1705,45 @@
 #
 #  running away
 #
-{26100}{}{Khans! Cover me!}
-{26101}{}{Retreat!}
-{26102}{}{Regroup!}
-{26103}{}{Fall back!}
-{26104}{}{Withdraw!}
-{26105}{}{Break off and regroup!}
+{26100}{}{可汗！掩护我！}
+{26101}{}{撤退！}
+{26102}{}{可惜呀！}
+{26103}{}{向后进攻！}
+{26104}{}{离开这！}
+{26105}{}{停战真是可惜呀！}
 #
 # moving in to attack
 #
-{26120}{}{Let the challenge begin!}
-{26121}{}{I'm going to use you for target practice!}
-{26122}{}{No mercy for you!}
-{26123}{}{This one's mine!}
-{26124}{}{Khans attack!}
-{26125}{}{It's party time!}
-{26126}{}{Would someone please kill this waste of flesh!}
+{26106}{}{再次挑战！}
+{26107}{}{我将拿你做练习的靶子！}
+{26108}{}{绝不原谅你！}
+{26109}{}{这家伙是我的！}
+{26110}{}{可汗！攻击！}
+{26111}{}{团体时间！}
+{26112}{}{你的血肉将被拿来献祭这个荒野！}
 #
 # attacking
 #
-{26140}{}{Khans kill!}
-{26141}{}{Khans are the elite of the wastes!}
-{26142}{}{I am supreme!}
-{26143}{}{Khans will rule!}
-{26144}{}{Khans are invincible!}
-{26145}{}{No retreat! No surrender!}
-{26146}{}{You are mine to kill!}
-{26147}{}{I'll make a necklace out of your teeth!}
-{26148}{}{Blood and darkness!}
-{26149}{}{Khans are the strong!}
+{26113}{}{可汗，杀了他！}
+{26114}{}{可汗是荒野的精英！}
+{26115}{}{我是至高无上的！}
+{26116}{}{可汗将统治一切！}
+{26117}{}{可汗是无敌的！}
+{26118}{}{不撤退！不投降！}
+{26119}{}{你将被我所杀！}
+{26120}{}{我会用你的牙来作我的项链！}
+{26121}{}{血与黑暗！}
+{26122}{}{可汗是强壮的！}
 #
 # target being missed
 #
-{26160}{}{Nice form but I'm over here!}
-{26161}{}{I cannot be touched!}
-{26162}{}{I am indestructible!}
-{26163}{}{My blood is stronger than yours!}
-{26164}{}{Maybe we should stop long enough for you to get some practice shots in!}
-{26165}{}{You are not worthy of combat with me!}
-{26166}{}{Why am I wasting my time with the likes of you?}
+{26123}{}{好招数，不过我还在这呢！}
+{26124}{}{我不会感谢你的！}
+{26125}{}{我是不灭的！}
+{26126}{}{我的血统比你好！}
+{26127}{}{你该练练枪法了！}
+{26128}{}{你不配和我战斗！}
+{26129}{}{为什么我要对你这种家伙浪费时间呢？}
 #
 ####################################################################################
 #
@@ -1755,7 +1761,7 @@
 #                    32900  Ron Cruz/Nikki Goldman
 #                    33000  OZ-9
 #                    33100  OZ-7
-#                    33200  Punk (Hit Locations)
+#                    33200  Punk [Hit Locations]
 #
 ####################################################################################
 #
@@ -1765,58 +1771,58 @@
 #
 # target hit in head
 #
-{32000}{}{My face! My face!}
-{32001}{}{My scalp!}
-{32002}{}{oooh... my ears...}
+{32000}{}{我的脸！我的脸！}
+{32001}{}{我的头皮！}
+{32002}{}{喔...我的耳朵...}
 #
 # target hit in left arm
 #
-{32010}{}{Ow, my arm!}
-{32011}{}{Ow!}
-{32012}{}{You broke my arm!}
+{32010}{}{哇，我的手臂！}
+{32011}{}{喔呜}
+{32012}{}{你打断我的手臂！}
 #
 # target hit in right arm
 #
-{32020}{}{Ow, my arm!}
-{32021}{}{Wahhhh!}
-{32022}{}{My God! My arm!}
+{32020}{}{哇，我的手臂！}
+{32021}{}{哇！}
+{32022}{}{天呀！我的手臂！}
 #
 # target hit in torso
 #
-{32030}{}{OUCH!}
-{32031}{}{I think I'm gonna faint...}
-{32032}{}{Hey! My spleen!}
-{32033}{}{Oooof!}
-{32034}{}{That hurt!}
-{32035}{}{I think you hit my liver!}
-{32036}{}{Ohhh, pain!}
+{32030}{}{啊！}
+{32031}{}{我快昏了...}
+{32032}{}{嘿！我的脾脏！}
+{32033}{}{喔！}
+{32034}{}{好痛！}
+{32035}{}{我想你击中我肝脏了！}
+{32036}{}{喔，痛苦！}
 #
 # target hit in right leg
 #
-{32060}{}{Ow, my leg!}
-{32061}{}{My knee!}
-{32062}{}{Right in the artery!}
+{32060}{}{哇，我的腿}
+{32061}{}{哇，我的膝盖！}
+{32062}{}{打到右动脉了！}
 #
 # target hit in left leg
 #
-{32070}{}{Ow, my leg!}
-{32071}{}{::hop... hop::}
-{32072}{}{Aaaarrrrggghhh!}
+{32070}{}{哇，我的腿}
+{32071}{}{*呼...呼*}
+{32072}{}{啊～～～～！}
 #
 # target hit in eyes
 #
-{32080}{}{I can't see! You bastard!}
-{32081}{}{My face! My eyes! Arrrrgh!}
-{32082}{}{Where are you? Help!}
+{32080}{}{我看不到了！你这畜牲！}
+{32081}{}{我的脸！我的眼睛！啊！}
+{32082}{}{你在那里！救命啊！}
 #
 # target hit in groin
 #
-{32090}{}{Ooooooooo, my groin! Ooooooo...}
-{32091}{}{I... I... ouch...}
-{32092}{}{::whimper::}
-{32093}{}{::vomit::}
-{32094}{}{I...can't...breathe...}
-{32095}{}{The pain, the pain...}
+{32090}{}{喔，我的下面！喔...}
+{32091}{}{我...我...哎呀...}
+{32092}{}{*呜咽*}
+{32093}{}{*吐出*}
+{32094}{}{我...不能...呼吸了...}
+{32095}{}{痛，痛...}
 #
 ############################################
 # 32100 The Dragon
@@ -1824,45 +1830,45 @@
 #
 #  running away
 #
-{32100}{}{Your kung fu is better than mine!}
-{32101}{}{You are truly mighty. Goodbye.}
-{32102}{}{Aieee! Evil triumphs!}
-{32103}{}{Oh no...}
-{32104}{}{I have failed.}
-{32105}{}{I am dishonored.}
+{32100}{}{你的功夫比我好！}
+{32101}{}{你真的很强，再见。}
+{32102}{}{啊！邪恶者赢了！}
+{32103}{}{喔不...}
+{32104}{}{我失败了。}
+{32105}{}{我已经蒙羞了。}
 #
 # moving in to attack
 #
-{32120}{}{It grieves me to attack you.}
-{32121}{}{I advise you to flee.}
-{32122}{}{Only a coward uses weapons.}
-{32123}{}{Flee while you can.}
-{32124}{}{Prepare yourself, wrongdoer.}
-{32125}{}{Run and I won't hurt you.}
-{32126}{}{If you insist on fighting...}
-{32128}{}{Do you think you can defeat me?}
+{32120}{}{以无法为有法，以无限为有限。}
+{32121}{}{我劝你快逃吧。}
+{32122}{}{只有懦夫才会用武器。}
+{32123}{}{你可以逃的。}
+{32124}{}{你小心了。}
+{32125}{}{你逃我就不打你。}
+{32126}{}{如果你坚持要打的话...}
+{32128}{}{你以为能打败我吗？}
 #
 # attacking
 #
-{32140}{}{Haiiiiiiii-YA!}
-{32141}{}{Chop-socky!}
-{32142}{}{rooOOOooo!}
-{32143}{}{Hai!
-{32144}{}{Huh!}
-{32145}{}{Hai oooOOo!}
-{32146}{}{Hai - ah!}
-{32147}{}{Show me some!}
-{32148}{}{Mongolian BEEF!}
-{32149}{}{A kick in the eye!}
+{32140}{}{哈－呀！}
+{32141}{}{手刀！}
+{32142}{}{鲁！}
+{32143}{}{神龙踢！}
+{32144}{}{哈！}
+{32145}{}{豪油根！}
+{32146}{}{哈－啊！}
+{32147}{}{啊嘟跟！}
+{32148}{}{哈－呜！}
+{32149}{}{杰杰波罗杰！}
 #
 # target being missed
 #
-{32160}{}{Only a coward uses weapons.}
-{32161}{}{Are you afraid to face a real fighter?}
-{32162}{}{Your kung fu is no good here.}
-{32163}{}{Surrender!}
-{32164}{}{You call that fighting?}
-{32165}{}{You move like a pregnant yak.}
+{32160}{}{只有懦夫才会用武器。}
+{32161}{}{你害怕面对真正的战斗吗？}
+{32162}{}{你的功夫在这里并不算好。}
+{32163}{}{你投降吧！}
+{32164}{}{你把这叫做战斗？}
+{32165}{}{你的移动像头怀孕的牛。}
 #
 ############################################
 # 32200 Lo Pan
@@ -1870,45 +1876,45 @@
 #
 #  running away
 #
-{32200}{}{I'm looking for a green-eyed girl... goodbye!}
-{32201}{}{Yes sir... the check is in the mail.}
-{32202}{}{I think I have an appointment...}
-{32203}{}{Okay, you win!}
-{32204}{}{I give up!}
-{32205}{}{Your kung fu is stronger than mine!}
+{32200}{}{我要去找一个绿色眼睛的女孩，再见。}
+{32201}{}{我突然想去家里衣服还没收。}
+{32202}{}{我突然想到我有个约会...}
+{32203}{}{好吧，你赢了！}
+{32204}{}{我弃权！}
+{32205}{}{你的功夫比我还强！}
 #
 # moving in to attack
 #
-{32220}{}{Lightning! Thunder! Kill them for me!}
-{32221}{}{Your powers are weak!}
-{32222}{}{Your kung fu cannot hurt me!}
-{32223}{}{I'm invincible!}
-{32224}{}{Flee, worm!}
-{32225}{}{The thunder rolls toward you!}
-{32226}{}{Float like a butterfly!}
-{32228}{}{Sting like a bee!}
+{32220}{}{雷呀！电呀！帮我杀了他们！}
+{32221}{}{你的力量太弱了！}
+{32222}{}{凭你的功夫是打不到我的！}
+{32223}{}{我是无敌的！}
+{32224}{}{快逃吧，你这条软弱的虫子！}
+{32225}{}{如猛虎的进攻！}
+{32226}{}{如蝴蝶的飞舞！}
+{32228}{}{如蜜蜂的刺！}
 #
 # attacking
 #
-{32240}{}{Who's Jack Burton?}
-{32241}{}{Is it too much to ask for you to die?!}
-{32242}{}{Have you paid your dues, Jack?}
-{32243}{}{There's a problem with your face.}
-{32244}{}{The check is in the MAIL!}
-{32245}{}{Hell awaits you!}
-{32246}{}{Greet your ancestors for me!}
-{32247}{}{I am immortal!}
-{32248}{}{Chop-suey!}
-{32249}{}{Hai-YA!}
+{32240}{}{谁是李小龙？}
+{32241}{}{你话太多了，去死吧！}
+{32242}{}{你会付出代价的。}
+{32243}{}{你的脸就是个麻烦。}
+{32244}{}{你的防御力够吗？}
+{32245}{}{地狱正等着你！}
+{32246}{}{帮我向你祖先问好！}
+{32247}{}{我是不死的！}
+{32248}{}{手刀！}
+{32249}{}{哈－呀！}
 #
 # target being missed
 #
-{32260}{}{Feelin' kind of invincible!}
-{32261}{}{Give me your best shot.}
-{32262}{}{I can take it.}
-{32263}{}{You don't really know how to fight, do you?}
-{32264}{}{You call that fighting?}
-{32265}{}{::yawns::}
+{32260}{}{不要同情无敌的人！}
+{32261}{}{用你最厉害的招数吧。}
+{32262}{}{你太烂了。}
+{32263}{}{你真的不懂战斗吗？}
+{32264}{}{你把这叫做战斗？}
+{32265}{}{*打哈欠*}
 #
 ############################################
 # 32300 Chip
@@ -1916,87 +1922,87 @@
 #
 #  running away
 #
-{32300}{}{I have a wife and kids!}
-{32301}{}{Noo... it's my birthday!}
-{32302}{}{Ow... my spleen...}
-{32303}{}{Back to the hospital!}
-{32304}{}{Must... protect. .. spleen hole...}
-{32305}{}{Oh, my aching liver.}
+{32300}{}{我有老婆和小孩啊！}
+{32301}{}{不...今天是我生日}
+{32302}{}{喔...我的脾脏...}
+{32303}{}{要回医院了！}
+{32304}{}{必须...压住...身上的...洞...}
+{32305}{}{喔，我痛死了...}
 #
 # moving in to attack
 #
-{32320}{}{Don't make me use the cheat knife.}
-{32321}{}{I am going to give you such a beat down...}
-{32322}{}{You eat little pieces of shit for breakfast?}
-{32323}{}{I'll kick your fucking ass.}
-{32324}{}{I'll cut you!}
-{32325}{}{I think that's all I have to say.}
+{32320}{}{别逼我用小刀！}
+{32321}{}{我要把你击倒！}
+{32322}{}{你早餐吃大便了吗？}
+{32323}{}{我会踹烂你那该死的屁股。}
+{32324}{}{我要剁了你！}
+{32325}{}{废话少说。}
 #
 # attacking
 #
-{32340}{}{Boom!}
-{32341}{}{I railed your ass!}
-{32342}{}{YEAH!}
-{32343}{}{Yeah, baby, yeah!}
-{32344}{}{You want some of this?}
-{32345}{}{Don't move that way!}
-{32346}{}{Shagadelic, bay-by!}
-{32347}{}{Oh, is that your face?}
-{32348}{}{You're a face full of ugly, aintcha?}
+{32340}{}{轰！}
+{32341}{}{踹死你！}
+{32342}{}{耶！}
+{32343}{}{耶，宝贝，耶！}
+{32344}{}{你要这个？}
+{32345}{}{别走这里！}
+{32346}{}{永别了！}
+{32347}{}{喔！这就是你的脸吗？}
+{32348}{}{你的脸真是丑暴了，不是吗？}
 #
 # target being missed
 #
-{32360}{}{Missed my spleen! Ha ha!}
-{32361}{}{You SUCK!}
-{32362}{}{Ha ha! I rule!}
-{32363}{}{Give me a kiss, sweetness.}
-{32364}{}{Time to row, baby.}
-{32365}{}{I'll cut you!}
+{32360}{}{没打中我的脾脏！哈哈！}
+{32361}{}{你有病！}
+{32362}{}{哈哈，我赢了！}
+{32363}{}{给我甜美的吻吧。}
+{32364}{}{时机不对，宝贝。}
+{32365}{}{我要剁了你！}
 #
 ############################################
- # 32400 Badger
+# 32400 Badger
 ############################################
 #
 #  running away
 #
-{32400}{}{The face! Don't hit the face!}
-{32401}{}{My hair's ruined, you beast!}
-{32402}{}{Bastard! I'll sodomize you for that!}
-{32403}{}{I need a bigger gun!}
-{32404}{}{Waaaaaaaaaaa!!!}
-{32405}{}{AAGGH!! You shot me in the ass!!}
+{32400}{}{脸！别打脸！}
+{32401}{}{我的头发，你这畜牲！}
+{32402}{}{畜牲，我要干你后门！}
+{32403}{}{我需要一把更大的枪！}
+{32404}{}{哇！！！}
+{32405}{}{啊！！你射中我的屁股！}
 #
 # moving in to attack
 #
-{32420}{}{I'm gonna make you wish yer daddy pulled out early!}
-{32421}{}{Say...you've got a face like an arse!}
-{32422}{}{Let's see what you've got, dickcheese.}
-{32423}{}{Bend over and grab your ankles, bub!}
-{32424}{}{For Shane!!}
-{32425}{}{I'll try to make this as painful as possible.}
-{32426}{}{Mind if I break your kneecaps first?}
-{32428}{}{C'mon, little girl. Show me what you got.}
+{32420}{}{我会打得你叫爸爸的！}
+{32421}{}{我会扁到你脸和屁股一个样。}
+{32422}{}{让我看看你在做什么，小乳酪。}
+{32423}{}{我会掐死你的，小子。}
+{32424}{}{死来}
+{32425}{}{我会尽量折磨你的。}
+{32426}{}{或许我该先打碎你的膝盖？}
+{32428}{}{来吧，小女孩，秀出你的本事吧！}
 #
 # attacking
 #
-{32440}{}{Hope you won't need that arm...}
-{32441}{}{Damn, that's gotta hurt, huh?}
-{32442}{}{Uf-da!}
-{32443}{}{I love the smell of blood in the morning...}
-{32444}{}{Boy, you are a bleeder, aren't ya?}
-{32445}{}{::::belch!::::}
-{32446}{}{You broke the shirt, man!!!!}
-{32447}{}{Hot lead enema coming right up!!} 
-{32448}{}{Eat this!!}
+{32440}{}{希望你不需要这条手臂...}
+{32441}{}{该死的东西，想受伤对吧？}
+{32442}{}{喔－达！}
+{32443}{}{我喜欢在早上闻到血的味道...}
+{32444}{}{小子，你很容易流血，不是吗？}
+{32445}{}{**打嗝**}
+{32446}{}{你打坏我的衬衫！！！}
+{32447}{}{热的灌肠要准备好了！} 
+{32448}{}{吃这个！!}
 #
 # target being missed
 #
-{32460}{}{You shoot worse than my mom!}
-{32461}{}{Damn, you suck!}
-{32462}{}{Go back to your momma, ya puss!} 
-{32463}{}{Want me to stand still for you?} 
-{32464}{}{:::brapp:::}
-{32465}{}{Oh, good one...} 
+{32460}{}{你的技术比我妈还烂！}
+{32461}{}{[比出中指]}
+{32462}{}{滚回幼儿园去，废柴！} 
+{32463}{}{要我站着不动吗？} 
+{32464}{}{*闪开*}
+{32465}{}{喔，还好...} 
 #
 ############################################
 # 32500 Ryan
@@ -2004,44 +2010,44 @@
 #
 #  running away
 #
-{32500}{}{Holy gee, I wanted to lick 'em!}
-{32501}{}{La la la ... help!}
-{32502}{}{Ha ha OW!}
-{32503}{}{AT! AT! At at at at at!}
-{32504}{}{Ay caramba!}
-{32505}{}{Heeeelp!}
+{32500}{}{天呀，我不打了！}
+{32501}{}{啦啦啦...救命呀！}
+{32502}{}{哈哈～哇！}
+{32503}{}{中！中！中中中！}
+{32504}{}{长肉瘤了！}
+{32505}{}{救——命！}
 #
 # moving in to attack
 #
-{32520}{}{You don't want none o' this!}
-{32521}{}{Come get some!}
-{32522}{}{You want some of this? Huh? Huh?}
-{32523}{}{Come on! I'll rape you!}
-{32524}{}{You are SO dead.}
-{32525}{}{You just opened a whole can of whoopass.}
-{32526}{}{I got some for you, oh yeah.}
+{32520}{}{你绝对不会喜欢这个。}
+{32521}{}{来拿到一些了！}
+{32522}{}{你要这个？哈哈！}
+{32523}{}{来呀，我会强奸你的！}
+{32524}{}{你已经是死人了。}
+{32525}{}{你将在比赛场当众被打死。}
+{32526}{}{我在你身上拿到东西了，好呀！}
 #
 # attacking
 #
-{32540}{}{You gotta fight through that shit.}
-{32541}{}{::sings::}
-{32542}{}{Iii... will always love YOOUUUUU!}
-{32543}{}{Can't we all just get along?}
-{32544}{}{You are SO dead.}
-{32545}{}{Bend over for a second...}
-{32546}{}{I got a present for you.}
-{32547}{}{You want a piece of me?}
-{32548}{}{He shoots... he scores!}
-{32549}{}{How about some lovin'?}
+{32540}{}{你将被打到像那沱屎一样烂！}
+{32541}{}{*唱歌*}
+{32542}{}{我...会永远爱你——}
+{32543}{}{向前吧！}
+{32544}{}{你已经是死人了。}
+{32545}{}{比赛将在一秒结束...}
+{32546}{}{我要送你点礼物。}
+{32547}{}{你想送礼给我吗？}
+{32548}{}{他射出...得分！}
+{32549}{}{你的爱人如何啦？}
 #
 # target being missed
 #
-{32560}{}{That's right!}
-{32561}{}{That's RIGHT!}
-{32562}{}{Ha ha ha!}
-{32563}{}{Do you ever get any better?}
-{32564}{}{Can't touch this!}
-{32565}{}{Ow! Ha ha... just kidding.}
+{32560}{}{就是这样}
+{32561}{}{就是这样}
+{32562}{}{哈哈哈！}
+{32563}{}{你不能做的更好吗？}
+{32564}{}{碰不到！}
+{32565}{}{哈哈...真好笑！}
 #
 ############################################
 # 32600 Shi Guards
@@ -2049,43 +2055,43 @@
 #
 #  running away
 #
-{32600}{}{Aiee!}
-{32601}{}{Next rank, step in!}
-{32602}{}{Fall back!}
-{32603}{}{Flee! Flee!}
-{32604}{}{Run away!}
+{32600}{}{啊依！}
+{32601}{}{下一队，上呀。}
+{32602}{}{向后进攻！}
+{32603}{}{逃！逃！}
+{32604}{}{逃命呀！}
 #
 # moving in to attack
 #
-{32620}{}{Prepare to be dishonored.}
-{32621}{}{The pillars of heaven shake...}
-{32622}{}{... the poison arrows fall...}
-{32623}{}{Here comes the Porkchop Express.}
-{32624}{}{We warned you...}
-{32625}{}{One ex-gaijin, coming up!}
-{32626}{}{Goodbye, dead one.}
+{32620}{}{准备被羞辱吧！}
+{32621}{}{这些支持者可以撼动天柱...}
+{32622}{}{...毒箭来了...}
+{32623}{}{这里来了只胖小猪。}
+{32624}{}{我们警告你...}
+{32625}{}{一个干练的骑警，来呀！}
+{32626}{}{再见了，死人。}
 #
 # attacking
 #
-{32640}{}{Something for you...}
-{32641}{}{...something for your mother...}
-{32642}{}{...something for your father...}
-{32643}{}{...something for  your sister...}
-{32644}{}{...and something for your ancestors!}
-{32645}{}{Get out!}
-{32646}{}{Die!}
-{32647}{}{Goodbye!}
-{32648}{}{Let me dishonor you!}
-{32649}{}{Your presence offends me.}
+{32640}{}{给你点东西...}
+{32641}{}{...给你妈点东西...}
+{32642}{}{...给你爸点东西...}
+{32643}{}{...给你妹点东西...}
+{32644}{}{...给你祖宗点东西！}
+{32645}{}{滚！}
+{32646}{}{死！}
+{32647}{}{再见了！}
+{32648}{}{你会死掉的！}
+{32649}{}{你的存在就是冒犯了我。}
 #
 # target being missed
 #
-{32660}{}{It's all in the reflexes.}
-{32661}{}{Gaijin fool!}
-{32662}{}{::sighs:: When do we fight someone GOOD?}
-{32663}{}{Is this ever going to end?}
-{32664}{}{When do you start hitting me?}
-{32665}{}{This is getting old...}
+{32660}{}{这就是你的表现？}
+{32661}{}{你就是蠢蛋中的典型！}
+{32662}{}{*唱歌*让我们揍扁某人好不好？}
+{32663}{}{这样就想结束了吗？}
+{32664}{}{你什么时候才能开打呀？}
+{32665}{}{招式太老了...}
 #
 ############################################
 # 32700 Elron Hit Locations
@@ -2093,58 +2099,58 @@
 #
 # target hit in head
 #
-{32700}{}{My face! My face!}
-{32701}{}{Star Father! Heal me!}
-{32702}{}{Ouch! I need some ice for my head.}
+{32700}{}{我的脸！我的脸！}
+{32701}{}{星父！治疗我！}
+{32702}{}{啊！我的头需要点冰块！}
 #
 # target hit in left arm
 #
-{32710}{}{Ow, my arm!}
-{32711}{}{Ow!}
-{32712}{}{You broke my arm!}
+{32710}{}{啊，我的手臂}
+{32711}{}{喔呜}
+{32712}{}{你打断我的手臂！}
 #
 # target hit in right arm
 #
-{32720}{}{Ow, my arm!}
-{32721}{}{Wahhhh!}
-{32722}{}{By Elron! My arm!}
+{32720}{}{啊，我的手臂}
+{32721}{}{哇！}
+{32722}{}{哈伯！我的手臂！}
 #
 # target hit in torso
 #
-{32730}{}{Ow! That really hurt!}
-{32731}{}{I think I'm gonna faint}
-{32732}{}{Ouch!}
-{32733}{}{Star Father! Help me!}
-{32734}{}{That hurt!}
-{32735}{}{Just leave me alone!}
-{32736}{}{Ohhh, pain!}
+{32730}{}{啊！那的很痛！}
+{32731}{}{我想我快昏倒了}
+{32732}{}{啊！}
+{32733}{}{星父！救我！}
+{32734}{}{好痛！}
+{32735}{}{离开我！}
+{32736}{}{喔，痛苦！}
 #
 # target hit in right leg
 #
-{32760}{}{Ow, my leg!}
-{32761}{}{My knee!}
-{32762}{}{Ow!}
+{32760}{}{哇，我的腿！}
+{32761}{}{哇，我的膝盖！}
+{32762}{}{喔呜}
 #
 # target hit in left leg
 #
-{32770}{}{Ow, my tibia!}
-{32771}{}{My knee!}
-{32772}{}{Aaaarrrrggghhh!}
+{32770}{}{喔，我的胫骨！}
+{32771}{}{哇，我的膝盖！}
+{32772}{}{啊～～～～！}
 #
 # target hit in eyes
 #
-{32780}{}{Ow!! My eyes!}
-{32781}{}{My face! My eyes! Arrrrgh!}
-{32782}{}{My eyes!}
+{32780}{}{哇！我的眼睛！}
+{32781}{}{我的脸！我的眼睛！啊！}
+{32782}{}{我的眼睛！}
 #
 # target hit in groin
 #
-{32790}{}{Ooooooooo, my groin! Ooooooo...}
-{32791}{}{Oww...It burns!}
-{32792}{}{Urp!}
-{32793}{}{::gasp::}
-{32794}{}{I...can't...breathe...}
-{32795}{}{good thing... I'm already... sterile...}
+{32790}{}{喔，我的下面！喔...}
+{32791}{}{呜...快烧掉了！}
+{32792}{}{啊！}
+{32793}{}{*喘气*}
+{32794}{}{我...不能...呼吸了...}
+{32795}{}{幸好...我早已经...结扎了...}
 #
 ############################################
 # 32800 Elron Guards
@@ -2152,43 +2158,43 @@
 #
 #  running away
 #
-{32800}{}{Star Father! Help us!}
-{32801}{}{My anodynes!}
-{32802}{}{I want to live to see Quetzel!}
-{32803}{}{Eeek!}
-{32804}{}{Save our celebrities!}
-{32805}{}{OZ-9! Help us!}
+{32800}{}{星父！救我们！}
+{32801}{}{我的止痛药！}
+{32802}{}{我希望能活着看到星父！}
+{32803}{}{噫！}
+{32804}{}{保住我们的名声！}
+{32805}{}{ＡＨＳ－９！救我们！}
 #
 # moving in to attack
 #
-{32820}{}{I'm going to "adjust" you so hard...}
-{32821}{}{I'll be so glad when we leave your type behind...}
-{32822}{}{Too bad you won't see the future.}
-{32823}{}{Never defy the Star Father.}
-{32824}{}{Elron will smite you!}
-{32825}{}{We are the vengeance of the Star Father!}
-{32826}{}{Death to the uninitiated!}
-{32828}{}{Think of this as a different zeta-scan.}
+{32820}{}{我会“调整”你的，虽然这很难...}
+{32821}{}{我很高兴你将离开你原来的物质界...}
+{32822}{}{你将见不到未来了！}
+{32823}{}{别挑战星父。}
+{32824}{}{哈伯将惩罚你。}
+{32825}{}{我们是星父的复仇者！}
+{32826}{}{死吧！}
+{32828}{}{让你尝尝不同的ＺＥＴＡ扫瞄。}
 #
 # attacking
 #
-{32840}{}{You have dirty energy!}
-{32841}{}{For the Star Father!}
-{32842}{}{For Elron!}
-{32843}{}{For Quetzel!}
-{32844}{}{For OZ-9!}
-{32845}{}{Die, unwashed one!}
-{32846}{}{Sully not our sanctum!}
-{32847}{}{This is for OZ-9!}
+{32840}{}{你有肮脏的能源！}
+{32841}{}{为星父而战！}
+{32842}{}{为哈伯而战！}
+{32843}{}{为巨轮而战！}
+{32844}{}{为ＡＨＳ而战！}
+{32845}{}{死吧！无知的家伙！}
+{32846}{}{玷污了我们的圣殿！}
+{32847}{}{这是为ＡＨＳ而战！}
 #
 # target being missed
 #
-{32860}{}{Your energy is misaligned.}
-{32861}{}{If you were one of us, you'd've hit me.}
-{32862}{}{You have dirty energy.}
-{32863}{}{Do not strike a true believer!}
-{32864}{}{That will reset your anodynes!}
-{32865}{}{Impure one!}
+{32860}{}{你的能源是混乱的。}
+{32861}{}{如果你是我们一员，你就打的到我。}
+{32862}{}{你有肮脏的能源！}
+{32863}{}{你打不中一个真正的圣者！}
+{32864}{}{那将会为你止痛！}
+{32865}{}{肮脏的家伙！}
 #
 ############################################
 # 32900 Ron Cruz/Nikki Goldman
@@ -2196,11 +2202,11 @@
 #
 #  running away
 #
-{32900}{}{I'm a movie star!}
-{32901}{}{Celebrity coming through!}
-{32902}{}{This isn't in the script!}
-{32903}{}{Star Father! Help!}
-{32904}{}{But I'm famous!}
+{32900}{}{我是电影明星！}
+{32901}{}{有名人经过这里！}
+{32902}{}{剧本不是这样写的！}
+{32903}{}{星父！救我！}
+{32904}{}{但是我很知名呀！}
 #
 ############################################
 # 33000 OZ-9
@@ -2208,40 +2214,40 @@
 #
 #  running away
 #
-{33000}{}{Star Father! Help me!}
-{33001}{}{No! Not me!}
-{33002}{}{Please kill someone else!}
-{33003}{}{Don't kill me! I'm OZ-9!}
-{33004}{}{Guards! Help me!}
-{33005}{}{You can't kill me! I'm too important!}
+{33000}{}{星父！救我！}
+{33001}{}{不！别打我！}
+{33002}{}{请去杀别人吧！}
+{33003}{}{别杀我，我是个ＡＨＳ－９呀！}
+{33004}{}{守卫！救我！}
+{33005}{}{你不能杀我，我是很重要的！}
 #
 # moving in to attack
 #
-{33020}{}{You could've been one of us.}
-{33021}{}{The stupid always turn on their betters.}
-{33022}{}{Your impurity shines!}
-{33023}{}{If only you had taken the oaths...}
-{33024}{}{The Star Father will strike you down.}
-{33025}{}{You will never see planet Quetzel.}
-{33026}{}{You are a traitor to humanity's evolution.}
-{33028}{}{Unworthy and impure.}
+{33020}{}{你可以成为我们的一员。}
+{33021}{}{愚蠢者都以为自己比较好！}
+{33022}{}{你这不洁的光线！}
+{33023}{}{只有你会被咒骂...}
+{33024}{}{星父将会把你击倒。}
+{33025}{}{你从未见过行星的运转。}
+{33026}{}{你是人类进化的背叛者！}
+{33028}{}{不足取与肮脏的败类。}
 #
 # attacking
 #
-{33040}{}{My touch will purify you!}
-{33041}{}{I will strike you dead!}
-{33042}{}{In the name of Elron!}
-{33043}{}{For the glory of Star Father!}
-{33044}{}{Feel the wrath of Elron!}
-{33045}{}{This will optimize you!}
+{33040}{}{我将净化你！}
+{33041}{}{我将把你打死！}
+{33042}{}{以哈伯之名！}
+{33043}{}{为了星父的荣耀！}
+{33044}{}{感受哈伯的愤怒吧！}
+{33045}{}{那将使你更加完美！}
 #
 # target being missed
 #
-{33060}{}{The Star Father saves me!}
-{33061}{}{Elron protects me!}
-{33062}{}{Your anodynes are clogged!}
-{33063}{}{Your energy is no good.}
-{33064}{}{Don't you know how to focus?}
+{33060}{}{星父在保护我！}
+{33061}{}{哈伯在保护我！}
+{33062}{}{你打不到我的！}
+{33063}{}{你的能量是不好的！}
+{33064}{}{你懂得如何瞄准吗？}
 #
 ############################################
 # 33100 OZ-7
@@ -2249,45 +2255,45 @@
 #
 #  running away
 #
-{33100}{}{Star Father! Help me!}
-{33101}{}{I'd rather be on Quetzel!}
-{33102}{}{Not me! Don't kill me!}
-{33103}{}{I'm just a lackey!}
-{33104}{}{I don't make the decisions!}
-{33105}{}{I'm not the one you want!}
+{33100}{}{星父！救我！}
+{33101}{}{我宁可在巨轮中！}
+{33102}{}{不是我！不要杀我！}
+{33103}{}{我只是个侍从！}
+{33104}{}{我并未下定决心！}
+{33105}{}{我并不是你要的人！}
 #
 # moving in to attack
 #
-{33120}{}{I'd rather not do this...}
-{33121}{}{Are you sure you wouldn't rather give up?}
-{33122}{}{We can work this out, can't we?}
-{33123}{}{If OZ-9 says you're bad, you must be bad.}
-{33124}{}{For ... um... the glory of Elron!}
-{33125}{}{Fighting is bad for your anodynes...}
-{33126}{}{I'm no good at this threatening stuff.}
-{33128}{}{My apologies if I'm about to hurt you.}
+{33120}{}{我宁可不做这个...}
+{33121}{}{你确定你欠扁吗？}
+{33122}{}{我们这样做的。}
+{33123}{}{如果ＡＨＳ－９说你是坏人，那你就是坏人。}
+{33124}{}{为了．呃．哈伯的光荣！}
+{33125}{}{战斗是你最坏的选择...}
+{33126}{}{我不是个擅长威胁的人。}
+{33128}{}{如果打伤了你，我很抱歉。}
 #
 # attacking
 #
-{33140}{}{Look out!}
-{33141}{}{(he squints his eyes shut and attacks)}
-{33142}{}{Here comes another attack...}
-{33143}{}{If you just run away, I wouldn't have to do this.}
-{33144}{}{Go on! Get out of here!}
-{33145}{}{Shoo! Shoo!}
-{33146}{}{Stop fighting!}
-{33147}{}{Hoooooooowdy ho!}
-{33148}{}{You smell like flowers.}
-{33149}{}{We can work this out!}
+{33140}{}{注意！}
+{33141}{}{*他闭起眼睛开始攻击*}
+{33142}{}{他的另一波攻击...}
+{33143}{}{如果你离开的话，我就不会这样做的。}
+{33144}{}{快走，离开这里！}
+{33145}{}{嘘！嘘！}
+{33146}{}{停止战斗！}
+{33147}{}{呼呼！}
+{33148}{}{你闻起来像双头牛屎。}
+{33149}{}{我们可以在外面打。}
 #
 # target being missed
 #
-{33160}{}{Why are you trying to hurt me?}
-{33161}{}{What have I ever done to you?}
-{33162}{}{We don't have to fight, you know!}
-{33163}{}{I don't want to hurt you!}
-{33164}{}{I don't want you to hurt me!}
-{33165}{}{Can we settle this like adults?}
+{33160}{}{为什么你要打我？}
+{33161}{}{我对你做了些什么？}
+{33162}{}{我们不喜欢战斗，知道吗？}
+{33163}{}{我不想伤你！}
+{33164}{}{我不希望被你打伤！}
+{33165}{}{我们能像成年人一样的坐下谈吗？}
 
 ############################################
 # 33200 Punk Hit Locations
@@ -2295,306 +2301,306 @@
 #
 # target hit in head
 #
-{33200}{}{I think you broke my jaw!}
-{33201}{}{My cheekbone!}
-{33202}{}{That'll leave an unpleasant scar.}
+{33200}{}{我想你打碎我下巴了！}
+{33201}{}{我的脸颊！}
+{33202}{}{我不要这讨厌的疤。}
 #
 # target hit in left arm
 #
-{33210}{}{My writing hand!}
-{33211}{}{My elbow!}
-{33212}{}{Hey! Watch it!}
+{33210}{}{我写字的手！}
+{33211}{}{我的手肘！}
+{33212}{}{嘿！小心它！}
 #
 # target hit in right arm
 #
-{33220}{}{Ahhh! Aiee! Ahh!}
-{33221}{}{Wahhhh!}
-{33222}{}{Ow! My ulna!!}
+{33220}{}{啊！啊依！啊！}
+{33221}{}{哇！}
+{33222}{}{喔！我的耻骨！}
 #
 # target hit in torso
 #
-{33230}{}{I think you got my kidney!}
-{33231}{}{My solar plexus!}
-{33232}{}{::panting::}
-{33233}{}{Oooof!}
-{33234}{}{You don't have to do this...}
-{33235}{}{Okay, that hurt.}
-{33236}{}{Ohhh... owwww!}
+{33230}{}{我想你打到我的肾了！}
+{33231}{}{我的肠胃！}
+{33232}{}{*喘气*}
+{33233}{}{喔！}
+{33234}{}{你不可以这样做...}
+{33235}{}{好吧，这很痛！}
+{33236}{}{喔...哇...}
 #
 # target hit in right leg
 #
-{33260}{}{My tibia!}
-{33261}{}{My knee!}
-{33262}{}{Ow!}
+{33260}{}{我的腿！}
+{33261}{}{哇，我的膝盖！}
+{33262}{}{喔呜}
 #
 # target hit in left leg
 #
-{33270}{}{Oooh, my femur!}
-{33271}{}{My knee!}
-{33272}{}{That'll be a limper...}
+{33270}{}{我的大腿骨！}
+{33271}{}{哇，我的膝盖！}
+{33272}{}{我会变跛子的...}
 #
 # target hit in eyes
 #
-{33280}{}{I think you detached my retina!}
-{33281}{}{My aqueous humor! My vitreous humor!}
-{33282}{}{I'm blind! I'm blind!}
+{33280}{}{我想你打伤我视网膜了！}
+{33281}{}{我的眼球呀！}
+{33282}{}{我瞎了！我瞎了！}
 #
 # target hit in groin
 #
-{33290}{}{That's... that's... painful...}
-{33291}{}{Mother...}
-{33292}{}{::whimper::}
-{33293}{}{Sweet mother of GOD!}
-{33294}{}{Hmmm. Ow. Hmmm.}
-{33295}{}{I think I'll go into shock now.}
+{33290}{}{这...这...好痛苦...}
+{33291}{}{妈呀...}
+{33292}{}{*啜泣*}
+{33293}{}{啊！}
+{33294}{}{啊！啊！啊！}
+{33295}{}{我想我被吓到了！}
 #
 ####################################################################################
 #
-# 36000        Special Encounters (Randoms)
+# 36000        Special Encounters [Randoms]
 #
-#                   36000 Kaga (Hit Locations)
-#                   36100 Kaga (Combat Messages - Area 1)
-#                   36200 Kaga (Combat Messages - Area 2)
-#                   36300 Kaga (Combat Messages - Area 3)
-#                   36400 Kaga (Combat Messages - Area 4)
-#                   36500 Kaga (Combat Messages - Area 5)
-#                   36600 Super Mutant (Master Army) - Hit Locations
-#                   36700 Super Mutant (Master Army) - Combat Messages
+#                   36000 Kaga [Hit Locations]
+#                   36100 Kaga [Combat Messages - Area 1]
+#                   36200 Kaga [Combat Messages - Area 2]
+#                   36300 Kaga [Combat Messages - Area 3]
+#                   36400 Kaga [Combat Messages - Area 4]
+#                   36500 Kaga [Combat Messages - Area 5]
+#                   36600 Super Mutant [Master Army] - Hit Locations
+#                   36700 Super Mutant [Master Army] - Combat Messages
 #                   36800 Bounty Hunters - Combat Messages
 #
 ####################################################################################
 #
 ############################################
-# 36000 Kaga (Hit Locations)
+# 36000 Kaga [Hit Locations]
 ############################################
 #
 # target hit in head
 #
-{36000}{}{Gawd! That hit me in the head!}
-{36001}{}{Ow! My head!}
-{36002}{}{Oof! Kaga's head is on fire!}
+{36000}{}{那打进我的头了！}
+{36001}{}{哇！我的头！}
+{36002}{}{呜！卡贾的头像火在烧一样！}
 #
 # target hit in left arm
 #
-{36010}{}{My hand!}
-{36011}{}{Ow! Good thing I'm right handed.}
-{36012}{}{Ow!!}
+{36010}{}{我的手！}
+{36011}{}{哇！幸好我是右撇子}
+{36012}{}{哇}
 #
 # target hit in right arm
 #
-{36020}{}{Ow, my arm!}
-{36021}{}{You broke my arm!}
-{36022}{}{You're gonna regret that!}
+{36020}{}{啊，我的手臂}
+{36021}{}{你打断我的手臂！}
+{36022}{}{你将会为这而后悔的！}
 #
 # target hit in torso
 #
-{36030}{}{::grunt::}
-{36031}{}{It's only a flesh wound!}
-{36032}{}{Grrr!}
-{36033}{}{You're gonna regret that!}
-{36034}{}{You should stop while you're ahead!}
-{36035}{}{Good shot. My turn.}
+{36030}{}{[咕噜]}
+{36031}{}{这只不过是肉体创伤！}
+{36032}{}{啊...}
+{36033}{}{你将会为这而后悔的！}
+{36034}{}{你最好别再往前走了！}
+{36035}{}{好枪法，该我了！}
 #
 # target hit in right leg
 #
-{36060}{}{Ow, my leg!}
-{36061}{}{You're gonna pay for that!}
-{36062}{}{Ah! MY LEG!}
+{36060}{}{哇，我的腿}
+{36061}{}{你会负出代价的！}
+{36062}{}{啊！我的腿！}
 #
 # target hit in left leg
 #
-{36070}{}{My leg!}
-{36071}{}{Unh! Aiming a little low aren't you?}
-{36072}{}{You weren't trying to hit my leg were you!?!}
+{36070}{}{我的腿！}
+{36071}{}{你本来打算打更下面的，对不对？}
+{36072}{}{你不是想打我脚吧！？！}
 #
 # target hit in eyes
 #
-{36080}{}{Damn blood in my eyes!}
-{36081}{}{My eye! You'll pay for that one!}
-{36082}{}{Bastard!}
+{36080}{}{该死，血流进我的眼睛了！}
+{36081}{}{我的眼睛！你将为这付出代价的！}
+{36082}{}{混蛋！}
 #
 # target hit in groin
 #
-{36090}{}{Oooooo, time out, I have to pick something up.}
-{36091}{}{Ooo! Kaga gotta learn that move...}
-{36092}{}{Urg! Petey! You OK down there?}
-{36093}{}{That...*wheeeeze*...hurt!}
-{36094}{}{Urp!}
-{36095}{}{::gasp::}
+{36090}{}{喔，时间到，我要拿点东西。}
+{36091}{}{喔！卡贾必须试着移动...}
+{36092}{}{哇！}
+{36093}{}{这...好痛！}
+{36094}{}{啊！}
+{36095}{}{喘气!}
 #
 ############################################
-# 36100 Kaga (Combat Messages) Area 1
+# 36100 Kaga [Combat Messages] Area 1
 # Check for pre attack floats See Kaga.doc
 ############################################
 #
 #  running away
 #
-{36100}{}{We will meet again!}
-{36101}{}{I'll be back...}
-{36102}{}{I have never been beaten before!}
-{36103}{}{I will dedicate myself to hunting you down!}
-{36104}{}{You ain't heard the last of me!}
-{36105}{}{You'll pay for this -- later!}
+{36100}{}{我们会再见面的！}
+{36101}{}{我会回来的...}
+{36102}{}{我之前从没败过！}
+{36103}{}{我会杀了你！然后用你的头来做巫毒娃娃！}
+{36104}{}{你追不到我的！}
+{36105}{}{你会付出代价的，晚一点！}
 #
 # moving in to attack
 #
-{36120}{}{I should have been the Chosen One!}
-{36121}{}{Arroyo will regret casting me out!}
-{36122}{}{I will have my revenge on YOU!}
-{36123}{}{Kaga will send you to the next life!}
-{36124}{}{Another Chosen One to kill!}
+{36120}{}{我才是真正的受选者。}
+{36121}{}{阿罗由应该后悔获选的不是我！}
+{36122}{}{我是回来对你报复的！}
+{36123}{}{卡贾将让你去过下一辈子！}
+{36124}{}{除了我，所有的获选者都该死！！}
 #
 # attacking
 #
-{36140}{}{Your momma's not here to help you!}
-{36141}{}{I'm gonna enjoy this!}
-{36142}{}{Oooo, that gotta hurt!}
-{36143}{}{I'm gonna take your head back to the Elder!}
-{36144}{}{I'm gonna eat your liver!}
-{36145}{}{Hope you don't die as quickly as the others!}
-{36146}{}{Another Chosen One to kill!}
-{36147}{}{Die!}
-{36148}{}{Scream for me.}
+{36140}{}{你的妈妈不会到这帮你的！}
+{36141}{}{我要好好的享受这个。}
+{36142}{}{呜，好痛！}
+{36143}{}{我会拧下你的头去见长老的！}
+{36144}{}{我要吃你的肝脏！}
+{36145}{}{希望你不会像其他人死得那么快！}
+{36146}{}{除了我，所有的获选者都该死！！}
+{36147}{}{死！}
+{36148}{}{尖叫吧！}
 #
 # target being missed
 #
-{36160}{}{You cannot hurt me!}
-{36161}{}{The spirits are protecting me.}
-{36162}{}{Hope that ain't your best shot.}
-{36163}{}{Bwahaha. Kaga didn't even have to duck!}
-{36164}{}{You can't kill what you can't hit!}
-{36165}{}{Too slow!}
+{36160}{}{你伤害不了我的！}
+{36161}{}{灵魂将保护我。}
+{36162}{}{希望这不是你最好的枪法。}
+{36163}{}{哈哈！卡贾不是鸭子。}
+{36164}{}{你都打不中我，还怎么能杀得了我！}
+{36165}{}{太慢了！}
 #
 ############################################
-# 36200 Kaga (Combat Messages) Area 2
+# 36200 Kaga [Combat Messages] Area 2
 # Check for pre attack floats See Kaga.doc
 ############################################
 #
 #  running away
 #
-{36200}{}{We will meet again!}
-{36201}{}{I'll be back...}
-{36202}{}{You cannot kill the Great Kaga!}
-{36203}{}{You are in luck! Kaga has business elsewhere.}
-{36204}{}{You and Kaga will meet again.}
-{36205}{}{You'll pay for this -- later!}
+{36200}{}{我们会再见面的！}
+{36201}{}{我会回来的...}
+{36202}{}{你杀不了伟大的卡贾！}
+{36203}{}{你很幸运，卡贾的帮派在别处。}
+{36204}{}{你和卡贾会再见面的。}
+{36205}{}{你会付出代价的，晚一点！}
 #
 # moving in to attack
 #
-{36220}{}{After I kill you, I will burn Arroyo to the ground!}
-{36221}{}{I am to be feared by all!}
-{36222}{}{Kaga will have your head for a trophy!}
-{36223}{}{Surrender and I'll make your death quick.}
+{36220}{}{在杀你之后我会先烧掉阿罗由的！}
+{36221}{}{我谁都不怕！}
+{36222}{}{卡贾会砍下你的头当战利品。}
+{36223}{}{投降我就让你死的痛快些！}
 #
 # attacking
 #
-{36240}{}{Feel the wrath of Kaga!}
-{36241}{}{Don't bother screaming for mercy...}
-{36242}{}{I'm gonna enjoy this!}
-{36243}{}{Oooo, Kaga felt that one from here.}
-{36244}{}{I'm gonna take your head back to the Elder!}
-{36245}{}{I'm gonna carve your heart out with a spoon!}
-{36246}{}{Hope you don't die as quickly as the others!}
-{36247}{}{Another Chosen One to kill!}
-{36248}{}{Die!}
-{36249}{}{Scream for me.}
+{36240}{}{你让卡贾很不爽！}
+{36241}{}{别期待我会原谅你的打扰...}
+{36242}{}{我要好好的享受这个。}
+{36243}{}{喔，卡贾发现有人在这里！}
+{36244}{}{我会拧下你的头去见长老的！}
+{36245}{}{我会把你的心脏挖出来的！}
+{36246}{}{希望你不会像其他人死得那么快！}
+{36247}{}{其他的获选者都已经死了！}
+{36248}{}{死！}
+{36249}{}{尖叫吧！}
 #
 # target being missed
 #
-{36260}{}{You cannot hurt me!}
-{36261}{}{The spirits are protecting me.}
-{36262}{}{Hope that ain't your best shot.}
-{36263}{}{Bwahaha. Kaga didn't even have to duck!}
-{36264}{}{You can't kill what you can't hit!}
-{36265}{}{Too slow!}
+{36260}{}{你伤害不了我的！}
+{36261}{}{灵魂将保护我。}
+{36262}{}{希望那不是你全力的一击。}
+{36263}{}{哈哈！卡贾不是鸭子。}
+{36264}{}{你都打不中我，还怎么能杀得了我！}
+{36265}{}{太慢了！}
 #
 ############################################
-# 36300 Kaga (Combat Messages) Area 3
+# 36300 Kaga [Combat Messages] Area 3
 # Check for pre attack floats See Kaga.doc
 ############################################
 #
 #  running away
 #
-{36300}{}{This is getting to be a bad habit.}
-{36301}{}{Kaga needs more training.}
-{36302}{}{I'll be back. Yada yada yada I'm gonna kill you.}
-{36303}{}{You are in luck! Kaga has business elsewhere.}
-{36304}{}{You and Kaga will meet again.}
-{36305}{}{You'll pay for this -- later!}
+{36300}{}{这是不好的习惯。}
+{36301}{}{卡贾需要更多的训练}
+{36302}{}{我会回来杀你的！}
+{36303}{}{你很幸运，卡贾的帮派在别处。}
+{36304}{}{你和卡贾会再见面的。}
+{36305}{}{你会付出代价的，晚一点！}
 #
 # moving in to attack
 #
-{36320}{}{Kaga and the Chosen One meet again.}
-{36321}{}{Let's end this.}
-{36322}{}{You will regret ever hearing the name Kaga!}
-{36323}{}{My skills have increased since we last met.}
+{36320}{}{卡贾与获选者再次碰面了。}
+{36321}{}{让我们结束这个吧！}
+{36322}{}{你会后悔听到卡贾这名字！}
+{36323}{}{我的能力比上次战斗要增加了不少。}
 #
 # attacking
 #
-{36340}{}{Feel the wrath of Kaga!}
-{36341}{}{I'm gonna enjoy this!}
-{36342}{}{Oooo, Kaga felt that one from here.}
-{36343}{}{I'm gonna take your head back to the Elder!}
-{36344}{}{I'm gonna carve your heart out with a spoon!}
-{36345}{}{Hope you don't die as quickly as the others!}
-{36346}{}{Another Chosen One to kill!}
-{36347}{}{Die!}
-{36348}{}{Scream for me.}
+{36340}{}{你让卡贾很不爽！}
+{36341}{}{我要好好的享受这个。}
+{36342}{}{喔，卡贾发现有人在这里！}
+{36343}{}{我会拧下你的头去见长老的！}
+{36344}{}{我会把你的心脏挖出来的！}
+{36345}{}{希望你不会像其他人死得那么快！}
+{36346}{}{除了我，所有的获选者都该死！！}
+{36347}{}{死！}
+{36348}{}{尖叫吧！}
 #
 # target being missed
 #
-{36360}{}{You cannot hurt me!}
-{36361}{}{The spirits are protecting me.}
-{36362}{}{Hope that ain't your best shot.}
-{36363}{}{Bwahaha. Kaga didn't even have to duck!}
-{36364}{}{You can't kill what you can't hit!}
-{36365}{}{Too slow!}
+{36360}{}{你伤害不了我的！}
+{36361}{}{灵魂将保护我。}
+{36362}{}{希望这不是你最好的枪法。}
+{36363}{}{哈哈！卡贾不是鸭子。}
+{36364}{}{你都打不中我，还怎么能杀得了我！}
+{36365}{}{太慢了！}
 #
 ############################################
-# 36400 Kaga (Combat Messages) Area 4
+# 36400 Kaga [Combat Messages] Area 4
 # Check for pre attack floats See Kaga.doc
 ############################################
 #
 #  running away
 #
-{36400}{}{This is getting to be a bad habit.}
-{36401}{}{Kaga needs more training.}
-{36402}{}{This is not the last you will see of Kaga.}
-{36403}{}{You are in luck! Kaga has business elsewhere.}
-{36404}{}{You and Kaga will meet again!}
-{36405}{}{You'll pay for this -- later!}
+{36400}{}{这是不好的习惯。}
+{36401}{}{卡贾需要更多的训练}
+{36402}{}{这不会是你最后一次见到卡贾！}
+{36403}{}{你很幸运，卡贾的帮派在别处。}
+{36404}{}{你和卡贾会再见面的。}
+{36405}{}{你会付出代价的，晚一点！}
 #
 # moving in to attack
 #
-{36420}{}{The Chosen One will never return to Arroyo!}
-{36421}{}{Kaga will crush you!}
-{36422}{}{Kaga fears no one!}
-{36423}{}{Let Kaga teach you new skills he has learned.}
+{36420}{}{获选者将永远不会回阿罗由！}
+{36421}{}{卡贾将粉碎你！}
+{36422}{}{卡贾不怕任何人！}
+{36423}{}{让卡贾教教你他新学的技能！}
 #
 # attacking
 #
-{36440}{}{Feel the wrath of Kaga!}
-{36441}{}{Hold still so Kaga can get a good shot.}
-{36442}{}{I'm gonna enjoy this!}
-{36443}{}{Oooo, Kaga felt that one from here.}
-{36444}{}{I'm gonna take your head back to the Elder!}
-{36445}{}{I'm gonna carve your heart out with a spoon!}
-{36446}{}{Hope you don't die as quickly as the others!}
-{36447}{}{Another Chosen One to kill!}
-{36448}{}{Die!}
-{36449}{}{Scream for me.}
+{36440}{}{你让卡贾很不爽！}
+{36441}{}{不要动，这样卡贾才能射的准！}
+{36442}{}{我要好好的享受这个。}
+{36443}{}{喔，卡贾发现有人在这里！}
+{36444}{}{我会拧下你的头去见长老的！}
+{36445}{}{我会把你的心脏挖出来的！}
+{36446}{}{希望你不会像其他人死得那么快！}
+{36447}{}{除了我，所有的获选者都该死！！}
+{36448}{}{死！}
+{36449}{}{尖叫吧！}
 #
 # target being missed
 #
-{36460}{}{You cannot hurt me!}
-{36461}{}{The spirits are protecting me.}
-{36462}{}{Hope that ain't your best shot.}
-{36463}{}{Bwahaha. Kaga didn't even have to duck!}
-{36464}{}{You can't kill what you can't hit!}
-{36465}{}{Too slow!}
+{36460}{}{你伤害不了我的！}
+{36461}{}{灵魂将保护我。}
+{36462}{}{希望这不是你最好的枪法。}
+{36463}{}{哈哈！卡贾不是鸭子。}
+{36464}{}{你都打不中我，还怎么能杀得了我！}
+{36465}{}{太慢了！}
 #
 ############################################
-# 36500 Kaga (Combat Messages) Area 5
+# 36500 Kaga [Combat Messages] Area 5
 # Check for pre attack floats See Kaga.doc
 ############################################
 #
@@ -2609,146 +2615,146 @@
 #
 # moving in to attack
 #
-{36520}{}{Kaga is ready for you now.}
-{36521}{}{You are no match for Kaga.}
-{36522}{}{Kaga will send you to the next life!}
-{36523}{}{Kaga gonna miss you.}
+{36520}{}{卡贾准备好要对付你了！}
+{36521}{}{你不是卡贾的对手！}
+{36522}{}{放轻松点，卡贾会让你上天堂的！}
+{36523}{}{卡贾不会再放过你了！}
 #
 # attacking
 #
-{36540}{}{Feel the wrath of Kaga!}
-{36541}{}{Kaga will be famous for killing you!}
-{36542}{}{I'm gonna enjoy this!}
-{36543}{}{Oooo, Kaga felt that one from here.}
-{36544}{}{I'm gonna take your head back to the Elder!}
-{36545}{}{It ends here Chosen One!}
-{36546}{}{Kaga has to kill you now.}
-{36547}{}{Die!}
-{36548}{}{Scream for me.}
+{36540}{}{你让卡贾很不爽！}
+{36541}{}{杀了你，卡贾就出名了}
+{36542}{}{我要好好的享受这个。}
+{36543}{}{喔，卡贾发现有人在这里！}
+{36544}{}{我会拧下你的头去见长老的！}
+{36545}{}{在这了结吧！获选者。}
+{36546}{}{卡贾现在要杀了你}
+{36547}{}{死！}
+{36548}{}{尖叫吧！}
 #
 # target being missed
 #
-{36560}{}{You cannot hurt me!}
-{36561}{}{The spirits are protecting me.}
-{36562}{}{Hope that ain't your best shot.}
-{36563}{}{Bwahaha. Kaga didn't even have to duck!}
-{36564}{}{You can't kill what you can't hit!}
-{36565}{}{Too slow!}
+{36560}{}{你伤害不了我的！}
+{36561}{}{灵魂将保护我。}
+{36562}{}{希望这不是你最好的枪法。}
+{36563}{}{哈哈！卡贾不是鸭子。}
+{36564}{}{你都打不中我，还怎么能杀得了我！}
+{36565}{}{太慢了！}
 #
 #
 ############################################
-# 36600 Super Mutant (Master Army) - Hit Locations
+# 36600 Super Mutant [Master Army] - Hit Locations
 ############################################
 #
 # target hit in head
 #
-{36600}{}{Ahhhgh! My face!}
-{36601}{}{My face! You shall suffer!}
-{36602}{}{Ahhhgh! I rend you into bits!}
+{36600}{}{啊！我的脸！}
+{36601}{}{我的脸！你将遭受一样的待遇！}
+{36602}{}{啊！你将它打裂了！}
 #
 # target hit in left arm
 #
-{36610}{}{Ahhhgh!}
-{36611}{}{Ow! You almost hurt Chosen!}
-{36612}{}{Ahhhgh! I snap your neck for that!}
+{36610}{}{啊！}
+{36611}{}{哇！这是你的选择！}
+{36612}{}{干得好，我会对你的脖子做同样的事！}
 #
 # target hit in right arm
 #
-{36620}{}{Ahhhgh!}
-{36621}{}{Ow! You almost hurt Chosen!}
-{36622}{}{Ahhhgh! I snap your neck for that!}
+{36620}{}{啊！}
+{36621}{}{哇！这是你的选择！}
+{36622}{}{干得好，我会对你的脖子做同样的事！}
 #
 # target hit in torso
 #
-{36630}{}{Oof!}
-{36631}{}{Grrr!}
-{36632}{}{I kill you for that!}
-{36633}{}{You no hurt me when you dead!}
-{36634}{}{I laugh at your feeble attack!}
-{36635}{}{Oh!}
-{36636}{}{I'm gonna dip you!}
-{36637}{}{Grrr! You anger me!}
-{36638}{}{Agh!}
-{36639}{}{I will return this pain to you!}
-{36640}{}{Oof!}
-{36641}{}{Ouch!}
-{36642}{}{Hmm, you might be trouble.}
-{36643}{}{Grrr! I look forward to your death.}
-{36644}{}{You can hurt me but you cannot win!}
-{36645}{}{Ow! That wasn't a good idea to hurt me.}
+{36630}{}{呜！}
+{36631}{}{啊！}
+{36632}{}{我要杀了你！}
+{36633}{}{当你死时就伤害不了我了！}
+{36634}{}{你的攻击太弱了，笑死我了。}
+{36635}{}{喔！}
+{36636}{}{我会把你种到土里的！}
+{36637}{}{啊！你激怒我了！}
+{36638}{}{呃！}
+{36639}{}{我会把这疼痛奉还给你的！}
+{36640}{}{呜！}
+{36641}{}{啊！}
+{36642}{}{嗯...你是个麻烦}
+{36643}{}{啊！去死吧}
+{36644}{}{你能打伤我，但是你绝赢不了我！}
+{36645}{}{喔！打伤我这里可不是个好主意。}
 #
 # target hit in right leg
 #
-{36660}{}{Ahhhgh! My leg!}
-{36661}{}{You call that pain? I laugh!}
-{36662}{}{Ahhhgh! I snap your neck for that!}
+{36660}{}{啊！我的腿！}
+{36661}{}{你把这叫痛？笑死人了！}
+{36662}{}{干得好，我会对你的脖子做同样的事！}
 #
 # target hit in left leg
 #
-{36670}{}{Ahhhgh! My leg!}
-{36671}{}{You call that pain? I laugh!}
-{36672}{}{Ahhhgh! I shall snap your neck for that!}
+{36670}{}{啊！我的腿！}
+{36671}{}{你把这叫痛？笑死人了！}
+{36672}{}{啊！我会拧断你脖子的！}
 #
 # target hit in eyes
 #
-{36680}{}{Ahhhgh! Miserable human! I am blind!}
-{36681}{}{Ahhhgh! Pain! What have you done!}
-{36682}{}{Ahhhgh! I will torture you many days!}
+{36680}{}{啊！悲惨了！我瞎了！}
+{36681}{}{啊！好痛！你为何这样作！}
+{36682}{}{啊！我会每天烤打你的！对，边烤边打！}
 #
 # target hit in groin
 #
-{36690}{}{That is human weakness!}
-{36691}{}{You call that pain? I laugh!}
-{36692}{}{You are stupid, human!}
-{36693}{}{Why you attack me there?}
-{36694}{}{I will hurt you for many hours!}
-{36695}{}{Why you attack me there?}
+{36690}{}{这是人的弱点呀！}
+{36691}{}{你把这叫痛？笑死人了！}
+{36692}{}{你这愚蠢的人类！}
+{36693}{}{你为何打我这里？}
+{36694}{}{我会每小时扁你一次。}
+{36695}{}{你为何打我这里？}
 #
 ############################################
-# 36600 Super Mutant (Master Army) - Combat Messages
+# 36600 Super Mutant [Master Army] - Combat Messages
 ############################################
 #
 #  running away
 #
-{36700}{}{Run!}
-{36701}{}{You will not kill me!}
-{36702}{}{I will be back!}
-{36703}{}{My friends get you for me!}
-{36704}{}{You pay for this -- later!}
-{36705}{}{We are Chosen! You die later!}
+{36700}{}{快跑！}
+{36701}{}{你杀不了我的！}
+{36702}{}{我会回来的！}
+{36703}{}{我的朋友会把你抓来给我！}
+{36704}{}{晚点——你将为这付出代价的！}
+{36705}{}{我们决定让你晚点死！}
 #
 # moving in to attack
 #
-{36720}{}{Your death comes!}
-{36721}{}{Those who bother Chosen, bother no one again!}
-{36722}{}{Human weapons cannot harm me!}
-{36723}{}{You will suffer, suffer great!}
-{36724}{}{When I fight, I kill!}
-{36725}{}{Who is stupid enough to anger us?}
-{36726}{}{I see enemies to destroy!}
-{36727}{}{You will suffer, suffer great!}
+{36720}{}{你该死了！}
+{36721}{}{你打扰了我，别想再下打扰一次了！}
+{36722}{}{人类的武器打不伤我的！}
+{36723}{}{我会让你好好尝尝痛苦的！}
+{36724}{}{当我开战，就一定有人被杀！}
+{36725}{}{那个呆子敢激怒我们？}
+{36726}{}{我要将敌人消灭！}
+{36727}{}{我会让你好好尝尝痛苦的！}
 #
 # attacking
 #
-{36740}{}{Now you die!}
-{36741}{}{Nobody save you now!}
-{36742}{}{Let me see your pain!}
-{36743}{}{Now you die burning death!}
-{36744}{}{Die Human Fool!}
-{36745}{}{Now you die a screaming death!}
-{36746}{}{Suffer!}
-{36747}{}{Now I crush you!}
-{36748}{}{You cannot fight the Chosen!}
-{36749}{}{Suffer, human!}
+{36740}{}{去死吧！}
+{36741}{}{现在没人能救你了！}
+{36742}{}{让我看看你痛苦的样子！}
+{36743}{}{去死吧！烧到死吧！}
+{36744}{}{死吧！愚蠢的人类！}
+{36745}{}{去死吧！用力的在死前尖叫吧}
+{36746}{}{撑着！}
+{36747}{}{现在我要捣碎你！}
+{36748}{}{我会把你打出屎来的！}
+{36749}{}{好好享用吧，人类！}
 #
 # target being missed
 #
-{36760}{}{Why do you struggle?}
-{36761}{}{Is that best humans can do!}
-{36762}{}{You have no power!}
-{36763}{}{You make me laugh hard!}
-{36764}{}{Was that an attack?}
-{36765}{}{We are the Chosen!}
+{36760}{}{你为什么不努力点？}
+{36761}{}{这是人类能做到最好的表现吗？}
+{36762}{}{你毫无力量！}
+{36763}{}{你让我快笑死了！}
+{36764}{}{这就是攻击？用点力好吗。}
+{36765}{}{我们才是获选者。}
 #
 ####################################################################################
 #
@@ -2761,7 +2767,7 @@
 #                     00-09 Hit in Head
 #                     10-19 Hit in Left Arm
 #                     20-29 Hit in Right Arm
-#                     30-59 Hit in Torso (Generic Non-Called Shot Hit)
+#                     30-59 Hit in Torso [Generic Non-Called Shot Hit]
 #                     60-69 Hit in Right Leg
 #                     70-79 Hit in Left Leg
 #                     80-89 Hit in Eyes
@@ -2781,8 +2787,8 @@
 #                     42800 Miria
 #                     43200 Laddie
 #                     43600 Cyberdog
-#                     44000 Robo-Brain (Idiot/Chimp) *
-#                     44400 Robo-Brain (Human/Cybernetic) *
+#                     44000 Robo-Brain [Idiot/Chimp] *
+#                     44400 Robo-Brain [Human/Cybernetic] *
 #                     44800 Goris **
 #
 ####################################################################################
@@ -2793,162 +2799,162 @@
 #
 # target hit in head
 #
-{44800}{}{I'm thick skulled but that still hurt.} 
-{44801}{}{I've got one hell of a headache.} 
-{44802}{}{Umph. Not the head!}
-{44803}{}{I can do head shots too you know!}
-{44804}{}{Arrrgh! Dizzy...}
+{44800}{}{虽然我头盖骨很厚，但还是很痛呀！} 
+{44801}{}{我的头痛得像快下地狱了。} 
+{44802}{}{啊！别打头！}
+{44803}{}{我打不到你头的，知道吗？}
+{44804}{}{啊！头好晕...}
 #
 # target hit in left arm
 #
-{44810}{}{I'll kill you with my other arm.} 
-{44811}{}{I don't need both arms to ruin your day!} 
-{44812}{}{I don't use that arm anyway.} 
-{44813}{}{Ouch! I can use a sling over here.} 
-{44814}{}{One arm down, one to go!} 
+{44810}{}{我会用另一条手臂作掉你的！} 
+{44811}{}{我不需要两只手就可以毁掉你！} 
+{44812}{}{反正这条手臂我用不到。} 
+{44813}{}{啊！我不能再将东西掉在这了。} 
+{44814}{}{我一条手臂掉地上了，我要一个人偿命！} 
  #
 # target hit in right arm
 #
-{44820}{}{Hey, that's my fighting arm!} 
-{44821}{}{Damn that arm hurts!}
-{44822}{}{I can take the likes of you with only one arm.} 
-{44823}{}{Right arm... arrgh!} 
-{44824}{}{You hit my arm. I tear off your arm!}
+{44820}{}{嘿，这是我战斗的手臂呀！} 
+{44821}{}{吗的，手臂受伤了！}
+{44822}{}{我会让你也变独臂人的！} 
+{44823}{}{右臂...啊！} 
+{44824}{}{你打我的手，我会把你的手臂撕下来！}
 #
 # target hit in torso
 #
-{44830}{}{Umph... can't... breathe.}
-{44831}{}{I'm minus a couple of ribs after that one.}
-{44832}{}{Ouch! I hate gut shots.}
-{44833}{}{Arrgghh! Chest pains!} 
-{44834}{}{Solar plexus... eegad that hurts!}
-{44835}{}{Is this a fight or are you just trying to get my attention?}
-{44836}{}{Let me know if that was supposed to hurt. I'll cry for you.}
-{44837}{}{Did your mama teach you how to fight?}
-{44838}{}{Oh the pain ::yawn::. Please don't hurt me anymore.}
-{44839}{}{You call that a hit. Let me show you how it's done!}
-{44840}{}{I'm going to kick your ass for that one.}
-{44841}{}{Whoa! That stings a bit.}
-{44842}{}{I left the vault for this!?}
-{44843}{}{I'm going to need a vacation.}
-{44844}{}{Yeeeouch! That hurts!}
-{44845}{}{That didn't hurt at all.}
-{44846}{}{Where's a stimpak when you need one?}
-{44847}{}{As soon as I can move again, you've had it!}
-{44848}{}{I am impervious to pain!}
-{44849}{}{I'm going to do the monster mash on your face!}
+{44830}{}{喔...不能...呼吸...}
+{44831}{}{我对打伤几根肋骨了！}
+{44832}{}{啊！我很你的攻击。}
+{44833}{}{啊！胸口好痛！} 
+{44834}{}{我的肚子被开了个大洞...好痛！}
+{44835}{}{这是战斗或只是你想引起我的注意？}
+{44836}{}{如果那很痛的话请告诉我，我会哭给你看！}
+{44837}{}{你妈妈没教你如何战斗吗？}
+{44838}{}{好痛喔[打哈欠]。别再打了。}
+{44839}{}{你把这叫攻击？让我秀给你看真正的攻击是什么！}
+{44840}{}{我会狠狠的踹你屁股的。}
+{44841}{}{哇！像被虫咬一样。}
+{44842}{}{这就是我离开后的避难所？}
+{44843}{}{我需要假期。}
+{44844}{}{咿啊！好痛！}
+{44845}{}{没受什么伤}
+{44846}{}{你需要治疗针吗？}
+{44847}{}{等我呆会儿能动时，你就惨了。}
+{44848}{}{这点痛我不在乎！}
+{44849}{}{我会像怪物一样的捣碎你的脸！}
 #
 # target hit in right leg
 #
-{44860}{}{Great. I'll be the only Deathclaw at home with a limp.}
-{44861}{}{Ouch! My leg...} 
-{44862}{}{You'll pay with your leg for what you did to mine.}
-{44863}{}{I'll miss that leg...} 
-{44864}{}{I don't need two legs to kill you.}
+{44860}{}{很好，我现在是死亡爪之家中唯一的跛子。}
+{44861}{}{啊！我的腿...} 
+{44862}{}{你将为这件事赔上一条腿。}
+{44863}{}{我的腿不见了...} 
+{44864}{}{杀你我还用不到两条腿。}
 #
 # target hit in left leg
 #
-{44870}{}{Great. A bum leg.}
-{44871}{}{Damn it! The leg...} 
-{44872}{}{Not the leg... can't walk right as it is.} 
-{44873}{}{You cripple my leg, I cripple your leg.} 
-{44874}{}{Arrggh! That knee hurts!}
+{44870}{}{很好，一条腿没用了。}
+{44871}{}{该死的东西！我的腿...} 
+{44872}{}{别打腿...没它我不能走路。} 
+{44873}{}{你打断我的腿，我也会这样对你的。} 
+{44874}{}{啊！膝盖受伤了！}
 #
 # target hit in eyes
 #
-{44880}{}{Can't see!}
-{44881}{}{Not the eyes!}
-{44882}{}{Blood... in eyes... can't see.}
-{44883}{}{I can't see you, but I can smell you.}
-{44884}{}{I'm going to need glasses after that one!} 
+{44880}{}{看不到了！}
+{44881}{}{别打眼睛！}
+{44882}{}{血...流到眼睛...我看不见。}
+{44883}{}{我看不到你，但闻的到你。}
+{44884}{}{我以后需要副眼镜了！} 
 #
 # target hit in groin
 #
-{44890}{}{The groin is such a cheap shot!} 
-{44891}{}{No... hitting... below... the belt!}
-{44892}{}{That's fighting dirty. How about if I hit you in the crotch?} 
-{44893}{}{I HATE groin shots! Unngh...} 
-{44894}{}{Crotch shot... good thing I'm not human!}
+{44890}{}{打下体是对低级的！} 
+{44891}{}{不...别打...腰带以下！}
+{44892}{}{真是肮脏的打法，我也要回敬你这个。} 
+{44893}{}{我最恨人打下体...啊...} 
+{44894}{}{打下体...幸好我不是人类！}
 #
 #  running away
 #
-{44900}{}{Time to bail!}
-{44901}{}{I'm leaving!}
-{44902}{}{Retreat!}
-{44903}{}{Fall back!}
-{44904}{}{I'm out of here!}
-{44905}{}{Feet don't fail me now!}
-{44906}{}{Out of the way, I'm moving out!}
-{44907}{}{I'm not retreating, this is a strategic withdrawal.}
-{44908}{}{I've had enough of this shit!}
-{44909}{}{I've got to get out of here!}
+{44900}{}{时间到了！}
+{44901}{}{我离开了！}
+{44902}{}{撤退！}
+{44903}{}{向后进攻！}
+{44904}{}{我要离开这里！}
+{44905}{}{你现在追不上我的！}
+{44906}{}{我正走在离开的路上！}
+{44907}{}{我不是在撤退，这是一种战术。}
+{44908}{}{我已经花太多时间在这垃圾身上了。}
+{44909}{}{我该离开这里了。}
 #
 # moving in to attack
 #
-{44920}{}{Come here so I can hit you!}
-{44921}{}{You're all mine!}
-{44922}{}{It's you or me... and I vote you!}
-{44923}{}{It's your funeral!}
-{44924}{}{Come and get it!}
-{44925}{}{Prepare to meet your doom!}
-{44926}{}{Best kiss your ass goodbye while you still can.}
-{44927}{}{I'm going to paint you red!}
-{44928}{}{It's party time!}
-{44929}{}{I'm heading in!}
-{44930}{}{I'll see you on the front line!}
-{44931}{}{Time to reach out and touch someone!}
-{44932}{}{Advance and annihilate!}
-{44933}{}{I'm going to fall on you like ugly on a human!}
-{44934}{}{Time to get physical!}
-{44935}{}{Getting up close and personal.}
-{44936}{}{Bad ass moving in!}
-{44937}{}{Incoming!}
-{44938}{}{Locked on target and homing!}
-{44939}{}{There's a storm coming!}
+{44920}{}{到这来让我打你吧！}
+{44921}{}{你门都是我的！}
+{44922}{}{到底是我死还是你死...我选择你！}
+{44923}{}{这是你的葬礼！}
+{44924}{}{来吧！}
+{44925}{}{准备迎接命运吧！}
+{44926}{}{你最好开始跟你的屁股吻别吧！}
+{44927}{}{我会让你全身冒血的！}
+{44928}{}{团战时间！}
+{44929}{}{我听到了！}
+{44930}{}{我会和你在最前线碰头的。}
+{44931}{}{时间将改变一切}
+{44932}{}{进步与毁灭！}
+{44933}{}{我会像打其他丑恶的人类一样的打你！}
+{44934}{}{时间将改变自然界！}
+{44935}{}{用你的身体来承受它吧！}
+{44936}{}{去死吧！}
+{44937}{}{攻击！}
+{44938}{}{锁定目标，攻击！}
+{44939}{}{这里将有风暴来临！}
 #
 # attacking
 #
-{44940}{}{I'm going to hurt you... bad!}
-{44941}{}{This is going to hurt you a lot more than it does me!}
-{44942}{}{Do unto others before they do unto you!}
-{44943}{}{If there's a part of you that doesn't hurt, it's next!}
-{44944}{}{Contact sports. I love it!}
-{44945}{}{Tell me your name so I can contact your next of kin.}
-{44946}{}{I'm the one who put the 'death' in deathclaw!}
-{44947}{}{It's better to give than to receive!}
-{44948}{}{I hope you're enjoying this as much as I am!}
-{44949}{}{Did that hurt? If not I can do it harder next time.}
-{44950}{}{We have a bleeder over here!}
-{44951}{}{It'll take more than a stimpak to fix you when I'm done.}
-{44952}{}{I hope you have medical insurance. You're going to need it.}
-{44953}{}{Here a rip, there a rip, everywhere a rip rip...}
-{44954}{}{I don't care who started it, I intend to finish it!}
-{44955}{}{I love the sound of tearing flesh, don't you?}
-{44956}{}{Just warming up, the best is yet to come.}
-{44957}{}{Just sharpening my claws.}
-{44958}{}{Ooops! Hope you didn't need that!}
-{44959}{}{If you fall over and stay there I'll go away!}
+{44940}{}{我来扁你了...坏蛋！}
+{44941}{}{在你对我做出更多攻击前，我会先反击的！}
+{44942}{}{在打扁你之后，我要打扁更多的坏人。}
+{44943}{}{如果这样你会痛，那这就对了！}
+{44944}{}{交际游戏，我喜欢！}
+{44945}{}{告诉我你的名字，这样我就可以去找出你的亲戚。}
+{44946}{}{我就是把“死亡”放到死亡爪这个名字里的人！}
+{44947}{}{这最好能让他们收到！}
+{44948}{}{我希望你会喜欢这个。}
+{44949}{}{受伤？我很乐意帮你的。}
+{44950}{}{我们之间会有人血流不止！}
+{44951}{}{我多带了些治疗针，这样就能好好的扁你了！}
+{44952}{}{希望你有买医疗保险，你会需要它的。}
+{44953}{}{这里有伤口，那里有伤口，到处都有伤口...}
+{44954}{}{我不管是谁开始的，我现在要结束它。}
+{44955}{}{我喜欢撕开肉的声音，你呢？}
+{44956}{}{只是热身而已，最好的要来了！}
+{44957}{}{来磨我的爪子吧！}
+{44958}{}{喔，希望你不需要这个。}
+{44959}{}{如果你不打了，我就要离开这里了。}
 #
 # target being missed
 #
-{44960}{}{Will you stop moving around so I can hit you?}
-{44961}{}{Glasses. Must look into getting some glasses.}
-{44962}{}{Don't laugh. When I do hit you, it's going to hurt!}
-{44963}{}{Arrg! Grng! Ghrr! Thpt! (Deathclaw four-letter words)}
-{44964}{}{I guess I shouldn't make a career out of fighting.}
-{44965}{}{How could I possibly miss anything as big as you are!}
-{44966}{}{As soon as I get ranged in you're in trouble.}
-{44967}{}{You're a nimble little shit aren't you.}
-{44968}{}{I'm glad my mother didn't see me do that.}
-{44969}{}{Why am I swinging over there when you're over here?}
-{44970}{}{How embarrassing. Please don't tell anyone I did that.}
-{44971}{}{That really pisses me off!}
-{44972}{}{OK. I missed! It could happen to anyone!}
-{44973}{}{I'll get you next time.}
-{44974}{}{Way to go, Grace!}
-{44975}{}{That was a shining example of missing the target!}
-{44976}{}{I'm beginning to think I'm not cut out for this.}
-{44977}{}{Arrggh! I can't believe I missed you!}
-{44978}{}{I fanned the air on that one I did!}
-{44979}{}{Did I just miss you or what!}
+{44960}{}{你跑来跑去是希望我扁你？}
+{44961}{}{眼镜，看来你需要眼镜才行。}
+{44962}{}{别笑，当我打到你，你就知道痛了。}
+{44963}{}{啊！啊！啊！斯！[死亡爪的四个小字]}
+{44964}{}{我会让你见识我的专业的战斗技巧的。}
+{44965}{}{我怎么可能打不到你这巨大的家伙？}
+{44966}{}{等我抓到距离你就惨了。}
+{44967}{}{你是个敏捷的狗屁...}
+{44968}{}{希望我妈没看到我现在的样子。}
+{44969}{}{当我使劲打时你在这吗？}
+{44970}{}{真丢脸，别告诉任何人我出丑了。}
+{44971}{}{这真让我想要小便。}
+{44972}{}{好吧！我没打中，这是每个人都可能发生的事。}
+{44973}{}{我下次会打到你的。}
+{44974}{}{知道我慈悲了吧！}
+{44975}{}{那太亮了我才会打不到。}
+{44976}{}{我开始想，我并没切开过这东西。}
+{44977}{}{啊！不不敢相信我没打到你！}
+{44978}{}{我将风吹向每个人！}
+{44979}{}{我只是没打到你而已！}
 #

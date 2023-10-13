@@ -4,45 +4,45 @@
 #
 #   SKILL NAMES
 #
-{100}{}{Small Guns}
-{101}{}{Big Guns}
-{102}{}{Energy Weapons}
-{103}{}{Unarmed}
-{104}{}{Melee Weapons}
-{105}{}{Throwing}
-{106}{}{First aid}
-{107}{}{Doctor}
-{108}{}{Sneak}
-{109}{}{Lockpick}
-{110}{}{Steal}
-{111}{}{Traps}
-{112}{}{Science}
-{113}{}{Repair}
-{114}{}{Speech}
-{115}{}{Barter}
-{116}{}{Gambling}
-{117}{}{Outdoorsman}
+{100}{}{小型枪械}
+{101}{}{大型枪械}
+{102}{}{能量武器}
+{103}{}{徒手}
+{104}{}{近战武器}
+{105}{}{抛掷}
+{106}{}{急救}
+{107}{}{医疗}
+{108}{}{潜行}
+{109}{}{开锁}
+{110}{}{偷窃}
+{111}{}{陷阱}
+{112}{}{科学}
+{113}{}{修理}
+{114}{}{口才}
+{115}{}{交易}
+{116}{}{赌博}
+{117}{}{野外求生}
 #
 #   SKILL DESCRIPTIONS
 #
-{200}{}{The use, care and general knowledge of small firearms - pistols, SMGs and rifles.}
-{201}{}{The operation and maintenance of really big guns - miniguns, rocket launchers, flamethrowers and such.}
-{202}{}{The care and feeding of energy-based weapons.  How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts.  Combat with your hands and feet.}
-{204}{}{Using non-ranged weapons in hand-to-hand, or melee combat -knives, sledgehammers, spears, clubs and so on.}
-{205}{}{The skill of muscle-propelled ranged weapons, such as throwing knives, spears and grenades.}
-{206}{}{General healing skill. Used to heal small cuts, abrasions and other minor ills.  In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs. Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
-{208}{}{Quiet movement, and the ability to remain unnoticed. If successful, you will be much harder to locate. You cannot run and sneak at the same time.}
-{209}{}{The skill of opening locks without the proper key. The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
-{210}{}{The ability to make the things of others your own.  Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps.  Also the setting of explosives for demolition purposes.}
-{212}{}{Covers a variety of high technology skills, such as computers, biology, physics and geology.}
-{213}{}{The practical application of the Science skill for fixing broken equipment, machinery and electronics.}
-{214}{}{The ability to communicate in a practical and efficient manner. The skill of convincing others that your position is correct. The ability to lie and not get caught.}
-{215}{}{Trading and trade-related tasks. The ability to get better prices for items you sell, and lower prices for items you buy.}
-{216}{}{The knowledge and practical skills related to wagering. The skill at cards, dice and other games.}
-{217}{}{Practical knowledge of the outdoors, and the ability to live off the land. The knowledge of plants and animals.}
+{200}{}{对于小型枪械诸如手枪、冲锋枪和步枪等武器使用和护理的知识。}
+{201}{}{对于大型枪械诸如多管机枪、火箭发射器和火焰喷射器等武器使用和保养的知识。}
+{202}{}{以能源作为基础的远程武器技能，使用激光或电浆武器的知识，“BIUBIUBIU”！}
+{203}{}{结合武术，拳击和其他格斗，拳脚相接的战斗能力。}
+{204}{}{在近战中使用没有射程的武器诸如西瓜刀、匕首、大锤、折凳、棒、矛等的能力。}
+{205}{}{使用肌肉抛出的远程武器例如投掷飞刀、矛、手榴弹或者双头牛的能力。}
+{206}{}{常规治疗技能。用来处理小伤口，如擦伤等小问题。在游戏中，使用急救比起仅仅休息可以恢复更多的生命值。}
+{207}{}{对伤口和瘫痪肢体的治疗能力。没有这个技能，恢复伤残肢体需要很长的时间。}
+{208}{}{安静的移动，以及保持不被注意的能力。如果成功，你将更难被找到。注意你无法在奔跑时保持潜行。}
+{209}{}{可以不用钥匙就将锁打开的能力。使用开锁器和电子开锁器将会增强该技能。}
+{210}{}{你以将别人的东西据为己有的能力。可以对人或者物体使用[看到这里你对能偷一个锁柜的东西感到很奇怪]。}
+{211}{}{发现和拆除陷阱，以及设定炸弹的能力。}
+{212}{}{涵盖各种高科技技能，如计算机、生物学、物理学和地质学。}
+{213}{}{科学技能的实际应用，修理坏掉的设备、机械和电子器械。}
+{214}{}{以有高效的方式与人沟通，说服别人赞同你，以及说谎不被揭穿的能力。}
+{215}{}{与交易相关事务的能力。能够提高卖出的价格同时降低买入的价格。}
+{216}{}{赌博知识和技巧，诸如卡牌、骰子和其他形式。}
+{217}{}{对于户外事物和野外求生的知识，以及对于动物和植物的认知。}
 #
 #   SKILL ATTRIBUTES
 #
@@ -70,39 +70,39 @@
 #
 #   Skill Use Text
 #
-{500}{}{You heal %d hit points.}
-{501}{}{You look healthy already.}
-{502}{}{%s looks healthy already.}
-{503}{}{You fail to do any healing.}
-{505}{}{You earn %d XP for honing your skills.}
-{510}{}{\nskill_use: invalid skill used.}
-{512}{}{You can't heal the dead.}
-{513}{}{Let the dead rest in peace.}
-{514}{}{It's dead, get over it.}
-{520}{}{You heal your %s.}
-{521}{}{You heal the %s.}
-{525}{}{You fail to heal your %s.}
-{526}{}{You fail to heal the %s.}
-{530}{}{damaged eye}    # Lines 530-534 are the endings to lines 525 & 526.
-{531}{}{crippled left arm}
-{532}{}{crippled right arm}
-{533}{}{crippled right leg}
-{534}{}{crippled left leg}
-{550}{}{You fail to pick the lock.}
-{551}{}{You fail to find any traps.}
-{552}{}{You fail to learn anything.}
-{553}{}{You cannot repair that.}
-{570}{}{You're caught stealing the %s.}
-{571}{}{You steal the %s.}
-{572}{}{You're caught planting the %s.}
-{573}{}{You plant the %s.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
-{591}{}{You're too tired.}
-{592}{}{The strain might kill you.}
+{500}{}{你治愈了%d点生命值。}
+{501}{}{你看起来已经很健康了。}
+{502}{}{%s看起来已经很健康了。}
+{503}{}{你的治疗失败了。}
+{505}{}{你成功使用技能，得到了%d点经验值。}
+{510}{}{\nskill_use: 使用了非法的技巧。}
+{512}{}{你不能对死者进行治疗。}
+{513}{}{让死者安详的去吧。}
+{514}{}{他已经死了，不要再烦他了。}
+{520}{}{你治疗你的%s。}
+{521}{}{你治疗%s。}
+{525}{}{治疗你的%s失败。}
+{526}{}{你治疗%s失败。}
+{530}{}{受伤的眼}    # Lines 530-534 are the endings to lines 525 & 526.
+{531}{}{受伤的左臂}
+{532}{}{受伤的右臂}
+{533}{}{受伤的右腿}
+{534}{}{受伤的左腿}
+{550}{}{你撬锁失败了。}
+{551}{}{你没能找到任何的陷阱。}
+{552}{}{你没能学到任何的东西。}
+{553}{}{你无法修理那个。}
+{570}{}{你在偷窃[%s]时被抓到了。}
+{571}{}{你对[%s]成功偷窃。}
+{572}{}{你对[%s]偷放被抓到了。}
+{573}{}{你对[%s]成功偷放。}
+{590}{}{你已经证明了你那技能还不成熟，暂时无法使用。}
+{591}{}{你已相当累了。}
+{592}{}{疲劳很可能会要了你的命。}
 
 # Fallout 2!
-{600}{}{You aren't skilled enough to heal crippling injuries.}
-{601}{}{Robotic unit is beyond repair.}
+{600}{}{你还没有足够的技能来治疗肢体伤残。}
+{601}{}{机器人单位不能修复。}
 
 
 
@@ -111,16 +111,16 @@
 #
 
 #   I'll try
-{1000}{}{Let me help.}
-{1001}{}{I can do that.}
-{1002}{}{I got it.}
-{1003}{}{Glad to help.}
-{1004}{}{Okay.}
-{1005}{}{I'll try.}
+{1000}{}{让我来帮忙。}
+{1001}{}{我会那样做。}
+{1002}{}{我懂了。}
+{1003}{}{很高兴能帮忙。}
+{1004}{}{好的。}
+{1005}{}{我会尽全力的。}
 
 #   Player wants to do it
-{1100}{}{If you have trouble, let me know.}
-{1101}{}{You got it?}
-{1102}{}{If that's what you want.}
-{1103}{}{Go ahead and try.}
-{1104}{}{You go ahead.}
+{1100}{}{如果你有麻烦，请告诉我。}
+{1101}{}{你明白了吗？}
+{1102}{}{如果这是你想要的。}
+{1103}{}{去吧，试试。}
+{1104}{}{你去吧。}

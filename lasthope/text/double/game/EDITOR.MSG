@@ -1,171 +1,171 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø
 #
 # Text labels and messages used by EDITOR.C
 #
 # (These MUST match "text message" enumeration on the top of EDITOR.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø¿Ø
 #
 #
-{100}{}{DONE}
-{101}{}{OPTIONS}
-{102}{}{CANCEL}
-{103}{}{PRINT}
-{104}{}{AGE}
-{105}{}{SEX}
-{106}{}{NAME}
-{107}{}{MALE}
-{108}{}{FEMALE}
+{100}{}{Íê³É}
+{101}{}{Ñ¡Ïî}
+{102}{}{È¡Ïû}
+{103}{}{´òÓ¡}
+{104}{}{ÄêÁä}
+{105}{}{ĞÔ±ğ}
+{106}{}{Ãû×Ö}
+{107}{}{ÄĞĞÔ}
+{108}{}{Å®ĞÔ}
 {109}{}{PERKS}
-{110}{}{KARMA}
-{111}{}{KILLS}
-{112}{}{SKILL POINTS}
-{113}{}{Level:}
-{114}{}{Exp:}
-{115}{}{Next Level:}
-{116}{}{CHAR POINTS}
-{117}{}{SKILLS}
-{118}{}{You must use all character points} # 1
-{119}{}{before starting the game!}         # 2
+{110}{}{µÀµÂÁ¼Öª}
+{111}{}{Õ½¼¨}
+{112}{}{¼¼ÄÜµãÊı}
+{113}{}{µÈ¼¶:}
+{114}{}{¾­Ñé:}
+{115}{}{ÏÂ´ÎÉı¼¶:}
+{116}{}{½ÇÉ«µãÊı}
+{117}{}{¼¼ÄÜ}
+{118}{}{¿ªÊ¼ÓÎÏ·Ö®Ç°Äã±ØĞë·ÖÅäËùÓĞ} # 1
+{119}{}{¿ÉÓÃµÄ½ÇÉ«µãÊı£¡}         # 2
 #
-{120}{}{Character Points}
-{121}{}{Amount of free character points that can be added to one of the basic stats.}
-{122}{}{Next Level}
-{123}{}{The amount of experience points needed to move up to the next level.}
+{120}{}{½ÇÉ«µãÊı}
+{121}{}{ÕâĞ©µãÊı¿ÉÒÔ·ÖÅäµ½½ÇÉ«»ù±¾µÄ»ù´¡ÊôĞÔÖĞ¡£}
+{122}{}{µ½ÏÂ´ÎÉı¼¶}
+{123}{}{ÏÂÒ»´ÎÉı¼¶ËùĞèÒªµÄ¾­ÑéµãÊı¡£}
 {124}{}{Perks}
-{125}{}{Karma}
-{126}{}{Kills}
-{127}{}{Perks add additional abilities. Every third experience level, you can choose one perk.}
-{128}{}{These are the effects of the choices you make during the game.}
-{129}{}{A counter that keeps track of the type and numbers of creatures you have slaughtered, or have seen killed in your presence.}
-{130}{}{Skill Points}
-{131}{}{Use free skill points to increase the level of a skill.  As you get better at a given skill, however, it takes more points to raise that skill.  Mastering a skill can take a lot of time and effort.}
+{125}{}{µÀµÂ}
+{126}{}{Õ½¼¨}
+{127}{}{Perks¸øÓè½ÇÉ«¸ü¶àµÄÄÜÁ¦¡£½ÇÉ«Ã¿ÌáÉıÈı¸öµÈ¼¶£¬¿ÉÑ¡ÔñÒ»ÖÖĞÂµÄPerk¡£}
+{128}{}{½ÇÉ«ÔÚÓÎÏ·ÖĞµÄÑ¡Ôñ»áÓ°Ïìµ½¸ÃÊıÖµµÄ±ä»¯¡£}
+{129}{}{ÕâÒ»ÏîËùÏÔÊ¾µÄÊÇ½ÇÉ«ÔÚÕû¸öÓÎÏ·ÖĞËùÉ±ËÀµÄ½ÇÉ«»òÊÇÉúÎï¡£}
+{130}{}{¼¼ÄÜµãÊı}
+{131}{}{Ê¹ÓÃ¿ÉÓÃµÄ¼¼ÄÜµãÌá¸ßÄ³Ïî¼¼ÄÜË®Æ½¡£µ±ÄãÔ½ÉÃ³¤Ä³Ïî¼¼ÄÜ£¬ÌáÉıĞèÒªµÄµãÊı¾ÍÔ½¶à¡£Òò´Ë£¬¾«Í¨Ò»Ïî¼¼ÄÜĞèÒª´óÁ¿µÄÊ±¼äºÍ²»Ğ¸µÄÅ¬Á¦¡£}
 #
-{132}{}{At maximum level.}        # 1
-{133}{}{Unable to increment it.}  # 2
-{134}{}{At minimum level.}        # 1
-{135}{}{Unable to decrement it.}  # 2
-{136}{}{Not enough skill points available.}
-{137}{}{Base:}
-{138}{}{TAG SKILLS}
-{139}{}{OPTIONAL TRAITS}
-{140}{}{You already have the maximum of} # 1
-{141}{}{three tag skills!}               # 2
-{142}{}{You must select all tag skills}  # 1
-{143}{}{before starting the game!}       # 2
-{144}{}{Tag Skills}
-{145}{}{Tag skills are skills your character specializes in.  Each tag skill gains +20%, and increases twice as fast.  You must pick three tag skills.}
-{146}{}{Optional Traits}
-{147}{}{Optional traits describe your character in more detail.  All traits will have positive and negative effects.  You may choose up to two traits during creation.}
-{148}{}{You already have the maximum of} # 1
-{149}{}{two traits!}                     # 2
-{150}{}{Skills}
-{151}{}{Skills are learned knowledge.  Skills increase by experience, or during the course of the game by special events.  The higher the skill level, the better you are at that skill.}
+{132}{}{ÒÑ´ïµ½×î´óÖµ¡£}   # 1
+{133}{}{ÎŞ·¨ÔÙÔö¼Ó¡£}   # 2
+{134}{}{ÒÑ´ïµ½×îĞ¡Öµ¡£}   # 1
+{135}{}{ÎŞ·¨ÔÙ¼õÉÙ¡£}   # 2
+{136}{}{¼¼ÄÜµãÊı²»¹»¡£}
+{137}{}{»ù´¡:}
+{138}{}{ÌØ³¤¼¼ÄÜ}
+{139}{}{¿ÉÑ¡ÌØÖÊ}
+{140}{}{ÄãÒÑ¾­Ñ¡ÔñÁËÈ«²¿µÄ}   # 1
+{141}{}{ÈıÏîÌØ³¤¼¼ÄÜÁË£¡}   # 2
+{142}{}{¿ªÊ¼ÓÎÏ·Ç°±ØĞëÑ¡Ôñ} # 1
+{143}{}{ÈıÏîÌØ³¤¼¼ÄÜ£¡}   # 2
+{144}{}{ÌØ³¤¼¼ÄÜ}
+{145}{}{ÌØ³¤¼¼ÄÜÊÇ½ÇÉ«ËùÉÃ³¤µÄ¼¼ÄÜ¡£Ã¿¸öÑ¡ÔñµÄÌØ³¤¼¼ÄÜÌá¸ß20%£¬¼ÓµãÒÔÁ½±¶ËÙÌáÉı¡£Äã±ØĞëÑ¡ÔñÈıÏîÌØ³¤¼¼ÄÜ¡£}
+{146}{}{¿ÉÑ¡ÌØÖÊ}
+{147}{}{ÌØÖÊÓÃÓÚ¸üÉîÈëÚ¹ÊÍ½ÇÉ«¡£Ã¿ÖÖÌØÖÊ¶¼ÓĞÓÅÊÆºÍÁÓÊÆ£¬×î¶à¿ÉÑ¡ÔñÁ½Ïî¡£}
+{148}{}{ÄãÒÑ¾­Ñ¡ÔñÁËÈ«²¿µÄ}   # 1
+{149}{}{Á½ÖÖÌØÖÊÁË} # 2
+{150}{}{¼¼ÄÜ}
+{151}{}{¼¼ÄÜÊÇÑ§Ï°µ½µÄÖªÊ¶¡£¼¼ÄÜËæ×Å¾­ÑéÔö³¤£¬»òÊÇÔÚÓÎÏ·¹ı³ÌÖĞµÄËæ»úÊÂ¼ş¸Ä±ä¡£¼¼ÄÜË®Æ½Ô½¸ß£¬ÄãÔ½ÉÃ³¤¸Ã¼¼ÄÜ¡£}
 #
-{152}{}{PICK A PERK}
-{153}{}{PICK A NEW TRAIT}
-{154}{}{LOSE A TRAIT}
-{155}{}{PICK A NEW TAG SKILL}
-{156}{}{TRAITS}
+{152}{}{Ñ¡ÔñÒ»¸öPERK}
+{153}{}{Ñ¡ÔñÒ»¸öĞÂÌØÖÊ}
+{154}{}{ÒÆ³ıÒ»¸öÌØÖÊ}
+{155}{}{Ñ¡ÔñÒ»¸öĞÂÌØ³¤¼¼ÄÜ}
+{156}{}{ÌØÖÊ}
 #
-{157}{}{All stats must be between 1 and 10} # 1
-{158}{}{before starting the game!}          # 2
+{157}{}{ÔÚÓÎÏ·¿ªÊ¼Ö®Ç°£¬ËùÓĞÊôĞÔ} # 1
+{158}{}{±ØĞëÔÚ1µ½10Ö®¼ä£¡}          # 2
 # Fallout 2:
-{160}{}{Warning: You haven't changed your player} # 1
-{161}{}{name.  Use this character anyway?}        # 2
+{160}{}{¾¯¸æ£ºÄã»¹Ã»ÓĞ¸Ä±ä½ÇÉ«µÄÃû×Ö£¬Äã¼á³ÖÒª} # 1
+{161}{}{¼ÌĞøÊ¹ÓÃÕâ¸ö½ÇÉ«Âğ£¿}        # 2
 
-{175}{}{Next Lvl:}  # Short for Level:
+{175}{}{µ½ÏÂÒ»µÈ¼¶:}  # Short for Level:
 
 
 #
 # Abbreviated basic stat levels
 #
-{200}{}{V.Bad}  # Terrible
-{201}{}{Bad}    # Bad
-{202}{}{Poor}   # Poor
-{203}{}{Fair}   # Fair
-{204}{}{Avrg}   # Average
-{205}{}{Good}   # Good
-{206}{}{V.Good} # Very Good
-{207}{}{Great}  # Great
-{208}{}{Exclnt} # Excellent
-{209}{}{Heroic} # Heroic
+{200}{}{·Ç³£Ôã} # Terrible
+{201}{}{Ôã¸â}   # Bad
+{202}{}{Æ¶Èõ}   # Poor
+{203}{}{ÉĞ¿É}   # Fair
+{204}{}{Æ½¾ù}   # Average
+{205}{}{ºÃ}     # Good
+{206}{}{½ÏºÃ}   # Very Good
+{207}{}{ºÜºÃ}   # Great
+{208}{}{ÓÅĞã}   # Excellent
+{209}{}{ÍêÃÀ}   # Heroic
 
 #
 # Abbreviated Derived/Non Derived stat names
 #
-{300}{}{Hit Points}
-{301}{}{Action Points }
-{302}{}{Armor Class}
-{303}{}{Unarmed Damage}
-{304}{}{Melee Damage}
-{305}{}{Damage Res.  }
-{306}{}{Poison Res.   }
-{307}{}{Radiation Res.}
-{308}{}{Sequence}
-{309}{}{Healing Rate}
-{310}{}{Critical Chance}
-{311}{}{Carry Weight}
-{312}{}{Poisoned}
-{313}{}{Radiated}
-{314}{}{Eye Damage}
-{315}{}{Crippled Right Arm}
-{316}{}{Crippled Left Arm}
-{317}{}{Crippled Right Leg}
-{318}{}{Crippled Left Leg}
+{300}{}{ÉúÃüÖµ}
+{301}{}{ĞĞ¶¯µãÊı}
+{302}{}{·À»¤µÈ¼¶}
+{303}{}{Í½ÊÖÉËº¦}
+{304}{}{½üÕ½ÉËº¦}
+{305}{}{ÉËº¦¿¹ĞÔ}
+{306}{}{¶¾ËØ¿¹ĞÔ}
+{307}{}{·øÉä¿¹ĞÔ}
+{308}{}{ĞĞ¶¯Ë³Ğò}
+{309}{}{¿µ¸´ËÙ¶È}
+{310}{}{±©»÷¸ÅÂÊ}
+{311}{}{×î´ó¸ºÖØ}
+{312}{}{ÖĞ¶¾Ó°Ïì}
+{313}{}{·øÉäÓ°Ïì}
+{314}{}{ÑÛ²¿ÊÜÉË}
+{315}{}{ÓÒ±ÛÉË²Ğ}
+{316}{}{×ó±ÛÉË²Ğ}
+{317}{}{ÓÒÍÈÉË²Ğ}
+{318}{}{×óÍÈÉË²Ğ}
 
 #
 # Damage info texts
 #
 # Poisoned
-{400}{}{Your character has been poisoned.  Poison will do damage over a period of time, until cured or it passes from your system.}
+{400}{}{ÄãµÄ½ÇÉ«ÖĞ¶¾ÁË¡£¶¾ËØ½«»áÖÜÆÚĞÔµÄÔì³ÉÉËº¦£¬Ö±µ½´ÓÄãÌåÄÚÇå³ı»òÕßÄã±»¶¾ËÀ¡£}
 # Radiation
-{401}{}{Your character is suffering from a significant amount of Radiation poisoning.  The more radiation damage, the more deadly the effect.}
+{401}{}{ÄãµÄ½ÇÉ«ÊÜµ½ÁË´óÁ¿·øÉäµÄÓ°Ïì£¬Ô½¸ßµÄ·øÉäËğÉË½«»á´øÀ´Ô½ÖÂÃüµÄĞ§¹û¡£àŞ£¬ÄãÔÚ·¢¹âÒ®£¡}
 # Eye Damage
-{402}{}{This means your character has been seriously hit in one or both of your eyes.  This affects your Perception.}
+{402}{}{Õâ´ú±í×ÅÄãµÄ½ÇÉ«µÄÑÛ¾¦ÊÜÁËÖØÉË£¬Õâ½«Ó°ÏìÄãµÄ¸ĞÖª¡£Äã¿´²»µ½Õâ¸öÓÎÏ·ÀïÃ¨×¦ÔÓÖ¾ÀïµÄÄÚÈİÁË}
 # Crippled right arm
-{403}{}{The right arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{403}{}{Äã½ÇÉ«µÄÓÒ±ÛÊÜµ½ÑÏÖØÉËº¦£¬ÎŞ·¨ĞĞÊ¹Õı³£¹¦ÄÜ¡£Ò»Ö»ÊÖ±Û²Ğ·Ï½«ÎŞ·¨Ê¹ÓÃË«ÊÖÎäÆ÷¡£ÈôË«±Û²Ğ·ÏÔòÎŞ·¨Ê¹ÓÃÎäÆ÷¹¥»÷¡£}
 # Crippled left arm
-{404}{}{Your character's left arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{404}{}{Äã½ÇÉ«µÄ×ó±ÛÊÜµ½ÑÏÖØÉËº¦£¬ÎŞ·¨ĞĞÊ¹Õı³£¹¦ÄÜ¡£Ò»Ö»ÊÖ±Û²Ğ·Ï½«ÎŞ·¨Ê¹ÓÃË«ÊÖÎäÆ÷¡£ÈôË«±Û²Ğ·ÏÔòÎŞ·¨Ê¹ÓÃÎäÆ÷¹¥»÷¡£}
 # Crippled right leg
-{405}{}{Your character has a crippled right leg.}
+{405}{}{Äã½ÇÉ«µÄÓÒÍÈÉË²Ğ¡£}
 # Crippled left leg
-{406}{}{Your character has a crippled left leg.}
+{406}{}{Äã½ÇÉ«µÄ×óÍÈÉË²Ğ¡£}
 
 # Month strings
-{500}{}{January}
-{501}{}{February}
-{502}{}{March}
-{503}{}{April}
-{504}{}{May}
-{505}{}{June}
-{506}{}{July}
-{507}{}{August}
-{508}{}{September}
-{509}{}{October}
-{510}{}{November}
-{511}{}{December}
+{500}{}{Ò»ÔÂ}
+{501}{}{¶şÔÂ}
+{502}{}{ÈıÔÂ}
+{503}{}{ËÄÔÂ}
+{504}{}{ÎåÔÂ}
+{505}{}{ÁùÔÂ}
+{506}{}{ÆßÔÂ}
+{507}{}{°ËÔÂ}
+{508}{}{¾ÅÔÂ}
+{509}{}{Ê®ÔÂ}
+{510}{}{Ê®Ò»ÔÂ}
+{511}{}{Ê®¶şÔÂ}
 
 #
 # Option menu text
 #
-{600}{}{SAVE}
-{601}{}{LOAD}
-{602}{}{PRINT TO FILE}
-{603}{}{ERASE}
-{604}{}{DONE}
-{605}{}{Are you sure you want to erase}      # line 1
-{606}{}{the current character?}                 # line 2
-{607}{}{ was successfully saved.}
-{608}{}{ was successfully loaded.}
-{609}{}{already exists.}
-{610}{}{Do you wish to overwrite?}
-{611}{}{Error saving }
-{612}{}{Error loading }
-{613}{}{Character file invalid.}
-{614}{}{Character data invalid.}
-{615}{}{Error reading file list!}
+{600}{}{´¢´æ}
+{601}{}{¶ÁÈ¡}
+{602}{}{´òÓ¡µ½ÎÄ¼ş}
+{603}{}{É¾³ı}
+{604}{}{Íê³É}
+{605}{}{ÄãÈ·¶¨ÒªÉ¾³ı}      # line 1
+{606}{}{µ±Ç°µÄ½ÇÉ«Âğ£¿}                 # line 2
+{607}{}{³É¹¦´¢´æ¡£}
+{608}{}{³É¹¦¶ÁÈ¡¡£}
+{609}{}{ÒÑ¾­´æÔÚ¡£}
+{610}{}{ÄãÈ·¶¨Òª¸²¸ÇÂğ£¿}
+{611}{}{´¢´æ´íÎó}
+{612}{}{¶ÁÈ¡´íÎó}
+{613}{}{ÎŞĞ§µÄ½ÇÉ«ÎÄ¼ş¡£}
+{614}{}{ÎŞĞ§µÄ½ÇÉ«Êı¾İ¡£}
+{615}{}{ÎŞ·¨¶ÁÈ¡µµ°¸Ãûµ¥£¡}
 {616}{}{PRINT}
 {617}{}{PLAYER}
 {618}{}{BLANK.GCD}
@@ -173,174 +173,176 @@
 #
 # ASCII text file printing text
 #
-{620}{}{FALLOUT}                   # Title line 1
-{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
-{622}{}{hours} # Title line 3
+{620}{}{Òì³¾ÓàÉú}                   # Title line 1
+{621}{}{µÚ£±£³ºÅ±ÜÄÑËùÈËÔ±¼ÇÂ¼} # Title line 2
+{622}{}{Ğ¡Ê±} # Title line 3
 # -
 # -
-#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
-#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
-#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
-#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
-#{000}{}{  Intelligence: 00       Damage Res.: 000%}
-#{000}{}{       Agility: 00    Radiation Res.: 000%}
-#{000}{}{          Luck: 00       Poison Res.: 000%}
+#{000}{}{Á¦Á¿: 00        ÉúÃüÖµ: 000/000         ĞĞ¶¯Ë³Ğò: 00}
+#{000}{}{¸ĞÖª: 00        ·À»¤µÈ¼¶: 000             ¿µ¸´ËÙ¶È: 00}
+#{000}{}{ÄÍÁ¦: 00        ĞĞ¶¯µãÊı: 000             ±©»÷¸ÅÂÊ: 000%}
+#{000}{}{÷ÈÁ¦: 00        ½üÕ½ÉËº¦: 000             ¸ºÖØ: 000 lbs.}
+#{000}{}{ÖÇÁ¦: 00        ÉËº¦¿¹ĞÔ: 000%}
+#{000}{}{Ãô½İ: 00        ·øÉä¿¹ĞÔ: 000%}
+#{000}{}{ÔËÆø: 00        ¶¾ËØ¿¹ĞÔ: 000%}
 #
-{623}{}{ ::: Statistics :::}
-{624}{}{       Strength:}
-{625}{}{        Hit Points:}
-{626}{}{        Sequence:}
+{623}{}{ ::: ×Ê      ÁÏ :::}
+{624}{}{           Á¦Á¿:}
+{625}{}{            ÉúÃüÖµ:}
+{626}{}{        ¹¥»÷´ÎĞò:}
 # -
-{627}{}{     Perception:}
-{628}{}{       Armor Class:}
-{629}{}{        Healing Rate:}
+{627}{}{         ¸ĞÖª:}
+{628}{}{            ·ÀÓùÁ¦:}
+{629}{}{              ÖÎÓúÁ¦:}
 # -
-{630}{}{      Endurance:}
-{631}{}{     Action Points:}
-{632}{}{      Critical Chance:}
+{630}{}{           ÄÍÁ¦:}
+{631}{}{          ĞĞ¶¯µãÊı:}
+{632}{}{         ±©»÷¸ÅÂÊ:}
 # -
-{633}{}{       Charisma:}
-{634}{}{      Melee Damage:}
-{635}{}{         Carry Weight:}
+{633}{}{           ÷ÈÁ¦:}
+{634}{}{          Í½ÊÖÉËº¦:}
+{635}{}{         ¸ºÖØ:}
 # -
-{636}{}{   Intelligence:}
-{637}{}{       Damage Res.:}
+{636}{}{           ÖÇÁ¦:}
+{637}{}{        ÉËº¦¿¹ĞÔ:}
 # -
-{638}{}{        Agility:}
-{639}{}{    Radiation Res.:}
+{638}{}{           Ãô½İ:}
+{639}{}{          ·øÉä¿¹ĞÔ:}
 # -
-{640}{}{           Luck:}
-{641}{}{       Poison Res.:}
+{640}{}{           ÔËÆø:}
+{641}{}{          ¶¾ËØ¿¹ĞÔ:}
 # -
 # -
-#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
-{642}{}{  Name:}
-{643}{}{Age:}
-{644}{}{               Gender:}
-{645}{}{Male}
-{646}{}{Female}
+#{000}{}{ Ãû×Ö: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Ãû×Ö:}
+{643}{}{ÄêÁä:}
+{644}{}{                ĞÔ±ğ:}
+{645}{}{ÄĞĞÔ}
+{646}{}{Å®ĞÔ}
 #-
 #{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
-{647}{}{ Level:}
-{648}{}{                Exp:}
-{649}{}{Next Level:}
+{647}{}{  µÈ¼¶:}
+{648}{}{             ¾­ÑéÖµ:}
+{649}{}{µ½ÏÂ´ÎÉı¼¶:}
 #-
-{650}{}{ ::: Traits :::}
-{651}{}{ ::: Perks :::}
-{652}{}{ ::: Karma :::}
+{650}{}{ :::ÌØÖÊ:::}
+{651}{}{ :::¶îÍâÄÜÁ¦:::}
+{652}{}{ :::µÀµÂÁ¼Öª:::}
 
 #-
-{653}{}{ ::: Skills :::                ::: Kills :::}
+{653}{}{ :::  ¼¼ÄÜ  :::                ::: É±µĞÊı :::}
 #-
-{654}{}{ ::: Inventory :::}
+{654}{}{ ::: Îï     Æ· :::}
 #-
-{655}{}{                                      Total Weight:}
-{656}{}{ ::: Addictions :::}
-{657}{}{ ::: Reputation :::}
+{655}{}{                                            ×ÜÖØÁ¿:}
+{656}{}{ ::: ÉÏ      ñ« :::}
+{657}{}{ ::: Ãû      Óş :::}
 
 #
 # Karma name strings
 #
-{1000}{}{Reputation (General) }
-{1001}{}{Berserker}
-{1002}{}{Champion}
-{1003}{}{Childkiller}
-{1004}{}{Nuka Cola addiction}
-{1005}{}{Buffout addiction}
-{1006}{}{Mentats addiction}
-{1007}{}{Psycho addiction}
-{1008}{}{RadAway addiction}
-{1009}{}{Alcohol addiction}
-{1010}{}{Jet addiction}
-{1011}{}{Tragic addiction}
+{1000}{}{ÃûÓş (ÕûÌå)}
+{1001}{}{·è×Ó}
+{1002}{}{º´ÎÀÕß}
+{1003}{}{º¢Í¯É±ÊÖ}
+{1004}{}{ºË×Ó¿ÉÀÖÉÏñ«}
+{1005}{}{×³´óÁéÉÏñ«}
+{1006}{}{ÂüËûÌØÉÏñ«}
+{1007}{}{·è¿ñÒ©ÉÏñ«}
+{1008}{}{Ïû·øÄşÉÏñ«}
+{1009}{}{¾Æ¾«ÉÏñ«}
+{1010}{}{½ÜÌØÉÏñ«}
+{1011}{}{±¯¾ç¿¨ÉÏñ«}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
-{1013}{}{Sexpert}
-{1014}{}{Prizefighter}
-{1015}{}{Gigolo}
-{1016}{}{Grave Digger}
-{1017}{}{Made Man: Salvatore}
-{1018}{}{Married}
-{1019}{}{Porn Star}
-{1020}{}{Slaver}
-{1021}{}{Virgin of the Wastes}
-{1022}{}{Made Man: Bishop}
-{1023}{}{Made Man: Mordino}
-{1024}{}{Made Man: Wright}
-{1025}{}{Separated}
+{1013}{}{ĞÔ°®×¨¼Ò}
+{1014}{}{Ö°ÒµÈ­»÷ÊÖ}
+{1015}{}{Å£ÀÉ}
+{1016}{}{µÁÄ¹Õß}
+{1017}{}{¾ÈÖ÷£ºÉ³¶ûÍß¶à}
+{1018}{}{ÒÑ»é}
+{1019}{}{ÑŞĞÇ}
+{1020}{}{Å«Á¥··×Ó}
+{1021}{}{»ÄÒ°µÄ´¦Å®£¨ÄĞ£©}
+{1022}{}{°ïÅÉ·Ö×Ó£º±ËÏ£}
+{1023}{}{°ïÅÉ·Ö×Ó£ºÄª¶¡Åµ}
+{1024}{}{°ïÅÉ·Ö×Ó£ºÀ³ÌØ}
+{1025}{}{Àë»éÕß}
+{1026}{}{ÑÌ¹í}
 
 #
 # Karma description strings
 #
-{1100}{}{This is a ranged stat that represents your general reputation. The higher the number, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
-{1101}{}{You have killed a large number of people. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
-{1102}{}{Your actions have revealed you to be a champion of the people. Your war against evil and villainy is widely known. Honorable people will respect you better.}
-{1103}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
-{1104}{}{You thoroughly enjoy Nuka-Cola, the pop of the post-nuclear world.}
-{1105}{}{You are addicted to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to Radaway. While not life threatening, you must take it regularly.}
-{1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
-{1110}{}{You have a chem addiction. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are addicted to the Garnering. You are constantly in search of new expansions.}
+{1100}{}{ÕâÊÇÒ»¸ö±ä¶¯µÄÊıÖµ£¬´ú±íÄãµÄÕûÌåÉùÓş¡£Õâ¸öÊıÖµÔ½¸ßÄã½«±»ÖªÏşºÍ×ğÖØ£¬¸ºÊıÉùÍûÔòÊÇÒòÄãµÄ±°ÁÓĞĞ¾¶¶ø±»ÌÖÑá¡£}
+{1101}{}{ÄãÒòÉ±ÁËÌ«¶àµÄÈË¶ø³öÃû¡£Õâ²¢²»ÊÇ¸ö³öÃûµÄºÃ·½·¨£¬²»¹ıĞ°¶ñµÄÈË»á¶ÔÄã²úÉúµãºÃ¸Ğ¡£}
+{1102}{}{ÄãµÄĞĞ¶¯±íÃ÷ÄãÊÇÈËÃÇµÄÊØ»¤Õß£¬ÄãÓëĞ°¶ñÕ½¶·µÄ¹ÊÊÂÔÚÈËÃÇÖ®¼ä´«¿ª¡£¸»ÓĞÕıÒå¸ĞµÄÈË¶¼»á×ğ¾´Äã¡£}
+{1103}{}{ÄãÔøÉ±¹ıĞ¡º¢£¬Õâ±»ÈÏÎªÊÇÒ»¼şÏàµ±Ğ°¶ñµÄÊÂ¡£ÄãÊÇ¸öĞ°¶ñ£¬»µÍ¸ÁËµÄÈË¡£}
+{1104}{}{Äã¶Ô³©ÒûºË×Ó¿ÉÀÖÎŞ±È¿ÊÍû£¬ËüÊÇÕ½Ç°ÊÀ½çÁ÷ĞĞµÄÒûÁÏ¡£}
+{1105}{}{Äã¶Ô×³´óÁéÉÏñ«£¬ÄãÖ»ÄÜ³ÖĞø·şÓÃÕâÖÖÒ©Îï£¬»òÊÇ½ÓÊÜ½ä¶ÏÖÎÁÆ¡£}
+{1106}{}{Äã¶ÔÂüËûÌØÉÏñ«£¬ÄãÖ»ÄÜ·şÓÃÕâÖÖÒ©Îï£¬»òÊÇ½ÓÊÜ½ä¶ÏÖÎÁÆ¡£}
+{1107}{}{Äã¶Ô·è¿ñÒ©ÉÏñ«¡£ÄãÈô²»°´Ê±Ê¹ÓÃ»á¾õµÃºÜÍ´¿à£¬µ«Èç¹ûÄãÓÃÒ©£¬ÆäËûÈË¾Íµ¹Ã¹ÁË¡£}
+{1108}{}{ÄãµÄÉíÌå¶ÔÏû·øÄş²úÉúÒÀÀµ¡£ËäÈ»ÎŞÉúÃüÍşĞ²£¬µ«ÄãÒª¶¨ÆÚÊ¹ÓÃÁË¡£}
+{1109}{}{¾Æ¶ÔÄãÀ´Ëµ³ÉÁËÒ»¸öÎÊÌâ£¬ÊÂÊµÉÏÒû¾ÆÏ°¹ß¸øÄã´øÀ´ÁËºÜ¶àÎÊÌâ¡£}
+{1110}{}{ÄãÓĞ½ÜÌØ³Éñ«Ö¢£¬ÕâÊÇ¿ÉÒÔ¿ØÖÆºÍÖÎÓúµÄ£¬±ê×¼ÖÎÁÆÊÇÖ»ÒªÄã¶¨Ê±·şÓÃ½ÜÌØ¾ÍĞĞÁË¡£}
+{1111}{}{²»ĞÒµÄÊÇ£¬Äã³ÁÃÔÓÚÊÕ²Ø£¬Ò»Ö±ÔÚÑ°ÕÒĞÂµÄÀ©Õ¹°ü¡£}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{You know sex. You know foreplay. You know how to please a member of the opposite sex and leave them hungry for more.}
-{1114}{}{You are the heavyweight champion of Northern California. You have gained fame, respect, the love of thousands... and a bonus to your toughness and unarmed skill.}
-{1115}{}{Let's be honest: You sleep with anything that walks on two legs. Sometimes, you're not even that discriminating.}
-{1116}{}{"They're dead, they don't care," has become your motto. Digging up the remains of others is more than a hobby for you.}
-{1117}{}{You are a "Made Man" of the Salvatore Family. You are well-known, well-respected, and look great in a fedora.}
-{1118}{}{You got hitched. Hey, it's your problem, not ours.}
-{1119}{}{You are a big, bright, shining star. Your sexual exploits are well-known throughout New Reno.}
-{1120}{}{You have been marked as a member of the Slaver's Guild. The tattoo on your forehead makes your profession evident to everyone you meet.}
-{1121}{}{You really need to get out more. Your sexual exploits have been...well, two dimensional.}
-{1122}{}{You are a "Made Man" of the Bishop Family. You are well-known, well-respected, and look great in a fedora.}
-{1123}{}{You are a "Made Man" of the Mordino Family. You are well-known, well-respected, and look great in a fedora.}
-{1124}{}{You are a "Made Man" of the Wright Family. You are well-known, well-respected, and look great in a fedora.}
-{1125}{}{Your spouse is no longer with you. I hope you're happy.}
+{1113}{}{ÄãÊìÖª¸÷ÖÖ´²ÉÏË¤õÓ¼¼ÇÉ£¬¶®µÃÈçºÎ½øĞĞÇ°Ï·£¬ÈçºÎÈ¡ÔÃÒìĞÔ£¬ÈÃËûÃÇÊÂºóÈÔÒâÓÌÎ´¾¡¡£}
+{1114}{}{ÄãÊÇ±±¼ÓÖİÖØÁ¿¼¶µÄÈ­»÷¹Ú¾ü¡£ÄãµÃµ½ÁËÃûÓş¡¢×ğ¾´ºÍÖÚÈËµÄ°®´÷µÈµÈ£¬Óë´ËÍ¬Ê±ÄãµÄ¼áÈÍºÍÍ½ÊÖ¼¼ÄÜ½«»ñµÃ¼Ó³É¡£}
+{1115}{}{ÈÃÎÒÃÇ¿ªÃÅ¼ûÉ½µÄËµ£ºÖ»ÒªÊÇÓĞÁ½Ìõ½ÅµÄ¶¼¿ÉÒÔÓëÄãÉÏ´²¡£}
+{1116}{}{¡°ËûÃÇËÀÁË£¬²»»á½éÒâµÄ¡£¡±ÊÇÄãµÄ×ùÓÒÃú¡£¶ÔÄãÀ´Ëµ£¬½«ËÀÈËÒÅ¹ÇÍÚ³ö±ä³ÉÁËÄãµÄÏ°¹ß¡£}
+{1117}{}{Äã³ÉÎªÁËÉ³¶ûÍß¶à¼Ò×åµÄ¾ÈÊÀÖ÷¡£ÈíÄØÃ±ÏÂ·ç¶ÈôæôæµÄÄã±»ÈËÃÇËùÊìÊ¶ºÍ×ğÖØ¡£}
+{1118}{}{Áµ°®µÄ·ØÄ¹£¬¼ÒÍ¥µÄ¼ÏËø¡£}
+{1119}{}{ÄãÊÇÒ»¿ÅÃ÷ÁÁµÄ¾ŞĞÇ¡£ÄãÔÚÈı¼¶Æ¬ÖĞµÄ¾«²ÊÑİ³öÒÑÔÚĞÂÀïÅµÖÚÈË½ÔÖª¡£}
+{1120}{}{ÄãÒÑ±»µÇ¼ÇÎªÅ«Á¥¹«»áµÄ³ÉÔ±¡£Äã¶îÍ·ÉÏÃ÷ÏÔµÄÎÆÉíÏòËûÈËÕ¹Ê¾ÁËÄãµÄÖ°Òµ¡£}
+{1121}{}{ÄãÕæµÄµÃÒª¶àÍæÍæ£¬Äã»¹´ÓÎ´ÓĞ¹ı...ĞÔ¾­Ñé¡£}
+{1122}{}{Äã³ÉÎªÁË±ËÏ£¼Ò×åÖĞµÄÃûÈË¡£ÈíÄØÃ±ÏÂ·ç¶ÈôæôæµÄÄã£¬±»ÈËÃÇËùÊìÊ¶ºÍ×ğÖØ¡£}
+{1123}{}{Äã³ÉÎªÁËÄª¶¡Åµ¼Ò×åÖĞµÄÃûÈË¡£ÈíÄØÃ±ÏÂ·ç¶ÈôæôæµÄÄã£¬±»ÈËÃÇËùÊìÊ¶ºÍ×ğÖØ¡£}
+{1124}{}{Äã³ÉÎªÁËÀ³ÌØ¼Ò×åÖĞµÄÃûÈË¡£ÈíÄØÃ±ÏÂ·ç¶ÈôæôæµÄÄã£¬±»ÈËÃÇËùÊìÊ¶ºÍ×ğÖØ¡£}
+{1125}{}{ÄãµÄÅäÅ¼ÒÑ¾­Àë¿ªÄãÁË¡£ÎÒÏ£ÍûÄã¸ßĞË¡£}
+{1126}{}{ÄãÊÇ¸öÑÌ¹í¡£±ğÈËËµÎüÑÌ»áº¦ËÀÄã£¬µ«Äã¾ÍÊÇÃ»ËÀ¡£Ë³´øÒ»Ìá£¬ÕâÊÇÄ©ÊÀÖ®Ç°µÄÊÀ½çÀï×°¿áµÄºÃ·½·¨¡£}
 
 #
 # Town reputations
 #
-{2000}{}{Idolized}
-{2001}{}{Liked}
-{2002}{}{Accepted}
-{2003}{}{Neutral}
-{2004}{}{Antipathy}
-{2005}{}{Hated}
-{2006}{}{Vilified}
+{2000}{}{³ç°İ}
+{2001}{}{Ï²°®}
+{2002}{}{½ÓÊÜ}
+{2003}{}{ÖĞÁ¢}
+{2004}{}{»³ÒÉ}
+{2005}{}{ÌÖÑá}
+{2006}{}{Ô÷¶ñ}
 
-{2100}{}{Everyone in this area would like to be you. You're the toast-of-the-town and are held up as a shining example of all that a person can be.}
-{2101}{}{People wave, and greet you, wherever you go in this area. Everyone has heard talk of you, and they like what they've heard.}
-{2102}{}{Although, you're not greeted with open arms, most people in this area will at least nod in acknowledgment when you meet. You fit in as well as most.}
-{2103}{}{Though normally suspicious of strangers, the people of this area haven't made up their minds about you yet.}
-{2104}{}{You're just another out-of-towner in this area. Probably up to no good.}
-{2105}{}{You've proven to the people in this area that their initial distrust was well founded. People in this area look at you and mutter to one another when you come near. They know you're up to no good.}
-{2106}{}{Staring and muttering, some cross the street to avoid walking near you, while others, spit and turn away when you come near. Everyone knows that you're one of the worst things that's ever slithered into this area.}
+{2100}{}{ÒòÎªÄãÓ¢ÓÂµÄÊÂ¼£±é²¼ËÄ´¦£¬±¸ÊÜ¾´ÑöµÄÄãÊÇÈËÃÇ×·Çó³ÉÎªµÄ¹â»ÔÄ£·¶¡£}
+{2101}{}{Õâ¸öµØÇøÈËÃÇÏòÄãÕĞÊÖ»¶Ó­¡£ Ã¿¸öÈË¶¼Ìı¹ıÄãµÄ¹ÊÊÂ£¬Ò²ĞÀÉÍÄãµÄ×÷Îª¡£}
+{2102}{}{¾¡¹ÜÃ»ÓĞÉì¿ªË«ÊÖÓ­½ÓÄã£¬µ«´ó¶àÊıÈËÓëÄãÅöÃæÊ±ÏòÄãµãÍ·¿Ï¶¨¡£Äã±»ÈËÃÇËù½ÓÊÜ¡£}
+{2103}{}{ËäÈ»Í¨³£¶ÔÄ°ÉúÈË±íÊ¾»³ÒÉ£¬µ«ÊÇÕâÀïµÄÈË»¹Î´¶ÔÄãÓĞÊ²Ã´¿´·¨¡£}
+{2104}{}{Äã¶ÔÕâÀïµÄÈËÀ´Ëµ²»¹ıÊÇÓÖÒ»¸öÍâÈË£¬Ò²ĞíÓĞÊ²Ã´²»Á¼µÄÆóÍ¼¡£}
+{2105}{}{ÄãÖ¤Ã÷ÁËÕâĞ©ÈËÔ­±¾¶ÔÄãµÄ²»ĞÅÈÎÊÇ¶ÔµÄ¡£µ±Äã×ß½üÊ±Õâ¸öµØÇøÊ±£¬µ±µØÈË¿´×ÅÄãÒéÂÛ·×·×£¬ËûÃÇÖªµÀÄã²»ÊÇ¸ö¶«Î÷¡£}
+{2106}{}{ÄãÒ»×ß½ü£¬½ÖÉÏĞĞÈË¾Í¶ã×ÅÄã£¬¶¢×ÅÄãàÖ¹¾£¬ÉõÖÁÓĞÈËÏòÄãÍÙÆú£¬×ªÉíÀë¿ª¡£ÖÚÈË½ÔÖªÄãÊÇÕâÀïµÄÔÖĞÇ¡£}
 
 #
 # Karma status strings
 #
-{3000}{}{Savior of the Damned}
-{3001}{}{Guardian of the Wastes}
-{3002}{}{Shield of Hope}
-{3003}{}{Defender}
-{3004}{}{Wanderer}
-{3005}{}{Betrayer}
-{3006}{}{Sword of Despair}
-{3007}{}{Scourge of the Wastes}
-{3008}{}{Demon Spawn}
+{3000}{}{¾ÈÊÀÖ÷}
+{3001}{}{·ÏÍÁÎÀÊ¿}
+{3002}{}{Ï£ÍûÖ®¶Ü}
+{3003}{}{º´ÎÀÕß}
+{3004}{}{ÔÆÓÎÕß}
+{3005}{}{±³ÅÑÕß}
+{3006}{}{¾øÍûÖ®½£}
+{3007}{}{·ÏÍÁÖ®ÔÖ}
+{3008}{}{¶ñÄ§×ªÉú}
 
 #
 # Karma section titles.
 #
-{4000}{}{Reputation}
-{4001}{}{Addictions}
+{4000}{}{ÃûÓş}
+{4001}{}{ÉÏñ«}
 
 #
 # Karma section descriptions.
 #
-{4100}{}{Represents your reputation for a particular location.}
-{4101}{}{Things you have become addicted to.}
+{4100}{}{ÄãÔÚÄ³Ò»µØÇøµÄÉùÍû¡£}
+{4101}{}{ÒÑ¾­ÈÃÄãÉÏñ«µÄ¶«Î÷¡£}
 
 #
 # Special Demo version only text

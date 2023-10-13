@@ -15,17 +15,17 @@
 #{112}{}{Tuco}
 {112}{}{图措}
 #{113}{}{Tuco? What an unusual name... }
-{113}{}{图科？多么不寻常的名字。。。}
+{113}{}{图科？多么不寻常的名字...}
 #{114}{}{My full name is Tuco Benedicto Pacifico Juan Maria Ramirez. But I don't like to discuss my family.}
 {114}{}{我的全名是图科·本尼迪克托·帕西菲科·胡安·玛丽亚·拉米雷斯。但我不想谈论我的家庭。}
 #{115}{}{I'm sorry. Let's talk about something else.}
 {115}{}{我很抱歉。我们再谈点别的吧。}
-#{116}{}{Okay, Tuco Bandito something-something, let�s talk about something else.}
+#{116}{}{Okay, Tuco Bandito something-something, let??s talk about something else.}
 {116}{}{好吧，图科强盗什么的，让我们谈谈别的。}
 #{150}{}{I'm just going to say this: we don't need business from psychopaths like you. And you can tell Big Louie's other dogs the same thing!}
 {150}{}{我要说的是：我们不需要像你这样的精神病患者做生意。你可以告诉大路易的其他狗同样的事情！}
 #{151}{}{You'd better hope I don't find you out on the road... }
-{151}{}{你最好希望我不会在路上发现你。。。}
+{151}{}{你最好希望我不会在路上发现你...}
 #{152}{}{Fine. I don't need you anyway.}
 {152}{}{好的。反正我也不需要你。}
 #{153}{}{I'll knock those words out of your mouth, along with your teeth! [Punch him in the jaw]}
@@ -39,7 +39,7 @@
 #{157}{}{}
 {157}{}{}
 #{158}{}{[The administrator stands up unsteadily, wiping blood from his mouth, and holds up a hand to the others. They reluctantly holster their weapons.] I haven't been hit like that since my days in the ring! I'll let that go... But there's still no place for you on the stagecoach.}
-{158}{}{[管理者摇摇晃晃地站起来，擦去嘴里的血，向其他人举起一只手。他们不情愿地把武器装进枪套里。]自从我在拳击场的日子以来，我从来没有被打成那样！我会让它过去。。。但是在驿站马车上还是没有你的位置。}
+{158}{}{[管理者摇摇晃晃地站起来，擦去嘴里的血，向其他人举起一只手。他们不情愿地把武器装进枪套里。]自从我在拳击场的日子以来，我从来没有被打成那样！我会让它过去...但是在驿站马车上还是没有你的位置。}
 #{159}{}{You'd better watch your mouth next time.}
 {159}{}{下次你最好小心你的嘴。}
 #{160}{}{We've got nothing more to say.}
@@ -47,7 +47,7 @@
 #{161}{}{You know, there's respectable jobs for people who can punch like you. Better than being one of Louie's dogs.}
 {161}{}{你知道，像你这样会打拳的人有体面的工作。总比做路易的狗强。}
 #{162}{}{I'd better not see more of your gang up here... }
-{162}{}{我最好不要再看到你的帮派了。。。}
+{162}{}{我最好不要再看到你的帮派了...}
 #{163}{}{The Nevada Express doesn't deal with Big Louie or his dogs.}
 {163}{}{内华达快车不跟大路易或他的狗打交道。}
 #{164}{}{Where am I going to find a dentist around here?!}
@@ -101,7 +101,7 @@
 #{225}{}{That's all.}
 {225}{}{这就是全部。}
 #{226}{}{I have another question... }
-{226}{}{我还有一个问题。。。}
+{226}{}{我还有一个问题...}
 #{227}{}{Today! But I think we still have a couple of seats left, if you want to buy a ticket!}
 {227}{}{今天！但是如果你想买票的话，我想我们还有几个座位！}
 #{228}{}{The next one's tomorrow! You'd better get your ticket quick, before every seat is sold out!}
@@ -117,9 +117,9 @@
 #{233}{}{Las Vegas awaits me!}
 {233}{}{拉斯维加斯在等我！}
 #{234}{}{I need to visit the Cheyenne... }
-{234}{}{我要去夏延。。。}
+{234}{}{我要去夏延...}
 #{235}{}{I have some business in Wind of War... }
-{235}{}{在战争之风中我有一些生意。。。}
+{235}{}{在战争之风中我有一些生意...}
 #{236}{}{I need to get to Wendover.}
 {236}{}{我要去温多弗。}
 #{237}{}{Can we make a stop at the Black Rock on the way?}
@@ -141,9 +141,9 @@
 #{251}{}{ dollars for a ticket.}
 {251}{}{1美元一张票。}
 #{252}{}{You know, I represent the Nuka-Cola factory. If only your prices were lower, you could make a lot of money off of shipments... }
-{252}{}{你知道，我是努卡可乐厂的代表。只要你们的价格低一点，你们就能从货物中赚很多钱。。。}
+{252}{}{你知道，我是努卡可乐厂的代表。只要你们的价格低一点，你们就能从货物中赚很多钱...}
 #{253}{}{Oh, that's too bad. I was planning to make a lot of trips - business, you know - but that these prices, I don't know... }
-{253}{}{哦，那太糟糕了。我本来打算做很多旅行-生意，你知道-但是这些价格，我不知道。。。}
+{253}{}{哦，那太糟糕了。我本来打算做很多旅行-生意，你知道-但是这些价格，我不知道...}
 #{254}{}{Here's the money.}
 {254}{}{这是钱。}
 #{255}{}{I'll be back later.}
@@ -159,7 +159,7 @@
 #{260}{}{Hmm, I don't think so. Maybe you have a hole in your pocket!}
 {260}{}{嗯，我不这么认为。也许你口袋里有个洞！}
 #{261}{}{Huh, weird. I could have sworn I had it right here... }
-{261}{}{嗯，奇怪。我可以发誓我就在这里。。。}
+{261}{}{嗯，奇怪。我可以发誓我就在这里...}
 #{262}{}{You'll have to wait a little longer! We set off every 1st, 11th, and 21st of each month.}
 {262}{}{你得再等一会儿！我们每个月1号、11号和21号出发。}
 #{263}{}{I'll come when the time is right.}
@@ -167,11 +167,11 @@
 #{264}{}{Actually, I changed my mind. I want to go somewhere else.}
 {264}{}{实际上，我改变主意了。我想去别的地方。}
 #{270}{}{Salt Lake is a great place to make a home for yourself... If you don't have any trouble with the sheriff, anyway. That'll be }
-{270}{}{盐湖城是一个为自己安家的好地方。。。如果你和警长没什么问题的话。那就太好了}
+{270}{}{盐湖城是一个为自己安家的好地方...如果你和警长没什么问题的话。那就太好了}
 #{271}{}{ dollars.}
 {271}{}{美元。}
 #{272}{}{Hmm... Well, the Hawks put in a good word for you, so we'll take you for nothing, but just this once! We have to eat, you know, ha-ha-ha!}
-{272}{}{隐马尔可夫模型。。。好吧，老鹰队为你说了一句好话，所以我们就收下你，就这一次！我们得吃饭，你知道的，哈哈哈！}
+{272}{}{Hmm...好吧，老鹰队为你说了一句好话，所以我们就收下你，就这一次！我们得吃饭，你知道的，哈哈哈！}
 #{273}{}{What a pleasant surprise! I'm ready to go.}
 {273}{}{真是个惊喜！我准备好了。}
 #{274}{}{Let's go!}
@@ -185,7 +185,7 @@
 #{278}{}{ dollars.}
 {278}{}{美元。}
 #{279}{}{It's on the way, but I suggest you not stay there too long. I don't want our valued customer to have... Trouble... From the local soldiers. Anyway, that'll be }
-{279}{}{已经在路上了，但我建议你不要在那里呆太久。我不希望我们尊贵的客户。。。麻烦。。。从当地士兵那里。不管怎样，那会是}
+{279}{}{已经在路上了，但我建议你不要在那里呆太久。我不希望我们尊贵的客户...麻烦...从当地士兵那里。不管怎样，那会是}
 #{280}{}{ dollars!}
 {280}{}{美元！}
 #{281}{}{Black Rock? I've heard of it. Well, we pass close by there, so we take a detour. That'll just be }
@@ -197,11 +197,11 @@
 #{284}{}{ dollars.}
 {284}{}{美元。}
 #{285}{}{Well, our prices are set by... Ah... I really shouldn't do this, but alright. I can give you a ten percent discount, but that's all!}
-{285}{}{嗯，我们的价格是。。。啊。。。我真的不该这么做，但好吧。我可以给你百分之十的折扣，但仅此而已！}
+{285}{}{嗯，我们的价格是...啊...我真的不该这么做，但好吧。我可以给你百分之十的折扣，但仅此而已！}
 #{286}{}{Thank you!}
 {286}{}{谢谢您！}
 #{287}{}{Yeah... Just don't tell anyone, okay?}
-{287}{}{是 啊。。。别告诉任何人，好吗？}
+{287}{}{是 啊...别告诉任何人，好吗？}
 #{288}{}{Then you're just in time. Take the ticket and climb aboard! We'll be leaving soon.}
 {288}{}{那你来得正是时候。拿着票上船！我们马上就要走了。}
 #{289}{}{You'll have to wait a little longer! We set off every 1st, 11th, and 21st of each month.}
@@ -217,7 +217,7 @@
 #{302}{}{Do you remember where she went?}
 {302}{}{你记得她去哪儿了吗？}
 #{303}{}{Hmm... Yes! It was Vegas! I remember, because it was unusual. Normally people plan a trip to Vegas carefully, but she ran up to us at the last moment. Most customers only do that if they're trying to get out without people knowing... Oh. [he suddenly looks alarmed and hands the photo back to you] I - I don't remember anything else.}
-{303}{}{隐马尔可夫模型。。。对！那是维加斯！我记得，因为这是不寻常的。通常人们计划去维加斯旅行时都很小心，但她在最后一刻跑过来找我们。大多数顾客只有在他们想在别人不知道的情况下离开的时候才会这么做。。。哦。[他突然看起来很惊慌，把照片还给你]我-我什么都不记得了。}
+{303}{}{Hmm...对！那是维加斯！我记得，因为这是不寻常的。通常人们计划去维加斯旅行时都很小心，但她在最后一刻跑过来找我们。大多数顾客只有在他们想在别人不知道的情况下离开的时候才会这么做...哦。[他突然看起来很惊慌，把照片还给你]我-我什么都不记得了。}
 #{304}{}{Don't worry, Tuco, that's all I need.}
 {304}{}{别担心，图科，这就是我所需要的。}
 #{305}{}{No. [he shakes his head and hands the photo back] You can believe me, because I would have remembered such a beautiful customer.}
@@ -269,7 +269,7 @@
 #{331}{}{Do you have any evidence?}
 {331}{}{你有证据吗？}
 #{332}{}{Well... No, but no ordinary marauders could attack us and live. Each coach is well armored and staffed with a robot and several experienced guards. Only the bikers have the pre-war technology and vehicles to carry out this type of ambush.}
-{332}{}{好。。。不，但是没有一个普通的掠夺者可以攻击我们并活下来。每辆车都装备精良，配备了一个机器人和几名经验丰富的警卫。只有骑自行车的人有战前的技术和车辆来进行这种伏击。}
+{332}{}{好...不，但是没有一个普通的掠夺者可以攻击我们并活下来。每辆车都装备精良，配备了一个机器人和几名经验丰富的警卫。只有骑自行车的人有战前的技术和车辆来进行这种伏击。}
 #{333}{}{You lost an entire coach and didn't even investigate?!}
 {333}{}{你失去了一整辆马车，却连调查都没有？！}
 #{334}{}{My men are professionals! I trust their word! If they say it was bikers, then I believe them, whether or not they have evidence. Now, if you want to convince me they're wrong - THEN I'll need evidence!}
@@ -277,7 +277,7 @@
 #{335}{}{Fine, I'll investigate it myself. I'll find proof one way or the other.}
 {335}{}{好吧，我自己调查。不管怎样我都会找到证据的。}
 #{336}{}{Really? Well... I know our valued customers have to be sure! It's their discriminating tastes that bring them to the Nevada Express in the first place, after all! You should start with the head of the rescue team. He's on the second floor of the Silver Legacy right now.}
-{336}{}{真正地？好。。。我知道我们尊贵的顾客一定要确定！毕竟，正是他们的鉴赏力把他们带到了内华达快车上！你应该从救援队队长开始。他现在在银遗产的二楼。}
+{336}{}{真正地？好...我知道我们尊贵的顾客一定要确定！毕竟，正是他们的鉴赏力把他们带到了内华达快车上！你应该从救援队队长开始。他现在在银遗产的二楼。}
 #{337}{}{Fine.}
 {337}{}{好的。}
 #{338}{}{This is a terrible idea. I'm out of here.}
@@ -311,7 +311,7 @@
 #{352}{}{What are you going to do?}
 {352}{}{你打算怎么办？}
 #{353}{}{That's internal business. Don't you worry about it. You... You've done a great service for the Nevada Express. We won't forget it. If you ever need us again, you can expect a substantial discount, as our thanks.}
-{353}{}{那是内部事务。别担心。你。。。你为内华达快车做了很好的服务。我们不会忘记的。如果您再需要我们，我们会给您很大的折扣，谢谢。}
+{353}{}{那是内部事务。别担心。你...你为内华达快车做了很好的服务。我们不会忘记的。如果您再需要我们，我们会给您很大的折扣，谢谢。}
 #{354}{}{Thanks. What do I tell the bikers?}
 {354}{}{谢谢。我该怎么跟骑自行车的人说？}
 #{355}{}{[He sighs] Please send them our apologies. I know it's not enough, but our reputation will suffer enough as it is when I tell my superiors about this. We can't afford anything more.}
@@ -321,6 +321,6 @@
 #{357}{}{Your investigation has earned you a 20% discount on Nevada Express services.}
 {357}{}{你的调查为你赢得了内华达快递20%的折扣。}
 #{1252}{}{You know, I represent the Nuka-Cola factory. If only your prices were lower, you could make a lot of money off of shipments... }
-{1252}{}{你知道，我是努卡可乐厂的代表。只要你们的价格低一点，你们就能从货物中赚很多钱。。。}
+{1252}{}{你知道，我是努卡可乐厂的代表。只要你们的价格低一点，你们就能从货物中赚很多钱...}
 #{1264}{}{Actually, I changed my mind. I want to go somewhere else.}
 {1264}{}{实际上，我改变主意了。我想去别的地方。}

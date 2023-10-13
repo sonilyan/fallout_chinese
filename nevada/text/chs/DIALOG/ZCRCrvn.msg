@@ -11,7 +11,7 @@
 #{110}{}{Hello.}
 {110}{}{你好。}
 #{111}{}{What do you need? Don't you see I'm busy...}
-{111}{}{你需要什么？你没看到我很忙。。。}
+{111}{}{你需要什么？你没看到我很忙...}
 #{112}{}{Look, I'm tired, so find someone else to talk with, alright?}
 {112}{}{听着，我累了，找个人谈谈，好吗？}
 #{113}{}{Find our boss - he makes all the decisions, not me.}
@@ -19,11 +19,11 @@
 #{114}{}{You need to discuss this with our boss.}
 {114}{}{你得和我们老板商量一下。}
 #{120}{}{Er... Look, why don't you talk about it with someone else?}
-{120}{}{呃。。。听着，你为什么不跟别人谈谈呢？}
+{120}{}{呃...听着，你为什么不跟别人谈谈呢？}
 #{121}{}{Er... You know, our caravan is all set. So goodbye.}
-{121}{}{呃。。。你知道，我们的车队都准备好了。所以再见。}
+{121}{}{呃...你知道，我们的车队都准备好了。所以再见。}
 #{122}{}{Er... We don't need the likes of you.}
-{122}{}{呃。。。我们不需要像你这样的人。}
+{122}{}{呃...我们不需要像你这样的人。}
 #{123}{}{You asking again?! Trying to provoke us?}
 {123}{}{你又问了？！想激怒我们？}
 #{124}{}{Hey, why don't I just shoot you?}
@@ -41,7 +41,7 @@
 #{204}{}{Drinking local water is a bad idea. Geiger counter goes wild on it.}
 {204}{}{喝当地的水是个坏主意。盖革计数器在上面疯了。}
 #{205}{}{Brahmin traders in Vegas raised prices again.}
-{205}{}{维加斯的婆罗门商人再次提价。}
+{205}{}{维加斯的双头牛商人再次提价。}
 #{206}{}{Two weeks from Redding - a hard and difficult path.}
 {206}{}{离雷丁还有两周-一条艰难的道路。}
 #{207}{}{A month ago visited San-Francisco. Ruins all over the place.}
@@ -65,7 +65,7 @@
 #{216}{}{Good thing I'm just passing through.}
 {216}{}{幸好我只是路过。}
 #{217}{}{New caravan service option - pull the brahmin's tail... Ha-ha-ha!}
-{217}{}{新的大篷车服务选项-拉婆罗门的尾巴。。。哈哈哈！}
+{217}{}{新的大篷车服务选项-拉双头牛的尾巴...哈哈哈！}
 #{218}{}{Need to collect water supplies. Where is the nearest well?}
 {218}{}{需要收集水源。最近的水井在哪里？}
 #{219}{}{Dust storms are malignant. Get knocked off your feet.}
@@ -79,7 +79,7 @@
 #{301}{}{Did you notice how much of folk just leaves the city?}
 {301}{}{你注意到有多少人刚离开这个城市吗？}
 #{302}{}{A lot of immigrants recent days...}
-{302}{}{最近有很多移民。。。}
+{302}{}{最近有很多移民...}
 #{303}{}{There are too many people wanting to accompany caravans these days.}
 {303}{}{现在有太多的人想陪大篷车。}
 #{304}{}{Who are these migrants? Aren't they runaway slaves?}
@@ -87,7 +87,7 @@
 #{305}{}{Word on a street, that slavers lost their slave consignment.}
 {305}{}{有人在街上说，奴隶贩子丢失了他们的奴隶托运物。}
 #{306}{}{So this is what behind people's income...}
-{306}{}{所以这就是人们收入背后的原因。。。}
+{306}{}{所以这就是人们收入背后的原因...}
 #{307}{}{Where are all these migrants from?}
 {307}{}{这些移民从哪里来？}
 #{308}{}{Who are all these city fugitives?}

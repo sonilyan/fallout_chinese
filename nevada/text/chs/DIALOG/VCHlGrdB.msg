@@ -89,7 +89,7 @@
 #{184}{}{Stay away from me, sick.}
 {184}{}{离我远点，病人。}
 #{185}{}{Don't even try to sneeze in my direction...}
-{185}{}{别朝我的方向打喷嚏。。。}
+{185}{}{别朝我的方向打喷嚏...}
 #{186}{}{Ghoul? Here?!}
 {186}{}{食尸鬼？在这里？！}
 #{187}{}{What are you doing in here, freak?}

@@ -33,11 +33,11 @@
 #{121}{}{Come on! Bet on the winner!}
 {121}{}{加油！赌赢家！}
 #{200}{}{Hey, champion! Such a shame that you're out of the ring now... }
-{200}{}{嘿，冠军！真遗憾你现在不在拳击场上了。。。}
+{200}{}{嘿，冠军！真遗憾你现在不在拳击场上了...}
 #{201}{}{Those fights were a sight to see! Too bad it's all over... }
-{201}{}{那些打斗场面太壮观了！可惜一切都结束了。。。}
+{201}{}{那些打斗场面太壮观了！可惜一切都结束了...}
 #{202}{}{Ring's not gonna be the same without you... }
-{202}{}{没有你戒指就不一样了。。。}
+{202}{}{没有你戒指就不一样了...}
 #{203}{}{You've got great talent!}
 {203}{}{你真有天分！}
 #{204}{}{I hope you'll be back one day!}
@@ -45,11 +45,11 @@
 #{205}{}{You're not out of the ring forever, right? Right!?}
 {205}{}{你不会永远离开拳击场，对吧？正确的！？}
 #{210}{}{Hey, champion! Such a shame that you're out of the ring now... }
-{210}{}{嘿，冠军！真遗憾你现在不在拳击场上了。。。}
+{210}{}{嘿，冠军！真遗憾你现在不在拳击场上了...}
 #{211}{}{Those fights were a sight to see! Too bad it's all over... }
-{211}{}{那些打斗场面太壮观了！可惜一切都结束了。。。}
+{211}{}{那些打斗场面太壮观了！可惜一切都结束了...}
 #{212}{}{Ring's not gonna be the same without you... }
-{212}{}{没有你戒指就不一样了。。。}
+{212}{}{没有你戒指就不一样了...}
 #{213}{}{You've got great talent!}
 {213}{}{你真有天分！}
 #{214}{}{I hope you'll be back one day!}
@@ -91,7 +91,7 @@
 #{244}{}{Got it. Still hard to believe.}
 {244}{}{知道了。还是很难相信。}
 #{245}{}{Wha... Hold up, chum, don't judge too quick! This ain't a deal with the ring, you dig? Some strangers came in and did some deals between themselves, in the corner. The ring has nothing to do with this, got it?}
-{245}{}{什么。。。等等，朋友，不要判断得太快！这不是戒指的交易，明白吗？一些陌生人进来，在角落里做了一些交易。戒指和这无关，明白吗？}
+{245}{}{什么...等等，朋友，不要判断得太快！这不是戒指的交易，明白吗？一些陌生人进来，在角落里做了一些交易。戒指和这无关，明白吗？}
 #{246}{}{No problem, the ring is out of it. But that didn't stop a certain someone from catching a glimpse of those two, right?}
 {246}{}{没问题，戒指没了。但这并没有阻止某个人瞥见那两个人，对吧？}
 #{247}{}{Hmm. Why should I even bother talking to you? Maybe I should just call security and have you thrown out?}
@@ -123,9 +123,9 @@
 #{260}{}{And who might that be?}
 {260}{}{那可能是谁？}
 #{261}{}{Well, he's had lots of people working with him. Ask Racer at the bowling club, he worked with him. Although, I'm not sure how close they are now... Oh, and, if anyone asks - I didn't say nothing. Talked about fights, bets - that's it. Dig?}
-{261}{}{他有很多人和他一起工作。问保龄球俱乐部的赛车手，他和他一起工作过。虽然，我不知道他们现在有多近。。。哦，如果有人问我-我什么也没说。谈论打架，赌博-就是这样。挖？}
+{261}{}{他有很多人和他一起工作。问保龄球俱乐部的赛车手，他和他一起工作过。虽然，我不知道他们现在有多近...哦，如果有人问我-我什么也没说。谈论打架，赌博-就是这样。挖？}
 #{262}{}{Alright... }
-{262}{}{好吧。。。}
+{262}{}{好吧...}
 #{263}{}{[Sniffs the note, making face like it's stronger than any drug]}
 {263}{}{[嗅了嗅纸条，让脸看起来比任何药物都强]}
 #{264}{}{[Rubs the $100 note affectionately] }
@@ -137,21 +137,21 @@
 #{270}{}{Listen, I've got some tough fights ahead. Any suggestions?}
 {270}{}{听着，我前面还有几场硬仗要打。有什么建议吗？}
 #{271}{}{Hold on, how are you feeling after that last fight? You see, I heard that a... Successful fighter is coming over. Much tougher than the last one you fought. I didn't say anything, but you might wanna prepare a bit more, if you catch my drift. [he winks]}
-{271}{}{等等，上次打架后你感觉怎么样？你看，我听说。。。成功的战士来了。比你上一次战斗要艰难得多。我什么都没说，但如果你明白我的意思，你可能想多准备一点。[他眨眼]}
+{271}{}{等等，上次打架后你感觉怎么样？你看，我听说...成功的战士来了。比你上一次战斗要艰难得多。我什么都没说，但如果你明白我的意思，你可能想多准备一点。[他眨眼]}
 #{272}{}{What fighter?}
 {272}{}{什么斗士？}
 #{273}{}{Gonna be a tough few days. I'll need to train even harder... }
-{273}{}{这几天会很艰难。我需要更努力的训练。。。}
+{273}{}{这几天会很艰难。我需要更努力的训练...}
 #{274}{}{Mhm, I get you. What've you got in mind?}
 {274}{}{嗯，我明白了。你在想什么？}
 #{275}{}{I don't know that much. I heard that this monster was brought up on human meat. A huge brute without any brains. He was *born* a killing machine.}
 {275}{}{我不知道那么多。我听说这个怪物是用人的肉养大的。一个没有大脑的大畜生。他生来就是杀人机器。}
 #{276}{}{Train? Are you kidding me?! Err... Seriously? You don't get a little "pump" before a fight? You know what I'm talking about. Do you?}
-{276}{}{训练？你在开玩笑吧？！呃。。。说真的？在打架之前你没有得到一点“泵”？你知道我在说什么。你…吗？}
+{276}{}{训练？你在开玩笑吧？！呃...说真的？在打架之前你没有得到一点“泵”？你知道我在说什么。你…吗？}
 #{277}{}{Well, no, I don't. Is that a problem?}
 {277}{}{嗯，不，我不知道。有问题吗？}
 #{278}{}{Well... Maybe from time to time... A little, just in case.}
-{278}{}{好。。。也许有时候。。。一点点，以防万一。}
+{278}{}{好...也许有时候...一点点，以防万一。}
 #{279}{}{[He motions you closer] I'll say this, champion. You know Stryker, right? He's got a man who cooks chems. You need to talk with him about how to improve your skills. But that's only between us.}
 {279}{}{[他示意你靠近]我会这么说，冠军。你认识史崔克，对吧？他有个做化学制品的人。你需要和他谈谈如何提高你的技能。但那只是我们之间的事。}
 #{280}{}{}
@@ -165,7 +165,7 @@
 #{284}{}{What are you implying? If you're talking about chems, then I'll say this - Bishop doesn't like it. If he gets word of this, you can kiss this place goodbye.}
 {284}{}{你在暗示什么？如果你说的是化学，那么我会说-毕晓普不喜欢。如果他听到这个消息，你可以和这个地方吻别。}
 #{285}{}{Like that's stopping anyone... }
-{285}{}{好像阻止了任何人。。。}
+{285}{}{好像阻止了任何人...}
 #{286}{}{Well, forget about it then.}
 {286}{}{好吧，那就算了吧。}
 #{287}{}{Listen, talks like this never end well. All I want is to work and earn money. I've got to feed my family and help my sick mother, got it?}
@@ -175,18 +175,18 @@
 #{289}{}{Uhmm. Not a bad sum. Still not worth the risk I'm putting myself in by dealing with you. No offense, but everyone in this town knows that it's safer to avoid you.}
 {289}{}{嗯。数目不错。还是不值得我冒这个险跟你打交道。无意冒犯，但镇上的每个人都知道避开你更安全。}
 #{290}{}{[He hungrily grasps the cash] Just in time, friendo. I appreciate the... Err, help. So, I heard you wanted to know who does the dirty on this ring? Well, I know one secret that I'll be happy to share with you.}
-{290}{}{[他饥肠辘辘地抓住现金]来得正是时候，朋友。我很感激。。。呃，救命啊。所以，我听说你想知道谁在这戒指上干坏事？好吧，我知道一个秘密，我很乐意和你分享。}
+{290}{}{[他饥肠辘辘地抓住现金]来得正是时候，朋友。我很感激...呃，救命啊。所以，我听说你想知道谁在这戒指上干坏事？好吧，我知道一个秘密，我很乐意和你分享。}
 #{291}{}{Talk.}
 {291}{}{说话。}
 #{1228}{}{Hey, champion! How are you feeling after the fight? That was quite a show! The crowd was fucking wild! I thought they were gonna tear the fence apart! Super! Super! Super!}
 {1228}{}{嘿，冠军！打架后你感觉怎么样？那真是场秀！人群太疯狂了！我以为他们会把栅栏拆开！超级的！超级的！超级的！}
 #{1271}{}{Hold on, how are you feeling after that last fight? You see, I heard that a... Successful fighter is coming over. Much tougher than the last one you fought. I didn't say anything, but you might wanna prepare a bit more, if you catch my drift. [he winks]}
-{1271}{}{等等，上次打架后你感觉怎么样？你看，我听说。。。成功的战士来了。比你上一次战斗要艰难得多。我什么都没说，但如果你明白我的意思，你可能想多准备一点。[他眨眼]}
+{1271}{}{等等，上次打架后你感觉怎么样？你看，我听说...成功的战士来了。比你上一次战斗要艰难得多。我什么都没说，但如果你明白我的意思，你可能想多准备一点。[他眨眼]}
 #{1245}{}{Wha... Hold up, chum, don't judge too quick! This ain't a deal with the ring, you dig? Some strangers came in and did some deals between themselves, in the corner. The ring has nothing to do with this, got it?}
-{1245}{}{什么。。。等等，朋友，不要判断得太快！这不是戒指的交易，明白吗？一些陌生人进来，在角落里做了一些交易。戒指和这无关，明白吗？}
+{1245}{}{什么...等等，朋友，不要判断得太快！这不是戒指的交易，明白吗？一些陌生人进来，在角落里做了一些交易。戒指和这无关，明白吗？}
 #{1279}{}{[He motions you closer] I'll say this, champion. You know Stryker, right? He's got a man who cooks chems. You need to talk with him about how to improve your skills. But that's only between us.}
 {1279}{}{[他示意你靠近]我会这么说，冠军。你认识史崔克，对吧？他有个做化学制品的人。你需要和他谈谈如何提高你的技能。但那只是我们之间的事。}
 #{1283}{}{Connections - they're as valuable as cash, even more, baby. Never forget that. That's why I help everyone here and there.}
 {1283}{}{关系——它们和现金一样值钱，甚至更值钱，宝贝。别忘了这一点。这就是为什么我在这里和那里帮助每个人。}
 #{1290}{}{[He hungrily grasps the cash] Just in time, girl. I appreciate the... Err, help. So, I heard you wanted to know who does the dirty on this ring? Well, I know one secret that I'll be happy to share with you.}
-{1290}{}{[他饥肠辘辘地抓住现金]来得正是时候，姑娘。我很感激。。。呃，救命啊。所以，我听说你想知道谁在这戒指上干坏事？好吧，我知道一个秘密，我很乐意和你分享。}
+{1290}{}{[他饥肠辘辘地抓住现金]来得正是时候，姑娘。我很感激...呃，救命啊。所以，我听说你想知道谁在这戒指上干坏事？好吧，我知道一个秘密，我很乐意和你分享。}

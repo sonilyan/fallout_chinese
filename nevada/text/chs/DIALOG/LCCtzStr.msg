@@ -9,7 +9,7 @@
 #{300}{}{Hi. How are you?}
 {300}{}{你好。你好吗？}
 #{301}{}{I'm looking for a trainman. There is a long road ahead...}
-{301}{}{我在找一个列车员。前面还有很长的路。。。}
+{301}{}{我在找一个列车员。前面还有很长的路...}
 #{302}{}{Fine.}
 {302}{}{好的。}
 #{303}{}{You're nuts! No one in the city will even go near the railway station. The sheriff won't let you! If someone agrees to go with you, then certainly not from the locals. And enough of this. I don't want the hassle.}

@@ -3,7 +3,7 @@
 #{101}{}{You see a leader of the caravan.}
 {101}{}{你看到一个商队队长。}
 #{110}{}{What took you so long? I was starting to think I wouldn't get the chance to thank you. So, uh... Thank you? Hell, I'm no good at this.}
-{110}{}{你怎么这么久？我开始觉得我没有机会感谢你了。所以，呃。。。谢谢您？见鬼，我不擅长这个。}
+{110}{}{你怎么这么久？我开始觉得我没有机会感谢你了。所以，呃...谢谢您？见鬼，我不擅长这个。}
 #{111}{}{You're welcome.}
 {111}{}{不客气。}
 #{112}{}{Hey, listen. We're gonna stick around for a little while, then head back to Reno. You're welcome to join us, if you're interested - always good to have an extra gun. You'll have to travel light though, we carry enough extra weight as it is.}
@@ -11,7 +11,7 @@
 #{113}{}{Hey there, son! How are you?}
 {113}{}{嘿，儿子！你好吗？}
 #{114}{}{Before you leave, I wanted to ask...}
-{114}{}{在你离开之前，我想问。。。}
+{114}{}{在你离开之前，我想问...}
 #{115}{}{Can you take me with you to New Reno?}
 {115}{}{你能带我去新雷诺吗？}
 #{116}{}{Did you do any trading on the way to Black Rock?}
@@ -69,11 +69,11 @@
 #{142}{}{That's it? Eh.}
 {142}{}{就这样？嗯。}
 #{143}{}{Look, I would, but... You have not the best reputation around here. Kind of makes it hard to trust whatever you've got to trade, you know?}
-{143}{}{听着，我会的，但是。。。你在这里名声不好。这让你很难相信你要交易的东西，你知道吗？}
+{143}{}{听着，我会的，但是...你在这里名声不好。这让你很难相信你要交易的东西，你知道吗？}
 #{144}{}{Look, I would, but... There's talk going around the caravans about a guy who just happens to look a lot like you. Bad, BAD talk. That sort of thing makes a man nervous, you know? Like, maybe your deals aren't on the up-and-up.}
-{144}{}{听着，我会的，但是。。。商队里到处都在谈论一个碰巧长得很像你的人。坏话，坏话。那种事让人紧张，你知道吗？比如，也许你的交易不是很顺利。}
+{144}{}{听着，我会的，但是...商队里到处都在谈论一个碰巧长得很像你的人。坏话，坏话。那种事让人紧张，你知道吗？比如，也许你的交易不是很顺利。}
 #{145}{}{Look, I would, but... You've got kind of a reputation, you know? And it's not the kind that makes me want to trust whatever you've got to trade.}
-{145}{}{听着，我会的，但是。。。你有点名气，知道吗？这不是那种让我想相信你所做的交易的人。}
+{145}{}{听着，我会的，但是...你有点名气，知道吗？这不是那种让我想相信你所做的交易的人。}
 #{150}{}{Sorry for the question, but - what did you eat while you were trapped?}
 {150}{}{很抱歉问这个问题，但是-你被困的时候吃了什么？}
 #{151}{}{We had a few supplies left, but those didn't last long. We got water off the walls of the cave and ate any radscorpions or rats we could find in there. You can't be a trader without at least a few survival skills.}
@@ -91,4 +91,4 @@
 #{1130}{}{You seem like a decent woman. Why not? But you better travel light - no more than 35 pounds. Anything more than that and you'll slow us down. We're going to Reno, but I can drop you at Lovelock if you want. Ready to go?}
 {1130}{}{你看起来是个正派的女人。为什么不？但你最好轻装上阵-不要超过35磅。再多些你就会拖我们的后腿。我们要去雷诺，但如果你愿意我可以把你送到洛夫洛克。准备好了吗？}
 #{1144}{}{Look, I would, but... There's talk going around the caravans about a girl who just happens to look a lot like you. Bad, BAD talk. That sort of thing makes a man nervous, you know? Like maybe your deals aren't on the up-and-up.}
-{1144}{}{听着，我会的，但是。。。商队里到处都在说一个女孩碰巧长得很像你。坏话，坏话。那种事让人紧张，你知道吗？好像你的交易不是很顺利。}
+{1144}{}{听着，我会的，但是...商队里到处都在说一个女孩碰巧长得很像你。坏话，坏话。那种事让人紧张，你知道吗？好像你的交易不是很顺利。}

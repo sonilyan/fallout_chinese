@@ -19,11 +19,11 @@
 #{30}{}{The graveyard of buried ideas.}
 {30}{}{埋葬思想的墓地。}
 #{100}{}{Ahiga the Smashing Blow. In the fields of Eternal Hunt, strike at servants of the Devourer with your spear...}
-{100}{}{阿希加猛击。在永恒的狩猎之地，用你的长矛攻击吞食者的仆人。。。}
+{100}{}{阿希加猛击。在永恒的狩猎之地，用你的长矛攻击吞食者的仆人...}
 #{101}{}{Mechitehyu the Moonlight Shadow. His spirit still walks with the Night Winds...}
-{101}{}{月光的影子。他的灵魂仍然与夜风同行。。。}
+{101}{}{月光的影子。他的灵魂仍然与夜风同行...}
 #{102}{}{Pouoka the Watcher through Time: 1877 - the Cheyenne's autumn, 2077 - the end of the Old World, 2277 - let the Legion come...}
-{102}{}{《穿越时间的守望者：1877年夏延的秋天，2077年旧世界的终结，2277年——让军团来吧。。。}
+{102}{}{《穿越时间的守望者：1877年夏延的秋天，2077年旧世界的终结，2277年——让军团来吧...}
 #{103}{}{Otaktay the Torturing Wolf. He favored the war axe over the peace pipe.}
 {103}{}{奥塔克泰折磨着狼。他喜欢战斧胜过和平烟斗。}
 #{150}{}{Freddie "Gorefiend" Voorhees: They named the "Ripper" after me, baby!}
@@ -39,7 +39,7 @@
 #{155}{}{Patrick "Not a day without pain," Bale. Satan sent him, Satan took him back.}
 {155}{}{帕特里克“不是没有痛苦的一天”，贝尔。撒但差遣他，撒但把他带回来。}
 #{156}{}{Stephen "Arrow" Travis. He only loved his dog, Lilly... In a good way, asshole!}
-{156}{}{斯蒂芬·阿罗·特拉维斯。他只爱他的狗莉莉。。。很好，混蛋！}
+{156}{}{斯蒂芬·阿罗·特拉维斯。他只爱他的狗莉莉...很好，混蛋！}
 #{200}{}{Brunson, Phil. Excellent evening - pleasant company - 8 bribes - myocardial infarction.}
 {200}{}{布伦森，菲尔。美好的夜晚-愉快的陪伴-8次贿赂-心肌梗塞。}
 #{201}{}{Chris Buddy. Rare bitch - folded with three aces.}
@@ -51,7 +51,7 @@
 #{204}{}{Oscar "Toothy" Manfredi. I'm silent in the ring, because my fists do the talking.}
 {204}{}{奥斯卡“牙齿”曼弗雷迪。我在拳击场上保持沉默，因为我的拳头在说话。}
 #{250}{}{Patricia Whitman. My love for you was like a nuclear explosion - beautiful, dazzling and deadly...}
-{250}{}{帕特里夏·惠特曼。我对你的爱就像核爆炸一样美丽，耀眼，致命。。。}
+{250}{}{帕特里夏·惠特曼。我对你的爱就像核爆炸一样美丽，耀眼，致命...}
 #{251}{}{Michael "Runner" Phelps. He ran his last hundred yards without a head on his shoulders.}
 {251}{}{迈克尔菲尔普斯。他跑完最后一百码，头也没抬起来。}
 #{252}{}{Marion Connelly. She died of an overdose - but kept her promise to quit smoking.}
@@ -73,13 +73,13 @@
 #{305}{}{Hayley Ross. Her husband had no faith in her immaculate conception.}
 {305}{}{海莉·罗斯。她丈夫对她完美的怀孕没有信心。}
 #{306}{}{Adam "Cleaner" Garner. He did dirty work... And was cleaned himself in the end.}
-{306}{}{亚当“清洁”加纳。他干脏活。。。最后他自己洗干净了。}
+{306}{}{亚当“清洁”加纳。他干脏活...最后他自己洗干净了。}
 #{307}{}{George "Commie" Glick. Oh, here you will not get me, you greedy dogs of capitalism!}
 {307}{}{乔治“共产党员”格利克。哦，你不会抓到我的，你们这些贪婪的资本主义狗！}
 #{308}{}{Johnny Melton. "As man is now, as was the Lord once, as Lord is now, as was the man"}
 {308}{}{约翰尼·梅尔顿。”现在怎样，从前怎样，现在怎样，从前怎样}
 #{309}{}{Joseph Harris. "...And shall put my arms to the grave, in order and at the threshold of death, I tirelessly served our Creator..."}
-{309}{}{约瑟夫哈里斯“。。。我将把我的手臂放在坟墓里，在死亡的边缘，我不知疲倦地为我们的造物主服务……”}
+{309}{}{约瑟夫哈里斯“...我将把我的手臂放在坟墓里，在死亡的边缘，我不知疲倦地为我们的造物主服务……”}
 #{310}{}{Unknown. His last words were: "I will wait for you at the gates of hell, sinners!"}
 {310}{}{未知。他的遗言是：“我会在地狱门口等你，罪人！”}
 #{350}{}{Captain Benjamin Kurtz. Gone to hell to regroup.}

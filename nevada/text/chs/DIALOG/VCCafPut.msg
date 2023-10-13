@@ -13,11 +13,11 @@
 #{113}{}{Finding a job in the city is like skinning a Gecko alive.}
 {113}{}{在城里找工作就像活剥壁虎皮。}
 #{114}{}{Whew! So much pepper...}
-{114}{}{呼！这么多胡椒。。。}
+{114}{}{呼！这么多胡椒...}
 #{115}{}{Your pizza is nuclear!}
 {115}{}{你的披萨是核的！}
 #{116}{}{Is this toilet paper?.. Oh, the bill...}
-{116}{}{这是卫生纸吗？。。哦，账单。。。}
+{116}{}{这是卫生纸吗？。。哦，账单...}
 #{117}{}{When's the next show, chief?}
 {117}{}{下一场演出是什么时候，头儿？}
 #{118}{}{Hey chief! Come on, we need music!}
@@ -53,7 +53,7 @@
 #{153}{}{Finding a job in the city is like skinning a Gecko alive.}
 {153}{}{在城里找工作就像活剥壁虎皮。}
 #{154}{}{Whew! So much pepper...}
-{154}{}{呼！这么多胡椒。。。}
+{154}{}{呼！这么多胡椒...}
 #{155}{}{Your pizza is nuclear!}
 {155}{}{你的披萨是核的！}
 #{156}{}{Is this a toilet paper?.. Oh, this is a bill.}
@@ -85,7 +85,7 @@
 #{169}{}{I don't mind the money spent on this concert one bit.}
 {169}{}{我一点也不介意花在这场音乐会上的钱。}
 #{170}{}{I think this goon has no ear for music... But I like it!}
-{170}{}{我觉得这个笨蛋不懂音乐。。。但我喜欢！}
+{170}{}{我觉得这个笨蛋不懂音乐...但我喜欢！}
 #{171}{}{Hey, on the stage! Start the party!}
 {171}{}{嘿，在舞台上！开始派对！}
 #{172}{}{Hey, on the stage! Give us our favorite!}

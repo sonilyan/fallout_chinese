@@ -5,4 +5,4 @@
 #{110}{}{[Plaintively shows his hand] a battle wound, so to speak.}
 {110}{}{可以说是战伤。}
 #{111}{}{I'd given up hope, and then you came along... Thank you so much!}
-{111}{}{我放弃了希望，然后你来了。。。非常感谢！}
+{111}{}{我放弃了希望，然后你来了...非常感谢！}

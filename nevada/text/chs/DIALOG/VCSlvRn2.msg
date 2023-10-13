@@ -5,17 +5,17 @@
 #{102}{}{*running script error*}
 {102}{}{*运行脚本错误*}
 #{110}{}{Uh... Hello, wanderer. And... Have a good day.}
-{110}{}{休斯敦大学。。。你好，流浪者。还有。。。祝您今天过得愉快。}
+{110}{}{Uh...你好，流浪者。还有...祝您今天过得愉快。}
 #{111}{}{Wait, what are you doing here?}
 {111}{}{等等，你在这里干什么？}
 #{112}{}{Whatever.}
 {112}{}{无论什么。}
 #{113}{}{Uh... [looks closely at your face] You look like one of these [pointing in the direction of the slavers office]. So, sorry, but I will be on my way.}
-{113}{}{休斯敦大学。。。[仔细看你的脸]你看起来像这些人中的一个[指向奴隶办公室的方向]。对不起，我马上就来。}
+{113}{}{Uh...[仔细看你的脸]你看起来像这些人中的一个[指向奴隶办公室的方向]。对不起，我马上就来。}
 #{114}{}{Do I really look that bad...}
-{114}{}{我真的那么难看吗。。。}
+{114}{}{我真的那么难看吗...}
 #{115}{}{Uh... [looks closely at your face] Are you one of these [pointing in the direction of the slavers office]? What are *you* doing here?}
-{115}{}{休斯敦大学。。。[仔细看你的脸]你是这些人中的一员吗[指着奴隶办公室的方向]？你在这里干什么？}
+{115}{}{Uh...[仔细看你的脸]你是这些人中的一员吗[指着奴隶办公室的方向]？你在这里干什么？}
 #{116}{}{I asked first.}
 {116}{}{我先问。}
 #{117}{}{I'm just passing by, minding my own business.}
@@ -27,7 +27,7 @@
 #{120}{}{Then I guess we have nothing to talk about.}
 {120}{}{那我想我们没什么好谈的了。}
 #{121}{}{Uh...}
-{121}{}{休斯敦大学。。。}
+{121}{}{Uh...}
 #{122}{}{See, you have no confidence in me. That means I should refrain from talking with you.}
 {122}{}{看，你对我没有信心。那意味着我不应该和你说话。}
 #{123}{}{So you are not one of them? Phew, at least someone in this city is "just a passerby", and not a member of some nefarious organization.}
@@ -37,7 +37,7 @@
 #{125}{}{Yeah. Well, it was nice to talk to you.}
 {125}{}{是 啊。很高兴和你谈话。}
 #{126}{}{The member of the secret sect of Avengers... Just joking. Heh-heh.}
-{126}{}{复仇者秘密教派的成员。。。开玩笑而已。嘿嘿。}
+{126}{}{复仇者秘密教派的成员...开玩笑而已。嘿嘿。}
 #{127}{}{Wow, can I join your sect?}
 {127}{}{哇，我能加入你的门派吗？}
 #{128}{}{Damn, you're taking me for a moron?}
@@ -45,7 +45,7 @@
 #{129}{}{He-he. Bye, damn joker.}
 {129}{}{他，他。再见，该死的小丑。}
 #{130}{}{Well, you can't join without testing. We are literally two people. It is unlikely that you will want to be a part of it. The risks and stuff...}
-{130}{}{嗯，没有测试你不能加入。我们真的是两个人。你不太可能想成为它的一部分。风险之类的。。。}
+{130}{}{嗯，没有测试你不能加入。我们真的是两个人。你不太可能想成为它的一部分。风险之类的...}
 #{131}{}{Hey, don't get mad, I didn't do anything wrong!}
 {131}{}{嘿，别生气，我没做错什么！}
 #{132}{}{You've already popped up, so you'd better tell me what you're up to.}
@@ -53,7 +53,7 @@
 #{133}{}{I think you are in trouble. Tell me, maybe I could help.}
 {133}{}{我想你有麻烦了。告诉我，也许我能帮上忙。}
 #{134}{}{So, I'll believe you... This time. Bye.}
-{134}{}{所以，我相信你。。。这一次。再见。}
+{134}{}{所以，我相信你...这一次。再见。}
 #{135}{}{Oh, okay. Anyway, I can't do this alone.}
 {135}{}{哦，好吧。不管怎样，我一个人做不到。}
 #{136}{}{So what's your problem?}
@@ -81,7 +81,7 @@
 #{147}{}{Don't worry about me, I know what to do.}
 {147}{}{别担心我，我知道该怎么办。}
 #{148}{}{Well, it's up to you...}
-{148}{}{好吧，这取决于你。。。}
+{148}{}{好吧，这取决于你...}
 #{149}{}{I'll do it if you pay me.}
 {149}{}{如果你付钱给我，我就做。}
 #{150}{}{Right, it's too silly. Risk yourself, and I'm leaving.}
@@ -99,13 +99,13 @@
 #{156}{}{I changed my mind, sorry.}
 {156}{}{我改变主意了，对不起。}
 #{157}{}{Hey, wait. I can pay 200 bucks if you can do it. Would have paid more if I had more... But, of course, I'm not paying immediately, so there would be motivation for you not to cheat. You just need to pass a note to Eric, nothing more.}
-{157}{}{嘿，等等。如果你能做到，我可以付200美元。如果我有更多的。。。但是，当然，我不会马上付钱，所以你有动机不作弊。你只需要给埃里克一张纸条，就行了。}
+{157}{}{嘿，等等。如果你能做到，我可以付200美元。如果我有更多的...但是，当然，我不会马上付钱，所以你有动机不作弊。你只需要给埃里克一张纸条，就行了。}
 #{158}{}{Give me a note, I'll do it.}
 {158}{}{给我一张纸条，我来做。}
 #{159}{}{Still am not doing it.}
 {159}{}{我还是不做。}
 #{160}{}{Sure, I'll pay, but after Eric receives a note. However, I only have 200 bucks. Would pay more if I was richer...}
-{160}{}{当然，我会付钱的，但是在埃里克收到一张纸条之后。不过，我只有200美元。如果我更富有，我会付更多的钱。。。}
+{160}{}{当然，我会付钱的，但是在埃里克收到一张纸条之后。不过，我只有200美元。如果我更富有，我会付更多的钱...}
 #{161}{}{Give me a note, I'll do it.}
 {161}{}{给我一张纸条，我来做。}
 #{162}{}{I changed my mind, sorry.}
@@ -123,11 +123,11 @@
 #{203}{}{I'm still working on it.}
 {203}{}{我还在努力。}
 #{204}{}{What?! What the hell! You could have mistook him or... Or you are lying even... Or... I don't know what, but I don't believe you!.. Ugh, why I even got involved with you?! Get away from me!}
-{204}{}{什么？！我勒个去！你可能误解了他或者。。。或者你在撒谎。。。或者。。。我不知道是什么，但我不相信你！。。啊，为什么我要和你扯上关系？！离我远点！}
+{204}{}{什么？！我勒个去！你可能误解了他或者...或者你在撒谎...或者...我不知道是什么，但我不相信你！。。啊，为什么我要和你扯上关系？！离我远点！}
 #{205}{}{Oh, that's how you choose to act!}
 {205}{}{哦，你就是这么选择的！}
 #{206}{}{Oh, good! Now it's easier for me to cope with them...}
-{206}{}{哦，太好了！现在我更容易对付他们。。。}
+{206}{}{哦，太好了！现在我更容易对付他们...}
 #{207}{}{And my reward?}
 {207}{}{我的报酬呢？}
 #{208}{}{What? Ah, yes. But wait, how do I know you're not tricking me? No, first I'll check.}
@@ -165,4 +165,4 @@
 #{224}{}{Thanks. Well, take care.}
 {224}{}{谢谢。好吧，保重。}
 #{225}{}{It all was in vain... [grabs his head]}
-{225}{}{这一切都是徒劳的。。。[抓住他的头]}
+{225}{}{这一切都是徒劳的...[抓住他的头]}

@@ -3,7 +3,7 @@
 #{101}{}{A huge cabbage head that would make for a good salad.}
 {101}{}{一个巨大的卷心菜头，可以做一个很好的沙拉。}
 #{102}{}{Delicious greens! Add some brahmin meat and you get a wholesome dinner.}
-{102}{}{美味的蔬菜！加些婆罗门肉，你就得到了一顿健康的晚餐。}
+{102}{}{美味的蔬菜！加些双头牛肉，你就得到了一顿健康的晚餐。}
 #{103}{}{This vegetable would make for a nice dinner if you had some meat to go with it. But its owner will hardly like this idea of yours.}
 {103}{}{如果你有肉的话，这种蔬菜可以做一顿丰盛的晚餐。但它的主人不会喜欢你的这个主意。}
 #{104}{}{Just like that!}

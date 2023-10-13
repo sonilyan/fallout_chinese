@@ -5,7 +5,7 @@
 #{102}{}{The spectators scatter in terror!}
 {102}{}{观众吓得四散了！}
 #{103}{}{This is the worst day of my life... For the last year.}
-{103}{}{这是我一生中最糟糕的一天。。。去年。}
+{103}{}{这是我一生中最糟糕的一天...去年。}
 #{105}{}{Can you believe it? A real movie, like the old days!}
 {105}{}{你能相信吗？一部真正的电影，就像过去一样！}
 #{110}{}{You're here for the movie too?}
@@ -15,11 +15,11 @@
 #{112}{}{I've never seen a movie. I may not ever see one again!}
 {112}{}{我从没看过电影。我可能再也见不到了！}
 #{113}{}{We had a beautiful view of the sunset out here...}
-{113}{}{我们看到了美丽的日落景色。。。}
+{113}{}{我们看到了美丽的日落景色...}
 #{114}{}{This Patrick guy is amazing!}
 {114}{}{帕特里克真是太棒了！}
 #{115}{}{Not many people get this opportunity nowadays...}
-{115}{}{现在没有多少人有这个机会。。。}
+{115}{}{现在没有多少人有这个机会...}
 #{116}{}{I wonder if it'll be a horror film?}
 {116}{}{我想知道这是不是一部恐怖片？}
 #{120}{}{You see an fleeing audience member. You don't think this show will get good reviews.}

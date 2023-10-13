@@ -19,7 +19,7 @@
 #{117}{}{I see. Forget it.}
 {117}{}{我懂了。算了吧。}
 #{118}{}{Ha-ha! What hole did you crawl from if you don't know about bikers? All right, I guess... Our guys drive around the wasteland and search for working technological stuff. And then sell them in towns. 'Cause of their technology passion they know a lot about repairing stuff, so lots of important mobsters visit us from time to time to offer a profitable deal.}
-{118}{}{哈哈！如果你不了解摩托车手，你从哪个洞爬出来的？好吧，我想。。。我们的人开着车在荒地里四处寻找有用的技术材料。然后在城里卖由于他们对技术的热爱，他们对修理东西非常了解，所以很多重要的黑手党不时来拜访我们，为我们提供一笔有利可图的交易。}
+{118}{}{哈哈！如果你不了解摩托车手，你从哪个洞爬出来的？好吧，我想...我们的人开着车在荒地里四处寻找有用的技术材料。然后在城里卖由于他们对技术的热爱，他们对修理东西非常了解，所以很多重要的黑手党不时来拜访我们，为我们提供一笔有利可图的交易。}
 #{119}{}{Pre-war technology? Curious. Where do they find it?}
 {119}{}{战前技术？好奇。他们在哪里找到的？}
 #{120}{}{Abandoned city districts or random bases. It's a pretty dangerous life, if you ask me.}
@@ -37,9 +37,9 @@
 #{126}{}{Fifteen. What about it?}
 {126}{}{十五。那怎么办？}
 #{127}{}{Woah! Well... I... Hmm... All right, never mind.}
-{127}{}{哇！好。。。一、 。。。隐马尔可夫模型。。。好吧，没关系。}
+{127}{}{哇！好...一、 ...Hmm...好吧，没关系。}
 #{128}{}{Yea-ah. Lookin' at you know and still wondering where did you crawl from... Uh, okay then.}
-{128}{}{是啊。看着你，你还不知道你是从哪里爬来的。。。呃，那好吧。}
+{128}{}{是啊。看着你，你还不知道你是从哪里爬来的...呃，那好吧。}
 #{129}{}{Forget it. See you.}
 {129}{}{算了吧。再见。}
 #{130}{}{Well, I'm here 'cause it's more fun with those guys. And much safer.}
@@ -79,7 +79,7 @@
 #{148}{}{Have you ever considered the fact that "post-apocalyptic society" is not even a normal thing by default?}
 {148}{}{你有没有想过“后世界末日社会”在默认情况下甚至不是一件正常的事情？}
 #{149}{}{Uh... You may be right, I guess.}
-{149}{}{休斯敦大学。。。我想你可能是对的。}
+{149}{}{Uh...我想你可能是对的。}
 #{150}{}{That's right.}
 {150}{}{这是正确的。}
 #{151}{}{Okay, forget it.}
@@ -89,13 +89,13 @@
 #{153}{}{}
 {153}{}{}
 #{154}{}{Hey! Folks! Wait a minute! She didn't understand what I was saying! Me either, to be honest...}
-{154}{}{嘿！伙计们！等一下！她不明白我在说什么！我也是，说实话。。。}
+{154}{}{嘿！伙计们！等一下！她不明白我在说什么！我也是，说实话...}
 #{155}{}{Oh, is that so? Protect yourself, freaking anarchists!}
 {155}{}{哦，是这样吗？保护你自己，该死的无政府主义者！}
 #{156}{}{Our boys won't forgive you for this bullshit. Shut the fuck up and don't even squeak about our brotherhood. We're *free* and independent. You can't dig that.}
 {156}{}{我们的人不会原谅你的。他妈的闭嘴，别再抱怨我们的兄弟情谊了。我们是自由和独立的。你不能挖那个。}
 #{157}{}{All right, you're the boss...}
-{157}{}{好吧，你是老板。。。}
+{157}{}{好吧，你是老板...}
 #{158}{}{Really?!}
 {158}{}{真正地？！}
 #{159}{}{Yeah. I've got my passport on me. Here, take a look.}
@@ -105,7 +105,7 @@
 #{161}{}{Yeah. I'm serious.}
 {161}{}{是 啊。我是认真的。}
 #{162}{}{That's wicked! If that's true... Ya know, you should tell about it to our leader. He loves any tech and would be *very* glad to visit your vault.}
-{162}{}{太邪恶了！如果那是真的。。。你知道，你应该告诉我们的领导。他喜欢任何技术，会很高兴参观你的保险库。}
+{162}{}{太邪恶了！如果那是真的...你知道，你应该告诉我们的领导。他喜欢任何技术，会很高兴参观你的保险库。}
 #{163}{}{I'll think about it.}
 {163}{}{我会考虑的。}
 #{170}{}{Where are you from?}
@@ -113,7 +113,7 @@
 #{171}{}{From Vegas. Why do you ask?}
 {171}{}{从维加斯来的。你为什么问？}
 #{172}{}{You've gotten yourself quite far away from home...}
-{172}{}{你已经离家很远了。。。}
+{172}{}{你已经离家很远了...}
 #{173}{}{Don't worry about it.}
 {173}{}{别担心。}
 #{174}{}{I wouldn't mind to go anywhere in America as long as I'm with Phil and his boys!}
@@ -141,13 +141,13 @@
 #{185}{}{Ha! Are the others all drunkards?}
 {185}{}{哈！其他人都是醉鬼吗？}
 #{186}{}{No, but they always enjoy a good beer... Still, they like tinkering with some dirty tech more. But if you combine both of these... Oh, that's a real holiday!}
-{186}{}{不，但他们总是喜欢喝上好啤酒。。。不过，他们更喜欢修补一些肮脏的技术。但如果你把这两者结合起来。。。哦，那真是个假期！}
+{186}{}{不，但他们总是喜欢喝上好啤酒...不过，他们更喜欢修补一些肮脏的技术。但如果你把这两者结合起来...哦，那真是个假期！}
 #{200}{}{Hey, was it you who ran away from your parents in Vegas? They have been searching you everywhere...}
-{200}{}{嘿，是你在维加斯从你父母那里逃跑的吗？他们到处找你。。。}
+{200}{}{嘿，是你在维加斯从你父母那里逃跑的吗？他们到处找你...}
 #{201}{}{[Sighs] Let 'em be. I'm not coming back to them.}
 {201}{}{[叹息]让他们去吧。我不会再回到他们身边了。}
 #{202}{}{You're making a mistake. They supported you all of those 15 years you've been alive...}
-{202}{}{你犯了个错误。他们在你活着的15年里一直支持你。。。}
+{202}{}{你犯了个错误。他们在你活着的15年里一直支持你...}
 #{203}{}{I don't want to hear your bullshit! Pack your stuff and get ready for the trip home!}
 {203}{}{我不想听你胡说八道！收拾好你的东西，准备回家！}
 #{204}{}{Why did you ran away from them?}
@@ -161,7 +161,7 @@
 #{208}{}{What a drag. Go away, mind your own business.}
 {208}{}{真讨厌。走开，管好你自己的事。}
 #{209}{}{You little... I'll find a way to get you back to your parents!}
-{209}{}{你这个小。。。我会想办法让你回到父母身边！}
+{209}{}{你这个小...我会想办法让你回到父母身边！}
 #{210}{}{Okay, maybe you'll change your mind sometime.}
 {210}{}{好吧，也许你什么时候会改变主意。}
 #{211}{}{They *never* supported me. They only forced me to do boring shit, always told me: "behave, learn to write, blah-blah-blah". If I didn't meet Phil with his boys I'd die from boredom in this shining shithole of a city.}
@@ -195,9 +195,9 @@
 #{225}{}{Damn, I don't know. Need to think about it.}
 {225}{}{妈的，我不知道。我需要考虑一下。}
 #{226}{}{My *family* is nothing but a pair of wardens in this prison of mine called "home". Can't even visit the john without any supervision. One step outside - and you hear a voice from behind, asking "Where are you going?". So yeah, family is family, that's all right, but my freedom is more important to me. I won't miss them...}
-{226}{}{我的“家人”只不过是我这个叫“家”的监狱里的一对看守。在没有任何监督的情况下都不能去拜访约翰。走到外面一步，你就听到一个声音从后面传来，问“你要去哪里？”。所以是的，家庭就是家庭，没关系，但我的自由对我来说更重要。我不会想念他们。。。}
+{226}{}{我的“家人”只不过是我这个叫“家”的监狱里的一对看守。在没有任何监督的情况下都不能去拜访约翰。走到外面一步，你就听到一个声音从后面传来，问“你要去哪里？”。所以是的，家庭就是家庭，没关系，但我的自由对我来说更重要。我不会想念他们...}
 #{227}{}{Really? You don't sound confident enough for me. I can see you're feeling uneasy...}
-{227}{}{真正地？你听起来对我不够自信。我看得出你很不安。。。}
+{227}{}{真正地？你听起来对我不够自信。我看得出你很不安...}
 #{228}{}{Hmm, well, you may be right. But you have to understand that your family worries about you a lot. Remember that.}
 {228}{}{嗯，你可能是对的。但是你必须明白你的家人很担心你。记住这一点。}
 #{229}{}{Oh, shut up, for fuck's sake! I know my parents better than you are!}
@@ -205,7 +205,7 @@
 #{230}{}{Maybe. But I know better what happened to them after you left.}
 {230}{}{也许 吧。但我更清楚你走后他们发生了什么。}
 #{231}{}{[Her eyes widen] Wh... What happened?!}
-{231}{}{[她睁大了眼睛]什么。。。怎么了？！}
+{231}{}{[她睁大了眼睛]什么...怎么了？！}
 #{232}{}{See! You're worried. You care about them, don't you?}
 {232}{}{看！你很担心。你关心他们，不是吗？}
 #{233}{}{Damn you! Do you understand what I can do to you for these kind of jokes?..}
@@ -217,13 +217,13 @@
 #{236}{}{I'm serious! Your father looked terrible. Tired, black circles under his eyes. Can't sleep properly because you're gone. I think you'll bring him to the grave with your recklessness.}
 {236}{}{我是认真的！你父亲看起来糟透了。疲惫的黑眼圈。因为你走了所以睡不好。我认为你的鲁莽会把他带进坟墓的。}
 #{237}{}{Is that true?.. [The girl stops for a second, remembering her past actions and trying to gather herself] but... I...}
-{237}{}{是真的吗？。。[女孩停了一下，回忆起她过去的行为，试图振作起来]但是。。。一、 。。。}
+{237}{}{是真的吗？。。[女孩停了一下，回忆起她过去的行为，试图振作起来]但是...一、 ...}
 #{238}{}{Don't hesitate. They still wait you for dinner. Even if you don't want to leave your friends. Just don't forget about them and pay them a visit so they could stop worrying about you.}
 {238}{}{别犹豫。他们还在等你吃饭。即使你不想离开你的朋友。只是不要忘记他们，去拜访他们，这样他们就不会再担心你了。}
 #{239}{}{Well, I can't be sure. We'll see.}
 {239}{}{嗯，我不能肯定。我们拭目以待。}
 #{240}{}{I don't know what to do... I... Uh, damn. Okay! When Phil goes to Vegas on the next week, I'll go with him, hope I won't bother him too much... I'll see how they're hanging and come back.}
-{240}{}{我不知道该怎么办。。。一、 。。。呃，该死。可以！下周菲尔去维加斯的时候，我会和他一起去，希望我不会太打扰他。。。我去看看他们怎么样，然后回来。}
+{240}{}{我不知道该怎么办...一、 ...呃，该死。可以！下周菲尔去维加斯的时候，我会和他一起去，希望我不会太打扰他...我去看看他们怎么样，然后回来。}
 #{241}{}{That's something. All right then. See you.}
 {241}{}{真是了不起。那好吧。再见。}
 #{242}{}{Looks like you managed to persuade the girl to come back to her parents, at least temporary.}
@@ -231,7 +231,7 @@
 #{243}{}{[The girl shuddered] I think you'll fit the mayor's office in Vegas quite nicely together with those bastards in suits. Get away from me!}
 {243}{}{我想你会把维加斯市长办公室和那些穿西装的混蛋很好地结合在一起。离我远点！}
 #{244}{}{Okay, all right, all right. As you say...}
-{244}{}{好吧，好吧，好吧。就像你说的。。。}
+{244}{}{好吧，好吧，好吧。就像你说的...}
 #{245}{}{Wait, but what should I tell you to your parents?}
 {245}{}{等等，我该怎么跟你父母说？}
 #{246}{}{Whatever, I don't care anymore.}
@@ -243,7 +243,7 @@
 #{249}{}{All right, I won't bother you anymore.}
 {249}{}{好吧，我不再打扰你了。}
 #{250}{}{Hey, that's a good idea! Maybe they'll stop sending mercenaries... And babysitters like you.}
-{250}{}{嘿，好主意！也许他们会停止派遣雇佣军。。。还有像你这样的保姆。}
+{250}{}{嘿，好主意！也许他们会停止派遣雇佣军...还有像你这样的保姆。}
 #{251}{}{We're going to need a proof for this. How about a personal item?}
 {251}{}{我们需要证据。私人物品怎么样？}
 #{252}{}{You know, I think that's a bit too much. I won't participate in this.}
@@ -255,13 +255,13 @@
 #{255}{}{You know, I think that's a bit too much. I won't participate in this.}
 {255}{}{你知道，我觉得有点过分了。我不会参与这个。}
 #{256}{}{[Takes off the locket and looks at it with nostalgia in her eyes] Wait... Let me look one last time...}
-{256}{}{[摘下吊坠，眼里充满怀旧]等等。。。让我看最后一次。。。}
+{256}{}{[摘下吊坠，眼里充满怀旧]等等...让我看最后一次...}
 #{257}{}{Quit screwing around and give me the locket, I've got other business to do.}
 {257}{}{别胡闹了，把那个小盒给我，我还有别的事要做。}
 #{1110}{}{What's up, girl.}
 {1110}{}{怎么了，姑娘。}
 #{1118}{}{Ha-ha! What hole did you crawl from if you don't know about bikers? All right, I guess... Our guys drive around the wasteland and search for working technologies. And then sell them in towns. 'Cause of their techonology passion they know a lot about repairing stuff, so lots of important mobsters visit us from time to time to offer a profitable deal.}
-{1118}{}{哈哈！如果你不了解摩托车手，你从哪个洞爬出来的？好吧，我想。。。我们的人开着车在荒地里四处寻找有用的技术。然后在城里卖由于他们对技术的热爱，他们对修理东西非常了解，所以很多重要的黑手党不时来拜访我们，为我们提供一笔有利可图的交易。}
+{1118}{}{哈哈！如果你不了解摩托车手，你从哪个洞爬出来的？好吧，我想...我们的人开着车在荒地里四处寻找有用的技术。然后在城里卖由于他们对技术的热爱，他们对修理东西非常了解，所以很多重要的黑手党不时来拜访我们，为我们提供一笔有利可图的交易。}
 #{1142}{}{Ew. What hole did ya crawl from, cowgirl?}
 {1142}{}{电子战。你从哪个洞爬出来的，牛仔女孩？}
 #{1152}{}{What?! Guys, this bitch is asking for a good ass whooping!}

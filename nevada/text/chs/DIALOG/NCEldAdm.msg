@@ -13,7 +13,7 @@
 #{114}{}{It's been a lot a difficult transition, but we have things well in hand. Please, don't be worried - we will not allow this tragedy to disrupt the casino's operations. Now, if you'll excuse me, I have a lot to do.}
 {114}{}{这是一个非常困难的过渡，但我们有事情在手。请不要担心，我们不会让这场悲剧扰乱赌场的运作。现在，请原谅，我有很多事要做。}
 #{115}{}{You seem evasive. Oh, well...}
-{115}{}{你好像在回避。哦，好吧。。。}
+{115}{}{你好像在回避。哦，好吧...}
 #{116}{}{Let's talk about Mrs. Clover.}
 {116}{}{我们来谈谈克洛弗太太吧。}
 #{117}{}{Oh, yes. Her case has certainly been a nuisance for us, but the rules are clear. Mrs. Clover will have to pay her debt of 1000 dollars.}
@@ -55,11 +55,11 @@
 #{135}{}{You shouldn't worry about me disagreeing. You should worry about my boss. You may know him as Reno's informal authority figure.}
 {135}{}{你不应该担心我不同意。你应该担心我的老板。你可能知道他是雷诺非正式的权威人物。}
 #{136}{}{Your... [he pales] ...your boss?}
-{136}{}{你的。。。[他脸色苍白]…你老板？}
+{136}{}{你的...[他脸色苍白]…你老板？}
 #{137}{}{Yes, he's disappointed with your casino's treatment of this woman. Very, very disappointed.}
 {137}{}{是的，他对你赌场对待这个女人很失望。非常非常失望。}
 #{138}{}{Well, I, ah... [he swallows] ...we would not want to disappoint such a... Respected figure. Of course, we can forgive Mrs. Clover's debts... If he thinks that's best.}
-{138}{}{嗯，我，啊。。。[他吞咽]…我们不想让这样一个。。。尊敬的人物。当然，我们可以原谅克洛弗太太的债务。。。如果他认为那是最好的。}
+{138}{}{嗯，我，啊...[他吞咽]…我们不想让这样一个...尊敬的人物。当然，我们可以原谅克洛弗太太的债务...如果他认为那是最好的。}
 #{139}{}{He does.}
 {139}{}{是的。}
 #{140}{}{I don't know, I'll have to ask him.}
@@ -67,7 +67,7 @@
 #{141}{}{That's a lot of cash. Is there any other way to pay off the debt?}
 {141}{}{那可是一大笔钱。还有别的办法还债吗？}
 #{142}{}{Hmm. [he studies you carefully] It's possible an accounting error could cause Mrs. Clover's debt to fall between the cracks. But such errors are usually the result of other, more *esoteric* errors. I could discuss such details with you, but it would have to remain between us...}
-{142}{}{嗯。[他仔细研究了你]一个会计错误可能会导致克洛弗太太的债务落空。但这种错误通常是其他更为“深奥”的错误的结果。我可以和你讨论这样的细节，但这件事必须保密。。。}
+{142}{}{嗯。[他仔细研究了你]一个会计错误可能会导致克洛弗太太的债务落空。但这种错误通常是其他更为“深奥”的错误的结果。我可以和你讨论这样的细节，但这件事必须保密...}
 #{143}{}{Go on.}
 {143}{}{继续。}
 #{144}{}{I could wipe Mrs. Clover's debt clean, but you'd have to get something for me. Specifically, a copper cigarette case, such as the type in Mr. Wright's collection.}
@@ -79,7 +79,7 @@
 #{147}{}{Who is Mr. Wright, and what's this about a collection?}
 {147}{}{赖特先生是谁？这是什么收藏？}
 #{148}{}{You don't know Mr. Wright? You should. He owns the slums opposite this casino and the Silver Legacy. He was once a very powerful man, but he's but a shadow of that now. Nonetheless, he retains his collection of pre-war memorabilia. He is a... Traditional man, and appreciates the America that was. He collects artifacts of that time, and sometimes shows his collection to those that would appreciate it. Like me.}
-{148}{}{你不认识赖特先生？你应该。他拥有赌场对面的贫民窟和银遗产。他曾经是一个很有权势的人，但现在只是其中的一个影子。尽管如此，他仍保留着战前的纪念品收藏。他是个。。。传统的男人，欣赏曾经的美国。他收集当时的文物，有时会把他的收藏展示给那些会欣赏的人。像我一样。}
+{148}{}{你不认识赖特先生？你应该。他拥有赌场对面的贫民窟和银遗产。他曾经是一个很有权势的人，但现在只是其中的一个影子。尽管如此，他仍保留着战前的纪念品收藏。他是个...传统的男人，欣赏曾经的美国。他收集当时的文物，有时会把他的收藏展示给那些会欣赏的人。像我一样。}
 #{149}{}{What if your boss finds out about this?}
 {149}{}{如果你老板发现了怎么办？}
 #{150}{}{Well, he won't, will he? [he narrows his eyes] And as a matter of fact, I don't think he'd believe it anyway.}
@@ -113,7 +113,7 @@
 #{173}{}{Okay.}
 {173}{}{可以。}
 #{174}{}{Actually... [he holds up one finger] ...there is one task you may be able to help with. Nothing elaborate, but it pays 200 dollars.}
-{174}{}{事实上。。。[他伸出一根手指]…有一件事你可以帮忙。没什么，但要付200美元。}
+{174}{}{事实上...[他伸出一根手指]…有一件事你可以帮忙。没什么，但要付200美元。}
 #{175}{}{What is it?}
 {175}{}{这是怎么一回事？}
 #{176}{}{Too bad, I'm only looking for elaborate work.}
@@ -151,7 +151,7 @@
 #{192}{}{No, give it to him.}
 {192}{}{不，给他。}
 #{193}{}{About the pool cue...}
-{193}{}{关于台球球杆。。。}
+{193}{}{关于台球球杆...}
 #{194}{}{Is it ready?}
 {194}{}{准备好了吗？}
 #{195}{}{I don't understand, why did Bertolini break his favorite cue?}

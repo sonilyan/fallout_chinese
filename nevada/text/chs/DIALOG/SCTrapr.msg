@@ -23,7 +23,7 @@
 #{111}{}{Outsider eat magic potion?}
 {111}{}{外人吃魔药？}
 #{112}{}{Hmm... Outsider soul go from body?}
-{112}{}{隐马尔可夫模型。。。外人的灵魂从身体里走出来？}
+{112}{}{Hmm...外人的灵魂从身体里走出来？}
 #{113}{}{Why outsider look?}
 {113}{}{为什么外人看？}
 #{114}{}{Me no like.}

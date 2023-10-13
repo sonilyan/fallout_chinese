@@ -5,9 +5,9 @@
 #{110}{}{Oh, no, no. If someone as handsome as me just let people stop and stare, then no one would get any work done. So unless you have business, keep walking.}
 {110}{}{哦，不，不。如果像我这么帅的人让别人停下来盯着看，那就没人能完成任何工作了。所以除非你有事，否则继续走。}
 #{111}{}{Oh, it's you... Um, salutations.}
-{111}{}{哦，是你。。。嗯，敬礼。}
+{111}{}{哦，是你...嗯，敬礼。}
 #{112}{}{Oh, it's you... Um, salutations! Please, tell your boss I wish him the most pleasant of days.}
-{112}{}{哦，是你。。。嗯，敬礼！请告诉你的老板我祝他日子愉快。}
+{112}{}{哦，是你...嗯，敬礼！请告诉你的老板我祝他日子愉快。}
 #{113}{}{}
 {113}{}{}
 #{114}{}{[Keep walking.]}
@@ -85,11 +85,11 @@
 #{209}{}{I need a firebomb.}
 {209}{}{我需要一个燃烧弹。}
 #{210}{}{Take it. And... Be careful out there. I wouldn't want to lose such a client.}
-{210}{}{拿去吧。还有。。。在外面小心点。我不想失去这样一个客户。}
+{210}{}{拿去吧。还有...在外面小心点。我不想失去这样一个客户。}
 #{211}{}{Okay.}
 {211}{}{可以。}
 #{212}{}{Of course! Anything for you! All I need is a bottle of beer, a pinch of Rotgut, and a signal flare to set it off. And, uh...}
-{212}{}{当然！为你做任何事！我只需要一瓶啤酒，一小撮罗古特，还有一个信号弹来引爆它。还有，呃。。。}
+{212}{}{当然！为你做任何事！我只需要一瓶啤酒，一小撮罗古特，还有一个信号弹来引爆它。还有，呃...}
 #{213}{}{ dollars. That's the special price for you and your boss.}
 {213}{}{美元。这是你和你老板的特价。}
 #{1126}{}{"How much." [he rolls his eyes theatrically] Look, beautiful, the brain-dead common rabble may think Reno is ruled by money, but I know better. Reno's ruled by a reliable gun in your hand.}

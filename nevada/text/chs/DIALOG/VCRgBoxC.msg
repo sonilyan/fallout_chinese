@@ -19,7 +19,7 @@
 #{117}{}{You too? I also thought that getting buffed is enough! The two years of training! Damn! And no wins!}
 {117}{}{你也是？我还以为擦亮就够了！两年的训练！该死！没有胜利！}
 #{118}{}{Uh... Not one?!}
-{118}{}{休斯敦大学。。。一个都没有？！}
+{118}{}{Uh...一个都没有？！}
 #{119}{}{No stamina, you know? The first round in the ring is mine, and then I'm exhausted.}
 {119}{}{没有耐力，你知道吗？拳击场的第一轮是我的，然后我就筋疲力尽了。}
 #{120}{}{Oh, so that's what it is.}
@@ -35,13 +35,13 @@
 #{125}{}{A man to touch me? Hey, hands off!}
 {125}{}{一个男人来碰我？嘿，把手拿开！}
 #{126}{}{Oh, come on! My thing was to offer...}
-{126}{}{哦，来吧！我的任务是提供。。。}
+{126}{}{哦，来吧！我的任务是提供...}
 #{127}{}{[Smiling] Wow! Such beauty is going to paw me? Come on, baby! Finally, I get the glory!}
 {127}{}{[微笑]哇！这样的美会让我抓狂吗？快点，宝贝！终于，我得到了荣耀！}
 #{128}{}{Great! Flip, champion!}
 {128}{}{太好了！翻转，冠军！}
 #{129}{}{Uh... No. I'll go get... Uh... The ointment first, Yes. Look, just wait.}
-{129}{}{休斯敦大学。。。不，我去拿。。。休斯敦大学。。。先吃软膏，是的。听着，等等。}
+{129}{}{Uh...不，我去拿...Uh...先吃软膏，是的。听着，等等。}
 #{130}{}{Nah! Don't want to! You will torture me worse than the coach with your hands!}
 {130}{}{不！我不想！你用手折磨我比折磨教练还厉害！}
 #{131}{}{Well, as you wish.}
@@ -107,4 +107,4 @@
 #{161}{}{Ah, so that's what it is about! Why didn't you tell that first. Why start with Bob Neil anyway?}
 {161}{}{啊，原来是这样的！你为什么不先说呢。为什么要从鲍勃·尼尔开始呢？}
 #{162}{}{No reason... Well, to hell with them. So how about amphetamines?}
-{162}{}{没有理由。。。好吧，让他们见鬼去吧。那安非他命呢？}
+{162}{}{没有理由...好吧，让他们见鬼去吧。那安非他命呢？}

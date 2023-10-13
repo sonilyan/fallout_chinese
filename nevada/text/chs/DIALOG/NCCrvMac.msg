@@ -49,9 +49,9 @@
 #{133}{}{Ah, these guys, you know - they're punctual, like clockwork. Too punctual! They won't change their schedule just for one passenger.}
 {133}{}{啊，这些家伙，你知道-他们很守时，就像发条一样。太准时了！他们不会为了一个乘客而改变行程。}
 #{134}{}{My name? It's... Maxson. Just Maxson.}
-{134}{}{我的名字？这是。。。麦克森。只有麦克森。}
+{134}{}{我的名字？这是...麦克森。只有麦克森。}
 #{135}{}{Fine... Just Maxson. Maybe we'll meet again.}
-{135}{}{好的。。。只有麦克森。也许我们还会再见面。}
+{135}{}{好的...只有麦克森。也许我们还会再见面。}
 #{136}{}{You said that very strangely.}
 {136}{}{你说得很奇怪。}
 #{137}{}{Just a sore throat. Forget it.}
@@ -67,7 +67,7 @@
 #{154}{}{Yeah? How about I show it to Big Louie and get a second opinion?}
 {154}{}{是 啊？我把它拿给大路易看，听听你的意见怎么样？}
 #{155}{}{[He fixes you with a hard stare for a moment] Now... Listen. [he looks around and leans in towards you] I just want out. Out of that gang, out of that life. You want my advice, you'll do the same. I just want to disappear. Okay?}
-{155}{}{[他盯着你看了一会儿]现在。。。听。[他环顾四周，向你靠过来]我只想出去。离开那帮人，离开那生活。你想要我的建议，你也会这么做的。我只想消失。可以？}
+{155}{}{[他盯着你看了一会儿]现在...听。[他环顾四周，向你靠过来]我只想出去。离开那帮人，离开那生活。你想要我的建议，你也会这么做的。我只想消失。可以？}
 #{156}{}{I don't think so. I didn't come all the way here just to walk away.}
 {156}{}{我不这么认为。我远道而来并不是为了走开。}
 #{157}{}{Maybe. Why?}
@@ -125,11 +125,11 @@
 #{183}{}{Yes, perhaps.}
 {183}{}{是的，也许。}
 #{184}{}{[He grits his teeth] Fine... Not like I have a choice. Let's get this over with... }
-{184}{}{[咬紧牙关]好吧。。。我没有选择。让我们结束这一切。。。}
+{184}{}{[咬紧牙关]好吧...我没有选择。让我们结束这一切...}
 #{185}{}{[Follow him]}
 {185}{}{[跟着他]}
 #{186}{}{[He grits his teeth] Fine... This is the way it always ends... }
-{186}{}{[咬紧牙关]好吧。。。总是这样结束。。。}
+{186}{}{[咬紧牙关]好吧...总是这样结束...}
 #{187}{}{[Follow him, before he escapes.]}
 {187}{}{[在他逃跑之前，跟着他。]}
 #{188}{}{Hey, guys, I've got some business to take care of. I'll be back.}
@@ -157,9 +157,9 @@
 #{201}{}{Let's get this over with.}
 {201}{}{让我们结束这一切吧。}
 #{202}{}{Well, well... }
-{202}{}{好吧，好吧。。。}
+{202}{}{好吧，好吧...}
 #{203}{}{Wait, this won't take long... }
-{203}{}{等等，这不会花很长时间。。。}
+{203}{}{等等，这不会花很长时间...}
 #{204}{}{You're making a mistake. A big mistake.}
 {204}{}{你犯了个错误。一个大错误。}
 #{205}{}{This won't take long.}
@@ -167,15 +167,15 @@
 #{206}{}{What did I do to deserve this?!}
 {206}{}{我做了什么才配得到这个？！}
 #{207}{}{Oh shit, what the fuck... }
-{207}{}{哦，妈的，他妈的。。。}
+{207}{}{哦，妈的，他妈的...}
 #{208}{}{And the day started so well... }
-{208}{}{今天开始的很好。。。}
+{208}{}{今天开始的很好...}
 #{209}{}{We could solve this peacefully... }
-{209}{}{我们可以和平解决这个问题。。。}
+{209}{}{我们可以和平解决这个问题...}
 #{210}{}{Too late, you know... }
-{210}{}{太晚了，你知道。。。}
+{210}{}{太晚了，你知道...}
 #{220}{}{And... RUN!}
-{220}{}{还有。。。快跑！}
+{220}{}{还有...快跑！}
 #{221}{}{Time to get the fuck away!}
 {221}{}{该走了！}
 #{222}{}{Feet, don't fail me now!}
@@ -185,11 +185,11 @@
 #{224}{}{Full speed!}
 {224}{}{全速！}
 #{225}{}{As long as I'm not seen, I can escape... }
-{225}{}{只要我不被看见，我就可以逃走。。。}
+{225}{}{只要我不被看见，我就可以逃走...}
 #{228}{}{Yes, I'm coming! I'm coming!}
 {228}{}{是的，我来了！我来了！}
 #{229}{}{We could make a deal... }
-{229}{}{我们可以做个交易。。。}
+{229}{}{我们可以做个交易...}
 #{230}{}{It's your move! Just leave me alone!}
 {230}{}{这是你的行动！别管我！}
 #{231}{}{Well, well, what do we have here?}

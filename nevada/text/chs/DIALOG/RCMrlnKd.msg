@@ -7,7 +7,7 @@
 #{103}{}{Now you are deprived of the title of Sheriff of Uranium City.}
 {103}{}{现在你被剥夺了铀城警长的头衔。}
 #{110}{}{[Seeing you boy becomes more lively] Oh! Sheriff! Cool! Someday I'm gonna be like you... Well, I'll try.}
-{110}{}{[看到你儿子变得更活泼]哦！警长！酷！总有一天我会像你一样。。。好吧，我试试。}
+{110}{}{[看到你儿子变得更活泼]哦！警长！酷！总有一天我会像你一样...好吧，我试试。}
 #{111}{}{Nice boy.}
 {111}{}{好孩子。}
 #{112}{}{Hello}

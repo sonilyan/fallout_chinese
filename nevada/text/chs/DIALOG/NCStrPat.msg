@@ -2,7 +2,7 @@
 {100}{}{你看到一个访客。}
 #{101}{}{You see a club visitor. He's trying to charm one of the dancers.}
 {101}{}{你看到一个俱乐部的客人。他想吸引一个舞者。}
-#{102}{}{This visitor doesn�t want to talk to you.}
+#{102}{}{This visitor doesn??t want to talk to you.}
 {102}{}{这位客人不想和你说话。}
 #{103}{}{ }
 {103}{}{ }
@@ -28,7 +28,7 @@
 {119}{}{杀了我女孩！}
 #{120}{}{You're the best!}
 {120}{}{你是最棒的！}
-#{121}{}{You�re the best, love!}
+#{121}{}{You??re the best, love!}
 {121}{}{你是最棒的，亲爱的！}
 #{122}{}{I need more beer.}
 {122}{}{我需要更多的啤酒。}

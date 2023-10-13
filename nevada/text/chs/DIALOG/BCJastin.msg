@@ -3,9 +3,9 @@
 #{101}{}{You see always frowned man with awfully dirty, hairy hands. Apparently, he likes to dig into tech.}
 {101}{}{你看那个总是愁眉不展的男人，手很脏，毛茸茸的。显然，他喜欢钻研科技。}
 #{107}{}{Hey, I saw your fight with Mike. And you know what? I loved it! Man, it took me back to when I was young... And you know, Mike was looking for it for a while now. So, thanks for the show.}
-{107}{}{嘿，我看到你和迈克打架了。你知道吗？我喜欢它！伙计，它把我带回到我年轻的时候。。。你知道，迈克已经找了一段时间了。所以，谢谢你的表演。}
+{107}{}{嘿，我看到你和迈克打架了。你知道吗？我喜欢它！伙计，它把我带回到我年轻的时候...你知道，迈克已经找了一段时间了。所以，谢谢你的表演。}
 #{108}{}{Er, you're welcome... }
-{108}{}{呃，不客气。。。}
+{108}{}{呃，不客气...}
 #{110}{}{Yeah?}
 {110}{}{是 啊？}
 #{111}{}{Do you have any work for me?}
@@ -51,7 +51,7 @@
 #{134}{}{Damn right I am. This is my home, dammit. I don't need diseased whores walking my streets. That bitch would have poisoned the whole town, if not in body, then in mind. And her flirty manners - makes me sick just to think of it.}
 {134}{}{我说得对。这是我的家，该死的。我不需要有病的妓女在我的街上走来走去。那婊子会毒死整个镇子，如果不是在身体里，那就是在思想上。她那轻浮的举止-一想到这就让我恶心。}
 #{135}{}{Harsh rules... Reminds me of home. See you.}
-{135}{}{苛刻的规则。。。让我想起了家。再见。}
+{135}{}{苛刻的规则...让我想起了家。再见。}
 #{136}{}{So we won't be seeing her again? Finally! That's a relief. Thanks, stranger. Let me give you a token of my appreciation - after all, we may need more "help" in the future. [he gives you 100 dollars]}
 {136}{}{所以我们不会再见到她了？终于！这是一种解脱。谢谢，陌生人。让我向你表示我的谢意——毕竟，我们将来可能需要更多的“帮助”。[他给你100美元]}
 #{137}{}{What happened to her? "Nothing good" would be a great answer.}
@@ -111,7 +111,7 @@
 #{182}{}{Trouble? How?}
 {182}{}{麻烦？怎么用？}
 #{183}{}{First, we've got plenty of mouths to feed already. Yeah, we're not short of food right now - not between the geckos we hunt, the plants and the brahmin William bought - but that's not gonna last forever. Sooner or later, there's gonna be lean times, and we'll regret taking in every straggler that wanders into town then. We are alive and well here only because of my water pump, sucking the underground water from depths below.}
-{183}{}{首先，我们已经有很多嘴要喂了。是的，我们现在不缺食物-不是在我们猎杀的壁虎，植物和威廉买的婆罗门之间-但这不会永远持续下去。迟早会有困难的时候，我们会后悔收留每一个流浪者。我们在这里生活得很好，只是因为我的水泵，从地下深处吸取地下水。}
+{183}{}{首先，我们已经有很多嘴要喂了。是的，我们现在不缺食物-不是在我们猎杀的壁虎，植物和威廉买的双头牛之间-但这不会永远持续下去。迟早会有困难的时候，我们会后悔收留每一个流浪者。我们在这里生活得很好，只是因为我的水泵，从地下深处吸取地下水。}
 #{184}{}{And second?}
 {184}{}{第二个呢？}
 #{185}{}{And second, they're fugitive slaves! Look at the collars on their necks! Everyone that comes to Black Rock is going to know what they are, and word's gonna get back to their owner eventually. He'll send slavers to take them back, and all of us along with them! Yeah, maybe that doesn't mean anything to you, but you don't have to live here. I don't want me or my son to spend the rest of our lives waiting for this to catch up with us.}
@@ -125,7 +125,7 @@
 #{189}{}{}
 {189}{}{}
 #{190}{}{About those slaves... }
-{190}{}{关于那些奴隶。。。}
+{190}{}{关于那些奴隶...}
 #{191}{}{What can you tell me about them?}
 {191}{}{关于他们你能告诉我什么？}
 #{192}{}{You don't have to worry anymore. They're dead.}
@@ -139,19 +139,19 @@
 #{196}{}{We already discussed this. They do not belong here, end of story.}
 {196}{}{我们已经讨论过了。他们不属于这里，故事结束了。}
 #{197}{}{William and I decided to have them clean the brahmin pen, so get used to seeing them around.}
-{197}{}{威廉和我决定让他们清洗婆罗门的钢笔，所以要习惯看到他们在周围。}
+{197}{}{威廉和我决定让他们清洗双头牛的钢笔，所以要习惯看到他们在周围。}
 #{198}{}{[He throws up his hands in frustration] After everything I've done! All the years I've spent building this place, and outsiders like you just swarm it like flies on brahmin shit! You are all the same! You think they're going to do *half* of what I've done for this place? Why do you think they even came here?}
-{198}{}{[他沮丧地举起双手]在我做了这么多之后！这些年来我一直在建造这个地方，像你这样的局外人就像苍蝇在婆罗门大便上一样蜂拥而至！你们都一样！你认为他们会做我为这个地方所做的一半？你觉得他们为什么来这里？}
+{198}{}{[他沮丧地举起双手]在我做了这么多之后！这些年来我一直在建造这个地方，像你这样的局外人就像苍蝇在双头牛大便上一样蜂拥而至！你们都一样！你认为他们会做我为这个地方所做的一半？你觉得他们为什么来这里？}
 #{199}{}{Wait... }
-{199}{}{等待。。。}
+{199}{}{等待...}
 #{200}{}{[He ignores you] Why do you think they were in collars in the first place? You think it's the best and brightest that become slaves? No! They're slaves because that's all they're good for, cleaning up shit! They were probably sold into slavery because they're criminals or neck-deep in debt or they fucked up their life in some other way - and now they're going to fuck up ours! And William wants to let them! FUCK!.. why am I even bothering to explain this to you? You're not even listening. Just get the fuck out of my house. And don't come back!}
 {200}{}{[他不理你]你觉得他们一开始为什么戴着项圈？你认为最优秀最聪明的人会成为奴隶吗？不！他们是奴隶，因为那是他们唯一擅长的，清理垃圾！他们可能被卖为奴隶，因为他们是罪犯，或者深陷债务，或者他们以其他方式毁了自己的生活——现在他们要毁了我们的生活！威廉想让他们走！性交！。。为什么我还要费心跟你解释？你根本不听。他妈的给我滚出去。别回来！}
 #{201}{}{As you wish. I did what I had to.}
 {201}{}{如你所愿。我做了我该做的。}
 #{202}{}{Great! That's a load off my mind! [he hesitates] But... What if they come back? Look, here's fifty bucks. I just hope I don't see them any more. I'm getting too old for this kind of stress.}
-{202}{}{太好了！那是我心中的负担！[他犹豫]但是。。。如果他们回来怎么办？看，这是五十美元。我只希望我再也见不到他们了。我太老了，承受不了这种压力。}
+{202}{}{太好了！那是我心中的负担！[他犹豫]但是...如果他们回来怎么办？看，这是五十美元。我只希望我再也见不到他们了。我太老了，承受不了这种压力。}
 #{210}{}{What do you know about William's missing brahmin?}
-{210}{}{你对威廉失踪的婆罗门了解多少？}
+{210}{}{你对威廉失踪的双头牛了解多少？}
 #{211}{}{Only that snotty William's brat lost his horned two-headed friend while sleeping on the job. He'll deny it, sure, but how else do explain a half-ton of meat disappearing from right under his nose?}
 {211}{}{只是那个小气鬼在上班睡觉的时候失去了一个长着角的双头朋友。他会否认的，当然，但是你怎么解释半吨肉从他鼻子底下消失了呢？}
 #{212}{}{You almost sound happy about what happened.}
@@ -169,11 +169,11 @@
 #{218}{}{Look how close the toilet is to the stables! Anyone could be there, at any time. Even me.}
 {218}{}{看厕所离马厩有多近！任何人都可能在那里，任何时候。甚至是我。}
 #{219}{}{Hey, I don't want to blame anyone without evidence, but you and I both know - it was one of William's outsiders. Hey, how about you? Where were *you*, when the brahmin went missing?}
-{219}{}{嘿，我不想责怪任何没有证据的人，但你和我都知道——那是威廉的一个局外人。嘿，你呢？婆罗门失踪的时候，你在哪里？}
+{219}{}{嘿，我不想责怪任何没有证据的人，但你和我都知道——那是威廉的一个局外人。嘿，你呢？双头牛失踪的时候，你在哪里？}
 #{220}{}{No more questions.}
 {220}{}{没有问题了。}
 #{221}{}{Have you heard that story about the missing brahmin?}
-{221}{}{你听说过那个失踪的婆罗门的故事吗？}
+{221}{}{你听说过那个失踪的双头牛的故事吗？}
 #{222}{}{...Shit. I knew it. Shit! I knew Bolt was mixed up in some dirty business, but this? I never thought he'd do this.}
 {222}{}{…该死。我就知道。倒霉！我知道博尔特卷入了一桩肮脏的勾当，但这个？我从没想过他会这么做。}
 #{223}{}{He was forced to do it by members of a gang he used to belong to.}
@@ -183,7 +183,7 @@
 #{225}{}{Doesn't Bolt deserve a second chance? William wants to help people. You just want to cast them away.}
 {225}{}{难道博尔特不应该有第二次机会吗？威廉想帮助别人。你只想把它们扔掉。}
 #{226}{}{Don't. Don't you fucking dare talk to me like that. Me and Bolt have had good times together! He helped clean the windmill, he helped dig the well, he helped with all the different machinery around here... But this doesn't make him innocent. And it doesn't give William the right to make everyone else suffer due to his bad decisions, either.}
-{226}{}{别，你他妈的不敢那样跟我说话。我和博尔特在一起过得很愉快！他帮着打扫风车，帮着挖井，帮着这里的各种机器。。。但这并不能说明他是无辜的。而且这也没有给威廉权利让其他人因为他的错误决定而受苦。}
+{226}{}{别，你他妈的不敢那样跟我说话。我和博尔特在一起过得很愉快！他帮着打扫风车，帮着挖井，帮着这里的各种机器...但这并不能说明他是无辜的。而且这也没有给威廉权利让其他人因为他的错误决定而受苦。}
 #{227}{}{You won't find any saints in this world. You should appreciate what you've got. But for now, I'm leaving.}
 {227}{}{你在这世上找不到圣人。你应该感激你所拥有的。但现在，我要走了。}
 #{228}{}{Think what you want. I'm not arguing this with you.}
@@ -221,7 +221,7 @@
 #{265}{}{I don't believe you. I'm watching you.}
 {265}{}{我不相信你。我在看着你。}
 #{266}{}{What about your son - where he was at the day of Milo's murd... Err, disappearance?}
-{266}{}{那你的儿子呢-他在米洛死的那天。。。呃，失踪？}
+{266}{}{那你的儿子呢-他在米洛死的那天...呃，失踪？}
 #{267}{}{}
 {267}{}{}
 #{268}{}{}
@@ -231,11 +231,11 @@
 #{270}{}{Milo's corpse is in the graveyard. See for yourself.}
 {270}{}{米洛的尸体在墓地里。你自己看看。}
 #{271}{}{Oh, I'll go. I'll see. And then, you'll see! You'll see he had nothing to do with this! He... He couldn't have... }
-{271}{}{哦，我去。我看看。然后，你就会明白了！你会发现他和这件事无关！他。。。他不可能。。。}
+{271}{}{哦，我去。我看看。然后，你就会明白了！你会发现他和这件事无关！他...他不可能...}
 #{272}{}{Let's go, then.}
 {272}{}{那我们走吧。}
 #{273}{}{Fine, I'm going, jeez... }
-{273}{}{好吧，我要走了，天哪。。。}
+{273}{}{好吧，我要走了，天哪...}
 #{274}{}{[You leave to the cemetery and come back after Justin sees the truth. He collapses onto a chair and grabs his head, letting out a long, miserable groan.}
 {274}{}{[你去墓地，等贾斯汀看到真相后再回来。他倒在椅子上，抓住头，发出一声长长的、痛苦的呻吟。}
 #{275}{}{Oh, I'm sorry, World's Best Dad, I didn't catch that. Can you repeat it?}
@@ -247,11 +247,11 @@
 #{278}{}{Oh?}
 {278}{}{哦？}
 #{279}{}{Now, do you understand why I always fought newcomers? How can we be responsible for them if we can't deal with our own problems? God, Eugene... How did it ever go this far?}
-{279}{}{你明白我为什么总是和新来的人打架吗？如果我们不能处理好自己的问题，我们怎么能对他们负责呢？天啊，尤金。。。怎么会走这么远？}
+{279}{}{你明白我为什么总是和新来的人打架吗？如果我们不能处理好自己的问题，我们怎么能对他们负责呢？天啊，尤金...怎么会走这么远？}
 #{280}{}{You knew about this?!}
 {280}{}{你知道吗？！}
 #{281}{}{No! I mean... Fuck... I never wanted this. When I heard William wanted to set up a caravan route with Reno, I got pissed. My son offered to scare off the caravan with a few warning shots from the mountains. I said no, but... I guess he told his new friends. I never meant for this to happen! All I wanted was a peaceful, quiet life.}
-{281}{}{不！我是说。。。性交。。。我从来没有想要过这个。当我听说威廉想和雷诺安排一条商队路线时，我很生气。我儿子提出从山上开几枪警告，吓跑商队。我说不，但是。。。我猜他告诉了他的新朋友。我从没想过会发生这种事！我只想要一个平静的生活。}
+{281}{}{不！我是说...性交...我从来没有想要过这个。当我听说威廉想和雷诺安排一条商队路线时，我很生气。我儿子提出从山上开几枪警告，吓跑商队。我说不，但是...我猜他告诉了他的新朋友。我从没想过会发生这种事！我只想要一个平静的生活。}
 #{282}{}{It seems you just weren't meant to have one. What now?}
 {282}{}{看来你不是命中注定要有一个。现在怎么办？}
 #{283}{}{I'm sorry I put you through this, but now we have to do something.}
@@ -271,7 +271,7 @@
 #{291}{}{Yeah, I get it. And now it's time for this stranger to make more history somewhere else. Bye.}
 {291}{}{是的，我明白了。现在是这个陌生人在其他地方创造更多历史的时候了。再见。}
 #{292}{}{I don't see that caravan around. I won't lie - I'm glad. So it would have brought so more money - so what? Let that money stay in Reno with the whores, the drug addicts, and the gang lords. William was *this* close to destroying everything we've built... And the only thing that saved us is some stranger from the wastes. Isn't that crazy?}
-{292}{}{我没看见那辆大篷车。我不会撒谎-我很高兴。所以它会带来更多的钱-那又怎样？让那些钱留在里诺和妓女，吸毒者，黑帮老大在一起。威廉差点毁了我们建造的一切。。。唯一能救我们的是一个陌生人。这不是很疯狂吗？}
+{292}{}{我没看见那辆大篷车。我不会撒谎-我很高兴。所以它会带来更多的钱-那又怎样？让那些钱留在里诺和妓女，吸毒者，黑帮老大在一起。威廉差点毁了我们建造的一切...唯一能救我们的是一个陌生人。这不是很疯狂吗？}
 #{1121}{}{What have you done?! Now this filth is never gonna leave! What was the point of curing her? Believe me, everyone would be better off with her gone!}
 {1121}{}{你做了什么？！现在这肮脏的东西永远不会离开！治好她有什么意义？相信我，她走了大家都会过得更好！}
 #{1127}{}{Sorry, I misunderstood you. Now she's dead. You can go and see for yourself.}
@@ -283,7 +283,7 @@
 #{1201}{}{As you wish. I did what I had to.}
 {1201}{}{如你所愿。我做了我该做的。}
 #{1219}{}{Hey, I don't want to blame anyone without evidence, but you and I both know - it was one of William's outsiders. Hey, how about you? Where were you when the brahmin went missing?}
-{1219}{}{嘿，我不想责怪任何没有证据的人，但你和我都知道——那是威廉的一个局外人。嘿，你呢？婆罗门失踪的时候你在哪里？}
+{1219}{}{嘿，我不想责怪任何没有证据的人，但你和我都知道——那是威廉的一个局外人。嘿，你呢？双头牛失踪的时候你在哪里？}
 #{1283}{}{I'm sorry I put you through this, but now we have to do something.}
 {1283}{}{很抱歉让你经历了这些，但现在我们得做点什么。}
 #{1290}{}{So we've got you to thank for the caravan, huh? Did you even think about what'll happen to Black Rock, now? They'll bring more people here. Whores, drug addicts, criminals. You don't even give a shit, do you? You don't even live here. You're just some stranger who blew in from the wastes, and you've decided all of our futures. How fucked up is that?}
@@ -291,4 +291,4 @@
 #{1291}{}{Yeah, I get it. And now it's time for this stranger to make more history somewhere else. Bye.}
 {1291}{}{是的，我明白了。现在是这个陌生人在其他地方创造更多历史的时候了。再见。}
 #{1292}{}{I don't see that caravan around. I won't lie - I'm glad. So it would have brought so more money - so what? Let that money stay in Reno with the whores, the drug addicts, and the gang lords. William was *this* close to destroying everything we've built... And the only thing that saved us is some stranger from the wastes. Isn't that crazy?}
-{1292}{}{我没看见那辆大篷车。我不会撒谎-我很高兴。所以它会带来更多的钱-那又怎样？让那些钱留在里诺和妓女，吸毒者，黑帮老大在一起。威廉差点毁了我们建造的一切。。。唯一能救我们的是一个陌生人。这不是很疯狂吗？}
+{1292}{}{我没看见那辆大篷车。我不会撒谎-我很高兴。所以它会带来更多的钱-那又怎样？让那些钱留在里诺和妓女，吸毒者，黑帮老大在一起。威廉差点毁了我们建造的一切...唯一能救我们的是一个陌生人。这不是很疯狂吗？}

@@ -9,19 +9,19 @@
 #{104}{}{Get out!}
 {104}{}{走出！}
 #{105}{}{My... Heart... How... Painful... }
-{105}{}{我的。。。心。。。怎样。。。痛苦。。。}
+{105}{}{我的...心...怎样...痛苦...}
 #{106}{}{Ugh... Marin... }
-{106}{}{呃。。。马林。。。}
+{106}{}{呃...马林...}
 #{107}{}{A-a-arrgh!!!}
 {107}{}{啊啊啊！！！}
 #{108}{}{*cough*... *cough*... }
-{108}{}{*咳嗽*。。。*咳嗽*。。。}
+{108}{}{*咳嗽*...*咳嗽*...}
 #{109}{}{A quiet and painful death caught up to the businessman near his bed.}
 {109}{}{一场平静而痛苦的死亡降临在这位商人的床边。}
 #{110}{}{Machete said you wanted to see me. I'm ready to hear you out.}
 {110}{}{弯刀说你想见我。我准备好听你说完了。}
 #{111}{}{I apologize for bothering you, Mr. Luciano. I'll come back when I have something that's worth your time, if you let me... }
-{111}{}{很抱歉打扰你，卢西亚诺先生。当我有值得你花时间的东西时我会回来的，如果你让我。。。}
+{111}{}{很抱歉打扰你，卢西亚诺先生。当我有值得你花时间的东西时我会回来的，如果你让我...}
 #{112}{}{I'm not in this best mood, so this had better be good.}
 {112}{}{我现在心情不太好，所以最好是好心情。}
 #{113}{}{Come in, make yourself comfortable. I can find a spare minute for you.}
@@ -59,13 +59,13 @@
 #{129}{}{Well, you've made yourself clear, sir. I won't bother you again.}
 {129}{}{你说得很清楚，先生。我不会再打扰你了。}
 #{130}{}{I thought you worked for *me*. You'd better not have any more surprises like this one up your sleeve. I'm disappointed, but our relations with Wright have been tense for far too long. Tell him I'm ready to arrange a meeting... Solely because I trust you.}
-{130}{}{我以为你为我工作。你最好别再有这样的惊喜了。我很失望，但我们和赖特的关系紧张太久了。告诉他我准备好安排一个会议。。。只是因为我信任你。}
+{130}{}{我以为你为我工作。你最好别再有这样的惊喜了。我很失望，但我们和赖特的关系紧张太久了。告诉他我准备好安排一个会议...只是因为我信任你。}
 #{131}{}{Thanks, boss.}
 {131}{}{谢谢，老板。}
 #{132}{}{That's great.}
 {132}{}{太好了。}
 #{133}{}{Well, our relations with Wright have been tense for far too long. But I don't understand, why did he send me such a... Dubious little lickspittle rather than a member of his family?}
-{133}{}{嗯，我们和赖特的关系紧张太久了。但我不明白，他为什么要送我这么。。。可疑的小家伙而不是他的家人？}
+{133}{}{嗯，我们和赖特的关系紧张太久了。但我不明白，他为什么要送我这么...可疑的小家伙而不是他的家人？}
 #{134}{}{Because, unlike his people, I'm not being watched. Mr. Luciano, you know how dangerous it is to operate out in the open. Mr. Wright chose me for my discretion.}
 {134}{}{因为，不像他的人，我没有被监视。卢西亚诺先生，你知道在外面做手术有多危险。莱特先生选择我是因为我的谨慎。}
 #{135}{}{Yes, I may not be a member of the family, but Mr. Wright felt comfortable entrusting me with such a sensitive task based on my sterling reputation in town.}
@@ -77,15 +77,15 @@
 #{138}{}{Well, I'll pass your rejection on to Mr. Wright.}
 {138}{}{好吧，我把你的拒绝转达给赖特先生。}
 #{139}{}{I'll admit, you think things through better than most underlings. Perhaps that's why Wright picked you for this job, instead of a family member. After all, his sons together have less brains, than a one-headed Brahmin. Okay, you win. Tell Theodore that I'm ready to meet.}
-{139}{}{我承认，你比大多数下属想得更透彻。也许这就是为什么莱特选你做这份工作，而不是选你做家庭成员。毕竟，他的儿子们加在一起比一个头的婆罗门有更少的大脑。好吧，你赢了。告诉西奥多我准备好见面了。}
+{139}{}{我承认，你比大多数下属想得更透彻。也许这就是为什么莱特选你做这份工作，而不是选你做家庭成员。毕竟，他的儿子们加在一起比一个头的双头牛有更少的大脑。好吧，你赢了。告诉西奥多我准备好见面了。}
 #{140}{}{You reputation isn't worth a bucket of brahmin piss to me. Leave and tell Wright that he should send a better intermediary next time.}
-{140}{}{你的名声对我来说不值一桶婆罗门的尿。离开并告诉赖特，他下次应该派一个更好的中介。}
+{140}{}{你的名声对我来说不值一桶双头牛的尿。离开并告诉赖特，他下次应该派一个更好的中介。}
 #{141}{}{Because, unlike his people, I'm not being watched. Mr. Luciano, you know how dangerous it is to operate out in the open. Mr. Wright chose me for my discretion.}
 {141}{}{因为，不像他的人，我没有被监视。卢西亚诺先生，你知道在外面做手术有多危险。莱特先生选择我是因为我的谨慎。}
 #{142}{}{No. I'm not interested in negotiating with a businessman who's fallen so low that he sends some pathetic flunky instead of his own sons.}
 {142}{}{不，我不想和一个生意人谈判，他已经堕落到让一个可怜的奴才代替自己的儿子。}
 #{143}{}{You're refusing because of me? Well, at least I tried... }
-{143}{}{你拒绝是因为我？好吧，至少我试过。。。}
+{143}{}{你拒绝是因为我？好吧，至少我试过...}
 #{144}{}{Hey, easy there! I'll have you know I've got a bright future waiting for me here in Reno.}
 {144}{}{嘿，别紧张！我会让你知道我在雷诺有一个光明的未来等着我。}
 #{145}{}{I already told you my decision. You've done nothing to change my opinion.}
@@ -99,7 +99,7 @@
 #{150}{}{Mr. Luciano, I want to work for you.}
 {150}{}{卢西亚诺先生，我想为你工作。}
 #{151}{}{Lots of people *say* that. But when it comes to actually doing work, most of them are are about as useful as brahmin shit. And just like brahmin shit, the ones who are all talk end up in the compost heap... If you catch my drift.}
-{151}{}{很多人都这么说。但说到真正的工作，他们中的大多数人几乎和婆罗门的大便一样有用。就像婆罗门的大便一样，那些会说话的人最终会被扔进堆肥堆里。。。如果你明白我的意思。}
+{151}{}{很多人都这么说。但说到真正的工作，他们中的大多数人几乎和双头牛的大便一样有用。就像双头牛的大便一样，那些会说话的人最终会被扔进堆肥堆里...如果你明白我的意思。}
 #{152}{}{I hear you. So what about the job?}
 {152}{}{我听到了。那工作呢？}
 #{153}{}{Listen, I don't accept just anybody. I need someone with impeccable credentials. The question is, do you have them?}
@@ -143,7 +143,7 @@
 #{172}{}{Did you complete your task?}
 {172}{}{你完成任务了吗？}
 #{173}{}{Eh, I just wanted to clarify something... }
-{173}{}{呃，我只是想澄清一下。。。}
+{173}{}{呃，我只是想澄清一下...}
 #{174}{}{[Raises his voice] I told you, ENOUGH! Now start using your few remaining brain cells and do the goddamn job!}
 {174}{}{我告诉过你，够了！现在开始用你剩下的几个脑细胞来做这该死的工作！}
 #{175}{}{[Leave.]}
@@ -165,7 +165,7 @@
 #{183}{}{I'm listening.}
 {183}{}{我在听。}
 #{184}{}{I've got bad news: Chase happened to run into an "accident", and I... }
-{184}{}{我有个坏消息：蔡斯碰巧遇到了一场“事故”，我。。。}
+{184}{}{我有个坏消息：蔡斯碰巧遇到了一场“事故”，我...}
 #{185}{}{I don't believe in "accidents" and you didn't even bother to give me an explanation. Guards!}
 {185}{}{我不相信“意外”，你甚至懒得给我解释。警卫！}
 #{186}{}{I believe you. I can see you're all about business. You don't need to suck up to the powerful to seek "friendship." I like it. I'll hire you, but know this: I am not a forgiving man. And if you fail me my people will nail your ass to the wall, even if they have to chase you into the depths of hell to do it.}
@@ -177,7 +177,7 @@
 #{191}{}{That's it? Speak to Machete, he handles the little things.}
 {191}{}{就这样？和弯刀说话，他处理小事。}
 #{192}{}{Ugh... }
-{192}{}{呃。。。}
+{192}{}{呃...}
 #{193}{}{I'm a man of my word. I promised to give you my assistance in exchange for your help. And this time it won't be just words. You can take this slave, I'll give the order. Go to the paddock and tell the guards that Joseph is yours.}
 {193}{}{我是个守信用的人。我答应给你我的帮助以换取你的帮助。而这一次不仅仅是语言。你可以带走这个奴隶，我来下命令。去围场告诉卫兵约瑟夫是你的。}
 #{194}{}{Thank you, Mr. Luciano.}
@@ -195,7 +195,7 @@
 #{204}{}{Understood. Something else?}
 {204}{}{理解。还有别的吗？}
 #{205}{}{[He frowns] I'm not a thief! I work for a living. But perhaps you're confused by my request... Well, to clear any doubts, I'll explain myself. I don't need the money itself as much as I need Bertolini to go broke. He collected this sum for a reason.}
-{205}{}{[他皱眉]我不是小偷！我以工作为生。但也许你被我的要求搞糊涂了。。。好吧，为了澄清任何疑问，我会自己解释的。我不需要钱，就像我需要贝托里尼破产一样。他收取这笔钱是有原因的。}
+{205}{}{[他皱眉]我不是小偷！我以工作为生。但也许你被我的要求搞糊涂了...好吧，为了澄清任何疑问，我会自己解释的。我不需要钱，就像我需要贝托里尼破产一样。他收取这笔钱是有原因的。}
 #{206}{}{Understood. You said that this is the main goal. There are secondary objectives?}
 {206}{}{理解。你说这是主要目标。有次要目标吗？}
 #{207}{}{Once Bertolini loses his savings, it will still take some time for his business to unravel. When that happens all his people will boil up like ants running out of a devastated anthill. We must postpone this moment of crisis as long as possible.}
@@ -229,7 +229,7 @@
 #{221}{}{Not yet, I'm working on it.}
 {221}{}{还没有，我正在努力。}
 #{222}{}{This is good news. That means I have time to prepare... So, time for you to get paid.}
-{222}{}{这是个好消息。那意味着我有时间准备。。。所以，是时候给你发工资了。}
+{222}{}{这是个好消息。那意味着我有时间准备...所以，是时候给你发工资了。}
 #{223}{}{Thank you.}
 {223}{}{非常感谢。}
 #{224}{}{}
@@ -249,7 +249,7 @@
 #{231}{}{That's all?}
 {231}{}{这就是全部？}
 #{232}{}{Yes, all... You're still here?}
-{232}{}{是的，所有。。。你还在这里？}
+{232}{}{是的，所有...你还在这里？}
 #{233}{}{Already leaving, Mr. Luciano.}
 {233}{}{已经走了，卢西亚诺先生。}
 #{234}{}{Good work! Also, I heard about some "commotion" at the casino. I don't know if you had anything to do with it, but I'll warn you once - be careful while you're working for me. Since you got the job done, though, I'll pay you what I'd planned to. [he gives you $1000]}
@@ -307,7 +307,7 @@
 #{272}{}{Thanks, Mr. Luciano. Goodbye.}
 {272}{}{谢谢，卢西亚诺先生。再见。}
 #{273}{}{And I appreciate your help. But recently I found out that you're playing a double game. Obviously you're not driven by faith in man or his ideas, but by the smell of money. My competitor must have paid you well. Now you can meet your old age in comfort... But I've talked too much. You know where the door is. From now on there's nothing tying you to this place.}
-{273}{}{我很感激你的帮助。但最近我发现你在玩双重游戏。很明显，你不是被人的信仰或他的想法所驱使，而是被金钱的味道所驱使。我的竞争对手一定给了你很多钱。现在你可以安享晚年了。。。但我说得太多了。你知道门在哪里。从现在起你和这个地方没有任何联系。}
+{273}{}{我很感激你的帮助。但最近我发现你在玩双重游戏。很明显，你不是被人的信仰或他的想法所驱使，而是被金钱的味道所驱使。我的竞争对手一定给了你很多钱。现在你可以安享晚年了...但我说得太多了。你知道门在哪里。从现在起你和这个地方没有任何联系。}
 #{300}{}{I'm a representative of the Cotton Club. We'd like to make a deal with you to protect concerts at the club.}
 {300}{}{我是棉花俱乐部的代表。我们想和你做一笔交易来保护俱乐部的音乐会。}
 #{301}{}{A concert? This is inspiring news. If the club needs security, I can offer some. But I'd like to receive more benefits in exchange. Tell the owner that I'll help him if he'll pay me 15% of the revenue from each day of the concert and also give me the sole contract to supply the club with food. He'll also have to stop paying protection money to Thompson.}
@@ -325,7 +325,7 @@
 #{1119}{}{You don't understand, you dolt. I just want to win.}
 {1119}{}{你不明白，笨蛋。我只想赢。}
 #{1130}{}{I assumed that you worked for *me*. How many more unpleasant surprises do you have up your sleeves? While I'm disappointed, the truth is that our relations with Wright have been tense for far too long. Tell him I'm ready to arrange a meeting... Solely because I trust you.}
-{1130}{}{我以为你为我工作。你还有多少不愉快的惊喜？虽然我很失望，但事实是我们和赖特的关系紧张太久了。告诉他我准备好安排一个会议。。。只是因为我信任你。}
+{1130}{}{我以为你为我工作。你还有多少不愉快的惊喜？虽然我很失望，但事实是我们和赖特的关系紧张太久了。告诉他我准备好安排一个会议...只是因为我信任你。}
 #{1143}{}{You're refusing because of me? Well, at least I tried... .}
 {1143}{}{你拒绝是因为我？好吧，至少我试过。}
 #{1157}{}{I already helped you out with Canary. Why don't you do me a favor in return?}
@@ -351,7 +351,7 @@
 #{1226}{}{[He counts $350] Despite the fact that you managed to steal the money and cover your tracks, you made a big mistake. You weren't supposed to kill Bertolini! I can't have his murderer associated with my organization, so I want nothing more to do with you. Leave.}
 {1226}{}{[他数了350美元]尽管你设法偷了钱并掩盖了你的行踪，但你犯了一个大错。你不该杀贝托里尼！我不能让凶手和我的组织有联系，所以我不想再和你有任何关系。离开。}
 #{1249}{}{I've used your services in order to regain my former influence in the city. There are two ways to do this - weaken your rivals or become stronger yourself. The first part you've done, now it's time has come to take care about the second... }
-{1249}{}{我利用你的服务来恢复我以前在这个城市的影响力。有两种方法可以做到这一点-削弱你的对手或变得更强自己。你已经做了第一部分，现在是时候来照顾第二。。。}
+{1249}{}{我利用你的服务来恢复我以前在这个城市的影响力。有两种方法可以做到这一点-削弱你的对手或变得更强自己。你已经做了第一部分，现在是时候来照顾第二...}
 #{1264}{}{Come in, there's something we need to talk about: your cowardice and stupidity! You think you can come in here with your head bowed and receive charity? You show your face here after blowing such an important transaction? Your idiocy is astonishing. Just thank God that I haven't shot you already! [he is consumed by mad coughing and choking, clutching his chest, before he recovers] Fortunately for you, my people have frightened off the convoy, and they fled into the the wasteland. The goods remained with me. Out of respect for what you've done before, I'll let you go in peace. New get out!}
 {1264}{}{进来，有件事我们需要谈谈：你的懦弱和愚蠢！你以为你能低着头来这里接受慈善吗？这么重要的交易搞砸了，你还敢在这里露脸？你的白痴令人吃惊。谢天谢地，我还没开枪打你呢！[他被疯狂的咳嗽和窒息所吞噬，紧抓着他的胸膛，在他恢复之前]对你来说幸运的是，我的人民吓跑了车队，他们逃进了荒地。货物留在我这里。出于对你以前所做一切的尊重，我会让你平静地离开。新的出去！}
 #{1268}{}{Thank you, boss, but that's too much responsibility for me. I have to refuse.}

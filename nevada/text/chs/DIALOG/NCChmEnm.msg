@@ -23,7 +23,7 @@
 #{119}{}{Oh really?}
 {119}{}{哦，真的吗？}
 #{120}{}{I'm serious. Uh... Deveraux cooked up a bomb and will blow the whole building to hell. And don't think he won't do it - the man's desperate! You shouldn't have backed him into a corner!}
-{120}{}{我是认真的。休斯敦大学。。。德弗罗制造了一枚炸弹，会把整栋楼炸成地狱。别以为他不会这么做-那人绝望了！你不该把他逼到墙角！}
+{120}{}{我是认真的。Uh...德弗罗制造了一枚炸弹，会把整栋楼炸成地狱。别以为他不会这么做-那人绝望了！你不该把他逼到墙角！}
 #{121}{}{Damn, I knew he was crazy. Listen, you wanna run? That's your problem. You'll still get caught. I'm not going to die for this.}
 {121}{}{该死，我就知道他疯了。听着，你想跑吗？那是你的问题。你还是会被抓住的。我不会为此而死。}
 #{122}{}{Good.}
@@ -33,6 +33,6 @@
 #{124}{}{You two have to get the hell out of here, now. Stryker's got a new plan and you're about to fuck it all up. I shouldn't even be telling you this! Move it!}
 {124}{}{你们两个赶紧离开这里。史崔克有了新计划，你就要搞砸了。我不该告诉你这些！快点！}
 #{125}{}{Damn it, Stryker and his secrets... Don't worry, we won't interfere.}
-{125}{}{该死的，史崔克和他的秘密。。。别担心，我们不会干涉的。}
+{125}{}{该死的，史崔克和他的秘密...别担心，我们不会干涉的。}
 #{126}{}{Go.}
 {126}{}{去吧。}

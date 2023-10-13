@@ -9,7 +9,7 @@
 #{104}{}{How should I live if Master is gone?}
 {104}{}{主人走了我该怎么活？}
 #{105}{}{I don't know... I can't live any other way.}
-{105}{}{我不知道。。。我不能以其他方式生活。}
+{105}{}{我不知道...我不能以其他方式生活。}
 #{106}{}{Master is fair, but very cruel.}
 {106}{}{主人很公平，但很残忍。}
 #{107}{}{Sometimes, Master gets very angry. It's best to keep quiet then.}

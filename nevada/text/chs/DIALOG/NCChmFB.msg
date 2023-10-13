@@ -3,7 +3,7 @@
 #{101}{}{You see a man in dark sunglasses and a duster that looks like it's a lot of trips across the desert.}
 {101}{}{你看到一个戴着墨镜和掸子的男人，看起来像是穿越沙漠的旅行。}
 #{102}{}{They're close...}
-{102}{}{他们很接近。。。}
+{102}{}{他们很接近...}
 #{103}{}{Thank you, friend. We couldn't have done this without you.}
 {103}{}{谢谢你，朋友。没有你我们不可能做到这一点。}
 #{104}{}{Thanks for the help. We'll bury the dead and head off to San Francisco. This is gonna be a tough one to forget.}

@@ -21,7 +21,7 @@
 #{121}{}{Me STRONG!}
 {121}{}{让我坚强！}
 #{122}{}{Good... For outsider.}
-{122}{}{很好。。。对局外人来说。}
+{122}{}{很好...对局外人来说。}
 #{123}{}{You tribe is honor.}
 {123}{}{你的部落是荣誉。}
 #{124}{}{Me never forgive!}
@@ -81,7 +81,7 @@
 #{303}{}{Paleface? Is that what you call outsiders?}
 {303}{}{脸色苍白？这就是你所说的局外人吗？}
 #{304}{}{Watch your tone, or else...}
-{304}{}{注意你的语气，否则。。。}
+{304}{}{注意你的语气，否则...}
 #{305}{}{Fine.}
 {305}{}{好的。}
 #{306}{}{Don't worry, I won't make trouble.}
@@ -109,7 +109,7 @@
 #{320}{}{Paleface!}
 {320}{}{脸色苍白！}
 #{321}{}{Paleface! ...hmm. You eyes... Children of Devourer's eyes.}
-{321}{}{脸色苍白。。。嗯。你的眼睛。。。吞食者之眼的孩子们。}
+{321}{}{脸色苍白...嗯。你的眼睛...吞食者之眼的孩子们。}
 #{322}{}{What do you know about the raiders?}
 {322}{}{你对袭击者了解多少？}
 #{323}{}{Tell me about your tribe.}
@@ -179,11 +179,11 @@
 #{357}{}{Long talk. Bring sandwich, bring milk. Me hungry.}
 {357}{}{长谈。带三明治，带牛奶。我饿了。}
 #{358}{}{Sandwich and brahmin milk. I'll be right back!}
-{358}{}{三明治和婆罗门牛奶。我马上回来！}
+{358}{}{三明治和双头牛牛奶。我马上回来！}
 #{359}{}{I'll think about it.}
 {359}{}{我会考虑的。}
 #{360}{}{Here's the sandwich and brahmin milk.}
-{360}{}{这是三明治和婆罗门牛奶。}
+{360}{}{这是三明治和双头牛牛奶。}
 #{361}{}{Ha! You see, good have two sides, bright side, dark side. Sometimes, dark give more knowledge.}
 {361}{}{哈！你看，好有两面，光明的一面，黑暗的一面。有时候，黑暗会给你更多的知识。}
 #{362}{}{What did you need?}
@@ -243,7 +243,7 @@
 #{392}{}{No, paleface. You stranger, me stranger. No fight.}
 {392}{}{不，脸色苍白。你是陌生人，我是陌生人。不要打架。}
 #{393}{}{You don't trust me? Fine...}
-{393}{}{你不相信我？好的。。。}
+{393}{}{你不相信我？好的...}
 #{394}{}{Maybe later, then.}
 {394}{}{也许以后吧。}
 #{400}{}{[He scratches his head and frowns] Hmm...strange talk. Ray dee oh?}
@@ -281,7 +281,7 @@
 #{1320}{}{Paleface!}
 {1320}{}{脸色苍白！}
 #{1321}{}{Paleface! ...hmm. You eyes...children of Devourer's eyes.}
-{1321}{}{脸色苍白。。。嗯。你的眼睛…吞食者眼睛的孩子。}
+{1321}{}{脸色苍白...嗯。你的眼睛…吞食者眼睛的孩子。}
 #{1350}{}{No, paleface. Me no teach. Find teacher in camp.}
 {1350}{}{不，脸色苍白。不要教我。在营地找老师。}
 #{1352}{}{No, paleface. You outsider. Outsider dangerous. Cheyenne no help dangerous outsider.}

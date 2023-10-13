@@ -24,9 +24,9 @@
 {119}{}{我很好奇为什么市长雇我做私家侦探？}
 #{120}{}{Private investigator? I didn't think there is such thing in the wasteland.}
 {120}{}{私家侦探？我没想到荒地里会有这样的东西。}
-#{121}{}{I think he doesn�t trust you and thinks you're a piece of shit, not capable of doing a job well. But he recognized me as specialist!}
+#{121}{}{I think he doesn??t trust you and thinks you're a piece of shit, not capable of doing a job well. But he recognized me as specialist!}
 {121}{}{我认为他不信任你，认为你是个混蛋，没有能力把工作做好。但他认出我是专家！}
-#{122}{}{I think the mayor doesn�t trust you. Don�t you think so?}
+#{122}{}{I think the mayor doesn??t trust you. Don??t you think so?}
 {122}{}{我想市长不信任你。你不这么认为吗？}
 #{123}{}{Yes, it happens sometimes. See you later.}
 {123}{}{是的，有时会发生。再见。}
@@ -34,10 +34,10 @@
 {124}{}{别庆祝得太早，傲慢先生。让我们看看有多少屎会飞出你的耻辱柱。}
 #{125}{}{Pillar of shame? You will not drag me there! Hell no!}
 {125}{}{耻辱柱？你不能把我拖到那儿去！他妈的不！}
-#{126}{}{Whoa, okay, I get the point. It�s all good, Mr. Davis. No problem.}
+#{126}{}{Whoa, okay, I get the point. It??s all good, Mr. Davis. No problem.}
 {126}{}{喔，好吧，我明白了。一切都很好，戴维斯先生。没问题。}
 #{127}{}{You should think about whether he trusts *you*. We, at least, have long been engaged in the maintaining order in the city...}
-{127}{}{你应该想想他是否信任你。至少，我们长期以来一直致力于维护城市秩序。。。}
+{127}{}{你应该想想他是否信任你。至少，我们长期以来一直致力于维护城市秩序...}
 #{128}{}{I'm investigating latest crimes in the city. The mayor believes that they are all connected. Could you tell me the details?}
 {128}{}{我正在调查这个城市的最新犯罪。市长认为他们都有联系。你能告诉我细节吗？}
 #{129}{}{The city has a lot going on right now. }
@@ -67,16 +67,16 @@
 #{150}{}{You are aware of responsibility for what you've said?}
 {150}{}{你知道对你所说的话负有责任吗？}
 #{151}{}{Of course, he tried to convince me to set up the freaks... Er, I meant ghouls, with drugs. This conversation is recorded.}
-{151}{}{当然，他试图说服我去陷害那些怪胎。。。呃，我是说有毒品的食尸鬼。此对话已录制。}
+{151}{}{当然，他试图说服我去陷害那些怪胎...呃，我是说有毒品的食尸鬼。此对话已录制。}
 #{152}{}{Of course. I have proof - here's a record made during the conversation, when he tried to push me to commit a crime against Bob Neil.}
 {152}{}{当然。我有证据-这是谈话中的一个记录，他试图逼我对鲍勃·尼尔犯罪。}
 #{153}{}{Perhaps I'm not ready. Another question.}
 {153}{}{也许我还没准备好。另一个问题。}
 #{154}{}{Perhaps I'm not ready to take responsibility. Take care.}
 {154}{}{也许我还没准备好承担责任。当心。}
-#{155}{}{I will look into this recording. But I can�t promise anything.}
+#{155}{}{I will look into this recording. But I can??t promise anything.}
 {155}{}{我会调查这段录音。但我不能保证什么。}
-#{156}{}{I don�t trust you! This is a lie! Give me back the proof, you damn cop!!!}
+#{156}{}{I don??t trust you! This is a lie! Give me back the proof, you damn cop!!!}
 {156}{}{我不相信你！这是个谎言！把证据还给我，你这个该死的警察！！！}
 #{157}{}{Will I be rewarded?}
 {157}{}{我会得到奖励吗？}
@@ -88,7 +88,7 @@
 {160}{}{羞愧。太糟糕了。}
 #{161}{}{This is a major proof. Well, let me have the holodisk, I need some time to study it.}
 {161}{}{这是一个重要的证据。好吧，把全息光盘给我，我需要一些时间研究一下。}
-#{162}{}{I don�t believe you! You�re lying!}
+#{162}{}{I don??t believe you! You??re lying!}
 {162}{}{我不相信你！你在撒谎！}
 #{163}{}{No, I cannot give you the original recording.}
 {163}{}{不，我不能给你原始录音。}
@@ -104,13 +104,13 @@
 {168}{}{你在威胁我！好吧，那就试着从我这里拿走证据，警察！}
 #{169}{}{Sorry, Mr. Davis. I did not immediately get the point. Here is the holodisk.}
 {169}{}{对不起，戴维斯先生。我没有马上明白这一点。这是全息光盘。}
-#{170}{}{[Mockingly] Tsk, tsk, tsk. You don�t say? A killer cop?! That's new.}
+#{170}{}{[Mockingly] Tsk, tsk, tsk. You don??t say? A killer cop?! That's new.}
 {170}{}{[嘲讽地]Tsk，Tsk，Tsk。你不说？一个杀人警察？！这是新的。}
 #{171}{}{Whatever you say. Another question.}
 {171}{}{不管你说什么。另一个问题。}
 #{172}{}{Well then, I'm sorry to bother you.}
 {172}{}{那么，很抱歉打扰你。}
-#{173}{}{I'm not here to play games. Do you think it�s nice to be poked in the face with the barrel of a revolver?!}
+#{173}{}{I'm not here to play games. Do you think it??s nice to be poked in the face with the barrel of a revolver?!}
 {173}{}{我不是来玩游戏的。你觉得被左轮手枪的枪管戳到脸上好吗？！}
 #{174}{}{Perhaps it was inspector Callahan. Well, it's the specifics of his work - sometimes he goes too far. To be honest, his methods previously saved many lives, but are a bit outdated nowadays. I will raise the issue of dismissal of the inspector, and take my apology for the inconvenience.}
 {174}{}{也许是卡拉汉探长。嗯，这是他工作的细节——有时他做得太过火了。老实说，他的方法以前救了很多人的命，但现在有点过时了。我将提出解雇检查员的问题，并对给您带来的不便表示歉意。}
@@ -149,12 +149,12 @@
 #{191}{}{Read this. I think, identifying the handwriting won't be that difficult.}
 {191}{}{读这个。我想，辨认笔迹不会那么难。}
 #{192}{}{Tell your pets that they can continue to stay in this city... For now. But someday I'll get to the bottom of this. And then nothing will save them, even this miserable piece of paper! [angrily squeezes a document in the hands]}
-{192}{}{告诉你的宠物他们可以继续留在这个城市。。。现在。但总有一天我会弄清真相的。然后什么也救不了他们，即使是这张可怜的纸！[愤怒地挤压手中的文件]}
+{192}{}{告诉你的宠物他们可以继续留在这个城市...现在。但总有一天我会弄清真相的。然后什么也救不了他们，即使是这张可怜的纸！[愤怒地挤压手中的文件]}
 #{193}{}{What did you say about pets, eh?! I will show you a pet, fucking asshole with a badge!}
 {193}{}{你怎么说宠物的，嗯？！我要给你看一只宠物，带着徽章的混蛋！}
-#{194}{}{That�s better!}
+#{194}{}{That??s better!}
 {194}{}{那更好！}
-#{195}{}{Come on, don�t be so upset! They're good guys! You'll see.}
+#{195}{}{Come on, don??t be so upset! They're good guys! You'll see.}
 {195}{}{来吧，别这么难过！他们是好人！你会看到的。}
 #{196}{}{Very good news! Finally, we will end with this plague in the city. And citizens like you are usually being rewarded by more sonorous means. [hands you 2000$] Here's your payment.}
 {196}{}{好消息！最后，我们将以这个城市的瘟疫结束。像你这样的公民通常会得到更响亮的奖励。[递给你2000美元]这是你的报酬。}
@@ -162,9 +162,9 @@
 {197}{}{你在准备突袭他们，是吗？我想参加！}
 #{198}{}{Thanks for the money.}
 {198}{}{谢谢你的钱。}
-#{199}{}{An extra gun will come in handy. I don�t mind. We are heading out right now. Are you ready?}
+#{199}{}{An extra gun will come in handy. I don??t mind. We are heading out right now. Are you ready?}
 {199}{}{一把额外的枪会派上用场的。我不介意。我们现在就出发。你准备好了吗？}
-#{200}{}{Sure! Let�s do it!}
+#{200}{}{Sure! Let??s do it!}
 {200}{}{当然！我们开始吧！}
 #{201}{}{Hell no. You'll have to go without me. Good luck!}
 {201}{}{不，你得自己走了。祝你好运！}
@@ -172,7 +172,7 @@
 {202}{}{我只需要值得信赖的人。对不起，市民。}
 #{203}{}{Too bad.}
 {203}{}{太糟糕了。}
-#{204}{}{I�m so glad to hear this, that I won�t even ask, how you got this. Finally, we will end with this plague in the city. And citizens like you are usually being rewarded by more sonorous means. [hands you 2000$] Here's your payment.}
+#{204}{}{I??m so glad to hear this, that I won??t even ask, how you got this. Finally, we will end with this plague in the city. And citizens like you are usually being rewarded by more sonorous means. [hands you 2000$] Here's your payment.}
 {204}{}{我很高兴听到这个，我甚至不会问，你是怎么得到这个的。最后，我们将以这个城市的瘟疫结束。像你这样的公民通常会得到更响亮的奖励。[递给你2000美元]这是你的报酬。}
 #{205}{}{Another splinter on the body of the city. During the search we found a yellow substance, presumably a component for drugs. Although our experts have not yet determined the exact purpose of it.}
 {205}{}{城市的另一块碎片。在搜查过程中我们发现了一种黄色物质，可能是毒品的成分。尽管我们的专家还没有确定它的确切目的。}
@@ -188,11 +188,11 @@
 {210}{}{我希望你能解决这个问题。我得走了。}
 #{211}{}{Why are you so sure, citizen?}
 {211}{}{你为什么这么肯定，公民？}
-#{212}{}{Erm, well I just know it. Isn�t that enough?}
+#{212}{}{Erm, well I just know it. Isn??t that enough?}
 {212}{}{呃，我就知道。这还不够吗？}
-#{213}{}{Well I�m not sure.}
+#{213}{}{Well I??m not sure.}
 {213}{}{我不确定。}
-#{214}{}{Don�t make me laugh. We will not run after Phillips just because someone out there has decided to complain on him. FACTS! We need facts!}
+#{214}{}{Don??t make me laugh. We will not run after Phillips just because someone out there has decided to complain on him. FACTS! We need facts!}
 {214}{}{别逗我笑。我们不会仅仅因为有人决定抱怨菲利普斯就去追他。事实！我们需要事实！}
 #{215}{}{Okay.}
 {215}{}{可以。}
@@ -242,12 +242,12 @@
 {237}{}{他被指控生产和销售一种可怕的毒品。我们知道这多亏了一些间接证据，但我完全相信这是真的。尤其是我们在他的咖啡馆里发现了一种可疑的物质。}
 #{238}{}{You want me to investigate, on the whereabouts of his laboratory?}
 {238}{}{你想让我调查他的实验室的下落？}
-#{239}{}{Basically, the laboratory won�t last without its owner. We should deal with Sam Phillips himself.}
+#{239}{}{Basically, the laboratory won??t last without its owner. We should deal with Sam Phillips himself.}
 {239}{}{基本上，没有主人，实验室是不会长久的。我们应该亲自对付山姆·菲利普斯。}
-#{240}{}{So you�re asking me to find evidence on him?}
+#{240}{}{So you??re asking me to find evidence on him?}
 {240}{}{所以你要我找到他的证据？}
-#{241}{}{I don�t care how, by this point, but we must stop this man! At any cost... Do you understand?}
-{241}{}{我不在乎怎么做，但我们必须阻止这个人！不惜一切代价。。。你明白吗？}
+#{241}{}{I don??t care how, by this point, but we must stop this man! At any cost... Do you understand?}
+{241}{}{我不在乎怎么做，但我们必须阻止这个人！不惜一切代价...你明白吗？}
 #{242}{}{Oh! I see where this is going! You should've said that in the first place - just kill the poor guy for nothing. I'll pass.}
 {242}{}{哦！我明白这是怎么回事了！你一开始就应该这么说-白白杀了这个可怜的家伙。我会过去的。}
 #{243}{}{Well, sometimes criminals should be punished even by unlawful means. I'll help you find the dirt on the man.}
@@ -256,15 +256,15 @@
 {244}{}{很好。我会等好消息的。}
 #{245}{}{Well then, I'll go on my mission.}
 {245}{}{好吧，那我就去执行我的任务。}
-#{246}{}{Area 51? No, I don�t know. But I can tell who possess such information ... If we can make a deal.}
-{246}{}{51区？不，我不知道。但我知道谁掌握了这些信息。。。如果我们能达成协议。}
+#{246}{}{Area 51? No, I don??t know. But I can tell who possess such information ... If we can make a deal.}
+{246}{}{51区？不，我不知道。但我知道谁掌握了这些信息...如果我们能达成协议。}
 #{247}{}{And how can we make a deal?}
 {247}{}{我们怎样才能达成协议？}
-#{248}{}{There's something I don�t like about your wickedness. Forget it.}
+#{248}{}{There's something I don??t like about your wickedness. Forget it.}
 {248}{}{我不喜欢你的邪恶。算了吧。}
 #{249}{}{Surely no! I stay away from shady business. I pass.}
 {249}{}{当然不是！我远离阴暗的生意。我通过了。}
-#{250}{}{I would appeal to the local archive in the town hall. You can�t do that yourself - you don�t have the access. But the info is not for free, do you understand?}
+#{250}{}{I would appeal to the local archive in the town hall. You can??t do that yourself - you don??t have the access. But the info is not for free, do you understand?}
 {250}{}{我会向市政厅的当地档案馆求助。你自己做不到-你没有权限。但是这些信息不是免费的，你明白吗？}
 #{251}{}{Uh, sure. How much do you want for the information?}
 {251}{}{呃，当然。你想要多少信息？}
@@ -288,7 +288,7 @@
 {260}{}{当然。}
 #{261}{}{When you solve our problem with Phillips - then you get the desired coordinates.}
 {261}{}{当你解决我们和菲利普斯的问题-然后你得到所需的坐标。}
-#{262}{}{Damn. Can�t we make a deal another way? Too bad.}
+#{262}{}{Damn. Can??t we make a deal another way? Too bad.}
 {262}{}{该死。我们不能换一种方式做交易吗？太糟糕了。}
 #{263}{}{It's pretty bad. There is a drug laboratory operating in the city, but we are unable to locate it. Some shady business. If you'll find anything out - tell us, and we will take action immediately.}
 {263}{}{很糟糕。城里有一个药物实验室，但我们找不到。一些不正当的生意。如果你发现什么-告诉我们，我们会立即采取行动。}
@@ -296,18 +296,18 @@
 {264}{}{没问题！药物实验室已经完蛋了。}
 #{265}{}{Oh, this is good news! Great work, Mr. Davis!}
 {265}{}{哦，这是个好消息！干得好，戴维斯先生！}
-#{266}{}{I�m sorry to hear that, Mr. Davis. I hope you will figure it out.}
+#{266}{}{I??m sorry to hear that, Mr. Davis. I hope you will figure it out.}
 {266}{}{听到这个消息我很难过，戴维斯先生。我希望你能弄明白。}
 #{267}{}{I want to help with the investigation. I accidentally learned about the existence of the Black Caravan...}
-{267}{}{我想协助调查。我无意中知道了黑商队的存在。。。}
+{267}{}{我想协助调查。我无意中知道了黑商队的存在...}
 #{268}{}{I can help you. It just so happened that I found a drug lab...}
-{268}{}{我可以帮你。碰巧我发现了一个毒品实验室。。。}
+{268}{}{我可以帮你。碰巧我发现了一个毒品实验室...}
 #{269}{}{Excellent work, citizen! You were right to tell me. Black Caravan will be arrested immediately, our squad is on the way. Bastards will give us the location of the lab, I'm sure. Well, you earned a reward. I think I even add something from myself, for the risk. Here is, 2000$.}
 {269}{}{干得好，市民！你告诉我是对的。黑商队马上就要被逮捕了，我们的小队正在路上。我敢肯定，这些混蛋会告诉我们实验室的位置。好吧，你赢得了一份奖励。我想我甚至从自己身上加了点东西，为了冒险。这是2000美元。}
 #{270}{}{Great payment!}
 {270}{}{大酬劳！}
-#{271}{}{Great news, citizen! We will immediately send everyone who can stand on their feet. But we can�t let go the likes of you... Not before rewarding. Relax, this is for you.}
-{271}{}{好消息，市民！我们会立即派所有能站起来的人。但我们不能放过像你这样的人。。。在奖励之前。别紧张，这是给你的。}
+#{271}{}{Great news, citizen! We will immediately send everyone who can stand on their feet. But we can??t let go the likes of you... Not before rewarding. Relax, this is for you.}
+{271}{}{好消息，市民！我们会立即派所有能站起来的人。但我们不能放过像你这样的人...在奖励之前。别紧张，这是给你的。}
 #{272}{}{Wow, thanks for the payment!}
 {272}{}{哇，谢谢你的付款！}
 #{1111}{}{I did nothing. I'm leaving.}
@@ -333,6 +333,6 @@
 #{1245}{}{Well then, I'll go on my mission.}
 {1245}{}{好吧，那我就去执行我的任务。}
 #{1267}{}{I want to help with the investigation. I accidentally learned of the existence of the Black Caravan...}
-{1267}{}{我想协助调查。我无意中得知了黑商队的存在。。。}
+{1267}{}{我想协助调查。我无意中得知了黑商队的存在...}
 #{1268}{}{I can help you. It just so happened that I found a drug lab.}
 {1268}{}{我可以帮你。碰巧我发现了一个毒品实验室。}

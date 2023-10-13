@@ -10,11 +10,11 @@
 {112}{}{我想问问事情进展如何。}
 #{113}{}{Bye.}
 {113}{}{再见。}
-#{114}{}{Well, my wife didn�t even wanted me to leave the house, but I persuaded her and left her all my money. Pretty risky move, but you gave me new hope for life in this town. So I fully expect to get 'em back, even if I die from radiation after a year.}
+#{114}{}{Well, my wife didn??t even wanted me to leave the house, but I persuaded her and left her all my money. Pretty risky move, but you gave me new hope for life in this town. So I fully expect to get 'em back, even if I die from radiation after a year.}
 {114}{}{嗯，我妻子甚至不想我离开这所房子，但我说服了她，把我所有的钱都留给了她。很冒险的举动，但你给了我在这个城市生活的新希望。所以我完全希望他们回来，即使我一年后死于辐射。}
 #{115}{}{Uh, a year?}
 {115}{}{呃，一年？}
-#{116}{}{Well, people don�t live long around here. And I have to work with the ore processing machine, you know.}
+#{116}{}{Well, people don??t live long around here. And I have to work with the ore processing machine, you know.}
 {116}{}{嗯，这里的人活得不长。你知道，我得和矿石加工机一起工作。}
 #{117}{}{Tell me about your job.}
 {117}{}{告诉我你的工作。}
@@ -30,7 +30,7 @@
 {122}{}{流浪者。}
 #{123}{}{What kind of part is needed to fix the machine?}
 {123}{}{修理机器需要什么零件？}
-#{124}{}{There is a blown fuse. Not that it is such a rarity, but we still don�t have it.}
+#{124}{}{There is a blown fuse. Not that it is such a rarity, but we still don??t have it.}
 {124}{}{保险丝烧断了。并不是说它如此稀有，但我们仍然没有它。}
 #{125}{}{I've got some fuse. Will this do?}
 {125}{}{我有保险丝。这样行吗？}

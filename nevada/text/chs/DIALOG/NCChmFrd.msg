@@ -15,7 +15,7 @@
 #{113}{}{You stand out in a crowd, and these gangsters have eyes and ears everywhere. Hell, one spy could be working for both sides. That's just how it is around here. So, you definitely attracted some attention.}
 {113}{}{你在人群中脱颖而出，这些歹徒到处都有眼睛和耳朵。见鬼，一个间谍可能为双方工作。这里就是这样。所以，你确实引起了一些注意。}
 #{114}{}{A little birdie told me you've been in Stryker's lab, and I thought you just *might* listen to the voice of reason. See, Stryker's holding my friend Terry against his will. I'd like to help him, but I can't get into the lab. Stryker keeps everyone out... Everyone but you, it seems.}
-{114}{}{一只小鸟告诉我你去过史崔克的实验室，我想你应该听听理性的声音。你看，史崔克违心抓着我朋友特里。我想帮他，但我进不了实验室。史崔克把所有人都挡在外面。。。似乎除了你以外的所有人。}
+{114}{}{一只小鸟告诉我你去过史崔克的实验室，我想你应该听听理性的声音。你看，史崔克违心抓着我朋友特里。我想帮他，但我进不了实验室。史崔克把所有人都挡在外面...似乎除了你以外的所有人。}
 #{115}{}{No. I'm a mercenary, but I'm not crazy.}
 {115}{}{不，我是个唯利是图的人，但我没疯。}
 #{116}{}{What are you offering?}
@@ -23,9 +23,9 @@
 #{117}{}{I'll be happy to help cleanse this world of slavery.}
 {117}{}{我很乐意帮你清除这个世界上的奴隶制度。}
 #{118}{}{I hear you. I'm not asking you to storm the place, that would be crazy. I mean something with more... Finesse. Also, I've got to say - I haven't spoke with Terry for a long time, I don't know if he has changed over these ten years. But I have a feeling that he needs help.}
-{118}{}{我听到了。我不是要你闯入这个地方，那太疯狂了。我是说有更多。。。精巧。另外，我得说-我很久没和特里谈过话了，我不知道他在这十年里有没有变。但我觉得他需要帮助。}
+{118}{}{我听到了。我不是要你闯入这个地方，那太疯狂了。我是说有更多...精巧。另外，我得说-我很久没和特里谈过话了，我不知道他在这十年里有没有变。但我觉得他需要帮助。}
 #{119}{}{Well... While traveling, I've managed to save 350 bucks. Not a whole lot for such a risky job, I understand, but it's all I've got.}
-{119}{}{好。。。在旅行中，我设法节省了350美元。对这样一个冒险的工作来说，我不算太多，我明白，但这是我的全部。}
+{119}{}{好...在旅行中，我设法节省了350美元。对这样一个冒险的工作来说，我不算太多，我明白，但这是我的全部。}
 #{120}{}{You got no idea how happy I am to hear that, friend. I haven't talked to Terry in years, but I know he'd never want to be locked up, no matter what they're doing for him.}
 {120}{}{你不知道听到这个我有多高兴，朋友。我已经好几年没和特里谈过话了，但我知道他永远都不想被关起来，不管他们为他做了什么。}
 #{121}{}{What's your plan?}
@@ -33,7 +33,7 @@
 #{122}{}{I'm out. This job isn't for me.}
 {122}{}{我出去了。这份工作不适合我。}
 #{123}{}{Hmm... That's not what I expected from you. Well, keep me in mind, anyway.}
-{123}{}{隐马尔可夫模型。。。那不是我对你的期望。不管怎样，记住我。}
+{123}{}{Hmm...那不是我对你的期望。不管怎样，记住我。}
 #{124}{}{First step? You gotta get a message to him. I'm offering him to make a run to San Francisco. It's way, way west of here - they're never find us. The hard part is getting him out.}
 {124}{}{第一步？你得给他捎个口信。我提议他去旧金山。从这里往西走-他们永远找不到我们。最难的是把他弄出来。}
 #{125}{}{If you want my help, I need to know more about you and Terry.}
@@ -55,11 +55,11 @@
 #{133}{}{Businessmen around the city went into full-on war. My house burned down with my family with it, I got blind, Terry got snatched up, and it looks like he's been passed around from one leader to another ever since.}
 {133}{}{全城的商人都投入了战争。我的房子和我的家人一起被烧毁了，我瞎了眼，特里被抓了起来，看起来他从一个领导人到另一个领导人好像一直被传来传去。}
 #{134}{}{We dealt with booze, mostly. We were not half-bad - our stuff found its way into the local bars. Not pre-war quality, but better than the moonshine other people were churning out. Problem was, some of those moonshiners didn't appreciate the comparison. Some tough guys they were... Oh, and also, we lent some alcohol for medicinal purposes - obviously, health care in that times was not so good.}
-{134}{}{我们主要是和酗酒打交道。我们还不错——我们的东西在当地的酒吧里很流行。不是战前的质量，而是比其他人生产的私酒更好。问题是，有些月光族不喜欢这种比较。他们是些硬汉。。。哦，还有，我们借了些酒作药用——显然，那个时代的医疗保健不太好。}
+{134}{}{我们主要是和酗酒打交道。我们还不错——我们的东西在当地的酒吧里很流行。不是战前的质量，而是比其他人生产的私酒更好。问题是，有些月光族不喜欢这种比较。他们是些硬汉...哦，还有，我们借了些酒作药用——显然，那个时代的医疗保健不太好。}
 #{135}{}{[He sighs] Alright, so, someone set my house on fire. I ran in to find my family. I did, but not fast enough. Then a burning piece of wood fell on me and I got blind. Days of me being suicidal mood went by, until a caravan from San Francisco arrived. They said the doctors there could treat me. Funny sort people. Had funny kind of morals too - made me their lab rat. It was... I don't like to remember it. But I can see again. Better than ever, actually.}
-{135}{}{好吧，有人放火烧了我的房子。我跑进去找我的家人。是的，但还不够快。然后一块燃烧的木头落在我身上，我失明了。几天来我一直有自杀倾向，直到一辆来自旧金山的大篷车来了。他们说那里的医生可以治疗我。有趣的人。也有很有趣的道德-让我成为他们的实验鼠。那是。。。我不想记住它。但我又能看见了。实际上，比以往任何时候都好。}
+{135}{}{好吧，有人放火烧了我的房子。我跑进去找我的家人。是的，但还不够快。然后一块燃烧的木头落在我身上，我失明了。几天来我一直有自杀倾向，直到一辆来自旧金山的大篷车来了。他们说那里的医生可以治疗我。有趣的人。也有很有趣的道德-让我成为他们的实验鼠。那是...我不想记住它。但我又能看见了。实际上，比以往任何时候都好。}
 #{136}{}{I couldn't do it until now. It took me a long time to get out of San Francisco, and when I did, I was... I'll say it, I was scared. But I worked up the nerve, and I've worked out a plan. I've finally got the chance to help an old friend out... If he wants it.}
-{136}{}{直到现在我才做得到。我花了很长时间才离开旧金山，当我离开的时候，我。。。我会说的，我很害怕。但我鼓起勇气，制定了一个计划。我终于有机会帮助一位老朋友。。。如果他想要的话。}
+{136}{}{直到现在我才做得到。我花了很长时间才离开旧金山，当我离开的时候，我...我会说的，我很害怕。但我鼓起勇气，制定了一个计划。我终于有机会帮助一位老朋友...如果他想要的话。}
 #{137}{}{Don't wait too long. This city could explode any day.}
 {137}{}{不要等太久。这座城市随时可能爆炸。}
 #{138}{}{Good luck.}
@@ -71,7 +71,7 @@
 #{142}{}{I don't think that stick of yours can kill a gecko, and I've swung a few in my time. There's something special about it, right?}
 {142}{}{我不认为你的棍子能杀死壁虎，在我的时间里我已经挥舞了一些。有什么特别的，对吧？}
 #{143}{}{Hmm... You're pretty sharp, kid. [in one fluid motion, he pulls a blade from the cane; it looks a little dull, but perfectly balanced] It was made by my special inquiry, in San Francisco. I don't like to use it if I can avoid it, but sometimes, I don't have a choice. You tend to look like a target when you've got "just a cane". I still try to stay off the roads and away from settlements, if I can.}
-{143}{}{隐马尔可夫模型。。。你真聪明，孩子。[在一个流畅的动作中，他从手杖上拔出一把刀片；它看起来有点迟钝，但非常平衡]这是我在旧金山特别调查时做的。如果可以避免的话，我不喜欢用它，但有时，我没有选择。当你“只有一根手杖”的时候，你看起来就像一个目标。如果可以的话，我还是尽量远离公路，远离定居点。}
+{143}{}{Hmm...你真聪明，孩子。[在一个流畅的动作中，他从手杖上拔出一把刀片；它看起来有点迟钝，但非常平衡]这是我在旧金山特别调查时做的。如果可以避免的话，我不喜欢用它，但有时，我没有选择。当你“只有一根手杖”的时候，你看起来就像一个目标。如果可以的话，我还是尽量远离公路，远离定居点。}
 #{144}{}{I'll be sure not to make that mistake. See you around.}
 {144}{}{我一定不会犯那个错误。回头见。}
 #{145}{}{You received }
@@ -121,13 +121,13 @@
 #{1112}{}{I didn't notice anything. what's up?}
 {1112}{}{我什么都没注意到。怎么了？}
 #{1114}{}{A little birdie told me you've been in Stryker's lab, and I thought you just *might* listen to the voice of reason. See, Stryker's holding my friend Terry against his will. I'd like to help him, but I can't get into the lab. Stryker keeps everyone out... Everyone but you, it seems.}
-{1114}{}{一只小鸟告诉我你去过史崔克的实验室，我想你应该听听理性的声音。你看，史崔克违心抓着我朋友特里。我想帮他，但我进不了实验室。史崔克把所有人都挡在外面。。。似乎除了你以外的所有人。}
+{1114}{}{一只小鸟告诉我你去过史崔克的实验室，我想你应该听听理性的声音。你看，史崔克违心抓着我朋友特里。我想帮他，但我进不了实验室。史崔克把所有人都挡在外面...似乎除了你以外的所有人。}
 #{1115}{}{No. I'm a mercenary, but I'm not crazy.}
 {1115}{}{不，我是个唯利是图的人，但我没疯。}
 #{1117}{}{I'll be happy to help cleanse this world of slavery.}
 {1117}{}{我很乐意帮你清除这个世界上的奴隶制度。}
 #{1123}{}{Hmm... That's not what I expected from you. Well, keep me in mind, anyway.}
-{1123}{}{隐马尔可夫模型。。。那不是我对你的期望。不管怎样，记住我。}
+{1123}{}{Hmm...那不是我对你的期望。不管怎样，记住我。}
 #{1125}{}{If you want my help, I need to know more about you and Terry.}
 {1125}{}{如果你需要我的帮助，我需要更多地了解你和特里。}
 #{1150}{}{Thanks for the help, but we're not done yet. I've seen a couple serious-looking types checking us out. I think we're being watched.}

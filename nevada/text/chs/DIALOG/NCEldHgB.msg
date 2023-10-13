@@ -9,13 +9,13 @@
 #{111}{}{[Next]}
 {111}{}{[下一步]}
 #{112}{}{[The victim looks up at you both and speaks] Now I see why your father despises you. He always did... You are saying that I can go? I guess I ought to be thankful. I'll tell Stryker's people about what happened here.}
-{112}{}{[受害者抬起头看着你们俩说]现在我明白你父亲为什么鄙视你了。他总是。。。你是说我可以去？我想我应该心存感激。我会告诉史崔克的人这里发生了什么。}
+{112}{}{[受害者抬起头看着你们俩说]现在我明白你父亲为什么鄙视你了。他总是...你是说我可以去？我想我应该心存感激。我会告诉史崔克的人这里发生了什么。}
 #{113}{}{Whoa-whoa, stop. Huey, what are you doing?}
 {113}{}{哇哦，停下来。休伊，你在干什么？}
 #{114}{}{Calm down, partner. Go back and tell your father I finished the job. If he learns the truth, he'll kill us both. Do you understand what I'm saying?}
 {114}{}{冷静点，伙计。回去告诉你父亲我完成了任务。如果他知道真相，他会杀了我们两个。你明白我的意思吗？}
 #{115}{}{Hmm...}
-{115}{}{隐马尔可夫模型。。。}
+{115}{}{Hmm...}
 #{116}{}{Are you crazy or just stupid? Sooner or later, someone's going to see him walking around *not dead*. What's your plan then?}
 {116}{}{你疯了还是傻了？迟早有人会看到他四处走动，还没死。那你的计划是什么？}
 #{117}{}{I'm not going to be part of mess that my father and the other crime bosses make in this city. I don't care what he says. I don't care what he thinks. I'm not doing it.}
@@ -29,11 +29,11 @@
 #{121}{}{Suit yourself. It's your life.}
 {121}{}{随便你。这是你的生活。}
 #{122}{}{Shut up! [he draws his head into shoulders and turns away from you] Kill him yourself then! I won't do it! I... I won't!}
-{122}{}{闭嘴！[他把头伸进肩膀，转身离开你]那你自己杀了他！我不会做的！一、 。。。我不会的！}
+{122}{}{闭嘴！[他把头伸进肩膀，转身离开你]那你自己杀了他！我不会做的！一、 ...我不会的！}
 #{123}{}{[Take Huey's hand and point his weapon at the victim] Just pull the trigger, Huey. Just once. That's all it takes, and then you're free.}
 {123}{}{[抓住休伊的手，用枪指着受害者]扣动扳机，休伊。就一次。就这些，然后你就自由了。}
 #{124}{}{[Huey trembles, becomes pale and turns his face away from the victim] Forgive me...}
-{124}{}{[休伊颤抖着，脸色变得苍白，把脸转离受害者]原谅我。。。}
+{124}{}{[休伊颤抖着，脸色变得苍白，把脸转离受害者]原谅我...}
 #{125}{}{[Next]}
 {125}{}{[下一步]}
 #{126}{}{[Huey's gun fires once, then again and again, as crimson blossoms on the twitching victim's clothes. An artery is torn open as he falls, a fine thick red mist sprays around, settling on your and Huey. Finally, Huey's weapon clicks empty, and the victim's body lies still.]}
@@ -49,4 +49,4 @@
 #{1110}{}{[Speaking to the victim] That's far enough. Here we should part ways. My father wanted to kill you, but I won't. And beg my partner to do the same.}
 {1110}{}{[对受害者说]够了。在这里我们应该分道扬镳。我父亲想杀了你，但我不会。求我的搭档也这么做。}
 #{1122}{}{Shut up! [he draws his head into shoulders and turns away from you] Kill him yourself then! I won't do it! I... I won't!}
-{1122}{}{闭嘴！[他把头伸进肩膀，转身离开你]那你自己杀了他！我不会做的！一、 。。。我不会的！}
+{1122}{}{闭嘴！[他把头伸进肩膀，转身离开你]那你自己杀了他！我不会做的！一、 ...我不会的！}

@@ -13,7 +13,7 @@
 #{114}{}{Very nice, but I'm not the one to talk about it.}
 {114}{}{很好，但不是我说的。}
 #{115}{}{Uh... But who is then?!}
-{115}{}{休斯敦大学。。。但那是谁？！}
+{115}{}{Uh...但那是谁？！}
 #{116}{}{General Wesker. He runs the Wind of War, that's him who you should address. You will have to pass through sentries to the base, go up to the North until you stop at the barricade, then enter the headquarters building to the right. Inform the guards about why you came.}
 {116}{}{韦斯克将军。他有战争之风，你应该称呼他。你必须通过哨兵到达基地，向北走，直到你在路障处停下，然后进入右边的总部大楼。告诉警卫你为什么来。}
 #{117}{}{Okay.}
@@ -39,7 +39,7 @@
 #{127}{}{Careful! He can roll away into some crevice!}
 {127}{}{小心！他可以滚到裂缝里去！}
 #{128}{}{Don't worry! I'll bring it back...}
-{128}{}{别担心！我会把它拿回来。。。}
+{128}{}{别担心！我会把它拿回来...}
 #{129}{}{Here is the money. By the way, if you find the second one, also carry it to me, okay?}
 {129}{}{这是钱。顺便说一句，如果你找到第二个，也拿给我，好吗？}
 #{130}{}{Okay.}
@@ -51,17 +51,17 @@
 #{133}{}{Well, thank you!}
 {133}{}{好吧，谢谢你！}
 #{134}{}{You are welcome... Although it's all somehow strange. I have a feeling that something very important has been hidden from me. Goodbye.}
-{134}{}{不客气。。。尽管有些奇怪。我觉得有件很重要的事瞒着我了。再见。}
+{134}{}{不客气...尽管有些奇怪。我觉得有件很重要的事瞒着我了。再见。}
 #{135}{}{Do you have *special* weapons for *special* price?}
 {135}{}{你们有特价武器吗？}
 #{136}{}{Heh... Funny. All the *special* weaponry is stocked in the base warehouses, and here is only the most primitive. Our boss is no fool, he realizes that sold weapons could be used directly against us, so it's the other way around - that's him who is buying "special weapons for special prices". Got it?}
-{136}{}{嘿。。。好笑。所有的特种武器都存放在基地仓库里，这里只有最原始的。我们的老板不是傻瓜，他意识到出售的武器可以直接用来对付我们，所以情况正好相反——就是他在以“特价”购买特殊武器。知道了？}
+{136}{}{嘿...好笑。所有的特种武器都存放在基地仓库里，这里只有最原始的。我们的老板不是傻瓜，他意识到出售的武器可以直接用来对付我们，所以情况正好相反——就是他在以“特价”购买特殊武器。知道了？}
 #{137}{}{As if you can't take something from the warehouse. [wink]}
 {137}{}{好像你不能从仓库里拿东西似的。[眨眼]}
 #{138}{}{Okay.}
 {138}{}{可以。}
 #{139}{}{Well... I can [leans towards you and lowers his voice] get some plasma grenades. Small loss, no one will notice. And as for the rest - I'll pass. It is dangerous.}
-{139}{}{好。。。我可以[向你倾斜并降低声音]拿一些等离子手榴弹。小损失，没人会注意到。至于其他的-我不说了。这很危险。}
+{139}{}{好...我可以[向你倾斜并降低声音]拿一些等离子手榴弹。小损失，没人会注意到。至于其他的-我不说了。这很危险。}
 #{140}{}{I agree on the grenades. How much time do you need?}
 {140}{}{我同意手榴弹。你需要多少时间？}
 #{141}{}{No, I do not need this.}
@@ -83,7 +83,7 @@
 #{149}{}{Well, what about my order?}
 {149}{}{那我点的菜呢？}
 #{150}{}{I have it... In a special place. No one will find. Where's my money?}
-{150}{}{我有。。。在一个特别的地方。谁也找不到。我的钱呢？}
+{150}{}{我有...在一个特别的地方。谁也找不到。我的钱呢？}
 #{151}{}{Here 1500.}
 {151}{}{这里1500。}
 #{152}{}{I'll go get the money.}
@@ -103,9 +103,9 @@
 #{159}{}{So, the warriors need alcohol?}
 {159}{}{那么，战士们需要酒精吗？}
 #{160}{}{I would take a batch of, say, 30 bottles of beer... At a higher price.}
-{160}{}{我要一批，比方说，30瓶啤酒。。。以更高的价格。}
+{160}{}{我要一批，比方说，30瓶啤酒...以更高的价格。}
 #{161}{}{30 bottles of beer... Will write it down to not forget.}
-{161}{}{30瓶啤酒。。。会记下来不忘的。}
+{161}{}{30瓶啤酒...会记下来不忘的。}
 #{162}{}{I got a box of beer.}
 {162}{}{我有一盒啤酒。}
 #{163}{}{That's great! How it foams! [quickly hides the box of bottles] Okay, here's the money. And one more thing - don't talk about it. We've got some pedantic bookworms here, you know. [Makes a nasty face and waves his hand in a sign of contempt]}
@@ -127,15 +127,15 @@
 #{174}{}{Yeah, I know. Let's get straight to the details. I hope you have an established line of delivery?}
 {174}{}{是的，我知道。我们直接谈细节吧。希望你们有固定的送货路线？}
 #{175}{}{I can hire a caravan...}
-{175}{}{我可以租一辆大篷车。。。}
+{175}{}{我可以租一辆大篷车...}
 #{176}{}{[Interrupting] Good. I don't want to have a headache selling *your* product. My job is to turn the product into profits, not to bother myself with new concerns.}
 {176}{}{[打断]很好。我不想因为卖你的产品而头痛。我的工作是将产品转化为利润，而不是为新的问题困扰自己。}
 #{177}{}{So that's what you all about...}
-{177}{}{所以这就是你想要的。。。}
+{177}{}{所以这就是你想要的...}
 #{178}{}{I have enough other stuff to do without your Cola. It's not Las Vegas. On the other hand, I would love to add a new product to the stock, because it will be another reason for the Wasteland people to come to my shop. Moreover, I even know where to get a vending machine for drinks. This would optimize our cooperation.}
 {178}{}{没有你的可乐我还有很多事要做。不是拉斯维加斯。另一方面，我想增加一个新产品的库存，因为这将是另一个原因，荒地的人来我的商店。此外，我甚至知道在哪里可以买到饮料自动售货机。这将优化我们的合作。}
 #{179}{}{Op-ti-mi... Where do...}
-{179}{}{哦，我。。。你在哪里。。。}
+{179}{}{哦，我...你在哪里...}
 #{180}{}{So! [his eyes light up with thirst for potential profit] It's your burden to deliver the goods. You will load the bottles right into the machine and pick the revenue from it. I'll pick up my share myself. It's simple. Come back with Cola in a day, I'll have everything prepared.}
 {180}{}{所以！[他的眼睛因对潜在利润的渴望而发亮]交货是你的负担。你将把瓶子直接装进机器，从中提取收入。我自己去拿我的那份。很简单。过一天再来拿可乐，我会准备好一切的。}
 #{181}{}{I'm glad to hear it. See you.}
@@ -145,7 +145,7 @@
 #{217}{}{For sure?! Anyway, it's not my problem - I've bought these things in an honest way. If you want to return something you have to buy it.}
 {217}{}{当然？！不管怎样，这不是我的问题-我买这些东西是诚实的。如果你想退货，就得买。}
 #{218}{}{Grr...}
-{218}{}{Grr。。。}
+{218}{}{Grr...}
 #{220}{}{You just won't believe it! We were talking about you right now. I've heard a lot of good things about you. Our guys know and respect you. I've thought about it and decided it would be fair to lower my prices for you a little.}
 {220}{}{你不会相信的！我们正在谈论你。我听过很多关于你的好消息。我们的人了解你也尊重你。我考虑过了，决定把我的价格给你降低一点是公平的。}
 #{221}{}{That's nice.}
@@ -157,7 +157,7 @@
 #{300}{}{Where'd you all come from?}
 {300}{}{你们从哪里来的？}
 #{301}{}{Well, we came from a small vault, when it became crowded... Damn, I probably shouldn't have told you. In any way, if you want to snatch some technology from there, then I have to disappoint you - the shelter is inhabited by mutants, and the entrance is caved with stones. Besides, we brought out everything we could from there back then.}
-{301}{}{嗯，我们从一个小金库来，当它变得拥挤。。。妈的，我可能不该告诉你。无论如何，如果你想从那里获取一些技术，那么我不得不让你失望——避难所里住着变种人，入口被石头压塌了。另外，我们把当时能做的都带了出来。}
+{301}{}{嗯，我们从一个小避难所来，当它变得拥挤...妈的，我可能不该告诉你。无论如何，如果你想从那里获取一些技术，那么我不得不让你失望——避难所里住着变种人，入口被石头压塌了。另外，我们把当时能做的都带了出来。}
 #{302}{}{}
 {302}{}{}
 #{303}{}{Can you take me there?}

@@ -7,7 +7,7 @@
 #{103}{}{It's one of the tribe's cooks. She's currently preparing smoked lizard.}
 {103}{}{是部落的厨师之一。她正在准备熏蜥蜴。}
 #{104}{}{It's one of the tribe's cooks. She's currently preparing brahmin steak.}
-{104}{}{是部落的厨师之一。她正在准备婆罗门牛排。}
+{104}{}{是部落的厨师之一。她正在准备双头牛牛排。}
 #{105}{}{It's one of the tribe's cooks. She's currently preparing a salad.}
 {105}{}{是部落的厨师之一。她正在准备沙拉。}
 #{106}{}{It's one of the tribe's cooks. She's currently preparing a sandwich.}
@@ -65,7 +65,7 @@
 #{132}{}{You not Cheyenne.}
 {132}{}{你不是夏延人。}
 #{133}{}{Oh...}
-{133}{}{哦。。。}
+{133}{}{哦...}
 #{134}{}{What you wants, outsider?}
 {134}{}{你想要什么，局外人？}
 #{135}{}{Me cooks. Only cooks.}
@@ -182,8 +182,8 @@
 {203}{}{Tell me about the Black Cloud.}
 #{204}{}{Tell me about your hunters.}
 {204}{}{Tell me about your hunters.}
-#{205}{}{Nothing. I�m leaving.}
-{205}{}{Nothing. I�m leaving.}
+#{205}{}{Nothing. I??m leaving.}
+{205}{}{Nothing. I??m leaving.}
 #{206}{}{Tribe family. Life good. Hunters finds food. Me makes food. Others works fields. Children helps everywhere. Niskigvan heals. Avanigizhig talks spirits. Ogima chief - helps everybody.}
 {206}{}{Tribe family. Life good. Hunters finds food. Me makes food. Others works fields. Children helps everywhere. Niskigvan heals. Avanigizhig talks spirits. Ogima chief - helps everybody.}
 #{207}{}{This Ogima sounds important. Tell me about him.}

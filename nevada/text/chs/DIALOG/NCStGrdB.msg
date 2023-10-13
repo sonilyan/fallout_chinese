@@ -7,7 +7,7 @@
 #{103}{}{You're right, I *have* been working too hard.}
 {103}{}{你说得对，我工作太辛苦了。}
 #{104}{}{At least someone understands me... Friend.}
-{104}{}{至少有人理解我。。。朋友。}
+{104}{}{至少有人理解我...朋友。}
 #{105}{}{::snores::}
 {105}{}{●打鼾：}
 #{106}{}{The guard dozes off. He probably won't be out for long, so it's best to hurry.}
@@ -37,12 +37,12 @@
 #{120}{}{I'm not falling for that. Stryker gives the order, I'll let you through.}
 {120}{}{我不会上当的。史崔克下命令，我让你过去。}
 #{121}{}{[Hand over $100] I understand, Stryker is very... Strict. Won't even let a man see his wife. How would you like it if that was you?}
-{121}{}{[交出100美元]我明白，史崔克非常。。。严格的。甚至不让男人看到他的妻子。如果是你的话，你觉得怎么样？}
+{121}{}{[交出100美元]我明白，史崔克非常...严格的。甚至不让男人看到他的妻子。如果是你的话，你觉得怎么样？}
 #{122}{}{Hmm... Fine, ten minutes.}
-{122}{}{隐马尔可夫模型。。。好的，十分钟。}
+{122}{}{Hmm...好的，十分钟。}
 #{123}{}{Thanks.}
 {123}{}{谢谢。}
 #{1104}{}{At least someone understands me... Friend.}
-{1104}{}{至少有人理解我。。。朋友。}
+{1104}{}{至少有人理解我...朋友。}
 #{1118}{}{They won't let his own wife see him?! What kind of people are you?! Let me through!}
 {1118}{}{他们不会让他老婆看到他的？！你是什么样的人？！让我过去！}

@@ -13,7 +13,7 @@
 #{106}{}{This bag could be useful for your skills, but they are already too high.}
 {106}{}{这个包可能对你的技能有用，但它们已经太高了。}
 #{107}{}{Training? I don't need this anymore...}
-{107}{}{培训？我不再需要这个了。。。}
+{107}{}{培训？我不再需要这个了...}
 #{108}{}{You spend two hours in training and increase your unarmed skill by 5%.}
 {108}{}{你花了两个小时在训练中，你的徒手技能提高了5%。}
 #{109}{}{Good work!}

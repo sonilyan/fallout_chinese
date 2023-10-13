@@ -25,7 +25,7 @@
 #{118}{}{Oh, no, mister! I'm just helping the newly arrived in the great Reno, so they don't get lost.}
 {118}{}{哦，不，先生！我只是在帮助新来的人，以免他们迷路。}
 #{119}{}{Hmm. That's a weird way to earn a living... }
-{119}{}{嗯。这是一种奇怪的谋生方式。。。}
+{119}{}{嗯。这是一种奇怪的谋生方式...}
 #{120}{}{I thought you were a beggar.}
 {120}{}{我以为你是个乞丐。}
 #{121}{}{Then I don't need you.}
@@ -39,7 +39,7 @@
 #{125}{}{Tell me, have you seen a man named Balder?}
 {125}{}{告诉我，你见过一个叫巴尔德的人吗？}
 #{126}{}{Hmm... You look small enough to get through that window... }
-{126}{}{隐马尔可夫模型。。。你看起来小到可以穿过那扇窗。。。}
+{126}{}{Hmm...你看起来小到可以穿过那扇窗...}
 #{127}{}{}
 {127}{}{}
 #{128}{}{Well, let's see if you can help.}
@@ -54,7 +54,7 @@
 {132}{}{哦，原来你是个乞丐？}
 #{133}{}{Whatever you say. What are you doing here?}
 {133}{}{不管你说什么。你在这里干什么？}
-#{134}{}{Still, you can�t help me. I'm leaving.}
+#{134}{}{Still, you can??t help me. I'm leaving.}
 {134}{}{不过，你帮不了我。我要走了。}
 #{135}{}{Whatever you say, mister. I won't bother you any more.}
 {135}{}{不管你说什么，先生。我不会再打扰你了。}
@@ -65,11 +65,11 @@
 #{138}{}{You are familiar with the city well enough, right?}
 {138}{}{你对这个城市很熟悉，对吧？}
 #{139}{}{Hmm... You look small enough to get through that window... }
-{139}{}{隐马尔可夫模型。。。你看起来小到可以穿过那扇窗。。。}
+{139}{}{Hmm...你看起来小到可以穿过那扇窗...}
 #{140}{}{Nothing right now.}
 {140}{}{现在什么都没有。}
-#{141}{}{That�s why I'm here! I'm always happy to help! ...for just a *little* money!}
-{141}{}{这就是我来这里的原因！我总是很乐意帮忙。。。为了一点点钱！}
+#{141}{}{That??s why I'm here! I'm always happy to help! ...for just a *little* money!}
+{141}{}{这就是我来这里的原因！我总是很乐意帮忙...为了一点点钱！}
 #{142}{}{[He cocks his head to the side] Hmm? What do you mean?}
 {142}{}{[他把头歪到一边]嗯？什么意思？}
 #{143}{}{I'm looking for a man they call Balder Maxson. He has stretch marks on his neck. Have you seen him?}
@@ -80,12 +80,12 @@
 {145}{}{你经常站在这里吗？}
 #{146}{}{Yes, I've lived half my life here!}
 {146}{}{是的，我在这里住了半生！}
-#{147}{}{Fine, let�s talk about something else.}
+#{147}{}{Fine, let??s talk about something else.}
 {147}{}{好吧，我们谈点别的吧。}
 #{148}{}{I'm trying to get into a, er, "abandoned" room. Want to help?}
 {148}{}{我想进入一个，呃，“废弃”的房间。想帮忙吗？}
 #{149}{}{Hmm... Well, I do have one. What will you pay for it?}
-{149}{}{隐马尔可夫模型。。。嗯，我有一个。你要付多少钱？}
+{149}{}{Hmm...嗯，我有一个。你要付多少钱？}
 #{150}{}{I'll give you 20 bucks.}
 {150}{}{我给你20美元。}
 #{151}{}{I'll give you 10 bucks.}
@@ -95,11 +95,11 @@
 #{153}{}{Never mind, let's talk about something else.}
 {153}{}{没关系，我们谈点别的吧。}
 #{154}{}{Nah, it'll make you a lot more money than that... If you pay for it, I mean.}
-{154}{}{不，这会让你赚更多的钱。。。如果你付钱，我是说。}
+{154}{}{不，这会让你赚更多的钱...如果你付钱，我是说。}
 #{155}{}{What if I just start breaking your fingers?}
 {155}{}{如果我开始打断你的手指呢？}
 #{156}{}{Uh... But you wouldn't do that. Would you?}
-{156}{}{休斯敦大学。。。但你不会那么做的。你愿意吗？}
+{156}{}{Uh...但你不会那么做的。你愿意吗？}
 #{157}{}{You bet I would! I'm the devil himself! I love breaking little boys' fingers!}
 {157}{}{我当然会的！我自己就是魔鬼！我喜欢打断小男孩的手指！}
 #{158}{}{I don't believe you! No way, you wouldn't do that! Not for a little secret!}
@@ -123,7 +123,7 @@
 #{167}{}{[Caravaneers start yelling at you from the parking lot] Hey! Leave the kid alone, asshole!}
 {167}{}{[商队开始在停车场对你大喊大叫]嘿！别碰那孩子，混蛋！}
 #{168}{}{You got lucky, kid... This time. I'll see you again later.}
-{168}{}{你很幸运，孩子。。。这一次。一会儿再见。}
+{168}{}{你很幸运，孩子...这一次。一会儿再见。}
 #{169}{}{[Look the kid straight in the eye and push harder on the finger]}
 {169}{}{[直视孩子的眼睛，用力推手指]}
 #{170}{}{[He scowls at you silently]}
@@ -131,17 +131,17 @@
 #{171}{}{[You feel the finger shift in your grip as the bones dislocate from their socket] AAAAAAH!!! IT HURTS!!! AAAAAAH!!!}
 {171}{}{[当骨头从窝里脱臼时，你感觉到手指在握着的时候移动]aaaaah！！！很疼！！！AAAAAAH！！！}
 #{172}{}{Oops... }
-{172}{}{哎呀。。。}
+{172}{}{哎呀...}
 #{173}{}{No, please don't! I'll tell!}
 {173}{}{不，请不要！我会告诉你的！}
 #{174}{}{I'm all ears!}
 {174}{}{我洗耳恭听！}
 #{175}{}{Whew... [he tries to catch his breath] I wanted to say that I heard some caravan merchants talking about a thief, that took some of their things and managed to hide them before they caught him. I don't know where he hid it, but it has to be close to the parking lot!}
-{175}{}{呼。。。[他试着喘口气]我想说，我听到一些商队商人在谈论一个小偷，他们拿走了他们的一些东西，并设法在抓住他之前把它们藏起来。我不知道他把它藏在哪里，但它必须靠近停车场！}
+{175}{}{呼...[他试着喘口气]我想说，我听到一些商队商人在谈论一个小偷，他们拿走了他们的一些东西，并设法在抓住他之前把它们藏起来。我不知道他把它藏在哪里，但它必须靠近停车场！}
 #{176}{}{Is that it? Because if you lied to me... }
-{176}{}{是这样吗？因为如果你对我撒谎。。。}
+{176}{}{是这样吗？因为如果你对我撒谎...}
 #{177}{}{It's true! They said it was dark and they ran around a lot of the buildings nearby, so they don't know where he hid them. The thief's too scared to come back, so they must still be hidden there... }
-{177}{}{是真的！他们说天很黑，他们在附近的很多建筑周围跑来跑去，所以他们不知道他把它们藏在哪里。小偷吓得不敢回来，所以他们一定还藏在那里。。。}
+{177}{}{是真的！他们说天很黑，他们在附近的很多建筑周围跑来跑去，所以他们不知道他把它们藏在哪里。小偷吓得不敢回来，所以他们一定还藏在那里...}
 #{178}{}{We'll see.}
 {178}{}{我们拭目以待。}
 #{179}{}{You learned of a hidden stash of supplies near the parking lot without paying for it by threatening a child with violence. You must be very proud of yourself.}
@@ -150,7 +150,7 @@
 {180}{}{我听到一个商队商人说，一个小偷拿走了他们的一些东西，在他们抓住他之前设法把它们藏起来。我不知道他把它藏在哪里，但它必须靠近停车场！}
 #{181}{}{Okay, that's fine.}
 {181}{}{好吧，没关系。}
-#{182}{}{Let�s talk about something else.}
+#{182}{}{Let??s talk about something else.}
 {182}{}{我们再谈点别的吧。}
 #{183}{}{Here is the money.}
 {183}{}{这是钱。}
@@ -189,9 +189,9 @@
 #{200}{}{You can buy things at the caravan shop on the other side of the parking lot. There's two restaurants close by. The Silver Legacy's restaurant is right over there and has good food, but it's expensive. The Cotton Club is next to the El Dorado - its food is terrible, but it's 15 percent cheaper.}
 {200}{}{你可以在停车场另一边的商队商店买东西。附近有两家餐馆。银遗产的餐厅就在那里，有很好的食物，但很贵。棉花俱乐部就在El Dorado的旁边，那里的食物很糟糕，但是便宜了15%。}
 #{201}{}{If you want to work for a powerful boss, you have to have a good reputation, or have someone recommend you. It's not easy for people to get work here. [he narrows his eyes, examining you] But... Maybe you're different.}
-{201}{}{如果你想为一个有权势的老板工作，你必须有好的名声，或者有人推荐你。人们在这里找工作不容易。[他眯起眼睛，看着你]但是。。。也许你与众不同。}
+{201}{}{如果你想为一个有权势的老板工作，你必须有好的名声，或者有人推荐你。人们在这里找工作不容易。[他眯起眼睛，看着你]但是...也许你与众不同。}
 #{202}{}{The Silver Legacy and the El Dorado both have casinos, and the El Dorado has a boxing ring in the basement. There's a nightclub with lot of beautiful ladies, but you have to pay or have an invitation to get in, so caravaneers usually use services a women off the street at night. Uh... And if you want to just talk to someone, there's Ricky in the tall building next to the El Dorado. He used to be a caravan merchant, and if you give him a drink, he'll talk for hours!}
-{202}{}{Silver Legacy和El Dorado都有赌场，El Dorado在地下室有一个拳击场。有一家夜总会有很多漂亮的女士，但是你必须付钱或者有人邀请你进去，所以商队通常在晚上在街上为女士提供服务。休斯敦大学。。。如果你想和别人谈谈，瑞奇就在埃尔多拉多旁边的高楼里。他以前是一个商队商人，如果你给他一杯酒，他会说上几个小时的！}
+{202}{}{Silver Legacy和El Dorado都有赌场，El Dorado在地下室有一个拳击场。有一家夜总会有很多漂亮的女士，但是你必须付钱或者有人邀请你进去，所以商队通常在晚上在街上为女士提供服务。Uh...如果你想和别人谈谈，瑞奇就在埃尔多拉多旁边的高楼里。他以前是一个商队商人，如果你给他一杯酒，他会说上几个小时的！}
 #{203}{}{First, there's Thompson - he took over the old town hall building. The second one is Stryker, he and his men are located in a ex-bowling club. There's a lot of small-fry criminals in Reno, but it's usually okay if you stay on the main street. Anyway, try to watch your step.}
 {203}{}{首先是汤普森，他接管了旧的市政厅大楼。第二个是史崔克，他和他的人住在一个以前的保龄球俱乐部。里诺有很多小罪犯，但如果你呆在大街上通常没问题。不管怎样，小心你的脚步。}
 #{204}{}{No one's in charge, but all of the bosses want to be. Thompson and Stryker are the most dangerous - they're big and they don't play around.}
@@ -199,7 +199,7 @@
 #{205}{}{A biker? Sometimes bikers go into the Silver Legacy hotel. You should ask there.}
 {205}{}{骑自行车的？有时，骑自行车的人会走进银色遗产酒店。你应该问问那里。}
 #{210}{}{Oh... That's a pretty big secret. You'll have to pay a lot for that.}
-{210}{}{哦。。。这是个很大的秘密。你得为此付出很多。}
+{210}{}{哦...这是个很大的秘密。你得为此付出很多。}
 #{211}{}{How does 50 dollars sound?}
 {211}{}{50美元听起来怎么样？}
 #{212}{}{[Grab one of his fingers and bend it back until it becomes painful] You're the one who's going to pay if you don't tell me, boy!}
@@ -225,13 +225,13 @@
 #{222}{}{[Caravan merchants start yelling at you from the parking lot] Hey! Leave the kid alone, asshole!}
 {222}{}{[商队商人开始在停车场对你大喊大叫]嘿！别碰那孩子，混蛋！}
 #{223}{}{You got lucky, kid... This time. I'll see you again later.}
-{223}{}{你很幸运，孩子。。。这一次。一会儿再见。}
+{223}{}{你很幸运，孩子...这一次。一会儿再见。}
 #{224}{}{[Look the kid straight in the eye and push harder on the finger]}
 {224}{}{[直视孩子的眼睛，用力推手指]}
 #{225}{}{[You feel the finger shift in your grip as the bones dislocate from their socket] AAAAAAH!!! IT HURTS!!! AAAAAAH!!!}
 {225}{}{[当骨头从窝里脱臼时，你感觉到手指在握着的时候移动]aaaaah！！！很疼！！！AAAAAAH！！！}
 #{226}{}{Oops... }
-{226}{}{哎呀。。。}
+{226}{}{哎呀...}
 #{227}{}{No, please don't! I'll tell!}
 {227}{}{不，请不要！我会告诉你的！}
 #{228}{}{Phew! [he tries to catch him breath] I've never talked to him, but I've seen him painting the casino walls. There's usually a lot of people around during the day and most of the night, so he only works in the early morning, close to the sunrise. That's the only time when most of the city is asleep.}
@@ -239,7 +239,7 @@
 #{229}{}{We'll see.}
 {229}{}{我们拭目以待。}
 #{230}{}{I think I've seen someone like that. But if you want to know where... }
-{230}{}{我想我见过这样的人。但是如果你想知道。。。}
+{230}{}{我想我见过这样的人。但是如果你想知道...}
 #{231}{}{I'll pay you.}
 {231}{}{我会付钱给你的。}
 #{232}{}{Oh believe me, I want to. [grab one of his fingers and bend it back until it becomes painful] How badly do you want to keep your fingers intact?}
@@ -251,11 +251,11 @@
 #{235}{}{[He nods towards the caravan store]}
 {235}{}{[他朝商队商店点头]}
 #{236}{}{Is that it? That was easy... }
-{236}{}{是这样吗？那很简单。。。}
+{236}{}{是这样吗？那很简单...}
 #{237}{}{Phew! [he tries to breath] I saw him go into the caravan store. He should still be close!}
 {237}{}{呸！[他试着呼吸]我看见他进了商队商店。他应该还在附近！}
 #{238}{}{Uh... [he glances around] ... Help how?}
-{238}{}{休斯敦大学。。。[他环顾四周]。。。怎么帮？}
+{238}{}{Uh...[他环顾四周]...怎么帮？}
 #{239}{}{The only way in is a window. It's too small for me, but I think you'll fit.}
 {239}{}{唯一能进去的是窗户。对我来说太小了，但我想你适合。}
 #{240}{}{Oh, forget it.}
@@ -285,11 +285,11 @@
 #{252}{}{What do you have to lose?}
 {252}{}{你会失去什么？}
 #{253}{}{Nothing, but... Something feels fishy about this.}
-{253}{}{没什么，但是。。。这有点可疑。}
+{253}{}{没什么，但是...这有点可疑。}
 #{254}{}{Calm down! Everything is fine. All it'll take is ten minutes of your time, and then you'll get half of whatever we find.}
 {254}{}{冷静！一切都很好。你只需要花十分钟的时间，然后你就能得到我们找到的一半。}
 #{255}{}{Hmm... That could help me eat tonight... }
-{255}{}{隐马尔可夫模型。。。今晚能帮我吃饭。。。}
+{255}{}{Hmm...今晚能帮我吃饭...}
 #{256}{}{So are you in or out?}
 {256}{}{那你是进来还是出去？}
 #{257}{}{No, I'm out. This doesn't feel right.}
@@ -316,12 +316,12 @@
 {271}{}{这个地方没有被遗弃！这就是酒店！}
 #{272}{}{Calm down, the room's empty.}
 {272}{}{冷静点，房间是空的。}
-#{273}{}{I don�t like this... }
-{273}{}{我不喜欢这样。。。}
+#{273}{}{I don??t like this... }
+{273}{}{我不喜欢这样...}
 #{274}{}{Just get through the window, fast!}
 {274}{}{快从窗户进来！}
 #{275}{}{Okay, okay... }
-{275}{}{好吧，好吧。。。}
+{275}{}{好吧，好吧...}
 #{276}{}{There are some things here, should I take them?}
 {276}{}{这里有些东西，要我拿吗？}
 #{277}{}{Yes! Grab everything!}
@@ -355,7 +355,7 @@
 #{297}{}{The bikers robbed a bus going to Black Rock. That was really crazy, even for bikers. The guy in the combat armor, Tuco, told me to watch out for them. He's in charge of the Nevada Express in Reno.}
 {297}{}{骑自行车的人抢劫了一辆去黑岩的公共汽车。那真是太疯狂了，甚至对骑自行车的人来说。穿战斗盔甲的图科叫我小心他们。他负责里诺的内华达快车。}
 #{300}{}{Woah, mister! I've never seen a working car in my life! You know, they say Reno was famous for its car workshops, once. I don't think there's anything left... Except... }
-{300}{}{哇，先生！我这辈子从没见过一辆能用的车！你知道吗，他们说雷诺曾经以汽车作坊闻名。我想什么都没有了。。。除了。。。}
+{300}{}{哇，先生！我这辈子从没见过一辆能用的车！你知道吗，他们说雷诺曾经以汽车作坊闻名。我想什么都没有了...除了...}
 #{301}{}{Yeah, yeah, I get it. Here's 20 bucks. What is it?}
 {301}{}{是的，是的，我明白了。这是20美元。这是怎么一回事？}
 #{302}{}{Oh, you just happen to know of something for my car? I smell a setup.}
@@ -365,7 +365,7 @@
 #{304}{}{No way, mister! I'd never lie to a client! I have to be trustworthy, or I won't eat!}
 {304}{}{不行，先生！我决不会对客户撒谎！我必须值得信任，否则我就不吃了！}
 #{305}{}{If you say so... }
-{305}{}{如果你这样说。。。}
+{305}{}{如果你这样说...}
 #{306}{}{See you.}
 {306}{}{再见。}
 #{307}{}{Thanks! Someone came by selling on old box a few days ago, but no one wanted to buy it. I don't know what it is, but it's definitely something for a car. I don't know where he is now, though.}
@@ -373,7 +373,7 @@
 #{308}{}{Thanks. I'll keep an eye out for him.}
 {308}{}{谢谢。我会留意他的。}
 #{309}{}{That's what I get for 20 bucks? What a rip-off... }
-{309}{}{那就是我花20块买的？真是个骗局。。。}
+{309}{}{那就是我花20块买的？真是个骗局...}
 #{310}{}{What were you saying about my car, before?}
 {310}{}{你之前说我的车怎么样？}
 #{311}{}{If you pay, I'll tell you!}
@@ -387,15 +387,15 @@
 #{315}{}{Do you have any idea what I can do with this stuff?}
 {315}{}{你知道我能用这些东西做什么吗？}
 #{316}{}{Well, if you can't use it, and you can't sell it back... Nothing, I guess. Just... Throw it away.}
-{316}{}{好吧，如果你不能用它，你不能把它卖回去。。。没什么，我想。只是。。。把它扔掉。}
+{316}{}{好吧，如果你不能用它，你不能把它卖回去...没什么，我想。只是...把它扔掉。}
 #{317}{}{You little brat! Next time I see you, I swear... }
-{317}{}{你这个小家伙！下次见到你，我发誓。。。}
+{317}{}{你这个小家伙！下次见到你，我发誓...}
 #{318}{}{I guess it's my own fault. Sorry I yelled at you, kid.}
 {318}{}{我想这是我自己的错。对不起，我对你大喊大叫，孩子。}
 #{319}{}{Well, you can't win them all. Buyer beware, I suppose.}
 {319}{}{好吧，你不可能全部赢。我想买主要当心了。}
 #{320}{}{It's okay, people yell at me all the time. Sorry the stuff is no good... I was hoping your car would get something cool.}
-{320}{}{没关系，人们总是对我大喊大叫。抱歉这东西不好。。。我希望你的车能有点酷。}
+{320}{}{没关系，人们总是对我大喊大叫。抱歉这东西不好...我希望你的车能有点酷。}
 #{321}{}{That makes two of us. See you around, kid.}
 {321}{}{所以我们两个。再见，孩子。}
 #{1110}{}{Hello, miss! Welcome to the great Reno!}
@@ -419,11 +419,11 @@
 #{1291}{}{Oh, yes, miss! Their machines are so cool! Sometimes they get drunk and get into fights in the street and stuff. They're always fun to watch!}
 {1291}{}{哦，是的，小姐！他们的机器太酷了！有时他们喝醉了，在街上打架之类的。他们总是很有趣看！}
 #{1300}{}{Woah, miss! I've never seen a working car in my life! You know, they say Reno was famous for its car workshops, once. I don't think there's anything left... Except... }
-{1300}{}{哇，小姐！我这辈子从没见过一辆能用的车！你知道吗，他们说雷诺曾经以汽车作坊闻名。我想什么都没有了。。。除了。。。}
+{1300}{}{哇，小姐！我这辈子从没见过一辆能用的车！你知道吗，他们说雷诺曾经以汽车作坊闻名。我想什么都没有了...除了...}
 #{1304}{}{No way, miss! I'd never lie to a client! I have to be trustworthy, or I won't eat!}
 {1304}{}{不行，小姐！我决不会对客户撒谎！我必须值得信任，否则我就不吃了！}
 #{1305}{}{If you say so... }
-{1305}{}{如果你这样说。。。}
+{1305}{}{如果你这样说...}
 #{1307}{}{Thanks! Someone came by selling on old box a few days ago, but no one wanted to buy it. I don't know what it is, but it's definitely something for a car. I don't know where he is now, though.}
 {1307}{}{谢谢！几天前有人来卖旧盒子，但没人想买。我不知道它是什么，但它绝对是一辆车的东西。不过，我不知道他现在在哪里。}
 #{1318}{}{I guess it's my own fault. Sorry I yelled at you, kid.}

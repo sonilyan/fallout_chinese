@@ -47,7 +47,7 @@
 #{152}{}{Don't say another word.}
 {152}{}{别再说了。}
 #{153}{}{...And I ask him - hey, is this Reno? And he says...}
-{153}{}{…我问他-嘿，这是雷诺吗？他说。。。}
+{153}{}{…我问他-嘿，这是雷诺吗？他说...}
 #{154}{}{You will have to wait me here.}
 {154}{}{你得在这儿等我。}
 #{155}{}{Let's go. Reno awaits us.}
@@ -55,19 +55,19 @@
 #{156}{}{Don't say another word.}
 {156}{}{别再说了。}
 #{200}{}{Fans, fans... You didn't bring paparazzi with you, did you? Good enough.}
-{200}{}{粉丝们，粉丝们。。。你没带狗仔队，是吗？够好了。}
+{200}{}{粉丝们，粉丝们...你没带狗仔队，是吗？够好了。}
 #{201}{}{So it's you I have to accompany to the Reno's stage?}
 {201}{}{所以我要陪你去雷诺的舞台？}
 #{202}{}{I didn't need you! I don't even want to talk to you.}
 {202}{}{我不需要你！我甚至不想和你说话。}
 #{203}{}{Reno's stage is calling for me, baby! But you are... By yourself... Didn't they have a security escort, or, at least, a stagecoach? Okay, okay, I'm going now, if it is time to.}
-{203}{}{雷诺的舞台在召唤我，宝贝！但你是。。。你一个人。。。他们不是有保安护送，或者至少有驿站马车吗？好吧，好吧，我现在就走，如果是时候的话。}
+{203}{}{雷诺的舞台在召唤我，宝贝！但你是...你一个人...他们不是有保安护送，或者至少有驿站马车吗？好吧，好吧，我现在就走，如果是时候的话。}
 #{204}{}{Let's go.}
 {204}{}{走吧。}
 #{205}{}{Wait, I should prepare for departing.}
 {205}{}{等等，我要准备出发了。}
 #{210}{}{How would I put it mildly... The thing is, the club's owner died and now you're out of work.}
-{210}{}{我该怎么委婉地说。。。问题是，俱乐部的老板死了，现在你失业了。}
+{210}{}{我该怎么委婉地说...问题是，俱乐部的老板死了，现在你失业了。}
 #{211}{}{What the fuck am I doing here then!? [looks around in confusion] What a shithole! [Sees homeless men around the barrel] Hey, guys! Want some company?.. [Goes to them and gets lost in the crowd, then a collective laughter is heard in the distance, eventually falling silent.]}
 {211}{}{那我他妈的在这里干什么！？[困惑地环顾四周]真是个混蛋！嘿，伙计们！有人陪吗？。。[走近他们，在人群中迷路，然后远处传来集体笑声，最终沉寂。]}
 #{212}{}{Well, apparently, we won't see each other again, Richard Pryor.}
@@ -79,15 +79,15 @@
 #{251}{}{Look, I'm funny. People laugh at my jokes, like a crowd of morons. I was born for this. However, Vegas is already tired of me, so I stopped performing here. But I still have to eat, so I decided to try my luck in Reno.}
 {251}{}{听着，我很有趣。人们对我的笑话一笑置之，就像一群白痴。我生来就是为了这个。然而，维加斯已经厌倦了我，所以我不再在这里表演了。但我还是要吃饭，所以我决定在雷诺碰碰运气。}
 #{252}{}{You don't talk like a comedian right now...}
-{252}{}{你现在说话不像个喜剧演员。。。}
+{252}{}{你现在说话不像个喜剧演员...}
 #{253}{}{Fine.}
 {253}{}{好的。}
 #{254}{}{Well... You know, I have some heavy shit on my heart. I tell something important to people - and they don't listen. They think it's just a joke. But they listen to *you*. Because you're serious, even though you don't have much to say. You know what I'm saying?}
-{254}{}{好。。。你知道吗，我心里有点烦。我告诉人们一些重要的事情-他们不听。他们认为这只是个玩笑。但他们听你的。因为你是认真的，尽管你没什么好说的。你知道我在说什么吗？}
+{254}{}{好...你知道吗，我心里有点烦。我告诉人们一些重要的事情-他们不听。他们认为这只是个玩笑。但他们听你的。因为你是认真的，尽管你没什么好说的。你知道我在说什么吗？}
 #{255}{}{And what would you tell to people in Reno?}
 {255}{}{你会对里诺的人说什么？}
 #{256}{}{Just the same crap, I think. Nobody takes me seriously anyway. Besides, I can't do anything else. After all this fun on big stages for years, I can't just go back to something like digging through brahmin shit, you know what I'm saying?}
-{256}{}{我想还是一样。反正没人把我当回事。再说了，我什么也做不了。在大舞台上玩了这么多年之后，我不能再回到像挖掘婆罗门的东西上，你知道我在说什么吗？}
+{256}{}{我想还是一样。反正没人把我当回事。再说了，我什么也做不了。在大舞台上玩了这么多年之后，我不能再回到像挖掘双头牛的东西上，你知道我在说什么吗？}
 #{300}{}{What the fuck am I doing here!?}
 {300}{}{我他妈的在这里干什么！？}
 #{301}{}{See No Evil, Hear No Evil}
@@ -95,9 +95,9 @@
 #{302}{}{Dedicated to all those who took care of my cocaine}
 {302}{}{献给所有照顾我可卡因的人}
 #{303}{}{Good days, bad days... But I still am a talkin' motherfucker!}
-{303}{}{好日子，坏日子。。。但我还是个会说话的混蛋！}
+{303}{}{好日子，坏日子...但我还是个会说话的混蛋！}
 #{304}{}{Do you remember that dry fucking season 20 years ago? I survived through that shit...}
-{304}{}{你还记得20年前的那个旱季吗？我挺过来了。。。}
+{304}{}{你还记得20年前的那个旱季吗？我挺过来了...}
 #{305}{}{The first time, when I came, I fucking shit my pants, dude!}
 {305}{}{第一次，我来的时候，我他妈的尿裤子了，伙计！}
 #{306}{}{And everybody starts asking: what is it?! It's Richard Pryor running down the street!}
@@ -117,6 +117,6 @@
 #{313}{}{What is it: a cross on cross? it's a pope on a nurse.}
 {313}{}{它是什么：十字架上的十字架？是一个护士的教宗。}
 #{1200}{}{Fans, fans... You didn't bring paparazzi with you, did you? Good enough.}
-{1200}{}{粉丝们，粉丝们。。。你没带狗仔队，是吗？够好了。}
+{1200}{}{粉丝们，粉丝们...你没带狗仔队，是吗？够好了。}
 #{1254}{}{Well... You know, I have some heavy shit on my heart. I tell something important to people - and they don't listen. They think it's just a joke. But they listen to *you*. Because you're serious, even though you don't have much to say. You know what I'm saying?}
-{1254}{}{好。。。你知道吗，我心里有点烦。我告诉人们一些重要的事情-他们不听。他们认为这只是个玩笑。但他们听你的。因为你是认真的，尽管你没什么好说的。你知道我在说什么吗？}
+{1254}{}{好...你知道吗，我心里有点烦。我告诉人们一些重要的事情-他们不听。他们认为这只是个玩笑。但他们听你的。因为你是认真的，尽管你没什么好说的。你知道我在说什么吗？}

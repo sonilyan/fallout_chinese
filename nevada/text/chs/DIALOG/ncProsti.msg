@@ -24,7 +24,7 @@
 {198}{}{算了吧！我不为瘾君子服务。}
 #{199}{}{You interested? Lesbian stuff is cheaper.}
 {199}{}{你有兴趣吗？女同性恋的东西更便宜。}
-#{200}{}{I�m called Easy. And you?}
+#{200}{}{I??m called Easy. And you?}
 {200}{}{有人说我很容易。你呢？}
 #{201}{}{Want some company?}
 {201}{}{想找个伴吗？}
@@ -67,4 +67,4 @@
 #{220}{}{Come on, time is money.}
 {220}{}{拜托，时间就是金钱。}
 #{221}{}{You want me? Pay first...}
-{221}{}{你想要我？先付钱。。。}
+{221}{}{你想要我？先付钱...}

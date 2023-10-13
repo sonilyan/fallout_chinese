@@ -49,7 +49,7 @@
 #{133}{}{Great, let's trade.}
 {133}{}{太好了，我们交易吧。}
 #{134}{}{There is none. You see, the stagecoach only takes cash, so I... Wait, I already said that. Otherwise, it's all up to you. Feel free to buy from the "Nevada Express" administrator if you have the cash.}
-{134}{}{没有。你看，驿站马车只收现金，所以我。。。等等，我已经说过了。否则，就全靠你了。如果您有现金，请随时从“内华达快车”管理员处购买。}
+{134}{}{没有。你看，驿站马车只收现金，所以我...等等，我已经说过了。否则，就全靠你了。如果您有现金，请随时从“内华达快车”管理员处购买。}
 #{135}{}{And I still smell rat. You wouldn't have done this if you didn't see profits along with the deal.}
 {135}{}{我还闻到老鼠的味道。如果你没有看到交易带来的利润，你就不会这么做。}
 #{136}{}{[Twists his lips in a grim smirk] Well, you got me. Yeah, I do get a profit. Buying tickets from me is much more expensive. But I think that's fair, considering I need to process the bartered goods later.}
@@ -81,7 +81,7 @@
 #{258}{}{This place is the only caravan stop in town. Good place to rest before a new route. All the better for me - they tend to have some great wares. That's why most of the trade in the city is centered here.}
 {258}{}{这个地方是镇上唯一的商队停靠点。在走新路线前休息的好地方。对我来说就更好了——他们往往有一些很棒的商品。这就是为什么这个城市的大部分贸易都集中在这里。}
 #{260}{}{I'm looking for a slave... Well, a particular slave.}
-{260}{}{我在找一个奴隶。。。嗯，一个特别的奴隶。}
+{260}{}{我在找一个奴隶...嗯，一个特别的奴隶。}
 #{261}{}{Hey, listen, I don't deal in slaves. Not like they're popular around here. The residents aren't living any better - except they don't wear collars.}
 {261}{}{嘿，听着，我不卖奴隶。不像他们在这里很受欢迎。居民们的生活没有任何改善，只是他们没有戴项圈。}
 #{262}{}{Well, let's suppose I need a slave. Where would I get one?}
@@ -149,7 +149,7 @@
 #{300}{}{Is this the only normal shop in Reno?}
 {300}{}{这是雷诺唯一的普通商店吗？}
 #{301}{}{Well, how should I put it... I have the biggest shop in Reno - that's true. All thanks to the caravan stop and their personal trust. But I have an affiliate down south. And he tends to have some fancier stock.}
-{301}{}{好吧，我该怎么说。。。我在里诺有一家最大的商店-没错。这一切都要感谢商队的驻足和他们的个人信任。但我在南方有一个分支机构。而且他往往有一些花哨的股票。}
+{301}{}{好吧，我该怎么说...我在里诺有一家最大的商店-没错。这一切都要感谢商队的驻足和他们的个人信任。但我在南方有一个分支机构。而且他往往有一些花哨的股票。}
 #{302}{}{Tell me more about this associate.}
 {302}{}{告诉我更多关于这个同事的事。}
 #{303}{}{Well, I've got a helper of sorts. The type of risky fella who trades down south. The only normal town down there is the Hub. Although the road there is long and hard. You'll need to comb through most of the southern roads. His name's Hardy, by the way. You won't confuse him with anyone else - ghouls are rare in these parts.}
@@ -175,7 +175,7 @@
 #{314}{}{Great. Here it is.}
 {314}{}{伟大的。给你。}
 #{315}{}{No thanks, I think I'll try and find Hardy to give the letter personally... }
-{315}{}{不，谢谢，我想我会试着找哈代亲自把信交给你。。。}
+{315}{}{不，谢谢，我想我会试着找哈代亲自把信交给你...}
 #{316}{}{Then I wish you luck. Oh, how you'll need it. The route to the south is difficult for a caravan, and there almost no settlements. So the search could take quite a while.}
 {316}{}{那我祝你好运。哦，你怎么会需要它。通往南方的路线对于商队来说很困难，而且几乎没有定居点。所以搜寻可能需要一段时间。}
 #{317}{}{Understood.}

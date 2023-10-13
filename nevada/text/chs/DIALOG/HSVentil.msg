@@ -33,9 +33,9 @@
 #{124}{}{A cargo of 5 containers with a radioactive isotope arrived at the V9 hangar for temporary storage in army warehouses.}
 {124}{}{一批装有5个放射性同位素集装箱的货物抵达V9机库，暂时存放在陆军仓库。}
 #{125}{}{As it turned out, the military in Hawthorne kept the Vault 8 under constant monitoring. They mostly collected the computer and automated system's data and were engaged in wiretapping communications. Hawthorne was given the responsibility for the security of the Vault in case of the invasion of the enemy's army or natural disasters. The observation object is assigned with a high priority level.}
-{125}{}{事实证明，霍桑的军方一直在监视8号金库。他们主要收集计算机和自动化系统的数据，从事窃听通信。霍桑被赋予了金库的安全责任，以防敌军入侵或自然灾害。观察对象被赋予高优先级。}
+{125}{}{事实证明，霍桑的军方一直在监视8号避难所。他们主要收集计算机和自动化系统的数据，从事窃听通信。霍桑被赋予了避难所的安全责任，以防敌军入侵或自然灾害。观察对象被赋予高优先级。}
 #{126}{}{The military radio station at Lovelock provided communications and engaged in surveillance on Vault 8.}
-{126}{}{洛夫洛克的军事电台提供通信，并对8号金库进行监视。}
+{126}{}{洛夫洛克的军事电台提供通信，并对8号避难所进行监视。}
 #{127}{}{Write down the Lovelock's coordinates.}
 {127}{}{写下洛夫洛克的坐标。}
 #{128}{}{Hmm. It is where Cheyennes live now. Maybe some of the locals know where this station is located.}

@@ -37,7 +37,7 @@
 #{124}{}{Tough case, can't do much without special medications.}
 {124}{}{很难，没有特殊的药物就做不了什么。}
 #{125}{}{Symptoms of various diseases... I don't get it!}
-{125}{}{各种疾病的症状。。。我不明白！}
+{125}{}{各种疾病的症状...我不明白！}
 #{126}{}{You can't grasp the essence of the patient's sickness.}
 {126}{}{你不能理解病人病的本质。}
 #{127}{}{Hardly a fitting solution.}
@@ -47,7 +47,7 @@
 #{129}{}{You managed to heal the patient. After a few more weeks of rehabilitation period, he should fully recover.}
 {129}{}{你设法治愈了病人。经过几周的康复期，他应该完全康复了。}
 #{130}{}{I'm still alive, doc? So, I still have chances to get Marylin laid...}
-{130}{}{我还活着，医生？所以，我还有机会和玛丽琳上床。。。}
+{130}{}{我还活着，医生？所以，我还有机会和玛丽琳上床...}
 #{131}{}{You intravenously inject the drug into the patient's arm. Soon he will surely feel better.}
 {131}{}{你给病人手臂静脉注射药物。不久他一定会感觉好些。}
 #{132}{}{You intravenously inject the poison into the gullible patient's arm.}
@@ -57,11 +57,11 @@
 #{134}{}{It's now useless.}
 {134}{}{现在没用了。}
 #{135}{}{Doc, you know what you're doing, right? I'm trusting you...}
-{135}{}{医生，你知道你在做什么，对吧？我相信你。。。}
+{135}{}{医生，你知道你在做什么，对吧？我相信你...}
 #{136}{}{Doc, I'm feeling so bad... Is this normal?}
-{136}{}{医生，我很难过。。。这正常吗？}
+{136}{}{医生，我很难过...这正常吗？}
 #{137}{}{Coughs... Was this really... A medicine... Doc?}
-{137}{}{咳嗽。。。这真的是。。。一种药。。。医生？}
+{137}{}{咳嗽...这真的是...一种药...医生？}
 #{138}{}{Looks like as if death took the patient naturally.}
 {138}{}{看来病人死得很自然。}
 #{139}{}{Now rest.}

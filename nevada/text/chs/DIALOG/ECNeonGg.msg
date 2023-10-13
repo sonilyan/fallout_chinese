@@ -19,6 +19,6 @@
 #{117}{}{I hate killing cowards. So you have to be braver. C'mon!}
 {117}{}{我讨厌杀懦夫。所以你必须更勇敢。拜托！}
 #{118}{}{Do you know what "homocentric beam of light" means? You will...}
-{118}{}{你知道“同心光束”是什么意思吗？你会。。。}
+{118}{}{你知道“同心光束”是什么意思吗？你会...}
 #{119}{}{It's simple: You'll be killed by the induced emission of an optical quantum generator.}
 {119}{}{很简单：你会被光量子发生器的感应发射杀死。}

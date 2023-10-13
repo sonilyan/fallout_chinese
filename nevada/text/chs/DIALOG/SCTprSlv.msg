@@ -53,7 +53,7 @@
 #{131}{}{No, I won't hunt with a spear. Go without me.}
 {131}{}{不，我不会用长矛打猎。你自己去吧。}
 #{132}{}{A woman hunter? This be very strange. But you be cunning and brave, so... Take this spear. You be leaving everything else behind. This be true hunting, as Midnight Watcher be teaching us.}
-{132}{}{女猎手？这可能很奇怪。但是你很狡猾很勇敢，所以。。。拿着这把矛。你会把其他的都抛在脑后。正如午夜守望者所教导我们的，这是真正的狩猎。}
+{132}{}{女猎手？这可能很奇怪。但是你很狡猾很勇敢，所以...拿着这把矛。你会把其他的都抛在脑后。正如午夜守望者所教导我们的，这是真正的狩猎。}
 #{140}{}{They be close! We be careful!}
 {140}{}{他们就在附近！我们要小心！}
 #{141}{}{Another gecko!}
@@ -63,7 +63,7 @@
 #{143}{}{We not be done! Not all geckos be dead!}
 {143}{}{我们还没完呢！不是所有的壁虎都死了！}
 #{150}{}{Wait, friend. After what you be doing for me... Me cannot be believing you would be abandoning me! Me just be forgetting about it. Yes. Me be trying to forget.}
-{150}{}{等等，朋友。在你为我所做的一切之后。。。我不敢相信你会抛弃我！我只是忘记了这件事。对。我想忘记。}
+{150}{}{等等，朋友。在你为我所做的一切之后...我不敢相信你会抛弃我！我只是忘记了这件事。对。我想忘记。}
 #{151}{}{Forgive me, Gizhiyash, I did a bad thing.}
 {151}{}{原谅我，吉吉亚，我做了件坏事。}
 #{152}{}{Don't be mad, Gizhiyash, it happens.}
@@ -83,7 +83,7 @@
 #{159}{}{Yes, good hunt.}
 {159}{}{是的，猎得不错。}
 #{160}{}{Gecko skins be good for clothing, tents, bags... Many things. Me be showing you how to be taking them, if you be wanting.}
-{160}{}{壁虎皮很适合做衣服，帐篷，袋子。。。很多事情。如果你想的话，我会教你怎么吃。}
+{160}{}{壁虎皮很适合做衣服，帐篷，袋子...很多事情。如果你想的话，我会教你怎么吃。}
 #{161}{}{Yes, I'd love to learn how to skin geckos!}
 {161}{}{是的，我很想学习如何剥壁虎的皮！}
 #{162}{}{Thanks, but no.}

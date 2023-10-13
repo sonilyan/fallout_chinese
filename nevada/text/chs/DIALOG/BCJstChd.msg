@@ -17,7 +17,7 @@
 #{115}{}{Why do you want to shoot us? No one did anything wrong.}
 {115}{}{你为什么要开枪打我们？没人做错什么。}
 #{116}{}{Oh yeah? Well, uh... Fuck! [he angrily kicks the fence hard enough to rattle the beams] I'm warning you. Don't fuck with us! [he turns around and storms off, mumbling something under his breath]}
-{116}{}{哦，是吗？嗯，呃。。。性交！我警告你。别耍我们！[他转过身，气喘吁吁地走了]}
+{116}{}{哦，是吗？嗯，呃...性交！我警告你。别耍我们！[他转过身，气喘吁吁地走了]}
 #{117}{}{Us? Who's us?..}
 {117}{}{我们？我们是谁？。。}
 #{118}{}{[He ignores you] That my old man's right! The only thing we ought to give newcomers is two loads of buckshot! And I can tell you think the same thing. }
@@ -60,7 +60,7 @@
 {136}{}{告诉我你的帮派。}
 #{137}{}{Didn't you think you'd be caught eventually?}
 {137}{}{你不觉得你最终会被抓住吗？}
-#{138}{}{Let�s talk about your punishment.}
+#{138}{}{Let??s talk about your punishment.}
 {138}{}{让我们谈谈你的惩罚。}
 #{139}{}{Milo had an agreement with the gang back when we were big. He'd give us information, and we'd keep him from being attacked. That's how he managed to make all his deliveries. For a while, we controlled the whole valley.}
 {139}{}{米洛在我们大的时候和那帮人有协议。他会给我们信息，我们会阻止他受到攻击。他就是这样把所有的东西都送出去的。有一段时间，我们控制了整个山谷。}
@@ -98,7 +98,7 @@
 {155}{}{你在和大陆这边最卑鄙的袭击者说话。他妈的尊重我。}
 #{156}{}{More than everyone in this anthill of a village.}
 {156}{}{比这个蚁丘上的每个人都要多。}
-#{157}{}{"Cursed" is written on my face. And it�s like this everywhere I go.}
+#{157}{}{"Cursed" is written on my face. And it??s like this everywhere I go.}
 {157}{}{“被诅咒”写在我的脸上。我所到之处都是这样。}
 #{158}{}{I kill anyone and everyone, children included. You think your gang are hard shit? If you've never heard the death rattle of a disemboweled toddler, you don't deserve to even talk to me.}
 {158}{}{我杀了所有人，包括孩子。你觉得你的帮派很难对付？如果你从来没有听到过一个断肠的蹒跚学步的孩子发出的死亡的嘎嘎声，你就不配跟我说话。}
@@ -111,9 +111,9 @@
 #{162}{}{Yeah, I've heard that before. From Milo, for example. Now look at him.}
 {162}{}{是的，我以前听过。例如，从米洛。现在看看他。}
 #{163}{}{Not very convincing, huh? Okay, let's talk about it...}
-{163}{}{不是很有说服力吧？好吧，我们来谈谈。。。}
+{163}{}{不是很有说服力吧？好吧，我们来谈谈...}
 #{164}{}{Fuck, you're right. After what happened to Milo... Shit, I don't know what to do. Maybe I should walk away. The gang's on the ropes, anyway... }
-{164}{}{妈的，你说得对。在米洛出事后。。。妈的，我不知道该怎么办。也许我该走了。不管怎么说，这帮人已经岌岌可危了。。。}
+{164}{}{妈的，你说得对。在米洛出事后...妈的，我不知道该怎么办。也许我该走了。不管怎么说，这帮人已经岌岌可危了...}
 #{165}{}{Tell me what they're planning. I'll take care of everything.}
 {165}{}{告诉我他们在计划什么。我会处理好一切的。}
 #{166}{}{You'll have to hurry. They're going to ambush the caravan when it gets close to the mountains. They'll kill everyone and take everything - it'll be like the whole caravan just disappeared. Here, take this radio and these frequencies. It's the only way you'll be able to find them.}
@@ -123,7 +123,7 @@
 #{168}{}{What, you can't wait to stick your nose into the gang?}
 {168}{}{什么，你迫不及待地想把鼻子伸进帮派？}
 #{169}{}{I heard what happened. Well... No going back now.}
-{169}{}{我听说发生了什么事。好。。。现在不能回去了。}
+{169}{}{我听说发生了什么事。好...现在不能回去了。}
 #{170}{}{Well well.}
 {170}{}{好吧，好吧。}
 #{1110}{}{Oh, look. The stranger from the wastes has decided how our community should be run. You know what I think?}

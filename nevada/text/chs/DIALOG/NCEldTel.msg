@@ -3,7 +3,7 @@
 #{101}{}{You see a grim bodyguard. He's looks very dedicated to his job.}
 {101}{}{你看到一个冷酷的保镖。他看起来很敬业。}
 #{102}{}{Z-z-Z-z-Z...}
-{102}{}{Z-Z-Z-Z-Z。。。}
+{102}{}{Z-Z-Z-Z-Z...}
 #{103}{}{It's best not to disturb him.}
 {103}{}{最好不要打扰他。}
 #{110}{}{Put away your weapons!}

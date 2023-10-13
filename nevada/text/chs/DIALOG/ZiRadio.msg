@@ -7,7 +7,7 @@
 #{111}{}{Turn the radio off.}
 {111}{}{把收音机关掉。}
 #{112}{}{Select your teleportation point. ( 133 Gerlach; 22 Black Rock; 18 Lovelock; 31 NPP; 54 Reno; 92 Uranium City; 51 Hawthorne; 6 Wind of War; 27 Area 51; 46 Vegas; 137 Salt; 12 Provo; 25 Bikers; 130 Gov. Vault. )}
-{112}{}{选择你的传送点。（133盖拉赫；22黑岩；18洛夫洛克；31核电站；54雷诺；92铀城；51霍桑；6战争之风；27 51区；46维加斯；137索尔特；12普罗沃；25骑自行车者；130州长金库。）}
+{112}{}{选择你的传送点。（133盖拉赫；22黑岩；18洛夫洛克；31核电站；54雷诺；92铀城；51霍桑；6战争之风；27 51区；46维加斯；137索尔特；12普罗沃；25骑自行车者；130州长避难所。）}
 #{113}{}{Next.}
 {113}{}{下一个。}
 #{114}{}{Prev.}
@@ -69,7 +69,7 @@
 #{159}{}{You hear a clear signal. It sounds like Morse code. The source must be close by, but you can't see any transmitters.}
 {159}{}{你听到一个清晰的信号。听起来像莫尔斯电码。信号源一定在附近，但你看不到任何发射器。}
 #{160}{}{Hmm...}
-{160}{}{隐马尔可夫模型。。。}
+{160}{}{Hmm...}
 #{161}{}{You hear ordinary police chatter, but nothing interesting.}
 {161}{}{你听到了普通警察的闲聊，但没什么有趣的。}
 #{180}{}{You pick up a faint signal through the static. It sounds like raiders.}
@@ -87,7 +87,7 @@
 #{202}{}{The radio signal is very strong. Suddenly, you see its source.}
 {202}{}{无线电信号很强。突然，你看到了它的源头。}
 #{203}{}{How unexpected...}
-{203}{}{真出乎意料。。。}
+{203}{}{真出乎意料...}
 #{205}{}{}
 {205}{}{}
 #{206}{}{}
@@ -143,9 +143,9 @@
 #{240}{}{[Scan the frequencies for any chatter.]}
 {240}{}{[扫描频率是否有任何杂音。]}
 #{241}{}{Boss, do you hear me? [...] Yeah, what? [...] I don't want to carry all this. What if I leave it here and take it on my way back? [...] Fine, but if anyone finds it, I'm wiping that stupid smile off your face for good. [...] Don't worry, boss. Everything will be fine...}
-{241}{}{头儿，你听见了吗？[…]是的，什么？[…]我不想带这些东西。如果我把它留在这里，然后在回来的路上带走呢？[…]好吧，但如果有人发现了，我会永远抹去你脸上愚蠢的笑容。别担心，老大。一切都会好起来的。。。}
+{241}{}{头儿，你听见了吗？[…]是的，什么？[…]我不想带这些东西。如果我把它留在这里，然后在回来的路上带走呢？[…]好吧，但如果有人发现了，我会永远抹去你脸上愚蠢的笑容。别担心，老大。一切都会好起来的...}
 #{242}{}{Lucky for me, someone talks too much...}
-{242}{}{幸运的是，有人说得太多了。。。}
+{242}{}{幸运的是，有人说得太多了...}
 #{243}{}{[Compare the signal against the data on the drug dealer's holodisk.]}
 {243}{}{[将信号与毒贩全息磁盘上的数据进行比较。]}
 #{244}{}{You have found a secret frequency.}
@@ -161,7 +161,7 @@
 #{511}{}{Select operation.}
 {511}{}{选择操作。}
 #{512}{}{Select the point of teleportation. ( 133 Gerlach; 22 Black Rock; 18 Lovelock; 31 NPP; 54 Reno; 92 Uranium City; 51 Hawthorne; 6 The Wind; 27 Area; 46 Vegas; 137 Salt; 12 Provo; 25 Bikers; 130 Gov. Vault. )}
-{512}{}{选择传送点。（133盖拉赫；22黑岩；18洛夫洛克；31核电站；54雷诺；92铀城；51霍桑；6风；27地区；46维加斯；137索尔特；12普罗沃；25摩托车手；130州长金库。）}
+{512}{}{选择传送点。（133盖拉赫；22黑岩；18洛夫洛克；31核电站；54雷诺；92铀城；51霍桑；6风；27地区；46维加斯；137索尔特；12普罗沃；25摩托车手；130州长避难所。）}
 #{513}{}{Next.}
 {513}{}{下一个。}
 #{514}{}{Prev.}

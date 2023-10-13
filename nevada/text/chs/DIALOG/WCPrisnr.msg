@@ -25,25 +25,25 @@
 #{115}{}{So you're saying, they just stopped you and robbed you at gunpoint, is that how it was?}
 {115}{}{所以你是说，他们只是拦住你，持枪抢劫你，是这样吗？}
 #{116}{}{No... Well yes, but... I mean... Look, I'm here because I put up some resistance. Now they are preparing an execution. They want to make a show of it. Motherfuckers! I hate these pigs!}
-{116}{}{不。。。是的，但是。。。我是说。。。听着，我来这里是因为我抵抗了。现在他们正在准备行刑。他们想炫耀一下。他妈的！我讨厌这些猪！}
+{116}{}{不...是的，但是...我是说...听着，我来这里是因为我抵抗了。现在他们正在准备行刑。他们想炫耀一下。他妈的！我讨厌这些猪！}
 #{117}{}{Hmm, I'm not sure if I should believe you.}
 {117}{}{嗯，我不确定我是否应该相信你。}
 #{118}{}{Whatever! Use your fucking head! They just took your stuff and put you in here, for them you're nothing but dirt under their feet. Think it over, you got some time still. While I'll be executed in several days...}
-{118}{}{无论什么！用你的脑袋！他们只是拿了你的东西，把你放在这里，对他们来说，你不过是他们脚下的泥土。仔细想想，你还有时间。我几天后就要被处死了。。。}
+{118}{}{无论什么！用你的脑袋！他们只是拿了你的东西，把你放在这里，对他们来说，你不过是他们脚下的泥土。仔细想想，你还有时间。我几天后就要被处死了...}
 #{119}{}{Hmm...}
-{119}{}{隐马尔可夫模型。。。}
+{119}{}{Hmm...}
 #{120}{}{So, what do you think?}
 {120}{}{你觉得呢？}
 #{121}{}{I don't know really, got to gather my thoughts.}
 {121}{}{我真的不知道，我得想一想。}
 #{122}{}{You know, I'm in no position to ask anything of you, but here's what I'd do. [whispers] When they're about to let you out, stand in the right spot and ask some stupid question, so that I could grab at this fucker's throat, right? And then all I'll have to do is get around the corner to the fence unnoticed...}
-{122}{}{你知道，我不能向你要求任何东西，但我会这么做。当他们要放你出去的时候，站在正确的位置问一些愚蠢的问题，这样我就可以抓住这个混蛋的喉咙，对吗？然后我所要做的就是绕过街角，不被人注意地走到栅栏前。。。}
+{122}{}{你知道，我不能向你要求任何东西，但我会这么做。当他们要放你出去的时候，站在正确的位置问一些愚蠢的问题，这样我就可以抓住这个混蛋的喉咙，对吗？然后我所要做的就是绕过街角，不被人注意地走到栅栏前...}
 #{123}{}{I'll see about that...}
-{123}{}{我会考虑的。。。}
+{123}{}{我会考虑的...}
 #{124}{}{Yeah, you think about it, while we still got time. I'll be by the door if you decide to do something.}
 {124}{}{是啊，你想想，趁我们还有时间。如果你决定做点什么，我就在门口。}
 #{125}{}{Yeah... That's a tough spot to be in.}
-{125}{}{是 啊。。。那是一个很难进入的地方。}
+{125}{}{是 啊...那是一个很难进入的地方。}
 #{126}{}{By the way, I'm getting executed tomorrow, in case you were interested.}
 {126}{}{顺便说一下，如果你有兴趣的话，我明天就要被处决了。}
 #{127}{}{The way is clear. Let's get out of here.}

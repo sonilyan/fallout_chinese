@@ -23,11 +23,11 @@
 #{112}{}{How the hell am I supposed to know.}
 {112}{}{我怎么会知道呢。}
 #{113}{}{Shit...}
-{113}{}{倒霉。。。}
+{113}{}{倒霉...}
 #{114}{}{There go your 24 hours. Out you go. Your stuff is in that locker.}
 {114}{}{这就是你的24小时。你出去吧。你的东西在那个柜子里。}
 #{115}{}{Wait a second, buddy, I just wanted to ask you something... [Take a convenient position]}
-{115}{}{等等，伙计，我只是想问你一件事。。。[找个方便的位置]}
+{115}{}{等等，伙计，我只是想问你一件事...[找个方便的位置]}
 #{116}{}{Finally!}
 {116}{}{终于！}
 #{117}{}{You can't unlock the door from this side.}
@@ -35,4 +35,4 @@
 #{118}{}{Can't reach}
 {118}{}{够不着}
 #{1115}{}{Wait a second, buddy, I just wanted to ask you something... [Take a convenient position]}
-{1115}{}{等等，伙计，我只是想问你一件事。。。[找个方便的位置]}
+{1115}{}{等等，伙计，我只是想问你一件事...[找个方便的位置]}

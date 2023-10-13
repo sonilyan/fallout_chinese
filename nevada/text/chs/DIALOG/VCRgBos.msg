@@ -5,7 +5,7 @@
 #{102}{}{Sorry. Everyone has their golden age. But it always ends.}
 {102}{}{对不起的。每个人都有自己的黄金时代。但它总是结束。}
 #{110}{}{[Appraises you with a glance] Betting... Or fighting?}
-{110}{}{[看你一眼]打赌。。。还是打架？}
+{110}{}{[看你一眼]打赌...还是打架？}
 #{111}{}{What, I can fight?}
 {111}{}{什么，我能战斗？}
 #{112}{}{Neither. Just watching.}
@@ -53,11 +53,11 @@
 #{134}{}{Not yet.}
 {134}{}{还没有。}
 #{135}{}{Great! You still have some time. The coach will warm you up a bit and then... THERE WILL BE BLOOD!!!}
-{135}{}{太好了！你还有时间。教练会让你热身然后。。。会有血的！！！}
+{135}{}{太好了！你还有时间。教练会让你热身然后...会有血的！！！}
 #{136}{}{[Wait until 21:00 and go into the ring]}
 {136}{}{[等到21:00进入拳击场]}
 #{137}{}{Here you are! Your prize... [hands over the winnings] Once you're ready for the next fight, just talk to me.}
-{137}{}{给你！你的奖品。。。一旦你准备好下一场比赛，就跟我说。}
+{137}{}{给你！你的奖品...一旦你准备好下一场比赛，就跟我说。}
 #{138}{}{Fine.}
 {138}{}{好的。}
 #{139}{}{Who do we have here! Thirsty for more bloodshed?}
@@ -77,17 +77,17 @@
 #{146}{}{Bloody amazing! How didn't you tear his hand out with that hold? We get a pretty payout for fights like these, the audience is just ecstatic! Anyway, here's your reward [hands over the cash]}
 {146}{}{太神奇了！你怎么没把他的手扯出来？像这样的打斗我们得到了可观的回报，观众简直欣喜若狂！不管怎样，这是你的报酬[把钱交出来]}
 #{147}{}{The crowd was just crazy about that fight! That's what I call determination! Here's the coin, champion! [hands over the cash] But... Now for the bad news.}
-{147}{}{观众都为那场战斗而疯狂！这就是我所说的决心！这是硬币，冠军！[交出现金]但是。。。现在是坏消息。}
+{147}{}{观众都为那场战斗而疯狂！这就是我所说的决心！这是硬币，冠军！[交出现金]但是...现在是坏消息。}
 #{148}{}{What do you mean!?}
 {148}{}{你什么意思？}
 #{149}{}{We have a bit of a problem. The crowd believes in you. They put big money on you and... Win! Do you get where I'm going with this?}
-{149}{}{我们有点问题。群众信任你。他们给了你一大笔钱。。。赢了！你知道我要说什么吗？}
+{149}{}{我们有点问题。群众信任你。他们给了你一大笔钱...赢了！你知道我要说什么吗？}
 #{150}{}{Of course! The fans love me.}
 {150}{}{当然！球迷们爱我。}
 #{151}{}{That's why, my friend, we can't keep making money on your victories. The crowd isn't losing their bets, which is how we're meant to make a profit. So, this was your last fight here. You have leave the ring... Keep in mind, Reno has a huge ring as well, maybe you should try your luck there.}
-{151}{}{这就是为什么，我的朋友，我们不能一直靠你的胜利赚钱。观众们并没有输掉他们的赌注，这就是我们赚钱的本意。所以，这是你最后一次打架。你把戒指留下。。。记住，雷诺也有一个巨大的戒指，也许你应该试试你的运气。}
+{151}{}{这就是为什么，我的朋友，我们不能一直靠你的胜利赚钱。观众们并没有输掉他们的赌注，这就是我们赚钱的本意。所以，这是你最后一次打架。你把戒指留下...记住，雷诺也有一个巨大的戒指，也许你应该试试你的运气。}
 #{152}{}{And it was going so well...}
-{152}{}{一切都很顺利。。。}
+{152}{}{一切都很顺利...}
 #{159}{}{[Sighs, as if he hears this question every day] Well, you don't look strong enough. Lift some weights. The crowd needs something to look at. And your skills seem to be lacking - you don't look like you've been in a fight or even in a bar brawl.}
 {159}{}{[叹息，好像他每天都听到这个问题]嗯，你看起来不够强壮。举起一些重物。人群需要看些东西。而且你的技能似乎很欠缺——你看起来不像是在打架，甚至不是在酒吧斗殴。}
 #{160}{}{Well, you seem to have the skill if a skilled fighter. But you are lacking the musculature. Our fighters will knock you down in the first round, which means the viewers won't get a kick.}
@@ -109,7 +109,7 @@
 #{175}{}{[You're waiting as the administrator goes through his ledgers]}
 {175}{}{[你在等管理员检查他的账本]}
 #{176}{}{Ahem...}
-{176}{}{啊哼。。。}
+{176}{}{啊哼...}
 #{177}{}{[Wait a little longer]}
 {177}{}{[再等一会儿]}
 #{178}{}{[You wait longer as the administrator talks to someone about the weather and the latest bets]}
@@ -117,7 +117,7 @@
 #{179}{}{[Ignores your attempt to get his attention]}
 {179}{}{[无视你试图引起他的注意]}
 #{180}{}{Excuse me, sir, your pizza...}
-{180}{}{对不起，先生，你的披萨。。。}
+{180}{}{对不起，先生，你的披萨...}
 #{181}{}{[Keep waiting]}
 {181}{}{[继续等待]}
 #{182}{}{Wait, courier! I said wait!}
@@ -147,7 +147,7 @@
 #{194}{}{[Leave]}
 {194}{}{[离开]}
 #{195}{}{Hmm... Perhaps I was mistaken about you and Phillips hired you for a reason. Alright, here's your tip. Now get out of here.}
-{195}{}{隐马尔可夫模型。。。也许我看错你了，菲利普斯雇你是有原因的。好吧，给你小费。现在离开这里。}
+{195}{}{Hmm...也许我看错你了，菲利普斯雇你是有原因的。好吧，给你小费。现在离开这里。}
 #{196}{}{Thank you, sir.}
 {196}{}{谢谢，先生。}
 #{197}{}{[Critically looks the pizza over before counting out the money]}
@@ -229,7 +229,7 @@
 #{1134}{}{No, not yet.}
 {1134}{}{不，还没有。}
 #{1137}{}{Here you are! Your prize... [hands over the winnings] Once you're ready for the next fight, just talk to me.}
-{1137}{}{给你！你的奖品。。。一旦你准备好下一场比赛，就跟我说。}
+{1137}{}{给你！你的奖品...一旦你准备好下一场比赛，就跟我说。}
 #{1140}{}{Yeah, I'm ready to fight.}
 {1140}{}{是的，我准备好战斗了。}
 #{1141}{}{No, just came here to watch the slaves.}
@@ -241,6 +241,6 @@
 #{1146}{}{Bloody amazing! How didn't you tear his hand out with that hold? We get a pretty payout for fights like these, the audience is just ecstatic! Anyway, here's your reward [hands over the cash}
 {1146}{}{太神奇了！你怎么没把他的手扯出来？像这样的打斗我们得到了可观的回报，观众简直欣喜若狂！不管怎样，这是你的报酬[把钱交出来]}
 #{1147}{}{Uhm just crazy about that fight! That's what I call determination! Here's the coin, champion! [hands over the cash] But... Now for the bad news.}
-{1147}{}{嗯，我真的很喜欢那场比赛！这就是我所说的决心！这是硬币，冠军！[交出现金]但是。。。现在是坏消息。}
+{1147}{}{嗯，我真的很喜欢那场比赛！这就是我所说的决心！这是硬币，冠军！[交出现金]但是...现在是坏消息。}
 #{1151}{}{That's why, sister, we can't keep making money on your victories. The crowd isn't losing their bets, which is how we're meant to make a profit. So, this was your last fight here. You have leave the ring... Keep in mind, Reno has a huge ring as well, maybe you should try your luck there.}
-{1151}{}{所以，修女，我们不能靠你的胜利继续赚钱。观众们并没有输掉他们的赌注，这就是我们赚钱的本意。所以，这是你最后一次打架。你把戒指留下。。。记住，雷诺也有一个巨大的戒指，也许你应该试试你的运气。}
+{1151}{}{所以，修女，我们不能靠你的胜利继续赚钱。观众们并没有输掉他们的赌注，这就是我们赚钱的本意。所以，这是你最后一次打架。你把戒指留下...记住，雷诺也有一个巨大的戒指，也许你应该试试你的运气。}

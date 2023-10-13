@@ -27,7 +27,7 @@
 #{124}{}{[Exhales slowly through his nostrils] It's your lucky day. Next time, you'll be pissing blood.}
 {124}{}{今天是你的幸运日。下一次，你就要血流成河了。}
 #{125}{}{Eee...}
-{125}{}{呃。。。}
+{125}{}{呃...}
 #{126}{}{This shit again? You'd better get the fuck out of here. This is your last warning.}
 {126}{}{又是这狗屎？你最好他妈的离开这里。这是你最后的警告。}
 #{127}{}{Okay, okay, I get it.}

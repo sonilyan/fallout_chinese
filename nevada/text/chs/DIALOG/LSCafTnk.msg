@@ -33,4 +33,4 @@
 #{116}{}{You find 50 bucks and take them for yourself.}
 {116}{}{你找50块钱自己拿。}
 #{117}{}{It's amazing how there is still money in here...}
-{117}{}{令人惊讶的是这里居然还有钱。。。}
+{117}{}{令人惊讶的是这里居然还有钱...}

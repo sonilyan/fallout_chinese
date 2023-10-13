@@ -7,4 +7,4 @@
 #{103}{}{Examining the generator you determine that it was, together with the other computer equipment, moved here from another place.}
 {103}{}{通过检查发电机，你确定它和其他计算机设备是从另一个地方搬到这里的。}
 #{104}{}{Interesting, but useless...}
-{104}{}{有趣，但没用。。。}
+{104}{}{有趣，但没用...}

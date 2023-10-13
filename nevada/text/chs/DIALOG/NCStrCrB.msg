@@ -13,6 +13,6 @@
 #{106}{}{Go on in. If I see a weapon, I shoot. No warnings.}
 {106}{}{进去吧。如果我看到武器，我就开枪。没有警告。}
 #{107}{}{Okay...}
-{107}{}{可以。。。}
+{107}{}{可以...}
 #{108}{}{Go on in... But put away the weapon. If I see it again, I shoot first.}
-{108}{}{进去吧。。。但是把武器收起来。如果我再看到它，我会先开枪。}
+{108}{}{进去吧...但是把武器收起来。如果我再看到它，我会先开枪。}

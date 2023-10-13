@@ -13,7 +13,7 @@
 #{113}{}{I can't be bothered to try to decipher that. Bye.}
 {113}{}{我不想费心去破译它。再见。}
 #{114}{}{Me be Gishiyash the Quiet River, of the Cheyenne to the north. Me be slave of evil men, who took me when me be returning from hunting. Now they be making me watch brahmin. Me be hating it! Me being hunter, not shepherd!}
-{114}{}{我是吉希雅，平静的河流，夏延河的北面。我是恶人的奴隶，他们在我打猎回来的时候带走了我。现在他们让我看婆罗门。我讨厌它！我是猎人，不是牧羊人！}
+{114}{}{我是吉希雅，平静的河流，夏延河的北面。我是恶人的奴隶，他们在我打猎回来的时候带走了我。现在他们让我看双头牛。我讨厌它！我是猎人，不是牧羊人！}
 #{115}{}{I have good news. Your brother Acabidab asked me to free you.}
 {115}{}{我有个好消息。你哥哥阿卡比达要我释放你。}
 #{116}{}{Is it really so bad here?}
@@ -27,9 +27,9 @@
 #{120}{}{Hmm, not be bad for every slave. Many here be happy with master telling them what to be doing. But me be born free! Me be proud! Me be Cheyenne, not slave!}
 {120}{}{嗯，对每个奴隶来说都不错。这里的许多人很高兴师父告诉他们该做什么。但我生来就是自由的！让我骄傲！我是夏延人，不是奴隶！}
 #{121}{}{Cheyenne be waiting for me. Me be knowing this. Me be carrying Cheyenne in me soul. If... If me could find Cheyenne, we all be celebrating. But me be trapped in this cage instead.}
-{121}{}{夏延在等我。让我知道这一点。我的灵魂里带着夏延。如果。。。如果我能找到夏延，我们都会庆祝的。但我却被困在这个笼子里。}
+{121}{}{夏延在等我。让我知道这一点。我的灵魂里带着夏延。如果...如果我能找到夏延，我们都会庆祝的。但我却被困在这个笼子里。}
 #{122}{}{Mountain air be cold... But also be bringing rain. If you be wanting help me and Cheyenne, thank you. But it will not be easy. The guards be keeping me here, and me cannot be free while me be wearing this [he points to a shock collar around his neck]. Can you be helping?}
-{122}{}{山上的空气很冷。。。但也带来了雨水。如果你想帮助我和夏延，谢谢。但这并不容易。卫兵把我关在这里，我戴着这个不能自由（他指着脖子上的防震圈）。你能帮忙吗？}
+{122}{}{山上的空气很冷...但也带来了雨水。如果你想帮助我和夏延，谢谢。但这并不容易。卫兵把我关在这里，我戴着这个不能自由（他指着脖子上的防震圈）。你能帮忙吗？}
 #{123}{}{First, I'll talk to your master and ask him to let you go.}
 {123}{}{首先，我要和你的主人谈谈，让他放你走。}
 #{124}{}{I'll take care of the collar, then we'll fight our way out. How does that sound?}

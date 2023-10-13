@@ -13,7 +13,7 @@
 #{112}{}{None of your business.}
 {112}{}{不关你的事。}
 #{113}{}{Did he? [he sounds skeptical] Alright... Recruit.}
-{113}{}{是吗？[他听起来很怀疑]好吧。。。招聘。}
+{113}{}{是吗？[他听起来很怀疑]好吧...招聘。}
 #{114}{}{You have a lot of empty cartridges on that table. Why?}
 {114}{}{你的桌子上有很多空墨盒。为什么？}
 #{115}{}{I repack them with fresh bullets and propellant. Boring as shit, but I don't want anyone else doing it. Pack it wrong and someone's likely to get their fingers blown off.}
@@ -83,7 +83,7 @@
 #{152}{}{What about 9mm or .45? They're pretty similar to what you're making now.}
 {152}{}{9毫米或0.45毫米怎么样？它们和你现在做的很像。}
 #{153}{}{Let's back up a bit...}
-{153}{}{让我们后退一点。。。}
+{153}{}{让我们后退一点...}
 #{154}{}{You seriously can't make anything but that? Just what kind of munitions expert are you?}
 {154}{}{你真的除了这个什么都做不了？你是什么样的军火专家？}
 #{155}{}{Look, I'm not here to explain this to you, alright? Just trust me, that's all we're equipped to make here. Take 'em or leave 'em.}
@@ -129,7 +129,7 @@
 #{187}{}{He got it about three years ago, when he found out his old gunsmith - the one before me - was dealing on both sides of the table. He ordered the guys to teach him a lesson, but the fucker was tough - he made his last stand in his house and they had to ventilate him. Only the gun remained.}
 {187}{}{大约三年前，当他发现他的老枪手——在我之前的那个——在桌子两边做交易时，他得到了这个消息。他命令那些家伙教训他一顿，但那混蛋很强硬——他在家里做了最后一站，他们不得不给他通风。只剩下枪了。}
 #{188}{}{Plasma bolt. It's complicated. Just know that it melts through flesh and bone like... Uh, well, nothing else comes close, really.}
-{188}{}{等离子螺栓。这很复杂。只知道它会像…一样从骨肉中融化。。。呃，好吧，没什么比这更接近的了，真的。}
+{188}{}{等离子螺栓。这很复杂。只知道它会像…一样从骨肉中融化...呃，好吧，没什么比这更接近的了，真的。}
 #{189}{}{Very. It hits like a high-caliber round and it'll go through anything you'll find around here, though some pre-war armor was built to stop it. I've heard it's not the best when it comes to energy weapons, though, but it's not like I'd know for myself.}
 {189}{}{非常好。它击中像一个高口径的子弹，它会通过任何你会发现在这里，虽然一些战前装甲是用来阻止它。我听说这不是最好的当谈到能源武器，虽然，但它不像我自己知道。}
 #{190}{}{Yes and no. The gunsmith grafted parts from a plasma pistol to the frame of a Tommy gun. I think he hoped to add more parts to increase the power supply, or at least make it more accurate. But as it is, it works pretty much like any other Glock-86.}

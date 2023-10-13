@@ -5,7 +5,7 @@
 #{102}{}{Thanks for the cash. First chance I get, I'm out of here.}
 {102}{}{谢谢你的现金。一有机会，我就离开这里。}
 #{103}{}{I don't feel good... }
-{103}{}{我感觉不太好。。。}
+{103}{}{我感觉不太好...}
 #{109}{}{. And yours?}
 {109}{}{. 你的呢？}
 #{110}{}{[You see a girl with beautiful hair and a red scarf around her neck. As soon as she makes eye contact with you, she gives a flirty smile.] Well, hello, handsome. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
@@ -27,23 +27,23 @@
 #{120}{}{What a nice name! I'm Jasmine. Good to meet you.}
 {120}{}{多好的名字啊！我是茉莉。很高兴见到你。}
 #{121}{}{Hmm, how do I say this... I used to work in the fields, now I'm resting. Is that good enough, baby?}
-{121}{}{嗯，我该怎么说。。。我以前在地里干活，现在在休息。够了吗，宝贝？}
+{121}{}{嗯，我该怎么说...我以前在地里干活，现在在休息。够了吗，宝贝？}
 #{122}{}{[She crosses her arms and scowls] Hmph! It's no good talking to the people here. Don't ask, baby, I have my reasons.}
 {122}{}{[她交叉双臂，愁眉不展]哼！跟这里的人说话没用。别问，宝贝，我有我的理由。}
 #{123}{}{Oh, my! [she smiles slyly, then begins to unbutton her shirt] I can take it all off if you want, baby.}
 {123}{}{哦，天哪！[她狡黠地笑了笑，然后开始解开衬衫的扣子]如果你愿意，我可以把它全部脱下来，宝贝。}
 #{124}{}{Uh... Why?}
-{124}{}{休斯敦大学。。。为什么？}
+{124}{}{Uh...为什么？}
 #{125}{}{Really? You'd do that?}
 {125}{}{真正地？你会这么做吗？}
 #{126}{}{[She laughs] Are you serious? You really don't know? [she puts a finger under your chin and winks] Don't worry, baby. I'm a great teacher.}
 {126}{}{你是认真的吗？你真的不知道？别担心，宝贝。我是个好老师。}
 #{127}{}{[She places her hand on your shoulder] Baby, I'll do a lot more than that. Just put your hand here... }
-{127}{}{[她把手放在你的肩膀上]宝贝，我会做更多。把手放在这里。。。}
+{127}{}{[她把手放在你的肩膀上]宝贝，我会做更多。把手放在这里...}
 #{128}{}{Woah! What's that under your scarf?!}
 {128}{}{哇！你围巾下面是什么？！}
 #{129}{}{[The flirty expression drops off her face and she pushes you away, turning her back on you] Every fuckin' time! It starts good, but you get one look and... [she sighs] Just... Go.}
-{129}{}{[调情的表情从她脸上消失，她推开你，背对着你]他妈的每一次！开始不错，但你看一眼。。。只是。。。去吧。}
+{129}{}{[调情的表情从她脸上消失，她推开你，背对着你]他妈的每一次！开始不错，但你看一眼...只是...去吧。}
 #{130}{}{Jasmine?}
 {130}{}{茉莉花？}
 #{150}{}{[She gives you a dead, silent stare, waiting for you to leave.]}
@@ -73,17 +73,17 @@
 #{162}{}{Work is work. That doesn't bother me.}
 {162}{}{工作就是工作。我不介意。}
 #{163}{}{So... What's a "whore"?}
-{163}{}{所以。。。什么叫“妓女”？}
+{163}{}{所以...什么叫“妓女”？}
 #{164}{}{[She stares at you with wide eyes] Are you fuckin' with me? Oh my god, I think you're really serious. Holy shit... A virgin, at your age.}
-{164}{}{[她瞪大眼睛盯着你]你他妈的跟我在一起吗？天哪，我觉得你是认真的。天啊。。。像你这样年纪的处女。}
+{164}{}{[她瞪大眼睛盯着你]你他妈的跟我在一起吗？天哪，我觉得你是认真的。天啊...像你这样年纪的处女。}
 #{165}{}{What?}
 {165}{}{什么？}
 #{166}{}{If I weren't sick, baby, I'd show you... For fifty bucks. But right now, no one should touch me.}
-{166}{}{如果我没有生病，宝贝，我会给你看。。。五十美元。但现在，没人能碰我。}
+{166}{}{如果我没有生病，宝贝，我会给你看...五十美元。但现在，没人能碰我。}
 #{170}{}{Jasmine, what's happening to your skin?}
 {170}{}{茉莉，你的皮肤怎么了？}
 #{171}{}{[She sighs] You really wanna know? I've got this horrible shit on my skin - just a few places right now, but nobody knows what'll happen next. People stared and talked behind my back... I gotta wear this scarf so they don't see.}
-{171}{}{你真的想知道吗？我的皮肤上有这种可怕的东西-现在只有几个地方，但没人知道接下来会发生什么。人们在我背后盯着我说话。。。我得戴上这条围巾，这样他们就看不见了。}
+{171}{}{你真的想知道吗？我的皮肤上有这种可怕的东西-现在只有几个地方，但没人知道接下来会发生什么。人们在我背后盯着我说话...我得戴上这条围巾，这样他们就看不见了。}
 #{172}{}{May I see?}
 {172}{}{我可以看看吗？}
 #{173}{}{Wow, I think I'm going to be sick. I better go.}
@@ -105,7 +105,7 @@
 #{181}{}{Where did you get this?}
 {181}{}{你从哪儿弄来的？}
 #{182}{}{Probably some junkie in Reno, or another one of the girls. You couldn't even imagine the types I had to sleep with... }
-{182}{}{可能是里诺的某个瘾君子，或者其他女孩。你甚至无法想象我要和什么样的人上床。。。}
+{182}{}{可能是里诺的某个瘾君子，或者其他女孩。你甚至无法想象我要和什么样的人上床...}
 #{183}{}{You've known other people with this?}
 {183}{}{你认识其他人吗？}
 #{184}{}{Yeah. Something like every tenth whore in Reno's got it. No one lives for long with it - usually they take poison and die, so it's quicker.}
@@ -167,11 +167,11 @@
 #{224}{}{We'll discuss this later.}
 {224}{}{我们稍后再讨论。}
 #{225}{}{You think I don't belong here? You're probably right... But the caravan said I'd have to pay a hundred bucks to go with them! I don't have any money!}
-{225}{}{你认为我不属于这里？你可能是对的。。。但是商队说我得付一百块钱才能跟他们一起去！我没有钱！}
+{225}{}{你认为我不属于这里？你可能是对的...但是商队说我得付一百块钱才能跟他们一起去！我没有钱！}
 #{226}{}{Here's a hundred dollars.}
 {226}{}{这是一百美元。}
 #{227}{}{[She looks stunned] You're... You're serious? I didn't think anyone would pay to get rid of me. Okay, I understand. I promise I'll go with the next caravan.}
-{227}{}{[她看起来惊呆了]你。。。你说真的？我没想到会有人付钱把我赶走。好吧，我明白。我保证我会和下一个商队一起去。}
+{227}{}{[她看起来惊呆了]你...你说真的？我没想到会有人付钱把我赶走。好吧，我明白。我保证我会和下一个商队一起去。}
 #{228}{}{You'd better. I'll be watching.}
 {228}{}{你最好这样。我会看着的。}
 #{229}{}{}
@@ -205,7 +205,7 @@
 #{260}{}{Now that you're cured, will you be alright in this town?}
 {260}{}{既然你治好了，你在这个镇上还好吗？}
 #{261}{}{Well... [she sighs] I'm... Lonely. No one's gonna try to make me leave or kill me now, but everyone still knows what I did in Reno. I've... I've always wanted a family, but... [she shakes her head] Never gonna happen.}
-{261}{}{好。。。[她叹息]我。。。孤独。现在没人想逼我离开或者杀了我，但大家都知道我在雷诺干了什么。我已经。。。我一直想要一个家庭，但是。。。[她摇头]永远不会发生。}
+{261}{}{好...[她叹息]我...孤独。现在没人想逼我离开或者杀了我，但大家都知道我在雷诺干了什么。我已经...我一直想要一个家庭，但是...[她摇头]永远不会发生。}
 #{262}{}{No one here will make a family with you?}
 {262}{}{这里没人会和你成家？}
 #{263}{}{Who would want me? No normal guy is going to want some used-up whore.}
@@ -217,13 +217,13 @@
 #{266}{}{Oh, stop this nonsense.}
 {266}{}{哦，别胡说了。}
 #{267}{}{[She laughs] Bob?! That weird goofball? He's old! I mean, not too old for kids, but... Look at his head, and that tooth! He's so ugly, he... He wouldn't even be disgusted by a used up woman like me! And he's got that stutter, which is, y'know, kinda cute in a way, but... He lives alone, like I had to... And... And he's a hard worker, and really sort of sweet, and he doesn't smell *that* bad, compared to some of the guys in Reno, and... Hmmm. I mean... But, you know... That one thing.}
-{267}{}{鲍勃？！那个怪球？他老了！我是说，对孩子来说不算太大，但是。。。看看他的头，还有那颗牙！他太丑了，他。。。他甚至不会对我这样的女人感到厌恶！他有口吃，你知道，在某种程度上有点可爱，但是。。。他一个人住，就像我不得不。。。还有。。。他是个勤奋的人，真的有点甜，和里诺的一些人相比，他闻起来没那么难闻，而且。。。嗯，我是说。。。但是，你知道。。。有一件事。}
+{267}{}{鲍勃？！那个怪球？他老了！我是说，对孩子来说不算太大，但是...看看他的头，还有那颗牙！他太丑了，他...他甚至不会对我这样的女人感到厌恶！他有口吃，你知道，在某种程度上有点可爱，但是...他一个人住，就像我不得不...还有...他是个勤奋的人，真的有点甜，和里诺的一些人相比，他闻起来没那么难闻，而且...嗯，我是说...但是，你知道...有一件事。}
 #{268}{}{What thing?}
 {268}{}{什么东西？}
 #{269}{}{}
 {269}{}{}
 #{270}{}{He, uh... How should I put it? People say he, err... "defiles" the corpses. If that's true, he's a maniac! I don't want to live with a psycho! Do you think I can trust him?}
-{270}{}{他，呃。。。我该怎么说呢？人们说他，呃……”玷污“尸体”。如果那是真的，他是个疯子！我不想和疯子住在一起！你认为我能相信他吗？}
+{270}{}{他，呃...我该怎么说呢？人们说他，呃……”玷污“尸体”。如果那是真的，他是个疯子！我不想和疯子住在一起！你认为我能相信他吗？}
 #{271}{}{You trust me, right? I'm telling you - don't listen to those rumors.}
 {271}{}{你相信我，对吧？我告诉你-别听那些谣言。}
 #{272}{}{You're right, you'd better stay away from him.}
@@ -231,7 +231,7 @@
 #{273}{}{Wait here. I'll learn more and come back.}
 {273}{}{在这里等着。我会学到更多回来的。}
 #{274}{}{You're the only one I trust. Okay, I'll do it! You'll ask him about the date, right? I can't go myself. With my reputation, I don't want him to, you know... Misunderstand me?}
-{274}{}{你是我唯一信任的人。好吧，我来！你会问他约会的事，对吗？我自己去不了。以我的名誉，我不想让他，你知道。。。你误解我了？}
+{274}{}{你是我唯一信任的人。好吧，我来！你会问他约会的事，对吗？我自己去不了。以我的名誉，我不想让他，你知道...你误解我了？}
 #{275}{}{I'll set you up.}
 {275}{}{我来安排你。}
 #{276}{}{I'll go see what can be done.}
@@ -253,7 +253,7 @@
 #{284}{}{Bob said no. Actually, that's not quite true. He said your body will be the first he burns instead of buries, because you're so sick and filthy that he doesn't want to contaminate the groundwater, and that he'd rather fuck corpses than you because they stink less and have more charming personalities.}
 {284}{}{鲍勃说不。事实上，那不是真的。他说你的身体会是他第一个被烧伤而不是埋葬的，因为你病得很重，很脏，他不想污染地下水，他宁愿操尸体也不想操你，因为尸体的臭味更少，个性更迷人。}
 #{285}{}{He said that? He... That... [she starts to cry] That bastard! He was my last chance... Thank you for trying, anyway. It's not your fault. After everything I've done, maybe I deserve to be alone... }
-{285}{}{他这么说？他。。。那个。。。那个混蛋！他是我最后的机会。。。无论如何，谢谢你的努力。这不是你的错。在我做了这么多之后，也许我应该一个人呆着。。。}
+{285}{}{他这么说？他...那个...那个混蛋！他是我最后的机会...无论如何，谢谢你的努力。这不是你的错。在我做了这么多之后，也许我应该一个人呆着...}
 #{286}{}{Sorry, Jasmine.}
 {286}{}{对不起，茉莉。}
 #{287}{}{Yeah, probably.}
@@ -261,13 +261,13 @@
 #{288}{}{You snuffed out the last bit of hope in two damaged people. That's on you now.}
 {288}{}{你扼杀了两个受伤的人的最后一点希望。现在你请客。}
 #{290}{}{What do you know about the missing brahmin?}
-{290}{}{你对失踪的婆罗门了解多少？}
+{290}{}{你对失踪的双头牛了解多少？}
 #{291}{}{William's boy says he was watching the brahmin all night, but I saw him sleeping. He was even snoring. Ahh... Cute kid.}
-{291}{}{威廉的儿子说他整晚都在看婆罗门，但我看到他在睡觉。他甚至在打鼾。啊。。。可爱的孩子。}
+{291}{}{威廉的儿子说他整晚都在看双头牛，但我看到他在睡觉。他甚至在打鼾。啊...可爱的孩子。}
 #{292}{}{Did anything unusual happen that night?}
 {292}{}{那晚有什么不寻常的事吗？}
 #{293}{}{Hmm, not really. Bolt used the toilet at night, and Justin used it in the morning. William woke me up when he was yelling at his boy for losing the brahmin.}
-{293}{}{嗯，不是真的。博尔特晚上用厕所，贾斯汀早上用。威廉把我吵醒了，当时他正对他的儿子大喊大叫，说他失去了婆罗门。}
+{293}{}{嗯，不是真的。博尔特晚上用厕所，贾斯汀早上用。威廉把我吵醒了，当时他正对他的儿子大喊大叫，说他失去了双头牛。}
 #{294}{}{Right.}
 {294}{}{正确的。}
 #{1110}{}{[You see a girl with a beautiful hair and red scarf around her neck. As soon as she makes eye contact with you, she gives a flirty smile.] Well, hello, beautiful. New in town? I'd do *anything* for some conversation around here. Are you just passing by, or are you here to stay?}
@@ -277,12 +277,12 @@
 #{1159}{}{I'm sorry. I didn't mean to upset you.}
 {1159}{}{我很抱歉。我不是故意让你难过的。}
 #{1164}{}{[She stares at you with wide eyes] Are you fuckin' with me? Oh my god, I think you're really serious. Holy shit... A virgin, at your age.}
-{1164}{}{[她瞪大眼睛盯着你]你他妈的跟我在一起吗？天哪，我觉得你是认真的。天啊。。。像你这样年纪的处女。}
+{1164}{}{[她瞪大眼睛盯着你]你他妈的跟我在一起吗？天哪，我觉得你是认真的。天啊...像你这样年纪的处女。}
 #{1178}{}{That's pretty nasty. Do you know what it is?}
 {1178}{}{那太恶心了。你知道是什么吗？}
 #{1227}{}{[She looks stunned] You're... You're serious? I didn't think anyone would pay to get rid of me. Okay, I understand. I promise I'll go with the next caravan.}
-{1227}{}{[她看起来惊呆了]你。。。你说真的？我没想到会有人付钱把我赶走。好吧，我明白。我保证我会和下一个商队一起去。}
+{1227}{}{[她看起来惊呆了]你...你说真的？我没想到会有人付钱把我赶走。好吧，我明白。我保证我会和下一个商队一起去。}
 #{1250}{}{My guardian angel!}
 {1250}{}{我的守护天使！}
 #{1274}{}{You're the only one I trust. Okay, I'll do it! You'll ask him about the date, right? I can't go myself. With my reputation, I don't want him to, you know... Misunderstand me?}
-{1274}{}{你是我唯一信任的人。好吧，我来！你会问他约会的事，对吗？我自己去不了。以我的名誉，我不想让他，你知道。。。你误解我了？}
+{1274}{}{你是我唯一信任的人。好吧，我来！你会问他约会的事，对吗？我自己去不了。以我的名誉，我不想让他，你知道...你误解我了？}

@@ -19,7 +19,7 @@
 #{124}{}{In New Reno.}
 {124}{}{在新雷诺。}
 #{125}{}{What? Huh... [long pause] ...Your voice sounds pretty weird, Jay... Okay, who is this?! Hey! Answer me! [you cut the feed]}
-{125}{}{什么？呵呵。。。[长时间停顿]…你的声音听起来很奇怪，杰伊。。。好吧，这是谁？！嘿！回答我！[你切断了信号]}
+{125}{}{什么？呵呵...[长时间停顿]…你的声音听起来很奇怪，杰伊...好吧，这是谁？！嘿！回答我！[你切断了信号]}
 #{126}{}{Hmm, so they don't even know what Jay Kukish is doing. Why didn't he return to them after vault 8? I should go to Bridgeport and talk to these bikers face to face. Let's hope they're friendly.}
 {126}{}{嗯，所以他们甚至不知道杰伊·库基什在干什么。为什么他在8号保险库之后不回到他们那里？我应该去布里奇波特和这些摩托车手面对面谈谈。希望他们友好。}
 #{127}{}{[The voice pauses] No shit? We haven't seen Jay in a while. How do you know him?}
@@ -31,13 +31,13 @@
 #{130}{}{I think we're friends, otherwise he wouldn't have left me a jacket, pistol, and contact details.}
 {130}{}{我想我们是朋友，否则他不会给我留下夹克、手枪和联系方式。}
 #{131}{}{Yeah? Well, I won't get in your way, then. Jay disappeared a few months ago. We've heard a lot of rumors since then... Listen, we need to talk in person. We're in a small town called Bridgeport. If you really need to see Jay, you'll come. That's all I can say. Over.}
-{131}{}{是 啊？好吧，那我就不妨碍你了。杰伊几个月前失踪了。从那以后我们听到了很多谣言。。。听着，我们得当面谈谈。我们在一个叫布里奇波特的小镇。如果你真的要见杰伊，你会来的。我只能这么说。完毕。}
+{131}{}{是 啊？好吧，那我就不妨碍你了。杰伊几个月前失踪了。从那以后我们听到了很多谣言...听着，我们得当面谈谈。我们在一个叫布里奇波特的小镇。如果你真的要见杰伊，你会来的。我只能这么说。完毕。}
 #{132}{}{Bridgeport... Alright. Over.}
-{132}{}{布里奇波特。。。好吧。完毕。}
+{132}{}{布里奇波特...好吧。完毕。}
 #{133}{}{Big question mark, huh? That's Jay alright. Listen, I can't help you for now. Probably, you should come, tell us what you know. We're in a small town called Bridgeport. If you really need to see Jay, you'll come. That's all I can say. Over.}
 {133}{}{大问号，嗯？好吧，那是杰伊。听着，我现在帮不了你。也许，你应该来，告诉我们你所知道的。我们在一个叫布里奇波特的小镇。如果你真的要见杰伊，你会来的。我只能这么说。完毕。}
 #{134}{}{I don't know if I can trust you. Maybe Jay's already dead in a ditch somewhere, and you're just trying to get our trust... We need to talk in person. We're in a small town called Bridgeport. If you really need to see Jay, you'll come. That's all I can say. Over.}
-{134}{}{我不知道我能不能相信你。也许杰伊已经死在沟里了，你只是想得到我们的信任。。。我们需要当面谈谈。我们在一个叫布里奇波特的小镇。如果你真的要见杰伊，你会来的。我只能这么说。完毕。}
+{134}{}{我不知道我能不能相信你。也许杰伊已经死在沟里了，你只是想得到我们的信任...我们需要当面谈谈。我们在一个叫布里奇波特的小镇。如果你真的要见杰伊，你会来的。我只能这么说。完毕。}
 #{160}{}{[Look for information about this bunker.]}
 {160}{}{[查找有关此掩体的信息。]}
 #{161}{}{This structure is located under the town square. Its construction was contracted by the mayor's office, paid with taxpayers' money. It was intended to serve as a mass shelter in the case of bombings near Reno.}

@@ -13,7 +13,7 @@
 #{114}{}{Important? How important?}
 {114}{}{重要吗？有多重要？}
 #{115}{}{I worked for Mr. Wright, managing his business in Uranium City. But all the workers took off after people and livestock started to disappear, so Wright got angry and sold me into slavery. [he shrugs sadly] That's how it works in Reno. One minute you're a made man, and then...}
-{115}{}{我为莱特先生工作，管理他在铀城的生意。但是在人和牲畜开始消失后，所有的工人都离开了，所以莱特生气了，把我卖了做奴隶。[他悲伤地耸耸肩]雷诺就是这样。前一分钟你是个成功的人，然后。。。}
+{115}{}{我为莱特先生工作，管理他在铀城的生意。但是在人和牲畜开始消失后，所有的工人都离开了，所以莱特生气了，把我卖了做奴隶。[他悲伤地耸耸肩]雷诺就是这样。前一分钟你是个成功的人，然后...}
 #{116}{}{I see. That explains a lot about Reno. Well, I should let you get back to your work.}
 {116}{}{我懂了。这就解释了雷诺的很多事。好吧，我应该让你回去工作。}
 #{117}{}{Yeah, that's a real shame. But hey, not my problem. See ya.}
@@ -24,12 +24,12 @@
 {119}{}{再说一遍你的故事。}
 #{120}{}{Marilyn sent for you. You're needed in Uranium City.}
 {120}{}{玛丽莲派人来找你的。铀城需要你。}
-#{121}{}{I shouldn�t have asked about it. Never mind.}
+#{121}{}{I shouldn??t have asked about it. Never mind.}
 {121}{}{我不该问的。不要介意。}
 #{122}{}{Same old, same old. Not much to tell.}
 {122}{}{老样子，老样子。没什么好说的。}
 #{123}{}{Really?! Oh, Marilyn... Damn, she's really something. Can't say I'm surprised. But... See this collar? If I try to escape, it'll kill me. And if I do escape, they'll find me - and then I'll wish it had killed me! The only way I'm getting out of here is if Luciano agrees. Will... Will you help me? For Uranium City? And... For Marilyn?}
-{123}{}{真正地？！哦，玛丽莲。。。妈的，她真了不起。不能说我很惊讶。但是。。。看到这个领子了吗？如果我想逃跑，它会杀了我的。如果我真的逃跑了，他们会找到我的-然后我会希望它杀了我！如果卢西亚诺同意，我就离开这里。威尔。。。你能帮我吗？为了铀城？还有。。。为了玛丽莲？}
+{123}{}{真正地？！哦，玛丽莲...妈的，她真了不起。不能说我很惊讶。但是...看到这个领子了吗？如果我想逃跑，它会杀了我的。如果我真的逃跑了，他们会找到我的-然后我会希望它杀了我！如果卢西亚诺同意，我就离开这里。威尔...你能帮我吗？为了铀城？还有...为了玛丽莲？}
 #{124}{}{What about Wright, your former boss?}
 {124}{}{你以前的老板赖特呢？}
 #{125}{}{I'll talk to Luciano. Let's see what can be done.}
@@ -43,9 +43,9 @@
 #{129}{}{Wright? Even if he wanted to help, he doesn't have any money. He sold me into slavery just to wring a little profit out of a business bust.}
 {129}{}{赖特？即使他想帮忙，他也没有钱。他把我卖了当奴隶，只是为了从生意萧条中榨取一点利润。}
 #{130}{}{With Luciano himself? Uh... Well, if you're good with him, you might have a chance, but actually, the one in charge of the slaves is Machete.}
-{130}{}{和卢西亚诺一起？休斯敦大学。。。好吧，如果你和他相处得好，你也许有机会，但实际上，掌管奴隶的是砍刀。}
+{130}{}{和卢西亚诺一起？Uh...好吧，如果你和他相处得好，你也许有机会，但实际上，掌管奴隶的是砍刀。}
 #{131}{}{Oh... Okay... That sounds, uh, great, except for the armed security all over the place and my ten-thousand-volt necklace. You do remember all that, right?}
-{131}{}{哦。。。可以。。。听起来，呃，不错，除了到处都是武装保安和我的一万伏特项链。你记得这些，对吧？}
+{131}{}{哦...可以...听起来，呃，不错，除了到处都是武装保安和我的一万伏特项链。你记得这些，对吧？}
 #{132}{}{The security is dead. Only one problem remains: the collar.}
 {132}{}{保安死了。只剩下一个问题：衣领。}
 #{133}{}{The guards are dead and the collars have been remotely disabled. You can just take it off now.}
@@ -55,11 +55,11 @@
 #{135}{}{Uranium City awaits.}
 {135}{}{铀城正在等待。}
 #{136}{}{Uh... How should I say this... I can't get there on foot. I'll have to pay someone to bring me there, and I don't have any money, so... I don't suppose you could spare a few bucks, could you?}
-{136}{}{休斯敦大学。。。我该怎么说。。。我不能步行去那里。我得付钱让人带我去那里，我又没钱，所以。。。我想你不会省下几块钱吧？}
+{136}{}{Uh...我该怎么说...我不能步行去那里。我得付钱让人带我去那里，我又没钱，所以...我想你不会省下几块钱吧？}
 #{137}{}{Here's $300. Take the first transport out.}
 {137}{}{这是300美元。把第一辆车开走。}
 #{138}{}{I'll do you one better. I'll drive you myself... In the trunk, maybe. Heh-heh.}
-{138}{}{我会做得更好。我自己开车送你。。。可能在后备箱里。嘿嘿。}
+{138}{}{我会做得更好。我自己开车送你...可能在后备箱里。嘿嘿。}
 #{139}{}{I'll think of something. Wait here.}
 {139}{}{我会想办法的。在这里等着。}
 #{140}{}{Hey there. I'm still here, trying to think of a way to get to Uranium City. Any ideas?}
@@ -85,7 +85,7 @@
 #{150}{}{Let me have a look at this collar. I think I can disable it.}
 {150}{}{让我看看这个领子。我想我可以禁用它。}
 #{151}{}{Uh... [he starts to shrink away, but the thirst for freedom brings him back] Just... Don't push any buttons unless you know what they do, okay?}
-{151}{}{休斯敦大学。。。[他开始退缩，但对自由的渴望让他回来了]只是。。。不要按任何按钮，除非你知道它们是做什么的，好吗？}
+{151}{}{Uh...[他开始退缩，但对自由的渴望让他回来了]只是...不要按任何按钮，除非你知道它们是做什么的，好吗？}
 #{152}{}{[Disable the collar.]}
 {152}{}{[禁用项圈。]}
 #{153}{}{I can't do it. I'll have to find another way.}

@@ -7,13 +7,13 @@
 #{103}{}{Hey}
 {103}{}{嘿}
 #{104}{}{Uh, hello... Let me first find my cards, we will talk later...}
-{104}{}{呃，你好。。。让我先找到我的名片，我们稍后再谈。。。}
+{104}{}{呃，你好...让我先找到我的名片，我们稍后再谈...}
 #{105}{}{Uh, hello... Let me first deal with these decks. Why there are so many of them?}
-{105}{}{呃，你好。。。我先来处理这些甲板。为什么会有这么多？}
+{105}{}{呃，你好...我先来处理这些甲板。为什么会有这么多？}
 #{110}{}{Hey, pal, it's obvious that you're freshly out of the wastelands. Sit down, take a break from the road.}
 {110}{}{嘿，伙计，很明显你刚从荒地出来。坐下来，在路上休息一下。}
 #{111}{}{Why so much friendliness? Hey, something tells me that you're trying to put me at the card table...}
-{111}{}{为什么这么友好？嘿，我知道你想把我放在牌桌上。。。}
+{111}{}{为什么这么友好？嘿，我知道你想把我放在牌桌上...}
 #{112}{}{Oh, thank you, that's exactly what I needed.}
 {112}{}{哦，谢谢，这正是我需要的。}
 #{113}{}{I'll decide what to do without you.}
@@ -61,13 +61,13 @@
 #{134}{}{My offer about the game still stands. I have a stimpak and I'm ready to put it on the line, and your bet is 100 bucks. You still want to play?}
 {134}{}{我对比赛的提议仍然有效。我有一个stimpak，我准备把它放在线上，你的赌注是100美元。你还想玩吗？}
 #{135}{}{[Becomes focused] The deck does not lie. [shuffles cards] That's why I love cards. They require *skills* and ingenuity from the player, rather than simply a random number of a dice. [deals cards] I will play to my full potential. It's not just a stimpak at stake, but also my hungry stomach. So, let's begin...}
-{135}{}{[变得专注]甲板没有躺着。[洗牌]这就是我喜欢纸牌的原因。他们需要玩家的技能和智慧，而不是简单的随机数。[交易牌]我会充分发挥我的潜力。这不仅仅是一个危险的刺激，还有我饥饿的胃。所以，让我们开始。。。}
+{135}{}{[变得专注]甲板没有躺着。[洗牌]这就是我喜欢纸牌的原因。他们需要玩家的技能和智慧，而不是简单的随机数。[交易牌]我会充分发挥我的潜力。这不仅仅是一个危险的刺激，还有我饥饿的胃。所以，让我们开始...}
 #{136}{}{Yeah, let's start...}
-{136}{}{是的，让我们开始。。。}
+{136}{}{是的，让我们开始...}
 #{137}{}{[Grabs his head in despair] What have I done...}
-{137}{}{我做了什么。。。}
+{137}{}{我做了什么...}
 #{138}{}{Ha-ha, if only I'd be so lucky every day! Look, as I take your... No, MY stimpak! And now I have to go. Have a good time, loser!}
-{138}{}{哈哈，要是我每天都这么幸运就好了！听着，我拿着你的。。。不，我的朋友！现在我得走了。玩得开心，失败者！}
+{138}{}{哈哈，要是我每天都这么幸运就好了！听着，我拿着你的...不，我的朋友！现在我得走了。玩得开心，失败者！}
 #{139}{}{I see, things must be really rough for you. Here, take these 100 bucks for the stimpak. You need them more. As for me, my loss is still less than the gain. Now I gotta go.}
 {139}{}{我明白了，事情对你来说一定很艰难。给，拿这100块钱买史汀帕克。你更需要他们。对我来说，我的损失仍然小于收获。现在我得走了。}
 #{140}{}{Well, I was lucky and you wasn't. In another turn it could have been the other way around. But I have to go. Take care.}

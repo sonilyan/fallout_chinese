@@ -15,7 +15,7 @@
 #{107}{}{Hey, perhaps, you will ask me first?}
 {107}{}{嘿，也许，你会先问我？}
 #{110}{}{Sorry, feels really bad...}
-{110}{}{对不起，感觉很糟。。。}
+{110}{}{对不起，感觉很糟...}
 #{111}{}{(he feels bad)}
 {111}{}{（他感觉很糟）}
 #{112}{}{(he won't talk to you, he feels bad)}
@@ -27,11 +27,11 @@
 #{115}{}{What do you want?! Don't you see my condition?}
 {115}{}{你想要什么？！你没看到我的状况吗？}
 #{116}{}{Can't breathe...}
-{116}{}{无法呼吸。。。}
+{116}{}{无法呼吸...}
 #{117}{}{Right in the face!.. O-oh...}
-{117}{}{就在脸上！。。哦-哦。。。}
+{117}{}{就在脸上！。。哦-哦...}
 #{118}{}{Everything hurts... Shit...}
-{118}{}{一切都很痛。。。倒霉。。。}
+{118}{}{一切都很痛...倒霉...}
 #{119}{}{So painful!}
 {119}{}{太痛苦了！}
 #{120}{}{Why did I deserve this?!}
@@ -45,7 +45,7 @@
 #{124}{}{After such beatings, the only desire I have is to go to casino and spend everything. Only I have nothing left.}
 {124}{}{在这样的殴打之后，我唯一的愿望就是去赌场花光所有的钱。只有我一无所有。}
 #{125}{}{Sorry, can't think right now...}
-{125}{}{抱歉，现在不能思考。。。}
+{125}{}{抱歉，现在不能思考...}
 #{126}{}{Talk to the others, I'm barely standing.}
 {126}{}{和其他人谈谈，我几乎站不住了。}
 #{128}{}{Thanks for the help, wanderer!}
@@ -55,7 +55,7 @@
 #{130}{}{leave.}
 {130}{}{离开。}
 #{131}{}{(Bruises, cuts... This caravan merchant could use some first aid.)}
-{131}{}{（瘀伤、割伤。。。这个商队商人需要一些急救。）}
+{131}{}{（瘀伤、割伤...这个商队商人需要一些急救。）}
 #{132}{}{[Use First Aid kit]}
 {132}{}{[使用急救箱]}
 #{133}{}{[Use Doctor's Bag]}

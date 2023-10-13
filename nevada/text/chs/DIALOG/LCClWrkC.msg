@@ -9,7 +9,7 @@
 #{104}{}{ }
 {104}{}{ }
 #{105}{}{I'm not in the mood right now...}
-{105}{}{我现在没心情。。。}
+{105}{}{我现在没心情...}
 #{106}{}{How are you? Do these niggas bother you? Good.}
 {106}{}{你好吗？这些黑鬼打扰你了吗？很好。}
 #{110}{}{Stranger? What's the matter? I'm trying to rest from all those idiots in the factory. So I really don't want to hear anyone out.}
@@ -41,13 +41,13 @@
 #{123}{}{Sure, you can just leave. All good. But think about it - I would pay good money and, perhaps, could sneak something off the factory for you. What can this old woman and fat nigger offer? I'm not in a hurry. Think about it. When you're ready - act.}
 {123}{}{当然，你可以走了。一切都很好。但是想想看，我会付很多钱，也许，我可以帮你从工厂偷点东西。这个老妇人和胖黑鬼能提供什么？我不急。好好想想。当你准备好的时候-表演。}
 #{124}{}{I have to think about it...}
-{124}{}{我得好好想想。。。}
+{124}{}{我得好好想想...}
 #{125}{}{Your black rival is dead.}
 {125}{}{你的黑对手死了。}
 #{126}{}{I snitched the negro, as we agreed. Now he is fired.}
 {126}{}{我们说好的，我告发了那个黑人。现在他被解雇了。}
 #{127}{}{It feels damn nice, when people are brilliantly doing their job! Oh yeah... I always keep my word. 250 bucks for this. Of course, this is not the best money in the world, so I can only offer gas protection suit in addition. It can be sold for good money on the market. Believe me, that nigga would not give you more than that.}
-{127}{}{当人们出色地完成他们的工作时，感觉真是太好了！哦，是的。。。我总是信守诺言。250块买这个。当然，这不是世界上最好的钱，所以我只能提供额外的气体保护服。它可以在市场上卖到好价钱。相信我，那个黑鬼不会给你更多的。}
+{127}{}{当人们出色地完成他们的工作时，感觉真是太好了！哦，是的...我总是信守诺言。250块买这个。当然，这不是世界上最好的钱，所以我只能提供额外的气体保护服。它可以在市场上卖到好价钱。相信我，那个黑鬼不会给你更多的。}
 #{128}{}{That's right! Well, let's split up, as if we never met. Take care.}
 {128}{}{这是正确的！好吧，我们分手吧，好像我们从未见过面似的。当心。}
 #{129}{}{Don't come near me until you will solve all the problems.}

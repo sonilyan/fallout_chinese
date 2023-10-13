@@ -22,7 +22,7 @@
 {110}{}{妈妈！}
 #{111}{}{Who are you?}
 {111}{}{你是谁？}
-#{112}{}{We can�t talk to outsiders!}
+#{112}{}{We can??t talk to outsiders!}
 {112}{}{我们不能和外人说话！}
 #{113}{}{Outsider!}
 {113}{}{局外人！}
@@ -30,11 +30,11 @@
 {114}{}{我要尖叫！}
 #{115}{}{I'll bite!}
 {115}{}{我要咬！}
-#{116}{}{Don�t touch me!}
+#{116}{}{Don??t touch me!}
 {116}{}{别碰我！}
 #{117}{}{Get away!}
 {117}{}{逃掉！}
-#{118}{}{We can�t talk to outsiders.}
+#{118}{}{We can??t talk to outsiders.}
 {118}{}{我们不能和外人说话。}
 #{119}{}{Outsiders do bad.}
 {119}{}{局外人做坏事。}
@@ -45,7 +45,7 @@
 #{122}{}{Did you walk a long way?}
 {122}{}{你走了很长的路吗？}
 #{123}{}{I feel tired...}
-{123}{}{我觉得累了。。。}
+{123}{}{我觉得累了...}
 #{124}{}{Mom wants us to work!}
 {124}{}{妈妈要我们工作！}
 #{125}{}{Eat those bad people and turn into a wendigo!!!}
@@ -57,7 +57,7 @@
 #{128}{}{Do you tell stories?}
 {128}{}{你讲故事吗？}
 #{129}{}{Niskigvan made us dolls, and then... Ouch!}
-{129}{}{尼斯基文给我们做了洋娃娃，然后。。。哎哟！}
+{129}{}{尼斯基文给我们做了洋娃娃，然后...哎哟！}
 #{130}{}{Do you know Niskigvan? He is good.}
 {130}{}{你认识尼斯基文吗？他很好。}
 #{131}{}{Today we have roasted mice. Mm-mm!}
@@ -71,28 +71,28 @@
 #{135}{}{One flew east, one flew west, one flew over the cuckoo's nest!}
 {135}{}{一个向东飞，一个向西飞，一个飞越布谷鸟的巢！}
 #{141}{}{Mm... Mama?..}
-{141}{}{嗯。。。妈妈？。。}
+{141}{}{嗯...妈妈？。。}
 #{142}{}{:: snkkrk ::}
 {142}{}{●斯纳克：}
 #{143}{}{Zzzz}
 {143}{}{Zzzz}
-#{144}{}{Who's here? Oh... It�s...}
-{144}{}{谁来了？哦。。。它是。。。}
+#{144}{}{Who's here? Oh... It??s...}
+{144}{}{谁来了？哦...它是...}
 #{145}{}{Shaman has a pis... Pisto...}
-{145}{}{萨满有一个pis。。。双鱼座。。。}
+{145}{}{萨满有一个pis...双鱼座...}
 #{146}{}{D... Don... Hrrr...}
-{146}{}{D、 。。。大学教师。。。Hrrr。。。}
+{146}{}{D、 ...大学教师...Hrrr...}
 #{147}{}{...Mommy...}
-{147}{}{…妈妈。。。}
-#{148}{}{I�m sleeping...}
-{148}{}{我在睡觉。。。}
+{147}{}{…妈妈...}
+#{148}{}{I??m sleeping...}
+{148}{}{我在睡觉...}
 #{149}{}{Morning...}
-{149}{}{早晨。。。}
+{149}{}{早晨...}
 #{150}{}{Giving drugs to children has darkened your soul and brought the curse of the tribe upon you. Shame on you.}
 {150}{}{给小孩子吃药，使你的灵魂黑暗，使你受那支派的咒诅。你真丢脸。}
 #{151}{}{Shh! I'm listening!}
 {151}{}{嘘！我在听！}
-#{1118}{}{We can�t talk to outsiders.}
+#{1118}{}{We can??t talk to outsiders.}
 {1118}{}{我们不能和外人说话。}
 #{1119}{}{Outsiders do bad.}
 {1119}{}{局外人做坏事。}
@@ -103,7 +103,7 @@
 #{1122}{}{Did you walk a long way?}
 {1122}{}{你走了很长的路吗？}
 #{1123}{}{I feel tired...}
-{1123}{}{我觉得累了。。。}
+{1123}{}{我觉得累了...}
 #{1124}{}{Mom wants us to work!}
 {1124}{}{妈妈要我们工作！}
 #{1125}{}{Eat those bad people and turn into a wendigo!!!}
@@ -115,7 +115,7 @@
 #{1128}{}{Do you tell stories?}
 {1128}{}{你讲故事吗？}
 #{1129}{}{Niskigvan made us dolls, and then... Ouch!}
-{1129}{}{尼斯基文给我们做了洋娃娃，然后。。。哎哟！}
+{1129}{}{尼斯基文给我们做了洋娃娃，然后...哎哟！}
 #{1130}{}{Do you know Niskigvan? He is good.}
 {1130}{}{你认识尼斯基文吗？他很好。}
 #{1131}{}{Today we have roasted mice. Mm-mm!}

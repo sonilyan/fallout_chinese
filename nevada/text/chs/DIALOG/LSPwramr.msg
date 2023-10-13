@@ -19,7 +19,7 @@
 #{113}{}{Leave the parts on the table.}
 {113}{}{把零件放在桌子上。}
 #{114}{}{Apparently, this exemplar of rare battle equipment had a little to no luck during the Great War: the helmet is almost destroyed, the back is mangled, together with the power module, and, of course, the most "spicy" part - the CPU - is done too. To restore THIS, you will need a whole factory... Or at least spare parts for replacement.}
-{114}{}{很明显，这个罕见的战斗装备的例子在大战期间有点运气不佳：头盔几乎被摧毁，背部和电源模块一起破损，当然，最“辛辣”的部分——CPU——也完成了。要恢复这个，你需要一个完整的工厂。。。或者至少是替换的备件。}
+{114}{}{很明显，这个罕见的战斗装备的例子在大战期间有点运气不佳：头盔几乎被摧毁，背部和电源模块一起破损，当然，最“辛辣”的部分——CPU——也完成了。要恢复这个，你需要一个完整的工厂...或者至少是替换的备件。}
 #{115}{}{To restore the armor, you require not only replacements for some parts, but also very high skills in system engineering (that is, to put it simply, repair and science.)}
 {115}{}{为了修复装甲，你不仅需要更换某些部件，还需要非常高的系统工程技能（简单地说，就是维修和科学）}
 #{116}{}{}
@@ -37,7 +37,7 @@
 #{122}{}{After working all day on the armor, you still got a positive result - supporting structure is restored! This is a big step forward. But that's not enough for full repair.}
 {122}{}{在盔甲上工作了一整天之后，你仍然得到了一个积极的结果——支撑结构恢复了！这是向前迈出的一大步。但这还不足以完全修复。}
 #{123}{}{Ugh, it's a really hard work...}
-{123}{}{呃，这真是一项艰苦的工作。。。}
+{123}{}{呃，这真是一项艰苦的工作...}
 #{130}{}{Begin the second stage of repairing - the restoration of integrity.}
 {130}{}{开始第二阶段的修复-恢复完整性。}
 #{131}{}{There is nothing left of the old power armor that could be used to restore integrity. Will have to look for a replacement for layers of gas and radiation protection, and a hermetic helmet.}

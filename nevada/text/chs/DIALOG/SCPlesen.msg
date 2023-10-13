@@ -3,13 +3,13 @@
 #{101}{}{You see a filthy junkie nicknamed Mold, probably due to his smell.}
 {101}{}{你看到一个肮脏的瘾君子，绰号“霉”，可能是因为他的气味。}
 #{102}{}{Aw, f-f-fuck... I g-got the shakes... }
-{102}{}{噢，该死的。。。我有点发抖。。。}
+{102}{}{噢，该死的...我有点发抖...}
 #{103}{}{I need more... }
-{103}{}{我需要更多。。。}
+{103}{}{我需要更多...}
 #{104}{}{Probably... Or maybe not... }
-{104}{}{可能。。。或许不是。。。}
+{104}{}{可能...或许不是...}
 #{105}{}{I need it bad... }
-{105}{}{我非常需要它。。。}
+{105}{}{我非常需要它...}
 #{106}{}{I think I threw up, just a little bit.}
 {106}{}{我想我吐了一点点。}
 #{107}{}{::moan::}
@@ -17,7 +17,7 @@
 #{108}{}{::groan::}
 {108}{}{●呻吟声：}
 #{109}{}{Damn... }
-{109}{}{该死。。。}
+{109}{}{该死...}
 #{110}{}{You think they're looking for me?}
 {110}{}{你认为他们在找我？}
 #{111}{}{Go away!}
@@ -25,13 +25,13 @@
 #{112}{}{Fuck it! Fuck everything!}
 {112}{}{去他妈的！去他妈的！}
 #{113}{}{I just need a drink to take the edge off... }
-{113}{}{我只想喝一杯来缓解一下。。。}
+{113}{}{我只想喝一杯来缓解一下...}
 #{114}{}{A beer would be great right now.}
 {114}{}{现在喝杯啤酒就好了。}
 #{115}{}{I think I'm dying!}
 {115}{}{我想我要死了！}
 #{116}{}{I need a drink... I don't care what! Even brahmin piss, anything!}
-{116}{}{我需要喝一杯。。。我不在乎什么！即使是婆罗门的尿，任何东西！}
+{116}{}{我需要喝一杯...我不在乎什么！即使是双头牛的尿，任何东西！}
 #{117}{}{Who? What? Where? Why?!}
 {117}{}{谁？什么？哪里？为什么？}
 #{118}{}{You're a towel!}
@@ -39,23 +39,23 @@
 #{119}{}{[Points at you] You're fired!}
 {119}{}{[指着你]你被解雇了！}
 #{120}{}{So thirsty... }
-{120}{}{太渴了。。。}
+{120}{}{太渴了...}
 #{121}{}{I wanna live... }
-{121}{}{我想活下去。。。}
+{121}{}{我想活下去...}
 #{122}{}{I wanna die... }
-{122}{}{我想死。。。}
+{122}{}{我想死...}
 #{123}{}{Who's fucked up?! YOU'RE fucked up!}
 {123}{}{谁搞砸了？！你搞砸了！}
 #{124}{}{I just need a sip! Please, have a heart!}
 {124}{}{我只想喝一口！求你了，有一颗心！}
 #{125}{}{Just one glass... }
-{125}{}{就一杯。。。}
+{125}{}{就一杯...}
 #{126}{}{If you don't get me a drink, I'll... I... Oh, never mind.}
-{126}{}{如果你不给我弄点喝的，我会。。。一、 。。。哦，没关系。}
+{126}{}{如果你不给我弄点喝的，我会...一、 ...哦，没关系。}
 #{127}{}{I'm serious, I really need it. Get me some booze or I'll fucking die here!}
 {127}{}{我是认真的，我真的需要它。给我拿点酒来，不然我就死在这里！}
 #{128}{}{Who the hell?... Oh, why do I care... }
-{128}{}{到底是谁？。。。哦，为什么我在乎。。。}
+{128}{}{到底是谁？...哦，为什么我在乎...}
 #{129}{}{Please! Half a bottle!}
 {129}{}{拜托！半瓶！}
 #{130}{}{I'm not asking for much! The withdrawal's gonna kill me!}
@@ -65,7 +65,7 @@
 #{132}{}{Go to hell!}
 {132}{}{去死吧！}
 #{133}{}{I'll fucking... }
-{133}{}{我他妈的。。。}
+{133}{}{我他妈的...}
 #{134}{}{Get off of me!}
 {134}{}{放开我！}
 #{135}{}{What the shit is this fuck?}
@@ -79,27 +79,27 @@
 #{139}{}{Trying to cheat me, huh?!}
 {139}{}{想骗我，哈？！}
 #{140}{}{Woah, what the... }
-{140}{}{哇，怎么了。。。}
+{140}{}{哇，怎么了...}
 #{141}{}{Daaaamn... }
-{141}{}{达安。。。}
+{141}{}{达安...}
 #{142}{}{Oh! Oh! Ohhhh! Here it comes!!!}
 {142}{}{哦！哦！哦！它来了！！！}
 #{143}{}{This... Isn't right... }
-{143}{}{这个。。。是不对的。。。}
+{143}{}{这个...是不对的...}
 #{144}{}{I'm out, man. Wayyyy out... }
-{144}{}{我出去了，伙计。退出。。。}
+{144}{}{我出去了，伙计。退出...}
 #{145}{}{::snores::}
 {145}{}{●打鼾：}
 #{146}{}{Either I just shit myself or... Nope, right the first time.}
-{146}{}{不是我自己拉屎就是。。。不，第一次就对了。}
+{146}{}{不是我自己拉屎就是...不，第一次就对了。}
 #{147}{}{::unconscious::}
 {147}{}{●无意识：}
 #{148}{}{::zzzzzz::}
 {148}{}{：：zzzz:：}
 #{149}{}{Maybe no one will notice the smell... }
-{149}{}{也许没人会注意到。。。}
+{149}{}{也许没人会注意到...}
 #{150}{}{Hey, your booze was real swill! I was puking up shit I'd never eaten! Can you get me something decent? I'm starting to feel the shakes... }
-{150}{}{嘿，你的酒真是太辣了！我在吐我从没吃过的屎！你能给我买点像样的吗？我开始感觉到震动。。。}
+{150}{}{嘿，你的酒真是太辣了！我在吐我从没吃过的屎！你能给我买点像样的吗？我开始感觉到震动...}
 #{151}{}{There's a still in the next room. Can't you get it yourself?}
 {151}{}{隔壁房间有个蒸馏器。你自己拿不到吗？}
 #{152}{}{I really couldn't care less. Bye.}
@@ -107,7 +107,7 @@
 #{153}{}{You shouldn't drink so much.}
 {153}{}{你不应该喝那么多。}
 #{154}{}{Fatso said he's had enough of me. He won't give me any more. And no one else will help me, so... Please? They might share with you... }
-{154}{}{胖子说他受够我了。他不会再给我钱了。没有人会帮我，所以。。。拜托？他们可能会和你分享。。。}
+{154}{}{胖子说他受够我了。他不会再给我钱了。没有人会帮我，所以...拜托？他们可能会和你分享...}
 #{155}{}{Fine, I'll get you something to drink. Try not to die in the meantime.}
 {155}{}{好吧，我给你拿点喝的。尽量不要同时死去。}
 #{156}{}{You got the booze?}
@@ -123,13 +123,13 @@
 #{161}{}{I knew I forgot something. I'll be right back.}
 {161}{}{我知道我忘了什么。我马上回来。}
 #{162}{}{Damn! Thanks, friend... [he eagerly chugs the alcohol, finishing with a loud burp] Ohhhh, that's good... Man, you... I'm just... Wow! Listen, in this gang it's, you know... Complicated. You're new, but you'll understand. Hey, listen... Can you get me another one? I'm kinda fucked up... I need some of Fatso's healing powder. It just takes the pain away, you know? Could you get me some? I'm dying here... }
-{162}{}{该死！谢谢，朋友。。。[他迫不及待地灌了一口酒，最后大声打嗝]哦，太好了。。。伙计，你。。。我只是。。。哇！听着，在这个帮派里，你知道。。。很复杂。你是新来的，但你会明白的。嘿，听着。。。你能再给我拿一个吗？我有点搞砸了。。。我需要一些胖子的治疗粉。它只是消除了痛苦，你知道吗？你能给我拿些吗？我要死在这里。。。}
+{162}{}{该死！谢谢，朋友...[他迫不及待地灌了一口酒，最后大声打嗝]哦，太好了...伙计，你...我只是...哇！听着，在这个帮派里，你知道...很复杂。你是新来的，但你会明白的。嘿，听着...你能再给我拿一个吗？我有点搞砸了...我需要一些胖子的治疗粉。它只是消除了痛苦，你知道吗？你能给我拿些吗？我要死在这里...}
 #{163}{}{You get experience for the "delivery".}
 {163}{}{你得到了“交付”的经验。}
 #{164}{}{I'll try.}
 {164}{}{我试试看。}
 #{165}{}{I'm falling apart here... I need medicine... Like, healing herbs, man... Ohhh... }
-{165}{}{我要崩溃了。。。我需要药。。。就像，治疗药草，伙计。。。哦。。。}
+{165}{}{我要崩溃了...我需要药...就像，治疗药草，伙计...哦...}
 #{166}{}{Here you go. Heal up.}
 {166}{}{干得好。痊愈。}
 #{167}{}{Well, good luck with that.}
@@ -139,7 +139,7 @@
 #{169}{}{You got the junkie another fix.}
 {169}{}{你又给那个瘾君子做了一次治疗。}
 #{170}{}{[He convulses on the floor, his eyes wide and staring at the ceiling] Ah, f-f-fuck! It's bad! I need... I need a fix... Acid, painkillers, anti-smoking chems, anything! Just h-h-help me!}
-{170}{}{[他在地板上抽搐，睁大眼睛盯着天花板]啊，操！太糟糕了！我需要。。。我需要修复。。。酸，止痛药，禁烟药，任何东西！救救我！}
+{170}{}{[他在地板上抽搐，睁大眼睛盯着天花板]啊，操！太糟糕了！我需要...我需要修复...酸，止痛药，禁烟药，任何东西！救救我！}
 #{171}{}{}
 {171}{}{}
 #{172}{}{Just hold on! I'll give you what you need!}
@@ -151,11 +151,11 @@
 #{175}{}{[Leave him on the floor.]}
 {175}{}{[把他留在地板上。]}
 #{176}{}{[He sobs] You heartless piece of - I'm dying here! Here, take it, just let me the fix, please... [he hands you the last of his money]}
-{176}{}{[他抽泣]你这个无情的家伙-我要死在这里了！来，拿着，让我修一下，好吗。。。[他把最后一笔钱递给你]}
+{176}{}{[他抽泣]你这个无情的家伙-我要死在这里了！来，拿着，让我修一下，好吗...[他把最后一笔钱递给你]}
 #{177}{}{You earn 250 experience points for getting the junkie another fix.}
 {177}{}{你获得250点的经验点，让吸毒者得到另一个修复。}
 #{178}{}{[His whole body is rigid, his teeth are locked together, and spittle dribbles from the corners of his mouth] Pssss... Psssychooo... G-g-get pssssychooooo... }
-{178}{}{[他全身僵硬，牙齿咬合在一起，嘴角吐口水]嘘。。。嘘嘘。。。G-G-get-PSSSychoooo。。。}
+{178}{}{[他全身僵硬，牙齿咬合在一起，嘴角吐口水]嘘...嘘嘘...G-G-get-PSSSychoooo...}
 #{179}{}{[Inject him with psycho.]}
 {179}{}{[给他注射精神病药物]}
 #{180}{}{What am I, a saint? [search his clothes for valuables]}
@@ -191,6 +191,6 @@
 #{209}{}{This almost makes me forget my withdrawal pains!}
 {209}{}{这几乎让我忘记了我的戒断痛苦！}
 #{1162}{}{Damn! Thanks, friend... [he eagerly chugs the alcohol, finishing with a loud burp] Ohhhh, that's good... Man, you... I'm just... Wow! Listen, in this gang it's, you know... Complicated. You're new, but you'll understand. Hey, listen... Can you get me another one? I'm kinda fucked up... I need some of Fatso's healing powder. It just takes the pain away, you know? Could you get me some? I'm dying here... }
-{1162}{}{该死！谢谢，朋友。。。[他迫不及待地灌了一口酒，最后大声打嗝]哦，太好了。。。伙计，你。。。我只是。。。哇！听着，在这个帮派里，你知道。。。很复杂。你是新来的，但你会明白的。嘿，听着。。。你能再给我拿一个吗？我有点搞砸了。。。我需要一些胖子的治疗粉。它只是消除了痛苦，你知道吗？你能给我拿些吗？我要死在这里。。。}
+{1162}{}{该死！谢谢，朋友...[他迫不及待地灌了一口酒，最后大声打嗝]哦，太好了...伙计，你...我只是...哇！听着，在这个帮派里，你知道...很复杂。你是新来的，但你会明白的。嘿，听着...你能再给我拿一个吗？我有点搞砸了...我需要一些胖子的治疗粉。它只是消除了痛苦，你知道吗？你能给我拿些吗？我要死在这里...}
 #{1170}{}{[He convulses on the floor, his eyes wide and staring at the ceiling] Ah, f-f-fuck! It's bad! I need... I need a fix... Acid, painkillers, anti-smoking chems, anything! Just h-h-help me!}
-{1170}{}{[他在地板上抽搐，睁大眼睛盯着天花板]啊，操！太糟糕了！我需要。。。我需要修复。。。酸，止痛药，禁烟药，任何东西！救救我！}
+{1170}{}{[他在地板上抽搐，睁大眼睛盯着天花板]啊，操！太糟糕了！我需要...我需要修复...酸，止痛药，禁烟药，任何东西！救救我！}

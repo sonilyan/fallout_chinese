@@ -17,13 +17,13 @@
 #{114}{}{Boring.}
 {114}{}{真无聊。}
 #{115}{}{With this data...}
-{115}{}{有了这些数据。。。}
+{115}{}{有了这些数据...}
 #{116}{}{Well, this is not to me.}
 {116}{}{好吧，这不关我的事。}
 #{117}{}{I'll never make so much money.}
 {117}{}{我再也赚不到这么多钱了。}
 #{118}{}{Reports, reports, reports...}
-{118}{}{报告，报告，报告。。。}
+{118}{}{报告，报告，报告...}
 #{119}{}{Who to yell at?}
 {119}{}{对谁大喊大叫？}
 #{120}{}{Not so perspective, as it seems.}

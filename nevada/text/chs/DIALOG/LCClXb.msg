@@ -7,6 +7,6 @@
 #{103}{}{I'm just a guard. Talk to my boss.}
 {103}{}{我只是个警卫。和我老板谈谈。}
 #{104}{}{Father... He's dead! What am I going to do?}
-{104}{}{父亲。。。他死了！我该怎么办？}
+{104}{}{父亲...他死了！我该怎么办？}
 #{105}{}{Is this true? We represent the factory now? Cool!}
 {105}{}{这是真的吗？我们现在代表工厂？酷！}

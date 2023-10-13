@@ -17,15 +17,15 @@
 #{112}{}{Say something already. What is it?}
 {112}{}{说点什么吧。这是怎么一回事？}
 #{113}{}{My name is Francis. I'm a mechanic, everything here is under my service... I mean the Nuka-Cola factory. And there is no need to be formal, I'm a simple man.}
-{113}{}{我叫弗朗西斯。我是个机械师，这里的一切都由我负责。。。我是说努卡可乐厂。不需要拘谨，我是个简单的人。}
+{113}{}{我叫弗朗西斯。我是个机械师，这里的一切都由我负责...我是说努卡可乐厂。不需要拘谨，我是个简单的人。}
 #{114}{}{You must be a skillful specialist. Perhaps I have a few questions.}
 {114}{}{你一定是个技术娴熟的专家。也许我有几个问题。}
 #{115}{}{That's all I wanted to know. Bye.}
 {115}{}{我只想知道这些。再见。}
 #{118}{}{Well, well. Wasn't you the one seen around here the day my welder disappeared? I don't want to accuse anyone without evidence, but... (points to one of his eyes, squinting the other) henceforth this eye of mine will follow every step of any visitor in the room. Keep that in mind, just in case.}
-{118}{}{好吧，好吧。我的焊工失踪那天，你不是在这里被看到的那个人吗？我不想在没有证据的情况下指控任何人，但是。。。（指着他的一只眼睛，眯着另一只眼睛）从今以后，我的这只眼睛将跟随房间里任何来访者的每一步。记住这一点，以防万一。}
+{118}{}{好吧，好吧。我的焊工失踪那天，你不是在这里被看到的那个人吗？我不想在没有证据的情况下指控任何人，但是...（指着他的一只眼睛，眯着另一只眼睛）从今以后，我的这只眼睛将跟随房间里任何来访者的每一步。记住这一点，以防万一。}
 #{119}{}{Uh...}
-{119}{}{休斯敦大学。。。}
+{119}{}{Uh...}
 #{120}{}{Can you upgrade my weapons?}
 {120}{}{你能升级我的武器吗？}
 #{121}{}{[Waving his arms] No, no and no again! I have nothing to do with arms and don't want to have! That's a risky business.}
@@ -37,11 +37,11 @@
 #{125}{}{Are you familiar with something from this list of the Vault-Tec technologies?}
 {125}{}{您熟悉Vault Tec技术列表中的一些内容吗？}
 #{126}{}{Vault-Tec you say? Let me see... I guess all this has something to do with the technology of vaults, that the Vault-Tec company has been building before the war. But in Salt Lake there is only one such vault, deep in the mountains, and it is still locked. However, you don't have to look there. I've also been running across Gas sensors in family shelters built by the Preiser Incorporated.}
-{126}{}{你说什么？我想一下。。。我想这一切都与保险库技术有关，保险库技术公司在战前一直在建造。但在盐湖城只有一个这样的拱顶，在深山里，它仍然锁着。但是，你不必看那里。我也曾在Preiser公司建造的家庭庇护所里碰到过气体传感器。}
+{126}{}{你说什么？我想一下...我想这一切都与保险库技术有关，保险库技术公司在战前一直在建造。但在盐湖城只有一个这样的拱顶，在深山里，它仍然锁着。但是，你不必看那里。我也曾在Preiser公司建造的家庭庇护所里碰到过气体传感器。}
 #{127}{}{Preiser... What?}
-{127}{}{Preiser。。。什么？}
+{127}{}{Preiser...什么？}
 #{128}{}{Well, you know, before the war, there was another company building vaults for this city, but those were not as large, rather family-oriented, for a few people. There are two hundreds left around the Salt Lake, or maybe more, but almost all got looted or flooded. So, in 60 years after the war, there's almost nothing left in them, except rats and dampness. Still, some of the technology there remain to be found. I remember seeing that some had the Vault-Tec logo. Perhaps the company subcontracted for the technologies it couldn't develop itself.}
-{128}{}{嗯，你知道，在战争之前，有另一家公司为这个城市建造了金库，但这些金库并没有那么大，对少数人来说是面向家庭的。盐湖周围还剩下两百人，也许更多，但几乎所有人都被洗劫一空或被洪水淹没。所以，在战后的60年里，除了老鼠和湿气，它们几乎什么都没有了。不过，那里的一些技术仍有待发现。我记得看到有些人有保险库的标志。也许这家公司把自己无法开发的技术转包出去了。}
+{128}{}{嗯，你知道，在战争之前，有另一家公司为这个城市建造了避难所，但这些避难所并没有那么大，对少数人来说是面向家庭的。盐湖周围还剩下两百人，也许更多，但几乎所有人都被洗劫一空或被洪水淹没。所以，在战后的60年里，除了老鼠和湿气，它们几乎什么都没有了。不过，那里的一些技术仍有待发现。我记得看到有些人有保险库的标志。也许这家公司把自己无法开发的技术转包出去了。}
 #{129}{}{All right.}
 {129}{}{好吧。}
 #{130}{}{I was wondering, why the artesian water tower is not working? The city doesn't need clean water?}
@@ -75,7 +75,7 @@
 #{158}{}{What?! I'm not going to make a discount over such a time-consuming process!}
 {158}{}{什么？！我不会因为这么费时的过程而打折的！}
 #{159}{}{I see...}
-{159}{}{我懂了。。。}
+{159}{}{我懂了...}
 #{160}{}{Very well! Come back in a week with the rest of the money.}
 {160}{}{很好！一周后带着剩下的钱回来。}
 #{161}{}{Okay.}
@@ -165,13 +165,13 @@
 #{291}{}{Well, It's only requires to conduct a practical test.}
 {291}{}{嗯，只需要做一个实际的测试。}
 #{292}{}{Are you sure? Count accurately...}
-{292}{}{你确定？准确计数。。。}
+{292}{}{你确定？准确计数...}
 #{293}{}{Something is missing?..}
 {293}{}{什么东西不见了？。。}
 #{294}{}{Take off your armor.}
 {294}{}{脱下你的盔甲。}
 #{295}{}{Oh, sure...}
-{295}{}{哦，当然。。。}
+{295}{}{哦，当然...}
 #{300}{}{They say you can stamp round metal plates?}
 {300}{}{他们说你能在金属板上盖章？}
 #{301}{}{Sure. Only I can do. What's the diameter?}
@@ -179,13 +179,13 @@
 #{302}{}{As a normal coin.}
 {302}{}{作为普通硬币。}
 #{303}{}{Easy, like a  piece of ca... Wait! You think this is cool, smartass!? You'll pay if I catch you doing this! Skinner even appointed a reward for the thieves like that...}
-{303}{}{简单，就像一块。。。等待！你觉得这很酷吗，蠢货！？如果我发现你这么做，你就要付出代价！斯金纳甚至给那些小偷定了一个赏金。。。}
+{303}{}{简单，就像一块...等待！你觉得这很酷吗，蠢货！？如果我发现你这么做，你就要付出代价！斯金纳甚至给那些小偷定了一个赏金...}
 #{304}{}{Hey, hey, I didn't do anything wrong yet!}
 {304}{}{嘿，嘿，我还没做错什么！}
 #{305}{}{Yet... Luckily for you. Otherwise me, Skinner and the Sheriff would have schooled you right away! And don't show me these innocent eyes! I know, where these chips will end up. Then the factory technicians get all this rubbish from the machines, and the chief starts questioning me when and for whom I made them. I've had enough! I won't be involved in such "orders" any more.}
-{305}{}{然而。。。你真幸运。否则我，斯金纳和警长会马上教你的！别给我看这些无辜的眼睛！我知道，这些筹码会在哪里结束。然后工厂的技术人员从机器里取出所有的垃圾，主任开始质问我是什么时候为谁做的。我受够了！我不会再参与这种“命令”了。}
+{305}{}{然而...你真幸运。否则我，斯金纳和警长会马上教你的！别给我看这些无辜的眼睛！我知道，这些筹码会在哪里结束。然后工厂的技术人员从机器里取出所有的垃圾，主任开始质问我是什么时候为谁做的。我受够了！我不会再参与这种“命令”了。}
 #{306}{}{Uh, well, do as you wish, old man...}
-{306}{}{呃，好吧，随你的便，老头子。。。}
+{306}{}{呃，好吧，随你的便，老头子...}
 #{310}{}{The Director gave me the task to repair something called PLC.}
 {310}{}{主任让我修理一种叫做PLC的东西。}
 #{311}{}{Oh, yes, I've been informed. Here, take this. It's a pretty complicated thing. None of us are good in programming, and that is kind of experience that required here.}
@@ -231,7 +231,7 @@
 #{350}{}{I need to fix this computer. Will you do it?}
 {350}{}{我需要修理这台电脑。你愿意吗？}
 #{351}{}{[After seeing the device Francis stops and quietly looks at you for some time, not knowing how to answer] What is it? The computer from the train, right? OK, I'll tell it like it is. Locals, including myself, are intimidated by the train depot. Sheriff, Mormons, ghost train, service robots... I have many reasons not to even think about it. My skin is more important than any amount of money.}
-{351}{}{[看到设备后，弗朗西斯停了下来，静静地看着你一段时间，不知道如何回答]这是什么？火车上的电脑，对吧？好吧，我会如实告诉你的。包括我在内的当地人都被火车站吓坏了。警长，摩门教徒，幽灵火车，服务机器人。。。我有很多理由不去想它。我的皮肤比任何钱都重要。}
+{351}{}{[看到设备后，弗朗西斯停了下来，静静地看着你一段时间，不知道如何回答]这是什么？火车上的电脑，对吧？好吧，我会如实告诉你的。包括我在内的当地人都被火车站吓坏了。警长，摩门教徒，幽灵火车，服务机器人...我有很多理由不去想它。我的皮肤比任何钱都重要。}
 #{352}{}{What does the Sheriff say?}
 {352}{}{警长怎么说？}
 #{353}{}{The Mormons? How are they related?}
@@ -247,7 +247,7 @@
 #{358}{}{Sheriff has entrusted them with the surveillance of the dangerous territory. Better ask them themselves. They live in the North, near the destroyed part of the city.}
 {358}{}{警长委托他们监视这片危险地区。最好问问他们自己。他们住在北方，靠近城市被摧毁的部分。}
 #{359}{}{A fairy-tale!? You call it a fairy-tale?! There were the brave ones who tried to ride the train, like on a rodeo, you know. And to what avail? Should one touch its black body and he will immediately be electrocuted to ash! It's not a fairy-tale. Although there are very few of those who actually saw it... And for sure I'm not one of them.}
-{359}{}{童话故事！？你管它叫童话？！有一些勇敢的人想坐火车，就像参加竞技表演一样，你知道的。又有什么用呢？如果有人碰了它黑色的身体，他会立刻被电死！这不是童话。虽然真正看到它的人很少。。。当然我不是他们中的一员。}
+{359}{}{童话故事！？你管它叫童话？！有一些勇敢的人想坐火车，就像参加竞技表演一样，你知道的。又有什么用呢？如果有人碰了它黑色的身体，他会立刻被电死！这不是童话。虽然真正看到它的人很少...当然我不是他们中的一员。}
 #{360}{}{Service robots, they are repairing the road and the station since the times even before the war. It is difficult to say who or what controls them, but they act together. Those who tried to interfere with them or to go into the danger zone received a portion of plasma in the ass. So they are a real fact, more real than any ghost train.}
 {360}{}{服务机器人，他们甚至在战前就开始修理道路和车站。很难说是谁或什么控制了他们，但他们是一起行动的。那些试图干扰他们或进入危险区的人，屁股里会有一部分等离子。所以他们是真实的事实，比任何幽灵火车都真实。}
 #{361}{}{You seem to have no trust in me, Francis, why?}
@@ -259,7 +259,7 @@
 #{364}{}{You shouldn't think that. I have all the right connections to protect both of us. So, will you help me?}
 {364}{}{你不应该这么想。我有足够的人脉来保护我们俩。那么，你能帮我吗？}
 #{365}{}{No, wait, don't push me, let me think... You, of course, is able to organize this, but why would I want to expose myself to such risks? Here is the deal, bring me $ 1,000, then we'll quietly try to settle this problem.}
-{365}{}{不，等等，别逼我，让我想想。。。当然，你有能力组织这件事，但我为什么要冒这样的风险呢？这是交易，给我1000美元，然后我们会悄悄地解决这个问题。}
+{365}{}{不，等等，别逼我，让我想想...当然，你有能力组织这件事，但我为什么要冒这样的风险呢？这是交易，给我1000美元，然后我们会悄悄地解决这个问题。}
 #{366}{}{Here's the money and the computer. Get to work, I need the results as soon as possible.}
 {366}{}{这是钱和电脑。开始工作吧，我需要尽快得到结果。}
 #{367}{}{Well, you know how to gain the trust. Here, take it and don't let anyone see. I don't want any problems hanging over my head.}
@@ -271,11 +271,11 @@
 #{401}{}{So, what improvements you can do to my pickup truck?}
 {401}{}{那么，你能对我的皮卡做些什么改进？}
 #{402}{}{[Snorts haughty] And I have my own factory producing Cola. But... Shit, you weren't kidding!? Unbelievable! Let me see, just one look! Nowadays it's a rare thing to find...}
-{402}{}{我有自己的工厂生产可乐。但是。。。妈的，你没开玩笑吧！？难以置信！让我看看，就看一眼！现在很难找到。。。}
+{402}{}{我有自己的工厂生产可乐。但是...妈的，你没开玩笑吧！？难以置信！让我看看，就看一眼！现在很难找到...}
 #{403}{}{Rare? Hey, wait a minute! So I'm not the only one with the wheels!?}
 {403}{}{罕见？嘿，等等！所以我不是唯一一个有轮子的人！？}
 #{404}{}{Of course, you are not! In the past the city was an industrial center, there are lots of working machinery, but it has fallen into disrepair because of the climate and the bombing of the Northern part of the city. From time to time someone finds cars in old garages, launches them and...}
-{404}{}{当然，你不是！过去这座城市是一个工业中心，有许多工作机械，但由于气候和城市北部的轰炸，它已经年久失修。不时有人在旧车库里发现汽车，发动汽车，然后。。。}
+{404}{}{当然，你不是！过去这座城市是一个工业中心，有许多工作机械，但由于气候和城市北部的轰炸，它已经年久失修。不时有人在旧车库里发现汽车，发动汽车，然后...}
 #{405}{}{And?!}
 {405}{}{然后呢？！}
 #{406}{}{And nothing. It's quite a challenge to find proper tires nowadays. After half a century they fell into disrepair. But the main problem is all these kinds of chips and regulators. Even before the war it was difficult to find them, and now it's almost impossible.}
@@ -283,7 +283,7 @@
 #{407}{}{And how many of such lucky guys are in Salt Lake City?!}
 {407}{}{盐湖城有多少这样的幸运儿？！}
 #{408}{}{Let me count... Hmm... For the past twenty years I've met about a dozen working cars, also the bikes the bikers ride. But we also have other self-propelled machines. For example, cars at the factory.}
-{408}{}{让我数一数。。。隐马尔可夫模型。。。在过去的二十年里，我见过十几辆工作车，还有骑自行车的人骑的自行车。但我们也有其他自动推进的机器。例如，工厂里的汽车。}
+{408}{}{让我数一数...Hmm...在过去的二十年里，我见过十几辆工作车，还有骑自行车的人骑的自行车。但我们也有其他自动推进的机器。例如，工厂里的汽车。}
 #{409}{}{I see you have some experience with handling vehicles, so - can you say something about my baby?}
 {409}{}{我看你有处理车辆的经验，所以-你能说说我的孩子吗？}
 #{410}{}{Would love to, just let me touch her sides!}
@@ -311,7 +311,7 @@
 #{421}{}{I'm still not interested in what you were going to offer. I'm leaving.}
 {421}{}{我还是对你的提议不感兴趣。我要走了。}
 #{422}{}{Well, although I am a fan of hardware gizmos, I haven't learned to eat them for lunch yet...}
-{422}{}{嗯，虽然我是一个硬件小发明的爱好者，但我还没有学会午餐吃它们。。。}
+{422}{}{嗯，虽然我是一个硬件小发明的爱好者，但我还没有学会午餐吃它们...}
 #{423}{}{So what's your offer?}
 {423}{}{那你有什么提议？}
 #{424}{}{}
@@ -331,7 +331,7 @@
 #{432}{}{I like the price. Here is the money. Now to the work!}
 {432}{}{我喜欢这个价格。这是钱。现在开始工作！}
 #{433}{}{Give me time to think. In case I find somewhere a cheaper solution...}
-{433}{}{给我时间想想。万一我找到便宜的解决办法。。。}
+{433}{}{给我时间想想。万一我找到便宜的解决办法...}
 #{434}{}{Francis improved the trunk of your pickup. Now you can place 20% more stuff there.}
 {434}{}{弗朗西斯改进了你皮卡的后备箱。现在你可以多放20%的东西了。}
 #{435}{}{Francis improved the trunk of your pickup. Now you can place 40% more stuff there.}
@@ -343,9 +343,9 @@
 #{500}{}{What's all that junk on your desk?}
 {500}{}{你桌子上那些垃圾是什么？}
 #{501}{}{Oh, that's a damn pile of polymers, metals and ceramics with which I can't do a damn thing for a few months already... Why do you ask?}
-{501}{}{哦，那是一堆该死的聚合物，金属和陶瓷，我已经有几个月不能用它们做任何事情了。。。你为什么问？}
+{501}{}{哦，那是一堆该死的聚合物，金属和陶瓷，我已经有几个月不能用它们做任何事情了...你为什么问？}
 #{502}{}{It looks like parts of a robot...}
-{502}{}{看起来像是机器人的零件。。。}
+{502}{}{看起来像是机器人的零件...}
 #{503}{}{In some way, this is a robot. In fact, you're looking at the glory of the former American army - the suit of T-51b power armor. Or rather what's left of it. It was found in the north, among the ruins of the bombed part of the city. Something caused disintegration of the internal power module, which in the end exploded almost entire armor. Little is left in working condition.}
 {503}{}{在某种程度上，这是一个机器人。事实上，你看到的是前美国军队的荣耀——T-51b动力装甲套装。或者更确切地说是剩下的。它是在北部城市被轰炸部分的废墟中发现的。某种东西导致了内部电源模块的解体，最终几乎炸毁了整个装甲。在工作状态下所剩无几。}
 #{504}{}{But can it be fixed?}
@@ -367,7 +367,7 @@
 #{512}{}{Hmm, I think on military bases, where else? But all I know about them is only by hearsay. Except there was one to the North, but it has been destroyed by a direct hit of a nuclear bomb.}
 {512}{}{嗯，我想在军事基地，还有什么地方？但我所知道的只是道听途说。除了北边有一个，但它已经被核弹直接击中摧毁了。}
 #{513}{}{So, let me think... First thing - you need blueprints. Next, we need to replace some parts... To be precise, it's the CPU, power module, new helmet, and in addition - new layerы of radiation and gas protection.}
-{513}{}{所以，让我想想。。。首先-你需要蓝图。接下来，我们需要更换一些零件。。。准确地说，它是CPU，电源模块，新头盔，以及新的辐射和气体保护层。}
+{513}{}{所以，让我想想...首先-你需要蓝图。接下来，我们需要更换一些零件...准确地说，它是CPU，电源模块，新头盔，以及新的辐射和气体保护层。}
 #{514}{}{I want it even more! Here's the deal - you will find details, and I'll fix the armor and give it to you. Of course, I would like to get something for myself, in exchange.}
 {514}{}{我更想要它！交易是这样的-你会找到细节的，我会修好盔甲给你。当然，作为交换，我想给自己买点东西。}
 #{515}{}{That's the deal then!}
@@ -399,7 +399,7 @@
 #{528}{}{Where I can find them?}
 {528}{}{我在哪里能找到他们？}
 #{529}{}{The blueprints are needed... Got it. Went to look.}
-{529}{}{需要蓝图。。。知道了。我去看了看。}
+{529}{}{需要蓝图...知道了。我去看了看。}
 #{530}{}{If I knew, I would have fixed this scrap long ago. But there is one guess, sometimes the bikers come here from the west. One of them is wearing a suit of power armor. Perhaps he could share information.}
 {530}{}{如果我知道的话，我早就修好了。但有一种猜测，有时骑自行车的人是从西方来的。其中一个穿着一套强力盔甲。也许他可以分享信息。}
 #{531}{}{I see. Get to go on further searches.}
@@ -483,7 +483,7 @@
 #{570}{}{This sum is unaffordable for me. We can discuss this another time.}
 {570}{}{这笔钱我买不起。我们可以改天再谈。}
 #{571}{}{Well, I almost envy you, although I got tons of fun and money myself off that work. Things like these are not lying around every corner and you most likely will never come across anything like that anymore... You know, if I were in your place, I'd have given the armor its own name. Like, for example, "Grizzly". What do you think? As for me, it suits well.}
-{571}{}{好吧，我几乎嫉妒你，虽然我从那份工作中得到了很多乐趣和金钱。像这样的事情不是到处都是，你很可能再也不会遇到这样的事情了。。。你知道，如果我在你的位置，我会给盔甲起个名字。比如说“灰熊”。你怎么认为？对我来说，这很合适。}
+{571}{}{好吧，我几乎嫉妒你，虽然我从那份工作中得到了很多乐趣和金钱。像这样的事情不是到处都是，你很可能再也不会遇到这样的事情了...你知道，如果我在你的位置，我会给盔甲起个名字。比如说“灰熊”。你怎么认为？对我来说，这很合适。}
 #{572}{}{"Grizzly" power armor? That's a great name!}
 {572}{}{“灰熊”动力装甲？真是个好名字！}
 #{573}{}{Shitty name. Its main function is to protect from bullets, the rest doesn't matter.}
@@ -503,11 +503,11 @@
 #{580}{}{Shitty name, smartass.}
 {580}{}{该死的名字，蠢货。}
 #{581}{}{Hmm... But in any way - thank you, partner. I hope this isn't our last "enterprise" together [he smiles and shakes your hand]. Good luck!}
-{581}{}{隐马尔可夫模型。。。但无论如何-谢谢你，搭档。我希望这不是我们最后一次在一起[他微笑着和你握手]。祝你好运！}
+{581}{}{Hmm...但无论如何-谢谢你，搭档。我希望这不是我们最后一次在一起[他微笑着和你握手]。祝你好运！}
 #{582}{}{You too.}
 {582}{}{你也是。}
 #{1303}{}{Easy, like a  piece of ca... Wait! You think this is cool, smartass!? You'll pay if I catch you doing this! Skinner even appointed a reward for the thieves like that...}
-{1303}{}{简单，就像一块。。。等待！你觉得这很酷吗，蠢货！？如果我发现你这么做，你就要付出代价！斯金纳甚至给那些小偷定了一个赏金。。。}
+{1303}{}{简单，就像一块...等待！你觉得这很酷吗，蠢货！？如果我发现你这么做，你就要付出代价！斯金纳甚至给那些小偷定了一个赏金...}
 #{1304}{}{Hey, hey, I didn't do anything wrong yet!}
 {1304}{}{嘿，嘿，我还没做错什么！}
 #{1403}{}{Rare? Hey, wait a minute! So I'm not the only one with the wheels!?}

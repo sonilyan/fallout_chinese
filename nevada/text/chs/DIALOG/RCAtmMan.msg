@@ -9,13 +9,13 @@
 #{111}{}{What are you talking about?}
 {111}{}{你在说什么？}
 #{112}{}{Oh, I thought you, like that snotty brat, came to promote her meat salads... The name's Lewis Birch and I arrived here recently... Although, nevermind.}
-{112}{}{哦，我以为你，像那个小屁孩一样，来推销她的肉沙拉。。。我叫刘易斯·伯奇，最近刚到这里。。。不过，没关系。}
+{112}{}{哦，我以为你，像那个小屁孩一样，来推销她的肉沙拉...我叫刘易斯·伯奇，最近刚到这里...不过，没关系。}
 #{113}{}{Relax, I just want to ask some questions, as you're luckily not busy...}
-{113}{}{别紧张，我只想问你几个问题，幸好你不忙。。。}
+{113}{}{别紧张，我只想问你几个问题，幸好你不忙...}
 #{114}{}{I will. Goodbye.}
 {114}{}{我会的。再见。}
 #{115}{}{Questions? Apparently, the only thing you can do in this shithole is chat. Why not, though? If people ask an advice from me, that... That means something.}
-{115}{}{问题？显然，你在这鬼地方唯一能做的就是聊天。为什么不呢？如果有人问我的建议。。。这意味着什么。}
+{115}{}{问题？显然，你在这鬼地方唯一能做的就是聊天。为什么不呢？如果有人问我的建议...这意味着什么。}
 #{116}{}{Hm?}
 {116}{}{嗯？}
 #{117}{}{Eh, you asked something?}
@@ -39,7 +39,7 @@
 #{134}{}{You're not local? Then where did you came from?}
 {134}{}{你不是本地人？那你是从哪里来的？}
 #{135}{}{How perceptive... I'm from the south, from the city called The Hub. It's quite far from here, and I don't want to talk about that region. Though, I must say, the trip was horrible - no comfort, no logistics. Hardy's caravan was walking sideways, mostly in dry places, right under the sun. After such experience you start to appreciate a simple pleasures, like hot bath and a glass of cold brahmin milk... Yeah. So I don't recommend travel in that direction.}
-{135}{}{多么敏锐。。。我来自南方，来自一个叫中心的城市。离这儿很远，我不想谈那个地区。不过，我必须说，这次旅行很可怕——没有舒适，没有后勤保障。哈代的大篷车在阳光下横着走着，大部分是在干燥的地方。在这样的经历之后，你开始欣赏一种简单的乐趣，比如洗个热水澡和一杯冷婆罗门牛奶。。。是 啊。所以我不建议朝那个方向旅行。}
+{135}{}{多么敏锐...我来自南方，来自一个叫中心的城市。离这儿很远，我不想谈那个地区。不过，我必须说，这次旅行很可怕——没有舒适，没有后勤保障。哈代的大篷车在阳光下横着走着，大部分是在干燥的地方。在这样的经历之后，你开始欣赏一种简单的乐趣，比如洗个热水澡和一杯冷双头牛牛奶...是 啊。所以我不建议朝那个方向旅行。}
 #{136}{}{Who's Hardy?}
 {136}{}{谁是哈迪？}
 #{137}{}{[Indifferently waves his hand] Some not-so-witty Hub caravaneer. He's the only one who trades between Reno and Hub. If I were him, I'd stop this long time ago, but what one ghoul has on his mind - it's a complicated question.}
@@ -47,11 +47,11 @@
 #{138}{}{What brought you here?}
 {138}{}{什么风把你吹来了？}
 #{139}{}{Well, let's just say, my mission is simply gathering information about this... Godforsaken place. We've heard rumors of the still running local uranium ore mine. So, I was assigned to examine the situation. But what I see here is... Very depressing. The only option left for me is to return back, full of bewilderment and disappointment..}
-{139}{}{好吧，我的任务就是收集信息。。。被遗弃的地方。我们听说当地的铀矿仍在开采。所以，我被派去调查情况。但我看到的是。。。很郁闷。我唯一的选择就是回来，充满困惑和失望。。}
+{139}{}{好吧，我的任务就是收集信息...被遗弃的地方。我们听说当地的铀矿仍在开采。所以，我被派去调查情况。但我看到的是...很郁闷。我唯一的选择就是回来，充满困惑和失望。。}
 #{140}{}{What kind of organization do you represent?}
 {140}{}{你代表什么样的组织？}
 #{141}{}{The Union of Atomic Workers? Oh, it's rather old company. We're not what we were in the past, I admit, but we still in the lead in Hub... Wait, you don't even know *that*? Ugh, unsurprising.}
-{141}{}{原子能工人联盟？哦，这是一家相当老的公司。我们已经不是过去的样子了，我承认，但我们仍然在中心领先。。。等等，你都不知道？呃，不足为奇。}
+{141}{}{原子能工人联盟？哦，这是一家相当老的公司。我们已经不是过去的样子了，我承认，但我们仍然在中心领先...等等，你都不知道？呃，不足为奇。}
 #{142}{}{What does your organization do?}
 {142}{}{你的组织是做什么的？}
 #{143}{}{Well, let's say, without exaggeration and embellishment - basically, we are trying to revive the world. At least in the form which we once knew it - with the trade, economy, manufacturing, and all that is necessary for normal life of a society. But all of this is limited to Hub so far.}
@@ -97,15 +97,15 @@
 #{169}{}{But this does not explain why some worked here for a long time and didn't get radiation sickness.}
 {169}{}{但这并不能解释为什么有些人在这里工作了很长时间，没有得辐射病。}
 #{170}{}{[Frowns in displeasure] Yes... But there were quite a few of them. I can't consider Nelson - there's different, shady story behind him. I suspect that this is somehow related to the local ration. I haven't yet, uh, studied this question.}
-{170}{}{是的。。。但他们中有不少人。我不能考虑纳尔逊-他背后有不同的，阴暗的故事。我怀疑这与当地的口粮有关。我还没研究这个问题。}
+{170}{}{是的...但他们中有不少人。我不能考虑纳尔逊-他背后有不同的，阴暗的故事。我怀疑这与当地的口粮有关。我还没研究这个问题。}
 #{171}{}{Enough of this crap! Tell me straight then - you don't know shit about chemistry.}
 {171}{}{受够这些废话了！那就直说吧-你根本不懂化学。}
 #{172}{}{What!? H... How dare you! I'm the best scientist among the all Hub! But y-yeah, chemistry is not my strong suit. So what? If you're so educated, perhaps, you can share you thought on this matter, huh?}
-{172}{}{什么！？H、 。。。你怎么敢！我是世界上最好的科学家！但化学不是我的强项。那又怎么样？如果你受过这样的教育，也许你可以分享你对这件事的看法，嗯？}
+{172}{}{什么！？H、 ...你怎么敢！我是世界上最好的科学家！但化学不是我的强项。那又怎么样？如果你受过这样的教育，也许你可以分享你对这件事的看法，嗯？}
 #{173}{}{How curious. Could you find out what exactly? You seem to be a man of science... }
-{173}{}{真奇怪。你能知道到底是什么吗？你好像是个有学问的人。。。}
+{173}{}{真奇怪。你能知道到底是什么吗？你好像是个有学问的人...}
 #{174}{}{Uh, well, I'm one of the top scientists in the Hub... And one of the few, of course. But chemistry, especially organic - it's not my profile. However, I'd love to hear someone's hypothesis. But you yourself don't know, right?}
-{174}{}{呃，好吧，我是中心最顶尖的科学家之一。。。当然，也是为数不多的。但是化学，尤其是有机化学-这不是我的个人资料。不过，我很想听听别人的假设。但你自己也不知道，对吧？}
+{174}{}{呃，好吧，我是中心最顶尖的科学家之一...当然，也是为数不多的。但是化学，尤其是有机化学-这不是我的个人资料。不过，我很想听听别人的假设。但你自己也不知道，对吧？}
 #{175}{}{Does this town have a future?}
 {175}{}{这个城镇有前途吗？}
 #{176}{}{I'm sure it doesn't! When the local mine will be completely worked out, no one will care for the local ruins. However, before the war, it could still have a chance to be a some kind of open-air museum of mining, but now there's no one to attract.}
@@ -117,27 +117,27 @@
 #{179}{}{No, let's talk about something else.}
 {179}{}{不，我们谈点别的吧。}
 #{180}{}{I have one. Marilyn said miners consumed a lot of alcohol...}
-{180}{}{我有一个。玛丽莲说矿工们喝了很多酒。。。}
+{180}{}{我有一个。玛丽莲说矿工们喝了很多酒...}
 #{181}{}{Ha! This is the same anti-scientific heresy as the belief that the brahmin were once one-headed! Nonsense. Alcohol is not a cure. We have already tested it at the Hub, local brew did show some effect, but very weak. To use a rot gut as a medicine against radiation sickness - don't make the scientist laugh!}
-{181}{}{哈！这是同一种反科学的异端邪说，认为婆罗门曾经是一头！胡说。酒精不是治疗方法。我们已经在中心进行了测试，本地brew确实显示了一些效果，但非常弱。用腐烂的肠子作为抗辐射病的药物——别逗科学家发笑！}
+{181}{}{哈！这是同一种反科学的异端邪说，认为双头牛曾经是一头！胡说。酒精不是治疗方法。我们已经在中心进行了测试，本地brew确实显示了一些效果，但非常弱。用腐烂的肠子作为抗辐射病的药物——别逗科学家发笑！}
 #{182}{}{Unlike other drinks, local "rot gut" traditionally contains a lot of ethanol.}
 {182}{}{与其他饮料不同，当地的“腐肠”传统上含有大量乙醇。}
 #{183}{}{Uhh, I don't understand how...}
-{183}{}{呃，我不明白怎么。。。}
+{183}{}{呃，我不明白怎么...}
 #{184}{}{Its radio-protective properties can improve the radiation resistance due to, for example, the reduction of oxygen in tissues, due to the easy oxidizability of alcohol compounds.}
 {184}{}{它的防辐射性能可以提高抗辐射性，例如，由于醇化合物的易氧化性，组织中的氧减少。}
 #{185}{}{Ehh, let me ret... }
-{185}{}{呃，让我说。。。}
+{185}{}{呃，让我说...}
 #{186}{}{However, alcohol does not really have a special anti-radiation effect. But inhibits the activity of nerve cells which means that any stressor, including radiation, is less harmful to the organism.}
 {186}{}{然而，酒精并没有真正的抗辐射作用。但是抑制神经细胞的活动，这意味着包括辐射在内的任何应激源对机体的危害都较小。}
 #{187}{}{Well... Ugh... Okay, if you really think about it, then there is some bits of common sense. However, I am sure that ethanol will be effective only with strong and brief irradiation, when the body receives a dose of radiation over a short period of time!.. On the other hand, if those workers were regulating their time in the mine... But... If... It is still unknown, what this booze contains, which can enhance the effect so much, you know!..}
-{187}{}{好。。。呃。。。好吧，如果你真的想一想，那就有一些常识。然而，我确信只有在短时间内身体受到一定剂量的辐射时，乙醇才会有效！。。另一方面，如果那些工人在矿井里调整他们的时间。。。但是。。。如果。。。现在还不知道，这种酒含有什么成分，能增强这么多的效果，你知道的！。。}
+{187}{}{好...呃...好吧，如果你真的想一想，那就有一些常识。然而，我确信只有在短时间内身体受到一定剂量的辐射时，乙醇才会有效！。。另一方面，如果那些工人在矿井里调整他们的时间...但是...如果...现在还不知道，这种酒含有什么成分，能增强这么多的效果，你知道的！。。}
 #{188}{}{Uh-huh...}
-{188}{}{啊哈。。。}
+{188}{}{啊哈...}
 #{189}{}{[Straightens the hair and makes academic look] Well, the idea is certainly deserves attention. When I get back to the Hub, I'll try to conduct a series of experiments, it's worth to test this hypothesis.}
 {189}{}{[拉直头发，让学术看起来]好吧，这个想法当然值得关注。当我回到中心，我将尝试进行一系列的实验，这是值得验证的假设。}
 #{190}{}{See...}
-{190}{}{看。。。}
+{190}{}{看...}
 #{191}{}{I must say, it was an enlightening conversation, but a bigger surprise for me is to meet a chemistry connoisseur in such a shithole. If you'll come to the Hub - be sure to visit us.}
 {191}{}{我必须说，这是一次很有启发性的谈话，但对我来说更大的惊喜是在这样一个破洞里遇到一位化学鉴赏家。如果你要来中心-一定要来拜访我们。}
 #{192}{}{I'll consider it.}
@@ -149,7 +149,7 @@
 #{200}{}{Have you thought about getting the mine under your lead?}
 {200}{}{你有没有想过让地雷在你的领导下？}
 #{201}{}{Manage the mine from the Hub?! Well... To say honestly, this would be perfect, if not for local problems. We don't want to deal with the former owner, local mutants and these rude workers.}
-{201}{}{从中心管理矿？！好。。。老实说，这将是完美的，如果不是当地的问题。我们不想和前老板，当地的变种人和这些粗鲁的工人打交道。}
+{201}{}{从中心管理矿？！好...老实说，这将是完美的，如果不是当地的问题。我们不想和前老板，当地的变种人和这些粗鲁的工人打交道。}
 #{202}{}{You want to have everything nice and ready? Could you at least move your finger to not miss the opportunity for once?}
 {202}{}{你想把一切都准备好吗？你能不能至少动一下手指，一次也不要错过这个机会？}
 #{203}{}{In that case I have good news - mine is cleaned from the mutants.}
@@ -205,11 +205,11 @@
 #{263}{}{No, I don't have such amount.}
 {263}{}{不，我没有这么多钱。}
 #{264}{}{That's better! And Marilyn didn't want to share... Now leave me for an hour. Perhaps, I'll ask you about another one later.}
-{264}{}{这样更好！玛丽莲不想分享。。。现在离开我一个小时。也许，我以后再问你一个。}
+{264}{}{这样更好！玛丽莲不想分享...现在离开我一个小时。也许，我以后再问你一个。}
 #{265}{}{[Wait outside]}
 {265}{}{[在外面等]}
 #{266}{}{You're still dirty, under the ear...}
-{266}{}{你还是很脏，耳朵底下。。。}
+{266}{}{你还是很脏，耳朵底下...}
 #{267}{}{Well-well. I don't like lavatory humor much. But still - thanks. Walking unwashed since the Hub itself - what a "pleasure".}
 {267}{}{好吧，好吧。我不太喜欢厕所幽默。但还是-谢谢。从中心到现在还没洗衣服走路-真是一种“乐趣”。}
 #{268}{}{How can you even spend so much scarce water on washing your body?! It's foolish!}
@@ -259,7 +259,7 @@
 #{290}{}{What about payment?}
 {290}{}{付款呢？}
 #{291}{}{What is this? Money? Good... For these underdeveloped parts. We have already introduced a new currency in our Hub, for a long time. Wait ten years - and this fashion will reach you too. But no, I don't need money as much as anything else.}
-{291}{}{这是什么？钱？很好。。。对于这些不发达的部分。很长一段时间以来，我们已经在我们的中心引入了一种新货币。等上十年，你也会喜欢这种时尚的。但是不，我不需要钱。}
+{291}{}{这是什么？钱？很好...对于这些不发达的部分。很长一段时间以来，我们已经在我们的中心引入了一种新货币。等上十年，你也会喜欢这种时尚的。但是不，我不需要钱。}
 #{1260}{}{I got the water.}
 {1260}{}{我拿到水了。}
 #{1269}{}{I don't care. I did my part of a deal and now I want the bonus.}

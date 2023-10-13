@@ -53,13 +53,13 @@
 #{139}{}{I guess I can't prove that.}
 {139}{}{我想我不能证明这一点。}
 #{140}{}{Heh. If we were tribals in the desert, I'd have pulled your guts out for that kind of talk. But here in Reno, I need people with your... Gumption. Anyway, first I want to test you.}
-{140}{}{嘿。如果我们是沙漠里的部落，我会把你拉出来听那种谈话。但是在里诺，我需要有你的。。。进取心。不管怎样，首先我想测试你。}
+{140}{}{嘿。如果我们是沙漠里的部落，我会把你拉出来听那种谈话。但是在里诺，我需要有你的...进取心。不管怎样，首先我想测试你。}
 #{141}{}{Yes, I've heard of you. I think we can do business together. But first - I want to test you.}
 {141}{}{是的，我听说过你。我想我们可以一起做生意。但首先-我想测试你。}
 #{142}{}{The Big One and I don't have the... Relationships... We used to. But the last thing I want is his interference, especially with that new hardware he's toting. Fine, but first - I want to test you.}
-{142}{}{大的那个我没有。。。关系。。。我们以前是。但我最不希望的是他的干扰，尤其是他带的新硬件。好吧，但首先-我想测试你。}
+{142}{}{大的那个我没有...关系...我们以前是。但我最不希望的是他的干扰，尤其是他带的新硬件。好吧，但首先-我想测试你。}
 #{143}{}{About the job... }
-{143}{}{关于工作。。。}
+{143}{}{关于工作...}
 #{144}{}{Is it done?}
 {144}{}{完成了吗？}
 #{145}{}{I'm on it, boss.}
@@ -69,7 +69,7 @@
 #{147}{}{[Leave]}
 {147}{}{[离开]}
 #{148}{}{Hmm. You speak with confidence, and I know you have... Skills... That could be useful to me. But first, I want to see if you're suitable.}
-{148}{}{嗯。你说话很自信，我知道你。。。技能。。。那对我可能有用。但首先，我想看看你是否合适。}
+{148}{}{嗯。你说话很自信，我知道你...技能...那对我可能有用。但首先，我想看看你是否合适。}
 #{150}{}{A couple of lowlifes dared to abuse my girls near the casino. I was going to send Billy, but I want to see how you work. Deal with them and report back with the results.}
 {150}{}{几个卑鄙的人敢在赌场附近虐待我的女儿。我本来要派比利去的，但我想看看你的工作情况。处理并报告结果。}
 #{151}{}{What's the pay?}
@@ -135,7 +135,7 @@
 #{188}{}{Alright.}
 {188}{}{好吧。}
 #{189}{}{He had money, power, the whole town in the palm of his hand, so why'd he leave? I know why. He didn't want any of those things. He was chasing a dream... Or a memory. He grew up in Reno during its "Golden Age", when people had what they needed and weren't fighting with each other. I guess he thought he could bring that back. But it was a load of crap. Reno couldn't be like that anymore - hell, maybe what he remembered never really existed. And when he realized that, he ran back to the wasteland. He'd rather live in isolation than with the result of everything he worked for.}
-{189}{}{他手握金钱、权力和整个城镇，那他为什么要离开？我知道为什么。他不想要这些东西。他在追逐梦想。。。或者是记忆。他在里诺的“黄金时代”长大，那时人们有自己需要的东西，彼此之间没有争斗。我猜他以为他能把它带回来。但那是一堆废话。雷诺不可能再这样了-见鬼，也许他所记得的从来就不存在。当他意识到这一点时，他跑回了荒地。他宁愿与世隔绝地生活，也不愿与他为之工作的一切结果为伍。}
+{189}{}{他手握金钱、权力和整个城镇，那他为什么要离开？我知道为什么。他不想要这些东西。他在追逐梦想...或者是记忆。他在里诺的“黄金时代”长大，那时人们有自己需要的东西，彼此之间没有争斗。我猜他以为他能把它带回来。但那是一堆废话。雷诺不可能再这样了-见鬼，也许他所记得的从来就不存在。当他意识到这一点时，他跑回了荒地。他宁愿与世隔绝地生活，也不愿与他为之工作的一切结果为伍。}
 #{190}{}{And what about you? What are you working for?}
 {190}{}{那你呢？你在干什么？}
 #{191}{}{That's very interesting. I need some time to think about that.}
@@ -149,7 +149,7 @@
 #{195}{}{Is that the only way to bring back the old days? They had other ways of living, before the war.}
 {195}{}{这是唯一能让我们回到过去的方法吗？他们在战前有其他的生活方式。}
 #{196}{}{Not an option. It's been three generations since the Great War. It's hard to find anyone who remembers the world before. People live... Differently now. They've fallen. Most people would rather submit to the strong, and the few strong people in this town have gone to civil war. That's human nature now. We're not *ready* to go back to those ways. Until we are, we need a strong leader. We need a mayor. We need *me*.}
-{196}{}{别无选择。大战已经过去三代了。很难找到一个记得这个世界的人。人活着。。。现在不同了。他们倒下了。大多数人宁愿屈服于强者，而这个镇上少数强者却参加了内战。这就是人性。我们还没有准备好回到过去。在我们成功之前，我们需要一个强有力的领导者。我们需要一个市长。我们需要我。}
+{196}{}{别无选择。大战已经过去三代了。很难找到一个记得这个世界的人。人活着...现在不同了。他们倒下了。大多数人宁愿屈服于强者，而这个镇上少数强者却参加了内战。这就是人性。我们还没有准备好回到过去。在我们成功之前，我们需要一个强有力的领导者。我们需要一个市长。我们需要我。}
 #{197}{}{That's a lot of food for thought. I need to reflect on it.}
 {197}{}{这是很多值得思考的东西。我需要反思一下。}
 #{200}{}{We need to get to the bottom of this. Those lowlifes would have to be pretty stupid to attack my girls. There might be another force pulling the strings. Something's happened to some of my men - I think it might be connected.}
@@ -171,15 +171,15 @@
 #{208}{}{Makes sense. These might be mercenaries from another town.}
 {208}{}{有道理。他们可能是另一个城镇的雇佣兵。}
 #{209}{}{Many of the local business moguls are afraid of us. If they hired mercenaries for sabotage, I'll have to put up my surveillance all over town. The only problem is the caravan parking lot... But before we get into that, we need to settle accounts. [He places a wad of money on the table, then slides it towards you.] For your cooperation, and in expectation of more in the future.}
-{209}{}{当地许多商界大亨都怕我们。如果他们雇佣雇佣佣兵进行破坏，我就得在全城设置监视系统。唯一的问题是大篷车停车场。。。但在我们开始之前，我们得先算账。[他把一沓钱放在桌上，然后把它滑向你。]谢谢你的合作，并期待将来能有更多的钱。}
+{209}{}{当地许多商界大亨都怕我们。如果他们雇佣雇佣佣兵进行破坏，我就得在全城设置监视系统。唯一的问题是大篷车停车场...但在我们开始之前，我们得先算账。[他把一沓钱放在桌上，然后把它滑向你。]谢谢你的合作，并期待将来能有更多的钱。}
 #{210}{}{What was that about the parking lot?}
 {210}{}{停车场是怎么回事？}
 #{211}{}{Most of the town has been claimed by either Stryker or myself. Only neutral land left is the caravan parking lot... The main entrance into town. The second floor of the local hotel would be perfect for surveillance. Your job is to persuade the hotel owner, Mr. Mordino, to cooperate.}
-{211}{}{史崔克和我都占领了小镇的大部分。唯一剩下的中立地是大篷车停车场。。。进城的主要入口。当地酒店的二楼非常适合监视。你的工作是说服旅馆老板摩迪诺先生合作。}
+{211}{}{史崔克和我都占领了小镇的大部分。唯一剩下的中立地是大篷车停车场...进城的主要入口。当地酒店的二楼非常适合监视。你的工作是说服旅馆老板摩迪诺先生合作。}
 #{212}{}{How... Delicately should I behave during this job?}
-{212}{}{怎样。。。我在工作期间应该举止得体吗？}
+{212}{}{怎样...我在工作期间应该举止得体吗？}
 #{213}{}{That's up to you. My control over this territory must come first. Use any method necessary. But before you make a decision, weigh your options - blackmail, business proposal... Many things can persuade a willful man.}
-{213}{}{那由你决定。我必须首先控制这片领土。使用任何必要的方法。但在你做决定之前，权衡一下你的选择——勒索、商业建议。。。许多事情都能说服一个任性的人。}
+{213}{}{那由你决定。我必须首先控制这片领土。使用任何必要的方法。但在你做决定之前，权衡一下你的选择——勒索、商业建议...许多事情都能说服一个任性的人。}
 #{214}{}{I understand, Mr. Thompson. I'll do this as cleanly as possible.}
 {214}{}{我明白，汤普森先生。我会尽可能干净利落地做这件事。}
 #{215}{}{Hm, that won't be easy. I'll see what I can do.}
@@ -203,11 +203,11 @@
 #{228}{}{Good work. I'll meet with Mordino personally, but first I'll have my men check all the rooms and hotel staff. I'll need your service.}
 {228}{}{干得好。我会亲自与摩迪诺会面，但首先我会让我的人检查所有的房间和酒店员工。我需要你的服务。}
 #{229}{}{I feel as if this could have been handled another way... }
-{229}{}{我觉得好像可以用另一种方式来处理。。。}
+{229}{}{我觉得好像可以用另一种方式来处理...}
 #{230}{}{Justice always requires sacrifice. In our times anyway. Hmm... A year ago, I wouldn't have said that. Reno changes people. It changed you too, didn't it?}
-{230}{}{正义总是需要牺牲。在我们这个时代。隐马尔可夫模型。。。一年前，我不会这么说。雷诺改变了人们。它也改变了你，不是吗？}
+{230}{}{正义总是需要牺牲。在我们这个时代。Hmm...一年前，我不会这么说。雷诺改变了人们。它也改变了你，不是吗？}
 #{231}{}{Maybe... }
-{231}{}{也许 吧。。。}
+{231}{}{也许 吧...}
 #{232}{}{Of course, but we haven't dealt with our current task yet.}
 {232}{}{当然，但我们还没有处理好当前的任务。}
 #{233}{}{I'll handle it myself. This new territory will give me an advantage, but we must drive out Stryker's influence - that means all the snitches and dealers working for him.}
@@ -269,7 +269,7 @@
 #{300}{}{I represent the Cotton Club. The owner would like to pay you to provide protection for an upcoming concert.}
 {300}{}{我代表棉花俱乐部。店主愿意付钱给你，为即将到来的音乐会提供保护。}
 #{301}{}{Is that right? That bum can't even pay his fees on time, and now he's throwing a show? Hmm... This would be good to get everything he owes us. Fine, I'll put people on it, but I want half his earnings for the show.}
-{301}{}{是这样吗？那个流浪汉连学费都不能按时交，现在却在搞表演？隐马尔可夫模型。。。如果能得到他欠我们的一切就好了。好吧，我会让人参与，但我要他一半的收入。}
+{301}{}{是这样吗？那个流浪汉连学费都不能按时交，现在却在搞表演？Hmm...如果能得到他欠我们的一切就好了。好吧，我会让人参与，但我要他一半的收入。}
 #{302}{}{I'll pass it on.}
 {302}{}{我把它传下去。}
 #{303}{}{Mr. Thompson, we've known each other for a long time. Listen to me: these conditions will bankrupt him. You might get your money now, but if this puts him out of business, you'll never get anything from him again.}
@@ -293,6 +293,6 @@
 #{1158}{}{That's good. I hope you were on your best behavior with Paige. Even to her, we can't show any weakness.}
 {1158}{}{那很好。我希望你和佩奇相处得很好。即使对她，我们也不能示弱。}
 #{1230}{}{Justice always requires sacrifice. In our times, anyway. Hmm... A year ago, I wouldn't have said that. Reno changes people. It changed you too, didn't it?}
-{1230}{}{正义总是需要牺牲。不管怎样，在我们这个时代。隐马尔可夫模型。。。一年前，我不会这么说。雷诺改变了人们。它也改变了你，不是吗？}
+{1230}{}{正义总是需要牺牲。不管怎样，在我们这个时代。Hmm...一年前，我不会这么说。雷诺改变了人们。它也改变了你，不是吗？}
 #{1243}{}{[Breathes loudly] This day will go down in the history of New Reno! In honor, let's open a bottle of good old whiskey. Drink with me! You're the only one I can trust.}
 {1243}{}{这一天将载入新雷诺的历史！为了表示敬意，让我们打开一瓶好的老威士忌。和我一起喝！你是我唯一可以信任的人。}

@@ -15,7 +15,7 @@
 #{112}{}{What happened?}
 {112}{}{怎么搞的？}
 #{113}{}{About that water pump... }
-{113}{}{关于水泵。。。}
+{113}{}{关于水泵...}
 #{114}{}{Any ideas of how to get out of this basement?}
 {114}{}{你知道怎么离开地下室吗？}
 #{115}{}{I'll be back. Don't go anywhere.}
@@ -45,7 +45,7 @@
 #{131}{}{Uh, yeah, sure. I'll just see you outside.}
 {131}{}{嗯，是的，当然。我们在外面见。}
 #{137}{}{No way, I can't leave my sister. And where would I go? Black-Rock would never take me, and Reno... No, I'll never go back to Reno.}
-{137}{}{不行，我不能离开我妹妹。我要去哪里？黑岩永远不会带走我，雷诺。。。不，我再也不回雷诺了。}
+{137}{}{不行，我不能离开我妹妹。我要去哪里？黑岩永远不会带走我，雷诺...不，我再也不回雷诺了。}
 #{139}{}{I fixed the water pump. It's running smoothly now.}
 {139}{}{我把水泵修好了。现在运转平稳。}
 #{140}{}{I have this fuse. Will this help?}
@@ -53,11 +53,11 @@
 #{141}{}{Holy shit, this is perfect! Where'd you get it? Go show it to Gerlach, and he might let me go!}
 {141}{}{妈的，太完美了！你从哪儿弄来的？去拿给杰拉克看，他可能会放我走！}
 #{142}{}{This one? Looks like that part I blew up.Please, install it into the pump... Uh, carefully. I'd do it myself, but Gerlach won't let me outside.}
-{142}{}{这个？看起来像是我吹掉的那部分请起来，将其安装到泵中。。。呃，小心点。我自己会做的，但杰拉克不让我出去。}
+{142}{}{这个？看起来像是我吹掉的那部分请起来，将其安装到泵中...呃，小心点。我自己会做的，但杰拉克不让我出去。}
 #{143}{}{I can free you, if you pay.}
 {143}{}{如果你付钱的话，我可以释放你。}
 #{144}{}{I don't have anything... But I know where to find a stash of good stuff. But I won't tell you until I'm out of here!}
-{144}{}{我什么都没有。。。但我知道在哪里能找到好东西。但在我离开之前我不会告诉你的！}
+{144}{}{我什么都没有...但我知道在哪里能找到好东西。但在我离开之前我不会告诉你的！}
 #{145}{}{We'll see.}
 {145}{}{我们拭目以待。}
 #{146}{}{Oh, I almost forgot. If you need any help, just talk to me. I can improve a leather jacket for you - not just stronger, but optimized to carry more stuff.}
@@ -79,11 +79,11 @@
 #{154}{}{Go on.}
 {154}{}{继续。}
 #{155}{}{But it's old, and you've got to keep an eye on it. I fell asleep on the job and the fuse burned out... I think that's what it's called. Whatever it is, the pump won't work without it.}
-{155}{}{但它是旧的，你得注意它。我在工作时睡着了保险丝烧断了。。。我想这就是它的名字。不管它是什么，没有它泵就不能工作。}
+{155}{}{但它是旧的，你得注意它。我在工作时睡着了保险丝烧断了...我想这就是它的名字。不管它是什么，没有它泵就不能工作。}
 #{156}{}{Long story short, we've got no water. So, everyone was going to have me for it. That's when you came along.}
 {156}{}{长话短说，我们没有水了。所以，每个人都会有我。就在那时你来了。}
 #{157}{}{It's all my fault. I nearly got myself killed, I nearly left my sister all alone, I nearly destroyed the whole community... This is heavy. Makes you rethink everything. I feel like a different man... I've got to start taking responsibility.}
-{157}{}{都是我的错。我差点害死自己，差点丢下妹妹一个人，差点毁了整个社区。。。这个很重。让你重新思考一切。我觉得自己是另一个人。。。我必须开始承担责任。}
+{157}{}{都是我的错。我差点害死自己，差点丢下妹妹一个人，差点毁了整个社区...这个很重。让你重新思考一切。我觉得自己是另一个人...我必须开始承担责任。}
 #{158}{}{It works great, all thanks to you. You didn't just save me, you saved the whole community.}
 {158}{}{很好用，都是你的功劳。你不仅救了我，还救了整个社区。}
 #{159}{}{The fuse burned out and I don't have a slightest clue how to fix it. You'll need to find a new one, or make one yourself, if you know how.}
@@ -125,7 +125,7 @@
 #{180}{}{You found an easy way to fix Lovelock's water shortage.}
 {180}{}{你找到了解决洛夫洛克缺水的简单方法。}
 #{181}{}{Let me think... I don't have much. But I can improve your leather jacket or do any sort of handyman work. }
-{181}{}{让我想想。。。我没有多少钱。但我可以改进你的皮夹克或做任何杂活。}
+{181}{}{让我想想...我没有多少钱。但我可以改进你的皮夹克或做任何杂活。}
 #{183}{}{Uh, sure.}
 {183}{}{呃，当然。}
 #{184}{}{I'll come back if I need your help.}
@@ -141,7 +141,7 @@
 #{194}{}{What jacket? I don't see it.}
 {194}{}{什么夹克？我看不出来。}
 #{195}{}{Oops... }
-{195}{}{哎呀。。。}
+{195}{}{哎呀...}
 #{196}{}{Done! Try it out!}
 {196}{}{完成！试试看！}
 #{197}{}{Okay.}
@@ -155,7 +155,7 @@
 #{203}{}{You said something about a stash earlier.}
 {203}{}{你刚才说有个藏匿处。}
 #{204}{}{Oh, yeah, well... I don't actually know where it is, but my sister told me about it once. Ask her and she'll tell you.}
-{204}{}{哦，是的，好吧。。。我不知道它在哪里，但我姐姐告诉过我一次。问她，她会告诉你的。}
+{204}{}{哦，是的，好吧...我不知道它在哪里，但我姐姐告诉过我一次。问她，她会告诉你的。}
 #{205}{}{It's the same one my sister told you about.}
 {205}{}{就是我姐姐告诉你的那个。}
 #{206}{}{Oh, is that how it is?}

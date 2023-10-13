@@ -11,7 +11,7 @@
 #{112}{}{Just passing by.}
 {112}{}{只是路过。}
 #{113}{}{[They look at each other, then back at the ground] Er... Yes, sir. There's no point hiding it now. We're runaway slaves.}
-{113}{}{[他们看着对方，然后又回到地面]呃。。。是的，先生。现在藏起来没有意义了。我们是逃跑的奴隶。}
+{113}{}{[他们看着对方，然后又回到地面]呃...是的，先生。现在藏起来没有意义了。我们是逃跑的奴隶。}
 #{114}{}{I need to know what happened to you before I can decide if you can stay.}
 {114}{}{我要知道你发生了什么事，然后才能决定你是否能留下来。}
 #{115}{}{That's all I need to know. You have to get out of here.}
@@ -29,7 +29,7 @@
 #{123}{}{How did you escape?}
 {123}{}{你怎么逃出来的？}
 #{124}{}{We spent weeks digging a tunnel, then knocked out a guard one night and escaped. Our friend spent a year planning it, but he only figured out how to get out. We didn't know how to survive outside or how to remove these collars. Walking around with these on our necks is... [they glance at each other anxiously] ...very dangerous.}
-{124}{}{我们花了几个星期挖了一条隧道，然后一天晚上撞倒了一个警卫逃走了。我们的朋友花了一年时间计划，但他只知道怎么出去。我们不知道如何在外面生存，也不知道如何移除这些项圈。脖子上戴着这个到处走是。。。[他们焦急地互相瞥了一眼]…非常危险。}
+{124}{}{我们花了几个星期挖了一条隧道，然后一天晚上撞倒了一个警卫逃走了。我们的朋友花了一年时间计划，但他只知道怎么出去。我们不知道如何在外面生存，也不知道如何移除这些项圈。脖子上戴着这个到处走是...[他们焦急地互相瞥了一眼]…非常危险。}
 #{125}{}{Why did you run away?}
 {125}{}{你为什么逃跑？}
 #{126}{}{Mister Luciano is having trouble in Reno, so he gave us less food and made us work every day. We understand why he needed to do that, but it was too much. It was better to take the risks than stay there.}
@@ -37,7 +37,7 @@
 #{127}{}{How many of you escaped?}
 {127}{}{你们有多少人逃走了？}
 #{128}{}{There were five of us. One starved to death. The second drank from a puddle and died of sickness. The third was eaten by a gecko. It was... [they look at each other sadly] ...a hard journey.}
-{128}{}{我们有五个人。一个饿死了。第二个喝了水坑里的水，病死了。第三只被壁虎吃掉了。那是。。。[他们悲伤地看着对方]…一段艰难的旅程。}
+{128}{}{我们有五个人。一个饿死了。第二个喝了水坑里的水，病死了。第三只被壁虎吃掉了。那是...[他们悲伤地看着对方]…一段艰难的旅程。}
 #{129}{}{Do you think they're looking for you?}
 {129}{}{你觉得他们在找你吗？}
 #{130}{}{Mister Luciano will be angry, but we are not special. He won't pay anyone to look for us outside the city.}
@@ -47,7 +47,7 @@
 #{132}{}{[The two men watch you nervously.]}
 {132}{}{[两个人紧张地看着你。]}
 #{133}{}{You seem harmless. You can stay. Let's get you a job at the stables...}
-{133}{}{你看起来无害。你可以留下来。让我们给你在马厩找份工作。。。}
+{133}{}{你看起来无害。你可以留下来。让我们给你在马厩找份工作...}
 #{134}{}{You can't stay here. You have to leave.}
 {134}{}{你不能呆在这里。你必须离开。}
 #{135}{}{I need to think about this. I'll be back with my answer.}
@@ -63,7 +63,7 @@
 #{140}{}{I will think about this. Stay here.}
 {140}{}{我会考虑的。呆在这里。}
 #{141}{}{I didn't think of that. [he thinks for a moment] We can't survive on our own. Mister Luciano may still forgive us... [he turns to his friend] What do you think? [his friend nods, and he looks back at the ground in front of you] If we can't stay here, other towns won't accept us either. Our only chance is to go back to Reno. We'll leave as soon as we can.}
-{141}{}{我没想到。[他想了一会儿]我们不能靠自己生存。卢西亚诺先生也许还会原谅我们。。。[他转向他的朋友]你觉得怎么样？[他的朋友点头，他回头看着你面前的地面]如果我们不能留在这里，其他城镇也不会接受我们。我们唯一的机会就是回雷诺。我们会尽快离开。}
+{141}{}{我没想到。[他想了一会儿]我们不能靠自己生存。卢西亚诺先生也许还会原谅我们...[他转向他的朋友]你觉得怎么样？[他的朋友点头，他回头看着你面前的地面]如果我们不能留在这里，其他城镇也不会接受我们。我们唯一的机会就是回雷诺。我们会尽快离开。}
 #{142}{}{Stay safe!}
 {142}{}{注意安全！}
 #{143}{}{The sooner the better. I don't want to see you around here again.}
@@ -95,13 +95,13 @@
 #{156}{}{I can't help you.}
 {156}{}{我帮不了你。}
 #{157}{}{We're free! [he laughs in joy] I can't believe it! You saved us! [he moves his head around, stretching his neck like it's the first time he's ever doing it] Oh, this is... Amazing!}
-{157}{}{我们自由了！[他高兴地笑]真不敢相信！你救了我们！[他把头转来转去，伸着脖子，好像这是他第一次这么做]哦，这是。。。太神了！}
+{157}{}{我们自由了！[他高兴地笑]真不敢相信！你救了我们！[他把头转来转去，伸着脖子，好像这是他第一次这么做]哦，这是...太神了！}
 #{158}{}{Enjoy, guys.}
 {158}{}{好好享受，伙计们。}
 #{1110}{}{[He looks at the ground] Yes, ma'am?}
 {1110}{}{[他看着地面]是的，女士？}
 #{1113}{}{[They look at each other, then back at the ground] Er... Yes, ma'am. There's no point hiding it now. We're fugitive slaves.}
-{1113}{}{[他们看着对方，然后又回到地面]呃。。。是的，女士。现在藏起来没有意义了。我们是逃亡的奴隶。}
+{1113}{}{[他们看着对方，然后又回到地面]呃...是的，女士。现在藏起来没有意义了。我们是逃亡的奴隶。}
 #{1120}{}{Yes, ma'am. Anything you say, ma'am.}
 {1120}{}{是的，女士。你说什么都行，夫人。}
 #{1122}{}{From Reno, ma'am. We were captured when we were young, and have been slaves since then.}

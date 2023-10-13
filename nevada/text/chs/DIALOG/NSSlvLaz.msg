@@ -5,4 +5,4 @@
 #{102}{}{There's no ladder beneath this manhole. If you go down now, you'll never be able to get out.}
 {102}{}{这个检修孔下面没有梯子。如果你现在下去，就永远出不来了。}
 #{103}{}{Better tie a rope...}
-{103}{}{最好系一根绳子。。。}
+{103}{}{最好系一根绳子...}

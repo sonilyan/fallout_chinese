@@ -21,11 +21,11 @@
 #{211}{}{Right. What's that big metal thing in the middle of the field?}
 {211}{}{正确的。田里的那个大金属是什么？}
 #{212}{}{So you watch this whole field, huh? You must have found a lot of interesting things out here. Want to trade? It's a shame I don't have any glass beads... }
-{212}{}{所以你看了整个球场，嗯？你一定在这里发现了很多有趣的东西。想交易吗？可惜我没有玻璃珠。。。}
+{212}{}{所以你看了整个球场，嗯？你一定在这里发现了很多有趣的东西。想交易吗？可惜我没有玻璃珠...}
 #{213}{}{A shepherd without sheep, huh? I should be going.}
 {213}{}{一个没有羊的牧羊人，嗯？我该走了。}
 #{214}{}{That big bucket full of poison fire! It fell from sky and spilled. It burned beautiful, but only I saw. Then... Plants that bite grew around it. Hmm.}
-{214}{}{装满毒火的大桶！它从天而降，洒了出来。它烧得很漂亮，但只有我看到了。然后。。。它周围生长着能咬人的植物。隐马尔可夫模型。}
+{214}{}{装满毒火的大桶！它从天而降，洒了出来。它烧得很漂亮，但只有我看到了。然后...它周围生长着能咬人的植物。隐马尔可夫模型。}
 #{215}{}{Fell from the sky? How interesting! I'll go have a closer look.}
 {215}{}{从天上掉下来的？多有趣啊！我去仔细看看。}
 #{216}{}{Uh, wait, outsider! Do not go there. That filth burns feet!}
@@ -39,7 +39,7 @@
 #{220}{}{I'll come back later.}
 {220}{}{我一会儿回来。}
 #{221}{}{Mmm. I have some junk... Some stuff. And... Something shiny!}
-{221}{}{嗯。我有一些垃圾。。。一些东西。还有。。。闪亮的东西！}
+{221}{}{嗯。我有一些垃圾...一些东西。还有...闪亮的东西！}
 #{222}{}{What is it? Will you show me?}
 {222}{}{它是什么？你能给我看看吗？}
 #{223}{}{Shiny? This I gotta see!}
@@ -49,7 +49,7 @@
 #{225}{}{Very tempting. What do you want for it!}
 {225}{}{非常诱人。你想要什么！}
 #{226}{}{Money! Much money! Trade for... Hmm... }
-{226}{}{钱！很多钱！用…换。。。隐马尔可夫模型。。。}
+{226}{}{钱！很多钱！用…换...Hmm...}
 #{227}{}{Deal. Here's the money.}
 {227}{}{处理。这是钱。}
 #{228}{}{Sorry, I don't have that much. Maybe later.}
@@ -77,12 +77,12 @@
 #{250}{}{I'm looking for a radio station somewhere around here. You probably know where it is. Can you show me?}
 {250}{}{我在这附近找一个电台。你可能知道它在哪里。你能给我看看吗？}
 #{251}{}{Hmm... Nah. Chief will angry, hurt with words. Bad.}
-{251}{}{隐马尔可夫模型。。。不。酋长会生气，会用言语伤害他。糟糕。}
+{251}{}{Hmm...不。酋长会生气，会用言语伤害他。糟糕。}
 #{252}{}{Yeah, with my reputation, no one would be happy to hear you helped me. Oh well.}
 {252}{}{是啊，以我的名誉，没人会高兴听到你帮助我。哦，好吧。}
-#{253}{}{Let�s talk about something else.}
+#{253}{}{Let??s talk about something else.}
 {253}{}{我们再谈点别的吧。}
-#{254}{}{He won�t find out. I promise. You can trust me.}
+#{254}{}{He won??t find out. I promise. You can trust me.}
 {254}{}{他不会发现的。我保证。你可以相信我。}
 #{255}{}{Hmm. [he looks around] Okay. You is good people. I show you.}
 {255}{}{嗯[他环顾四周]好的。你是好人。我给你看。}
@@ -95,7 +95,7 @@
 #{259}{}{It's important. I need to find that station to find out about my past. Please, can't you help me? I know you're a good man.}
 {259}{}{这很重要。我得去那家电台看看我的过去。拜托，你能帮帮我吗？我知道你是个好人。}
 #{260}{}{Hmmmm... Pretty talk. Okay. I show you.}
-{260}{}{嗯。。。说得不错。可以。我给你看。}
+{260}{}{嗯...说得不错。可以。我给你看。}
 #{261}{}{What if I give you this sharpened spear?}
 {261}{}{我给你这把磨快的矛怎么样？}
 #{262}{}{What if I give you this leather jacket?}
@@ -143,7 +143,7 @@
 #{368}{}{[Snatch the spear while the shepherd is stunned] Aha!}
 {368}{}{[在牧羊人惊呆的时候抓住长矛]啊哈！}
 #{369}{}{Ha! Now shut up... }
-{369}{}{哈！现在闭嘴。。。}
+{369}{}{哈！现在闭嘴...}
 #{370}{}{[The shepherd overpowers you, pulling the spear back and sending you sprawling to the ground] Ha! I is strong! Outsider is weak!}
 {370}{}{[牧羊人压倒了你，拔出长矛，把你摔倒在地]哈！我很坚强！外人很软弱！}
 #{371}{}{Do you know who you're fucking with?! Come here and I'll rip your fucking arms out!}
@@ -161,7 +161,7 @@
 #{377}{}{YES!}
 {377}{}{对！}
 #{378}{}{No, outsider is... Is... No, no! I wanted give spear!}
-{378}{}{不，外人是。。。是。。。不，不！我要给你矛！}
+{378}{}{不，外人是...是...不，不！我要给你矛！}
 #{379}{}{You see? Someone asks you for help, and you can only think of yourself. The tribe will be so disappointed when I tell them!}
 {379}{}{你看到了吗？有人向你求助，你只能想到自己。我告诉他们，部落会很失望的！}
 #{380}{}{Ahhh, no! Outsider no tell! Take spear, take it! [he throws the spear down on the ground and steps back, grabbing his head in hysteria]}
@@ -179,14 +179,14 @@
 #{386}{}{No, spirits say different.}
 {386}{}{不，灵魂说的不一样。}
 #{387}{}{Hmm... Spirits not sure about you. Strange.}
-{387}{}{隐马尔可夫模型。。。我对你不确定。奇怪。}
+{387}{}{Hmm...我对你不确定。奇怪。}
 #{388}{}{This means you have the chance to help a good person. Isn't that right?}
 {388}{}{这意味着你有机会帮助一个好人。不是吗？}
 #{389}{}{Hmm... Ogima say must help good people. Here, take spear.}
-{389}{}{隐马尔可夫模型。。。奥吉玛说必须帮助好人。拿着长矛。}
+{389}{}{Hmm...奥吉玛说必须帮助好人。拿着长矛。}
 #{390}{}{Thank you, friend. I'll use it well.}
 {390}{}{谢谢你，朋友。我会好好利用的。}
-#{391}{}{Ha! You�re so easy to fool!}
+#{391}{}{Ha! You??re so easy to fool!}
 {391}{}{哈！你太容易被愚弄了！}
 #{392}{}{Thank you. I'll bring it back once I'm done.}
 {392}{}{非常感谢。我一做完就把它拿回来。}
@@ -199,12 +199,12 @@
 #{396}{}{You must promise you will bring back!}
 {396}{}{你必须保证你会带回来的！}
 #{397}{}{Uhh... I'll try.}
-{397}{}{呃。。。我试试看。}
+{397}{}{呃...我试试看。}
 #{398}{}{Promise!}
 {398}{}{答应我！}
 #{399}{}{I solemnly swear I will return the spear after killing the dangerous plants, may I be damned if I don't.}
 {399}{}{我郑重发誓，杀掉那些危险的植物后，我会把长矛还给你的，如果我不还的话，我会被诅咒的。}
-#{400}{}{I can�t promise that, sorry.}
+#{400}{}{I can??t promise that, sorry.}
 {400}{}{我不能保证，对不起。}
 #{401}{}{Then I keep spear.}
 {401}{}{那我就留着长矛。}
@@ -255,7 +255,7 @@
 #{453}{}{I want to fix the bridge. Don't you care about helping the tribe?}
 {453}{}{我想修这座桥。你不关心帮助部落吗？}
 #{454}{}{Oh yeah? What if I tell your chief that you fed the brahmin that green filth in the field?}
-{454}{}{哦，是吗？如果我告诉你的首领你喂婆罗门田野里的绿色脏物呢？}
+{454}{}{哦，是吗？如果我告诉你的首领你喂双头牛田野里的绿色脏物呢？}
 #{455}{}{Forget it. Let me ask you something else.}
 {455}{}{算了吧。我再问你一件事。}
 #{456}{}{Fine, I'll do it myself.}
@@ -265,13 +265,13 @@
 #{458}{}{Oh, I know that. But the chief doesn't. You see what I'm getting at?}
 {458}{}{哦，我知道。但头儿没有。你明白我的意思吗？}
 #{459}{}{Grr... Bad outsider! All outsiders bad! Leave!}
-{459}{}{Grr。。。坏外人！所有外人都很坏！快走！}
+{459}{}{Grr...坏外人！所有外人都很坏！快走！}
 #{460}{}{I'm warning for the last time - help me with those planks, or I'll turn the whole tribe against you! I'm pretty sure they'll believe me, too - I bet there's a reason you live all by yourself.}
 {460}{}{我最后一次警告你-帮我拿那些木板，否则我会让整个部落都反对你！我很肯定他们也会相信我的-我打赌你一个人生活是有原因的。}
 #{461}{}{Fine, whatever.}
 {461}{}{好吧，随便了。}
 #{462}{}{[He nervous] N-no! Outsider wrong! Only... I help anyway. I strong. No problem.}
-{462}{}{[他紧张]不！外人错了！只有。。。反正我也帮你。我很强壮。没问题。}
+{462}{}{[他紧张]不！外人错了！只有...反正我也帮你。我很强壮。没问题。}
 #{463}{}{Move your ass, already!}
 {463}{}{快点，快点！}
 #{464}{}{Great! Get to work!}
@@ -283,7 +283,7 @@
 #{467}{}{Oh, look at the big man!}
 {467}{}{哦，看那个大个子！}
 #{468}{}{[He pauses indecisively for a moment before glancing in the direction of Big Louie's base] I... No want trouble. What I carry?}
-{468}{}{[他犹豫不决地停顿了一会儿，然后朝大路易的基地方向瞥了一眼]我。。。不想惹麻烦。我带什么？}
+{468}{}{[他犹豫不决地停顿了一会儿，然后朝大路易的基地方向瞥了一眼]我...不想惹麻烦。我带什么？}
 #{469}{}{Move those planks to the bridge. Double time!}
 {469}{}{把那些木板搬到桥上去。加倍时间！}
 #{470}{}{Nothing, I can do it without you.}
@@ -293,9 +293,9 @@
 #{472}{}{Fine. Maybe I can change your mind about me.}
 {472}{}{好的。也许我可以改变你对我的看法。}
 #{473}{}{Outsider wants to help? Hmm... Outsider is good people. I help.}
-{473}{}{外人想帮忙？隐马尔可夫模型。。。外人是好人。我帮忙。}
+{473}{}{外人想帮忙？Hmm...外人是好人。我帮忙。}
 #{474}{}{Great! We have to take those planks to the bridge... }
-{474}{}{太好了！我们得把那些木板拿到桥上去。。。}
+{474}{}{太好了！我们得把那些木板拿到桥上去...}
 #{475}{}{I think I can do it without you. Rest.}
 {475}{}{我想没有你我也能做到。休息。}
 #{476}{}{With the shepherd's help, you assemble a drawbridge from the wooden planks.}
@@ -305,7 +305,7 @@
 #{1204}{}{I'm just passing through.}
 {1204}{}{我只是路过。}
 #{1212}{}{So you watch this whole field, huh? You must have found a lot of interesting things out here. Want to trade? It's a shame I don't have any glass beads... }
-{1212}{}{所以你看了整个球场，嗯？你一定在这里发现了很多有趣的东西。想交易吗？可惜我没有玻璃珠。。。}
+{1212}{}{所以你看了整个球场，嗯？你一定在这里发现了很多有趣的东西。想交易吗？可惜我没有玻璃珠...}
 #{1227}{}{Deal. Here's the money.}
 {1227}{}{处理。这是钱。}
 #{1375}{}{I politely asked to borrow your spear for just a little while, and you wouldn't even let me do that. YOU'RE greedy.}

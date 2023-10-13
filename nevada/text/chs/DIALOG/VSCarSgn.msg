@@ -3,7 +3,7 @@
 #{101}{}{It's just a board with old ads and price tags. You could add your own notes.}
 {101}{}{那只是一块有旧广告和价签的木板。你可以添加自己的笔记。}
 #{102}{}{You are going to read during the fight?! Not very smart, you know...}
-{102}{}{你要在战斗中读书吗？！不是很聪明，你知道。。。}
+{102}{}{你要在战斗中读书吗？！不是很聪明，你知道...}
 #{103}{}{Where would you like to park you truck to next time?}
 {103}{}{下次你想把车停在哪里？}
 #{104}{}{Park the car in the garage.}
@@ -91,7 +91,7 @@
 #{1515}{}{Old Rabbi}
 {1515}{}{老拉比}
 #{1516}{}{Governmental Vault}
-{1516}{}{政府金库}
+{1516}{}{政府避难所}
 #{1517}{}{Gerlach}
 {1517}{}{格拉赫}
 #{1518}{}{Uranium City}

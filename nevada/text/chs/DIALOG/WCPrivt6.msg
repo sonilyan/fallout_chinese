@@ -9,7 +9,7 @@
 #{111}{}{Sorry, what do you do?}
 {111}{}{对不起，你是做什么的？}
 #{112}{}{Uh... I have a permit... I'd better go.}
-{112}{}{休斯敦大学。。。我有许可证。。。我最好走了。}
+{112}{}{Uh...我有许可证...我最好走了。}
 #{113}{}{It's none of your business. I advise you to leave the room before I get angry!}
 {113}{}{这不关你的事。我劝你在我生气之前离开房间！}
 #{114}{}{Are you some kind of a radio operator?}
@@ -21,7 +21,7 @@
 #{117}{}{Oh, I'm called "Your Highness", and they usually bend the knee, addressing me.}
 {117}{}{哦，我叫“殿下”，他们通常会屈膝向我致意。}
 #{118}{}{Okay...}
-{118}{}{可以。。。}
+{118}{}{可以...}
 #{119}{}{I'm here on a personal matter to General Wesker.}
 {119}{}{我是来处理韦斯克将军的私事的。}
 #{120}{}{I was just passing by.}
@@ -39,7 +39,7 @@
 #{126}{}{Nothing already. Bye.}
 {126}{}{已经没有了。再见。}
 #{127}{}{Really? Usually all those interested end up beyond the gate... So what do you want?}
-{127}{}{真正地？通常所有感兴趣的人都会离开大门。。。那你想要什么？}
+{127}{}{真正地？通常所有感兴趣的人都会离开大门...那你想要什么？}
 #{128}{}{To learn the history of this place.}
 {128}{}{去了解这个地方的历史。}
 #{129}{}{What do you do, if it's not a secret?}
@@ -51,13 +51,13 @@
 #{132}{}{Nothing already. Bye.}
 {132}{}{已经没有了。再见。}
 #{133}{}{The General is a strong and charismatic man, he rallied the people to build these huts on the ruins of pre-war town of Pahrump. Without him we would have disappeared in history. Everyone here loves and appreciate Wesker, even when he... [short nervous pause with a choice of answer follows] is punishing the guilty, hmm.}
-{133}{}{将军是一个强壮而有魅力的人，他号召人民在战前的帕伦普镇的废墟上建造这些小屋。没有他，我们就会消失在历史上。这里的每个人都喜欢和欣赏韦斯克，即使他。。。[紧张的短暂停顿，然后选择答案]是在惩罚罪犯，嗯。}
+{133}{}{将军是一个强壮而有魅力的人，他号召人民在战前的帕伦普镇的废墟上建造这些小屋。没有他，我们就会消失在历史上。这里的每个人都喜欢和欣赏韦斯克，即使他...[紧张的短暂停顿，然后选择答案]是在惩罚罪犯，嗯。}
 #{134}{}{Guilty? There are such people?}
 {134}{}{有罪？有这样的人吗？}
 #{135}{}{Soldiers are soldiers. Sometimes breakdowns happen, this job is nervous... But why am I so talkative with you! Now, civvy, watch your mouth!}
-{135}{}{士兵就是士兵。有时会发生故障，这份工作很紧张。。。但我为什么对你这么健谈！现在，公民，小心你的嘴！}
+{135}{}{士兵就是士兵。有时会发生故障，这份工作很紧张...但我为什么对你这么健谈！现在，公民，小心你的嘴！}
 #{136}{}{Uh, yes, of course, sorry...}
-{136}{}{嗯，是的，当然，对不起。。。}
+{136}{}{嗯，是的，当然，对不起...}
 #{137}{}{Well, we'll see.}
 {137}{}{好吧，我们拭目以待。}
 #{138}{}{[Contemptuously snorts on your words] We are trying here to establish a normal life in harsh and unbearable conditions, we have no time to drop tears. Outsiders misunderstand it. We are protecting ourselves from the Wasteland, not terrorizing it.}
@@ -71,7 +71,7 @@
 #{142}{}{Well, then another question.}
 {142}{}{好吧，还有一个问题。}
 #{143}{}{[Opens his eyes in amazement] Uh-hmm... Yes, that's correct. And how would *you* know that?}
-{143}{}{[惊奇地睁开眼睛]嗯。。。是的，没错。你怎么知道的？}
+{143}{}{[惊奇地睁开眼睛]嗯...是的，没错。你怎么知道的？}
 #{144}{}{You know, not all in the Wasteland are as wild and uncivilized as you think.}
 {144}{}{你知道，并不是所有的荒地都像你想象的那样野蛮和不文明。}
 #{145}{}{Hmm, I've been doing surveillance of our territory thanks to this tech.}
@@ -109,11 +109,11 @@
 #{169}{}{Then I'll go to the General.}
 {169}{}{那我就去找将军。}
 #{170}{}{[Leans over to you with a very cunning and dangerous look] I am not allowed to share this information. So I advise you to *think*, before you ask...}
-{170}{}{[以非常狡猾和危险的眼神俯身向你]我不被允许分享这个信息。所以我建议你在问之前先想一想。。。}
+{170}{}{[以非常狡猾和危险的眼神俯身向你]我不被允许分享这个信息。所以我建议你在问之前先想一想...}
 #{171}{}{Oh yeah, right, let me think now, yes. [put $300 into the pocket of the employee]}
 {171}{}{哦，是的，让我想想，是的。[把300美元放进雇员的口袋]}
 #{172}{}{Oh, okay, I will consider it for the future. And you - don't forget about the mysterious wanderer with his full pockets...}
-{172}{}{哦，好吧，我以后会考虑的。你-别忘了那个口袋里装满东西的神秘流浪者。。。}
+{172}{}{哦，好吧，我以后会考虑的。你-别忘了那个口袋里装满东西的神秘流浪者...}
 #{173}{}{I don't need it anymore. I want to ask about something else.}
 {173}{}{我不再需要它了。我想问些别的事。}
 #{174}{}{Then I'll go while my body parts are still intact.}
@@ -123,7 +123,7 @@
 #{176}{}{Wow, uh, okay, buddy, relax, you are too nervous. [put $300 into his pocket]}
 {176}{}{哇，呃，好吧，伙计，放松点，你太紧张了。[把300美元放进他的口袋]}
 #{177}{}{Uh, I was kidding, how could the simple wanderer line up his pockets? Uh... Let's talk about something else.}
-{177}{}{呃，我开玩笑的，那个简单的流浪汉怎么能把口袋整理好呢？休斯敦大学。。。我们再谈点别的吧。}
+{177}{}{呃，我开玩笑的，那个简单的流浪汉怎么能把口袋整理好呢？Uh...我们再谈点别的吧。}
 #{178}{}{Hey-hey-hey, let me go! No need to check my pockets, there's nothing in them, I was joking!}
 {178}{}{嘿，放开我！不用检查我的口袋，里面什么都没有，我开玩笑的！}
 #{179}{}{That's another story! I think we understand each other, and this is so rare today. Wait one minute.}
@@ -143,7 +143,7 @@
 #{186}{}{[Looks in his pocket, biting his lips] Hmm, well, sometimes you have to relax. Now let's see how I will be able to... "thank" you. One minute!}
 {186}{}{[看着口袋，咬着嘴唇]嗯，好吧，有时候你得放松一下。现在让我们看看我将如何谢谢你。一分钟！}
 #{187}{}{[After some time the clerk tells you the coordinates of the Area 51] And not a word to anyone! Or else... [makes a motion with his thumb crossing his throat]}
-{187}{}{[过了一段时间，店员告诉你51号区域的坐标]一句话也不告诉任何人！否则。。。[拇指交叉喉咙做动作]}
+{187}{}{[过了一段时间，店员告诉你51号区域的坐标]一句话也不告诉任何人！否则...[拇指交叉喉咙做动作]}
 #{188}{}{Sure, I understand! Thank you!}
 {188}{}{当然，我明白！谢谢您！}
 #{189}{}{You got the coordinates of the Area 51.}
@@ -155,9 +155,9 @@
 #{192}{}{All of us are the descendants of people who made it through the war in safe vault. Our ancestors were of elite military unit from Hawthorne military base. At least, that's what they told us.}
 {192}{}{我们所有人都是在保险库中度过战争的人的后代。我们的祖先是霍桑军事基地的精锐部队。至少，他们是这么告诉我们的。}
 #{193}{}{When there were no one left to save in Nevada, they took shelter in prototype vault not far from here. The vault had codename "Wind of War", it was built specifically for testing purposes of the materials and technologies of vaults network.}
-{193}{}{当内华达州没有人可以救的时候，他们就躲在离这里不远的地下室里。该金库代号为“战争之风”，专门用于测试金库网络的材料和技术。}
+{193}{}{当内华达州没有人可以救的时候，他们就躲在离这里不远的地下室里。该避难所代号为“战争之风”，专门用于测试避难所网络的材料和技术。}
 #{194}{}{Time has passed, then we were born, still sealed inside the vault. When its resources ran out, we had to go outside and start a new life, struggling for a place under the sun.}
-{194}{}{时间过去了，那时我们出生了，还密封在金库里。当它的资源耗尽时，我们不得不走出去开始新的生活，在阳光下为一个地方而奋斗。}
+{194}{}{时间过去了，那时我们出生了，还密封在避难所里。当它的资源耗尽时，我们不得不走出去开始新的生活，在阳光下为一个地方而奋斗。}
 #{195}{}{General Wesker took the situation under control. We settled in this ruins, rebuilt them, brought some weapons and tech from Hawthorne. Then blew up the vault and started to live here.}
 {195}{}{韦斯克将军控制了局势。我们在这片废墟上定居，重建，从霍桑带了一些武器和技术。然后炸毁了保险库开始住在这里。}
 #{196}{}{But, turned out, we are not very much suitable for agricultural farming, yet we needed to survive. So, for the most part, we lived off the hunt. This area is mostly desert, so providing ourselves with food was not that easy.}
@@ -179,12 +179,12 @@
 #{1151}{}{You know, I think that's all I wanted to know. Bye.}
 {1151}{}{你知道，我想这就是我想知道的。再见。}
 #{1154}{}{Well, uh, I read in some magazine...}
-{1154}{}{呃，我在杂志上看到。。。}
+{1154}{}{呃，我在杂志上看到...}
 #{1172}{}{Oh, okay, I will consider it for the future. And you - don't forget about the mysterious wanderer with his full pockets...}
-{1172}{}{哦，好吧，我以后会考虑的。你-别忘了那个口袋里装满东西的神秘流浪者。。。}
+{1172}{}{哦，好吧，我以后会考虑的。你-别忘了那个口袋里装满东西的神秘流浪者...}
 #{1175}{}{[Takes your hand and leans in] Listen, wanderer, I have no doubt in your pockets, and can legally check them out, without any mention of the secret base.}
 {1175}{}{[握住你的手，俯身进去]听着，流浪者，我在你的口袋里毫无疑问，我可以合法地检查它们，而不必提及秘密基地。}
 #{1177}{}{Uh, I was kidding, How could the simple wanderer line his pockets? Uh... Let's talk about something else.}
-{1177}{}{呃，我开玩笑的，那个简单的流浪汉怎么能把口袋塞满呢？休斯敦大学。。。我们再谈点别的吧。}
+{1177}{}{呃，我开玩笑的，那个简单的流浪汉怎么能把口袋塞满呢？Uh...我们再谈点别的吧。}
 #{1178}{}{Hey-hey-hey, let me go! You don't need to check my pockets there's nothing in them, I was joking!}
 {1178}{}{嘿，放开我！你不用检查我的口袋里面什么都没有，我开玩笑的！}

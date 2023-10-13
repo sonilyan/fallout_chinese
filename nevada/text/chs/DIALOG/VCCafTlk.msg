@@ -13,13 +13,13 @@
 #{114}{}{No, I was just passing by.}
 {114}{}{不，我只是路过。}
 #{115}{}{Well, I thought maybe you would join my company, but if you don't want to...}
-{115}{}{嗯，我想也许你会加入我的公司，但如果你不想。。。}
+{115}{}{嗯，我想也许你会加入我的公司，但如果你不想...}
 #{116}{}{Oh, this. Of course, here's 5 bucks for a beer.}
 {116}{}{哦，这个。当然，这5块钱买一杯啤酒。}
 #{117}{}{Not this time.}
 {117}{}{这次不行。}
 #{118}{}{Let me think... Hmm... Oh well, I guess I'm just sad and have no one to drink with.}
-{118}{}{让我想想。。。隐马尔可夫模型。。。哦，好吧，我想我只是难过，没人陪我喝酒。}
+{118}{}{让我想想...Hmm...哦，好吧，我想我只是难过，没人陪我喝酒。}
 #{119}{}{I see. Well, I won't keep you.}
 {119}{}{我懂了。好吧，我不留你了。}
 #{120}{}{Trying to drink and forget about everything and everyone, don't you see?}
@@ -49,13 +49,13 @@
 #{132}{}{Why? Didn't he got anything else to do?}
 {132}{}{为什么？他没有别的事要做吗？}
 #{133}{}{Well, it would be all nice if one day he didn't read the poster with the pre-war advertising. It said that the use of radium water is good for the body. Here it is. [gives you a small bottle with clear liquid] He found a whole box of this abomination and started to drink 3 bottles a day... Until he died from toxic poisoning.}
-{133}{}{好吧，如果有一天他不看战前广告的海报就好了。据说使用镭水对身体有好处。给你。[给你一小瓶清澈的液体]他发现了一整盒这种可憎的东西，开始每天喝3瓶。。。直到他死于中毒。}
+{133}{}{好吧，如果有一天他不看战前广告的海报就好了。据说使用镭水对身体有好处。给你。[给你一小瓶清澈的液体]他发现了一整盒这种可憎的东西，开始每天喝3瓶...直到他死于中毒。}
 #{134}{}{How sad and strange...}
-{134}{}{多么悲伤和奇怪。。。}
+{134}{}{多么悲伤和奇怪...}
 #{135}{}{What an absurd death!}
 {135}{}{多么荒谬的死亡！}
 #{136}{}{Yes, it is. It turned out that radium water is toxic - slow acting poison. Oh, poor Byers, who would have known that people before the were was so stupid...}
-{136}{}{是的，是的。原来镭水是有毒的-慢效毒药。哦，可怜的拜尔斯，谁会知道以前的人是如此愚蠢。。。}
+{136}{}{是的，是的。原来镭水是有毒的-慢效毒药。哦，可怜的拜尔斯，谁会知道以前的人是如此愚蠢...}
 #{137}{}{It's a sad story, friend. I'm sorry.}
 {137}{}{这是一个悲伤的故事，朋友。我很抱歉。}
 #{138}{}{Yeah, just a large crowd of idiots. Damn right!}
@@ -75,7 +75,7 @@
 #{1114}{}{No, I was just passing by.}
 {1114}{}{不，我只是路过。}
 #{1115}{}{Well, I thought maybe you would join my company, but if you don't want to...}
-{1115}{}{嗯，我想也许你会加入我的公司，但如果你不想。。。}
+{1115}{}{嗯，我想也许你会加入我的公司，但如果你不想...}
 #{1125}{}{Thanks, girl. Nice to see such friendly people in this place.}
 {1125}{}{谢谢，姑娘。很高兴在这里见到这么友好的人。}
 #{1141}{}{Okay, I probably tired you. Thank you for listening. And for the beer too. You're a good person.}

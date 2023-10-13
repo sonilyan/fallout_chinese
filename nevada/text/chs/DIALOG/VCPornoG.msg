@@ -2,7 +2,7 @@
 {100}{}{你看：一个警惕的卫兵。}
 #{101}{}{You see a guard keenly peering up and down the street.}
 {101}{}{你看到一个卫兵在街上来回张望。}
-#{102}{}{Don�t even try that again!}
+#{102}{}{Don??t even try that again!}
 {102}{}{别再这样了！}
 #{110}{}{Yes, citizen? Do you need something?}
 {110}{}{是的，公民？你需要什么吗？}
@@ -13,7 +13,7 @@
 #{113}{}{In that case, don't distract me. Oh, and stay vigilant!}
 {113}{}{那样的话，别分散我的注意力。哦，保持警惕！}
 #{114}{}{Er... Fine, as you say.}
-{114}{}{呃。。。很好，就像你说的。}
+{114}{}{呃...很好，就像你说的。}
 #{115}{}{I'm watching the streets for signs of trouble.}
 {115}{}{我在街上寻找麻烦的迹象。}
 #{116}{}{Why, has something happened?}
@@ -24,12 +24,12 @@
 {118}{}{你看到这附近有很多犯罪活动吗？}
 #{119}{}{That seems excessive. Is something going on?}
 {119}{}{这似乎太过分了。有什么事吗？}
-#{120}{}{I�ll leave you alone.}
+#{120}{}{I??ll leave you alone.}
 {120}{}{我不打扰你了。}
 #{121}{}{Not yet, citizen. Don't worry.}
 {121}{}{还没有，公民。别担心。}
 #{122}{}{Uh... Yes, as you can see.}
-{122}{}{休斯敦大学。。。是的，如你所见。}
+{122}{}{Uh...是的，如你所见。}
 #{123}{}{Excluding some past events, the city is completely crime free. Don't worry, citizen.}
 {123}{}{除去一些过去的事件，这个城市完全没有犯罪。别担心，市民。}
 #{124}{}{I can't share that information with common citizens. Crimes and accidents are handled by a special commission.}
@@ -37,9 +37,9 @@
 #{125}{}{Can I be a part of that commission?}
 {125}{}{我能成为那个委员会的一员吗？}
 #{126}{}{Hmm... No, they wouldn't take you in. But you could still help with an ongoing investigation.}
-{126}{}{隐马尔可夫模型。。。不，他们不会收留你的。但你仍然可以帮助进行中的调查。}
+{126}{}{Hmm...不，他们不会收留你的。但你仍然可以帮助进行中的调查。}
 #{127}{}{Okay. A couple of citizens are acting suspicious. Their jobs require them to leave the city perimeter. When they return, they act... Strangely. Suspiciously strangely. If you really want to help, follow them and tell me, what they're doing.}
-{127}{}{可以。有几个市民表现得很可疑。他们的工作要求他们离开城市周边。当他们回来时，他们会行动。。。奇怪的是。奇怪地怀疑。如果你真的想帮忙，跟着他们告诉我，他们在做什么。}
+{127}{}{可以。有几个市民表现得很可疑。他们的工作要求他们离开城市周边。当他们回来时，他们会行动...奇怪的是。奇怪地怀疑。如果你真的想帮忙，跟着他们告诉我，他们在做什么。}
 #{128}{}{[Nods] I'm glad you take our city's security seriously.}
 {128}{}{我很高兴你认真对待我们城市的安全。}
 #{129}{}{}
@@ -48,7 +48,7 @@
 {130}{}{}
 #{131}{}{}
 {131}{}{}
-#{132}{}{No, I don�t want to spy on anybody.}
+#{132}{}{No, I don??t want to spy on anybody.}
 {132}{}{不，我不想监视任何人。}
 #{133}{}{Of course. Forget everything I said.}
 {133}{}{当然。忘了我说的一切。}
@@ -66,13 +66,13 @@
 {139}{}{他们在城外呆了多长时间？}
 #{140}{}{What do they do outside the city?}
 {140}{}{他们在城外干什么？}
-#{141}{}{I�ll come back when I learn something.}
+#{141}{}{I??ll come back when I learn something.}
 {141}{}{我学了东西就回来。}
 #{142}{}{They are citizen Jacob and citizen Emily. They work at the technical service department.}
 {142}{}{他们是公民雅各布和公民艾米丽。他们在技术服务部工作。}
 #{143}{}{They are tasked with checking the security systems around the perimeter twice a day.}
 {143}{}{他们的任务是每天两次检查周边的安全系统。}
-#{144}{}{They used to spend around two hours, but recently, they�ve been taking much longer.}
+#{144}{}{They used to spend around two hours, but recently, they??ve been taking much longer.}
 {144}{}{他们过去花了大约两个小时，但最近，他们花了更长的时间。}
 #{145}{}{They check the security systems around the perimeter. A complete check should take around two hours.}
 {145}{}{他们检查了周边的安全系统。一次完整的检查大约需要两个小时。}
@@ -80,21 +80,21 @@
 {146}{}{我会协助调查的。谁知道呢，这可能是我离开前最后一次帮助这个城市的机会了。}
 #{147}{}{What's with all the rules? Look, you're wound tight due to all this bureaucracy. Just tell me what to do and I'll take care of it.}
 {147}{}{所有的规则是怎么回事？听着，官僚主义让你很紧张。只要告诉我该怎么做，我会处理的。}
-#{148}{}{That's great and all, but I�m interested in something else.}
+#{148}{}{That's great and all, but I??m interested in something else.}
 {148}{}{那太好了，不过我对别的东西感兴趣。}
-#{149}{}{No way. I think you�re forgetting who needs help here. I�ll let you dwell on it for a little while.}
+#{149}{}{No way. I think you??re forgetting who needs help here. I??ll let you dwell on it for a little while.}
 {149}{}{不可能。我想你忘了谁需要帮助了。我让你细想一下。}
-#{200}{}{You�re the one who caught those two citizens breaking regulations? Good job!}
+#{200}{}{You??re the one who caught those two citizens breaking regulations? Good job!}
 {200}{}{是你抓到那两个违反规定的公民的？干得好！}
 #{201}{}{What will happen to them?}
 {201}{}{他们会怎么样？}
-#{202}{}{I�ll think about it.}
+#{202}{}{I??ll think about it.}
 {202}{}{我会考虑的。}
 #{203}{}{That's up to the commission, but they'll probably be sentenced to extended isolation.}
 {203}{}{这取决于委员会，但他们可能会被判处长期隔离。}
-#{204}{}{Okay. Well, I won�t take any more of your time.}
+#{204}{}{Okay. Well, I won??t take any more of your time.}
 {204}{}{可以。好吧，我不会再占用你的时间了。}
-#{205}{}{I heard that you�re responsible for catching those two! Good job!}
+#{205}{}{I heard that you??re responsible for catching those two! Good job!}
 {205}{}{我听说你有责任抓住那两个！干得好！}
 #{206}{}{Any news?}
 {206}{}{有消息吗？}
@@ -104,12 +104,12 @@
 {208}{}{你确定？如果他们看到你怎么办？}
 #{209}{}{They didn't even check if they were being watched. They have nothing to hide.}
 {209}{}{他们甚至没有检查他们是否被监视。他们没什么好隐瞒的。}
-#{210}{}{Perhaps, but I didn�t see anything wrong with them.}
+#{210}{}{Perhaps, but I didn??t see anything wrong with them.}
 {210}{}{也许吧，但我没发现他们有什么问题。}
 #{211}{}{[Nods] Good work, citizen }
 {211}{}{[点头]干得好，公民}
 #{212}{}{. You carried out your duty. I, and all of Vault City, thank you.}
-{212}{}{. 你履行了你的职责。一、 整个金库城，谢谢。}
+{212}{}{. 你履行了你的职责。一、 整个避难所城，谢谢。}
 #{213}{}{Always happy to help!}
 {213}{}{总是乐于助人！}
 #{214}{}{Do I get anything for my trouble?}
@@ -117,18 +117,18 @@
 #{215}{}{You didn't work that hard. Do you really think you deserve a reward?}
 {215}{}{你没那么努力。你真的认为你应该得到奖励吗？}
 #{216}{}{Fine, whatever you say...}
-{216}{}{好吧，不管你说什么。。。}
-#{217}{}{Look who�s talking...}
-{217}{}{看谁在说话。。。}
+{216}{}{好吧，不管你说什么...}
+#{217}{}{Look who??s talking...}
+{217}{}{看谁在说话...}
 #{218}{}{You did your due duty, and yet you ask for a reward? [he leans in close] I think... I can do something for you.}
-{218}{}{你尽了你应有的责任，却要求得到报酬？[他靠得很近]我想。。。我能为你做点什么。}
+{218}{}{你尽了你应有的责任，却要求得到报酬？[他靠得很近]我想...我能为你做点什么。}
 #{219}{}{I need 9mm ammo.}
 {219}{}{我需要9毫米弹药。}
 #{220}{}{I need 10mm ammo.}
 {220}{}{我需要10毫米弹药。}
 #{221}{}{I need money from the wasteland.}
 {221}{}{我需要荒地里的钱。}
-#{222}{}{I don�t need anything for now.}
+#{222}{}{I don??t need anything for now.}
 {222}{}{我现在什么都不需要。}
 #{223}{}{Of course. Here, take it.}
 {223}{}{当然。来，拿着。}
@@ -138,13 +138,13 @@
 {225}{}{祝你今天愉快，市民}
 #{226}{}{.}
 {226}{}{.}
-#{227}{}{I�m not allowed to discuss commissions affairs. If you wanted to help, you�re too late anyway - the latest case is closed due to lack of evidence.}
+#{227}{}{I??m not allowed to discuss commissions affairs. If you wanted to help, you??re too late anyway - the latest case is closed due to lack of evidence.}
 {227}{}{我不准讨论佣金事务。如果你想帮忙的话，那就太晚了——最近的案子因为缺乏证据而结案了。}
-#{228}{}{Uh-huh. I�d like to ask something else.}
+#{228}{}{Uh-huh. I??d like to ask something else.}
 {228}{}{啊哈。我想问些别的问题。}
 #{1110}{}{Yes, citizen? What do you want?}
 {1110}{}{是的，公民？你想要什么？}
-#{1121}{}{Not yet, citizen. Don�t worry.}
+#{1121}{}{Not yet, citizen. Don??t worry.}
 {1121}{}{还没有，公民。别担心。}
 #{1123}{}{Excluding some past events, the city is completely crime free. Don't worry, citizen.}
 {1123}{}{除去一些过去的事件，这个城市完全没有犯罪。别担心，市民。}

@@ -17,9 +17,9 @@
 #{113}{}{And just look at what you've accomplished. Inspiring!}
 {113}{}{看看你的成就。鼓舞人心！}
 #{114}{}{Fucking kids! Oh, back in my day, let me tell you...}
-{114}{}{他妈的孩子们！哦，回到我的时代，让我告诉你。。。}
+{114}{}{他妈的孩子们！哦，回到我的时代，让我告诉你...}
 #{115}{}{...when dinosaurs roamed the earth...}
-{115}{}{…当恐龙在地球上漫游时。。。}
+{115}{}{…当恐龙在地球上漫游时...}
 #{116}{}{...the mayor put everyone in their place. Shit like you, we'd have sent to Golgotha!}
 {116}{}{…市长让每个人都各就各位。像你这样的混蛋，我们早就把他送到戈各他了！}
 #{117}{}{Those days are long gone, old man.}

@@ -11,11 +11,11 @@
 #{105}{}{*Script error*}
 {105}{}{*脚本错误*}
 #{108}{}{Not that I'm an advocate of such measures, it just sort of... Happened, you know. Look, outsider, here's 1000$ to keep your mouth shut, keep it down now, will you?}
-{108}{}{并不是说我提倡这样的措施，只是有点。。。发生了什么，你知道的。听着，局外人，这有1000块钱让你闭嘴，小声点，好吗？}
+{108}{}{并不是说我提倡这样的措施，只是有点...发生了什么，你知道的。听着，局外人，这有1000块钱让你闭嘴，小声点，好吗？}
 #{109}{}{I know how to keep my mouth shut when the money's right...}
-{109}{}{我知道在有钱的时候该怎么闭嘴。。。}
+{109}{}{我知道在有钱的时候该怎么闭嘴...}
 #{110}{}{Well, well, well. What do we have here? Another radiated bonebag. He-he... Like, a bag with bones in it! [talks to brother] Did you hear that, brother!? A bonebag! Pft-ha-ha-ha-ha!}
-{110}{}{好吧，好吧，好吧。我们这里有什么？另一个辐射的邦巴格。他他。。。就像，一个包里有骨头！你听到了吗，兄弟！？一个笨蛋！哈哈哈！}
+{110}{}{好吧，好吧，好吧。我们这里有什么？另一个辐射的邦巴格。他他...就像，一个包里有骨头！你听到了吗，兄弟！？一个笨蛋！哈哈哈！}
 #{111}{}{You can laugh all you want, funny guys. When Robert takes away your sister, you won't be laughing anymore.}
 {111}{}{你想笑就笑吧，有趣的家伙。当罗伯特带走你妹妹时，你就不会再笑了。}
 #{112}{}{If my presence amuses you so much, then I'll just get out of here.}
@@ -33,13 +33,13 @@
 #{118}{}{Way to go, fighters! Off to war!}
 {118}{}{加油，战士们！去打仗！}
 #{120}{}{Where do you think you're going, you piece of brahmin dung?}
-{120}{}{你以为你要去哪里，你这个婆罗门的混蛋？}
+{120}{}{你以为你要去哪里，你这个双头牛的混蛋？}
 #{121}{}{Hey... What do you want, guys?}
-{121}{}{嘿。。。你们想要什么？}
+{121}{}{嘿...你们想要什么？}
 #{122}{}{To go through your pockets, in case some stray keys wandered in there!}
 {122}{}{去你的口袋里找找，以防有钥匙在里面乱丢！}
 #{123}{}{I... Don't have your keys...}
-{123}{}{一、 。。。没有钥匙。。。}
+{123}{}{一、 ...没有钥匙...}
 #{124}{}{Shut up!}
 {124}{}{闭嘴！}
 #{125}{}{ }
@@ -51,6 +51,6 @@
 #{128}{}{Let's split before we get busted!}
 {128}{}{在我们被抓到之前先分头行动！}
 #{1108}{}{Not that I'm an advocate of such measures, it just sort of... Happened, you know. Look, outsider, here's 1000$ to keep your mouth shut, keep it down now, will you?}
-{1108}{}{并不是说我提倡这样的措施，只是有点。。。发生了什么，你知道的。听着，局外人，这有1000块钱让你闭嘴，小声点，好吗？}
+{1108}{}{并不是说我提倡这样的措施，只是有点...发生了什么，你知道的。听着，局外人，这有1000块钱让你闭嘴，小声点，好吗？}
 #{1117}{}{Ha! [talks to brother] Hey, brother. I guess it's time to to turn out somebody's pockets. That scum of the earth is asking for it again! [talks to you] But mark my words, outsider. If we don't find the keys on him - it would be your last joke.}
 {1117}{}{哈！嘿，兄弟。我想是时候掏出别人的口袋了。地球上的人渣又来找我了！但记住我的话，局外人。如果我们找不到他身上的钥匙-那将是你最后的笑话。}

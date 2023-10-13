@@ -7,7 +7,7 @@
 #{103}{}{Take Adam's letter to his family in Rat Hole.}
 {103}{}{把亚当的信带给他在老鼠洞的家人。}
 #{104}{}{Guard the grazing brahmin herd.}
-{104}{}{守护放牧的婆罗门牧群。}
+{104}{}{守护放牧的双头牛牧群。}
 #{105}{}{Help the hunters hunt geckos.}
 {105}{}{帮助猎人猎杀壁虎。}
 #{200}{}{Get 3 stimpaks, 2 Buffouts and an antidote. If possible, get a doctor's bag. Bring everything to doctor Moore.}
@@ -31,7 +31,7 @@
 #{300}{}{Strike a deal between the Crimson Caravan and New Hope.}
 {300}{}{在深红色大篷车和新希望之间达成协议。}
 #{301}{}{Secure the supply of Peter's brahmin fodder for the Crimson Caravan.}
-{301}{}{确保彼得的婆罗门饲料供应给深红色的商队。}
+{301}{}{确保彼得的双头牛饲料供应给深红色的商队。}
 #{302}{}{Kill Tadeus, a former member of The Children of the Cathedral.}
 {302}{}{杀死塔德乌斯，一个前大教堂儿童会成员。}
 #{303}{}{Eradicate all mantises from Peter's field.}
@@ -59,7 +59,7 @@
 #{314}{}{Acquire the valuable necklace of Lucy Carpenter for Nicol.}
 {314}{}{为尼科尔获得露西·卡彭特的贵重项链。}
 #{315}{}{Kill the Frederyk's Dream brahmin.}
-{315}{}{杀死弗雷德里克的梦想婆罗门。}
+{315}{}{杀死弗雷德里克的梦想双头牛。}
 #{316}{}{Close down the Crater, the pub which competes with Sedit Caravans.}
 {316}{}{关闭与塞迪特商队竞争的“火山口”酒吧。}
 #{317}{}{Go to the meeting with Sedit Caravans instead of Frederyk.}

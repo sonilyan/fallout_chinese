@@ -53,11 +53,11 @@
 #{264}{}{It's hard to say who is right and who is not.}
 {264}{}{很难说谁对谁错。}
 #{265}{}{Come on! He could reject the offer or rebuild what he broke. But no - he just said "screw you" and threatened us with his friends from the garrison. Such a bitch...}
-{265}{}{加油！他可以拒绝这个提议，或者重建他所破坏的东西。但是没有-他只是说“去你的”然后用他驻军的朋友威胁我们。真是个婊子。。。}
+{265}{}{加油！他可以拒绝这个提议，或者重建他所破坏的东西。但是没有-他只是说“去你的”然后用他驻军的朋友威胁我们。真是个婊子...}
 #{266}{}{That's what I think, too! But it's not the case. Instead of fixing what was broken, he just said 'screw you' and threatened us with his friends from the garrison. Such a bitch...}
-{266}{}{我也是这么想的！但事实并非如此。他没有修理坏了的东西，只是说了句“去你的”，还用他驻军的朋友威胁我们。真是个婊子。。。}
+{266}{}{我也是这么想的！但事实并非如此。他没有修理坏了的东西，只是说了句“去你的”，还用他驻军的朋友威胁我们。真是个婊子...}
 #{267}{}{Well, Yes. Everyone says that, until something like that happens to them. But you know what he did? Instead of fixing what was broken, he just said 'screw you' and threatened us with his friends from the garrison. Such a bitch...}
-{267}{}{嗯，是的。每个人都这么说，直到类似的事情发生在他们身上。但你知道他做了什么吗？他没有修理坏了的东西，只是说了句“去你的”，还用他驻军的朋友威胁我们。真是个婊子。。。}
+{267}{}{嗯，是的。每个人都这么说，直到类似的事情发生在他们身上。但你知道他做了什么吗？他没有修理坏了的东西，只是说了句“去你的”，还用他驻军的朋友威胁我们。真是个婊子...}
 #{268}{}{What did you do?}
 {268}{}{你做了什么？}
 #{269}{}{We had to deal with it on our own. We fixed the wagon somehow, as for the technician, that would be great to sabotage him somehow, as a goodbye present.}
@@ -81,7 +81,7 @@
 #{281}{}{Then the offer is canceled.}
 {281}{}{那么这个提议就取消了。}
 #{282}{}{Yes... You're right. OK, I agree.}
-{282}{}{对。。。你说得对。好吧，我同意。}
+{282}{}{对...你说得对。好吧，我同意。}
 #{283}{}{Maybe so, but those things will not work. I won't participate in the theft. And I won't take any risks}
 {283}{}{也许是这样，但这些都行不通。我不会参与盗窃。我不会冒任何风险}
 #{284}{}{I understand your doubts, but trust me. I know what to do.}
@@ -97,7 +97,7 @@
 #{290}{}{You convinced the caravaneer to commit robbery. He will wait for you near the fence next to the garage.}
 {290}{}{你说服了商队老板去抢劫。他会在车库旁边的栅栏边等你。}
 #{291}{}{Yeah, it would be so pleasant...}
-{291}{}{是啊，那太好了。。。}
+{291}{}{是啊，那太好了...}
 #{292}{}{This is the best place to climb over the fence. It seems that on the other side there are stairs, so it will not be difficult to go back.}
 {292}{}{这是翻越篱笆的最好地方。好像那边有楼梯，回去也不难。}
 #{293}{}{Help me to climb up and get back to the tent. You saw nothing and heard nothing.}
@@ -107,7 +107,7 @@
 #{295}{}{For your actions, you lose karma, but increase sneak skill by 2%.}
 {295}{}{对于你的行为，你失去业力，但增加2%的偷袭技能。}
 #{296}{}{Calm, don't give yourself away. We're just walking around...}
-{296}{}{冷静点，别自暴自弃。我们只是四处走走。。。}
+{296}{}{冷静点，别自暴自弃。我们只是四处走走...}
 #{1250}{}{That's great, wanderer. What do you want from a simple worker?}
 {1250}{}{太好了，流浪者。你想从一个简单的工人那里得到什么？}
 #{1278}{}{Are you out of your mind? Stealing is a risky business!}

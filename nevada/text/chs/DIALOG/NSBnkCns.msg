@@ -9,7 +9,7 @@
 #{104}{}{This console requires a VERY complex password.}
 {104}{}{这个控制台需要一个非常复杂的密码。}
 #{105}{}{Verified. Depressurizing antechamber...}
-{105}{}{已证实的。前室减压。。。}
+{105}{}{已证实的。前室减压...}
 #{106}{}{Done}
 {106}{}{多恩}
 #{107}{}{Password required}

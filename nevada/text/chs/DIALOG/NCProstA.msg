@@ -15,7 +15,7 @@
 #{107}{}{Soon, streets will talk of the madam who tragically met her end to a sudden, mysterious "disease".}
 {107}{}{很快，街上就会有人谈论这位女士，她不幸遭遇了一场突然而神秘的“疾病”。}
 #{110}{}{Thanks for the light. I'm sick of the darkness - at some nights you can't tell customers from thugs...}
-{110}{}{谢谢你的光。我厌倦了黑暗-有些夜晚你无法分辨顾客和暴徒。。。}
+{110}{}{谢谢你的光。我厌倦了黑暗-有些夜晚你无法分辨顾客和暴徒...}
 #{111}{}{ If you want one of my girls, I'll give you a small discount for your trouble.}
 {111}{}{如果你想要我的一个女孩，我会给你一个小的折扣。}
 #{112}{}{ Hmm. You're still here, even after your illness? I've lost a lot of my own girls to it. Here, take a bit of money. Treat yourself to something nice.}
@@ -43,11 +43,11 @@
 #{123}{}{Thank you, but I'm not interested.}
 {123}{}{谢谢，但我不感兴趣。}
 #{124}{}{Uh... [she gives you a quizzical look] ...you don't know? Listen, hire my girls and you can find out. Actions speak louder than words, yeah?}
-{124}{}{休斯敦大学。。。[她疑惑地看了你一眼]…你不知道？听着，雇我的女儿，你会发现的。行动胜于雄辩，是吗？}
+{124}{}{Uh...[她疑惑地看了你一眼]…你不知道？听着，雇我的女儿，你会发现的。行动胜于雄辩，是吗？}
 #{125}{}{Is it... Safe?}
-{125}{}{它是。。。安全吗？}
+{125}{}{它是...安全吗？}
 #{126}{}{Oh yeah, yeah! Of course! Perfectly safe... The same-sex option is the safest... Anyway, I'm not talking about that whores near the nightclub. Gonna catch something nasty with those girls.}
-{126}{}{哦，耶，耶！当然！非常安全。。。同性选择是最安全的。。。总之，我不是说夜总会附近的妓女。我要和那些女孩搞点不愉快的事。}
+{126}{}{哦，耶，耶！当然！非常安全...同性选择是最安全的...总之，我不是说夜总会附近的妓女。我要和那些女孩搞点不愉快的事。}
 #{127}{}{Nasty? Why?}
 {127}{}{恶心？为什么？}
 #{128}{}{Oh, they don't even wash, dear. They'll get you sick, they're *crawling* with it. But not my girls - they're all clean.}
@@ -55,7 +55,7 @@
 #{129}{}{ dollars. Best price in the city.}
 {129}{}{美元。这个城市最好的价格。}
 #{130}{}{For us girls, I can knock a bit off the price. Just for you, honey. Let's say...}
-{130}{}{对我们女孩子来说，我可以把价钱降一点。只为你，亲爱的。比如说。。。}
+{130}{}{对我们女孩子来说，我可以把价钱降一点。只为你，亲爱的。比如说...}
 #{131}{}{ dollars. That's a special price, just for you and your boss.}
 {131}{}{美元。这是一个特价，只给你和你老板。}
 #{132}{}{Here's the money. It had better be worth it.}
@@ -75,9 +75,9 @@
 #{139}{}{They say you have a good relationship with Thompson. Is that true?}
 {139}{}{他们说你和汤普森关系很好。是真的吗？}
 #{140}{}{Oh, Thompson... You know, he's gonna make me his wife after he wins this war... Wait, why am I telling you this? Never mind, it's personal.}
-{140}{}{哦，汤普森。。。你知道，他赢了这场战争后会娶我为妻。。。等等，我为什么要告诉你这些？没关系，这是私人的。}
+{140}{}{哦，汤普森...你知道，他赢了这场战争后会娶我为妻...等等，我为什么要告诉你这些？没关系，这是私人的。}
 #{141}{}{Hey, you just looking or... Oh, wow, it's you! You came to the right place. Someone like you deserves only the best.}
-{141}{}{嘿，你只是看看还是。。。哦，哇，是你！你来对地方了。像你这样的人只配得到最好的。}
+{141}{}{嘿，你只是看看还是...哦，哇，是你！你来对地方了。像你这样的人只配得到最好的。}
 #{150}{}{Mr. Thompson sent me to look into the attacks on your employees.}
 {150}{}{汤普森先生派我来调查对你们雇员的袭击。}
 #{151}{}{[Her smile disappears] Really? It used to be good here, until those fucking cocksuckers moved in. Roughing up my girls, threatening me - ME! I was here first! You ought to show them who really owns this street.}
@@ -93,7 +93,7 @@
 #{156}{}{Okay. I'll get it done.}
 {156}{}{可以。我会搞定的。}
 #{157}{}{I know one of those boys... He's named Stinky Grizzly. I don't know if they're local or not, but they started hanging around here recently. They think they're such hot shit... They've got no idea the shit they've stepped in.}
-{157}{}{我认识其中一个男孩。。。他叫臭灰熊。我不知道他们是不是本地人，但他们最近开始在这里闲逛。他们觉得自己是个混蛋。。。他们根本不知道自己干了什么。}
+{157}{}{我认识其中一个男孩...他叫臭灰熊。我不知道他们是不是本地人，但他们最近开始在这里闲逛。他们觉得自己是个混蛋...他们根本不知道自己干了什么。}
 #{158}{}{Do you really care? Did Mr. Thompson send you to deal with this problem or to just ask a lot of stupid questions?}
 {158}{}{你真的在乎吗？汤普森先生派你来是为了解决这个问题还是只是问了很多愚蠢的问题？}
 #{159}{}{I don't care what you do to them, I just don't want to see them interrupting with my business anymore.}

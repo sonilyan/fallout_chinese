@@ -25,21 +25,21 @@
 #{120}{}{Haven't seen for Jay Kukish for a long time.}
 {120}{}{好久没见杰伊·库基什了。}
 #{200}{}{Take one ride on the chopper - and you'll never want to trample over the Wasteland with boots...}
-{200}{}{坐一次直升机-你永远不会想穿着靴子践踏荒地。。。}
+{200}{}{坐一次直升机-你永远不会想穿着靴子践踏荒地...}
 #{201}{}{The car carries the body, but bike carries the soul...}
-{201}{}{汽车承载着身体，而自行车承载着灵魂。。。}
+{201}{}{汽车承载着身体，而自行车承载着灵魂...}
 #{202}{}{The Lord didn't fail, changing the steel bird to an iron horse...}
-{202}{}{上帝没有失败，把钢鸟变成了铁马。。。}
+{202}{}{上帝没有失败，把钢鸟变成了铁马...}
 #{203}{}{Live for riding, riding for a living...}
-{203}{}{为骑行而活，为骑行而活。。。}
+{203}{}{为骑行而活，为骑行而活...}
 #{204}{}{We are just like devils on wheels!}
 {204}{}{我们就像车轮上的魔鬼！}
 #{205}{}{The best music is the roar of our engines.}
 {205}{}{最好的音乐是我们引擎的轰鸣声。}
 #{206}{}{Gasoline replaced blood in our veins long ago...}
-{206}{}{汽油在很久以前取代了我们血管里的血液。。。}
+{206}{}{汽油在很久以前取代了我们血管里的血液...}
 #{207}{}{Our essence - brutality... Our God - hatred...}
-{207}{}{我们的本质-残忍。。。我们的上帝-仇恨。。。}
+{207}{}{我们的本质-残忍...我们的上帝-仇恨...}
 #{1110}{}{Gal, there are no strangers here !}
 {1110}{}{姑娘，这里没有陌生人！}
 #{1111}{}{Ouch, get lost!}

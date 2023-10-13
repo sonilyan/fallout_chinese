@@ -19,7 +19,7 @@
 #{110}{}{You've poisoned this well. Have you forgotten?}
 {110}{}{你毒死了这口井。你忘了吗？}
 #{111}{}{Damn, the water's poisoned...}
-{111}{}{该死，水中毒了。。。}
+{111}{}{该死，水中毒了...}
 #{112}{}{You've already poisoned this well and doing it again won't make any sense for some time.}
 {112}{}{你已经毒死了这口井，再做一次在一段时间内没有任何意义。}
 #{113}{}{The water is already poisoned.}

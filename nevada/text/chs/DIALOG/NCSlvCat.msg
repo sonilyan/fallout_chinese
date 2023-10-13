@@ -13,29 +13,29 @@
 #{106}{}{::hic::}
 {106}{}{●hic:：}
 #{107}{}{That... Don't... Ohh...}
-{107}{}{那个。。。不要。。。哦。。。}
+{107}{}{那个...不要...哦...}
 #{108}{}{He's had enough.}
 {108}{}{他受够了。}
 #{110}{}{Shit! I've got to keep these pages clean...}
-{110}{}{倒霉！我得把这些纸保持干净。。。}
+{110}{}{倒霉！我得把这些纸保持干净...}
 #{111}{}{Mine... All mine...}
-{111}{}{我的。。。都是我的。。。}
+{111}{}{我的...都是我的...}
 #{112}{}{It's hard to turn the pages with my left hand...}
-{112}{}{我很难用左手翻页。。。}
+{112}{}{我很难用左手翻页...}
 #{113}{}{Yeah, girl... Show it to me...}
-{113}{}{是啊，女孩。。。给我看看。。。}
+{113}{}{是啊，女孩...给我看看...}
 #{114}{}{I never knew women like this existed.}
 {114}{}{我从没见过这样的女人。}
 #{115}{}{Is this really what they look like, when...?}
-{115}{}{这真的是他们的样子吗，当。。。？}
+{115}{}{这真的是他们的样子吗，当...？}
 #{116}{}{If only these weren't just photos...}
-{116}{}{如果这些不仅仅是照片。。。}
+{116}{}{如果这些不仅仅是照片...}
 #{117}{}{A dream come true!}
 {117}{}{梦想成真！}
 #{118}{}{Beautiful!}
 {118}{}{美丽的！}
 #{119}{}{What I wouldn't give to have lived then...}
-{119}{}{我不愿意活在那时。。。}
+{119}{}{我不愿意活在那时...}
 #{120}{}{Where is it?!}
 {120}{}{它在哪里？！}
 #{121}{}{It was right here!}
@@ -59,7 +59,7 @@
 #{130}{}{Hey, you stop right there! You took my magazine, I know it. Don't even lie to me! Show me what you're carrying!}
 {130}{}{嘿，你别动！你拿走了我的杂志，我知道。别骗我！给我看看你带的是什么！}
 #{131}{}{But I didn't...}
-{131}{}{但我没有。。。}
+{131}{}{但我没有...}
 #{132}{}{Okay, here you go. Sorry for trying to steal from you.}
 {132}{}{好的，给你。抱歉，我想偷你的东西。}
 #{133}{}{Put a hand on me and you'll lose more than your magazine.}
@@ -69,7 +69,7 @@
 #{135}{}{I mean it! Show me everything you've got, or else!}
 {135}{}{我是认真的！把你所有的东西都给我看看，否则！}
 #{136}{}{I knew it! I knew you took it! Don't you try that again, or... Or else!}
-{136}{}{我就知道！我就知道你拿走了！你不要再试一次，或者。。。否则！}
+{136}{}{我就知道！我就知道你拿走了！你不要再试一次，或者...否则！}
 #{137}{}{Well, well, well.}
 {137}{}{好吧，好吧，好吧。}
 #{138}{}{Hey, get back here!}
@@ -77,13 +77,13 @@
 #{139}{}{[Run!]}
 {139}{}{[快跑！]}
 #{140}{}{Shit, you really don't have it...what the hell? Who else could have...?}
-{140}{}{妈的，你真的没有…怎么了？还有谁能。。。？}
+{140}{}{妈的，你真的没有…怎么了？还有谁能...？}
 #{141}{}{You're lucky I let you try that. Next time, I'll give you one of my magazines... One bullet at a time.}
-{141}{}{你很幸运我让你试试。下次，我会给你一本我的杂志。。。一次一颗子弹。}
+{141}{}{你很幸运我让你试试。下次，我会给你一本我的杂志...一次一颗子弹。}
 #{142}{}{Okay, okay, jeez. I'm sorry, alright?}
 {142}{}{好吧，好吧，天哪。对不起，好吗？}
 #{143}{}{Okay, I'm sorry. But... What are you doing here?}
-{143}{}{好吧，对不起。但是。。。你在这里干什么？}
+{143}{}{好吧，对不起。但是...你在这里干什么？}
 #{144}{}{Uh, this isn't my room? Oh, sorry. Too much drinking, I guess.}
 {144}{}{呃，这不是我的房间？哦，对不起。我想是喝多了吧。}
 #{145}{}{None of your business. I go where I want. You'd better stay out of my way.}
@@ -101,7 +101,7 @@
 #{151}{}{Okay, you got me fair and square.}
 {151}{}{好吧，你说得对。}
 #{152}{}{So now you want to cut a deal huh? Uh... Okay, 50 bucks and it's yours. I don't want to give it up, but I need the money.}
-{152}{}{所以现在你想达成协议？休斯敦大学。。。好吧，50美元，这是你的。我不想放弃，但我需要钱。}
+{152}{}{所以现在你想达成协议？Uh...好吧，50美元，这是你的。我不想放弃，但我需要钱。}
 #{153}{}{Fifty?! I can buy another in any shop for five!}
 {153}{}{五十个？！我可以在任何一家商店花五美元再买一个！}
 #{154}{}{It's a deal. Here's the money.}
@@ -117,17 +117,17 @@
 #{159}{}{Aw man, I was sure this was my room this time! Sorry!}
 {159}{}{哦，伙计，这次我肯定这是我的房间！对不起的！}
 #{160}{}{Well... Money's more important than pleasure. Okay. Just be careful not to tear it or... You know.}
-{160}{}{好。。。金钱比快乐更重要。可以。小心别把它撕了或者。。。你知道的。}
+{160}{}{好...金钱比快乐更重要。可以。小心别把它撕了或者...你知道的。}
 #{161}{}{See you.}
 {161}{}{再见。}
 #{162}{}{Fine, fine! I'll take 35 bucks, but you're killing me here! At least then I can eat a decent meal for once...}
-{162}{}{很好，很好！我要35块钱，但你要杀了我！至少我能吃一顿像样的饭。。。}
+{162}{}{很好，很好！我要35块钱，但你要杀了我！至少我能吃一顿像样的饭...}
 #{163}{}{Fine, I'll pay 35 dollars.}
 {163}{}{好吧，我付35美元。}
 #{164}{}{Still too rich for my blood. Keep it.}
 {164}{}{对我的血液来说还是太丰富了。留着吧。}
 #{165}{}{What?! I bartered a 10mm pistol for this! Is it really only 5 bucks? Fuck! Goddamn it... But I still need to make up for my lost gun, so 50 bucks. No less.}
-{165}{}{什么？！我用一把10毫米口径的手枪换了这个！真的只有5块钱吗？性交！该死的。。。但我还需要弥补我丢失的枪，所以50美元。同样如此。}
+{165}{}{什么？！我用一把10毫米口径的手枪换了这个！真的只有5块钱吗？性交！该死的...但我还需要弥补我丢失的枪，所以50美元。同样如此。}
 #{1132}{}{Okay, here you go. Sorry for trying to steal from you.}
 {1132}{}{好的，给你。抱歉，我想偷你的东西。}
 #{1134}{}{Alright, search me. You won't find anything.}

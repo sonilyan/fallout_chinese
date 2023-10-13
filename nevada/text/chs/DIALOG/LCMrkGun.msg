@@ -7,13 +7,13 @@
 #{110}{}{Hello wanderer! Don't pass by Quok's family business! We always happy with new visitors and won't let you go without some excellent goodies! Check out my new weapon stock. Maybe you'll find something fitting your holster.}
 {110}{}{你好，流浪者！别错过库克的家族事业！我们对新来的客人总是很满意，不会让你没有好东西就走的！看看我的新武器。也许你会找到适合你枪套的东西。}
 #{111}{}{What a cold-blooded move! But sorry, I have to raise the price since some bastard just robbed us...}
-{111}{}{多么冷血的举动！但是对不起，我必须提高价格，因为有个混蛋刚刚抢劫了我们。。。}
+{111}{}{多么冷血的举动！但是对不起，我必须提高价格，因为有个混蛋刚刚抢劫了我们...}
 #{112}{}{[Buy weapon]}
 {112}{}{[购买武器]}
 #{113}{}{Hey! I just saw someone jumping into your yard! I think that was the thief!}
 {113}{}{嘿！我刚看见有人跳进你的院子！我想那是小偷！}
 #{114}{}{There's some poor fellow who can't find a job. Maybe you could make use of him somewhere in a storeroom? He won't ask much...}
-{114}{}{有个可怜的家伙找不到工作。也许你可以在储藏室里利用他？他不会要求太多。。。}
+{114}{}{有个可怜的家伙找不到工作。也许你可以在储藏室里利用他？他不会要求太多...}
 #{115}{}{Don't need it, thanks.}
 {115}{}{不用了，谢谢。}
 #{116}{}{Job you say? Well, I can think something out. Not for kid-gloves.  Tell him to visit me, we'll talk.}
@@ -23,7 +23,7 @@
 #{118}{}{You *sure* you don't need anything else?}
 {118}{}{你确定你不需要其他东西？}
 #{119}{}{Let's take a look again...}
-{119}{}{让我们再看看。。。}
+{119}{}{让我们再看看...}
 #{120}{}{No, bye.}
 {120}{}{不，再见。}
 #{129}{}{Dammit! When I get him!!..}
@@ -47,9 +47,9 @@
 #{138}{}{You came in just in time! Prospectors found an excellent weapon - heavy machine gun, which fires rifle rounds. I was think about selling it someone. Sheriff would gladly buy it but for a small price. Maybe your money are more willing? Anyway, I'll just leave it here and you think about the offer.}
 {138}{}{你来得正是时候！探矿者发现了一种极好的武器——重型机枪，可以发射步枪子弹。我想把它卖给别人。要不是价钱便宜，警长很乐意买下它。也许你的钱更愿意？不管怎样，我就把它留在这里，你考虑一下报价。}
 #{140}{}{You know, your assortment lacks something serious - something that shoots... EXPLOSIVES! Might come in handy for me.}
-{140}{}{你知道吗，你的产品缺乏严肃的东西-一些可以射击的东西。。。炸药！可能对我有用。}
+{140}{}{你知道吗，你的产品缺乏严肃的东西-一些可以射击的东西...炸药！可能对我有用。}
 #{141}{}{I see you value some heavy army weaponry. Such things are not for self defense. Anyway, the Sheriff instantly buys any serious weapon I find... For a cheap price, of course.}
-{141}{}{我看你很看重一些重武器。这样的事情不是为了自卫。不管怎样，警长会立刻买下我找到的任何武器。。。当然是便宜的价格。}
+{141}{}{我看你很看重一些重武器。这样的事情不是为了自卫。不管怎样，警长会立刻买下我找到的任何武器...当然是便宜的价格。}
 #{142}{}{Cheap? You know, I can offer more than Sheriff. Let me know when you have something in stock.}
 {142}{}{便宜的？你知道，我能提供的不仅仅是警长。有货时告诉我。}
 #{143}{}{[Smiles and nods] Why yes, there's grenade launcher and 40mm ammunition packs for it. If you want, you can buy it before Sheriff beats you. But don't tell the cops where did you get this baby.}
@@ -69,7 +69,7 @@
 #{162}{}{Maybe you can advice someone with better stock?}
 {162}{}{也许你可以建议一个有更好股票的人？}
 #{163}{}{No one besides me... And police with mormons. But these ones won't be traded with, rather opposite - they buy all the good guns and give me away any kind of pipe trash. [he sniffs] And then they are surprised that I can't sell a damn thing...}
-{163}{}{除了我没有人。。。警察和摩门教徒。但这些枪是不会被交易的，恰恰相反——他们买了所有的好枪，把任何一种烟斗垃圾都给了我。[他嗅了嗅]然后他们惊讶地发现我一个该死的东西都卖不出去。。。}
+{163}{}{除了我没有人...警察和摩门教徒。但这些枪是不会被交易的，恰恰相反——他们买了所有的好枪，把任何一种烟斗垃圾都给了我。[他嗅了嗅]然后他们惊讶地发现我一个该死的东西都卖不出去...}
 #{164}{}{Understood, will keep in mind.}
 {164}{}{明白了，会记住的。}
 #{170}{}{Do you know anything about Sheriff Burton's weapon?}
@@ -87,7 +87,7 @@
 #{176}{}{What's so difficult?}
 {176}{}{什么这么难？}
 #{177}{}{The magnetic properties of metals, aerodynamics, mass balance... To be clear, it's pure physics and mathematics. If you want to learn, the article had all the necessary explanations. Just pay 200 bucks for the information.}
-{177}{}{金属的磁性，空气动力学，质量平衡。。。很明显，这是纯物理和数学。如果你想学习，这篇文章有所有必要的解释。只要花200美元就可以得到信息。}
+{177}{}{金属的磁性，空气动力学，质量平衡...很明显，这是纯物理和数学。如果你想学习，这篇文章有所有必要的解释。只要花200美元就可以得到信息。}
 #{178}{}{All right, here's the money.}
 {178}{}{好吧，这是钱。}
 #{179}{}{Let's change the topic.}

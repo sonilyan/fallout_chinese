@@ -7,7 +7,7 @@
 #{103}{}{Thank you for your efforts, but we still have to go.}
 {103}{}{谢谢你的努力，但我们还得走。}
 #{110}{}{[The woman looks up quickly when you enter the room, but when she sees you, only gives you a look of empty disappointment] Oh... If you're selling something, we're not buying. Or joining.}
-{110}{}{[当你走进房间时，那个女人很快抬起头来，但当她看到你时，只给了你一个空洞失望的眼神]哦。。。如果你要卖东西，我们不买。或者加入。}
+{110}{}{[当你走进房间时，那个女人很快抬起头来，但当她看到你时，只给了你一个空洞失望的眼神]哦...如果你要卖东西，我们不买。或者加入。}
 #{111}{}{No, I just wanted to ask a local a few questions.}
 {111}{}{不，我只是想问当地人几个问题。}
 #{112}{}{Then you and I have nothing to talk about. [Leave]}
@@ -27,7 +27,7 @@
 #{119}{}{}
 {119}{}{}
 #{120}{}{Essie Gate. I'm just a housewife... So don't get any ideas.}
-{120}{}{埃西门。我只是个家庭主妇。。。所以不要有任何想法。}
+{120}{}{埃西门。我只是个家庭主妇...所以不要有任何想法。}
 #{121}{}{What's there to tell? Walk around Reno and see everything you need to know. There's not much worth, and what little there is, everyone's already fighting over. But it's still better than the rest of Nevada, so what choice do we have?}
 {121}{}{有什么好说的？绕着雷诺走一圈，看看你想知道的一切。没有多少价值，也没有多少价值，每个人都在为之奋斗。但它仍然比内华达州的其他地方好，那我们还有什么选择呢？}
 #{122}{}{}
@@ -37,7 +37,7 @@
 #{124}{}{What's the story with your husband, again?}
 {124}{}{你丈夫又怎么了？}
 #{125}{}{About the situation with your husband... }
-{125}{}{关于你丈夫的情况。。。}
+{125}{}{关于你丈夫的情况...}
 #{126}{}{I'm new here. Can you tell me how to get settled in this town?}
 {126}{}{我是新来的。你能告诉我怎么在这个镇上定居吗？}
 #{127}{}{I have a note from a certain Robert that lived here. Do these mean anything to you?}
@@ -49,7 +49,7 @@
 #{130}{}{I'm new here. Can you tell me how to get settled in this town?}
 {130}{}{我是新来的。你能告诉我怎么在这个镇上定居吗？}
 #{131}{}{I can't help you. But... If you don't mind... Oh, never mind. I have nothing to pay you anyway.}
-{131}{}{我帮不了你。但是。。。如果你不介意。。。哦，没关系。反正我也没钱付你。}
+{131}{}{我帮不了你。但是...如果你不介意...哦，没关系。反正我也没钱付你。}
 #{132}{}{Can't pay? Well, then we have nothing to talk about.}
 {132}{}{付不起？好吧，那我们就没什么好谈的了。}
 #{133}{}{If you have nothing to pay, then pay me nothing. Tell me what you need.}
@@ -61,7 +61,7 @@
 #{136}{}{Okay, wait, wait, wait, now slow down and tell me exactly what happened!}
 {136}{}{好了，等等，等等，现在慢点告诉我到底发生了什么！}
 #{137}{}{Oh, sorry... }
-{137}{}{哦，对不起。。。}
+{137}{}{哦，对不起...}
 #{138}{}{Who's Robert?}
 {138}{}{罗伯特是谁？}
 #{139}{}{Who's Mark?}
@@ -77,7 +77,7 @@
 #{144}{}{That's all I need.}
 {144}{}{这就是我所需要的。}
 #{145}{}{Robert is my husband. He's a... A prospector, is what they call them. He looks for useful pre-war things in old ruins, then sells them to merchants.}
-{145}{}{罗伯特是我丈夫。他是个。。。他们称之为探矿者。他在旧废墟中寻找战前有用的东西，然后卖给商人。}
+{145}{}{罗伯特是我丈夫。他是个...他们称之为探矿者。他在旧废墟中寻找战前有用的东西，然后卖给商人。}
 #{146}{}{He was my husband's partner. A prospector, like Robert, just less experienced.}
 {146}{}{他是我丈夫的搭档。像罗伯特这样的探矿者，只是经验不足。}
 #{147}{}{Be happy you don't know who Mr. Wright is. He's one of Reno's business leaders. He owns these slums, meaning he owns us.}
@@ -87,13 +87,13 @@
 #{149}{}{Hawthorne, I think it's called. I don't know much about it, but they say no one's been inside since the War. Robert knew more.}
 {149}{}{霍桑，我想应该叫它。我不太清楚，但他们说战后没人在里面。罗伯特知道更多。}
 #{150}{}{Robert always sent us messages while he was out in the wasteland. But we... We haven't heard anything in a long time... }
-{150}{}{罗伯特在荒地里时总是给我们发信息。但是我们。。。我们很久没听到任何消息了。。。}
+{150}{}{罗伯特在荒地里时总是给我们发信息。但是我们...我们很久没听到任何消息了...}
 #{151}{}{So you will help us to find Robert?}
 {151}{}{你能帮我们找到罗伯特吗？}
 #{152}{}{First I need more information.}
 {152}{}{首先我需要更多的信息。}
 #{153}{}{Oh, of course... }
-{153}{}{哦，当然。。。}
+{153}{}{哦，当然...}
 #{154}{}{I'll be glad to help you.}
 {154}{}{我很乐意帮助你。}
 #{155}{}{No, I don't have time to do it. [Leave]}
@@ -109,7 +109,7 @@
 #{160}{}{What?! What is this?! Show me, now!}
 {160}{}{什么？！这是什么？！快给我看！}
 #{161}{}{Not so fast, woman. This delivery is worth money... }
-{161}{}{别那么快，女人。这次运送物有所值。。。}
+{161}{}{别那么快，女人。这次运送物有所值...}
 #{162}{}{Of course. Take it.}
 {162}{}{当然。拿去吧。}
 #{163}{}{Uh, shoot, I left it somewhere. I'll be right back.}
@@ -125,13 +125,13 @@
 #{168}{}{[He lowers her head, looking at you] I'll pay it. Every last crust of bread we have! Just give me the note!}
 {168}{}{[他低下头，看着你]我来付。我们所有的面包皮！把纸条给我！}
 #{169}{}{[She silently reads the text, then wearily closes her eyes] I knew it... I knew it would end like this... }
-{169}{}{[她默默地读着课文，然后疲惫地闭上眼睛]我知道。。。我知道结局会是这样。。。}
+{169}{}{[她默默地读着课文，然后疲惫地闭上眼睛]我知道...我知道结局会是这样...}
 #{170}{}{What?}
 {170}{}{什么？}
 #{171}{}{I don't really care... }
-{171}{}{我真的不在乎。。。}
+{171}{}{我真的不在乎...}
 #{172}{}{[She doesn't seem to hear you] Sooner or later it had to happen. Robert was good, but a military base? No, it was too dangerous... Too, too dangerous... }
-{172}{}{[她好像没听见你说的]迟早会发生的。罗伯特很好，但是一个军事基地？不，太危险了。。。太，太危险了。。。}
+{172}{}{[她好像没听见你说的]迟早会发生的。罗伯特很好，但是一个军事基地？不，太危险了...太，太危险了...}
 #{173}{}{You can say that again.}
 {173}{}{说得好。}
 #{174}{}{But wait, where's Mark?!}
@@ -139,13 +139,13 @@
 #{175}{}{Who?}
 {175}{}{谁？}
 #{176}{}{Robert's partner! He should know what happened there... If he's still alive.}
-{176}{}{罗伯特的搭档！他应该知道那里发生了什么。。。如果他还活着。}
+{176}{}{罗伯特的搭档！他应该知道那里发生了什么...如果他还活着。}
 #{177}{}{There was no second body. But why do you need him?}
 {177}{}{没有第二具尸体。但你为什么需要他？}
 #{178}{}{Listen... It's complicated. Our family lived off their work. They paid the rent and electricity by prospecting for Mr. Wright. Without them, our debts... We'll be lucky if he don't sell us into slavery. If Mark is alive, he could finish the job.}
-{178}{}{听。。。这很复杂。我们家靠工作为生。他们通过寻找赖特先生来支付房租和电费。没有他们，我们的债务。。。如果他不把我们卖作奴隶，我们就很幸运了。如果马克还活着，他就可以完成这项工作。}
+{178}{}{听...这很复杂。我们家靠工作为生。他们通过寻找赖特先生来支付房租和电费。没有他们，我们的债务...如果他不把我们卖作奴隶，我们就很幸运了。如果马克还活着，他就可以完成这项工作。}
 #{179}{}{What cruel laws you have here... }
-{179}{}{你这里有多么残酷的法律。。。}
+{179}{}{你这里有多么残酷的法律...}
 #{180}{}{Oh, yes. Mr. Wright is a heartless man. But you can't blame him. We are really in debt to him.}
 {180}{}{哦，是的。赖特先生是个无情的人。但你不能怪他。我们真的欠他的债。}
 #{181}{}{What if I talk to Wright?}
@@ -159,13 +159,13 @@
 #{185}{}{To Mr. Wright? He's not someone you can just... "talk" to. If you are going to step into his house, I can only give you this advice: choose your words carefully.}
 {185}{}{给赖特先生？他不是那种你可以与…交谈。如果你要走进他的家，我只能给你一个忠告：小心用词。}
 #{186}{}{Maybe, but they won't talk to us. They got so angry... I don't know why.}
-{186}{}{也许吧，但他们不会和我们说话。他们很生气。。。我不知道为什么。}
+{186}{}{也许吧，但他们不会和我们说话。他们很生气...我不知道为什么。}
 #{187}{}{Oh, thank you. Please, bring us news soon.}
 {187}{}{哦，谢谢你。请尽快给我们带来消息。}
 #{188}{}{Bye.}
 {188}{}{再见。}
 #{189}{}{Yes, we understand... }
-{189}{}{是的，我们明白。。。}
+{189}{}{是的，我们明白...}
 #{190}{}{Bye.}
 {190}{}{再见。}
 #{200}{}{About Mark.}
@@ -177,13 +177,13 @@
 #{203}{}{No, not yet.}
 {203}{}{不，还没有。}
 #{204}{}{So he cut and run? He could have at least told us what happened to Robert! That bastard! That... No, I can't think about that now. We have to leave. If no one completes that contract, then Mr. Wright will come for us. And you... Thank you for trying to help us.}
-{204}{}{所以他逃走了？他至少可以告诉我们罗伯特发生了什么事！那个混蛋！那个。。。不，我现在想不起来。我们得走了。如果没有人完成那份合同，那么莱特先生就会来找我们。和你。。。谢谢你帮助我们。}
+{204}{}{所以他逃走了？他至少可以告诉我们罗伯特发生了什么事！那个混蛋！那个...不，我现在想不起来。我们得走了。如果没有人完成那份合同，那么莱特先生就会来找我们。和你...谢谢你帮助我们。}
 #{205}{}{We'll see. Maybe there's still hope... }
-{205}{}{我们拭目以待。也许还有希望。。。}
+{205}{}{我们拭目以待。也许还有希望...}
 #{206}{}{Is that all? Hell, not even fed after the road... }
-{206}{}{就这些吗？他妈的，在路上之后连饭都没吃。。。}
+{206}{}{就这些吗？他妈的，在路上之后连饭都没吃...}
 #{207}{}{Mark fled the city, but I talked him into coming back. That's not going to solve your problem, though... }
-{207}{}{马克逃离了城市，但我说服他回来。但这不能解决你的问题。。。}
+{207}{}{马克逃离了城市，但我说服他回来。但这不能解决你的问题...}
 #{208}{}{}
 {208}{}{}
 #{209}{}{}
@@ -197,7 +197,7 @@
 #{213}{}{You're welcome.}
 {213}{}{不客气。}
 #{214}{}{What?! But how? ...it was you, wasn't it? Thank you, thank you! No one else would have done this for us! Wait... In Reno, everything has a price. If you don't know that yet - learn. [she holds out some sort of round device with wires sticking out of it] Robert wanted to improve his metal detector with this. We don't need it anymore, but maybe you can find a use for it. Again, thank you for everything! You've saved our lives!}
-{214}{}{什么？！但是怎么做。。。是你，不是吗？谢谢，谢谢！没有人会为我们做这些！等待。。。在雷诺，一切都有代价。如果你还不知道-学习。[她拿出一种圆形装置，里面有电线伸出]罗伯特想用这个改进他的金属探测器。我们不再需要它了，但也许你能找到它的用处。再次感谢你所做的一切！你救了我们的命！}
+{214}{}{什么？！但是怎么做...是你，不是吗？谢谢，谢谢！没有人会为我们做这些！等待...在雷诺，一切都有代价。如果你还不知道-学习。[她拿出一种圆形装置，里面有电线伸出]罗伯特想用这个改进他的金属探测器。我们不再需要它了，但也许你能找到它的用处。再次感谢你所做的一切！你救了我们的命！}
 #{215}{}{Take care.}
 {215}{}{当心。}
 #{1166}{}{Is that all?! Hell, I risked my own life! Give me that picture, that pile of books and a fresh sandwich from the table, and *then* I'll give you the note.}

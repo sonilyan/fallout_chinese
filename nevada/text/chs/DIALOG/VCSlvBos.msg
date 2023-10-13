@@ -17,15 +17,15 @@
 #{114}{}{To put a bullet in that head of yours! You deserve it!}
 {114}{}{把子弹射进你的脑袋！你活该！}
 #{115}{}{Seems like I got into the wrong place...}
-{115}{}{好像我进错地方了。。。}
+{115}{}{好像我进错地方了...}
 #{116}{}{Another one! Just great... The entrance to the ring is from the STREET! On the other side of the building, do you hear me?!}
-{116}{}{另一个！太好了。。。拳击场的入口是从街上进来的！在大楼的另一边，你听见了吗？！}
+{116}{}{另一个！太好了...拳击场的入口是从街上进来的！在大楼的另一边，你听见了吗？！}
 #{117}{}{Office is in the lobby, there is an administrator you can hash out everything with him. Hear me?}
 {117}{}{办公室在大厅里，有一个管理员，你可以和他讨论一切。听到了吗？}
 #{118}{}{What are you babbling about? We do not deal with high stuff! Do you hear me? WE DON'T HAVE DRUGS!}
 {118}{}{你在胡说什么？我们不处理高的东西！你听见了吗？我们没有毒品！}
 #{119}{}{Uh, understood...}
-{119}{}{呃，明白了。。。}
+{119}{}{呃，明白了...}
 #{120}{}{I'm not dealing in retail. There is administrator in the lobby. Hash out everything with him.}
 {120}{}{我不是做零售生意。大厅里有管理员。把一切都和他说清楚。}
 #{121}{}{Got it.}
@@ -49,7 +49,7 @@
 #{130}{}{If you don't want, don't answer.}
 {130}{}{如果你不想，不要回答。}
 #{131}{}{Ha, my friend, well, then I have a dozen reasons to get you to shut up... [pulls out a gun and smiles as if nothing happened]}
-{131}{}{哈，我的朋友，那么我有很多理由让你闭嘴。。。[掏出枪微笑着好像什么都没发生]}
+{131}{}{哈，我的朋友，那么我有很多理由让你闭嘴...[掏出枪微笑着好像什么都没发生]}
 #{132}{}{Hey, hey, hey!..}
 {132}{}{嘿，嘿，嘿！。。}
 #{133}{}{Which ones? Come on, tell me quick!}
@@ -61,23 +61,23 @@
 #{136}{}{I just want to get high! Want a lot of stuff to do it!}
 {136}{}{我只想兴奋！想要很多东西来做！}
 #{137}{}{Not this again... They are buying enough of slaves from us, so they won't need you.}
-{137}{}{又不是这个。。。他们从我们这里买了足够的奴隶，所以他们不需要你。}
+{137}{}{又不是这个...他们从我们这里买了足够的奴隶，所以他们不需要你。}
 #{138}{}{Uh... Wait a minute. [enable recording on the Pip-Boy] So you're saying that you are supplying the lab with slaves, right?}
-{138}{}{休斯敦大学。。。等一下。[启用Pip男孩的录音]所以你是说你在给实验室提供奴隶，对吧？}
+{138}{}{Uh...等一下。[启用Pip男孩的录音]所以你是说你在给实验室提供奴隶，对吧？}
 #{139}{}{Too bad.}
 {139}{}{太糟糕了。}
 #{140}{}{[Looks at your Pip-Boy] But... Nobody will know about this conversation.}
-{140}{}{但是。。。没有人会知道这次谈话。}
+{140}{}{但是...没有人会知道这次谈话。}
 #{141}{}{Hey, Hey, Hey! I'm just asking!}
 {141}{}{嘿，嘿，嘿！我只是问问！}
 #{142}{}{I don't care. It's none of my business..}
 {142}{}{我不在乎。这不关我的事。。}
 #{143}{}{Reeeally doubtful...}
-{143}{}{我真的很怀疑。。。}
+{143}{}{我真的很怀疑...}
 #{144}{}{Those guys don't deal that stuff in retail, so don't even think about it. There are a couple of their outlets in the city. Go to caravaneers, their couriers have settled there. Another one hangs out near "Hard Rock" cafe. That's it, get out of here. The junkies don't belong in here. We have enough of our own.}
 {144}{}{那些家伙不做零售生意，所以你想都别想。他们在城里有几家分店。去商队，他们的信使已经在那里定居了。另一个在“硬石”咖啡馆附近。就这样，离开这里。吸毒者不属于这里。我们自己的已经够多了。}
 #{145}{}{Uh... Wait a minute. [enable recording on the Pip-Boy] So do you know where this lab is located, right?}
-{145}{}{休斯敦大学。。。等一下。你知道这个实验室在哪里吗？}
+{145}{}{Uh...等一下。你知道这个实验室在哪里吗？}
 #{146}{}{Okay, I will look out.}
 {146}{}{好的，我会小心的。}
 #{147}{}{Can I first know what these slaves are meant for?}
@@ -85,7 +85,7 @@
 #{148}{}{Heavy physical labor.}
 {148}{}{繁重的体力劳动。}
 #{149}{}{Hmm... Is it possible to be more specific?}
-{149}{}{隐马尔可夫模型。。。有没有可能更具体一点？}
+{149}{}{Hmm...有没有可能更具体一点？}
 #{150}{}{I can't tell.}
 {150}{}{我不知道。}
 #{151}{}{Is that so? Then I can't sell. Ha!}
@@ -95,9 +95,9 @@
 #{153}{}{Well, too bad.}
 {153}{}{好吧，太糟糕了。}
 #{154}{}{Damn, you're well-spoken. You see, I learned that the Hoover dam lacks the workers lately. And, sooner or later, the chief of the dam will come to us... So, convince me, why should I sell the slaves to *you* rather than him.}
-{154}{}{妈的，你说得真好。你看，我知道胡佛大坝最近缺少工人。而且，总有一天，大坝的负责人会来找我们。。。所以，说服我，我为什么要把奴隶卖给你而不是他。}
+{154}{}{妈的，你说得真好。你看，我知道胡佛大坝最近缺少工人。而且，总有一天，大坝的负责人会来找我们...所以，说服我，我为什么要把奴隶卖给你而不是他。}
 #{155}{}{As I understand, there are people in the city fighting to control the dam...}
-{155}{}{据我所知，城里有人在为控制大坝而战斗。。。}
+{155}{}{据我所知，城里有人在为控制大坝而战斗...}
 #{156}{}{Ugh. Well, it's too complicated. I'm not going to convince you.}
 {156}{}{啊。嗯，太复杂了。我不会说服你的。}
 #{157}{}{Well, then I'll try to catch lady Luck's tits.}
@@ -129,7 +129,7 @@
 #{174}{}{Then what's that screaming about the escape I hear over the radio!?}
 {174}{}{那我从收音机里听到的逃跑的尖叫是什么声音！？}
 #{175}{}{Perhaps, one of the patrol's idea of a joke...}
-{175}{}{也许，巡逻队的一个笑话。。。}
+{175}{}{也许，巡逻队的一个笑话...}
 #{176}{}{When I find him, I'll personally bury him alive!}
 {176}{}{等我找到他，我会亲自把他活埋！}
 #{177}{}{Sure, boss.}
@@ -137,11 +137,11 @@
 #{178}{}{Hey, why are you still here!? Quickly find that joker!}
 {178}{}{嘿，你怎么还在这儿！？快找到那个小丑！}
 #{179}{}{Um... Boss, but how do we find him?}
-{179}{}{嗯。。。头儿，我们怎么找到他？}
+{179}{}{嗯...头儿，我们怎么找到他？}
 #{180}{}{Uh-h, you are just a bunch of boneheads! I hate you all so much!}
 {180}{}{呃，你只是一群白痴！我太恨你们了！}
 #{181}{}{Um... Boss...}
-{181}{}{嗯。。。头儿。。。}
+{181}{}{嗯...头儿...}
 #{182}{}{Also, count the slaves, you pecks!}
 {182}{}{还有，数一数奴隶，你们这些胆小鬼！}
 #{183}{}{Whatever you say, boss.}
@@ -153,12 +153,12 @@
 #{186}{}{So what?}
 {186}{}{那又怎么样？}
 #{1115}{}{Seems, I got into the wrong place...}
-{1115}{}{看来，我进错地方了。。。}
+{1115}{}{看来，我进错地方了...}
 #{1119}{}{Uh, understood...}
-{1119}{}{呃，明白了。。。}
+{1119}{}{呃，明白了...}
 #{1122}{}{You have a big mouth, gal. Watch it.}
 {1122}{}{你有张大嘴，姑娘。小心点。}
 #{1131}{}{Ha, my friend, well, then I have a dozen reasons to get you to shut up... [pulls out a gun and smiles as if nothing happened]}
-{1131}{}{哈，我的朋友，那么我有很多理由让你闭嘴。。。[掏出枪微笑着好像什么都没发生]}
+{1131}{}{哈，我的朋友，那么我有很多理由让你闭嘴...[掏出枪微笑着好像什么都没发生]}
 #{1141}{}{Hey, hey, hey! I'm just asking!}
 {1141}{}{嘿，嘿，嘿！我只是问问！}

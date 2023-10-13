@@ -5,7 +5,7 @@
 #{102}{}{Not the face! Anywhere but the face!}
 {102}{}{不是脸！除了脸以外的任何地方！}
 #{110}{}{I'm sorry to bother you sir, but can you spare some bread for a poor man? I'm hungry, you'd be saving a life for sure...}
-{110}{}{很抱歉打扰您，先生，您能给一个穷人留点面包吗？我饿了，你肯定会救一条命。。。}
+{110}{}{很抱歉打扰您，先生，您能给一个穷人留点面包吗？我饿了，你肯定会救一条命...}
 #{111}{}{You have a good view of the hotel from here. I'll give you some food if you can tell me who keeps painting the walls.}
 {111}{}{从这里你可以很好地看到酒店。如果你能告诉我谁一直在粉刷墙壁，我就给你一些食物。}
 #{112}{}{Sure, let's see what I have in my backpack.}
@@ -31,7 +31,7 @@
 #{122}{}{A delicious sandwich should fill you up!}
 {122}{}{一个美味的三明治会让你饱腹的！}
 #{123}{}{I can spare some brahmin milk, if you want.}
-{123}{}{如果你愿意，我可以给你一些婆罗门牛奶。}
+{123}{}{如果你愿意，我可以给你一些双头牛牛奶。}
 #{124}{}{}
 {124}{}{}
 #{150}{}{So, what can you tell me about the graffiti artist?}
@@ -65,9 +65,9 @@
 #{164}{}{I'll let you live, for now. If you lied to me, I'll be back.}
 {164}{}{我会让你活下去，现在。如果你骗我，我会回来的。}
 #{165}{}{Now, was that so hard? And to think, you actually wanted to be paid for that...}
-{165}{}{现在，有那么难吗？想想看，你真的想得到报酬。。。}
+{165}{}{现在，有那么难吗？想想看，你真的想得到报酬...}
 #{1110}{}{I'm sorry to bother you ma'am, but can you spare some bread for a poor man? I'm hungry, you'd be saving a life for sure...}
-{1110}{}{很抱歉打扰您，夫人，您能给一个穷人留点面包吗？我饿了，你肯定会救一条命。。。}
+{1110}{}{很抱歉打扰您，夫人，您能给一个穷人留点面包吗？我饿了，你肯定会救一条命...}
 #{1115}{}{Oh thank you ma'am, you're so kind! It's enough to bring tears to my eyes!}
 {1115}{}{噢，谢谢你，夫人，你真是太好了！足以让我热泪盈眶！}
 #{1151}{}{Oh, ma'am, you have no idea how grateful I am for your help! [he wipes tears from his unshaven cheeks]}

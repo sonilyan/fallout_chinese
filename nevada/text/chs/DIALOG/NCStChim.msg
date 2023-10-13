@@ -9,7 +9,7 @@
 #{109}{}{What is it now? You want chems, or bullshit small talk?}
 {109}{}{现在是什么？你想要化学，还是废话？}
 #{110}{}{Again?! I'm busy goddammit, how many times do I... Wait a minute, I don't know you. Who are you?! Guards!}
-{110}{}{再一次？！我他妈的很忙，我有多少次。。。等等，我不认识你。你是谁？！警卫！}
+{110}{}{再一次？！我他妈的很忙，我有多少次...等等，我不认识你。你是谁？！警卫！}
 #{111}{}{Calm down, I'm here to talk business.}
 {111}{}{冷静点，我是来谈生意的。}
 #{112}{}{If you call the guards, you won't live long enough to see them.}
@@ -32,7 +32,7 @@
 {120}{}{你怎么跟史崔克扯上关系的？}
 #{121}{}{What does Stryker need with a chemist?}
 {121}{}{史崔克需要药剂师做什么？}
-#{122}{}{Forget it, let�s talk about something else.}
+#{122}{}{Forget it, let??s talk about something else.}
 {122}{}{算了吧，我们谈点别的吧。}
 #{123}{}{[He rolls his eyes, exasperated] Chemistry! I'm not going to explain it to you. You wouldn't understand anyway.}
 {123}{}{[他转动眼睛，恼怒地]化学反应！我不会向你解释的。反正你也不会明白的。}
@@ -40,10 +40,10 @@
 {124}{}{这看起来不像什么化学实验室。我没有看到任何矿物，非有机物质，甚至没有研究胶体系统的工具。我也不明白黑板上的施罗丁格公式有什么用。如果非要我猜的话，我会说你想学习量子理论，却被困在混合化学物质中。}
 #{125}{}{Curiosity killed the cat. Stryker's not a guy that likes to hear questions.}
 {125}{}{好奇心害死了猫。史崔克不是个喜欢听问题的人。}
-#{126}{}{Fine then, let�s talk about something else.}
+#{126}{}{Fine then, let??s talk about something else.}
 {126}{}{好吧，那我们谈点别的吧。}
 #{127}{}{Holy shit! [his eyes go wide in shock and he actually recoils in surprise] You're the first, the fucking first person I've ever met that knew that! I... Shit! I don't even know what to say! Where'd you learn that?}
-{127}{}{天啊！你是我见过的第一个知道这一点的人！一、 。。。倒霉！我都不知道该说什么！你从哪学来的？}
+{127}{}{天啊！你是我见过的第一个知道这一点的人！一、 ...倒霉！我都不知道该说什么！你从哪学来的？}
 #{128}{}{A lot of books and even more spare time.}
 {128}{}{很多书和更多的业余时间。}
 #{129}{}{You too? Hey, you and me, we're a dying breed, you know that? Stryker, you know, he's smarter than he looks, but he's in it for the money. Not you and me, though, we're in it for the *science!* Listen, you ever need to use my lab, I'll give you a friendly discount.}
@@ -53,7 +53,7 @@
 #{131}{}{Okay, but let's make them snappy. I've got a busy schedule.}
 {131}{}{好吧，但是让我们让他们快点。我的日程很忙。}
 #{132}{}{In Reno? More than ten years. I used to distill alcohol for the casinos, back when we had real leaders in charge. Then everything went to shit and it turned out there was more money in chems. I should have gotten out when I had the chance, but... Too late now.}
-{132}{}{在里诺？十多年了。我曾经为赌场蒸馏酒精，那时候我们有真正的领导人负责。后来一切都糟透了，结果化学方面的钱多了。我应该在有机会的时候离开，但是。。。现在太晚了。}
+{132}{}{在里诺？十多年了。我曾经为赌场蒸馏酒精，那时候我们有真正的领导人负责。后来一切都糟透了，结果化学方面的钱多了。我应该在有机会的时候离开，但是...现在太晚了。}
 #{133}{}{I have another question.}
 {133}{}{我还有一个问题。}
 #{134}{}{That's all. You can get back to work.}
@@ -65,7 +65,7 @@
 #{137}{}{So you're a prisoner?}
 {137}{}{所以你是个囚犯？}
 #{138}{}{Eh... Yeah, but really more a prisoner of circumstances than of Stryker. Chems are so important to Reno, there's no way I could ever be free. Everyone, who's anyone, wants me in their pocket... Or dead, if they can't have me. Freedom's just not an option.}
-{138}{}{呃。。。是啊，但其实更像是环境的囚徒而不是史崔克。化学对雷诺很重要，我不可能自由。每个人，任何人，都希望我在他们的口袋里。。。或者死了，如果他们不能得到我。自由不是一个选择。}
+{138}{}{呃...是啊，但其实更像是环境的囚徒而不是史崔克。化学对雷诺很重要，我不可能自由。每个人，任何人，都希望我在他们的口袋里...或者死了，如果他们不能得到我。自由不是一个选择。}
 #{140}{}{That's a bad fucking idea, but it's your heart that's gonna explode, not mine.}
 {140}{}{这是个糟糕的主意，但爆炸的是你的心，不是我的。}
 #{141}{}{How much for a dose?}
@@ -100,7 +100,7 @@
 {155}{}{那是我最后一次。你带着全世界最后一剂药。}
 #{156}{}{Pleasure doing business with you. Well, no it wasn't, but you know what I mean.}
 {156}{}{很高兴和你做生意。不，不是，但你知道我的意思。}
-#{157}{}{That�s not all I wanted.}
+#{157}{}{That??s not all I wanted.}
 {157}{}{那不是我想要的全部。}
 #{158}{}{See you.}
 {158}{}{再见。}
@@ -108,7 +108,7 @@
 {160}{}{我不这么认为。除非史崔克这么说。}
 #{161}{}{Can you answer some questions, at least?}
 {161}{}{你至少能回答一些问题吗？}
-#{162}{}{Then I don�t need anything from you.}
+#{162}{}{Then I don??t need anything from you.}
 {162}{}{那我就不需要你的任何东西了。}
 #{163}{}{Strykers says I can only make drugs for our own people, and no discounts. You'll need to supply the components, too.}
 {163}{}{史崔克斯说我只能为我们自己的人制造毒品，而且不能打折。你还需要提供部件。}
@@ -124,7 +124,7 @@
 {168}{}{制造“杀马”毒药。}
 #{169}{}{Make like a canary and answer some questions.}
 {169}{}{像金丝雀一样回答一些问题。}
-#{170}{}{I don�t need anything.}
+#{170}{}{I don??t need anything.}
 {170}{}{我什么都不需要。}
 #{171}{}{I'll need }
 {171}{}{我需要}
@@ -150,7 +150,7 @@
 {181}{}{[打十剂！]}
 #{182}{}{Okay, I'm done.}
 {182}{}{好了，我说完了。}
-#{183}{}{That�s not enough. Make more.}
+#{183}{}{That??s not enough. Make more.}
 {183}{}{这还不够。制造更多。}
 #{184}{}{Bye.}
 {184}{}{再见。}
@@ -183,17 +183,17 @@
 #{205}{}{Curiosity won't do you much good around here. I do chemistry. Mostly.}
 {205}{}{好奇对你没什么好处。我做化学。基本上。}
 #{206}{}{Chems have a lot of uses. They can help your soldiers in battle or speed up their recovery after. And just look at the people on the streets - loyal customers. Still... I feel like there's more to it.}
-{206}{}{化学有很多用途。他们可以帮助你的士兵在战斗中或加快他们的恢复后。再看看街上的人——忠诚的顾客。还是。。。我觉得还有很多。}
+{206}{}{化学有很多用途。他们可以帮助你的士兵在战斗中或加快他们的恢复后。再看看街上的人——忠诚的顾客。还是...我觉得还有很多。}
 #{207}{}{Sure. Stryker's gone, so I can make whatever for whoever. It'll cost you, though, and I'm out of components, so you'll need to supply that too.}
 {207}{}{当然。史崔克走了，所以我可以为任何人做任何事。不过，这要花你的钱，而且我的零件也用完了，所以你也需要供应。}
 #{210}{}{Nick Hauer says hi.}
 {210}{}{尼克·豪尔打招呼。}
 #{211}{}{[He freezes in place, then slowly turns to look at you] Nick... Nick is here? He's alive?!}
-{211}{}{[他僵住了，然后慢慢转过身来看着你]尼克。。。尼克来了？他还活着？！}
+{211}{}{[他僵住了，然后慢慢转过身来看着你]尼克...尼克来了？他还活着？！}
 #{212}{}{Yes. He wants to free you and escape to San Francisco.}
 {212}{}{对。他想释放你逃到旧金山。}
 #{213}{}{Escape?! But he's blind as a bat! How can he... Something happened, didn't it? Ten years - even people who can see are lucky to live that long. Holy shit... He's alive. I can't believe it. Look, I'd leave right now if it weren't for my son and the guards. I'm a prisoner, you get that?}
-{213}{}{逃跑？！但他瞎得像只蝙蝠！他怎么能。。。出事了，不是吗？十年——即使是能看见的人也能活那么久。天啊。。。他还活着。真不敢相信。听着，如果不是为了我儿子和警卫我现在就走。我是个囚犯，明白吗？}
+{213}{}{逃跑？！但他瞎得像只蝙蝠！他怎么能...出事了，不是吗？十年——即使是能看见的人也能活那么久。天啊...他还活着。真不敢相信。听着，如果不是为了我儿子和警卫我现在就走。我是个囚犯，明白吗？}
 #{214}{}{Can we get past the guards quietly?}
 {214}{}{我们能安静地越过警卫吗？}
 #{215}{}{What's the deal with your family?}
@@ -205,11 +205,11 @@
 #{218}{}{Look, I'd leave right now if it weren't for my son and the guards. I'm a prisoner, you get that?}
 {218}{}{听着，如果不是为了我儿子和警卫我现在就走。我是个囚犯，明白吗？}
 #{219}{}{We could go out the back door, but it's locked. You probably saw my guard when you came in, right? He won't let us walk out. Hmm... He drinks, you know - can you use that?}
-{219}{}{我们可以从后门出去，但门锁上了。你进来的时候可能见过我的警卫，对吧？他不让我们出去。隐马尔可夫模型。。。他喝酒，你知道-你能用吗？}
+{219}{}{我们可以从后门出去，但门锁上了。你进来的时候可能见过我的警卫，对吧？他不让我们出去。Hmm...他喝酒，你知道-你能用吗？}
 #{220}{}{I can't go without them. When Stryker finds out I'm gone, he'll find them and he'll make them suffer. I have to bring them with me.}
 {220}{}{我不能没有他们。当史崔克发现我走了，他会找到他们，他会让他们受苦的。我必须带着它们。}
 #{221}{}{He... [he covers his eyes] All these years, I've felt so guilty... I was a coward. I can't say I've changed much, but... If he's alive... Maybe I can make things right. I've got to.}
-{221}{}{他。。。[他捂着眼睛]这些年来，我感到很内疚。。。我是个懦夫。我不能说我改变了很多，但是。。。如果他还活着。。。也许我能把事情做好。我必须去。}
+{221}{}{他...[他捂着眼睛]这些年来，我感到很内疚...我是个懦夫。我不能说我改变了很多，但是...如果他还活着...也许我能把事情做好。我必须去。}
 #{222}{}{I took care of the guard. Let's get out of here.}
 {222}{}{我照顾警卫。我们从这里出去吧。}
 #{223}{}{Great! And the back door?}
@@ -225,8 +225,8 @@
 #{228}{}{Forward.}
 {228}{}{向前地。}
 #{229}{}{Escape?! But he's blind as a bat! How can he... Something happened, didn't it? Ten years - even people who can see are lucky to live that long. Holy shit... He's alive. I can't believe it. We just need to get my family and we can go. Better be careful... Even if Stryker's dead, someone in Reno might follow us. The animals on the street can smell hope and desperation.}
-{229}{}{逃跑？！但他瞎得像只蝙蝠！他怎么能。。。出事了，不是吗？十年——即使是能看见的人也能活那么久。天啊。。。他还活着。真不敢相信。我们只要带上我的家人就可以走了。最好小心点。。。即使史崔克死了，里诺也可能有人跟着我们。街上的动物能闻到希望和绝望的味道。}
-#{230}{}{Then let�s not waste time. Let�s go to hotel.}
+{229}{}{逃跑？！但他瞎得像只蝙蝠！他怎么能...出事了，不是吗？十年——即使是能看见的人也能活那么久。天啊...他还活着。真不敢相信。我们只要带上我的家人就可以走了。最好小心点...即使史崔克死了，里诺也可能有人跟着我们。街上的动物能闻到希望和绝望的味道。}
+#{230}{}{Then let??s not waste time. Let??s go to hotel.}
 {230}{}{那我们就别浪费时间了。我们去旅馆吧。}
 #{231}{}{Give me some time to get ready.}
 {231}{}{给我点时间准备。}

@@ -5,4 +5,4 @@
 #{102}{}{Look where you're going, it's *our* district.}
 {102}{}{看看你要去哪里，那是我们的地盘。}
 #{103}{}{Come closer... Time to die!}
-{103}{}{靠近点。。。是时候死了！}
+{103}{}{靠近点...是时候死了！}

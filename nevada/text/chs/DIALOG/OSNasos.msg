@@ -28,12 +28,12 @@
 {113}{}{翻看垃圾，你发现一根细电线，小心地将它焊接到位，更换保险丝。}
 #{114}{}{You lack the mechanical knowledge to figure out what's wrong with the pump.}
 {114}{}{你缺乏机械知识来找出泵出了什么问题。}
-#{115}{}{I can�t}
+#{115}{}{I can??t}
 {115}{}{我不能}
 #{116}{}{Not that}
 {116}{}{不是那样的}
 #{117}{}{The pump is working normally... Until the next time it breaks.}
-{117}{}{泵工作正常。。。直到下一次破裂。}
+{117}{}{泵工作正常...直到下一次破裂。}
 #{118}{}{The pump is working.}
 {118}{}{泵在工作。}
 #{119}{}{The fuse is blown. The pump won't work without it.}
@@ -42,7 +42,7 @@
 {120}{}{必须更换保险丝。}
 #{121}{}{That won't help you figure this problem out.}
 {121}{}{那帮不了你解决这个问题。}
-#{122}{}{I don�t understand.}
+#{122}{}{I don??t understand.}
 {122}{}{我不明白。}
 #{123}{}{You fixed the pump. Too bad no one needs it anymore.}
 {123}{}{你修好了泵。可惜没人再需要它了。}

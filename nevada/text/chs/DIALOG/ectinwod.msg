@@ -13,4 +13,4 @@
 #{106}{}{The rope is fastened and lowered.}
 {106}{}{绳子系好放低了。}
 #{107}{}{It's still too dangerous to go down there... And why would you, anyway? Come to your senses!}
-{107}{}{去那里还是太危险了。。。你为什么要这么做？醒醒吧！}
+{107}{}{去那里还是太危险了...你为什么要这么做？醒醒吧！}

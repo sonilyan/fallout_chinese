@@ -31,9 +31,9 @@
 #{116}{}{Give me a boost over the fence.}
 {116}{}{把我推过篱笆。}
 #{130}{}{The security systems are down! It's safe to search the storage rooms... What?}
-{130}{}{安全系统坏了！搜查储藏室是安全的。。。什么？}
+{130}{}{安全系统坏了！搜查储藏室是安全的...什么？}
 #{131}{}{I'll be damned... I thought you'd be useless, but the boss was right about you. Good job. Anyway, I got shit to do. You get back to the base.}
-{131}{}{我会被诅咒的。。。我以为你没用，但老板对你的看法是对的。干得好。不管怎样，我还有事情要做。你回基地去。}
+{131}{}{我会被诅咒的...我以为你没用，但老板对你的看法是对的。干得好。不管怎样，我还有事情要做。你回基地去。}
 #{132}{}{Right. See you.}
 {132}{}{正确的。再见。}
 #{133}{}{Those turrets look nasty. Can you think of a way to get past them?}

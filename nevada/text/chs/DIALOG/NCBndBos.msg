@@ -13,19 +13,19 @@
 #{106}{}{Thief! Guards! Thiiief!!!}
 {106}{}{小偷！警卫！Thiiief！！！}
 #{107}{}{Huh?! Wha... *mumbles*}
-{107}{}{呵呵？！什么。。。*喃喃自语*}
+{107}{}{呵呵？！什么...*喃喃自语*}
 #{110}{}{::stretches::}
 {110}{}{●拉伸：}
 #{111}{}{...hey! What the...}
-{111}{}{……嘿！怎么了。。。}
+{111}{}{……嘿！怎么了...}
 #{112}{}{::rolls over::}
 {112}{}{●翻滚：}
 #{113}{}{Hrrmf...}
-{113}{}{Hrrmf。。。}
+{113}{}{Hrrmf...}
 #{115}{}{One more good day in hell.}
 {115}{}{又是地狱里的好日子。}
 #{116}{}{Maybe tonight I'll actually sleep...}
-{116}{}{也许今晚我真的会睡。。。}
+{116}{}{也许今晚我真的会睡...}
 #{130}{}{Keep your distance. I don't know what's wrong with your face, but even if it's not contagious, I don't want it close to me.}
 {130}{}{保持距离。我不知道你的脸怎么了，但即使没有传染性，我也不想让它靠近我。}
 #{131}{}{I understand, Mr. Wright. We can talk from here.}
@@ -33,11 +33,11 @@
 #{132}{}{[Sneeze in his direction] Oh, Mr. Wright, I've always wanted to shake your hand.}
 {132}{}{[朝他打喷嚏]哦，赖特先生，我一直想和你握手。}
 #{133}{}{I'm surprised such an... Important person has the time to see me. How can I "help" the only officer of the law around, Sheriff?}
-{133}{}{我很惊讶这样一个。。。重要人物有时间见我。我怎样才能“帮助”唯一的执法人员，警长？}
+{133}{}{我很惊讶这样一个...重要人物有时间见我。我怎样才能“帮助”唯一的执法人员，警长？}
 #{134}{}{Everyone needs something from me... What brings you here?}
-{134}{}{每个人都需要我的帮助。。。什么风把你吹来了？}
+{134}{}{每个人都需要我的帮助...什么风把你吹来了？}
 #{135}{}{Have you completed my... Errand?}
-{135}{}{你完成我的。。。差事？}
+{135}{}{你完成我的...差事？}
 #{136}{}{I'm glad to see you. But don't forget your place.}
 {136}{}{很高兴见到你。但别忘了你住的地方。}
 #{137}{}{Nothing.}
@@ -61,7 +61,7 @@
 #{146}{}{[Get out.]}
 {146}{}{[出去]}
 #{147}{}{Reputation. And regardless of your wallet or gun, reputation is something you don't have. In my slums, no one knows you and no one recommends you. And I trust my people. If you want a job, show me your work... Where it counts.}
-{147}{}{名誉。不管你的钱包和枪，名声都是你所没有的。在我的贫民窟，没有人认识你，也没有人推荐你。我信任我的人民。如果你想找份工作，给我看看你的工作。。。重要的地方。}
+{147}{}{名誉。不管你的钱包和枪，名声都是你所没有的。在我的贫民窟，没有人认识你，也没有人推荐你。我信任我的人民。如果你想找份工作，给我看看你的工作...重要的地方。}
 #{148}{}{You really haven't heard of me, Mr. Wright? I've done a lot in Reno.}
 {148}{}{你真的没听说过我吗，赖特先生？我在雷诺做了很多。}
 #{149}{}{Okay, Mr. Wright.}
@@ -69,7 +69,7 @@
 #{150}{}{Tch. I could care less how others in New Reno see you. My empire is here, in the slums.}
 {150}{}{Tch公司。我不在乎新里诺的人怎么看你。我的帝国在这里，在贫民窟里。}
 #{151}{}{Hmm... [he studies you again, as if he's seeing something new, then nods] Perhaps you do have potential. My people speak highly of you.}
-{151}{}{隐马尔可夫模型。。。[他再次研究你，好像他看到了新的东西，然后点头]也许你确实有潜力。我的人民对你评价很高。}
+{151}{}{Hmm...[他再次研究你，好像他看到了新的东西，然后点头]也许你确实有潜力。我的人民对你评价很高。}
 #{152}{}{Does that mean you you have work for me?}
 {152}{}{那是不是意味着你有工作给我？}
 #{153}{}{[He raises an eyebrow] You think faster than most in this city. And yes, I'm speaking of reputation. Tell me, who can recommend you as a reliable employee?}
@@ -79,7 +79,7 @@
 #{155}{}{I've been active in other parts of town. Surely you've heard of me already.}
 {155}{}{我在镇上其他地方也很活跃。你肯定已经听说过我了。}
 #{156}{}{Uh, well, I'm kind of new in town, and...}
-{156}{}{呃，我是新来的，而且。。。}
+{156}{}{呃，我是新来的，而且...}
 #{157}{}{Then we have nothing to discuss. There's the door.}
 {157}{}{那我们就没什么可谈的了。门在那儿。}
 #{158}{}{[Walk away.]}
@@ -97,13 +97,13 @@
 #{164}{}{I heard of your prospector's contract. You're not satisfied with their performance?}
 {164}{}{我听说你的探矿者的合同。你对他们的表现不满意？}
 #{165}{}{I am not. They disappear for months, miss their deadlines, and think they can get away with it? No, they're done. I'm looking for a professional. Someone reliable. Someone... Loyal.}
-{165}{}{我不是。他们消失了好几个月，错过了最后期限，以为自己能逃脱惩罚？不，他们完了。我在找专业人士。可靠的人。某人。。。忠诚。}
+{165}{}{我不是。他们消失了好几个月，错过了最后期限，以为自己能逃脱惩罚？不，他们完了。我在找专业人士。可靠的人。某人...忠诚。}
 #{166}{}{I can be that professional.}
 {166}{}{我可以那么专业。}
 #{167}{}{Er, good luck with that. Bye.}
 {167}{}{呃，祝你好运。再见。}
 #{168}{}{Don't forget your place here! Hrm... [he massages the back of his neck]}
-{168}{}{别忘了你在这儿的位置！人力资源管理。。。[他按摩后颈]}
+{168}{}{别忘了你在这儿的位置！人力资源管理...[他按摩后颈]}
 #{169}{}{I'm glad we met, sheriff. But don't forget who you work for.}
 {169}{}{很高兴见到你，警长。但别忘了你为谁工作。}
 #{170}{}{Go to Uranium City. I want a full report on the mine's status...MY mine's status.}
@@ -115,11 +115,11 @@
 #{173}{}{[Walk away.]}
 {173}{}{[走开。]}
 #{174}{}{About that job...}
-{174}{}{关于那份工作。。。}
+{174}{}{关于那份工作...}
 #{175}{}{Why didn't you send your people there earlier?}
 {175}{}{你为什么不早点派人去？}
 #{176}{}{I need my people here... But that's not your concern.}
-{176}{}{我需要我的人。。。但那不是你的问题。}
+{176}{}{我需要我的人...但那不是你的问题。}
 #{177}{}{I understand.}
 {177}{}{我理解。}
 #{180}{}{I'm listening.}
@@ -137,7 +137,7 @@
 #{186}{}{A local named Nelson took over. He's trying to take your mine.}
 {186}{}{一个叫纳尔逊的当地人接管了。他想拿走你的我的。}
 #{187}{}{A shady guy from the Hub is trying to seize your mine. He seems serious... And dangerous.}
-{187}{}{一个黑鬼想抢你的地雷。他看起来很严肃。。。而且很危险。}
+{187}{}{一个黑鬼想抢你的地雷。他看起来很严肃...而且很危险。}
 #{188}{}{All work has stopped and most of the miners have skipped town. People are questioning who really owns the mine and who's going to get it running again.}
 {188}{}{所有的工作都停止了，大多数矿工都逃走了。人们在质疑谁真正拥有了这个矿，谁又会让它重新运转起来。}
 #{189}{}{Some sort of dangerous mutant in the mine has scared off the workers. Most of them have left town.}
@@ -147,7 +147,7 @@
 #{191}{}{That's all for now. I'll be back when I learn more.}
 {191}{}{现在就这些。当我了解更多的时候我会回来的。}
 #{192}{}{Enough. I know enough to plan my next steps. I can't afford to lose the mine... But first, your payment: $200.}
-{192}{}{够了。我有足够的知识来计划我的下一步。我不能失去矿。。。但首先，你的报酬是200美元。}
+{192}{}{够了。我有足够的知识来计划我的下一步。我不能失去矿...但首先，你的报酬是200美元。}
 #{193}{}{That's it? Mr. Wright, be honest. You're broke, aren't you?}
 {193}{}{就这样？赖特先生，说实话。你破产了，不是吗？}
 #{194}{}{Thank you, Mr. Wright! I appreciate it!}
@@ -157,13 +157,13 @@
 #{196}{}{I understand, Mr. Wright. What was that about more work?}
 {196}{}{我明白，赖特先生。更多的工作是什么意思？}
 #{197}{}{Watch your tongue! Don't forget your place here. But... This mob war has strained New Reno's economy to the breaking point. It's robbed my family of almost everything we've earned. I worked years for what I have. I *will not* allow it to be taken from me.}
-{197}{}{小心你的舌头！别忘了你在这儿的位置。但是。。。这场暴民战争使新雷诺的经济紧张到了崩溃的地步。它夺走了我们家几乎所有的收入。我为我所拥有的东西工作了好几年。我不会让它从我身边夺走。}
+{197}{}{小心你的舌头！别忘了你在这儿的位置。但是...这场暴民战争使新雷诺的经济紧张到了崩溃的地步。它夺走了我们家几乎所有的收入。我为我所拥有的东西工作了好几年。我不会让它从我身边夺走。}
 #{198}{}{I need leverage to ensure that mine remains MINE. The mine will need resources, but chief among them are explosives. The stores there must be exhausted by now.}
 {198}{}{我需要杠杆来确保我的仍然是我的。这个矿需要资源，但主要是炸药。那里的商店现在一定已经用完了。}
 #{199}{}{Where will you get explosives?}
 {199}{}{你在哪能买到炸药？}
 #{200}{}{I contracted a couple of prospectors to retrieve explosives from an old military base. Instead, they... Disappeared. Now I must decide the fate of their families. Do you understand the... Subtlety of the situation?}
-{200}{}{我雇了几个探矿者从一个旧军事基地取回炸药。相反，他们。。。消失。现在我必须决定他们家庭的命运。你明白。。。情况的微妙之处？}
+{200}{}{我雇了几个探矿者从一个旧军事基地取回炸药。相反，他们...消失。现在我必须决定他们家庭的命运。你明白...情况的微妙之处？}
 #{201}{}{What should I do, Mr. Wright?}
 {201}{}{我该怎么办，赖特先生？}
 #{202}{}{I don't care how, but I want that contract fulfilled. Find out what happened to my prospectors.}
@@ -181,7 +181,7 @@
 #{208}{}{[Walk away silently.]}
 {208}{}{[静静地走开。]}
 #{210}{}{About those prospectors...}
-{210}{}{关于那些探矿者。。。}
+{210}{}{关于那些探矿者...}
 #{211}{}{Where are my explosives?}
 {211}{}{我的炸药呢？}
 #{212}{}{They're already in Uranium City. Nelson has them.}
@@ -231,7 +231,7 @@
 #{234}{}{[Walk away.]}
 {234}{}{[走开。]}
 #{235}{}{In that case, you must remind Uranium City why it even exists. Everyone there is there because of my investment. You mentioned a Nelson in your report - I remember him. He was a good worker in the mine. Now he's the one trying to take it from me... Remove him.}
-{235}{}{在这种情况下，你必须提醒铀城为什么存在。那里的每个人都是因为我的投资。你在报告中提到了一个尼尔森-我记得他。他在矿井里是个好工人。现在是他想夺走我的心。。。把他带走。}
+{235}{}{在这种情况下，你必须提醒铀城为什么存在。那里的每个人都是因为我的投资。你在报告中提到了一个尼尔森-我记得他。他在矿井里是个好工人。现在是他想夺走我的心...把他带走。}
 #{236}{}{There's no one left to challenge your ownership of the mine, Mr. Wright.}
 {236}{}{没有人可以挑战你对矿的所有权了，赖特先生。}
 #{237}{}{Good. Here's your payment. If you lied to me, you'd better never return to this city.}
@@ -261,13 +261,13 @@
 #{260}{}{A resident in your slums, Mrs. Clover, has become the victim of another person's debts. What is your position on this?}
 {260}{}{你贫民窟里的一个居民，克洛弗太太，成了另一个人债务的受害者。你对此持什么立场？}
 #{261}{}{Another headache. Mrs. Clover is a a reliable cash cow due to her restaurant's income, so it's in my best interests to keep her solvent. On the other hand, it's not in my best interests to forgive debts... Even if I must take my pound of flesh from someone else. I must look upon this with distance and great care.}
-{261}{}{又是头痛。克洛弗太太是一个可靠的摇钱树由于她的餐厅的收入，所以它是在我的最大利益保持她的偿付能力。另一方面，免除债务不符合我的最大利益。。。即使我必须从别人那里拿走我那一磅肉。我必须远远地、非常小心地看待这件事。}
+{261}{}{又是头痛。克洛弗太太是一个可靠的摇钱树由于她的餐厅的收入，所以它是在我的最大利益保持她的偿付能力。另一方面，免除债务不符合我的最大利益...即使我必须从别人那里拿走我那一磅肉。我必须远远地、非常小心地看待这件事。}
 #{262}{}{I understand. Let's talk about something else.}
 {262}{}{我理解。我们再谈点别的吧。}
 #{263}{}{That's all I needed. Goodbye, Mr. Wright.}
 {263}{}{这就是我所需要的。再见，赖特先生。}
 #{270}{}{Your work in Uranium City is done. My sons will take it from here... When we're ready. You have another job.}
-{270}{}{你在铀城的工作结束了。我的儿子们会从这里拿走。。。当我们准备好的时候。你有另一份工作。}
+{270}{}{你在铀城的工作结束了。我的儿子们会从这里拿走...当我们准备好的时候。你有另一份工作。}
 #{271}{}{I'm listening.}
 {271}{}{我在听。}
 #{272}{}{I've been told of a strange man sniffing around my slums. I do not know him, but there will be no secrets from me in my domain. Go the east side of the slums and deal with him. Avoid causing a ruckus in my slums if you can, but do whatever you need to in order to get the job done.}
@@ -283,13 +283,13 @@
 #{277}{}{I'm being watched. I know that. I just wanted to see how you handled the situation. [his lips curl into a small, but very self-satisfied grin] You were also being watched.}
 {277}{}{我被监视着。我知道。我只是想看看你是怎么处理这种情况的。[他的嘴唇蜷缩成一个小小的，但非常满意的笑容]你也被监视着。}
 #{278}{}{Everyone's watching everyone... So what now?}
-{278}{}{每个人都在看着每个人。。。那现在怎么办？}
+{278}{}{每个人都在看着每个人...那现在怎么办？}
 #{279}{}{Now, your payment. [he counts out the money] This was your last job. From here on, I need someone smarter than you. Don't bother me again.}
 {279}{}{现在，你的付款。[他数钱]这是你最后一份工作。从现在开始，我需要一个比你聪明的人。别再打扰我了。}
 #{280}{}{Now, your payment. [he counts out the money] This was your last job. Your reputation in the slums makes it clear I can't rely on you. There's the door.}
 {280}{}{现在，你的付款。[他数钱]这是你最后一份工作。你在贫民窟的名声清楚地表明我不能依赖你。门在那儿。}
 #{281}{}{Now, your payment. [he counts out the money] You did well on this job. You've proven you're trustworthy. You're ready for more... Delicate jobs.}
-{281}{}{现在，你的付款。[他数钱]你干得不错。你已经证明你是值得信赖的。你准备好接受更多。。。精致的工作。}
+{281}{}{现在，你的付款。[他数钱]你干得不错。你已经证明你是值得信赖的。你准备好接受更多...精致的工作。}
 #{282}{}{I'm ready to hear it, Mr. Wright.}
 {282}{}{我准备好听了，赖特先生。}
 #{283}{}{At this point, you should know there's a war going on in Reno. It's quiet now, which benefits me, but my sons and I are being watched. It will be too dangerous for me to act alone. I have no other choice but to unite with my old enemy - Oliver Luciano.}
@@ -305,7 +305,7 @@
 #{288}{}{I don't deal with gangsters. I have no use for employees of mixed loyalties.}
 {288}{}{我不跟黑帮打交道。我不喜欢忠心耿耿的雇员。}
 #{289}{}{Wow, word travels fast...}
-{289}{}{哇，消息传得真快。。。}
+{289}{}{哇，消息传得真快...}
 #{290}{}{If you must.}
 {290}{}{如果你必须的话。}
 #{291}{}{Another question, if I may.}
@@ -315,11 +315,11 @@
 #{293}{}{Why did you secure the Uranium City mine if you're not going to restore it?}
 {293}{}{如果你不打算修复铀矿，为什么要保护它？}
 #{294}{}{I will... Eventually. For now, it's enough to know I have it under control. I have greater concerns this moment, but I cannot allow it to fall into anyone else's hands.}
-{294}{}{我会的。。。最终。现在，我已经控制住了。我现在有更大的担忧，但我不能让它落入任何人的手中。}
+{294}{}{我会的...最终。现在，我已经控制住了。我现在有更大的担忧，但我不能让它落入任何人的手中。}
 #{295}{}{You're broke, aren't you?}
 {295}{}{你破产了，不是吗？}
 #{296}{}{That's a blunt question, but in business there is a value to straight talking. My family is not as wealthy as it was before, but we have... Enough.}
-{296}{}{这是一个直截了当的问题，但在商界，直言不讳是有价值的。我的家庭不像以前那么富有了，但是我们。。。够了。}
+{296}{}{这是一个直截了当的问题，但在商界，直言不讳是有价值的。我的家庭不像以前那么富有了，但是我们...够了。}
 #{297}{}{How did Oliver Luciano become your enemy?}
 {297}{}{奥利弗·卢西亚诺是怎么成为你的敌人的？}
 #{298}{}{It was in a different Reno than this one. During its golden age, over ten years ago, we had peace here. But then the city grew beyond its resources and we were forced to turn on each other. That gave Big Louie his chance to devastate us all and leave his dogs to pick over what was left. Now I have to join my enemy to survive someone else's war. A bitter irony, isn't it?}
@@ -333,7 +333,7 @@
 #{302}{}{Whose side are you on in this war?}
 {302}{}{在这场战争中你站在谁一边？}
 #{303}{}{My own. I have no stake nor interest in politics, but these gangsters won't stop until they own all of Reno... Or die.}
-{303}{}{我自己的。我对政治没有利害关系，也没有兴趣，但这些歹徒在他们拥有雷诺的所有土地之前是不会罢休的。。。否则就死定了。}
+{303}{}{我自己的。我对政治没有利害关系，也没有兴趣，但这些歹徒在他们拥有雷诺的所有土地之前是不会罢休的...否则就死定了。}
 #{304}{}{I relayed your offer to Luciano, and he refused. I'm very sorry, Mr. Wright.}
 {304}{}{我把你的提议转达给卢西亚诺，他拒绝了。非常抱歉，赖特先生。}
 #{305}{}{I relayed your offer to Luciano, and he refused.}
@@ -345,7 +345,7 @@
 #{310}{}{Mr. Wright, I've heard a lot about your collection of pre-war objects. Could you tell me more about it?}
 {310}{}{赖特先生，我听说过很多关于你收集战前物品的事。你能告诉我更多的情况吗？}
 #{311}{}{I collect relics of the old America. They are my monument to the rich culture of the America that was... The one that by all rights, my family should have been born into, rather than the ash heap we're in today. It includes a jazz trumpet, a deck of playing cards, photos from different eras and four full cabinets of assorted Americana...}
-{311}{}{我收集旧美国的遗迹。他们是我的丰碑，以丰富的美国文化是。。。当然，我的家庭应该出生在这个地方，而不是我们今天所处的灰烬堆里。它包括一个爵士小号，一副扑克牌，来自不同时代的照片和四个各式各样的美式。。。}
+{311}{}{我收集旧美国的遗迹。他们是我的丰碑，以丰富的美国文化是...当然，我的家庭应该出生在这个地方，而不是我们今天所处的灰烬堆里。它包括一个爵士小号，一副扑克牌，来自不同时代的照片和四个各式各样的美式...}
 #{312}{}{but you don't need to worry about that. It would be lost on you, anyway.}
 {312}{}{但你不用担心。不管怎样，你都会失去它的。}
 #{313}{}{rescued from the local boors who wouldn't recognize culture if it paved over their hovels and built an art gallery in their place. But you've served me well. Perhaps you may be enlightened by a tour.}
@@ -361,7 +361,7 @@
 #{318}{}{[Take a tour.]}
 {318}{}{[游览]}
 #{319}{}{...do you see now, how much we've lost? This was a great country, our city on a hill... And it could be still, were it not for the avarice and selfishness of its people.}
-{319}{}{……你现在看到了吗，我们损失了多少？这是一个伟大的国家，我们的城市在山上。。。如果不是因为人民的贪婪和自私，它可能是静止的。}
+{319}{}{……你现在看到了吗，我们损失了多少？这是一个伟大的国家，我们的城市在山上...如果不是因为人民的贪婪和自私，它可能是静止的。}
 #{320}{}{Thank you for the tour, Mr. Wright. It was very educational!}
 {320}{}{谢谢你的参观，赖特先生。很有教育意义！}
 #{321}{}{Word on the streets is you own a jazz trumpet, Mr. Wright.}
@@ -381,7 +381,7 @@
 #{328}{}{It belonged to a musician who played in the club ten years ago. His band is a part of Reno's history. It was where Big Louie "started" his career - yes, the same one who's brought so much suffering to this city. His band was a rare source of art and culture for Reno...but that humanity was crushed under the civil war, as it always is.}
 {328}{}{它属于一位十年前在俱乐部演奏的音乐家。他的乐队是雷诺历史的一部分。这是大路易“开始”他的职业生涯-是的，同一个谁带来了这么多的痛苦，这个城市。他的乐队对雷诺来说是一个难得的艺术和文化资源…但是人类在内战中被摧毁了，一如既往。}
 #{329}{}{I wouldn't want to let it go... But everything has a price. $1000.}
-{329}{}{我不想让它过去。。。但一切都是有代价的。$1000.}
+{329}{}{我不想让它过去...但一切都是有代价的。$1000.}
 #{330}{}{As noble as that sounds, I can't hand away a piece of Reno's history just for one person's feelings.}
 {330}{}{虽然听起来很高尚，但我不能仅仅为了一个人的感情而放弃雷诺的一段历史。}
 #{331}{}{Then I'll buy it right now.}
@@ -395,7 +395,7 @@
 #{335}{}{It's been a long time since I've felt this inspired. Alright...I'll trust you. You can have the trumpet, for the sake of the future.}
 {335}{}{我已经很久没有这种灵感了。好吧…我相信你。为了未来，你可以拥有小号。}
 #{350}{}{I'm surprised. I thought he was one of the most protected men in... Well, it doesn't matter. Thank you for being a reliable employee, but I have no more work for you. My sons can handle everything for the foreseeable future. }
-{350}{}{我很惊讶。我以为他是世界上最受保护的人之一。。。好吧，没关系。谢谢你是一个可靠的雇员，但我没有更多的工作给你。在可预见的未来，我的儿子们可以处理一切。}
+{350}{}{我很惊讶。我以为他是世界上最受保护的人之一...好吧，没关系。谢谢你是一个可靠的雇员，但我没有更多的工作给你。在可预见的未来，我的儿子们可以处理一切。}
 #{351}{}{Farewell.}
 {351}{}{再会。}
 #{352}{}{Good...perhaps Reno has a future after all. Here's your pay. From here, everything rests on me, so I won't have use for your services anymore. Perhaps Luciano will have some work for you - I expect him to be busy in the future. }
@@ -419,9 +419,9 @@
 #{370}{}{Mr. Wright, on Patrick's behalf, I request permission to show a night time movie.}
 {370}{}{赖特先生，我代表帕特里克请求允许放映夜间电影。}
 #{371}{}{[He speaks wistfully, sharpening every syllable] Night-time-moo-vie... I didn't expect Patrick to be cunning enough to send someone in his stead. I already told him his bullshit religion wasn't welcome in my domain. Tell Patrick I won't tolerate his attempts to undermine me.}
-{371}{}{[他渴望地说，磨尖每一个音节]夜晚的moo vie。。。我没想到帕特里克会狡猾到派个人来代替他。我已经告诉过他，我不欢迎他的宗教信仰。告诉帕特里克我不会容忍他企图破坏我。}
+{371}{}{[他渴望地说，磨尖每一个音节]夜晚的moo vie...我没想到帕特里克会狡猾到派个人来代替他。我已经告诉过他，我不欢迎他的宗教信仰。告诉帕特里克我不会容忍他企图破坏我。}
 #{372}{}{Mr. Wright, listen...}
-{372}{}{赖特先生，听着。。。}
+{372}{}{赖特先生，听着...}
 #{373}{}{No, YOU listen! He's lucky he still has the chance to walk out on his own legs after his actions against me! He instills MY tenants with hope for things they can't have! He gives MY tenants a false belief that they are strong, that they deserve better than what I provide them! Why should I turn a blind eye to this?}
 {373}{}{不，你听着！他很幸运，在他对我采取行动之后，他还有机会自己走出来！他给我的房客灌输了他们无法拥有的希望！他让我的房客误以为他们很强大，他们应该得到比我提供给他们的更好的东西！我为什么要对此视而不见？}
 #{374}{}{Can't we discuss this like businessmen? What if you were compensated for your patience?}
@@ -431,7 +431,7 @@
 #{376}{}{I have no answer to that, Mr. Wright.}
 {376}{}{我没有答案，赖特先生。}
 #{377}{}{Finally, we're talking sense. If I can profit off his parasitism, then that sheds a different light on things... And he *would* keep things quiet. Maybe he can even stem the spread of that STD that's sweeping through Reno's prostitutes. Very well, I will grant him permission for a nominal fee of $1000.}
-{377}{}{最后，我们谈的是理智。如果我能从他的寄生中获利，那就让事情变得不同了。。。他会保持沉默。也许他甚至可以阻止性病在雷诺妓女中的传播。很好，我会给他1000美元的名义费用。}
+{377}{}{最后，我们谈的是理智。如果我能从他的寄生中获利，那就让事情变得不同了...他会保持沉默。也许他甚至可以阻止性病在雷诺妓女中的传播。很好，我会给他1000美元的名义费用。}
 #{378}{}{Here's the money.}
 {378}{}{这是钱。}
 #{379}{}{I'll go collect the money.}
@@ -439,7 +439,7 @@
 #{380}{}{Then we're done. But tell Patrick that I only promise not to interfere with his show - I won't provide any security.}
 {380}{}{那我们就完了。但是告诉帕特里克，我只保证不干扰他的表演-我不会提供任何安全措施。}
 #{381}{}{You're... Trustworthy enough that I may trust him in holding this event. But security is up to you - all I promise is that I will not interfere myself. Now go.}
-{381}{}{你是。。。值得信赖，我可以信任他举办这次活动。但安全由你决定-我只保证我不会干涉自己。现在走吧。}
+{381}{}{你是...值得信赖，我可以信任他举办这次活动。但安全由你决定-我只保证我不会干涉自己。现在走吧。}
 #{382}{}{I appreciate that, boss.}
 {382}{}{我很感激，老板。}
 #{383}{}{I do not trust this Patrick, but you have a good reputation in my slums. Fine, I will interfere in his show. But I take no responsibility for his safety - that's up to you and him.}
@@ -451,7 +451,7 @@
 #{386}{}{I guess I can't argue that.}
 {386}{}{我想我不能这么说。}
 #{387}{}{Mr. Wright, this could be a great opportunity for you. Let me explain...}
-{387}{}{赖特先生，这对你来说是个好机会。让我解释一下。。。}
+{387}{}{赖特先生，这对你来说是个好机会。让我解释一下...}
 #{388}{}{[He listens carefully to your explanation, and finally nods] I see, I see. That preacher should use you for all his deals - you're a much better speaker than him. Fine, tell him I agree. But I won't provide any security - that's up to you and him.}
 {388}{}{[他仔细听了你的解释，最后点了点头]我明白了，我明白了。那个传教士应该利用你来做所有的交易——你比他讲得好得多。好吧，告诉他我同意。但我不会提供任何安全保障-这取决于你和他。}
 #{390}{}{I represent the Cotton club. We want to negotiate protection for a concert.}
@@ -467,19 +467,19 @@
 #{395}{}{Thank you. That will be all.}
 {395}{}{非常感谢。就这些了。}
 #{1135}{}{Have you completed my... Errand?}
-{1135}{}{你完成我的。。。差事？}
+{1135}{}{你完成我的...差事？}
 #{1138}{}{I just wanted to say hello.}
 {1138}{}{我只是想打个招呼。}
 #{1147}{}{Reputation. And regardless of your wallet or gun, reputation is something you don't have. In my slums, no one knows you and no one recommends you. And I trust my people. If you want a job, show me your work... Where it counts.}
-{1147}{}{名誉。不管你的钱包和枪，名声都是你所没有的。在我的贫民窟，没有人认识你，也没有人推荐你。我信任我的人民。如果你想找份工作，给我看看你的工作。。。重要的地方。}
+{1147}{}{名誉。不管你的钱包和枪，名声都是你所没有的。在我的贫民窟，没有人认识你，也没有人推荐你。我信任我的人民。如果你想找份工作，给我看看你的工作...重要的地方。}
 #{1148}{}{You really haven't heard of me, Mr. Wright? I've done a lot in Reno.}
 {1148}{}{你真的没听说过我吗，赖特先生？我在雷诺做了很多。}
 #{1162}{}{Very well. [he leans back in his chair, interlacing his fingers on his stomach] I have some errands for a woman like you... Someone from out of town. I pay well, provided the job is completed correctly.}
-{1162}{}{很好。[他靠在椅子上，手指交叉放在肚子上]我有一些事情要给你这样的女人做。。。从外地来的人。我薪水很高，只要工作完成得正确。}
+{1162}{}{很好。[他靠在椅子上，手指交叉放在肚子上]我有一些事情要给你这样的女人做...从外地来的人。我薪水很高，只要工作完成得正确。}
 #{1184}{}{I'm back from Uranium City.}
 {1184}{}{我从铀城回来了。}
 #{1210}{}{About those prospectors...}
-{1210}{}{关于那些探矿者。。。}
+{1210}{}{关于那些探矿者...}
 #{1215}{}{Stop wasting my time! All I care about are those explosives. It doesn't matter who gets them, as long as they get them to *me*!}
 {1215}{}{别再浪费我的时间了！我只关心那些炸药。不管是谁得到的，只要他们把它们交给我就行了！}
 #{1217}{}{They're what?! You imbecile! Those explosives are my leverage *against* that town! Get them back at any cost! If you have to kill this Nelson, do it. Now go. The next time I see you, you had better have my explosives.}
@@ -493,13 +493,13 @@
 #{1237}{}{Good. Here's your payment. If you lied to me, you'd better never return to this city.}
 {1237}{}{很好。这是你的报酬。如果你对我撒谎，你最好不要再回到这个城市。}
 #{1270}{}{Your work in Uranium City is done. My sons will take it from here... When we're ready. You have another job.}
-{1270}{}{你在铀城的工作结束了。我的儿子们会从这里拿走。。。当我们准备好的时候。你有另一份工作。}
+{1270}{}{你在铀城的工作结束了。我的儿子们会从这里拿走...当我们准备好的时候。你有另一份工作。}
 #{1274}{}{I dealt with the stranger. It seems like he was watching the slums, but I couldn't find out more.}
 {1274}{}{我和陌生人打过交道。他好像在看贫民窟，但我找不到更多。}
 #{1279}{}{Now, your payment. [he counts out the money] This was your last job. From here on, I need someone smarter than you. Don't bother me again.}
 {1279}{}{现在，你的付款。[他数钱]这是你最后一份工作。从现在开始，我需要一个比你聪明的人。别再打扰我了。}
 #{1281}{}{Now, your payment. [he counts out the money] You did well on this job. You've proven you're trustworthy. You're ready for more... Delicate jobs.}
-{1281}{}{现在，你的付款。[他数钱]你干得不错。你已经证明你是值得信赖的。你准备好接受更多。。。精致的工作。}
+{1281}{}{现在，你的付款。[他数钱]你干得不错。你已经证明你是值得信赖的。你准备好接受更多...精致的工作。}
 #{1282}{}{I'm ready to hear it, Mr. Wright.}
 {1282}{}{我准备好听了，赖特先生。}
 #{1301}{}{I've relayed your offer to Luciano. He's ready to hear you out - in person.}
@@ -517,9 +517,9 @@
 #{1316}{}{I would be happy for a tour, but not right now. Sorry to disturb you.}
 {1316}{}{我很乐意去旅游，但现在不行。抱歉打扰你。}
 #{1350}{}{I'm surprised. I thought he was one of the most protected men in... Well, it doesn't matter. Thank you for being a reliable employee, but I have no more work for you. My sons can handle everything for the foreseeable future. }
-{1350}{}{我很惊讶。我以为他是世界上最受保护的人之一。。。好吧，没关系。谢谢你是一个可靠的雇员，但我没有更多的工作给你。在可预见的未来，我的儿子们可以处理一切。}
+{1350}{}{我很惊讶。我以为他是世界上最受保护的人之一...好吧，没关系。谢谢你是一个可靠的雇员，但我没有更多的工作给你。在可预见的未来，我的儿子们可以处理一切。}
 #{1352}{}{Good... Perhaps Reno has a future after all. Here's your pay. From here, everything rests on me, so I won't have use for your services anymore. Perhaps Luciano will have some work for you - I expect him to be busy in the future. }
-{1352}{}{很好。。。也许雷诺终究还是有前途的。这是你的薪水。从这里开始，一切都取决于我，所以我不再需要你的服务了。也许卢西亚诺会有一些工作给你-我希望他将来会很忙。}
+{1352}{}{很好...也许雷诺终究还是有前途的。这是你的薪水。从这里开始，一切都取决于我，所以我不再需要你的服务了。也许卢西亚诺会有一些工作给你-我希望他将来会很忙。}
 #{1353}{}{I see. That is unfortunate, but I don't blame you. Luciano is a careful man and doesn't trust easily. In any case, I have no more work for you. My sons can handle everything for the foreseeable future. }
 {1353}{}{我懂了。那很不幸，但我不怪你。卢西亚诺是个细心的人，不容易相信别人。无论如何，我没有更多的工作给你了。在可预见的未来，我的儿子们可以处理一切。}
 #{1355}{}{You've already had your chance. I don't expect another will make a difference. Nonetheless, I have nothing to lose, so you may as well try. }
@@ -527,6 +527,6 @@
 #{1360}{}{[After some thought, he hands you $100] You're free to go.}
 {1360}{}{[想了想，他递给你100美元]你可以走了。}
 #{1381}{}{You're... Trustworthy enough that I may trust him in holding this event. But security is up to you - all I promise is that I will not interfere myself. Now go.}
-{1381}{}{你是。。。值得信赖，我可以信任他举办这次活动。但安全由你决定-我只保证我不会干涉自己。现在走吧。}
+{1381}{}{你是...值得信赖，我可以信任他举办这次活动。但安全由你决定-我只保证我不会干涉自己。现在走吧。}
 #{1387}{}{Mr. Wright, this could be a great opportunity for you. Let me explain...}
-{1387}{}{赖特先生，这对你来说是个好机会。让我解释一下。。。}
+{1387}{}{赖特先生，这对你来说是个好机会。让我解释一下...}

@@ -85,7 +85,7 @@
 #{155}{}{You lost the arm wrestling match.}
 {155}{}{你在摔跤比赛中输了。}
 #{156}{}{Phew... No one could beat me in this for a long time, then you just showed up! Where did you come from? Okay it doesn't matter. Here is my bet.}
-{156}{}{呸。。。很长一段时间没人能打败我，然后你就出现了！你从哪里来的？好吧，没关系。这是我的赌注。}
+{156}{}{呸...很长一段时间没人能打败我，然后你就出现了！你从哪里来的？好吧，没关系。这是我的赌注。}
 #{157}{}{Here, you'll think twice before messing with me.}
 {157}{}{在这里，你要三思而后行。}
 #{158}{}{Ha! I thought you're a serious opponent. [Takes your bet] Yeah, even geckos give me more trouble.}
@@ -99,4 +99,4 @@
 #{1135}{}{And I just changed my mind. And I don't care what you think about it.}
 {1135}{}{我改变了主意。我不在乎你怎么想。}
 #{1156}{}{Phew... No one could beat me in this for a long time, then you just showed up! Where did you come from? Okay it doesn't matter. Here is my bet.}
-{1156}{}{呸。。。很长一段时间没人能打败我，然后你就出现了！你从哪里来的？好吧，没关系。这是我的赌注。}
+{1156}{}{呸...很长一段时间没人能打败我，然后你就出现了！你从哪里来的？好吧，没关系。这是我的赌注。}

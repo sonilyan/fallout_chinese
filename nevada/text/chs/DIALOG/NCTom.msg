@@ -1,7 +1,7 @@
 #{100}{}{You see Canary.}
 {100}{}{你看到金丝雀了。}
 #{101}{}{You see a completely ordinary bum... Or so he appears.}
-{101}{}{你看到一个完全普通的流浪汉。。。他似乎是这样的。}
+{101}{}{你看到一个完全普通的流浪汉...他似乎是这样的。}
 #{102}{}{Er, hello.}
 {102}{}{呃，你好。}
 #{109}{}{Oh, and what could a poor old hobo like myself do for you, sir?}
@@ -29,9 +29,9 @@
 #{120}{}{I'm just a simple hobo. What more could you want from me? I've already said more than my mind can handle.}
 {120}{}{我只是个普通的流浪汉。你还想从我这里得到什么？我已经说得太多了。}
 #{121}{}{If you say so...}
-{121}{}{如果你这样说。。。}
+{121}{}{如果你这样说...}
 #{122}{}{Err... [as you turn to leave, he taps his pocket and looks at you expectantly]}
-{122}{}{呃。。。[当你转身离开时，他轻拍口袋，期待地看着你]}
+{122}{}{呃...[当你转身离开时，他轻拍口袋，期待地看着你]}
 #{123}{}{Sure, here's 10 bucks, philosopher.}
 {123}{}{当然，这是10美元，哲学家。}
 #{124}{}{Sorry, I'm all out.}
@@ -51,7 +51,7 @@
 #{131}{}{Now, can you answer a few questions?}
 {131}{}{现在，你能回答几个问题吗？}
 #{132}{}{I would, I would, but ohh... The hunger, it makes it hard to think...}
-{132}{}{我会的，我会的，但是哦。。。饥饿，让人难以思考。。。}
+{132}{}{我会的，我会的，但是哦...饥饿，让人难以思考...}
 #{133}{}{Here's 10 bucks to sate those hunger pangs.}
 {133}{}{这是10块钱来充饥。}
 #{134}{}{Wait up, I'll be back.}
@@ -71,7 +71,7 @@
 #{141}{}{[He draws a big circle with his hands] A ranch! It's enormous! They make food here - the most important thing in this world.}
 {141}{}{[他用手画了一个大圆圈]一个牧场！太大了！他们在这里制造食物——这是世界上最重要的东西。}
 #{142}{}{This is the home of a great man. He owns this ranch and lives here with his family, guards, slaves, and brahmin. Oh, he guards it carefully... Step inside, and they'll shoot you on sight, unless you're one of their own!}
-{142}{}{这是一个伟人的家。他拥有这个牧场，和他的家人、守卫、奴隶和婆罗门住在这里。哦，他小心地保护着它。。。进去，他们一看到你就会开枪，除非你是他们自己人！}
+{142}{}{这是一个伟人的家。他拥有这个牧场，和他的家人、守卫、奴隶和双头牛住在这里。哦，他小心地保护着它...进去，他们一看到你就会开枪，除非你是他们自己人！}
 #{143}{}{Ohh, there's not many like him in Reno. A tough nut, for sure - but do you know how nuts spoil? Not from the outside, no, but from within!}
 {143}{}{哦，里诺没有多少像他这样的人。当然是个硬汉，但你知道坚果是怎么变质的吗？不是从外面，不是，而是从里面！}
 #{144}{}{Me? Oh, wanderer, what could interest you in an old hobo like me? I was born from dust, I live by dust, and one day soon I will return to dust. They'll forget me then, but not yet - sometimes the guards come by and ask me to bring something into or out of the city. Easier than sending a slave or a guard, yes?}
@@ -87,7 +87,7 @@
 #{1118}{}{It came down into our pockets, amiga.}
 {1118}{}{它掉到了我们的口袋里，阿米加。}
 #{1121}{}{If you say so...}
-{1121}{}{如果你这样说。。。}
+{1121}{}{如果你这样说...}
 #{1129}{}{Thank you, madam!}
 {1129}{}{谢谢你，夫人！}
 #{1135}{}{Of course, madam, happy to help.}

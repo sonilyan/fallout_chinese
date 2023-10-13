@@ -11,7 +11,7 @@
 #{105}{}{Release poison into the water tank.}
 {105}{}{往水箱里放毒药。}
 #{106}{}{You've released deadly poison into the water tank. Now everyone who drinks this water will die... Or so you hope. You should check back in a day or so to verify this theory.}
-{106}{}{你把致命的毒药放进了水箱。现在每个喝了这水的人都会死。。。或者你希望如此。你应该在一天左右回来核实一下这个理论。}
+{106}{}{你把致命的毒药放进了水箱。现在每个喝了这水的人都会死...或者你希望如此。你应该在一天左右回来核实一下这个理论。}
 #{107}{}{}
 {107}{}{}
 #{108}{}{Water is still undrinkable.}
@@ -23,7 +23,7 @@
 #{111}{}{One dose of poison won't be enough, you'll need at least two more. [Leave]}
 {111}{}{一剂毒药是不够的，你至少还需要两剂。[离开]}
 #{112}{}{Two doses of poison are not enough. If someone is left alive, they'll realize what happened at once. If only you could get another dose... [Leave]}
-{112}{}{两剂毒药是不够的。如果有人活着，他们会立刻意识到发生了什么。如果你能再给我一剂。。。[离开]}
+{112}{}{两剂毒药是不够的。如果有人活着，他们会立刻意识到发生了什么。如果你能再给我一剂...[离开]}
 #{113}{}{Looks like the poison acted violently. The raiders are dead! And looks like their death was nothing like gentle and easy.}
 {113}{}{看起来毒药作用很厉害。袭击者死了！看起来他们的死一点也不温柔和轻松。}
 #{114}{}{Not during combat!}

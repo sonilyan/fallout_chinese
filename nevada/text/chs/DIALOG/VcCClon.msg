@@ -13,7 +13,7 @@
 #{111}{}{How dare you stopping me! I will wreck you for this!}
 {111}{}{你竟敢阻止我！我要毁了你！}
 #{112}{}{Fine, I'll go talk to this... Colonel.}
-{112}{}{好吧，我去跟这个。。。上校。}
+{112}{}{好吧，我去跟这个...上校。}
 #{113}{}{I have a few questions first.}
 {113}{}{我先问几个问题。}
 #{114}{}{Colonel will answer to them, if he considers it necessary. Follow me.}
@@ -25,7 +25,7 @@
 #{121}{}{Damn clone, How dare you stopping me! I will wreck you for this!}
 {121}{}{该死的克隆人，你竟敢阻止我！我要毁了你！}
 #{122}{}{Fine, I'll go talk to your boss...}
-{122}{}{好吧，我去和你老板谈谈。。。}
+{122}{}{好吧，我去和你老板谈谈...}
 #{123}{}{I have some questions first.}
 {123}{}{我先有一些问题。}
 #{124}{}{He will answer to them himself. Follow me.}

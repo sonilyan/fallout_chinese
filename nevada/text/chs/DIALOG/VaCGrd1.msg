@@ -1,5 +1,5 @@
 #{100}{}{You see: a vault security guard.}
-{100}{}{你看：一个金库保安。}
+{100}{}{你看：一个避难所保安。}
 #{101}{}{You see a member of the Vault 8 security forces.}
 {101}{}{你看到8号保险库的一名保安。}
 #{102}{}{Move, move, move!}
@@ -7,7 +7,7 @@
 #{110}{}{Greetings, citizen. I'm the team's security detail for this mission. The rest is waiting for you in the medical bay. Let me know when they're ready.}
 {110}{}{你好，公民。我是这个任务的小组的警卫。其余的在医务室等你。准备好了就告诉我。}
 #{111}{}{Right...}
-{111}{}{正确的。。。}
+{111}{}{正确的...}
 #{112}{}{One more thing: take these flares. They can come in handy if there's too dark outside. Turn around the upper part to light one up.}
 {112}{}{还有一件事：拿着这些信号弹。如果外面太黑的话，它们可以派上用场。把上面的部分转过来点着。}
 #{113}{}{Okay.}
@@ -22,14 +22,14 @@
 {117}{}{我有什么可以自卫的吗？}
 #{118}{}{Follow me, we're ready to start the mission.}
 {118}{}{跟我来，我们准备开始任务了。}
-#{119}{}{Wait here. I�ll go get our team ready.}
+#{119}{}{Wait here. I??ll go get our team ready.}
 {119}{}{在这里等着。我去把我们的队伍准备好。}
 #{120}{}{Doctor Richard Moreau is supervising the operation, he will brief you. I'm only providing security.}
 {120}{}{Richard Moreau医生正在监督手术，他会向你汇报的。我只是提供安全保障。}
 #{121}{}{No. I've spent years training for this. I was taught to suppress my fears of outside world. This team can count on me.}
 {121}{}{不，我花了很多年的时间来训练。我被教导抑制对外界的恐惧。这个队可以依靠我。}
 #{122}{}{No. Vault security regulations forbid any citizens besides the Overseer and security personnel from carrying weapons. But don't worry, I'll keep you safe.}
-{122}{}{不。金库安全条例禁止除监工和安全人员以外的任何公民携带武器。但别担心，我会保护你的安全。}
+{122}{}{不。避难所安全条例禁止除监工和安全人员以外的任何公民携带武器。但别担心，我会保护你的安全。}
 #{123}{}{Affirmative. When the team is ready, use the terminal to open the door.}
 {123}{}{是的。团队准备好后，使用终端打开门。}
 #{124}{}{Got it.}
@@ -45,13 +45,13 @@
 #{154}{}{Fine.}
 {154}{}{好的。}
 #{160}{}{He's dead! [his head snaps back and forth, peering into the darkness] What happened? Where is doctor Moreau?! ...It doesn't matter now. Get back into the vault!}
-{160}{}{他死了！[他的头在黑暗中来回弹来弹去]发生了什么？莫罗医生在哪。。。现在不重要了。回到保险库去！}
+{160}{}{他死了！[他的头在黑暗中来回弹来弹去]发生了什么？莫罗医生在哪...现在不重要了。回到保险库去！}
 #{161}{}{What about Dr. Moreau?}
 {161}{}{莫罗医生呢？}
 #{162}{}{Move, citizen! You already have the data. This mission is over!}
 {162}{}{让开，市民！你已经有数据了。任务结束了！}
 #{163}{}{We can't leave without doctor Moreau! He might still be somewhere around here...}
-{163}{}{没有莫罗医生我们不能走！他可能还在附近。。。}
+{163}{}{没有莫罗医生我们不能走！他可能还在附近...}
 #{164}{}{[His eyes flare, he grits his teeth] I said MOVE! Doctor Moreau is gone. Get into the vault NOW!}
 {164}{}{[他瞪大眼睛，咬紧牙关]我说了快走！莫罗医生走了。快进保险库！}
 #{165}{}{No, Sergeant. Take the holodisk and go back. I'll look for Dr. Moreau.}
@@ -67,4 +67,4 @@
 #{170}{}{Citizen! Citizen, stop! [pause] Stop or I'll fire! [after a few silent seconds, you hear footsteps sprinting into the vault]}
 {170}{}{公民！公民，停下！[暂停]停下，否则我开枪！[沉默了几秒钟后，你听到脚步声冲进了保险库]}
 #{171}{}{Goodbye, Sergeant. This is where our paths diverge...}
-{171}{}{再见，中士。这是我们分道扬镳的地方。。。}
+{171}{}{再见，中士。这是我们分道扬镳的地方...}

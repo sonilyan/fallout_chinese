@@ -7,13 +7,13 @@
 #{110}{}{Mind pouring me another glass?}
 {110}{}{介意再给我倒一杯吗？}
 #{111}{}{I hope I don't get gas...}
-{111}{}{我希望我没有汽油。。。}
+{111}{}{我希望我没有汽油...}
 #{112}{}{Hmm... What an odd smell...}
-{112}{}{隐马尔可夫模型。。。多奇怪的味道。。。}
+{112}{}{Hmm...多奇怪的味道...}
 #{113}{}{I wonder what it's made of.}
 {113}{}{我想知道是什么做的。}
 #{114}{}{You know, the pre-war stuff was better...}
-{114}{}{你知道，战前的东西更好。。。}
+{114}{}{你知道，战前的东西更好...}
 #{115}{}{...but it's also all fizzled out, while this stuff is fresh!}
 {115}{}{……但它也都枯萎了，而这些东西是新鲜的！}
 #{116}{}{Tell me the truth, did you snatch this off a corpse or just steal it?}
@@ -29,4 +29,4 @@
 #{121}{}{I think I'll take a bottle for the road.}
 {121}{}{我想我带一瓶酒上路。}
 #{122}{}{As long as I don't get addicted...}
-{122}{}{只要我不上瘾。。。}
+{122}{}{只要我不上瘾...}

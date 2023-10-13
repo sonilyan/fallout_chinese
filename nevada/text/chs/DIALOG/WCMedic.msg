@@ -13,11 +13,11 @@
 #{120}{}{I found an excellent kit for healers, it's a set of tools and such. Want to see?}
 {120}{}{我找到了一套很好的治疗工具，是一套工具之类的。想看看吗？}
 #{121}{}{Kit for healers, you say? Funny. And what's in it? Some petals-flowers? He-he...}
-{121}{}{你说是治疗工具？好笑。里面有什么？一些花瓣和花？他他。。。}
+{121}{}{你说是治疗工具？好笑。里面有什么？一些花瓣和花？他他...}
 #{122}{}{No. There are all sorts of things to produce simple medicine in the field. You'd better look at it yourself!}
 {122}{}{不，在这个领域有各种各样的东西可以生产简单的药物。你最好自己看看！}
 #{123}{}{Hmm... Interesting. Apparently, the owner was not a bad healer. Well. I'll buy the kit for 1000, no more.}
-{123}{}{隐马尔可夫模型。。。很有趣。显然，主人不是一个坏的治疗者。好。我要花1000英镑买这个工具箱，再也不买了。}
+{123}{}{Hmm...很有趣。显然，主人不是一个坏的治疗者。好。我要花1000英镑买这个工具箱，再也不买了。}
 #{124}{}{Okay, I agree.}
 {124}{}{好吧，我同意。}
 #{125}{}{No, I will find more serious customers.}
@@ -33,7 +33,7 @@
 #{130}{}{Uh, sorry! Won't happen again!}
 {130}{}{呃，对不起！不会再发生了！}
 #{131}{}{How's it going with the water? I've been to Salt Lake, and there...}
-{131}{}{水怎么样了？我去过盐湖，那里。。。}
+{131}{}{水怎么样了？我去过盐湖，那里...}
 #{132}{}{With water things aren't that good everywhere. But we are not a very large settlement, and aren't wronged by nature. We get away with it.}
 {132}{}{有了水，到处都不是那么好。但我们不是一个很大的定居点，也没有受到大自然的伤害。我们可以逍遥法外。}
 #{133}{}{How do you get clean water?}
@@ -51,7 +51,7 @@
 #{139}{}{How are you going to handle the water purification then?}
 {139}{}{那你打算怎么处理净水呢？}
 #{140}{}{Buying all the disinfection available, building cisterns, and setting up the means of water purification. I think one can find generators and filters somewhere, in the cities like Vegas especially...}
-{140}{}{购买所有可用的消毒设备，建造蓄水池，建立净水设施。我想人们可以在某处找到发电机和过滤器，尤其是在维加斯这样的城市。。。}
+{140}{}{购买所有可用的消毒设备，建造蓄水池，建立净水设施。我想人们可以在某处找到发电机和过滤器，尤其是在维加斯这样的城市...}
 #{141}{}{What else? You seem to be thinking about something.}
 {141}{}{还有什么？你好像在想什么。}
 #{142}{}{Oh, nothing. It would just be terribly convenient to pump water from the ground, it's clean there. It would require a lot of special equipment to be found. And, apparently, a lot of such equipment already exist in Salt Lake.}
@@ -69,7 +69,7 @@
 #{180}{}{I need healing.}
 {180}{}{我需要治疗。}
 #{181}{}{It's nothing serious, will heal fast. Let's see...}
-{181}{}{没什么大不了的，会很快痊愈的。让我们看看。。。}
+{181}{}{没什么大不了的，会很快痊愈的。让我们看看...}
 #{182}{}{Come on, doc! I'm dying!}
 {182}{}{快点，医生！我要死了！}
 #{183}{}{Now, now, don't get so excited!}
@@ -109,11 +109,11 @@
 #{205}{}{Too bad.}
 {205}{}{太糟糕了。}
 #{206}{}{Wha... Oh, you scoundrel! So that's how you pay for the good!}
-{206}{}{什么。。。哦，你这个无赖！所以这就是你为美好付出的方式！}
+{206}{}{什么...哦，你这个无赖！所以这就是你为美好付出的方式！}
 #{207}{}{Old man, don't yell, they'll hear and it'll be bad for you. I won't say it twice. You have the last word.}
 {207}{}{老头子，别喊了，他们会听到的，对你不好。我不会再说两次。你说了算。}
 #{208}{}{Uh...}
-{208}{}{休斯敦大学。。。}
+{208}{}{Uh...}
 #{209}{}{Old man, I'm waiting. Come on! Make up your mind already!}
 {209}{}{老头子，我在等你。加油！已经下定决心了！}
 #{210}{}{Oh, that's how you speak now! Wesker wouldn't know so GET OUT OF HERE!}
@@ -121,7 +121,7 @@
 #{211}{}{Consider, you've been subscribed. Wait for the news.}
 {211}{}{考虑一下，你已经被订阅了。等待消息。}
 #{212}{}{Uh... Well. I'll tell you all, in the end, it's not such a big secret.}
-{212}{}{休斯敦大学。。。好。我告诉你们，最后，这不是什么大秘密。}
+{212}{}{Uh...好。我告诉你们，最后，这不是什么大秘密。}
 #{213}{}{You should have said so from the beginning. Start talking.}
 {213}{}{你应该从一开始就这么说。开始说话。}
 #{214}{}{[You spend some time doing unsuccessful experiments, but in the end you've managed to learn this craft, so you are now able to make antidotes and healing powders through the first aid kit]}
@@ -147,7 +147,7 @@
 #{224}{}{ bucks a dose.}
 {224}{}{一剂多少钱。}
 #{225}{}{...Although, why do you need such a primitive drug? You should have bought a stimpak...}
-{225}{}{……不过，你为什么需要这么原始的药物？你应该买一个stimpak。。。}
+{225}{}{……不过，你为什么需要这么原始的药物？你应该买一个stimpak...}
 #{226}{}{One.}
 {226}{}{一个。}
 #{227}{}{Two.}
@@ -169,7 +169,7 @@
 #{250}{}{Urgent! One of the caravaneers needs medical help!}
 {250}{}{紧急！其中一个商队需要医疗救助！}
 #{251}{}{Uh... [shakes his head] Another one was painted, right? It often happens here.}
-{251}{}{休斯敦大学。。。[摇头]又画了一个，对吧？这在这里经常发生。}
+{251}{}{Uh...[摇头]又画了一个，对吧？这在这里经常发生。}
 #{252}{}{Here's $ 100. Help him!}
 {252}{}{这是100美元。救救他！}
 #{253}{}{}
@@ -179,7 +179,7 @@
 #{255}{}{Well, you shouldn't be so heartless!}
 {255}{}{好吧，你不应该这么无情！}
 #{256}{}{Thinking about it - why not...}
-{256}{}{想想-为什么不。。。}
+{256}{}{想想-为什么不...}
 #{257}{}{That's right. Come on! Come on!}
 {257}{}{这是正确的。加油！加油！}
 #{1120}{}{I found an excellent kit for healers, it's a set of tools and such. Want to see?}
@@ -187,7 +187,7 @@
 #{1124}{}{Okay, I agree.}
 {1124}{}{好吧，我同意。}
 #{1131}{}{How's it going with the water? I've been to Salt Lake, and there...}
-{1131}{}{水怎么样了？我去过盐湖，那里。。。}
+{1131}{}{水怎么样了？我去过盐湖，那里...}
 #{1180}{}{Help! I'm hurt!}
 {1180}{}{救命啊！我受伤了！}
 #{1186}{}{ bucks and you will be like new.}
@@ -195,6 +195,6 @@
 #{1204}{}{No, for the other reason - so I wouldn't go on to Wesker and say him that you have a drug lab. Proving this would be easy.}
 {1204}{}{不，因为另一个原因-所以我不会继续对韦斯克说你有一个药物实验室。证明这一点很容易。}
 #{1206}{}{Wha... Oh, you scoundrel! So that's how you pay for the good!}
-{1206}{}{什么。。。哦，你这个无赖！所以这就是你为美好付出的方式！}
+{1206}{}{什么...哦，你这个无赖！所以这就是你为美好付出的方式！}
 #{1210}{}{Oh, that's how you speak now! Wesker wouldn't know so GET OUT OF HERE!}
 {1210}{}{哦，你现在就是这么说的！韦斯克不会知道的，所以滚开！}

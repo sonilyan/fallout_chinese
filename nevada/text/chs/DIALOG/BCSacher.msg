@@ -27,11 +27,11 @@
 #{150}{}{Someone told me a prospector from Reno is hiding in Black Rock. Do you know anything about that?}
 {150}{}{有人告诉我一个来自雷诺的探矿者藏在黑岩里。你知道吗？}
 #{151}{}{Er... Well, there's people here from all over Nevada. Why?}
-{151}{}{呃。。。嗯，这里有来自内华达州各地的人。为什么？}
+{151}{}{呃...嗯，这里有来自内华达州各地的人。为什么？}
 #{152}{}{No reason... It just so happens I have something from Mr. Wright.}
-{152}{}{没有理由。。。碰巧我从赖特先生那里得到了一些东西。}
+{152}{}{没有理由...碰巧我从赖特先生那里得到了一些东西。}
 #{153}{}{[Furtively draws his head into shoulders] Mr. Who? N-never heard of him. Er... Why, who is he looking for?}
-{153}{}{[偷偷地把头伸进肩膀]谁？从没听说过他。呃。。。为什么，他在找谁？}
+{153}{}{[偷偷地把头伸进肩膀]谁？从没听说过他。呃...为什么，他在找谁？}
 #{154}{}{Well, well. I never said he was looking for anyone.}
 {154}{}{好吧，好吧。我从没说过他在找人。}
 #{155}{}{[He looks around agitatedly] Mister Wright put a hit on me, didn't he?}
@@ -47,7 +47,7 @@
 #{160}{}{That's interesting to hear. What's the deal between you and Wright?}
 {160}{}{这很有趣。你和赖特之间有什么交易？}
 #{161}{}{Uh, just - just wait! Wright's not going to see my body anyway, right? How about this: I give you my contract with him and you get off me. You'll show him the contract and tell him you took it off my dead body. He'll never see me again. And I'll even give you my metal detector, I'm sure you can get some cash for it! Can... Can we make a deal?}
-{161}{}{呃，等等！赖特无论如何也不会看到我的身体，对吧？不如这样：我把我和他的合同给你，你就滚开。你要给他看合同，告诉他你从我尸体上拿走了。他再也见不到我了。我甚至会把我的金属探测器给你，我相信你可以拿些现金！我可以。。。我们能做个交易吗？}
+{161}{}{呃，等等！赖特无论如何也不会看到我的身体，对吧？不如这样：我把我和他的合同给你，你就滚开。你要给他看合同，告诉他你从我尸体上拿走了。他再也见不到我了。我甚至会把我的金属探测器给你，我相信你可以拿些现金！我可以...我们能做个交易吗？}
 #{162}{}{Why not? Give me the contract and the metal detector. I'll take care of everything else.}
 {162}{}{为什么不？把合同和金属探测器给我。其他的我都会处理。}
 #{163}{}{First, tell me what happened between you and Wright.}
@@ -55,7 +55,7 @@
 #{164}{}{Lying is a nasty habit, but in this case, a profitable one.}
 {164}{}{说谎是一种讨厌的习惯，但在这种情况下，说谎是一种有利可图的习惯。}
 #{165}{}{[He sighs in relief] Oh, thank god... Look, if it's another competing prospectors - good luck to them. I could never finish the contract anyway.}
-{165}{}{[他松了口气]哦，感谢上帝。。。听着，如果是另一个竞争的探矿者-祝他们好运。无论如何，我永远也不能完成合同。}
+{165}{}{[他松了口气]哦，感谢上帝...听着，如果是另一个竞争的探矿者-祝他们好运。无论如何，我永远也不能完成合同。}
 #{166}{}{Tell me more.}
 {166}{}{告诉我更多。}
 #{167}{}{Where do I even start? My partner and I were supposed to get the explosives from Hawthorne, but it turned out to be not so easy. Robert died by the hands of some rival prospectors, and I alone couldn't get the job done. I snuck back into Reno to talk with my family, and we all decided it'll be better for me to leave the city, before Wright's sons kill me. That's the short version.}
@@ -73,7 +73,7 @@
 #{173}{}{Wright controls the electricity business in Reno. He used to make good money off it before, but now he's barely scraping by. There's a village south of Reno built around an old uranium mine, and he needs that uranium to make power. I don't know exactly where the explosives come in, but my guess is that he's expanding the mine.}
 {173}{}{赖特控制着雷诺的电力业务。他以前靠这个赚大钱，但现在几乎过不去了。里诺南部有个村庄围绕着一个老铀矿而建，他需要铀来发电。我不知道炸药到底是从哪里来的，但我猜他在扩建矿井。}
 #{174}{}{I was coming back from a exploration run, when I saw rival competitors in our camp. I hid, but Robert... [he sighs] I wanted to help, but it was one against four. It's pure luck I survived at all.}
-{174}{}{我刚从探险队回来，突然在营地里看到了竞争对手。我藏起来了，但是罗伯特。。。[他叹了口气]我想帮忙，但那是一对四。我幸免于难。}
+{174}{}{我刚从探险队回来，突然在营地里看到了竞争对手。我藏起来了，但是罗伯特...[他叹了口气]我想帮忙，但那是一对四。我幸免于难。}
 #{175}{}{How?! You want me to look in their eyes and tell them I just left their son to die? God, I can't even look myself in the mirror. How can I possibly face them?}
 {175}{}{怎样？！你想让我看着他们的眼睛告诉他们我让他们的儿子死了？天哪，我甚至不能照镜子。我怎么可能面对他们？}
 #{176}{}{Because that's what he fucking does! He's a gangster, like every other boss in Reno! He'd make an example of me. Honestly, I can't even blame him - I messed up, and my family already owes him a lot of money.}
@@ -95,7 +95,7 @@
 #{184}{}{}
 {184}{}{}
 #{185}{}{Wait, I know, what you need! Wright's not going to see my body anyway, right? How about this: I give you my contract with him and you get off me. You'll show him the contract and tell him you took it off my dead body. He'll never see me again. And I'll even give you my metal detector, I'm sure you can get some cash for it! Can... Can we make a deal?}
-{185}{}{等等，我知道，你需要什么！赖特无论如何也不会看到我的身体，对吧？不如这样：我把我和他的合同给你，你就滚开。你要给他看合同，告诉他你从我尸体上拿走了。他再也见不到我了。我甚至会把我的金属探测器给你，我相信你可以拿些现金！我可以。。。我们能做个交易吗？}
+{185}{}{等等，我知道，你需要什么！赖特无论如何也不会看到我的身体，对吧？不如这样：我把我和他的合同给你，你就滚开。你要给他看合同，告诉他你从我尸体上拿走了。他再也见不到我了。我甚至会把我的金属探测器给你，我相信你可以拿些现金！我可以...我们能做个交易吗？}
 #{186}{}{Give me the contract and the metal detector. I'll take care of everything else.}
 {186}{}{把合同和金属探测器给我。其他的我都会处理。}
 #{187}{}{No. You have to pay your debt to your and Robert's family.}
@@ -107,6 +107,6 @@
 #{190}{}{I'll get the explosives and complete the contract for you. Trust me.}
 {190}{}{我去拿炸药，帮你完成合同。相信我。}
 #{193}{}{Really? But... Oh, what choice do I have? Here's the contract. And take this metal detector - it'll get you past the mines in Hawthorne. I'll go to Reno and wait for you. I'm counting on you, okay? Both of our families are depend on that contract.}
-{193}{}{真正地？但是。。。哦，我还有什么选择？这是合同。带上这个金属探测器-它能让你通过霍桑的矿井。我去雷诺等你。我全靠你了，好吗？我们两家都依赖那份合同。}
+{193}{}{真正地？但是...哦，我还有什么选择？这是合同。带上这个金属探测器-它能让你通过霍桑的矿井。我去雷诺等你。我全靠你了，好吗？我们两家都依赖那份合同。}
 #{194}{}{Stay safe.}
 {194}{}{注意安全。}

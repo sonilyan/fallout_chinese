@@ -15,13 +15,13 @@
 #{122}{}{I confess, It is me who's been robbing you. Now I feel bad about it.}
 {122}{}{我承认，是我抢了你的钱。现在我感到很难过。}
 #{123}{}{That's a pity, err... I hope you'll find the perpetrator.}
-{123}{}{真遗憾，呃。。。我希望你能找到凶手。}
+{123}{}{真遗憾，呃...我希望你能找到凶手。}
 #{124}{}{Come on! Don't make me laugh! It was probably some juvie from Salt Lake's outskirts or those bastards from Provo.}
 {124}{}{加油！别逗我笑！可能是盐湖城郊区的某个犹太教徒或者普罗沃的那些混蛋。}
 #{125}{}{Provo?}
 {125}{}{普罗沃？}
 #{126}{}{Oh... My, my...}
-{126}{}{哦。。。我的，我的。。。}
+{126}{}{哦...我的，我的...}
 #{127}{}{Yes, I am more inclined to think it was them. Don't you know? It's a settlement to the south of here, homing criminals that were exiled out of the city by Burton. Now they hate the whole of Salt Lake for that. They once were the kings of the city's underworld, having free rein over whom to destroy and whom to spare. Fortunately, that time is in the past now. You'd better stay away from the area, just like we do.}
 {127}{}{是的，我更倾向于认为是他们。你不知道吗？这是一个在这里南部的定居点，安置被伯顿流放出城的罪犯。现在他们恨整个盐湖城。他们曾是城内阴间的君王，可以随意支配谁毁灭谁饶恕。幸运的是，这段时间已经过去了。你最好离这地方远点，就像我们一样。}
 #{128}{}{Got it.}
@@ -35,9 +35,9 @@
 #{143}{}{You know, I won't be asking any questions! I've been trying to find the part for several years! Please, sell it to me!}
 {143}{}{你知道，我不会问任何问题的！几年来我一直在找这个角色！拜托，卖给我吧！}
 #{144}{}{Why should I sell it to you, exactly? From what I gather, the citizens also need water...}
-{144}{}{我到底为什么要卖给你？据我所知，市民们也需要水。。。}
+{144}{}{我到底为什么要卖给你？据我所知，市民们也需要水...}
 #{145}{}{It's in everyone's interest that the tower works properly. Water is the basis of life... And of our production. The cleaner it is - the bigger our income, and the more grateful clients we have. The factory will attracts rows of caravans to Salt Lake! It will cause a real uproar!}
-{145}{}{这座塔运转正常符合每个人的利益。水是生命的基础。。。以及我们的产品。越干净，我们的收入就越高，我们的客户也就越感激。这家工厂将吸引成排的商队来盐湖城！会引起轩然大波的！}
+{145}{}{这座塔运转正常符合每个人的利益。水是生命的基础...以及我们的产品。越干净，我们的收入就越高，我们的客户也就越感激。这家工厂将吸引成排的商队来盐湖城！会引起轩然大波的！}
 #{146}{}{Is that all?}
 {146}{}{就这些吗？}
 #{147}{}{I would also like to note that our factory is the wealthiest enterprise in the city. No one will be able to offer you more for this thing than us. Do you understand?}
@@ -51,9 +51,9 @@
 #{151}{}{No, I'd rather look for other buyers.}
 {151}{}{不，我宁愿找其他买家。}
 #{152}{}{Oh... Well then. I'm one hundred percent sure you'll come back though, because *nobody* in the city can offer you more money. Trust me on that.}
-{152}{}{哦。。。那好吧。我百分之百肯定你会回来的，因为城里没人能给你更多的钱。相信我。}
+{152}{}{哦...那好吧。我百分之百肯定你会回来的，因为城里没人能给你更多的钱。相信我。}
 #{153}{}{We'll see...}
-{153}{}{我们拭目以待。。。}
+{153}{}{我们拭目以待...}
 #{154}{}{You have delivered the water filter for the use in the artesian tower and with that improved the quality of life in the area.}
 {154}{}{您已经交付了水过滤器用于自流塔，并用它改善了该地区的生活质量。}
 #{155}{}{[The factory manager is fixated on the part, ignoring your presence.]}
@@ -63,9 +63,9 @@
 #{157}{}{[You drop the part on the floor, making the factory manager's hair stand on end.] WHAT ARE YOU DOING!!!}
 {157}{}{[你把零件掉在地上，把厂长的头发竖起来]你在干什么！！！}
 #{158}{}{Oh, don't worry, it's alright. Let me pick this back up...}
-{158}{}{别担心，没事的。让我把这个拿回来。。。}
+{158}{}{别担心，没事的。让我把这个拿回来...}
 #{160}{}{Lately, I wandered into the artesian tower... Why don't you get it working?}
-{160}{}{最近，我走进了自流塔。。。你为什么不让它工作呢？}
+{160}{}{最近，我走进了自流塔...你为什么不让它工作呢？}
 #{161}{}{Yeah, I know. The whole city's been talking about it for ages. But alas, so far the talks remained just that - talks.}
 {161}{}{是的，我知道。整个城市都在谈论这个问题很久了。但遗憾的是，到目前为止，谈判仍然是那种——谈判。}
 #{162}{}{What's the trouble?}
@@ -81,7 +81,7 @@
 #{167}{}{I'm afraid it can't. No equivalent parts in the region.}
 {167}{}{恐怕不行。这个地区没有同等的零件。}
 #{168}{}{Well, too bad. It would be nice to find the part...}
-{168}{}{好吧，太糟糕了。很高兴能找到那个角色。。。}
+{168}{}{好吧，太糟糕了。很高兴能找到那个角色...}
 #{169}{}{}
 {169}{}{}
 #{170}{}{What will be the next task?}
@@ -123,7 +123,7 @@
 #{206}{}{Really?! No mob wars, no dumping dead bodies of competitors, blackmailing or intimidating, nothing?}
 {206}{}{真正地？！没有暴民战争，没有丢弃竞争对手的尸体，没有勒索或恐吓，什么都没有？}
 #{207}{}{Hmm... Are you from Reno, perchance? They seem to like to deal with problems by smashing them with big sticks there. Here, everyone knows that no wannabe would be able to head an enterprise: they won't have the knowledge, nor the skills, nor the support of the community.}
-{207}{}{隐马尔可夫模型。。。你是雷诺人吗？他们似乎喜欢在那里用大棒砸问题。在这里，每个人都知道，没有人能领导一个企业：他们没有知识，没有技能，也没有社区的支持。}
+{207}{}{Hmm...你是雷诺人吗？他们似乎喜欢在那里用大棒砸问题。在这里，每个人都知道，没有人能领导一个企业：他们没有知识，没有技能，也没有社区的支持。}
 #{208}{}{I see. May I ask another question?}
 {208}{}{我懂了。我可以再问一个问题吗？}
 #{209}{}{Okay, that's enough.}
@@ -133,13 +133,13 @@
 #{211}{}{My ancestor was the owner of the factory before the war, but they were making quite different drinks here back then. Ten years ago, I started to actively work on re-establishing the factory: I found Nuka-Cola recipes and gathered necessary people, while the laborers were provided by the local forced-labor camp. Repairing old machinery was a much harder task, though. We spent many years to get it all to work.}
 {211}{}{我的祖先在战前是这家工厂的老板，但那时他们在这里生产完全不同的饮料。十年前，我开始积极重建工厂：我找到了努卡可乐的配方，并召集了必要的人员，而劳动力则由当地的强迫劳动营提供。不过，修理旧机器是一项困难得多的任务。我们花了很多年的时间使这一切得以实现。}
 #{212}{}{What is this nonsense?! Well... We did have forced laborers working for us, that is true. Those were some hard times, indeed.}
-{212}{}{这是什么废话？！好。。。我们确实强迫劳工为我们工作，这是真的。那确实是一些艰难的时期。}
+{212}{}{这是什么废话？！好...我们确实强迫劳工为我们工作，这是真的。那确实是一些艰难的时期。}
 #{213}{}{The factory hasn't been doing well lately. Production has been declining, our income is low and people lose motivation to work.}
 {213}{}{这家工厂最近经营不好。生产一直在下降，我们的收入很低，人们失去了工作的动力。}
 #{214}{}{The factory has been doing rather well lately. We have so many contracts now that we sometimes run short of hands able to work on them! Our income is high and people are as motivated as ever. We must strike it while it's hot and get the most out of the situation.}
 {214}{}{这家工厂最近经营得相当好。我们现在的合同太多了，有时人手不够！我们的收入很高，人们的积极性一如既往。我们必须趁热打铁，充分利用形势。}
 #{215}{}{Everything as usual: the people are lazy, the income isn't encouraging, but we have enough to keep our heads above water for now... Not sure how long we'll last, though.}
-{215}{}{一切如常：人民懒惰，收入不令人鼓舞，但我们现在有足够的钱保持头脑清醒。。。不过，不知道我们还能坚持多久。}
+{215}{}{一切如常：人民懒惰，收入不令人鼓舞，但我们现在有足够的钱保持头脑清醒...不过，不知道我们还能坚持多久。}
 #{216}{}{Some asshole has also sabotaged our production. We haven't been able to find out who it was. It must have been some tricky son of a bitch!}
 {216}{}{一些混蛋也破坏了我们的生产。我们还没找到是谁。一定是个狡猾的混蛋！}
 #{217}{}{Oh, and some bastard has been robbing our Nuka-Cola vending machines. That sly punk leaves no evidence behind and acts very carefully. I've already talked to the Sheriff regarding this matter. I'm sure mr. Burton will promptly deal with the problem.}
@@ -177,7 +177,7 @@
 #{250}{}{I'm looking for work. Maybe you can find a position for me?}
 {250}{}{我在找工作。也许你能帮我找个职位？}
 #{251}{}{I have enough workers for now... On second thought, are you from around here?}
-{251}{}{我现在有足够的工人。。。仔细想想，你是这附近的人吗？}
+{251}{}{我现在有足够的工人...仔细想想，你是这附近的人吗？}
 #{252}{}{Oh, no, I'm just passing through.}
 {252}{}{哦，不，我只是路过。}
 #{253}{}{Passing through, you say? Then I may have something for you. You could do me a few favors then be on your way.}
@@ -193,13 +193,13 @@
 #{258}{}{You know, I don't think it's fair to do business like that. I refuse.}
 {258}{}{你知道，我觉得这样做不公平。我拒绝。}
 #{259}{}{Hmm... Make sure to shut the door on your way out.}
-{259}{}{隐马尔可夫模型。。。出去的时候一定要把门关上。}
+{259}{}{Hmm...出去的时候一定要把门关上。}
 #{260}{}{Er, okay.}
 {260}{}{呃，好吧。}
 #{261}{}{Thank you for your time. But please remember: I'm not asking you to do anything illegal, but I don't care how you deal with the guy. In any case, I will deny my involvement in any misconduct, and the Sheriff trusts me much more than he trusts you.}
 {261}{}{谢谢你抽出时间。但请记住：我不是要你做任何违法的事，但我不在乎你怎么处理这个家伙。无论如何，我会否认我参与了任何不当行为，警长对我的信任远远超过对你的信任。}
 #{262}{}{I'll keep in mind your... Loyalty. The job's as good as done.}
-{262}{}{我会记住你的。。。忠诚。工作做得很好。}
+{262}{}{我会记住你的...忠诚。工作做得很好。}
 #{263}{}{Certainly. What would you like to know?}
 {263}{}{当然。你想知道什么？}
 #{264}{}{Where do I find this salesman?}
@@ -241,7 +241,7 @@
 #{282}{}{May I ask you a question? Why does you Nuka-Cola tastes different from the one sold by that salesman?}
 {282}{}{我可以问你一个问题吗？为什么你的努卡可乐和那个售货员卖的不一样？}
 #{283}{}{[He frowns, showing his discontent with this conversation.] Firstly, the pre-war drink has been kept in closed bottles for more than 70 years. In that time, like wine, it has changed its properties, gaining new ones. The Nuka-Cola that you can find in pre-war stocks is already quite different than it once was. And secondly... I don't like to talk about it, but we don't know how the drink was made in the past. We managed to attain a more-or-less similar tasting qualities, thanks to the information from the labels and our own laboratory research. Of course, it's not a complete match. That's why our Nuka-Cola is somewhat different from the pre-war one, but people still like it.}
-{283}{}{[他皱着眉头，表示他对这次谈话的不满]首先，战前的饮料已经被关在瓶子里70多年了。在那个时代，它和葡萄酒一样，改变了它的特性，获得了新的特性。你可以在战前的库存中找到的努卡可乐已经和以前大不相同了。其次。。。我不想谈这个，但我们不知道这饮料过去是怎么做的。多亏了标签上的信息和我们自己的实验室研究，我们设法获得了或多或少相似的品尝品质。当然，这不完全匹配。这就是为什么我们的努卡可乐与战前的有所不同，但人们仍然喜欢它。}
+{283}{}{[他皱着眉头，表示他对这次谈话的不满]首先，战前的饮料已经被关在瓶子里70多年了。在那个时代，它和葡萄酒一样，改变了它的特性，获得了新的特性。你可以在战前的库存中找到的努卡可乐已经和以前大不相同了。其次...我不想谈这个，但我们不知道这饮料过去是怎么做的。多亏了标签上的信息和我们自己的实验室研究，我们设法获得了或多或少相似的品尝品质。当然，这不完全匹配。这就是为什么我们的努卡可乐与战前的有所不同，但人们仍然喜欢它。}
 #{284}{}{Thanks for your answer. Now the things are much clearer.}
 {284}{}{谢谢你的回答。现在情况更清楚了。}
 #{1120}{}{I've heard your Nuka-Cola vending machines are constantly being robbed. Have you managed to catch the thief yet?}
@@ -251,6 +251,6 @@
 #{1150}{}{I agree. Here's the part.}
 {1150}{}{我同意。这是部分。}
 #{1160}{}{I once wandered into the artesian tower... Why don't you get it working?}
-{1160}{}{有一次我走进了自流塔。。。你为什么不让它工作呢？}
+{1160}{}{有一次我走进了自流塔...你为什么不让它工作呢？}
 #{1251}{}{I have enough workers for now... On second thought, are you from around here?}
-{1251}{}{我现在有足够的工人。。。仔细想想，你是这附近的人吗？}
+{1251}{}{我现在有足够的工人...仔细想想，你是这附近的人吗？}

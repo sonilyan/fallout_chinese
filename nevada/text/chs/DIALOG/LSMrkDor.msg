@@ -1,6 +1,6 @@
 #{100}{}{You see a door.}
 {100}{}{你看到一扇门。}
-#{101}{}{You see a very powerful door with a heavy lock. Even a dynamite won�t take this!}
+#{101}{}{You see a very powerful door with a heavy lock. Even a dynamite won??t take this!}
 {101}{}{你看到一扇有重锁的很有力的门。即使是炸药也受不了！}
 #{102}{}{The door is locked.}
 {102}{}{门是锁着的。}

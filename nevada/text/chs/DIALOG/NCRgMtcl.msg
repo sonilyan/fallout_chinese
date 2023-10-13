@@ -21,7 +21,7 @@
 #{110}{}{We've got a guy for that. He accepts bets right before the fights start, see him then.}
 {110}{}{我们已经找到一个人了。他在比赛开始前就接受了赌注，到时候见。}
 #{111}{}{I doubt it... But anyway, it's not up to me. Take the hall on your right into the gym, then head up to the boss's office. Talk to him.}
-{111}{}{我怀疑。。。但不管怎样，这不取决于我。从你右边的大厅进入健身房，然后前往老板办公室。和他谈谈。}
+{111}{}{我怀疑...但不管怎样，这不取决于我。从你右边的大厅进入健身房，然后前往老板办公室。和他谈谈。}
 #{112}{}{Who's in the ring right now?}
 {112}{}{现在谁在拳击场？}
 #{113}{}{Hell if I know. Some tribals from the wastes. They're brought in from time to time by slavers. They're replaced so quickly, I don't even try to remember their names. And why should I? They're just meat. [he shrugs indifferently]}
@@ -29,7 +29,7 @@
 #{114}{}{I'm looking for the girl in this picture. Ever seen her around here?}
 {114}{}{我在找照片里的女孩。在这附近见过她吗？}
 #{115}{}{Nope, don't think I have, but her body seems familiar... Weird, how could a body be familiar? [he screws up his face, scratching his head] Maybe from the night club? Oh yeah! I'm not really sure, but I think I saw her dancing there. A body like that... [he looks like he's about to start drooling]}
-{115}{}{不，我想我没有，但她的身体看起来很熟悉。。。奇怪，一具尸体怎么会很熟悉？[他把脸弄得一团糟，挠头]也许是从夜总会来的？哦，是的！我不太确定，但我想我看到她在那儿跳舞了。像这样的尸体。。。[他看起来要流口水了]}
+{115}{}{不，我想我没有，但她的身体看起来很熟悉...奇怪，一具尸体怎么会很熟悉？[他把脸弄得一团糟，挠头]也许是从夜总会来的？哦，是的！我不太确定，但我想我看到她在那儿跳舞了。像这样的尸体...[他看起来要流口水了]}
 #{116}{}{I heard you had a guy running dope here. I really need some, you dig?}
 {116}{}{我听说你有个家伙在这里经营毒品。我真的需要一些，明白吗？}
 #{117}{}{Are you okay? What dealers?!}
@@ -37,7 +37,7 @@
 #{118}{}{These dealers. [show note]}
 {118}{}{这些经销商。[显示注释]}
 #{119}{}{Hm... You're right. Jackson must have screwed up.}
-{119}{}{嗯。。。你说得对。杰克逊一定是搞砸了。}
+{119}{}{嗯...你说得对。杰克逊一定是搞砸了。}
 #{120}{}{Ah, yeah, I heard something like that. Shady guys, made some deals before leaving. But Mr. Bishop kicked them all out.}
 {120}{}{啊，是的，我听到了这样的话。见不得人的家伙，在离开前做了些交易。但毕晓普先生把他们全都赶了出去。}
 #{121}{}{Got it.}

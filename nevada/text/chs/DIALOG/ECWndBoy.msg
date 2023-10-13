@@ -13,13 +13,13 @@
 #{114}{}{Hey, you got a gun? Then shoot, for your life!}
 {114}{}{嘿，你有枪吗？那就开枪吧，为了你的生命！}
 #{120}{}{Phew... [breathing heavily, grabs his chest and sits on the ground leaning on his arms] Hey, you're lucky that I didn't took you for a raider, or you would lie down on the ground, like the others.}
-{120}{}{呸。。。[喘着粗气，抓住他的胸口，靠在胳膊上坐在地上]嘿，你很幸运，我没有把你当成袭击者，否则你会像其他人一样躺在地上。}
+{120}{}{呸...[喘着粗气，抓住他的胸口，靠在胳膊上坐在地上]嘿，你很幸运，我没有把你当成袭击者，否则你会像其他人一样躺在地上。}
 #{121}{}{Yeah, sure. Anyway, what happened?}
 {121}{}{是的，当然。不管怎样，发生了什么？}
 #{122}{}{There were three of us, we patrolled the area, when the raiders attacked us from their cover. I was quick to fight back and run, but they continued to follow me. Hell, just a little more time and I would have been roasted hard.}
 {122}{}{我们有三个人，我们在这个地区巡逻，这时袭击者从他们的掩护下袭击了我们。我很快就反击逃跑了，但他们继续跟着我。天哪，只要再多一点时间，我就会被烤得很硬。}
 #{123}{}{Hmm. Show me your clip... Oh, I see.}
-{123}{}{嗯。给我看看你的剪辑。。。哦，我明白了。}
+{123}{}{嗯。给我看看你的剪辑...哦，我明白了。}
 #{124}{}{Damn, because I'm a rookie, I was given little ammunition. What were they thinking, dammit! And you? At least you could help!}
 {124}{}{妈的，因为我是新手，我没什么弹药。他们在想什么，该死的！和你？至少你能帮上忙！}
 #{125}{}{I have to save ammo, ha-ha.}
@@ -43,7 +43,7 @@
 #{134}{}{You got the exact coordinates of the Wind of War.}
 {134}{}{你得到了战争之风的精确坐标。}
 #{140}{}{Phew... [breathing heavily, grabs his chest and sits on the ground leaning on his arms] Thank you, wanderer, if not for you, I would be burning in hell.}
-{140}{}{呸。。。[喘着粗气，抓住胸口，靠着胳膊坐在地上]谢谢你，流浪汉，如果不是你，我会在地狱里燃烧。}
+{140}{}{呸...[喘着粗气，抓住胸口，靠着胳膊坐在地上]谢谢你，流浪汉，如果不是你，我会在地狱里燃烧。}
 #{141}{}{What happened?}
 {141}{}{怎么搞的？}
 #{142}{}{I see, your ammo is almost gone.}
@@ -51,7 +51,7 @@
 #{143}{}{Damn, right, as a rookie I was given a very few rounds. What were they thinking, dammit! I was lucky to meet you along the way.}
 {143}{}{他妈的，对，作为一个菜鸟，我有过几次机会。他们在想什么，该死的！我很幸运在路上遇到你。}
 #{144}{}{Yeah...}
-{144}{}{是 啊。。。}
+{144}{}{是 啊...}
 #{145}{}{Look, I will get back to my brothers in arms in the Wind of War, I will tell them about your help. Surely they will appreciate it. But now I have to go. Thanks again.}
 {145}{}{听着，我会在战争之风中回到我的战友那里，我会告诉他们你的帮助。他们一定会感激的。但现在我得走了。再次感谢。}
 #{146}{}{Take care.}
@@ -65,4 +65,4 @@
 #{1129}{}{That so? Hmm. Sounds plausible. Anyway, now I should go join my brothers in arms in the Wind of War and tell them the whole story. You go your own way, wanderer.}
 {1129}{}{是这样吗？嗯。听起来有道理。不管怎样，现在我应该去和我的兄弟们一起在战争的风中战斗，告诉他们整个故事。你走你自己的路，流浪者。}
 #{1140}{}{Phew... [breathing heavily, grabs his chest and sits on the ground leaning on his arms] Thank you, wanderer, if not for you, I would be burning in hell.}
-{1140}{}{呸。。。[喘着粗气，抓住胸口，靠着胳膊坐在地上]谢谢你，流浪汉，如果不是你，我会在地狱里燃烧。}
+{1140}{}{呸...[喘着粗气，抓住胸口，靠着胳膊坐在地上]谢谢你，流浪汉，如果不是你，我会在地狱里燃烧。}

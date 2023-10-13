@@ -27,13 +27,13 @@
 #{119}{}{Yes, please.}
 {119}{}{好的，谢谢。}
 #{120}{}{But this is not enough... Look, this job is already too exhausting to give away food for free.}
-{120}{}{但这还不够。。。听着，这份工作已经太累了，不能免费赠送食物了。}
+{120}{}{但这还不够...听着，这份工作已经太累了，不能免费赠送食物了。}
 #{121}{}{I understand...}
-{121}{}{我理解。。。}
+{121}{}{我理解...}
 #{122}{}{I see. Now give me one sandwich.}
 {122}{}{我懂了。现在给我一个三明治。}
 #{150}{}{[Her look becomes especially tired] To chat... About what?}
-{150}{}{[她的表情变得特别疲惫]聊天。。。关于什么？}
+{150}{}{[她的表情变得特别疲惫]聊天...关于什么？}
 #{151}{}{On second thoughts, give me your brand sandwich. Here's $35.}
 {151}{}{再想一想，把你的名牌三明治给我。这是35美元。}
 #{152}{}{I'll chat with you later. Now I gotta go.}
@@ -41,11 +41,11 @@
 #{153}{}{You seem very tired. Must be trading for quite some time?}
 {153}{}{你看起来很累。一定要交易很长时间？}
 #{154}{}{Yes... I'm not slacking here, I'm working. I have to work for 12 hours a day just to pay for the right to trade.}
-{154}{}{对。。。我不是在这里偷懒，我是在工作。我必须每天工作12个小时来支付交易权。}
+{154}{}{对...我不是在这里偷懒，我是在工作。我必须每天工作12个小时来支付交易权。}
 #{155}{}{The right to trade... Wait, what's this?}
-{155}{}{贸易权。。。等等，这是什么？}
+{155}{}{贸易权...等等，这是什么？}
 #{156}{}{That's how it is. The Clean City takes a toll for the right to sell goods here. It's quite large... No, the truth is, it's a real robbery. But I have little choice.}
-{156}{}{事情就是这样。清洁城市要为这里的商品销售权付出代价。它相当大。。。不，事实是，这是一场真正的抢劫。但我别无选择。}
+{156}{}{事情就是这样。清洁城市要为这里的商品销售权付出代价。它相当大...不，事实是，这是一场真正的抢劫。但我别无选择。}
 #{157}{}{Why so?}
 {157}{}{为什么会这样？}
 #{158}{}{In the Clean City one does not have to worry about security, the order is maintained by the police. In addition, there are more people and they are richer, hence more income. But it is not even that. My father made a deal with the City Hall in order to restore the farm. And now we have to pay our part of the deal. We have to endure inhuman conditions.}
@@ -53,7 +53,7 @@
 #{159}{}{The deal? Tell me more. And what do these "inhuman conditions" imply?}
 {159}{}{交易？告诉我更多。这些“不人道的条件”意味着什么？}
 #{160}{}{Well... [sighs] My father owned a farm, but after he went broke he appealed to the City Hall for help. He was given a loan with the condition of repayment with interest. The interest rate is just awful! And it increases with each day of the payment delay. But those chair warmers in the City Hall couldn't be more happy about it because, as one can say, now they own both: us and the farm.}
-{160}{}{好。。。我父亲有一个农场，但破产后他向市政厅求助。他得到了一笔贷款，条件是还本付息。利率太糟糕了！并且它随着付款延迟的每一天而增加。但是市政厅里的那些暖椅子的人对此再高兴不过了，因为可以说，现在他们拥有了我们和农场。}
+{160}{}{好...我父亲有一个农场，但破产后他向市政厅求助。他得到了一笔贷款，条件是还本付息。利率太糟糕了！并且它随着付款延迟的每一天而增加。但是市政厅里的那些暖椅子的人对此再高兴不过了，因为可以说，现在他们拥有了我们和农场。}
 #{161}{}{What an unfair matter. Maybe someone in the City Hall would give you a pass? A grace period, for example.}
 {161}{}{多不公平的事啊。也许市政厅的人会给你通行证？例如，宽限期。}
 #{162}{}{It's unlikely. Do you know someone there? If you knew, you would understand. Those jokers haven't crawled outside of the City for like a dozen of years. They don't know how hard it is to live in the wastelands. That's besides the fact that they don't care. They are already used to push people around.}
@@ -89,7 +89,7 @@
 #{180}{}{What a fancy cart you have.}
 {180}{}{你的手推车真漂亮。}
 #{181}{}{Yep. Previously, such carts were used by the merchants selling hot dogs, and now it's my turn. My brothers found it among the ruins of the old city, repaired it and repainted. Quite a handy thing, if only not this damn wheel...}
-{181}{}{是的。以前卖热狗的商户都用这种推车，现在轮到我了。我的兄弟们在旧城的废墟中找到了它，修缮了它，重新粉刷了一遍。很方便的事，如果不是这个该死的轮子。。。}
+{181}{}{是的。以前卖热狗的商户都用这种推车，现在轮到我了。我的兄弟们在旧城的废墟中找到了它，修缮了它，重新粉刷了一遍。很方便的事，如果不是这个该死的轮子...}
 #{182}{}{Yeah, I have noticed that the cart isn't standing evenly. Maybe I can fix it?}
 {182}{}{是的，我注意到手推车站得不均匀。也许我能修好它？}
 #{183}{}{Well, you can try. If it's fixed, I'll give you a sandwich. Just don't break it completely!}
@@ -107,6 +107,6 @@
 #{190}{}{I managed to get a reprieve for your loan.}
 {190}{}{我设法得到了你贷款的缓刑。}
 #{191}{}{Really!? What a surprise... We needed this reprieve so bad! But I don't know how to thank you. Except, maybe I can make you a free sandwich.}
-{191}{}{真正地！？真是个惊喜。。。我们太需要这个缓刑了！但我不知道该怎么感谢你。不过，也许我可以给你做个免费的三明治。}
+{191}{}{真正地！？真是个惊喜...我们太需要这个缓刑了！但我不知道该怎么感谢你。不过，也许我可以给你做个免费的三明治。}
 #{192}{}{You don't need to worry. As about the sandwich - I'll take it.}
 {192}{}{你不用担心。至于三明治-我要了。}

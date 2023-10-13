@@ -19,7 +19,7 @@
 #{116}{}{Well, forget it.}
 {116}{}{算了吧。}
 #{117}{}{[Instinctively puts the rock away from you] I don't... And why you do?}
-{117}{}{[本能地把石头从你身边移开]我不。。。你为什么这么做？}
+{117}{}{[本能地把石头从你身边移开]我不...你为什么这么做？}
 #{118}{}{Don't know too. But I'll think something out, rest assured.}
 {118}{}{我也不知道。但我会想办法的，放心。}
 #{119}{}{[Instinctively puts the rock away from you and pronounces articulately] I am caravan guard.}
@@ -31,7 +31,7 @@
 #{122}{}{Okay then. Beat me at cards, and the rock is yours.}
 {122}{}{那好吧。打牌赢了我，石头就是你的了。}
 #{123}{}{Aren't you too attached to junk?  You looked like a normal guy...}
-{123}{}{你不是太喜欢垃圾了吗？你看起来像个普通人。。。}
+{123}{}{你不是太喜欢垃圾了吗？你看起来像个普通人...}
 #{124}{}{I can just buy it. Will 50 bucks be sufficient?}
 {124}{}{我可以买下它。50美元够吗？}
 #{125}{}{Alright, let's play.}
@@ -43,7 +43,7 @@
 #{128}{}{Well, I'm sorry. I'm not in the right mood. Usually I get along well with caravaneers.}
 {128}{}{嗯，对不起。我心情不好。通常我和商队的人相处得很好。}
 #{129}{}{Ah yes, it's you... Other caravaneers told me about you. They say, you helped someone of us. Alright. Here's the rock, take it. I don't need it anyway.}
-{129}{}{啊，是的，是你。。。其他商队的人告诉我你的事。他们说，你帮助了我们中的一个人。好吧。这是石头，拿着。反正我也不需要。}
+{129}{}{啊，是的，是你...其他商队的人告诉我你的事。他们说，你帮助了我们中的一个人。好吧。这是石头，拿着。反正我也不需要。}
 #{130}{}{Thanks, friend.}
 {130}{}{谢谢，朋友。}
 #{131}{}{That's better. Without wasting more words it'd be even better.}
@@ -53,11 +53,11 @@
 #{133}{}{Alright, forget it. Will you give me the rock or not?}
 {133}{}{好吧，算了吧。你到底要不要把石头给我？}
 #{134}{}{You serious? How surprising... Okay, let's do it this way.}
-{134}{}{你说真的？真令人惊讶。。。好吧，就这样吧。}
+{134}{}{你说真的？真令人惊讶...好吧，就这样吧。}
 #{135}{}{Here's the money. Now give me the rock.}
 {135}{}{这是钱。把石头给我。}
 #{136}{}{Pay money for this garbage?! Nah, probably some blackout... We'll talk later, when I come back to normal.}
-{136}{}{付钱买这些垃圾？！不，可能是停电了。。。等我恢复正常后再谈。}
+{136}{}{付钱买这些垃圾？！不，可能是停电了...等我恢复正常后再谈。}
 #{137}{}{And you really believed that? What kind of idiot would buy this worthless piece of junk? Think about it and hand it over peacefully.}
 {137}{}{你真的相信吗？什么白痴会买这毫无价值的垃圾？想一想，和平地交出来。}
 #{138}{}{[Squeezes the rock in his fist] Forget it. And why are you so fond of this rock all of a sudden? I don't like it.}
@@ -73,7 +73,7 @@
 #{143}{}{[Pulls cards out of his pocket, thinks a bit looking at you frowningly, then still puts a pack on the table] We'll play fair. If I find out that you are cheating - your loss.}
 {143}{}{[从口袋里掏出纸牌，皱着眉头看了你一眼，然后还在桌上放了一包]我们公平竞争。如果我发现你作弊-你的损失。}
 #{144}{}{Okay. Let's do it...}
-{144}{}{可以。我们开始吧。。。}
+{144}{}{可以。我们开始吧...}
 #{145}{}{Hey, why don't I just buy a rock for 50 bucks?}
 {145}{}{嘿，我为什么不花50块买块石头呢？}
 #{146}{}{Not so fast. Place your bet of first 5 bucks or I won't play.}
@@ -85,9 +85,9 @@
 #{149}{}{Beating you is as easy as a child. Wanna try again?}
 {149}{}{打你就像打孩子一样容易。想再试一次吗？}
 #{150}{}{Yes, I'll achieve what I want! Let's do it again...}
-{150}{}{是的，我会实现我想要的！我们再来一次。。。}
+{150}{}{是的，我会实现我想要的！我们再来一次...}
 #{151}{}{Phew... It was a good game. I'm even exhausted a bit, from stress. Here's your fair prize.}
-{151}{}{呸。。。这是一场精彩的比赛。我甚至有点累了，因为压力。这是你应得的奖品。}
+{151}{}{呸...这是一场精彩的比赛。我甚至有点累了，因为压力。这是你应得的奖品。}
 #{152}{}{Take care.}
 {152}{}{当心。}
 #{153}{}{No, I had enough of these cards today.}
@@ -111,4 +111,4 @@
 #{162}{}{[Blushes from anger] I AM - A CARAVAN - GUARD!!! I'm not a hobo! And not the junk collector! You want this rock, yes? You want?! Then TAKE IT! [throws it in the far end of the room]}
 {162}{}{[愤怒的脸红]我是一个大篷车守卫！！！我不是流浪汉！而不是垃圾收集者！你想要这块石头，是吗？你想要什么？！那就拿去吧！[把它扔到房间的另一端]}
 #{163}{}{Hey, easy! Oh man... Now I have to look everywhere...}
-{163}{}{嘿，别紧张！哦，伙计。。。现在我要到处找。。。}
+{163}{}{嘿，别紧张！哦，伙计...现在我要到处找...}

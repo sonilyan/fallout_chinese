@@ -13,7 +13,7 @@
 #{113}{}{To find a job in this city is like stealing a skin from a gecko.}
 {113}{}{在这个城市找工作就像偷壁虎的皮。}
 #{114}{}{I'll spend my next salary at Sam's cafe!...}
-{114}{}{我要把我的下一份薪水花在山姆的咖啡馆里！。。。}
+{114}{}{我要把我的下一份薪水花在山姆的咖啡馆里！...}
 #{115}{}{Pizza from Phillips is the shit!}
 {115}{}{菲利普斯的披萨真是糟透了！}
 #{116}{}{Is this toilet paper?.. Oh, this is the instruction.}
@@ -21,9 +21,9 @@
 #{117}{}{Where are my tools?}
 {117}{}{我的工具呢？}
 #{118}{}{Very tired...}
-{118}{}{很累。。。}
+{118}{}{很累...}
 #{119}{}{Again covered in oil...}
-{119}{}{又被油覆盖了。。。}
+{119}{}{又被油覆盖了...}
 #{120}{}{I'm so dirty no one at home recognizes me.}
 {120}{}{我很脏，家里没人认出我来。}
 #{121}{}{Haven't taken a bath for a long time.}
@@ -31,15 +31,15 @@
 #{122}{}{Do I stink much?}
 {122}{}{我臭吗？}
 #{123}{}{Ugh... This stuff makes me dizzy.}
-{123}{}{呃。。。这东西让我头晕。}
+{123}{}{呃...这东西让我头晕。}
 #{124}{}{Ugh...}
-{124}{}{呃。。。}
+{124}{}{呃...}
 #{125}{}{::yawns without covering his mouth::}
 {125}{}{●不捂嘴打哈欠：}
 #{126}{}{::itches::}
 {126}{}{●瘙痒：}
 #{127}{}{My whole body itches...}
-{127}{}{我全身发痒。。。}
+{127}{}{我全身发痒...}
 #{128}{}{I'm hungry.}
 {128}{}{我饿了。}
 #{129}{}{I'll starve to death soon.}
@@ -57,7 +57,7 @@
 #{135}{}{Who stole my tools?}
 {135}{}{谁偷了我的工具？}
 #{136}{}{Just exhausted...}
-{136}{}{只是筋疲力尽。。。}
+{136}{}{只是筋疲力尽...}
 #{137}{}{They won't let me in to my house without the paycheck.}
 {137}{}{没有薪水他们不会让我进屋的。}
 #{138}{}{Haven't had a bath in a month!}
@@ -65,15 +65,15 @@
 #{139}{}{Do I stink much?}
 {139}{}{我臭吗？}
 #{140}{}{Ugh... This stuff makes me dizzy.}
-{140}{}{呃。。。这东西让我头晕。}
+{140}{}{呃...这东西让我头晕。}
 #{141}{}{Oh...}
-{141}{}{哦。。。}
+{141}{}{哦...}
 #{142}{}{::yawns, without covering his mouth::}
 {142}{}{●打哈欠，不捂嘴：}
 #{143}{}{::itches::}
 {143}{}{●瘙痒：}
 #{144}{}{My whole body itches...}
-{144}{}{我全身发痒。。。}
+{144}{}{我全身发痒...}
 #{145}{}{I need to eat, but have no money even for a sandwich.}
 {145}{}{我要吃饭，但连三明治都没钱。}
 #{146}{}{I'll starve to death soon.}
@@ -97,4 +97,4 @@
 #{255}{}{You wouldn't understand. I sometimes do not understand myself, frankly speaking. But we have capable engineers, so we manage.}
 {255}{}{你不会明白的。坦白说，我有时不了解自己。但我们有能干的工程师，所以我们管理。}
 #{256}{}{City Hall holds all the cards now. They call the shots. Except it's hopeless. They know nothing about electricity. They think we can manage ourselves. But without Bob - we can't. Many want to change the job... Even though this may turn out even harder to do.}
-{256}{}{市政厅现在掌握着所有的牌。他们说了算。只是没希望了。他们对电一无所知。他们认为我们能管理好自己。但是没有鲍勃-我们不行。很多人想换工作。。。尽管这可能会变得更加困难。}
+{256}{}{市政厅现在掌握着所有的牌。他们说了算。只是没希望了。他们对电一无所知。他们认为我们能管理好自己。但是没有鲍勃-我们不行。很多人想换工作...尽管这可能会变得更加困难。}

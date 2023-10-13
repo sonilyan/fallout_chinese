@@ -9,7 +9,7 @@
 #{104}{}{[Leave the smoker in his oblivion]}
 {104}{}{[把吸烟者遗忘]}
 #{105}{}{Holy shit... Even I don't push people that hard!}
-{105}{}{天啊。。。即使是我也不会逼人那么难！}
+{105}{}{天啊...即使是我也不会逼人那么难！}
 #{106}{}{Speak, you son of a bitch!}
 {106}{}{说话，你个狗娘养的！}
 #{107}{}{You're useless. I'd better go.}
@@ -35,15 +35,15 @@
 #{117}{}{Lie!!! Here's a receipt concerning the freaks! What the fuck is going on here? Speak!}
 {117}{}{撒谎！！！这是一张关于怪胎的收据！这他妈的是怎么回事？说话！}
 #{118}{}{Well... Damn! Some weasel from the City Hall appeared! He wanted to kick the freaks out of the city! So we hired a boy, he planted the drugs on them, I don't know anything else! I swear!}
-{118}{}{好。。。该死！市政厅的黄鼠狼出现了！他想把那些怪胎赶出这个城市！所以我们雇了一个男孩，他把毒品放在他们身上，我什么都不知道！我发誓！}
+{118}{}{好...该死！市政厅的黄鼠狼出现了！他想把那些怪胎赶出这个城市！所以我们雇了一个男孩，他把毒品放在他们身上，我什么都不知道！我发誓！}
 #{119}{}{Who was that weasel?!}
 {119}{}{那个黄鼠狼是谁？！}
 #{120}{}{Hell knows! It was dark there! The huddle took place in the country at night...}
-{120}{}{他妈的知道！那里很黑！那次聚会是晚上在乡下举行的。。。}
+{120}{}{他妈的知道！那里很黑！那次聚会是晚上在乡下举行的...}
 #{121}{}{Then who was hired for the set up?}
 {121}{}{那谁被雇来做准备？}
 #{122}{}{Just some boy. He's already... Done...}
-{122}{}{只是个男孩。他已经。。。完成。。。}
+{122}{}{只是个男孩。他已经...完成...}
 #{123}{}{"Done" what?!}
 {123}{}{“完成”什么？！}
 #{124}{}{He'd been taken care of, blockhead! So will be you if you keep looking for trouble!}
@@ -55,7 +55,7 @@
 #{127}{}{Your bros won't hear you here!}
 {127}{}{你的兄弟们在这里听不到你的话！}
 #{128}{}{[Tries to escape] Oh, you... The hell you need!? What do you want from me?! I'm a simple slaver!}
-{128}{}{[试图逃跑]哦，你。。。你到底需要什么！？你想从我这里得到什么？！我是个简单的奴隶主！}
+{128}{}{[试图逃跑]哦，你...你到底需要什么！？你想从我这里得到什么？！我是个简单的奴隶主！}
 #{129}{}{Laboratory! Where is it?! Answer me, scum!}
 {129}{}{实验室！它在哪里？！回答我，人渣！}
 #{130}{}{NO! Idiot! They will kill both of us, don't you understand?!}
@@ -63,7 +63,7 @@
 #{131}{}{I'm tired of this! [kick him in the groin with the knee]}
 {131}{}{我受够了！[用膝盖踢他的腹股沟]}
 #{132}{}{Arrrghh...}
-{132}{}{啊。。。}
+{132}{}{啊...}
 #{133}{}{[Punch in the face]}
 {133}{}{[打在脸上]}
 #{134}{}{Aahh!..}
@@ -71,11 +71,11 @@
 #{135}{}{Not enough, little bitch?! Want more?!}
 {135}{}{还不够，小婊子？！想要更多吗？！}
 #{136}{}{Oh... I just went out to smoke... And now this... Damn it!}
-{136}{}{哦。。。我只是出去抽烟。。。现在这个。。。该死的！}
+{136}{}{哦...我只是出去抽烟...现在这个...该死的！}
 #{137}{}{[Hit him in the teeth with an elbow]}
 {137}{}{[用肘打他的牙齿]}
 #{138}{}{TPhh... Son of a BITCH!!! MY BROS GONNA...}
-{138}{}{TPhh。。。狗娘养的！！！我的兄弟们会。。。}
+{138}{}{TPhh...狗娘养的！！！我的兄弟们会...}
 #{139}{}{What, still hasn't changed your mind, eh?!}
 {139}{}{什么，你还没改变主意，嗯？！}
 #{140}{}{Lay off me, pig!..}
@@ -83,7 +83,7 @@
 #{141}{}{[Hit him again]}
 {141}{}{[再打他]}
 #{142}{}{Mmm... Sweet pain...}
-{142}{}{嗯。。。甜蜜的痛苦。。。}
+{142}{}{嗯...甜蜜的痛苦...}
 #{143}{}{Liked it? One more time then, huh?}
 {143}{}{喜欢吗？再来一次，嗯？}
 #{144}{}{NO! Enough! I'll tell you!}
@@ -91,11 +91,11 @@
 #{145}{}{Go on!}
 {145}{}{继续！}
 #{146}{}{It's... It's outside the city... Hell, the place is a fortress! You will be shot on sight!}
-{146}{}{这是。。。在城外。。。见鬼，这地方是个堡垒！你一看见就会被枪毙！}
+{146}{}{这是...在城外...见鬼，这地方是个堡垒！你一看见就会被枪毙！}
 #{147}{}{How to get there?}
 {147}{}{怎么去那里？}
 #{148}{}{To the South, by the highway... When you get out of the city, I'll show you...}
-{148}{}{往南，在高速公路旁。。。当你出城的时候，我会带你去。。。}
+{148}{}{往南，在高速公路旁...当你出城的时候，我会带你去...}
 #{149}{}{Show me on the map!}
 {149}{}{在地图上给我看！}
 #{150}{}{Take me there!}
@@ -103,23 +103,23 @@
 #{151}{}{How one can get in there unnoticed?}
 {151}{}{怎么能不被人注意就进去？}
 #{152}{}{There is a caravan... Called "Black Caravan"... They are carrying drugs for us...}
-{152}{}{有一个大篷车。。。叫“黑商队”。。。他们为我们带着毒品。。。}
+{152}{}{有一个大篷车...叫“黑商队”...他们为我们带着毒品...}
 #{153}{}{Where are they?}
 {153}{}{他们在哪里？}
 #{154}{}{In the parking lot of the caravans, next to the office... They migrate back and forth every two days...}
-{154}{}{在大篷车的停车场，在办公室旁边。。。它们每两天来回迁徙一次。。。}
+{154}{}{在大篷车的停车场，在办公室旁边...它们每两天来回迁徙一次...}
 #{155}{}{Great! So I will be able to follow them.}
 {155}{}{太好了！所以我可以跟着他们。}
 #{156}{}{What, learned all you wanted, bro?! Will you let me go already, huh?!}
 {156}{}{什么，你想学什么就学什么，兄弟？！你能让我走了吗？！}
 #{157}{}{Listen, sucker! If you ever tell...}
-{157}{}{听着，笨蛋！如果你告诉我。。。}
+{157}{}{听着，笨蛋！如果你告诉我...}
 #{158}{}{No need for threats, yo! I know what would happen! I know! My own people would kill me!..}
 {158}{}{不用威胁，哟！我知道会发生什么！我知道！我自己的人会杀了我！。。}
 #{159}{}{Excellent... [let him go]}
-{159}{}{杰出的。。。[让他走]}
+{159}{}{杰出的...[让他走]}
 #{160}{}{Excellent... [stab in the heart with a knife]}
-{160}{}{杰出的。。。[用刀刺入心脏]}
+{160}{}{杰出的...[用刀刺入心脏]}
 #{161}{}{Threats didn't work out. Apparently, you weren't considered a worthy opponent.}
 {161}{}{威胁没有奏效。显然，你不被认为是一个值得的对手。}
 #{200}{}{Who are you?}
@@ -133,9 +133,9 @@
 #{204}{}{What are you doing here?}
 {204}{}{你在这里干什么？}
 #{205}{}{Just hanging out after work. Uh, what a strong joint...}
-{205}{}{下班后出去玩。呃，多结实的关节啊。。。}
+{205}{}{下班后出去玩。呃，多结实的关节啊...}
 #{206}{}{The sign on the roof says nothing to you? Oh, wait, that's right! The sign spoke to me only by the fifth joint... You should wait a bit.}
-{206}{}{屋顶上的牌子什么也没告诉你？哦，等等，没错！那个牌子只在第五个路口对我说话。。。你应该等一下。}
+{206}{}{屋顶上的牌子什么也没告诉你？哦，等等，没错！那个牌子只在第五个路口对我说话...你应该等一下。}
 #{207}{}{Necros. Ghouls. Call it whatever you want. Nice guys really, but many people are afraid of contacting them. Therefore, they are always-to-blame guys for any local problem.}
 {207}{}{坏死。食尸鬼。随你怎么说。不错的家伙真的，但很多人害怕联系他们。因此，他们总是把任何地方的问题归咎于男人。}
 #{208}{}{Hmm.}
@@ -161,7 +161,7 @@
 #{218}{}{You know, the cigarette alone does not make your appearance cool.}
 {218}{}{你知道，光是香烟并不能使你的外表很酷。}
 #{219}{}{You know, sometimes those are admixed with brahmin manure.}
-{219}{}{你知道，有时候这些是和婆罗门的肥料混在一起的。}
+{219}{}{你知道，有时候这些是和双头牛的肥料混在一起的。}
 #{220}{}{You know, the smoke attracts flies and cockroaches.}
 {220}{}{你知道，烟会吸引苍蝇和蟑螂。}
 #{221}{}{You know, they say, the cigarettes pull down the lower lip.}
@@ -187,13 +187,13 @@
 #{255}{}{Hell, maybe then I will not be bullied in the streets.}
 {255}{}{见鬼，也许那样我就不会在街上被欺负了。}
 #{256}{}{Really? I need to find some smoker and see... Interesting!}
-{256}{}{真正地？我要找个烟民看看。。。有趣！}
+{256}{}{真正地？我要找个烟民看看...有趣！}
 #{257}{}{Always wanted to communicate with the inanimate world.}
 {257}{}{一直想和无生命的世界交流。}
 #{258}{}{I still have my felt hat.}
 {258}{}{我的毡帽还在。}
 #{259}{}{Nonsense! It's from mice!.. Um... Oops.}
-{259}{}{胡说！是老鼠送的！。。嗯。。。哎呀。}
+{259}{}{胡说！是老鼠送的！。。嗯...哎呀。}
 #{260}{}{Will have what to eat for lunch.}
 {260}{}{午餐吃什么。}
 #{261}{}{The easier it will be to keep the joint in the mouth.}
@@ -219,7 +219,7 @@
 #{1130}{}{NO! Idiot! They will kill us, do you understand?!}
 {1130}{}{不！白痴！他们会杀了我们，你明白吗？！}
 #{1140}{}{Lay off me, pig...}
-{1140}{}{放开我，猪。。。}
+{1140}{}{放开我，猪...}
 #{1156}{}{What, learned all you wanted, sis?! Will you let me go already, huh?!}
 {1156}{}{什么，你想学什么就学什么，姐姐？！你能让我走了吗？！}
 #{1212}{}{You know, I won't ever lay in bed with a smoker, you guys stink.}

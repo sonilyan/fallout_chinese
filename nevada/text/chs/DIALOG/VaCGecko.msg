@@ -13,6 +13,6 @@
 #{106}{}{You must gather your party before venturing forth.}
 {106}{}{你必须在冒险出发前召集你的一行人。}
 #{107}{}{The Overseer won't open the vault door until you have completed your mission.}
-{107}{}{在你完成任务之前，监工不会打开金库的门。}
+{107}{}{在你完成任务之前，监工不会打开避难所的门。}
 #{108}{}{You must wait for your team.}
 {108}{}{你必须等你的队伍。}

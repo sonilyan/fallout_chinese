@@ -8,10 +8,10 @@
 {111}{}{我们，盐湖城的可卡因真空，反对拉斯维加斯的醉汉！}
 #{112}{}{I'm in a plastic world eating plastic cereal.}
 {112}{}{我在一个塑料世界里吃塑料谷类食品。}
-#{113}{}{If people don�t like me, then I don't like people.}
+#{113}{}{If people don??t like me, then I don't like people.}
 {113}{}{如果人们不喜欢我，那我就不喜欢别人。}
 #{114}{}{I'm fighting against the system... Actually, no, I'm just fighting.}
-{114}{}{我在和体制抗争。。。实际上，不，我只是在打架。}
+{114}{}{我在和体制抗争...实际上，不，我只是在打架。}
 #{115}{}{I think all people in the neighborhood would look better with a hole in the head}
 {115}{}{我想这附近的人脑袋上有个洞会好看些}
 #{116}{}{I'm 18, so I can say "fuck you!!!"}

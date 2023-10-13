@@ -154,7 +154,7 @@
 {237}{}{错误（1），贝托里尼的提示（1）}
 #{238}{}{Remove the bug from Bertolini's cue case.}
 {238}{}{从Bertolini的线索箱里取出窃听器。}
-#{239}{}{Bertolini�s cue (1)}
+#{239}{}{Bertolini??s cue (1)}
 {239}{}{贝托里尼的暗示（1）}
 #{240}{}{Repair damaged laser pistol.}
 {240}{}{修理损坏的激光手枪。}

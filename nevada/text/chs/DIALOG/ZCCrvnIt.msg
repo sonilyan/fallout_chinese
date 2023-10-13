@@ -8,7 +8,7 @@
 {106}{}{由于商队的死亡，完成收集物品的任务现在是不可能的。}
 #{107}{}{Thanks for the help.}
 {107}{}{谢谢你的帮助。}
-#{110}{}{Huh? I don�t have time now, we have the walk whole city around before moving out.}
+#{110}{}{Huh? I don??t have time now, we have the walk whole city around before moving out.}
 {110}{}{呵呵？我现在没时间了，我们得在搬出去之前走遍整个城市。}
 #{111}{}{If you do not have time, I can help you.}
 {111}{}{如果你没有时间，我可以帮你。}
@@ -25,7 +25,7 @@
 #{117}{}{So, three days to collect things. I'll try to remember.}
 {117}{}{所以，三天来收集东西。我会尽量记住的。}
 #{118}{}{Can't you simply walk past? Don't want to have anything to do with people who have a reputation worse than the brahmin's ass.}
-{118}{}{你就不能简单地走过吗？我不想和那些名声比婆罗门的屁股还差的人有任何关系。}
+{118}{}{你就不能简单地走过吗？我不想和那些名声比双头牛的屁股还差的人有任何关系。}
 #{119}{}{Uh, okay.}
 {119}{}{呃，好吧。}
 #{120}{}{Oh, it's you. How are you doing with the inventory collection?}
@@ -49,4 +49,4 @@
 #{129}{}{And yet something is missing. Check again.}
 {129}{}{但还是少了一些东西。再检查一遍。}
 #{130}{}{Hmm...}
-{130}{}{隐马尔可夫模型。。。}
+{130}{}{Hmm...}

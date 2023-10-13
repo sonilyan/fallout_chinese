@@ -31,7 +31,7 @@
 #{120}{}{Oh, I heard about you. Okay, go on. Just don't bother anyone - things are busy right now and we don't have time for questions.}
 {120}{}{哦，我听说你了。好吧，继续。只是不要打扰任何人-现在事情很忙，我们没有时间提问。}
 #{121}{}{Oh... Right. My mistake. Sorry to have bothered you.}
-{121}{}{哦。。。正确的。我的错。抱歉打扰你了。}
+{121}{}{哦...正确的。我的错。抱歉打扰你了。}
 #{122}{}{Yeah, that's right!}
 {122}{}{是的，没错！}
 #{123}{}{Many people work for the boss, but that doesn't give them the right to be here. Now turn around. Don't come back until Mr. Luciano gives you permission to be here.}
@@ -49,7 +49,7 @@
 #{152}{}{[His hand goes for his gun] Sir, you can't be here. Leave the corridor, now.}
 {152}{}{先生，你不能在这里。现在离开走廊。}
 #{153}{}{I just wanted to see your boss...}
-{153}{}{我只是想见你老板。。。}
+{153}{}{我只是想见你老板...}
 #{154}{}{Okay, whatever you say.}
 {154}{}{好吧，随你怎么说。}
 #{155}{}{You should've shot first. [Attack]}
@@ -67,4 +67,4 @@
 #{1152}{}{[His hand goes for his gun] Ma'am, you can't be here. Leave the corridor, now.}
 {1152}{}{[他的手去拿枪]女士，你不能在这里。现在离开走廊。}
 #{1153}{}{I just wanted to see your boss...}
-{1153}{}{我只是想见你老板。。。}
+{1153}{}{我只是想见你老板...}

@@ -27,9 +27,9 @@
 #{120}{}{Johnny Chase? That changes things. }
 {120}{}{约翰尼·蔡斯？这改变了一切。}
 #{121}{}{I don't handle "little details" either. I'm here for... *serious* work.}
-{121}{}{我也不处理“小细节”。我来这里是为了。。。*认真工作。}
+{121}{}{我也不处理“小细节”。我来这里是为了...*认真工作。}
 #{122}{}{Oh, is that so? [he crosses his arms and looks you up and down] You *look* serious... Maybe you're the real deal.}
-{122}{}{哦，是这样吗？[他交叉双臂上下打量着你]你看起来很严肃。。。也许你才是真正的交易。}
+{122}{}{哦，是这样吗？[他交叉双臂上下打量着你]你看起来很严肃...也许你才是真正的交易。}
 #{123}{}{I talked to her. She said I could get some *serious* work.}
 {123}{}{我和她谈过了。她说我可以找些严肃的工作。}
 #{124}{}{That's all I wanted to know. Bye.}
@@ -55,7 +55,7 @@
 #{134}{}{I have a message from Mr. Wright.}
 {134}{}{我有赖特先生的口信。}
 #{135}{}{I almost believed that you were with us... }
-{135}{}{我几乎相信你和我们在一起。。。}
+{135}{}{我几乎相信你和我们在一起...}
 #{136}{}{Boss is waiting. Go on in.}
 {136}{}{老板在等。进去吧。}
 #{137}{}{Great.}
@@ -89,17 +89,17 @@
 #{151}{}{My name is Machete Rodriguez. Remember it. I'm Boss's personal bodyguard and head of security at the ranch.}
 {151}{}{我叫弯刀罗德里格斯。记住它。我是老板的贴身保镖，也是牧场的保安主管。}
 #{152}{}{You have a strange name... Machete.}
-{152}{}{你有个奇怪的名字。。。弯刀。}
+{152}{}{你有个奇怪的名字...弯刀。}
 #{153}{}{You're not too bright, are you? It's a nickname. Guess how I got it.}
 {153}{}{你不太聪明吧？是个外号。猜猜我是怎么得到的。}
 #{154}{}{It's a nickname. Want to know how I got it?}
 {154}{}{是个外号。想知道我是怎么得到的吗？}
 #{155}{}{Well, nice to meet you... }
-{155}{}{很高兴见到你。。。}
+{155}{}{很高兴见到你...}
 #{156}{}{Well, you don't have a machete, so... }
-{156}{}{你没有弯刀，所以。。。}
+{156}{}{你没有弯刀，所以...}
 #{157}{}{Hmm... Name, too?}
-{157}{}{隐马尔可夫模型。。。名字也是？}
+{157}{}{Hmm...名字也是？}
 #{158}{}{No. My parents called me that. They came to Reno after the bombs.}
 {158}{}{不，我父母这么叫我。炸弹爆炸后他们来到雷诺。}
 #{159}{}{Never mind.}
@@ -109,7 +109,7 @@
 #{161}{}{Mexico. It's far to the south. They say everyone was starving there, so everyone went north. Everyone who could.}
 {161}{}{墨西哥。它在遥远的南方。他们说那里每个人都在挨饿，所以每个人都去了北方。所有可能的人。}
 #{162}{}{Back to your name. I still don't understand... }
-{162}{}{回到你的名字。我还是不明白。。。}
+{162}{}{回到你的名字。我还是不明白...}
 #{163}{}{[He scowls] Not anymore. I lost her fighting the dogs at the railway station south of Reno. I looked everywhere, but I couldn't find her! She was the best weapon I ever owned!}
 {163}{}{[他愁眉不展]再也没有了。我在雷诺以南的火车站与狗搏斗时失去了她。我到处找，但找不到她！她是我拥有的最好的武器！}
 #{164}{}{Maybe I can help with search?}
@@ -126,7 +126,7 @@
 {169}{}{我找到你的弯刀了！我甚至还帮你修了。}
 #{170}{}{You found her! I can't believe it! I promised to pay, and I always keep my word. Thank you.}
 {170}{}{你找到她了！真不敢相信！我答应付钱，而且我一直信守诺言。非常感谢。}
-#{171}{}{It wasn�t hard.}
+#{171}{}{It wasn??t hard.}
 {171}{}{这并不难。}
 #{172}{}{Yeah? She doesn't give out many recommendations. }
 {172}{}{是 啊？她没有给出多少建议。}
@@ -137,11 +137,11 @@
 #{182}{}{Is one ranch really such a big deal?}
 {182}{}{一个牧场真的很重要吗？}
 #{183}{}{Fifty slaves, two dozen guards, tons of living brahmin meat - yeah, it's huge.}
-{183}{}{五十个奴隶，二十个守卫，成吨的活生生的婆罗门肉-是的，它很大。}
+{183}{}{五十个奴隶，二十个守卫，成吨的活生生的双头牛肉-是的，它很大。}
 #{184}{}{Slaves?}
 {184}{}{奴隶？}
 #{185}{}{You mentioned brahmin meat. Can I get some?}
-{185}{}{你提到婆罗门肉。我能买一些吗？}
+{185}{}{你提到双头牛肉。我能买一些吗？}
 #{186}{}{Sounds impressive. Can I take a look?}
 {186}{}{听起来不错。我能看看吗？}
 #{187}{}{}
@@ -163,7 +163,7 @@
 #{195}{}{So they're not abused here?}
 {195}{}{所以他们在这里没有被虐待？}
 #{196}{}{[He gives you a funny look] Were you raised in a vault, or something? I told you, they're not fit to run their own lives, so we have to show them who's boss or they might get *stupid* ideas. Sometimes we need to remind them.}
-{196}{}{[他滑稽地看了你一眼]你是在金库里长大的还是什么？我告诉过你，他们不适合管理自己的生活，所以我们必须让他们知道谁是老板，否则他们可能会有愚蠢的想法。有时我们需要提醒他们。}
+{196}{}{[他滑稽地看了你一眼]你是在避难所里长大的还是什么？我告诉过你，他们不适合管理自己的生活，所以我们必须让他们知道谁是老板，否则他们可能会有愚蠢的想法。有时我们需要提醒他们。}
 #{197}{}{Can I ask you again about the ranch?}
 {197}{}{我能再问你一次牧场的事吗？}
 #{200}{}{Do you need any more slave collars?}
@@ -195,7 +195,7 @@
 #{220}{}{Mr. Luciano said I should discuss the casino job with you.}
 {220}{}{卢西亚诺先生说我应该和你讨论赌场的工作。}
 #{221}{}{[He looks around, then leans in, speaking quietly] Boss chose you? I was hoping for some more... Rough. I've been planning this a long time, I want someone who knows the business.}
-{221}{}{[他环顾四周，然后俯身，安静地说]老板选了你？我希望能有更多。。。粗糙的。我已经计划了很长时间了，我想要一个了解这项业务的人。}
+{221}{}{[他环顾四周，然后俯身，安静地说]老板选了你？我希望能有更多...粗糙的。我已经计划了很长时间了，我想要一个了解这项业务的人。}
 #{222}{}{Whether you trust me or not, Mr. Luciano chose me, so let's get started.}
 {222}{}{不管你信不信，卢西亚诺先生选择了我，我们开始吧。}
 #{223}{}{Okay, we've got two choices of diversions. Do both if you can. First, slip the El Dorado visitors some poisoned beer, so they'll be unhappy with the casino. That'll get Ricardo's attention. Where you get the poison is up to you.}
@@ -239,7 +239,7 @@
 #{242}{}{You need my help, don't you? Just admit it. And yes, I have a plan.}
 {242}{}{你需要我的帮助，是吗？承认吧。是的，我有个计划。}
 #{243}{}{Tell me. I really need your... Help.}
-{243}{}{告诉我。我真的需要你的。。。救命啊。}
+{243}{}{告诉我。我真的需要你的...救命啊。}
 #{244}{}{I'll figure it out myself. I don't want you getting a big head.}
 {244}{}{我自己想办法。我不想你有个大脑袋。}
 #{245}{}{[He becomes serious] We already talked about this. I can't help with a short memory.}
@@ -281,9 +281,9 @@
 #{264}{}{Thanks to the bugs you put in Bertolini's room, we learned about a secret deal outside of Reno. Ricardo wants to get weapons. Right now, he just wants to protect himself during the fighting, but he'll come for us sooner or later.}
 {264}{}{多亏你在贝托里尼的房间里放了窃听器，我们才知道里诺城外有个秘密交易。里卡多想要武器。现在，他只是想在战斗中保护自己，但他迟早会来找我们的。}
 #{265}{}{So that's what he had that money full of suitcase for... }
-{265}{}{所以这就是他拿着满满一箱钱的原因。。。}
+{265}{}{所以这就是他拿着满满一箱钱的原因...}
 #{266}{}{Yeah, and that's what we'll use it for. You'll pretend to be from the casino and complete the deal. Boss wants to keep friendly the caravan for the future... If we can. But the most important thing is to get the weapons. The better you do, the better *everyone* will do, you get it?}
-{266}{}{是的，这就是我们要用的。你就假装是赌场的人完成交易。老板想在未来和车队保持友好关系。。。如果可以的话。但最重要的是拿到武器。你做得越好，每个人都会做得越好，明白吗？}
+{266}{}{是的，这就是我们要用的。你就假装是赌场的人完成交易。老板想在未来和车队保持友好关系...如果可以的话。但最重要的是拿到武器。你做得越好，每个人都会做得越好，明白吗？}
 #{267}{}{Got it.}
 {267}{}{知道了。}
 #{268}{}{Trust me, anything you "get", I'll get.}
@@ -297,7 +297,7 @@
 #{272}{}{Well, how are the weapons?}
 {272}{}{武器怎么样了？}
 #{273}{}{There's less than we thought there'd be. Bertolini must be a lousy barterer, heh-heh! Anyway, we got enough weapons to fight off an attack. Boss is happy. He doesn't act like it... Ever... But I can tell.}
-{273}{}{比我们想象的要少。贝托里尼一定是个差劲的易货者，嘿嘿！不管怎样，我们有足够的武器来击退攻击。老板很高兴。他不像那样。。。永远。。。但我能看出来。}
+{273}{}{比我们想象的要少。贝托里尼一定是个差劲的易货者，嘿嘿！不管怎样，我们有足够的武器来击退攻击。老板很高兴。他不像那样...永远...但我能看出来。}
 #{274}{}{That's a lot of weapons for one ranch, isn't it?}
 {274}{}{对于一个牧场来说，那是很多武器，不是吗？}
 #{275}{}{Boss doesn't want to rely on anyone. These weapons are just one part of that. Anyway, it's not just for the ranch, but convoys too. We have a lot of things to protect, not just here.}

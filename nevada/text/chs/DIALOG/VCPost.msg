@@ -9,7 +9,7 @@
 #{111}{}{What's with the outfit?}
 {111}{}{这套衣服怎么了？}
 #{112}{}{Is that a... Skull?}
-{112}{}{那是。。。颅骨？}
+{112}{}{那是...颅骨？}
 #{113}{}{I never seen a jumpsuit like that before.}
 {113}{}{我从没见过这样的连身衣。}
 #{114}{}{I really hope that jumpsuit isn't from the Wasteland.}
@@ -23,7 +23,7 @@
 #{122}{}{Sorry, no talking on duty.}
 {122}{}{对不起，值班时不准讲话。}
 #{123}{}{I've got nothing to report... Not to you, anyway.}
-{123}{}{我没什么要报告的。。。不管怎样，对你来说不是。}
+{123}{}{我没什么要报告的...不管怎样，对你来说不是。}
 #{124}{}{I'm on duty.}
 {124}{}{我在值班。}
 #{125}{}{Anything wrong, citizen?}
@@ -33,7 +33,7 @@
 #{127}{}{Stay vigilant!}
 {127}{}{保持警惕！}
 #{128}{}{Long live Vault City!}
-{128}{}{金库城万岁！}
+{128}{}{避难所城万岁！}
 #{129}{}{The enemy never rests. We must always be ready.}
 {129}{}{敌人从不休息。我们必须随时准备好。}
 #{130}{}{Tough day, citizen?}
@@ -69,7 +69,7 @@
 #{1127}{}{Stay vigilant!}
 {1127}{}{保持警惕！}
 #{1128}{}{Long live the Vault City!}
-{1128}{}{金库城万岁！}
+{1128}{}{避难所城万岁！}
 #{1129}{}{The enemy never rests, we must always be ready.}
 {1129}{}{敌人从不休息，我们必须随时准备。}
 #{1130}{}{Tough day, citizen?}

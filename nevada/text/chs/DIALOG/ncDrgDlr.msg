@@ -5,7 +5,7 @@
 #{102}{}{You see a drug dealer. His eyes scan for customers.}
 {102}{}{你看到一个毒贩。他的眼睛扫视着顾客。}
 #{110}{}{Oh, I know you. Uh... Out of respect for your boss, how about I'll give you a discount? Say... Thirty percent? Sounds fair?}
-{110}{}{哦，我认识你。休斯敦大学。。。出于对你老板的尊重，我给你打折怎么样？说。。。百分之三十？听起来公平吗？}
+{110}{}{哦，我认识你。Uh...出于对你老板的尊重，我给你打折怎么样？说...百分之三十？听起来公平吗？}
 #{111}{}{Yeah, sounds fair. What do you have today?}
 {111}{}{是啊，听起来很公平。你今天吃什么？}
 #{112}{}{I don't need anything today, but I'll remember that discount for next time.}
@@ -13,7 +13,7 @@
 #{113}{}{What can I do for my favorite customer?}
 {113}{}{我能为我最喜欢的顾客做些什么？}
 #{114}{}{Were you the one who fucked up Wright's slums? That asshole always made it hard for a dealer to earn an honest buck. The more problems his kids have, the better my life gets. You just earned yourself a discount... Keep up the good work.}
-{114}{}{是你搞砸了赖特的贫民窟吗？那个混蛋总是让一个商人很难赚到诚实的钱。他的孩子问题越多，我的生活就越好。你刚刚为自己赢得了一个折扣。。。继续努力。}
+{114}{}{是你搞砸了赖特的贫民窟吗？那个混蛋总是让一个商人很难赚到诚实的钱。他的孩子问题越多，我的生活就越好。你刚刚为自己赢得了一个折扣...继续努力。}
 #{115}{}{[As he looks at you, his eyes light up in recognition] Oh, hey! What can I do for you?}
 {115}{}{[当他看着你时，他的眼睛亮了起来]哦，嘿！有什么事吗？}
 #{200}{}{Hey, look who it is! Come, take a look at what I've got!}
@@ -44,7 +44,7 @@
 {212}{}{情绪低落？我会让你兴奋的！}
 #{213}{}{I got stuff and more stuff. Let's talk.}
 {213}{}{我有很多东西。我们谈谈。}
-#{220}{}{Sorry, I�m out of stock. Come by later.}
+#{220}{}{Sorry, I??m out of stock. Come by later.}
 {220}{}{对不起，我没货了。晚点过来。}
 #{221}{}{I've got nothing right now. Stop by tomorrow.}
 {221}{}{我现在什么都没有。明天过来。}
@@ -81,7 +81,7 @@
 #{256}{}{I said $1000.}
 {256}{}{我说1000美元。}
 #{257}{}{What a stingy motherfucker...}
-{257}{}{多么吝啬的混蛋。。。}
+{257}{}{多么吝啬的混蛋...}
 #{258}{}{Now we're talking. Solomon slings his shit behind the El Dorado at night. Tell him I sent you.}
 {258}{}{现在我们谈谈。所罗门晚上把他的大便扔在埃尔多拉多后面。告诉他是我派你来的。}
 #{259}{}{[Leave.]}
@@ -110,12 +110,12 @@
 {273}{}{你要多少钱？$1000? 我想杀了你要便宜得多。你怎么认为？}
 #{274}{}{I'll come back with the money, wait here.}
 {274}{}{我带着钱回来，在这儿等着。}
-#{275}{}{You know - I�ll just kill you! [attack]}
+#{275}{}{You know - I??ll just kill you! [attack]}
 {275}{}{你知道-我会杀了你！[攻击]}
 #{276}{}{You're threatening me? In front of everyone? Nah, I don't think so. Your boss wanted to keep this secret. What if I go talk to Thompson, huh? You didn't think of that, did you? Watch your fucking mouth. These are the streets, we have our own laws here.}
 {276}{}{你在威胁我？在所有人面前？不，我不这么认为。你老板想保守这个秘密。如果我去和汤普森谈谈呢？你没想到吧？小心你的嘴。这些是街道，我们有自己的法律。}
 #{277}{}{You're threatening me? I could just walk away, you know that? I took a big risk getting these components! ...look, how about you take $100 off the price and we just close the deal, okay?}
-{277}{}{你在威胁我？我可以走开，你知道吗？我冒了很大的风险得到这些组件。。。听着，不如你减价100美元，我们就成交，好吗？}
+{277}{}{你在威胁我？我可以走开，你知道吗？我冒了很大的风险得到这些组件...听着，不如你减价100美元，我们就成交，好吗？}
 #{278}{}{[Pay 900$]}
 {278}{}{[支付900美元]}
 #{279}{}{Take it. Now get out of here.}
@@ -125,7 +125,7 @@
 #{281}{}{What is this?}
 {281}{}{这是什么？}
 #{282}{}{Not enough? Too bad...}
-{282}{}{还不够？太糟糕了。。。}
+{282}{}{还不够？太糟糕了...}
 #{290}{}{I hear Thompson's team was shot here. You know anything about that?}
 {290}{}{我听说汤普森的团队是在这里被枪杀的。你知道吗？}
 #{291}{}{I saw it myself! They were here yelling about some shit, gathering people up, and I guess someone heard them. One of them took a shot that knocked him right off his feet! I've never seen a weapon that could do that from such a distance! It was fucking awesome!}
@@ -163,6 +163,6 @@
 #{312}{}{Hey, that some kind of crack? All my shit's safe, you hear? Believe it or not, I like my clients ALIVE!}
 {312}{}{嘿，那是什么裂缝？我的东西都安全了，听到了吗？信不信由你，我喜欢我的客户活着！}
 #{313}{}{Well... Hmm. You know, I know a couple of guys that can give you poison... Err, product. Gangsters. One's selling behind the El Dorado, the other's at the bowling alley. You didn't hear that from me, okay? Anyway, why buy something that can kill you when my stuff will give you the time of your life, am I right?}
-{313}{}{好。。。嗯。你知道，我认识几个人可以给你下毒。。。呃，产品。歹徒。一个在El Dorado后面卖，另一个在保龄球馆。你没听我说过，好吗？不管怎样，既然我的东西能给你生命中的时间，为什么还要买能杀了你的东西，对吗？}
+{313}{}{好...嗯。你知道，我认识几个人可以给你下毒...呃，产品。歹徒。一个在El Dorado后面卖，另一个在保龄球馆。你没听我说过，好吗？不管怎样，既然我的东西能给你生命中的时间，为什么还要买能杀了你的东西，对吗？}
 #{1261}{}{Shut up! I just miscalculated is all. It happens to everyone}
 {1261}{}{闭嘴！我只是算错了而已。每个人都会这样}

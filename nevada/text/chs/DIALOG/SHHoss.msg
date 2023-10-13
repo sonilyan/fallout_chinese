@@ -1,7 +1,7 @@
 #{100}{}{You see The Boss.}
 {100}{}{你看到老板了。}
 #{101}{}{Before you stands the local boss, who's known simply as... The Boss.}
-{101}{}{在你站在当地老板面前，他被称为。。。老板。}
+{101}{}{在你站在当地老板面前，他被称为...老板。}
 #{102}{}{Alarm! We got an intruder!}
 {102}{}{警报！有入侵者！}
 #{108}{}{Nothing. I'm getting outta here}
@@ -25,7 +25,7 @@
 #{117}{}{Huh, wish all my jobs paid that well.}
 {117}{}{哈，希望我所有的工作都有那么好的报酬。}
 #{118}{}{Maybe... If you and I... Umm... Have an agreement. Ya see me?}
-{118}{}{也许 吧。。。如果你和我。。。嗯。。。达成协议。你看见我了吗？}
+{118}{}{也许 吧...如果你和我...嗯...达成协议。你看见我了吗？}
 #{119}{}{Smells like shady deals. I like it.}
 {119}{}{闻起来像是不正当的交易。我喜欢。}
 #{120}{}{}
@@ -39,7 +39,7 @@
 #{124}{}{}
 {124}{}{}
 #{125}{}{Don't you worry about the money. Let's say... 20,000. I think that should do it. I'll provide the poison from my own stash, still keep a few flasks for an occasion like this one...}
-{125}{}{别担心钱的问题。比如说。。。20,000. 我认为应该这样做。我会从我自己的藏身处提供毒药，在这种场合我还会保留一些瓶子。。。}
+{125}{}{别担心钱的问题。比如说...20,000. 我认为应该这样做。我会从我自己的藏身处提供毒药，在这种场合我还会保留一些瓶子...}
 #{126}{}{Why'd you want this factory sabotaged?}
 {126}{}{你为什么要破坏这个工厂？}
 #{127}{}{We're going to settle the scores with Salt Lake. Some old affairs, which are none of your business, lemme tell you. Just get the job done and the cash is yours.}
@@ -49,7 +49,7 @@
 #{129}{}{Ain't gonna do no more dirty business. No!}
 {129}{}{不会再做肮脏的事了。不！}
 #{130}{}{Excellent! Take the flask then. You only have to break into the workshop and pour it into tanks, and I don't care how you're gonna do it. There's a rumor going round about a tunnel underneath, leading to the site... The means are up to you, we pay for the result.}
-{130}{}{杰出的！那就拿着烧瓶。你只要闯进车间把它倒进水箱里，我不管你怎么做。有传言说下面有一条隧道通往现场。。。手段由你决定，结果由我们买单。}
+{130}{}{杰出的！那就拿着烧瓶。你只要闯进车间把它倒进水箱里，我不管你怎么做。有传言说下面有一条隧道通往现场...手段由你决定，结果由我们买单。}
 #{131}{}{I'll do that.}
 {131}{}{我会的。}
 #{132}{}{What's the matter, wanderer? Don't have the guts for the job?}
@@ -61,7 +61,7 @@
 #{135}{}{I need some time to think it over.}
 {135}{}{我需要一些时间考虑一下。}
 #{136}{}{[Squints at you] Not sure if I heard this name before...}
-{136}{}{[斜视你]不确定我以前是否听过这个名字。。。}
+{136}{}{[斜视你]不确定我以前是否听过这个名字...}
 #{137}{}{So is he here or not?}
 {137}{}{他到底在不在？}
 #{138}{}{Huh. Why the fuck should I give him away anyway?}
@@ -69,7 +69,7 @@
 #{139}{}{So you admit it. Let's settle this matter the good way.}
 {139}{}{所以你承认了。让我们好好解决这件事吧。}
 #{140}{}{And what ya gonna do?! There's no mommy-sheriff here to stand up for ya, sucker...}
-{140}{}{你要怎么办？！这里没有妈妈警长来支持你，笨蛋。。。}
+{140}{}{你要怎么办？！这里没有妈妈警长来支持你，笨蛋...}
 #{141}{}{I'll slaughter all of you and bring your heads as a gift to the sheriff!}
 {141}{}{我要杀了你们所有人，把你们的头作为礼物送给警长！}
 #{142}{}{Nevermind. I'll find him myself.}
@@ -77,7 +77,7 @@
 #{143}{}{Just like I thought, the sheriff doesn't have the balls to visit us in person. Send him my words, he's just a sissy with a mustache!}
 {143}{}{就像我想的，警长没有勇气亲自来看我们。告诉他我的话，他只是个有胡子的娘娘腔！}
 #{144}{}{Hmm... If you dislike the sheriff so much, I could consider a counteroffer for an adequate sum.}
-{144}{}{隐马尔可夫模型。。。如果你这么讨厌警长，我可以考虑还盘一笔足够的钱。}
+{144}{}{Hmm...如果你这么讨厌警长，我可以考虑还盘一笔足够的钱。}
 #{145}{}{How dare you slander the name of this saint! [attack]}
 {145}{}{你竟敢诽谤这位圣人的名字！[攻击]}
 #{146}{}{I'll send him your message, and soon we'll be back with bloodthirsty friends and heavy fireworks.}
@@ -101,6 +101,6 @@
 #{1111}{}{Got any job for a stranger?}
 {1111}{}{有给陌生人的工作吗？}
 #{1130}{}{Excellent! Take the flask then. You only have to break into the workshop and pour it into tanks, and I don't care how you're gonna do it. There's a rumor going round about a tunnel underneath, leading to the site... The means are up to you, we pay for the result.}
-{1130}{}{杰出的！那就拿着烧瓶。你只要闯进车间把它倒进水箱里，我不管你怎么做。有传言说下面有一条隧道通往现场。。。手段由你决定，结果由我们买单。}
+{1130}{}{杰出的！那就拿着烧瓶。你只要闯进车间把它倒进水箱里，我不管你怎么做。有传言说下面有一条隧道通往现场...手段由你决定，结果由我们买单。}
 #{1132}{}{What's the matter, sweetie? Don't have the guts for the job?}
 {1132}{}{怎么了，亲爱的？你没胆量干这工作吗？}

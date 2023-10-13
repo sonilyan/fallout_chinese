@@ -21,7 +21,7 @@
 #{118}{}{Beat it!}
 {118}{}{避开！}
 #{119}{}{I'm so hungry I would eat a deathclaw right now...}
-{119}{}{我太饿了，我现在就要吃死爪了。。。}
+{119}{}{我太饿了，我现在就要吃死爪了...}
 #{120}{}{*Scratches*}
 {120}{}{*划痕*}
 #{121}{}{*Mumbling*}
@@ -83,15 +83,15 @@
 #{330}{}{Coulda been a champ!}
 {330}{}{可能是冠军！}
 #{331}{}{How could such a... Geggghhh...}
-{331}{}{这样一个。。。嘎嘎。。。}
+{331}{}{这样一个...嘎嘎...}
 #{332}{}{*Huuuuurrrrllllll*}
 {332}{}{*呼呼呼呼*}
 #{333}{}{Ooo, care bears...}
-{333}{}{哦，小心熊。。。}
+{333}{}{哦，小心熊...}
 #{334}{}{I think I'll just lay here for a little while.}
 {334}{}{我想我就在这里躺一会儿。}
 #{335}{}{No pain, no pain, no pain...}
-{335}{}{不痛，不痛，不痛。。。}
+{335}{}{不痛，不痛，不痛...}
 #{340}{}{Eat this!}
 {340}{}{吃这个！}
 #{341}{}{You want some of this?!}
@@ -107,29 +107,29 @@
 #{346}{}{Now you DIE.}
 {346}{}{现在你死了。}
 #{347}{}{SUPER... NUCLEAR... TORNADO... FIST...}
-{347}{}{超级的。。。核武器。。。龙卷风。。。拳头。。。}
+{347}{}{超级的...核武器...龙卷风...拳头...}
 #{350}{}{Adrian! Adrian!}
 {350}{}{阿德里安！阿德里安！}
 #{351}{}{This is where you fall down.}
 {351}{}{这就是你摔倒的地方。}
 #{352}{}{Gonna make you my bitch...}
-{352}{}{我要把你变成我的婊子。。。}
+{352}{}{我要把你变成我的婊子...}
 #{353}{}{I must break you.}
 {353}{}{我必须打断你。}
 #{354}{}{You're fighting like a fat lazy brahmin!}
-{354}{}{你打得像个懒婆罗门！}
+{354}{}{你打得像个懒双头牛！}
 #{355}{}{You got no guts!}
 {355}{}{你没有胆量！}
 #{356}{}{You're a bum! A bum!}
 {356}{}{你是个流浪汉！一个流浪汉！}
 #{357}{}{Gonna beat you like a dog...}
-{357}{}{像狗一样打你。。。}
+{357}{}{像狗一样打你...}
 #{360}{}{Ain't gonna be no rematch!}
 {360}{}{不会再有比赛了！}
 #{361}{}{Hit like a butterfly...}
-{361}{}{像蝴蝶一样击中。。。}
+{361}{}{像蝴蝶一样击中...}
 #{362}{}{Keep your hands up...}
-{362}{}{举起手来。。。}
+{362}{}{举起手来...}
 #{363}{}{Stay sharp!}
 {363}{}{保持警惕！}
 #{364}{}{Fight past that shit!}

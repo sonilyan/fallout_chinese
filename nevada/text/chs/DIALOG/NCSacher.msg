@@ -9,4 +9,4 @@
 #{104}{}{Someone killed Wright! Must have been one desperate bastard. He's done us all a great favor.}
 {104}{}{有人杀了赖特！一定是个走投无路的混蛋。他帮了我们大忙。}
 #{105}{}{Hey, how are things? I'm still holding on, but this can't go on forever...}
-{105}{}{嘿，最近怎么样？我还在坚持，但这不可能永远持续下去。。。}
+{105}{}{嘿，最近怎么样？我还在坚持，但这不可能永远持续下去...}

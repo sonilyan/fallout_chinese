@@ -5,7 +5,7 @@
 #{102}{}{ }
 {102}{}{ }
 #{103}{}{They all left me... }
-{103}{}{他们都离开了我。。。}
+{103}{}{他们都离开了我...}
 #{104}{}{... Left me for a mouthful of bread.}
 {104}{}{... 为了一口面包离开了我。}
 #{105}{}{That's what I get for trying to beat human nature.}
@@ -45,7 +45,7 @@
 #{124}{}{I said later! Stay out of our affairs!}
 {124}{}{我说了以后！别管我们的事！}
 #{125}{}{Wait... }
-{125}{}{等待。。。}
+{125}{}{等待...}
 #{126}{}{[Someone yells from the crowd] Gerlach, let him speak! He should know why we're doing this!}
 {126}{}{[人群中有人喊道]杰拉克，让他说话！他应该知道我们为什么要这么做！}
 #{127}{}{Exactly!}
@@ -67,7 +67,7 @@
 #{135}{}{[His eyes blaze with anger] What?! What did you just say to me? Shut your mouth! Nobody asked you!}
 {135}{}{什么？！你刚才对我说了什么？闭嘴！没人问你！}
 #{136}{}{Hey, calm down... }
-{136}{}{嘿，冷静点。。。}
+{136}{}{嘿，冷静点...}
 #{137}{}{You can? Do you know anything about technology?}
 {137}{}{你可以？你懂技术吗？}
 #{138}{}{Yes, I'm a decent mechanic.}
@@ -75,11 +75,11 @@
 #{139}{}{No, but I have connections. This is going to be easy.}
 {139}{}{不，但我有关系。这很容易。}
 #{140}{}{Hmm... [he looks over at the crowd] Why should we trust you, outsider?}
-{140}{}{隐马尔可夫模型。。。[他看着人群]我们为什么要相信你，局外人？}
+{140}{}{Hmm...[他看着人群]我们为什么要相信你，局外人？}
 #{141}{}{Do you have a choice?}
 {141}{}{你有选择吗？}
 #{142}{}{No, we don't... Fine. We won't kill him, at least for now. But he's not going anywhere until you fix the pump. And if you don't, I'll take care of him myself.}
-{142}{}{不，我们不。。。好的。我们不会杀他，至少现在不会。但在你修好水泵之前他哪儿也不会去。如果你不去，我会自己照顾他。}
+{142}{}{不，我们不...好的。我们不会杀他，至少现在不会。但在你修好水泵之前他哪儿也不会去。如果你不去，我会自己照顾他。}
 #{143}{}{What if I buy him out?}
 {143}{}{如果我收买他呢？}
 #{144}{}{Actually, I changed my mind. I don't care about that guy. Burn him!}
@@ -93,7 +93,7 @@
 #{148}{}{You've given the man a few more days of life.}
 {148}{}{你让他多活了几天。}
 #{149}{}{The money have little value in our community. But we could buy some things we need in Reno... Fine, a thousand bucks for this scum's hide, and don't even try dickering with me.}
-{149}{}{这些钱在我们社区没有什么价值。但我们可以在雷诺买些我们需要的东西。。。好吧，一千块钱买这个人渣的皮，别跟我讨价还价。}
+{149}{}{这些钱在我们社区没有什么价值。但我们可以在雷诺买些我们需要的东西...好吧，一千块钱买这个人渣的皮，别跟我讨价还价。}
 #{150}{}{A man's life is far more valuable. Here's the money.}
 {150}{}{一个人的生命要宝贵得多。这是钱。}
 #{151}{}{You saved a life of a complete stranger.}
@@ -119,7 +119,7 @@
 #{161}{}{Let him go. Killing him won't help anyone.}
 {161}{}{放开他。杀了他谁也帮不了。}
 #{162}{}{Fine, goddammit... Fine. This kid's lucky for your silver tongue. [leans in close] But I catch you doing anything dirty, anything at all, you're not walking out of here. Get it?}
-{162}{}{好吧，该死的。。。好的。这孩子真幸运，你的舌头真好。但我发现你做了任何肮脏的事，任何事，你都不能离开这里。了解了？}
+{162}{}{好吧，该死的...好的。这孩子真幸运，你的舌头真好。但我发现你做了任何肮脏的事，任何事，你都不能离开这里。了解了？}
 #{163}{}{Okay, Gerlach. I got it.}
 {163}{}{好吧，杰拉克。我得到了它。}
 #{164}{}{[He gives you a wild stare and hisses] Who the hell are you to know? You're going to give me - ME! - a lecture about life?! To a caravan guard with ten years of experience? Stop messing with me or get the hell away from here!}
@@ -139,7 +139,7 @@
 #{171}{}{Oh, it's you, outsider. You're still here?}
 {171}{}{哦，是你，局外人。你还在这里？}
 #{172}{}{About the pump... }
-{172}{}{关于泵。。。}
+{172}{}{关于泵...}
 #{173}{}{Can I speak to the prisoner?}
 {173}{}{我能和囚犯说话吗？}
 #{174}{}{I want to buy the prisoner's life.}
@@ -153,7 +153,7 @@
 #{180}{}{What the hell for? You got a good reason, or are you just trying to help him escape?}
 {180}{}{为什么？你有充分的理由，还是你只是想帮他逃走？}
 #{181}{}{No way... }
-{181}{}{不可能。。。}
+{181}{}{不可能...}
 #{182}{}{I want to talk to him about the repairing the pump.}
 {182}{}{我想和他谈谈修理水泵的事。}
 #{183}{}{Hmm. Fine, have it your way. You can talk to him. Rico's watching him in the next building.}
@@ -183,7 +183,7 @@
 #{195}{}{I'll get the pump working for you.}
 {195}{}{我来帮你把水泵修好。}
 #{196}{}{I'll make it worth your while. I've got connections in... Well, it doesn't matter what kind of connections. I can get you a good weapon, if you're interested.}
-{196}{}{我会让你觉得值得的。我在。。。好吧，什么样的关系并不重要。如果你有兴趣的话，我可以给你买件好武器。}
+{196}{}{我会让你觉得值得的。我在...好吧，什么样的关系并不重要。如果你有兴趣的话，我可以给你买件好武器。}
 #{197}{}{I'll do it!}
 {197}{}{我会的！}
 #{198}{}{Not interested.}
@@ -235,7 +235,7 @@
 #{221}{}{Excellent!}
 {221}{}{杰出的！}
 #{222}{}{Hmm... Let me think. Yes, I can get you that SMG.}
-{222}{}{隐马尔可夫模型。。。让我想想。是的，我可以帮你拿那个SMG。}
+{222}{}{Hmm...让我想想。是的，我可以帮你拿那个SMG。}
 #{223}{}{Sounds good.}
 {223}{}{听起来不错。}
 #{224}{}{Yeah, yeah. He'd just better stay the hell out of my sight.}
@@ -283,19 +283,19 @@
 #{270}{}{It sure is quiet around here lately, isn't it Gerlach?}
 {270}{}{最近这里真的很安静，不是吗？}
 #{271}{}{[He laughs bitterly] I didn't expect anything else from those idiots. A collective community... Where the fuck did I even get that bullshit? Every animal just wants to eat. But here, at least, they owned their meals. There? They'll just be someone's slaves. They paid for their food with their freedom.}
-{271}{}{[他苦笑]我没想到那些白痴会给我什么。一个集体社区。。。我他妈的从哪弄来的？每只动物都想吃东西。但至少在这里，他们拥有自己的食物。在那里？他们只是某人的奴隶。他们用自己的自由为食物付钱。}
+{271}{}{[他苦笑]我没想到那些白痴会给我什么。一个集体社区...我他妈的从哪弄来的？每只动物都想吃东西。但至少在这里，他们拥有自己的食物。在那里？他们只是某人的奴隶。他们用自己的自由为食物付钱。}
 #{272}{}{Hmm, that's not far from the truth. But they made their choice.}
 {272}{}{嗯，那离事实不远了。但他们做出了选择。}
 #{273}{}{Well, Gerlach, your community is about to leave you. Are you aware of that?}
 {273}{}{嗯，杰拉克，你的社区就要离开你了。你知道吗？}
 #{274}{}{Idiots! I should have known. A collective community... Where the fuck did I even get that horseshit? Every animal just wants to eat. That's why they're leaving, so they'll know where their next meal is coming from. A utopia, in times like these.}
-{274}{}{白痴！我早该知道的。一个集体社区。。。我他妈的从哪弄来的狗屎？每只动物都想吃东西。这就是他们离开的原因，这样他们就知道下顿饭从哪里来了。一个乌托邦，在这样的时代。}
+{274}{}{白痴！我早该知道的。一个集体社区...我他妈的从哪弄来的狗屎？每只动物都想吃东西。这就是他们离开的原因，这样他们就知道下顿饭从哪里来了。一个乌托邦，在这样的时代。}
 #{275}{}{Hmm, you may be right. Time will tell.}
 {275}{}{嗯，你可能是对的。时间会证明一切的。}
 #{276}{}{As a representative of Vault 8, I propose that you come work for us in exchange for food, shelter and protection.}
 {276}{}{作为保险库8的代表，我建议你来为我们工作，以换取食物、住所和保护。}
 #{277}{}{Vault, you say? Hmm... I can't make that kind of decision. You can ask the people here yourself. But I'm not going anywhere!}
-{277}{}{你说金库？隐马尔可夫模型。。。我不能做那种决定。你可以自己问问这里的人。但我哪儿也不去！}
+{277}{}{你说避难所？Hmm...我不能做那种决定。你可以自己问问这里的人。但我哪儿也不去！}
 #{278}{}{I'll go talk to the community then.}
 {278}{}{那我就去社区谈谈。}
 #{280}{}{Can you tell me the history of this place?}
@@ -327,7 +327,7 @@
 #{293}{}{More?}
 {293}{}{更多？}
 #{294}{}{Caravan fell on hard times - our own people betraying us, or just walking away. Didn't do much for my opinion of people, let me tell you. But then... }
-{294}{}{商队在艰难时期倒下了——我们自己的人背叛了我们，或者就这样走开了。我告诉你，我对别人的看法没什么帮助。但是。。。}
+{294}{}{商队在艰难时期倒下了——我们自己的人背叛了我们，或者就这样走开了。我告诉你，我对别人的看法没什么帮助。但是...}
 #{295}{}{We found a small village, all one big family. Inbred as all hell - you could see their kids were fucked up. But they protected their own, didn't even let us close to them.}
 {295}{}{我们发现了一个小村庄，都是一个大家庭。近亲繁殖-你可以看到他们的孩子被搞砸了。但他们保护自己，甚至不让我们靠近他们。}
 #{296}{}{Each of them would give their last drop of blood to protect their children. It surprised me. I was an orphan - I couldn't understand it.}
@@ -335,7 +335,7 @@
 #{297}{}{I thought about it for a long time. In the end, I realized, that's what we needed - a collective community where people don't just live for themselves, but for the common good. A small community where everyone would know each other, where everyone would be responsible for their work, where everyone would be *unified*. And anyone who couldn't pull their weight would be cast out.}
 {297}{}{我想了很久。最后，我意识到，这就是我们所需要的——一个集体社区，人们不仅为自己而活，而且为共同利益而活。在一个小社区里，每个人都互相认识，每个人都对自己的工作负责，每个人都“团结一致”。任何一个不能控制自己体重的人都会被淘汰。}
 #{298}{}{I talked to people in Reno about this. A lot of them laughed. But some of the others... They saw what I was saying.}
-{298}{}{我和雷诺的人谈过这件事。很多人都笑了。但是其他一些。。。他们看到了我说的话。}
+{298}{}{我和雷诺的人谈过这件事。很多人都笑了。但是其他一些...他们看到了我说的话。}
 #{299}{}{Together, we found this place and actually made it livable! Now, most of them were killed by raiders early on, but we managed to fend them off. Once word got out, new people came.}
 {299}{}{我们一起找到了这个地方，让它变得宜居！现在，他们中的大多数人很早就被袭击者杀死了，但我们设法把他们赶走了。消息一出，新来的人就来了。}
 #{300}{}{Now we have everything we need. We're pretty much independent. And I hope it stays that way!}
@@ -355,7 +355,7 @@
 #{315}{}{Milo is married? Maybe I should talk to her.}
 {315}{}{米洛结婚了？也许我应该和她谈谈。}
 #{316}{}{Hmm... [looks at everybody] Perhaps... There is something about you, wanderer.}
-{316}{}{隐马尔可夫模型。。。[看着每个人]也许。。。你有点不对劲，流浪汉。}
+{316}{}{Hmm...[看着每个人]也许...你有点不对劲，流浪汉。}
 #{1120}{}{Not now, outsider. We'll talk after we deal with this - [spits in disgust] - piece of shit.}
 {1120}{}{现在不行，局外人。我们处理完这事再谈-[恶心地吐口水]-狗屎。}
 #{1126}{}{[Someone yells from the crowd] Gerlach, let her speak! She should know why we're doing this!}
@@ -365,7 +365,7 @@
 #{1135}{}{[His eyes blaze with anger] What?! What did you just say to me? Shut your mouth! Nobody asked you!}
 {1135}{}{什么？！你刚才对我说了什么？闭嘴！没人问你！}
 #{1140}{}{Hmm... [he looks over at the crowd] Why should we trust you, outsider?}
-{1140}{}{隐马尔可夫模型。。。[他看着人群]我们为什么要相信你，局外人？}
+{1140}{}{Hmm...[他看着人群]我们为什么要相信你，局外人？}
 #{1144}{}{Actually, I changed my mind. I don't care about that guy. Burn him!}
 {1144}{}{实际上，我改变主意了。我不在乎那个家伙。烧死他！}
 #{1163}{}{Okay, Gerlach. I got it.}
@@ -385,4 +385,4 @@
 #{1284}{}{Forget it, I changed my mind.}
 {1284}{}{算了吧，我改变主意了。}
 #{1316}{}{Hmm... [looks at everybody] Perhaps... There is something about you, wanderer.}
-{1316}{}{隐马尔可夫模型。。。[看着每个人]也许。。。你有点不对劲，流浪汉。}
+{1316}{}{Hmm...[看着每个人]也许...你有点不对劲，流浪汉。}

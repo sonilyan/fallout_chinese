@@ -19,7 +19,7 @@
 #{205}{}{I need a slave. It will work as a driver on a train.}
 {205}{}{我需要一个奴隶。它将在火车上当司机。}
 #{206}{}{Uh... No. Bye.}
-{206}{}{休斯敦大学。。。不，再见。}
+{206}{}{Uh...不，再见。}
 #{207}{}{Wow! Wow! What a belligerence! So what, will you dare, huh? Ha-ha! Come on, try it! I'm all yours!}
 {207}{}{哇！哇！好战啊！那又怎样，你敢吗？哈哈！来吧，试试看！我是你的！}
 #{208}{}{Great! Take that, scum!}
@@ -51,7 +51,7 @@
 #{221}{}{Then, you lose a customer. I'm leaving.}
 {221}{}{然后，你失去了一个顾客。我要走了。}
 #{222}{}{Not every day the product like that makes its way into the corral... However, there wasn't a buyer for it for a while. Maybe I indeed ask too high a price for it. Okay, I'll drop the price to $2000.}
-{222}{}{不是每天都有这样的产品进入畜栏。。。不过，暂时没有买家。也许我真的要价太高了。好吧，我把价格降到2000美元。}
+{222}{}{不是每天都有这样的产品进入畜栏...不过，暂时没有买家。也许我真的要价太高了。好吧，我把价格降到2000美元。}
 #{223}{}{A reasonable solution. Here is the money. Send the slave to Salt Lake City, have him meet me at the hotel "the Sixth bullet".}
 {223}{}{一个合理的解决方案。这是钱。把奴隶送到盐湖城，让他在“第六颗子弹”旅馆接我。}
 #{224}{}{You have found a driver for the train. You can now return to Salt Lake and continue your mission.}
@@ -65,17 +65,17 @@
 #{241}{}{Fine. We always need good slaves, especially fighters. Their usual purchase price is $500.}
 {241}{}{好的。我们总是需要好的奴隶，尤其是战士。他们通常的购买价是500美元。}
 #{242}{}{I like the price. You can pick him up. Oh, and... Maybe he will resist. 'Cause, you know, he is a fighting slave after all.}
-{242}{}{我喜欢这个价格。你可以去接他。哦，还有。。。也许他会反抗因为，你知道，他毕竟是个战斗奴隶。}
+{242}{}{我喜欢这个价格。你可以去接他。哦，还有...也许他会反抗因为，你知道，他毕竟是个战斗奴隶。}
 #{243}{}{How much? No, I'll try to find another use for him.}
 {243}{}{多少钱？不，我会试着为他找到另一个用途。}
 #{244}{}{And this one looks decent. The body is in excellent condition, have enough power to fight and not once. Good product. Here is the payment.}
 {244}{}{这个看起来不错。身体状况良好，有足够的力量去战斗而不是一次。好产品。这是付款单。}
 #{245}{}{Finally, at least some use of him...}
-{245}{}{最后，至少对他有点用处。。。}
+{245}{}{最后，至少对他有点用处...}
 #{250}{}{I'm looking for a certain slave named Eric.}
 {250}{}{我在找一个叫埃里克的奴隶。}
 #{251}{}{Let's see... Yes, there is such. A slave from the middle class of laborers. Those can be used to carry weights or can be send to fight in the ring.}
-{251}{}{让我们看看。。。是的，有这样的。来自中产阶级的奴隶。这些可以用来负重，也可以用来打拳击。}
+{251}{}{让我们看看...是的，有这样的。来自中产阶级的奴隶。这些可以用来负重，也可以用来打拳击。}
 #{252}{}{How much for him?}
 {252}{}{给他多少钱？}
 #{253}{}{The slaves of this class are worth 500 bucks.}
@@ -87,7 +87,7 @@
 #{256}{}{Thanks, I don't need it.}
 {256}{}{谢谢，我不需要。}
 #{257}{}{The slaves are expensive. If only the clients knew, how much of the hard work was invested in catching and training them...}
-{257}{}{奴隶很贵。如果客户知道，他们花了多少精力去抓和训练他们。。。}
+{257}{}{奴隶很贵。如果客户知道，他们花了多少精力去抓和训练他们...}
 #{258}{}{I'll come back when I have enough money.}
 {258}{}{我有足够的钱就回来。}
 #{259}{}{Hey there! Item number A12-86. Come on, customer's waiting!..}
@@ -121,7 +121,7 @@
 #{273}{}{Okay, here's 300 bucks and a gratitude on behalf of the company. Don't ask me for more.}
 {273}{}{好的，这是300美元和代表公司的感谢。别再问我了。}
 #{274}{}{Ha, so much money for a side job...}
-{274}{}{哈，这么多钱做兼职。。。}
+{274}{}{哈，这么多钱做兼职...}
 #{278}{}{Four.}
 {278}{}{四个。}
 #{279}{}{Seems like I can sell some more.}

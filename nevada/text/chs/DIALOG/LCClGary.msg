@@ -25,7 +25,7 @@
 #{152}{}{Clerk is a basis of any enterprise.}
 {152}{}{办事员是任何企业的基础。}
 #{153}{}{Clerk is like a God... Yes, exactly.}
-{153}{}{店员就像上帝。。。是的，没错。}
+{153}{}{店员就像上帝...是的，没错。}
 #{154}{}{I can save the factory or bring it down. Do you understand how important I am?}
 {154}{}{我可以拯救工厂，也可以摧毁它。你知道我有多重要吗？}
 #{155}{}{The most important thing is to gain the trust of the client.}
@@ -41,17 +41,17 @@
 #{160}{}{There's no customers because you are lazy!}
 {160}{}{因为你懒惰，所以没有顾客！}
 #{161}{}{If you wouldn't be lazy and worked like me...}
-{161}{}{如果你不懒，不象我一样工作。。。}
+{161}{}{如果你不懒，不象我一样工作...}
 #{162}{}{No career progression! One either progresses, or doesn't.}
 {162}{}{没有职业发展！要么进步，要么不进步。}
 #{163}{}{Don't confuse marketing and management! It's not the same.}
 {163}{}{别把营销和管理混为一谈！这不一样。}
 #{164}{}{We need a decent designer...}
-{164}{}{我们需要一个像样的设计师。。。}
+{164}{}{我们需要一个像样的设计师...}
 #{165}{}{I knew a designer once...}
-{165}{}{我认识一个设计师。。。}
+{165}{}{我认识一个设计师...}
 #{166}{}{Our enterprise either good, or... Oops, no or.}
-{166}{}{我们的企业要么很好，要么。。。哦，不，或者。}
+{166}{}{我们的企业要么很好，要么...哦，不，或者。}
 #{167}{}{Well? Are you done being lazy?}
 {167}{}{好？你懒散了吗？}
 #{168}{}{Wake up! There's customers!}
@@ -69,9 +69,9 @@
 #{174}{}{When's lunch?}
 {174}{}{什么时候吃午饭？}
 #{175}{}{I'm starving here... Oooh...}
-{175}{}{我饿死了。。。哦哦。。。}
+{175}{}{我饿死了...哦哦...}
 #{176}{}{Is anyone going to the market? I want some jerky...}
-{176}{}{有人要去市场吗？我想要些肉干。。。}
+{176}{}{有人要去市场吗？我想要些肉干...}
 #{177}{}{The most important thing in management is to work with people.}
 {177}{}{管理中最重要的是与人合作。}
 #{178}{}{The clerk is the coolest job! You don't believe it? Too bad!}
@@ -81,11 +81,11 @@
 #{180}{}{Why don't you want to hire the caravan merchant that sells pre-war cola?}
 {180}{}{你为什么不雇一个卖战前可乐的商队商人呢？}
 #{181}{}{Oh, I remember, yes-yes. It's our rival with a very shady business, right? We don't need people of such... Uh, origin. Well, you know, peasants with tanned skin and working hands will not get people's affection.}
-{181}{}{哦，我记得，是的。这是我们的竞争对手，生意很阴暗，对吧？我们不需要这样的人。。。呃，起源。嗯，你知道，皮肤晒得黝黑、双手劳动的农民不会得到人们的喜爱。}
+{181}{}{哦，我记得，是的。这是我们的竞争对手，生意很阴暗，对吧？我们不需要这样的人...呃，起源。嗯，你知道，皮肤晒得黝黑、双手劳动的农民不会得到人们的喜爱。}
 #{182}{}{I think you're wrong. You should not throw away such a good worker.}
 {182}{}{我觉得你错了。你不应该抛弃这样一个好工人。}
 #{183}{}{Could I change your mind? No, not likely... Fine, see you.}
-{183}{}{我能改变你的想法吗？不，不太可能。。。好的，再见。}
+{183}{}{我能改变你的想法吗？不，不太可能...好的，再见。}
 #{184}{}{Oh, really? And what should change my mind?}
 {184}{}{哦，真的吗？什么会让我改变主意？}
 #{185}{}{My recommendation as an experienced courier.}

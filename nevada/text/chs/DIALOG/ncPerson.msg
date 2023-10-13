@@ -7,7 +7,7 @@
 #{112}{}{Someone's going to die tonight. I can feel it.}
 {112}{}{今晚会有人死的。我能感觉到。}
 #{113}{}{I'm so sick of the noises at night...}
-{113}{}{我讨厌晚上的噪音。。。}
+{113}{}{我讨厌晚上的噪音...}
 #{114}{}{If I ever the chance, I'll move to hell. It has to be better than this.}
 {114}{}{如果有机会，我就去地狱。一定比这个好。}
 #{115}{}{I can't stop thinking these are Reno's last days.}
@@ -23,13 +23,13 @@
 #{120}{}{This is my home! Stop pushing me around or you will regret it!}
 {120}{}{这是我的家！别逼我了，否则你会后悔的！}
 #{121}{}{If I spill a one drop of my soup because of you...}
-{121}{}{如果我因为你洒了一滴汤。。。}
+{121}{}{如果我因为你洒了一滴汤...}
 #{122}{}{Find somewhere else to do that sort of thing!}
 {122}{}{找别的地方做那种事！}
 #{123}{}{Don't do that!}
 {123}{}{别那么做！}
 #{129}{}{I miss my husband... *sobs* after that drug dealer died, he had nowhere else to buy his medicine...}
-{129}{}{我想念我的丈夫。。。*那个毒贩死后，他没有别的地方可以买他的药。。。}
+{129}{}{我想念我的丈夫...*那个毒贩死后，他没有别的地方可以买他的药...}
 #{130}{}{Don't mind them, they're always fighting. Just give them a reason.}
 {130}{}{别理他们，他们总是打架。给他们一个理由。}
 #{131}{}{How would you like it if I barged into YOUR home and started asking questions?}
@@ -37,13 +37,13 @@
 #{132}{}{I have nothing to tell you.}
 {132}{}{我没什么要告诉你的。}
 #{133}{}{I'd love to chat, but I'm already late to the night club...}
-{133}{}{我很想聊天，但我去夜总会已经迟到了。。。}
+{133}{}{我很想聊天，但我去夜总会已经迟到了...}
 #{134}{}{It's... You! Wow! I'm a big fan - I catch your dances whenever I can!}
-{134}{}{这是。。。你！哇！我是你的超级粉丝-我随时都能看到你的舞蹈！}
+{134}{}{这是...你！哇！我是你的超级粉丝-我随时都能看到你的舞蹈！}
 #{135}{}{Huh? Don't bother me. I lost my ticket to the night club, and I'm looking for it.}
 {135}{}{呵呵？别打扰我。我把去夜总会的票丢了，我正在找。}
 #{136}{}{Hey, good performance! I caught it at Mom's club. Nice place...}
-{136}{}{嘿，表现不错！我在妈妈的俱乐部看到的。好地方。。。}
+{136}{}{嘿，表现不错！我在妈妈的俱乐部看到的。好地方...}
 #{137}{}{Do you mind? I'm having my breakfast.}
 {137}{}{你介意吗？我在吃早餐。}
 #{138}{}{Leave me alone. I'm eating lunch.}
@@ -127,7 +127,7 @@
 #{216}{}{I'm busy.}
 {216}{}{我很忙。}
 #{217}{}{I'm too tired...}
-{217}{}{我太累了。。。}
+{217}{}{我太累了...}
 #{218}{}{Get out before I get *really* pissed!}
 {218}{}{在我生气之前滚开！}
 #{219}{}{Find yourself another one.}

@@ -3,9 +3,9 @@
 #{101}{}{You see Bob Neil the substation chief.}
 {101}{}{你看到变电站主任鲍勃·尼尔了。}
 #{102}{}{Bob Neil is dead. Imagine the bloodbath that's gonna start over Hoover Dam now...}
-{102}{}{鲍勃·尼尔死了。想象一下胡佛大坝上的血案。。。}
+{102}{}{鲍勃·尼尔死了。想象一下胡佛大坝上的血案...}
 #{300}{}{New in town? I don't remember seeing you...}
-{300}{}{新来的？我不记得见过你。。。}
+{300}{}{新来的？我不记得见过你...}
 #{301}{}{Yes, how can I help?}
 {301}{}{是的，我能帮忙吗？}
 #{302}{}{Oh, it's you. What do you need?}
@@ -19,7 +19,7 @@
 #{312}{}{My name is }
 {312}{}{我的名字是}
 #{313}{}{. And you are...}
-{313}{}{. 你是。。。}
+{313}{}{. 你是...}
 #{314}{}{None of your business old man.}
 {314}{}{不关你的事，老头子。}
 #{315}{}{In that case, I think I'd rather avoid talking to you.}
@@ -83,7 +83,7 @@
 #{350}{}{Strange situation for the city's main enterprise, wouldn't you say?}
 {350}{}{这个城市的主要企业情况很奇怪，你说呢？}
 #{351}{}{The damn shareholders set everything up in a way to leave us with barely any money to pay the workers. They're doing this to leave us penniless and then grab the dam for themselves. Gecko scums...}
-{351}{}{该死的股东们把一切都安排好了，让我们几乎没有钱支付工人的工资。他们这样做是为了让我们身无分文，然后自己抢水坝。壁虎渣。。。}
+{351}{}{该死的股东们把一切都安排好了，让我们几乎没有钱支付工人的工资。他们这样做是为了让我们身无分文，然后自己抢水坝。壁虎渣...}
 #{352}{}{If you're in short for workers, I could try and look for some new people.}
 {352}{}{如果你是工人的简称，我可以试着找些新人。}
 #{353}{}{I already told you. We need cheap labour.}
@@ -129,7 +129,7 @@
 #{382}{}{I don't know. I'll look into it.}
 {382}{}{我不知道。我会调查的。}
 #{383}{}{Well, if you're so confident about them, then you must have reasons. Considering their current position, they won't ask for much... Alright, you've convinced me. I'll give the freaks a chance and see how it goes. Thank you wanderer.}
-{383}{}{好吧，如果你对他们这么有信心，那你一定有理由。考虑到他们现在的处境，他们不会要求太多。。。好吧，你说服我了。我会给那些怪胎一个机会看看进展如何。谢谢你，流浪者。}
+{383}{}{好吧，如果你对他们这么有信心，那你一定有理由。考虑到他们现在的处境，他们不会要求太多...好吧，你说服我了。我会给那些怪胎一个机会看看进展如何。谢谢你，流浪者。}
 #{384}{}{Great!}
 {384}{}{太好了！}
 #{385}{}{You convinced Bob Neil to hire the freaks.}
@@ -139,11 +139,11 @@
 #{387}{}{Hm, I'll need to think about this.}
 {387}{}{嗯，我得考虑一下。}
 #{388}{}{Oh, this is interesting! If they're more endurant and less affected by gas and radiation, then they'll make excellent workers. And considering their social position, they won't ask for much pay... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
-{388}{}{哦，真有趣！如果他们的耐力更强，受气体和辐射的影响更小，那么他们将成为优秀的工人。考虑到他们的社会地位，他们不会要求太多的报酬。。。好吧，你说服我了。我会和怪胎们合作，看看结果如何。谢谢你，流浪者。}
+{388}{}{哦，真有趣！如果他们的耐力更强，受气体和辐射的影响更小，那么他们将成为优秀的工人。考虑到他们的社会地位，他们不会要求太多的报酬...好吧，你说服我了。我会和怪胎们合作，看看结果如何。谢谢你，流浪者。}
 #{389}{}{Great!}
 {389}{}{太好了！}
 #{390}{}{You know, you don't really look like a scientist...}
-{390}{}{你知道，你看起来不像个科学家。。。}
+{390}{}{你知道，你看起来不像个科学家...}
 #{391}{}{Of course, men with your reputation in Vegas deserve trust. You've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
 {391}{}{当然，在维加斯有你名声的人值得信任。你说服了我。我会和怪胎们合作，看看结果如何。谢谢你，流浪者。}
 #{392}{}{Honestly, I haven't heard much good about you. Why should I trust you?}
@@ -155,7 +155,7 @@
 #{395}{}{I did everything I could to help. I don't want to hear your whining.}
 {395}{}{我尽了我所能来帮忙。我不想听你的抱怨。}
 #{396}{}{Looks like cheap labour is completely gone from the city...}
-{396}{}{看起来廉价劳动力已经从城市里消失了。。。}
+{396}{}{看起来廉价劳动力已经从城市里消失了...}
 #{397}{}{Yeah, that's basically it. Slavertown is empty, the mayor won't give a cent to support us. I had hope for those ghouls, despite my repulsion for them. But, unfortunately even they are gone. Looks like the only thing left is to give the fate of the dam into the hands of those snobs from the Clean City and hope they won't boot me out like a dog.}
 {397}{}{是的，基本上就是这样。斯拉夫镇是空的，市长一分钱也不肯支持我们。我对那些食尸鬼抱有希望，尽管我厌恶他们。但不幸的是，他们都走了。看来唯一剩下的就是把大坝的命运交给那些来自清洁城市的势利小人，希望他们不要像狗一样把我赶出去。}
 #{398}{}{That's unfortunate to hear. I guess I'll go now. My things aren't quite as bad.}
@@ -175,7 +175,7 @@
 #{406}{}{I changed my mind. Goodbye.}
 {406}{}{我改变主意了。再见。}
 #{407}{}{This is a robbery! But... Ugh... Hold on, I need them too much. Alright, I'll agree to 20000. But this is the bottom line.}
-{407}{}{这是抢劫！但是。。。呃。。。等等，我太需要他们了。好吧，我同意两万。但这是底线。}
+{407}{}{这是抢劫！但是...呃...等等，我太需要他们了。好吧，我同意两万。但这是底线。}
 #{408}{}{Great, a pleasure doing business with you.}
 {408}{}{很好，很高兴和你做生意。}
 #{409}{}{No thanks, I'd rather look for different sellers.}
@@ -193,13 +193,13 @@
 #{415}{}{How are those new workers?}
 {415}{}{那些新工人怎么样？}
 #{416}{}{Those freaks are a treasure! They aren't pretentious, very endurant and they're not afraid of heat of radiation. Best of all, they work for nothing! And... Honestly, sometimes I like their jokes. A great bunch. I'm glad they're with us.}
-{416}{}{那些怪胎是宝藏！它们不自命不凡，非常耐性，也不怕辐射热。最棒的是，他们白干了！还有。。。老实说，有时候我喜欢他们的笑话。一大群人。我很高兴他们和我们在一起。}
+{416}{}{那些怪胎是宝藏！它们不自命不凡，非常耐性，也不怕辐射热。最棒的是，他们白干了！还有...老实说，有时候我喜欢他们的笑话。一大群人。我很高兴他们和我们在一起。}
 #{417}{}{Good, I've got another question.}
 {417}{}{很好，我还有一个问题。}
 #{418}{}{Great. I need to go now.}
 {418}{}{伟大的。我得走了。}
 #{419}{}{I don't regret the purchase. There are a few problems with the slaves. I had to hire a chef and supervisors, but that's nothing compared to what they will do for us. I'm glad and... Thank you.}
-{419}{}{我不后悔购买。奴隶们有一些问题。我不得不雇一个厨师和主管，但和他们为我们做的相比，这算不了什么。我很高兴。。。非常感谢。}
+{419}{}{我不后悔购买。奴隶们有一些问题。我不得不雇一个厨师和主管，但和他们为我们做的相比，这算不了什么。我很高兴...非常感谢。}
 #{450}{}{Why does Hal Wallace hate you?}
 {450}{}{哈尔·华莱士为什么恨你？}
 #{451}{}{What? What are you talking about?}
@@ -249,7 +249,7 @@
 #{473}{}{I'll think about it.}
 {473}{}{我会考虑的。}
 #{474}{}{I assume your interest is only in payment. In that case, I have a counter offer... You don't care who to get rid of, right? 5000$.}
-{474}{}{我想你的兴趣只在于付款。那样的话，我有个还盘。。。你不在乎该摆脱谁，对吧？5000$.}
+{474}{}{我想你的兴趣只在于付款。那样的话，我有个还盘...你不在乎该摆脱谁，对吧？5000$.}
 #{475}{}{Like hell, old man! I'm fulfilling Wallace's task!}
 {475}{}{见鬼，老头子！我在完成华莱士的任务！}
 #{476}{}{Of course. Pretty reasonable from you. Now, please leave. All the best.}
@@ -257,7 +257,7 @@
 #{477}{}{Goodbye.}
 {477}{}{再见。}
 #{478}{}{In that case, I have no choice...}
-{478}{}{那样的话，我别无选择。。。}
+{478}{}{那样的话，我别无选择...}
 #{479}{}{[Leave]}
 {479}{}{[离开]}
 #{480}{}{Wallace won't be a problem anymore. I did my part of the deal. What about yours?}
@@ -285,9 +285,9 @@
 #{1354}{}{Handling public relations and making sure everything works smoothly. We're doing quite well thanks to the new labour force. Thank you, wanderer.}
 {1354}{}{处理公共关系，确保一切顺利进行。多亏了新的劳动力，我们做得很好。谢谢你，流浪者。}
 #{1383}{}{Well, if you're so confident about them, then you must have reasons. Considering their current position, they won't ask for much... Alright, you've convinced me. I'll give the freaks a chance and see how it goes. Thank you wanderer.}
-{1383}{}{好吧，如果你对他们这么有信心，那你一定有理由。考虑到他们现在的处境，他们不会要求太多。。。好吧，你说服我了。我会给那些怪胎一个机会看看进展如何。谢谢你，流浪者。}
+{1383}{}{好吧，如果你对他们这么有信心，那你一定有理由。考虑到他们现在的处境，他们不会要求太多...好吧，你说服我了。我会给那些怪胎一个机会看看进展如何。谢谢你，流浪者。}
 #{1388}{}{Oh, this is interesting! If they're more endurant and less affected by gas and radiation, then they'll make excellent workers. And considering their social position, they won't ask for much pay... Alright, you've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
-{1388}{}{哦，真有趣！如果他们的耐力更强，受气体和辐射的影响更小，那么他们将成为优秀的工人。考虑到他们的社会地位，他们不会要求太多的报酬。。。好吧，你说服我了。我会和怪胎们合作，看看结果如何。谢谢你，流浪者。}
+{1388}{}{哦，真有趣！如果他们的耐力更强，受气体和辐射的影响更小，那么他们将成为优秀的工人。考虑到他们的社会地位，他们不会要求太多的报酬...好吧，你说服我了。我会和怪胎们合作，看看结果如何。谢谢你，流浪者。}
 #{1391}{}{Of course, women with your reputation in Vegas deserve trust. You've convinced me. I'll work with the freaks and see how it turns out. Thank you, wanderer.}
 {1391}{}{当然，在维加斯有你名声的女人值得信任。你说服了我。我会和怪胎们合作，看看结果如何。谢谢你，流浪者。}
 #{1393}{}{Ah, here's our savior of the damned. I knew that this is how it will end sooner or later. Well, now that the ghouls are gone, we're back to square one. We need labour force.}

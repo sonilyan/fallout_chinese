@@ -19,7 +19,7 @@
 #{115}{}{Alright, forget it.}
 {115}{}{好吧，算了吧。}
 #{120}{}{[Entering dim-lit room, you see its dirty-face goggles-wearing inhabitant. He looks pretty busy and tired at the same time. He stops working when notices you] Hnh? You a customer or just lost? You never know who's wandering all the way out here... But hey, maybe I'm lucky this time. What can I do for ya?}
-{120}{}{[进入光线昏暗的房间，你会看到里面的居民戴着脏兮兮的护目镜。他看起来既忙又累。当他注意到你时就停止工作了]嗯？你是顾客还是刚刚迷路？你永远不知道是谁在这里游荡。。。但是嘿，也许这次我很幸运。我能为你做些什么？}
+{120}{}{[进入光线昏暗的房间，你会看到里面的居民戴着脏兮兮的护目镜。他看起来既忙又累。当他注意到你时就停止工作了]嗯？你是顾客还是刚刚迷路？你永远不知道是谁在这里游荡...但是嘿，也许这次我很幸运。我能为你做些什么？}
 #{121}{}{Hi. May I wonder to whom I managed to came across in this slums?}
 {121}{}{你好。我想知道我在这个贫民窟遇到了谁吗？}
 #{122}{}{Frank Cochran, at your service. I'm mechanic and electrician, and also a little bit of a gunsmith. I often have to deal with just about anything that has something to do with repairing. As for slums - no offense taken, I like it that way. If I had more trust in people, I would've already moved somewhere closer to the central streets.}
@@ -32,7 +32,7 @@
 {125}{}{交易怎么样？}
 #{126}{}{This ain't a store, if that's what you mean. But I guess it can't hurt to offload some of this crap.}
 {126}{}{这不是商店，如果你是这个意思的话。但我想卸下这些垃圾也没什么坏处。}
-#{127}{}{Let�s take a look at your junk.}
+#{127}{}{Let??s take a look at your junk.}
 {127}{}{让我们看看你的破烂。}
 #{129}{}{Do you know where can I find pre-war vault technology around here?}
 {129}{}{你知道在这附近哪里可以找到战前的保险库技术吗？}
@@ -79,7 +79,7 @@
 #{153}{}{Never mind, then.}
 {153}{}{那没关系。}
 #{154}{}{Hmm... Yeah, I can do that. I'll need 10,000 bucks and several days to work on it.}
-{154}{}{隐马尔可夫模型。。。是的，我能做到。我需要1万美元和几天的时间。}
+{154}{}{Hmm...是的，我能做到。我需要1万美元和几天的时间。}
 #{155}{}{That's a fair price. I'll give you 5000 dollars up front, and the rest when the tool is done.}
 {155}{}{这是一个公平的价格。我先付你5000美元，剩下的等工具完成后再付。}
 #{156}{}{See you later.}
@@ -119,7 +119,7 @@
 #{183}{}{Forget it, it's fine as it is.}
 {183}{}{算了吧，现在还不错。}
 #{184}{}{I can add more attachments and bits. You'll be able to make more calibers and even press armor-piercing rounds. It'll be heavier, but it'll be worth it. Let's say...}
-{184}{}{我可以添加更多的附件和位。你可以制造更多的口径，甚至可以压制穿甲弹。它会更重，但值得。比如说。。。}
+{184}{}{我可以添加更多的附件和位。你可以制造更多的口径，甚至可以压制穿甲弹。它会更重，但值得。比如说...}
 #{185}{}{ bucks.}
 {185}{}{美元。}
 #{186}{}{Here's the money. Get started.}
@@ -166,12 +166,12 @@
 {207}{}{其实，没关系。}
 #{208}{}{Sure. I'll do it for }
 {208}{}{当然。我会为你做的}
-#{209}{}{Here�s the money.}
+#{209}{}{Here??s the money.}
 {209}{}{这是钱。}
 #{210}{}{No thanks.}
 {210}{}{不用了，谢谢。}
 #{211}{}{[An hour later, exhausted mechanic drags in a sack full of plates] Uh... We have a little problem. I busted my last drill working on these, so don't know how to continue. All I managed to make is here.}
-{211}{}{[一小时后，筋疲力尽的机械师拖着装满盘子的袋子]呃。。。我们有个小问题。我上一次训练的时候把它们弄坏了，所以不知道怎么继续。我所能做的就是在这里。}
+{211}{}{[一小时后，筋疲力尽的机械师拖着装满盘子的袋子]呃...我们有个小问题。我上一次训练的时候把它们弄坏了，所以不知道怎么继续。我所能做的就是在这里。}
 #{212}{}{Well, at least it's something.}
 {212}{}{好吧，至少有点道理。}
 #{213}{}{ bucks.}
@@ -189,7 +189,7 @@
 #{227}{}{dollars be worth your time?}
 {227}{}{美元值得你花时间吗？}
 #{228}{}{[He scratches one unshaven cheek] Yeah... Alright, fine. But I want the cash up front.}
-{228}{}{[他刮了刮胡子的脸颊]是的。。。好吧，很好。但我要先付现金。}
+{228}{}{[他刮了刮胡子的脸颊]是的...好吧，很好。但我要先付现金。}
 #{229}{}{Here, take it. Don't try anything funny!}
 {229}{}{来，拿着。别耍花样！}
 #{230}{}{Actually, I changed my mind. You can go back to doing nothing.}
@@ -210,13 +210,13 @@
 {241}{}{容易的。我藏了一个。[他眯着眼睛]这是你的300美元。}
 #{242}{}{Are you out of your mind?! So much money for such a little thing?}
 {242}{}{你疯了吗？！这么小的东西花了这么多钱？}
-#{243}{}{Here�s the money. Give me the fuse.}
+#{243}{}{Here??s the money. Give me the fuse.}
 {243}{}{这是钱。把保险丝给我。}
 #{244}{}{I'll keep looking.}
 {244}{}{我会继续找的。}
 #{245}{}{[He shrugs] Nothing is free nowadays. But I've got an alternative option, if you are interested.}
 {245}{}{[他耸耸肩]现在没有什么是免费的。但如果你有兴趣的话，我有另一个选择。}
-#{246}{}{I�m listening.}
+#{246}{}{I??m listening.}
 {246}{}{我在听。}
 #{247}{}{No, I'll pay. Here's the money.}
 {247}{}{不，我来付。这是钱。}
@@ -229,18 +229,18 @@
 #{251}{}{Thanks for the fuse.}
 {251}{}{谢谢你的保险丝。}
 #{252}{}{About that fuse...}
-{252}{}{关于保险丝。。。}
+{252}{}{关于保险丝...}
 #{253}{}{Three hundred bucks. And don't bother trying to rob me, it's hidden away where you'll never find it.}
 {253}{}{三百美元。别费心抢我，它藏在你永远找不到的地方。}
 #{254}{}{That's pretty expensive. Is there anything I can do to lower the price?}
 {254}{}{那相当贵。我能做些什么来降低价格吗？}
 #{255}{}{I killed the female dogs. Where's my reward?}
 {255}{}{我杀了母狗。我的报酬呢？}
-#{256}{}{I'll pay. Here�s the money.}
+#{256}{}{I'll pay. Here??s the money.}
 {256}{}{我会付钱的。这是钱。}
 #{257}{}{Was worth it. Thanks for the help.}
 {257}{}{这是值得的。谢谢你的帮助。}
-#{258}{}{You�re welcome.}
+#{258}{}{You??re welcome.}
 {258}{}{不客气。}
 #{259}{}{Great.}
 {259}{}{伟大的。}
@@ -251,7 +251,7 @@
 #{262}{}{Ha! I don't fucking think so. You'll never find my stash without me.}
 {262}{}{哈！我他妈的不这么认为。没有我你永远找不到我的藏身之所。}
 #{263}{}{Hmm...}
-{263}{}{隐马尔可夫模型。。。}
+{263}{}{Hmm...}
 #{270}{}{Have you ever worked on a functional car?}
 {270}{}{你曾经做过功能车吗？}
 #{271}{}{Like every mechanic, I worked on cars. And by that I mean disassembled a lot of them understanding nothing about how they work. Also, It's almost impossible to find parts that are in working condition.}
@@ -267,7 +267,7 @@
 #{276}{}{[His eyes go wide] Really?! You got a working car? Can I see it?}
 {276}{}{真的吗？！你的车能用吗？我能看看吗？}
 #{277}{}{It's right outside. So, about that part...}
-{277}{}{就在外面。所以，关于那部分。。。}
+{277}{}{就在外面。所以，关于那部分...}
 #{278}{}{It's not here. Maybe I'll drive it by later.}
 {278}{}{它不在这里。也许我晚点开车过去。}
 #{279}{}{Sure! What else am I gonna use this thing for? I'll install it for, let's say...1000 bucks.}
@@ -330,14 +330,14 @@
 {314}{}{我只是提供。}
 #{315}{}{I have another weapon I'd like you to work on.}
 {315}{}{我还有一件武器想让你研究一下。}
-#{316}{}{Let�s talk about something else.}
+#{316}{}{Let??s talk about something else.}
 {316}{}{我们再谈点别的吧。}
 #{317}{}{See you.}
 {317}{}{再见。}
 #{318}{}{What is that, a joke?}
 {318}{}{那是什么笑话？}
 #{319}{}{Uh, never mind...}
-{319}{}{呃，没关系。。。}
+{319}{}{呃，没关系...}
 #{320}{}{I can whip up a speed loader for you. It'll run you }
 {320}{}{我可以为你准备一台高速装载机。它会让你跑的}
 #{321}{}{Damn, that's a slick looking gun! I think I can extend its magazine for you. That'll be }
@@ -349,13 +349,13 @@
 #{324}{}{Yeah, I remember fixing these for farmers, when they still were around near Reno. I can rewire it to give a stronger shock for }
 {324}{}{是的，我记得给农民修这些，那时他们还在里诺附近。我可以重新布线给你一个更强烈的震撼}
 #{325}{}{This thing has seen better days... It'll take some work, but I can restore it. It'll cost you }
-{325}{}{这件事经历了更好的日子。。。这需要一些工作，但我可以恢复。你得付出代价}
+{325}{}{这件事经历了更好的日子...这需要一些工作，但我可以恢复。你得付出代价}
 #{326}{}{Need a sharpened blade? No problem. I'll do it for }
 {326}{}{需要锋利的刀片吗？没问题。我会为你做的}
 #{327}{}{Well, shit. Can't do nothing here... Come to think of it, I can put a bandolier on it. It is pretty easy, will cost you only }
-{327}{}{好吧，妈的。在这里什么也做不了。。。想想看，我可以在上面加一条带子。这很简单，只需花你一点钱}
+{327}{}{好吧，妈的。在这里什么也做不了...想想看，我可以在上面加一条带子。这很简单，只需花你一点钱}
 #{328}{}{It's a fucking sledgehammer, what do you want? Hmm... I guess I can put spikes on it. Interested? It'll cost you }
-{328}{}{他妈的是个大锤，你想要什么？隐马尔可夫模型。。。我想我可以在上面钉钉子。有兴趣吗？你得付出代价}
+{328}{}{他妈的是个大锤，你想要什么？Hmm...我想我可以在上面钉钉子。有兴趣吗？你得付出代价}
 #{329}{}{}
 {329}{}{}
 #{330}{}{[After a couple of hours, the mechanic finishes his work and hands your newly improved weapon back to you]}
@@ -390,7 +390,7 @@
 {359}{}{美元。}
 #{400}{}{Sure. I whip up a lot of armor for caravan merchants. I've only worked with leather, but I wouldn't mind trying something else. Just bring it to me and let's see what I can do.}
 {400}{}{当然。我为商队商人准备了很多盔甲。我只做过皮革，但我不介意尝试别的东西。把它带给我看看我能做什么。}
-#{401}{}{I�ll think about it.}
+#{401}{}{I??ll think about it.}
 {401}{}{我会考虑的。}
 #{402}{}{Thanks. I have another set of armor, if you're interested.}
 {402}{}{谢谢。如果你有兴趣的话，我还有一套盔甲。}
@@ -401,7 +401,7 @@
 #{404}{}{You'll have to take it off before I can do anything with it.}
 {404}{}{我还没来得及处理你就得把它脱了。}
 #{405}{}{Oh, right, of course...}
-{405}{}{哦，对，当然。。。}
+{405}{}{哦，对，当然...}
 #{406}{}{[After some time, the mechanic brings back your newly upgraded armor, nodding to himself] Damn, I'm good.}
 {406}{}{[过了一段时间，机修工把你新升级的盔甲拿回来，对自己点点头]妈的，我没事。}
 #{407}{}{That's some fine work!}
@@ -417,10 +417,10 @@
 #{420}{}{I can add a steel plate. It won't be comfortable - or light - but it'll protect you. Unless you're playing with electricity, heh. That'll cost you }
 {420}{}{我可以加一块钢板。它不会很舒服-或轻-但它会保护你。除非你在玩电，呵呵。那要花你的钱}
 #{421}{}{Yeah. I can incorporate some steel plates, add some reinforcement here... It'll make fine armor. I'll charge you }
-{421}{}{是 啊。我可以加一些钢板，在这里加一些钢筋。。。它会成为很好的盔甲。我要向你收费}
+{421}{}{是 啊。我可以加一些钢板，在这里加一些钢筋...它会成为很好的盔甲。我要向你收费}
 #{422}{}{Fuck yeah, I know metal. I'll polish it 'till shine, patch the holes, even the manufacturer won't recognize it! That'll run you }
 {422}{}{妈的，我懂金属。我要把它擦亮，补上洞，连厂家都认不出来！那会让你跑的}
-#{423}{}{Doesn�t seem too complicated. I�ll do it for }
+#{423}{}{Doesn??t seem too complicated. I??ll do it for }
 {423}{}{似乎不太复杂。我会为你做的}
 #{1141}{}{Don't know nothing about safecracking. Plenty of thieves in Reno if you want to ask about that. But - I've got some military-grade thermite. Not much, though. Also, it ain't cheap, so get the money ready, if you want it.}
 {1141}{}{对安全破解一无所知。如果你想问的话，雷诺有很多小偷。但是-我有军用铝热剂。不过，不多。而且，它不便宜，所以准备好钱，如果你想要的话。}

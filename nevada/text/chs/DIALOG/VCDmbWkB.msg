@@ -43,7 +43,7 @@
 #{126}{}{What were you saying about the password?}
 {126}{}{你刚才说的密码是什么？}
 #{127}{}{[Furtively looks around and quickly hides the money] Hush! No need to compromise us in such an exposed area! Okay, listen... [the worker quietly calls the password and goes away from the site of the dam]}
-{127}{}{[鬼鬼祟祟地环顾四周，迅速把钱藏起来]嘘！没必要在这么暴露的地方对我们妥协！好吧，听着。。。【工人悄悄拨打密码，离开坝址】}
+{127}{}{[鬼鬼祟祟地环顾四周，迅速把钱藏起来]嘘！没必要在这么暴露的地方对我们妥协！好吧，听着...【工人悄悄拨打密码，离开坝址】}
 #{128}{}{[Go your own way]}
 {128}{}{[走自己的路]}
 #{129}{}{Right, I have heard of people like you. Playing tough, intimidating others, but push them against the wall - and they will wet their knees with urine, right?}
@@ -59,7 +59,7 @@
 #{134}{}{[The knees of the worker buckle and the wet spots appear on his pants] P-please don't! I'll tell you! Just don't touch me!}
 {134}{}{[工人的膝盖扣住了，裤子上出现了湿点]请不要！我告诉你！别碰我！}
 #{135}{}{You should have begun from this...}
-{135}{}{你应该从这个开始。。。}
+{135}{}{你应该从这个开始...}
 #{136}{}{[The worker says the password and throws himself away after you put the gun off him]}
 {136}{}{[工人说出密码，然后在你把枪放下后自杀]}
 #{137}{}{[Shoot in his back]}
@@ -73,7 +73,7 @@
 #{141}{}{Have you seen how many people I crashed on the local ring? You think I won't be able to do the same to you?}
 {141}{}{你见过我在当地拳击场撞倒多少人吗？你以为我不能对你做同样的事？}
 #{142}{}{Where the hell the likes of you come from!? I didn't do anything wrong, and suddenly... Um, okay, here's the password and now don't even touch me!}
-{142}{}{像你这样的人是从哪里来的！？我没做错什么，突然。。。嗯，好吧，这是密码，现在别碰我！}
+{142}{}{像你这样的人是从哪里来的！？我没做错什么，突然...嗯，好吧，这是密码，现在别碰我！}
 #{143}{}{Then you can live.}
 {143}{}{那你就可以活下去了。}
 #{144}{}{You're so tense, baby, you just need to relax. Do you want me to keep you company?}
@@ -81,11 +81,11 @@
 #{145}{}{[Smiles from ear to ear] Speaking of, dId I stuck here for all day for nothing? Okay, let's go, I will show you the dam. Look, we have a secluded place here, also I have some beer lying around, somewhere under my bed.}
 {145}{}{[笑得合不拢嘴]说到这里，我是不是白呆了一整天？好的，我们走吧，我带你去看水坝。你看，我们这儿有个僻静的地方，我床底下有啤酒。}
 #{146}{}{Ew, how vulgar... I don't want to waste my time with someone like you.}
-{146}{}{呃，真粗俗。。。我不想和你这样的人浪费时间。}
+{146}{}{呃，真粗俗...我不想和你这样的人浪费时间。}
 #{147}{}{Come on, baby!}
 {147}{}{快点，宝贝！}
 #{148}{}{How would you say this mildly... You're not my type, not good enough to just abandon what I'm currently doing.}
-{148}{}{你怎么能委婉地说。。。你不是我喜欢的类型，不足以放弃我现在正在做的事情。}
+{148}{}{你怎么能委婉地说...你不是我喜欢的类型，不足以放弃我现在正在做的事情。}
 #{149}{}{Well, fuck you then, asshole!}
 {149}{}{好吧，去你妈的，混蛋！}
 #{150}{}{Maybe some other mutual interest can appear between us?}

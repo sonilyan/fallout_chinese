@@ -75,7 +75,7 @@
 #{165}{}{I managed to get a recording of one Stryker's meetings. He called you a stubborn fool and plans to replace you, after he seizes power.}
 {165}{}{我设法弄到了史崔克会议的录音。他称你为顽固的傻瓜，并计划取代你后，他夺权。}
 #{166}{}{[Frowns] Stubborn - that's right. But with the rest I can not agree. Besides, Thompson has more chances to seize power in the city. Hmm...}
-{166}{}{[皱眉]固执-没错。但其余的我不同意。此外，汤普森有更多的机会夺取权力的城市。隐马尔可夫模型。。。}
+{166}{}{[皱眉]固执-没错。但其余的我不同意。此外，汤普森有更多的机会夺取权力的城市。Hmm...}
 #{167}{}{So what is the final answer to my boss?}
 {167}{}{那么，对我的老板来说，最后的答案是什么呢？}
 #{168}{}{}
@@ -83,13 +83,13 @@
 #{169}{}{}
 {169}{}{}
 #{170}{}{Hey, Daddy-o! They say that your little wife's titties aren't that bad, eh? Heh-heh...}
-{170}{}{嘿，爸爸！他们说你小老婆的奶子没那么坏，嗯？嘿嘿。。。}
+{170}{}{嘿，爸爸！他们说你小老婆的奶子没那么坏，嗯？嘿嘿...}
 #{171}{}{[Mordino remains silent for some time, eyes lowered] Wh-what... Do you want...}
-{171}{}{[摩迪诺沉默了一段时间，眼睛低着]什么。。。你想。。。}
+{171}{}{[摩迪诺沉默了一段时间，眼睛低着]什么...你想...}
 #{172}{}{Nothing much. Mr. Thompson wants protection money, for you to cut any ties with Stryker, and use of the second-floor rooms for surveillance. Now choose.}
 {172}{}{没什么。汤普森先生想要保护费，让你切断与史崔克的任何联系，并利用二楼的房间进行监视。现在选择。}
 #{173}{}{[Long silence] I... Agree...}
-{173}{}{[长时间的沉默]我。。。同意。。。}
+{173}{}{[长时间的沉默]我...同意...}
 #{174}{}{Finally. I'll pass that on to him. He'll want to meet you, so be ready.}
 {174}{}{最后。我把这个传给他。他想见你，所以准备好了。}
 #{175}{}{[Show him Mrs. Mordino's finger] You know what this means?}
@@ -97,7 +97,7 @@
 #{176}{}{My boss is fed up with you. Either you cooperate, or you go the same way as Stryker. No more warnings.}
 {176}{}{我老板受够你了。要么你合作，要么你和史崔克走同一条路。不再发出警告。}
 #{177}{}{Stryker is dead? Hmm... I had thought this fight would never end. Well, then I don't really have a choice.}
-{177}{}{史崔克死了？隐马尔可夫模型。。。我原以为这场战斗永远不会结束。好吧，那我真的没有选择。}
+{177}{}{史崔克死了？Hmm...我原以为这场战斗永远不会结束。好吧，那我真的没有选择。}
 #{178}{}{Now choose.}
 {178}{}{现在选择。}
 #{180}{}{Would a distinguished gentleman like yourself be interested in some fine personal grooming products?}
@@ -143,7 +143,7 @@
 #{205}{}{Nonsense! We will not return the money to anyone, even if you *do* find that one of the workers at the casino really is a swindler. We do won't know who lost money because of him, or even if we did, how much they lost was due to him. Now let me now go give instructions to my workers.}
 {205}{}{胡说！我们不会把钱还给任何人，即使你发现赌场的一个工人真的是骗子。我们不知道是谁因为他损失了钱，或者即使我们损失了，他们损失了多少钱都是因为他。现在让我去指示我的工人。}
 #{206}{}{Is that, so...}
-{206}{}{是吗，所以。。。}
+{206}{}{是吗，所以...}
 #{1187}{}{Hmm, I haven't really thought about it. Give me a hot minute to think it over and discuss the price with you.}
 {1187}{}{嗯，我还没想过呢。给我一分钟时间考虑一下，然后和你讨论价格。}
 #{1192}{}{You know, I've changed my mind. Bye.}

@@ -1,9 +1,9 @@
 #{100}{}{You see a pharmacist.}
 {100}{}{你看到一个药剂师。}
 #{101}{}{It's a pharmacist, though he may be a doctor... But now he is a pharmacist.}
-{101}{}{是个药剂师，虽然他可能是个医生。。。但现在他是个药剂师。}
+{101}{}{是个药剂师，虽然他可能是个医生...但现在他是个药剂师。}
 #{102}{}{It must be an interesting task if you're a doctor or a chemist... But thank you for telling me.}
-{102}{}{如果你是医生或化学家，那一定是个有趣的任务。。。但是谢谢你告诉我。}
+{102}{}{如果你是医生或化学家，那一定是个有趣的任务...但是谢谢你告诉我。}
 #{103}{}{Well, it seems the issue has been resolved. It also means that I will have something to do sitting by the campfire in my free time. Goodbye, colleague!}
 {103}{}{看来问题已经解决了。这也意味着我将有一些事情做我坐在篝火旁的空闲时间。再见，同事！}
 #{104}{}{Thief! Help!}
@@ -17,7 +17,7 @@
 #{112}{}{Do you need a worker for a modest fee? There is one poor guy that can't find a job.}
 {112}{}{你需要一个中等费用的工人吗？有一个可怜的家伙找不到工作。}
 #{113}{}{No. I can barely earn for a livelihood. Paying the workers is too much for me... Maybe the Sheriff needs someone. There are always people doing something around him.}
-{113}{}{不，我只能勉强维持生计。给工人发工资对我来说太多了。。。也许警长需要人。他身边总有人在做什么。}
+{113}{}{不，我只能勉强维持生计。给工人发工资对我来说太多了...也许警长需要人。他身边总有人在做什么。}
 #{114}{}{Okay.}
 {114}{}{可以。}
 #{115}{}{Well, I've helped as much as I could. I have nothing more to offer.}
@@ -31,7 +31,7 @@
 #{119}{}{Let's go back.}
 {119}{}{我们回去吧。}
 #{120}{}{About the healthcare in the city...}
-{120}{}{关于城市的医疗保健。。。}
+{120}{}{关于城市的医疗保健...}
 #{121}{}{What do you want to talk about?}
 {121}{}{你想谈什么？}
 #{122}{}{About the filter for the artesian water tower. I've found it! But how to run the tower? Is there anyone I can discuss this issue with?}
@@ -79,7 +79,7 @@
 #{143}{}{Doubtful, but if you often move around the Wasteland, ask around the cities. Better to start from Vegas.}
 {143}{}{不确定，但如果你经常在荒地里走动，问问城市里的人。最好从维加斯开始。}
 #{144}{}{So, Vegas... I need to make a notch.}
-{144}{}{所以，维加斯。。。我需要做一个缺口。}
+{144}{}{所以，维加斯...我需要做一个缺口。}
 #{145}{}{You got the Las Vegas coordinates.}
 {145}{}{你拿到拉斯维加斯坐标了。}
 #{154}{}{How can you live in such a wet and smelly climate? The visitors, perhaps, have breathing problems?}
@@ -95,13 +95,13 @@
 #{159}{}{Our landscape holds back any dirt. There are no harsh winds like in the deserts, and no fumes from heat. In addition, in local conditions one plant has mutated, the water lily. It grows on the banks of the Great Salt Lake. In other cities it is just a plant, but this one gives you a special kind of nutritious nuts.}
 {159}{}{我们的风景可以阻挡任何灰尘。没有沙漠里那样的狂风，也没有酷热的烟雾。此外，在当地条件下，一种植物发生了变异，睡莲。它生长在大盐湖的岸边。在其他城市，它只是一种植物，但这种植物给你一种特殊的营养坚果。}
 #{160}{}{Oh, that's why on the way here I saw people constantly chewing something...}
-{160}{}{哦，这就是为什么在来这里的路上我看到人们不停地嚼东西。。。}
+{160}{}{哦，这就是为什么在来这里的路上我看到人们不停地嚼东西...}
 #{161}{}{These are Vocas nuts. They are very dense, you have to chew them hard, otherwise the effect will be small.}
 {161}{}{这些都是疯子。它们很密，你得用力咀嚼，否则效果会很小。}
 #{162}{}{What is the effect, exactly?}
 {162}{}{具体效果如何？}
 #{163}{}{These nuts remove radioactive elements from the body. Of course, this does not happen immediately. Radiation is excreted with sweat and urine during the day. The effect is not that strong, but if you use Vocas regularly, the degree of irradiation will come back to normal... More or less.}
-{163}{}{这些坚果能清除体内的放射性元素。当然，这种情况不会立即发生。辐射在白天通过汗水和尿液排出。效果不是很好，但是如果你经常使用Vocas，辐射的程度会恢复正常。。。或多或少。}
+{163}{}{这些坚果能清除体内的放射性元素。当然，这种情况不会立即发生。辐射在白天通过汗水和尿液排出。效果不是很好，但是如果你经常使用Vocas，辐射的程度会恢复正常...或多或少。}
 #{164}{}{Apparently, a very useful plant. How to find it?}
 {164}{}{显然，这是一种非常有用的植物。如何找到它？}
 #{165}{}{You can buy them from me or in the "Tin angel". And if you want to collect them yourself, I suggest you to wander through the uninhabited areas with a lot of dirty water. Vocas grows in rather unpleasant conditions. Just keep in mind that it ripens twice a year - in spring and in fall. At those times of the year there are buckets of them lying on shelves.}
@@ -125,7 +125,7 @@
 #{174}{}{I think I know how to solve this problem. Fortunately, I have plenty of scientific knowledge in chemistry.}
 {174}{}{我想我知道怎么解决这个问题。幸运的是，我在化学方面有丰富的科学知识。}
 #{175}{}{Are you serious? Oh, I'd love to chat with you over the lab table. And... What do you want to propose, colleague?}
-{175}{}{你是认真的吗？哦，我很想和你在实验桌边聊天。还有。。。你有什么建议，同事？}
+{175}{}{你是认真的吗？哦，我很想和你在实验桌边聊天。还有...你有什么建议，同事？}
 #{176}{}{My professional secrets are expensive. I will tell you for a reward of $350.}
 {176}{}{我的职业秘密很昂贵。我会告诉你350美元的报酬。}
 #{177}{}{I'll be very happy to share my knowledge with those who will be able to use it for the benefit of the people.}
@@ -143,7 +143,7 @@
 #{183}{}{All as before. There are still pockets of intestinal diseases in the city, but so far very few deaths.}
 {183}{}{一切照旧。该市仍有一些肠道疾病，但到目前为止死亡人数很少。}
 #{184}{}{What can I tell... Every city of the Wastelands has problems with health. But the people manage to cope somehow, and most of them survive. What's happening In Salt Lake is complicated: on the one hand, nature has given us a lot of water and a wonderful plant Vocas, on the other, we are afraid even to approach the Great Salt Lake because of the danger of intoxication and irradiation. In addition, the Nuka-Cola factory obviously adds it's own share of dirt to the problem. A complicated case.}
-{184}{}{我能说什么。。。荒地里的每个城市都有健康问题。但是人们设法应付，他们中的大多数人都活了下来。盐湖发生的事情是复杂的：一方面，大自然给了我们大量的水和美妙的植物，另一方面，我们甚至不敢接近大盐湖，因为有中毒和辐射的危险。此外，努卡可乐厂显然也增加了自己的一部分污垢问题。一个复杂的案子。}
+{184}{}{我能说什么...荒地里的每个城市都有健康问题。但是人们设法应付，他们中的大多数人都活了下来。盐湖发生的事情是复杂的：一方面，大自然给了我们大量的水和美妙的植物，另一方面，我们甚至不敢接近大盐湖，因为有中毒和辐射的危险。此外，努卡可乐厂显然也增加了自己的一部分污垢问题。一个复杂的案子。}
 #{185}{}{I have a set of different medicaster's accessories. Interested?}
 {185}{}{我有一套不同的医生的配件。有兴趣吗？}
 #{186}{}{Actually, I try to stick to civilized medicine. But in our time you will be glad to have any additional means. Let's see, maybe there will be something useful.}
@@ -167,7 +167,7 @@
 #{195}{}{With pleasure! It's timely, as the goods started stocking up after the city got rid of the problems with diseases. So keep in mind - now, coming to me, you won't see an empty shelf.}
 {195}{}{很高兴见到你！这是及时的，因为在城市解决了疾病问题之后，货物开始囤积。所以请记住-现在，来找我，你不会看到一个空架子。}
 #{196}{}{It's good... I mean. good for me, of course. Well, let's see what you have.}
-{196}{}{很好。。。我是说。当然对我有好处。好吧，让我们看看你有什么。}
+{196}{}{很好...我是说。当然对我有好处。好吧，让我们看看你有什么。}
 #{197}{}{Thanks to the improved ecological situation in the city, the goods in the pharmacy will be updated twice as often now.}
 {197}{}{由于城市生态环境的改善，现在药房的商品更新频率将提高一倍。}
 #{200}{}{Do you make medicaments?}
@@ -215,7 +215,7 @@
 #{230}{}{[The pharmacist mockingly shakes his head as he watches at you nervously digging into empty pockets looking for the things that aren't there]}
 {230}{}{[药剂师嘲笑地摇摇头，看着你紧张地往空口袋里掏，寻找那些不在那里的东西]}
 #{231}{}{Oops...}
-{231}{}{哎呀。。。}
+{231}{}{哎呀...}
 #{232}{}{Ready. Anything else?}
 {232}{}{准备好了。还有别的吗？}
 #{233}{}{Another medicament, please.}
@@ -229,7 +229,7 @@
 #{241}{}{Alas, no. It takes at least a little bit of knowledge about the properties of medicinal herbs of the modern Wasteland.}
 {241}{}{唉，不，至少需要一点关于现代荒原中草药特性的知识。}
 #{242}{}{A pity. I very much wanted to learn this skill...}
-{242}{}{很遗憾。我非常想学这个技能。。。}
+{242}{}{很遗憾。我非常想学这个技能...}
 #{243}{}{Well, I wouldn't mind extra income. But how would I know what are you going to use your knowledge for? At one moment you may decide to become a competitor or even to produce drugs? And I don't want to have any problems with the Sheriff.}
 {243}{}{嗯，我不介意额外的收入。但我怎么知道你要用你的知识做什么呢？在某一时刻，你可能会决定成为竞争对手，甚至生产毒品？我不想和警长有任何问题。}
 #{244}{}{Well, I wouldn't mind extra income. For such a good person like you I am ready to trust my knowledge. But I hope to get something in return, okay?}
@@ -249,7 +249,7 @@
 #{251}{}{But I acquired these things in an honest way. Therefore, if you want to take this you have to pay for it.}
 {251}{}{但我是以诚实的方式得到这些东西的。因此，如果你想拿这个，你必须付钱。}
 #{252}{}{Grr...}
-{252}{}{Grr。。。}
+{252}{}{Grr...}
 #{260}{}{Thanks! Our city is saved now. But I can't let you go without a little reward. Here you go. [gives you a superstimpak and an ultra-antidote] These are very expensive medicaments. I could sell them to the rich, but you may need them more.}
 {260}{}{谢谢！我们的城市现在得救了。但我不能不给你一点奖励就让你走。干得好。[给你一个超级兴奋剂和超级解毒剂]这些是非常昂贵的药物。我可以把它们卖给富人，但你可能更需要它们。}
 #{261}{}{I won't refuse.}
@@ -261,9 +261,9 @@
 #{264}{}{Understood.}
 {264}{}{理解。}
 #{265}{}{I feel feverish and the cough is killing me... Is there any cure for such disease?}
-{265}{}{我觉得发烧咳嗽得要命。。。这种病有什么治疗方法吗？}
+{265}{}{我觉得发烧咳嗽得要命...这种病有什么治疗方法吗？}
 #{266}{}{Let me examine you... This is the infectious disease. It can be handled quite well with nightshade berries mixed with alcohol. But that treatment is still much less effective than the properly made medicine based on the same berries. You can buy the latter from me, it's called "Blood-purifier"... If it's still available.}
-{266}{}{让我检查一下你。。。这就是传染病。它可以很好地处理与酒精混合茄浆果。但是这种治疗方法仍然比用同样的浆果制成的药物效果差得多。你可以从我这里买后者，它叫“血液净化器”。。。如果还可以的话。}
+{266}{}{让我检查一下你...这就是传染病。它可以很好地处理与酒精混合茄浆果。但是这种治疗方法仍然比用同样的浆果制成的药物效果差得多。你可以从我这里买后者，它叫“血液净化器”...如果还可以的话。}
 #{267}{}{So let's see if you have something effective available for sale.}
 {267}{}{所以让我们看看你们有没有什么有效的东西可以卖。}
 #{268}{}{Oh, thanks for the tip! When I will set up a camp in the Wasteland and feel sick, there will be a chance to get cured on the spot, near the campfire.}
@@ -303,7 +303,7 @@
 #{291}{}{[Smiles sadly] I and various other activists had conflicts with the management of the factory in the past. Simply because the liquid wastes of the factory make the situation with already ruined nature in the city even more perilous. This issue affects all residents of the Salt Lake.}
 {291}{}{[悲伤地微笑]我和其他一些积极分子过去曾与工厂的管理层发生过冲突。仅仅是因为工厂的液体废物使城市中已被破坏的自然环境更加危险。这个问题影响到盐湖城的所有居民。}
 #{292}{}{So that's what happening...}
-{292}{}{所以这就是发生的事。。。}
+{292}{}{所以这就是发生的事...}
 #{293}{}{So what kind of work you do for the factory?}
 {293}{}{你为工厂做什么工作？}
 #{294}{}{I got the contract to restore the controller that allows to use automatic equipment.}
@@ -333,6 +333,6 @@
 #{1138}{}{I visited the artesian water tower in the slums. Has anybody tried to fix it? It would provide a loads of clean water for the city!}
 {1138}{}{我参观了贫民窟里的自流水塔。有人试过修吗？它将为城市提供大量的清洁水！}
 #{1160}{}{Oh, that's why on the way here I saw people constantly chewing something...}
-{1160}{}{哦，这就是为什么在来这里的路上我看到人们不停地嚼东西。。。}
+{1160}{}{哦，这就是为什么在来这里的路上我看到人们不停地嚼东西...}
 #{1177}{}{I'll be very happy to share my knowledge with those who will be able to use it for the benefit of the people.}
 {1177}{}{我将非常高兴地与那些能够利用我的知识造福人民的人分享我的知识。}

@@ -17,7 +17,7 @@
 #{114}{}{One more word, and you'll be lighting my cigarettes for life.}
 {114}{}{再多说一句，你就要为我点燃一辈子的香烟了。}
 #{115}{}{Geez, sorry...}
-{115}{}{天啊，对不起。。。}
+{115}{}{天啊，对不起...}
 #{116}{}{[He deliberates for a moment, but decides to take your gift] Thanks. You're new around here, right?}
 {116}{}{[他考虑了一会儿，但决定收下你的礼物]谢谢。你是新来的，对吧？}
 #{117}{}{Uh, yes. I wanted to see the ranch from the inside.}
@@ -33,7 +33,7 @@
 #{122}{}{Tell me about this ranch.}
 {122}{}{告诉我这个牧场的情况。}
 #{123}{}{What can I say? It's not just our job, it's our home. We're family here. No one leaves from family ties... Mr. Luciano sees that as betrayal, and, heh, you don't want him mad at you. Now that you'd want to, anyway. Reno's never gonna stop needing food, and we've got plenty of it. Things are even better now that we're using slaves to harvest crops. Whatever we can't use, we feed to the brahmin, until they're good to slaughter. It always takes the newbies some time to get used to things, but for us it's just ordinary.}
-{123}{}{我能说什么？这不仅是我们的工作，也是我们的家。我们是一家人。没有人离开家庭关系。。。卢西亚诺先生认为这是背叛，而且，嘿，你不想让他生你的气。既然你愿意，无论如何。雷诺永远不会停止需要食物，我们有很多。现在情况更好了，我们用奴隶收割庄稼。不管我们用不了什么，我们都会喂婆罗门，直到他们被屠杀。新手总是需要一些时间来适应事物，但对我们来说这只是普通的事情。}
+{123}{}{我能说什么？这不仅是我们的工作，也是我们的家。我们是一家人。没有人离开家庭关系...卢西亚诺先生认为这是背叛，而且，嘿，你不想让他生你的气。既然你愿意，无论如何。雷诺永远不会停止需要食物，我们有很多。现在情况更好了，我们用奴隶收割庄稼。不管我们用不了什么，我们都会喂双头牛，直到他们被屠杀。新手总是需要一些时间来适应事物，但对我们来说这只是普通的事情。}
 #{124}{}{So you make food for the entire city?}
 {124}{}{所以你为整个城市做食物？}
 #{125}{}{No, of course not. There's other farmers around Reno, and they say there's a tribe of Indians to the north-east that grows good harvest. But Mr. Luciano's definitely the biggest producer around here. He's reliable and honest, and his ranch is the biggest around.}

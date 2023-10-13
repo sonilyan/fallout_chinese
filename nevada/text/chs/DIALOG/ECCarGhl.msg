@@ -17,13 +17,13 @@
 #{116}{}{No.}
 {116}{}{不。}
 #{117}{}{Uh... No? Really? What the hell are those things, lying around in heaps?!}
-{117}{}{休斯敦大学。。。不？真正地？那些东西到底是什么东西，成堆地躺着？！}
+{117}{}{Uh...不？真正地？那些东西到底是什么东西，成堆地躺着？！}
 #{118}{}{Hah, my dear friend, why would anyone dump *good* tires in a *junkyard*? If they were of any use, they wouldn't be lying around here!}
 {118}{}{哈，我亲爱的朋友，为什么有人会把好轮胎扔到垃圾场？如果它们有用的话，它们就不会躺在这里了！}
 #{119}{}{Hmm...}
-{119}{}{隐马尔可夫模型。。。}
+{119}{}{Hmm...}
 #{120}{}{But what I *do* have for your wheels are these here hands, and some nifty gizmos to go with them... That is, if you really got wheels...}
-{120}{}{但我为你的轮子准备的是这双手和一些漂亮的小玩意儿。。。也就是说，如果你真的有轮子。。。}
+{120}{}{但我为你的轮子准备的是这双手和一些漂亮的小玩意儿...也就是说，如果你真的有轮子...}
 #{121}{}{What are you talking about?}
 {121}{}{你在说什么？}
 #{122}{}{No, I was only looking for tires. Take care.}
@@ -33,17 +33,17 @@
 #{124}{}{I'm not crazy, I'm full of ideas! These two are often confused, so don't feel bad about that. You see, I might just be the last engineer on this godforsaken planet!}
 {124}{}{我没有疯，我充满了想法！这两个经常混淆，所以不要为此感到难过。你看，我可能是这个该死的星球上最后一个工程师！}
 #{125}{}{I see... What exactly are you offering?}
-{125}{}{我懂了。。。你到底提供什么？}
+{125}{}{我懂了...你到底提供什么？}
 #{126}{}{You got a ride? Oh, I see you do. Well... It's rather primitive, but I still got the itch to do some things to it. Just pick from the list of options!}
-{126}{}{你有车吗？哦，我知道你知道。好。。。它很原始，但我还是很想对它做点什么。从选项列表中选择！}
+{126}{}{你有车吗？哦，我知道你知道。好...它很原始，但我还是很想对它做点什么。从选项列表中选择！}
 #{127}{}{You got a ride? Oh... Pity you don't. See, I got this itch for engineering!}
-{127}{}{你有车吗？哦。。。可惜你没有。看，我对工程很感兴趣！}
+{127}{}{你有车吗？哦...可惜你没有。看，我对工程很感兴趣！}
 #{128}{}{Great, let's perform an inspection.}
 {128}{}{太好了，我们来检查一下。}
 #{129}{}{I'm not interested in all that right now. What I am interested in is this Chryslus Motors catalog. Can you tell me anything about it?}
 {129}{}{我现在对这些都不感兴趣。我感兴趣的是这个克莱斯勒汽车公司的目录。你能告诉我有关这件事的情况吗？}
 #{130}{}{Huh, the car ain't exactly brand new, is it? When it rolled out off the Chryslus factory, I was probably still crapping in my pants. Yeah, those were the days... Now, what do you want me to do - powerful headlights, fuel cell regulator, bigger trunk maybe?}
-{130}{}{嗯，这辆车不是全新的，是吗？当它从Chryslus工厂出来的时候，我可能还在裤子里拉屎。是啊，那些日子。。。现在，你想让我怎么做-强大的头灯，燃料电池调节器，可能更大的后备箱？}
+{130}{}{嗯，这辆车不是全新的，是吗？当它从Chryslus工厂出来的时候，我可能还在裤子里拉屎。是啊，那些日子...现在，你想让我怎么做-强大的头灯，燃料电池调节器，可能更大的后备箱？}
 #{131}{}{Tell me about headlights.}
 {131}{}{告诉我车头灯的事。}
 #{132}{}{Tell me about that fuel thingie.}
@@ -79,7 +79,7 @@
 #{147}{}{Maybe. But I'm leaving anyway.}
 {147}{}{也许 吧。但我还是要走了。}
 #{148}{}{Oh yes, that should be enough! Go warm yourself by that barrel while I finish working on this baby...}
-{148}{}{哦，是的，应该够了！当我把这个孩子弄完的时候，你自己去取暖吧。。。}
+{148}{}{哦，是的，应该够了！当我把这个孩子弄完的时候，你自己去取暖吧...}
 #{149}{}{Just be careful, alright?}
 {149}{}{小心点，好吗？}
 #{150}{}{Holy Chryslus! It works! I can't believe this!}
@@ -93,7 +93,7 @@
 #{154}{}{This canopy will serve you good, increasing your trunk's capacity by }
 {154}{}{这个顶棚可以很好的为你服务，增加你后备箱的容量}
 #{155}{}{Hmm...}
-{155}{}{隐马尔可夫模型。。。}
+{155}{}{Hmm...}
 #{156}{}{[-more-]}
 {156}{}{[-更多-]}
 #{157}{}{20%.}
@@ -157,9 +157,9 @@
 #{186}{}{Oh yeah, that's a hell of a ride.}
 {186}{}{哦，是的，那是一个地狱般的旅程。}
 #{187}{}{You bet...}
-{187}{}{当然。。。}
+{187}{}{当然...}
 #{190}{}{Oh, yeah... }
-{190}{}{哦，是的。。。}
+{190}{}{哦，是的...}
 #{191}{}{I see your headlights are shining like the sun out of your ass, hah!}
 {191}{}{我看见你的前灯像太阳一样从你屁股里射出来，哈！}
 #{192}{}{You don't need a new regulator - the one you got should serve you just fine for a many a mile yet.}

@@ -9,7 +9,7 @@
 #{112}{}{If you put your hands on me, you won't get them back.}
 {112}{}{如果你把手放在我身上，你就拿不回来了。}
 #{113}{}{And I thought this would be boring. Let's see what the boss says about you...}
-{113}{}{我觉得这会很无聊。让我们看看老板怎么说你。。。}
+{113}{}{我觉得这会很无聊。让我们看看老板怎么说你...}
 #{114}{}{[The lookout handcuffs you and takes you to a two-storey building.]}
 {114}{}{[了望台给你戴上手铐，把你带到一栋两层楼的大楼。]}
 #{115}{}{Stop right there!}
@@ -53,11 +53,11 @@
 #{206}{}{Hold still while I gut you, will ya?}
 {206}{}{别动，我把你挖出来，好吗？}
 #{207}{}{Nobody...}
-{207}{}{没有人。。。}
+{207}{}{没有人...}
 #{208}{}{This is boring.}
 {208}{}{这太无聊了。}
 #{209}{}{I'm so sick of walking in circles...}
-{209}{}{我厌倦了绕圈子。。。}
+{209}{}{我厌倦了绕圈子...}
 #{210}{}{Will this patrol ever end?}
 {210}{}{这次巡逻会结束吗？}
 #{211}{}{Why am I even doing this?}
@@ -75,7 +75,7 @@
 #{217}{}{I'm on watch.}
 {217}{}{我在值班。}
 #{218}{}{Man, this is boring...}
-{218}{}{伙计，这太无聊了。。。}
+{218}{}{伙计，这太无聊了...}
 #{219}{}{Oh! It's you!}
 {219}{}{哦！是你！}
 #{220}{}{All quiet. Nothing to worry about.}
@@ -89,6 +89,6 @@
 #{224}{}{How's the boss?}
 {224}{}{老板怎么样了？}
 #{225}{}{Boss seems to like you. Respect...}
-{225}{}{老板似乎喜欢你。尊重。。。}
+{225}{}{老板似乎喜欢你。尊重...}
 #{1110}{}{Freeze! You move, you die!}
 {1110}{}{别动！你动就死！}

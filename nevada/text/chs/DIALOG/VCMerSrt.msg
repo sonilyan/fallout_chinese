@@ -23,7 +23,7 @@
 #{115}{}{Do you have an appointment?}
 {115}{}{你有预约吗？}
 #{116}{}{Err... Yes. We agreed for a meeting.}
-{116}{}{呃。。。对。我们同意开会。}
+{116}{}{呃...对。我们同意开会。}
 #{117}{}{No. How do I make an appointment?}
 {117}{}{没有。我怎么预约？}
 #{118}{}{Good. I will tell Mr. Williamson. What is your name?}
@@ -129,15 +129,15 @@
 #{211}{}{Thank you.}
 {211}{}{非常感谢。}
 #{212}{}{You know, I'm too busy...}
-{212}{}{你知道，我太忙了。。。}
+{212}{}{你知道，我太忙了...}
 #{213}{}{Sweet Marion, you should not doubt so much! Believe me, we'll get along well. I'm not asking for something criminal, right? Ultimately, that's what the archive is for, so people can get the information...}
-{213}{}{亲爱的马里恩，你不应该这么怀疑！相信我，我们会相处得很好的。我不是要犯罪的东西，对吧？最终，这就是存档的目的，这样人们就可以获得信息。。。}
+{213}{}{亲爱的马里恩，你不应该这么怀疑！相信我，我们会相处得很好的。我不是要犯罪的东西，对吧？最终，这就是存档的目的，这样人们就可以获得信息...}
 #{214}{}{Your loss.}
 {214}{}{你的损失。}
 #{215}{}{Oh, fine. You convinced me. It's not a big secret anyway. So what did you need from there?}
 {215}{}{哦，好吧。你说服了我。反正也不是什么大秘密。你需要什么？}
 #{216}{}{Area 51, just the coordinates of the base...}
-{216}{}{51区，只有基地的坐标。。。}
+{216}{}{51区，只有基地的坐标...}
 #{217}{}{Oh, fine. You convinced me. But you understand that nothing is free in our world?}
 {217}{}{哦，好吧。你说服了我。但是你知道在我们的世界里没有什么是免费的吗？}
 #{218}{}{Wow, of course. No problem. How much?}
@@ -187,11 +187,11 @@
 #{240}{}{Sure. I'm waiting.}
 {240}{}{当然。我在等你。}
 #{242}{}{Oh no. I think the mayor needs intelligent detective. You know, a lot of suspicious events occurred in the city recently! And the police won't do anything...}
-{242}{}{哦，不。我想市长需要聪明的侦探。你知道，最近城里发生了很多可疑事件！警察什么也不会做。。。}
+{242}{}{哦，不。我想市长需要聪明的侦探。你知道，最近城里发生了很多可疑事件！警察什么也不会做...}
 #{243}{}{Yes, I heard... Mr. Williamson may want to talk to you, I remember that he did mention it many times...}
-{243}{}{是的，我听说。。。威廉森先生可能想和你谈谈，我记得他提过很多次了。。。}
+{243}{}{是的，我听说...威廉森先生可能想和你谈谈，我记得他提过很多次了...}
 #{244}{}{Then tell him that a detective is available. Perhaps, the proposal is still holds...}
-{244}{}{然后告诉他有个侦探。也许，这个提议仍然有效。。。}
+{244}{}{然后告诉他有个侦探。也许，这个提议仍然有效...}
 #{245}{}{Probably, not now. I'll be back later.}
 {245}{}{可能，现在不行。我一会儿回来。}
 #{1120}{}{I mean, how to make an appointment to see him?}

@@ -49,7 +49,7 @@
 #{144}{}{I see. What else can you tell me about the caravan business?}
 {144}{}{我懂了。关于大篷车生意你还能告诉我什么？}
 #{145}{}{They've actually managed to fix up some old buses from before the war. They're great for moving a lot of people fast, but they're a hell of a lot less robust than our brahmin-driven carts, and, after 70 years, those highways aren't what they used to be. They can't afford to risk their machines by taking on that weight.}
-{145}{}{实际上，他们设法修好了一些战前的旧公共汽车。他们是伟大的移动速度很多人，但他们是一个地狱，比我们的婆罗门驱动的手推车，而且，70年后，这些高速公路已不是他们过去的强大。他们承受不起承担那么重的重量来冒险。}
+{145}{}{实际上，他们设法修好了一些战前的旧公共汽车。他们是伟大的移动速度很多人，但他们是一个地狱，比我们的双头牛驱动的手推车，而且，70年后，这些高速公路已不是他们过去的强大。他们承受不起承担那么重的重量来冒险。}
 #{146}{}{Not much to tell, really. They deal with farms and other people on the outskirts of the city. A few of the braver ones even deal for food with the Cheyenne, but I hear they don't have much to offer recently.}
 {146}{}{没什么好说的，真的。他们与城市郊区的农场和其他人打交道。一些勇敢的人甚至和夏延人打交道，但我听说他们最近没有什么东西可以提供。}
 #{147}{}{There's way too much fighting in Reno to start up a new business. Anyway, it's not easy - or cheap - to go on such a long and dangerous journey. Vegas and Salt Lake City are a bit better off and can afford to equip their own caravans, but Reno's in no state for something like that.}

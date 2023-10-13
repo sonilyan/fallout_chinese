@@ -10,7 +10,7 @@
 {104}{}{谢谢你的搭车！要是有更多像你这样的人就好了。}
 #{105}{}{   }
 {105}{}{   }
-#{106}{}{I won�t make a step until we go away from this region.}
+#{106}{}{I won??t make a step until we go away from this region.}
 {106}{}{在我们离开这个地区之前，我不会迈出一步。}
 #{120}{}{Stay here until we go.}
 {120}{}{我们走之前呆在这儿。}
@@ -45,7 +45,7 @@
 #{135}{}{Where? There? Okay. But then to Vegas!}
 {135}{}{哪里？在那里？可以。然后去维加斯！}
 #{136}{}{I don't mind... For now.}
-{136}{}{我不介意。。。现在。}
+{136}{}{我不介意...现在。}
 #{137}{}{Don't get so excited.}
 {137}{}{别那么激动。}
 #{138}{}{}
@@ -103,7 +103,7 @@
 #{164}{}{Where are you going?}
 {164}{}{你要去哪里？}
 #{165}{}{To Vegas, man. They say there, in the "Hard Rock" cafe, nobody heard an excellent country for a long time already - and that's where I have to be... To SHOW these rednecks, that the real music is still left in Nevada.}
-{165}{}{去拉斯维加斯，伙计。他们说，在“硬石”咖啡馆里，很久没有人听到一个优秀的国家了——那就是我必须去的地方。。。为了向这些乡巴佬表明，真正的音乐仍然留在内华达州。}
+{165}{}{去拉斯维加斯，伙计。他们说，在“硬石”咖啡馆里，很久没有人听到一个优秀的国家了——那就是我必须去的地方...为了向这些乡巴佬表明，真正的音乐仍然留在内华达州。}
 #{166}{}{I think you're late, cowboy. The scene in "Hard Rock" is already filled with excellent jazz.}
 {166}{}{我想你迟到了，牛仔。《硬摇滚》中的场景已经充满了精彩的爵士乐。}
 #{167}{}{What?! No!! Are you sure? But, damn, these niggas already there and made it! That's why you need to hurry, man. Let's go!}
@@ -118,12 +118,12 @@
 {171}{}{是 啊！怎么了？我让你难堪了吗？伙计，冷静点，带我去维加斯，我会补偿所有的费用。}
 #{172}{}{Let me get you some clothes.}
 {172}{}{我给你拿些衣服。}
-#{173}{}{Clothes? Fuck clothes, man!! There's a bigger question at stake! We're on a mission to save Vegas, the last sanctuary of American fucking culture, and you are telling me about the clothes?! Let�s go! To Vegas! Not a moment to lose!}
+#{173}{}{Clothes? Fuck clothes, man!! There's a bigger question at stake! We're on a mission to save Vegas, the last sanctuary of American fucking culture, and you are telling me about the clothes?! Let??s go! To Vegas! Not a moment to lose!}
 {173}{}{衣服？去他的衣服，伙计！！还有一个更重要的问题！我们的任务是拯救维加斯，美国他妈的文化的最后庇护所，而你却在告诉我衣服的事？！我们走吧！去维加斯！一刻也不能失去！}
 #{174}{}{You won't, uh... Hit on me or anything, will you?}
-{174}{}{你不会，呃。。。找我什么的，好吗？}
+{174}{}{你不会，呃...找我什么的，好吗？}
 #{175}{}{Wh-... EW!! I hate fags! No, I'm not like that, certainly.}
-{175}{}{白色-。。。电子战！！我讨厌基佬！不，我不是那样的，当然。}
+{175}{}{白色-...电子战！！我讨厌基佬！不，我不是那样的，当然。}
 #{176}{}{Baby, not tonight - handsome John is busy, I'm sorry.}
 {176}{}{宝贝，今晚不行-帅哥约翰很忙，对不起。}
 #{177}{}{The conversation is finished. Wait, until we move out.}
@@ -135,15 +135,15 @@
 #{180}{}{Hey, you! The fuck, nigga, what the fuck do you think you're doing!?}
 {180}{}{嘿，你！他妈的，黑鬼，你他妈的以为你在干什么！？}
 #{181}{}{YOU!? But... HOW!?}
-{181}{}{你！？但是。。。怎样！？}
+{181}{}{你！？但是...怎样！？}
 #{182}{}{That was easy. No one's gonna interfere with us now!}
 {182}{}{那很简单。现在没人会干涉我们了！}
-#{183}{}{Uh, buddy, it wasn�t me, who rat you out to those thugs, honestly!..}
+#{183}{}{Uh, buddy, it wasn??t me, who rat you out to those thugs, honestly!..}
 {183}{}{呃，伙计，说实话，不是我把你出卖给那些暴徒的！。。}
 #{184}{}{Fuck the thugs, and my jacket! Fuck this shit!}
 {184}{}{操那些暴徒，还有我的夹克！去他妈的！}
 #{185}{}{Uh... John, let me explain...}
-{185}{}{休斯敦大学。。。约翰，让我解释一下。。。}
+{185}{}{Uh...约翰，让我解释一下...}
 #{186}{}{Save it, you son of a bitch! You've already spent enough of my time!}
 {186}{}{省省吧，你这狗娘养的！你已经花够我的时间了！}
 #{187}{}{You are breaking my heart, John. We're companions!}
@@ -151,11 +151,11 @@
 #{188}{}{Exactly! If you go out on this stage alone, I'm going to smear your guts all over it!}
 {188}{}{确切地！如果你一个人走上这个舞台，我会把你的肠子涂得到处都是！}
 #{189}{}{That was just a misunderstanding. Of course, we will go together. I did not even think...}
-{189}{}{那只是个误会。当然，我们一起去。我甚至没想到。。。}
+{189}{}{那只是个误会。当然，我们一起去。我甚至没想到...}
 #{190}{}{Great. We still have time to prepare. Now - get the hell out!}
 {190}{}{伟大的。我们还有时间准备。现在-滚出去！}
 #{191}{}{Whatever you say... Partner.}
-{191}{}{不管你说什么。。。合伙人。}
+{191}{}{不管你说什么...合伙人。}
 #{192}{}{}
 {192}{}{}
 #{193}{}{}
@@ -163,15 +163,15 @@
 #{194}{}{}
 {194}{}{}
 #{195}{}{Damn you, you ungrateful scum! I spent so many batteries on you...}
-{195}{}{该死的，你这个忘恩负义的人渣！我在你身上花了那么多电池。。。}
+{195}{}{该死的，你这个忘恩负义的人渣！我在你身上花了那么多电池...}
 #{196}{}{Don't sweat it, man, but we need to part ways. Thanks for the ride and stuff. And I remember that I promised to pay... Shit, listen, I lied. I have nothing to pay with, but someday I'll find a way and pay you back. Honestly, no bullshit. My partner and I will try to play at a local eatery, and if we're lucky, it will be plenty of money.}
-{196}{}{别担心，伙计，但我们得分道扬镳。谢谢你的搭车什么的。我记得我答应过付。。。妈的，听着，我撒谎了。我没什么可付的，但总有一天我会找到办法还你的。老实说，别胡说。我和我的搭档会尽量去当地的一家餐馆玩，如果幸运的话，那会是很多钱。}
+{196}{}{别担心，伙计，但我们得分道扬镳。谢谢你的搭车什么的。我记得我答应过付...妈的，听着，我撒谎了。我没什么可付的，但总有一天我会找到办法还你的。老实说，别胡说。我和我的搭档会尽量去当地的一家餐馆玩，如果幸运的话，那会是很多钱。}
 #{197}{}{Didn't you understand, man? He ditched you! And after that you still want to deal with him?}
 {197}{}{你不明白吗，伙计？他抛弃了你！在那之后你还想对付他？}
 #{198}{}{Of course! Tear me a new one, if I betray my friends, man.}
 {198}{}{当然！如果我背叛了我的朋友，就把我撕成新的吧，伙计。}
 #{199}{}{Uh... It's your business. Okay, take care.}
-{199}{}{休斯敦大学。。。这是你的事。好的，保重。}
+{199}{}{Uh...这是你的事。好的，保重。}
 #{200}{}{Where the hell are we?!}
 {200}{}{我们到底在哪？！}
 #{201}{}{It's not like Vegas!}
@@ -185,8 +185,8 @@
 #{205}{}{We're cowboys, we're cowboys, we are brave and we are two!}
 {205}{}{我们是牛仔，我们是牛仔，我们勇敢，我们是两个！}
 #{206}{}{Uh... If the seat cover wasn't sticking to my butt so hard...}
-{206}{}{休斯敦大学。。。如果座套没那么紧粘在我屁股上。。。}
-#{207}{}{Don�t look at me like that! At least my tan is even.}
+{206}{}{Uh...如果座套没那么紧粘在我屁股上...}
+#{207}{}{Don??t look at me like that! At least my tan is even.}
 {207}{}{别那样看着我！至少我晒黑了。}
 #{208}{}{I'd rather live is Vegas toilets, than here.}
 {208}{}{我宁愿住在拉斯维加斯，也不愿住在这里。}
@@ -199,7 +199,7 @@
 #{212}{}{Ugh! I want to enter Vegas as effectively as this.}
 {212}{}{啊！我想像这样有效地进入维加斯。}
 #{213}{}{Fresh air... Are you gonna put climate-control in that?}
-{213}{}{新鲜空气。。。你要把气候控制放进去吗？}
+{213}{}{新鲜空气...你要把气候控制放进去吗？}
 #{214}{}{[Sings]}
 {214}{}{[唱]}
 #{250}{}{Why don't you just hitch me straight to the "Hard Rock"? It would be faster.}
@@ -209,7 +209,7 @@
 #{255}{}{Don't you think we been here before?}
 {255}{}{你不觉得我们以前来过吗？}
 #{256}{}{This place reminds me something...}
-{256}{}{这个地方让我想起。。。}
+{256}{}{这个地方让我想起...}
 #{257}{}{I bet we're going in circles!}
 {257}{}{我敢打赌我们在兜圈子！}
 #{260}{}{What is this area? Maybe you'll take me to the "Hard Rock", before I got lost?}
@@ -247,14 +247,14 @@
 #{1163}{}{Wasting time, baby.}
 {1163}{}{浪费时间，宝贝。}
 #{1165}{}{To Vegas, baby. They say there, in the "Hard Rock" cafe, nobody heard an excellent country for a long time already - and that's where I have to be... To SHOW these rednecks, that the real music is still left in Nevada.}
-{1165}{}{去拉斯维加斯，宝贝。他们说，在“硬石”咖啡馆里，很久没有人听到一个优秀的国家了——那就是我必须去的地方。。。为了向这些乡巴佬表明，真正的音乐仍然留在内华达州。}
-#{1167}{}{What?! No!! Are you sure? But, damn, these niggas already there and made it! That's why you need to hurry, baby. Let�s go!}
+{1165}{}{去拉斯维加斯，宝贝。他们说，在“硬石”咖啡馆里，很久没有人听到一个优秀的国家了——那就是我必须去的地方...为了向这些乡巴佬表明，真正的音乐仍然留在内华达州。}
+#{1167}{}{What?! No!! Are you sure? But, damn, these niggas already there and made it! That's why you need to hurry, baby. Let??s go!}
 {1167}{}{什么？！不！！你确定？但是，该死的，这些黑鬼已经到了！所以你得快点，宝贝。我们走吧！}
 #{1171}{}{Yeah! What's the matter? Am I embarrassing you? Doll, calm down, get me to Vegas, I'll make up to all expenses.}
 {1171}{}{是 啊！怎么了？我让你难堪了吗？娃娃，冷静点，带我去维加斯，我会补偿所有的费用。}
-#{1173}{}{Clothes? Fuck clothes, baby!! There's a bigger question at stake! We're on a mission to save Vegas, the last sanctuary of American fucking culture, and you are telling me about the clothes?! Let�s go! To Vegas! Not a moment to lose!}
+#{1173}{}{Clothes? Fuck clothes, baby!! There's a bigger question at stake! We're on a mission to save Vegas, the last sanctuary of American fucking culture, and you are telling me about the clothes?! Let??s go! To Vegas! Not a moment to lose!}
 {1173}{}{衣服？去他的衣服，宝贝！！还有一个更重要的问题！我们的任务是拯救维加斯，美国他妈的文化的最后庇护所，而你却在告诉我衣服的事？！我们走吧！去维加斯！一刻也不能失去！}
 #{1196}{}{Don't sweat it, baby, but we need to part ways. Thanks for the ride and stuff. And I remember that I promised to pay... Shit, listen, I lied. I have nothing to pay with, but someday I'll find a way and pay you back. Honestly, no bullshit. My partner and I will try to play at a local eatery, and if we're lucky, it will be plenty of money.}
-{1196}{}{别担心，宝贝，但我们得分道扬镳。谢谢你的搭车什么的。我记得我答应过付。。。妈的，听着，我撒谎了。我没什么可付的，但总有一天我会找到办法还你的。老实说，别胡说。我和我的搭档会尽量去当地的一家餐馆玩，如果幸运的话，那会是很多钱。}
+{1196}{}{别担心，宝贝，但我们得分道扬镳。谢谢你的搭车什么的。我记得我答应过付...妈的，听着，我撒谎了。我没什么可付的，但总有一天我会找到办法还你的。老实说，别胡说。我和我的搭档会尽量去当地的一家餐馆玩，如果幸运的话，那会是很多钱。}
 #{1198}{}{Of course! Tear me a new one, if I betray my friends, baby.}
 {1198}{}{当然！如果我背叛了我的朋友，就把我撕成新的吧，宝贝。}

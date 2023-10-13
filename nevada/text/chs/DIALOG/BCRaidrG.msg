@@ -43,7 +43,7 @@
 #{127}{}{[Ignore]}
 {127}{}{[忽略]}
 #{128}{}{What the... Do you have a death wish, asshole?! Get the fuck back in there! And don't come out without that caravan next time!}
-{128}{}{怎么了。。。你有死亡愿望吗，混蛋？！他妈的给我滚回去！下次没有那辆大篷车就别出来！}
+{128}{}{怎么了...你有死亡愿望吗，混蛋？！他妈的给我滚回去！下次没有那辆大篷车就别出来！}
 #{129}{}{They're already dead. You can go in and get them.}
 {129}{}{他们已经死了。你可以进去拿。}
 #{130}{}{I just wanted some fresh air. I'm going back in now.}
@@ -65,13 +65,13 @@
 #{138}{}{Oh really? Then we'll go check it out - right after you. Gear up, guys!}
 {138}{}{哦，真的吗？那我们就去看看-就在你后面。准备好，伙计们！}
 #{139}{}{Here we go...}
-{139}{}{我们走吧。。。}
+{139}{}{我们走吧...}
 #{1114}{}{Uh-oh, guys, the big, tough bitch of the wastes is giving us one chance to explain ourselves! I'm shaking in my fuckin' boots over here! [he sneers] You're already dead, you pus-dripping cunt, you just don't know it yet. If you want to earn your life back, you'd better do exactly what I fucking say.}
 {1114}{}{哦，伙计们，这个又大又硬的废物婊子给了我们一个解释自己的机会！我他妈的在这里发抖！[他冷笑]你已经死了，你这个流脓的贱人，你只是还不知道而已。如果你想夺回你的生命，你最好照我说的做。}
 #{1119}{}{Oooh, did you figure that out all by yourself, sugar tits? Get the fuck in there. Don't come out unless you're bringing them with you. Got it?}
 {1119}{}{哦，你自己想出来的吗，甜心？他妈的给我进去。除非你带着他们，否则别出来。知道了？}
 #{1128}{}{What the... Do you have a death wish, bitch?! Get the fuck back in there! And don't come out without that caravan next time!}
-{1128}{}{怎么了。。。你有死亡愿望吗，婊子？！他妈的给我滚回去！下次没有那辆大篷车就别出来！}
+{1128}{}{怎么了...你有死亡愿望吗，婊子？！他妈的给我滚回去！下次没有那辆大篷车就别出来！}
 #{1132}{}{ARE YOU FUCKING WITH ME?! [he readies his weapon] You think this is funny?! Because you're gonna look fucking HILARIOUS when I blow your fucking head open, you understand?! The last thing you'll ever see is me eye-fucking your goddamn skull, you dumb fucking whore!}
 {1132}{}{你在耍我吗？！[他准备好武器]你觉得这很有趣？！因为当我把你脑袋炸开的时候你会看起来很滑稽，明白吗？！你看到的最后一件事就是我用眼睛盯着你那该死的脑袋，你这该死的婊子！}
 #{1137}{}{[He starts screaming in rage, his face turning red and his eyes almost popping out of their sockets] Who the FUCK do you FUCKING think you're fucking FUCKING with, you dog-sucking cumguzzler?! WE'RE THE FEROCIOUS FUCKING MOLERATS!!! We're the most vicious motherfucking killers in the wasteland, do you hear me?! We fucking OWN everyone in sight of these mountains, they live and die because WE say so! NOBODY fucks with us! NOBODY!!!}

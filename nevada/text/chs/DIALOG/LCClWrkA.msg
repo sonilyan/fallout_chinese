@@ -13,7 +13,7 @@
 #{113}{}{[The cook stops and lifts the eyelids a bit] Look above.}
 {113}{}{[厨师停下来抬起眼皮]往上看。}
 #{114}{}{Eh... There's nothing here.}
-{114}{}{呃。。。这里什么都没有。}
+{114}{}{呃...这里什么都没有。}
 #{115}{}{Pffft-ha-ha-ha!!! Of course, because this dining room is only for factory workers. And the simple crooks are not served here. If you want to eat - go to Jolly Joe.}
 {115}{}{哈哈哈！！！当然，因为这个饭厅只供工厂工人使用。简单的骗子不在这里。如果你想吃东西，去找乔利。}
 #{116}{}{But I am a factory worker.}
@@ -41,9 +41,9 @@
 #{127}{}{My what?}
 {127}{}{我的什么？}
 #{128}{}{Tokens. They are issued by the head of the department for two weeks in advance. One token means one meal. Your manager *had* to tell you this! Bloody bastards, they didn't bother again...}
-{128}{}{代币。由部门负责人提前两周签发。一个代币意味着一顿饭。你的经理不得不告诉你这些！该死的混蛋，他们再也不打扰了。。。}
+{128}{}{代币。由部门负责人提前两周签发。一个代币意味着一顿饭。你的经理不得不告诉你这些！该死的混蛋，他们再也不打扰了...}
 #{129}{}{Ah, so that's what they need for... I have them right here.}
-{129}{}{啊，那就是他们需要的。。。我就在这里。}
+{129}{}{啊，那就是他们需要的...我就在这里。}
 #{130}{}{Right. I'll go and, uh, deal with my manager.}
 {130}{}{正确的。我去和我的经理谈。}
 #{131}{}{Hey, don't be so hasty! It's just that you manager should've explained it to you. Tokens are issued by the head of the department for two weeks in advance. One token means one meal. You want grub, I have it right here. Just bring your tokens.}
@@ -91,7 +91,7 @@
 #{152}{}{Perhaps, I'll think a little more before I choose.}
 {152}{}{也许，在我选择之前，我会多想一想。}
 #{153}{}{Here. One ration contains fruit, sandwich and bottle of Nuka-Cola. Bon appetit, and... Give some space to the others, don't occupy the window!}
-{153}{}{在这里。一份口粮包括水果、三明治和一瓶努卡可乐。祝你胃口好。。。给别人一些空间，不要占窗户！}
+{153}{}{在这里。一份口粮包括水果、三明治和一瓶努卡可乐。祝你胃口好...给别人一些空间，不要占窗户！}
 #{154}{}{Thanks.}
 {154}{}{谢谢。}
 #{155}{}{I would say "thank you", but not for service like this.}
@@ -101,7 +101,7 @@
 #{160}{}{Hey, it's not a checkpoint in here! Throw yourself out of kitchen and fast!}
 {160}{}{嘿，这里不是检查站！快从厨房里出来！}
 #{161}{}{Don't hustle...}
-{161}{}{别着急。。。}
+{161}{}{别着急...}
 #{1122}{}{Are you fooling me?! Where's the normal grub?}
 {1122}{}{你在骗我吗？！普通的食物呢？}
 #{1132}{}{So, did you get your manager's ass kicked? Or you'll keep snotting while looking at the last bowl of soup?}

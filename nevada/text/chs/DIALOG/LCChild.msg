@@ -39,7 +39,7 @@
 #{125}{}{No way!}
 {125}{}{不可能！}
 #{126}{}{Well... Okay, take it, just don't tell anyone about me!}
-{126}{}{好。。。好吧，拿着，别把我的事告诉任何人！}
+{126}{}{好...好吧，拿着，别把我的事告诉任何人！}
 #{127}{}{Okay.}
 {127}{}{可以。}
 #{128}{}{If you'll argue with me - I'll take you by the neck and take to the sheriff, you understand it? Now give back stranger's thing!}

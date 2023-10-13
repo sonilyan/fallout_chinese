@@ -3,7 +3,7 @@
 #{101}{}{You see an administrator, blogger, musician and many other things.}
 {101}{}{你会看到一个管理员，博客，音乐家和其他很多东西。}
 #{110}{}{Oh, there's nothing better than a glass of radiated beer...}
-{110}{}{哦，没有什么比一杯啤酒更好的了。。。}
+{110}{}{哦，没有什么比一杯啤酒更好的了...}
 #{111}{}{Hey, bartender, do you accept bitcoins?}
 {111}{}{嘿，酒保，你们接受比特币吗？}
 #{112}{}{What wouldn't I give for a bowl of Russian dumplings.}
@@ -35,7 +35,7 @@
 #{125}{}{And all that's left of it is this goddamn disk!}
 {125}{}{剩下的就是这个该死的磁盘！}
 #{126}{}{Imagine, I came to visit some relatives in the US just for a week or so...}
-{126}{}{想象一下，我来美国探望亲戚仅仅一个星期左右。。。}
+{126}{}{想象一下，我来美国探望亲戚仅仅一个星期左右...}
 #{127}{}{And boom, I get stuck here.}
 {127}{}{我被困在这里了。}
 #{128}{}{Why did I even bother paying taxes?}

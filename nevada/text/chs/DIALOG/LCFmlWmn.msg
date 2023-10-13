@@ -7,7 +7,7 @@
 #{110}{}{::sighs heavily::}
 {110}{}{●重重地叹了口气：}
 #{111}{}{Thank you for saving me from this scourge...}
-{111}{}{谢谢你把我从这个祸害中救出来。。。}
+{111}{}{谢谢你把我从这个祸害中救出来...}
 #{112}{}{Get out!}
 {112}{}{走出！}
 #{150}{}{Stop shouting at me!}
@@ -15,7 +15,7 @@
 #{151}{}{Bitch! You don't even want to listen!!!}
 {151}{}{婊子！你根本不想听！！！}
 #{152}{}{Why should I listen to something?! I already heard you before...}
-{152}{}{我为什么要听什么？！我以前听过你说过。。。}
+{152}{}{我为什么要听什么？！我以前听过你说过...}
 #{153}{}{I don't care what you heard! Can you listen to me again or not?!}
 {153}{}{我不管你听到什么！你能不能再听我说？！}
 #{154}{}{No, I can't!}
@@ -29,7 +29,7 @@
 #{158}{}{You give me a headache every day and don't let me rest!}
 {158}{}{你每天都让我头痛，不让我休息！}
 #{159}{}{Bitch... Bitch...}
-{159}{}{婊子。。。婊子。。。}
+{159}{}{婊子...婊子...}
 #{160}{}{During your *every* drinking festival! How many times?!}
 {160}{}{在你的每一个饮酒节上！多少次？！}
 #{161}{}{Yes, yes, I'm a drunk! And what?! Does that mean I can be treated like this?!}
@@ -37,7 +37,7 @@
 #{162}{}{Nobody is treating you wrong! Enough of this!}
 {162}{}{没有人对你不好！够了！}
 #{163}{}{Yes you do! Instead of love and care I get this...}
-{163}{}{是的，你知道！我得到的不是爱和关心。。。}
+{163}{}{是的，你知道！我得到的不是爱和关心...}
 #{164}{}{How can I take care of you, when you beat and insult me?!}
 {164}{}{你打我侮辱我，我怎么能照顾你？！}
 #{165}{}{WHORE!!! I'll kill you someday!}
@@ -47,11 +47,11 @@
 #{167}{}{Me?! In hell?! Bitch! I did so much!..}
 {167}{}{我？！见鬼？！婊子！我做了很多！。。}
 #{168}{}{What did you do?! Don't flatter yourself...}
-{168}{}{你做了什么？！别自以为是。。。}
+{168}{}{你做了什么？！别自以为是...}
 #{169}{}{And who took out the garbage yesterday? Why I should take the trash out?}
 {169}{}{昨天谁倒垃圾了？我为什么要把垃圾倒出去？}
 #{170}{}{Yeah, don't work yourself too hard, poor thing...}
-{170}{}{是啊，别太努力了，可怜的家伙。。。}
+{170}{}{是啊，别太努力了，可怜的家伙...}
 #{171}{}{What?! Whore, I *will* work!}
 {171}{}{什么？！婊子，我要工作！}
 #{172}{}{Well when you'll work, come and cry about it, for now the house is on my shoulders.}
@@ -67,7 +67,7 @@
 #{177}{}{If not for me!..}
 {177}{}{如果不是为了我！。。}
 #{178}{}{Only "me, me, me". I don't hear anything else from you...}
-{178}{}{只有“我，我，我”。我没有听到你的任何消息。。。}
+{178}{}{只有“我，我，我”。我没有听到你的任何消息...}
 #{179}{}{BITCH!!! WHORE!!! I'LL KILL YOU!!!}
 {179}{}{婊子！！！妓女！！！我要杀了你！！！}
 #{200}{}{[The woman is all in tears] Why are you here?}
@@ -105,13 +105,13 @@
 #{216}{}{Oh yes! Trouble, here I come!}
 {216}{}{哦，是的！麻烦，我来了！}
 #{217}{}{Yes. A paradox. Men...}
-{217}{}{对。悖论。男人们。。。}
+{217}{}{对。悖论。男人们...}
 #{218}{}{Who made you cry?}
 {218}{}{是谁让你哭的？}
 #{219}{}{Then everything is okay, right?}
 {219}{}{那么一切都好了，对吧？}
 #{220}{}{And you are an optimist, you know? Unfortunately, this hasn't saved anyone in our world...}
-{220}{}{你是个乐观主义者，知道吗？不幸的是，这并没有拯救我们这个世界上的任何人。。。}
+{220}{}{你是个乐观主义者，知道吗？不幸的是，这并没有拯救我们这个世界上的任何人...}
 #{221}{}{It will this time!}
 {221}{}{这次会的！}
 #{222}{}{Why are you crying then?}
@@ -131,7 +131,7 @@
 #{229}{}{Do not defraud the male right of primacy, bitch!}
 {229}{}{别骗取男人的优先权，婊子！}
 #{230}{}{It's Merck. He's always yelling at me. That bastard... Did so much for him... And he... Only thinks about himself! All "me" and "me"...}
-{230}{}{是默克公司。他总是对我大喊大叫。那个混蛋。。。为他做了那么多。。。他。。。只想着他自己！所有的“我”和“我”。。。}
+{230}{}{是默克公司。他总是对我大喊大叫。那个混蛋...为他做了那么多...他...只想着他自己！所有的“我”和“我”...}
 #{231}{}{And you, of course, give him a reason to yell on you?}
 {231}{}{你，当然，给他一个理由对你大喊大叫？}
 #{232}{}{Why he does this?}
@@ -151,9 +151,9 @@
 #{239}{}{Dumb idiot, this will not help you!}
 {239}{}{笨蛋，这帮不了你！}
 #{240}{}{Why you...}
-{240}{}{为啥是你。。。}
+{240}{}{为啥是你...}
 #{241}{}{Yes, sure... Have a nice day.}
-{241}{}{是的，当然。。。祝您有个美好的一天。}
+{241}{}{是的，当然...祝您有个美好的一天。}
 #{242}{}{Take care.}
 {242}{}{当心。}
 #{243}{}{Yes, I know. I hope, you are finished with questions?}
@@ -167,7 +167,7 @@
 #{251}{}{A typical guy with big balls. And he wants everyone to know this. Thinks of himself a master and the big man. Although in fact, can't even repair a door at the closet.}
 {251}{}{典型的大家伙。他想让每个人都知道这一点。认为自己是一个大师和大人物。虽然事实上，连衣柜的门都修不好。}
 #{252}{}{No, only when he's drunk. And this happens almost every day. When he is sober, he is even pleasant to talk with, he can joke and say a few nice words...}
-{252}{}{不，只有在他喝醉的时候。这几乎每天都在发生。当他清醒的时候，他甚至乐于与人交谈，他可以开玩笑，说几句好话。。。}
+{252}{}{不，只有在他喝醉的时候。这几乎每天都在发生。当他清醒的时候，他甚至乐于与人交谈，他可以开玩笑，说几句好话...}
 #{253}{}{Who in this town will help a person in need? The Sheriff does not want to interfere with family problems, and neighbors and acquaintances do not want to make enemies. And what can they do? Come with a gun and shoot him in the head? It's cruel and dangerous.}
 {253}{}{这个镇上谁会帮助一个需要帮助的人？治安官不想干涉家庭问题，邻居和熟人也不想树敌。他们能做什么？拿枪来打他的头？这既残酷又危险。}
 #{254}{}{I'll help you then!}
@@ -223,7 +223,7 @@
 #{279}{}{I'll figure out the rest myself.}
 {279}{}{剩下的我自己想办法。}
 #{1220}{}{And you are an optimist, you know? Unfortunately, this hasn't saved anyone in our world...}
-{1220}{}{你是个乐观主义者，知道吗？不幸的是，这并没有拯救我们这个世界上的任何人。。。}
+{1220}{}{你是个乐观主义者，知道吗？不幸的是，这并没有拯救我们这个世界上的任何人...}
 #{1244}{}{Yeah, it's nice to see a tear-stained woman and understand that it's not me!}
 {1244}{}{是啊，很高兴看到一个泪痕斑斑的女人，明白不是我！}
 #{1278}{}{That's enough. I'll figure out the rest myself.}

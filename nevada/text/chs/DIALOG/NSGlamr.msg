@@ -55,6 +55,6 @@
 #{132}{}{You're missing something.}
 {132}{}{你错过了什么。}
 #{133}{}{Damn...}
-{133}{}{该死。。。}
+{133}{}{该死...}
 #{134}{}{Nothing on the product list looks like anything in your inventory.}
 {134}{}{产品清单上的任何东西都不像你的存货。}

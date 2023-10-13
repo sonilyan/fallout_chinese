@@ -39,31 +39,31 @@
 #{131}{}{[Leave.]}
 {131}{}{[离开]}
 #{132}{}{So, even if one tiny error occurs, the healing can cause injury. Should try to fix this...}
-{132}{}{所以，即使发生一个微小的错误，愈合也会造成伤害。应该试着解决这个问题。。。}
+{132}{}{所以，即使发生一个微小的错误，愈合也会造成伤害。应该试着解决这个问题...}
 #{140}{}{Starting diagnostics. Manipulators... Calibration required. Tools... No signal from instrument(s): B2, B7, B18. Sterilization system... Feed error. 3D scanner... Error code 402. Software... No errors found. Diagnosis complete: module is not functional.}
-{140}{}{开始诊断。操纵器。。。需要校准。工具。。。仪表无信号：B2、B7、B18。消毒系统。。。馈送错误。三维扫描仪。。。错误代码402。软件。。。找不到错误。诊断完成：模块不工作。}
+{140}{}{开始诊断。操纵器...需要校准。工具...仪表无信号：B2、B7、B18。消毒系统...馈送错误。三维扫描仪...错误代码402。软件...找不到错误。诊断完成：模块不工作。}
 #{141}{}{Starting diagnostics. Tools... No signal from instrument(s): A1, A3. 3D scanner... Error code 408. Software... Diagnostic programs offline; reinstallation required. Diagnosis complete: module is not functional.}
-{141}{}{开始诊断。工具。。。仪表无信号：A1、A3。三维扫描仪。。。错误代码408。软件。。。诊断程序脱机；需要重新安装。诊断完成：模块不工作。}
+{141}{}{开始诊断。工具...仪表无信号：A1、A3。三维扫描仪...错误代码408。软件...诊断程序脱机；需要重新安装。诊断完成：模块不工作。}
 #{142}{}{Starting diagnostics. Stereo-units... Calibration required. 3D scanner... Error code 411. Software... Unrecoverable crash on startup; reinstallation required. Diagnosis complete: module is not functional.}
-{142}{}{开始诊断。立体声单元。。。需要校准。三维扫描仪。。。错误代码411。软件。。。启动时无法恢复的崩溃；需要重新安装。诊断完成：模块不工作。}
+{142}{}{开始诊断。立体声单元...需要校准。三维扫描仪...错误代码411。软件...启动时无法恢复的崩溃；需要重新安装。诊断完成：模块不工作。}
 #{143}{}{Starting diagnostics. No response from module. Diagnostics complete: module is not functional.}
 {143}{}{开始诊断。模块无响应。诊断完成：模块不工作。}
 #{144}{}{Starting diagnostics. Multiple recoverable faults detected throughout system. Recommend thorough repairs by licensed professional at first opportunity. Diagnosis: system is functional.}
 {144}{}{开始诊断。在整个系统中检测到多个可恢复的故障。建议在第一时间由有执照的专业人员进行彻底维修。诊断：系统功能正常。}
 #{145}{}{Rebooting... Surgical module is functional.}
-{145}{}{正在重新启动。。。手术模块功能正常。}
+{145}{}{正在重新启动...手术模块功能正常。}
 #{146}{}{Rebooting... Diagnostic module is functional.}
-{146}{}{正在重新启动。。。诊断模块正常。}
+{146}{}{正在重新启动...诊断模块正常。}
 #{147}{}{Rebooting... Sensor module is functional.}
-{147}{}{正在重新启动。。。传感器模块正常工作。}
+{147}{}{正在重新启动...传感器模块正常工作。}
 #{148}{}{Rebooting... Radiometric module is functional.}
-{148}{}{正在重新启动。。。辐射测量模块正常工作。}
+{148}{}{正在重新启动...辐射测量模块正常工作。}
 #{149}{}{Rebooting... System is fully functional.}
-{149}{}{正在重新启动。。。系统功能齐全。}
+{149}{}{正在重新启动...系统功能齐全。}
 #{150}{}{Rebooting... System error.}
-{150}{}{正在重新启动。。。系统错误。}
+{150}{}{正在重新启动...系统错误。}
 #{151}{}{I must have made a mistake somewhere...}
-{151}{}{我一定是在什么地方弄错了。。。}
+{151}{}{我一定是在什么地方弄错了...}
 #{152}{}{[Leave.]}
 {152}{}{[离开]}
 #{153}{}{[Continue.]}

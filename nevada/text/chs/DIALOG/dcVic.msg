@@ -27,11 +27,11 @@
 #{125}{}{Come on! Make up your mind! Tell me you want *that*?}
 {125}{}{加油！下定决心！告诉我你想要那个？}
 #{126}{}{Oh, I'm sorry for the stains on the pants... Will try harder to conceal them.}
-{126}{}{噢，我很抱歉裤子上有污渍。。。会更努力地隐藏他们。}
+{126}{}{噢，我很抱歉裤子上有污渍...会更努力地隐藏他们。}
 #{127}{}{What? Want it harder?}
 {127}{}{什么？想要更难一点吗？}
 #{128}{}{[Looks at you and pulls his hands out of his pockets] Oh, uh... It all right. Honestly.}
-{128}{}{[看着你，把手从口袋里掏出来]哦，呃。。。一切正常。说真的？}
+{128}{}{[看着你，把手从口袋里掏出来]哦，呃...一切正常。说真的？}
 #{129}{}{[Hums something about last kiss] ...Oh, sorry, got distracted again.}
 {129}{}{[哼着最后一吻]…哦，抱歉，又分心了。}
 #{130}{}{Let's chat.}
@@ -55,7 +55,7 @@
 #{139}{}{Great.}
 {139}{}{伟大的。}
 #{140}{}{Oh, my baby wants to be closer! I've been waiting for this...}
-{140}{}{哦，我的宝贝想靠近点！我一直在等这个。。。}
+{140}{}{哦，我的宝贝想靠近点！我一直在等这个...}
 #{141}{}{Stay away from me as far as possible, maniac.}
 {141}{}{离我远点，疯子。}
 #{142}{}{Stay at a medium distance.}
@@ -65,7 +65,7 @@
 #{144}{}{I think this distance is enough.}
 {144}{}{我觉得这个距离够了。}
 #{145}{}{Ah! Okay, okay... I will stay away. But will see who will last longer!}
-{145}{}{啊！好吧，好吧。。。我会离开的。但我要看看谁能撑得更久！}
+{145}{}{啊！好吧，好吧...我会离开的。但我要看看谁能撑得更久！}
 #{146}{}{Not a good start for our relationship, baby. Believe me, I know it.}
 {146}{}{对我们的关系来说不是一个好的开始，宝贝。相信我，我知道。}
 #{147}{}{Ow! Baby, you're driving me crazy! I'll be a human shield for your firm butt!}
@@ -73,7 +73,7 @@
 #{148}{}{Oh! Baby, I can even dance striptease! Just say a word!}
 {148}{}{哦！宝贝，我甚至可以跳脱衣舞！说一句话！}
 #{149}{}{Uh... Not today, Playboy. The armor is enough.}
-{149}{}{休斯敦大学。。。今天不行，花花公子。盔甲够了。}
+{149}{}{Uh...今天不行，花花公子。盔甲够了。}
 #{150}{}{Oh, no! [grabs his head] Has this day has come!? }
 {150}{}{哦，不！[抓住他的头]这一天到了吗！？}
 #{151}{}{Yes, you dog, I dump you. Forever.}
@@ -87,7 +87,7 @@
 #{155}{}{Oh, well, well.}
 {155}{}{哦，好吧，好吧。}
 #{156}{}{Okay! Well!!! The old dog will have to wait... As always. Uh... But you're coming back are you? You won't leave this faithful servant here right?}
-{156}{}{可以！好！！！那只老狗得等。。。一如既往。休斯敦大学。。。但你会回来的，是吗？你不会把这个忠实的仆人留在这里吧？}
+{156}{}{可以！好！！！那只老狗得等...一如既往。Uh...但你会回来的，是吗？你不会把这个忠实的仆人留在这里吧？}
 #{157}{}{You just wait.}
 {157}{}{你就等着吧。}
 #{158}{}{NO! NOOO!!! How could I! How could I leave my pussycat without attention and care! I'll be punished! I'm going to hell! But just give me one more chance! Please! I'm all yours!}
@@ -97,11 +97,11 @@
 #{160}{}{Yes! YES, dear, I don't need you. Go away and don't come back!}
 {160}{}{对！是的，亲爱的，我不需要你。走开，别回来！}
 #{161}{}{Oh, those words cut me to pieces! What a pain! Mmm... WHAT a PAIN!!! [squeals] I can't STAND it! I'll kill myself!}
-{161}{}{哦，那些话把我撕成碎片！多痛苦啊！嗯。。。多痛苦啊！！！我受不了了！我要自杀！}
+{161}{}{哦，那些话把我撕成碎片！多痛苦啊！嗯...多痛苦啊！！！我受不了了！我要自杀！}
 #{162}{}{What do I care...}
-{162}{}{我在乎什么。。。}
+{162}{}{我在乎什么...}
 #{163}{}{[Breathing heavily, grabs his chest] What an idiot I am! Well, I'll wait... I hope that you come back... I believe it will happen! Believe me, I'll be good! Honestly!}
-{163}{}{[呼吸沉重，抓住他的胸部]我真是个白痴！好吧，我等着。。。我希望你回来。。。我相信会发生的！相信我，我会很好的！说真的？}
+{163}{}{[呼吸沉重，抓住他的胸部]我真是个白痴！好吧，我等着...我希望你回来...我相信会发生的！相信我，我会很好的！说真的？}
 #{164}{}{Wait, as long as you want to.}
 {164}{}{等等，只要你愿意。}
 #{165}{}{For you would master anything. But except the shotgun and a revolver never had to use anything else.}
@@ -111,9 +111,9 @@
 #{200}{}{Again? Don't you want to go straight to the fun?}
 {200}{}{再一次？你不想直接去玩吗？}
 #{201}{}{I saw in a store those rubber things... If you that is what you mean.}
-{201}{}{我在商店里看到那些橡胶制品。。。如果你知道，那就是你的意思。}
+{201}{}{我在商店里看到那些橡胶制品...如果你知道，那就是你的意思。}
 #{202}{}{Oh, yeah, let's see, where to settle down...}
-{202}{}{哦，是的，让我想想，在哪里定居。。。}
+{202}{}{哦，是的，让我想想，在哪里定居...}
 #{203}{}{I suggest in position 26.}
 {203}{}{我建议在26号位置。}
 #{204}{}{Oh, itching, right? [smiling]}
@@ -129,7 +129,7 @@
 #{209}{}{I'm not talking about that, you fool, don't get excited ahead of time.}
 {209}{}{我不是在说这个，你这个傻瓜，别提前激动。}
 #{210}{}{Damn, as always...}
-{210}{}{该死，一如既往。。。}
+{210}{}{该死，一如既往...}
 #{211}{}{What do you know about this place?}
 {211}{}{你对这个地方了解多少？}
 #{212}{}{Look at my backpack, see something familiar?}
@@ -163,13 +163,13 @@
 #{302}{}{Wasteland. Just a Wasteland.}
 {302}{}{荒地。只是一片荒地。}
 #{303}{}{Huh? And where am I? Oh, sorry, I was did too many pills and now I hallucinated about some beautiful city... Oh what a beautiful hallucination!}
-{303}{}{呵呵？我在哪里？哦，对不起，我吃了太多药，现在我对某个美丽的城市产生了幻觉。。。哦，多美的幻觉啊！}
+{303}{}{呵呵？我在哪里？哦，对不起，我吃了太多药，现在我对某个美丽的城市产生了幻觉...哦，多美的幻觉啊！}
 #{304}{}{Huh? And where am I? Oh, sorry, I was did too many pills and now I hallucinated about some beautiful city... Oh what a beautiful hallucination!}
-{304}{}{呵呵？我在哪里？哦，对不起，我吃了太多药，现在我对某个美丽的城市产生了幻觉。。。哦，多美的幻觉啊！}
+{304}{}{呵呵？我在哪里？哦，对不起，我吃了太多药，现在我对某个美丽的城市产生了幻觉...哦，多美的幻觉啊！}
 #{305}{}{Desert and the railroad. What else you want to know my curious one? Oh, there's a hut of some sort, certainly it has a bed...}
-{305}{}{沙漠和铁路。你还想知道什么？哦，有个小屋，当然有床。。。}
+{305}{}{沙漠和铁路。你还想知道什么？哦，有个小屋，当然有床...}
 #{306}{}{Never been here before, but heard about it. They say that the local military have not seen a female body in a long... Oops, I shouldn't have said.}
-{306}{}{以前从没来过，但听说过。他们说当地军队很久没有看到一具女尸了。。。哎呀，我不该说的。}
+{306}{}{以前从没来过，但听说过。他们说当地军队很久没有看到一具女尸了...哎呀，我不该说的。}
 #{307}{}{Some dirty bunker. Yes, I am a lover of exotic places to receive oral pleasure in, but not in such a dirty place.}
 {307}{}{一些肮脏的掩体。是的，我是一个喜欢异国情调的地方接受口头上的乐趣，但不是在这样一个肮脏的地方。}
 #{308}{}{Ruins, ruins, ruins everywhere. Hey, looks like we're not alone!}
@@ -181,7 +181,7 @@
 #{311}{}{MAP_KLAMATH_RATCAVES}
 {311}{}{克拉马斯洞穴地图}
 #{312}{}{Baby, it's a perfect place for lovers of brahmin ass. But I prefer the other kind of asses.}
-{312}{}{宝贝，这是婆罗门驴子爱好者的完美去处。但我更喜欢其他类型的驴子。}
+{312}{}{宝贝，这是双头牛驴子爱好者的完美去处。但我更喜欢其他类型的驴子。}
 #{313}{}{MAP_KLAMATH_TRAPCAVES}
 {313}{}{地图\u KLAMATH \u TRAPCAVES}
 #{314}{}{MAP_KLAMATH_GRAZE}
@@ -199,7 +199,7 @@
 #{320}{}{MAP_SHAIEM_RAIDERS_BASA}
 {320}{}{地图\u SHAIEM \u RAIDERS \u BASA}
 #{321}{}{Dark, damp, quiet, cool... A great place to dance on the mattress.}
-{321}{}{黑暗，潮湿，安静，凉爽。。。在床垫上跳舞的好地方。}
+{321}{}{黑暗，潮湿，安静，凉爽...在床垫上跳舞的好地方。}
 #{322}{}{MAP_MODOC_DOWNTHESHITTER}
 {322}{}{地图\u MODOC \u down the shitter}
 #{323}{}{MAP_HOWTHORNE_POLIGON}
@@ -417,13 +417,13 @@
 #{429}{}{Mountains and cold wind. We have nothing to do here.}
 {429}{}{高山和寒风。我们这里没什么事可做。}
 #{430}{}{Why is it so dark? How will we find each other... That is, I wanted to say on each other.}
-{430}{}{为什么这么黑？我们怎样才能找到彼此。。。也就是说，我想对对方说。}
+{430}{}{为什么这么黑？我们怎样才能找到彼此...也就是说，我想对对方说。}
 #{431}{}{Wasteland. Just A Wasteland. Somewhere not far from Salt Lake. I can't wait to get to the soft beds in "the Sixth bullet"...}
-{431}{}{荒地。只是一片荒地。离盐湖不远的地方。我迫不及待地想在“第六颗子弹”里找到柔软的床。。。}
+{431}{}{荒地。只是一片荒地。离盐湖不远的地方。我迫不及待地想在“第六颗子弹”里找到柔软的床...}
 #{432}{}{Baby, you know better what to do. Honestly. I just follow.}
 {432}{}{宝贝，你更清楚该怎么做。说真的？我只是跟着。}
 #{433}{}{Never mind. Some dirty rogues from Reno migrated here and admire brahmin ass in the evenings.}
-{433}{}{不要介意。一些肮脏的流氓从雷诺迁移到这里，在晚上欣赏婆罗门驴。}
+{433}{}{不要介意。一些肮脏的流氓从雷诺迁移到这里，在晚上欣赏双头牛驴。}
 #{434}{}{MAP_ENCLAVE_TRAP_ROOM}
 {434}{}{地图\飞地\陷阱\房间}
 #{435}{}{MAP_SALT_TRAIN}
@@ -435,9 +435,9 @@
 #{438}{}{Whew! While you are here to solve all your big tasks, I'll stand here and look at your body.}
 {438}{}{呼！当你在这里解决你所有的重大任务时，我会站在这里看着你的身体。}
 #{439}{}{Some church... Hey, how about marriage?}
-{439}{}{一些教堂。。。嘿，结婚怎么样？}
+{439}{}{一些教堂...嘿，结婚怎么样？}
 #{440}{}{The Slums. It's so wild and exciting...}
-{440}{}{贫民窟。太疯狂了，太刺激了。。。}
+{440}{}{贫民窟。太疯狂了，太刺激了...}
 #{441}{}{Ruins. Just ruins.}
 {441}{}{废墟。只是废墟。}
 #{442}{}{Ruins. Just ruins.}
@@ -477,7 +477,7 @@
 #{1009}{}{Better?}
 {1009}{}{更好？}
 #{1010}{}{Uh...}
-{1010}{}{休斯敦大学。。。}
+{1010}{}{Uh...}
 #{1011}{}{Well, how am I in this light?}
 {1011}{}{好吧，在这种情况下我怎么样？}
 #{1012}{}{Are you taking me on stage?}
@@ -495,33 +495,33 @@
 #{1103}{}{Ow!}
 {1103}{}{噢！}
 #{1104}{}{Oh...}
-{1104}{}{哦。。。}
+{1104}{}{哦...}
 #{1105}{}{Damn...}
-{1105}{}{该死。。。}
+{1105}{}{该死...}
 #{1106}{}{Doctor?}
 {1106}{}{医生？}
 #{1107}{}{Holding on... Barely...}
-{1107}{}{坚持住。。。仅仅。。。}
+{1107}{}{坚持住...仅仅...}
 #{1108}{}{Soon I will be dead...}
-{1108}{}{很快我就死了。。。}
+{1108}{}{很快我就死了...}
 #{1200}{}{Oh La La...}
-{1200}{}{哦啦啦。。。}
+{1200}{}{哦啦啦...}
 #{1201}{}{Very well}
 {1201}{}{很好}
 #{1202}{}{I wait my beauty...}
-{1202}{}{我等待我的美丽。。。}
+{1202}{}{我等待我的美丽...}
 #{1203}{}{I'm waiting on my goddess}
 {1203}{}{我在等我的女神}
 #{1204}{}{Just waiting for her}
 {1204}{}{只是在等她}
 #{1205}{}{She won't cheat on me that's for sure...}
-{1205}{}{她不会背叛我那是肯定的。。。}
+{1205}{}{她不会背叛我那是肯定的...}
 #{1206}{}{Oh, these women's stuff...}
-{1206}{}{哦，这些女人的东西。。。}
+{1206}{}{哦，这些女人的东西...}
 #{1207}{}{Women are like that - you always have to wait}
 {1207}{}{女人就是这样-你总是要等}
 #{1208}{}{She's is shopping again...}
-{1208}{}{她又去买东西了。。。}
+{1208}{}{她又去买东西了...}
 #{1209}{}{That, again, carry this stuff?}
 {1209}{}{再说一遍，带着这些东西？}
 #{1210}{}{Hey, I'm here! And I'm bored!}
@@ -529,9 +529,9 @@
 #{1211}{}{They always are like this, always have to wait for them.}
 {1211}{}{他们总是这样，总是要等他们。}
 #{1212}{}{Uh... Well, I at least have Cola, I'm too exhausted.}
-{1212}{}{休斯敦大学。。。嗯，至少我有可乐，我太累了。}
+{1212}{}{Uh...嗯，至少我有可乐，我太累了。}
 #{1213}{}{I need to lay off the women... Nothing but trouble from them}
-{1213}{}{我要解雇那些女人。。。只有他们的麻烦}
+{1213}{}{我要解雇那些女人...只有他们的麻烦}
 #{1214}{}{I'd rather watched a fight in the ring in "Eldorado"}
 {1214}{}{我宁愿在“埃尔多拉多”里看拳击比赛}
 #{1215}{}{So what? There won't be sex?}
@@ -553,7 +553,7 @@
 #{1310}{}{You're right - I don't want to vomit}
 {1310}{}{你说得对-我不想呕吐}
 #{1311}{}{That stink so much of smoke from the mouth? Hell...}
-{1311}{}{从嘴里冒出这么多烟？地狱。。。}
+{1311}{}{从嘴里冒出这么多烟？地狱...}
 #{1312}{}{Oh, the famous "furious"! A hundred years have not seen.}
 {1312}{}{哦，著名的“愤怒”！一百年没见了。}
 #{1313}{}{Not so fast, dearest. If we die, we do it together!}
@@ -561,17 +561,17 @@
 #{1314}{}{Oh, right, baby values me too much}
 {1314}{}{哦，对了，宝贝太看重我了}
 #{1315}{}{Well, I'm not a fan of candies, but they say with it...}
-{1315}{}{我不喜欢糖果，但他们说。。。}
+{1315}{}{我不喜欢糖果，但他们说...}
 #{1316}{}{I will never say no to a glass of bloody Mary!}
 {1316}{}{我决不会拒绝一杯血腥玛丽！}
 #{1317}{}{This stuff I just will not eat! Yes, I for you.}
 {1317}{}{这东西我就是不吃！是的，我在等你。}
 #{1318}{}{What is this shit? Well, if we have nothing else...}
-{1318}{}{这是什么狗屎？好吧，如果我们没有别的。。。}
+{1318}{}{这是什么狗屎？好吧，如果我们没有别的...}
 #{1319}{}{Just like in the good old days when I was held in the... Uh, doesn't matter}
-{1319}{}{就像以前我被关在。。。呃，没关系}
+{1319}{}{就像以前我被关在...呃，没关系}
 #{1320}{}{Just like before. I remember Doc Gray with his experiments on... Well, forget it.}
-{1320}{}{就像以前一样。我记得格雷博士在。。。算了吧。}
+{1320}{}{就像以前一样。我记得格雷博士在...算了吧。}
 #{1330}{}{Uh, thanks, honey.}
 {1330}{}{呃，谢谢，亲爱的。}
 #{1331}{}{Thanks}
@@ -579,7 +579,7 @@
 #{1332}{}{Baby, you know what you are doing?}
 {1332}{}{宝贝，你知道你在做什么吗？}
 #{1333}{}{Can't we just slee... Rest?}
-{1333}{}{我们不能就这样。。。休息？}
+{1333}{}{我们不能就这样...休息？}
 #{1334}{}{Maybe we just sleep together?}
 {1334}{}{也许我们只是睡在一起？}
 #{1335}{}{What, I got the worst of it?}
@@ -607,7 +607,7 @@
 #{1999}{}{] }
 {1999}{}{]}
 #{2000}{}{Nothing interesting. I've seen those rubber things in the store near the "Silver legacy"...}
-{2000}{}{没什么有趣的。我在“银色遗产”附近的商店里见过那些橡胶制品。。。}
+{2000}{}{没什么有趣的。我在“银色遗产”附近的商店里见过那些橡胶制品...}
 #{2053}{}{A real rarity. They say, it not just heals, but also strengthens the immunity.}
 {2053}{}{真是稀罕。他们说，它不仅能治愈疾病，还能增强免疫力。}
 #{2097}{}{Hmm, yeah you test my observation, baby! Of course, I can see that this must be placed somewhere.}
@@ -625,7 +625,7 @@
 #{2255}{}{I can say - only a nerd botanist can fix this.}
 {2255}{}{我可以说-只有书呆子植物学家才能解决这个问题。}
 #{2278}{}{Mickey... Same horny male, just like me.}
-{2278}{}{米奇。。。同一个性欲旺盛的男人，就像我一样。}
+{2278}{}{米奇...同一个性欲旺盛的男人，就像我一样。}
 #{2281}{}{Well, ok. Come on, baby, I won't tell anyone how many locks were unable to stand under your sensitive fingers.}
 {2281}{}{好吧，好吧。来吧，宝贝，我不会告诉任何人有多少锁在你敏感的手指下站不住。}
 #{2301}{}{This is from the company 'Pretty & Glamour'. There is a vending machine in "Silver Legacy" hotel... Hey wait, are you trying to tell me I stink?}
@@ -645,7 +645,7 @@
 #{2413}{}{And I remember her! Worked in a strip club. real hottie, but after Ted Bundy he was gone. I bet a hundred coins on that she ran away to another city.}
 {2413}{}{我记得她！在脱衣舞俱乐部工作。真的很性感，但特德·邦迪死后他就走了。我打赌她逃到了另一个城市。}
 #{2417}{}{Like a helmet from power armor. But of course it's not... Well, I seen them in a magazine.}
-{2417}{}{就像盔甲上的头盔。但当然不是。。。我在杂志上见过他们。}
+{2417}{}{就像盔甲上的头盔。但当然不是...我在杂志上见过他们。}
 #{2430}{}{Ehh, if we could shoot some aliens in Area 51 with this, huh?!}
 {2430}{}{呃，如果我们能用这个在51区射杀外星人，嗯？！}
 #{2433}{}{Effective! You are desired without it, but in the cap you just Magadesired!}
@@ -671,11 +671,11 @@
 #{2557}{}{This is an emulator of a dick? I mean, my too small? Hell, I will have to do augmentation.}
 {2557}{}{这是老二的仿真器？我是说，我的头发太小了？见鬼，我得做增强手术。}
 #{2558}{}{Th-that's not m-mine! Honestly! Yes, I would have that man killed, if I saw him... Maybe...}
-{2558}{}{那不是我的！说真的？是的，我会杀了那个人，如果我看到他。。。也许 吧。。。}
+{2558}{}{那不是我的！说真的？是的，我会杀了那个人，如果我看到他...也许 吧...}
 #{2560}{}{Rare thing. But you're not going to carry this on you? In the vault suit you look sexier!}
 {2560}{}{Rare thing. But you're not going to carry this on you? In the vault suit you look sexier!}
 #{2561}{}{Rare thing. But you're not going to carry this on you? In the vault suit you look sexier!}
-{2561}{}{稀有的东西。但你不打算把这个带在身上？穿金库套装你看起来更性感！}
+{2561}{}{稀有的东西。但你不打算把这个带在身上？穿避难所套装你看起来更性感！}
 #{2562}{}{Again junk from 'Pretty & Glamour'...}
 {2562}{}{Again junk from 'Pretty & Glamour'...}
 #{2563}{}{Again junk from 'Pretty & Glamour'...}

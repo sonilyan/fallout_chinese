@@ -23,11 +23,11 @@
 #{117}{}{I don't need anything right now. I'll just be going.}
 {117}{}{我现在什么都不需要。我要走了。}
 #{118}{}{I have another question...}
-{118}{}{我还有一个问题。。。}
+{118}{}{我还有一个问题...}
 #{119}{}{I see. Thanks.}
 {119}{}{我懂了。谢谢。}
 #{125}{}{[The receptionist's smile slips off his face, and he glances nervously out the door] Uh... They, uh... The El Dorado, just down Virginia Street... }
-{125}{}{[接待员的微笑从他脸上滑落，他紧张地向外看了一眼]呃。。。他们，呃。。。El Dorado，就在弗吉尼亚大街上。。。}
+{125}{}{[接待员的微笑从他脸上滑落，他紧张地向外看了一眼]呃...他们，呃...El Dorado，就在弗吉尼亚大街上...}
 #{126}{}{"Let"? Ha! We've tried to stop those doing it, believe me. But we can never catch them in the act. Whoever it is, they're careful.}
 {126}{}{“让”？哈！相信我，我们已经尽力阻止那些人这么做了。但我们永远也抓不到他们。不管是谁，他们都很小心。}
 #{127}{}{Maybe I can catch this artist for you.}
@@ -89,7 +89,7 @@
 #{171}{}{I fixed the vent fan.}
 {171}{}{我把通风风扇修好了。}
 #{172}{}{Nah... Well, wait. Do you know anything about technology? There's an empty room on the second floor with a busted air vent fan. I think one of the prior guests was messing with it. If you can fix it, I'll pay.}
-{172}{}{不。。。好吧，等等。你懂技术吗？二楼有间空房间，通风机坏了。我想前面的一位客人在捣乱。如果你能修好，我就付钱。}
+{172}{}{不...好吧，等等。你懂技术吗？二楼有间空房间，通风机坏了。我想前面的一位客人在捣乱。如果你能修好，我就付钱。}
 #{173}{}{I'll take a look.}
 {173}{}{我去看看。}
 #{174}{}{Thanks, that takes care of one headache. Here's 100 bucks for your trouble. All the best!}
@@ -99,6 +99,6 @@
 #{180}{}{I'm impressed that your boss can keep this place by himself. He must have no family if he's able to devote this much time to his work.}
 {180}{}{你的老板能独自经营这个地方给我留下了深刻的印象。如果他能把这么多时间花在工作上，他一定没有家人。}
 #{181}{}{Oh no, no, he has a family. He has a wife and a beautiful baby girl. I remember the night he proposed to her at the hotel restaurant. Ah... Romantic. They still eat there sometimes.}
-{181}{}{哦，不，不，他有一个家庭。他有一个妻子和一个漂亮的女婴。我记得那天晚上他在饭店餐厅向她求婚。啊。。。浪漫。他们有时还在那里吃饭。}
+{181}{}{哦，不，不，他有一个家庭。他有一个妻子和一个漂亮的女婴。我记得那天晚上他在饭店餐厅向她求婚。啊...浪漫。他们有时还在那里吃饭。}
 #{182}{}{At the restaurant, you say. Good to know.}
 {182}{}{你说在餐厅。很高兴知道。}

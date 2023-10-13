@@ -21,7 +21,7 @@
 #{110}{}{What do you need in my office?}
 {110}{}{你在我办公室需要什么？}
 #{111}{}{I haven't seen ghouls in this casino for a long time... But - wait a minute. Ha! I took you for a ghoul... Hmm, but don't think I'll apologize.}
-{111}{}{我好久没在赌场看到食尸鬼了。。。但是-等等。哈！我把你当成食尸鬼。。。嗯，但别以为我会道歉。}
+{111}{}{我好久没在赌场看到食尸鬼了...但是-等等。哈！我把你当成食尸鬼...嗯，但别以为我会道歉。}
 #{112}{}{I've heard about you from Thompson's men. His friends are my friends. How can I help?}
 {112}{}{我从汤普森手下听说过你。他的朋友是我的朋友。我能帮忙吗？}
 #{113}{}{Come, partner, have a seat. I'm ready to hear you out.}
@@ -31,7 +31,7 @@
 #{115}{}{I, uh, will be back soon.}
 {115}{}{一、 呃，很快就回来。}
 #{116}{}{My name is Ricardo Bertolini - I'm the owner of this place, and this is my apartment. Usually I do not accept clients... Unless they have a business proposal for me.}
-{116}{}{我叫里卡多·贝托里尼——我是这个地方的主人，这是我的公寓。通常我不接受客户。。。除非他们有我的商业计划书。}
+{116}{}{我叫里卡多·贝托里尼——我是这个地方的主人，这是我的公寓。通常我不接受客户...除非他们有我的商业计划书。}
 #{117}{}{Word on the streets is that you were seen with that old ranch fellow - Oliver. If that's the path you choose, I won't stop you. But - if that's the case - from now on there will be no business relations between us. If you want to keep working for me - prove that you're still trustworthy.}
 {117}{}{街上有消息说有人看见你和那个农场的老家伙奥利弗在一起。如果你选择这条路，我不会阻止你。但是——如果是这样的话——从现在起，我们之间就没有业务关系了。如果你想继续为我工作-证明你仍然值得信赖。}
 #{118}{}{It's just a deceptive maneuver. I will prove my worth}
@@ -39,7 +39,7 @@
 #{119}{}{Is it so unpleasant that I talk with your competitor? That's understandable.}
 {119}{}{我和你们的竞争对手谈话是不是很不愉快？这是可以理解的。}
 #{120}{}{I have a proposal. We could arrange a mutually beneficial deal, regarding the sale of Nuka-Cola... }
-{120}{}{我有个建议。我们可以就努卡可乐的销售安排一个互利的交易。。。}
+{120}{}{我有个建议。我们可以就努卡可乐的销售安排一个互利的交易...}
 #{121}{}{The offer is tempting, but my bar only serves alcohol drinks. No one will buy Cola here. If we were some sort of a cafe, I would probably agree.}
 {121}{}{这个提议很诱人，但我的酒吧只供应酒精饮料。没有人会在这里买可乐。如果我们是咖啡馆，我可能会同意。}
 #{122}{}{Ah, got it.}
@@ -47,7 +47,7 @@
 #{123}{}{Boss, I know a lady who's forced to pay her debts to the casino after the death of her husband. Could you help to resolve this issue?}
 {123}{}{头儿，我认识一位女士，她丈夫死后，她被迫向赌场还债。你能帮忙解决这个问题吗？}
 #{124}{}{I've heard this story... Mrs. Clover, correct? As a courtesy to you, I am willing to forgive these debts - moreover, the total sum is not much for this casino. Inform the administrator about my wish.}
-{124}{}{我听过这个故事。。。克洛弗太太，对吗？出于对你的礼貌，我愿意免除这些债务——而且，这家赌场的总金额不多。告诉管理员我的愿望。}
+{124}{}{我听过这个故事...克洛弗太太，对吗？出于对你的礼貌，我愿意免除这些债务——而且，这家赌场的总金额不多。告诉管理员我的愿望。}
 #{125}{}{Thank you, Mr. Bertolini!}
 {125}{}{谢谢你，伯托里尼先生！}
 #{130}{}{I heard rumors that you've offended Mr. Thompson. What can you say about this?}
@@ -63,7 +63,7 @@
 #{135}{}{That's a fair statement. I have no objections, but bear in mind that the mutual respect of Mr. Thompson and his team is more important than your services.}
 {135}{}{这是一个公平的说法。我不反对，但请记住，汤普森先生和他的团队的相互尊重比你们的服务更重要。}
 #{136}{}{If you are looking for conflicts, do it elsewhere. I respect Mr. Thompson and intend to continue our... Mutual business with him. We will not turn a blind eye if you continue to cross our paths.}
-{136}{}{如果你在寻找冲突，那就到别处去做。我尊敬汤普森先生并打算继续我们的。。。和他做生意。如果你继续横穿我们的道路，我们不会视而不见。}
+{136}{}{如果你在寻找冲突，那就到别处去做。我尊敬汤普森先生并打算继续我们的...和他做生意。如果你继续横穿我们的道路，我们不会视而不见。}
 #{137}{}{Understood.}
 {137}{}{理解。}
 #{138}{}{What kind of masquerade is this?}
@@ -73,7 +73,7 @@
 #{140}{}{Mr. Bertolini, I want to work for you.}
 {140}{}{贝托里尼先生，我想为你工作。}
 #{141}{}{Work... What do you mean?}
-{141}{}{工作。。。什么意思？}
+{141}{}{工作...什么意思？}
 #{142}{}{I need a *real* job. Not like a croupier or floor washer. I can do *more*, you see.}
 {142}{}{我需要一份真正的工作。不像一个卧铺工人或地板清洁工。你看，我能做得更多。}
 #{143}{}{What, no vacancies in the casino?}
@@ -91,7 +91,7 @@
 #{149}{}{Well, I really have nothing to impress you right now. I'll be back when I do.}
 {149}{}{嗯，我现在真的没什么好打动你的。我会回来的。}
 #{150}{}{For serious work you need a serious cause or recommendation. Wait... [Bertolini takes one of his guards aside for a private conversation, then returns to you] There is reason to believe that your communications within the town are... Questionable. Now leave.}
-{150}{}{对于严肃的工作，你需要一个严肃的理由或建议。等待。。。[贝托里尼把他的一个警卫带到一边私下谈话，然后回到你身边]有理由相信你在镇上的通信是。。。有问题。现在离开。}
+{150}{}{对于严肃的工作，你需要一个严肃的理由或建议。等待...[贝托里尼把他的一个警卫带到一边私下谈话，然后回到你身边]有理由相信你在镇上的通信是...有问题。现在离开。}
 #{151}{}{Communications? With whom... ?}
 {151}{}{通讯？和谁一起？}
 #{152}{}{Jordan Bishop recommended me to work for you.}
@@ -99,7 +99,7 @@
 #{153}{}{But your administrator advised me to speak with you.}
 {153}{}{但你的管理员建议我和你谈谈。}
 #{154}{}{Listen, I wasn't born yesterday. I've handled a lot of jobs in my time...}
-{154}{}{听着，我不是昨天出生的。我这段时间做了很多工作。。。}
+{154}{}{听着，我不是昨天出生的。我这段时间做了很多工作...}
 #{155}{}{What about this package that I have for you from Vegas?}
 {155}{}{我从维加斯给你的包裹怎么样？}
 #{156}{}{What about my help with the Chase case? Isn't that worth anything?}
@@ -125,13 +125,13 @@
 #{166}{}{I've been waiting for it. What's the matter?}
 {166}{}{我一直在等。怎么了}
 #{167}{}{I'm having difficulties... }
-{167}{}{我有困难。。。}
+{167}{}{我有困难...}
 #{168}{}{Difficulties?! I have paid good money for this product, and now you come to me and say you're "having difficulties"?! I should have resorted to more effective delivery service... I hope, for your own sake, that this was the last screw up, courier.}
-{168}{}{困难？！我花了很多钱买这个产品，现在你来找我说你“有困难”？！我应该求助于更有效的送货服务。。。我希望，为了你自己，这是最后一次搞砸了，信使。}
+{168}{}{困难？！我花了很多钱买这个产品，现在你来找我说你“有困难”？！我应该求助于更有效的送货服务...我希望，为了你自己，这是最后一次搞砸了，信使。}
 #{169}{}{Of course, uh, Mr. Bertolini. No more misfires.}
 {169}{}{当然，呃，伯托里尼先生。不再缺火。}
 #{170}{}{I've been waiting for it, but... How did it come into *your* possession!?}
-{170}{}{我一直在等，但是。。。你怎么知道的！？}
+{170}{}{我一直在等，但是...你怎么知道的！？}
 #{171}{}{It's a long story, boss. The short is, I have good connections, and your associates aren't so good at keeping secrets. So - are you interested in package? Or should I throw it out?}
 {171}{}{说来话长，老大。简而言之，我人脉很好，你的同事不太善于保守秘密。你对包装感兴趣吗？或者我应该把它扔掉？}
 #{172}{}{Hold your tongue, and pray to the gods that I won't shoot you where you stand. This product is too valuable. Many in Reno would sell their souls for the sake of it. I'm clever enough to pay in cash instead. Here's your fee for delivery. Now leave the briefcase and get out.}
@@ -145,9 +145,9 @@
 #{177}{}{[Tell him about Chase]}
 {177}{}{[告诉他蔡斯的事]}
 #{178}{}{Come on, I just wanted to make an impression on you... }
-{178}{}{拜托，我只是想给你留下个印象。。。}
+{178}{}{拜托，我只是想给你留下个印象...}
 #{179}{}{[Gives a signal to the guard] Do you understand what to do? Go and deal with Chase. [Turns back to you] And you... Hmm. Perhaps you'll be useful. Here, take this as a small payment. Now leave me.}
-{179}{}{[向警卫发出信号]你明白该怎么办吗？去对付蔡斯。[回头看你]你。。。嗯。也许你会有用的。给，这是一笔小额付款。现在离开我。}
+{179}{}{[向警卫发出信号]你明白该怎么办吗？去对付蔡斯。[回头看你]你...嗯。也许你会有用的。给，这是一笔小额付款。现在离开我。}
 #{180}{}{I'm here to talk about my task.}
 {180}{}{我是来谈我的任务的。}
 #{181}{}{Did you meet the contact?}
@@ -177,13 +177,13 @@
 #{193}{}{Uh, alright. What about the job?}
 {193}{}{呃，好吧。那工作呢？}
 #{194}{}{That explains a lot. So, it's time to act decisively... But first, tell me what you know about Oliver Luciano.}
-{194}{}{这解释了很多。所以，是时候果断行动了。。。但首先，告诉我你对奥利弗·卢西亚诺了解多少。}
+{194}{}{这解释了很多。所以，是时候果断行动了...但首先，告诉我你对奥利弗·卢西亚诺了解多少。}
 #{195}{}{Isn't that the old man from the ranch who recently died?}
 {195}{}{那不是最近去世的牧场老人吗？}
 #{196}{}{[He raises his eyebrows and looks at the guard, who nods, then takes out a fifty-dollar bill, crumples it up and throws it under your feet] I no longer need your services. Go away.}
 {196}{}{[他扬起眉毛，看着卫兵，卫兵点点头，然后拿出一张50美元的钞票，揉成一团扔在你脚下]我不再需要你的服务了。走开。}
 #{197}{}{I'm guessing that's the end of that relationship... }
-{197}{}{我猜这就是那段关系的结束。。。}
+{197}{}{我猜这就是那段关系的结束...}
 #{198}{}{An old man who owns a local ranch and provides a major share of food on Reno's market.}
 {198}{}{一位老人，他拥有一个当地的牧场，并在雷诺的市场上提供大部分食物。}
 #{199}{}{Some kind of old fogie who lives in a shack on the ranch and farts himself to sleep.}
@@ -191,7 +191,7 @@
 #{200}{}{Watch your tongue, ignorant pig! Although we and Oliver are at odds, I have respect for his business.}
 {200}{}{小心你的舌头，无知的猪！虽然我们和奥利弗意见不合，但我尊重他的生意。}
 #{201}{}{Oh, that's how it is... I'll try.}
-{201}{}{哦，就是这样。。。我试试看。}
+{201}{}{哦，就是这样...我试试看。}
 #{202}{}{Oliver and I used to get along well, but ten years ago a conflict emerged. When civil war broke out in the town, we stood on opposite sides of the barricades. Now, when those, who at the helm, are completely different people, I want to put an end to this story. You will help me. Here's something to instill your confidence - your payment.}
 {202}{}{奥利弗和我过去相处得很好，但十年前发生了冲突。当镇上爆发内战时，我们站在路障的对面。现在，当那些掌舵的人是完全不同的人时，我想结束这个故事。你会帮助我的。这里有一些东西可以灌输你的信心-你的报酬。}
 #{203}{}{Can you tell me a little more about this story?}
@@ -201,7 +201,7 @@
 #{205}{}{I'll return when the job's done.}
 {205}{}{工作完成后我会回来的。}
 #{206}{}{Perhaps... It will help you to better navigate the situation. In this case, I will be able to answer some questions.}
-{206}{}{也许。。。它将帮助你更好地驾驭形势。在这种情况下，我将能够回答一些问题。}
+{206}{}{也许...它将帮助你更好地驾驭形势。在这种情况下，我将能够回答一些问题。}
 #{207}{}{I need to know about that civil war.}
 {207}{}{我要知道那场内战。}
 #{208}{}{Why did you end up on different sides?}
@@ -209,7 +209,7 @@
 #{209}{}{What prevents you from making peace and becoming partners?}
 {209}{}{是什么阻止你和别人和好，成为伴侣？}
 #{210}{}{Do you wish for... Luciano's death?}
-{210}{}{你希望。。。卢西亚诺的死？}
+{210}{}{你希望...卢西亚诺的死？}
 #{211}{}{May I ask another question?}
 {211}{}{我可以再问一个问题吗？}
 #{212}{}{It happened around six years ago. Local businessmen couldn't get along because of the division in spheres of influence. Competing in conditions of increased population and lack of resources led many to ruin: poverty in homes, gangsters on the streets, sabotage within enterprises. Then the clans began to kill each other. All of this stopped when the "big daddy" of the wasteland came with his crew, as they told "to carry out some order", and ended up outsmarting everyone here with his own hidden agenda. Since then, the town had no rest.}
@@ -217,7 +217,7 @@
 #{213}{}{It's a long conversation. Let's just say we have different views on how the town should develop. I like the ideas offered by Mr. Thompson. Oliver's opinions are radically opposite.}
 {213}{}{这是一次很长的谈话。就说我们对这个城镇应该如何发展有不同的看法。我喜欢汤普森先生提出的想法。奥利弗的观点截然相反。}
 #{214}{}{Good question. Probably the overall situation in the town, and... How should I put it... This old man's stubbornness. I can not dissuade Oliver from his ideas, but they directly contradict my ideas on this town's future.}
-{214}{}{问得好。可能是镇上的整体情况，还有。。。我该怎么说。。。这个老人的固执。我无法劝阻奥利弗放弃他的想法，但这些想法直接与我对这个城市未来的看法相矛盾。}
+{214}{}{问得好。可能是镇上的整体情况，还有...我该怎么说...这个老人的固执。我无法劝阻奥利弗放弃他的想法，但这些想法直接与我对这个城市未来的看法相矛盾。}
 #{215}{}{No way! The death of this man would only ruin his ranch. It would lose workers, slaves, and its resources would be stolen. I have other thoughts on his account, but it's still too early for you to be aware of them.}
 {215}{}{不可能！这个人的死只会毁了他的农场。它将失去工人、奴隶，其资源也将被偷。我对他还有其他想法，但你现在还不知道。}
 #{216}{}{Occasionally, Luciano ships food to the the Silver Legacy's restaurant. I need you to undermine his reputation when he'll do it next time. Go to the restaurant, wait for the convoy and sabotage the deal. How you'll do it - I don't know and don't want to know. But it must be done so that it looked like a an oversight from Luciano's men.}
@@ -233,13 +233,13 @@
 #{221}{}{Mission accomplished, Luciano's reputation was undermined.}
 {221}{}{任务完成后，卢西亚诺的声誉受到了损害。}
 #{222}{}{This is good news. Did you do it... Quietly as I asked?}
-{222}{}{这是个好消息。是你做的。。。像我说的那样安静？}
+{222}{}{这是个好消息。是你做的...像我说的那样安静？}
 #{223}{}{Thank you, Mr. Bertolini. Will there be any new jobs?}
 {223}{}{谢谢你，伯托里尼先生。会有新工作吗？}
 #{224}{}{I have just been informed that Oliver Luciano has passed away. This defeats the purpose of my plan, and concerning your service... Well, I have no further orders for you. You may leave.}
-{224}{}{我刚刚得知奥利弗·卢西亚诺已经去世了。这违背了我计划的目的，关于你的服务。。。好吧，我没有更多的订单给你。你可以走了。}
+{224}{}{我刚刚得知奥利弗·卢西亚诺已经去世了。这违背了我计划的目的，关于你的服务...好吧，我没有更多的订单给你。你可以走了。}
 #{225}{}{Oh, Oliver, why did you let me down... }
-{225}{}{哦，奥利弗，你为什么让我失望。。。}
+{225}{}{哦，奥利弗，你为什么让我失望...}
 #{226}{}{Yes, you've proven yourself, so I can trust you with a more serious mission. Your payment will also correspond with the significance of each task.}
 {226}{}{是的，你已经证明了你自己，所以我可以相信你有一个更严肃的任务。你的报酬也将与每项任务的重要性相一致。}
 #{227}{}{What do I need to do?}
@@ -251,11 +251,11 @@
 #{230}{}{The objective is accepted. Wait for the results, Mr. Bertolini.}
 {230}{}{目标被接受。等待结果，贝托里尼先生。}
 #{231}{}{Who's paying who, for gecko's sake?! This is *your* headache, so you should decide, what to do. But, if I were you, I'd first studied closely the central facilities of the ranch - the hangar, brahmin corral or paddock with slaves. The more losses you arrange, the better.}
-{231}{}{谁付钱给谁，看在壁虎的份上？！这是你的头痛，所以你应该决定怎么办。但是，如果我是你，我首先会仔细研究牧场的中心设施——机库、婆罗门畜栏或有奴隶的围场。你安排的损失越多越好。}
+{231}{}{谁付钱给谁，看在壁虎的份上？！这是你的头痛，所以你应该决定怎么办。但是，如果我是你，我首先会仔细研究牧场的中心设施——机库、双头牛畜栏或有奴隶的围场。你安排的损失越多越好。}
 #{232}{}{Maybe this is a risky question - but still - why is this necessary at all? After all, it provides the main Reno market with food... }
-{232}{}{也许这是一个危险的问题-但仍然-为什么这是必要的？毕竟，它为雷诺的主要市场提供了食物。。。}
+{232}{}{也许这是一个危险的问题-但仍然-为什么这是必要的？毕竟，它为雷诺的主要市场提供了食物...}
 #{233}{}{I'm not going to discuss my plans with you. But I will say that Luciano is not as simple as you think. This is no ordinary rancher, whose head is stuck in a brahmin's ass. And he is not some kind of trader, who sell the screw nuts to regressive savages. He is the driving force. One of the most powerful in the town today. People are rallying around him; he dictates his conditions, and he also has some sort of plan. Hmm... I don't know, maybe you're from one of those places where food is just another product. But, here and now, it's what the life in this desert is gathering around. Now, do you understand?}
-{233}{}{我不打算和你讨论我的计划。但我要说，卢西亚诺并不像你想象的那么简单。这不是一个普通的农场主，他的头卡在一个婆罗门的屁股里，他也不是一个商人，他把螺帽卖给退化的野蛮人。他是驱动力。今天镇上最有权势的人之一。人们聚集在他周围；他决定他的条件，他也有某种计划。隐马尔可夫模型。。。我不知道，也许你来自那些食物只是另一种产品的地方。但是，此时此地，沙漠中的生命正聚集在这里。现在，你明白了吗？}
+{233}{}{我不打算和你讨论我的计划。但我要说，卢西亚诺并不像你想象的那么简单。这不是一个普通的农场主，他的头卡在一个双头牛的屁股里，他也不是一个商人，他把螺帽卖给退化的野蛮人。他是驱动力。今天镇上最有权势的人之一。人们聚集在他周围；他决定他的条件，他也有某种计划。Hmm...我不知道，也许你来自那些食物只是另一种产品的地方。但是，此时此地，沙漠中的生命正聚集在这里。现在，你明白了吗？}
 #{234}{}{What did you manage to accomplish?}
 {234}{}{你成功地完成了什么？}
 #{235}{}{Nothing right now, but I'll handle it later.}
@@ -265,7 +265,7 @@
 #{237}{}{Oh yes, just like you wanted. No one suspects anything.}
 {237}{}{哦，是的，就像你想的那样。没人怀疑什么。}
 #{238}{}{In this case, it's fair to cut your payment by half. You did only half of the job and broke our agreement. I appreciate your efforts, but am yet to close my eyes on this... Misunderstanding.}
-{238}{}{在这种情况下，减半付款是公平的。你只做了一半的工作，违反了我们的协议。我很感激你的努力，但是我还没有闭上眼睛。。。误会。}
+{238}{}{在这种情况下，减半付款是公平的。你只做了一半的工作，违反了我们的协议。我很感激你的努力，但是我还没有闭上眼睛...误会。}
 #{239}{}{I am pleased by your diligence - you truly adapt well.}
 {239}{}{我为你的勤奋而高兴——你真的适应得很好。}
 #{240}{}{My informants tell a different story. You're trying to fool me, and that's usually not forgivable. You are lucky I do not want to make a shooting spree in this operating casino, as it would harm its reputation. Now get out.}
@@ -279,7 +279,7 @@
 #{244}{}{I need your advice on how to do the job better. Can a murder solve the problem?}
 {244}{}{我需要你关于如何把工作做得更好的建议。谋杀能解决问题吗？}
 #{245}{}{If you ever speak with such folly again, it will be our last conversation. I pay you for your own clever ideas... But, if you are really struggling with the job, then try to poison the supplies, or at least plant some explosives into them.}
-{245}{}{如果你再这样胡说八道，那将是我们最后一次谈话了。我付钱给你是为了你自己的聪明想法。。。但是，如果你真的在为这份工作而挣扎，那就试着毒害这些物资，或者至少在里面放些炸药。}
+{245}{}{如果你再这样胡说八道，那将是我们最后一次谈话了。我付钱给你是为了你自己的聪明想法...但是，如果你真的在为这份工作而挣扎，那就试着毒害这些物资，或者至少在里面放些炸药。}
 #{246}{}{I thank you, Mr. Bertolini, You've helped me alot.}
 {246}{}{谢谢你，伯托里尼先生，你帮了我很多。}
 #{247}{}{Alright, I'll try.}
@@ -305,7 +305,7 @@
 #{259}{}{So, you don't need my services?}
 {259}{}{所以，你不需要我的服务？}
 #{260}{}{Well, you did all that I asked for. But, there is one last business. I will not insist if you refuse, nor will I ask twice. This is my personal request... Some family drama, so to speak.}
-{260}{}{好吧，我要你做的你都做了。但是，还有最后一件事。如果你拒绝，我不会坚持，我也不会要求你两次。这是我个人的要求。。。可以说是家庭剧。}
+{260}{}{好吧，我要你做的你都做了。但是，还有最后一件事。如果你拒绝，我不会坚持，我也不会要求你两次。这是我个人的要求...可以说是家庭剧。}
 #{261}{}{It is an honor to help you and your family.}
 {261}{}{很荣幸能帮助你和你的家人。}
 #{262}{}{Oh, I don't interfere with domestic proceedings. I'm sorry, boss.}
@@ -315,7 +315,7 @@
 #{264}{}{[Leave.]}
 {264}{}{[离开]}
 #{265}{}{My son, Huey, must conduct a family affair. The problem is that the he has always been distinguished with... Superfluous pity. He has to kill a scoundrel, and your task is to make sure that everything goes *successfully*. After that, you will tell me how it went. Now get down to the first floor; there, you will find Huey.}
-{265}{}{我儿子休伊必须处理家庭事务。问题是，他一直以。。。多余的怜悯。他必须杀死一个无赖，而你的任务是确保一切顺利。在那之后，你会告诉我是怎么回事。现在到一楼去，在那里，你会找到休伊。}
+{265}{}{我儿子休伊必须处理家庭事务。问题是，他一直以...多余的怜悯。他必须杀死一个无赖，而你的任务是确保一切顺利。在那之后，你会告诉我是怎么回事。现在到一楼去，在那里，你会找到休伊。}
 #{266}{}{I will not fail you, Mr. Bertolini.}
 {266}{}{我不会让你失望的，伯托里尼先生。}
 #{267}{}{And that's not everything. }
@@ -357,7 +357,7 @@
 #{286}{}{I heard rumors that the one whom my son had to kill, still walks free. I guessed that Huey lacked the guts to do it, which is why I put you to watch over the situation. Instead, you just just shat in front of my house. I'm not going to tolerate this! Security - eliminate him!}
 {286}{}{我听说我儿子要杀的那个人仍然逍遥法外。我猜休伊没有勇气这么做，这就是为什么我让你来监视局势。相反，你只是在我家门口。我不能容忍这一切！保安-消灭他！}
 #{287}{}{Oops... }
-{287}{}{哎呀。。。}
+{287}{}{哎呀...}
 #{288}{}{Wait a minute! I let you down, but I had my reasons. Think about it - what will my death get you, besides more heat from Stryker's gang and a fight in your casino?}
 {288}{}{等一下！我让你失望了，但我有我的理由。想想看，我的死会给你带来什么，除了史崔克帮派带来更多的热度和你赌场里的打斗？}
 #{289}{}{[He strokes his cheekbones, pondering your words] Get out of the casino. Stick your head in here again and I won't think twice.}
@@ -387,9 +387,9 @@
 #{1151}{}{Communications? With whom... ?}
 {1151}{}{通讯？和谁一起？}
 #{1154}{}{Listen, I wasn't born yesterday. I've handled a lot of jobs in my time... }
-{1154}{}{听着，我不是昨天出生的。我这段时间做了很多工作。。。}
+{1154}{}{听着，我不是昨天出生的。我这段时间做了很多工作...}
 #{1178}{}{Come on, I just wanted to make an impression on you... }
-{1178}{}{拜托，我只是想给你留下个印象。。。}
+{1178}{}{拜托，我只是想给你留下个印象...}
 #{1181}{}{Did you meet the contact?}
 {1181}{}{你见过联系人吗？}
 #{1182}{}{Yes, I found him at Oliver's ranch.}
@@ -401,19 +401,19 @@
 #{1202}{}{Oliver and I used to get along well, but ten years ago a conflict emerged. When civil war broke out in the town, we stood on opposite sides of the barricades. Now, when those, who at the helm, are completely different people, I want to put an end to this story. You will help me. Here's something to instill your confidence - your payment.}
 {1202}{}{奥利弗和我过去相处得很好，但十年前发生了冲突。当镇上爆发内战时，我们站在路障的对面。现在，当那些掌舵的人是完全不同的人时，我想结束这个故事。你会帮助我的。这里有一些东西可以灌输你的信心-你的报酬。}
 #{1222}{}{This is good news. Did you do it... Quietly as I asked?}
-{1222}{}{这是个好消息。是你做的。。。像我说的那样安静？}
+{1222}{}{这是个好消息。是你做的...像我说的那样安静？}
 #{1224}{}{I have just been informed that Oliver Luciano has passed away. This destroys the purpose of my plan, and concerning your service... Well, I have no further orders for you. You may leave.}
-{1224}{}{我刚刚得知奥利弗·卢西亚诺已经去世了。这破坏了我计划的目的，关于你的服务。。。好吧，我没有更多的订单给你。你可以走了。}
+{1224}{}{我刚刚得知奥利弗·卢西亚诺已经去世了。这破坏了我计划的目的，关于你的服务...好吧，我没有更多的订单给你。你可以走了。}
 #{1226}{}{Yes, you've proven yourself, so I can trust you with a more serious mission. Your payment will also correspond with the significance of each task.}
 {1226}{}{是的，你已经证明了你自己，所以我可以相信你有一个更严肃的任务。你的报酬也将与每项任务的重要性相一致。}
 #{1228}{}{I need you to destroy Luciano's enterprise. He has to be knocked out of the rut, so that later I could dictate my conditions to him. And Oliver should not die under any circumstances.}
 {1228}{}{我需要你摧毁卢西亚诺的事业。他必须被淘汰出局，这样以后我才能把我的条件告诉他。奥利弗在任何情况下都不应该死。}
 #{1238}{}{In this case, it's fair to cut your payment by half. You did only half of the job and broke our agreement. I appreciate your efforts, but am yet to close my eyes on this... Misunderstanding.}
-{1238}{}{在这种情况下，减半付款是公平的。你只做了一半的工作，违反了我们的协议。我很感激你的努力，但是我还没有闭上眼睛。。。误会。}
+{1238}{}{在这种情况下，减半付款是公平的。你只做了一半的工作，违反了我们的协议。我很感激你的努力，但是我还没有闭上眼睛...误会。}
 #{1254}{}{I did not count on this; and you knew about it. Now Oliver will not be able to be pushed to an agreement, solving our disputes with minimal bloodshed. After this news, our cooperation has come to an end. Get out of my casino.}
 {1254}{}{我没有指望，你也知道。现在，奥利弗将无法达成协议，以最少的流血解决我们的争端。听到这个消息后，我们的合作结束了。离开我的赌场。}
 #{1260}{}{Well, you did all that I asked for. But, there is one last thing. I will not insist if you refuse, nor will I ask twice. This is my personal request...  some family drama, so to speak.}
-{1260}{}{好吧，我要你做的你都做了。但是，还有最后一件事。如果你拒绝，我不会坚持，我也不会要求你两次。这是我个人的要求。。。可以说是家庭剧。}
+{1260}{}{好吧，我要你做的你都做了。但是，还有最后一件事。如果你拒绝，我不会坚持，我也不会要求你两次。这是我个人的要求...可以说是家庭剧。}
 #{1271}{}{I made Huey shoot a snitch. He himself would have failed to do so.}
 {1271}{}{我让休伊射杀了一个告密者。他自己也不会这么做。}
 #{1277}{}{You're lying. I know Huey very well. He lacks the guts to do so. I had hoped that you would do the work for him, but in the end you're lying to defend him. I don't know what you expect, but the job is done, and I am obliged to pay. From now on, I don't need your services. You may leave.}
@@ -429,7 +429,7 @@
 #{1288}{}{Wait a minute! I let you down, but I had my reasons. Think about it - what will my death get you, besides fight in your casino and more heat from Stryker's gang?}
 {1288}{}{等一下！我让你失望了，但我有我的理由。想想看，我的死会给你带来什么，除了在你的赌场里打架和史崔克帮派的更多热度？}
 #{310}{}{You're such a famous person in Reno. I always wanted to get to know you closer... }
-{310}{}{你真是雷诺的名人。我一直想更进一步地了解你。。。}
+{310}{}{你真是雷诺的名人。我一直想更进一步地了解你...}
 #{311}{}{[He grins lewdly] Sometimes I get bored in this town. All of these silly girls from the streets don't even know the rules of etiquette, and there's never much to talk about with them. Are you one of them, or just giving in to temptation?}
 {311}{}{[他露齿而笑]有时候我在这个镇上会觉得无聊。所有这些来自街头的傻女孩都不懂礼节，也从来没有什么可以和她们谈论的。你是他们中的一员，还是仅仅屈服于诱惑？}
 #{312}{}{What are you saying?! Yuck! How could you! I would never lower myself to that level.}
@@ -441,7 +441,7 @@
 #{315}{}{Methinks I've started with the wrong topic. Excuse me; I need a restroom.}
 {315}{}{我想我是从错误的话题开始的。对不起，我需要一个洗手间。}
 #{316}{}{Many have claimed the same. Some lied, while others were genuinely convinced that they themselves make their own life decisions... What do you count on - to remain innocent and undamaged in this town?}
-{316}{}{许多人也声称如此。有些人撒谎，而另一些人则真心相信，他们自己做自己的人生决定。。。你指望什么——在这个镇上保持清白和完好无损？}
+{316}{}{许多人也声称如此。有些人撒谎，而另一些人则真心相信，他们自己做自己的人生决定...你指望什么——在这个镇上保持清白和完好无损？}
 #{317}{}{And why not? I'm counting on finding someone who I'll like. I have all the chances to choose, not to be chosen.}
 {317}{}{为什么不呢？我指望能找到我喜欢的人。我有所有的机会去选择，而不是被选择。}
 #{318}{}{Hmm. [he skeptically narrows his eyes and slowly blows cigarette smoke] A courtesan? You wield your tongue well. Are you a longtime resident in this town?}
@@ -455,13 +455,13 @@
 #{322}{}{[He raises his brows] Did I bore you?}
 {322}{}{我让你厌烦了吗？}
 #{323}{}{Mr. Bertolini - you know... You're boring. VERY boring.}
-{323}{}{伯托里尼先生-你知道。。。你真无聊。很无聊。}
+{323}{}{伯托里尼先生-你知道...你真无聊。很无聊。}
 #{324}{}{Yes. You're telling the truth... Look, I'm busy right now. Put yourself in order if you want to continue this conversation. You look... Like a rural girl who spent all day digging potatoes.}
-{324}{}{对。你说的是实话。。。听着，我现在很忙。如果你想继续这段对话，就把你自己整理好。你看起来。。。就像一个整天挖土豆的农村女孩。}
+{324}{}{对。你说的是实话...听着，我现在很忙。如果你想继续这段对话，就把你自己整理好。你看起来...就像一个整天挖土豆的农村女孩。}
 #{325}{}{What impudence! Fine, Mr. Bertolini, I'll put myself in order. I'm just not sure, if it'll be for you, or someone else.}
 {325}{}{真是厚颜无耻！好吧，伯托里尼先生，我会整理好的。我只是不确定，是给你还是给别人。}
 #{326}{}{Yes. You're telling the truth... [he claps his hands] I know what we'll do. We'll take a bottle of wine and retire to my office. You drink wine, right?}
-{326}{}{对。你说的是实话。。。[他拍手]我知道我们要做什么。我们带瓶酒到我办公室去。你喝酒，对吧？}
+{326}{}{对。你说的是实话...[他拍手]我知道我们要做什么。我们带瓶酒到我办公室去。你喝酒，对吧？}
 #{327}{}{I would prefer a martini, Mr. Bertolini.}
 {327}{}{我想要一杯马提尼，伯托里尼先生。}
 #{328}{}{Now I look forward to only one thing - to get out of this room.}
@@ -481,13 +481,13 @@
 #{343}{}{Yes, overall I'm bored with life. Can we have a drink? It will be more fun this way.}
 {343}{}{是的，总的来说我对生活很厌倦。我们能喝一杯吗？这样会更有趣。}
 #{344}{}{[He raises his index finger] Exactly! I can afford anyone. I can buy any street whore for whatever entertainment I want. And she would be bound to me till death... But only as long as the money flows. And what do you count on? To remain innocent and undamaged in this town?}
-{344}{}{[他举起食指]没错！我买得起任何人。我可以买任何街头妓女做任何娱乐。她会一直和我在一起直到死。。。但只要资金流动就行。你指望什么？在这个镇上保持清白和完好无损？}
+{344}{}{[他举起食指]没错！我买得起任何人。我可以买任何街头妓女做任何娱乐。她会一直和我在一起直到死...但只要资金流动就行。你指望什么？在这个镇上保持清白和完好无损？}
 #{345}{}{Hmm... [he skeptically narrows his eyes and slowly blows cigarette smoke] I can feel it. Are you a longtime resident in this town?}
-{345}{}{隐马尔可夫模型。。。[他怀疑地眯起眼睛，慢慢地吐出烟来]我能感觉到。你是这个镇的长期居民吗？}
+{345}{}{Hmm...[他怀疑地眯起眼睛，慢慢地吐出烟来]我能感觉到。你是这个镇的长期居民吗？}
 #{346}{}{Really? You know, you have high requirements. But you're right. Living in a dirty world it's hard not to get underwear dirty. I do not know if you feel it, but many of those who came to Reno from the outside, have changed over time. Among them were those with a pure soul and body. All of them were ruined by city life.}
 {346}{}{真正地？你知道，你的要求很高。但你是对的。生活在一个肮脏的世界很难不把内衣弄脏。我不知道你是否感觉到了，但是很多从外面来雷诺的人，随着时间的推移已经改变了。他们中有灵魂和肉体纯洁的人。他们都被城市生活毁了。}
 #{347}{}{True. But there are those who retain their family traditions. Like Mr. Wright, for example. Although we hold from each other at a distance, I'm sympathetic to family values... Methinks I've bored you with my chatter?}
-{347}{}{是的。但也有一些人保留他们的家庭传统。比如莱特先生。虽然我们彼此保持着距离，但我同情家庭的价值观。。。我想我的唠叨让你厌烦了？}
+{347}{}{是的。但也有一些人保留他们的家庭传统。比如莱特先生。虽然我们彼此保持着距离，但我同情家庭的价值观...我想我的唠叨让你厌烦了？}
 #{348}{}{Yeah. It's the only thing left to do. Bye, Mr. Bertolini. See you around, maybe.}
 {348}{}{是 啊。这是唯一要做的事。再见，伯托里尼先生。回头见，也许吧。}
 #{349}{}{[He grins with the edges of the mouth while changing posture, carefully assessing your hips when you rise from a chair and walk towards the exit]}
@@ -503,11 +503,11 @@
 #{354}{}{No, not so long. I came from the north; it was a long and difficult journey.}
 {354}{}{不，不会太久。我来自北方，这是一次漫长而艰难的旅行。}
 #{355}{}{From the north... Hmm. Not many settlements there. Interesting. You see, in Reno, people are changing as time passes. You may still not understand this, but you can feel it. Urban life makes them sophisticated, vile and sly.}
-{355}{}{从北方。。。嗯。那里的定居点不多。很有趣。你看，在雷诺，人们随着时间的推移而改变。你可能还不明白，但你能感觉到。城市生活使他们变得复杂、卑鄙和狡猾。}
+{355}{}{从北方...嗯。那里的定居点不多。很有趣。你看，在雷诺，人们随着时间的推移而改变。你可能还不明白，但你能感觉到。城市生活使他们变得复杂、卑鄙和狡猾。}
 #{356}{}{So what? That's none of my concern. I don't even think about it.}
 {356}{}{那又怎么样？那不关我的事。我都没想过。}
 #{357}{}{[He gazes at you enthusiastically] A strong woman... But you know, in Reno there are those who remain faithful to the family tradition. [he sighs, remembering something] You remind me of... Well, forget it. I think I'm starting to bother you. Or not?}
-{357}{}{[他热情地看着你]一个坚强的女人。。。但是你知道，里诺有一些人仍然忠于家庭传统。[他叹了口气，想起了什么]你让我想起。。。算了吧。我想我开始打扰你了。还是不？}
+{357}{}{[他热情地看着你]一个坚强的女人...但是你知道，里诺有一些人仍然忠于家庭传统。[他叹了口气，想起了什么]你让我想起...算了吧。我想我开始打扰你了。还是不？}
 #{358}{}{When you start to bother me, I'll just get up and leave.}
 {358}{}{当你开始打扰我的时候，我就起床离开。}
 #{359}{}{[Stare at him in astonishment, then turn from him and quietly walk away.]}
@@ -533,13 +533,13 @@
 #{369}{}{About the evening for two of us. Have you changed your mind yet?}
 {369}{}{关于我们俩的晚上。你改变主意了吗？}
 #{370}{}{I'm busy right now. [he looks you over, evaluating] Put yourself in order if you want to continue this conversation. You look... Like a rural girl who spent all day digging potatoes.}
-{370}{}{我现在很忙。[他看了你一眼，评价道]如果你想继续这段对话，就把自己整理好。你看起来。。。就像一个整天挖土豆的农村女孩。}
+{370}{}{我现在很忙。[他看了你一眼，评价道]如果你想继续这段对话，就把自己整理好。你看起来...就像一个整天挖土豆的农村女孩。}
 #{371}{}{[He claps his hands] Good! Let's take out a bottle of wine and retire to my office. You drink wine, right?}
 {371}{}{[他拍手]很好！我们拿出一瓶酒，回我办公室去吧。你喝酒，对吧？}
 #{372}{}{Z-z-z... Gentle... Mommy...}
-{372}{}{Z-Z-Z。。。温柔。。。妈妈。。。}
+{372}{}{Z-Z-Z...温柔...妈妈...}
 #{373}{}{[He grins lewdly] Sometimes I get bored in this town. All of these silly girls from the streets don't even know the rules of etiquette, and there's not much to talk about with them... [suddenly he notices something in your behavior, then his face becomes stale] A drug addict? I should have guessed. Get out. In this state, don't you dare even try to touch me.}
-{373}{}{[他露齿而笑]有时候我在这个镇上会觉得无聊。所有这些来自街头的傻女孩都不懂礼仪，跟她们谈的也不多。。。[突然他注意到你的行为中有什么东西，然后他的脸变得不新鲜]吸毒者？我应该猜到的。走出。在这种情况下，你甚至不敢碰我。}
+{373}{}{[他露齿而笑]有时候我在这个镇上会觉得无聊。所有这些来自街头的傻女孩都不懂礼仪，跟她们谈的也不多...[突然他注意到你的行为中有什么东西，然后他的脸变得不新鲜]吸毒者？我应该猜到的。走出。在这种情况下，你甚至不敢碰我。}
 #{374}{}{[Leave.]}
 {374}{}{[离开]}
 #{375}{}{You spend the whole evening in the Bertolini's arms. In bed he turned out to be an extremely tedious and garrulous partner.}

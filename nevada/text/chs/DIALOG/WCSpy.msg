@@ -25,7 +25,7 @@
 #{118}{}{I see you know the history of the local population. Where such awareness comes from?}
 {118}{}{我知道你知道当地居民的历史。这种意识从何而来？}
 #{119}{}{Well... Rumors slip by little from different places. Nevermind.}
-{119}{}{好。。。谣言从不同的地方传来。没有关系。}
+{119}{}{好...谣言从不同的地方传来。没有关系。}
 #{120}{}{I don't think you're here just for the sake of rumors.}
 {120}{}{我不认为你来这里只是为了谣言。}
 #{121}{}{I needed a place to sleep. I'm just a traveler, nothing special.}
@@ -33,15 +33,15 @@
 #{122}{}{Well, well. Usually no one leaves their homes for no reason. I know it well, believe me.}
 {122}{}{好吧，好吧。通常没有人会无缘无故离开家。我很清楚，相信我。}
 #{123}{}{Heh. True. I have my reasons... But I'd still like to know what a person like you is doing in this troubled place?}
-{123}{}{嘿。是的。我有我的理由。。。但我还是想知道像你这样的人在这个麻烦的地方干什么？}
+{123}{}{嘿。是的。我有我的理由...但我还是想知道像你这样的人在这个麻烦的地方干什么？}
 #{124}{}{Well, not that... You know, you don't cause any special mistrust. It would be possible to do joint business with you.}
-{124}{}{嗯，不是那个。。。你知道，你不会引起任何特别的不信任。有可能和你们做联合生意。}
+{124}{}{嗯，不是那个...你知道，你不会引起任何特别的不信任。有可能和你们做联合生意。}
 #{125}{}{My interests to this place are solely temporary. My goal is located somewhere far away from here. I don't even know where.}
 {125}{}{我对这个地方的兴趣只是暂时的。我的目标离这儿很远。我都不知道在哪里。}
 #{126}{}{Business? Like what?}
 {126}{}{生意？像什么？}
 #{127}{}{Oh, brother-in-the-Wasteland? This is encouraging... You know, you do not cause any special mistrust. It would be possible to do joint business with you.}
-{127}{}{哦，荒地里的兄弟？这是令人鼓舞的。。。你知道，你不会引起任何特别的不信任。有可能和你们做联合生意。}
+{127}{}{哦，荒地里的兄弟？这是令人鼓舞的...你知道，你不会引起任何特别的不信任。有可能和你们做联合生意。}
 #{128}{}{Don't rush, I want to know more about you. What can you say about this place?}
 {128}{}{别着急，我想多了解你。关于这个地方你能说些什么？}
 #{129}{}{The lousy dump with lousy residents. I wouldn't linger here for long.}
@@ -69,7 +69,7 @@
 #{140}{}{You bored me with your attitude! I don't care about your ambitions, I'm only interested in personal gain. Tell me what you need and how much you will pay for it - then I'm in.}
 {140}{}{你的态度让我厌烦！我不在乎你的野心，我只关心个人利益。告诉我你需要什么，你要付多少钱-那我就进去了。}
 #{141}{}{Oh, take it easy! However... There's truth in your words. After all, who else but me needs my ambitions?}
-{141}{}{哦，别紧张！然而。。。你的话是真的。毕竟，除了我还有谁需要我的雄心壮志？}
+{141}{}{哦，别紧张！然而...你的话是真的。毕竟，除了我还有谁需要我的雄心壮志？}
 #{142}{}{Exactly.}
 {142}{}{确切地。}
 #{143}{}{Actually, I'm interested in something. If you help me to get it, I'll pay you 500 bucks.}
@@ -95,7 +95,7 @@
 #{153}{}{I HATE this town! I once lived in a small settlement not far from here. The military offered protection in exchange for resources. But when the slavers came, a group of "protectors" turned out to be too far to help. Since then, I just want to spite these bastards.}
 {153}{}{我讨厌这个城市！我曾经住在离这里不远的一个小定居点里。军方提供保护以换取资源。但当奴隶主来了，一群“保护者”却远远帮不上忙。从那以后，我只想对这些混蛋不屑一顾。}
 #{154}{}{Uh... Almost nothing left for me, but this thing is too tempting. Okay, I'll pay 1000, just do it quietly.}
-{154}{}{休斯敦大学。。。我几乎什么都没有了，但这东西太诱人了。好吧，我付1000，安静点。}
+{154}{}{Uh...我几乎什么都没有了，但这东西太诱人了。好吧，我付1000，安静点。}
 #{155}{}{That means that I was wrong about you. But trust me, you won't coin money here easily.}
 {155}{}{那意味着我看错你了。但相信我，你不会轻易在这里投币的。}
 #{156}{}{Very well. I repeat our plan just in case. You need to get into the room with the computer in the headquarters. That the task itself is not difficult - radio operators are busy with their estimates and almost never get distracted, and the room with the computer is often empty. The problem is how to access information not giving yourself away. This is where your skills and wit come in handy.}
@@ -109,7 +109,7 @@
 #{160}{}{So, how are you doing, wanderer?}
 {160}{}{你好吗，流浪者？}
 #{161}{}{Not bad...}
-{161}{}{不错。。。}
+{161}{}{不错...}
 #{162}{}{Don't be silly, you know what I mean!}
 {162}{}{别傻了，你知道我的意思！}
 #{163}{}{Uh, it hasn't been done yet. Wait a little longer.}
@@ -117,13 +117,13 @@
 #{164}{}{The information is with me.}
 {164}{}{信息是我的。}
 #{165}{}{Wait, I'll compare it with what I managed to get before you.. Right... Hmm... It seems that this is what was needed. Well, as promised - here's your money. Thank you for your assistance, without you I'd be stuck here for another week.}
-{165}{}{等等，我会把它和我在你之前得到的比较一下。。正确的。。。隐马尔可夫模型。。。看来这正是我们所需要的。好吧，正如我所承诺的-这是你的钱。谢谢你的帮助，没有你我会在这里再呆一个星期。}
+{165}{}{等等，我会把它和我在你之前得到的比较一下。。正确的...Hmm...看来这正是我们所需要的。好吧，正如我所承诺的-这是你的钱。谢谢你的帮助，没有你我会在这里再呆一个星期。}
 #{166}{}{Bye.}
 {166}{}{再见。}
 #{1110}{}{Looking for something, wanderer? Never mind, I was just asking.}
 {1110}{}{在找什么吗，流浪者？没关系，我只是问问。}
 #{1127}{}{Oh, sister-in-the-Wasteland? This is encouraging... You know, you do not cause any special mistrust. It would be possible to do joint business with you.}
-{1127}{}{哦，荒地里的姐姐？这是令人鼓舞的。。。你知道，你不会引起任何特别的不信任。有可能和你们做联合生意。}
+{1127}{}{哦，荒地里的姐姐？这是令人鼓舞的...你知道，你不会引起任何特别的不信任。有可能和你们做联合生意。}
 #{1139}{}{Heh, say what you want, but you can't hide your true nature. I'm afraid I was wrong. Good luck, wanderer.}
 {1139}{}{嘿，想说什么就说什么，但你不能隐藏你的真实本性。恐怕我错了。祝你好运，流浪者。}
 #{1160}{}{So, how are you doing, wanderer?}

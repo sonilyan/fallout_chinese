@@ -1,5 +1,5 @@
 #{100}{}{You probably shouldn't touch anything. Especially not that big red button... Or that other one.}
-{100}{}{你可能不应该碰任何东西。尤其不是那个大的红色按钮。。。或者另一个。}
+{100}{}{你可能不应该碰任何东西。尤其不是那个大的红色按钮...或者另一个。}
 #{101}{}{You can't use this in combat.}
 {101}{}{你不能在战斗中使用这个。}
 #{102}{}{This console has no further uses.}

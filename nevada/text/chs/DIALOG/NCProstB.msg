@@ -5,7 +5,7 @@
 #{102}{}{You'll never meet another like the busty wonder Nanny! Her third breast, swollen with milk, just drives you wild!}
 {102}{}{你再也见不到像这位大腹便便的神奇保姆了！她的第三个胸脯，被牛奶弄肿了，简直让你疯了！}
 #{103}{}{You gently and passionately fuck for an entire hour. It is a very... Educational experience.}
-{103}{}{你温柔而热情地干了整整一个小时。这是一个非常。。。教育经验。}
+{103}{}{你温柔而热情地干了整整一个小时。这是一个非常...教育经验。}
 #{104}{}{Under the dim lamplight, you see that a vicious skin disease has affected the prostitute's genitals. You can only hope you weren't infected.}
 {104}{}{在昏暗的灯光下，你看到一种恶性皮肤病感染了妓女的生殖器。你只能希望自己没有被感染。}
 #{105}{}{Under the dim lamplight, you see that a vicious skin disease has affected the prostitute's genitals. Hopefully, the condom provided adequate protection.}
@@ -23,7 +23,7 @@
 #{114}{}{Are there any others like you in the city?}
 {114}{}{城里还有像你这样的人吗？}
 #{115}{}{Oh, you stay away from those girls next to the Cotton Club. It breaks my heart, I feel so sorry for them - that old woman works them terribly, makes them take any awful, dirty man that comes by and doesn't even give them time to wash after. It's like she's hell bent on putting them in an grave early... And her customers too. You want nothing to do with them, trust me.}
-{115}{}{哦，你离棉花俱乐部旁边的那些女孩远点。这让我心碎，我为他们感到难过——那个老太婆把他们弄得一团糟，让他们带走任何一个来过的讨厌的，肮脏的男人，甚至不给他们洗衣服的时间。好像她一心想早点把他们埋进坟墓。。。还有她的顾客。你不想和他们有任何关系，相信我。}
+{115}{}{哦，你离棉花俱乐部旁边的那些女孩远点。这让我心碎，我为他们感到难过——那个老太婆把他们弄得一团糟，让他们带走任何一个来过的讨厌的，肮脏的男人，甚至不给他们洗衣服的时间。好像她一心想早点把他们埋进坟墓...还有她的顾客。你不想和他们有任何关系，相信我。}
 #{116}{}{I see. Can I ask you something else?}
 {116}{}{我懂了。我能问你点别的吗？}
 #{117}{}{Thanks for the heads up, but I have to go.}
@@ -37,15 +37,15 @@
 #{123}{}{Thank you, but I don't need anything right now.}
 {123}{}{谢谢，但我现在什么都不需要。}
 #{124}{}{[She looks at you quizzically] You... Really don't know? Well... My girls will be happy to teach you. And don't worry... Learning's the best part.}
-{124}{}{[她疑惑地看着你]你。。。真的不知道？好。。。我的女儿们会很乐意教你的。别担心。。。学习是最好的部分。}
+{124}{}{[她疑惑地看着你]你...真的不知道？好...我的女儿们会很乐意教你的。别担心...学习是最好的部分。}
 #{125}{}{Is it... Safe?}
-{125}{}{它是。。。安全吗？}
+{125}{}{它是...安全吗？}
 #{126}{}{Of course, honey! All my girls are clean! Not like those girls down by the Cotton Club... [shudders]}
-{126}{}{当然，亲爱的！我所有的女孩都是清白的！不像棉花俱乐部的那些女孩。。。[颤抖]}
+{126}{}{当然，亲爱的！我所有的女孩都是清白的！不像棉花俱乐部的那些女孩...[颤抖]}
 #{127}{}{What's wrong with the girls by the Cotton Club?}
 {127}{}{棉花俱乐部的女孩们怎么了？}
 #{128}{}{Honey, they don't even wash! You have to stay away from them if you don't want to get sick. But you don't have to worry about that from my girls - we're careful to always stay clean and prevent any... Baby trouble. You understand?}
-{128}{}{亲爱的，他们甚至不洗！如果你不想生病，就得离他们远点。但你不必担心我的女儿们-我们总是小心保持清洁，防止任何。。。婴儿问题。你明白吗？}
+{128}{}{亲爱的，他们甚至不洗！如果你不想生病，就得离他们远点。但你不必担心我的女儿们-我们总是小心保持清洁，防止任何...婴儿问题。你明白吗？}
 #{129}{}{ dollars. You won't find a better price for service this fine.}
 {129}{}{美元。这么好的服务，你找不到更好的价格了。}
 #{130}{}{You're in luck, honey. There's a special deal on lesbian sex: }

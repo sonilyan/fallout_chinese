@@ -9,19 +9,19 @@
 #{111}{}{How could I run up into this!}
 {111}{}{我怎么会碰到这个！}
 #{112}{}{18 carat run of bad luck...}
-{112}{}{18克拉的坏运气。。。}
+{112}{}{18克拉的坏运气...}
 #{113}{}{When will all this bad luck end?!}
 {113}{}{所有这些坏运气什么时候才能结束？！}
 #{114}{}{Goodbye my friends...}
-{114}{}{再见我的朋友们。。。}
+{114}{}{再见我的朋友们...}
 #{115}{}{::sighs heavily::}
 {115}{}{●重重地叹了口气：}
 #{116}{}{I won't be a caravaneer anymore!}
 {116}{}{我不会再当商队队员了！}
 #{117}{}{Or maybe someone's still alive? But...}
-{117}{}{或者有人还活着？但是。。。}
+{117}{}{或者有人还活着？但是...}
 #{118}{}{In the next two days - meet a new face among the poor...}
-{118}{}{在接下来的两天里-在穷人中遇见一个新面孔。。。}
+{118}{}{在接下来的两天里-在穷人中遇见一个新面孔...}
 #{119}{}{Hey! Help me reach the New Vegas! Please!}
 {119}{}{嘿！帮我到达新维加斯！拜托！}
 #{120}{}{Lose your goods - and fellow caravaneers won't even look at your direction!}
@@ -33,7 +33,7 @@
 #{123}{}{It happened the first time with us!}
 {123}{}{这是第一次和我们在一起！}
 #{124}{}{And we were on the top in Vegas...}
-{124}{}{我们在维加斯站在顶端。。。}
+{124}{}{我们在维加斯站在顶端...}
 #{125}{}{Damned raiders took the most valuable stuff.}
 {125}{}{该死的袭击者拿走了最值钱的东西。}
 #{126}{}{I'm in dire straits. That's it. Put me right in the coffin.}
@@ -41,11 +41,11 @@
 #{127}{}{And how well it all started!}
 {127}{}{一切都开始得多好啊！}
 #{128}{}{We even transported some thing to Salt Lake...}
-{128}{}{我们甚至把一些东西运到盐湖。。。}
+{128}{}{我们甚至把一些东西运到盐湖...}
 #{129}{}{Why no one wants to take me to Vegas? I'm an experienced caravaneer!}
 {129}{}{为什么没人想带我去维加斯？我是个有经验的商队队员！}
 #{200}{}{[You see a worried caravaneer] Uh... Hello, wanderer! I guess, you came to me for a reason but, believe me, I'm not in the right mood to help anyone.}
-{200}{}{[你看到一个忧心忡忡的商队队员]呃。。。你好，流浪者！我想，你来找我是有原因的，但是，相信我，我没有心情去帮助任何人。}
+{200}{}{[你看到一个忧心忡忡的商队队员]呃...你好，流浪者！我想，你来找我是有原因的，但是，相信我，我没有心情去帮助任何人。}
 #{201}{}{What does this mean?}
 {201}{}{这是什么意思？}
 #{202}{}{Sounds like it is you who need help.}
@@ -73,7 +73,7 @@
 #{216}{}{Licking my wounds after a tough caravan run. Wasteland appeared to be ruthless bitch this time. If not for my survival skills, I'd be already eaten by pig rats or someone even worse.}
 {216}{}{在一次艰难的旅行后舔我的伤口。这次荒原似乎是个无情的婊子。如果不是因为我的生存技能，我已经被猪鼠或者更糟的人吃掉了。}
 #{217}{}{I'm in big trouble, that's it. But it's a long story, as I can't do otherwise. I'll tell for a small fee... He-he. I'm joking. But I really need money. A lot.}
-{217}{}{我有大麻烦了，就这样。但说来话长，我不能不这样做。我会告诉你一点费用。。。他，他。我在开玩笑。但我真的需要钱。很多。}
+{217}{}{我有大麻烦了，就这样。但说来话长，我不能不这样做。我会告诉你一点费用...他，他。我在开玩笑。但我真的需要钱。很多。}
 #{218}{}{If you need money then sell something.}
 {218}{}{如果你需要钱，那就卖点东西。}
 #{219}{}{}
@@ -85,7 +85,7 @@
 #{222}{}{Could you elaborate?}
 {222}{}{你能详细说明一下吗？}
 #{223}{}{Help? Me?! Not that I was some wimp or piss-pants, but it's a difficult situation, you see. And in this case... I need support, so to speak.}
-{223}{}{救命啊？我？！并不是说我是个懦夫或尿裤子，但这是一个困难的情况，你看。在这种情况下。。。可以说，我需要支持。}
+{223}{}{救命啊？我？！并不是说我是个懦夫或尿裤子，但这是一个困难的情况，你看。在这种情况下...可以说，我需要支持。}
 #{224}{}{Tell me more.}
 {224}{}{告诉我更多。}
 #{225}{}{You are useless to me, then. Bye.}
@@ -161,27 +161,27 @@
 #{309}{}{Does this story lead to something or not?}
 {309}{}{这个故事有没有什么线索？}
 #{310}{}{Sound familiar. Oh, this militant to the bone...}
-{310}{}{听起来很熟悉。哦，这个好战的家伙。。。}
+{310}{}{听起来很熟悉。哦，这个好战的家伙...}
 #{311}{}{Well, you go and ask them. They, probably, think that they are in charge here and run the show. Did you see that guy with the broken face in the next room? Here's what it is.}
 {311}{}{好吧，你去问问他们。他们，可能认为他们是这里的负责人，负责这个节目。你看到隔壁房间那个脸骨折的人了吗？事情是这样的。}
 #{312}{}{Of course, I told you it's gonna be a long story!}
 {312}{}{当然，我告诉过你这会是一个很长的故事！}
 #{313}{}{Oh, these soldiers... But let's get back to your caravan.}
-{313}{}{哦，这些士兵。。。但让我们回到你的车队。}
+{313}{}{哦，这些士兵...但让我们回到你的车队。}
 #{314}{}{Right. But I'm not about it. So, this guy comes to us, starts to get on our nerves with his questions, all that important, so sick of him... And also drunk. We barely managed to bundle him out. It's good that we didn't get into a fistfight.}
-{314}{}{正确的。但我不在乎。所以，这个家伙来找我们，开始用他的问题让我们紧张，所有那些重要的问题，让我们厌倦了他。。。而且还喝醉了。我们勉强把他打发走了。幸好我们没有打架。}
+{314}{}{正确的。但我不在乎。所以，这个家伙来找我们，开始用他的问题让我们紧张，所有那些重要的问题，让我们厌倦了他...而且还喝醉了。我们勉强把他打发走了。幸好我们没有打架。}
 #{315}{}{And what this all about?}
 {315}{}{这是怎么回事？}
 #{316}{}{Things may go worse. You were lucky.}
 {316}{}{情况可能会更糟。你很幸运。}
 #{317}{}{Wait a bit, I'm trying to recall the sequence of events...}
-{317}{}{等等，我想回忆一下事件的顺序。。。}
+{317}{}{等等，我想回忆一下事件的顺序...}
 #{318}{}{Yeah-yeah, sure.}
 {318}{}{是的，当然。}
 #{319}{}{Then we moved to Vegas, we chose the path along the route. But then our leader said that raiders typically hide along the routes. Let's go through the desert, he says, off the road.}
 {319}{}{然后我们搬到维加斯，选择了沿途的路。但后来我们的头领说袭击者通常会沿着路线躲起来。让我们穿过沙漠，他说，离开公路。}
 #{320}{}{Yeah-yeah, I've seen such leaders already. Any signs of danger - and...}
-{320}{}{是的，我已经见过这样的领导人了。任何危险的迹象-而且。。。}
+{320}{}{是的，我已经见过这样的领导人了。任何危险的迹象-而且...}
 #{321}{}{Hmm. Safer, but slower.}
 {321}{}{嗯。更安全，但慢一点。}
 #{322}{}{Hey, don't start it! If you ever come into such scrapes a couple of times, you'll also become cautious.}
@@ -199,11 +199,11 @@
 #{328}{}{The old gas station. We always make a stop here on the way from Wind of War to Vegas. Convenient checkpoint. It's always nice to sleep under the roof than in the tent in the middle of desert.}
 {328}{}{旧加油站。从《战风》到维加斯的路上，我们总是在这里停留。方便的检查站。睡在屋顶下总比睡在沙漠中央的帐篷里好。}
 #{329}{}{I'm gonna sleep because of your story myself... Eh... Go on!}
-{329}{}{因为你的故事我要睡觉了。。。呃。。。继续！}
+{329}{}{因为你的故事我要睡觉了...呃...继续！}
 #{330}{}{Of course.}
 {330}{}{当然。}
 #{331}{}{As we went to sleep... And then! I hear - someone's coming!}
-{331}{}{我们睡觉的时候。。。然后！我听说-有人来了！}
+{331}{}{我们睡觉的时候...然后！我听说-有人来了！}
 #{332}{}{Well finally, something interesting in your story begins!}
 {332}{}{最后，你的故事开始有趣了！}
 #{333}{}{Wow! Who was that?}
@@ -213,7 +213,7 @@
 #{335}{}{Gunfight?!}
 {335}{}{枪战？！}
 #{336}{}{These bastards surrounded us from all sides. Two of us got shot first, others ran away somewhere. Good thing I ran away into the bu... Eh... As I said, I know a lot of tricks - disappeared in the most appropriate time.}
-{336}{}{这些混蛋从四面八方包围了我们。我们两个先中枪，其他人跑掉了。幸好我跑进了学校。。。呃。。。正如我所说，我知道很多窍门-消失在最合适的时间。}
+{336}{}{这些混蛋从四面八方包围了我们。我们两个先中枪，其他人跑掉了。幸好我跑进了学校...呃...正如我所说，我知道很多窍门-消失在最合适的时间。}
 #{337}{}{What's next?}
 {337}{}{下一步是什么？}
 #{338}{}{I don't know myself! Darkness surrounds, shots, bustle. Well, guys fled, and raiders there, at the gas station, took down someone and started to hammer.}
@@ -225,7 +225,7 @@
 #{341}{}{Then I came back here. [Speaks quietly] But I don't believe one bit, that these are raiders. They don't speak like that, you know! And they are not that well organized, and not that clever. A strange situation!}
 {341}{}{然后我回到这里。但我一点也不相信，他们是袭击者。他们不是那样说话的，你知道的！他们组织得不好，也不那么聪明。奇怪的情况！}
 #{342}{}{That's how it was...}
-{342}{}{就这样。。。}
+{342}{}{就这样...}
 #{343}{}{So I was left with nothing and lost contact with my fellows. Hopefully, a trip to Vegas will give me a second chance.}
 {343}{}{所以我一无所有，与同伴失去了联系。希望去维加斯能给我第二次机会。}
 #{344}{}{Hmm, sad story. Well, happy trails.}
@@ -241,9 +241,9 @@
 #{349}{}{Hello, wanderer!}
 {349}{}{你好，流浪者！}
 #{350}{}{You were saying that you're a caravaneer...}
-{350}{}{你刚才说你是个大篷车。。。}
+{350}{}{你刚才说你是个大篷车...}
 #{351}{}{Yes, that's it... To be precise, was. And now I'm not so sure. Our guys ran away and I don't know if they still live.}
-{351}{}{是的，就是这样。。。准确地说，是的。现在我不太确定。我们的人逃跑了，我不知道他们是否还活着。}
+{351}{}{是的，就是这样...准确地说，是的。现在我不太确定。我们的人逃跑了，我不知道他们是否还活着。}
 #{352}{}{And what was that caravan?}
 {352}{}{那辆大篷车是什么？}
 #{353}{}{Right, bye.}
@@ -253,7 +253,7 @@
 #{355}{}{I know them. Four of your friends have recently been parked in Vegas.}
 {355}{}{我认识他们。你的四个朋友最近停在维加斯。}
 #{356}{}{Oh, so you don't know... Friend, be strong, all your comrades were killed. Everyone of them.}
-{356}{}{哦，所以你不知道。。。朋友，坚强点，你所有的同志都被杀了。他们每个人。}
+{356}{}{哦，所以你不知道...朋友，坚强点，你所有的同志都被杀了。他们每个人。}
 #{357}{}{Sounds familiar. I'll return if I remember.}
 {357}{}{听起来很熟悉。如果我记得的话，我会回来的。}
 #{358}{}{You've found the last remaining member of "Speed Hawk".}
@@ -267,17 +267,17 @@
 #{362}{}{Are you sure? How did you know?!}
 {362}{}{你确定？你怎么知道的？！}
 #{363}{}{I... Eh... Was there and saw everything.}
-{363}{}{一、 。。。呃。。。在那里看到了一切。}
+{363}{}{一、 ...呃...在那里看到了一切。}
 #{364}{}{Well, rumors are afloat. I'll check it out and come back.}
 {364}{}{好吧，谣言满天飞。我去看看再回来。}
 #{365}{}{Ah, come on, don't worry! They're alive, your comrades are waiting for you in Vegas.}
 {365}{}{啊，来吧，别担心！他们还活着，你的战友在维加斯等你。}
 #{366}{}{Well, I was prepared for the worst... I guess lights of Vegas shine not for me. Local caravaneers won't take on the job if they'll know my story. That's a superstition, my friend. Well, I'd better head to Reno and try to improve my life there.}
-{366}{}{我已经做好了最坏的打算。。。我想维加斯的灯光不适合我。如果当地的商队知道我的故事，他们不会接受这份工作。那是迷信，我的朋友。嗯，我最好去雷诺，努力改善那里的生活。}
+{366}{}{我已经做好了最坏的打算...我想维加斯的灯光不适合我。如果当地的商队知道我的故事，他们不会接受这份工作。那是迷信，我的朋友。嗯，我最好去雷诺，努力改善那里的生活。}
 #{367}{}{That's up to you to decide, I've done my job.}
 {367}{}{那由你决定，我已经完成了我的工作。}
 #{1200}{}{[You see a worried caravaneer] Uh... Hello, wanderer! I guess, you came to me for a reason but, believe me, I'm not in the right mood to help anyone.}
-{1200}{}{[你看到一个忧心忡忡的商队队员]呃。。。你好，流浪者！我想，你来找我是有原因的，但是，相信我，我没有心情去帮助任何人。}
+{1200}{}{[你看到一个忧心忡忡的商队队员]呃...你好，流浪者！我想，你来找我是有原因的，但是，相信我，我没有心情去帮助任何人。}
 #{1232}{}{I knew it. Another beggar!}
 {1232}{}{我就知道。又一个乞丐！}
 #{1236}{}{I need to get to the Vegas badly. But caravaneers won't help for free, they ask for a prepayment. Everyone here stand for themselves. That's it.}
@@ -291,7 +291,7 @@
 #{1322}{}{Hey, don't start it! If you ever come into such scrapes a couple of times, you'll also become cautious.}
 {1322}{}{嘿，别动手！如果你遇到过几次这样的麻烦，你也会变得谨慎。}
 #{1329}{}{I'm gonna sleep because of your story myself... Eh... Go on!}
-{1329}{}{因为你的故事我要睡觉了。。。呃。。。继续！}
+{1329}{}{因为你的故事我要睡觉了...呃...继续！}
 #{1346}{}{Thank you for listening! If necessary, you'll find me in Vegas.}
 {1346}{}{谢谢你的聆听！如果有必要，你会在维加斯找到我。}
 #{1359}{}{It's a great news! I'll go to them as soon as possible! Thank you, wanderer, I'm so glad I met you!}
@@ -299,8 +299,8 @@
 #{1362}{}{Are you sure? How did you know?!}
 {1362}{}{你确定？你怎么知道的？！}
 #{1363}{}{I... Eh... Was there and saw everything.}
-{1363}{}{一、 。。。呃。。。在那里看到了一切。}
+{1363}{}{一、 ...呃...在那里看到了一切。}
 #{1366}{}{Well, I was prepared for the worst... I guess lights of Vegas shine not for me. Local caravaneers won't take on the job if they'll know my story. That's a superstition, my friend. Well, I'd better head to Reno and try to improve my life there.}
-{1366}{}{我已经做好了最坏的打算。。。我想维加斯的灯光不适合我。如果当地的商队知道我的故事，他们不会接受这份工作。那是迷信，我的朋友。嗯，我最好去雷诺，努力改善那里的生活。}
+{1366}{}{我已经做好了最坏的打算...我想维加斯的灯光不适合我。如果当地的商队知道我的故事，他们不会接受这份工作。那是迷信，我的朋友。嗯，我最好去雷诺，努力改善那里的生活。}
 #{1367}{}{That's up to you to decide, I've done my job.}
 {1367}{}{那由你决定，我已经完成了我的工作。}

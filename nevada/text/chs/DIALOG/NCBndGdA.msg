@@ -15,13 +15,13 @@
 #{107}{}{You see one of Mr. Wright's guards. The resemblance to Wright himself is uncanny.}
 {107}{}{你看到赖特先生的一个警卫了。与赖特本人的相似之处是不可思议的。}
 #{108}{}{The boss is... He's not here. Just get out!}
-{108}{}{老板是。。。他不在这儿。出去！}
+{108}{}{老板是...他不在这儿。出去！}
 #{109}{}{ }
 {109}{}{ }
 #{110}{}{Hey, did you miss me?}
 {110}{}{嘿，你想我了吗？}
 #{111}{}{Oh, Chuck, it's you again...}
-{111}{}{哦，查克，又是你。。。}
+{111}{}{哦，查克，又是你...}
 #{112}{}{I'm just here to say hi. What's the problem?}
 {112}{}{我只是来打个招呼的。有什么问题吗？}
 #{113}{}{Stop it, Chuck. We've talked about this.}
@@ -43,7 +43,7 @@
 #{121}{}{You have no right to judge him. He gave you life and a job.}
 {121}{}{你无权评判他。他给了你生命和工作。}
 #{122}{}{I... All he gives me is money. I want more. I want you!}
-{122}{}{一、 。。。他只给我钱。我想要更多。我想要你！}
+{122}{}{一、 ...他只给我钱。我想要更多。我想要你！}
 #{123}{}{No, Chuck. I've told you this before.}
 {123}{}{不，查克。我以前跟你说过。}
 #{124}{}{You're breaking my heart!}
@@ -65,21 +65,21 @@
 #{132}{}{I'm only a few feet from the door! No one's getting in.}
 {132}{}{我离门只有几英尺远！没人进去。}
 #{133}{}{Maybe. But if Wright finds out you're in here...}
-{133}{}{也许 吧。但如果赖特发现你在这里。。。}
+{133}{}{也许 吧。但如果赖特发现你在这里...}
 #{134}{}{Be reasonable. I can't just stand next to his bedroom door all night!}
 {134}{}{讲道理。我不能整晚都站在他卧室门口！}
 #{135}{}{Try explaining it to your father... Maybe he'll give you a chair. Tee-hee!}
-{135}{}{试着向你父亲解释一下。。。也许他会给你一把椅子。嘻嘻！}
+{135}{}{试着向你父亲解释一下...也许他会给你一把椅子。嘻嘻！}
 #{136}{}{Grr! Yeah, laugh it up. I'll try to forget your cruelty over a bottle of whiskey.}
 {136}{}{格瑞！是啊，笑一笑。我会努力忘记你喝威士忌时的残忍。}
 #{137}{}{Heh-hee...}
-{137}{}{嘿嘿。。。}
+{137}{}{嘿嘿...}
 #{138}{}{::sniff:: What's that, apple pie for my father?}
 {138}{}{嗅嗅：那是什么，给我父亲的苹果派？}
 #{139}{}{Yes, made with love.}
 {139}{}{是的，是爱做的。}
 #{140}{}{It sure would be nice to have some...}
-{140}{}{如果能有一些。。。}
+{140}{}{如果能有一些...}
 #{141}{}{There's the door. Go and find someone to make it for you.}
 {141}{}{门在那儿。去找人给你做吧。}
 #{142}{}{::sigh::}

@@ -47,7 +47,7 @@
 #{131}{}{You can use me as a bait and shoot the mutants yourself.}
 {131}{}{你可以把我当诱饵，自己杀变种人。}
 #{132}{}{I have a brahmin as a bait.}
-{132}{}{我有一个婆罗门作为诱饵。}
+{132}{}{我有一个双头牛作为诱饵。}
 #{140}{}{Look, two of us could handle it better. I'll be a bait, and you'll be shooting from afar.}
 {140}{}{听着，我们两个能处理得更好。我当诱饵，你从远处开枪。}
 #{141}{}{Good thought. But keep in mind - if these creatures start to chew you, I'll just watch the show to the end and go back. I don't want to waste ammunition in vain.}
@@ -89,7 +89,7 @@
 #{159}{}{Why didn't you leave, like everyone else?}
 {159}{}{你为什么不和其他人一样离开？}
 #{160}{}{An old,, but reliable rifle. I bought it at the Wind of War. They usually keep good weapons for themselves and sell whatever is left. I was lucky to catch one of the best among those that were on the stock. However, this one too has flaws. As for gunner... Yes, I have to count every shot, because bullets aren't cheap. That's how I trained.}
-{160}{}{一把旧的，但可靠的步枪。我冒着战争的危险买了它。他们通常为自己保留好武器，把剩下的都卖掉。我很幸运地抓住了存货中最好的一个。然而，这个也有缺陷。至于枪手。。。是的，我得数一数每一发子弹，因为子弹不便宜。我就是这样训练的。}
+{160}{}{一把旧的，但可靠的步枪。我冒着战争的危险买了它。他们通常为自己保留好武器，把剩下的都卖掉。我很幸运地抓住了存货中最好的一个。然而，这个也有缺陷。至于枪手...是的，我得数一数每一发子弹，因为子弹不便宜。我就是这样训练的。}
 #{161}{}{I try to stay away from crazy ones, but this one seems more with the head. At least I see no one better here at organizing stuff.}
 {161}{}{我试着远离疯狂的人，但这一个似乎更与头部。至少我觉得这里没有人比我更擅长组织东西。}
 #{162}{}{I need a quiet place to live. I do not like big cities.}
@@ -97,7 +97,7 @@
 #{163}{}{Wind of War? Can you show me where it is?}
 {163}{}{战争之风？你能告诉我它在哪里吗？}
 #{164}{}{Only if on the map... It's here, in the east, right in the middle of the ruins of the old town.}
-{164}{}{只有在地图上。。。就在这里，在东边，就在古城废墟的中间。}
+{164}{}{只有在地图上...就在这里，在东边，就在古城废墟的中间。}
 #{165}{}{Thanks.}
 {165}{}{谢谢。}
 #{166}{}{I try to stay away from crazy ones, but this one seems more with the head. At least I see no one better at organizing stuff. But is it important now?}

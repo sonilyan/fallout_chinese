@@ -57,7 +57,7 @@
 #{152}{}{[Mutters something in another language]}
 {152}{}{[用另一种语言喃喃自语]}
 #{153}{}{We clear clouds... See? They gone!}
-{153}{}{我们清除云层。。。看到了吗？他们走了！}
+{153}{}{我们清除云层...看到了吗？他们走了！}
 #{154}{}{Ha-ha-ha-ha!}
 {154}{}{哈哈哈！}
 #{155}{}{Run to bush!}
@@ -67,11 +67,11 @@
 #{157}{}{You can talk with me, Gekek. Your chief said it's okay. You've been to the raiders' base, right? Can you bring me there?}
 {157}{}{你可以和我谈谈，盖克。你的头儿说没事的。你去过袭击者的基地，对吗？你能带我去吗？}
 #{158}{}{[Gekek's eyes go wide] Me... You... Hmm! Why you need raider?}
-{158}{}{我。。。你。。。隐马尔可夫模型！你为什么需要袭击者？}
+{158}{}{我...你...隐马尔可夫模型！你为什么需要袭击者？}
 #{159}{}{Because I can solve your problem with them, Gekek. Will you show me their base?}
 {159}{}{因为我能解决你和他们的问题，盖克。你能给我看看他们的基地吗？}
 #{160}{}{Hmm... Yes. Me show, when you ready. But no is late - Gekek have many duty!}
-{160}{}{隐马尔可夫模型。。。对。你准备好了就给我表演。但不是迟到-格克有很多责任！}
+{160}{}{Hmm...对。你准备好了就给我表演。但不是迟到-格克有很多责任！}
 #{161}{}{I'm ready. Take me there, oh feathered warrior!}
 {161}{}{我准备好了。带我去那里，哦，羽毛战士！}
 #{162}{}{Lay down your wings, Hawk, I'm not ready yet.}
@@ -79,7 +79,7 @@
 #{163}{}{Oof! Good we escape. Very bad when raider see. Oooh!}
 {163}{}{噢！很好，我们逃走了。当掠夺者看到的时候非常糟糕。哦哦！}
 #{164}{}{Tell me about their locations... Err... Where is everybody?}
-{164}{}{告诉我他们的位置。。。呃。。。大家都在哪？}
+{164}{}{告诉我他们的位置...呃...大家都在哪？}
 #{165}{}{Tell me about the ruins. Is there anything interesting around here?}
 {165}{}{告诉我废墟的情况。这附近有什么有趣的事吗？}
 #{166}{}{Tell me about the raiders.}
@@ -93,9 +93,9 @@
 #{170}{}{Fine. I'll go scout the area.}
 {170}{}{好的。我去侦察这个地区。}
 #{171}{}{Old village. Sand, dirt, garbage. Niskigvan and Avanigizhig search Datura-grass here. But be careful in bushes! Big danger! Hmm... Behind house is water tank, like Cheyenne's. And can go into house from behind. This is all.}
-{171}{}{老村庄。沙子，泥土，垃圾。Niskigvan和Avanigizhig在这里寻找曼陀罗草。但在灌木丛里要小心！大危险！隐马尔可夫模型。。。房子后面是水箱，像夏延的，可以从后面进房子。就这些。}
+{171}{}{老村庄。沙子，泥土，垃圾。Niskigvan和Avanigizhig在这里寻找曼陀罗草。但在灌木丛里要小心！大危险！Hmm...房子后面是水箱，像夏延的，可以从后面进房子。就这些。}
 #{172}{}{A water tank? Maybe the raiders drink from it...}
-{172}{}{水箱？也许袭击者喝了。。。}
+{172}{}{水箱？也许袭击者喝了...}
 #{173}{}{[He scowls] Raider bad. Raider evil! Raider stupid. Love fight, but bad guard! [he shakes his head] Big stupid. Most raiders sit in house. Three watch outside. Raiders make fire water, drink fire water. No good! Drink fire water, head hurt. Want sleep. [his lip curls in distaste] Stupid.}
 {173}{}{[他怒目而视]袭击者坏了。邪恶的袭击者！愚蠢的袭击者。爱打架，但防守不好！[他摇摇头]大傻瓜。大多数袭击者坐在房子里。三个人在外面看。袭击者制造火水，喝火水。无益！喝火水，头部受伤。我想睡觉。[厌恶地卷起嘴唇]愚蠢。}
 #{174}{}{Boss big. MUCH big. Wear hat and is black and evil, like Devourer. Stay alone. Boss sits on house top.}
@@ -103,7 +103,7 @@
 #{175}{}{Datura-grass?}
 {175}{}{曼陀罗草？}
 #{176}{}{Yes! Datura-grass... [he strains to think of the right word] ...Xander root and broc flower. To shaman, Datura-grass smoke pipe, to healer, Datura-grass medicine! Look bushes. Find Datura-grass, bring Niskigvan. Make happy! But you no mix grass, is danger.}
-{176}{}{对！曼陀罗草。。。[他紧张地想正确的词]…仙人掌和椰子花。给萨满，曼陀罗草烟管，给治疗师，曼陀罗草药！看灌木丛。找到曼陀罗草，带上尼斯基文。开心点！但你不混草，就是危险。}
+{176}{}{对！曼陀罗草...[他紧张地想正确的词]…仙人掌和椰子花。给萨满，曼陀罗草烟管，给治疗师，曼陀罗草药！看灌木丛。找到曼陀罗草，带上尼斯基文。开心点！但你不混草，就是危险。}
 #{177}{}{I see bad raiders' pain. Me so happy! So happy!}
 {177}{}{我看到了恶霸的痛苦。我太高兴了！太高兴了！}
 #{178}{}{Your oppressors are dead. That's over. Let's get out of here.}
@@ -133,11 +133,11 @@
 #{190}{}{Why me trust you?!}
 {190}{}{为什么我相信你？！}
 #{191}{}{Because I'm your tribe's only hope... And because you're still alive. Isn't that enough?}
-{191}{}{因为我是你们部落唯一的希望。。。因为你还活着。这还不够吗？}
+{191}{}{因为我是你们部落唯一的希望...因为你还活着。这还不够吗？}
 #{192}{}{I don't know. You figure it out.}
 {192}{}{我不知道。你自己想办法。}
 #{193}{}{[He narrows his eyes, then slowly nods and slyly nods] Yes... You smart. Cunning! Me believe.}
-{193}{}{[他眯起眼睛，然后慢慢点头，狡猾地点头]是的。。。你真聪明。狡猾！让我相信。}
+{193}{}{[他眯起眼睛，然后慢慢点头，狡猾地点头]是的...你真聪明。狡猾！让我相信。}
 #{194}{}{That's good. Trust me. Bye.}
 {194}{}{那很好。相信我。再见。}
 #{200}{}{All raiders alive and well.}

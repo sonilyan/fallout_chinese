@@ -21,7 +21,7 @@
 #{110}{}{You make a good case. Alright, I'm in. Tell Thompson to send someone to hash out the details.}
 {110}{}{你的理由很充分。好吧，我加入了。告诉汤普森派个人把细节搞清楚。}
 #{111}{}{Good. I hope you're not planning on playing both sides...}
-{111}{}{很好。我希望你不打算两边都打。。。}
+{111}{}{很好。我希望你不打算两边都打...}
 #{112}{}{Really?}
 {112}{}{真的？}
 #{113}{}{Just a warning, that's all. I'm leaving.}
@@ -29,7 +29,7 @@
 #{114}{}{You do this, and Mr. Thompson won't forget it. Trust me, he's a much more fearsome enemy than Stryker. One chemist on Stryker's side won't give him the strength to protect you.}
 {114}{}{你这样做，汤普森先生不会忘记的。相信我，他比史崔克更可怕。史崔克那边的一个化学家不会给他力量来保护你。}
 #{115}{}{Uh... Well, Thompson's just way cooler than Stryker, don't you think?}
-{115}{}{休斯敦大学。。。汤普森比史崔克酷多了，你不觉得吗？}
+{115}{}{Uh...汤普森比史崔克酷多了，你不觉得吗？}
 #{116}{}{This is childish. Leave.}
 {116}{}{这太幼稚了。离开。}
 #{117}{}{Well, I warned you.}

@@ -9,7 +9,7 @@
 #{112}{}{With your physique, carrying such weights can result in trauma.}
 {112}{}{就你的体格而言，负重会造成创伤。}
 #{113}{}{Oomph...}
-{113}{}{哦。。。}
+{113}{}{哦...}
 #{114}{}{This will hardly be of use here.}
 {114}{}{这在这里几乎没有用。}
 #{115}{}{Construction finished}

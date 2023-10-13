@@ -15,15 +15,15 @@
 #{113}{}{Outsider will put his weapon away if he wants to speak.}
 {113}{}{如果外人想说话，他会把武器收起来的。}
 #{115}{}{And so appears the man whose greed is more important than the peace of our dead...}
-{115}{}{所以这个人的贪婪比我们死者的安宁更重要。。。}
+{115}{}{所以这个人的贪婪比我们死者的安宁更重要...}
 #{116}{}{What are you talking about?}
 {116}{}{你在说什么？}
 #{117}{}{Someone disturbed our graves. It wasn't animals and it wasn't raiders. It's obvious to us both, but let our opinions stay with us. It can't be undone now, can it?}
 {117}{}{有人扰乱了我们的坟墓。不是动物也不是袭击者。这对我们双方来说都很明显，但还是让我们的意见留在我们身边吧。现在不能撤消了，是吗？}
 #{118}{}{Er... Okay, I guess. But I wanted to talk to you.}
-{118}{}{呃。。。好吧，我想。但我想和你谈谈。}
+{118}{}{呃...好吧，我想。但我想和你谈谈。}
 #{119}{}{Oh... Uh, I'll go fill in the graves, then.}
-{119}{}{哦。。。呃，那我就去扫墓。}
+{119}{}{哦...呃，那我就去扫墓。}
 #{120}{}{Greetings, outsider. What guided your path to our village?}
 {120}{}{你好，局外人。是什么指引你去我们村的？}
 #{121}{}{Can I ask you about this area?}
@@ -57,15 +57,15 @@
 #{136}{}{That's all.}
 {136}{}{这就是全部。}
 #{140}{}{Our tribe is growing crops and herding brahmin. It's the only things that the Heavenly Mother left to us. But even the last of what we have are now being taken from us by the parasites - those you'd call "raiders". Sometimes I wonder if we have angered the Ruler of Life, to bring such dark times to our people...}
-{140}{}{我们部落种植庄稼，放牧婆罗门。这是天母留给我们的唯一东西。但是，即使是我们现在所拥有的最后一部分，也被寄生虫夺走了——你称之为“掠夺者”。有时我想知道我们是否激怒了生活的统治者，给我们的人民带来了如此黑暗的时代。。。}
+{140}{}{我们部落种植庄稼，放牧双头牛。这是天母留给我们的唯一东西。但是，即使是我们现在所拥有的最后一部分，也被寄生虫夺走了——你称之为“掠夺者”。有时我想知道我们是否激怒了生活的统治者，给我们的人民带来了如此黑暗的时代...}
 #{141}{}{Our village is unwelcoming, but wanderers may always find food and rest here... For payment, of course. Also, the healer Niskigvan, with the help of Heavenly Mother, can heal wounds and pull poison from your body.}
-{141}{}{我们的村庄不受欢迎，但流浪者可能总能在这里找到食物和休息。。。当然是为了付款。同时，治疗者尼斯基文，在天母的帮助下，可以治愈你的伤口，并从你身上拔出毒药。}
+{141}{}{我们的村庄不受欢迎，但流浪者可能总能在这里找到食物和休息...当然是为了付款。同时，治疗者尼斯基文，在天母的帮助下，可以治愈你的伤口，并从你身上拔出毒药。}
 #{142}{}{Children of the World Devourer. Their dark lair lays to the north. Don't go there unless you have a reason to, for not all who go there return.}
 {142}{}{世界之子吞噬者。他们黑暗的巢穴位于北方。除非你有理由，否则不要去那里，因为不是所有去那里的人都会回来。}
 #{143}{}{The valley, the mountains, and our tribe - that is what wanderers will find here. But do not approach the World Devourer's children in their nest to the north.}
 {143}{}{山谷，山脉，还有我们的部落——这就是流浪者在这里会发现的。但不要接近世界吞食者的孩子们在他们的巢北。}
 #{144}{}{Few choose to live close to the Devourer's children. The brave ones had left this place many moons ago, now it is many days long to go to the nearest camp. Reno, Gerlach, and Poseidon Oil are all that eye of Cheyenne saw... Well, besides the legends.}
-{144}{}{很少有人选择住在吞食者的孩子附近。勇敢的人已经离开这个地方很多个月了，现在要去最近的营地需要很多天。雷诺，杰拉克，波塞冬石油都是夏延人的眼睛看到的。。。嗯，除了传说。}
+{144}{}{很少有人选择住在吞食者的孩子附近。勇敢的人已经离开这个地方很多个月了，现在要去最近的营地需要很多天。雷诺，杰拉克，波塞冬石油都是夏延人的眼睛看到的...嗯，除了传说。}
 #{145}{}{I have another question.}
 {145}{}{我还有一个问题。}
 #{146}{}{That's enough.}
@@ -87,17 +87,17 @@
 #{157}{}{A city of the dead to the north. We call it Gecko due to the fierce animals that live there with their large packs, but "NPP Poseidon Oil" is what's written on the largest building. Be careful if you go there - the hunters that first explored it were poisoned by spirits they could not see. Niskigvan the Ruffled Feathers fought two whole moons to save their lives!}
 {157}{}{北方的一座死人之城。我们称之为壁虎是因为那里有很多凶猛的动物，它们带着庞大的背包生活在那里，但是最大的建筑上写着“海神石油核电站”。如果你去那里，一定要小心——最先探索它的猎人被看不见的幽灵毒死了。Niskigvan皱巴巴的羽毛奋战了两个满月来拯救他们的生命！}
 #{158}{}{Well... Our shepherd, who went far to the north, claims that there is a wondrous city in the mountains made of white stone and eternal light, protected by warriors in green armor who never rest. But he is the only one who saw it, and many think he is... Unreliable.}
-{158}{}{好。。。我们的牧人远赴北方，声称山中有一座神奇的城市，由白色的石头和永恒的光构成，由身穿绿色盔甲的战士保护着，他们从不休息。但他是唯一一个看到它的人，很多人认为他是。。。不可靠的。}
+{158}{}{好...我们的牧人远赴北方，声称山中有一座神奇的城市，由白色的石头和永恒的光构成，由身穿绿色盔甲的战士保护着，他们从不休息。但他是唯一一个看到它的人，很多人认为他是...不可靠的。}
 #{200}{}{Niskigvan does everything he can, but I'm afraid it is hopeless. Makkon the Little Bear is doomed to be crippled forever... If he even survives.}
-{200}{}{尼斯基文竭尽所能，但恐怕没有希望了。小熊Makkon注定会永远残废。。。如果他能活下来。}
+{200}{}{尼斯基文竭尽所能，但恐怕没有希望了。小熊Makkon注定会永远残废...如果他能活下来。}
 #{201}{}{Leave it. Niskigvan fights to save him, but I'm afraid it is hopeless. Makkon the Little Bear is doomed to be crippled forever... If he even survives.}
-{201}{}{别管了。尼斯基文奋力救他，但恐怕已经没有希望了。小熊Makkon注定会永远残废。。。如果他能活下来。}
+{201}{}{别管了。尼斯基文奋力救他，但恐怕已经没有希望了。小熊Makkon注定会永远残废...如果他能活下来。}
 #{202}{}{I'm a doctor, I can fix this. Makkon will be dancing and chasing girls before you know it!}
 {202}{}{我是医生，我能治好这个。Makkon会在你意识到之前跳舞追女孩！}
 #{203}{}{Let's talk about something more pleasant.}
 {203}{}{让我们谈谈更愉快的事。}
 #{204}{}{Never mind, then...}
-{204}{}{没关系，那么。。。}
+{204}{}{没关系，那么...}
 #{205}{}{You? [he shakes his head] Your hands and eyes speak the truth that your words do not. Don't fool yourself, outsider. You are no healer.}
 {205}{}{你呢？[他摇头]你的手和眼睛说出了你的话所没有的真理。别自欺欺人，局外人。你不是治疗者。}
 #{206}{}{Hmm. Niskigvan will not trust an outsider's medicine easily. How the outsider is going to heal the child?}
@@ -115,11 +115,11 @@
 #{212}{}{Chems?! By the name of the Heavenly Mother, I forbid you from even touching this boy! This poison is only fit for the World Devourer's children!}
 {212}{}{化学？！以天母之名，我禁止你碰这个孩子！这种毒药只适合世界吞噬者的孩子们！}
 #{213}{}{Let me explain...}
-{213}{}{让我解释一下。。。}
+{213}{}{让我解释一下...}
 #{214}{}{There will be no discussion! Poisoning yourself with chems is like giving away your soul to the Devourer, while still being alive.}
 {214}{}{不会讨论的！用化学药品毒害自己，就像把你的灵魂交给吞食者，而你还活着。}
 #{215}{}{What does that even have to do with... Oh, forget it.}
-{215}{}{这跟。。。哦，算了吧。}
+{215}{}{这跟...哦，算了吧。}
 #{216}{}{No! Our tribe has suffered from this pre-war poison before. By the will of Heavenly Mother, we will never allow to sicken our boy with it.}
 {216}{}{不！我们的部落以前就遭受过这种战前毒药的折磨。根据天母的旨意，我们决不允许用它使我们的孩子生病。}
 #{217}{}{Fine, we can find another way.}
@@ -137,7 +137,7 @@
 #{223}{}{Your herbal medicine is too slow. Makkon's condition will progress to gangrene soon. If we don't start proper treatment right now, then Niskigvan will have to amputate the boy's legs, or worse!}
 {223}{}{你的草药太慢了。Makkon的病情很快就会发展成坏疽。如果我们现在不开始适当的治疗，那么尼斯基文将不得不截肢男孩的腿，或者更糟！}
 #{224}{}{Hm, I hope Niskigvan will understand you better than old chief... But what treatment outsider is offering?}
-{224}{}{嗯，我希望尼斯基文会比老大更了解你。。。但局外人提供了什么样的待遇呢？}
+{224}{}{嗯，我希望尼斯基文会比老大更了解你...但局外人提供了什么样的待遇呢？}
 #{225}{}{Clean out the pus, bleed out the injury, reduce the inflammation, and then set the bones.}
 {225}{}{清脓、放血、消炎、固骨。}
 #{226}{}{You're going to cut him while he's still alive?!}
@@ -153,13 +153,13 @@
 #{231}{}{Unacceptable! By the name of the Heavenly Mother, I forbid you from even touching this boy! This treatment is only fit for the World Devourer's children!}
 {231}{}{不可接受！以天母之名，我禁止你碰这个孩子！这种治疗方法只适合世界吞噬者的孩子！}
 #{232}{}{Let me explain...}
-{232}{}{让我解释一下。。。}
+{232}{}{让我解释一下...}
 #{233}{}{Gods, to even think of it is sickening! But... Perhaps you're right. Niskigvan has struggled for three moons already, and it has only prolonged the boy's suffering. Your ways may be necessary. But... I... Tell me, how many bones have you mended in your life, outsider?}
-{233}{}{诸神啊，想想都恶心！但是。。。也许你是对的。尼斯基文已经挣扎了三个月，这只会延长男孩的痛苦。你的方式可能是必要的。但是。。。一、 。。。告诉我，外人，你这辈子补了多少骨头？}
+{233}{}{诸神啊，想想都恶心！但是...也许你是对的。尼斯基文已经挣扎了三个月，这只会延长男孩的痛苦。你的方式可能是必要的。但是...一、 ...告诉我，外人，你这辈子补了多少骨头？}
 #{234}{}{[Make assuring gesture] Enough.}
 {234}{}{够了。}
 #{235}{}{Gods, to even think of it is sickening! Bleed him out?! What are you saying!!! Oh Heavenly Mother...}
-{235}{}{诸神啊，想想都恶心！给他放血？！你在说什么！！！哦，天母。。。}
+{235}{}{诸神啊，想想都恶心！给他放血？！你在说什么！！！哦，天母...}
 #{236}{}{I'm not sound convincing enough? Well, maybe you'll change your mind later.}
 {236}{}{我听起来不够有说服力？好吧，也许你以后会改变主意。}
 #{237}{}{This answer soothes me. I give you my permission. But if something happens to the boy, then the Cheyenne's hate will go down upon you! Our gods will exact their punishment, and the path to our lands will be closed to you forever! As for now, go to Niskigvan, and may the Heavenly Mother guide your hands!}
@@ -267,7 +267,7 @@
 #{319}{}{I'm going.}
 {319}{}{我要走了。}
 #{320}{}{About those killer plants...}
-{320}{}{关于那些致命的植物。。。}
+{320}{}{关于那些致命的植物...}
 #{321}{}{Yes, outsider?}
 {321}{}{是的，外人？}
 #{322}{}{Where are they, again?}
@@ -333,7 +333,7 @@
 #{362}{}{Well, no repairs then.}
 {362}{}{好吧，那就不修了。}
 #{363}{}{[He nods] We accept. Our cook will treat you as our own... But only after the work is complete.}
-{363}{}{我们接受。我们的厨师会把你当成我们自己的。。。但只有在工作完成之后。}
+{363}{}{我们接受。我们的厨师会把你当成我们自己的...但只有在工作完成之后。}
 #{364}{}{I'll do it.}
 {364}{}{我会的。}
 #{365}{}{Actually, I changed my mind. No deal.}
@@ -385,7 +385,7 @@
 #{388}{}{Uh, yeah. You too.}
 {388}{}{嗯，是的。你也是。}
 #{400}{}{Radio... What? I know nothing of this.}
-{400}{}{收音机。。。什么？我对此一无所知。}
+{400}{}{收音机...什么？我对此一无所知。}
 #{401}{}{We have nothing to hide from the one who saved us from the Devourer's children. I will show you our place of worship.}
 {401}{}{在那救我们脱离吞食者儿女的人面前，我们没有什么可隐瞒的。我会带你去我们的礼拜场所。}
 #{402}{}{Let's go.}
@@ -439,7 +439,7 @@
 #{519}{}{[He narrows his eyes thoughtfully] What are you thinking of, outsider?}
 {519}{}{[他若有所思地眯起眼睛]你在想什么，局外人？}
 #{520}{}{They have just one source of water. If we poison it...}
-{520}{}{他们只有一个水源。如果我们毒死它。。。}
+{520}{}{他们只有一个水源。如果我们毒死它...}
 #{521}{}{Not yet, but if you bring me to their camp, I'm sure I can think of something.}
 {521}{}{还没有，但如果你带我去他们的营地，我肯定能想到点什么。}
 #{522}{}{No, not yet.}
@@ -469,7 +469,7 @@
 #{534}{}{The gang's leader is dead.}
 {534}{}{黑帮头目死了。}
 #{535}{}{Oh, sorry. I wanted to tell you something else...}
-{535}{}{哦，对不起。我想告诉你另外一件事。。。}
+{535}{}{哦，对不起。我想告诉你另外一件事...}
 #{536}{}{Not right now. I'll talk to you later.}
 {536}{}{现在不行。我待会儿再跟你谈。}
 #{540}{}{More children of the Devourer will come. We will break the cycle before it begins again. These lands have fed the Cheyenne for many years, but now it is time to leave them.}
@@ -477,7 +477,7 @@
 #{541}{}{You're leaving? Why didn't you just do that before?}
 {541}{}{你要走了？你以前为什么不这么做？}
 #{542}{}{We have children, eldery, brahmin, and everything we must carry. We would have been noticed. But now, no one will stop us.}
-{542}{}{我们有孩子，长辈，婆罗门，还有我们必须携带的一切。我们会被注意到的。但是现在，没有人会阻止我们。}
+{542}{}{我们有孩子，长辈，双头牛，还有我们必须携带的一切。我们会被注意到的。但是现在，没有人会阻止我们。}
 #{543}{}{Where will you go now?}
 {543}{}{你现在要去哪里？}
 #{544}{}{West, to where the sun drowns in a sea of tears. Our ancestors spoke of it.}
@@ -537,7 +537,7 @@
 #{571}{}{Not bad.}
 {571}{}{不错。}
 #{1115}{}{And so appears the woman, whose greed is more important, than the peace of our dead...}
-{1115}{}{于是这个女人出现了，她的贪婪比我们死者的安宁更重要。。。}
+{1115}{}{于是这个女人出现了，她的贪婪比我们死者的安宁更重要...}
 #{1118}{}{Er...okay, I guess. But I wanted to talk to you.}
 {1118}{}{呃…好吧，我想。但我想和你谈谈。}
 #{1120}{}{Greetings, outsider. What guides your path to our village?}

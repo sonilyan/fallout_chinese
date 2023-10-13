@@ -16,7 +16,7 @@
 {108}{}{这种光源工作得无懈可击。}
 #{109}{}{This source of light works irregularly. It can be repaired though.}
 {109}{}{这种光源工作不规则。不过可以修好。}
-#{110}{}{This source of light doesn�t work anymore.}
+#{110}{}{This source of light doesn??t work anymore.}
 {110}{}{这个光源不再工作了。}
 #{111}{}{It cannot be repaired.}
 {111}{}{无法修复。}

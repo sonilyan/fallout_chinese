@@ -7,19 +7,19 @@
 #{108}{}{Woah, there! Don't mind the rabble, you're safe here. How about you take a sandwich on the house, and we put this all behind us, huh?}
 {108}{}{哇，好了！别介意那些乌合之众，你在这里很安全。不如你在家里吃个三明治，我们把这些都抛在脑后，好吗？}
 #{109}{}{What the... Are you serious? [you hear laughing behind you] Hey, knock that off back there! Look, friend: If I have something you need, and you have something I need, then maybe we can work out a trade that's good for both of us. That's called bartering. Get it?}
-{109}{}{怎么了。。。你是认真的吗？[你听到身后的笑声]嘿，别说了！听着，朋友：如果我有你需要的东西，你也有我需要的东西，那么也许我们可以达成一个对我们双方都有利的交易。那叫物物交换。了解了？}
+{109}{}{怎么了...你是认真的吗？[你听到身后的笑声]嘿，别说了！听着，朋友：如果我有你需要的东西，你也有我需要的东西，那么也许我们可以达成一个对我们双方都有利的交易。那叫物物交换。了解了？}
 #{110}{}{Hey there, friend! It's been too long since we had a new face around here. You here to barter? Don't be shy! I'm always happy to help out travelers, so long as they don't make trouble.}
 {110}{}{嘿，朋友！我们已经很久没有新面孔了。你是来易货的？别害羞！我总是乐于帮助旅行者，只要他们不惹麻烦。}
 #{111}{}{Barter? What's that?}
 {111}{}{以货换货？那是什么？}
 #{112}{}{Really? Well... Trading. If I have something you need, and you have something I need, then maybe we can work out a trade that's good for both of us. That's bartering. Get it?}
-{112}{}{真正地？好。。。交易。如果我有你需要的东西，你也有我需要的东西，那么也许我们可以达成一个对我们双方都有利的交易。那是物物交换。了解了？}
+{112}{}{真正地？好...交易。如果我有你需要的东西，你也有我需要的东西，那么也许我们可以达成一个对我们双方都有利的交易。那是物物交换。了解了？}
 #{113}{}{Makes sense. Let's trade.}
 {113}{}{有道理。我们交易吧。}
 #{114}{}{Not yet. I want to ask you about this place.}
 {114}{}{还没有。我想问你关于这个地方的事。}
 #{115}{}{Yeah, selection ain't great, I know. I'll have more next time... Er, I hope.}
-{115}{}{是啊，我知道选择不太好。下次我会有更多的。。。呃，我希望。}
+{115}{}{是啊，我知道选择不太好。下次我会有更多的...呃，我希望。}
 #{116}{}{Well, hey, friend! I'm happy to see ya!}
 {116}{}{嘿，朋友！很高兴见到你！}
 #{117}{}{Let's talk.}
@@ -77,13 +77,13 @@
 #{143}{}{Do you have any *serious* work for me here?}
 {143}{}{你这儿有我的工作吗？}
 #{144}{}{Hey, it's all serious! But if you want something big, a caravan merchant told me that "Nevada Express" needs an investigator, though it was a while ago. You can find them in Reno. Work around here is a little more laid back... But at least you'll have friendly coworkers!}
-{144}{}{嘿，都是认真的！但是如果你想要大的东西，一个商队商人告诉我“内华达快车”需要一个调查员，尽管那是很久以前的事了。你可以在雷诺找到它们。这里的工作比较轻松。。。但至少你会有友好的同事！}
+{144}{}{嘿，都是认真的！但是如果你想要大的东西，一个商队商人告诉我“内华达快车”需要一个调查员，尽管那是很久以前的事了。你可以在雷诺找到它们。这里的工作比较轻松...但至少你会有友好的同事！}
 #{145}{}{Who's that quiet guy in the leather jacket?}
 {145}{}{那个穿皮夹克的安静的家伙是谁？}
 #{146}{}{Don't know. Came up with a caravan a while back, hardly says a word except to buy food and drink. I figure he'll move on soon.}
 {146}{}{不知道。前段时间我开了一辆大篷车，除了买食物和饮料，几乎什么也没说。我想他很快就会离开。}
 #{147}{}{That'd be me and Justin! I take care of the food, and Justin keeps the water and electricity running. Justin's, uh... A lot less welcomin' than I am, but we can always find a common ground when it's for the good of the community.}
-{147}{}{那就是我和贾斯汀！我负责食物，贾斯汀负责水和电的供应。贾斯汀，呃。。。比我受的欢迎少了很多，但我们总能找到一个共同点，那是为了社区的利益。}
+{147}{}{那就是我和贾斯汀！我负责食物，贾斯汀负责水和电的供应。贾斯汀，呃...比我受的欢迎少了很多，但我们总能找到一个共同点，那是为了社区的利益。}
 #{148}{}{What are you talking about then?}
 {148}{}{那你在说什么？}
 #{149}{}{Whatever you say.}
@@ -109,7 +109,7 @@
 #{159}{}{Do you have any idea where he went?}
 {159}{}{你知道他去哪儿了吗？}
 #{160}{}{Good question. Hmm... I've heard of bikers zooming around Nevada and California on their bikes, living free by their own philosophy and making their own fate. So - that's not about these ones. The ones that roll in here are pretty much just a gang, consisting from not-so-bad guys, who doesn't give two shits about anything, except themselves. Does that answer your question?}
-{160}{}{问得好。隐马尔可夫模型。。。我听说过骑自行车的人骑着自行车在内华达州和加利福尼亚州转悠，按照自己的理念自由生活，创造自己的命运。所以-那不是关于这些。在这里打滚的人基本上只是一个帮派，由不太坏的家伙组成，除了他们自己，他们什么都不在乎。这回答了你的问题吗？}
+{160}{}{问得好。Hmm...我听说过骑自行车的人骑着自行车在内华达州和加利福尼亚州转悠，按照自己的理念自由生活，创造自己的命运。所以-那不是关于这些。在这里打滚的人基本上只是一个帮派，由不太坏的家伙组成，除了他们自己，他们什么都不在乎。这回答了你的问题吗？}
 #{161}{}{Beats me! If they do, they don't tell just anyone. I know they usually come from the east and south, but there's a helluva lot of space to hide a base in the Great Nevada circle.}
 {161}{}{打败我了！如果他们这样做了，他们不会告诉任何人。我知道他们通常来自东部和南部，但是在大内华达圈有很大的空间来隐藏基地。}
 #{162}{}{Great Nevada circle?}
@@ -137,7 +137,7 @@
 #{173}{}{Thanks for your help.}
 {173}{}{谢谢你的帮助。}
 #{180}{}{I have gecko's balls... I mean, eggs.}
-{180}{}{我有壁虎的蛋蛋。。。我是说，鸡蛋。}
+{180}{}{我有壁虎的蛋蛋...我是说，鸡蛋。}
 #{181}{}{Hey, great! I'll give you fifty bucks a pop for 'em!}
 {181}{}{嘿，太好了！我给你五十块一瓶！}
 #{182}{}{Why are you buying them?}
@@ -147,7 +147,7 @@
 #{184}{}{I'll think about it.}
 {184}{}{我会考虑的。}
 #{185}{}{Well, I hope you think fast... }
-{185}{}{好吧，我希望你快点想。。。}
+{185}{}{好吧，我希望你快点想...}
 #{186}{}{Because caravan merchants from Reno will buy them for more. They pay top dollar for 'em, because they're hard to get. So i'm buying and reselling. Luckily, they are easy to preserve for long-term.}
 {186}{}{因为里诺的商队商人会以更高的价格购买它们。他们花高价买的，因为很难买到。所以我买了又卖。幸运的是，它们很容易长期保存。}
 #{187}{}{Fair deal! Thanks.}
@@ -155,7 +155,7 @@
 #{188}{}{Hey, didn't your mother ever tell you it's mean to play tricks on people?}
 {188}{}{嘿，你妈妈没告诉过你捉弄人是卑鄙的吗？}
 #{189}{}{I don't remember that... }
-{189}{}{我不记得了。。。}
+{189}{}{我不记得了...}
 #{190}{}{}
 {190}{}{}
 #{191}{}{There ain't much to tell. Black Rock was some sort of huge junkyard before the war. At least, we figured it was a junkyard. It was all full of these weird metal shapes and structures. They looked like they were made by a junkie.}
@@ -167,7 +167,7 @@
 #{194}{}{[More]}
 {194}{}{[更多]}
 #{195}{}{So we came here, scrapped those strange structures and built our homes. More people came, with brahmin and tents. That's how we became a stop for travelers and caravan merchants.}
-{195}{}{所以我们来到这里，拆除那些奇怪的建筑，建造我们的家园。更多的人来了，带着婆罗门和帐篷。这就是为什么我们成为旅行者和商队商人的一站。}
+{195}{}{所以我们来到这里，拆除那些奇怪的建筑，建造我们的家园。更多的人来了，带着双头牛和帐篷。这就是为什么我们成为旅行者和商队商人的一站。}
 #{196}{}{Thanks.}
 {196}{}{谢谢。}
 #{197}{}{Don't mention it!}
@@ -175,7 +175,7 @@
 #{198}{}{Sounds more like it was a collection of sculptures than a junkyard, don't you think?}
 {198}{}{听起来更像是一堆雕塑而不是垃圾场，你不觉得吗？}
 #{199}{}{You mean, like an art expo? Hmm... You know, you just might be right!}
-{199}{}{你是说，像艺术博览会？隐马尔可夫模型。。。你知道，你可能是对的！}
+{199}{}{你是说，像艺术博览会？Hmm...你知道，你可能是对的！}
 #{200}{}{It seems like things don't go well around here. Can I help you with anything?}
 {200}{}{好像这里的情况不太好。有什么需要我帮忙的吗？}
 #{201}{}{[He raises an eyebrow] Well, I don't know what you have in mind, but if you want to help, I'd love if you could do something for poor Jasmine.}
@@ -205,7 +205,7 @@
 #{213}{}{I'm happy to hear that! Just don't say anything to Justin. He hates Jasmine.}
 {213}{}{听到这个我很高兴！别跟贾斯汀说什么。他讨厌茉莉花。}
 #{220}{}{About Jasmine... }
-{220}{}{关于茉莉花。。。}
+{220}{}{关于茉莉花...}
 #{221}{}{Yeah?}
 {221}{}{是 啊？}
 #{222}{}{She's dead.}
@@ -231,13 +231,13 @@
 #{232}{}{Fine.}
 {232}{}{好的。}
 #{233}{}{William, I'm sorry, but this cost me a lot more than that... }
-{233}{}{威廉，我很抱歉，但这比那花了我很多钱。。。}
+{233}{}{威廉，我很抱歉，但这比那花了我很多钱...}
 #{234}{}{I'm sorry too, but I'm not rich. I gave you everything I could.}
 {234}{}{我也很抱歉，但我并不富有。我给了你我能给的一切。}
 #{235}{}{Fine.}
 {235}{}{好的。}
 #{236}{}{Oh... That's awkward. Hmm... I think I can spare another fifty bucks. Don't worry, I can make that back. But I can't give you more, sorry.}
-{236}{}{哦。。。太尴尬了。隐马尔可夫模型。。。我想我可以再省50块钱。别担心，我会回来的。但我不能给你更多，对不起。}
+{236}{}{哦...太尴尬了。Hmm...我想我可以再省50块钱。别担心，我会回来的。但我不能给你更多，对不起。}
 #{237}{}{Thank you.}
 {237}{}{非常感谢。}
 #{238}{}{You earned 50 experience points for a successful use of trading skill.}
@@ -245,7 +245,7 @@
 #{239}{}{She left.}
 {239}{}{她走了。}
 #{240}{}{Without even saying goodbye? Hmm... I guess that's not a surprise, with the way everyone here treated her. Gravedigger Bob's the only one that had soft spot for her. Well, what's done is done.}
-{240}{}{甚至不说再见？隐马尔可夫模型。。。我想这并不奇怪，这里的每个人都这样对待她。掘墓人鲍勃是唯一对她有好感的人。好吧，做了就做了。}
+{240}{}{甚至不说再见？Hmm...我想这并不奇怪，这里的每个人都这样对待她。掘墓人鲍勃是唯一对她有好感的人。好吧，做了就做了。}
 #{250}{}{Is there anything else I can do to help out?}
 {250}{}{还有什么我能帮忙的吗？}
 #{251}{}{Yeah, actually. We could use a fresh point of view on something.}
@@ -259,7 +259,7 @@
 #{255}{}{No thanks. Fugitive slaves aren't my thing.}
 {255}{}{不用了，谢谢。我不喜欢逃亡奴隶。}
 #{256}{}{About those fugitive slaves... }
-{256}{}{关于那些逃亡的奴隶。。。}
+{256}{}{关于那些逃亡的奴隶...}
 #{257}{}{What do you think?}
 {257}{}{你怎么认为？}
 #{258}{}{They'll work for almost nothing, besides food and a roof over their heads. They'll be very useful to Black Rock.}
@@ -270,14 +270,14 @@
 {260}{}{}
 #{261}{}{I sent them away. They would have brought slavers here.}
 {261}{}{我把他们打发走了。他们会把奴隶贩子带到这里来。}
-#{262}{}{I�m still working on it.}
+#{262}{}{I??m still working on it.}
 {262}{}{我还在努力。}
 #{263}{}{That's just what I wanted to hear! And it's not about cheap labor either - we're all equal here. It's about safety - and if you're telling me they're trustworthy and won't bring slavers, then I'm more than happy.}
 {263}{}{这正是我想听的！这也不是廉价劳动力的问题——我们在这里都是平等的。这关系到安全——如果你告诉我他们是值得信赖的，不会带奴隶贩子来，那我就非常高兴了。}
 #{264}{}{Good.}
 {264}{}{很好。}
 #{265}{}{Dead?! Goddamn... You didn't do it, did you? No, don't tell me. I don't want to know. [he sighs] Well, at least Justin will be happy... }
-{265}{}{死了？！他妈的。。。不是你干的，是吗？不，别告诉我。我不想知道。好吧，至少贾斯汀会高兴的。。。}
+{265}{}{死了？！他妈的...不是你干的，是吗？不，别告诉我。我不想知道。好吧，至少贾斯汀会高兴的...}
 #{266}{}{Haven't I earned anything for my trouble?}
 {266}{}{我没有为我的麻烦赚点什么吗？}
 #{267}{}{}
@@ -301,13 +301,13 @@
 #{276}{}{Yeah, no. Sorry, but I didn't ask for anyone to turn up dead! What will people think about what we do with visitors? I suppose, Justin would be glad to hear it from you though.}
 {276}{}{是的，没有。对不起，我没有要求任何人死！人们会怎么看待我们如何对待来访者？我想，贾斯汀会很高兴听到你这么说的。}
 #{277}{}{Geez... }
-{277}{}{天啊。。。}
+{277}{}{天啊...}
 #{278}{}{Thanks for doing such a good job. Take a sandwich and a beer - you must be hungry after all that running around.}
 {278}{}{谢谢你做得这么好。吃个三明治，喝杯啤酒——跑了这么久，你一定饿了。}
 #{300}{}{Is there anything else I can do?}
 {300}{}{还有什么我能做的吗？}
 #{301}{}{About that missing brahmin... }
-{301}{}{关于那个失踪的婆罗门。。。}
+{301}{}{关于那个失踪的双头牛...}
 #{302}{}{}
 {302}{}{}
 #{303}{}{I won't lie - that business with the slaves didn't do much for your reputation. But I think I've got something for you.}
@@ -317,13 +317,13 @@
 #{305}{}{What is it?}
 {305}{}{这是怎么一回事？}
 #{306}{}{So here's the deal: my boy watches the brahmin at night, but a few days ago I woke up to see we're missing one. Justin says it's my son's fault, but I don't think so. I need someone to get to the bottom of this.}
-{306}{}{这么说吧：我儿子晚上看婆罗门，但几天前我醒来发现我们少了一个。贾斯汀说这是我儿子的错，但我不这么认为。我需要有人来查清真相。}
+{306}{}{这么说吧：我儿子晚上看双头牛，但几天前我醒来发现我们少了一个。贾斯汀说这是我儿子的错，但我不这么认为。我需要有人来查清真相。}
 #{307}{}{I think I can handle that.}
 {307}{}{我想我能应付。}
 #{308}{}{Sorry, pal, but I have other problems right now.}
 {308}{}{抱歉，伙计，我现在还有其他问题。}
 #{309}{}{Great! I'll make it worth your while, believe me! The brahmin pen's right out behind the eatery. My son's out there now.}
-{309}{}{太好了！相信我，我会让你觉得值得的！婆罗门笔就在餐厅后面。我儿子现在在外面。}
+{309}{}{太好了！相信我，我会让你觉得值得的！双头牛笔就在餐厅后面。我儿子现在在外面。}
 #{310}{}{Just wait, I will go talk to him.}
 {310}{}{等等，我去和他谈谈。}
 #{311}{}{Any news?}
@@ -333,7 +333,7 @@
 #{313}{}{Does anyone in Black Rock use shotgun shells filled with rusty nails?}
 {313}{}{在黑岩有人用装满生锈钉子的霰弹枪吗？}
 #{314}{}{Hmm, that's a good question... It's hard to get ammunition out here, so we usually save it for special occasions. If anyone's making ammo, Justin would know. He has all the town's tools and machinery.}
-{314}{}{嗯，这是个好问题。。。这里很难弄到弹药，所以我们通常把它留到特殊场合。如果有人在制造弹药，贾斯汀会知道的。他拥有镇上所有的工具和机器。}
+{314}{}{嗯，这是个好问题...这里很难弄到弹药，所以我们通常把它留到特殊场合。如果有人在制造弹药，贾斯汀会知道的。他拥有镇上所有的工具和机器。}
 #{315}{}{That's all the information I needed.}
 {315}{}{这就是我需要的全部信息。}
 #{316}{}{I found the thief.}
@@ -351,11 +351,11 @@
 #{322}{}{He's dangerous. Just his presence attracts raiders. We have to get rid of him.}
 {322}{}{他很危险。他的出现吸引了袭击者。我们必须除掉他。}
 #{323}{}{You mean I should forgive him? After what he's done? [he puts a hand on his chin and frowns] Well... He was forced to do it. And this gang, the Molerats - they don't fuck around. No, he's as much a victim as I am. Yes... I forgive him, he can stay with us. And about brahmin - I think he'll make up for it in time.}
-{323}{}{你是说我应该原谅他？在他做了什么之后？[他把手放在下巴上皱眉头]嗯。。。他被迫这么做。而这帮人，那些猥亵的人-他们不会到处乱搞。不，他和我一样是受害者。对。。。我原谅他，他可以和我们在一起。关于婆罗门-我想他会及时弥补的。}
+{323}{}{你是说我应该原谅他？在他做了什么之后？[他把手放在下巴上皱眉头]嗯...他被迫这么做。而这帮人，那些猥亵的人-他们不会到处乱搞。不，他和我一样是受害者。对...我原谅他，他可以和我们在一起。关于双头牛-我想他会及时弥补的。}
 #{324}{}{Good. I'll go tell him the good news.}
 {324}{}{很好。我去告诉他这个好消息。}
 #{325}{}{Yes... Yes, you're right. Maybe he left the gang, but it hasn't left him. I don't like it, but... We have to make him leave.}
-{325}{}{对。。。是的，你说得对。也许他离开了那帮人，但那帮人没有离开他。我不喜欢，但是。。。我们必须让他离开。}
+{325}{}{对...是的，你说得对。也许他离开了那帮人，但那帮人没有离开他。我不喜欢，但是...我们必须让他离开。}
 #{326}{}{Remember, this was your decision. I'll go tell him now.}
 {326}{}{记住，这是你的决定。我现在就去告诉他。}
 #{327}{}{Wait! I promised you a reward. Take some money and a sandwich and beer on the house. Thanks for your hard work, friend.}
@@ -365,7 +365,7 @@
 #{350}{}{Any more work?}
 {350}{}{还有工作吗？}
 #{351}{}{About that courier... }
-{351}{}{关于那个信使。。。}
+{351}{}{关于那个信使...}
 #{352}{}{You're a machine, ain'tcha? Okay, one more thing. It's a little more complicated than the last ones, but after Bolt and the slaves I'm pretty sure you can handle it.}
 {352}{}{你是个机器，不是吗？好吧，还有一件事。这比上一次要复杂一点，但在博尔特和奴隶们之后，我很肯定你能应付。}
 #{353}{}{Don't worry. I can do it.}
@@ -389,7 +389,7 @@
 #{362}{}{Tell me more about this courier.}
 {362}{}{告诉我更多关于这个信使的事。}
 #{363}{}{He goes by Milo. He lives in Gerlach, but he makes deliveries here. Not a lot to say about him - quiet, professional... That's about it. Pretty much what a courier should be.}
-{363}{}{他叫米洛。他住在格拉赫，但他在这里送货。关于他没什么好说的-安静，专业。。。就这样。差不多是个信使。}
+{363}{}{他叫米洛。他住在格拉赫，但他在这里送货。关于他没什么好说的-安静，专业...就这样。差不多是个信使。}
 #{364}{}{What was he delivering?}
 {364}{}{他在送什么？}
 #{365}{}{Gecko skins from Evan. Before you ask - yes, we got our own hunters, but Evan is a real master. His skins are better than anyone else's in these parts.}
@@ -405,9 +405,9 @@
 #{370}{}{Okay, I'll go look for him.}
 {370}{}{好吧，我去找他。}
 #{371}{}{Still can't find an elephant in the desert? ...sorry, bad joke.}
-{371}{}{在沙漠里还是找不到大象。。。抱歉，这个坏笑话。}
+{371}{}{在沙漠里还是找不到大象...抱歉，这个坏笑话。}
 #{372}{}{I found the courier... Or what's left of him.}
-{372}{}{我找到了信使。。。或者他剩下什么。}
+{372}{}{我找到了信使...或者他剩下什么。}
 #{373}{}{He's dead? Damn, poor Milo. What happened?}
 {373}{}{他死了？该死，可怜的麦洛。怎么搞的？}
 #{374}{}{The hit to the head with shovel, that's what happened. He was murdered by Eugene and the Molerats gang.}
@@ -433,9 +433,9 @@
 #{384}{}{Oh my god! I had no idea! Look, we can't waste any more time, let's go talk to Justin and Eugene right now.}
 {384}{}{哦，我的上帝！我不知道！听着，我们不能再浪费时间了，我们现在就去和贾斯汀和尤金谈谈。}
 #{385}{}{If you're sure... }
-{385}{}{如果你确定。。。}
+{385}{}{如果你确定...}
 #{386}{}{[After a huge scandal you and William return to the bar] That fucking family, I swear! One of these days... Look, forget about them for now. We've got a caravan from Reno on the way and Eugene's gang is planning to ambush it. We've got to stop them, but we can't do it by ourselves. We've only got one hope... }
-{386}{}{[在一个巨大的丑闻之后你和威廉回到酒吧]那个该死的家庭，我发誓！总有一天。。。听着，暂时忘掉他们。我们有一辆来自里诺的大篷车在路上，尤金的帮派正计划伏击它。我们必须阻止他们，但我们自己做不到。我们只有一个希望。。。}
+{386}{}{[在一个巨大的丑闻之后你和威廉回到酒吧]那个该死的家庭，我发誓！总有一天...听着，暂时忘掉他们。我们有一辆来自里诺的大篷车在路上，尤金的帮派正计划伏击它。我们必须阻止他们，但我们自己做不到。我们只有一个希望...}
 #{387}{}{We're going to save the caravan?}
 {387}{}{我们要救大篷车？}
 #{388}{}{I managed to get Eugene's radio. Take it. If you can get the right frequency, you can overhear talks of these scumbags about their plans, and warn the caravan. It doesn't have a long range, so you'll have to be fast and careful.}
@@ -461,7 +461,7 @@
 #{398}{}{You're not even asking for a reward? That's noble! Look, from now on, I'm giving you a 20% discount on my trading goods. You're welcome here any time, remember that!}
 {398}{}{你不是在要求报酬吗？太高尚了！看，从现在起，我的交易商品给你打八折。随时欢迎你来，记住！}
 #{399}{}{You know, you could give me something more for my troubles... }
-{399}{}{你知道，你可以给我更多的东西来解决我的麻烦。。。}
+{399}{}{你知道，你可以给我更多的东西来解决我的麻烦...}
 #{400}{}{Thanks for the discount. I wish you the best!}
 {400}{}{谢谢你的折扣。祝你一切顺利！}
 #{401}{}{Without Evan's skins, I don't have much. I can give you two hundred bucks and a 20% discount in my eatery. Keep me in mind if you're ever in the area!}
@@ -470,7 +470,7 @@
 {402}{}{如果你把那把旧手枪给我呢？}
 #{403}{}{I need money. Give me everything you can.}
 {403}{}{我需要钱。尽你所能给我。}
-#{404}{}{Keep the money, I don�t need it.}
+#{404}{}{Keep the money, I don??t need it.}
 {404}{}{把钱留着，我不需要。}
 #{405}{}{You already bought it, remember? Or do you think I have two? Well, sorry, but I don't.}
 {405}{}{你已经买了，记得吗？或者你认为我有两个？嗯，对不起，但我不知道。}
@@ -493,13 +493,13 @@
 #{414}{}{I don't care, this is your problem.}
 {414}{}{我不管，这是你的问题。}
 #{415}{}{Yeah... Yeah. But we tried, right?}
-{415}{}{是 啊。。。是 啊。但我们试过了，对吧？}
+{415}{}{是 啊...是 啊。但我们试过了，对吧？}
 #{416}{}{Right. I came for business.}
 {416}{}{正确的。我是来办事的。}
 #{417}{}{Whatever. I have to go.}
 {417}{}{无论什么。我得走了。}
 #{420}{}{Oh, yeah... Here's a hundred bucks for finding Milo. I'm sorry it's not much, but without Evan's skins I don't have much to spare.}
-{420}{}{哦，是的。。。给你一百块钱找米洛。很抱歉，这不多，但没有埃文的皮我就没有多少多余的了。}
+{420}{}{哦，是的...给你一百块钱找米洛。很抱歉，这不多，但没有埃文的皮我就没有多少多余的了。}
 #{421}{}{Fine.}
 {421}{}{好的。}
 #{500}{}{News? Let me think.}
@@ -507,15 +507,15 @@
 #{501}{}{Well, what's new?}
 {501}{}{有什么新鲜事吗？}
 #{502}{}{Let's see, what else is new... }
-{502}{}{让我们看看，还有什么新的。。。}
+{502}{}{让我们看看，还有什么新的...}
 #{503}{}{A traveler told me something yesterday... }
-{503}{}{一个旅行者昨天告诉我。。。}
+{503}{}{一个旅行者昨天告诉我...}
 #{504}{}{I've got news from the wasteland! Who wants to hear?}
 {504}{}{我从荒地得到消息了！谁想听？}
 #{505}{}{The scariest thing in the desert is sandstorms.}
 {505}{}{沙漠里最可怕的是沙尘暴。}
 #{506}{}{We need some better booze up in here... }
-{506}{}{我们这里需要更好的酒。。。}
+{506}{}{我们这里需要更好的酒...}
 #{507}{}{That iguana-hunting wanderer's been missing for a while. We should look for him around town.}
 {507}{}{那个猎捕鬣蜥的流浪者失踪了一段时间。我们应该在城里到处找他。}
 #{510}{}{Finally, someone's brought the Molerats to justice!}
@@ -555,7 +555,7 @@
 #{530}{}{Anyone heading to our neighbors to the west?}
 {530}{}{有人去我们西边的邻居家吗？}
 #{531}{}{Gerlach... It's sad to hear that our neighbors are no more.}
-{531}{}{杰拉克。。。听说我们的邻居都不在了，真难过。}
+{531}{}{杰拉克...听说我们的邻居都不在了，真难过。}
 #{532}{}{Gerlach's gone real quiet. There's something shady going on, if you ask me.}
 {532}{}{杰拉克变得很安静。如果你问我的话，有什么可疑的事情发生了。}
 #{533}{}{Gerlach's practically abandoned. Everyone went somewhere else, but no one knows where.}
@@ -589,13 +589,13 @@
 #{570}{}{Did anyone catch Mike's fight? It must have been a hell of a show!}
 {570}{}{有人看到迈克打架了吗？那一定是一场精彩的演出！}
 #{571}{}{Bob says someone's been digging up the graves. I'm worried about him... }
-{571}{}{鲍勃说有人在挖坟墓。我很担心他。。。}
+{571}{}{鲍勃说有人在挖坟墓。我很担心他...}
 #{572}{}{Fugitive slaves? Well, what about them? They're people too! Just give them a chance!}
 {572}{}{逃亡奴隶？那他们呢？他们也是人！给他们一个机会！}
 #{573}{}{Fugitive slaves? Well, there is not much to talk about now.}
 {573}{}{逃亡奴隶？现在没什么好谈的了。}
 #{574}{}{Yeah, that brahmin situation was awkward.}
-{574}{}{是啊，婆罗门的处境很尴尬。}
+{574}{}{是啊，双头牛的处境很尴尬。}
 #{1116}{}{Well, hey, friend! I'm happy to see ya!}
 {1116}{}{嘿，朋友！很高兴见到你！}
 #{1261}{}{I sent them away. They would have brought slavers here.}

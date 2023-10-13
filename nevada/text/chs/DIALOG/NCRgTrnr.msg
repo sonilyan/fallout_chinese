@@ -29,9 +29,9 @@
 #{118}{}{Chummer, your skills are brighter than the El Dorado lights! I don't have much to teach you. But, we could work a little, if you make it worth my while.}
 {118}{}{楚默，你的技能比埃尔多拉多之光还要亮！我没什么可以教你的。但是，如果你让我觉得值得的话，我们可以做一点。}
 #{119}{}{I don't need it, anyway...}
-{119}{}{不管怎样，我不需要它。。。}
+{119}{}{不管怎样，我不需要它...}
 #{120}{}{Err... Cash, sir!}
-{120}{}{呃。。。现金，先生！}
+{120}{}{呃...现金，先生！}
 #{121}{}{That's right! I take 1000 bucks per session. No questions!}
 {121}{}{这是正确的！我每节课收1000美元。没有问题！}
 #{122}{}{Sure thing. Here's the money. When do we begin?}

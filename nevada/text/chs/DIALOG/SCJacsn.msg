@@ -19,7 +19,7 @@
 #{109}{}{::farts so hard the tables are shaking::}
 {109}{}{●放屁太猛桌子都在抖：}
 #{110}{}{My ass is gonna explode... }
-{110}{}{我的屁股要爆炸了。。。}
+{110}{}{我的屁股要爆炸了...}
 #{111}{}{Fuck it, I don't need to wash my hands.}
 {111}{}{操，我不需要洗手。}
 #{112}{}{Damn, that was one for the books.}
@@ -31,7 +31,7 @@
 #{115}{}{Time to put the dick away and get cooking.}
 {115}{}{是时候把鸡巴收起来做饭了。}
 #{116}{}{Gonna go spit in the soup... }
-{116}{}{去往汤里吐口水。。。}
+{116}{}{去往汤里吐口水...}
 #{117}{}{Heh, who drew all this on the wall here? It's pretty good. For being drawn in shit.}
 {117}{}{嘿，谁把这些画在墙上的？相当不错。因为被卷入了大便。}
 #{118}{}{Phew, it's gonna be a while before that clears out.}
@@ -49,15 +49,15 @@
 #{124}{}{I'm busy here!}
 {124}{}{我在这里很忙！}
 #{125}{}{Don't piss yourself, I'm almost done... }
-{125}{}{别尿了，我快尿完了。。。}
+{125}{}{别尿了，我快尿完了...}
 #{126}{}{::farts so loud that others turn their heads away::}
 {126}{}{●放屁的声音太大，别人都把头转过去了：}
 #{127}{}{Feels! So! Good!}
 {127}{}{感觉！所以！很好！}
 #{128}{}{Wait, here it comes... Hhnnnrrgg!!!}
-{128}{}{等等，它来了。。。Hhnnnrrgg！！！}
+{128}{}{等等，它来了...Hhnnnrrgg！！！}
 #{129}{}{Here I stand, broken-hearted... }
-{129}{}{我站在这里，心碎了。。。}
+{129}{}{我站在这里，心碎了...}
 #{130}{}{Hey, look who it is! The circus left a clown behind. What's up?}
 {130}{}{嘿，看看是谁！马戏团留下了一个小丑。怎么了？}
 #{131}{}{How's life, Jackson?}
@@ -105,9 +105,9 @@
 #{152}{}{Make ten.}
 {152}{}{做十个。}
 #{153}{}{I don't have enough money... }
-{153}{}{我没有足够的钱。。。}
+{153}{}{我没有足够的钱...}
 #{154}{}{I don't have the ingredients... }
-{154}{}{我没有配料。。。}
+{154}{}{我没有配料...}
 #{155}{}{Here it is. Show me your magic.}
 {155}{}{给你。给我看看你的魔法。}
 #{156}{}{I need something else.}
@@ -121,7 +121,7 @@
 #{162}{}{Why the hell do you care? I live, I breathe. That means it's all good.}
 {162}{}{你为什么在乎？我活着，我呼吸。这意味着一切都很好。}
 #{163}{}{It's... [he waves a hand dismissively] ...Complicated. I need the right stuff and I don't have it all here.}
-{163}{}{这是。。。[他轻蔑地挥手]…复杂。我需要合适的东西，但我这里没有。}
+{163}{}{这是...[他轻蔑地挥手]…复杂。我需要合适的东西，但我这里没有。}
 #{164}{}{}
 {164}{}{}
 #{165}{}{I don't have enough here for that. Ask around Reno, you'll find plenty.}
@@ -147,7 +147,7 @@
 #{213}{}{I don't have the same reputation in Reno as your "guys".}
 {213}{}{我在里诺的名声和你们的“伙计们”不一样。}
 #{214}{}{Hmm... I didn't think of that. Fine, listen up. He hung around the center of town and dealt with us in the El Dorado basement. Here's the list of shit we got from him. Last deal, he gave us poison instead.}
-{214}{}{隐马尔可夫模型。。。我没想到。好吧，听着。他在市中心闲逛，在埃尔多拉多地下室和我们打交道。这是我们从他那里得到的垃圾清单。最后一笔交易，他给了我们毒药。}
+{214}{}{Hmm...我没想到。好吧，听着。他在市中心闲逛，在埃尔多拉多地下室和我们打交道。这是我们从他那里得到的垃圾清单。最后一笔交易，他给了我们毒药。}
 #{215}{}{What basement?}
 {215}{}{什么地下室？}
 #{216}{}{The basement under the El Dorado casino. That's where they've got the fight ring. We usually make deals in crowds like that to keep everyone honest, but I guess it didn't work. Fucking guy.}
@@ -167,7 +167,7 @@
 #{223}{}{Could you teach me how to make chems?}
 {223}{}{你能教我怎么做化学制品吗？}
 #{224}{}{For you, friend, any time... For 500 bucks.}
-{224}{}{为了你，朋友，任何时候。。。500美元。}
+{224}{}{为了你，朋友，任何时候...500美元。}
 #{225}{}{500 bucks?! You'd better be one hell of a teacher. [pay him]}
 {225}{}{500块？！你最好当个好老师。[付钱给他]}
 #{226}{}{500 bucks?! I don't have that kind of money!}
@@ -177,7 +177,7 @@
 #{228}{}{Anything you want, partner. No charge.}
 {228}{}{你想要什么都行，伙计。不收费。}
 #{229}{}{That's what I like to hear! Go on, tell me your secrets... }
-{229}{}{这就是我喜欢听的！继续，告诉我你的秘密。。。}
+{229}{}{这就是我喜欢听的！继续，告诉我你的秘密...}
 #{230}{}{Not right now. I'll come back later.}
 {230}{}{现在不行。我一会儿回来。}
 #{235}{}{Fine, forget it.}
@@ -195,7 +195,7 @@
 #{241}{}{It's bad. People are traveling in groups now, and everyone's got a gun. Raiding's getting tough. I've really got to work to keep a place in the gang. If it weren't for those fucking Indians, we'd really be in trouble.}
 {241}{}{很糟糕。现在人们成群结队地旅行，每个人都有枪。突袭越来越难了。我真的得工作才能在帮派中占有一席之地。如果不是那些该死的印第安人，我们真的会有麻烦。}
 #{242}{}{Our brahmin. Any time we need food or girls, we head down south and help ourselves. But Big Louie has some other deal going on with them. He says we can't take too much or they'll starve or whatever, and then we get anything from them. So, we try not to get too greedy.}
-{242}{}{我们的婆罗门。任何时候我们需要食物或女孩，我们就去南方自助。但是大路易和他们还有别的事。他说我们不能吃太多，否则他们会饿死，然后我们从他们那里得到任何东西。所以，我们尽量不要太贪心。}
+{242}{}{我们的双头牛。任何时候我们需要食物或女孩，我们就去南方自助。但是大路易和他们还有别的事。他说我们不能吃太多，否则他们会饿死，然后我们从他们那里得到任何东西。所以，我们尽量不要太贪心。}
 #{243}{}{Quit pushing me, motherfucker!}
 {243}{}{别逼我了，混蛋！}
 #{244}{}{Push me and I'll piss on you! I'm fucking serious.}
@@ -223,7 +223,7 @@
 #{255}{}{Yeah, I got one. For 50 bucks I'll tell it to you.}
 {255}{}{是的，我有一个。50块钱我就告诉你。}
 #{256}{}{Uh-huh... [he sniffs the paper and crumples the edge of the dollar to see if it's fake] We found some dipshit in the wastes and brought him here to have fun in the ring. We locked him in the basement, but he somehow broke the lock, took some dynamite out of the storage and got out through the tunnels, while we were running around looking for him. Our lookout eventually saw him in the north ruins and shot him a couple of times. We've never found the body, though, so if you happen to come across it, everything he's got on him is yours.}
-{256}{}{啊哈。。。[他嗅了嗅纸，揉了揉美元的边缘，看看是不是假的]我们在垃圾堆里发现了一些垃圾，把他带到这里来，在拳击场上玩。我们把他锁在地下室，但他不知怎的打破了锁，从仓库里拿出一些炸药，穿过隧道出来，而我们正在四处寻找他。我们的了望员最终在北方的废墟上看到了他，并朝他开了几枪。不过，我们还没找到尸体，所以如果你碰巧发现，他身上的所有东西都是你的。}
+{256}{}{啊哈...[他嗅了嗅纸，揉了揉美元的边缘，看看是不是假的]我们在垃圾堆里发现了一些垃圾，把他带到这里来，在拳击场上玩。我们把他锁在地下室，但他不知怎的打破了锁，从仓库里拿出一些炸药，穿过隧道出来，而我们正在四处寻找他。我们的了望员最终在北方的废墟上看到了他，并朝他开了几枪。不过，我们还没找到尸体，所以如果你碰巧发现，他身上的所有东西都是你的。}
 #{257}{}{Fine, we'll see.}
 {257}{}{好吧，我们拭目以待。}
 #{260}{}{What do you know about Balder?}
@@ -239,7 +239,7 @@
 #{1170}{}{This is good stuff! Just, uh, don't mix it up with your stimpaks. [he gives you a syringe of very strong poison]}
 {1170}{}{这是好东西！只是，呃，别和你的史汀帕克混在一起。[他给了你一管很强的毒药]}
 #{1224}{}{For you, friend, any time... For 500 bucks.}
-{1224}{}{为了你，朋友，任何时候。。。500美元。}
+{1224}{}{为了你，朋友，任何时候...500美元。}
 #{1240}{}{What, the boss giving you the silent treatment? It's bad out there. People are traveling in groups now, and everyone's got a gun. Raiding's getting tough. I've really got to work to keep a place in the gang. If it weren't for those fucking Indians, we'd really be in trouble.}
 {1240}{}{什么，老板给你沉默的待遇？外面很糟糕。现在人们成群结队地旅行，每个人都有枪。突袭越来越难了。我真的得工作才能在帮派中占有一席之地。如果不是那些该死的印第安人，我们真的会有麻烦。}
 #{1241}{}{It's bad. People are traveling in groups now, and everyone's got a gun. Raiding's getting tough. I've really got to work to keep a place in the gang. If it weren't for those fucking Indians, we'd really be in trouble.}

@@ -5,7 +5,7 @@
 #{102}{}{H-help me! P-please! Don't leave me here!}
 {102}{}{救救我！求你了！别把我留在这里！}
 #{103}{}{I'm all w-wounded... Won't last long... Do you have a stimpak or something to fix my bad condition?}
-{103}{}{我都受伤了。。。不会持续太久。。。你有什么东西可以治好我的病吗？}
+{103}{}{我都受伤了...不会持续太久...你有什么东西可以治好我的病吗？}
 #{104}{}{Thanks, friend! I'll return to the city and tell everyone about the one who saved me.}
 {104}{}{谢谢，朋友！我要回到城里，把救我的人的事告诉大家。}
 #{105}{}{How did you end up here?}

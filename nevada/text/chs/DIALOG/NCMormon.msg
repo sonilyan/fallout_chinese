@@ -13,7 +13,7 @@
 #{114}{}{No-no. I do not insist. If you don't want to talk, we can peacefully go our separate ways. But your opinion is of value to me, as the ones of folks living around here.}
 {114}{}{不，不，我不坚持。如果你不想谈，我们可以和平地分道扬镳。但是你的意见对我来说很有价值，作为住在这附近的人。}
 #{115}{}{But I'm not from around here...}
-{115}{}{但我不是本地人。。。}
+{115}{}{但我不是本地人...}
 #{116}{}{Well, okay. Go, ask your questions.}
 {116}{}{好吧，好吧。去问你的问题。}
 #{117}{}{I don't want you asking something of me.}
@@ -61,7 +61,7 @@
 #{139}{}{I don't know. I could only answer that in the moment.}
 {139}{}{我不知道。我现在只能回答这个问题。}
 #{140}{}{What do you want most in this life? Wealth, glory, family... Or, maybe, to save the world?}
-{140}{}{你这辈子最想要什么？财富，荣誉，家庭。。。或者，也许，为了拯救世界？}
+{140}{}{你这辈子最想要什么？财富，荣誉，家庭...或者，也许，为了拯救世界？}
 #{141}{}{My first priority is always to survive. Everything else comes after that.}
 {141}{}{我的首要任务永远是生存。其他的都在那之后。}
 #{142}{}{I want to save everyone I can.}
@@ -69,7 +69,7 @@
 #{143}{}{I don't need to make up some higher goals for my life.}
 {143}{}{我不需要为我的人生设定更高的目标。}
 #{144}{}{Can I have all of the above? No? Then, I suppose, I'll get... Something jazzy. And some popcorn to go with it.}
-{144}{}{我能把上面所有的都给你吗？不？那么，我想，我会。。。一些爵士音乐。还有一些爆米花。}
+{144}{}{我能把上面所有的都给你吗？不？那么，我想，我会...一些爵士音乐。还有一些爆米花。}
 #{145}{}{The choice is tough.}
 {145}{}{选择是艰难的。}
 #{146}{}{In your opinion, what's the worst of all human vices?}
@@ -99,7 +99,7 @@
 #{160}{}{[He nods approvingly] You know the price of things. You know the path you walk. But not everything in this world has a number. Be ready for a puzzle that cannot be solved.}
 {160}{}{[他赞许地点头]你知道东西的价格。你知道你走的路。但并不是所有的东西都有数字。为无法解决的难题做好准备。}
 #{161}{}{[He nods approvingly] You've devoted your life to your fellow man. Many of them won't do you the same courtesy. Some day it might kill you... Or save you.}
-{161}{}{[他赞许地点头]你把你的生命献给了你的同胞。他们中的许多人不会对你有同样的礼貌。总有一天它会杀了你。。。或者救你。}
+{161}{}{[他赞许地点头]你把你的生命献给了你的同胞。他们中的许多人不会对你有同样的礼貌。总有一天它会杀了你...或者救你。}
 #{162}{}{[He nods approvingly] You know your worth. And when the right time comes, you'll make the world earn it.}
 {162}{}{[他赞许地点头]你知道你的价值。当合适的时候，你会让全世界都知道的。}
 #{163}{}{[He nods approvingly] You believe in tomorrow. And it will come, with us or without us.}
@@ -115,7 +115,7 @@
 #{171}{}{Sure. My name is Patrick, I'm from Salt Lake City - a big city far to the east. Our Mormon community has sent me here to preach the word of God. It's been hard, but I'm not going to give up.}
 {171}{}{当然。我叫帕特里克，我来自盐湖城——一个远离东方的大城市。我们的摩门教派我来这里宣讲上帝的道。这很难，但我不会放弃。}
 #{172}{}{I've seen that type of jumpsuit before. Are you from a vault?}
-{172}{}{我以前见过那种连身衣。你是金库的吗？}
+{172}{}{我以前见过那种连身衣。你是避难所的吗？}
 #{173}{}{}
 {173}{}{}
 #{174}{}{Why would your community send you to such a dangerous city?}
@@ -135,7 +135,7 @@
 #{181}{}{Right. But I have to go.}
 {181}{}{正确的。但我得走了。}
 #{182}{}{No, no, I was born after our people left the shelter. There is a vault on city's outskirts, but no one has been there in years. This jumpsuit is a... Keepsake from my grandfather. He served the vault, but when the bombs came, he refused to hide away from God's world. He said he wouldn't, or couldn't, bear the gray walls and enclosed space without a single ray of God's light. That's all I know about him - he was dead long before I was born.}
-{182}{}{不，不，我是在我们的人离开庇护所后出生的。市郊有一个金库，但已经好几年没人去过了。这件连身衣是。。。我祖父的信物。他为金库服务，但当炸弹到来时，他拒绝躲开上帝的世界。他说如果没有上帝的一缕光，他不会，也不能，忍受灰色的墙壁和封闭的空间。我只知道他-他早在我出生前就死了。}
+{182}{}{不，不，我是在我们的人离开庇护所后出生的。市郊有一个避难所，但已经好几年没人去过了。这件连身衣是...我祖父的信物。他为避难所服务，但当炸弹到来时，他拒绝躲开上帝的世界。他说如果没有上帝的一缕光，他不会，也不能，忍受灰色的墙壁和封闭的空间。我只知道他-他早在我出生前就死了。}
 #{183}{}{}
 {183}{}{}
 #{184}{}{This is our tradition. Every one of us must spend two years preaching the gospel of God. I could have chosen another path or denied it entirely, but I didn't. The people here need salvation as much as anyone else.}
@@ -159,7 +159,7 @@
 #{202}{}{Is Harding in your group?}
 {202}{}{哈丁在你们组吗？}
 #{203}{}{I... See. I suppose if you know, there's no point in denying it. But I won't say another word about it. Rule number one is: what happens in the group, stays in the group. This is a sensitive matter. If we violate each other's trust, many of our members will be left with nothing.}
-{203}{}{一、 。。。看。我想如果你知道的话，否认是没有意义的。但我不会再说一个字了。第一条规则是：小组里发生的事，留在小组里。这是个敏感问题。如果我们违反了彼此的信任，我们的许多成员将一无所有。}
+{203}{}{一、 ...看。我想如果你知道的话，否认是没有意义的。但我不会再说一个字了。第一条规则是：小组里发生的事，留在小组里。这是个敏感问题。如果我们违反了彼此的信任，我们的许多成员将一无所有。}
 #{204}{}{Perhaps we can talk about something else?}
 {204}{}{也许我们可以谈点别的？}
 #{205}{}{Tell me about these group meetings. What are you trying to do?}
@@ -169,13 +169,13 @@
 #{207}{}{Let me guess - group psychotherapy, right? You sit around in circle and start brainwashing each other.}
 {207}{}{让我猜猜-集体心理治疗，对吧？你们围成一圈，开始互相洗脑。}
 #{208}{}{That's... Not far from the truth. I'm surprised! How do you... I suppose I should be happy to have a colleague in front of me. Medical knowledge is hard to find in this city. Where did you learn this?}
-{208}{}{那是。。。离真相不远。我很惊讶！你怎么。。。我想我应该很高兴有一个同事在我面前。医学知识在这个城市很难找到。你从哪里学来的？}
+{208}{}{那是...离真相不远。我很惊讶！你怎么...我想我应该很高兴有一个同事在我面前。医学知识在这个城市很难找到。你从哪里学来的？}
 #{209}{}{Life experience, Patrick. Life experience.}
 {209}{}{人生经历，帕特里克。生活经历。}
 #{210}{}{Amazing! May God bless you. Your gift can do great things in the wasteland!}
 {210}{}{太神了！愿上帝保佑你。你的天赋可以在荒地里做大事！}
 #{211}{}{Maybe. But about your support group...}
-{211}{}{也许 吧。但是关于你的支持小组。。。}
+{211}{}{也许 吧。但是关于你的支持小组...}
 #{212}{}{Of course. I'm always ready to share experience with my colleague.}
 {212}{}{当然。我随时准备与同事分享经验。}
 #{213}{}{How many people come to this support group?}
@@ -199,7 +199,7 @@
 #{222}{}{How has Harding survived with this condition?}
 {222}{}{哈丁是如何在这种情况下幸存下来的？}
 #{223}{}{He thinks he's the lowest of society, so he takes the lowest jobs - watching brahmin, cleaning toilets, that sort of thing. Any community, even Reno, needs people to do these things.}
-{223}{}{他认为自己是社会最底层的人，所以他从事最底层的工作——看婆罗门，打扫厕所，诸如此类的事情。任何社区，甚至雷诺，都需要人们来做这些事情。}
+{223}{}{他认为自己是社会最底层的人，所以他从事最底层的工作——看双头牛，打扫厕所，诸如此类的事情。任何社区，甚至雷诺，都需要人们来做这些事情。}
 #{224}{}{I don't agree with your choice of Harding's treatment.}
 {224}{}{我不同意你选择哈丁的治疗方法。}
 #{225}{}{What do you mean?}
@@ -223,7 +223,7 @@
 #{234}{}{I'll see what I can do.}
 {234}{}{我看看我能做什么。}
 #{235}{}{I'm not an expert, so I'll trust in your knowledge and the will of God. If Harding is going to conquer his fears, he'll have to overcome his sexual trauma... I don't like the idea, but maybe the sex workers in Reno can help you.}
-{235}{}{我不是专家，所以我相信你的知识和上帝的意志。如果哈丁要克服他的恐惧，他必须克服他的性创伤。。。我不喜欢这个主意，但也许雷诺的性工作者能帮你。}
+{235}{}{我不是专家，所以我相信你的知识和上帝的意志。如果哈丁要克服他的恐惧，他必须克服他的性创伤...我不喜欢这个主意，但也许雷诺的性工作者能帮你。}
 #{236}{}{I don't agree. I don't know why.}
 {236}{}{我不同意。我不知道为什么。}
 #{237}{}{It's useful to follow your instincts sometimes, but we can't take risks in this case. Don't forget, we're talking about the well-being of another man's soul.}
@@ -273,7 +273,7 @@
 #{260}{}{I can help, but medication costs money.}
 {260}{}{我可以帮忙，但药物要花钱。}
 #{261}{}{Ah, I'm sorry. I thought you were offering charity, not paid services. Let's see... I only have 100 dollars. Will that be enough?}
-{261}{}{啊，对不起。我以为你提供的是慈善，不是有偿服务。让我们看看。。。我只有100美元。够了吗？}
+{261}{}{啊，对不起。我以为你提供的是慈善，不是有偿服务。让我们看看...我只有100美元。够了吗？}
 #{262}{}{I'll deal with the patient and get back to you.}
 {262}{}{我会处理好病人，然后给你回电。}
 #{263}{}{That's very good! I hope for the best.}
@@ -307,11 +307,11 @@
 #{281}{}{[Next]}
 {281}{}{[下一步]}
 #{282}{}{I figure the supplies are gone. I don't blame the people in the slums for that; given their circumstances, I can only hope they got to someone in need. But the message... It's important to me. Please, try to find it.}
-{282}{}{我想补给品不见了。我不怪贫民窟里的人；考虑到他们的情况，我只能希望他们能找到需要帮助的人。但是信息。。。这对我很重要。求你了，试着找到它。}
+{282}{}{我想补给品不见了。我不怪贫民窟里的人；考虑到他们的情况，我只能希望他们能找到需要帮助的人。但是信息...这对我很重要。求你了，试着找到它。}
 #{283}{}{I'll see what I can do.}
 {283}{}{我看看我能做什么。}
 #{284}{}{About your message...}
-{284}{}{关于你的信息。。。}
+{284}{}{关于你的信息...}
 #{285}{}{Did you find it? I really need it.}
 {285}{}{你找到了吗？我真的需要它。}
 #{286}{}{Here you go.}
@@ -357,7 +357,7 @@
 #{306}{}{That's all.}
 {306}{}{这就是全部。}
 #{307}{}{It's a pre-war movie about the greed and vice of humanity. The mail idea is that the sins of the world brought about its destruction... I know it won't mean anything for a lot of people, but if it will allow me to save one soul, it will have been worth it. Mormons have been using it for this purpose since before the war, and missionaries like myself always show it at the end of their mission. No one in Reno has seen it yet, or so I assume.}
-{307}{}{这是一部关于人类贪婪和邪恶的战前电影。邮件的意思是世界的罪恶导致了它的毁灭。。。我知道这对很多人来说毫无意义，但如果它能让我拯救一个灵魂，那就值得了。摩门教徒从战前就开始使用它来达到这个目的，像我这样的传教士总是在任务结束时展示它。里诺还没人见过，或者我猜是这样。}
+{307}{}{这是一部关于人类贪婪和邪恶的战前电影。邮件的意思是世界的罪恶导致了它的毁灭...我知道这对很多人来说毫无意义，但如果它能让我拯救一个灵魂，那就值得了。摩门教徒从战前就开始使用它来达到这个目的，像我这样的传教士总是在任务结束时展示它。里诺还没人见过，或者我猜是这样。}
 #{308}{}{The people in Reno have no awareness of their past and no hope for their future. This movie could give that to them. Besides, most locals have never seen any sort of movie at all before. This may help them understand our faith more and drive them to the path of God.}
 {308}{}{雷诺的人们对自己的过去一无所知，对未来也没有希望。这部电影可以给他们这样的感觉。此外，大多数当地人以前从未看过任何类型的电影。这可以帮助他们更了解我们的信心，并驱使他们走上神的道路。}
 #{309}{}{He owns the slums, and in essence, the people within them. If Wright doesn't approve of the movie, he may shut it down or take even more drastic action. It simply can't happen without his permission.}
@@ -365,11 +365,11 @@
 #{310}{}{Wright gave you permission to show the movie, but he said he won't be responsible for your security.}
 {310}{}{赖特允许你放映这部电影，但他说他不会对你的安全负责。}
 #{311}{}{I see... I understand. I had hoped we would have his protection, but I don't blame him.}
-{311}{}{我懂了。。。我理解。我本希望我们能得到他的保护，但我不怪他。}
+{311}{}{我懂了...我理解。我本希望我们能得到他的保护，但我不怪他。}
 #{312}{}{Would this be dangerous? Why would someone attack a movie showing?}
 {312}{}{这会很危险吗？为什么会有人攻击电影放映？}
 #{313}{}{I'm afraid some people in the city do not approve of my preaching. They could be disruptive... Or perhaps, violent. Listen, I may be asking too much, but... Would you help me?}
-{313}{}{恐怕城里有些人不赞成我的讲道。它们可能是破坏性的。。。或者，暴力。听着，我可能要求太多了，但是。。。你能帮我吗？}
+{313}{}{恐怕城里有些人不赞成我的讲道。它们可能是破坏性的...或者，暴力。听着，我可能要求太多了，但是...你能帮我吗？}
 #{314}{}{I'll get prepared and let you know when I'm ready.}
 {314}{}{我会准备好的，准备好了就告诉你。}
 #{315}{}{You don't have to worry about Wright anymore - he's dead.}
@@ -393,7 +393,7 @@
 #{324}{}{All's well that ends well.}
 {324}{}{结局好就好。}
 #{325}{}{From here, these people must walk the path of God themselves. Again, thank you for everything. I hope you will continue to help the people here... They need it.}
-{325}{}{从这里，这些人必须自己走上帝的路。再次感谢你所做的一切。我希望你能继续帮助这里的人们。。。他们需要它。}
+{325}{}{从这里，这些人必须自己走上帝的路。再次感谢你所做的一切。我希望你能继续帮助这里的人们...他们需要它。}
 #{326}{}{Good luck, Patrick.}
 {326}{}{祝你好运，帕特里克。}
 #{327}{}{Helping the Mormon missionary has improved your karma and your reputation in the slums.}
@@ -405,7 +405,7 @@
 #{332}{}{Then how do you explain the ammo shell on your balcony? It seems to line up with the recent shooting on the street.}
 {332}{}{那你怎么解释阳台上的弹壳？这似乎与最近在街上发生的枪击事件相符。}
 #{333}{}{Oh... I see. Listen, that day a family asked to stay here. They looked like they were from out of town and the husband had a strange-looking briefcase with him. I had no idea they were assassins! Do you think Stryker hired them?}
-{333}{}{哦。。。我懂了。听着，那天一家人要求留在这里。他们看起来像是从外地来的，丈夫随身带着一个奇怪的公文包。我不知道他们是刺客！你觉得史崔克雇了他们吗？}
+{333}{}{哦...我懂了。听着，那天一家人要求留在这里。他们看起来像是从外地来的，丈夫随身带着一个奇怪的公文包。我不知道他们是刺客！你觉得史崔克雇了他们吗？}
 #{334}{}{Hard to say, but your story sounds convincing. And you really don't have a rifle. Thanks for the information.}
 {334}{}{很难说，但你的故事听起来很有说服力。你真的没有来复枪。谢谢你的消息。}
 #{1110}{}{[The young man smiles at you, but you see sadness in his eyes] Welcome, wanderer. My name is Patrick. Can I ask you a few questions?}
@@ -423,7 +423,7 @@
 #{1160}{}{[He nods approvingly] You know the price of things. You know your path. But not everything in this world has a number. Be ready for a puzzle that cannot be solved.}
 {1160}{}{[他赞许地点头]你知道东西的价格。你知道你的路。但并不是所有的东西都有数字。为无法解决的难题做好准备。}
 #{1208}{}{That's... Not far from the truth. I'm surprised! I suppose I should be happy to have a colleague in front of me. Medical knowledge is hard to find in this city. Where did you learn this?}
-{1208}{}{那是。。。离真相不远。我很惊讶！我想我应该很高兴有一个同事在我面前。医学知识在这个城市很难找到。你从哪里学来的？}
+{1208}{}{那是...离真相不远。我很惊讶！我想我应该很高兴有一个同事在我面前。医学知识在这个城市很难找到。你从哪里学来的？}
 #{1210}{}{Amazing! May God bless you. Your gift can do great things in the wasteland!}
 {1210}{}{太神了！愿上帝保佑你。你的天赋可以在荒地里做大事！}
 #{1236}{}{I don't agree. I don't know why.}

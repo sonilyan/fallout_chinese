@@ -15,7 +15,7 @@
 #{116}{}{You find notes on a secret meeting between Stryker and Wind of War. Stryker will trade chems from his lab in exchange for weapons, armor, and ammunition. Exchanges will take place on the second floor of the Silver Legacy hotel. Stryker's men have already booked a room and tightened up security.}
 {116}{}{你可以找到史崔克和战争之风秘密会面的笔记。史崔克将用实验室的化学物质交换武器、盔甲和弹药。交流将在银遗产酒店的二楼进行。史崔克的人已经订了房间，并加强了保安。}
 #{117}{}{This explains a lot...}
-{117}{}{这解释了很多。。。}
+{117}{}{这解释了很多...}
 #{118}{}{[Disable the tracking system and change the password]}
 {118}{}{[禁用跟踪系统并更改密码]}
 #{119}{}{[Done]}

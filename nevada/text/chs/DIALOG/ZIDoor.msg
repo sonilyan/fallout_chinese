@@ -153,7 +153,7 @@
 #{215}{}{Hm. There must be some sort of bunker below. The lock is brand new.}
 {215}{}{嗯。下面一定有什么掩体。这把锁是全新的。}
 #{216}{}{You see a standard Vault door.}
-{216}{}{你会看到一个标准的金库门。}
+{216}{}{你会看到一个标准的避难所门。}
 #{217}{}{You see a hotel room numbered 15.}
 {217}{}{你看到一间15号的旅馆房间。}
 #{218}{}{You see a heavy duty hatch with a tough lock. It probably needs a special key.}

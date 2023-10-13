@@ -39,7 +39,7 @@
 #{301}{}{"Chris Jones. The Nightwing."}
 {301}{}{“克里斯·琼斯。夜莺。”}
 #{302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
-{302}{}{“克里斯托弗·迈克尔·霍兰德，又名‘克里斯·霍兰德’，又名‘克里斯’：有两个半的理由来读这块墓碑。。。通常情况下，您会希望列出这些原因。”}
+{302}{}{“克里斯托弗·迈克尔·霍兰德，又名‘克里斯·霍兰德’，又名‘克里斯’：有两个半的理由来读这块墓碑...通常情况下，您会希望列出这些原因。”}
 #{303}{}{"Colin McComb: Another pointless life"}
 {303}{}{“科林·麦科姆：另一种毫无意义的生活”}
 #{304}{}{"David Hendee: the loudest among the dead. May he rest in peace. Quietly."}
@@ -69,7 +69,7 @@
 #{316}{}{"John Price."}
 {316}{}{“约翰·普莱斯。”}
 #{317}{}{"Leonard Boyarski. Exiled from Vault City."}
-{317}{}{“伦纳德·博亚尔斯基。从金库城流放出去。”}
+{317}{}{“伦纳德·博亚尔斯基。从避难所城流放出去。”}
 #{318}{}{"Rupert Dinkos, died Winter '00."}
 {318}{}{“鲁珀特·丁科斯，死于2000年冬天。”}
 #{319}{}{"Matt Norton. He coulda been someone. He coulda been a contenda, instead of a bum, which is what he was."}
@@ -139,7 +139,7 @@
 #{351}{}{"Shanna SanPaolo"}
 {351}{}{“香娜圣保罗”}
 #{352}{}{"Brahmin Wrangler"}
-{352}{}{“婆罗门牧马人”}
+{352}{}{“双头牛牧马人”}
 #{353}{}{"Josh Walters, 1971-2011.  Died of complications during his fifth liver transplant."}
 {353}{}{“乔希·沃尔特斯，1971-2011。他在第五次肝移植手术中死于并发症。”}
 #{354}{}{"Doug Avery. Hated the war for destroying his trailer park lifestyle."}

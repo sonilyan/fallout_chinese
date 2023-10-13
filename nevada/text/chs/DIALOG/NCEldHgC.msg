@@ -17,7 +17,7 @@
 #{116}{}{Good. Get out of here.}
 {116}{}{很好。离开这里。}
 #{117}{}{You're not from around here, are you? That attitude's a good way to end up dead in the gutter... Look, you don't want to work for Bertolini. He's just a greedy businessman who thinks he's a gangster. If you want to make a real difference, I can put in a good word with my boss. No promises, but I think he'd want a man like you.}
-{117}{}{你不是本地人吧？这种态度是一个很好的方式，最终死在阴沟里。。。听着，你不想为贝托里尼工作。他只是个贪婪的商人，自以为是黑帮分子。如果你真想有所作为，我可以和老板说句好话。没有承诺，但我想他会想要一个像你这样的男人。}
+{117}{}{你不是本地人吧？这种态度是一个很好的方式，最终死在阴沟里...听着，你不想为贝托里尼工作。他只是个贪婪的商人，自以为是黑帮分子。如果你真想有所作为，我可以和老板说句好话。没有承诺，但我想他会想要一个像你这样的男人。}
 #{118}{}{I'll keep that in mind. Now go, before someone notices.}
 {118}{}{我会记住的。走吧，在别人注意到之前。}
 #{119}{}{I was willing to tolerate your actions. I will not tolerate insults to Mr. Bertolini. [Kill him.]}
@@ -25,4 +25,4 @@
 #{1113}{}{I'm no murderer. I'm here to tell you you've got to lay low for a while. Change your hair, grow a beard, maybe.}
 {1113}{}{我不是凶手。我来告诉你，你得低调一段时间。换头发，留胡子，也许吧。}
 #{1117}{}{You're not from around here, are you? That attitude's a good way to end up dead in the gutter... Look, you don't want to work for Bertolini. He's just a greedy businessman who thinks he's a gangster. If you want to make a real difference, I can put in a good word with my boss. No promises, but I think he'd want a woman like you.}
-{1117}{}{你不是本地人吧？这种态度是一个很好的方式，最终死在阴沟里。。。听着，你不想为贝托里尼工作。他只是个贪婪的商人，自以为是黑帮分子。如果你真想有所作为，我可以和老板说句好话。没有承诺，但我想他会想要一个像你这样的女人。}
+{1117}{}{你不是本地人吧？这种态度是一个很好的方式，最终死在阴沟里...听着，你不想为贝托里尼工作。他只是个贪婪的商人，自以为是黑帮分子。如果你真想有所作为，我可以和老板说句好话。没有承诺，但我想他会想要一个像你这样的女人。}

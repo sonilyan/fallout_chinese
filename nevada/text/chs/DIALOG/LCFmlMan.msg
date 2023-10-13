@@ -33,9 +33,9 @@
 #{116}{}{Leave me alone!}
 {116}{}{别管我！}
 #{117}{}{Well, hi, I guess...}
-{117}{}{嗨，我想。。。}
+{117}{}{嗨，我想...}
 #{118}{}{You're right man, we need to help each other... Maybe a glass of moonshine?}
-{118}{}{你说得对，我们需要互相帮助。。。或许喝杯私酒？}
+{118}{}{你说得对，我们需要互相帮助...或许喝杯私酒？}
 #{119}{}{You're right man. You want to freshen up with "Bloody Mary" with me?}
 {119}{}{你说得对。你想和我一起喝“血腥玛丽”吗？}
 #{120}{}{I don't get it! Who the hell are you?! And what the fuck do you want with my wife?!}
@@ -45,7 +45,7 @@
 #{122}{}{With her - nothing. But she wants you dead. Say goodbye now!}
 {122}{}{和她-什么都没有。但她想让你死。现在说再见！}
 #{123}{}{Well, maybe... Bitches always complain, if they don't like something...}
-{123}{}{嗯，也许。。。婊子们总是抱怨，如果他们不喜欢什么。。。}
+{123}{}{嗯，也许...婊子们总是抱怨，如果他们不喜欢什么...}
 #{124}{}{And what's the thing you don't like?}
 {124}{}{你不喜欢什么？}
 #{125}{}{Well you're not right. You must be kind and gentle to your wife.}
@@ -57,19 +57,19 @@
 #{128}{}{Strange to hear this from a man who is busy doing nothing. Bye.}
 {128}{}{从一个无所事事的人那里听到这个消息很奇怪。再见。}
 #{129}{}{You ego is too big. I'm gonna cut it shorter... Together with your life!}
-{129}{}{你太自负了。我要把它剪短。。。和你的生活在一起！}
+{129}{}{你太自负了。我要把它剪短...和你的生活在一起！}
 #{130}{}{*Me*? I don't like everything! I try to explain it to her - a man has his lows, yes, doesn't have a job, yadda-yadda. And what does she say?! She's not being kind, or gentle, or feeding me something! If a man has his lows - he needs help!}
 {130}{}{*我*？我不是什么都喜欢！我试着向她解释-一个男人有他的低谷，是的，没有工作，雅达雅达。她说什么？！她不友善，不温柔，也不喂我东西！如果一个人情绪低落，他需要帮助！}
 #{131}{}{You're right, man, we should help each other...}
-{131}{}{你说得对，伙计，我们应该互相帮助。。。}
+{131}{}{你说得对，伙计，我们应该互相帮助...}
 #{132}{}{You're right, man, we should help each other... Want some beer?}
-{132}{}{你说得对，伙计，我们应该互相帮助。。。想喝点啤酒吗？}
+{132}{}{你说得对，伙计，我们应该互相帮助...想喝点啤酒吗？}
 #{133}{}{And why don't you help yourself, if you're so smart? Why someone should save you?}
 {133}{}{既然你这么聪明，为什么不自便呢？为什么有人要救你？}
 #{134}{}{That's what I tell her... Ahh! You won't understand.}
-{134}{}{我就是这么跟她说的。。。啊！你不会明白的。}
+{134}{}{我就是这么跟她说的...啊！你不会明白的。}
 #{135}{}{Won't understand? Hmm...}
-{135}{}{你不明白吗？隐马尔可夫模型。。。}
+{135}{}{你不明白吗？Hmm...}
 #{136}{}{[You had a heartfelt time with this cretin, using your knowledge in psychology. Something's changed in his mind. Hopefully, everything will be okay from now on.]}
 {136}{}{[你用你的心理学知识和这个白痴在一起度过了一段由衷的时光。他改变了主意。希望从现在起一切都会好起来。】}
 #{137}{}{Well, I gotta go. Take care!}
@@ -81,7 +81,7 @@
 #{151}{}{I'm her consciousness. I let her cry into my shoulder, when the need comes.}
 {151}{}{我是她的意识。当需要的时候，我让她在我肩上哭泣。}
 #{152}{}{I... Er... Your new neighbor, wanted to say hi.}
-{152}{}{一、 。。。呃。。。你的新邻居，想打个招呼。}
+{152}{}{一、 ...呃...你的新邻居，想打个招呼。}
 #{153}{}{From her - nothing. She wants you dead. Say goodbye!}
 {153}{}{她-什么都没有。她要你死。说再见！}
 #{154}{}{Who do you take me for?! *I* - am the man in this house! If you want to talk to my wife - first you ask my permission!}
@@ -121,17 +121,17 @@
 #{171}{}{Nothing. Dry, you drunk.}
 {171}{}{没有什么。干，你喝醉了。}
 #{172}{}{This is *my* wife! Who the fuck are you to...}
-{172}{}{这是我的妻子！你他妈的是谁。。。}
+{172}{}{这是我的妻子！你他妈的是谁...}
 #{173}{}{Shut up and listen to me!}
 {173}{}{闭嘴，听我说！}
 #{174}{}{You're right. She's your wife, I won't get between you.}
 {174}{}{你说得对。她是你妻子，我不会插手你的。}
 #{175}{}{Ugh...}
-{175}{}{呃。。。}
+{175}{}{呃...}
 #{176}{}{If I'll see that you hit your wife one more time - it will be the last day of your life!}
 {176}{}{如果我看到你再打你妻子一次-那将是你生命的最后一天！}
 #{177}{}{Okay, okay, I get it... I... I'll restrain myself, no problem!}
-{177}{}{好吧，好吧，我明白了。。。一、 。。。我会克制自己的，没问题！}
+{177}{}{好吧，好吧，我明白了...一、 ...我会克制自己的，没问题！}
 #{178}{}{We'll see, I'll check on your miserable family.}
 {178}{}{我们走着瞧，我去看看你那可怜的家人。}
 #{179}{}{I get it, okay!}
@@ -141,7 +141,7 @@
 #{181}{}{Do you know how many people I've killed while wandering the wastes?}
 {181}{}{你知道我在荒野里游荡时杀了多少人吗？}
 #{182}{}{[It seems this drunk is getting sober!] Er... }
-{182}{}{[看起来这个醉汉已经清醒了！]呃。。。}
+{182}{}{[看起来这个醉汉已经清醒了！]呃...}
 #{183}{}{?}
 {183}{}{?}
 #{184}{}{. And you can become }
@@ -149,7 +149,7 @@
 #{185}{}{-th.}
 {185}{}{-第。}
 #{186}{}{Wha... No! Noo! Why!? Why!?}
-{186}{}{什么。。。不！不！为什么？为什么？}
+{186}{}{什么...不！不！为什么？为什么？}
 #{187}{}{Do not pretend to be a fool, you know why.}
 {187}{}{别装傻，你知道为什么。}
 #{188}{}{Let's stop here. The hands are already reaching for the gun!}
@@ -203,7 +203,7 @@
 #{212}{}{Forget it pal, I have some on me. Bottoms up, yes?}
 {212}{}{算了吧，伙计，我身上有些。干杯，好吗？}
 #{213}{}{Ohh!!! My kind of guy! You should've started with this! Don't pay any attention to this bitch, let her cry... Well, what was it? A drink, huh?}
-{213}{}{哦！！！我喜欢的那种人！你应该从这个开始！别理这个婊子，让她哭吧。。。那是什么？喝一杯，嗯？}
+{213}{}{哦！！！我喜欢的那种人！你应该从这个开始！别理这个婊子，让她哭吧...那是什么？喝一杯，嗯？}
 #{214}{}{[Pour poisoned moonshine]}
 {214}{}{【倒毒月光】}
 #{215}{}{Of course, here's a bottle of moonshine.}
@@ -221,31 +221,31 @@
 #{221}{}{Aha! For your health, neighbor!}
 {221}{}{啊哈！为了你的健康，邻居！}
 #{222}{}{Ugghh! Oh, that's was good one! You have a decent moonshine, neighbor... Why don't you drink? I don't get it.}
-{222}{}{哎呀！哦，真是个好主意！你的私酒不错，邻居。。。你为什么不喝酒？我不明白。}
+{222}{}{哎呀！哦，真是个好主意！你的私酒不错，邻居...你为什么不喝酒？我不明白。}
 #{223}{}{Weak kidneys.}
 {223}{}{虚弱的肾脏。}
 #{224}{}{Ahh... I even sweat a little! You know, when I worked in the police, me and my partner were on a lead on a whorehouse once. Well, you know, we had to get drug dealers trust, so we took a few doses... Uh...}
-{224}{}{啊。。。我甚至有点出汗！你知道，当我在警察局工作的时候，我和我的搭档曾经在一个妓院里有过线索。嗯，你知道，我们必须得到毒贩的信任，所以我们吃了一些药。。。休斯敦大学。。。}
+{224}{}{啊...我甚至有点出汗！你知道，当我在警察局工作的时候，我和我的搭档曾经在一个妓院里有过线索。嗯，你知道，我们必须得到毒贩的信任，所以我们吃了一些药...Uh...}
 #{225}{}{What is it?}
 {225}{}{这是怎么一回事？}
 #{226}{}{My partner had the bad stuff... He died after two days. Nobody could save him. And I... [cries]}
-{226}{}{我的搭档有不好的东西。。。两天后他就死了。没人能救他。我。。。[哭声]}
+{226}{}{我的搭档有不好的东西...两天后他就死了。没人能救他。我...[哭声]}
 #{227}{}{My friend, it seems you two were close?}
 {227}{}{我的朋友，你俩好像很亲近？}
 #{228}{}{We were almost like *brothers*! I still can't forget... Damn, give me another one! Drink with me this time, okay? At least a couple of sips.}
-{228}{}{我们就像兄弟一样！我还是忘不了。。。该死，再给我一个！这次和我一起喝，好吗？至少喝几口。}
+{228}{}{我们就像兄弟一样！我还是忘不了...该死，再给我一个！这次和我一起喝，好吗？至少喝几口。}
 #{229}{}{Yeah, er, sure.}
 {229}{}{是的，呃，当然。}
 #{230}{}{[Drinks] Ughrr! Oh, it's so hot in here... Where did you get that stuff? Is this from Harry the Pigrat?}
-{230}{}{[饮料]呃！哦，这里太热了。。。你从哪儿弄来的？这是猪鼠哈利送的吗？}
+{230}{}{[饮料]呃！哦，这里太热了...你从哪儿弄来的？这是猪鼠哈利送的吗？}
 #{231}{}{Err, no, it's from a bar.}
 {231}{}{呃，不，是酒吧的。}
 #{232}{}{[Grabs the edge of the table and falls on his knee] Ohhhh... Got me good... [laughs] Even with Russian vodka it's not like that! Oh... What did you gave me?}
-{232}{}{[抓住桌子的边缘跪下]哦。。。很好。。。[笑]即使是俄罗斯伏特加也不是这样！哦。。。你给了我什么？}
+{232}{}{[抓住桌子的边缘跪下]哦...很好...[笑]即使是俄罗斯伏特加也不是这样！哦...你给了我什么？}
 #{233}{}{...Uh, so what was it about Harry the Pigrat?}
 {233}{}{…呃，那猪鼠哈利是怎么回事？}
 #{234}{}{...Lives nearby, makes moonshine and sells it at the bar... [crawls on the floor tries to lay down] Listen... Sit here, while I... Uhh... Tell me... About yourself...}
-{234}{}{…住在附近，做私酒在酒吧卖。。。[爬在地板上试图躺下]听着。。。坐在这里，我。。。呃。。。告诉我。。。关于你自己。。。}
+{234}{}{…住在附近，做私酒在酒吧卖...[爬在地板上试图躺下]听着...坐在这里，我...呃...告诉我...关于你自己...}
 #{235}{}{About me? You know, that doesn't matter.}
 {235}{}{关于我？你知道，那没关系。}
 #{236}{}{Why?..}
@@ -257,11 +257,11 @@
 #{239}{}{About myself, about wandering around the wastes - I'll tell you about everything. Do not worry, sleep.}
 {239}{}{关于我自己，关于在荒野中徘徊-我会告诉你一切。别担心，睡觉吧。}
 #{240}{}{...You... Promise... You don't... Try to mess with... Me...}
-{240}{}{…你。。。我保证。。。你不。。。试图搞乱。。。我。。。}
+{240}{}{…你...我保证...你不...试图搞乱...我...}
 #{241}{}{[Keep silent]}
 {241}{}{[保持沉默]}
 #{242}{}{So... I... Want... To hear it...}
-{242}{}{所以。。。一、 。。。想要。。。听到它。。。}
+{242}{}{所以...一、 ...想要...听到它...}
 #{243}{}{[This was his last breath]}
 {243}{}{[这是他的最后一口气]}
 #{244}{}{You acted low, poisoning this drunkard, but all the better for the world.}
@@ -271,9 +271,9 @@
 #{1104}{}{What have you done?!}
 {1104}{}{你做了什么？！}
 #{1152}{}{I... Err... Your new neighbor, wanted to say hi.}
-{1152}{}{一、 。。。呃。。。你的新邻居，想打个招呼。}
+{1152}{}{一、 ...呃...你的新邻居，想打个招呼。}
 #{1172}{}{This is *my* wife! Who the fuck are you to...}
-{1172}{}{这是我的妻子！你他妈的是谁。。。}
+{1172}{}{这是我的妻子！你他妈的是谁...}
 #{1181}{}{Do you know how many people I've killed while wandering the wastes?}
 {1181}{}{你知道我在荒野里游荡时杀了多少人吗？}
 #{1195}{}{To be honest, she gave me poison, but I decided you don't deserve that.}
@@ -283,6 +283,6 @@
 #{1220}{}{[Drinks a glass of moonshine] Urgh! Good, damn!.. Hey, neighbor, why do you not drinking? That's not right! Come on, for my health!}
 {1220}{}{[喝一杯私酒]呃！很好，该死！。。嘿，邻居，你为什么不喝酒？这不对！来吧，为了我的健康！}
 #{1222}{}{Ugghh! Oh, that's was good one! You have a decent moonshine, neighbor... Why don't you drink? I don't get it.}
-{1222}{}{哎呀！哦，真是个好主意！你的私酒不错，邻居。。。你为什么不喝酒？我不明白。}
+{1222}{}{哎呀！哦，真是个好主意！你的私酒不错，邻居...你为什么不喝酒？我不明白。}
 #{1232}{}{[Grabs the edge of the table and falls on his knee] Ohhhh... Got me good... [laughs] Even with Russian vodka it's not like that! Oh... What did you gave me?}
-{1232}{}{[抓住桌子的边缘跪下]哦。。。很好。。。[笑]即使是俄罗斯伏特加也不是这样！哦。。。你给了我什么？}
+{1232}{}{[抓住桌子的边缘跪下]哦...很好...[笑]即使是俄罗斯伏特加也不是这样！哦...你给了我什么？}

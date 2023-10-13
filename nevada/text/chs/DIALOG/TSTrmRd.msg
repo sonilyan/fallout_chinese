@@ -3,7 +3,7 @@
 #{101}{}{You see a communication operator computer with a fairly unique interface.}
 {101}{}{你会看到一台通信操作员计算机有一个相当独特的接口。}
 #{103}{}{You learned about the existence of a large radio station halfway between Reno and Vault 8.}
-{103}{}{你知道里诺和8号金库中间有一个大型电台。}
+{103}{}{你知道里诺和8号避难所中间有一个大型电台。}
 #{110}{}{Welcome to the operating system of the communication terminal.}
 {110}{}{欢迎使用通信终端的操作系统。}
 #{111}{}{Download a list of points of radio communication.}
@@ -29,7 +29,7 @@
 #{129}{}{In the state there is a quite a lot of points of communication, but one of the supporting military government stations is located to the South-East from your own vault, near the pre-war town of Lovelock (now there's probably only ruins).}
 {129}{}{在这个州有很多通信点，但其中一个支持军事政府的站位于你自己的地下室的东南部，靠近战前的洛夫洛克镇（现在可能只有废墟）。}
 #{130}{}{The last sessions were carried out... A couple of years ago! More precisely, someone outside of the state tried to send a signal to Area 51, but, apparently, no one responded. However, it could be some automated message. The source of the signal is encrypted.}
-{130}{}{最后的会议是。。。几年前！更准确地说，州外有人试图向51区发送信号，但显然没有人回应。但是，它可能是一些自动消息。信号源是加密的。}
+{130}{}{最后的会议是...几年前！更准确地说，州外有人试图向51区发送信号，但显然没有人回应。但是，它可能是一些自动消息。信号源是加密的。}
 #{131}{}{Report loaded.}
 {131}{}{报告已加载。}
 #{132}{}{Study the content.}
@@ -39,8 +39,8 @@
 #{134}{}{See the last broadcast.}
 {134}{}{看最后一次广播。}
 #{135}{}{In addition to the standard automation procedures, someone, using this terminal, had been tracking a variable location point of the radio signal. After a little digging in the parameter values, you suddenly find out that this point is... You. Looks like someone watched your movements, thanks to a bug planted into your Pip-Boy.}
-{135}{}{除了标准的自动化程序外，有人用这个终端跟踪无线电信号的一个可变位置点。在对参数值进行了一点挖掘之后，您突然发现这一点是。。。你。好像有人看了你的动作，多亏了你的皮普小子身上插了一只虫子。}
+{135}{}{除了标准的自动化程序外，有人用这个终端跟踪无线电信号的一个可变位置点。在对参数值进行了一点挖掘之后，您突然发现这一点是...你。好像有人看了你的动作，多亏了你的皮普小子身上插了一只虫子。}
 #{136}{}{What a surprise...}
-{136}{}{真是个惊喜。。。}
+{136}{}{真是个惊喜...}
 #{137}{}{In the state there is quite a lot of points of radio communication, but one of the supporting military government stations is located to the South-East from your own vault. It seems it's in the same place where the village of Cheyenne is located. Worth to ask the locals about it.}
 {137}{}{在这个州有很多无线电通讯点，但是一个支持军事政府的电台就在你自己的地下室的东南部。好像和夏延村在同一个地方。值得问问当地人。}

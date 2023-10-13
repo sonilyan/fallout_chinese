@@ -19,13 +19,13 @@
 #{117}{}{I can help you get your old job back.}
 {117}{}{我可以帮你找回原来的工作。}
 #{118}{}{[He looks up, surprised] Really? Well... Great!.. except, what's the point? The mines went to hell. I'd still have nothing to do there.}
-{118}{}{[他抬起头，惊讶地]真的吗？好。。。伟大的！。。不过，有什么意义？地雷下地狱了。我在那里还是没什么可做的。}
+{118}{}{[他抬起头，惊讶地]真的吗？好...伟大的！。。不过，有什么意义？地雷下地狱了。我在那里还是没什么可做的。}
 #{119}{}{The mine is clear. You can return.}
 {119}{}{地雷很清楚。你可以回来。}
 #{120}{}{Return? Ha... Hahaa! [he throws his head back and laughs hysterically] How can I return?! My wallet and stomach are empty. I'll never make it there alive! Bandits will cut me down before I get ten miles out of the city.}
-{120}{}{返回？哈。。。哈哈！[他把头往后仰，歇斯底里地笑]我怎么能回来？！我的钱包和肚子都空了。我再也活不下去了！强盗会在我出城十英里前把我砍倒的。}
+{120}{}{返回？哈...哈哈！[他把头往后仰，歇斯底里地笑]我怎么能回来？！我的钱包和肚子都空了。我再也活不下去了！强盗会在我出城十英里前把我砍倒的。}
 #{121}{}{Fine. Let's see if I've got anything...}
-{121}{}{好的。我看看有没有什么。。。}
+{121}{}{好的。我看看有没有什么...}
 #{122}{}{Here's $50 for provisions.}
 {122}{}{这是50美元的给养费。}
 #{123}{}{Alright, I'll think about sorting that out.}

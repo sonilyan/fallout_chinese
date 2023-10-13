@@ -5,7 +5,7 @@
 #{105}{}{Hey, get me a drink!}
 {105}{}{嘿，给我拿杯喝的！}
 #{106}{}{Hey, what's taking so... Oh, I thought you were the waiter.}
-{106}{}{嘿，怎么这么。。。哦，我以为你是服务员。}
+{106}{}{嘿，怎么这么...哦，我以为你是服务员。}
 #{107}{}{If you're looking for friends, you came to the wrong place.}
 {107}{}{如果你在找朋友，你来错地方了。}
 #{108}{}{If this is about a job, talk to Tuco.}
@@ -33,7 +33,7 @@
 #{122}{}{Uh, we made good money working for the Nevada Express. Why?}
 {122}{}{呃，我们在内华达快递公司工作赚了不少钱。为什么？}
 #{123}{}{Ah, damn... People are already talking about it, huh? Christ, you'd think it wouldn't be so hard to stay hidden in such a big city...}
-{123}{}{啊，该死。。。人们已经在谈论它了，嗯？天哪，你会觉得躲在这么大的城市里没那么难。。。}
+{123}{}{啊，该死...人们已经在谈论它了，嗯？天哪，你会觉得躲在这么大的城市里没那么难...}
 #{124}{}{So it's you. I want to know about the raided bus.}
 {124}{}{原来是你。我想知道被突袭的巴士。}
 #{125}{}{Oh, just bugger off, alright? I'm trying to forget about that shit, not dredge it up again.}
@@ -41,7 +41,7 @@
 #{126}{}{Sorry, but you don't have a choice. I'm investigating on Tuco's orders.}
 {126}{}{对不起，你别无选择。我在调查图科的命令。}
 #{127}{}{What? [they look at each other] Uh... Sure, whatever. But, you know, I wouldn't dig into this if I were you. These bikers, they're dangerous. They're not good enemies to have.}
-{127}{}{什么？[他们看着对方]呃。。。当然，随便了。但是，你知道，如果我是你，我就不会深究这个问题。这些摩托车手，他们很危险。他们不是好敌人。}
+{127}{}{什么？[他们看着对方]呃...当然，随便了。但是，你知道，如果我是你，我就不会深究这个问题。这些摩托车手，他们很危险。他们不是好敌人。}
 #{128}{}{Okay, give me the details.}
 {128}{}{好的，告诉我细节。}
 #{129}{}{We were north of Lovelock when it happened. We were driving on the highway, as usual, when those bikers ambushed us at the turn. We were going so fast, that by the time we could stop the bus, they were shooting at us from all sides. They destroyed the robot immediately, and didn't take much longer for the rest of us.}
@@ -71,19 +71,19 @@
 #{141}{}{You should be very careful what you say next. I have proof - the records from robot.}
 {141}{}{你下一步说话要小心。我有证据-机器人的记录。}
 #{142}{}{Don't take it personally, I just wanted to make sure...}
-{142}{}{别当真，我只是想确定。。。}
+{142}{}{别当真，我只是想确定...}
 #{143}{}{I know you attacked the bus yourselves.}
 {143}{}{我知道你自己袭击了公共汽车。}
 #{144}{}{What do you know, then? Get away from me!}
 {144}{}{那你知道什么？离我远点！}
 #{145}{}{Okay, okay...}
-{145}{}{好吧，好吧。。。}
+{145}{}{好吧，好吧...}
 #{146}{}{You what? Fuck! We were so careful... [he leans in close] So what's the plan now, huh? What makes you think we won't kill you? What's one more body, huh?}
-{146}{}{你什么？性交！我们很小心。。。[他靠得很近]那现在有什么计划？你凭什么认为我们不会杀你？还有一具尸体是什么？}
+{146}{}{你什么？性交！我们很小心...[他靠得很近]那现在有什么计划？你凭什么认为我们不会杀你？还有一具尸体是什么？}
 #{147}{}{Right here, in front of everybody? I don't think so.}
 {147}{}{就在这里，在大家面前？我不这么认为。}
 #{148}{}{Damn it... Alright, how about we buy that records off you? 2000 dollars - that's all we've got. It's more than you'll make from Tuco, believe me.}
-{148}{}{该死的。。。好吧，我们从你这里买唱片怎么样？2000美元-我们只有这些。相信我，这比你从图科赚的还多。}
+{148}{}{该死的...好吧，我们从你这里买唱片怎么样？2000美元-我们只有这些。相信我，这比你从图科赚的还多。}
 #{149}{}{First, tell me why you did it.}
 {149}{}{首先，告诉我你为什么这么做。}
 #{150}{}{It's a deal. Pleasure doing business with you.}
@@ -101,15 +101,15 @@
 #{156}{}{Yeah, yeah, whatever you say. I'm just here for the money.}
 {156}{}{是的，是的，随你怎么说。我只是为了钱来的。}
 #{157}{}{What do you care? Ah, hell... We were old paying old debts. We used to be mercenaries, and one of our old bosses gave the order to kill one of the passengers. We couldn't refuse - they'd have killed us.}
-{157}{}{你在乎什么？啊，见鬼。。。我们老去还旧债了。我们曾经是雇佣兵，我们的一个老老板下令杀死一名乘客。我们不能拒绝-他们会杀了我们的。}
+{157}{}{你在乎什么？啊，见鬼...我们老去还旧债了。我们曾经是雇佣兵，我们的一个老老板下令杀死一名乘客。我们不能拒绝-他们会杀了我们的。}
 #{158}{}{Who did you have to kill?}
 {158}{}{你要杀谁？}
 #{159}{}{Local businessman. He was coming back from Salt Lake City to arrange regular shipments of Nuka-Cola. Some people here weren't happy about it... You've got to watch your ass when you do business in Reno.}
-{159}{}{当地商人。他从盐湖城回来，安排定期运送努卡可乐。有些人对此不满意。。。你在里诺做生意时要小心。}
+{159}{}{当地商人。他从盐湖城回来，安排定期运送努卡可乐。有些人对此不满意...你在里诺做生意时要小心。}
 #{160}{}{Who wanted him killed?}
 {160}{}{谁想杀了他？}
 #{161}{}{Are you crazy? I can't tell you that! It'd get me killed... You, too. Of course, I can't go back to the Nevada Express now. And I wanted to get out of the mercenary business...}
-{161}{}{你疯了吗？我不能告诉你！会让我送命的。。。你也是。当然，我现在不能回内华达快车了。我想退出雇佣兵行业。。。}
+{161}{}{你疯了吗？我不能告诉你！会让我送命的...你也是。当然，我现在不能回内华达快车了。我想退出雇佣兵行业...}
 #{170}{}{Thanks for not giving us away. It was the right decision.}
 {170}{}{谢谢你没有把我们送走。这是正确的决定。}
 #{171}{}{Not a smart choice. I wouldn't stick around if I were you. People like you tend to have accidents around here.}
@@ -117,7 +117,7 @@
 #{172}{}{Well? Have you decided yet?}
 {172}{}{好？你决定了吗？}
 #{1142}{}{Don't take it personally, I just wanted to make sure...}
-{1142}{}{别当真，我只是想确定。。。}
+{1142}{}{别当真，我只是想确定...}
 #{1154}{}{[He gives you the money, then puts the holodisk under the leg of his chair and jumps down on it, crushing it] That could have been you, you know. Be happy you took the smart option.}
 {1154}{}{[他把钱给了你，然后把全息光盘放在椅子腿下，跳下来，压碎了它]你知道，那可能是你。很高兴你做出了明智的选择。}
 #{1170}{}{Thanks for not giving us away. It was the right decision.}

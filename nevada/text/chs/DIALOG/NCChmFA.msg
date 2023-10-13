@@ -7,4 +7,4 @@
 #{103}{}{Ha! They won't mess with us again!}
 {103}{}{哈！他们不会再惹我们了！}
 #{104}{}{They're dead...I don't know what to think. Maybe... Maybe I won't think about it at all right now.}
-{104}{}{他们死了…我不知道该怎么想。也许 吧。。。也许我现在根本不会去想。}
+{104}{}{他们死了…我不知道该怎么想。也许 吧...也许我现在根本不会去想。}

@@ -13,17 +13,17 @@
 #{112}{}{Ah yeh, forgive a redneck. Our people are plain. What else we have to do, while waitin' fer crops to grow, or at the evenin', when it's dark at the yard? Only to chat and swing with fists. But I'm talkin' too much. Meet my daughter, Christine. Good girl, don't pay attention to her freckles [makes a sweet muzzle]. She's re-e-a-ally lovely, aren't she? Just look at her [Christine mutters under her breath with nasal voice, "da-a-ad!"]! Silence! Or I'll bash yer head and you'll shuddup reel fast!}
 {112}{}{啊耶，原谅一个乡下人。我们的人民很普通。在等待庄稼生长的时候，或者在晚上，院子里天黑的时候，我们还能做什么？只是聊天和挥舞拳头。但我说得太多了。见见我女儿，克莉丝汀。好姑娘，别理她的雀斑。她真可爱，不是吗？看看她[克里斯蒂娜用鼻音低声咕哝着说，“达-阿-德！”]! 安静！否则我就揍你的头，你会很快脱掉卷轴！}
 #{113}{}{Eh...}
-{113}{}{呃。。。}
+{113}{}{呃...}
 #{114}{}{Ahem. So I'm an ol' redneck. Name's Festus. Should be called John, would be more militant, but alright - Festus' fine too. Everyone around knows me! Ask any redneck in villages nearby - everyone tell good about Festus. Well, sometimes good, sometimes bad... But no' one treats me without respect. Aside from those thugs on the other side of the fence. Oh, I would beat them up reel hard, damn them all!}
-{114}{}{啊哼。所以我是个老乡巴佬。我叫费斯托斯。应该叫约翰，会更激进，但好吧-费斯托斯也很好。周围的人都认识我！问问附近村子里的乡巴佬吧——每个人都对费斯托斯说好话。好吧，有时好，有时坏。。。但是没有人不尊重我。除了栅栏另一边的暴徒。哦，我会狠狠地揍他们，该死的！}
+{114}{}{啊哼。所以我是个老乡巴佬。我叫费斯托斯。应该叫约翰，会更激进，但好吧-费斯托斯也很好。周围的人都认识我！问问附近村子里的乡巴佬吧——每个人都对费斯托斯说好话。好吧，有时好，有时坏...但是没有人不尊重我。除了栅栏另一边的暴徒。哦，我会狠狠地揍他们，该死的！}
 #{115}{}{Eh, can you elaborate? How did these militaries angered you, Festus?}
 {115}{}{呃，你能详细说明一下吗？这些军队是怎么激怒你的，费斯托斯？}
 #{116}{}{Straight to business - I like that! We'll get along well, son. Just keep your powder dry, as I always say, heh-heh!..}
 {116}{}{直奔正题-我喜欢！我们会相处得很好的，儿子。保持你的粉末干燥，就像我常说的，嘿嘿！。。}
 #{117}{}{About those militaries...}
-{117}{}{关于那些军队。。。}
+{117}{}{关于那些军队...}
 #{118}{}{Don't interrupt me! I almost gathered my thoughts... So, these militaries provoked us. O-oh, they provoked us so hard! They came to collect taxes, then one of them got a crush on my girl and dragged her right into the bushes! If I were nearby, I'd beat him reel hard! Only later we found out. We searched for our Christy everywhere, 'cuz she ran away to hide her disgrace. But you know, we, rednecks, care for each other! It's not the first time! Found her, warmed her up, and situation became clear. Now I'm lookin' for justice. I want to not just hammer private's face, but to make him answer before the family! But we couldn't get past the checkpoint. I got angry, beat up the guard, they chased me away. Now I don't even know what to do.}
-{118}{}{别打断我！我几乎收集了我的想法。。。所以，这些军队激怒了我们。哦，他们太挑衅我们了！他们来收税，然后其中一个迷上了我的女儿，把她拖进了灌木丛！如果我在附近，我会狠狠地揍他！后来我们才发现。我们到处找我们的克丽丝蒂，因为她跑去掩饰她的耻辱。但是你知道，我们，乡巴佬，互相关心！这不是第一次了！找到她，让她热身，情况就明朗了。现在我在寻求正义。我不只是想敲打列兵的脸，而是想让他在家人面前回答！但我们无法通过检查站。我生气了，打了警卫，他们把我赶走了。现在我都不知道该怎么办了。}
+{118}{}{别打断我！我几乎收集了我的想法...所以，这些军队激怒了我们。哦，他们太挑衅我们了！他们来收税，然后其中一个迷上了我的女儿，把她拖进了灌木丛！如果我在附近，我会狠狠地揍他！后来我们才发现。我们到处找我们的克丽丝蒂，因为她跑去掩饰她的耻辱。但是你知道，我们，乡巴佬，互相关心！这不是第一次了！找到她，让她热身，情况就明朗了。现在我在寻求正义。我不只是想敲打列兵的脸，而是想让他在家人面前回答！但我们无法通过检查站。我生气了，打了警卫，他们把我赶走了。现在我都不知道该怎么办了。}
 #{119}{}{Ugh. Finally, at least something cleared up. So, one of privates raped your daughter, you angered and started the conflict at the checkpoint. Right?}
 {119}{}{啊。最后，至少有些事情澄清了。所以，一个士兵强奸了你的女儿，你生气了，在检查站开始了冲突。对吗？}
 #{120}{}{What else I could do? We weren't allowed inside, so I flamed up a bit. Anyway, they probably calmed down. And I'm also tired too. I'll sleep this night and go back to hittin' faces. You be sure about it.}
@@ -37,7 +37,7 @@
 #{124}{}{Sixteen! So what!?}
 {124}{}{十六岁！那又怎么样！？}
 #{125}{}{Don't be so nervous. It's just - that difference in age...}
-{125}{}{别那么紧张。只是-年龄上的差异。。。}
+{125}{}{别那么紧张。只是-年龄上的差异...}
 #{126}{}{What the hell are ye implyin'!? Although, I know what ye talkin' about, these habits among ya cityfolks. We're different. Families are big. Do ya know how many kids I have? Seven! I swear! Every year my wife fires off a child, like there's a cannon between her legs  - bam! Bam! But Christine is our last, we won't handle any more. And you'd better ask, how old is my WIFE! Ha-ha-ha-ha-hah!}
 {126}{}{你到底在祈求什么！？不过，我知道你们在说什么，这些城市居民的习惯。我们不一样。家庭很大。你知道我有几个孩子吗？七个！我发誓！每年我妻子都会放火射一个孩子，就像她两腿之间有一门大炮——砰！砰！但克莉丝汀是我们的最后一个，我们不会再处理了。你最好问问，我妻子多大了！哈哈哈哈哈！}
 #{127}{}{Eh, I'd rather not.}
@@ -57,7 +57,7 @@
 #{134}{}{Perhaps I have enough information. Take care.}
 {134}{}{也许我有足够的信息。当心。}
 #{135}{}{Hm, listen, Festus. If she hadn't been beaten, tortured and she didn't call for help, then it's not considered rape. It's a... An innocent teenagers' stuff. I'm talking from experience.}
-{135}{}{嗯，听着，费斯托斯。如果她没有被殴打，折磨，也没有呼救，那就不算强奸。这是。。。一个无辜的青少年的东西。我是凭经验说的。}
+{135}{}{嗯，听着，费斯托斯。如果她没有被殴打，折磨，也没有呼救，那就不算强奸。这是...一个无辜的青少年的东西。我是凭经验说的。}
 #{136}{}{WHAT!? Whatever you call this, but I'll do everythin' so this Derren came out of his dig and married my beautiful Christine!!!}
 {136}{}{什么！？不管你怎么说，但我会做一切的，所以这个德伦从他的挖掘出来，娶了我美丽的克莉丝汀！！！}
 #{137}{}{You don't mind another couple of questions?}
@@ -65,7 +65,7 @@
 #{138}{}{Wait a second, so, she hadn't been beaten, she didn't call for help and even asked his name and rank?}
 {138}{}{等等，那么，她没有被打，她没有呼救，甚至没有问他的名字和军衔？}
 #{139}{}{Well... That's right... Doesn't matter!!! I'll do everythin' so this Derren came out of his dig and married my beautiful Christine!!!}
-{139}{}{好。。。这是正确的。。。没关系！！！我会做一切的，所以这个德伦从他的挖掘出来，娶了我美丽的克莉丝汀！！！}
+{139}{}{好...这是正确的...没关系！！！我会做一切的，所以这个德伦从他的挖掘出来，娶了我美丽的克莉丝汀！！！}
 #{140}{}{Festus, I think, you and your daughter should get out of here, as far away as you can.}
 {140}{}{费斯托斯，我想，你和你女儿应该离开这里，越远越好。}
 #{141}{}{Why?!}
@@ -79,7 +79,7 @@
 #{145}{}{Because I'll call my friends from the garrison, and they'll beat you up real hard.}
 {145}{}{因为我会打电话给驻军的朋友，他们会狠狠揍你一顿。}
 #{146}{}{Ugh, you're right... Nothin' will come out. How can we deal with them? And even the caravaneers won't be of help, if the military shows up. We'll have to go back to the village.}
-{146}{}{呃，你说得对。。。不会有结果的。我们怎么对付他们？如果军队出现，即使是商队也帮不上忙。我们得回村子里去。}
+{146}{}{呃，你说得对...不会有结果的。我们怎么对付他们？如果军队出现，即使是商队也帮不上忙。我们得回村子里去。}
 #{147}{}{Happy trails.}
 {147}{}{快乐的小径。}
 #{148}{}{That's nothin', son! I'll show 'em! I've got powder fer everyone!}

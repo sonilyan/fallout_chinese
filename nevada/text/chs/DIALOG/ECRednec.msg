@@ -5,7 +5,7 @@
 #{110}{}{Halt! This is a robbery!}
 {110}{}{站住！这是抢劫！}
 #{111}{}{Don't you dare resist, or else... Or else!..}
-{111}{}{你不敢反抗，否则。。。否则！。。}
+{111}{}{你不敢反抗，否则...否则！。。}
 #{112}{}{I don't want to kill, but I'll have to do this}
 {112}{}{我不想杀人，但我必须这么做}
 #{113}{}{I need to kill someone to feed my family}

@@ -19,9 +19,9 @@
 #{109}{}{You see your partner.}
 {109}{}{你看到你的搭档了。}
 #{110}{}{Hmm... Be careful.}
-{110}{}{隐马尔可夫模型。。。小心。}
+{110}{}{Hmm...小心。}
 #{111}{}{I don't like it here - perfect place for an ambush...}
-{111}{}{我不喜欢这里-伏击的好地方。。。}
+{111}{}{我不喜欢这里-伏击的好地方...}
 #{112}{}{What? Ambush? Where?}
 {112}{}{什么？埋伏？在哪里？}
 #{113}{}{The courier escaped with the package! You've failed!}
@@ -41,7 +41,7 @@
 #{131}{}{Everyone get ready!}
 {131}{}{大家准备好！}
 #{132}{}{They're close...}
-{132}{}{他们很接近。。。}
+{132}{}{他们很接近...}
 #{133}{}{Just don't scare them off!}
 {133}{}{别吓跑他们！}
 #{134}{}{Keep your ass down!}
@@ -51,7 +51,7 @@
 #{136}{}{Watch it, he's coming!}
 {136}{}{小心，他来了！}
 #{137}{}{Wait for it...}
-{137}{}{等等。。。}
+{137}{}{等等...}
 #{138}{}{Don't even breathe!}
 {138}{}{别呼吸！}
 #{139}{}{Stay sharp!}

@@ -5,7 +5,7 @@
 #{101}{}{You see Tin Angel's patron.}
 {101}{}{你看到锡天使的赞助人了。}
 #{102}{}{God damn it, Joe was the best...}
-{102}{}{他妈的，乔是最好的。。。}
+{102}{}{他妈的，乔是最好的...}
 #{103}{}{Ha, Joe is killing it today!}
 {103}{}{哈，乔今天要杀了它！}
 #{104}{}{This guy at the bar should be hanged.}

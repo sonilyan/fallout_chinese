@@ -47,7 +47,7 @@
 #{129}{}{The raiders are all dead. You can come out now.}
 {129}{}{袭击者都死了。你现在可以出来了。}
 #{130}{}{Alright, let's take a look. But if you're fucking with me...}
-{130}{}{好吧，我们来看看。但如果你在耍我。。。}
+{130}{}{好吧，我们来看看。但如果你在耍我...}
 #{131}{}{[Wait]}
 {131}{}{[等等]}
 #{132}{}{God DAMN, son! You did all that? Motherfucking masterful work! Now we can finally get out of this place. Find me in Black Rock - the beer's on me!}

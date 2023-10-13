@@ -15,13 +15,13 @@
 #{107}{}{Jed doesn't have much time left. I can feel it.}
 {107}{}{杰德没有多少时间了。我能感觉到。}
 #{108}{}{If Jed dies, I may cry. You know... Just a little.}
-{108}{}{如果杰德死了，我可能会哭。你知道的。。。就一点点。}
+{108}{}{如果杰德死了，我可能会哭。你知道的...就一点点。}
 #{109}{}{The heavens are waiting for Jed... Ah, whatever.}
-{109}{}{天堂在等杰德。。。啊，随便了。}
+{109}{}{天堂在等杰德...啊，随便了。}
 #{110}{}{They say some outsider is digging up the graves, but I think it's Bob.}
 {110}{}{他们说有外人在挖坟墓，但我想是鲍勃。}
 #{111}{}{If I wake up to find one more defiled grave... Oh, Bob's gonna get it.}
-{111}{}{如果我醒来发现另一个被玷污的坟墓。。。哦，鲍勃会明白的。}
+{111}{}{如果我醒来发现另一个被玷污的坟墓...哦，鲍勃会明白的。}
 #{112}{}{Bob's a good guy, but he needs to learn how to control himself.}
 {112}{}{鲍勃是个好人，但他需要学会控制自己。}
 #{113}{}{}
@@ -65,7 +65,7 @@
 #{132}{}{Man, I was really hoping for someone to kick Mike's ass. Too bad.}
 {132}{}{伙计，我真希望有人能踢迈克的屁股。太糟糕了。}
 #{133}{}{Don't give up. Mike hasn't been beaten since... Hmm, a couple of days ago, maybe.}
-{133}{}{不要放弃。迈克从那以后就没被打过。。。嗯，也许是几天前吧。}
+{133}{}{不要放弃。迈克从那以后就没被打过...嗯，也许是几天前吧。}
 #{134}{}{}
 {134}{}{}
 #{135}{}{Were you the one that beat up Mike? It's an honor!}
@@ -113,11 +113,11 @@
 #{156}{}{You talked to Justin yet? A harsh man, but irreplaceable.}
 {156}{}{你和贾斯汀谈过了吗？一个严厉的人，但不可替代。}
 #{157}{}{How could a whole brahmin just disappear?}
-{157}{}{整个婆罗门怎么会消失？}
+{157}{}{整个双头牛怎么会消失？}
 #{158}{}{If I were William, I'd kick his boy's ass.}
 {158}{}{如果我是威廉，我会踢他儿子的屁股。}
 #{159}{}{Only in Black Rock could a whole brahmin just disappear.}
-{159}{}{只有在黑岩中，整个婆罗门才能消失。}
+{159}{}{只有在黑岩中，整个双头牛才能消失。}
 #{160}{}{Those slaves are nothing but trouble.}
 {160}{}{那些奴隶只不过是麻烦。}
 #{161}{}{Slaves belong with their master, not in Black Rock!}
@@ -139,11 +139,11 @@
 #{169}{}{}
 {169}{}{}
 #{170}{}{Damn! William was really counting on that caravan... }
-{170}{}{该死！威廉真的指望着那辆大篷车。。。}
+{170}{}{该死！威廉真的指望着那辆大篷车...}
 #{171}{}{It's too bad that caravan deal fell through.}
 {171}{}{商队交易失败了真是太可惜了。}
 #{172}{}{I was hoping to buy something new from those caravans, too... }
-{172}{}{我也想从那些大篷车里买点新东西。。。}
+{172}{}{我也想从那些大篷车里买点新东西...}
 #{173}{}{I guess we won't be getting mail from Reno any time soon.}
 {173}{}{我想我们很快就不会收到雷诺的邮件了。}
 #{174}{}{Whoever saved that caravan must be one bad mother.}
@@ -156,24 +156,24 @@
 {177}{}{我听说威廉在等米洛。他通常不会这么晚。}
 #{178}{}{I wouldn't be surprised if Milo just ran away from his wife. Ha!}
 {178}{}{如果米洛从他妻子身边跑了我也不会感到惊讶。哈！}
-#{179}{}{I haven�t seen Milo for a long time.}
+#{179}{}{I haven??t seen Milo for a long time.}
 {179}{}{我好久没见到米洛了。}
 #{199}{}{You see Dave.}
 {199}{}{你看到戴夫了。}
 #{200}{}{[He smiles and nods] Welcome! Always happy to see people like you in this shithole.}
 {200}{}{[他微笑着点头]欢迎！总是很高兴看到像你这样的人在这鬼地方。}
 #{201}{}{[He peers at you suspiciously] New in town? Interesting... Anyway, what do you want from me?}
-{201}{}{[他怀疑地看着你]新来的？有趣。。。不管怎样，你想从我这里得到什么？}
+{201}{}{[他怀疑地看着你]新来的？有趣...不管怎样，你想从我这里得到什么？}
 #{202}{}{Are you Dave?}
 {202}{}{你是戴夫吗？}
 #{203}{}{Nothing.}
 {203}{}{没有什么。}
 #{204}{}{Ohh, I can't hide it anymore! I am... Dave. Everyone knows that, and now, so do you. Shit, how could it be so hard to hide in such a small settlement?}
-{204}{}{哦，我再也藏不住了！我是。。。戴夫。每个人都知道，现在，你也知道了。妈的，躲在这么小的地方怎么这么难？}
+{204}{}{哦，我再也藏不住了！我是...戴夫。每个人都知道，现在，你也知道了。妈的，躲在这么小的地方怎么这么难？}
 #{205}{}{Quit screwing around. Do you know anything about this pistol?}
 {205}{}{别胡闹了。你知道这把手枪吗？}
 #{206}{}{Ah, yeah... My trusty partner Smiley would sometimes hunt with it. He was lucky, but not lucky enough to save him from raiders. We divvied up his stuff to sell, and that damned merchant William took the best of it, of course. But he made a mistake.}
-{206}{}{啊，是的。。。我可信赖的搭档斯迈利有时会用它打猎。他很幸运，但幸运的是没有把他从袭击者手中救出来。我们把他的东西分给别人卖，那该死的商人威廉当然是占了上风。但他犯了个错误。}
+{206}{}{啊，是的...我可信赖的搭档斯迈利有时会用它打猎。他很幸运，但幸运的是没有把他从袭击者手中救出来。我们把他的东西分给别人卖，那该死的商人威廉当然是占了上风。但他犯了个错误。}
 #{207}{}{Which was?}
 {207}{}{哪个是？}
 #{208}{}{He forgot that it needs batteries! No one's going to buy a plasma pistol you can't power. Also, it's not as good as it seems. Smiley had to fix it up constantly just to keep it working.}
@@ -181,11 +181,11 @@
 #{209}{}{Do you know how to fix it up?}
 {209}{}{你知道怎么修理吗？}
 #{210}{}{Hmm... [he rubs his chin] Well, I saw him clean it all the time. I must be the only one - no one even tried to maintain it after Smiley died. I'll be honest, that thing's never going to be a real killer, but with a bit of work you might get more "oomph" out of it.}
-{210}{}{隐马尔可夫模型。。。[他揉着下巴]嗯，我看到他一直在擦。我一定是唯一的一个-在斯迈利死后，甚至没有人试图保持它。老实说，那东西永远不会是真正的杀手，但只要你努力一点，你可能会从中得到更多的“魅力”。}
+{210}{}{Hmm...[他揉着下巴]嗯，我看到他一直在擦。我一定是唯一的一个-在斯迈利死后，甚至没有人试图保持它。老实说，那东西永远不会是真正的杀手，但只要你努力一点，你可能会从中得到更多的“魅力”。}
 #{211}{}{That sounds great. Can you do that?}
 {211}{}{听起来不错。你能做到吗？}
 #{212}{}{Sure... But it's gonna cost you.}
-{212}{}{当然。。。但这会让你付出代价的。}
+{212}{}{当然...但这会让你付出代价的。}
 #{213}{}{What do you want?}
 {213}{}{你想要什么？}
 #{214}{}{William on my back about gecko skins, but hunting's been lean lately. Get me about, oh, 250 bucks' worth of skins and I'll clean that baby right up.}
@@ -216,7 +216,7 @@
 {226}{}{干得好，戴夫。内华达州很快就会空很多。}
 #{227}{}{Thanks, Dave. You really helped me out.}
 {227}{}{谢谢，戴夫。你真的帮了我。}
-#{228}{}{No, this won�t cut it.}
+#{228}{}{No, this won??t cut it.}
 {228}{}{不，这样不行。}
 #{229}{}{Don't mention it. It was nothing.}
 {229}{}{不用谢。没什么。}
@@ -243,29 +243,29 @@
 #{255}{}{Why do they call you Bolt?}
 {255}{}{他们为什么叫你博尔特？}
 #{256}{}{What were you doing on the night the brahmin disappeared?}
-{256}{}{婆罗门失踪那晚你在干什么？}
+{256}{}{双头牛失踪那晚你在干什么？}
 #{257}{}{[He smirks] Maybe it's because I have a metal spark in my eyes.}
 {257}{}{[他笑了]也许是因为我眼睛里有金属火花。}
 #{258}{}{Sleeping, like I should have been. Don't pull any psychological crap on me - I didn't have anything to do with that fucking brahmin. Full stop.}
-{258}{}{睡觉，就像我应该睡的那样。别在我身上胡扯-我和那个该死的婆罗门一点关系都没有。句号。}
+{258}{}{睡觉，就像我应该睡的那样。别在我身上胡扯-我和那个该死的双头牛一点关系都没有。句号。}
 #{259}{}{Bolt, can I see your shotgun shells?}
 {259}{}{博尔特，我能看看你的霰弹枪吗？}
 #{260}{}{Err, my shotgun shells? Uh, why?}
 {260}{}{呃，我的猎枪弹壳？呃，为什么？}
 #{261}{}{I want to compare them with the ones left in the stolen brahmin's body.}
-{261}{}{我想把它们和被偷走的婆罗门身体里留下的那些比较一下。}
+{261}{}{我想把它们和被偷走的双头牛身体里留下的那些比较一下。}
 #{262}{}{[Looks around furtively and whispers to you] How the fuck... Dammit! I knew I'd get in trouble for this shit!}
-{262}{}{[偷偷摸摸地环顾四周，低声对你说]他妈的。。。该死！我就知道我会有麻烦的！}
+{262}{}{[偷偷摸摸地环顾四周，低声对你说]他妈的...该死！我就知道我会有麻烦的！}
 #{263}{}{Interesting. What do you have to say in your defense?}
 {263}{}{很有趣。你有什么要说的？}
 #{264}{}{Fuck it, I won't even try! I'm not that kind of person. You know what kind of person I am? I'm one of the "Molerats" gang, that's what! Well, *was* a Molerat. I'm retired... Or I thought I was, anyway.}
-{264}{}{去他妈的，我连试都不试！我不是那种人。你知道我是什么样的人吗？我是“骚扰者”团伙的一员，就是这样！嗯，*是一只*鼹鼠。我退休了。。。或者我以为我是。}
+{264}{}{去他妈的，我连试都不试！我不是那种人。你知道我是什么样的人吗？我是“骚扰者”团伙的一员，就是这样！嗯，*是一只*鼹鼠。我退休了...或者我以为我是。}
 #{265}{}{Tell about the gang.}
 {265}{}{说说那帮人。}
 #{266}{}{You left the gang?}
 {266}{}{你离开了那帮人？}
 #{267}{}{How is this connected to the missing brahmin?}
-{267}{}{这和失踪的婆罗门有什么关系？}
+{267}{}{这和失踪的双头牛有什么关系？}
 #{268}{}{What are you going to do now?}
 {268}{}{你现在要做什么？}
 #{269}{}{I have to decide what to do next.}
@@ -275,7 +275,7 @@
 #{271}{}{Yeah. We controlled this whole valley once, but by the time I left, we were shaking down random travelers for crumbs. I came back here, and until you figured me out, no one knew about my past.}
 {271}{}{是 啊。我们曾经控制过整个山谷，但当我离开的时候，我们正在打倒随机的旅行者寻找面包屑。我回到这里，直到你发现我，没有人知道我的过去。}
 #{272}{}{The guys hadn't eaten in a while, so they came to me one night. I couldn't say no - they're weaker than they were, but they're sure as hell still tough enough to kill me! I mixed xander root powder into some water and gave it to that kid so he'd fall asleep, then managed to get the planks off the fence to get the brahmin out without making noise.}
-{272}{}{他们有一阵子没吃东西了，所以有天晚上他们来找我。我不能说不-他们比以前更虚弱了，但他们仍然非常坚强，足以杀死我！我把仙人掌粉掺进水里，给了那个孩子，好让他睡着，然后设法把木板从篱笆上取下来，把婆罗门弄出来，不发出声音。}
+{272}{}{他们有一阵子没吃东西了，所以有天晚上他们来找我。我不能说不-他们比以前更虚弱了，但他们仍然非常坚强，足以杀死我！我把仙人掌粉掺进水里，给了那个孩子，好让他睡着，然后设法把木板从篱笆上取下来，把双头牛弄出来，不发出声音。}
 #{273}{}{Nothing. If they're gonna toss me out, so be it. I'll go to Big Louie and join up with him. It won't be as good as here, but at least I won't starve to death, like the Molerats. They don't have much time left.}
 {273}{}{没有什么。如果他们要把我赶出去，就这样吧。我要去大路易和他会合。不会像这里那么好，但至少我不会像鼹鼠一样饿死。他们剩下的时间不多了。}
 #{274}{}{Not much time left? Why not get rid of them right now?}
@@ -291,7 +291,7 @@
 #{281}{}{William's furious. You have to leave Black Rock.}
 {281}{}{威廉很生气。你必须离开黑岩。}
 #{282}{}{He forgives me? After what I did? I... Hmm. I didn't expect that. But if that's what he says... Look, thanks. You did a good thing for me, better than I deserve.}
-{282}{}{他原谅我了？在我做了什么之后？一、 。。。嗯。我没想到。但如果他是这么说的。。。听着，谢谢。你为我做了一件好事，比我应得的要好。}
+{282}{}{他原谅我了？在我做了什么之后？一、 ...嗯。我没想到。但如果他是这么说的...听着，谢谢。你为我做了一件好事，比我应得的要好。}
 #{283}{}{Yeah, I won't say I don't deserve it. I'll pack up and go. I tried to go straight, but I couldn't - and that's fine. Tell William that, whether I'm here or not, the gang will be back. He'd better be ready.}
 {283}{}{是的，我不会说我不配。我收拾行李走。我试着直走，但我做不到-那很好。告诉威廉，不管我在不在，那帮人都会回来的。他最好准备好。}
 #{284}{}{Enjoy your life here.}

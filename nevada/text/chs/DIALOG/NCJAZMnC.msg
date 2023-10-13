@@ -35,7 +35,7 @@
 #{118}{}{Does it matter? We could do great things if we work together, trust me.}
 {118}{}{有关系吗？相信我，如果我们一起工作，我们可以做大事。}
 #{119}{}{Yeeeaaah... I can be sure about that, but not about you. I live music, I don't sell it, you get that? And, to share this passion, I need to be sure about my partner. Some things still matter in this world, now maybe more than ever. And, on top of all, you're white. Look, prove to our family that you can be trusted - and I'll go with you.}
-{119}{}{是啊。。。我可以肯定，但你不能。我靠音乐为生，我不卖，明白吗？为了分享这份激情，我需要确定我的搭档。有些事情在这个世界上仍然重要，现在也许比以往任何时候都重要。最重要的是，你是白人。听着，向我们的家人证明你是可以信任的-我会和你一起去的。}
+{119}{}{是啊...我可以肯定，但你不能。我靠音乐为生，我不卖，明白吗？为了分享这份激情，我需要确定我的搭档。有些事情在这个世界上仍然重要，现在也许比以往任何时候都重要。最重要的是，你是白人。听着，向我们的家人证明你是可以信任的-我会和你一起去的。}
 #{120}{}{By family, you mean the slums, right? I need to think about it.}
 {120}{}{你说的家庭，是指贫民窟吧？我需要考虑一下。}
 #{121}{}{I've already said everything. I won't work with you until the hood has something good to say about you.}
@@ -63,7 +63,7 @@
 #{1115}{}{Jazz is good. The voice of my people. [his voice goes hard] *My* people.}
 {1115}{}{爵士乐很好。我人民的声音。[他的声音变得强硬]*我的*人民。}
 #{1119}{}{Yeeeaaah... I can be sure about that, but not about you. I live music, I don't sell it, you get that? And, to share this passion, I need to be sure about my partner. Some things still matter in this world, now maybe more than ever. And, on top of all, you're white. Look, prove to our family that you can be trusted - and I'll go with you.}
-{1119}{}{是啊。。。我可以肯定，但你不能。我靠音乐为生，我不卖，明白吗？为了分享这份激情，我需要确定我的搭档。有些事情在这个世界上仍然重要，现在也许比以往任何时候都重要。最重要的是，你是白人。听着，向我们的家人证明你是可以信任的-我会和你一起去的。}
+{1119}{}{是啊...我可以肯定，但你不能。我靠音乐为生，我不卖，明白吗？为了分享这份激情，我需要确定我的搭档。有些事情在这个世界上仍然重要，现在也许比以往任何时候都重要。最重要的是，你是白人。听着，向我们的家人证明你是可以信任的-我会和你一起去的。}
 #{1125}{}{Have I done enough for the neighborhood for you to trust me?}
 {1125}{}{我已经为邻居做了足够的事让你相信我了吗？}
 #{1126}{}{You know, you're not bad. For a whitey. Fine, count me in. But I don't want to work alone - it's dangerous in this town. There's a war going on, after all.}

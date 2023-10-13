@@ -7,9 +7,9 @@
 #{103}{}{I don't serve childkillers.}
 {103}{}{我不为儿童杀手服务。}
 #{200}{}{One rotgut coming right up... }
-{200}{}{一个罗格特马上就要来了。。。}
+{200}{}{一个罗格特马上就要来了...}
 #{201}{}{That'll be three bucks... }
-{201}{}{一共三块钱。。。}
+{201}{}{一共三块钱...}
 #{202}{}{Another one, friend?}
 {202}{}{再来一杯，朋友？}
 #{203}{}{Here's your medicine if you want it!}
@@ -19,7 +19,7 @@
 #{205}{}{Two half-ounce bags or a tin?}
 {205}{}{两袋半盎司还是一罐？}
 #{206}{}{Special order for Tim Cain... }
-{206}{}{给蒂姆·凯恩的特别订单。。。}
+{206}{}{给蒂姆·凯恩的特别订单...}
 #{207}{}{Let me guess: put it on your tab?}
 {207}{}{让我猜猜：记在你的帐上？}
 #{208}{}{One "dive bomb" with ice, coming right up.}
@@ -27,7 +27,7 @@
 #{209}{}{Hey, you can't just shoot that shit here!}
 {209}{}{嘿，你不能在这里开枪！}
 #{210}{}{You know why we need to hang these actors? 'Cause the theater begins with the hanger... Ha-ha-ha!}
-{210}{}{你知道我们为什么要绞死这些演员吗因为戏剧从衣架开始。。。哈哈哈！}
+{210}{}{你知道我们为什么要绞死这些演员吗因为戏剧从衣架开始...哈哈哈！}
 #{229}{}{How can I help you?}
 {229}{}{我能帮你什么？}
 #{230}{}{Need something, chummer?}
@@ -53,13 +53,13 @@
 #{241}{}{Speaking of, where's your boss? I need to, err, talk to him.}
 {241}{}{说到这里，你老板呢？我需要，呃，和他谈谈。}
 #{242}{}{I haven't seen him in a while. No one has any idea where he is. It's a shame, too - I wanted to ask for a raise... }
-{242}{}{我好久没见到他了。没人知道他在哪里。也很遗憾-我想要求加薪。。。}
+{242}{}{我好久没见到他了。没人知道他在哪里。也很遗憾-我想要求加薪...}
 #{243}{}{How are you handling things without him?}
 {243}{}{没有他你怎么办？}
 #{244}{}{Administration never rests. We can handle ourselves without Mister Bertolini... For a while, at least.}
-{244}{}{政府从不休息。我们不用贝托里尼先生也能应付。。。至少有一段时间。}
+{244}{}{政府从不休息。我们不用贝托里尼先生也能应付...至少有一段时间。}
 #{245}{}{Alright... }
-{245}{}{好吧。。。}
+{245}{}{好吧...}
 #{251}{}{Mom mentioned some guy named Ted Bundy. Heard of him?}
 {251}{}{妈妈提到一个叫泰德·邦迪的家伙。听说过他吗？}
 #{252}{}{Ugh. Yeah, I have. Not much though. Would've been better off if I didn't. He's a maniac. Ambushed some of our girls and carved them up with some mechanical knife. Fucking animal. Nobody knows where he lives or how to deal with him. But, as long as you're careful, you should be fine.}
@@ -67,11 +67,11 @@
 #{253}{}{Do you know anything about the girl in this picture?}
 {253}{}{你知道这张照片里那个女孩的事吗？}
 #{254}{}{Well, she's probably one of the previous dancers. But if that is so, she worked here before me. So, I probably can't help you there... Hold on... "Virginia 75"? I'm not sure, but I think that's somewhere around here.}
-{254}{}{她可能是以前的舞者之一。但如果是这样的话，她比我先在这里工作。所以，我可能帮不了你。。。等等……”弗吉尼亚75”？我不确定，但我想就在这附近。}
+{254}{}{她可能是以前的舞者之一。但如果是这样的话，她比我先在这里工作。所以，我可能帮不了你...等等……”弗吉尼亚75”？我不确定，但我想就在这附近。}
 #{255}{}{I'm new here. Mind telling me what working here is like?}
 {255}{}{我是新来的。介意告诉我在这里工作是什么感觉吗？}
 #{256}{}{Well, you know, the collective's nice. But the clients cause problems from time to time. Something you should get used to. Might throw a bottle, or try to get across the railing to the dance floor. And there are complete retards like that pussy from the slums. Harding I think. Locked himself in the toilets and started crying like a little bitch. Had to carry him out in the streets, heh-heh... Point is, best to always keep an eye out.}
-{256}{}{好吧，你知道，集体很好。但是客户们时不时地会引起问题。一些你应该习惯的东西。可能会扔一个瓶子，或者试图越过栏杆到舞池。还有像贫民窟里的女人一样的完全的弱智。我想是哈丁。把自己锁在厕所里，像个小婊子一样哭了起来。不得不把他抬到街上，嘿嘿。。。重点是，最好时刻保持警惕。}
+{256}{}{好吧，你知道，集体很好。但是客户们时不时地会引起问题。一些你应该习惯的东西。可能会扔一个瓶子，或者试图越过栏杆到舞池。还有像贫民窟里的女人一样的完全的弱智。我想是哈丁。把自己锁在厕所里，像个小婊子一样哭了起来。不得不把他抬到街上，嘿嘿...重点是，最好时刻保持警惕。}
 #{260}{}{Do you know anything about someone named Racer starting a fight?}
 {260}{}{你知道一个叫Racer的人打架的事吗？}
 #{261}{}{Yeah, I do. He didn't get far. We kicked his ass to the curb where he belonged. If only he'd gone down the drain, like the hobo piss he is. Hopefully he'll know better than to show his mug here again.}
@@ -111,15 +111,15 @@
 #{280}{}{I'm looking for a place to earn a few bucks. Mind pointing me in the right direction?}
 {280}{}{我在找一个地方挣几块钱。介意给我指出正确的方向吗？}
 #{281}{}{Hmm... You're new in town, right? No friends, no connections... I doubt you have much chance. Unless... }
-{281}{}{隐马尔可夫模型。。。你是新来的，对吧？没有朋友，没有关系。。。我怀疑你有多少机会。除非。。。}
+{281}{}{Hmm...你是新来的，对吧？没有朋友，没有关系...我怀疑你有多少机会。除非...}
 #{282}{}{Unless?}
 {282}{}{除非？}
 #{283}{}{Well, I'd suggest finding a common interest with a few... Influential people. [he looks around the room] Take that gentleman by the pool table, for example. Regular client. Respectable man! Always has money and always orders expensive drinks. I don't know who he works for, but those are the types of people you should look into meeting.}
-{283}{}{好吧，我建议你和几个。。。有影响力的人。[他环顾了一下房间]以台球桌旁的那位先生为例。普通客户。可敬的人！总是有钱而且总是点昂贵的饮料。我不知道他是为谁工作的，但你应该去拜访那些类型的人。}
+{283}{}{好吧，我建议你和几个...有影响力的人。[他环顾了一下房间]以台球桌旁的那位先生为例。普通客户。可敬的人！总是有钱而且总是点昂贵的饮料。我不知道他是为谁工作的，但你应该去拜访那些类型的人。}
 #{284}{}{Thanks for the tip.}
 {284}{}{谢谢你的小费。}
 #{285}{}{Of course, any time... I hope you won't forget about me? [he smiles and winks]}
-{285}{}{当然，任何时候。。。我希望你不会忘记我？[他微笑着眨眼]}
+{285}{}{当然，任何时候...我希望你不会忘记我？[他微笑着眨眼]}
 #{286}{}{Oh yeah, here's a fiver. Thanks.}
 {286}{}{哦，是的，这是5英镑。谢谢。}
 #{287}{}{Sorry, but I really am empty today. Some other time.}

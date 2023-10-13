@@ -11,7 +11,7 @@
 #{113}{}{"Fellow hard worker"? Heh! Bad, as always. Do you see this big guy on the floor?}
 {113}{}{“努力的同事”？嘿！坏的，一如既往。你看见地板上有个大个子吗？}
 #{114}{}{Robo-cop? Funny...}
-{114}{}{机器人警察？好笑。。。}
+{114}{}{机器人警察？好笑...}
 #{115}{}{Yeah, it is. So many complicated stuff to fix just so he could stand somewhere for intimidation. I'd have better luck wearing this junk on me and scaring the passersby myself.}
 {115}{}{是的，是的。这么多复杂的事情要处理，只是为了让他站在某个地方受到恐吓。我穿上这件破烂衣服，自己吓唬路人，运气会好一些。}
 #{116}{}{Do you think there would be no benefit from it?}
@@ -21,7 +21,7 @@
 #{118}{}{Do you think he would be dangerous, after the activation?}
 {118}{}{你认为激活后他会很危险吗？}
 #{119}{}{Who knows... The military model was not created for peaceful purposes, baby. They were made to KILL! And this robot is lied dormant for, like, 70 years, with no check-ups. Luckily, I came up with taking away his ammunition and disabling lower servomotors, to avoid being killed on the spot when he'll be turned on. But it's the other thing that scares me - not many people can understand this level of robotic tech. So, no one could really tell what's on the mind of this piece of iron. We have to rely on testing and spend a lot of time to study the blueprints. So much effort for one robot! Is it worth it? I'm not sure.}
-{119}{}{谁知道。。。军事模型不是为了和平目的而建立的，宝贝。他们是被杀的！这个机器人休眠了，大概70年，没有检查。幸运的是，我想出了拿走他的弹药和禁用较低的伺服电机，以避免被当场杀死时，他将被打开。但另一件事让我害怕的是，没有多少人能理解这种机器人技术的水平，所以，没有人能真正说出这块铁的想法。我们必须依靠测试，并花费大量时间研究蓝图。为一个机器人付出了这么多的努力！值得吗？我不确定。}
+{119}{}{谁知道...军事模型不是为了和平目的而建立的，宝贝。他们是被杀的！这个机器人休眠了，大概70年，没有检查。幸运的是，我想出了拿走他的弹药和禁用较低的伺服电机，以避免被当场杀死时，他将被打开。但另一件事让我害怕的是，没有多少人能理解这种机器人技术的水平，所以，没有人能真正说出这块铁的想法。我们必须依靠测试，并花费大量时间研究蓝图。为一个机器人付出了这么多的努力！值得吗？我不确定。}
 #{120}{}{Does he has any imperfections?}
 {120}{}{他有什么缺点吗？}
 #{121}{}{Of course he has! It's full of electronics. One shot of pulse round - and the circuits will simply fry. It's a common problem for all pre-war build robots.}
@@ -47,9 +47,9 @@
 #{151}{}{Hey!}
 {151}{}{嘿！}
 #{152}{}{Oh, it's you...}
-{152}{}{哦，是你。。。}
+{152}{}{哦，是你...}
 #{153}{}{Sorry, I'm working...}
-{153}{}{对不起，我在工作。。。}
+{153}{}{对不起，我在工作...}
 #{154}{}{What? It's time for break?}
 {154}{}{什么？休息时间到了？}
 #{230}{}{Have you seen the car not far from here? My ride. Jealous?}
@@ -57,7 +57,7 @@
 #{231}{}{[Whistles] I would be honored to even touch it! Out of professional interest and technological engagement, so to speak. And you know, if the car is working, then maybe I can hook her up with something - gravity-plates with energocyclic chip! The car won't just ride, it will FLY! Well, figuratively speaking.}
 {231}{}{我很荣幸能碰它！可以说是出于专业兴趣和技术参与。你知道，如果车能用的话，也许我可以给她买些东西-重力板和能量芯片！这辆车不仅能开，还能飞！好吧，打个比方。}
 #{232}{}{And do you have this... Thing?}
-{232}{}{你有这个。。。事情？}
+{232}{}{你有这个...事情？}
 #{233}{}{Yeah, it's waiting for its new owner. Of course, I wouldn't mind of payment for my work. The price is 2500, deal?}
 {233}{}{是的，它在等它的新主人。当然，我不介意我的工作报酬。价格是2500，成交吗？}
 #{234}{}{Okay, here is the money.}
@@ -69,7 +69,7 @@
 #{237}{}{Okay.}
 {237}{}{可以。}
 #{238}{}{All done! You can now go on ahead and try it out... Damn, I'm so jealous!}
-{238}{}{一切就绪！你现在可以继续尝试了。。。妈的，我好嫉妒！}
+{238}{}{一切就绪！你现在可以继续尝试了...妈的，我好嫉妒！}
 #{239}{}{Oh. Thanks.}
 {239}{}{哦。谢谢。}
 #{240}{}{After installing the gravity-plates your car can accelerate to incredible speeds and consume far less energy. Highways of Nevada, tremble!}

@@ -9,7 +9,7 @@
 #{104}{}{Hey, you scrounger! Come on out! Maybe then your death will be quick and quiet. Although, I can't promise that!}
 {104}{}{嘿，你这个骗子！快出来！也许你的死会很快平静下来。不过，我不能保证！}
 #{105}{}{Don't rush things, handsome... Harrelson, right?}
-{105}{}{别着急，帅哥。。。哈勒森，对吧？}
+{105}{}{别着急，帅哥...哈勒森，对吧？}
 #{106}{}{You are the scrounger here!}
 {106}{}{你是这里的小偷！}
 #{107}{}{[Go out and get involved in the fight]}
@@ -25,7 +25,7 @@
 #{112}{}{Never expected to hear a sensible speech from the old ghoul. How did you end up like this?}
 {112}{}{没想到会听到那个老食尸鬼的明智的讲话。你怎么会变成这样？}
 #{113}{}{I'll tell you... When I catch and put you in a cage! I have caught a few dozens like you. Every one of them wanted a piece of me, wanted to get my things. But my traps are not just for show! And you? Isn't it the same thing you came here for?}
-{113}{}{我告诉你。。。当我抓住你，把你关在笼子里！我抓了几十个像你这样的人。他们每个人都想要我的一部分，想要得到我的东西。但我的陷阱不只是作秀！和你？这不是你来这里的目的吗？}
+{113}{}{我告诉你...当我抓住你，把你关在笼子里！我抓了几十个像你这样的人。他们每个人都想要我的一部分，想要得到我的东西。但我的陷阱不只是作秀！和你？这不是你来这里的目的吗？}
 #{114}{}{I'm here to stop your madness.}
 {114}{}{我是来阻止你的疯狂的。}
 #{115}{}{True - I'm just here to steal all your belongings and sell them to the Quok brothers.}
@@ -33,7 +33,7 @@
 #{116}{}{Then, stop talking!}
 {116}{}{那就别说了！}
 #{117}{}{Who's crazy?! You climb under the barrel, knowing it will all end, and I... I defend my place!}
-{117}{}{谁疯了？！你爬到桶底下，知道一切都会结束，而我。。。我保卫我的地盘！}
+{117}{}{谁疯了？！你爬到桶底下，知道一切都会结束，而我...我保卫我的地盘！}
 #{118}{}{You may have protected your belongings, but still at the cost of life of ordinary prospectors. What about conscience, doesn't it torment you?}
 {118}{}{你可能已经保护了你的财产，但仍然以普通探矿者的生命为代价。良心呢，它不折磨你吗？}
 #{119}{}{Tell me where did you get all these things? Took it off corpses?}
@@ -44,12 +44,12 @@
 {121}{}{所以，对你来说，你的财产比关心别人更重要？}
 #{122}{}{I'm tired of it. I want to end you once and for all.}
 {122}{}{我受够了。我想一劳永逸地结束你。}
-#{123}{}{Conscience? I haven�t heard these word in seventy years... It couldn't save any of those, who were bent on nuclear explosions. Since then, I have forgotten what "conscience" means.}
-{123}{}{良心？我已经七十年没听过这个词了。。。它救不了那些一心想搞核爆炸的人。从那以后，我就忘了“良心”是什么意思了。}
+#{123}{}{Conscience? I haven??t heard these word in seventy years... It couldn't save any of those, who were bent on nuclear explosions. Since then, I have forgotten what "conscience" means.}
+{123}{}{良心？我已经七十年没听过这个词了...它救不了那些一心想搞核爆炸的人。从那以后，我就忘了“良心”是什么意思了。}
 #{124}{}{Nuclear explosions? So, you witnessed the Great War?}
 {124}{}{核爆炸？那么，你目睹了大战？}
 #{125}{}{People got what they deserved. When I carried bottles, I was not recognized as a human being. Only when I traveled outside of the big city in my car I was able to find peace. When I saw the flash... I felt joy. I thought I was alone in the world... Until the bastards like you appeared! They came to me, wanted to take my supplies and kill me... No, conscience may not torment me for killing animals. And the people are animals!}
-{125}{}{人们得到了他们应得的。当我拿瓶子的时候，我没有被认出来是人。只有当我开车走出大城市时，我才能找到宁静。当我看到闪光。。。我感到高兴。我以为我在这个世界上是孤独的。。。直到像你这样的混蛋出现！他们来找我，想拿走我的补给然后杀了我。。。不，良心也许不会因为我杀了动物而折磨我。人是动物！}
+{125}{}{人们得到了他们应得的。当我拿瓶子的时候，我没有被认出来是人。只有当我开车走出大城市时，我才能找到宁静。当我看到闪光...我感到高兴。我以为我在这个世界上是孤独的...直到像你这样的混蛋出现！他们来找我，想拿走我的补给然后杀了我...不，良心也许不会因为我杀了动物而折磨我。人是动物！}
 #{126}{}{I think you just had bad luck with people, which got you angry at the whole world.}
 {126}{}{我想你只是和别人在一起运气不好，这让你对整个世界都很生气。}
 #{127}{}{[Pause] Shut up and get where I can see you. My past will soon cease to be the reason of your worries. As I said - people are animals. They are not worthy to be called human beings.}
@@ -61,16 +61,16 @@
 #{130}{}{Such glorious stories - about me? I was expecting something like this. You, animals, feel the smell of money, like flies smell the rotten meat. Am I not right? And if to kill a fly - will the world be any worse than it is?}
 {130}{}{如此辉煌的故事-关于我？我期待着这样的事情。你，动物，感受到金钱的味道，就像苍蝇闻到腐烂的肉。我说的不对吗？如果要杀死一只苍蝇，世界会比现在更糟吗？}
 #{131}{}{Such an original comparison. But the prospectors were just looking for a way to survive in our time... In our world.}
-{131}{}{如此原始的对比。但是探矿者们只是在寻找一种在我们这个时代生存的方法。。。在我们的世界里。}
+{131}{}{如此原始的对比。但是探矿者们只是在寻找一种在我们这个时代生存的方法...在我们的世界里。}
 #{132}{}{You still have the guts to talk about it, you monkey? It's just what these animals do. They take lives of their own relatives to feed themselves. But yeah... Such times... Such world. [remembering something from his past he dramatically increases voice] But before the War it was just the same! People didn't kill each other like now, but bullied each other at school, bullied the weak ones in the army... Inside of people themselves, nothing has changed.}
-{132}{}{你还敢说吗，猴子？这些动物就是这么做的。他们用自己亲戚的生命来养活自己。但是是的。。。这样的时候。。。这样的世界。[回忆起过去的一些事情，他戏剧性地提高了声音]但在战争之前，一切都是一样的！人们不是像现在这样互相残杀，而是在学校里互相欺负，在军队里欺负弱者。。。在人的内心，什么都没有改变。}
+{132}{}{你还敢说吗，猴子？这些动物就是这么做的。他们用自己亲戚的生命来养活自己。但是是的...这样的时候...这样的世界。[回忆起过去的一些事情，他戏剧性地提高了声音]但在战争之前，一切都是一样的！人们不是像现在这样互相残杀，而是在学校里互相欺负，在军队里欺负弱者...在人的内心，什么都没有改变。}
 #{133}{}{Greed and ego. Are you talking about this? But do you act differently?}
 {133}{}{贪婪和自我。你在说这个吗？但你有不同的表现吗？}
 #{134}{}{Shut up! Shut up! I'm tired of your nonsense. Come out from hiding and meet your fate, thieving brat!}
 {134}{}{闭嘴！闭嘴！我受够了你的胡说八道。从躲藏中走出来，面对你的命运，偷东西的小子！}
 #{135}{}{Oh, you're not the only thief with whom I had a chance to talk... But I'll like the conversation more, when [raises his voice] you're in the cage with guts ripped out!!!}
-{135}{}{哦，你不是唯一一个和我谈过的小偷。。。但我更喜欢这段对话，当[提高声音]你被关在笼子里，肠子都被撕破了！！！}
-#{136}{}{That�s harsh.}
+{135}{}{哦，你不是唯一一个和我谈过的小偷...但我更喜欢这段对话，当[提高声音]你被关在笼子里，肠子都被撕破了！！！}
+#{136}{}{That??s harsh.}
 {136}{}{这太苛刻了。}
 #{137}{}{You know, you pretend to be pious son of a bitch, but If you are pressed to the wall with the sharp blade at your throat, you would sing another song. Yes, I remember this folly before the War. All your essence will come out, one has only to grab it by the throat. And believe me, it smells no better than a piece of human shit.}
 {137}{}{你知道吗，你假装是个虔诚的狗娘养的，但是如果你被用锋利的刀子压在墙上，你会再唱一首歌。是的，我记得战前的这件蠢事。你所有的精华都会出来，只要抓住喉咙就行了。相信我，它闻起来并不比一块人类粪便好。}
@@ -93,7 +93,7 @@
 #{1112}{}{Never expected to hear a sensible speech from the old ghoul. How did you end up like this?}
 {1112}{}{没想到会听到那个老食尸鬼的明智的讲话。你怎么会变成这样？}
 #{1113}{}{I'll tell you... When I catch and put you in a cage! I have caught a few dozens like you. Every one of them wanted a piece of me, wanted to get my things. But my traps are not just for show! And you? Isn't it the same thing you came here for?}
-{1113}{}{我告诉你。。。当我抓住你，把你关在笼子里！我抓了几十个像你这样的人。他们每个人都想要我的一部分，想要得到我的东西。但我的陷阱不只是作秀！和你？这不是你来这里的目的吗？}
+{1113}{}{我告诉你...当我抓住你，把你关在笼子里！我抓了几十个像你这样的人。他们每个人都想要我的一部分，想要得到我的东西。但我的陷阱不只是作秀！和你？这不是你来这里的目的吗？}
 #{1137}{}{You know, you pretend to be pious son of a bitch, but If you are pressed to the wall with the sharp blade at your throat, you woud sing another song. Yes, I remember this folly before the War. All your essence will come out, one has only to grab it by the throat. And believe me, it smells no better than a piece of human shit.}
 {1137}{}{你知道吗，你假装是个虔诚的狗娘养的，但是如果你被用尖刀压在墙上，你会再唱一首歌。是的，我记得战前的这件蠢事。你所有的精华都会出来，只要抓住喉咙就行了。相信我，它闻起来并不比一块人类粪便好。}
 #{1139}{}{So come out of hiding and we will see. You're neither the first, nor last. However, I like you. With you, I'm gonna have a "conversation" longer than usual.}

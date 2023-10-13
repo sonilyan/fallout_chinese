@@ -37,7 +37,7 @@
 #{133}{}{Look, I won't hurt you. Honest. I just want to know where the letter is. Can you tell me that?}
 {133}{}{听着，我不会伤害你的。诚实。我只想知道信在哪里。你能告诉我吗？}
 #{134}{}{I... Can't tell... [he looks over at his father nervously]}
-{134}{}{一、 。。。不知道。。。[他紧张地看着他的父亲]}
+{134}{}{一、 ...不知道...[他紧张地看着他的父亲]}
 #{135}{}{Your father took it? You don't have to say anything, just nod.}
 {135}{}{你父亲拿走了？你什么都不用说，只要点头。}
 #{136}{}{[The kid looks at his father to make sure he isn't watching, then slowly gives a small nod.]}

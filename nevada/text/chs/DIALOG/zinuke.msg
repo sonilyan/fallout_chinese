@@ -1,7 +1,7 @@
 #{100}{}{You see a Nuka-Cola machine. You wonder if it still works.}
 {100}{}{你看到一台努卡可乐机。你想知道它是否仍然有效。}
 #{101}{}{[Thunk, thunk, cha-ching... Sheeew]}
-{101}{}{[砰，砰，恰恰。。。[嘘]}
+{101}{}{[砰，砰，恰恰...[嘘]}
 #{102}{}{You get a not-so-fresh bottle of Nuka-Cola.}
 {102}{}{你会得到一瓶不太新鲜的努卡可乐。}
 #{103}{}{Dooohhhh!}

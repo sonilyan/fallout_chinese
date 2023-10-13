@@ -33,7 +33,7 @@
 #{122}{}{Sorry, but I have nothing left to teach you anymore. You have grown up and now on your own. Your future teacher is the ring, not the gym.}
 {122}{}{对不起，我没什么可以教你的了。你已经长大了，现在只能靠自己了。你未来的老师是戒指，不是体育馆。}
 #{123}{}{Oh, well coach, if you say so...}
-{123}{}{哦，教练，如果你这么说。。。}
+{123}{}{哦，教练，如果你这么说...}
 #{124}{}{After the fifth training session you finally made some progress. Your Unarmed skill increased by 5%!}
 {124}{}{第五次训练之后，你终于取得了一些进步。徒手技能提升5%！}
 #{125}{}{You have finished your tenth training session already, which hasn't passed without effect. Your Unarmed skill increased by 5%!}
@@ -47,7 +47,7 @@
 #{129}{}{You have carried out an ordinary training. But the results are not visible yet. You need to train more.}
 {129}{}{你进行了一次普通的训练。但目前还看不到结果。你需要多训练。}
 #{130}{}{Great job, champion! Such diligence, such stamina... Who would have thought? Until now, no one could endure such prolonged exercises. I'm proud of you! But... You know, I taught you everything I could. Next you will have to grow on your own.}
-{130}{}{干得好，冠军！如此勤奋，如此毅力。。。谁会想到呢？直到现在，没有人能忍受如此长时间的锻炼。我为你骄傲！但是。。。你知道，我教了你我能教的一切。下一步你必须自己成长。}
+{130}{}{干得好，冠军！如此勤奋，如此毅力...谁会想到呢？直到现在，没有人能忍受如此长时间的锻炼。我为你骄傲！但是...你知道，我教了你我能教的一切。下一步你必须自己成长。}
 #{131}{}{Thank you, coach, for everything.}
 {131}{}{教练，谢谢你所做的一切。}
 #{132}{}{Wow! What a technique! But I won't be able to help you. I have never worked with such a good fighter.}
@@ -59,7 +59,7 @@
 #{135}{}{No, champion. Your place is on the big ring and not on this dance floor.}
 {135}{}{不，冠军。你的位置在大舞台上，而不是在舞池里。}
 #{136}{}{Eh... Are you talking to me?}
-{136}{}{呃。。。你在跟我说话吗？}
+{136}{}{呃...你在跟我说话吗？}
 #{137}{}{Your hard work was not in vain: your Unarmed skill increased by 5%!}
 {137}{}{你的努力没有白费：你的徒手技能增加了5%！}
 #{138}{}{After all those exhausting exercises you increased your Strength.}
@@ -67,4 +67,4 @@
 #{1122}{}{Sorry, but I have nothing left to teach you anymore. You have grown up and now on your own. Your future school is the ring, not the gym.}
 {1122}{}{对不起，我没什么可以教你的了。你已经长大了，现在只能靠自己了。你未来的学校是拳击场，不是体育馆。}
 #{1130}{}{Great job, champion! Such diligence, such stamina... Who would have thought? Until now, no one could endure such prolonged exercises. I'm proud of you! But... You know, I taught you everything I could. Next you will have to grow on your own.}
-{1130}{}{干得好，冠军！如此勤奋，如此毅力。。。谁会想到呢？直到现在，没有人能忍受如此长时间的锻炼。我为你骄傲！但是。。。你知道，我教了你我能教的一切。下一步你必须自己成长。}
+{1130}{}{干得好，冠军！如此勤奋，如此毅力...谁会想到呢？直到现在，没有人能忍受如此长时间的锻炼。我为你骄傲！但是...你知道，我教了你我能教的一切。下一步你必须自己成长。}

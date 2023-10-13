@@ -39,7 +39,7 @@
 #{127}{}{Perfect!}
 {127}{}{很 完美！}
 #{128}{}{Actually, no, let me change that...}
-{128}{}{事实上，不，让我改变。。。}
+{128}{}{事实上，不，让我改变...}
 #{129}{}{Okay.}
 {129}{}{可以。}
 #{130}{}{Are you interested in buying gecko eggs?}
@@ -63,9 +63,9 @@
 #{139}{}{You're welcome.}
 {139}{}{不客气。}
 #{140}{}{Uh... Do you actually *have* any eggs?}
-{140}{}{休斯敦大学。。。你真的有鸡蛋吗？}
+{140}{}{Uh...你真的有鸡蛋吗？}
 #{141}{}{What? They were right here a second ago...}
-{141}{}{什么？他们刚才还在这里。。。}
+{141}{}{什么？他们刚才还在这里...}
 #{142}{}{Hey, I worked hard for these! How about another $10 per egg?}
 {142}{}{嘿，我为这些努力了！再给每个鸡蛋10美元怎么样？}
 #{143}{}{}
@@ -77,7 +77,7 @@
 #{146}{}{In that case, I'm leaving.}
 {146}{}{那样的话，我就走了。}
 #{147}{}{Hmm... Well, those eggs have been hard to come by, lately. I think my customers will pay a little more for them.}
-{147}{}{隐马尔可夫模型。。。嗯，这些蛋最近很难弄到。我想我的顾客会多付一点钱。}
+{147}{}{Hmm...嗯，这些蛋最近很难弄到。我想我的顾客会多付一点钱。}
 #{150}{}{You going to order something?}
 {150}{}{你要点菜吗？}
 #{151}{}{Anything else?}
@@ -99,15 +99,15 @@
 #{160}{}{I'm looking for the girl from this photo.}
 {160}{}{我在找这张照片上的女孩。}
 #{161}{}{Hmm... Nope. Never seen girls with holes for eyes around here. Ha!}
-{161}{}{隐马尔可夫模型。。。不。在这附近从没见过眼睛有洞的女孩。哈！}
+{161}{}{Hmm...不。在这附近从没见过眼睛有洞的女孩。哈！}
 #{164}{}{Why'd you call this place the Cotton Club?}
 {164}{}{你为什么叫这里棉花俱乐部？}
 #{165}{}{Huh... I'm not really sure. I think I read it on a poster somewhere and liked the sound of it.}
-{165}{}{呵呵。。。我不太确定。我想我是在某个地方的海报上读到的，喜欢它的声音。}
+{165}{}{呵呵...我不太确定。我想我是在某个地方的海报上读到的，喜欢它的声音。}
 #{166}{}{Seen any bikers lately?}
 {166}{}{最近见过骑自行车的吗？}
 #{167}{}{I wish I didn't! Those pricks are really out of control. They got kicked out of most places around here, so they decided to start to shit in my club! Would be nice to get rid of them. Weird, though - I didn't see any bikes. What kind of bikers have no bikes? Weird...}
-{167}{}{但愿我没有！那些混蛋真的失控了。他们被踢出了这里的大多数地方，所以他们决定开始在我的俱乐部拉屎！摆脱他们就好了。奇怪，不过-我没看到自行车。什么样的人没有自行车？奇怪的。。。}
+{167}{}{但愿我没有！那些混蛋真的失控了。他们被踢出了这里的大多数地方，所以他们决定开始在我的俱乐部拉屎！摆脱他们就好了。奇怪，不过-我没看到自行车。什么样的人没有自行车？奇怪的...}
 #{170}{}{Got any work?}
 {170}{}{有工作吗？}
 #{171}{}{Well, I have something in mind, but it's a bit risky.}
@@ -119,7 +119,7 @@
 #{174}{}{One of the "Nevada Express" workers told me about a comedian in Vegas. Apparently, he's looking for work, but he doesn't have enough money to leave. And frankly, I don't have that kind of money either.}
 {174}{}{一个“内华达快车”的工作人员告诉我在维加斯有个喜剧演员。显然，他在找工作，但他没有足够的钱离开。坦白说，我也没有那么多钱。}
 #{175}{}{So...?}
-{175}{}{所以。。。？}
+{175}{}{所以...？}
 #{176}{}{So I'll pay $1500 if you deliver him. Not all at once, though - I'll need a couple of shows to build up that kind of cash. But think about it, you'll be the sponsor for the hottest show in Reno!}
 {176}{}{如果你把他送过来我就付1500美元。不过，不是一下子全部——我需要几场演出来积累这笔钱。但想想看，你将成为雷诺最热门节目的赞助商！}
 #{177}{}{I'll see what I can do. Vegas, right?}
@@ -135,9 +135,9 @@
 #{182}{}{That's an understatement! Take the bugger before I throttle him!}
 {182}{}{这是轻描淡写！在我勒死他之前抓住他！}
 #{183}{}{You know, I think I'll miss him... Just a little.}
-{183}{}{你知道，我想我会想念他的。。。就一点点。}
+{183}{}{你知道，我想我会想念他的...就一点点。}
 #{184}{}{Well, you got him here, which means... We are gonna get rich! Ha! I bet $500 will make you feel better. I'll have the rest of it in a week. Sorry about such delays.}
-{184}{}{好吧，你把他带到这里了，这意味着。。。我们要发财了！哈！我打赌500美元会让你感觉好些。剩下的我一周后就要了。抱歉耽搁了。}
+{184}{}{好吧，你把他带到这里了，这意味着...我们要发财了！哈！我打赌500美元会让你感觉好些。剩下的我一周后就要了。抱歉耽搁了。}
 #{185}{}{You'd better have it by then!}
 {185}{}{你最好到那时就拿到了！}
 #{186}{}{I'll wait, no problems.}
@@ -145,25 +145,25 @@
 #{187}{}{I'm here for the payment.}
 {187}{}{我是来付款的。}
 #{188}{}{Of course, here's $1000, like we agreed. This guy's sharper than a razor, the money's rolling in quick. Not sure how long he'll last, though, with all his... Quirks... And habits.}
-{188}{}{当然，这是1000美元，我们说好的。这家伙比剃刀还锋利，钱来得快。不知道他能撑多久，虽然，他所有的。。。怪癖。。。和习惯。}
+{188}{}{当然，这是1000美元，我们说好的。这家伙比剃刀还锋利，钱来得快。不知道他能撑多久，虽然，他所有的...怪癖...和习惯。}
 #{189}{}{What quirks?}
 {189}{}{什么怪癖？}
 #{190}{}{He's tried literally everything here, everything he could anyway! Drugs, sex, gambling, he even set his hair on fire while freebasing. Shit, this guy ain't right in the head, but he knows his job and the crowd loves him. All that's left for me is to rake in the dough... While it's still possible.}
-{190}{}{他已经尝试了这里的一切，不管怎样他都能尝试！毒品，性，赌博，他甚至在做自由职业的时候把头发烧了。妈的，这家伙脑子不好，但他知道自己的工作，观众也喜欢他。剩下的就是把面团耙进去。。。尽管这仍然是可能的。}
+{190}{}{他已经尝试了这里的一切，不管怎样他都能尝试！毒品，性，赌博，他甚至在做自由职业的时候把头发烧了。妈的，这家伙脑子不好，但他知道自己的工作，观众也喜欢他。剩下的就是把面团耙进去...尽管这仍然是可能的。}
 #{191}{}{How could you! This is a man's life we're talking about, and you are just milking him like brahmin? Damn, if I knew, I wouldn't have brought him here.}
-{191}{}{你怎么能！我们谈论的是一个人的生活，而你只是像婆罗门一样给他挤奶？该死，如果我知道，我就不会带他来了。}
+{191}{}{你怎么能！我们谈论的是一个人的生活，而你只是像双头牛一样给他挤奶？该死，如果我知道，我就不会带他来了。}
 #{192}{}{Yeah, something tells me he won't end well. Anyway, you have fun.}
 {192}{}{是啊，我觉得他不会有好下场的。总之，你玩得开心。}
 #{200}{}{I want to eat... Help... I'm hungry...}
-{200}{}{我想吃。。。帮助。。。我饿了。。。}
+{200}{}{我想吃...帮助...我饿了...}
 #{201}{}{We don't serve beggars. I will ask you to leave.}
 {201}{}{我们不为乞丐服务。我请你离开。}
 #{202}{}{[Looks at you, then lowers his head] Ughh...}
-{202}{}{[看着你，然后低下头]啊。。。}
+{202}{}{[看着你，然后低下头]啊...}
 #{203}{}{Pleeease! I haven't eaten in 3 days!}
 {203}{}{拜托！我已经三天没吃东西了！}
 #{204}{}{Yes I understand, pal, I understand...}
-{204}{}{是的，我明白，伙计，我明白。。。}
+{204}{}{是的，我明白，伙计，我明白...}
 #{205}{}{Pleeease!}
 {205}{}{拜托！}
 #{206}{}{Okay. Here how it goes: You want something to eat - work for it. It's a bit of a mess here, you have to sweep, fix the chairs, clean the tables. When you do that, I will feed you. Ok?}
@@ -195,17 +195,17 @@
 #{219}{}{Yeah, an ass - is an ass. Thats right! And there is nothing you can do about it!}
 {219}{}{是啊，屁股-就是屁股。没错！你对此无能为力！}
 #{220}{}{Yeah... Ah, easy to say. You try to establish your business when there are so many extortionists and druggies!}
-{220}{}{是 啊。。。啊，说起来容易。当有那么多敲诈者和毒品贩子的时候，你却试图建立你的生意！}
+{220}{}{是 啊...啊，说起来容易。当有那么多敲诈者和毒品贩子的时候，你却试图建立你的生意！}
 #{221}{}{Yeah... And and the worst part is - there are no alternatives! Circle of junkies, drug dealers, racketeers! I sometimes just want to give up....}
-{221}{}{是 啊。。。最糟糕的是-没有别的选择！一群瘾君子，毒贩，敲诈勒索者！我有时只是想放弃。。。。}
+{221}{}{是 啊...最糟糕的是-没有别的选择！一群瘾君子，毒贩，敲诈勒索者！我有时只是想放弃...。}
 #{222}{}{Have you thought to move to another location, more quieter?}
 {222}{}{你想过搬到另一个更安静的地方吗？}
 #{223}{}{Why opening your business and suffer? You would be better working for someone, less responsibility!}
 {223}{}{为什么要开公司受苦？你最好为别人工作，少负责任！}
 #{224}{}{Ha! Where is a quiet place here? Around "Silver", but there is already all spots are occupied! The hotel itself has a restaurant, and the caravan has its own merchant, he is the first all profit comes to... But actually, it's an idea, friend! Move that way a little bit, and maybe, I will be able to find something better!}
-{224}{}{哈！这里哪有安静的地方？周围“银装素裹”，但已经有所有的斑点都被占据了！酒店本身就有餐厅，商队也有自己的商户，他是所有利润第一个来的。。。但实际上，这是个主意，朋友！往那边挪一点，也许，我能找到更好的！}
+{224}{}{哈！这里哪有安静的地方？周围“银装素裹”，但已经有所有的斑点都被占据了！酒店本身就有餐厅，商队也有自己的商户，他是所有利润第一个来的...但实际上，这是个主意，朋友！往那边挪一点，也许，我能找到更好的！}
 #{225}{}{Ha! Where is a normal workplace here? Except that hotel or casino, but there is already all positions are taken. It's not that nice and dandy there - there is always some shit going on, better to own your own business... But, it's a thought - maybe I need another way to do business?}
-{225}{}{哈！这里哪里有正常的工作场所？除了那家酒店或赌场，但已经有了所有的位置。那里不是那么好和漂亮-总是有一些狗屎在发生，最好是拥有自己的企业。。。但是，这是一个想法-也许我需要另一种方式来做生意？}
+{225}{}{哈！这里哪里有正常的工作场所？除了那家酒店或赌场，但已经有了所有的位置。那里不是那么好和漂亮-总是有一些狗屎在发生，最好是拥有自己的企业...但是，这是一个想法-也许我需要另一种方式来做生意？}
 #{226}{}{Yeah, and make an advertisement so people could find the place, you literaly just sit in the most inconspicuous place! Who will find you here, away from the main street?}
 {226}{}{是啊，做一个广告，这样人们就可以找到那个地方，你只是坐在最不显眼的地方！谁会在这里找到你，远离大街？}
 #{227}{}{Hmm. Well maybe.}
@@ -219,21 +219,21 @@
 #{301}{}{Ha! If you think I'm buying from you, either you're crazy or you think I am! There are more reliable suppliers in this city.}
 {301}{}{哈！如果你认为我在向你买东西，要么你疯了，要么你认为我疯了！这个城市有更可靠的供应商。}
 #{302}{}{Ouch! I guess my bad reputation is catching up with me...}
-{302}{}{哎哟！我想我的坏名声正在追上我。。。}
+{302}{}{哎哟！我想我的坏名声正在追上我...}
 #{303}{}{Interesting. Nuka-Cola, eh? Yeah, I've heard about it... Drove, like, a hundred people to the grave this year. It's possible that a factory in Salt Lake City is still maintains quality of its product, but you don't look like a professional trader. Trying to get over humble bartender, are you?}
-{303}{}{很有趣。努卡可乐，嗯？是的，我听说过。。。今年开了一百个人的车。有可能盐湖城的一家工厂仍然保持着产品的质量，但你看起来不像一个专业的贸易商。你在试着摆脱那个卑微的酒保，是吗？}
+{303}{}{很有趣。努卡可乐，嗯？是的，我听说过...今年开了一百个人的车。有可能盐湖城的一家工厂仍然保持着产品的质量，但你看起来不像一个专业的贸易商。你在试着摆脱那个卑微的酒保，是吗？}
 #{304}{}{It's okay. I am *really* working for the factory. Here's my license.}
 {304}{}{没事的。我真的在工厂工作。这是我的驾照。}
 #{305}{}{What, I don't bargain well enough for you? Man, it's not easy breaking into this business...}
-{305}{}{什么，我跟你讨价还价不够好？伙计，闯进这行可不容易。。。}
+{305}{}{什么，我跟你讨价还价不够好？伙计，闯进这行可不容易...}
 #{306}{}{...and nobody knows where you actually got it. You won't fool me!}
 {306}{}{…没人知道你从哪儿弄来的。你骗不了我！}
 #{307}{}{What the...}
-{307}{}{怎么了。。。}
+{307}{}{怎么了...}
 #{308}{}{}
 {308}{}{}
 #{309}{}{Nuka-Cola from the factory! That's a good product... As long as it's legit! What's the price?}
-{309}{}{来自工厂的Nuka可乐！这是个好产品。。。只要合法！价钱是多少？}
+{309}{}{来自工厂的Nuka可乐！这是个好产品...只要合法！价钱是多少？}
 #{310}{}{Don't worry, the best one. I work directly with the factory in Salt Lake City.}
 {310}{}{别担心，最好的。我直接在盐湖城的工厂工作。}
 #{311}{}{Curious. And who delivers it?}
@@ -249,7 +249,7 @@
 #{316}{}{Great. Then I'll order the vending machine. I think that corner is a good place for it. Just load the product in and collect your share, when the time comes. Sounds fair, right?}
 {316}{}{伟大的。那我就点自动售货机。我认为那个角落是个好地方。只要把产品装进去，到时候收集你的份额。听起来很公平，对吧？}
 #{317}{}{Now, we only need to sign the contract...}
-{317}{}{现在，我们只需要签合同。。。}
+{317}{}{现在，我们只需要签合同...}
 #{350}{}{Hey, why didn't you pay that kid outside? Do you know what his parents will do to him?!}
 {350}{}{嘿，你为什么不付钱给外面的那个孩子？你知道他父母会对他做什么吗？！}
 #{351}{}{Aw, don't tell me you fell for that crap! The kid just wants some extra cash. He's just another street urchin, just a bit smarter than most.}
@@ -257,17 +257,17 @@
 #{352}{}{You're *sure* you don't owe him anything?}
 {352}{}{你确定你不欠他什么？}
 #{353}{}{Uh, yeah, that's right...}
-{353}{}{嗯，是的，没错。。。}
+{353}{}{嗯，是的，没错...}
 #{354}{}{So he never worked at this place?}
 {354}{}{所以他从没在这工作过？}
 #{355}{}{Uh, yeah... Okay, I hired him, but I wouldn't say he worked! Look at this mess! I need someone who get the job done right and on time. That kid couldn't even lift a bucket, and you want me to pay him? I gave him half, and he's lucky to get that.}
-{355}{}{呃，是的。。。好吧，我雇了他，但我不能说他工作过！看这一团糟！我需要一个能按时完成工作的人。那孩子连桶都提不起来，你要我付钱给他？我给了他一半，他很幸运能得到。}
+{355}{}{呃，是的...好吧，我雇了他，但我不能说他工作过！看这一团糟！我需要一个能按时完成工作的人。那孩子连桶都提不起来，你要我付钱给他？我给了他一半，他很幸运能得到。}
 #{356}{}{About that kid...}
-{356}{}{关于那个孩子。。。}
+{356}{}{关于那个孩子...}
 #{357}{}{I already told you! He should be happy I gave him half. It's more than he deserved.}
 {357}{}{我已经告诉过你了！他应该很高兴我给了他一半。这是他应得的。}
 #{358}{}{Then I'll leave that on your conscience... For now.}
-{358}{}{那我就让你凭良心。。。现在。}
+{358}{}{那我就让你凭良心...现在。}
 #{359}{}{I don't think so. He did his best. No matter how little, he worked hard!}
 {359}{}{我不这么认为。他尽力了。不管他有多少，他都很努力！}
 #{360}{}{Pay him! Now! Or it's going to cost a lot more to fix this place up after I'm done with it!}
@@ -275,9 +275,9 @@
 #{361}{}{What about me? How hard am I working? I'm here day and night. This is my livelihood, not a charity!}
 {361}{}{那我呢？我有多努力？我日夜都在这里。这是我的生计，不是慈善事业！}
 #{362}{}{So that's how you want it, huh...}
-{362}{}{所以这就是你想要的，嗯。。。}
+{362}{}{所以这就是你想要的，嗯...}
 #{363}{}{[He sighs] Fine, fine! Just lay off. Here's the money, go give it to him. Goddamn, buddy, you really know how to take a guy on a guilt trip...}
-{363}{}{好吧，好吧！停下来。这是钱，去给他。该死的，伙计，你真的知道怎么带一个男人去内疚。。。}
+{363}{}{好吧，好吧！停下来。这是钱，去给他。该死的，伙计，你真的知道怎么带一个男人去内疚...}
 #{364}{}{Much better!}
 {364}{}{好多了！}
 #{365}{}{Oh yeah? Just fucking try it. I'll dump your ass in the street like the other trash out back! You don't scare me!}
@@ -287,7 +287,7 @@
 #{367}{}{}
 {367}{}{}
 #{368}{}{Damn right! Just try that again...}
-{368}{}{他妈的对！再试一次。。。}
+{368}{}{他妈的对！再试一次...}
 #{369}{}{I get it. Bye.}
 {369}{}{我明白了。再见。}
 #{370}{}{You bully the weak, thinking no one will stand up for them. But today I'm going to prove you wrong.}
@@ -297,7 +297,7 @@
 #{372}{}{Wait, don't touch anything! Just, don't! }
 {372}{}{等等，不要碰任何东西！只是，不要！}
 #{373}{}{Dammit... Fine, here's the hundred bucks. Give it to the kid, please, just leave me alone.}
-{373}{}{该死的。。。好吧，这是一百美元。把它给那孩子，拜托，别管我。}
+{373}{}{该死的...好吧，这是一百美元。把它给那孩子，拜托，别管我。}
 #{400}{}{Has this stage been empty for long?}
 {400}{}{这个舞台空了很久了吗？}
 #{401}{}{A few years now. I think the last show was before Big Louie and his gang showed up, but that was before I even owned the club. I only reopened the place last year. I've been thinking of dismantling the stage to make room for more tables.}
@@ -315,7 +315,7 @@
 #{407}{}{Just curious, let's leave it at that.}
 {407}{}{只是好奇，就这样吧。}
 #{408}{}{Ah, that would be great... But it's probably more trouble than it's worth.}
-{408}{}{啊，那太好了。。。但这可能比它的价值更麻烦。}
+{408}{}{啊，那太好了...但这可能比它的价值更麻烦。}
 #{409}{}{I can handle it, I've gone through worse.}
 {409}{}{我能应付，我经历了更糟的事情。}
 #{410}{}{I want to try anyway.}
@@ -329,7 +329,7 @@
 #{414}{}{Okay.}
 {414}{}{可以。}
 #{415}{}{About the band...}
-{415}{}{关于乐队。。。}
+{415}{}{关于乐队...}
 #{416}{}{Anything on your mind?}
 {416}{}{你有什么想法吗？}
 #{417}{}{Tell me about the trombone player again. Who is he and where is he?}
@@ -347,7 +347,7 @@
 #{423}{}{Ornette, he used to play the trombone, but that was a long time ago. You'll find him in Wright's slums across from the El Dorado.}
 {423}{}{奥内特，他过去常吹长号，但那是很久以前的事了。你会在埃尔多拉多对面的赖特贫民窟找到他。}
 #{424}{}{You managed to convince him?! Huh... I was sure he sold his instrument... Oh well. But one trombone won't be enough. You'll need more - drums, vocals, probably a guitar. Can't help you there though. Maybe Ornette knows someone else? Ask him.}
-{424}{}{你说服了他？！呵呵。。。我肯定他卖掉了他的乐器。。。哦，好吧。但是一个长号是不够的。你需要更多的鼓，人声，可能是吉他。但我帮不了你。也许奥内特认识其他人？问问他。}
+{424}{}{你说服了他？！呵呵...我肯定他卖掉了他的乐器...哦，好吧。但是一个长号是不够的。你需要更多的鼓，人声，可能是吉他。但我帮不了你。也许奥内特认识其他人？问问他。}
 #{425}{}{Good news. Another one or two and we can consider some concerts.}
 {425}{}{好消息。再来一两场，我们可以考虑开几场音乐会。}
 #{426}{}{Richard? Isn't that the drunk I kicked out? I'm surprised you managed to convince him. One guitar won't be enough, though.}
@@ -371,15 +371,15 @@
 #{435}{}{Something happened?}
 {435}{}{出什么事了？}
 #{436}{}{Not yet. But, you see, nothing is quite that easy. I didn't mention it before because... Well, I didn't think you'd pull it off anyway. But now, seeing how serious you are, it looks like I'll have to tell you. My place is in Mr. Thompson's territory. I have to give him a part of my profits as protection money. But, honestly, it's just robbery, not protection! I'd have more luck with my double-barrel. Anyway, now interest in the club is going to rise.}
-{436}{}{还没有。但是，你看，没有什么是那么容易的。我以前没提是因为。。。我没想到你会成功。但现在，看你有多认真，看来我得告诉你。我在汤普森先生的地盘。我得给他一部分利润作为保护费。但是，老实说，这只是抢劫，不是保护！我的双桶会更幸运。不管怎样，现在对俱乐部的兴趣会上升。}
+{436}{}{还没有。但是，你看，没有什么是那么容易的。我以前没提是因为...我没想到你会成功。但现在，看你有多认真，看来我得告诉你。我在汤普森先生的地盘。我得给他一部分利润作为保护费。但是，老实说，这只是抢劫，不是保护！我的双桶会更幸运。不管怎样，现在对俱乐部的兴趣会上升。}
 #{437}{}{So, you think he's going to crack down on you?}
 {437}{}{所以，你认为他会打击你？}
 #{438}{}{Thompson will want to increase payments. That, and advertising costs - we'll need posters, advertisers, tickets, food, drink. I'm gonna go bankrupt just on that. And I'm not even sure we're gonna turn a profit. So, i need you to do me a favor and talk to Thompson to sort things out. If you are still in, that is.}
 {438}{}{汤普森想增加付款。还有广告费用——我们需要海报、广告商、门票、食物、饮料。我就要破产了。我甚至不确定我们是否能盈利。所以，我需要你帮我个忙，和汤普森谈谈把事情解决。如果你还在，那就是。}
 #{439}{}{I get it. I'll do my best...}
-{439}{}{我明白了。我会尽力的。。。}
+{439}{}{我明白了。我会尽力的...}
 #{440}{}{Well, that would be great. But I think that's going to be more problems than it's worth...that's not the point, though. No offence, but this just isn't for you. The audience just isn't going to appreciate your, uh... Unique charisma.}
-{440}{}{那太好了。但我认为这将是更多的问题比它的价值…这不是重点，虽然。无意冒犯，但这不是给你的。观众不会欣赏你的。。。独特的魅力。}
+{440}{}{那太好了。但我认为这将是更多的问题比它的价值…这不是重点，虽然。无意冒犯，但这不是给你的。观众不会欣赏你的...独特的魅力。}
 #{441}{}{Oh well, up to you.}
 {441}{}{哦，好吧，由你决定。}
 #{442}{}{Let's talk about the gangsters.}
@@ -397,9 +397,9 @@
 #{448}{}{I'll get back to you about that.}
 {448}{}{我会给你回电的。}
 #{449}{}{Dead? You sure? Oh... I thought that was just Stryker spreading rumors. Anyway, it doesn't change anything. We can't do this without proper protection. We'll have to cut a deal with one of the other gangs. Luciano, Bertolini, Wright, anyone will do as long as they can provide the proper security. You might even manage to work out a better deal than what we've had with Thompson.}
-{449}{}{死了？你确定？哦。。。我以为那只是史崔克散布谣言。不管怎样，这不会改变什么。没有适当的保护我们不能这样做。我们得和其他帮派达成协议。卢西亚诺，贝托里尼，赖特，任何人都会做，只要他们能提供适当的安全。你甚至可以找到一个比我们和汤普森做的更好的交易。}
+{449}{}{死了？你确定？哦...我以为那只是史崔克散布谣言。不管怎样，这不会改变什么。没有适当的保护我们不能这样做。我们得和其他帮派达成协议。卢西亚诺，贝托里尼，赖特，任何人都会做，只要他们能提供适当的安全。你甚至可以找到一个比我们和汤普森做的更好的交易。}
 #{450}{}{What if we WHAT?! These guys aren't the forgiving types! Maybe if Thompson left the scene... But that's not gonna happen any time soon.}
-{450}{}{如果我们什么？！这些人不是那种宽容的人！如果汤普森离开现场。。。但这不会很快发生。}
+{450}{}{如果我们什么？！这些人不是那种宽容的人！如果汤普森离开现场...但这不会很快发生。}
 #{451}{}{No, too risky. Everyone's gonna want a piece of the action - thieves, punks, you know the types. We need to protect ourselves and our customers. And for that, we need help of influential people.}
 {451}{}{不，太冒险了。每个人都会想分一杯羹的-小偷，朋克，你知道他们的类型。我们需要保护我们自己和我们的客户。为此，我们需要有影响力的人的帮助。}
 #{452}{}{Great news! They'll probably send someone over to discuss the details.}
@@ -445,7 +445,7 @@
 #{472}{}{NO! NO! And NO!!!!}
 {472}{}{不！不！不！！！！}
 #{473}{}{Hmm... Looks like the members don't mind. Come in on }
-{473}{}{隐马尔可夫模型。。。看来成员们不介意。进来吧}
+{473}{}{Hmm...看来成员们不介意。进来吧}
 #{476}{}{I had to cancel the concert because our protection is gone. You probably already know these people can't help us. We need new arrangement. And as quickly as possible.}
 {476}{}{我不得不取消音乐会，因为我们的保护措施不见了。你可能已经知道这些人帮不了我们了。我们需要新的安排。而且越快越好。}
 #{477}{}{That's not bad.}
@@ -457,7 +457,7 @@
 #{480}{}{Good!}
 {480}{}{很好！}
 #{481}{}{Great show! We've completely sold out. It's like the old days - entertainment, community, powerful people spending money... The thing i've been dreaming about for the last ten years. Keep this up and we'll be rich!}
-{481}{}{精彩的表演！我们已经卖完了。就像过去一样-娱乐，社区，有权势的人花钱。。。这是我十年来一直梦想的事情。再这样下去，我们就发财了！}
+{481}{}{精彩的表演！我们已经卖完了。就像过去一样-娱乐，社区，有权势的人花钱...这是我十年来一直梦想的事情。再这样下去，我们就发财了！}
 #{482}{}{[Next]}
 {482}{}{[下一步]}
 #{483}{}{Here's your cut. Listen, we've got to put on another show! Come in on }
@@ -481,7 +481,7 @@
 #{492}{}{I doubt that. To honest, I don't trust them. They're the types to grab some poor suckers from the streets and say that they're the ones.}
 {492}{}{我对此表示怀疑。老实说，我不相信他们。他们是那种从街上抓些可怜的笨蛋，然后说他们就是他们的人。}
 #{493}{}{I sorted it out. There's this guy Martin... [explain the details]}
-{493}{}{我解决了。有个叫马丁的家伙。。。[解释细节]}
+{493}{}{我解决了。有个叫马丁的家伙...[解释细节]}
 #{494}{}{...what the hell is that all about? Jazz is only for blacks? I mean, it's the twenty-second century, I thought we were past that shit already.}
 {494}{}{…这到底是怎么回事？爵士乐只适合黑人？我是说，现在是22世纪，我还以为我们已经过去了呢。}
 #{495}{}{[Next]}
@@ -494,70 +494,70 @@
 {498}{}{奥内特和其他人担心马丁的情况，想分道扬镳。我没法说服他们，仅仅因为一个歌手就让整个乐队离开对我来说不是最好的。你明白了吧？}
 #{499}{}{This was one wild ride, friend. It was a pleasure. I'll tell you what, you've got a 50% discount in my club for life. And anyway, you're a celebrity in Reno now. You're somebody. Isn't that worth something?}
 {499}{}{这是一次疯狂的旅行，朋友。很荣幸。我告诉你，你在我的俱乐部终身享受五折优惠。不管怎样，你现在是雷诺的名人了。你真了不起。这不值钱吗？}
-#{500}{}{�}
-{500}{}{�}
-#{501}{}{�}
-{501}{}{�}
-#{502}{}{�}
-{502}{}{�}
-#{503}{}{�}
-{503}{}{�}
-#{504}{}{�}
-{504}{}{�}
-#{505}{}{�}
-{505}{}{�}
-#{506}{}{�}
-{506}{}{�}
-#{507}{}{�}
-{507}{}{�}
-#{508}{}{�}
-{508}{}{�}
-#{509}{}{�}
-{509}{}{�}
-#{510}{}{�}
-{510}{}{�}
-#{511}{}{�}
-{511}{}{�}
-#{512}{}{�}
-{512}{}{�}
-#{513}{}{�}
-{513}{}{�}
-#{514}{}{�}
-{514}{}{�}
-#{515}{}{�}
-{515}{}{�}
-#{516}{}{�}
-{516}{}{�}
-#{517}{}{�}
-{517}{}{�}
-#{518}{}{�}
-{518}{}{�}
-#{519}{}{�}
-{519}{}{�}
-#{520}{}{�}
-{520}{}{�}
-#{521}{}{�}
-{521}{}{�}
-#{522}{}{�}
-{522}{}{�}
-#{523}{}{�}
-{523}{}{�}
-#{524}{}{�}
-{524}{}{�}
-#{525}{}{�}
-{525}{}{�}
-#{526}{}{�}
-{526}{}{�}
-#{527}{}{�}
-{527}{}{�}
-#{528}{}{�}
-{528}{}{�}
-#{529}{}{�}
-{529}{}{�}
-#{530}{}{�}
-{530}{}{�}
-#{531}{}{�}
-{531}{}{�}
+#{500}{}{??}
+{500}{}{??}
+#{501}{}{??}
+{501}{}{??}
+#{502}{}{??}
+{502}{}{??}
+#{503}{}{??}
+{503}{}{??}
+#{504}{}{??}
+{504}{}{??}
+#{505}{}{??}
+{505}{}{??}
+#{506}{}{??}
+{506}{}{??}
+#{507}{}{??}
+{507}{}{??}
+#{508}{}{??}
+{508}{}{??}
+#{509}{}{??}
+{509}{}{??}
+#{510}{}{??}
+{510}{}{??}
+#{511}{}{??}
+{511}{}{??}
+#{512}{}{??}
+{512}{}{??}
+#{513}{}{??}
+{513}{}{??}
+#{514}{}{??}
+{514}{}{??}
+#{515}{}{??}
+{515}{}{??}
+#{516}{}{??}
+{516}{}{??}
+#{517}{}{??}
+{517}{}{??}
+#{518}{}{??}
+{518}{}{??}
+#{519}{}{??}
+{519}{}{??}
+#{520}{}{??}
+{520}{}{??}
+#{521}{}{??}
+{521}{}{??}
+#{522}{}{??}
+{522}{}{??}
+#{523}{}{??}
+{523}{}{??}
+#{524}{}{??}
+{524}{}{??}
+#{525}{}{??}
+{525}{}{??}
+#{526}{}{??}
+{526}{}{??}
+#{527}{}{??}
+{527}{}{??}
+#{528}{}{??}
+{528}{}{??}
+#{529}{}{??}
+{529}{}{??}
+#{530}{}{??}
+{530}{}{??}
+#{531}{}{??}
+{531}{}{??}
 #{532}{}{-}
 {532}{}{-}
 #{533}{}{ }
@@ -627,6 +627,6 @@
 #{629}{}{$}
 {629}{}{$}
 #{1355}{}{Uh, well... Okay, I hired him, but I wouldn't say he worked! Look at this mess! I need someone who get the job done right and on time. That kid couldn't even lift a bucket, and you want me to pay him? I gave him half, and he's lucky to get that.}
-{1355}{}{呃，好吧。。。好吧，我雇了他，但我不能说他工作过！看这一团糟！我需要一个能按时完成工作的人。那孩子连桶都提不起来，你要我付钱给他？我给了他一半，他很幸运能得到。}
+{1355}{}{呃，好吧...好吧，我雇了他，但我不能说他工作过！看这一团糟！我需要一个能按时完成工作的人。那孩子连桶都提不起来，你要我付钱给他？我给了他一半，他很幸运能得到。}
 #{1363}{}{[He sighs] Fine! Fine, just lay off. Here's the money, go give it to him. Goddamn, lady, you really know how to take a guy on a guilt trip...}
-{1363}{}{很好！好吧，停下来。这是钱，去给他。妈的，女士，你真的知道怎么带一个男人去内疚。。。}
+{1363}{}{很好！好吧，停下来。这是钱，去给他。妈的，女士，你真的知道怎么带一个男人去内疚...}

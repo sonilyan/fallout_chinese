@@ -13,15 +13,15 @@
 #{111}{}{I'm here not on someone's tip. I was just wondering how a young man with such a stylish hairstyle could end up behind the bars.}
 {111}{}{我来这里不是靠别人的小费。我只是在想，一个留着这么时髦发型的年轻人怎么会被关进监狱。}
 #{112}{}{I was framed! They don't care about whether I stole the money or not, they just need somebody to put the blame on. Fucking pigs...}
-{112}{}{我被陷害了！他们不在乎我是否偷了钱，他们只需要有人来责怪。该死的猪。。。}
+{112}{}{我被陷害了！他们不在乎我是否偷了钱，他们只需要有人来责怪。该死的猪...}
 #{113}{}{Saying you are not guilty? Can you prove it?}
 {113}{}{说你无罪？你能证明吗？}
 #{114}{}{I won the money in casino, fair and square. There should have records about this, but don't think they'll share this information. So, it turns out that I can't prove anything... [lowers his voice] Hey, listen, you're not a cop, right? Can you help me out? My guys will repay you for this.}
-{114}{}{我在赌场赢了钱，很公平。应该有这方面的记录，但不要认为他们会分享这些信息。所以，结果证明不了什么。。。嘿，听着，你不是警察，对吧？你能帮我吗？我的人会报答你的。}
+{114}{}{我在赌场赢了钱，很公平。应该有这方面的记录，但不要认为他们会分享这些信息。所以，结果证明不了什么...嘿，听着，你不是警察，对吧？你能帮我吗？我的人会报答你的。}
 #{115}{}{Hmm, let me think...}
-{115}{}{嗯，让我想想。。。}
+{115}{}{嗯，让我想想...}
 #{116}{}{No time to think, think plenty afterwards... Listen, you need to find my buddy, his name is Orris. Usually he can be found near the "Hard Rock" cafe. Tell him that his old friend Murphy is in trouble, he will understand... He will help... [grabs his head in despair] he... Will help...}
-{116}{}{没有时间思考，以后要想很多。。。听着，你得找到我的朋友，他叫奥里斯。通常在“硬石”咖啡馆附近可以找到他。告诉他他的老朋友墨菲有麻烦了，他会明白的。。。他会帮助。。。[绝望地抓着头]他。。。会有帮助。。。}
+{116}{}{没有时间思考，以后要想很多...听着，你得找到我的朋友，他叫奥里斯。通常在“硬石”咖啡馆附近可以找到他。告诉他他的老朋友墨菲有麻烦了，他会明白的...他会帮助...[绝望地抓着头]他...会有帮助...}
 #{117}{}{Maybe I'll find and talk to this Orris. But I need to know the details of this story.}
 {117}{}{也许我会找到这个奥里斯并和他谈谈。但我需要知道这个故事的细节。}
 #{118}{}{[Leave him]}
@@ -49,7 +49,7 @@
 #{129}{}{Surely they can. They write everything down in this ledger book, but the cops don't care, they tend to believe that guy from the mayor's office. And I am sure that casino won't stand up for me. It's more important for them to lick the ass of the City Hall and the cops.}
 {129}{}{他们当然可以。他们把一切都写在账本上，但警察不在乎，他们倾向于相信市长办公室的那个家伙。我相信赌场不会支持我的。对他们来说更重要的是舔市政厅和警察的屁股。}
 #{130}{}{You? You shouldn't. Why would you care... But I'm not asking you to believe me! I'm asking to talk to Orris, he will help, he's an old friend. And you might have something from it, you understand?}
-{130}{}{你呢？你不应该。为什么你会在乎。。。但我不是要你相信我！我想和奥里斯谈谈，他会帮忙的，他是个老朋友。你可能会从中得到一些东西，明白吗？}
+{130}{}{你呢？你不应该。为什么你会在乎...但我不是要你相信我！我想和奥里斯谈谈，他会帮忙的，他是个老朋友。你可能会从中得到一些东西，明白吗？}
 #{131}{}{What's going on?!}
 {131}{}{发生什么事？！}
 #{132}{}{Well, apparently, the police officer in the waiting room is no longer at his duty. You should be happy.}

@@ -5,4 +5,4 @@
 #{300}{}{You have been able to avoid dehydration, by finding a radioactive source of water. The search took an hour.}
 {300}{}{你已经能够避免脱水，通过找到一个放射性水源。搜寻花了一个小时。}
 #{101}{}{Uh...}
-{101}{}{休斯敦大学。。。}
+{101}{}{Uh...}

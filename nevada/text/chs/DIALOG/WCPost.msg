@@ -29,35 +29,35 @@
 #{120}{}{You CAN'T, you idiot! You have nothing to do there. Turn around if you don't want a bullet in the forehead.}
 {120}{}{你不能，你这个白痴！你在那没什么可做的。如果你不想让子弹打中前额就转过身来。}
 #{121}{}{Now listen to me, you filth, if you're still...}
-{121}{}{听我说，你这个混蛋，如果你还。。。}
+{121}{}{听我说，你这个混蛋，如果你还...}
 #{122}{}{Permission, huh? [darkly grins and squints at the neighbors] Well, we can discuss your problem, if you're interested...}
-{122}{}{允许吗？[阴沉地笑着斜视着邻居]好吧，我们可以讨论你的问题，如果你有兴趣的话。。。}
+{122}{}{允许吗？[阴沉地笑着斜视着邻居]好吧，我们可以讨论你的问题，如果你有兴趣的话...}
 #{123}{}{Of course, you *can* [wink and take $100 out of the pocket].}
 {123}{}{当然，你可以从口袋里拿出100美元。}
 #{124}{}{Hmm... I think this is a hint to something?}
-{124}{}{隐马尔可夫模型。。。我想这是个暗示？}
+{124}{}{Hmm...我想这是个暗示？}
 #{125}{}{[His face becomes very unhappy] Go here! Come on!}
 {125}{}{[他的脸变得很不高兴]过来！加油！}
 #{126}{}{Oh... That's how you speak?}
-{126}{}{哦。。。你就是这么说的？}
+{126}{}{哦...你就是这么说的？}
 #{127}{}{Okay. Finally.}
 {127}{}{可以。最后。}
 #{128}{}{Bye.}
 {128}{}{再见。}
 #{129}{}{How? Well... It's a serious place. The passage is worth 300 bucks.}
-{129}{}{怎样？好。。。这是个严肃的地方。这条通道价值300美元。}
+{129}{}{怎样？好...这是个严肃的地方。这条通道价值300美元。}
 #{130}{}{300? Why one has to pay for the passage to a residential area? Who decides it, dammit?!}
 {130}{}{300? 为什么要付去居民区的路费？谁决定的，该死的？！}
 #{131}{}{All right, here is the money.}
 {131}{}{好的，这是钱。}
 #{132}{}{Be careful out there... The locals do not favor outsiders.}
-{132}{}{小心外面。。。当地人不喜欢外人。}
+{132}{}{小心外面...当地人不喜欢外人。}
 #{133}{}{Bye!}
 {133}{}{再见！}
 #{134}{}{Yeah? What kind of?}
 {134}{}{是 啊？什么样的？}
 #{135}{}{I need to go to the bathroom... Although, I'd rather do it elsewhere. Bye.}
-{135}{}{我要去洗手间。。。不过，我宁愿在别的地方做。再见。}
+{135}{}{我要去洗手间...不过，我宁愿在别的地方做。再见。}
 #{136}{}{I deal with Nuka-Cola supplies, I think, the Wind of War will not refuse to trade.}
 {136}{}{我经营努卡可乐用品，我想，战争之风不会拒绝贸易。}
 #{137}{}{I traveled to Hawthorne and found interesting information about your settlement.}
@@ -75,17 +75,17 @@
 #{143}{}{Wesker? And why should I buy into this nonsense?}
 {143}{}{韦斯克？我为什么要相信这些废话？}
 #{144}{}{I don't know...}
-{144}{}{我不知道。。。}
+{144}{}{我不知道...}
 #{145}{}{[Sarcastic] What a surprise. Now turn around and go back to the Wasteland. Here is a military garrison, we don't have any raiders here. Do you understand? Great. And if you insist - one less impudent person would wander the earth.}
 {145}{}{[讽刺]真是个惊喜。现在掉头回荒地去。这里有一个军事要塞，我们这里没有袭击者。你明白吗？伟大的。如果你坚持的话，一个不那么厚颜无耻的人会在地球上游荡。}
 #{146}{}{Grr...}
-{146}{}{Grr。。。}
+{146}{}{Grr...}
 #{147}{}{Oh... Well, then I'll allow you to pass. But we need to check your belongings on the presence of dangerous objects.}
-{147}{}{哦。。。好吧，那我就让你过去。但我们需要检查你的物品是否有危险物品。}
+{147}{}{哦...好吧，那我就让你过去。但我们需要检查你的物品是否有危险物品。}
 #{148}{}{Okay, thanks.}
 {148}{}{好的，谢谢。}
 #{149}{}{It's forbidden to bring drugs and alcohol in here. Keep the weapon in the holster. If we see you armed... Blame yourself. All is clear? About Wesker: up the street until it ends, then enter the building on the right.}
-{149}{}{这里禁止携带毒品和酒精。把枪放在枪套里。如果我们看到你持枪。。。怪你自己。一切都清楚了？关于韦斯克：沿着这条街一直走到尽头，然后进入右边的大楼。}
+{149}{}{这里禁止携带毒品和酒精。把枪放在枪套里。如果我们看到你持枪...怪你自己。一切都清楚了？关于韦斯克：沿着这条街一直走到尽头，然后进入右边的大楼。}
 #{150}{}{Then check.}
 {150}{}{然后检查。}
 #{151}{}{No way!}
@@ -119,7 +119,7 @@
 #{165}{}{Because your office is a mess. So stop wasting time, your General is waiting for me.}
 {165}{}{因为你的办公室一团糟。别浪费时间了，你的将军在等我。}
 #{166}{}{I don't know. So you don't let me in? Okay, but I'll be back...}
-{166}{}{我不知道。所以你不让我进去？好的，但我会回来的。。。}
+{166}{}{我不知道。所以你不让我进去？好的，但我会回来的...}
 #{170}{}{Come in, come in, don't just stay in there.}
 {170}{}{进来，进来，别呆在里面。}
 #{171}{}{Wait, let me piss on your leg first. That's how we act friendly in the Wasteland.}
@@ -145,7 +145,7 @@
 #{181}{}{Shut up! Hands behind your head! Now! Now you'll go and sit in jail a full day!}
 {181}{}{闭嘴！把手放在脑后！现在！现在你要坐牢一整天了！}
 #{182}{}{Whatever, I won't resist...}
-{182}{}{不管怎样，我不会反抗。。。}
+{182}{}{不管怎样，我不会反抗...}
 #{183}{}{In jail?! Me?! Fuck you!}
 {183}{}{在监狱里？！我？！去你妈的！}
 #{184}{}{Oh, will I get a lunch there? It would be nice.}

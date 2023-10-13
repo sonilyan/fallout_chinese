@@ -17,7 +17,7 @@
 #{116}{}{I'm forced to take extreme measures}
 {116}{}{我被迫采取极端的措施}
 #{117}{}{I'll ask the first and last time...}
-{117}{}{我会问第一次也是最后一次。。。}
+{117}{}{我会问第一次也是最后一次...}
 #{118}{}{I'm confiscating your vehicle}
 {118}{}{我要没收你的车}
 #{119}{}{Resistance is futile}

@@ -1,7 +1,7 @@
 #{100}{}{You see a shifty looking guy.}
 {100}{}{你看到一个看起来很狡猾的家伙。}
 #{101}{}{You see... A killer!}
-{101}{}{你看。。。一个杀手！}
+{101}{}{你看...一个杀手！}
 #{102}{}{You see a suspicious guy with a familiar tattoo on his neck.}
 {102}{}{你看到一个可疑的家伙脖子上有一个熟悉的纹身。}
 #{103}{}{You see a killer that really wants to shoot you.}
@@ -31,7 +31,7 @@
 #{119}{}{Just hear me out!}
 {119}{}{听我说完！}
 #{120}{}{Uh... Well... Oh, shit, what was I thinking? You're a goddamn killing machine! Fuck this - let's just forget the whole thing. I want to live!}
-{120}{}{休斯敦大学。。。好。。。哦，妈的，我在想什么？你他妈是个杀人机器！去他妈的-让我们忘掉整件事。我要活下去！}
+{120}{}{Uh...好...哦，妈的，我在想什么？你他妈是个杀人机器！去他妈的-让我们忘掉整件事。我要活下去！}
 #{121}{}{Oh, that's not going to happen. I just wanted you to die knowing how stupid you were.}
 {121}{}{哦，那不会发生的。我只想让你知道你有多蠢就死。}
 #{122}{}{Good. Let's just go our separate ways.}
@@ -41,11 +41,11 @@
 #{124}{}{Bitch, the only one fate's coming for today is YOU!}
 {124}{}{婊子，今天唯一的命运就是你！}
 #{125}{}{[He hesitates] Uh... What do you mean?}
-{125}{}{[他犹豫]呃。。。什么意思？}
+{125}{}{[他犹豫]呃...什么意思？}
 #{126}{}{This is your chance for a fresh start. Do you really want to start your new life with another murder?}
 {126}{}{这是你重新开始的机会。你真的想以另一起谋杀案开始你的新生活吗？}
 #{127}{}{That's... That's bullshit! I even believed you for a second, but no, you're just a bitch begging for mercy. But... Maybe, if they're dead, and I'm alive... Maybe that is a sign. Like, that they were just holding me back. Yeah... And you, bitch, always remember this as *your* sign from fate. Remember the day *I* let *you* live. You better pray we never meet again.}
-{127}{}{那是。。。胡说八道！我甚至一度相信你，但不，你只是个求饶的婊子。但是。。。也许，如果他们死了，而我还活着。。。也许这是个征兆。就像，他们只是在牵制我。是 啊。。。而你，婊子，永远记住这是命运给你的信号。记住我让你活着的那一天。你最好祈祷我们再也不会见面。}
+{127}{}{那是...胡说八道！我甚至一度相信你，但不，你只是个求饶的婊子。但是...也许，如果他们死了，而我还活着...也许这是个征兆。就像，他们只是在牵制我。是 啊...而你，婊子，永远记住这是命运给你的信号。记住我让你活着的那一天。你最好祈祷我们再也不会见面。}
 #{128}{}{Even if you do kill me, my bosses in Reno won't rest until they find you.}
 {128}{}{即使你真的杀了我，我在雷诺的老板在找到你之前也不会罢休。}
 #{129}{}{HA-HA-HA! You think I'm that stupid, bitch? How do you think I even found you? I asked around - and none of the leaders in Reno want anything to do with you! Goddamn, you've just pissed me off even MORE!}
@@ -57,13 +57,13 @@
 #{132}{}{HA! That's the best you've got, bitch? Too bad! It's time to air out the empty head of yours!}
 {132}{}{哈！这是你最好的了，婊子？太糟糕了！是时候让你的脑袋空出来了！}
 #{133}{}{Uh... [he lowers the gun and looks at you cautiously] You know... You *did* take out the rest of our gang... Maybe I should cut my losses. Fuck it! I'm out of here!}
-{133}{}{休斯敦大学。。。[他放下枪，小心地看着你]你知道。。。你干掉了我们其他人。。。也许我应该减少我的损失。去他妈的！我要走了！}
+{133}{}{Uh...[他放下枪，小心地看着你]你知道...你干掉了我们其他人...也许我应该减少我的损失。去他妈的！我要走了！}
 #{134}{}{I'll pay you $1000 for the inconvenience.}
 {134}{}{给您带来不便，我将付给您1000美元。}
 #{135}{}{Don't try to fool me, bitch! You got nothing! I can smell money like a rat smells meat!}
 {135}{}{别骗我，婊子！你什么都没有！我能闻到钱的味道就像老鼠闻到肉的味道！}
 #{136}{}{Hmm... Maybe that's a better deal than risking my life. Okay, throw me the money and I'll consider it even.}
-{136}{}{隐马尔可夫模型。。。也许这比冒着生命危险更好。好吧，把钱扔给我，我会考虑的。}
+{136}{}{Hmm...也许这比冒着生命危险更好。好吧，把钱扔给我，我会考虑的。}
 #{137}{}{Here's the money. Take it, and we'll go our separate ways.}
 {137}{}{这是钱。拿着它，我们各奔东西。}
 #{138}{}{You gain experience for solving the problem without violence.}
@@ -75,4 +75,4 @@
 #{1121}{}{Oh, that's not going to happen. I just wanted you to die knowing how stupid you were.}
 {1121}{}{哦，那不会发生的。我只想让你知道你有多蠢就死。}
 #{1133}{}{Uh... [he lowers the gun and looks at you cautiously] You know...you *did* take out the rest of our gang... Maybe I should cut my losses. Fuck it! I'm out of here!}
-{1133}{}{休斯敦大学。。。[他放下枪，小心地看着你]你知道……你确实……干掉了我们团伙的其他成员。。。也许我应该减少我的损失。去他妈的！我要走了！}
+{1133}{}{Uh...[他放下枪，小心地看着你]你知道……你确实……干掉了我们团伙的其他成员...也许我应该减少我的损失。去他妈的！我要走了！}

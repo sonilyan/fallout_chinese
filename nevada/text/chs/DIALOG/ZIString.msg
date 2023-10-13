@@ -5,7 +5,7 @@
 #{102}{}{ experience points for testing mutagenic serum.}
 {102}{}{突变血清检测的经验要点。}
 #{103}{}{That was... Wittily.}
-{103}{}{那是。。。机智地。}
+{103}{}{那是...机智地。}
 #{104}{}{No need to dismember the corpse.}
 {104}{}{不用肢解尸体。}
 #{105}{}{You shouldn't have waved your weapon in front of a victim!}

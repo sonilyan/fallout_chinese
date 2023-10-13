@@ -5,11 +5,11 @@
 #{102}{}{Most people don't consider the ability to piss everyone off a talent, but it definitely worked for you.}
 {102}{}{大多数人不认为能让每个人都不高兴是一种天赋，但它确实对你有用。}
 #{110}{}{[Pulls on his hair in rage] Kill! I'll kill them both! And you at the same time! I'll light the whole world on fire! I'll... [he suddenly goes weak and falls to his knees] I loved her! I gave her everything! The best years of my life! And she goes back to HIM? Why, why...? He could never love her like I did...}
-{110}{}{[怒发冲冠]杀了他！我要杀了他们两个！和你在同一时间！我要点燃整个世界！我会。。。[他突然变得虚弱，跪下]我爱她！我给了她一切！我生命中最美好的时光！她又回到他身边？为什么，为什么。。。？他永远不会像我那样爱她。。。}
+{110}{}{[怒发冲冠]杀了他！我要杀了他们两个！和你在同一时间！我要点燃整个世界！我会...[他突然变得虚弱，跪下]我爱她！我给了她一切！我生命中最美好的时光！她又回到他身边？为什么，为什么...？他永远不会像我那样爱她...}
 #{111}{}{[Leave as quietly as you can.]}
 {111}{}{[尽可能安静地离开。]}
 #{112}{}{I know what I did sounds horrible... But one can do anything for the woman he loves.}
-{112}{}{我知道我做的听起来很可怕。。。但是一个人可以为他爱的女人做任何事。}
+{112}{}{我知道我做的听起来很可怕...但是一个人可以为他爱的女人做任何事。}
 #{113}{}{Do you barge into everyone's houses, or are we a special case? Oh, and while we're at it - stay away from my wife.}
 {113}{}{你闯进每个人的房子，还是我们是特例？哦，当我们这么做的时候-离我妻子远点。}
 #{114}{}{I would kill anyone to protect my family!}
@@ -19,7 +19,7 @@
 #{121}{}{Watch your mouth! [punch him in the jaw]}
 {121}{}{小心你的嘴！[打他的下巴]}
 #{122}{}{I'm not important. Your friend in the sewers, though...}
-{122}{}{我不重要。你在下水道的朋友。。。}
+{122}{}{我不重要。你在下水道的朋友...}
 #{123}{}{Hey, don't freak out on me! I'll leave.}
 {123}{}{嘿，别对我发火！我要走了。}
 #{124}{}{How rude! If you're going to act that way, then I have no interest in talking to you. Goodbye.}
@@ -29,7 +29,7 @@
 #{126}{}{Who am I?! I'm Colin - the head of this fucking house! And this is my wife, Shelley. We pay our rent and we mind our own business! You ought to do the same!}
 {126}{}{我是谁？！我是科林-这该死的房子的主人！这是我妻子，雪莱。我们付房租，管好自己的事！你也应该这样做！}
 #{127}{}{I wouldn't care myself, but you have business with a man in the sewers...}
-{127}{}{我不在乎我自己，但你和一个在下水道的人有生意。。。}
+{127}{}{我不在乎我自己，但你和一个在下水道的人有生意...}
 #{130}{}{[Colin falls flat on his back as his wife screams] Arrrgh! What the hell is wrong with you?!}
 {130}{}{[科林平躺在地上，妻子尖叫]啊！你到底怎么了？！}
 #{131}{}{That was for that ghoul who's lived ten years in the sewers, you son of a bitch!}
@@ -41,19 +41,19 @@
 #{134}{}{No thanks to you. He spent a decade trapped in the sewers eating rat meat because of what you've done.}
 {134}{}{不，谢谢你。因为你的所作所为，他被困在下水道里吃了十年老鼠肉。}
 #{140}{}{I wouldn't care, personally. The man you trapped, though...}
-{140}{}{我个人不在乎。不过，被你困住的那个人。。。}
+{140}{}{我个人不在乎。不过，被你困住的那个人...}
 #{141}{}{[He suddenly goes very quiet and very still] Wh... What man? I didn't trap any man.}
-{141}{}{[他突然变得非常安静]Wh。。。什么人？我没有陷害任何人。}
+{141}{}{[他突然变得非常安静]Wh...什么人？我没有陷害任何人。}
 #{142}{}{Shelley's first husband. You pushed him into the sewers and sealed him up forever. He's been eating rats to survive for years!}
 {142}{}{雪莱的第一任丈夫。你把他推进下水道把他永远封起来。他为了生存已经吃老鼠好几年了！}
 #{143}{}{You didn't? Hmm, maybe I made a mistake. Sorry.}
 {143}{}{你没有？嗯，也许我弄错了。对不起的。}
 #{144}{}{[He whispers to himself] Chris is alive? No... No, he can't be...}
-{144}{}{[他自言自语]克里斯还活着？不。。。不，他不可能。。。}
+{144}{}{[他自言自语]克里斯还活着？不...不，他不可能...}
 #{145}{}{He can and he is. So what are you going to do now?}
 {145}{}{他能而且他是。那你现在打算怎么办？}
 #{146}{}{What do I do? Ha-ha... [he grins nervously] ...what else can I do? There's only one option now. Ha-ha!}
-{146}{}{我该怎么办？哈哈。。。[他紧张地笑]…我还能做什么？现在只有一个选择。哈哈！}
+{146}{}{我该怎么办？哈哈...[他紧张地笑]…我还能做什么？现在只有一个选择。哈哈！}
 #{147}{}{Okay, that's one idea. But what if - just hear me out - you *don't* kill him?}
 {147}{}{好吧，这是一个主意。但如果-听我说完-你不杀了他怎么办？}
 #{148}{}{You mean killing him? Well, I think you can guess where he is. Good luck.}
@@ -63,7 +63,7 @@
 #{150}{}{Think what you want. It won't do you much good without knowing where he is.}
 {150}{}{想什么就想什么。不知道他在哪里对你没什么好处。}
 #{151}{}{Hmm... You make a good point. Okay, he's in the sewers. Good luck.}
-{151}{}{隐马尔可夫模型。。。你说得对。好吧，他在下水道里。祝你好运。}
+{151}{}{Hmm...你说得对。好吧，他在下水道里。祝你好运。}
 #{152}{}{Oh, I get it. Nothing's free, right? Fine, have it your way. I'll give you 300 bucks to show me where that bastard lives.}
 {152}{}{哦，我明白了。什么都不是免费的，对吧？好吧，随你的便。我给你300块钱让我看看那混蛋住哪。}
 #{153}{}{This is a man's life! It's worth far more than your miserable money.}

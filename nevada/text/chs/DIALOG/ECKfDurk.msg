@@ -5,7 +5,7 @@
 #{102}{}{You injected "sedative" into fella's butt.}
 {102}{}{你在那家伙屁股里注射了“镇静剂”。}
 #{103}{}{Oh damn, I just got worked up, and you...}
-{103}{}{哦，该死，我刚兴奋起来，而你。。。}
+{103}{}{哦，该死，我刚兴奋起来，而你...}
 #{110}{}{It's a deception! All of this is not real!}
 {110}{}{这是个骗局！这一切都不是真的！}
 #{111}{}{Somebody pinch me! I must be dreaming!}
@@ -29,10 +29,10 @@
 #{120}{}{Don't trust them! They want to trick you!}
 {120}{}{别相信他们！他们想骗你！}
 #{200}{}{It's stupid... Way too stupid...}
-{200}{}{太蠢了。。。太蠢了。。。}
+{200}{}{太蠢了...太蠢了...}
 #{201}{}{Why!?...}
 {201}{}{为什么？}
 #{202}{}{Oh damn, ruined all the fun...}
-{202}{}{哦，该死，毁了所有的乐趣。。。}
+{202}{}{哦，该死，毁了所有的乐趣...}
 #{203}{}{It was just about to take pace...}
-{203}{}{它就要加速了。。。}
+{203}{}{它就要加速了...}

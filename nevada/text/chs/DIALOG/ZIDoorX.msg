@@ -18,5 +18,5 @@
 {108}{}{这扇门加固得很厉害，打不开。上面挂着一块牌子：“禁止垃圾邮件发送者！”}
 #{109}{}{You see an elevator door.}
 {109}{}{你看到电梯门。}
-#{110}{}{This elevator takes to the lower levels of the vault, but you don�t have the code for the activation.}
+#{110}{}{This elevator takes to the lower levels of the vault, but you don??t have the code for the activation.}
 {110}{}{这部电梯通往地下室，但你没有激活的代码。}

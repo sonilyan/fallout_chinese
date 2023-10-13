@@ -9,7 +9,7 @@
 #{111}{}{Something tells you this lever wasn't always used for decoration.}
 {111}{}{有东西告诉你这个杠杆不是用来装饰的。}
 #{112}{}{Hmm...}
-{112}{}{隐马尔可夫模型。。。}
+{112}{}{Hmm...}
 #{113}{}{Something tells you that the bridge is gone.}
 {113}{}{有东西告诉你桥不见了。}
 #{114}{}{You don't need that any longer.}
@@ -23,7 +23,7 @@
 #{123}{}{Good thinking. But with your repair skills it will never work.}
 {123}{}{好主意。但以你的修理技术，它永远不会工作。}
 #{124}{}{You use the rope to connect the upper shaft to the lever to make a hoist. Only there's nothing to hoist with it...}
-{124}{}{你用绳子把上轴和杠杆连接起来做成一个起重机。只是没什么好提的。。。}
+{124}{}{你用绳子把上轴和杠杆连接起来做成一个起重机。只是没什么好提的...}
 #{125}{}{The lever is working, but it's not connected to anything.}
 {125}{}{杠杆在工作，但它什么都没连接。}
 #{126}{}{The lever is connected to the upper shaft by a rope.}

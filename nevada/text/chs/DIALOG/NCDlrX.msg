@@ -21,9 +21,9 @@
 #{110}{}{[The man watches you intently. His eyes are hidden by black sunglasses, but you still sense coldness behind them.] The hell do you need, stranger?}
 {110}{}{[那人目不转睛地看着你。他的眼睛被黑色太阳镜遮住了，但你仍然能感觉到眼镜后面的寒冷？}
 #{111}{}{Hello... Solomon.}
-{111}{}{你好。。。所罗门。}
+{111}{}{你好...所罗门。}
 #{112}{}{I'm looking to buy some... Specialty goods. I think you know what I'm talking about.}
-{112}{}{我想买一些。。。特产。我想你知道我在说什么。}
+{112}{}{我想买一些...特产。我想你知道我在说什么。}
 #{113}{}{Just exploring, sorry for the trouble.}
 {113}{}{只是探索一下，抱歉给你添麻烦了。}
 #{114}{}{You again? You're starting to piss me off!}
@@ -39,7 +39,7 @@
 #{119}{}{There's nothing like that around here. And even if - IF - there was, you're just some asshole off the street. What makes you worth the time?}
 {119}{}{这附近没有这样的。即使-如果-有，你也只是街上的混蛋。是什么让你值得花时间？}
 #{120}{}{More than you'd think... Solomon.}
-{120}{}{比你想象的还要多。。。所罗门。}
+{120}{}{比你想象的还要多...所罗门。}
 #{121}{}{I'm not like some street trash looking for a fix. You have a real opportunity here. Are you going to take it, or am I wasting my time?}
 {121}{}{我可不像街上的垃圾一样在找解决办法。你在这里有一个真正的机会。你是要接受，还是我在浪费时间？}
 #{122}{}{Enough of this, I'm going.}
@@ -59,7 +59,7 @@
 #{129}{}{I guess I don't have much to offer right now. I'll be back with more.}
 {129}{}{我想我现在没有什么可以提供的了。我会带更多回来的。}
 #{130}{}{[He seems torn. Eventually, his greed wins out over his caution.] Alright. What's up? I don't do small time shit, but for the right price I can solve all your problems... Eh, most of them.}
-{130}{}{[他看起来很伤心。最终，他的贪婪战胜了他的谨慎。怎么了？我不做小时间的狗屎，但以适当的价格，我可以解决你所有的问题。。。呃，大多数人。}
+{130}{}{[他看起来很伤心。最终，他的贪婪战胜了他的谨慎。怎么了？我不做小时间的狗屎，但以适当的价格，我可以解决你所有的问题...呃，大多数人。}
 #{131}{}{I've always been interested in chemistry, medicine, that sort of thing.}
 {131}{}{我一直对化学、医学之类的东西感兴趣。}
 #{132}{}{Why don't you introduce yourself? I want to know who I'm dealing with.}
@@ -101,29 +101,29 @@
 #{150}{}{You earn experience for getting Solomon's admission.}
 {150}{}{你为获得所罗门的录取而获得经验。}
 #{151}{}{But... [He starts pulling on the ring, but it's stuck fast on his finger. You can see how tightly the metal grips his flesh.] I can't just give it to you! I haven't been able to take it off for years!}
-{151}{}{但是。。。[他开始拉戒指，但戒指牢牢地粘在他的手指上。你可以看到金属紧紧地抓住他的肉。]我不能把它给你！我已经好多年没脱了！}
+{151}{}{但是...[他开始拉戒指，但戒指牢牢地粘在他的手指上。你可以看到金属紧紧地抓住他的肉。]我不能把它给你！我已经好多年没脱了！}
 #{152}{}{I'm planning to kill you and take your ring. Do I have to draw you a diagram?}
 {152}{}{我打算杀了你，拿走你的戒指。我要给你画个图表吗？}
 #{153}{}{We could cut off the finger. Better than your head, isn't it?}
 {153}{}{我们可以切掉手指。比你的脑袋好，不是吗？}
 #{154}{}{ Oh, simple as that, huh? [he starts sweating profusely] It's a part of me! You think I can just... Chop-chop, here you go?!}
-{154}{}{哦，就这么简单吧？[他开始大汗淋漓]这是我的一部分！你以为我可以。。。砍砍砍，给你？！}
+{154}{}{哦，就这么简单吧？[他开始大汗淋漓]这是我的一部分！你以为我可以...砍砍砍，给你？！}
 #{155}{}{You won't have to do a thing. I'll just cut it off myself.}
 {155}{}{你什么都不用做。我自己把它剪掉。}
 #{156}{}{Either you lose the finger or you lose your life. This is your last chance, Solomon.}
 {156}{}{不是失去手指就是失去生命。这是你最后的机会，所罗门。}
 #{157}{}{Don't worry, Solomon, I'm a doctor. I can amputate it quickly and cleanly... Well, as cleanly as amputations get, anyway.}
-{157}{}{别担心，所罗门，我是医生。我可以迅速而干净地截肢它。。。好吧，不管怎样，就像截肢手术一样干净。}
+{157}{}{别担心，所罗门，我是医生。我可以迅速而干净地截肢它...好吧，不管怎样，就像截肢手术一样干净。}
 #{158}{}{This is a lot to take in. I'll give you some time to think about it.}
 {158}{}{这是一个很大的接受。我给你点时间考虑一下。}
 #{159}{}{[He hems and haws anxiously. Just as you start losing your patience, he turns his head away and extends his hand to you.] Fine. Take the finger! There's no other choice, anyway. Just... Make it quick!}
-{159}{}{[他焦急地哼哼着。就在你开始失去耐心的时候，他把头转过去，向你伸出手来。抓住手指！反正别无选择。只是。。。快点！}
+{159}{}{[他焦急地哼哼着。就在你开始失去耐心的时候，他把头转过去，向你伸出手来。抓住手指！反正别无选择。只是...快点！}
 #{160}{}{Then shut up and don't distract me.}
 {160}{}{那就闭嘴，别让我分心。}
 #{161}{}{[He looks down at his hand in a panic, then shakes his head] No. No, no, this is - this is some kind of trick! You conniving fucking bastard - get out! You can't touch me. Get the fuck out, I'm protected!}
 {161}{}{[他惊恐地低头看着自己的手，然后摇摇头]不，不，不，这是-这是某种骗局！你这个纵容我的混蛋-滚出去！你不能碰我。滚出去，我受保护了！}
 #{162}{}{[He hems and haws anxiously. Just as you start losing your patience, he slams his hand down on a table and pulls out a knife.] Fuck! You win! Okay, Solomon, you can do this... You'd better get this ring back to Louie, you fucker! You fuck me, and I'll find you! I can hire ten mercenaries to track you down with what I make in a day!}
-{162}{}{[他焦急地哼哼着。就在你开始失去耐心的时候，他突然把手放在桌子上，掏出一把刀！你赢了！好吧，所罗门，你能做到的。。。你最好把戒指还给路易，你这个混蛋！你操我，我会找到你！我可以雇十个佣兵用我一天赚的钱来追踪你！}
+{162}{}{[他焦急地哼哼着。就在你开始失去耐心的时候，他突然把手放在桌子上，掏出一把刀！你赢了！好吧，所罗门，你能做到的...你最好把戒指还给路易，你这个混蛋！你操我，我会找到你！我可以雇十个佣兵用我一天赚的钱来追踪你！}
 #{163}{}{Yeah, yeah, get to work. I have other things to do today.}
 {163}{}{是的，是的，开始工作吧。我今天还有别的事要做。}
 #{164}{}{Oh, the drama. If this is so much trouble, I'll cut it off for you.}
@@ -133,13 +133,13 @@
 #{166}{}{You know what, Solomon? Do it yourself. I'm already going out of my way not to kill you, I'm not going to cut off your finger for you.}
 {166}{}{你知道吗，所罗门？你自己动手吧。我已经尽力不杀你了，我不会为你割下你的手指。}
 #{167}{}{[He perks up] Are you really a doctor? Oh, god, thank you! This ring has gotten so painful I can't sleep at night! If you can do this right, then... When can we get started? I want to get this done as soon as possible!}
-{167}{}{你真的是医生吗？哦，上帝，谢谢你！这戒指疼得我晚上都睡不着！如果你能做到这一点，那么。。。我们什么时候开始？我想尽快完成！}
+{167}{}{你真的是医生吗？哦，上帝，谢谢你！这戒指疼得我晚上都睡不着！如果你能做到这一点，那么...我们什么时候开始？我想尽快完成！}
 #{168}{}{We can do it now. Take these painkillers and we'll get started.}
 {168}{}{我们现在可以做了。吃了这些止痛药我们就开始了。}
 #{169}{}{We can't perform surgery with you thrashing around. We'll need anaesthetic. Wait here.}
 {169}{}{我们不能在你到处乱动的情况下做手术。我们需要麻醉。在这里等着。}
 #{170}{}{[He perks up] Can you? This ring has gotten so painful, lately... But you know, you don't seem like a doctor to me. There haven't been any doctors in Reno for a long time.}
-{170}{}{[他振作起来]你能吗？这戒指最近很疼。。。但你知道，我觉得你不像个医生。里诺很久没有医生了。}
+{170}{}{[他振作起来]你能吗？这戒指最近很疼...但你知道，我觉得你不像个医生。里诺很久没有医生了。}
 #{171}{}{That's it, you've exhausted my patience. Take the knife and cut off your own damn finger. How does that sound??}
 {171}{}{就这样，你耗尽了我的耐心。拿刀切掉你自己该死的手指。听起来怎么样？？}
 #{172}{}{ My patience is nearing its end. Just like Louie's. Cut your finger off if you want to live.}
@@ -151,15 +151,15 @@
 #{175}{}{Success!}
 {175}{}{成功！}
 #{176}{}{[The knife barely touches Solomon's skin before he starts squealing in pain. He sweats and writhes in agony, but he fears death more strongly than the pain. Meanwhile, your ears start to ring from his nonstop screaming.] FUCK! FUCKING GODDAMN! HOW DO THOSE FUCKING CHINESE DO THIS? Okay, okay, Sol, you can do this... FUCK! GOD, WON'T THIS FUCKING FINGER EVER COME OFF?!}
-{176}{}{[刀几乎没碰到所罗门的皮肤，他就开始痛苦地尖叫。他在痛苦中出汗和扭动，但他比痛苦更害怕死亡。与此同时，你的耳朵也开始因为他不停的尖叫而响起来！他妈的！那些该死的中国人是怎么做到的？好吧，好吧，索尔，你能做到的。。。性交！天哪，这该死的手指不会掉下来吗？！}
+{176}{}{[刀几乎没碰到所罗门的皮肤，他就开始痛苦地尖叫。他在痛苦中出汗和扭动，但他比痛苦更害怕死亡。与此同时，你的耳朵也开始因为他不停的尖叫而响起来！他妈的！那些该死的中国人是怎么做到的？好吧，好吧，索尔，你能做到的...性交！天哪，这该死的手指不会掉下来吗？！}
 #{177}{}{Is that all? You got the whole finger, right?}
 {177}{}{就这些吗？整个手指都在你手上，对吧？}
 #{178}{}{[The routine amputation isn't even a challenge. The only challenge is enduring Solomon's nonstop talking. Before long, you start to wish you'd given him more sedatives.] So the whore pours the booze on her head and lights it up, running around and screaming "I'm a light bulb! I'm a light bulb!" That's when I stopped mixing Mentats with Med-X... }
-{178}{}{[常规截肢甚至不是一个挑战。唯一的挑战是忍受所罗门不停的说话。没过多久，你就开始希望你能给他更多的镇静剂]于是妓女把酒倒在头上，点燃了灯，跑来跑去，尖叫着“我是灯泡！我是个灯泡！”就在那时我不再把薄荷糖和Med-X混在一起。。。}
+{178}{}{[常规截肢甚至不是一个挑战。唯一的挑战是忍受所罗门不停的说话。没过多久，你就开始希望你能给他更多的镇静剂]于是妓女把酒倒在头上，点燃了灯，跑来跑去，尖叫着“我是灯泡！我是个灯泡！”就在那时我不再把薄荷糖和Med-X混在一起...}
 #{179}{}{All done.}
 {179}{}{全部完成。}
 #{180}{}{[You've got the finger and the ring. Solomon nurtures his bandaged hand, pale and clammy.] God, you fucked me up, you bastard. My vision's getting dark... Well, what are you waiting for? Get back to Big Louie! I've got to sleep this off... }
-{180}{}{[你有手指和戒指。所罗门抚摸着他那缠着绷带的手，苍白而湿漉漉的。]上帝，你把我搞砸了，你这个混蛋。我的视线越来越暗。。。你还在等什么？回到大路易身边！我得好好睡一觉。。。}
+{180}{}{[你有手指和戒指。所罗门抚摸着他那缠着绷带的手，苍白而湿漉漉的。]上帝，你把我搞砸了，你这个混蛋。我的视线越来越暗...你还在等什么？回到大路易身边！我得好好睡一觉...}
 #{181}{}{You got lucky today. Don't forget that.}
 {181}{}{你今天很幸运。别忘了。}
 #{182}{}{[You've got the finger and the ring. Solomon doesn't look too happy, but he's already experimenting with his bandaged hand.] Good work, doc. Don't think this'll get you a discount or anything. Now get that ring back to Big Louie. I'm sick of looking over my shoulder.}
@@ -201,7 +201,7 @@
 #{200}{}{You're a pox on society. It's hard to imagine people letting you do this. How many people have died because of you?}
 {200}{}{你是社会上的水痘。很难想象人们会让你这么做。有多少人因为你而死？}
 #{201}{}{Hey, fuck off! People die because they're greedy and stupid, not because of me. Everyone who buys from me knows exactly what they're getting. If they can't handle it... Not my problem.}
-{201}{}{嘿，滚开！人们死是因为贪婪和愚蠢，而不是因为我。每一个从我这里买东西的人都知道他们得到了什么。如果他们处理不了。。。不是我的问题。}
+{201}{}{嘿，滚开！人们死是因为贪婪和愚蠢，而不是因为我。每一个从我这里买东西的人都知道他们得到了什么。如果他们处理不了...不是我的问题。}
 #{202}{}{ How many innocent people due to the addicts you've created?}
 {202}{}{你造成了多少无辜的人？}
 #{203}{}{Who do you think you're fucking with? This smells funny. You ought to know better than to try this!}
@@ -263,7 +263,7 @@
 #{231}{}{Right away, sir.}
 {231}{}{马上，先生。}
 #{232}{}{As soon as I get my fix, I'm going to fuck you up... }
-{232}{}{我一修好，就要把你搞砸。。。}
+{232}{}{我一修好，就要把你搞砸...}
 #{233}{}{What was that?}
 {233}{}{那是什么？}
 #{234}{}{Uh, nothing. Just talking to myself.}
@@ -279,13 +279,13 @@
 #{239}{}{Now I don't need you anymore. [Attack!]}
 {239}{}{现在我不再需要你了。[进攻！]}
 #{250}{}{I need a fix so bad. Please. I'll do anything... }
-{250}{}{我太需要修理了。拜托。我会做任何事。。。}
+{250}{}{我太需要修理了。拜托。我会做任何事...}
 #{251}{}{Anything? [he puts a hand on your buttocks and smiles sadistically] Wow, you're shaking all over. How long has it been since your last hit? You really don't have anywhere else to go, do you?}
 {251}{}{有什么事吗？[他把手放在你屁股上，残忍地笑着]哇，你浑身都在发抖。你上次被击中有多久了？你真的没有别的地方可去了，是吗？}
 #{252}{}{Anything... Just give me another hit... }
-{252}{}{任何事。。。再打我一下。。。}
+{252}{}{任何事...再打我一下...}
 #{253}{}{[He pulls down your pants and slides into your rectum in one movement] Ohh, that's good... What else you got, huh? Give me everything you have, any maybe that's enough.}
-{253}{}{[他拉下你的裤子，一个动作滑进你的直肠]哦，很好。。。你还有什么？把你所有的东西都给我，可能够了。}
+{253}{}{[他拉下你的裤子，一个动作滑进你的直肠]哦，很好...你还有什么？把你所有的东西都给我，可能够了。}
 #{254}{}{[Search your inventory for something of worth.]}
 {254}{}{[在你的库存中搜索有价值的东西。]}
 #{255}{}{[He grunts harshly, then pulls out of you] Alright, we're done here. You can go on your way.}
@@ -293,7 +293,7 @@
 #{256}{}{What can you pay?}
 {256}{}{你能付多少钱？}
 #{257}{}{Alright... }
-{257}{}{好吧。。。}
+{257}{}{好吧...}
 #{258}{}{Why did you give Fatso the poison?}
 {258}{}{你为什么给胖子下毒？}
 #{259}{}{Does it matter? You don't need to know that, anyway.}
@@ -307,13 +307,13 @@
 #{1132}{}{Why don't you introduce yourself? I want to know who I'm dealing with.}
 {1132}{}{你为什么不自我介绍一下呢？我想知道我在和谁打交道。}
 #{1151}{}{But... [He starts pulling on the ring, but it's stuck fast on his finger. You can see how tightly the metal grips his flesh.] I can't just give it to you! I haven't been able to take it off for years!}
-{1151}{}{但是。。。[他开始拉戒指，但戒指牢牢地粘在他的手指上。你可以看到金属紧紧地抓住他的肉。]我不能把它给你！我已经好多年没脱了！}
+{1151}{}{但是...[他开始拉戒指，但戒指牢牢地粘在他的手指上。你可以看到金属紧紧地抓住他的肉。]我不能把它给你！我已经好多年没脱了！}
 #{1161}{}{[He looks down at his hand in a panic, then shakes his head] No. No, no, this is - this is some kind of trick! You conniving fucking bitch - get out! You can't touch me. Get the fuck out, I'm protected!}
 {1161}{}{[他惊恐地低头看着自己的手，然后摇摇头]不，不，不，这是-这是某种骗局！你这个纵容我的婊子-滚出去！你不能碰我。滚出去，我受保护了！}
 #{1170}{}{[He perks up] Can you? This ring has gotten so painful, lately... But you know, you don't seem like a doctor to me. There haven't been any doctors in Reno for a long time.}
-{1170}{}{[他振作起来]你能吗？这戒指最近很疼。。。但你知道，我觉得你不像个医生。里诺很久没有医生了。}
+{1170}{}{[他振作起来]你能吗？这戒指最近很疼...但你知道，我觉得你不像个医生。里诺很久没有医生了。}
 #{1180}{}{[You've got the finger and the ring. Solomon nurtures his bandaged hand, pale and clammy.] God, you fucked me up, you bitch. My vision's getting dark... Well, what are you waiting for? Get back to Big Louie! I've got to sleep this off... }
-{1180}{}{[你有手指和戒指。所罗门抚摸着他那缠着绷带的苍白湿漉漉的手。]上帝，你把我搞砸了，你这个婊子。我的视线越来越暗。。。你还在等什么？回到大路易身边！我得好好睡一觉。。。}
+{1180}{}{[你有手指和戒指。所罗门抚摸着他那缠着绷带的苍白湿漉漉的手。]上帝，你把我搞砸了，你这个婊子。我的视线越来越暗...你还在等什么？回到大路易身边！我得好好睡一觉...}
 #{1218}{}{No, I'm done with the grave-robbing game.}
 {1218}{}{不，我不玩盗墓游戏了。}
 #{1227}{}{[He glares at you] You want your fix or not? Take the knife and get cutting! Until you're done, no fix. You think I fucking owe you anything? You're lucky I'm even giving you this chance, you dumb fucking whore.}

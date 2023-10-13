@@ -1,6 +1,6 @@
 #{100}{}{Rare plant.}
 {100}{}{稀有植物。}
-#{101}{}{You see spreading and withered plant. It�s clearly uncomfortable here, so the plant refuses to grow normally.}
+#{101}{}{You see spreading and withered plant. It??s clearly uncomfortable here, so the plant refuses to grow normally.}
 {101}{}{你看到的是正在蔓延和枯萎的植物。这里很明显很不舒服，所以植物不能正常生长。}
 #{102}{}{You have found a couple of nutritious nuts among the leaves!}
 {102}{}{你在树叶中发现了几颗营养丰富的坚果！}

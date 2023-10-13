@@ -5,7 +5,7 @@
 #{102}{}{Killer in the office!!!}
 {102}{}{办公室里的杀手！！！}
 #{107}{}{You don't say...}
-{107}{}{你不会说。。。}
+{107}{}{你不会说...}
 #{108}{}{Guards! Take this trash out of the office!}
 {108}{}{警卫！把这垃圾带出办公室！}
 #{109}{}{Who?! Me? He made a mistake! I want to get out of here.}
@@ -19,9 +19,9 @@
 #{113}{}{Where the guards are looking?! Immediately take him out into the corridor!}
 {113}{}{卫兵在找什么？！马上把他带到走廊里去！}
 #{114}{}{No! Wait...}
-{114}{}{不！等待。。。}
+{114}{}{不！等待...}
 #{115}{}{Yes, there is one job... Not for the faint-hearted.}
-{115}{}{是的，有一份工作。。。不适合胆小的人。}
+{115}{}{是的，有一份工作...不适合胆小的人。}
 #{116}{}{What is it?}
 {116}{}{这是怎么一回事？}
 #{117}{}{Oh, I'm just like that, so I'd better go away.}
@@ -45,7 +45,7 @@
 #{126}{}{If you don't want to be honest with me, then I refuse!}
 {126}{}{如果你不想跟我说实话，那我拒绝！}
 #{127}{}{Of the production and distribution of drugs. I consider their survival techniques simply monstrous. Because of their drugs people break or die. That includes my clients. So, as a respectable citizen, I would like to clean the city of this... Garbage.}
-{127}{}{药品的生产和销售。我认为他们的生存技巧简直太可怕了。因为他们的毒品，人们要么崩溃，要么死亡。包括我的客户。所以，作为一个受人尊敬的公民，我想清理这座城市。。。垃圾。}
+{127}{}{药品的生产和销售。我认为他们的生存技巧简直太可怕了。因为他们的毒品，人们要么崩溃，要么死亡。包括我的客户。所以，作为一个受人尊敬的公民，我想清理这座城市...垃圾。}
 #{128}{}{I'm paying 2,500 for this simple task. Big money for the majority of citizens. But so is the risk. You'll have to do it quietly.}
 {128}{}{我为这个简单的任务付了2500英镑。对大多数市民来说是一大笔钱。但风险也是如此。你得安静地做。}
 #{129}{}{It's simple. I'll give you a drug, it is very powerful. Do not ask where me where it came from. And do not try it, it's a lethal mixture.}
@@ -71,7 +71,7 @@
 #{139}{}{Well, the case seems simple. Give me your fake evidence and prepare the money, I'll be back soon.}
 {139}{}{这个案子看起来很简单。把你的假证给我，准备好钱，我很快就回来。}
 #{140}{}{Excellent. I am a man of my word. But if you screw up...}
-{140}{}{杰出的。我是个守信用的人。但如果你搞砸了。。。}
+{140}{}{杰出的。我是个守信用的人。但如果你搞砸了...}
 #{141}{}{I understand you, Mr. Wallace. Work is work. I will do my job without further ado.}
 {141}{}{我理解你，华莱士先生。工作就是工作。我会毫不犹豫地做好我的工作。}
 #{142}{}{Hell no! I will not take such shady work!!!}
@@ -101,7 +101,7 @@
 #{154}{}{Yes, this is what we need. You performed brilliantly. I suppose there's no need to make unnecessary remarks about the importance of silence?}
 {154}{}{是的，这就是我们需要的。你表现得很出色。我想没有必要对沉默的重要性发表不必要的评论吧？}
 #{155}{}{But I demanded a different solution... Although, this one will suffice. Without a leader they shouldn't be a threat... Okay, I don't mind. I suppose, there's no need to make unnecessary remarks about the importance of silence?}
-{155}{}{但我要求一个不同的解决方案。。。不过，这个就够了。没有领袖，他们不应该成为威胁。。。好吧，我不介意。我想，没有必要对沉默的重要性发表不必要的评论吧？}
+{155}{}{但我要求一个不同的解决方案...不过，这个就够了。没有领袖，他们不应该成为威胁...好吧，我不介意。我想，没有必要对沉默的重要性发表不必要的评论吧？}
 #{156}{}{Well, I do not mind. One way or another, you did your job. I suppose there's no need to make unnecessary remarks about the importance of silence?}
 {156}{}{嗯，我不介意。不管怎样，你都做了你的工作。我想没有必要对沉默的重要性发表不必要的评论吧？}
 #{157}{}{The reward 2500, as we agreed.}
@@ -173,7 +173,7 @@
 #{190}{}{I knew I could rely on you. Excellent work. Here's your reward, as we agreed. Well, it was nice to work with you. However, now we part ways. Stay away from the police and the mayor's office, if you do not want the hassle.}
 {190}{}{我知道我可以依靠你。干得好。这是我们约定的报酬。很高兴和你一起工作。然而，现在我们分手了。如果你不想惹麻烦，就离警察和市长办公室远点。}
 #{191}{}{So why you needed the gun? It would be easier to kill the chief...}
-{191}{}{那你为什么需要枪？杀了酋长会更容易。。。}
+{191}{}{那你为什么需要枪？杀了酋长会更容易...}
 #{192}{}{So be it.}
 {192}{}{就这样吧。}
 #{193}{}{Compromising material is supposed to be used *against* Bob Neil. That says it all. How - is not your business.}

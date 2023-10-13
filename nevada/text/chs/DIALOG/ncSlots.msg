@@ -27,7 +27,7 @@
 #{162}{}{*Throw a coin, pull the lever. I won't disappoint.*}
 {162}{}{*扔硬币，拉杠杆。我不会让你失望的*}
 #{163}{}{*Click... Click... Cliiick... *}
-{163}{}{*单击。。。点击。。。克利克。。。*}
+{163}{}{*单击...点击...克利克...*}
 #{164}{}{*Hey, beautiful. Come closer, play with me.*}
 {164}{}{*嘿，美女。靠近点，和我一起玩*}
 #{165}{}{*Hello, beautiful.*}
@@ -95,7 +95,7 @@
 #{}{}{}
 {}{}{}
 #{220}{}{You grab its hand and shake it warmly. You hear a *bzzzzzz*and the box starts to talk! "Please... Come on... Give me money."}
-{220}{}{你抓住它的手，热情地和它握手。你听到一声“bzzzzzz”，盒子就开始说话了！”拜托。。。来吧。。。给我钱。”}
+{220}{}{你抓住它的手，热情地和它握手。你听到一声“bzzzzzz”，盒子就开始说话了！”拜托...来吧...给我钱。”}
 #{221}{}{Ayyyyyyy! Robot! Bad! Ruuun!}
 {221}{}{哎呀！机器人！糟糕！阮！}
 #{222}{}{Leave.}
@@ -103,7 +103,7 @@
 #{}{}{}
 {}{}{}
 #{225}{}{Ugh, I don't even have money for slot machines. Well, maybe some other time... }
-{225}{}{啊，我连买老虎机的钱都没有。好吧，也许改天吧。。。}
+{225}{}{啊，我连买老虎机的钱都没有。好吧，也许改天吧...}
 #{226}{}{Leave.}
 {226}{}{离开。}
 #{}{}{}
@@ -111,9 +111,9 @@
 #{230}{}{You see a slot machine. Its body and gilded lever shine seductively at you in light of New Reno's glowing signs. The coin slot beckons you, and you feel your face light up in anticipation.}
 {230}{}{你看到老虎机了。它的身体和镀金杠杆照在新雷诺的发光迹象诱人你。投币口向你招手，你会感到脸上充满期待。}
 #{231}{}{[Your hand trembles when you dig through your pocket for money. The machine continues to whisper to you.] *Come on, my sweet... Please... Do not tease me... *}
-{231}{}{[当你从口袋里掏钱时，你的手会颤抖。机器继续对你低语。]*来吧，亲爱的。。。拜托。。。别取笑我。。。*}
+{231}{}{[当你从口袋里掏钱时，你的手会颤抖。机器继续对你低语。]*来吧，亲爱的...拜托...别取笑我...*}
 #{232}{}{[Your hand trembles when you dig through your pocket for money. The machine continues to whisper to you.] *Well, well, sweet... Like this... Grab the lever... Squeeze it tighter... Come on... *}
-{232}{}{[当你从口袋里掏钱时，你的手会颤抖。机器继续对你耳语。]*好吧，好吧，亲爱的。。。这样地。。。抓住杠杆。。。把它挤得更紧。。。来吧。。。*}
+{232}{}{[当你从口袋里掏钱时，你的手会颤抖。机器继续对你耳语。]*好吧，好吧，亲爱的...这样地...抓住杠杆...把它挤得更紧...来吧...*}
 #{233}{}{You have }
 {233}{}{你有}
 #{234}{}{ coins. Risk everything?}
@@ -135,9 +135,9 @@
 #{}{}{}
 {}{}{}
 #{245}{}{The wheel spins, aaand... Nothing.}
-{245}{}{轮子转动，然后。。。没有什么。}
+{245}{}{轮子转动，然后...没有什么。}
 #{246}{}{NOTHING. NOTHING! You hear how this filthy machine mocks you, and you become overwhelmed by rage... Bouncers are forced to pull your screaming body from the machine.}
-{246}{}{没有什么。没有什么！你听到这个肮脏的机器如何嘲笑你，你变得怒不可遏。。。保镖被迫把你尖叫的身体从机器里拉出来。}
+{246}{}{没有什么。没有什么！你听到这个肮脏的机器如何嘲笑你，你变得怒不可遏...保镖被迫把你尖叫的身体从机器里拉出来。}
 #{247}{}{[The machine giggles.] *Sorry, honey, but nothing lasts forever. Don't let the door hit your ass on the way out. Ha-ha-ha-ha-ha-ha!*}
 {247}{}{抱歉，亲爱的，没有什么是永恒的。出去的时候别让门撞到你的屁股。哈哈哈哈哈！*}
 #{248}{}{You have }
@@ -161,9 +161,9 @@
 #{260}{}{Three blades. You made your money back.}
 {260}{}{三个刀片。你把钱赚回来了。}
 #{261}{}{[The machine continues whispering.] *Well, dear... This all happens at least once... More... Please try... *}
-{261}{}{[机器继续窃窃私语。]*好吧，亲爱的。。。这一切至少发生一次。。。更多。。。请尝试。。。*}
+{261}{}{[机器继续窃窃私语。]*好吧，亲爱的...这一切至少发生一次...更多...请尝试...*}
 #{262}{}{[The machine continues whispering.] *Well, well, sweet... Try more... Grab the lever... Squeeze it tighter... Come on... *}
-{262}{}{[机器继续窃窃私语。]*好吧，好吧，亲爱的。。。尝试更多。。。抓住杠杆。。。再紧一点。。。来吧。。。*}
+{262}{}{[机器继续窃窃私语。]*好吧，好吧，亲爱的...尝试更多...抓住杠杆...再紧一点...来吧...*}
 #{263}{}{You have }
 {263}{}{你有}
 #{264}{}{ coins. Continue playing?}
@@ -181,9 +181,9 @@
 #{275}{}{Three bullets! You have doubled your money!}
 {275}{}{三颗子弹！你的钱翻了一倍！}
 #{276}{}{[The machine is breathy with pleasure.] *So, dear... Keep pulling the handle... Faster, stronger, faster, come on... *}
-{276}{}{[机器愉快地呼吸着。]*所以，亲爱的。。。继续拉把手。。。快点，快点，快点，快点。。。*}
+{276}{}{[机器愉快地呼吸着。]*所以，亲爱的...继续拉把手...快点，快点，快点，快点...*}
 #{277}{}{[The machine is breathy with pleasure.] *So, dear... Keep pulling the handle... Faster, stronger, faster, come on... *}
-{277}{}{[机器愉快地呼吸着。]*所以，亲爱的。。。继续拉把手。。。快点，快点，快点，快点。。。*}
+{277}{}{[机器愉快地呼吸着。]*所以，亲爱的...继续拉把手...快点，快点，快点，快点...*}
 #{278}{}{You have }
 {278}{}{你有}
 #{279}{}{ coins. Continue playing?}
@@ -221,19 +221,19 @@
 #{307}{}{[Pinch yourself.]}
 {307}{}{[掐你自己。]}
 #{308}{}{Er... Hello?}
-{308}{}{呃。。。你好？}
+{308}{}{呃...你好？}
 #{309}{}{[Take a deep breath, turn around, and leave.]}
 {309}{}{[深呼吸，转身离开。]}
 #{}{}{}
 {}{}{}
 #{315}{}{*I'm still here, baby... Don't be shy. You want to play, don't you?*}
-{315}{}{*我还在这里，宝贝。。。别害羞。你想玩，是吗？*}
+{315}{}{*我还在这里，宝贝...别害羞。你想玩，是吗？*}
 #{316}{}{*Here I am, sugar. Just waiting for a handsome many like you to fill me up... *}
-{316}{}{*我来了，甜心。只是在等一个像你这样的帅哥来充实我。。。*}
+{316}{}{*我来了，甜心。只是在等一个像你这样的帅哥来充实我...*}
 #{317}{}{Whoo are yooou?}
 {317}{}{你是谁？}
 #{318}{}{Yeah, I waaant... }
-{318}{}{是的，我想。。。}
+{318}{}{是的，我想...}
 #{319}{}{Maybe I should leave before I do something I regret.}
 {319}{}{也许我应该在后悔之前离开。}
 #{320}{}{[Take a deep breath, turn around, and leave.]}
@@ -241,13 +241,13 @@
 #{}{}{}
 {}{}{}
 #{325}{}{*Looking for something, baby? I can satisfy you in a way you've never known. You'll never know a greater rush... *}
-{325}{}{*在找什么吗，宝贝？我可以用你不知道的方式满足你。你永远不会知道有比这更急迫的事了。。。*}
+{325}{}{*在找什么吗，宝贝？我可以用你不知道的方式满足你。你永远不会知道有比这更急迫的事了...*}
 #{326}{}{*I'm your dreams come true, sugar. I just need a bit of attention. Just a coin or two for the ride of your life!*}
 {326}{}{*我希望你的梦想成真，甜心。我只是需要一点关注。就一两个硬币，你的人生之旅！*}
 #{327}{}{Can I jussst plaay?}
 {327}{}{我可以请你吗？}
 #{328}{}{Yeah, I waaant... }
-{328}{}{是的，我想。。。}
+{328}{}{是的，我想...}
 #{329}{}{Maybe I should leave before I do something I regret.}
 {329}{}{也许我应该在后悔之前离开。}
 #{330}{}{[Take a deep breath, turn around, and leave.]}
@@ -259,17 +259,17 @@
 #{336}{}{*Of course, sugar, I'm here. [you feel compassion radiating off the machine] Let mommy make the pain go away.*}
 {336}{}{*当然，甜心，我来了。[你的同情从机器上散发出来]让妈妈把痛苦消除*}
 #{337}{}{I'm on this quest, but I don't know where to find it, and they won't let me back in the vault and... And... [sob]}
-{337}{}{我在寻找，但我不知道在哪里找到它，而且他们不让我回到保险库。。。还有。。。[呜咽声]}
+{337}{}{我在寻找，但我不知道在哪里找到它，而且他们不让我回到保险库...还有...[呜咽声]}
 #{338}{}{I'm on this quest, but I don't know where to find it, and they won't let me back in the vault and... And... [sob]}
-{338}{}{我在寻找，但我不知道在哪里找到它，而且他们不让我回到保险库。。。还有。。。[呜咽声]}
+{338}{}{我在寻找，但我不知道在哪里找到它，而且他们不让我回到保险库...还有...[呜咽声]}
 #{339}{}{I'm on this quest, but I don't know where to find it, and they won't let me back in the vault and... And... [sob]}
-{339}{}{我在寻找，但我不知道在哪里找到它，而且他们不让我回到保险库。。。还有。。。[呜咽声]}
+{339}{}{我在寻找，但我不知道在哪里找到它，而且他们不让我回到保险库...还有...[呜咽声]}
 #{340}{}{I finished the game, and I took the Tirelessness perk, but there's only so much content and... And... [sob]}
-{340}{}{我完成了游戏，我得到了不知疲倦的奖励，但只有这么多的内容和。。。还有。。。[呜咽声]}
+{340}{}{我完成了游戏，我得到了不知疲倦的奖励，但只有这么多的内容和...还有...[呜咽声]}
 #{341}{}{Now Fallout's in 3D, and they took out skills, and the protagonist has voice acting and... And... [sob]}
-{341}{}{现在是3D，他们拿出了技巧，主角有配音和。。。还有。。。[呜咽声]}
+{341}{}{现在是3D，他们拿出了技巧，主角有配音和...还有...[呜咽声]}
 #{342}{}{I wanted to make a good character, so I took Gifted, but now everything needs skills and I don't have any points and... And... [sob]}
-{342}{}{我想塑造一个好的性格，所以我选择了天才，但现在一切都需要技能，我没有任何的分数和。。。还有。。。[呜咽声]}
+{342}{}{我想塑造一个好的性格，所以我选择了天才，但现在一切都需要技能，我没有任何的分数和...还有...[呜咽声]}
 #{343}{}{Now I'm talking to a slot machine! I'm a *loser*!}
 {343}{}{现在我在和老虎机说话！我是个失败者！}
 #{344}{}{[Take a deep breath, turn around, and leave.]}
@@ -277,13 +277,13 @@
 #{}{}{}
 {}{}{}
 #{350}{}{*It's okay, baby... Everything's going to be alright. Just come here and let me take care of everything. Let it out, baby... *}
-{350}{}{*没事的，宝贝。。。一切都会好起来的。过来，让我来处理一切。说出来，宝贝。。。*}
+{350}{}{*没事的，宝贝...一切都会好起来的。过来，让我来处理一切。说出来，宝贝...*}
 #{351}{}{*Don't worry, sugar. Just hold me. You're going to be okay. Lean on me, sugar... *}
-{351}{}{*别担心，甜心。抱着我。你会没事的。靠着我，甜心。。。*}
+{351}{}{*别担心，甜心。抱着我。你会没事的。靠着我，甜心...*}
 #{352}{}{Thanks, slot machine. [sob] You're my only friend.}
 {352}{}{谢谢，吃角子老虎机。你是我唯一的朋友。}
 #{353}{}{I don't know where to go and I don't know what to do and everyone keeps taking my money and... Oh, god... }
-{353}{}{我不知道该去哪里，也不知道该做什么，每个人都拿着我的钱。。。哦，天啊。。。}
+{353}{}{我不知道该去哪里，也不知道该做什么，每个人都拿着我的钱...哦，天啊...}
 #{354}{}{[Take a deep breath, turn around, and leave.]}
 {354}{}{[深呼吸，转身离开。]}
 #{}{}{}
@@ -303,13 +303,13 @@
 #{371}{}{*This world's full of scoundrels and thieves, but you stay true to yourself, you hear me, }
 {371}{}{*这个世界充满了无赖和小偷，但你要忠于自己，你听到了吗，}
 #{372}{}{? Even if it hurts, don't like them change you. Now... You get out of here, you hear me. A woman shouldn't see... Shouldn't see a big, strong slot machine cry.*}
-{372}{}{? 即使很痛，也不要让他们改变你。现在。。。你离开这里，听到了吗。女人不应该看到。。。不应该看到一个又大又壮的老虎机哭*}
+{372}{}{? 即使很痛，也不要让他们改变你。现在...你离开这里，听到了吗。女人不应该看到...不应该看到一个又大又壮的老虎机哭*}
 #{373}{}{*You're the only real hero in this world of scoundrels and thieves, you hear me, }
 {373}{}{*你是这个世界上唯一真正的英雄，听到了吗，}
 #{374}{}{. You stay a hero. Don't let this world drag you down. Now get out of here, before I burst into tears.*}
 {374}{}{. 你还是个英雄。不要让这个世界拖累你。现在离开这里，在我大哭之前*}
 #{375}{}{Bye... }
-{375}{}{再见。。。}
+{375}{}{再见...}
 #{}{}{}
 {}{}{}
 #{380}{}{You see a high-stakes slot machine. The minimum bet is }
@@ -317,9 +317,9 @@
 #{381}{}{ coins. The shining body and gilded lever glint seductively in the light of Reno's flashing lights. The coin slot beckons you, and your heart races in anticipation.}
 {381}{}{硬币。闪亮的车身和镀金的杠杆在雷诺闪烁的灯光下诱人地闪烁。投币口在召唤你，你的心在期待中跳动。}
 #{382}{}{[Your hand trembles as you count the money. The machine calls to you with faint whispers no one else seems to hear.] *Come on, sugar... Don't tease me, I need it... *}
-{382}{}{[你数钱的时候手在颤抖。机器用微弱的耳语呼叫你，似乎没有人听到。]*来吧，甜心。。。别取笑我，我需要它。。。*}
+{382}{}{[你数钱的时候手在颤抖。机器用微弱的耳语呼叫你，似乎没有人听到。]*来吧，甜心...别取笑我，我需要它...*}
 #{383}{}{[Your hand trembles as you count the money. The machine calls to you with faint whispers no one else seems to hear.] *Come on, baby... Grab my handle. Grip it tight, and pull!*}
-{383}{}{[你数钱的时候手在颤抖。机器用微弱的耳语呼叫你，似乎没有人听到。]*来吧，宝贝。。。抓住我的手。抓紧，拉！*}
+{383}{}{[你数钱的时候手在颤抖。机器用微弱的耳语呼叫你，似乎没有人听到。]*来吧，宝贝...抓住我的手。抓紧，拉！*}
 #{384}{}{You have }
 {384}{}{你有}
 #{385}{}{ coins. Risk everything?}
@@ -341,9 +341,9 @@
 #{}{}{}
 {}{}{}
 #{400}{}{The wheel spins, aaand... Nothing.}
-{400}{}{轮子转动，然后。。。没有什么。}
+{400}{}{轮子转动，然后...没有什么。}
 #{401}{}{NOTHING. NOTHING! You hear how this filthy machine mocks you, and you become overwhelmed by rage... Bouncers are forced to pull your screaming body from the machine.}
-{401}{}{没有什么。没有什么！你听到这个肮脏的机器如何嘲笑你，你变得怒不可遏。。。保镖被迫把你尖叫的身体从机器里拉出来。}
+{401}{}{没有什么。没有什么！你听到这个肮脏的机器如何嘲笑你，你变得怒不可遏...保镖被迫把你尖叫的身体从机器里拉出来。}
 #{402}{}{[The machine giggles.] *Sorry, honey, but nothing lasts forever. Don't let the door hit your ass on the way out. Ha-ha-ha-ha-ha-ha!*}
 {402}{}{抱歉，亲爱的，没有什么是永恒的。出去的时候别让门撞到你的屁股。哈哈哈哈哈！*}
 #{403}{}{You have }
@@ -367,9 +367,9 @@
 #{415}{}{Three bombs. You made your money back.}
 {415}{}{三枚炸弹。你把钱赚回来了。}
 #{416}{}{[The machine continues whispering.] *Well, dear... This all happens at least once... More... Please try... *}
-{416}{}{[机器继续窃窃私语。]*好吧，亲爱的。。。这一切至少发生一次。。。更多。。。请尝试。。。*}
+{416}{}{[机器继续窃窃私语。]*好吧，亲爱的...这一切至少发生一次...更多...请尝试...*}
 #{417}{}{[The machine continues whispering.] *Well, well, sweet... Try more... Grab the lever... Squeeze it tighter... Come on... *}
-{417}{}{[机器继续窃窃私语。]*好吧，好吧，亲爱的。。。尝试更多。。。抓住杠杆。。。再紧一点。。。来吧。。。*}
+{417}{}{[机器继续窃窃私语。]*好吧，好吧，亲爱的...尝试更多...抓住杠杆...再紧一点...来吧...*}
 #{418}{}{You have }
 {418}{}{你有}
 #{419}{}{ coins. Continue playing?}
@@ -383,9 +383,9 @@
 #{425}{}{Three nukes! You doubled your money!}
 {425}{}{三枚核弹！你把钱加倍了！}
 #{426}{}{[The machine is breathy with pleasure.] *So, dear... Keep pulling the handle... Faster, stronger, faster, come on... *}
-{426}{}{[机器愉快地呼吸着。]*所以，亲爱的。。。继续拉把手。。。快点，快点，快点，快点。。。*}
+{426}{}{[机器愉快地呼吸着。]*所以，亲爱的...继续拉把手...快点，快点，快点，快点...*}
 #{427}{}{[The machine is breathy with pleasure.] *So, dear... Keep pulling the handle... Faster, stronger, faster, come on... *}
-{427}{}{[机器愉快地呼吸着。]*所以，亲爱的。。。继续拉把手。。。快点，快点，快点，快点。。。*}
+{427}{}{[机器愉快地呼吸着。]*所以，亲爱的...继续拉把手...快点，快点，快点，快点...*}
 #{428}{}{You have }
 {428}{}{你有}
 #{429}{}{ coins. Continue playing?}
@@ -415,18 +415,18 @@
 #{443}{}{Thats enough for today.}
 {443}{}{今天就够了。}
 #{1000}{}{These odds don't even out. Something's fishy here... }
-{1000}{}{这些可能性都没有。这里有些可疑。。。}
+{1000}{}{这些可能性都没有。这里有些可疑...}
 #{1001}{}{Everything looks on the straight and narrow. They steal your money honestly here.}
 {1001}{}{一切看起来都很平直。他们真的偷了你的钱。}
 #{1005}{}{These odds don't even out. Something's fishy here... }
-{1005}{}{这些可能性都没有。这里有些可疑。。。}
+{1005}{}{这些可能性都没有。这里有些可疑...}
 #{1006}{}{Everything looks on the straight and narrow. They steal your money honestly here.}
 {1006}{}{一切看起来都很平直。他们真的偷了你的钱。}
 #{1010}{}{Everything looks on the straight and narrow. They steal your money honestly here.}
 {1010}{}{一切看起来都很平直。他们真的偷了你的钱。}
 #{1011}{}{These odds don't even out. Something's fishy here... }
-{1011}{}{这些可能性都没有。这里有些可疑。。。}
+{1011}{}{这些可能性都没有。这里有些可疑...}
 #{1015}{}{Everything looks on the straight and narrow. They steal your money honestly here.}
 {1015}{}{一切看起来都很平直。他们真的偷了你的钱。}
 #{1016}{}{These odds don't even out. Something's fishy here... }
-{1016}{}{这些可能性都没有。这里有些可疑。。。}
+{1016}{}{这些可能性都没有。这里有些可疑...}

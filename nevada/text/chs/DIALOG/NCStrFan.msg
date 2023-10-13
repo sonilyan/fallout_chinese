@@ -8,7 +8,7 @@
 {103}{}{嘿！}
 #{104}{}{Where are you, baby?!}
 {104}{}{你在哪，宝贝？！}
-#{105}{}{I�m talking to you!}
+#{105}{}{I??m talking to you!}
 {105}{}{我在和你说话！}
 #{106}{}{Come out, sweetness!}
 {106}{}{出来，甜心！}

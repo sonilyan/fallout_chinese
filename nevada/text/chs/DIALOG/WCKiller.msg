@@ -1,7 +1,7 @@
 #{100}{}{You see a private.}
 {100}{}{你看到一个私人。}
 #{101}{}{You see an ordinary private... Though his mug looks more like that of a common criminal.}
-{101}{}{你看到一个普通的士兵。。。虽然他的杯子看起来更像普通罪犯的。}
+{101}{}{你看到一个普通的士兵...虽然他的杯子看起来更像普通罪犯的。}
 #{102}{}{There he is! Freeze! I said stop right there!!!}
 {102}{}{他来了！别动！我说停在那里！！！}
 #{110}{}{Hey you! Put your hands in the air! You're under arrest! }
@@ -11,7 +11,7 @@
 #{112}{}{Bullshit!}
 {112}{}{瞎扯！}
 #{113}{}{We'll see about that...}
-{113}{}{我们拭目以待。。。}
+{113}{}{我们拭目以待...}
 #{114}{}{[You are taken to the local prison cell, stripped of all belongings]}
 {114}{}{[你被带到当地的牢房，所有的东西都被剥夺]}
 #{115}{}{It appears you weren't just arrested, but also barbarously robbed!}

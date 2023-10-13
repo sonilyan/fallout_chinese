@@ -5,7 +5,7 @@
 #{110}{}{::moans::}
 {110}{}{●呻吟声：}
 #{111}{}{Oh, my teeth hurt...}
-{111}{}{哦，我的牙齿疼。。。}
+{111}{}{哦，我的牙齿疼...}
 #{112}{}{Time to quit this job}
 {112}{}{该辞职了}
 #{113}{}{It's the first time in my career}
@@ -15,7 +15,7 @@
 #{115}{}{How can you do that!}
 {115}{}{你怎么能这样！}
 #{116}{}{Damn, I feel like shit...}
-{116}{}{妈的，我感觉糟透了。。。}
+{116}{}{妈的，我感觉糟透了...}
 #{117}{}{Just like that - in front of everyone!}
 {117}{}{就这样-在大家面前！}
 #{118}{}{Bastards! Bastards!}
@@ -49,13 +49,13 @@
 #{206}{}{[Angrily pulls your hand away] I don't accept handouts for militaries' favorites. Leave me alone!}
 {206}{}{[愤怒地把手拉开]我不接受军方喜欢的施舍。别管我！}
 #{207}{}{So this is what you like...}
-{207}{}{所以这就是你喜欢的。。。}
+{207}{}{所以这就是你喜欢的...}
 #{208}{}{Thanks for the help}
 {208}{}{谢谢你的帮助}
 #{209}{}{See ya at Vegas, maybe.}
 {209}{}{也许在维加斯见。}
 #{210}{}{Oh... That's so much better. Thanks for the help.}
-{210}{}{哦。。。好多了。谢谢你的帮助。}
+{210}{}{哦...好多了。谢谢你的帮助。}
 #{211}{}{Now tell me, who painted you like this?}
 {211}{}{告诉我，谁把你画成这样的？}
 #{212}{}{A couple of soldiers from the garrison! Who else?}
@@ -103,11 +103,11 @@
 #{233}{}{That Jimmy got what he deserved and now wants to send his apologies.}
 {233}{}{吉米得到了他应得的，现在想表达他的歉意。}
 #{234}{}{That Jimmy got what he deserved. We had a... Explanatory conversation.}
-{234}{}{吉米得到了他应得的。我们有一个。。。解释性对话。}
+{234}{}{吉米得到了他应得的。我们有一个...解释性对话。}
 #{235}{}{Tell me again, why did they beat you up.}
 {235}{}{再说一遍，他们为什么打你。}
 #{236}{}{For real? You're tough one! Who else could crank this out and press the soldier to the wall... Oh, by the way - did you manage to get back my belongings?}
-{236}{}{真的吗？你是个坚强的人！还有谁能把这个弄出来把士兵推到墙上。。。哦，顺便问一下-你把我的东西拿回来了吗？}
+{236}{}{真的吗？你是个坚强的人！还有谁能把这个弄出来把士兵推到墙上...哦，顺便问一下-你把我的东西拿回来了吗？}
 #{237}{}{Here's your 200 bucks and a handgun.}
 {237}{}{这是你的200块钱和一把手枪。}
 #{238}{}{Here's your 200 bucks, but he didn't give the pistol.}
@@ -125,7 +125,7 @@
 #{244}{}{Yeah. Take care.}
 {244}{}{是 啊。当心。}
 #{245}{}{Well, I have to say goodbye to my "Desert Eagle"... I think, I'll fall into depression soon enough... You know, whatever happened there, I guess they got what they deserved. Here, take the half. [gives 100 bucks] You earned it. Thank you for everything! See you in Vegas, maybe.}
-{245}{}{我得跟我的“沙漠鹰”说再见了。。。我想，我很快就会陷入抑郁。。。你知道，不管发生了什么，我想他们得到了应得的。来，拿一半。[给100块]你赢了。谢谢你所做的一切！也许在维加斯见。}
+{245}{}{我得跟我的“沙漠鹰”说再见了...我想，我很快就会陷入抑郁...你知道，不管发生了什么，我想他们得到了应得的。来，拿一半。[给100块]你赢了。谢谢你所做的一切！也许在维加斯见。}
 #{246}{}{Maybe so. Goodbye.}
 {246}{}{也许是吧。再见。}
 #{247}{}{Uh, bad luck. At least I'm in peace knowing that they got what they deserved. Thank you for everything! Other would've just passed by. See you in Vegas, maybe.}

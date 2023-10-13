@@ -14,7 +14,7 @@
 {106}{}{有什么意义？}
 #{107}{}{This is pointless.}
 {107}{}{这是毫无意义的。}
-#{108}{}{Now that�s a find!}
+#{108}{}{Now that??s a find!}
 {108}{}{现在这是一个发现！}
 #{109}{}{You find a very cleverly hidden stash of valuables.}
 {109}{}{你发现了一个非常巧妙的藏匿贵重物品的地方。}

@@ -12,7 +12,7 @@
 {115}{}{回到列表。}
 #{116}{}{End.}
 {116}{}{结束。}
-#{117}{}{I don�t know any recipes yet.}
+#{117}{}{I don??t know any recipes yet.}
 {117}{}{我还不知道什么菜谱。}
 #{118}{}{> Next list.}
 {118}{}{>下一个列表。}
@@ -59,7 +59,7 @@
 #{152}{}{Use radscorpion venom.}
 {152}{}{使用蝎子毒液。}
 #{153}{}{Done. Now you only have to wait a little...}
-{153}{}{完成。现在你只需要等一小会儿。。。}
+{153}{}{完成。现在你只需要等一小会儿...}
 #{154}{}{End.}
 {154}{}{结束。}
 #{155}{}{The raiders should have eaten their poisoned food by now.}

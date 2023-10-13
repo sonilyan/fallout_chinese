@@ -12,7 +12,7 @@
 {111}{}{[仔细看]}
 #{112}{}{[Leave]}
 {112}{}{[离开]}
-#{113}{}{This pistol is very unusual. And it�s clearly energy-based weapon. The barely seen sign on the side reads: "Property of Area 51".}
+#{113}{}{This pistol is very unusual. And it??s clearly energy-based weapon. The barely seen sign on the side reads: "Property of Area 51".}
 {113}{}{这把手枪很不寻常。它显然是基于能量的武器。旁边几乎看不见的牌子写着：“51区房产”。}
 #{114}{}{[Next]}
 {114}{}{[下一步]}
@@ -22,5 +22,5 @@
 {116}{}{[拿着爆能枪]}
 #{117}{}{You take the gun with all its parts, including charging power cells.}
 {117}{}{你拿着枪的所有零件，包括充电电池。}
-#{118}{}{The owner won�t be happy, but I need this more!}
+#{118}{}{The owner won??t be happy, but I need this more!}
 {118}{}{主人不会高兴的，但我更需要这个！}

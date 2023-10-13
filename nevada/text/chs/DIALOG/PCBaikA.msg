@@ -14,7 +14,7 @@
 {111}{}{没有什么。}
 #{112}{}{I'm looking for Jay Kukish.}
 {112}{}{我在找杰伊·库基什。}
-#{113}{}{You won�t find him here. He went mad and ran off to Hawthorne.}
+#{113}{}{You won??t find him here. He went mad and ran off to Hawthorne.}
 {113}{}{你在这里找不到他。他发疯了，跑到霍桑去了。}
 #{114}{}{Why are you so calm while telling me this?}
 {114}{}{你为什么这么冷静地告诉我这些？}
@@ -35,8 +35,8 @@
 #{122}{}{Well, yeah. We could smell something's changing. Jay have been spreading the rumors that it's better to stay close to Hawthorne, that something is going to happen there. So, we gathered in Bridgeport - considering that to stay in Hawthorne itself is dangerous.}
 {122}{}{嗯，是的。我们能闻到有什么变化。杰伊一直在散布谣言，说最好和霍桑待在一起，那里会发生什么事。所以，我们聚集在布里奇波特-考虑到留在霍桑本身是危险的。}
 #{123}{}{Jay said he became interested in a governmental vault. According to him, it is located somewhere in Nevada. Therefore, Jay decided to look for the coordinates on a military base.}
-{123}{}{杰伊说他对政府金库感兴趣。据他说，它位于内华达州的某个地方。因此，杰伊决定在一个军事基地寻找坐标。}
-#{124}{}{Oh really? Somehow, Jay haven�t contacted us yet, to tell about it. We've been waiting this news for quite a long time. Also, frankly speaking, the rednecks here are beginning to get on our nerves. We'll move to the base as soon as everyone is ready.}
+{123}{}{杰伊说他对政府避难所感兴趣。据他说，它位于内华达州的某个地方。因此，杰伊决定在一个军事基地寻找坐标。}
+#{124}{}{Oh really? Somehow, Jay haven??t contacted us yet, to tell about it. We've been waiting this news for quite a long time. Also, frankly speaking, the rednecks here are beginning to get on our nerves. We'll move to the base as soon as everyone is ready.}
 {124}{}{哦，真的吗？不知怎么的，杰伊还没有联系我们，告诉我们这件事。我们已经等这个消息很久了。而且，坦率地说，这里的乡巴佬们开始让我们紧张起来。大家一准备好我们就去基地。}
 #{125}{}{I am a veteran of the Civil War in Reno. Then, local entrepreneurs used to get bikers involved into their shady dealings. We fought as a strike force, as mercenaries, until the situation came to the level when we were not needed anymore. Then we realized that we've just been used. So, we decided to spit in the face of the whole city. I wanted to be free.}
 {125}{}{我是里诺内战的老兵。然后，当地的企业家过去常常让骑自行车的人参与他们的阴暗交易。我们作为一支打击部队，作为雇佣兵作战，直到局势发展到不再需要我们的地步。然后我们意识到我们被利用了。所以，我们决定向整个城市吐痰。我想要自由。}

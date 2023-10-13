@@ -79,7 +79,7 @@
 #{161}{}{Don't even think touching me, you're gonna feel the nerd rage otherwise! Hi-i-a-a-h!!!}
 {161}{}{别碰我，不然你会感到书呆子的愤怒！嗨-我-阿-阿-哈！！！}
 #{162}{}{Right, I hear you...}
-{162}{}{好吧，我听到了。。。}
+{162}{}{好吧，我听到了...}
 #{163}{}{Are you high? I don't recommend you being in here}
 {163}{}{你兴奋吗？我不建议你呆在这里}
 #{164}{}{What's up with your skin? Is this contagious?}

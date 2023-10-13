@@ -8,7 +8,7 @@
 {111}{}{告诉我，你有什么喝的。}
 #{112}{}{Okay.}
 {112}{}{可以。}
-#{113}{}{That�s enough. If you're going to vomit - do it outside. Okay?}
+#{113}{}{That??s enough. If you're going to vomit - do it outside. Okay?}
 {113}{}{够了。如果你要呕吐-到外面去。可以？}
 #{114}{}{I need more drink.}
 {114}{}{我需要更多的饮料。}

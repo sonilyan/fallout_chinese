@@ -27,7 +27,7 @@
 #{119}{}{Sorry, I've got nothing.}
 {119}{}{对不起，我什么都没有。}
 #{120}{}{Respect! Alright, we're cracking. One, two, three, four... Let's go! [he starts skillfully banging out a melody on the cans]}
-{120}{}{尊重！好了，我们要开始了。一，二，三，四。。。走吧！[他开始熟练地在罐子上敲出旋律]}
+{120}{}{尊重！好了，我们要开始了。一，二，三，四...走吧！[他开始熟练地在罐子上敲出旋律]}
 #{121}{}{Whoa-whoa-whoa, my ears! That's not music, that's noise! Knock that off!}
 {121}{}{哇，哇，我的耳朵！那不是音乐，那是噪音！住手！}
 #{122}{}{I can feel the rhythm! Keep it up!}

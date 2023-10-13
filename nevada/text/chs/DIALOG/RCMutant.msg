@@ -3,7 +3,7 @@
 #{101}{}{This disgusting mutated creature does not approve of your appearance.}
 {101}{}{这个可恶的变异生物不喜欢你的外表。}
 #{102}{}{Uh... I think it was the last one.}
-{102}{}{休斯敦大学。。。我想这是最后一次了。}
+{102}{}{Uh...我想这是最后一次了。}
 #{103}{}{Ha! Liked that apple, worm?}
 {103}{}{哈！喜欢那个苹果吗，沃姆？}
 #{104}{}{Mutant swallows the bomb like a ripe mutafruit.}

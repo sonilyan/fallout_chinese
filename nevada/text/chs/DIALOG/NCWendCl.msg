@@ -15,7 +15,7 @@
 #{112}{}{We'll talk later, then.}
 {112}{}{那我们晚点再谈。}
 #{113}{}{Hmm? ...Oh, no, not like that. The travel was fine, but I had to hurry to get here before nightfall.}
-{113}{}{嗯。。。哦，不，不是那样的。旅途还行，但我得赶在天黑前赶到这里。}
+{113}{}{嗯...哦，不，不是那样的。旅途还行，但我得赶在天黑前赶到这里。}
 #{114}{}{I know what you mean. I'd never spend a night outside the city!}
 {114}{}{我知道你的意思。我决不会在城外过夜！}
 #{115}{}{Yes, the wasteland can be very dangerous at night.}
@@ -45,7 +45,7 @@
 #{127}{}{Interesting. Well, see you around.}
 {127}{}{很有趣。好吧，回头见。}
 #{128}{}{Wendover... Oh, right, you've probably never heard of it. Uh, it's a seasonal hunting village near Salt Lake.}
-{128}{}{温多弗。。。哦，对了，你可能从没听说过。呃，这是盐湖附近的一个季节性狩猎村。}
+{128}{}{温多弗...哦，对了，你可能从没听说过。呃，这是盐湖附近的一个季节性狩猎村。}
 #{129}{}{What made you come here?}
 {129}{}{你为什么来这里？}
 #{130}{}{Can you show me where it's located?}
@@ -67,7 +67,7 @@
 #{138}{}{If you say so. See you around.}
 {138}{}{如果你这样说。回头见。}
 #{139}{}{It's mostly hunters and their families. Men hunt for geckos while women and children tend to their huts. It has everything you need - a tavern, a shop, a hunting guild - but other than that there's not much to it. Also... A lot of people only live there for the hunting season, so they think they can do whatever they want without being punished for it.}
-{139}{}{主要是猎人和他们的家人。男人捕猎壁虎，而女人和孩子则在他们的小屋里。它有你所需要的一切-一个酒馆，一个商店，一个狩猎协会-但除此之外，它没有太多。也。。。很多人只在狩猎季节住在那里，所以他们认为自己可以为所欲为，而不会因此受到惩罚。}
+{139}{}{主要是猎人和他们的家人。男人捕猎壁虎，而女人和孩子则在他们的小屋里。它有你所需要的一切-一个酒馆，一个商店，一个狩猎协会-但除此之外，它没有太多。也...很多人只在狩猎季节住在那里，所以他们认为自己可以为所欲为，而不会因此受到惩罚。}
 #{140}{}{No punishment? Sounds like my kind of town! Where is it?}
 {140}{}{没有惩罚？听起来像是我的家乡！它在哪里？}
 #{141}{}{What are you planing to do in Reno?}

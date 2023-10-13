@@ -3,7 +3,7 @@
 #{101}{}{You see the leader of the convoy.}
 {101}{}{你看到车队的队长了。}
 #{102}{}{See you around... Partner.}
-{102}{}{回头见。。。合伙人。}
+{102}{}{回头见...合伙人。}
 #{110}{}{Who the hell are you?}
 {110}{}{你到底是谁？}
 #{111}{}{I'm just passing by. What are you carrying?}
@@ -15,13 +15,13 @@
 #{114}{}{Oh, I'm just out for a walk. Bye.}
 {114}{}{哦，我只是出去走走。再见。}
 #{120}{}{Passing by? All the way out here? At night? ...you just keep on passing, then. Nothing to see here.}
-{120}{}{路过？一直到这里？在晚上。。。那你就继续过去吧。这里没什么可看的。}
+{120}{}{路过？一直到这里？在晚上...那你就继续过去吧。这里没什么可看的。}
 #{121}{}{Oh yeah? [he eyes you suspiciously] I was told to wait for someone to call on the radio, but I haven't heard anything. What's going on?}
 {121}{}{哦，是吗？[他怀疑地看着你]有人叫我等着有人打电话来，但我什么也没听到。发生什么事？}
 #{122}{}{}
 {122}{}{}
 #{123}{}{Uh...}
-{123}{}{休斯敦大学。。。}
+{123}{}{Uh...}
 #{124}{}{We ran into technical problems with the radio. Do you have the product or not?}
 {124}{}{我们的收音机遇到了技术问题。你有没有这个产品？}
 #{125}{}{}
@@ -45,7 +45,7 @@
 #{134}{}{My boss would like to conduct business with you in the future, but these prices are unreasonable. If you want to take advantage of this opportunity, you will lower them.}
 {134}{}{我的老板将来想和你们做生意，但这些价格不合理。如果你想利用这个机会，你会降低他们。}
 #{135}{}{Your loss. My boss would like to conduct business with you in the future...}
-{135}{}{你的损失。我的老板将来想和你做生意。。。}
+{135}{}{你的损失。我的老板将来想和你做生意...}
 #{136}{}{I have another idea: leave the product and walk away, and I'll allow you to keep your lives.}
 {136}{}{我有另一个想法：离开产品，走开，我会让你保住你的生命。}
 #{137}{}{I don't like that price. I think I'd prefer to take the product and your lives. [Attack.]}
@@ -57,7 +57,7 @@
 #{140}{}{[Next]}
 {140}{}{[下一步]}
 #{141}{}{Sounds good... For now. But if there's trouble next time, it'll be the last. Clear?}
-{141}{}{听起来不错。。。现在。但如果下次有麻烦的话，那就是最后一次了。明白了吗？}
+{141}{}{听起来不错...现在。但如果下次有麻烦的话，那就是最后一次了。明白了吗？}
 #{142}{}{You managed to knock $500 off the price per order. The savings made its way back into your pockets.}
 {142}{}{你设法把每份订单的价格降低了500美元。积蓄又回到了你的口袋里。}
 #{143}{}{Are you kidding me? Sit down, kiddo, I've been trading since before you were alive and that's just about the worst deal I've ever heard. That's the price, take it or leave it.}
@@ -75,7 +75,7 @@
 #{154}{}{So what are they? Weapons fanatics?}
 {154}{}{它们是什么？武器狂热分子？}
 #{155}{}{Not quite. It's just the only thing they know how to do... Not including their criminal pasts. They came to Boneyard some time ago hoping to settle down. They holed up in an old weapons factory and dug a moat full of radioactive goo. I guess the old blueprints must have been kicking around in there. At first, they didn't talk to anyone, but eventually they started selling guns and ammo for food. Basically, the weapons are the only thing keeping them afloat.}
-{155}{}{不完全是。这是他们唯一知道的。。。不包括他们犯罪的过去。他们前段时间来到骨场希望安顿下来。他们躲在一个旧武器厂里，挖了一条满是放射性粘液的护城河。我猜那些旧的蓝图一定是在里面到处乱窜。起初，他们不跟任何人说话，但最终他们开始卖枪和弹药当食物。基本上，武器是唯一能让他们漂浮的东西。}
+{155}{}{不完全是。这是他们唯一知道的...不包括他们犯罪的过去。他们前段时间来到骨场希望安顿下来。他们躲在一个旧武器厂里，挖了一条满是放射性粘液的护城河。我猜那些旧的蓝图一定是在里面到处乱窜。起初，他们不跟任何人说话，但最终他们开始卖枪和弹药当食物。基本上，武器是唯一能让他们漂浮的东西。}
 #{1110}{}{Who the hell are you?}
 {1110}{}{你到底是谁？}
 #{1112}{}{I'm, uh, here to collect the product.}

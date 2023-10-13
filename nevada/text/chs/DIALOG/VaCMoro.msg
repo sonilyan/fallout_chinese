@@ -35,22 +35,22 @@
 #{124}{}{I'm responsible for medical assistance, in case someone needs it. The guard will provide security. The other citizen will gather surface data with his portable monitor.}
 {124}{}{我负责医疗救助，以防有人需要。警卫将提供安全保障。另一位市民将用他的便携式监视器收集地面数据。}
 #{125}{}{Doctor, are you sure you're alright? You look stressed...}
-{125}{}{医生，你确定你没事吗？你看起来很紧张。。。}
+{125}{}{医生，你确定你没事吗？你看起来很紧张...}
 #{126}{}{You'd better keep your mouth shut. The Overseer gave you an order - that's all you should worry about right now.}
 {126}{}{你最好闭嘴。监工给了你一个命令-这就是你现在应该担心的。}
 #{127}{}{}
 {127}{}{}
 #{128}{}{}
 {128}{}{}
-#{129}{}{Look, I can't go! Maybe I�ll just go back inside?}
+#{129}{}{Look, I can't go! Maybe I??ll just go back inside?}
 {129}{}{听着，我不能去！也许我会回去？}
 #{130}{}{We can't go without you. It's too risky.}
 {130}{}{我们不能没有你。太冒险了。}
 #{131}{}{It's too risky to go at all! It can't be a coincidence that all the monitors stopped sending data at once. Who knows what's going on out there!?}
 {131}{}{去太冒险了！所有的监视器同时停止发送数据，这不可能是巧合。谁知道外面发生了什么！？}
 #{132}{}{Hmm... It might be for the best if you don't go. You could compromise the mission. Go back in the vault. I'll find someone to replace you.}
-{132}{}{隐马尔可夫模型。。。如果你不去也许是最好的。你可能会破坏任务。回保险库去。我会找人代替你的。}
+{132}{}{Hmm...如果你不去也许是最好的。你可能会破坏任务。回保险库去。我会找人代替你的。}
 #{133}{}{Whew, thank you. You just saved my ass... [Abandon your mission]}
-{133}{}{哇，谢谢你。你刚刚救了我。。。[放弃你的使命]}
+{133}{}{哇，谢谢你。你刚刚救了我...[放弃你的使命]}
 #{134}{}{No... No, wait. I think I just needed to let that out. I'll go outside, I can do it. You can count on me.}
-{134}{}{不。。。不，等等。我想我应该把它说出来。我到外面去，我能行。你可以相信我。}
+{134}{}{不...不，等等。我想我应该把它说出来。我到外面去，我能行。你可以相信我。}

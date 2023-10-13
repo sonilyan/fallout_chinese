@@ -23,11 +23,11 @@
 #{118}{}{No, you don't get it. I'm going to kill you, then take them by force. [Attack]}
 {118}{}{不，你不明白。我要杀了你，然后强行带走他们。[攻击]}
 #{119}{}{Uh... Sure. I'll do that.}
-{119}{}{休斯敦大学。。。当然。我会的。}
+{119}{}{Uh...当然。我会的。}
 #{130}{}{This door is locked with a key.}
 {130}{}{这扇门是用钥匙锁着的。}
 #{131}{}{It's some strange type of lock you haven't seen before. You'll need the key to open it... Or just smash the door down.}
-{131}{}{你以前没见过这种奇怪的锁。你需要钥匙才能打开它。。。或者干脆把门砸开。}
+{131}{}{你以前没见过这种奇怪的锁。你需要钥匙才能打开它...或者干脆把门砸开。}
 #{132}{}{Locked.}
 {132}{}{锁定。}
 #{133}{}{Unlocked.}
@@ -101,11 +101,11 @@
 #{232}{}{Like what?}
 {232}{}{像什么？}
 #{233}{}{Just a lot of things that piss me off...}
-{233}{}{只是很多让我生气的事。。。}
+{233}{}{只是很多让我生气的事...}
 #{234}{}{Go on, then.}
 {234}{}{那就继续吧。}
 #{235}{}{Now, I'm not talking about things that just annoy me...}
-{235}{}{现在，我不是说那些让我烦恼的事。。。}
+{235}{}{现在，我不是说那些让我烦恼的事...}
 #{236}{}{Get to the point already, for fuck's sake!}
 {236}{}{说正题吧，看在他妈的份上！}
 #{237}{}{...but stuff that just makes me want to kill!}
@@ -157,7 +157,7 @@
 #{260}{}{ }
 {260}{}{ }
 #{261}{}{These rich motherfuckers always have to smoke...}
-{261}{}{这些有钱的混蛋总是要抽烟。。。}
+{261}{}{这些有钱的混蛋总是要抽烟...}
 #{262}{}{ }
 {262}{}{ }
 #{263}{}{...smoking a big brown dick!}
@@ -169,7 +169,7 @@
 #{266}{}{Ha! You tell 'em!}
 {266}{}{哈！你告诉他们！}
 #{267}{}{Oh, and another thing that pisses me off...}
-{267}{}{哦，还有一件事让我很生气。。。}
+{267}{}{哦，还有一件事让我很生气...}
 #{268}{}{Yeah?}
 {268}{}{是 啊？}
 #{269}{}{These fuckers with a barbed wire tattoo on their arm.}
@@ -181,7 +181,7 @@
 #{272}{}{ }
 {272}{}{ }
 #{273}{}{Man, I'd love to knocking their fucking teeth out...}
-{273}{}{伙计，我真想把他们的牙打掉。。。}
+{273}{}{伙计，我真想把他们的牙打掉...}
 #{274}{}{That's all?}
 {274}{}{这就是全部？}
 #{275}{}{You know what would happen if you smacked them over the head with a baton a few times?}

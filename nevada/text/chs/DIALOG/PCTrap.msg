@@ -8,7 +8,7 @@
 {103}{}{在我们打断你的腿之前离开这里。}
 #{110}{}{What do you want?}
 {110}{}{你想要什么？}
-#{111}{}{You don�t look like a farmer. Tell me about yourself.}
+#{111}{}{You don??t look like a farmer. Tell me about yourself.}
 {111}{}{你看起来不像个农民。跟我说说你自己。}
 #{112}{}{What do you think about the bikers?}
 {112}{}{你觉得骑自行车的人怎么样？}
@@ -16,7 +16,7 @@
 {113}{}{地理知识够了。最好跟我说说骑自行车的人。}
 #{114}{}{Bye.}
 {114}{}{再见。}
-#{115}{}{Enough about bikers. Tell me about yourself. You don�t look like a farmer.}
+#{115}{}{Enough about bikers. Tell me about yourself. You don??t look like a farmer.}
 {115}{}{别再提骑车人了。跟我说说你自己。你看起来不像个农民。}
 #{116}{}{}
 {116}{}{}
@@ -24,7 +24,7 @@
 {117}{}{}
 #{118}{}{}
 {118}{}{}
-#{119}{}{You don�t look like a biker. If you just wandered in to rest, then you better pack up and leave. You don�t want trouble with the bikers.}
+#{119}{}{You don??t look like a biker. If you just wandered in to rest, then you better pack up and leave. You don??t want trouble with the bikers.}
 {119}{}{你看起来不像个摩托车手。如果你只是随便进去休息，那你最好收拾行李离开。你不想和骑自行车的人闹事。}
 #{120}{}{No, I'm not a farmer. Sometimes, of course, I have to help with the harvest or at the slaughterhouse. But my main task is to dig through the ruins in search of anything useful. I'm also good with firearms and a little bit with mechanics. So, my skills are needed in Bridgeport.}
 {120}{}{不，我不是农民。当然，有时我得帮忙收割或在屠宰场干活。但我的主要任务是在废墟中挖掘有用的东西。我也擅长枪械和一点机械。所以，布里奇波特需要我的技能。}
@@ -46,7 +46,7 @@
 {128}{}{东南方向有一条高速公路，但最近的村庄离这里很远。一些特别绝望的商队正试图掌握这条贸易路线，并在拉斯维加斯和新雷诺之间旅行，但没有多少人能够在这段旅程中幸存下来。}
 #{129}{}{What else?}
 {129}{}{还有什么？}
-#{130}{}{To the south and southwest of the mountains there is only desert. It's a harsh place. It�s impossible to live there, let alone travel, nobody even tries anymore. I don�t remember a single case of anyone ever making it from the south. Could there be any life beyond the desert? I doubt it.}
+#{130}{}{To the south and southwest of the mountains there is only desert. It's a harsh place. It??s impossible to live there, let alone travel, nobody even tries anymore. I don??t remember a single case of anyone ever making it from the south. Could there be any life beyond the desert? I doubt it.}
 {130}{}{山脉的南部和西南部只有沙漠。这是个艰苦的地方。在那里生活是不可能的，更不用说旅行了，甚至没有人再尝试了。我不记得有人从南方来过。沙漠之外还有生命吗？我怀疑。}
 #{131}{}{Between us and the desert in the south, there are some highlands. Sometimes I go there for hunting, but never far in the mountains - I do not want to meet the local tribe that lives there.}
 {131}{}{在我们和南方沙漠之间，有一些高地。有时我去那里打猎，但从不在山上走远——我不想见到住在那里的当地部落。}
@@ -54,7 +54,7 @@
 {132}{}{告诉我南方的部落。}
 #{133}{}{Those savages have almost forgotten how to speak. The entire tribe has probably been isolated  from the outside world since the days of the Great War. So, they have forced to inbreed with their relatives. I also know that they are cannibals. The shaking syndrome and gnawed human bones in the parking lots can prove that. How do I know? It happened. I saw it. A couple of times I even had to fight with them. They fight like animals, but what can they do with their clubs and spears against my rifle?}
 {133}{}{那些野蛮人几乎忘了怎么说话。整个部落可能从大战时期起就与外界隔绝了。因此，他们被迫与亲戚近亲繁殖。我也知道他们是食人族。摇晃综合症和停车场啃人骨头可以证明这一点。我怎么知道？事情发生了。我看到了。有几次我甚至不得不和他们打架。他们像动物一样战斗，但他们能用棍棒和长矛对付我的步枪吗？}
-#{140}{}{I have nothing against their way of life, but they shouldn�t impose their laws on ordinary people! We didn�t call them here. When there was only a couple of bikers in Bridgeport, it did not create any problems, but now they are starting to push us. A little more - and our lovely town will quickly become a war zone.}
+#{140}{}{I have nothing against their way of life, but they shouldn??t impose their laws on ordinary people! We didn??t call them here. When there was only a couple of bikers in Bridgeport, it did not create any problems, but now they are starting to push us. A little more - and our lovely town will quickly become a war zone.}
 {140}{}{我并不反对他们的生活方式，但是他们不应该把他们的法律强加给普通人！我们没有叫他们来。当布里奇波特只有几个车手的时候，这并没有造成任何问题，但现在他们开始推动我们。再多一点——我们可爱的小镇很快就会变成战区。}
 #{141}{}{What do they want here?}
 {141}{}{他们想在这里干什么？}
@@ -68,9 +68,9 @@
 {145}{}{我只是想帮忙。}
 #{146}{}{Damn, if you have nothing then don't try and deal with me.}
 {146}{}{妈的，如果你一无所有那就别跟我打交道。}
-#{147}{}{Listen. In the garage across the street there is a backup generator. It's in working condition, but I was not able to establish the supply of electricity to houses. Apparently, I'm a bad electrician. How to fix it? I don�t know. You have to look all over the town, check the switchboards, dig into the transformer, and deal with corrosion. If you�re a good technician and smart enough, you�ll fix it in no time.}
+#{147}{}{Listen. In the garage across the street there is a backup generator. It's in working condition, but I was not able to establish the supply of electricity to houses. Apparently, I'm a bad electrician. How to fix it? I don??t know. You have to look all over the town, check the switchboards, dig into the transformer, and deal with corrosion. If you??re a good technician and smart enough, you??ll fix it in no time.}
 {147}{}{听。在街对面的车库里有一台备用发电机。它在工作状态，但我无法建立电力供应的房子。显然，我是个差劲的电工。如何修复？我不知道。你必须环顾全城，检查配电盘，挖掘变压器，处理腐蚀。如果你是一个好的技术员，足够聪明，你会很快修好的。}
-#{148}{}{Isn�t there a power station here?}
+#{148}{}{Isn??t there a power station here?}
 {148}{}{这里不是有发电站吗？}
 #{149}{}{No. The power source is not here, Bridgeport gets its energy from somewhere on the power lines.}
 {149}{}{不，电源不在这里，布里奇波特从电线上的某处获取能量。}

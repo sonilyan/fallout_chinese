@@ -5,11 +5,11 @@
 #{102}{}{Excuse me, what is this place?}
 {102}{}{打扰一下，这是什么地方？}
 #{103}{}{I really need to pay my attention to education in these parts, if so many people fail to read the "Sheriff" sign at the entrance...}
-{103}{}{我真的需要注意这些地方的教育，如果这么多人看不到入口处的“警长”标志。。。}
+{103}{}{我真的需要注意这些地方的教育，如果这么多人看不到入口处的“警长”标志...}
 #{104}{}{Oh, it's the sheriff's office? And you are...}
-{104}{}{哦，是警长办公室吗？你是。。。}
+{104}{}{哦，是警长办公室吗？你是...}
 #{105}{}{I'm actually the sheriff himself. My name is Burton Hickok, but people sometimes call me "Whip". And to immediately answer the next question: Yes, my ancestor is *that* Hickok. And yes, I bring order by the whip... And the gun if it's necessary.}
-{105}{}{我其实是警长本人。我叫伯顿·希科克，但人们有时叫我“鞭子”。然后马上回答下一个问题：是的，我的祖先是希科克。是的，我用鞭子命令。。。如果有必要的话，还有枪。}
+{105}{}{我其实是警长本人。我叫伯顿·希科克，但人们有时叫我“鞭子”。然后马上回答下一个问题：是的，我的祖先是希科克。是的，我用鞭子命令...如果有必要的话，还有枪。}
 #{106}{}{Okay, Sheriff Burton, now everything is clear to me.}
 {106}{}{好了，伯顿警长，现在一切都清楚了。}
 #{110}{}{So you caught the thief at the Quok brothers? You did the right thing. For a long time I've been cleaning out the city from all this dirt. But there are still bastards that are trying to turn Salt Lake into a shithole, hence we appreciate each victory of justice over lawlessness. On behalf of Salt Lake City, I express my gratitude for the help. I do not know what made you act, but I will not forget that. According to customs I should pay to you. $3000 is the amount that the traders would have lost, if it were not for you. Thanks again.}
@@ -17,9 +17,9 @@
 #{111}{}{Wow! That is quite a fee!}
 {111}{}{哇！那是相当高的费用！}
 #{112}{}{Okay. Take this one to the cell, and this one we will release... [Turns to you] This is my first and last warning, only because you're the new person in town. I don't know what pushed you onto a dirty business, but we won't forgive you in the future. I'm sure you understand me. [stroking his gun] Now get out.}
-{112}{}{可以。把这个带到牢房，我们会释放这个。。。[转向你]这是我第一次也是最后一次警告，只是因为你是城里的新人。我不知道是什么把你推上了肮脏的事业，但我们以后不会原谅你的。我相信你理解我。现在出去。}
+{112}{}{可以。把这个带到牢房，我们会释放这个...[转向你]这是我第一次也是最后一次警告，只是因为你是城里的新人。我不知道是什么把你推上了肮脏的事业，但我们以后不会原谅你的。我相信你理解我。现在出去。}
 #{113}{}{Damn, that was really messed up...}
-{113}{}{妈的，真是一团糟。。。}
+{113}{}{妈的，真是一团糟...}
 #{114}{}{So you are that elusive ghost? Oh, we had already heard rumors about your "exploits" beforehand. I don't why you are wanted for in the whole wasteland, but if you make problems in *my* city, *I* will be the one who rids the world from you. And now relax, that was a warning, the first *and* the last.}
 {114}{}{你就是那个难以捉摸的鬼魂？哦，我们事先已经听说了关于你“功绩”的谣言。我不知道为什么你会在这片荒原上被通缉，但如果你在我的城市里制造麻烦，我将是那个把世界从你身边夺走的人。现在放松，这是一个警告，第一个和最后一个。}
 #{115}{}{I understand, sheriff. You don't need to repeated yourself.}
@@ -41,11 +41,11 @@
 #{123}{}{Could you find an open position for a vagrant? No, not for me.}
 {123}{}{你能为流浪汉找个空位吗？不，不适合我。}
 #{124}{}{Sheriff, I need some *serious* work. Well... You get what I mean.}
-{124}{}{警长，我需要一些严肃的工作。好。。。你明白我的意思。}
+{124}{}{警长，我需要一些严肃的工作。好...你明白我的意思。}
 #{125}{}{}
 {125}{}{}
 #{126}{}{Sheriff, there is some nasty business about some dog...}
-{126}{}{警长，有些狗的事很糟糕。。。}
+{126}{}{警长，有些狗的事很糟糕...}
 #{127}{}{You know that Merck beats his wife? I can attest to it!}
 {127}{}{你知道默克打了他的妻子吗？我可以证明！}
 #{128}{}{Merck killed his wife! I saw it with my own eyes!}
@@ -53,7 +53,7 @@
 #{130}{}{To me.}
 {130}{}{对我来说。}
 #{131}{}{Uh... May I ask why? I thought the Nuka-Cola factory could require one, for example.}
-{131}{}{休斯敦大学。。。我可以问一下为什么吗？例如，我想努卡可乐厂可能需要一个。}
+{131}{}{Uh...我可以问一下为什么吗？例如，我想努卡可乐厂可能需要一个。}
 #{132}{}{That's right. But then our city will continue to have problems with healthcare and clean water. Those who would possess the possibility to generate a lot of clean water could become a real scourge for the city and provoke a lot of conflicts.}
 {132}{}{这是正确的。但到那时，我们的城市将继续面临医疗保健和清洁用水方面的问题。那些有可能产生大量清洁水的人可能会成为城市的真正祸害，并引发许多冲突。}
 #{133}{}{What conflicts? Between whom?}
@@ -77,7 +77,7 @@
 #{142}{}{Okay.}
 {142}{}{可以。}
 #{143}{}{Well, you made a wise decision. Here is your money. And... Thank you. Your assistance to our city will not be forgotten.}
-{143}{}{你做了个明智的决定。这是你的钱。还有。。。非常感谢。你对我们城市的帮助不会被忘记。}
+{143}{}{你做了个明智的决定。这是你的钱。还有...非常感谢。你对我们城市的帮助不会被忘记。}
 #{144}{}{No problem, Sheriff!}
 {144}{}{没问题，警长！}
 #{145}{}{You delivered a filter for the artesian tower and this significantly improved the local living conditions.}
@@ -85,11 +85,11 @@
 #{146}{}{I want to report a crime! The merchant in the parking lot sold me irradiated Nuka-Cola.}
 {146}{}{我要报案！停车场的商人卖给我辐照过的努卡可乐。}
 #{147}{}{Damn, I could smell that something was fishy about that asshole! It never occurred to me to check his goods for radiation exposure. He probably has serious mental issues, carrying irradiated things around. Well, we have to confiscate and destroy the goods... [Calls for his sergeant and tells him to settle the matter before turning his attention back to you] Thank you for your testimony. This was a timely decision, someone could get hurt.}
-{147}{}{妈的，我闻到那混蛋有点可疑！我从没想过要检查他的货物是否受到辐射。他可能有严重的精神问题，随身带着受辐射的东西。嗯，我们必须没收并销毁这些货物。。。[打电话给他的中士，告诉他在把注意力转向你之前解决问题]谢谢你的证词。这是个及时的决定，有人会受伤的。}
+{147}{}{妈的，我闻到那混蛋有点可疑！我从没想过要检查他的货物是否受到辐射。他可能有严重的精神问题，随身带着受辐射的东西。嗯，我们必须没收并销毁这些货物...[打电话给他的中士，告诉他在把注意力转向你之前解决问题]谢谢你的证词。这是个及时的决定，有人会受伤的。}
 #{148}{}{You're welcome, Sheriff.}
 {148}{}{不客气，警长。}
 #{150}{}{For a vagrant, huh? Is this about the one that wanders around the sales area in the center? Was about time for him to get himself from the gutter... Very well, I can think of some job for him. Not for the soft-handed though, but it will be hard and honest work. Tell him to come to me and we'll talk about it.}
-{150}{}{为了一个流浪汉？这是关于那个在中心销售区徘徊的人吗？是时候让他从阴沟里出来了。。。很好，我可以给他找份工作。虽然不适合手软的人，但这将是一项艰苦而诚实的工作。告诉他来找我，我们再谈。}
+{150}{}{为了一个流浪汉？这是关于那个在中心销售区徘徊的人吗？是时候让他从阴沟里出来了...很好，我可以给他找份工作。虽然不适合手软的人，但这将是一项艰苦而诚实的工作。告诉他来找我，我们再谈。}
 #{151}{}{Will do.}
 {151}{}{就行了。}
 #{152}{}{There is actually something I'm not capable of doing myself, but I am not sure you would be capable either.}
@@ -99,7 +99,7 @@
 #{154}{}{There is actually something I'm not capable of doing myself.}
 {154}{}{实际上有些事我自己做不了。}
 #{155}{}{Tell me, it sounds interesting...}
-{155}{}{告诉我，听起来很有趣。。。}
+{155}{}{告诉我，听起来很有趣...}
 #{156}{}{First a bit of history, so you know what kind of a hole you are going to stick your nose in. Once there was a civil war in Salt Lake, and the criminal underworld thrived in it. It was a difficult time for the city. Then I decided not to stand it any longer and deal with the bastards.}
 {156}{}{首先是一段历史，这样你就知道你要把鼻子塞进什么样的洞里了。盐湖城曾经发生过一场内战，黑社会也在战争中兴盛起来。对这个城市来说，那是一段艰难的时期。然后我决定不再忍受下去，和那些混蛋打交道。}
 #{157}{}{And?}
@@ -109,7 +109,7 @@
 #{159}{}{And?}
 {159}{}{然后呢？}
 #{160}{}{We gathered the full gang and put them on public display in the square. The city learned the lesson well. Most scumbags hung on the gallows for three days. Those who were involved with some illegal business but did not deserve to die were cast away from the city. We haven't heard from them in a long time... Until recently.}
-{160}{}{我们把一伙人召集起来，在广场上公开展出。这个城市很好地吸取了教训。大多数人渣在绞刑架上被绞死了三天。那些从事非法生意但不配死去的人被赶出了城市。我们好久没有他们的消息了。。。直到最近。}
+{160}{}{我们把一伙人召集起来，在广场上公开展出。这个城市很好地吸取了教训。大多数人渣在绞刑架上被绞死了三天。那些从事非法生意但不配死去的人被赶出了城市。我们好久没有他们的消息了...直到最近。}
 #{161}{}{So what did they do now?}
 {161}{}{他们现在做了什么？}
 #{162}{}{We managed to nearly forget that they exist, not counting some occasional deaths on the road southwards. But over the last couple years we began to hear more and more about Provo - especially about attacks on caravans and travelers. Sometimes these attacks make no sense whatsoever. I think they are trying to take revenge on us.}
@@ -135,7 +135,7 @@
 #{172}{}{I have to think about the offer.}
 {172}{}{我得考虑一下这个提议。}
 #{173}{}{Enough of this. I'm not a mercenary actually... [leave]}
-{173}{}{够了。其实我不是雇佣兵。。。[离开]}
+{173}{}{够了。其实我不是雇佣兵...[离开]}
 #{177}{}{Gilmore refuses to go back to Salt Lake. Maybe it's better if I just shoot him?}
 {177}{}{吉尔摩拒绝回盐湖城。也许我开枪打他更好？}
 #{178}{}{I'll be glad of any opportunity to show the city some form of justice, but public hanging is preferable.}
@@ -151,11 +151,11 @@
 #{183}{}{Unfortunately, no.}
 {183}{}{不幸的是，没有。}
 #{184}{}{Evidently. Rest assured, the city will not just take your word for it. People will whisper, make up stories... And now - get out from the office and come back only with some evidence!}
-{184}{}{很明显。放心，这个城市不会相信你的话。人们会窃窃私语，编故事。。。现在-离开办公室，带着一些证据回来！}
+{184}{}{很明显。放心，这个城市不会相信你的话。人们会窃窃私语，编故事...现在-离开办公室，带着一些证据回来！}
 #{185}{}{[Go]}
 {185}{}{[开始]}
 #{186}{}{Excellent work! Look - so frail-looking and how much trouble he made... We will place this head on the main square, where the whole city would see and admire the inevitability of retribution. Well, as promised, here's 3000 for the job done. Thank you, we will not forget it.}
-{186}{}{干得好！你看，他看起来很虚弱，惹了很多麻烦。。。我们将把这个头像放在主广场上，在那里，整个城市都会看到并钦佩报应的必然性。好吧，正如我所承诺的，这是完成任务的3000英镑。谢谢，我们不会忘记的。}
+{186}{}{干得好！你看，他看起来很虚弱，惹了很多麻烦...我们将把这个头像放在主广场上，在那里，整个城市都会看到并钦佩报应的必然性。好吧，正如我所承诺的，这是完成任务的3000英镑。谢谢，我们不会忘记的。}
 #{187}{}{You're welcome.}
 {187}{}{不客气。}
 #{188}{}{So, what about Gilmore? When is the trial?}
@@ -179,9 +179,9 @@
 #{}{}{}
 {}{}{}
 #{200}{}{As we do not have enough dog problems here... I'm listening.}
-{200}{}{因为我们这里没有足够的狗问题。。。我在听。}
+{200}{}{因为我们这里没有足够的狗问题...我在听。}
 #{201}{}{The boy who lives across from here lost his dog and asked me to find her, but the dog died...}
-{201}{}{住在对面的那个男孩丢了他的狗，让我去找她，但是狗死了。。。}
+{201}{}{住在对面的那个男孩丢了他的狗，让我去找她，但是狗死了...}
 #{202}{}{Let me guess - from your hands, right?}
 {202}{}{让我猜猜-从你的手上，对吗？}
 #{203}{}{Yes, but I had to do it! She had obviously caught rabies and attacked me.}
@@ -233,7 +233,7 @@
 #{237}{}{Hmm? You look pretty sharp, I don't know about the rest. Well, you decide. If you die, don't come screaming at me.}
 {237}{}{隐马尔可夫模型？你看起来很犀利，其余的我都不知道。好吧，你决定吧。如果你死了，别冲我尖叫。}
 #{238}{}{Hmm, if you really are an excellent shooter, you may be able to stand up for yourself...}
-{238}{}{嗯，如果你真的是一个优秀的射手，你也许可以为自己辩护。。。}
+{238}{}{嗯，如果你真的是一个优秀的射手，你也许可以为自己辩护...}
 #{239}{}{That's great. What is this problem that needs to be solved?}
 {239}{}{太好了。这个问题需要解决的是什么？}
 #{240}{}{Sheriff, I do not advise to reject my proposal, if you need "wet work" done. I have }
@@ -251,7 +251,7 @@
 #{254}{}{I will consider your words.}
 {254}{}{我会考虑你的话。}
 #{255}{}{Money? Do I look like a merchant to you?  However... You can make a donation to the city. Around $3000, for instance, would help a lot around here.}
-{255}{}{钱？你觉得我像个商人吗？然而。。。你可以向城市捐款。比如说，3000美元左右，对这里会有很大帮助。}
+{255}{}{钱？你觉得我像个商人吗？然而...你可以向城市捐款。比如说，3000美元左右，对这里会有很大帮助。}
 #{256}{}{Done, here is my donation.}
 {256}{}{好了，这是我的捐款。}
 #{257}{}{Well, now I see that you are not one of those who spit on law and order. Now, concerning your problem: here are the coordinates of Battle Mountain, where one of the biker camps is located. I haven't been there myself, so all I can do is to share this information.}
@@ -259,7 +259,7 @@
 #{258}{}{Thank you.}
 {258}{}{非常感谢。}
 #{259}{}{Hmm. Let me think. Given your reputation in my city, I... }
-{259}{}{嗯。让我想想。考虑到你在我城市的名声，我。。。}
+{259}{}{嗯。让我想想。考虑到你在我城市的名声，我...}
 #{260}{}{...am pleased to share the information with you.}
 {260}{}{…很高兴与您分享信息。}
 #{261}{}{...will not help you.}
@@ -269,9 +269,9 @@
 #{263}{}{Really? And when it's too late?}
 {263}{}{真正地？当一切都太迟了？}
 #{264}{}{Well, what can I do? If the wife herself admits it and asks for help... But even in that case, I do not like to punish people for someone's words. It's a small town, there are a lot of gossip and family grievances. It is better to stay away of it, believe me. Hopefully, life will teach them to appreciate each other.}
-{264}{}{我能做什么？如果妻子自己承认并寻求帮助。。。但即使这样，我也不喜欢因为别人的话而惩罚别人。这是一个小镇，有很多流言蜚语和家人的不满。相信我，最好离它远点。希望生活能教会他们互相欣赏。}
+{264}{}{我能做什么？如果妻子自己承认并寻求帮助...但即使这样，我也不喜欢因为别人的话而惩罚别人。这是一个小镇，有很多流言蜚语和家人的不满。相信我，最好离它远点。希望生活能教会他们互相欣赏。}
 #{265}{}{Hmm. Well, if you're so sure then...}
-{265}{}{嗯。好吧，如果你确定的话。。。}
+{265}{}{嗯。好吧，如果你确定的话...}
 #{266}{}{What?! Damn it! I suspected that it would end badly. But if I had intervened, the problem wouldn't got resolved. You can't simply change people like Merck. Now we bust his ass. Hey guys! Get ready! And you wait here until we get back.}
 {266}{}{什么？！该死的！我怀疑结局会很糟。但如果我介入，问题就不会解决。你不能简单地改变默克这样的人。现在我们干掉他。嘿，伙计们！准备好！你在这里等我们回来。}
 #{267}{}{[Wait]}
@@ -301,13 +301,13 @@
 #{279}{}{I agree. This is his personal problem, let it go with him to the grave.}
 {279}{}{我同意。这是他的个人问题，随他去吧。}
 #{280}{}{We have not had a public execution in a long time... Well, it may be worth it to shake up the public a little and to remind everyone how it all began...}
-{280}{}{我们已经很久没有公开处决了。。。嗯，也许值得一点震动公众，提醒大家这一切是怎么开始的。。。}
+{280}{}{我们已经很久没有公开处决了...嗯，也许值得一点震动公众，提醒大家这一切是怎么开始的...}
 #{281}{}{Uh... Sheriff, I already took care of it. Merck is dead.}
-{281}{}{休斯敦大学。。。警长，我已经处理好了。默克死了。}
+{281}{}{Uh...警长，我已经处理好了。默克死了。}
 #{282}{}{Oh, that's how it is! Maybe you also want the sheriff's badge?! Turn around and leave my offices. We don't need the likes of you in our city.}
 {282}{}{哦，就是这样！也许你还想要警长徽章？！转身离开我的办公室。我们的城市不需要像你这样的人。}
 #{283}{}{Uh...}
-{283}{}{休斯敦大学。。。}
+{283}{}{Uh...}
 #{310}{}{Anything specific?}
 {310}{}{有什么特别的吗？}
 #{311}{}{Forget it, there's another question.}
@@ -333,7 +333,7 @@
 #{357}{}{In general, the city is thriving. I've never seen such a flow of visitors. Apparently, in the wastelands are already spread rumors that the city got up to it's feet - and you can earn here some money and lay your head. I hope this will continue.}
 {357}{}{总的来说，这座城市很繁荣。我从来没见过这么多游客。很显然，在荒地里已经有传言说这个城市已经站起来了——你可以在这里赚点钱，然后把头埋起来。我希望这会继续下去。}
 #{358}{}{The whole town has gone mad. I barely hold the situation together. People can get feral any moment and tear up me, or anyone else in their path, to pieces. We must do something, but there are no good ideas. I do hope we'll figure something out...}
-{358}{}{整个小镇都疯了。我几乎无法控制局面。人们随时都可能变得凶残，把我，或者其他任何人撕成碎片。我们必须做点什么，但没有好主意。我真的希望我们能想出办法。。。}
+{358}{}{整个小镇都疯了。我几乎无法控制局面。人们随时都可能变得凶残，把我，或者其他任何人撕成碎片。我们必须做点什么，但没有好主意。我真的希望我们能想出办法...}
 #{359}{}{The whole city lives its ordinary life. The population does not complain, everyone knows their place and somehow get along.}
 {359}{}{整个城市过着平常的生活。民众不抱怨，每个人都知道自己的位置，不知何故相处融洽。}
 #{360}{}{With the situation in Provo resolved, the town is calm again. Thanks to you, the citizens calmed down and are no longer afraid to go out at night.}
@@ -341,31 +341,31 @@
 #{370}{}{This is the batch of heads from Provo, as agreed.}
 {370}{}{这是从普罗沃来的一批人头。}
 #{371}{}{Well, let's look at them...}
-{371}{}{好吧，让我们看看他们。。。}
+{371}{}{好吧，让我们看看他们...}
 #{372}{}{[Next]}
 {372}{}{[下一步]}
 #{373}{}{What? Are you trying to mock me?}
 {373}{}{什么？你想嘲笑我吗？}
 #{374}{}{Oh, come on! Just think about how it rolled on the floor...}
-{374}{}{哦，来吧！想想它是怎么滚到地上的。。。}
+{374}{}{哦，来吧！想想它是怎么滚到地上的...}
 #{375}{}{Another problem of the city solved. Thank you on behalf of all citizens. Here's your reward, }
 {375}{}{城市的另一个问题解决了。代表全体市民感谢你们。这是你的奖赏，}
 #{376}{}{ dollars.}
 {376}{}{美元。}
 #{377}{}{To think how much one gets for an ordinary head...}
-{377}{}{想想一个普通的脑袋能赚多少钱。。。}
+{377}{}{想想一个普通的脑袋能赚多少钱...}
 #{380}{}{[Catching the sight of your sheriff's badge, he raises a skeptical eyebrow] Where did you get that?}
 {380}{}{[看到你的警徽，他扬起怀疑的眉毛]你从哪儿弄来的？}
 #{381}{}{I am the elected sheriff of Uranium City.}
 {381}{}{我是铀城的当选警长。}
 #{382}{}{Well, you see, they just gave it to me. I had no desire to take it, but they insisted...}
-{382}{}{嗯，你看，他们刚刚给了我。我不想拿，但他们坚持。。。}
+{382}{}{嗯，你看，他们刚刚给了我。我不想拿，但他们坚持...}
 #{383}{}{I heard something about this town from the caravaneers... They dig out uranium ore for power plants there, right? Well, it's nice to see that other settlements keep to maintain order by the law. Settle down sheriff, for you I am willing to find more time than usual.}
-{383}{}{我从商队那里听说了一些关于这个城市的事。。。他们挖出铀矿石在那里建发电厂，对吗？好吧，很高兴看到其他定居点继续维持法律秩序。安定下来，警长，我愿意为你找更多的时间。}
+{383}{}{我从商队那里听说了一些关于这个城市的事...他们挖出铀矿石在那里建发电厂，对吗？好吧，很高兴看到其他定居点继续维持法律秩序。安定下来，警长，我愿意为你找更多的时间。}
 #{384}{}{It is nice to see a friendly representative of the law. Well, let's talk, Sheriff.}
 {384}{}{很高兴见到一位友好的法律代表。好吧，我们谈谈，警长。}
 #{385}{}{Mm... Well then, hide this trinket in a pocket, until I took it away. *I* am the sheriff here, and nobody except *me* will carry that title within my city.}
-{385}{}{嗯。。。那么，把这个小饰物藏在口袋里，直到我把它拿走。*我是这里的治安官，除了我，没有人会在我的城市里拥有这个头衔。}
+{385}{}{嗯...那么，把这个小饰物藏在口袋里，直到我把它拿走。*我是这里的治安官，除了我，没有人会在我的城市里拥有这个头衔。}
 #{386}{}{Uhm, sure, Sheriff.}
 {386}{}{嗯，当然，警长。}
 #{400}{}{Are there any working trains riding through the city lately?}
@@ -385,17 +385,17 @@
 #{407}{}{Several times per season, heading back and forth. It clearly has a very long track. Must be in need to collect a lot of souls on the road.}
 {407}{}{每季几次，来回穿梭。它显然有很长的轨迹。一定需要在路上收集很多灵魂。}
 #{408}{}{Uh okay, skip the horror-show... Do you know his final destination?}
-{408}{}{好吧，跳过恐怖节目。。。你知道他的最终目的地吗？}
+{408}{}{好吧，跳过恐怖节目...你知道他的最终目的地吗？}
 #{409}{}{I don't. Some believe that it does not have stops and turns. Some even swear that he can be in different places at the same time.}
 {409}{}{我没有。有些人认为它没有停车和转弯。有些人甚至发誓他可以在不同的地方在同一时间。}
 #{410}{}{Hmm, I have heard from the likes of them... At the bars.}
-{410}{}{嗯，我听他们这样的人说。。。在酒吧。}
+{410}{}{嗯，我听他们这样的人说...在酒吧。}
 #{411}{}{But it's not just all drunken nonsense. It exists. Whatever it is, it exists! Half of the city saw it.}
 {411}{}{但这不仅仅是酒后胡说八道。它是存在的。不管它是什么，它都存在！半个城市的人都看到了。}
 #{412}{}{Half of the city?! Well, if you think about it, maybe there is an element of truth. Anyhow, thanks for the story, but I have to go.}
 {412}{}{半个城市？！好吧，如果你仔细想想，也许有一个事实的因素。不管怎样，谢谢你的报道，但我得走了。}
 #{413}{}{Sheriff, skip those children's tales. We both know that the "Ghost Train" is a real one, only slightly different from usual...}
-{413}{}{警长，跳过那些孩子的故事。我们都知道“幽灵列车”是真的，只是和平常有点不同。。。}
+{413}{}{警长，跳过那些孩子的故事。我们都知道“幽灵列车”是真的，只是和平常有点不同...}
 #{414}{}{Someone sometimes travels by train to the north and west. Someone had seen a robot, which is still cleaning the railway. But who needs it, and why - nobody knows.}
 {414}{}{有时有人乘火车去北方和西部。有人看见一个机器人，它还在清扫铁路。但是谁需要它，为什么-没人知道。}
 #{415}{}{Clearly, that means it exists for real.}
@@ -403,7 +403,7 @@
 #{450}{}{Halt! Not one step further!}
 {450}{}{站住！别再往前走了！}
 #{451}{}{Sheriff? Uh... I didn't do anything!}
-{451}{}{警长？休斯敦大学。。。我什么都没做！}
+{451}{}{警长？Uh...我什么都没做！}
 #{452}{}{Look at this, the honesty itself stands in front of me. Answer, why do you go to the station?}
 {452}{}{看看这个，诚实本身就站在我面前。回答，你为什么去车站？}
 #{453}{}{I've got some business there, Sheriff. But it does not concern you.}
@@ -463,7 +463,7 @@
 #{480}{}{Well, of course. You've got quite a cesspool here. What else should one expect?}
 {480}{}{好吧，当然。你这儿的污水坑真大。人们还能指望什么呢？}
 #{481}{}{Yea, this city is not really considered clean...}
-{481}{}{是的，这个城市并不是很干净。。。}
+{481}{}{是的，这个城市并不是很干净...}
 #{482}{}{I do not know what he does with the abducted, but they do not come back.}
 {482}{}{我不知道他对被绑架的人做了什么，但他们没有回来。}
 #{483}{}{Why not finish off this viper once and for all?}
@@ -477,7 +477,7 @@
 #{487}{}{Like hell! I will go to the station, whether you want it or not.}
 {487}{}{见鬼去吧！不管你愿不愿意，我都要去车站。}
 #{488}{}{Okay, I'm going back to the city... For now...}
-{488}{}{好吧，我要回城里。。。现在。。。}
+{488}{}{好吧，我要回城里...现在...}
 #{489}{}{You're wrong. The Reaper of Souls will continue to rampage throughout the wastes. You don't even know his goals. What will happen if he finds "pure soul"?}
 {489}{}{你错了。灵魂的收割者将继续横冲直撞。你甚至不知道他的目标。如果他找到“纯洁的灵魂”会怎样？}
 #{490}{}{I'm sorry, but I *have* to stop you. [The Sheriff pulls out his gun]}
@@ -501,7 +501,7 @@
 #{499}{}{I have the coordinates of the vault he stationed in. He has the Overseer from my city taken, who has a tracking device on. I can pinpoint the train's whereabouts. Besides, I already have working transport and good weapons. The surprise element is on my side, along with my wits and courage. I am fully prepared for it, sheriff!}
 {499}{}{我有他驻扎的保险库的坐标。他把我市的监工带走了，他身上有追踪装置。我能确定火车的位置。另外，我已经有了工作的交通工具和好的武器。惊喜因素就在我这边，还有我的智慧和勇气。我已经准备好了，警长！}
 #{500}{}{I see you are serious... I'm afraid this decision will haunt me for the rest of my life. Go.}
-{500}{}{我看你是认真的。。。恐怕这个决定会困扰我一辈子。去吧。}
+{500}{}{我看你是认真的...恐怕这个决定会困扰我一辈子。去吧。}
 #{501}{}{I will not let you down, Sheriff!}
 {501}{}{我不会让你失望的，警长！}
 #{502}{}{...And I will not let my city to be put in danger by trusting a wimp like you. Don't make me laugh and get out, for all of our sakes!}
@@ -513,7 +513,7 @@
 #{505}{}{The Reaper of Souls is dead!}
 {505}{}{灵魂的收割者死了！}
 #{506}{}{Dead? I can't believe it... I guess we'll see that in the meantime.}
-{506}{}{死了？真不敢相信。。。我想我们会看到的。}
+{506}{}{死了？真不敢相信...我想我们会看到的。}
 #{507}{}{So what was the deal you concluded with him?}
 {507}{}{你和他达成了什么协议？}
 #{508}{}{Once the city had very unstable social conditions. Criminal vermin flooded the city, even during the day no one felt safe. It was practically a civil war. Then he came, offered help in bringing order. It wasn't an easy decision for me to make.}
@@ -533,13 +533,13 @@
 #{515}{}{You're right, one must pay for everything in the end, the simple truth of life.}
 {515}{}{你说得对，一个人最终必须为一切付出代价，简单的生活真相。}
 #{1112}{}{Okay. Take this one to the cell, and this one we will release... [Turns to you] This is my first and last warning, only because you're the new person in town. I don't know what pushed you onto a dirty business, but we won't forgive you in the future. I'm sure you understand me. [stroking his gun] Now get out.}
-{1112}{}{可以。把这个带到牢房，我们会释放这个。。。[转向你]这是我第一次也是最后一次警告，只是因为你是城里的新人。我不知道是什么把你推上了肮脏的事业，但我们以后不会原谅你的。我相信你理解我。现在出去。}
+{1112}{}{可以。把这个带到牢房，我们会释放这个...[转向你]这是我第一次也是最后一次警告，只是因为你是城里的新人。我不知道是什么把你推上了肮脏的事业，但我们以后不会原谅你的。我相信你理解我。现在出去。}
 #{1128}{}{Merck killed his wife! I saw it with my own eyes!}
 {1128}{}{默克杀了他的妻子！我亲眼看到的！}
 #{1173}{}{Enough of this. I'm not a mercenary actually ... [leave]}
-{1173}{}{够了。其实我不是雇佣兵。。。[离开]}
+{1173}{}{够了。其实我不是雇佣兵...[离开]}
 #{1184}{}{Evidently. Rest assured, the city will not just take your word for it. People will whisper, make up stories... And now - get from the office and come back only with some evidence!}
-{1184}{}{很明显。放心，这个城市不会相信你的话。人们会窃窃私语，编故事。。。现在-离开办公室，带着一些证据回来！}
+{1184}{}{很明显。放心，这个城市不会相信你的话。人们会窃窃私语，编故事...现在-离开办公室，带着一些证据回来！}
 #{1193}{}{Glad to help, Sheriff.}
 {1193}{}{很乐意帮忙，警长。}
 #{1198}{}{So you think you are tough? Or you just like to take someone else's life for hard cash? Okay, it's not my business. I am willing to pay a bounty for every head of the rest of the Provo gang. And do not even think to deceive me - we keep a dossier on each of them, with photos and detailed descriptions.}
@@ -553,9 +553,9 @@
 #{1253}{}{Don't you think that I have already tried?}
 {1253}{}{你不觉得我已经试过了吗？}
 #{1410}{}{Hmm, I have heard from them at the bar...}
-{1410}{}{嗯，我在酒吧听到他们的消息。。。}
+{1410}{}{嗯，我在酒吧听到他们的消息...}
 #{1451}{}{Sheriff? Uh... I didn't do anything!}
-{1451}{}{警长？休斯敦大学。。。我什么都没做！}
+{1451}{}{警长？Uh...我什么都没做！}
 #{1463}{}{No need to act stupid, clever girl. You know.}
 {1463}{}{不用装傻，聪明的女孩。你知道的。}
 #{1467}{}{Listen up, stubborn. He asked me to stop you, but I don't want to interfere in other people's problems. This is my last warning - go back to your city and forget about all of it. The Reaper will not return.}

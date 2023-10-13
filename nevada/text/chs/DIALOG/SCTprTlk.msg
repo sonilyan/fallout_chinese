@@ -7,19 +7,19 @@
 #{103}{}{You said you is us friend!}
 {103}{}{你说你是我们的朋友！}
 #{110}{}{Greetings, outsider... You is not Cheyenne, but all look as brothers in shadow of night. Me hope you never is blinded from right path by the shining golden coin that crawls across the sky... }
-{110}{}{你好，外人。。。你们不是夏安人，但在夜幕下都像兄弟一样。我希望你永远不会被天空中闪闪发光的金币所蒙蔽。。。}
+{110}{}{你好，外人...你们不是夏安人，但在夜幕下都像兄弟一样。我希望你永远不会被天空中闪闪发光的金币所蒙蔽...}
 #{111}{}{Did you say gold? Where is this golden coin?}
 {111}{}{你是说金子吗？这枚金币在哪里？}
 #{112}{}{Uh... Hello, brother. Who are you, exactly?}
-{112}{}{休斯敦大学。。。你好，兄弟。你到底是谁？}
+{112}{}{Uh...你好，兄弟。你到底是谁？}
 #{113}{}{Ohhh-kay. I'm going to leave now.}
 {113}{}{哦，凯。我要走了。}
 #{114}{}{[He points upward with one finger] When the shadows hide under tents and trees and stones, look to the sky and you is see it. A cursed metal that burns the eyes and dazzles the mind. Even the strongest spirits step off the true path to follow it west.}
 {114}{}{[他用一个手指向上指]当影子藏在帐篷、树和石头下面时，你看看天空，你就会看到它。一种被诅咒的金属，灼伤眼睛，使头脑眩晕。即使是最强大的灵魂也会踏出正道，追随西方。}
 #{115}{}{Oh, right... The sun. And who are you?}
-{115}{}{哦，对了。。。太阳。你是谁？}
+{115}{}{哦，对了...太阳。你是谁？}
 #{116}{}{Everything in this world ends, but even the ending ends. Again, you come to Acabidab... }
-{116}{}{世界上的一切都结束了，但即使是结局也结束了。再次，你来到阿卡比达。。。}
+{116}{}{世界上的一切都结束了，但即使是结局也结束了。再次，你来到阿卡比达...}
 #{117}{}{Tell me about yourself.}
 {117}{}{跟我说说你自己。}
 #{118}{}{What can you tell me about your tribe?}
@@ -31,7 +31,7 @@
 #{121}{}{Yes?}
 {121}{}{对？}
 #{122}{}{Greetings, brother! The joy of seeing you is second only to the joy of a brother's return... }
-{122}{}{你好，兄弟！见到你的喜悦仅次于兄弟归来的喜悦。。。}
+{122}{}{你好，兄弟！见到你的喜悦仅次于兄弟归来的喜悦...}
 #{123}{}{Perhaps, but I have to go.}
 {123}{}{也许吧，但我得走了。}
 #{124}{}{I have to go.}
@@ -49,17 +49,17 @@
 #{130}{}{Me is Acabidab the Tall Bison. Me is humble servant of those who walk in night's shadow.}
 {130}{}{我是高野牛阿卡比达。我是那些在黑夜阴影中行走的人的卑微仆人。}
 #{131}{}{Those who... Shadow... Hmm, does that mean you talk to spirits?}
-{131}{}{那些。。。阴影。。。嗯，那是不是意味着你和鬼魂说话？}
+{131}{}{那些...阴影...嗯，那是不是意味着你和鬼魂说话？}
 #{132}{}{I see. I have other questions.}
 {132}{}{我懂了。我还有其他问题。}
 #{133}{}{You think me is a shaman? Ha-ha, no! Me is not nearly so wise. Me only walk the path of shadows, as the Midnight Watcher showed me. It is a difficult path to follow, and more difficult when alone... Silent River, dear brother... .}
-{133}{}{你以为我是萨满？哈哈，不！我可不是那么聪明。我只走在黑暗的道路上，正如午夜守望者告诉我的那样。这是一条很难走的路，孤独的时候更难走。。。寂静的河流，亲爱的兄弟。}
+{133}{}{你以为我是萨满？哈哈，不！我可不是那么聪明。我只走在黑暗的道路上，正如午夜守望者告诉我的那样。这是一条很难走的路，孤独的时候更难走...寂静的河流，亲爱的兄弟。}
 #{134}{}{Tell me the path of shadows and this "Midnight Watcher".}
 {134}{}{告诉我影子之路和这个“午夜守望者”。}
 #{135}{}{Silent River? Is that another one of your gods?}
 {135}{}{寂静的河流？那是你的另一个神吗？}
 #{136}{}{Ah, yes... In the past, when the blessed lands knew eternal daylight, the Soul Devourer battled the Fireborn Father to steal the Heavenly Mother and all her lands, seas, and mountains. But Midnight Water, who had long hid under the earth in the shadows, cast a black cloak over the battlefield to create night, allowing the Fireborn Father to strike the Soul Devourer down with one blow. This defeated him for many years, until he took up his flaming axe of war again... }
-{136}{}{啊，是的。。。在过去，当受祝福的土地知道永恒的阳光，灵魂吞噬者战斗火生父亲窃取天母和她所有的土地，海洋和山脉。但是，长期躲在地下阴暗处的午夜之水，在战场上披上了一件黑色的斗篷，创造了黑夜，让这位生火的父亲一拳击倒了灵魂吞噬者。这使他失败了很多年，直到他再次拿起燃烧的战斧。。。}
+{136}{}{啊，是的...在过去，当受祝福的土地知道永恒的阳光，灵魂吞噬者战斗火生父亲窃取天母和她所有的土地，海洋和山脉。但是，长期躲在地下阴暗处的午夜之水，在战场上披上了一件黑色的斗篷，创造了黑夜，让这位生火的父亲一拳击倒了灵魂吞噬者。这使他失败了很多年，直到他再次拿起燃烧的战斧...}
 #{137}{}{You seem like a master of wilderness survival. Could you share some secrets with me?}
 {137}{}{你好像是野外生存的大师。你能和我分享一些秘密吗？}
 #{138}{}{You're alone here, right? Or is there someone else hiding in the shadows?}
@@ -67,7 +67,7 @@
 #{139}{}{I should go.}
 {139}{}{我该走了。}
 #{140}{}{[He sighs] Silent River... Me brother, not by blood, but by soul. Only he and me hear the Midnight Watcher and walk the path of shaodws. He and me are the tips of the Midnight Watcher's blades. Me is skilled with any weapon that grants quick and silent death, but Cheyenne have no better scout than Silent River. He is quieter than the dead in the night... And now he is gone in the vast wasteland... }
-{140}{}{[他叹息]寂静的河流。。。我的兄弟，不是靠血缘，而是靠灵魂。只有他和我听见了守夜人的声音，走在沙瓦的路上。他和我是守夜人的刀尖。我精通任何能快速无声地死亡的武器，但夏延人没有比沉默河更好的侦察兵了。他比夜里的死人还安静。。。现在他消失在茫茫荒原上。。。}
+{140}{}{[他叹息]寂静的河流...我的兄弟，不是靠血缘，而是靠灵魂。只有他和我听见了守夜人的声音，走在沙瓦的路上。他和我是守夜人的刀尖。我精通任何能快速无声地死亡的武器，但夏延人没有比沉默河更好的侦察兵了。他比夜里的死人还安静...现在他消失在茫茫荒原上...}
 #{141}{}{What happened?}
 {141}{}{怎么搞的？}
 #{142}{}{You're skilled? Can you teach me a few tricks?}
@@ -75,13 +75,13 @@
 #{143}{}{I'm sorry to hear that. Let's talk about something else.}
 {143}{}{听到这个消息我很难过。我们再谈点别的吧。}
 #{144}{}{[He gives you a sidelong look] The Midnight Watcher only give this knowledge to Cheyenne. But as me say before, in the night, all are brothers. Maybe, if one can walk the path of shadows... Guide Silent River back to his tribe... }
-{144}{}{[他斜视了你一眼]守夜人只把这一点告诉夏延。但正如我之前所说，在夜晚，所有人都是兄弟。也许，如果一个人能走在阴影的路上。。。引导沉默的河流回到他的部落。。。}
+{144}{}{[他斜视了你一眼]守夜人只把这一点告诉夏延。但正如我之前所说，在夜晚，所有人都是兄弟。也许，如果一个人能走在阴影的路上...引导沉默的河流回到他的部落...}
 #{145}{}{I'm sure getting asked to find a lot of missing people, nowadays. Fine, I'll look for him. I just hope the river hasn't dried up yet.}
 {145}{}{现在，我肯定要找很多失踪的人。好吧，我去找他。我只希望这条河还没有干涸。}
 #{146}{}{Tell me more about Silent River.}
 {146}{}{告诉我更多关于寂静河的事。}
 #{147}{}{Sure, sure. I help you, you help me, we're all brothers... }
-{147}{}{当然，当然。我帮你，你帮我，我们都是兄弟。。。}
+{147}{}{当然，当然。我帮你，你帮我，我们都是兄弟...}
 #{148}{}{Cheyenne have not seen Silent River since he walk into the wastes. But caravan merchants say they see him in the city of the Devourer - the one they call "Reno". They say he is held in chains by an evil man. Me want to go find him, but Ogima the Black Cloud says no, because if Cheyenne lose any more hunters, it will bring death to us all.}
 {148}{}{夏延自从走进荒野，就再也没有见过寂静的河流。但是商队的商人说他们在吞噬者之城看到了他，他们称之为“雷诺”。据说他被一个恶人用铁链锁住了。我想去找他，但是乌云奥吉玛拒绝了，因为如果夏延再失去猎人，那会给我们所有人带来死亡。}
 #{149}{}{If I'm ever in Reno, I'll try to find him.}
@@ -91,7 +91,7 @@
 #{151}{}{You think me is a shaman? Ha-ha, no! Me is not nearly so wise. Me only walk the path of shadows, as the Midnight Watcher showed me. It is a difficult path.}
 {151}{}{你以为我是萨满？哈哈，不！我可不是那么聪明。我只走在黑暗的道路上，正如午夜守望者告诉我的那样。这是一条艰难的道路。}
 #{152}{}{We follow the Midnight Watcher's path. Night is us guardian, shadows us allies. Us feet is silent, and us weapons, deadly... }
-{152}{}{我们沿着守夜人的路走。黑夜是我们的守护者，阴影是我们的盟友。美国的脚是沉默的，美国的武器，致命的。。。}
+{152}{}{我们沿着守夜人的路走。黑夜是我们的守护者，阴影是我们的盟友。美国的脚是沉默的，美国的武器，致命的...}
 #{153}{}{Right.}
 {153}{}{正确的。}
 #{154}{}{What were you saying about Silent River, before?}
@@ -113,9 +113,9 @@
 #{178}{}{Times are tough all over. Well, see you.}
 {178}{}{世事难料。好吧，再见。}
 #{179}{}{Me could... There are not many of us, but the Midnight Watcher knows the path to victory in these times. And he values those that honor him more than those that mindlessly charge the enemy... But no. This is not the right time, yet.}
-{179}{}{我可以。。。我们人不多，但守夜人知道在这个时代通往胜利的道路。他更看重那些尊敬他的人，而不是那些漫不经心地指控敌人的人。。。但现在还不是时候。}
+{179}{}{我可以...我们人不多，但守夜人知道在这个时代通往胜利的道路。他更看重那些尊敬他的人，而不是那些漫不经心地指控敌人的人...但现在还不是时候。}
 #{180}{}{Me could... There are not many of us, but the Midnight Watcher knows the path to victory in these times. And he values those that honor him more than those that mindlessly charge the enemy... But without Silent River, me is not enough to take revenge... }
-{180}{}{我可以。。。我们人不多，但守夜人知道在这个时代通往胜利的道路。他更看重那些尊敬他的人，而不是那些漫不经心地指控敌人的人。。。但是没有沉默的河流，我不足以报仇。。。}
+{180}{}{我可以...我们人不多，但守夜人知道在这个时代通往胜利的道路。他更看重那些尊敬他的人，而不是那些漫不经心地指控敌人的人...但是没有沉默的河流，我不足以报仇...}
 #{181}{}{Silent River? Who's that?}
 {181}{}{寂静的河流？那是谁？}
 #{182}{}{Midnight what? Do you mean yourself, or some kind of spirit?}
@@ -125,9 +125,9 @@
 #{184}{}{If you say so. I have to go.}
 {184}{}{如果你这样说。我得走了。}
 #{200}{}{Shadows is everywhere, and they know many secrets... But they can't say everything to an outsider.}
-{200}{}{影子无处不在，他们知道很多秘密。。。但他们不能对外人说所有的话。}
+{200}{}{影子无处不在，他们知道很多秘密...但他们不能对外人说所有的话。}
 #{201}{}{Shadows is everywhere, and they know many secrets. [he winks slyly] A friend can learn a lot from them... }
-{201}{}{影子无处不在，他们知道许多秘密。一个朋友可以从他们身上学到很多。。。}
+{201}{}{影子无处不在，他们知道许多秘密。一个朋友可以从他们身上学到很多...}
 #{202}{}{What can you tell me about your chief?}
 {202}{}{关于你的头儿你能告诉我什么？}
 #{203}{}{Do you have a healer here?}
@@ -139,13 +139,13 @@
 #{206}{}{Actually, I want to ask something else.}
 {206}{}{实际上，我想问些别的问题。}
 #{207}{}{Ogima the Black Cloud is a wise chief. He leads Cheyenne with the strength of a bison... And though he forbids us from destroying those "raiders" that torture us, me understands his cunning plan.}
-{207}{}{乌云奥吉玛是个聪明的酋长。他以野牛般的力量领导夏延。。。虽然他禁止我们摧毁那些折磨我们的“袭击者”，但我明白他的狡猾计划。}
+{207}{}{乌云奥吉玛是个聪明的酋长。他以野牛般的力量领导夏延...虽然他禁止我们摧毁那些折磨我们的“袭击者”，但我明白他的狡猾计划。}
 #{208}{}{Ahh, the Heavenly Mother was very generous when she gave her gift to Niskigvan. Even spirits who have left to the great hunting grounds may be called back to their bodies by him! But, even he is helpless sometimes... Poor Makkon... }
-{208}{}{啊，天母把礼物送给尼斯基文的时候非常慷慨。即使是那些离开了大猎场的灵魂也会被他唤回他们的身体！但是，即使他有时也很无助。。。可怜的麦肯。。。}
+{208}{}{啊，天母把礼物送给尼斯基文的时候非常慷慨。即使是那些离开了大猎场的灵魂也会被他唤回他们的身体！但是，即使他有时也很无助...可怜的麦肯...}
 #{209}{}{Hmph. Avanigizhig is wise in some ways, but he is blind to deny our god. He even says that our god is only another form of the Devourer!... We do not want quarrels within Cheyenne, so we pretend we do not notice each other.}
-{209}{}{嗯。阿瓦尼吉吉在某些方面是明智的，但他是盲目的否认我们的上帝。他甚至说，我们的上帝只是另一种形式的吞食者！。。。我们不想在夏延发生争吵，所以我们假装没有注意到对方。}
+{209}{}{嗯。阿瓦尼吉吉在某些方面是明智的，但他是盲目的否认我们的上帝。他甚至说，我们的上帝只是另一种形式的吞食者！...我们不想在夏延发生争吵，所以我们假装没有注意到对方。}
 #{210}{}{Hmm... Makozid the Bear's Paw is the mightiest warrior of the tribe. Gekek is strong in body and spirit and could follow the Midnight Watcher's path, but he only fights in ways as straight as his spear. Our shepherd was once a glorious warrior, but after he was wounded by a fire stick, he spends his time outside of the camp, away from Cheyenne.}
-{210}{}{隐马尔可夫模型。。。熊爪马克齐德是部落中最强大的战士。格克的身体和精神都很强壮，他可以沿着守夜人的道路前进，但他只会以直截了当的方式战斗。我们的牧羊人曾经是一个光荣的战士，但在他被火棍打伤后，他就在营地外度过了他的时光，远离夏延。}
+{210}{}{Hmm...熊爪马克齐德是部落中最强大的战士。格克的身体和精神都很强壮，他可以沿着守夜人的道路前进，但他只会以直截了当的方式战斗。我们的牧羊人曾经是一个光荣的战士，但在他被火棍打伤后，他就在营地外度过了他的时光，远离夏延。}
 #{211}{}{Interesting. Let me ask something else.}
 {211}{}{很有趣。让我问点别的。}
 #{250}{}{But didn't Gizhiyash already tell you how he returned to Cheyenne?}
@@ -163,7 +163,7 @@
 #{256}{}{Cheyenne have not seen Silent River since he walk into the wastes. But caravan merchants say they see him in the city of the Devourer - the one they call "Reno". They say he is held in chains by an evil man. Me want to go find him, but Ogima Black Cloud says no, because if Cheyenne lose any more hunters, it will bring death to us all.}
 {256}{}{夏延自从走进荒野，就再也没有见过寂静的河流。但是商队的商人说他们在吞噬者之城看到了他，他们称之为“雷诺”。据说他被一个恶人用铁链锁住了。我想去找他，但奥吉玛乌云拒绝了，因为如果夏延再失去猎人，我们都会死。}
 #{257}{}{Silent River... Me brother, not by blood, but by soul. Only he and me hear the Midnight Watcher and walk the path of shadows. He and me are the tips of the Midnight Watcher's blades. Me is skilled with any weapon that grants quick and silent death, but Cheyenne have no better scout than Silent River. He is quieter than the dead in the night... }
-{257}{}{寂静的河流。。。我的兄弟，不是靠血缘，而是靠灵魂。只有他和我听见守夜人的声音，走在黑暗的路上。他和我是守夜人的刀尖。我精通任何能快速无声地死亡的武器，但夏延人没有比沉默河更好的侦察兵了。他比夜里的死人还安静。。。}
+{257}{}{寂静的河流...我的兄弟，不是靠血缘，而是靠灵魂。只有他和我听见守夜人的声音，走在黑暗的路上。他和我是守夜人的刀尖。我精通任何能快速无声地死亡的武器，但夏延人没有比沉默河更好的侦察兵了。他比夜里的死人还安静...}
 #{258}{}{I don't need to know anything else.}
 {258}{}{我不需要知道任何其他事情。}
 #{259}{}{Outsider! You are truly blessed by the Midnight Watcher! The road was hard for him, but Gizhiyash the Silent River has returned to Cheyenne!}
@@ -177,7 +177,7 @@
 #{263}{}{Enough of this crap. Let's get down to business!}
 {263}{}{受够了这些废话。我们开始谈正事吧！}
 #{264}{}{Yes, you is right... And me understand your path is as difficult as the path of shadows. Many trials approach you, brother. Me is do everything to help you face them.}
-{264}{}{是的，你是对的。。。我也明白你的路和影子的路一样艰难。很多考验都在逼近你，兄弟。我会尽一切努力帮助你面对他们。}
+{264}{}{是的，你是对的...我也明白你的路和影子的路一样艰难。很多考验都在逼近你，兄弟。我会尽一切努力帮助你面对他们。}
 #{265}{}{I'm grateful, brother!}
 {265}{}{我很感激，兄弟！}
 #{266}{}{Forget it, I have no time for training.}
@@ -189,7 +189,7 @@
 #{269}{}{[Next]}
 {269}{}{[下一步]}
 #{270}{}{You is a very good student... Please, take this knife as a gift. But remember, a spear will defeat it. Bring me a spear, and me is sharpen it... But me is almost out of flint.}
-{270}{}{你是一个很好的学生。。。请把这把刀当作礼物。但是记住，长矛会打败它。给我拿把矛来，我正在磨快它。。。但我的火石快用完了。}
+{270}{}{你是一个很好的学生...请把这把刀当作礼物。但是记住，长矛会打败它。给我拿把矛来，我正在磨快它...但我的火石快用完了。}
 #{271}{}{Thank you, Acabidab. I will remember this.}
 {271}{}{谢谢你，阿卡比达。我会记住的。}
 #{300}{}{You said something about spear sharpening?}
@@ -203,7 +203,7 @@
 #{304}{}{I don't need that right now. Bye.}
 {304}{}{我现在不需要。再见。}
 #{305}{}{Hmm... Everything in this world ends, even stone. Me have no more flint. Me cannot sharpen that spear anymore.}
-{305}{}{隐马尔可夫模型。。。世界上的一切都结束了，即使是石头。我再也没有燧石了。我不能再磨那把矛了。}
+{305}{}{Hmm...世界上的一切都结束了，即使是石头。我再也没有燧石了。我不能再磨那把矛了。}
 #{306}{}{That's too bad. I was just getting the hang of it.}
 {306}{}{那太糟糕了。我刚刚掌握了窍门。}
 #{307}{}{Outsider is joking?}
@@ -223,11 +223,11 @@
 #{314}{}{Done, Ghost Asp. But everything in this world ends, even stone. Me have no more flint. Me can sharpen no more spears.}
 {314}{}{好了，鬼魂。但世界上的一切都结束了，即使是石头。我再也没有燧石了。我不能再磨矛了。}
 #{1110}{}{Greetings, outsider... You is not Cheyenne, but all look as brothers in shadow of night. Me hope you never is blinded from right path by the shining golden coin that crawls across the sky... }
-{1110}{}{你好，外人。。。你们不是夏安人，但在夜幕下都像兄弟一样。我希望你永远不会被天空中闪闪发光的金币所蒙蔽。。。}
+{1110}{}{你好，外人...你们不是夏安人，但在夜幕下都像兄弟一样。我希望你永远不会被天空中闪闪发光的金币所蒙蔽...}
 #{1116}{}{Everything in this world ends, but even the ending ends. Again, you come to Acabidab... }
-{1116}{}{世界上的一切都结束了，但即使是结局也结束了。再次，你来到阿卡比达。。。}
+{1116}{}{世界上的一切都结束了，但即使是结局也结束了。再次，你来到阿卡比达...}
 #{1122}{}{Greetings, sister! The joy of seeing you is second only to the joy of a brother's return... }
-{1122}{}{你好，姐姐！见到你的喜悦仅次于兄弟归来的喜悦。。。}
+{1122}{}{你好，姐姐！见到你的喜悦仅次于兄弟归来的喜悦...}
 #{1125}{}{Truly, the Midnight Watcher walks the path through you! Cheyenne will sing of you in sacred songs and remember you as White Shadow, who poisoned even the black blood of the Devourer!}
 {1125}{}{真的，午夜守望者走过你的路！夏延人将用神圣的歌声歌颂你，并将你铭记为白影，他甚至毒害了吞噬者的黑血！}
 #{1128}{}{Greetings, White Shadow! What do you need of me?}
@@ -237,9 +237,9 @@
 #{1155}{}{Me thank you, outsider. May the Midnight Watcher draw his cloak over you.}
 {1155}{}{谢谢你，局外人。愿守夜人把他的斗篷披在你身上。}
 #{1200}{}{Shadows is everywhere, and they know many secrets... But they can't say everything to an outsider.}
-{1200}{}{影子无处不在，他们知道很多秘密。。。但他们不能对外人说所有的话。}
+{1200}{}{影子无处不在，他们知道很多秘密...但他们不能对外人说所有的话。}
 #{1201}{}{Shadows is everywhere, and they know many secrets. [he winks slyly] A friend can learn a lot from them... }
-{1201}{}{影子无处不在，他们知道许多秘密。一个朋友可以从他们身上学到很多。。。}
+{1201}{}{影子无处不在，他们知道许多秘密。一个朋友可以从他们身上学到很多...}
 #{1259}{}{Outsider! You are truly blessed by the Midnight Watcher! The road was hard for him, but Gizhiyash the Silent River has returned to Cheyenne!}
 {1259}{}{局外人！你真的被守夜人祝福了！这条路对他来说很难走，但是静谧的河流又回到了夏延！}
 #{1261}{}{I'm happy for you both. Good friends are hard to find. I hope you watch out for each other.}
@@ -247,11 +247,11 @@
 #{1262}{}{The sun has blinded you, and now you know only your own thirst. But you helped us, so me help you.}
 {1262}{}{太阳蒙蔽了你的双眼，现在你只知道自己的渴望。但你帮了我们，所以我来帮你。}
 #{1264}{}{Yes, you is right... And me understand your path is as difficult as the path of shadows. Many trials approach you, sister. Me is do everything to help you face them.}
-{1264}{}{是的，你是对的。。。我也明白你的路和影子的路一样艰难。很多考验都在逼近你，修女。我会尽一切努力帮助你面对他们。}
+{1264}{}{是的，你是对的...我也明白你的路和影子的路一样艰难。很多考验都在逼近你，修女。我会尽一切努力帮助你面对他们。}
 #{1265}{}{I'm grateful, brother!}
 {1265}{}{我很感激，兄弟！}
 #{1270}{}{You is a very good student... Please, take this knife as a gift. But remember, a spear will defeat it. Bring me a spear, and me is sharpen it... But me is almost out of flint.}
-{1270}{}{你是一个很好的学生。。。请把这把刀当作礼物。但是记住，长矛会打败它。给我拿把矛来，我正在磨快它。。。但我的火石快用完了。}
+{1270}{}{你是一个很好的学生...请把这把刀当作礼物。但是记住，长矛会打败它。给我拿把矛来，我正在磨快它...但我的火石快用完了。}
 #{1306}{}{That's too bad. I was just getting the hang of it.}
 {1306}{}{那太糟糕了。我刚刚掌握了窍门。}
 #{1309}{}{Done, outsider.}

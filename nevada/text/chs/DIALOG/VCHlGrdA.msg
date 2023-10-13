@@ -7,23 +7,23 @@
 #{110}{}{Mr. Wallace is busy. What is it about?}
 {110}{}{华莱士先生很忙。是关于什么的？}
 #{111}{}{I need to talk to him. I'm... Erm... Looking for work.}
-{111}{}{我要和他谈谈。我是。。。呃。。。找工作。}
+{111}{}{我要和他谈谈。我是...呃...找工作。}
 #{112}{}{Busy? Too bad. I'll come later.}
 {112}{}{忙碌的？太糟糕了。我晚点再来。}
-#{113}{}{He doesn�t deal with that.}
+#{113}{}{He doesn??t deal with that.}
 {113}{}{他不处理这个问题。}
 #{114}{}{I DEMAND IT! Let me in!}
 {114}{}{我要求！让我进去！}
 #{115}{}{Too bad. I'll go then.}
 {115}{}{太糟糕了。那我就去。}
-#{116}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace, I will throw him out of here. [talks to you] Mr. Wallace doesn�t need laymen like you... Get out before I throw you out of the window!}
-{116}{}{我告诉过你。。。对不起，先生？[警卫从门里听到什么]好的，华莱士先生，我把他扔出去。华莱士先生不需要你这样的外行。。。在我把你扔出窗外之前滚出去！}
+#{116}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace, I will throw him out of here. [talks to you] Mr. Wallace doesn??t need laymen like you... Get out before I throw you out of the window!}
+{116}{}{我告诉过你...对不起，先生？[警卫从门里听到什么]好的，华莱士先生，我把他扔出去。华莱士先生不需要你这样的外行...在我把你扔出窗外之前滚出去！}
 #{117}{}{I will get to your boss anyway! Just you dare not letting me go there!!!}
 {117}{}{反正我会去找你老板的！只是你不敢让我去那里！！！}
-#{118}{}{Okay, I�ll calm down and leave.}
+#{118}{}{Okay, I??ll calm down and leave.}
 {118}{}{好吧，我冷静下来离开。}
 #{119}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace. [talks to you] You can come in this time... Hmm... [contemptuously looks over you from head to toe]}
-{119}{}{我告诉过你。。。对不起，先生？[警卫从门里听到什么]好的，华莱士先生。你这次可以进来。。。隐马尔可夫模型。。。[轻蔑地从头到脚看你]}
+{119}{}{我告诉过你...对不起，先生？[警卫从门里听到什么]好的，华莱士先生。你这次可以进来...Hmm...[轻蔑地从头到脚看你]}
 #{120}{}{Finally.}
 {120}{}{最后。}
 #{121}{}{Remove your weapon! Now!}
@@ -43,7 +43,7 @@
 #{128}{}{Yes, he definitely has a bit of megalomania.}
 {128}{}{是的，他肯定有点狂妄自大。}
 #{129}{}{[The guard listens to something through the door] Okay, Mr. Wallace. [talks to you] You can come in this time... Hmm... [carefully and suspiciously looks at you]}
-{129}{}{[警卫从门里听到什么]好的，华莱士先生。你这次可以进来。。。隐马尔可夫模型。。。[仔细而怀疑地看着你]}
+{129}{}{[警卫从门里听到什么]好的，华莱士先生。你这次可以进来...Hmm...[仔细而怀疑地看着你]}
 #{130}{}{David, your guard at the casino, said otherwise.}
 {130}{}{你在赌场的警卫大卫却不这么说。}
 #{131}{}{David? Okay, this is enough. [the guard goes inside, then comes back and speaks to you] Mr. Wallace can see you now.}
@@ -56,5 +56,5 @@
 {134}{}{麦克森？嗯，老板最近听他的。好的，在这里等着。[警卫进去，然后回来和你说话]华莱士先生现在可以见你了。}
 #{135}{}{Thanks.}
 {135}{}{谢谢。}
-#{1116}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace, I will throw her out of here. [talks to you] Mr. Wallace don�t need girls like you... Get out before I throw you out of the window!}
-{1116}{}{我告诉过你。。。对不起，先生？[警卫从门里听到什么]好的，华莱士先生，我把她扔出去。华莱士先生不需要像你这样的女孩。。。在我把你扔出窗外之前滚出去！}
+#{1116}{}{I told you... Sorry, sir? [the guard listens to something through the door] Okay, Mr. Wallace, I will throw her out of here. [talks to you] Mr. Wallace don??t need girls like you... Get out before I throw you out of the window!}
+{1116}{}{我告诉过你...对不起，先生？[警卫从门里听到什么]好的，华莱士先生，我把她扔出去。华莱士先生不需要像你这样的女孩...在我把你扔出窗外之前滚出去！}

@@ -35,7 +35,7 @@
 #{152}{}{If you put your hands on me, you won't get them back.}
 {152}{}{如果你把手放在我身上，你就拿不回来了。}
 #{153}{}{And I thought this would be boring. Let's see what the boss says about you...}
-{153}{}{我觉得这会很无聊。让我们看看老板怎么说你。。。}
+{153}{}{我觉得这会很无聊。让我们看看老板怎么说你...}
 #{154}{}{Fine, bring me to your boss. I won't fight.}
 {154}{}{好吧，带我去见你老板。我不会打架的。}
 #{155}{}{[Attack the raider.]}
@@ -57,7 +57,7 @@
 #{163}{}{Yeah, that's Mold. He OD'd, so we threw him out before he started to smell. Weirdest thing is, we can't figure out where he got the shit. Fatso swears he cut him off.}
 {163}{}{是的，那是霉菌。他喝多了，所以在他闻到气味之前我们把他赶了出去。最奇怪的是，我们不知道他从哪儿弄来的。胖子发誓要把他砍掉。}
 #{164}{}{I see...}
-{164}{}{我懂了。。。}
+{164}{}{我懂了...}
 #{200}{}{Hey, you!}
 {200}{}{嘿，你！}
 #{201}{}{Waste this bitch!}
@@ -73,11 +73,11 @@
 #{206}{}{Hold still while I gut you, will ya?}
 {206}{}{别动，我把你挖出来，好吗？}
 #{207}{}{Nobody...}
-{207}{}{没有人。。。}
+{207}{}{没有人...}
 #{208}{}{This is boring.}
 {208}{}{这太无聊了。}
 #{209}{}{I'm so sick of walking in circles...}
-{209}{}{我厌倦了绕圈子。。。}
+{209}{}{我厌倦了绕圈子...}
 #{210}{}{Will this patrol ever end?}
 {210}{}{这次巡逻会结束吗？}
 #{211}{}{Why am I even doing this?}

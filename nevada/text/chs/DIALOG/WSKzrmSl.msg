@@ -21,9 +21,9 @@
 #{110}{}{Hey, who turned off the light!?}
 {110}{}{嘿，谁把灯关了！？}
 #{111}{}{Damn fuses blew again...}
-{111}{}{该死的保险丝又断了。。。}
+{111}{}{该死的保险丝又断了...}
 #{112}{}{I'm afraid of the dark... Just kidding}
-{112}{}{我害怕黑暗。。。开玩笑而已}
+{112}{}{我害怕黑暗...开玩笑而已}
 #{113}{}{The time is inappropriate for sabotage.}
 {113}{}{现在不适合搞破坏。}
 #{114}{}{*Script error*}

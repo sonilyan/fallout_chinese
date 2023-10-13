@@ -27,7 +27,7 @@
 #{120}{}{See ya.}
 {120}{}{再见。}
 #{121}{}{Hey, that's a good news! I'd be happy to come back, but... Listen, I can't leave my family just like that.}
-{121}{}{嘿，这是个好消息！我很高兴回来，但是。。。听着，我不能就这样离开我的家人。}
+{121}{}{嘿，这是个好消息！我很高兴回来，但是...听着，我不能就这样离开我的家人。}
 #{122}{}{What do you need then?}
 {122}{}{那你需要什么？}
 #{123}{}{I'll need to leave my wife all the money, and it's a long trip to the mine. Mind throwing me 300 bucks for the stagecoach? I'll return it as soon as I get my pay. Honestly!}
@@ -43,7 +43,7 @@
 #{128}{}{I'll drive you to Uranium City in my car, free of charge.}
 {128}{}{我开车送你去铀城，免费。}
 #{129}{}{You have a car?! Really?! Oh, wow, that's awesome! I'll pack my bags right away. I've always wanted to ride a car...}
-{129}{}{你有车吗？！真正地？！哦，哇，太棒了！我马上收拾行李。我一直想开车。。。}
+{129}{}{你有车吗？！真正地？！哦，哇，太棒了！我马上收拾行李。我一直想开车...}
 #{130}{}{Go to the car and wait for me there. You'll ride in the trunk.}
 {130}{}{去车里等我。你坐后备箱。}
 #{131}{}{Thank you, friend! See you in Uranium City.}

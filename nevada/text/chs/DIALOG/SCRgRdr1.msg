@@ -17,7 +17,7 @@
 #{108}{}{You're not sick, are you? 'CUZ I'M GONNA EAT YOUR LIVER AND WASH IT DOWN WITH YOUR BLOOD!}
 {108}{}{你没生病吧？”因为我要吃掉你的肝脏，用你的血把它洗掉！}
 #{109}{}{Goddamn...}
-{109}{}{他妈的。。。}
+{109}{}{他妈的...}
 #{110}{}{I'LL SEE YOU IN HELL!!!}
 {110}{}{在地狱见！！！}
 #{113}{}{Get ready, bitch! I'm gonna enjoy this!}

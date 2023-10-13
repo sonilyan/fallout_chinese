@@ -13,7 +13,7 @@
 #{204}{}{Come on! Let's dance!}
 {204}{}{加油！我们跳舞吧！}
 #{205}{}{You better start digging your grave, you brahmin shit!}
-{205}{}{你最好开始挖你的坟墓，你这个婆罗门混蛋！}
+{205}{}{你最好开始挖你的坟墓，你这个双头牛混蛋！}
 #{206}{}{Stand still! Let's get this over with!}
 {206}{}{站住！让我们结束这一切！}
 #{207}{}{Get over here! I'ma fuck you like I did your mother!}
@@ -49,4 +49,4 @@
 #{223}{}{You need anything, just ask.}
 {223}{}{你需要什么，就问吧。}
 #{224}{}{Boss really likes you. I wonder how it feels...}
-{224}{}{老板真的很喜欢你。我想知道感觉如何。。。}
+{224}{}{老板真的很喜欢你。我想知道感觉如何...}

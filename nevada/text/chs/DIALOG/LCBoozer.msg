@@ -2,5 +2,5 @@
 {100}{}{你看到一个月光族。}
 #{101}{}{You see a moonshiner named Harry Pigrat.}
 {101}{}{你看到一个叫哈里·皮格拉特的月光族。}
-#{102}{}{Don't disturb me - I�m working}
+#{102}{}{Don't disturb me - I??m working}
 {102}{}{别打扰我-我在工作}

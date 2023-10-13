@@ -31,7 +31,7 @@
 #{125}{}{I got the eggs. Are these enough?}
 {125}{}{我拿到鸡蛋了。这些够了吗？}
 #{126}{}{What?! Aww, I knew I shouldn't have trusted this to a rookie! We should be okay if you only killed a few, but if you wiped out more than half the pack...}
-{126}{}{什么？！啊，我就知道我不该把这个交给菜鸟！如果你只杀了几个人我们会没事的，但是如果你消灭了一半以上的人。。。}
+{126}{}{什么？！啊，我就知道我不该把这个交给菜鸟！如果你只杀了几个人我们会没事的，但是如果你消灭了一半以上的人...}
 #{127}{}{Um, and the eggs?}
 {127}{}{嗯，鸡蛋呢？}
 #{128}{}{Show me.}
@@ -43,7 +43,7 @@
 #{131}{}{That's it? Listen, they won't send a caravan unless we have at least ten eggs. Any less than that, and we're wasting our time.}
 {131}{}{就这样？听着，除非我们至少有十个鸡蛋，否则他们不会派大篷车。再少一点，我们就是在浪费时间。}
 #{132}{}{Right...}
-{132}{}{正确的。。。}
+{132}{}{正确的...}
 #{135}{}{That's enough, give them to me. Time to hurry back to village, before we get noticed.}
 {135}{}{够了，给我。在我们被注意到之前，该赶紧回村子了。}
 #{136}{}{[Give him all eggs]}
@@ -55,7 +55,7 @@
 #{139}{}{Hey, careful with those! They're fragile!}
 {139}{}{嘿，小心那些！他们很脆弱！}
 #{140}{}{Okay, fine...}
-{140}{}{好吧，好吧。。。}
+{140}{}{好吧，好吧...}
 #{141}{}{[Evan carefully wraps the eggs and packs them in skins and reeds for protection] Okay, done. We can go back now.}
 {141}{}{[埃文小心地把鸡蛋包起来，用皮和芦苇包起来]好的，好的。我们现在可以回去了。}
 #{142}{}{[Return to the settlement]}
@@ -71,7 +71,7 @@
 #{147}{}{The feeling's mutual. Get your ass out of here.}
 {147}{}{这种感觉是相互的。滚出去。}
 #{148}{}{Hey, don't get upset, I'll walk peacefully...}
-{148}{}{嘿，别生气，我会平静地走。。。}
+{148}{}{嘿，别生气，我会平静地走...}
 #{149}{}{The hunt is over.}
 {149}{}{狩猎结束了。}
 #{150}{}{You left Evan in the middle of the hunt. This won't be good for your reputation in Gerlach.}

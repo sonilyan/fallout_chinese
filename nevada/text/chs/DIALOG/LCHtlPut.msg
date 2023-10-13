@@ -2,5 +2,5 @@
 {100}{}{你看到一个访客。}
 #{101}{}{You see a visitor, that is resting at the hotel.}
 {101}{}{你看到一个客人，他正在旅馆休息。}
-#{102}{}{Don�t bother me, I want to rest.}
+#{102}{}{Don??t bother me, I want to rest.}
 {102}{}{别打扰我，我想休息。}

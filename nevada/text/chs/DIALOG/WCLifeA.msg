@@ -3,7 +3,7 @@
 #{101}{}{You see a resident of the Wind of War.}
 {101}{}{你看到一个战争之风的居民。}
 #{102}{}{::grabs his head:: My life is meaningless...}
-{102}{}{●抓住他的头：：我的生命毫无意义。。。}
+{102}{}{●抓住他的头：：我的生命毫无意义...}
 #{103}{}{Please don't let us down, it's our only chance}
 {103}{}{请不要让我们失望，这是我们唯一的机会}
 #{110}{}{Thank you, wanderer. Thank you for everything!}
@@ -15,7 +15,7 @@
 #{121}{}{What are you talking about?}
 {121}{}{你在说什么？}
 #{122}{}{Well, not often you meet here people from behind the perimeter. I'm one of the few who... Uh, I got a lucky chance to live here.}
-{122}{}{嗯，你不常在这里遇到从外围来的人。我是少数几个。。。呃，我有幸住在这里。}
+{122}{}{嗯，你不常在这里遇到从外围来的人。我是少数几个...呃，我有幸住在这里。}
 #{123}{}{I see. Can I ask you about Wind of War?}
 {123}{}{我懂了。我能问一下战争之风吗？}
 #{124}{}{Well, then nice to meet you. Maybe I'll stop by sometime to visit.}
@@ -49,7 +49,7 @@
 #{150}{}{The ancestors, those who founded the Wind of War, were calling themselves such. They were the military, they served the United States. At least, so we were told. Now it is difficult to say. General Wesker believes in the revival of the country, so he's trying to keep the spirit of the nation. And sometimes it even looks stupid.}
 {150}{}{那些创造战争之风的祖先们称自己是这样的。他们是军人，为美国服务。至少，我们被告知。现在很难说。韦斯克将军相信国家的复兴，所以他努力保持民族精神。有时甚至看起来很愚蠢。}
 #{151}{}{The bulk of the population are direct descendants of the people from the local vault. Ancestors survived the Great War underground, and when it became impossible to live there, they left the vault and established a settlement on the ruins of the old town of Pahrump. Then, gradually, wanderers of the Wasteland started to join the ranks of the settlers, but there were few of lucky ones. Looking at people from the outside world, the General became horrified and... Enclosed the area with a fence. Now random people are not allowed here.}
-{151}{}{大部分人口是当地金库居民的直系后裔。祖先们从地下的大战中幸存下来，当无法在那里生活时，他们离开了地下室，在帕伦普老城的废墟上建立了一个定居点。后来，渐渐地，荒原上的流浪者开始加入定居者的行列，但幸运者寥寥无几。看着外面的人，将军吓坏了。。。用栅栏围起来。现在这里不允许随便找人。}
+{151}{}{大部分人口是当地避难所居民的直系后裔。祖先们从地下的大战中幸存下来，当无法在那里生活时，他们离开了地下室，在帕伦普老城的废墟上建立了一个定居点。后来，渐渐地，荒原上的流浪者开始加入定居者的行列，但幸运者寥寥无几。看着外面的人，将军吓坏了...用栅栏围起来。现在这里不允许随便找人。}
 #{152}{}{In fact, there are three types of people. First, the military. They protect us, explore the area around, and engage in major hunts. Second, those, who sit in the office and do the brainwork. And finally, the commoners, such as I, whose destiny is to cook porridge, iron clothes and maintain the housing.}
 {152}{}{事实上，有三种类型的人。首先，军队。他们保护我们，探索周围的地区，并进行大规模的狩猎。第二，那些坐在办公室里做脑力劳动的人。最后，像我这样的平民，他们的命运就是煮粥、熨衣服、养房子。}
 #{153}{}{Vault? Where is it?}
@@ -69,9 +69,9 @@
 #{170}{}{Oh, this is my first and only love! Before I always thought only about myself until I met her. She lives in the house nearby.}
 {170}{}{哦，这是我第一次也是唯一的爱！以前我总是只想着自己，直到我遇到她。她住在附近的房子里。}
 #{171}{}{Hmm. Can I trust you? Because I'm a wanderer like you... You know, it's not so bad here, if you find common ground with the "purebred" population. And I used to live in a different environment... But who am I kidding? Me, as a "half-breed" here have no respect, I'm not even allowed to have a family. But I'd be a good husband, damn it!}
-{171}{}{嗯。我能相信你吗？因为我和你一样是个流浪者。。。你知道，如果你能和“纯种”群体找到共同点的话，这里还不错。我以前住在不同的环境里。。。但我在跟谁开玩笑呢？我，作为一个“混血儿”在这里没有尊重，我甚至不允许有一个家庭。但我会是个好丈夫，该死！}
+{171}{}{嗯。我能相信你吗？因为我和你一样是个流浪者...你知道，如果你能和“纯种”群体找到共同点的话，这里还不错。我以前住在不同的环境里...但我在跟谁开玩笑呢？我，作为一个“混血儿”在这里没有尊重，我甚至不允许有一个家庭。但我会是个好丈夫，该死！}
 #{172}{}{Eh... Actually I can leave at any time. But they won't let Jessica do the same. Moreover, they even forbid me to talk to her! After I've proposed to her, her brothers called me a half-breed and kicked out of the house. And without her I see no reason to leave.}
-{172}{}{呃。。。其实我随时都可以离开。但他们不会让杰西卡做同样的事。而且，他们甚至禁止我和她说话！我向她求婚后，她的兄弟们叫我混血儿，把我赶出了家门。没有她我就没有理由离开。}
+{172}{}{呃...其实我随时都可以离开。但他们不会让杰西卡做同样的事。而且，他们甚至禁止我和她说话！我向她求婚后，她的兄弟们叫我混血儿，把我赶出了家门。没有她我就没有理由离开。}
 #{173}{}{Whoa! What's the problem, Romeo? Run out of the settlement together!}
 {173}{}{哇！怎么了，罗密欧？一起跑出营地！}
 #{174}{}{Are you serious? Damn, I thought about it so many times. Do you really think that it would be wise?}
@@ -111,7 +111,7 @@
 #{194}{}{Wait a minute, you snatched both keys? Oh no! What are you doing?! Bring back one of the keys until they come to their senses! Now!}
 {194}{}{等等，你把钥匙都抢了？哦，不！你在做什么？把其中一把钥匙拿回来，直到他们恢复知觉！现在！}
 #{195}{}{Okay, okay...}
-{195}{}{好吧，好吧。。。}
+{195}{}{好吧，好吧...}
 #{196}{}{Great! Good job, now the most important thing is to find a suitable time to mount the barricades.}
 {196}{}{太好了！干得好，现在最重要的是找个合适的时间登上路障。}
 #{197}{}{The barricades?}
@@ -129,7 +129,7 @@
 #{203}{}{Hell, I've risked my life enough already, now it's up to you to get out of here, and I'm leaving.}
 {203}{}{见鬼，我已经冒了足够的生命危险，现在该由你离开这里了，我要走了。}
 #{204}{}{Yes, I... Understand. Thank you anyway. Although without your help we cannot escape, but - thanks.}
-{204}{}{是的，我。。。明白。无论如何谢谢你。虽然没有你的帮助我们无法逃脱，但是-谢谢。}
+{204}{}{是的，我...明白。无论如何谢谢你。虽然没有你的帮助我们无法逃脱，但是-谢谢。}
 #{205}{}{Yeah. Goodbye.}
 {205}{}{是 啊。再见。}
 #{206}{}{Oh, sure, I'm sorry. But I don't have a shop here. I have little to offer except these flasks. They would've been useful in the Wasteland, but we need the rope more.}
@@ -141,7 +141,7 @@
 #{209}{}{I changed my mind. You need these things more, so I'll look for something out of my pocket.}
 {209}{}{我改变主意了。你更需要这些东西，所以我会从口袋里找东西。}
 #{210}{}{Uh... Money is more important to us. Well, here's 100 bucks. It's just enough for the rope, and for the efforts.}
-{210}{}{休斯敦大学。。。钱对我们来说更重要。好吧，这是100美元。这只够绳子和努力了。}
+{210}{}{Uh...钱对我们来说更重要。好吧，这是100美元。这只够绳子和努力了。}
 #{211}{}{Well, that's another matter. Now wait for me.}
 {211}{}{好吧，那是另一回事。现在等我。}
 #{212}{}{[Gives 3 empty soldier flasks] I hope it's enough.}
@@ -155,13 +155,13 @@
 #{216}{}{About the purchase of the rope - I need something to exchange for it.}
 {216}{}{关于买绳子的事-我需要些东西来换。}
 #{220}{}{Hello. I'm sorry it's a mess...}
-{220}{}{你好。很抱歉，这里一团糟。。。}
+{220}{}{你好。很抱歉，这里一团糟...}
 #{221}{}{I got you the rope.}
 {221}{}{我把绳子给你了。}
 #{222}{}{Nevermind, I'm leaving.}
 {222}{}{没关系，我要走了。}
 #{223}{}{Really? Oh, that's great. Give it to me...}
-{223}{}{真正地？哦，太好了。把它给我。。。}
+{223}{}{真正地？哦，太好了。把它给我...}
 #{224}{}{Not so fast! Tell me, why should I help you? Why can't I just give away you?}
 {224}{}{别那么快！告诉我，我为什么要帮你？为什么我不能放弃你？}
 #{225}{}{Here you go. I hope this will help you.}

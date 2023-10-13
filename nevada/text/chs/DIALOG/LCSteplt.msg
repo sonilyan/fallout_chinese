@@ -5,15 +5,15 @@
 #{102}{}{You see a lonely one-eyed resident of the slums.}
 {102}{}{你看到贫民窟里一个孤独的独眼居民。}
 #{103}{}{You see a lone and mysterious Stapleton... Though he mostly resembles a typical beggar.}
-{103}{}{你看到一个孤独而神秘的斯台普顿。。。虽然他很像一个典型的乞丐。}
+{103}{}{你看到一个孤独而神秘的斯台普顿...虽然他很像一个典型的乞丐。}
 #{110}{}{[The man you see is of a strong build, with an ugly face, that is missing an eye] That's my home, and here I live. Are you sure you came to the right place?}
 {110}{}{[你看到的那个男人体格健壮，长着一张丑陋的脸，缺了一只眼睛]那是我的家，我住在这里。你确定你来对地方了吗？}
 #{111}{}{Well, usually nobody stops by here...}
-{111}{}{嗯，通常没人会在这里停留。。。}
+{111}{}{嗯，通常没人会在这里停留...}
 #{112}{}{Okay, I'm leaving.}
 {112}{}{好吧，我要走了。}
 #{113}{}{I see...}
-{113}{}{我懂了。。。}
+{113}{}{我懂了...}
 #{120}{}{May I ask who I am talking to?}
 {120}{}{请问我在和谁说话？}
 #{121}{}{Why'd you need to know? Usually, everybody just turn away from me. And if they do want to get acquainted, it spells trouble. Better just go do your thing.}
@@ -21,13 +21,13 @@
 #{122}{}{But still. Your name is not a secret, is it?}
 {122}{}{但仍然如此。你的名字不是秘密，是吗？}
 #{123}{}{Wow, you sure are one unsociable fella...}
-{123}{}{哇，你真是个不善交际的家伙。。。}
+{123}{}{哇，你真是个不善交际的家伙...}
 #{124}{}{[For a bit, the outcast is just staring at you with his one eye] They used to call me Mr. Stapleton. Now though, nobody calls me nothing. All they do is telling me to get lost, that's why I just sit here alone and don't go out to town anymore. Nobody comes to visit me either.}
 {124}{}{[有一段时间，被放逐者只是用一只眼睛盯着你]他们以前叫我斯台普顿先生。不过，现在没人叫我什么都不说。他们所做的就是让我迷路，这就是为什么我一个人坐在这里，不再出城。也没人来看我。}
 #{125}{}{So you did it to yourself, right... Hiding I mean?}
-{125}{}{所以你对自己做了，对吧。。。我是说藏起来？}
+{125}{}{所以你对自己做了，对吧...我是说藏起来？}
 #{126}{}{[He seems to think long and hard about the answer] I guess... It's hard to talk to people when they already have a certain opinion of you without ever exchanging a single word.}
-{126}{}{[他似乎在认真思考答案]我想。。。当人们已经对你有了某种看法时，你很难不说一句话就和他们交谈。}
+{126}{}{[他似乎在认真思考答案]我想...当人们已经对你有了某种看法时，你很难不说一句话就和他们交谈。}
 #{127}{}{Why do they treat you like that?}
 {127}{}{他们为什么那样对待你？}
 #{128}{}{Reputation of a former criminal. It was long time ago, when the Nuka-Cola factory had just been opened. I was doing maintenance, and during one unfortunate accident my face had been badly disfigured. That's why people began to avoid me. I fell into a bad pattern of heavy drinking, got involved with a small-time gang and stole a bunch of stuff from that same factory. It was an unstable time for the city, when you could've been jumped by a thug from each and every corner. You know, what's done is done, but people still remember the bad old me. Only the sheriff learned not to judge the others by their past.}
@@ -47,7 +47,7 @@
 #{135}{}{Don't know what makes you say that but thanks for your kind words.}
 {135}{}{我不知道你为什么这么说，但谢谢你的好话。}
 #{136}{}{Sure. Later... Wanderer.}
-{136}{}{当然。稍后。。。流浪者。}
+{136}{}{当然。稍后...流浪者。}
 #{137}{}{Bye.}
 {137}{}{再见。}
 #{150}{}{What is this noticeable tower over there?}
@@ -61,11 +61,11 @@
 #{154}{}{What's stopping them?}
 {154}{}{是什么阻止了他们？}
 #{155}{}{The pump turbine, which pumps the water from the underground, requires a new cleaning filter. No one knows where to get it. So, this gigantic towers stands still and useless. But even if filter would be found, one would have to spend a lot of time to set everything up. Even more than that...}
-{155}{}{抽水机从地下抽水，需要一个新的清洁过滤器。没人知道从哪里得到它。所以，这座巨大的塔楼静止不动，毫无用处。但即使找到过滤器，也要花很多时间来设置。更重要的是。。。}
+{155}{}{抽水机从地下抽水，需要一个新的清洁过滤器。没人知道从哪里得到它。所以，这座巨大的塔楼静止不动，毫无用处。但即使找到过滤器，也要花很多时间来设置。更重要的是...}
 #{156}{}{More than what?}
 {156}{}{不止什么？}
 #{157}{}{I'm afraid to imagine the storm rising in a city, about who has right to run the tower. Everyone needs clean water - ordinary people, Nuka-cola facility, various cunning businessmen... Every resident even.}
-{157}{}{我不敢想象风暴在一个城市升起，关于谁有权管理这座塔。每个人都需要干净的水-普通人，努卡可乐设施，各种狡猾的商人。。。每一个居民。}
+{157}{}{我不敢想象风暴在一个城市升起，关于谁有权管理这座塔。每个人都需要干净的水-普通人，努卡可乐设施，各种狡猾的商人...每一个居民。}
 #{158}{}{A tough decision it'll be, for sure. So, where could I find the part?}
 {158}{}{肯定是个艰难的决定。那么，我在哪里能找到那个角色呢？}
 #{159}{}{[Shrugs] I know Las Vegas has a dam built on Colorado river. I don't know how it functions, but there are plenty of clean water for sure. Even then, if they had the filter, caravaneers would deliver it already.}
@@ -73,7 +73,7 @@
 #{160}{}{How's dog meat?}
 {160}{}{狗肉怎么样？}
 #{161}{}{Well... Better than tough gecko meat or stinky molerat's.}
-{161}{}{好。。。比硬壁虎肉或臭鼹鼠肉好。}
+{161}{}{好...比硬壁虎肉或臭鼹鼠肉好。}
 #{162}{}{And their owners don't mind?}
 {162}{}{他们的主人不介意吗？}
 #{163}{}{They don't have owners. It's a stray meat.}
@@ -99,19 +99,19 @@
 #{180}{}{All dogs in the area are dead.}
 {180}{}{该地区所有的狗都死了。}
 #{181}{}{What, really? Nicely done! Hm... Guess you had to spend some ammo, eh? Here, I've got some spare gunpowder. It's all I can pay with. Now I can sleep at night. Really glad you helped.}
-{181}{}{什么，真的？干得好！嗯。。。我猜你得花点弹药，嗯？给，我有一些备用火药。这是我能付的全部。现在我可以晚上睡觉了。很高兴你帮忙。}
+{181}{}{什么，真的？干得好！嗯...我猜你得花点弹药，嗯？给，我有一些备用火药。这是我能付的全部。现在我可以晚上睡觉了。很高兴你帮忙。}
 #{182}{}{Well, take care then.}
 {182}{}{好吧，那就保重。}
 #{183}{}{How do you live all alone in such a wild district?}
 {183}{}{你怎么一个人住在这么荒凉的地方？}
 #{184}{}{Living fine. No one crosses me, I don't cross anyone... Except for dog pack. They can be a pain in the ass. Especially at night, when they won't let me sleep. But I go along with them better than with the men...}
-{184}{}{生活得很好。没有人欺负我，我不会欺负任何人。。。除了狗包。他们会让我很难受，尤其是在晚上，他们不让我睡觉。但我更愿意和他们在一起。。。}
+{184}{}{生活得很好。没有人欺负我，我不会欺负任何人...除了狗包。他们会让我很难受，尤其是在晚上，他们不让我睡觉。但我更愿意和他们在一起...}
 #{185}{}{Dogs bother you? I can get rid of them.}
 {185}{}{狗打扰你了？我可以摆脱他们。}
 #{186}{}{You just need to open yourself to the world. Bye.}
 {186}{}{你只需要向世界敞开心扉。再见。}
 #{187}{}{That... That would be great. But I kinda have nothing to pay with.}
-{187}{}{那个。。。那太好了。但我没钱付。}
+{187}{}{那个...那太好了。但我没钱付。}
 #{188}{}{Can't pay? No problem. I can still help.}
 {188}{}{付不起？没问题。我还是可以帮忙的。}
 #{189}{}{Can't pay? Then I won't bother.}
@@ -131,7 +131,7 @@
 #{201}{}{[Looks back at the door, then he gets up, blocking the window with his back] Where did you get that? From the train depot?}
 {201}{}{[回头看了看门，然后他站起来，用背挡住窗户]你从哪儿弄来的？从火车站来的？}
 #{202}{}{Well... Yes.}
-{202}{}{好。。。对。}
+{202}{}{好...对。}
 #{203}{}{Do you really care?}
 {203}{}{你真的在乎吗？}
 #{204}{}{If the Sheriff finds out, you'll get hell of a problems. Depot is a no-go zone, not even talking about bringing anything from there.}
@@ -159,9 +159,9 @@
 #{215}{}{Alright, I'll think about it.}
 {215}{}{好吧，我会考虑的。}
 #{216}{}{Yes? Hm... I can probably trust you. Okay, listen. Most likely, some not very important but still necessary to function part was taken out of the computer. The sheriff is not a fool to destroy old technologies. If you get the tools for me, I'll try to fix it.}
-{216}{}{对？嗯。。。我可以相信你。好吧，听着。最有可能的是，一些不是很重要，但仍然是必要的功能部分是采取了电脑。警长不是一个破坏旧技术的傻瓜。如果你给我弄到工具，我会设法修理的。}
+{216}{}{对？嗯...我可以相信你。好吧，听着。最有可能的是，一些不是很重要，但仍然是必要的功能部分是采取了电脑。警长不是一个破坏旧技术的傻瓜。如果你给我弄到工具，我会设法修理的。}
 #{217}{}{ And... If you don't mind, a bottle of "Bloody Mary", okay?}
-{217}{}{还有。。。如果你不介意的话，来一瓶“血腥玛丽”，好吗？}
+{217}{}{还有...如果你不介意的话，来一瓶“血腥玛丽”，好吗？}
 #{218}{}{Here's a bottle from Jolly Joe.}
 {218}{}{这是乔利送的瓶子。}
 #{219}{}{Oh, what a delight! Thanks.}
@@ -203,9 +203,9 @@
 #{240}{}{You said your name is Stapleton and you came from the north. Where did you live - in the house or bunker?}
 {240}{}{你说你叫斯台普顿，从北方来。你住在哪里？房子里还是地堡里？}
 #{241}{}{I think it was a bunker. With metal walls. A lot of light and music... Also, red flowers... And a terrible siren.}
-{241}{}{我想那是个掩体。有金属墙。很多灯光和音乐。。。还有，红花。。。还有可怕的警笛声。}
+{241}{}{我想那是个掩体。有金属墙。很多灯光和音乐...还有，红花...还有可怕的警笛声。}
 #{242}{}{Flowers? Probably flowers did grow there...}
-{242}{}{花？可能那里确实长了花。。。}
+{242}{}{花？可能那里确实长了花...}
 #{243}{}{Probably?! [he brightens up] So you did find the bunker!?}
 {243}{}{可能？！你找到地堡了！？}
 #{244}{}{Not even a bunker, but a whole big vault. It was hell of a terrible trip, but I managed to survive.}
@@ -217,7 +217,7 @@
 #{247}{}{The population left the vault when you were a child. I have a diary of a certain Stapleton. Perhaps, it's your ancestor.}
 {247}{}{当你还是个孩子的时候，所有的人都离开了保险库。我有一本斯台普顿的日记。也许，是你的祖先。}
 #{248}{}{My god! So many years have passed! I'm starting to remember... Yes! I'm starting to remember! Leave these writings to me! It's very personal!}
-{248}{}{天哪！这么多年过去了！我开始记得。。。对！我开始记得了！把这些东西留给我！这是非常私人的！}
+{248}{}{天哪！这么多年过去了！我开始记得...对！我开始记得了！把这些东西留给我！这是非常私人的！}
 #{249}{}{How do you pay for the finding?}
 {249}{}{你怎么付这个发现的钱？}
 #{250}{}{Take.}
@@ -225,7 +225,7 @@
 #{251}{}{No! I need them too.}
 {251}{}{不！我也需要他们。}
 #{252}{}{But I don't have anything... Wait, I can make shotgun ammo or give the components. It's not much... Please, it's so important to me!}
-{252}{}{但我什么都没有。。。等等，我可以做散弹枪或者给你零件。没什么。。。拜托，这对我很重要！}
+{252}{}{但我什么都没有...等等，我可以做散弹枪或者给你零件。没什么...拜托，这对我很重要！}
 #{253}{}{Alright, take it. I give up them for free.}
 {253}{}{好吧，拿去吧。我免费放弃它们。}
 #{254}{}{Good. Give me the components and we're even.}
@@ -251,6 +251,6 @@
 #{1132}{}{It's sad that your life turned out so badly. I'm sorry for making you relive it again.}
 {1132}{}{你的生活如此糟糕，真让人难过。很抱歉让你重温一遍。}
 #{1136}{}{Sure. Later... Wanderer.}
-{1136}{}{当然。稍后。。。流浪者。}
+{1136}{}{当然。稍后...流浪者。}
 #{1243}{}{Probably?! [he brightens up] So you did find the bunker!?}
 {1243}{}{可能？！你找到地堡了！？}

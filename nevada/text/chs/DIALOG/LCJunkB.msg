@@ -51,7 +51,7 @@
 #{132}{}{Well, that's the biker you were looking for, right?}
 {132}{}{那就是你要找的那个摩托车手，对吧？}
 #{133}{}{A biker? Wait a minute, where... Okay, so you know something.}
-{133}{}{骑自行车的？等等，哪里。。。好吧，你知道些什么。}
+{133}{}{骑自行车的？等等，哪里...好吧，你知道些什么。}
 #{134}{}{Yup. But it's a private conversation. Do you know where one-eyed outcast Stapleton lives? It's in the slums in the east, directly opposite the artesian tower. We shall meet there. And do not forget to grab a meal for me and some change. I like to talk on a full stomach.}
 {134}{}{是的。但这是私人谈话。你知道独眼弃儿斯台普顿住在哪里吗？它在东部的贫民窟里，就在自流塔的正对面。我们将在那里见面。别忘了给我拿点饭和零钱。我喜欢吃饱肚子说话。}
 #{135}{}{[Puzzlingly follow the hurrying beggar with your eyes.]}

@@ -13,7 +13,7 @@
 #{106}{}{About what?}
 {106}{}{关于什么？}
 #{107}{}{Damn! How did you... From a distance...}
-{107}{}{该死！你怎么。。。从远处。。。}
+{107}{}{该死！你怎么...从远处...}
 #{108}{}{There will be no second warning. Abandon your quest, or you will follow the fate of other pure souls.}
 {108}{}{不会有第二次警告。放弃你的追求，否则你将追随其他纯洁灵魂的命运。}
 #{109}{}{Looks like it was an ambush!}

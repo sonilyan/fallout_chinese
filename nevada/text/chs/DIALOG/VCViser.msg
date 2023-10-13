@@ -25,7 +25,7 @@
 #{124}{}{Mhm!!! [the head of this insane being starts banging faster] M-m-m!!! [seems, he lost all the common sense he had]}
 {124}{}{嗯！！！[这个疯子的头开始砰砰作响]M-M-M！！！[似乎，他失去了所有的常识]}
 #{125}{}{No... That's enough!.. Oh, well, I should spit one more time as a goodbye!}
-{125}{}{不。。。够了！。。哦，好吧，我应该再吐一次作为再见！}
+{125}{}{不...够了！。。哦，好吧，我应该再吐一次作为再见！}
 #{126}{}{No, enough in enough.}
 {126}{}{不，够了，够了。}
 #{127}{}{AAARGH!!! [this insane man bashes his head against the pole so hard that the drops of blood start to drip from his forehead!]}
@@ -37,7 +37,7 @@
 #{130}{}{Oh, you fucking cowboy!!! Ah!!! [it seems that his reproductive organ was the most important thing in his life; having lost his dignity, Shitposter dies, squeezing rich white foam out of his mouth]}
 {130}{}{哦，你这个该死的牛仔！！！啊！！！[似乎他的生殖器官是他生命中最重要的东西；失去了尊严，Shitposter死了，从嘴里挤出了丰富的白色泡沫]}
 #{131}{}{Uh... How disgusting.}
-{131}{}{休斯敦大学。。。真恶心。}
+{131}{}{Uh...真恶心。}
 #{132}{}{Fucking defenders of the innocent! I fucking hate you all! Arrgh! I'd pee on you till you're in it up your throat! Hands off the ropes! Away!}
 {132}{}{他妈的无辜的捍卫者！我他妈的恨你们！啊！我会在你身上撒尿，直到你被尿到喉咙里！把手从绳子上拿开！走开！}
 #{133}{}{Why do you react like that to the attempts of providing help? Do you consider yourself deserving the pillory?}
@@ -51,7 +51,7 @@
 #{137}{}{You're right, and for that I will punch you in the balls!}
 {137}{}{你说得对，为此我要揍你一拳！}
 #{138}{}{Well, whatever, that's your business...}
-{138}{}{不管怎样，这是你的事。。。}
+{138}{}{不管怎样，这是你的事...}
 #{139}{}{You! You!.. You have no right! No!.. Get away from me! Get off!}
 {139}{}{你！你！。。你没有权利！不！。。离我远点！下车！}
 #{140}{}{Yes! I was right, see? Otherwise you would have ignored me from the beginning, but you gave it some thought first, and then began to look for excuses. You're a blowhard.}

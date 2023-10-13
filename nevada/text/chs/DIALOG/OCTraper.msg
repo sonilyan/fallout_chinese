@@ -39,7 +39,7 @@
 #{125}{}{If you're going to be that way, then fine, I'll leave.}
 {125}{}{如果你要那样，那好吧，我就走。}
 #{126}{}{Oh, so you are the one who jumps to conclusions right off the bat, yeah? You don't know my story, yet you call me "hillbilly". So childish... Now, are you going to tell me your name, or are we going to be stubborn about it?}
-{126}{}{哦，你就是那个马上就下结论的人，是吗？你不知道我的故事，却叫我“乡下人”。太幼稚了。。。现在，你是要告诉我你的名字，还是我们要对此固执？}
+{126}{}{哦，你就是那个马上就下结论的人，是吗？你不知道我的故事，却叫我“乡下人”。太幼稚了...现在，你是要告诉我你的名字，还是我们要对此固执？}
 #{127}{}{Oh, I am, am I? Don't be so sure about that. [he crosses his arms and looks at you silently]}
 {127}{}{哦，我是，是吗？别那么肯定。[他交叉双臂默默地看着你]}
 #{128}{}{I'm sorry, I didn't mean to offend you. My name is }
@@ -143,7 +143,7 @@
 #{190}{}{Is something missing?}
 {190}{}{少了什么吗？}
 #{199}{}{Well, I can talk about hunting for hours... But not with you.}
-{199}{}{好吧，我可以谈几个小时的打猎。。。但不是和你在一起。}
+{199}{}{好吧，我可以谈几个小时的打猎...但不是和你在一起。}
 #{200}{}{Well, I can talk about hunting for hours.}
 {200}{}{好吧，我可以谈几个小时的打猎。}
 #{201}{}{Can I hunt with you?}
@@ -165,7 +165,7 @@
 #{209}{}{Reno? Two weeks on foot, straight south. Following the highways is faster, but dangerous. If you really want to know, ask someone who came from there.}
 {209}{}{雷诺？步行两周，一直向南。沿着高速公路走会更快，但很危险。如果你真的想知道，问问从那里来的人。}
 #{210}{}{Mutant lizards. From what I've seen, they come in silver and gold. The silver ones are short and kind of twitchy, but easy enough to handle. The golden ones are more of a challenge - they're bigger, tougher, and have jaws that'll bite through your hand like... [he thinks] ...like a knife through brahmin shit! But you get more meat for your trouble, and traders pay top dollar for their pelts.}
-{210}{}{变异蜥蜴。据我所见，它们有银的和金的。银色的短而有点抽搐，但很容易处理。金色的更具挑战性-它们更大，更坚韧，有能咬破你手的下颚，就像。。。[他想]…就像一把刀穿过婆罗门的大便！但你的麻烦得到更多的肉，商人支付最高美元为他们的毛皮。}
+{210}{}{变异蜥蜴。据我所见，它们有银的和金的。银色的短而有点抽搐，但很容易处理。金色的更具挑战性-它们更大，更坚韧，有能咬破你手的下颚，就像...[他想]…就像一把刀穿过双头牛的大便！但你的麻烦得到更多的肉，商人支付最高美元为他们的毛皮。}
 #{211}{}{Gecko pelts make for good leather, but you need a special touch to get it off them. If you don't know how, you'll just ruin the hide and waste your time.}
 {211}{}{壁虎皮是很好的皮革，但你需要一个特殊的接触，以摆脱他们。如果你不知道怎么做，你只会毁了你的生活，浪费你的时间。}
 #{212}{}{Can you teach me?}
@@ -219,17 +219,17 @@
 #{294}{}{Did Milo say anything before he left?}
 {294}{}{麦洛走之前说了什么吗？}
 #{295}{}{Hmm... I can't remember anything in particular. Have you talked to his wife yet?}
-{295}{}{隐马尔可夫模型。。。我什么都不记得了。你和他妻子谈过了吗？}
+{295}{}{Hmm...我什么都不记得了。你和他妻子谈过了吗？}
 #{296}{}{Would anyone want Milo to disappear?}
 {296}{}{有人想让米洛消失吗？}
 #{297}{}{Not really, he's just a courier. Maybe he just got drunk. Or, in the worst case, eaten by geckos.}
 {297}{}{不是，他只是个信使。也许他只是喝醉了。或者，在最坏的情况下，被壁虎吃掉。}
 #{300}{}{You, with me? Hmm... I *could* use some help, but I think you'd just get in the way. No offense, but I need someone who knows a thing or two about hunting and surviving.}
-{300}{}{你，和我一起？隐马尔可夫模型。。。我需要一些帮助，但我想你会碍事的。无意冒犯，但我需要一个懂得打猎和生存的人。}
+{300}{}{你，和我一起？Hmm...我需要一些帮助，但我想你会碍事的。无意冒犯，但我需要一个懂得打猎和生存的人。}
 #{301}{}{You, with me? No offense, but you're just some stranger. How do I know this isn't a trap? We'll be all alone out there, and I didn't get this old by being careless.}
 {301}{}{你，和我一起？无意冒犯，但你只是个陌生人。我怎么知道这不是陷阱？我们在外面都是一个人，我可不是因为粗心才变老的。}
 #{302}{}{You, with me? Hmm... I *could* use some help. I'm getting too old to run around to run around with a spear and do everything myself. An extra pair of hands is just what I need right now.}
-{302}{}{你，和我一起？隐马尔可夫模型。。。我需要一些帮助。我年纪太大了，不能拿着长矛到处跑，什么事都自己做。我现在正需要一双额外的手。}
+{302}{}{你，和我一起？Hmm...我需要一些帮助。我年纪太大了，不能拿着长矛到处跑，什么事都自己做。我现在正需要一双额外的手。}
 #{303}{}{I'm ready to start. What are the details?}
 {303}{}{我准备好开始了。细节是什么？}
 #{304}{}{I'll keep that in mind. I have some other questions first.}
@@ -297,11 +297,11 @@
 #{335}{}{Tell me again what I have to do.}
 {335}{}{再告诉我一次我要做什么。}
 #{336}{}{I'm still planning. I'll go set the traps...}
-{336}{}{我还在计划。我去设置陷阱。。。}
+{336}{}{我还在计划。我去设置陷阱...}
 #{337}{}{Did you forget already? Set the traps in a passage where the geckos will have to pass, then call them with the whistle. It's that simple!}
 {337}{}{你忘了吗？把陷阱放在壁虎必须经过的地方，然后用哨子叫它们。就这么简单！}
 #{338}{}{Let's see...}
-{338}{}{让我们看看。。。}
+{338}{}{让我们看看...}
 #{339}{}{[Follow the master]}
 {339}{}{[跟随师父]}
 #{340}{}{Hey, you're a natural! You got them all! Alright, head back to the village while I take care of the skins. Next time, it's the real deal. Oh, and keep the whistle. I have a spare.}
@@ -317,7 +317,7 @@
 #{345}{}{To be honest, I'm not good with traps. Can you teach me how to use them?}
 {345}{}{老实说，我不擅长陷阱。你能教我怎么用吗？}
 #{346}{}{Right this second? Fine, but I hope the pack doesn't leave while I give you the basics. Listen up...}
-{346}{}{就在这一秒？好吧，不过我希望我给你基本的东西的时候不要离开。听着。。。}
+{346}{}{就在这一秒？好吧，不过我希望我给你基本的东西的时候不要离开。听着...}
 #{347}{}{[Next]}
 {347}{}{[下一步]}
 #{348}{}{Now? No, this isn't the time. Just figure it out.}
@@ -333,19 +333,19 @@
 #{354}{}{Well, well, here comes our lost hunter. Did you lose your nerve or what? We don't like people that can't keep their word around here. Don't expect any warm welcomes.}
 {354}{}{好吧，好吧，我们迷路的猎人来了。你失去勇气了还是怎么了？我们不喜欢不守信用的人。不要期待任何热烈的欢迎。}
 #{355}{}{I can't argue with that...}
-{355}{}{我不能否认。。。}
+{355}{}{我不能否认...}
 #{356}{}{You've got a lot of goddamn nerve coming back here after what you did. I'll be the better man and deal with you, but you can forget about any more freebies. You got that?}
 {356}{}{你做了这件事之后回来真他妈有胆量。我会做一个更好的人和你打交道，但你可以忘记任何更多的免费赠品。明白了吗？}
 #{357}{}{Fine, whatever...}
-{357}{}{好吧，不管怎样。。。}
+{357}{}{好吧，不管怎样...}
 #{358}{}{So... How do I set a trap?}
-{358}{}{所以。。。我怎么设陷阱？}
+{358}{}{所以...我怎么设陷阱？}
 #{359}{}{Use it on yourself. Ha! Old hunter's joke. It'll be placed in front of you, so remember to face the right direction when you do it. And if you get the chance, try to pick up and reuse any traps you can.}
 {359}{}{你自己用吧。哈！老猎人的笑话。它会放在你的面前，所以记得当你做的时候要面对正确的方向。如果你有机会，试着捡起并重复使用任何你能找到的陷阱。}
 #{360}{}{I'm itching for another hunt. What do you think?}
 {360}{}{我渴望再次狩猎。你怎么认为？}
 #{361}{}{I've got all the skins and meat I need for now. But if you're that antsy, I have heard of something...}
-{361}{}{我现在需要的皮和肉都准备好了。但如果你真的那么烦躁，我听说。。。}
+{361}{}{我现在需要的皮和肉都准备好了。但如果你真的那么烦躁，我听说...}
 #{362}{}{What is it?}
 {362}{}{这是怎么一回事？}
 #{363}{}{Trappers from the north-east have told me there's the granddaddy of all radscorpions up there. It's ten times the size of your average radscorpion and its shell is so thick that spears can't pierce it. I don't know if it's true, but you can try your luck. Might make a good story if you can kill it.}
@@ -359,7 +359,7 @@
 #{367}{}{Thanks. Any tips?}
 {367}{}{谢谢。有什么建议吗？}
 #{368}{}{You'll need something with some punch... Like a machine gun, heh. Traps won't cut it, that's for sure. If you can, try to aim for something vital instead of pounding at its shell. I don't care how big it is, a broken leg will still ruin its day. It might be hard to get through its shell with blunt attacks, but energy will go right through it. I think one of the Black Rock residents has a plasma pistol. Ask William about it.}
-{368}{}{你需要一些有冲力的东西。。。就像一把机关枪，呵呵。陷阱切不到它，这是肯定的。如果可以的话，试着瞄准一些重要的东西，而不是敲打它的外壳。我不管它有多大，断腿还是会毁了它的一天。用钝器攻击可能很难穿透它的外壳，但能量会直接穿透它。我想其中一个黑岩居民有等离子手枪。问问威廉。}
+{368}{}{你需要一些有冲力的东西...就像一把机关枪，呵呵。陷阱切不到它，这是肯定的。如果可以的话，试着瞄准一些重要的东西，而不是敲打它的外壳。我不管它有多大，断腿还是会毁了它的一天。用钝器攻击可能很难穿透它的外壳，但能量会直接穿透它。我想其中一个黑岩居民有等离子手枪。问问威廉。}
 #{369}{}{Anything else?}
 {369}{}{还有别的吗？}
 #{370}{}{Take some antidote with you. Usually, a radscorpion's poison gets weaker as it ages, but a sting from something this size will still kill you. Here, take some from my personal inventory.}
@@ -395,7 +395,7 @@
 #{1229}{}{You're not from around here, huh? That's okay, I'll show you. [he points out its location on your map]}
 {1229}{}{你不是本地人吧？没关系，我给你看看。[他在地图上指出它的位置]}
 #{1302}{}{You, with me? Hmm... I *could* use some help. I'm getting too old to run around to run around with a spear and do everything myself. An extra pair of hands is just what I need right now.}
-{1302}{}{你，和我一起？隐马尔可夫模型。。。我需要一些帮助。我年纪太大了，不能拿着长矛到处跑，什么事都自己做。我现在正需要一双额外的手。}
+{1302}{}{你，和我一起？Hmm...我需要一些帮助。我年纪太大了，不能拿着长矛到处跑，什么事都自己做。我现在正需要一双额外的手。}
 #{1310}{}{Clear. I promise I'll pay attention.}
 {1310}{}{清除。我保证我会注意的。}
 #{1315}{}{I understand, master! I'm ready to hunt.}

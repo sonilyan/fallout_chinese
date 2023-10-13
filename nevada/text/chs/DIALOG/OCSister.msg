@@ -9,7 +9,7 @@
 #{104}{}{Please, help! They'll kill him!!!}
 {104}{}{求求你，救命！他们会杀了他！！！}
 #{105}{}{My brother... Why...?}
-{105}{}{我哥哥。。。为什么？}
+{105}{}{我哥哥...为什么？}
 #{109}{}{Thank you for helping my brother! But what will happen to our community now?}
 {109}{}{谢谢你帮助我弟弟！但是现在我们的社区会怎么样呢？}
 #{110}{}{Thank you, but my brother is still in danger. If we can't fix that pump, they'll kill him for sure!}
@@ -32,7 +32,7 @@
 {118}{}{你能告诉我这个定居点的情况吗？}
 #{119}{}{Maybe later. I'll come back.}
 {119}{}{也许以后吧。我会回来的。}
-#{120}{}{Don�t mention it.}
+#{120}{}{Don??t mention it.}
 {120}{}{别提了。}
 #{121}{}{Is Reno far from here?}
 {121}{}{雷诺离这儿远吗？}
@@ -47,7 +47,7 @@
 #{153}{}{Steve was watching the water pump when it broke, and everyone went crazy! It's our only source of water, but they still shouldn't have tried to kill him!}
 {153}{}{史蒂夫看着水泵坏了，大家都发疯了！这是我们唯一的水源，但他们还是不应该杀他！}
 #{154}{}{That meathead from Reno is keeping him in his basement. Gerlach won't touch Steve as long as you have a deal with him, or if we've got water left in the tank. Our only hope is for you to fix the pump... You won't leave us like this, will you?}
-{154}{}{雷诺的那个笨蛋把他关在地下室里。只要你和史蒂夫达成协议，或者水箱里还有水，杰拉克就不会碰他。我们唯一的希望就是你把泵修好。。。你不会就这样离开我们吧？}
+{154}{}{雷诺的那个笨蛋把他关在地下室里。只要你和史蒂夫达成协议，或者水箱里还有水，杰拉克就不会碰他。我们唯一的希望就是你把泵修好...你不会就这样离开我们吧？}
 #{155}{}{Me and my brother only got here a short time ago, so I don't know much. A caravan merchant told us that everyone here works together to support the community, and we wanted to be part of that. I wish he'd told us that they'll kill you if you make a mistake!}
 {155}{}{我和我哥哥不久前才到这里，所以我知道的不多。一位商队商人告诉我们，这里的每个人都在一起支持社区，我们希望成为其中的一员。我真希望他告诉我们如果你犯错他们会杀了你！}
 #{156}{}{Gerlach's dead, so Steve's free. But what's the point? When no water will be left in the tank, they kill us anyway.}
@@ -77,7 +77,7 @@
 #{301}{}{::sighs::}
 {301}{}{●叹息：}
 #{302}{}{Ohhh...}
-{302}{}{哦。。。}
+{302}{}{哦...}
 #{303}{}{::wipes her tears::}
 {303}{}{●擦干眼泪：}
 #{304}{}{What do I do now?..}
@@ -85,13 +85,13 @@
 #{305}{}{::mumbles something::}
 {305}{}{●喃喃自语：}
 #{306}{}{I can't stay here...}
-{306}{}{我不能呆在这里。。。}
+{306}{}{我不能呆在这里...}
 #{307}{}{Who will protect me now?}
 {307}{}{现在谁来保护我？}
 #{308}{}{Where can I go?}
 {308}{}{我能去哪里？}
 #{309}{}{I have no one left now...}
-{309}{}{我现在没人了。。。}
+{309}{}{我现在没人了...}
 #{1116}{}{I'm going to need more than a "thank you" for my help.}
 {1116}{}{对于我的帮助，我需要的不仅仅是一句“谢谢”。}
 #{1117}{}{You don't think I did this for free, do you?}

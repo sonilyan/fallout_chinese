@@ -3,7 +3,7 @@
 #{101}{}{You see Ed - an electrician. He reeks of rubber and burned copper.}
 {101}{}{你看到一个电工。他身上散发着橡胶味和烧焦的铜味。}
 #{102}{}{Hm. What a strange feeling. Like someone's staring at me...}
-{102}{}{嗯。多奇怪的感觉啊。好像有人在盯着我看。。。}
+{102}{}{嗯。多奇怪的感觉啊。好像有人在盯着我看...}
 #{103}{}{You gained the "Empathy" perk.}
 {103}{}{你获得了“移情”特权。}
 #{110}{}{[The specialist looks up from his microchips, raising an eyebrow, as you walk in.] Wrong door?}
@@ -77,7 +77,7 @@
 #{164}{}{Where do you think I could find one?}
 {164}{}{你觉得我在哪能找到？}
 #{165}{}{If I did, I would've been rolling in cash, if you know what I mean. He-he. You won't find it. Nobody will. Although, I do hear talk of some caravan riding off to try and find the filter... Without returning. But that's just rumors. Talk to the caravaneers, if you'd like to know more.}
-{165}{}{如果我这么做了，我就赚大钱了，如果你知道我的意思的话。他，他。你找不到的。没人会的。不过，我确实听到有人说有商队要去寻找过滤器。。。没有回来。但那只是谣言。如果你想知道更多的话，可以和商队的人谈谈。}
+{165}{}{如果我这么做了，我就赚大钱了，如果你知道我的意思的话。他，他。你找不到的。没人会的。不过，我确实听到有人说有商队要去寻找过滤器...没有回来。但那只是谣言。如果你想知道更多的话，可以和商队的人谈谈。}
 #{166}{}{Alright.}
 {166}{}{好吧。}
 #{170}{}{I've got a job that should be interesting. An on-board computer from a train.}
@@ -87,7 +87,7 @@
 #{172}{}{Here you go}
 {172}{}{干得好}
 #{173}{}{Hmm... Something is missing. Probably taken out to fix something else. Looks like I'll need to tinker for a while, and my time costs money. I'll do everything I can for 2500$.}
-{173}{}{隐马尔可夫模型。。。有些东西不见了。可能是去修别的东西。看来我需要修修补补一段时间，我的时间要花钱。我会尽我所能花2500美元。}
+{173}{}{Hmm...有些东西不见了。可能是去修别的东西。看来我需要修修补补一段时间，我的时间要花钱。我会尽我所能花2500美元。}
 #{174}{}{For a price like that, I'm expecting the best! Here's the money.}
 {174}{}{像这样的价格，我期待最好的！这是钱。}
 #{175}{}{I'll think about offer.}
@@ -97,7 +97,7 @@
 #{180}{}{You mentioned making repairs for commission. Do you sell any tech as well?}
 {180}{}{你提到要修理提成。你也卖技术吗？}
 #{181}{}{Well, that's not very often. I usually just repair everything that is brought in, but some stuff gets left behind. Although... Looking at that Pip-Boy, I think I've got something for you.}
-{181}{}{嗯，这不太常见。我通常只修理所有带进来的东西，但有些东西会落在后面。尽管。。。看着那个皮普小子，我想我有东西要给你。}
+{181}{}{嗯，这不太常见。我通常只修理所有带进来的东西，但有些东西会落在后面。尽管...看着那个皮普小子，我想我有东西要给你。}
 #{182}{}{What is this something?}
 {182}{}{这是什么东西？}
 #{183}{}{An Empathetic Amplifier! Technically, it can analyze the emotions of surrounding people, and relay them through an ocular sensor on your right eye. But, that is assuming it's installed correctly.}
@@ -105,7 +105,7 @@
 #{184}{}{But Pip-Boys are given to vault dwellers. Where did you get this from?}
 {184}{}{但皮普男孩是给地下室居住者的。你从哪儿弄来的？}
 #{185}{}{Well, Vegas also has Vaults. I know about six, but they're all sealed. But Pip-Boys weren't used exclusively by vault dwellers. They were used by businessmen before the War. It's useful after all. So, from time to time, a nice toy like this pops up.}
-{185}{}{拉斯维加斯也有金库。我知道有六个，但都是密封的。但皮普男孩并不是唯一被金库居民使用的。它们在战前被商人使用。毕竟是有用的。所以，像这样的玩具时不时会出现。}
+{185}{}{拉斯维加斯也有避难所。我知道有六个，但都是密封的。但皮普男孩并不是唯一被避难所居民使用的。它们在战前被商人使用。毕竟是有用的。所以，像这样的玩具时不时会出现。}
 #{186}{}{What's the difficulty with installing it?}
 {186}{}{安装它有什么困难？}
 #{187}{}{You've got the old Pip-Boy 2009. The amplifier was made for the modern 3000 model. Not sure if you've seen one, but they're vastly different. But, I think most of the work will go into modifying the program.}
@@ -121,7 +121,7 @@
 #{192}{}{I'll buy it for the 2000$, I can take care of the installation.}
 {192}{}{我花2000美元买它，我可以负责安装。}
 #{193}{}{[You wait as the technician begins his work] Hm... Everything seems to be in order. Here, try for yourself. I'll give you a two week warranty.}
-{193}{}{[你等着技师开始工作]嗯。。。一切似乎都井然有序。来，你自己试试。我给你两周的保修期。}
+{193}{}{[你等着技师开始工作]嗯...一切似乎都井然有序。来，你自己试试。我给你两周的保修期。}
 #{194}{}{Great.}
 {194}{}{伟大的。}
 #{195}{}{Fine, here's the device. If you do need help installing it, I'll be here.}
@@ -189,7 +189,7 @@
 #{240}{}{What is the meaning of this!?}
 {240}{}{这是什么意思！？}
 #{241}{}{I don't know...}
-{241}{}{我不知道。。。}
+{241}{}{我不知道...}
 #{242}{}{Now, let's try something similar with another weapon.}
 {242}{}{现在，让我们用另一种武器试试类似的东西。}
 #{243}{}{Here's the money, schematics and components. Now get to work.}
@@ -211,7 +211,7 @@
 #{257}{}{[Carefully and reverently examines the weapon] Magnificent! No doubt from some shiny military base. Although, everything is possible. I can charge it for }
 {257}{}{[仔细而虔诚地检查武器]太棒了！毫无疑问是来自某个闪亮的军事基地。尽管，一切皆有可能。我可以收费}
 #{258}{}{What, again!? Well... Alright. The price is still the same, }
-{258}{}{什么，又来了！？好。。。好吧。价格还是一样，}
+{258}{}{什么，又来了！？好...好吧。价格还是一样，}
 #{259}{}{Alright. I'll do it for }
 {259}{}{好吧。我会为你做的}
 #{260}{}{Ah yes, I remember - the magnetic calibration system increases the intensity of the beam. You'd think that this is all that can be done, but not quite. I can replace the contacts, pick out a few fresh lenses and re-solder the control plate. That will decrease the time it takes to form a beam. But, with tech like that, an upgrade this intense won't come without consequences.}
@@ -223,7 +223,7 @@
 #{270}{}{Strange, inactive blaster.}
 {270}{}{奇怪的，不活跃的爆炸机。}
 #{271}{}{Hmm... [scratches his head] Curious thing. Except it's far too advanced for me. I think my mate, biker Phil can figure it out. But I don't know how to get in touch with him.}
-{271}{}{隐马尔可夫模型。。。[挠头]奇怪的事。只是对我来说太高级了。我想我的朋友，摩托车手菲尔能搞定。但我不知道怎么和他联系。}
+{271}{}{Hmm...[挠头]奇怪的事。只是对我来说太高级了。我想我的朋友，摩托车手菲尔能搞定。但我不知道怎么和他联系。}
 #{272}{}{Thanks for the tip.}
 {272}{}{谢谢你的小费。}
 #{273}{}{Thanks for the tip. Is there anything else that can help me find this, Phil?}
@@ -231,7 +231,7 @@
 #{274}{}{Well, he, like the other bikers, doesn't have a place to call home, so he pokes his head into Vegas from time to time. Although, I heard something about their base being somewhere up north. The only large city that way is Salt Lake City. Maybe someone there will know more.}
 {274}{}{嗯，他和其他骑车人一样，没有地方叫家，所以他时不时地把头伸进维加斯。不过，我听说他们的基地在北方某个地方。唯一的大城市是盐湖城。也许那里的人会知道更多。}
 #{300}{}{Hm. I know another fan of tech - Jay Kukish...}
-{300}{}{嗯。我认识另一个科技迷-杰伊·库基什。。。}
+{300}{}{嗯。我认识另一个科技迷-杰伊·库基什...}
 #{301}{}{Well, I'm not surprised. There aren't many people in Vegas who bikers could talk to about tech. They're crazy about it. Jay was here not so long ago, he was asking about a strange device. But, I couldn't help him.}
 {301}{}{我一点也不惊讶。在维加斯，很少有人能和骑自行车的人谈论科技。他们对科技很着迷。杰伊不久前还在这里，他在问一个奇怪的装置。但是，我帮不了他。}
 #{302}{}{What device?}

@@ -9,7 +9,7 @@
 #{110}{}{Hey, you! Stay away from my sister!}
 {110}{}{嘿，你！离我妹妹远点！}
 #{111}{}{Uh, sorry... They don't like it when I talk to strangers}
-{111}{}{呃，对不起。。。他们不喜欢我和陌生人说话}
+{111}{}{呃，对不起...他们不喜欢我和陌生人说话}
 #{112}{}{Hey! We didn't let you talk to her! Get away from her!}
 {112}{}{嘿！我们没让你和她说话！离她远点！}
 #{120}{}{Oh, you shouldn't talk to me. My brothers went really crazy after that story with Robert. Now I'm not allowed to talk to strangers.}
@@ -23,13 +23,13 @@
 #{124}{}{Well, I'm not going to insist.}
 {124}{}{好吧，我不会坚持的。}
 #{125}{}{What? But... [whispering] He really decided to do it? Ah, that would be great, I'm so desperate to sit in four walls.}
-{125}{}{什么？但是。。。他真的决定这么做？啊，那太好了，我真想坐在四面墙里。}
+{125}{}{什么？但是...他真的决定这么做？啊，那太好了，我真想坐在四面墙里。}
 #{126}{}{Rather a slave. Brothers keep me locked up and not allow to talk to other men, except of "purebred" military. And it's hard to argue with them. Oh, stop it, or they will kick you out of the house.}
 {126}{}{而是一个奴隶。兄弟们把我关起来，不允许和其他男人说话，除了“纯种”军人。很难和他们争论。哦，住手，否则他们会把你踢出家门的。}
 #{127}{}{That's great. Wait.}
 {127}{}{太好了。等待。}
 #{128}{}{Quite strict morals...}
-{128}{}{相当严格的道德。。。}
+{128}{}{相当严格的道德...}
 #{130}{}{Hello, stranger. Glad to see you, my brothers went really crazy after that story with Robert. They let me speak only with women and "purebred" military, and those, believe me, are not the best company.}
 {130}{}{你好，陌生人。很高兴见到你，我的兄弟们在听了罗伯特的故事后都疯了。他们让我只跟女人和“纯种”军人说话，相信我，那些人不是最好的同伴。}
 #{131}{}{I just wanted to say that Robert prepares the escape. Be ready!}
@@ -43,7 +43,7 @@
 #{135}{}{I'll talk to you later.}
 {135}{}{我待会儿再跟你谈。}
 #{140}{}{What? But... [whispering] He really decided to do it? Ah, that would be great, I'm so desperate to sit in four walls.}
-{140}{}{什么？但是。。。他真的决定这么做？啊，那太好了，我真想坐在四面墙里。}
+{140}{}{什么？但是...他真的决定这么做？啊，那太好了，我真想坐在四面墙里。}
 #{141}{}{You will have to sit a little longer. Just wait.}
 {141}{}{你得多坐一会儿。等等。}
 #{142}{}{Well, judging by the number of relatives who came from the Wasteland, we are one of the most pure-blooded families around - all members of our family are direct descendants of the first settlers. And on this stupid basis brothers created the idea of the "pure breed".}

@@ -9,13 +9,13 @@
 #{104}{}{Something's not right. We should warn the others.}
 {104}{}{有点不对劲。我们应该警告其他人。}
 #{105}{}{Uh... Okay.}
-{105}{}{休斯敦大学。。。可以。}
+{105}{}{Uh...可以。}
 #{106}{}{I'm gonna find who did that and show him a *real* blackout.}
 {106}{}{我要找到是谁干的，给他看一个真正的昏迷。}
 #{107}{}{Well, if it isn't our saboteur!}
 {107}{}{如果不是我们的破坏者！}
 #{108}{}{Again?! I lost patience with this the first time...}
-{108}{}{再一次？！我第一次对这个失去了耐心。。。}
+{108}{}{再一次？！我第一次对这个失去了耐心...}
 #{110}{}{Put your weapon away.}
 {110}{}{把你的武器收起来。}
 #{111}{}{I SAID, put your weapon away!}
@@ -63,7 +63,7 @@
 #{164}{}{Watch your tongue, boy, or someone may someday make you eat it.}
 {164}{}{小心你的舌头，孩子，否则总有一天会有人让你吃的。}
 #{165}{}{Woah, I'm sorry, man. Respect. Look... Let's just calm down and start over, okay?}
-{165}{}{喔，对不起，伙计。尊重。看。。。让我们冷静下来重新开始，好吗？}
+{165}{}{喔，对不起，伙计。尊重。看...让我们冷静下来重新开始，好吗？}
 #{166}{}{ }
 {166}{}{ }
 #{167}{}{ }

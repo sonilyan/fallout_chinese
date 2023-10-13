@@ -21,13 +21,13 @@
 #{152}{}{With pleasure!}
 {152}{}{很高兴见到你！}
 #{153}{}{I?... I... I'm coming home from a party!}
-{153}{}{我？。。。一、 。。。我要从派对上回家了！}
+{153}{}{我？...一、 ...我要从派对上回家了！}
 #{154}{}{Really? Well, go on then! And don't let me catch you around here again.}
 {154}{}{真正地？好吧，那就继续吧！别让我再在这里看到你。}
 #{155}{}{I'M JUST GOING HOME!!!}
 {155}{}{我要回家了！！！}
 #{156}{}{Fine, fine, don't freak out...}
-{156}{}{好吧，好吧，别紧张。。。}
+{156}{}{好吧，好吧，别紧张...}
 #{200}{}{[Quietly, you sneak up on the vandal and grab his wrist] AAAAAH!!! SHIIIT!!!}
 {200}{}{[悄悄地，你偷偷接近破坏公物的人，抓住他的手腕]AAAAAH！！！该死！！！}
 #{201}{}{I knew it! You're the one vandalizing the hotel walls! I've got you, you little brat!}
@@ -57,11 +57,11 @@
 #{213}{}{Yeah, right. Why'd you go and mess up our walls in the first place?}
 {213}{}{是的，没错。你为什么一开始就把我们的墙弄乱了？}
 #{214}{}{Well... Everyone does...}
-{214}{}{好。。。每个人都有。。。}
+{214}{}{好...每个人都有...}
 #{215}{}{So you might as well, too, huh? All the cool kids are doing it!}
 {215}{}{所以你也可以，嗯？所有的酷孩子都这么做了！}
 #{216}{}{I... Just... I just wanted to paint.}
-{216}{}{一、 。。。只是。。。我只是想画画。}
+{216}{}{一、 ...只是...我只是想画画。}
 #{217}{}{What?}
 {217}{}{什么？}
 #{218}{}{Hmm.}
@@ -81,11 +81,11 @@
 #{256}{}{[Leave.]}
 {256}{}{[离开]}
 #{257}{}{Hmm... I hope you're right. Thanks for your help. Oh yeah, and 100 bucks for a job well done. All the best!}
-{257}{}{隐马尔可夫模型。。。我希望你是对的。谢谢你的帮助。哦，是的，一份出色的工作要100美元。祝你一切顺利！}
+{257}{}{Hmm...我希望你是对的。谢谢你的帮助。哦，是的，一份出色的工作要100美元。祝你一切顺利！}
 #{258}{}{I like the way you think! We'll teach him a lesson and get some work done at the same time! Thank you for your help. Oh yeah, and 100 bucks for a job well done. All the best!}
 {258}{}{我喜欢你的思维方式！我们要给他一个教训，同时完成一些工作！谢谢你的帮助。哦，是的，一份出色的工作要100美元。祝你一切顺利！}
 #{259}{}{Hey, I think you're on to something there! The kid's not half-bad with a spray-can, you know... I'll have to talk to my boss, but I think the kid's got a job. Thanks for your help! Oh yeah, and 100 bucks for a job well done. All the best!}
-{259}{}{嘿，我想你知道什么了！这孩子用喷雾罐还不错，你知道。。。我得和老板谈谈，但我想这孩子有工作了。谢谢你的帮助！哦，是的，一份出色的工作要100美元。祝你一切顺利！}
+{259}{}{嘿，我想你知道什么了！这孩子用喷雾罐还不错，你知道...我得和老板谈谈，但我想这孩子有工作了。谢谢你的帮助！哦，是的，一份出色的工作要100美元。祝你一切顺利！}
 #{260}{}{You found a wise means of dealing with the graffiti artist.}
 {260}{}{你找到了对付涂鸦艺术家的明智方法。}
 #{1201}{}{I knew it! You're the one vandalizing the hotel walls! I've got you, you little brat!}

@@ -19,7 +19,7 @@
 #{109}{}{"If you're reading this, please give this letter to Milo. He's 32 years old, has brown hair and is very tanned. He wears leather boots with a knife sheath and a star on the soles. He went to Black Rock and never came back. If you meet him, please, bring him back home!"}
 {109}{}{“如果你正在读这封信，请把这封信交给米洛。他今年32岁，棕色头发，皮肤黝黑。他穿的皮靴有刀鞘，鞋底有一颗星星。他去了黑岩再也没有回来。如果你遇到他，请把他带回家！”}
 #{110}{}{Well, at least it's a clue...}
-{110}{}{好吧，至少这是个线索。。。}
+{110}{}{好吧，至少这是个线索...}
 #{111}{}{With this description it'll be easier to find Milo.}
 {111}{}{有了这个描述就更容易找到米洛了。}
 #{112}{}{On the table you see a pencil and some old paper. Nothing interesting.}

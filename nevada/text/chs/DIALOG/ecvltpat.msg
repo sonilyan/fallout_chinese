@@ -3,9 +3,9 @@
 #{101}{}{I must warn the city guards!}
 {101}{}{我必须警告城管！}
 #{102}{}{Outworld scum...}
-{102}{}{外面的人渣。。。}
+{102}{}{外面的人渣...}
 #{103}{}{Degenerate filth...}
-{103}{}{堕落的污秽。。。}
+{103}{}{堕落的污秽...}
 #{104}{}{Die, outsider!}
 {104}{}{死吧，外人！}
 #{110}{}{Can we help you, citizen?}
@@ -21,7 +21,7 @@
 #{120}{}{I need medical assistance!}
 {120}{}{我需要医疗救助！}
 #{121}{}{Could you escort me to the Vault?}
-{121}{}{你能陪我去金库吗？}
+{121}{}{你能陪我去避难所吗？}
 #{122}{}{Could you escort me to Gerlach?}
 {122}{}{你能陪我去杰拉克吗？}
 #{123}{}{Could you escort me to Black Rock?}
@@ -48,9 +48,9 @@
 {133}{}{非常感谢。}
 #{134}{}{Yes, of course.}
 {134}{}{是的，当然。}
-#{135}{}{Let�s get going then!}
+#{135}{}{Let??s get going then!}
 {135}{}{那我们走吧！}
-#{136}{}{I think I�ll go without you.}
+#{136}{}{I think I??ll go without you.}
 {136}{}{我想我不带你去。}
 #{137}{}{Yes, of course. We will escort and leave you near the town.}
 {137}{}{是的，当然。我们会护送你到镇上。}

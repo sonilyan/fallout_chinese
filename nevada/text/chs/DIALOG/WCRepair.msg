@@ -1,15 +1,15 @@
 #{100}{}{You see Anders.}
 {100}{}{你看到安德斯了。}
 #{101}{}{You see a technician in dirty working clothes with numerous prints of fingers and... Bare feet!}
-{101}{}{你看到一个穿着脏工作服的技术员有很多手指印。。。光着脚！}
+{101}{}{你看到一个穿着脏工作服的技术员有很多手指印...光着脚！}
 #{108}{}{Thief! A thief in my garage!}
 {108}{}{小偷！我车库里有贼！}
 #{109}{}{Damn, I was caught...}
-{109}{}{该死，我被抓了。。。}
+{109}{}{该死，我被抓了...}
 #{110}{}{Hey! Stop! You can't go there!}
 {110}{}{嘿！住手！你不能去那里！}
 #{111}{}{Oops, I thought it's a bathroom...}
-{111}{}{哎呀，我还以为是浴室呢。。。}
+{111}{}{哎呀，我还以为是浴室呢...}
 #{112}{}{I warned you! You *cannot* go there! Do this again and someone gets hurt, get it?!}
 {112}{}{我警告过你！你不能去那里！再这样就有人受伤了，明白吗？！}
 #{113}{}{Okay.}
@@ -31,13 +31,13 @@
 #{121}{}{Oh, nevermind.}
 {121}{}{哦，没关系。}
 #{130}{}{Well, I don't have the most extensive choice... What do you want?}
-{130}{}{嗯，我没有最广泛的选择。。。你想要什么？}
+{130}{}{嗯，我没有最广泛的选择...你想要什么？}
 #{131}{}{}
 {131}{}{}
 #{132}{}{Ammo press. You'll be able to make one, right?}
 {132}{}{弹药压力。你可以做一个，对吗？}
 #{133}{}{I heard there's a high-tech vault somewhere nearby?}
-{133}{}{我听说附近有个高科技金库？}
+{133}{}{我听说附近有个高科技避难所？}
 #{134}{}{Cleaning filter for the artesian water tower in Salt Lake.}
 {134}{}{盐湖自流水塔过滤器的清洗。}
 #{135}{}{Do you have gunpowder in stock, by any chance?}
@@ -79,11 +79,11 @@
 #{155}{}{Gunpowder? Wesker forbids us to take away such valuable resources. I will sell no powder to you.}
 {155}{}{火药？韦斯克禁止我们拿走如此宝贵的资源。我不卖火药给你。}
 #{156}{}{To think you can't take a little bit from the warehouse... [wink]}
-{156}{}{想想你不能从仓库里拿走一点。。。[眨眼]}
+{156}{}{想想你不能从仓库里拿走一点...[眨眼]}
 #{157}{}{Okay.}
 {157}{}{可以。}
 #{158}{}{Warehouse? Me? I won't be even allowed to enter! But... [leans over to you and talks quietly] on the other hand, it's not necessarily should me, right? [winks at you]}
-{158}{}{仓库？我？我甚至不能进去！但是。。。另一方面，我不一定应该这样，对吧？[向你眨眼]}
+{158}{}{仓库？我？我甚至不能进去！但是...另一方面，我不一定应该这样，对吧？[向你眨眼]}
 #{159}{}{Oh, yes, I've heard about the thing from the caravaneers. Frankly, I would have already found it and transported to Salt Lake myself. But I have no idea where to get one!}
 {159}{}{哦，是的，我从商队那里听说过这件事。坦白说，我早就找到了，自己也会被运到盐湖城。但我不知道在哪里能买到！}
 #{160}{}{What a pity.}
@@ -95,7 +95,7 @@
 #{168}{}{Have read about it on the old holodisk.}
 {168}{}{我在旧全息光盘上读到过。}
 #{169}{}{Uh... Just the rumors.}
-{169}{}{休斯敦大学。。。只是谣言。}
+{169}{}{Uh...只是谣言。}
 #{170}{}{Old holodisk? That's very interesting!}
 {170}{}{旧全息光盘？真有趣！}
 #{171}{}{I can show you the entry on my Pip-Boy.}
@@ -107,15 +107,15 @@
 #{174}{}{None of my business, you say? When our guys will hang you by your feet over a burning barrel, you'll think otherwise.}
 {174}{}{你说不关我的事？当我们的人把你的脚挂在燃烧的桶上时，你会不这么想。}
 #{175}{}{Damn, look, I want to warn you - there are those in our community who must not see this tape. This... Could lead to unpleasant consequences. [menacingly approaches you] Do you understand me, outlander? Unpleasant *for us all* and for you in particular. Don't do anything stupid.}
-{175}{}{妈的，听着，我想警告你-我们社区里有些人不能看这盘带子。这个。。。可能导致不愉快的后果。[威胁地接近你]你明白我的意思吗，外地人？对我们所有人来说，尤其是对你来说，都是不愉快的。别做傻事。}
+{175}{}{妈的，听着，我想警告你-我们社区里有些人不能看这盘带子。这个...可能导致不愉快的后果。[威胁地接近你]你明白我的意思吗，外地人？对我们所有人来说，尤其是对你来说，都是不愉快的。别做傻事。}
 #{176}{}{Oh, it's that serious...}
-{176}{}{哦，有那么严重。。。}
+{176}{}{哦，有那么严重...}
 #{177}{}{Don't threaten me. I'll just leave.}
 {177}{}{别威胁我。我就走。}
 #{178}{}{Apparently, not everyone in this city will be pleased to learn that they are descendants of deserters.}
 {178}{}{显然，并不是这个城市的每个人都会高兴地得知他们是逃兵的后代。}
 #{179}{}{Well, I suppose. However, it doesn't matter now. After all, we blew up the vault when the mutants have settled in it.}
-{179}{}{好吧，我想。不过，现在不重要了。毕竟，我们在变种人定居后炸毁了金库。}
+{179}{}{好吧，我想。不过，现在不重要了。毕竟，我们在变种人定居后炸毁了避难所。}
 #{180}{}{Is it dangerous in there?}
 {180}{}{里面危险吗？}
 #{181}{}{Sure. So no one will guide a tour for you.}
@@ -137,9 +137,9 @@
 #{207}{}{Then you'll have to take off your armor. Or do you want me to work on it with a blowtorch, while it's still on you? Not a problem, I mean, for me, hehe.}
 {207}{}{那你就得脱掉盔甲。或者你想让我用喷灯，趁它还在你身上？没问题，我是说，对我来说，呵呵。}
 #{208}{}{Let's do it without risks to health. I'm taking it off...}
-{208}{}{让我们在不危及健康的情况下做这件事。我要脱了。。。}
+{208}{}{让我们在不危及健康的情况下做这件事。我要脱了...}
 #{228}{}{Uh... What now, what now... Now I need }
-{228}{}{休斯敦大学。。。现在，现在。。。现在我需要}
+{228}{}{Uh...现在，现在...现在我需要}
 #{229}{}{ bucks to go to the train, also the train coordinates and other information about how to get there and where to find what.}
 {229}{}{雄鹿去火车，还有火车坐标和其他信息，关于如何到达那里，在哪里找到什么。}
 #{230}{}{Only metal and leather ones. Those I already know how to handle.}
@@ -153,7 +153,7 @@
 #{234}{}{I changed my mind. It is not necessary.}
 {234}{}{我改变主意了。这是没有必要的。}
 #{235}{}{Oh, I don't have so much money...}
-{235}{}{哦，我没有那么多钱。。。}
+{235}{}{哦，我没有那么多钱...}
 #{236}{}{No questions. Will do it for }
 {236}{}{没有问题。我会为你做的}
 #{237}{}{ bucks.}
@@ -169,9 +169,9 @@
 #{242}{}{Hey! I'm not going to pick up *your* stuff!}
 {242}{}{嘿！我不去拿你的东西！}
 #{243}{}{Oh, I'll pick it up now...}
-{243}{}{哦，我现在就去拿。。。}
+{243}{}{哦，我现在就去拿...}
 #{244}{}{I'm sick with firearms already. Mostly, I work with weapons all the time - "fix me this", "attach this to that"... Basically we are talking about military firearms - rifles, shotguns, even rocket launchers, and other pleasures of a good soldier.}
-{244}{}{我已经厌倦了枪支。大多数情况下，我一直在处理武器-“给我修这个”，“把这个和那个连在一起”。。。基本上，我们谈论的是军用枪支——步枪、散弹枪，甚至火箭筒，以及一个好士兵的其他乐趣。}
+{244}{}{我已经厌倦了枪支。大多数情况下，我一直在处理武器-“给我修这个”，“把这个和那个连在一起”...基本上，我们谈论的是军用枪支——步枪、散弹枪，甚至火箭筒，以及一个好士兵的其他乐趣。}
 #{245}{}{}
 {245}{}{}
 #{246}{}{The charging accelerator for a Magnum revolver.}
@@ -215,7 +215,7 @@
 #{266}{}{Fair point.}
 {266}{}{说得对。}
 #{267}{}{Ah, now everything is clear to me. A couple of days will be spent on preparations, and while I'm there it won't take long... Maybe.}
-{267}{}{啊，现在一切都清楚了。准备工作要花上几天时间，而我在那里不会花太长时间。。。也许 吧。}
+{267}{}{啊，现在一切都清楚了。准备工作要花上几天时间，而我在那里不会花太长时间...也许 吧。}
 #{268}{}{That's good. I'll check the work.}
 {268}{}{那很好。我来检查一下。}
 #{269}{}{You have found a way to fix the train. Congratulations!}
@@ -225,15 +225,15 @@
 #{271}{}{Calm down! It's just some people heard a definitive sounds near it, that's all.}
 {271}{}{冷静！只是有些人听到附近有明确的声音，仅此而已。}
 #{272}{}{Hmm... Sounds logical. Well, of course, I have some tech in there... And almost working one.}
-{272}{}{隐马尔可夫模型。。。听起来合乎逻辑。好吧，当然，我有一些技术在里面。。。几乎可以用了。}
+{272}{}{Hmm...听起来合乎逻辑。好吧，当然，我有一些技术在里面...几乎可以用了。}
 #{273}{}{So, the rumors were true. And if not a secret - what is it? Can I look at it? Can I purchase it?}
 {273}{}{所以，谣言是真的。如果不是秘密-那是什么？我能看看吗？我能买吗？}
 #{274}{}{I'm busy repairing a really cool piece of technology, but you'll have to save money for the rest of your life to be able to buy it.}
 {274}{}{我正忙着修理一项很酷的技术，但你得攒下余生的钱才能买到它。}
 #{275}{}{Oh, come on! Not for me to tell you this...}
-{275}{}{哦，来吧！不是我告诉你的。。。}
+{275}{}{哦，来吧！不是我告诉你的...}
 #{276}{}{All right. But money alone won't be enough anyway...}
-{276}{}{好吧。但光是钱是不够的。。。}
+{276}{}{好吧。但光是钱是不够的...}
 #{277}{}{Hey, stop tormenting me! Tell me what do you have in the garage?! What?! A generator? A cart? A bike? A helicopter?.. or a CAR?!!}
 {277}{}{嘿，别再折磨我了！告诉我车库里有什么？！什么？！发电机？一辆手推车？一辆自行车？直升机？。。或者一辆车？！！}
 #{278}{}{A pickup truck. Almost as good as brand new. But, as I said, it doesn't run.}
@@ -257,7 +257,7 @@
 #{287}{}{Why is it so hard to fix the car?}
 {287}{}{为什么修车这么难？}
 #{288}{}{Actually, there are several reasons. Imagine how it was during the Great War. The bombs mainly fell on cities, where the most of the cars were. Those that stayed mostly intact, being away from explosions, simply had no place to get repaired and refueled anymore. These pre-war cars, powered by nuclear batteries, were complex in terms of technology and maintenance, they required good care and constant monitoring. In addition, they were very expensive, and not everyone could afford to buy them. Also, add to the picture the horrors, that came after the War: the mass deaths, criminals everywhere, traffic jams on the streets... Loads of cars were left abandoned under the open sky, so in 70 years they just fell apart from aging. And these are just the few reasons.}
-{288}{}{实际上，有几个原因。想象一下二战期间的情形。炸弹主要落在城市，那里的汽车最多。那些基本上完好无损，远离爆炸，根本没有地方去修理和加油了。这些战前由核电池驱动的汽车在技术和维护方面都很复杂，它们需要很好的保养和不断的监控。此外，它们非常昂贵，不是每个人都买得起。另外，再加上战后的恐怖：大规模死亡，到处都是罪犯，街道上交通堵塞。。。大量的汽车被遗弃在空旷的天空下，因此在70年的时间里，它们只是因为老化而解体。这些只是少数几个原因。}
+{288}{}{实际上，有几个原因。想象一下二战期间的情形。炸弹主要落在城市，那里的汽车最多。那些基本上完好无损，远离爆炸，根本没有地方去修理和加油了。这些战前由核电池驱动的汽车在技术和维护方面都很复杂，它们需要很好的保养和不断的监控。此外，它们非常昂贵，不是每个人都买得起。另外，再加上战后的恐怖：大规模死亡，到处都是罪犯，街道上交通堵塞...大量的汽车被遗弃在空旷的天空下，因此在70年的时间里，它们只是因为老化而解体。这些只是少数几个原因。}
 #{289}{}{It remained in the garage of one of the houses in Pahrump. But the former owner used this car to the fullest, so I had a lot of trouble putting back parts and interior. The only problem left unsolved now is having a fuel controller.}
 {289}{}{它留在帕伦普一所房子的车库里。但是前车主把这辆车用得很充分，所以我很难把零件和内饰放回去。现在唯一没有解决的问题是有一个燃料控制器。}
 #{290}{}{}
@@ -273,7 +273,7 @@
 #{295}{}{Here it is - the fuel controller!}
 {295}{}{这就是燃油控制器！}
 #{296}{}{Looks like a working one... Ohh, I'm so excited that my hands are sweaty.}
-{296}{}{看起来像是在工作。。。哦，我兴奋得手都出汗了。}
+{296}{}{看起来像是在工作...哦，我兴奋得手都出汗了。}
 #{297}{}{Not so fast! What do I get for this chip?}
 {297}{}{别那么快！这个芯片我能得到什么？}
 #{298}{}{That's a good question. Look, let's do like this: I'll buy this chip for 2000 in cash from you, then I'll fix the car - it will take some time - and then you can buy the whole truck. If you want to, of course.}
@@ -299,7 +299,7 @@
 #{312}{}{[Goggles at you in horror] What are you doing, you idiot?!! It's a very fragile thing!!!}
 {312}{}{你在干什么，白痴？！！这是一个非常脆弱的东西！！！}
 #{313}{}{Don't worry, it didn't break...}
-{313}{}{别担心，它没有坏。。。}
+{313}{}{别担心，它没有坏...}
 #{314}{}{Well, how's my truck?}
 {314}{}{我的卡车怎么样了？}
 #{315}{}{Yours? It's still *my* truck, weirdo! And, you know - it's just gorgeous! All my life I have been dreaming of thing like this, and I don't know if I'm ready to sell it to a complete stranger.}
@@ -313,7 +313,7 @@
 #{319}{}{Are you sure?}
 {319}{}{你确定吗？}
 #{320}{}{What? Not enough money? Hmm, strange...}
-{320}{}{什么？钱不够？嗯，奇怪。。。}
+{320}{}{什么？钱不够？嗯，奇怪...}
 #{321}{}{Give me time to think.}
 {321}{}{给我时间想想。}
 #{322}{}{This is a large sum. Tell me, are there any ways to make good money in this town, with a body like mine?}
@@ -347,13 +347,13 @@
 #{336}{}{No, I don't like it. Goodbye.}
 {336}{}{不，我不喜欢。再见。}
 #{337}{}{Uh, strong argument... Okay, you win. I am willing to reduce the price by }
-{337}{}{呃，强有力的论据。。。好吧，你赢了。我愿意降价}
+{337}{}{呃，强有力的论据...好吧，你赢了。我愿意降价}
 #{338}{}{. But that's my final offer.}
 {338}{}{. 但这是我最后的报价。}
 #{339}{}{I understand. so now it's...}
-{339}{}{我理解。所以现在。。。}
+{339}{}{我理解。所以现在...}
 #{340}{}{Oh, okay. Let's go back to the previous price...}
-{340}{}{哦，好吧。让我们回到以前的价格。。。}
+{340}{}{哦，好吧。让我们回到以前的价格...}
 #{341}{}{No, I've put too much work into this.}
 {341}{}{不，我做了太多的工作。}
 #{342}{}{You have earned 1000 bucks giving in to the technician. He was a cruel pervert. Bruises all over your body will hurt for some time.}
@@ -369,7 +369,7 @@
 #{347}{}{Are you sure you want this? Our guys from the garrison are exceptionally persistent, if allowed they may turn you into a pulp.}
 {347}{}{你确定要这个吗？我们卫戍区的人非常固执，如果允许他们可能会把你变成一个废物。}
 #{348}{}{Yes... I... Have to go through it for money.}
-{348}{}{对。。。一、 。。。为了钱，我不得不经历它。}
+{348}{}{对...一、 ...为了钱，我不得不经历它。}
 #{349}{}{Simultaneous sex with five military men is a tough thing. You are happy to be alive. Nevertheless, you have earned 5000 bucks.}
 {349}{}{与五名军人同时发生性关系是一件艰难的事情。你活着很高兴。不过，你已经赚了5000美元。}
 #{371}{}{Have you ever seen the armor with such a helmet?}
@@ -387,11 +387,11 @@
 #{377}{}{About the power armor blueprints.}
 {377}{}{关于动力装甲蓝图。}
 #{378}{}{Hmm...}
-{378}{}{隐马尔可夫模型。。。}
+{378}{}{Hmm...}
 #{379}{}{}
 {379}{}{}
 #{380}{}{A little bit. And all I know isn't worth a dime without high-tech machines and materials. But you can still see one working armor in Nevada. Wesker never takes one off, he will stay in it till he dies, I think...}
-{380}{}{一点点。如果没有高科技的机器和材料，我所知道的一切都一文不值。但在内华达州你仍然可以看到一件正在使用的盔甲。韦斯克从不脱掉，他会一直呆到死，我想。。。}
+{380}{}{一点点。如果没有高科技的机器和材料，我所知道的一切都一文不值。但在内华达州你仍然可以看到一件正在使用的盔甲。韦斯克从不脱掉，他会一直呆到死，我想...}
 #{381}{}{Wesker wears a working one?}
 {381}{}{韦斯克穿工作服？}
 #{382}{}{Not exactly. It has no helmet, it can't be fully sealed and some features are not working. Servicemen brought this junk from the test site in Hawthorne. It was used for durability testing there - so now it's made of holes, which are made of holes.}
@@ -405,13 +405,13 @@
 #{386}{}{Just out of curiosity. Thank you for explaining everything I wanted to know.}
 {386}{}{只是出于好奇。谢谢你解释了我想知道的一切。}
 #{387}{}{Of course... Who wouldn't... But it doesn't matter. Wesker will not part with the armor, and we don't have another one. Even with all the blueprints on hand, we won't be able to arrange the production, it's too complicated and time-consuming. Before the war, the entire production facilities were up on producing them, there have been hundreds of specialists, high-precision machines, the prototypes took years to mature, and now you come here and say "I want one of these". Ha!}
-{387}{}{当然。。。谁不会。。。但这不重要。韦斯克不会放弃盔甲，我们也没有另一个。即使有所有的图纸在手，我们也不能安排生产，这太复杂和费时了。战前，整个生产设施都在生产，有数百名专家，高精度的机器，原型机花了几年时间才成熟，现在你来这里说“我想要一台”。哈！}
+{387}{}{当然...谁不会...但这不重要。韦斯克不会放弃盔甲，我们也没有另一个。即使有所有的图纸在手，我们也不能安排生产，这太复杂和费时了。战前，整个生产设施都在生产，有数百名专家，高精度的机器，原型机花了几年时间才成熟，现在你来这里说“我想要一台”。哈！}
 #{388}{}{So no working suit has survived up to the present day except the one on Wesker?}
 {388}{}{所以到今天为止，除了韦斯克身上的那件外，没有一件工作服幸存下来？}
 #{389}{}{All you can get are useless blueprints. Power armors were in possession of military units, and even back then they were in shortage. What do you think, where are they now? Of course, whether on military bases where we can't reach them, or destroyed over time. I say - head to the East, to Washington, and who knows, maybe you can find one among the ruins of the capital. Heh, good luck with that.}
 {389}{}{你能得到的只是无用的蓝图。武装装甲部队拥有军事单位，即使在那时，他们是短缺的。你觉得呢，他们现在在哪里？当然，无论是在我们无法到达的军事基地，还是随着时间的推移被摧毁。我说——往东走，去华盛顿，谁知道呢，也许你能在首都的废墟中找到一个。嘿，祝你好运。}
 #{390}{}{I see... Wait, blueprints? Do you have the blueprints?!}
-{390}{}{我懂了。。。等等，蓝图？你有蓝图吗？！}
+{390}{}{我懂了...等等，蓝图？你有蓝图吗？！}
 #{391}{}{Damn, I finally blurted out, didn't I? I don't know why you need them, but this sort of things is not handed out to complete strangers. There are blueprints of the frame structure at the headquarters, but that's only a part of the whole documentation. And, of course, no one will hand it to you.}
 {391}{}{妈的，我终于脱口而出了，不是吗？我不知道你为什么需要它们，但这种东西不是发给陌生人的。总部有框架结构的蓝图，但那只是整个文件的一部分。当然，没有人会把它交给你。}
 #{392}{}{I am able to buy it.}
@@ -429,7 +429,7 @@
 #{398}{}{Okay, I need those blueprints. Here is the payment.}
 {398}{}{好的，我需要那些蓝图。这是付款单。}
 #{399}{}{That much!? I thought the huckster is sitting in the next room, but this... I'd rather find another way.}
-{399}{}{那么多！？我以为那家伙坐在隔壁，但这。。。我宁愿另辟蹊径。}
+{399}{}{那么多！？我以为那家伙坐在隔壁，但这...我宁愿另辟蹊径。}
 #{400}{}{[You wistfully wait behind the locked doors while the technician goes out somewhere on the territory of the headquarters; finally he returns with the holodisk in his hand, warily looking around] If I'd have been paid for this stuff routinely, I would have bought the whole Vegas by now. Don't say a word to anyone!}
 {400}{}{[你渴望地在锁着的门后等着，而技术人员却在总部的某个地方外出；最后他手里拿着全息光盘回来了，小心翼翼地环顾四周]如果我按惯例得到这些东西的报酬，我现在就可以买下整个维加斯了。不要对任何人说一句话！}
 #{401}{}{No problem.}
@@ -455,15 +455,15 @@
 #{411}{}{Where?}
 {411}{}{在哪里？}
 #{412}{}{Uh...}
-{412}{}{休斯敦大学。。。}
+{412}{}{Uh...}
 #{413}{}{[You wistfully wait behind the locked doors while the technician goes out somewhere on the territory of the headquarters; finally he returns with the holodisk in his hand, warily looking around] I got what you wanted. Now it's your turn.}
 {413}{}{[你渴望地在锁着的门后等着，而技术人员却在总部的某个地方外出；最后他手里拿着全息光盘回来了，小心翼翼地环顾四周]我得到了你想要的。现在轮到你了。}
 #{414}{}{All right. We will part ways peacefully and quietly.}
 {414}{}{好吧。我们会平静地分手。}
 #{415}{}{It failed...}
-{415}{}{它失败了。。。}
+{415}{}{它失败了...}
 #{1111}{}{Oops, I thought it's a toilet...}
-{1111}{}{哦，我以为是个厕所。。。}
+{1111}{}{哦，我以为是个厕所...}
 #{1114}{}{That's it, you're screwed!}
 {1114}{}{就这样，你完蛋了！}
 #{1115}{}{What?! But I did nothing!..}
@@ -473,7 +473,7 @@
 #{1168}{}{Have read on the old holodisk.}
 {1168}{}{我读过旧的全息光盘。}
 #{1175}{}{Damn, look, I want to warn you - there are those in our community who must not see this tape. This... Could lead to unpleasant consequences. [menacingly approaches you] Do you understand me, outlander? Unpleasant *for us all* and for you in particular. Don't do anything stupid.}
-{1175}{}{妈的，听着，我想警告你-我们社区里有些人不能看这盘带子。这个。。。可能导致不愉快的后果。[威胁地接近你]你明白我的意思吗，外地人？对我们所有人来说，尤其是对你来说，都是不愉快的。别做傻事。}
+{1175}{}{妈的，听着，我想警告你-我们社区里有些人不能看这盘带子。这个...可能导致不愉快的后果。[威胁地接近你]你明白我的意思吗，外地人？对我们所有人来说，尤其是对你来说，都是不愉快的。别做傻事。}
 #{1234}{}{I changed my mind. It is not necessary.}
 {1234}{}{我改变主意了。这是没有必要的。}
 #{1312}{}{[Goggles in horror at you] What are you doing, you idiot?!! It's a very fragile thing!!!}

@@ -1,11 +1,11 @@
 #{100}{}{}
 {100}{}{}
 #{110}{}{I wonder how they'd be in a salad...}
-{110}{}{我想知道他们怎么会在沙拉里。。。}
+{110}{}{我想知道他们怎么会在沙拉里...}
 #{111}{}{Better exterminate them before they start talking!}
 {111}{}{最好在他们开口说话之前消灭他们！}
 #{112}{}{Note to self, only weed the ones with teeth...}
-{112}{}{注意自己，只给有牙齿的除草。。。}
+{112}{}{注意自己，只给有牙齿的除草...}
 #{113}{}{One less mouth.}
 {113}{}{少了一张嘴。}
 #{114}{}{Who crossed a dandelion with a deathclaw?}

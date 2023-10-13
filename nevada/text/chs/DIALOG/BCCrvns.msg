@@ -21,9 +21,9 @@
 #{125}{}{Geez, how many people are the raiders going to trap in here?}
 {125}{}{天哪，袭击者要在这里困住多少人？}
 #{126}{}{Things aren't looking good. We just ate our last spare brahmin.}
-{126}{}{事情看起来不太好。我们刚刚吃了最后一个备用婆罗门。}
+{126}{}{事情看起来不太好。我们刚刚吃了最后一个备用双头牛。}
 #{127}{}{If we ever get out of here, we'll need to buy more brahmin in Black Rock.}
-{127}{}{如果我们离开这里，我们需要在黑岩买更多的婆罗门。}
+{127}{}{如果我们离开这里，我们需要在黑岩买更多的双头牛。}
 #{130}{}{RAIDER! They're here!}
 {130}{}{袭击者！他们来了！}
 #{131}{}{What? I'm not a raider!}
@@ -39,4 +39,4 @@
 #{136}{}{Is this some kind of trick? Ah, fuck it - we've got nothing to lose anyway. Whoever you are, you should talk to the boss. He's right behind me.}
 {136}{}{这是什么把戏吗？啊，去他妈的-反正我们也没什么可失去的。不管你是谁，你都应该和老板谈谈。他就在我后面。}
 #{137}{}{Not a bad start...}
-{137}{}{不错的开始。。。}
+{137}{}{不错的开始...}

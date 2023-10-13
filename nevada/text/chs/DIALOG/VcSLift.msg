@@ -9,6 +9,6 @@
 #{104}{}{You just can't get your head around this machine.}
 {104}{}{你就是不能在这台机器周围动脑子。}
 #{105}{}{***Checking systems... No malfunctions detected***}
-{105}{}{***正在检查系统。。。未检测到故障***}
+{105}{}{***正在检查系统...未检测到故障***}
 #{106}{}{***System analysis complete***}
 {106}{}{***系统分析完成***}

@@ -7,4 +7,4 @@
 #{103}{}{These derelict slums are long deserted. But still, some rather fresh footprints can be seen in the sand.}
 {103}{}{这些废弃的贫民窟早已荒废。不过，沙子里还是可以看到一些相当新鲜的脚印。}
 #{104}{}{This place still screams of blood and suffering. Looks like the vault inhabitants had a quarrel and beat each other to death.}
-{104}{}{这个地方仍然充满血腥和痛苦的尖叫。看起来金库里的居民吵架了，互相殴打致死。}
+{104}{}{这个地方仍然充满血腥和痛苦的尖叫。看起来避难所里的居民吵架了，互相殴打致死。}

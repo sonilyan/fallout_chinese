@@ -11,7 +11,7 @@
 #{113}{}{You're welcome.}
 {113}{}{不客气。}
 #{114}{}{Well, I'm going to restore order in the office. There's just an awful mess...}
-{114}{}{好吧，我要恢复办公室的秩序。只是一团糟。。。}
+{114}{}{好吧，我要恢复办公室的秩序。只是一团糟...}
 #{115}{}{Bye.}
 {115}{}{再见。}
 #{116}{}{Oh, by the way, there is a weapon of the previous administrator in the safe. You can take it - think of it as a little reward for your efforts.}

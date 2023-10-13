@@ -13,12 +13,12 @@
 #{106}{}{}
 {106}{}{}
 #{107}{}{Hey, looks like this generator still works...}
-{107}{}{嘿，看起来这个发电机还能用。。。}
+{107}{}{嘿，看起来这个发电机还能用...}
 #{108}{}{Looks like the greedy prospectors accidentally activated the security systems. Now the city is full of hostile robots.}
 {108}{}{看起来贪婪的探矿者不小心启动了安全系统。现在这个城市充满了充满敌意的机器人。}
 #{109}{}{Your Pip-Boy received a message from Jay Kukish.}
 {109}{}{你的小鬼收到了杰伊·库基什的消息。}
 #{110}{}{Wha... How is this possible?!}
-{110}{}{什么。。。这怎么可能？！}
-#{111}{}{This building is in a state of emergency. Obviously, it haven�t been looked after for a long time.}
+{110}{}{什么...这怎么可能？！}
+#{111}{}{This building is in a state of emergency. Obviously, it haven??t been looked after for a long time.}
 {111}{}{这栋楼处于紧急状态。显然，它已经很久没人照料了。}

@@ -5,9 +5,9 @@
 #{108}{}{ However, I can see from by your face that you also got beaten by a life.}
 {108}{}{然而，从你的脸上我可以看出，你也被生活打败了。}
 #{109}{}{And here is our smooth-skinned friend... Well, for us, you're still smooth-skinned. But it's a mystery, how they don't shoot you with such a face in the Clean City.}
-{109}{}{这是我们皮肤光滑的朋友。。。嗯，对我们来说，你的皮肤还是很光滑的。但这是个谜，他们怎么不在干净的城市里用这样一张脸射你。}
+{109}{}{这是我们皮肤光滑的朋友...嗯，对我们来说，你的皮肤还是很光滑的。但这是个谜，他们怎么不在干净的城市里用这样一张脸射你。}
 #{110}{}{You'd better not to wander around here. Our hotel is not that much better than the local cemetery. Ha-ha! Joking. The cemetery is way better...}
-{110}{}{你最好不要在这里闲逛。我们的旅馆并不比当地的公墓好多少。哈哈！开玩笑。墓地更好。。。}
+{110}{}{你最好不要在这里闲逛。我们的旅馆并不比当地的公墓好多少。哈哈！开玩笑。墓地更好...}
 #{111}{}{Why you walk with bags over your heads? Is that some kind of fashion?}
 {111}{}{你为什么头上带着包走路？这是某种时尚吗？}
 #{112}{}{Do you contact with your neighbors from "Hard-Rock" cafe?}
@@ -19,7 +19,7 @@
 #{115}{}{Oops.}
 {115}{}{哎呀。}
 #{116}{}{Even if someone would, he wouldn't survive the journey. The health doesn't allow it. Well, unless we drink some of your blood... Ha-ha! Don't worry, I'm joking. We only eat brains...}
-{116}{}{即使有人愿意，他也不会在旅途中幸存下来。健康状况不容乐观。除非我们喝了你的血。。。哈哈！别担心，我在开玩笑。我们只吃大脑。。。}
+{116}{}{即使有人愿意，他也不会在旅途中幸存下来。健康状况不容乐观。除非我们喝了你的血...哈哈！别担心，我在开玩笑。我们只吃大脑...}
 #{117}{}{Very funny. Another question.}
 {117}{}{非常有趣。另一个问题。}
 #{118}{}{I think I'll go.}
@@ -37,7 +37,7 @@
 #{124}{}{Yes, I am.}
 {124}{}{是的，我是。}
 #{125}{}{Then know this, they call us "fureecks". We walk with bags over our heads, so you couldn't see us chewing human flesh flesh with our rotten teeth... Ha-ha-ha!!!}
-{125}{}{那就知道了，他们叫我们“野猪”。我们头上戴着袋子走路，所以你看不到我们用腐烂的牙齿咀嚼人肉。。。哈哈哈！！！}
+{125}{}{那就知道了，他们叫我们“野猪”。我们头上戴着袋子走路，所以你看不到我们用腐烂的牙齿咀嚼人肉...哈哈哈！！！}
 #{126}{}{Flesh huh, funny guy. So what is it with your faces?}
 {126}{}{嗯，有趣的家伙。你的脸怎么了？}
 #{127}{}{With our faces? Oh, wanderer, I can't tell, otherwise you're gonna puke all over the place. Ha-ha!}
@@ -65,7 +65,7 @@
 #{}{}{}
 {}{}{}
 #{139}{}{About the tongue - you better not say it. I can take it literally... Ha-ha-ha!!!}
-{139}{}{关于舌头-你最好不要说。我可以从字面上理解。。。哈哈哈！！！}
+{139}{}{关于舌头-你最好不要说。我可以从字面上理解...哈哈哈！！！}
 #{140}{}{So what is your sickness?}
 {140}{}{你的病是什么？}
 #{141}{}{You're very inadequate. It's time to eliminate you!}
@@ -77,7 +77,7 @@
 #{144}{}{As you wish, Larry. But I will go away now.}
 {144}{}{如你所愿，拉里。但我现在要走了。}
 #{145}{}{In fact, we haven't suffered from anything in a long time... Except for a small mental disorder.}
-{145}{}{事实上，我们已经很长时间没有遭受任何痛苦了。。。除了一个小小的精神障碍。}
+{145}{}{事实上，我们已经很长时间没有遭受任何痛苦了...除了一个小小的精神障碍。}
 #{146}{}{So what is it with your skin then?}
 {146}{}{那你的皮肤怎么了？}
 #{147}{}{Radiation, friend, radiation. And, apparently, some other shit that flies through the air. The organism ossified, the skin became tough, and the veins lost their elasticity.}
@@ -85,7 +85,7 @@
 #{148}{}{Yeah, I get it. And what now, you hide your faces to not scare any kids or something?}
 {148}{}{是的，我明白了。现在呢，你藏起脸来吓唬孩子什么的？}
 #{149}{}{In Clean City they frighten the kids with us anyway. Like, look, if you won't behave - then a bad freak will come and carry you to Dead hotel. Sometimes, these oafs talk even worse. They think that we are contagious, so they all stay away from us... Mostly.}
-{149}{}{在干净的城市里，他们和我们一起吓唬孩子。比如，听着，如果你不守规矩-那么一个坏怪胎会来把你带到死旅馆。有时候，这些白痴说话更糟。他们认为我们是有传染性的，所以他们都远离我们。。。基本上。}
+{149}{}{在干净的城市里，他们和我们一起吓唬孩子。比如，听着，如果你不守规矩-那么一个坏怪胎会来把你带到死旅馆。有时候，这些白痴说话更糟。他们认为我们是有传染性的，所以他们都远离我们...基本上。}
 #{150}{}{What?}
 {150}{}{什么？}
 #{151}{}{Apparently, someone overdid it and now we are accused of producing drugs. The police even have some circumstantial evidence. I don't know if it's true, but it seems to me, that the police won't look for evidence. They'll just come and shoot us up. I hope that after this our ghosts will haunt them at nights.}
@@ -105,33 +105,33 @@
 #{158}{}{I do not know who to believe. Perhaps, I'd better just go about my business.}
 {158}{}{我不知道该相信谁。也许，我还是继续干我的事吧。}
 #{159}{}{If we don't prove our innocence, then the police will come and at best drive us out of the parking lot. And at worst - will take away the medicines and thereby deprive us of the opportunity to piss properly... Ha-ha! Although, we are increasingly arguing - whether they dare to come. Something tells us that they won't.}
-{159}{}{如果我们不能证明自己的清白，那么警察就会来，充其量只能把我们赶出停车场。最坏的情况是-会带走药物从而剥夺我们正常撒尿的机会。。。哈哈！不过，我们越来越争论他们是否敢来。有些事告诉我们他们不会的。}
+{159}{}{如果我们不能证明自己的清白，那么警察就会来，充其量只能把我们赶出停车场。最坏的情况是-会带走药物从而剥夺我们正常撒尿的机会...哈哈！不过，我们越来越争论他们是否敢来。有些事告诉我们他们不会的。}
 #{160}{}{Can you prove?}
 {160}{}{你能证明吗？}
 #{161}{}{No. We will never prove our innocence. Especially since we'll soon be hanged for your death as a result of the slow dismemberment... Ha-ha! We wouldn't even be able to bring the evidence to the Clean City - we just will be shot on sight, while walking to the main gate.}
-{161}{}{不，我们永远不会证明我们的清白。特别是因为我们很快就会因为你的死而被绞死。。。哈哈！我们甚至不能把证据带到干净的城市——我们只会在走到正门时被一眼射杀。}
+{161}{}{不，我们永远不会证明我们的清白。特别是因为我们很快就会因为你的死而被绞死...哈哈！我们甚至不能把证据带到干净的城市——我们只会在走到正门时被一眼射杀。}
 #{162}{}{You know, what I think? That justice must prevail! I will try to help you... If you are honest.}
-{162}{}{你知道，我怎么想的？正义必须获胜！我会尽力帮助你。。。如果你是诚实的。}
+{162}{}{你知道，我怎么想的？正义必须获胜！我会尽力帮助你...如果你是诚实的。}
 #{163}{}{You don't need to go there! I will shoot you all right here!}
 {163}{}{你不需要去那里！我会在这里开枪打死你！}
 #{164}{}{Listen, thats your problem, I don't want to have anything to do with it. Thats why I leave.}
 {164}{}{听着，那是你的问题，我不想和它有任何关系。这就是我离开的原因。}
 #{165}{}{How noble! So much that I don't even believe it. And that's after I threw a poisonous saprophyte mite in your pocket... Do not search your pants. It was a joke!}
-{165}{}{多高尚啊！以至于我都不相信。那是在我把一个有毒的腐生螨扔进你口袋之后。。。不要搜你的裤子。开玩笑的！}
+{165}{}{多高尚啊！以至于我都不相信。那是在我把一个有毒的腐生螨扔进你口袋之后...不要搜你的裤子。开玩笑的！}
 #{166}{}{I'm being honest with you. Be honest with me too.}
 {166}{}{我对你说实话。对我也要诚实。}
 #{167}{}{[Secretly start recording the conversation on your Pip-Boy] I'm being honest with you. Be honest with me too.}
 {167}{}{[秘密地开始录下你儿子的对话]我跟你说实话。对我也要诚实。}
 #{168}{}{I am also honest... And serious. As much as possible. Yes, we had bad times and once we made powders with much stronger effect. But this is in the past. You must trust us!}
-{168}{}{我也很诚实。。。而且很严肃。尽可能多。是的，我们有过不好的时期，有一次我们做了效果更好的粉末。但这已经是过去了。你必须相信我们！}
+{168}{}{我也很诚实...而且很严肃。尽可能多。是的，我们有过不好的时期，有一次我们做了效果更好的粉末。但这已经是过去了。你必须相信我们！}
 #{169}{}{Nobody has to do anything for you just yet, comedian. Okay, I trust you. Then who and why would someone go to police on you? And what are the evidence they have there?}
 {169}{}{现在还没人为你做任何事，喜剧演员。好吧，我相信你。那谁又为什么会有人报警？他们有什么证据？}
 #{170}{}{Not a slightest idea! The evidence is clearly indirect. The chief of police came to us, asked where we get the components, how much dope we make a month... Of course, he did not believe us. I think he is convinced of his rightness and will defend it even if you find evidence of the opposite.}
-{170}{}{一点也不知道！证据显然是间接的。警察局长来找我们，问我们从哪儿弄来的零件，一个月赚多少毒品。。。当然，他不相信我们。我认为他确信自己是对的，即使你找到相反的证据，他也会为自己辩护。}
+{170}{}{一点也不知道！证据显然是间接的。警察局长来找我们，问我们从哪儿弄来的零件，一个月赚多少毒品...当然，他不相信我们。我认为他确信自己是对的，即使你找到相反的证据，他也会为自己辩护。}
 #{171}{}{Well, that isn't much.}
 {171}{}{嗯，那不多。}
 #{172}{}{I think you should talk to the police first. I think that they will listen to you. Think of a story so as not to cause unnecessary suspicion. And better kill everyone there and bring their hearts as a sacrifice to our god!!! Ha-ha-ha...}
-{172}{}{我想你应该先和警察谈谈。我想他们会听你的。想一个故事以免引起不必要的怀疑。最好杀了那里的每一个人，把他们的心作为祭品献给我们的上帝！！！哈哈哈。。。}
+{172}{}{我想你应该先和警察谈谈。我想他们会听你的。想一个故事以免引起不必要的怀疑。最好杀了那里的每一个人，把他们的心作为祭品献给我们的上帝！！！哈哈哈...}
 #{173}{}{We'll see.}
 {173}{}{我们拭目以待。}
 #{174}{}{[Secretly start recording the conversation on your Pip-Boy] But you don't produce any drugs, right?}
@@ -151,7 +151,7 @@
 #{181}{}{Enough of excuses. How will you answer to that receipt?}
 {181}{}{别再找借口了。你对那张收据怎么回答？}
 #{182}{}{I will say that you have a direct proof of our innocence in your hands. Although I don't think that the chief of police will be fully convinced. Unless you put a red-hot poker between his legs... In general, it is necessary that someone smooth-skinned and responsible go to him, or else they won't let us into the Clean City.}
-{182}{}{我要说，你手中有我们清白的直接证据。虽然我不认为警察局长会完全信服。除非你在他两腿之间夹一把火红的扑克。。。总的来说，有必要找一个皮肤光滑、有责任心的人来找他，否则他们不会让我们进入干净的城市。}
+{182}{}{我要说，你手中有我们清白的直接证据。虽然我不认为警察局长会完全信服。除非你在他两腿之间夹一把火红的扑克...总的来说，有必要找一个皮肤光滑、有责任心的人来找他，否则他们不会让我们进入干净的城市。}
 #{183}{}{Stop! So, what is going on? What is the police have to do with anything?! What the hell have you done?!}
 {183}{}{住手！怎么回事？警察跟这有什么关系？！你到底做了什么？！}
 #{184}{}{Who could have convince the slavers to do that? Who is your enemy?}
@@ -187,7 +187,7 @@
 #{199}{}{Yeah, thats not much.}
 {199}{}{是的，不多。}
 #{200}{}{You, wanderer, should be getting in dangerous situation often in the wasteland. May pharmacology help you! Only today - two for the price... Yes for the usual price of course, we all want to eat.}
-{200}{}{你这个流浪汉，应该经常在荒地里陷入险境。愿药理学对你有所帮助！只有今天-两个价格。。。是的，通常的价格当然，我们都想吃。}
+{200}{}{你这个流浪汉，应该经常在荒地里陷入险境。愿药理学对你有所帮助！只有今天-两个价格...是的，通常的价格当然，我们都想吃。}
 #{201}{}{Stimpak, 5.}
 {201}{}{斯汀帕克，5岁。}
 #{202}{}{Superstimpak, 3.}
@@ -235,7 +235,7 @@
 #{223}{}{We are now worse than beggars.}
 {223}{}{我们现在比乞丐还糟。}
 #{224}{}{Damn! I guess that's it...}
-{224}{}{该死！我想就是这样。。。}
+{224}{}{该死！我想就是这样...}
 #{225}{}{Bad luck!}
 {225}{}{真倒霉！}
 #{226}{}{It's time to say goodbye to our lives.}
@@ -271,25 +271,25 @@
 #{241}{}{Trying to survive. Manage, as we can. We have some crops not far from here, for example.}
 {241}{}{努力生存。尽我们所能管理。例如，我们在离这儿不远的地方有一些庄稼。}
 #{242}{}{What if I offer you a steady and stable job on not so safe, but still guaranteed workplace? Hoover Dam, you may have heard of it...}
-{242}{}{如果我给你提供一份稳定的工作，在不太安全，但仍然有保障的工作场所呢？胡佛大坝，你可能听说过。。。}
+{242}{}{如果我给你提供一份稳定的工作，在不太安全，但仍然有保障的工作场所呢？胡佛大坝，你可能听说过...}
 #{243}{}{Well, if you think about it, we are ready for any work... If they accept us. But they won't.}
-{243}{}{好吧，如果你想一想，我们已经准备好做任何工作了。。。如果他们接受我们。但他们不会。}
+{243}{}{好吧，如果你想一想，我们已经准备好做任何工作了...如果他们接受我们。但他们不会。}
 #{244}{}{They will accept you. Bob Neil is having a bad time now, he's ready to condescend to you... I suppose.}
-{244}{}{他们会接受你的。鲍勃·尼尔现在过得不好，他准备屈尊于你。。。我想是吧。}
+{244}{}{他们会接受你的。鲍勃·尼尔现在过得不好，他准备屈尊于你...我想是吧。}
 #{245}{}{Well, that would be an acceptable solution for us, yes. But somehow I doubt that this person will want to have business with us. Would you ask him yourself? We are ready, even starting tomorrow!}
 {245}{}{嗯，那对我们来说是一个可以接受的解决方案，是的。但不知怎的，我怀疑这个人是否愿意和我们做生意。你自己问问他好吗？我们已经准备好了，即使明天开始！}
 #{246}{}{Excellent! I'll talk to Bob.}
 {246}{}{杰出的！我去和鲍勃谈谈。}
 #{247}{}{You persuaded the freaks to go to work for Bob Neil. Hmm... All that remains is to persuade Bob Neil himself!}
-{247}{}{你说服那些怪胎为鲍勃·尼尔工作。隐马尔可夫模型。。。剩下的就是说服鲍勃尼尔自己！}
+{247}{}{你说服那些怪胎为鲍勃·尼尔工作。Hmm...剩下的就是说服鲍勃尼尔自己！}
 #{248}{}{Seriously? Just like that, for "thank you", risking your life? Well, then I just can't let you go empty-handed. Here, take it. [gives 2 packs of some kind of colored pills] It's very good... "memory refresher". He-he. I hope you know what I mean.}
 {248}{}{说真的？就这样，为了“谢谢”，冒着生命危险？好吧，那我不能让你空手而归。来，拿着。[给了两包彩色药片]非常好……”记忆刷新器”。他，他。我希望你明白我的意思。}
 #{249}{}{Not yet, but I'll figure it out. Thank you!}
 {249}{}{还没有，但我会想办法的。谢谢您！}
 #{1109}{}{And here is our smooth-skinned friend... Well, for us, you're still smooth-skinned. But it's a mystery, how they don't shoot you with such a face in the Clean City.}
-{1109}{}{这是我们皮肤光滑的朋友。。。嗯，对我们来说，你的皮肤还是很光滑的。但这是个谜，他们怎么不在干净的城市里用这样一张脸射你。}
+{1109}{}{这是我们皮肤光滑的朋友...嗯，对我们来说，你的皮肤还是很光滑的。但这是个谜，他们怎么不在干净的城市里用这样一张脸射你。}
 #{1110}{}{You'd better not to wander around here. Our hotel is not that much better than the local cemetery. Ha-ha! Joking. The cemetery is way better...}
-{1110}{}{你最好不要在这里闲逛。我们的旅馆并不比当地的公墓好多少。哈哈！开玩笑。墓地更好。。。}
+{1110}{}{你最好不要在这里闲逛。我们的旅馆并不比当地的公墓好多少。哈哈！开玩笑。墓地更好...}
 #{1123}{}{Wait, you've never heard of us? You haven't even been warned that you should avoid us? Looks like you're new in town?}
 {1123}{}{等等，你从没听说过我们？你还没被警告要避开我们？看起来你是新来的？}
 #{1127}{}{With our faces? Oh, wanderer, I can't tell, otherwise you're gonna puke all over the place. Ha-ha!}
@@ -299,13 +299,13 @@
 #{1167}{}{[Secretly start recording the conversation on your Pip-Boy] I'm being honest with you. Be honest with me too.}
 {1167}{}{[秘密地开始录下你儿子的对话]我跟你说实话。对我也要诚实。}
 #{1168}{}{I am also honest... And serious. As much as possible. Yes, we had bad times and once we made powders with much stronger effect. But this is in the past. You must trust us!}
-{1168}{}{我也很诚实。。。而且很严肃。尽可能多。是的，我们有过不好的时期，有一次我们做了效果更好的粉末。但这已经是过去了。你必须相信我们！}
+{1168}{}{我也很诚实...而且很严肃。尽可能多。是的，我们有过不好的时期，有一次我们做了效果更好的粉末。但这已经是过去了。你必须相信我们！}
 #{1191}{}{Listen! We are not the best inhabitants of the city, we are feared. And we are afraid. But you - you are not. Even the police can't be compared to you! Don't leave us like this! And we will help you in return.}
 {1191}{}{听！我们不是这个城市最好的居民，我们害怕。我们害怕。但你-你不是。连警察都比不上你！别这样丢下我们！作为回报，我们会帮助你。}
 #{1193}{}{You wish! I'm not my own enemy! Here, take the evidence and I'm out of here. My job is done.}
 {1193}{}{想得美！我不是自己的敌人！拿着证据我就走。我的工作完成了。}
 #{1200}{}{You, wanderer, should be getting in dangerous situation often in the wasteland. May pharmacology help you! Only today - two for the price... Yes for the usual price of course, we all want to eat.}
-{1200}{}{你这个流浪汉，应该经常在荒地里陷入险境。愿药理学对你有所帮助！只有今天-两个价格。。。是的，通常的价格当然，我们都想吃。}
+{1200}{}{你这个流浪汉，应该经常在荒地里陷入险境。愿药理学对你有所帮助！只有今天-两个价格...是的，通常的价格当然，我们都想吃。}
 #{1209}{}{I came to tell you that you are justified and can sleep peacefully. The police won't come to you again.}
 {1209}{}{我来告诉你，你是有道理的，可以安睡。警察不会再来找你了。}
 #{1210}{}{Thank you. We already had one cop coming here. You saved us from exile. You are a good person. Just like us. Nobody here will ever forget this.}

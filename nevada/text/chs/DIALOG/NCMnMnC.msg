@@ -9,7 +9,7 @@
 #{112}{}{Shut it, hag! I don't give a shit about your problems.}
 {112}{}{闭嘴，女巫！我才不管你的问题呢。}
 #{113}{}{Oh... Sorry! I thought you were from the casino. Those bouncers have such cold hearts that they aren't afraid of putting some force on someone like me!}
-{113}{}{哦。。。对不起的！我以为你是赌场的。那些保镖的心很冷，他们不怕给我这样的人施加压力！}
+{113}{}{哦...对不起的！我以为你是赌场的。那些保镖的心很冷，他们不怕给我这样的人施加压力！}
 #{114}{}{The bouncers? What's going on?}
 {114}{}{保镖？发生什么事？}
 #{115}{}{What happened?}
@@ -17,9 +17,9 @@
 #{116}{}{I'm not interested. I think I'll go now.}
 {116}{}{我不感兴趣。我想我现在要走了。}
 #{117}{}{You... I thought it was the bouncers again.}
-{117}{}{你。。。我还以为又是保镖呢。}
+{117}{}{你...我还以为又是保镖呢。}
 #{118}{}{I'm so glad to see a friendly face...}
-{118}{}{我很高兴看到一张友好的脸。。。}
+{118}{}{我很高兴看到一张友好的脸...}
 #{119}{}{Misfortune struck me. My husband passed away, and then it turned out he had debts to the casino. Now I'll either be evicted or sold into slavery.}
 {119}{}{不幸降临在我身上。我丈夫去世了，后来发现他欠赌场的债。现在我要么被驱逐要么被卖为奴隶。}
 #{120}{}{Sorry, but who are you?}
@@ -51,7 +51,7 @@
 #{133}{}{I have a thousand left to pay. Even if I didn't need to pay rent, it would take a few weeks to earn that much. And with the way things are going, I doubt I'll have that long.}
 {133}{}{我还有一千英镑要付。即使我不需要付房租，也需要几个星期才能挣到那么多钱。就目前的情况来看，我怀疑我能坚持那么久。}
 #{134}{}{While I'm here, Mr. Wright won't let anything happen to me. I'm one of his most reliable tenants. But I doubt this will be able to go on any longer. He won't go against the casinos just for my rent. He'll just evict me and give this room to somebody else. And as soon as that happens... I'm easy prey for the bouncers. I think they'll sell me into slavery.}
-{134}{}{我在这儿的时候，莱特先生不会让我出事的。我是他最可靠的房客之一。但我怀疑这种情况还能继续下去。他不会为了我的房租就去赌场。他会把我赶出去，把这个房间给别人。一旦发生这种情况。。。我很容易成为保镖的猎物。我想他们会把我卖了当奴隶。}
+{134}{}{我在这儿的时候，莱特先生不会让我出事的。我是他最可靠的房客之一。但我怀疑这种情况还能继续下去。他不会为了我的房租就去赌场。他会把我赶出去，把这个房间给别人。一旦发生这种情况...我很容易成为保镖的猎物。我想他们会把我卖了当奴隶。}
 #{135}{}{You want to help? That's wonderful! But I have nothing to repay you with.}
 {135}{}{你想帮忙吗？太棒了！但我没有什么可以报答你的。}
 #{136}{}{Single time payouts aren't the best prospect in Reno. I hope my help will be a long-term investment.}
@@ -79,13 +79,13 @@
 #{155}{}{Speaking of, your husband was quite a good player. How did someone like him lose that much money?}
 {155}{}{说起来，你丈夫是个很好的球员。像他这样的人怎么会损失这么多钱？}
 #{156}{}{I can tell you, can't I? Those cunning bastards at the casino cheat with weighted dice. The house always wins, right? He knew, but continued testing his luck. He thought he could beat their system and get lucky... [she sighs] He didn't.}
-{156}{}{我可以告诉你，不是吗？赌场里那些狡猾的混蛋用重骰子作弊。房子总是赢的，对吧？他知道，但继续考验他的运气。他认为他可以打败他们的系统，得到幸运。。。他没有。}
+{156}{}{我可以告诉你，不是吗？赌场里那些狡猾的混蛋用重骰子作弊。房子总是赢的，对吧？他知道，但继续考验他的运气。他认为他可以打败他们的系统，得到幸运...他没有。}
 #{157}{}{Yeah, the gambling is like that. Well, see you, Mrs. Clover.}
 {157}{}{是啊，赌博就是这样。再见，克洛弗太太。}
 #{160}{}{I'm looking for workers from Uranium City. Do you know anything about that?}
 {160}{}{我在找铀城的工人。你知道吗？}
 #{161}{}{Yes, of course. Talk like that spreads quickly around here. Carl is a neighbour of mine. Michael got tossed out into the streets by Wright's men and Joseph was sold into slavery. Seeing a man of such high status suddenly reduced to nothing... It was terrifying.}
-{161}{}{是的，当然。这样的话在这里很快就传开了。卡尔是我的邻居。迈克尔被赖特的人扔到街上，约瑟夫被卖为奴隶。看到一个地位这么高的人突然化为乌有。。。太可怕了。}
+{161}{}{是的，当然。这样的话在这里很快就传开了。卡尔是我的邻居。迈克尔被赖特的人扔到街上，约瑟夫被卖为奴隶。看到一个地位这么高的人突然化为乌有...太可怕了。}
 #{162}{}{Did you hear anything about Ted Bundy?}
 {162}{}{你听说泰德·邦迪的事了吗？}
 #{163}{}{No. Who is he? If he lived here before I moved in, my neighbours might know. They were here for much longer than me.}

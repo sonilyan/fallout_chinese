@@ -7,7 +7,7 @@
 #{110}{}{Buddy, I'm glad to see you! How is it going?}
 {110}{}{伙计，很高兴见到你！过得如何？}
 #{111}{}{Things are moving... Well, I think so. And how are you? Did you come back to normal after the Wind of War?}
-{111}{}{一切都在改变。。。嗯，我想是的。你好吗？战风过后你恢复正常了吗？}
+{111}{}{一切都在改变...嗯，我想是的。你好吗？战风过后你恢复正常了吗？}
 #{112}{}{[Waves his hand] Everything is fine! I won't set a foot in the Wind ever again. I will go with the caravans plying between Salt Lake and Vegas, as for the Wind - I won't make a single step in its direction! By the way, want to nibble a bit? [holds out a handful of little nuts]}
 {112}{}{[挥挥手]一切都很好！我再也不会踏入风口浪尖了。我会和穿梭在盐湖城和维加斯之间的商队一起去，至于风，我不会朝着它的方向走一步！顺便问一下，想咬一口吗？[伸出一把小坚果]}
 #{113}{}{What is this?}
@@ -53,17 +53,17 @@
 #{133}{}{Tell me, bitch! Tell me or I'll *force* you!}
 {133}{}{告诉我，婊子！告诉我，否则我就逼你！}
 #{134}{}{Friend, I'm interfering not just for the sake of it. It's not just about me, you see... Nothing personal.}
-{134}{}{朋友，我干涉不仅仅是为了它。不仅仅是我，你看。。。没什么私事。}
+{134}{}{朋友，我干涉不仅仅是为了它。不仅仅是我，你看...没什么私事。}
 #{135}{}{You won't tell? Okay, then I'll have to leave.}
 {135}{}{你不说？好吧，那我得走了。}
 #{136}{}{Don't get mad, chill! I... Okay. I will tell you, since you need it so much. But keep in mind, if anything happens, I'm not to blame!}
-{136}{}{别生气，冷静！一、 。。。可以。我会告诉你的，因为你太需要它了。但请记住，如果发生什么事，我不该受责备！}
+{136}{}{别生气，冷静！一、 ...可以。我会告诉你的，因为你太需要它了。但请记住，如果发生什么事，我不该受责备！}
 #{137}{}{You'll tell me in *any* case! Understand!?}
 {137}{}{不管怎样，你都要告诉我！明白吗！？}
 #{138}{}{You should have started from this! Tell me.}
 {138}{}{你应该从这个开始！告诉我。}
 #{139}{}{Ahem... [lowers his voice] We call it the "Black Caravan". It is a few lads, they don't contact with the outsiders. They stay in the backyard behind this building, push off their stuff to someone, quietly, in silence, and then as quietly go away at night. We're doing our best to avoid them, you never know what might happen...}
-{139}{}{啊哼。。。我们称之为“黑商队”。是几个小伙子，他们不和外人接触。他们呆在这幢楼后面的后院里，把东西推给别人，静静地，静静地，然后在晚上悄悄地离开。我们正在尽力避免他们，你永远不知道会发生什么。。。}
+{139}{}{啊哼...我们称之为“黑商队”。是几个小伙子，他们不和外人接触。他们呆在这幢楼后面的后院里，把东西推给别人，静静地，静静地，然后在晚上悄悄地离开。我们正在尽力避免他们，你永远不知道会发生什么...}
 #{140}{}{So, they may be nearby? Got it.}
 {140}{}{那么，他们可能就在附近？知道了。}
 #{141}{}{Yeah, and yet again - I didn't tell you this. Okay?}

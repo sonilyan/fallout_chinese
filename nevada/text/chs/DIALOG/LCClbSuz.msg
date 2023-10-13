@@ -35,7 +35,7 @@
 #{117}{}{Iguana? Maybe you'd like a roasted dick on a silver platter?}
 {117}{}{鬣蜥？也许你想在银盘上烤鸡巴？}
 #{118}{}{What is it, you ask? It's a pie... With meat.}
-{118}{}{你问这是什么？是个馅饼。。。有肉的。}
+{118}{}{你问这是什么？是个馅饼...有肉的。}
 #{119}{}{Who do we have here so hungry?}
 {119}{}{我们这里有谁这么饿？}
 #{120}{}{You're hungry aren't you! Well? Well??}
@@ -49,7 +49,7 @@
 #{124}{}{If you break something, I will be pissed.}
 {124}{}{如果你弄坏了什么东西，我会生气的。}
 #{125}{}{Sure, mommy will clean after everybody...}
-{125}{}{当然，妈妈会在每个人之后打扫的。。。}
+{125}{}{当然，妈妈会在每个人之后打扫的...}
 #{126}{}{::grumbles::}
 {126}{}{●抱怨：}
 #{127}{}{Here, chug.}
@@ -83,13 +83,13 @@
 #{161}{}{[Smiles all over her face and waves her hand] Oh! Come on! Worse things have happened here! You won't believe what the old woman have seen in her life! Do not worry! Everything's good!}
 {161}{}{[满脸笑容挥手]哦！加油！更糟糕的事情发生在这里！你不会相信那个老妇人一生中所看到的一切！别担心！一切都很好！}
 #{162}{}{Phew, relieved from the heart...}
-{162}{}{呸，从心里解脱了。。。}
+{162}{}{呸，从心里解脱了...}
 #{163}{}{Oh, you pathetic idiot! [almost crying, threatens with her fists] If I was younger, I would have shown you! Hey, boys, throw him out!}
 {163}{}{哦，你这个可怜的白痴！[几乎哭了，用拳头威胁]如果我年轻，我会给你看的！嘿，孩子们，把他扔出去！}
 #{164}{}{Oh, you hag!!!}
 {164}{}{哦，你这个巫婆！！！}
 #{200}{}{The place is closed, don't you see? We have... A tragedy here.}
-{200}{}{这地方关门了，你没看见吗？我们有。。。这是个悲剧。}
+{200}{}{这地方关门了，你没看见吗？我们有...这是个悲剧。}
 #{1156}{}{[Makes amazed face] You've got some nerve, don't you! So, an old woman is trying hard here, wipes up after all of you, and he is still unhappy! Where did you come from, fancy-pants? Surely, from Vegas, right? You came here to eat - so eat! I'm not your mother to groom you. What's your order?}
 {1156}{}{你真有胆量，不是吗！所以，一个老太婆在这里拼命，把你们都擦干净了，他还是不开心！你从哪里来的，漂亮的裤子？当然，从维加斯来的，对吧？你是来吃东西的-那就吃吧！我不是你的母亲来培养你的。你点什么菜？}
 #{1158}{}{I'm sorry I got rude. I won't do this again. Sorry.}

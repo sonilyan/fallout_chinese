@@ -5,7 +5,7 @@
 #{102}{}{You see a large, very muscular man.}
 {102}{}{你看到一个身材高大，肌肉发达的男人。}
 #{110}{}{[He raises one eyebrow] You ever held a golf ball, boy? With one hit, you can take a 90-pound midget's head clean off from 300 yards...}
-{110}{}{你拿过高尔夫球吗？只要一拳，你就能把一个90磅重的侏儒的头从300码外干掉。。。}
+{110}{}{你拿过高尔夫球吗？只要一拳，你就能把一个90磅重的侏儒的头从300码外干掉...}
 #{111}{}{Er, why would I want to do that?}
 {111}{}{呃，我为什么要这么做？}
 #{112}{}{That sounds like quite a sight. Maybe I'll try it on you.}
@@ -15,13 +15,13 @@
 #{114}{}{Well, that conversation didn't last long.}
 {114}{}{嗯，那次谈话没持续多久。}
 #{115}{}{You should mind your own business... [signs] Fine. I was banned for chem use. "Unfair advantage", the boss said. He'd never have known if I wasn't caught with that fucknut dealer. They chased him out of town, too.}
-{115}{}{你应该管好自己的事。。。[手势]好的。我被禁止使用化学药品。”“不公平的优势”，老板说。如果我没有被那个该死的毒贩抓住，他永远不会知道。他们也把他赶出了镇子。}
+{115}{}{你应该管好自己的事...[手势]好的。我被禁止使用化学药品。”“不公平的优势”，老板说。如果我没有被那个该死的毒贩抓住，他永远不会知道。他们也把他赶出了镇子。}
 #{116}{}{[He throws back his head and laughs] Finally, someone with a sense of humor in this shithole! Name's Mike. I was one of the best fighters in Reno 'til they kicked me out. Now I'm stuck in this graveyard. Fuck, there's no way to get the blood pumping out here, except hunting.}
 {116}{}{[他低下头笑]最后，一个在这鬼地方有幽默感的人！我叫迈克。我是雷诺最好的拳手之一，直到他们把我踢出去。现在我被困在这个墓地里。妈的，除了打猎，这里没有办法让血流出来。}
 #{117}{}{I can spar with you, if that's what you want.}
 {117}{}{如果你想的话，我可以跟你打。}
 #{118}{}{You know, I don't like fighting... I don't think we have much to talk about. I'd better go.}
-{118}{}{你知道，我不喜欢打架。。。我想我们没什么好谈的。我最好走了。}
+{118}{}{你知道，我不喜欢打架...我想我们没什么好谈的。我最好走了。}
 #{119}{}{[Looks you up and down appraisingly] I don't think so, shrimpy. Let me drink in peace.}
 {119}{}{[上下打量你]我不这么认为，小虾。让我安静地喝。}
 #{120}{}{Relax, I only want to know what you're doing here.}
@@ -29,7 +29,7 @@
 #{121}{}{Fine. I was just leaving, anyway.}
 {121}{}{好的。反正我正要离开。}
 #{122}{}{What am I doing here? I'm *trying* to get wasted... The name's Mike, by the way. Ever heard of me? I was one of the best fighters in Reno 'til they kicked me out. Now I'm dying of boredom up here. Fuck, there's no way to get the blood pumping out here, except hunting.}
-{122}{}{我在这里干什么？我试着去浪费时间。。。顺便说一下，我叫迈克。听说过我吗？我是雷诺最好的拳手之一，直到他们把我踢出去。现在我在这无聊死了。妈的，除了打猎，这里没有办法让血流出来。}
+{122}{}{我在这里干什么？我试着去浪费时间...顺便说一下，我叫迈克。听说过我吗？我是雷诺最好的拳手之一，直到他们把我踢出去。现在我在这无聊死了。妈的，除了打猎，这里没有办法让血流出来。}
 #{123}{}{Hell yeah! I'm going to love breaking your face!}
 {123}{}{见鬼，耶！我会喜欢打破你的脸！}
 #{124}{}{That's all you think about, isn't it?}
@@ -46,7 +46,7 @@
 {129}{}{你为什么这么急着打别人的脸？}
 #{130}{}{What do you think of my chances?}
 {130}{}{你觉得我的机会怎么样？}
-#{131}{}{Enough talk, let�s do this!}
+#{131}{}{Enough talk, let??s do this!}
 {131}{}{说够了，我们来吧！}
 #{132}{}{I need some time to prepare.}
 {132}{}{我需要一些时间来准备。}
@@ -65,15 +65,15 @@
 #{139}{}{No hard feelings, small fry!}
 {139}{}{别难过，小家伙！}
 #{140}{}{[Shields his face] Enough! Enough! You win! Here's a hundred bucks, take it. Damn! I need a drink or three...}
-{140}{}{够了！够了！你赢了！这是一百块，拿去吧。该死！我需要喝一两杯。。。}
+{140}{}{够了！够了！你赢了！这是一百块，拿去吧。该死！我需要喝一两杯...}
 #{141}{}{If only more people would pay me to beat them up. See you, Mike.}
 {141}{}{要是有更多的人付钱让我揍他们就好了。再见，迈克。}
 #{142}{}{Ha! You know, there's easier ways to commit suicide! Alright, enough of this, I'm going to the bar. Maybe if you ask lightly, someone will help you look for your teeth.}
 {142}{}{哈！你知道，自杀有更简单的方法！好了，够了，我要去酒吧了。如果你轻轻地问，也许会有人帮你找牙。}
 #{143}{}{This is a cruel game, Mike...}
-{143}{}{这是个残酷的游戏，迈克。。。}
+{143}{}{这是个残酷的游戏，迈克...}
 #{144}{}{If you were that good, they wouldn't have kicked you out. Unless... You did something you shouldn't have.}
-{144}{}{如果你那么好，他们就不会把你赶出去了。除非。。。你做了不该做的事。}
+{144}{}{如果你那么好，他们就不会把你赶出去了。除非...你做了不该做的事。}
 #{145}{}{Shit, you're a bit too clever. I was kicked out for chem use. "Unfair advantage", the boss said. He'd never have known if I wasn't caught with that fucknut dealer. They chased him out of town, too.}
 {145}{}{妈的，你太聪明了。我被赶出去用化学药品。”“不公平的优势”，老板说。如果我没有被那个该死的毒贩抓住，他永远不会知道。他们也把他赶出了镇子。}
 #{146}{}{Let's fight! That's what you want, right?}
@@ -96,10 +96,10 @@
 {157}{}{回头见。}
 #{158}{}{More questions? I'm not hanging around here for conversation, you know.}
 {158}{}{还有问题吗？我不是在这里闲逛聊天的，你知道的。}
-#{159}{}{Don�t yell in my ear. My reflexes may get the better of me.}
+#{159}{}{Don??t yell in my ear. My reflexes may get the better of me.}
 {159}{}{别在我耳边大喊大叫。我的反应也许会好起来。}
 #{160}{}{Where do I start? The chems, the whores, or the gangsters? Look, there's a boxing outfit in New Reno. If you're good enough, you can fight to the death in the ring and make a lot of money on gambles. I used to do it, but I got banned... Whatever, it's a long story.}
-{160}{}{我从哪里开始？化学品，妓女，还是黑帮？看，在新雷诺有一套拳击装备。如果你足够优秀，你可以在拳击场上战斗至死，在赌博中赚很多钱。我以前是这么做的，但是我被禁止了。。。不管怎样，说来话长。}
+{160}{}{我从哪里开始？化学品，妓女，还是黑帮？看，在新雷诺有一套拳击装备。如果你足够优秀，你可以在拳击场上战斗至死，在赌博中赚很多钱。我以前是这么做的，但是我被禁止了...不管怎样，说来话长。}
 #{161}{}{New Reno? Where's that?}
 {161}{}{新雷诺？在哪里？}
 #{162}{}{You've never been to Reno? Just go south on the highway. But keep your gun ready, there's a lot of bandits on the way.}
@@ -117,11 +117,11 @@
 #{168}{}{Is two hundred dollars enough?}
 {168}{}{两百美元够吗？}
 #{169}{}{You're a good guy, Mike! Let's not waste any more time...}
-{169}{}{你是个好人，迈克！我们不要再浪费时间了。。。}
+{169}{}{你是个好人，迈克！我们不要再浪费时间了...}
 #{170}{}{That'll do. Give me the money and I'll spend a couple of hours showing you the basics.}
 {170}{}{那就行了。把钱给我，我会花几个小时给你看基本的东西。}
-#{171}{}{Good. Let�s do this...}
-{171}{}{很好。让我们这样做。。。}
+#{171}{}{Good. Let??s do this...}
+{171}{}{很好。让我们这样做...}
 #{172}{}{Not today.}
 {172}{}{今天不行。}
 #{173}{}{Mike raised your unarmed skill by 3%.}
@@ -157,19 +157,19 @@
 #{194}{}{Suit yourself. Good luck finding a buyer up here.}
 {194}{}{随便你。祝你在这里找到买家。}
 #{195}{}{Hmm... That's still a lot of money. You've got a deal.}
-{195}{}{隐马尔可夫模型。。。那还是一大笔钱。你说定了。}
+{195}{}{Hmm...那还是一大笔钱。你说定了。}
 #{196}{}{Great, I've got the cash.}
 {196}{}{太好了，我有现金。}
 #{197}{}{Maybe not today.}
 {197}{}{也许今天不行。}
 #{198}{}{[He looks at the power fist morosely and takes your money] Farewell, my friend. We've been through a lot...}
-{198}{}{[他闷闷不乐地看着权力拳头，拿走了你的钱]再见，我的朋友。我们经历了很多。。。}
+{198}{}{[他闷闷不乐地看着权力拳头，拿走了你的钱]再见，我的朋友。我们经历了很多...}
 #{199}{}{Stop crying and give it me!}
 {199}{}{别哭了，给我！}
 #{200}{}{You'll feel better in the morning.}
 {200}{}{明天早上你会感觉好些的。}
 #{1110}{}{[He raises one eyebrow] You ever held a golf ball, girl? With one hit, you can take a 90-pound midget's head clean off from 300 yards...}
-{1110}{}{你拿过高尔夫球吗，姑娘？只要一拳，你就能把一个90磅重的侏儒的头从300码外干掉。。。}
+{1110}{}{你拿过高尔夫球吗，姑娘？只要一拳，你就能把一个90磅重的侏儒的头从300码外干掉...}
 #{1113}{}{[He rolls his eyes] I'm bored with you, girl. Leave.}
 {1113}{}{我受够你了，姑娘。离开。}
 #{1133}{}{Nah, this ain't like that. Back in the ring, death was just something that happened, but hereabouts I don't want to hear people saying "Oh, there's Mike, he beats people to death for talking to him."}

@@ -5,17 +5,17 @@
 #{102}{}{The spectators scatter in terror!}
 {102}{}{观众吓得四散了！}
 #{103}{}{What the hell?! Shit, better get out of here...}
-{103}{}{我勒个去？！妈的，最好离开这里。。。}
+{103}{}{我勒个去？！妈的，最好离开这里...}
 #{104}{}{The situation is safe now.}
 {104}{}{现在情况安全了。}
 #{105}{}{Don't you dare touching me!}
 {105}{}{你敢碰我！}
 #{106}{}{Ah geez... *hic* I drank too much again... Maybe I should *hic* lie down for a few minutes...}
-{106}{}{啊，天啊。。。*我又喝多了。。。也许我应该躺几分钟。。。}
+{106}{}{啊，天啊...*我又喝多了...也许我应该躺几分钟...}
 #{107}{}{Ooh... I shouldn't have had that drink... I've got to lie down.}
-{107}{}{哦。。。我不该喝那种酒。。。我得躺下了。}
+{107}{}{哦...我不该喝那种酒...我得躺下了。}
 #{108}{}{Yeah, so... Justice can prevail, and stuff.}
-{108}{}{是的，所以。。。正义可以战胜一切。}
+{108}{}{是的，所以...正义可以战胜一切。}
 #{109}{}{You got the audience member drunk.}
 {109}{}{你把听众灌醉了。}
 #{110}{}{Uh, hi.}

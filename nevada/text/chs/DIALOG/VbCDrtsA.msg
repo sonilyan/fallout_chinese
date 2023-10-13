@@ -5,7 +5,7 @@
 #{102}{}{ }
 {102}{}{ }
 #{103}{}{Long live Vault City!}
-{103}{}{金库城万岁！}
+{103}{}{避难所城万岁！}
 #{104}{}{Come on, you can do it!}
 {104}{}{加油，你能行的！}
 #{105}{}{Your throwing skill has increased by 5%.}
@@ -22,7 +22,7 @@
 {114}{}{你怎么玩这个游戏？}
 #{115}{}{It looks interesting, can I try?}
 {115}{}{看起来很有趣，我能试试吗？}
-#{116}{}{Okay, I�ll leave you to it then.}
+#{116}{}{Okay, I??ll leave you to it then.}
 {116}{}{好吧，那就交给你了。}
 #{117}{}{The target is divided into circles worth a different number of points. Each player throws five darts and adds up their score based on the circles they hit. The one with the highest score wins.}
 {117}{}{目标被分成不同点数的圆圈。每位选手投出五个飞镖，并根据他们打出的圈数计算得分。得分最高的人获胜。}
@@ -32,10 +32,10 @@
 {119}{}{我准备好开始了。}
 #{120}{}{Later then.}
 {120}{}{以后再说。}
-#{121}{}{Okay. Here's five darts. Aim and throw. Just don�t move from the set position, or you'll be disqualified!}
+#{121}{}{Okay. Here's five darts. Aim and throw. Just don??t move from the set position, or you'll be disqualified!}
 {121}{}{可以。这里有五个飞镖。瞄准并投掷。不要离开设定的位置，否则你会被取消资格的！}
 #{122}{}{Well then, let's begin...}
-{122}{}{那么，让我们开始。。。}
+{122}{}{那么，让我们开始...}
 #{123}{}{Moving from your preset position is against the rules of the game.}
 {123}{}{离开你的预设位置是违反游戏规则的。}
 #{150}{}{}
@@ -49,7 +49,7 @@
 #{154}{}{No, thanks. I'll figure it out on my own.}
 {154}{}{不用了，谢谢。我自己想办法。}
 #{155}{}{ points out of 50. That's, uh... Really bad. Maybe it's just not your day. But I can't give you any more darts.}
-{155}{}{50分。那是，呃。。。真的很糟糕。也许今天不是你的日子。但我不能再给你飞镖了。}
+{155}{}{50分。那是，呃...真的很糟糕。也许今天不是你的日子。但我不能再给你飞镖了。}
 #{156}{}{Well up yours, buddy! Who wants to throw some stupid darts at some stupid circles, anyway!}
 {156}{}{好吧，伙计！不管怎样，谁还想在愚蠢的圈子里扔些愚蠢的飞镖呢！}
 #{157}{}{Yeah, it's just not my day.}
@@ -65,9 +65,9 @@
 #{162}{}{Yes, I do. Thanks for the lesson, citizen!}
 {162}{}{是的，我知道。谢谢你的教训，市民！}
 #{163}{}{You're welcome. Long live Vault City!}
-{163}{}{不客气。金库城万岁！}
+{163}{}{不客气。避难所城万岁！}
 #{164}{}{Er... Yeah, sure.}
-{164}{}{呃。。。是的，当然。}
+{164}{}{呃...是的，当然。}
 #{173}{}{No, that's not fair. Rules are rules. You lost, deal with it.}
 {173}{}{不，那不公平。规则就是规则。你输了，处理它。}
 #{174}{}{[Exit]}

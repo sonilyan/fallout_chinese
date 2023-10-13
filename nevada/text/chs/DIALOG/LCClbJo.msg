@@ -17,7 +17,7 @@
 #{114}{}{Ow! Come on! She's a cool old lady. Everyone here is crazy about her, and you will soon love her too. Relax!}
 {114}{}{噢！加油！她是个很酷的老太太。这里的每个人都为她疯狂，你很快也会爱上她的。放松点！}
 #{115}{}{W-well, whatever...}
-{115}{}{不管怎样。。。}
+{115}{}{不管怎样...}
 #{116}{}{That's all? Buddy, you will die from hunger like this! Ha-ha-ha!}
 {116}{}{这就是全部？伙计，你会饿死的！哈哈哈！}
 #{118}{}{I'd like to complain about your waitress. She was rude to me!}
@@ -37,7 +37,7 @@
 #{125}{}{Yes, [vigorously shakes head] I understand! To hit the road again, to save the Wasteland from the dirty bastards! I'm so happy that such valiant people like yourself still visit our region occasionally.}
 {125}{}{是的，[使劲摇头]我明白！再次上路，从肮脏的混蛋手中拯救荒地！我很高兴像你这样勇敢的人仍然偶尔来我们地区。}
 #{126}{}{Sure, the world is not without good people...}
-{126}{}{当然，这个世界不是没有好人。。。}
+{126}{}{当然，这个世界不是没有好人...}
 #{127}{}{Sure. And I also would like to make you pleased. [Pulls out a pair of glasses, and a moldy bottle] You wouldn't believe how old this drink is. It's a great luck to come across something like this in the Wasteland. But lucky me, I snatched one box for a reasonable price. However, it is almost all consumed already. Here, I want to drink to your well-being.}
 {127}{}{当然。我也想让你高兴。[拿出一副玻璃杯和一个发霉的瓶子]你不会相信这饮料有多老。在荒地里遇到这样的东西真是太幸运了。但幸运的是，我以合理的价格抢了一盒。然而，它几乎已经全部被消耗掉了。在这里，我想为你的幸福干杯。}
 #{128}{}{[More]}
@@ -47,7 +47,7 @@
 #{130}{}{Oh, Joe, everything is much simpler with those Deathclaws. But I think you already know this, if you met the thing face to face. Hmm?}
 {130}{}{哦，乔，有了这些死爪，一切都简单多了。但我想你已经知道这一点了，如果你面对面的话。隐马尔可夫模型？}
 #{131}{}{Uh... Yeah! Uh... Of Course. Of course, I know all about them. [looks at the bottle]... Um, you know... Hell, I admire you so much that I will give you this whole bottle. Here you go!}
-{131}{}{休斯敦大学。。。是 啊！休斯敦大学。。。当然。当然，我对他们了如指掌。[看瓶子]。。。嗯，你知道。。。见鬼，我真佩服你，我就把这整瓶给你。干得好！}
+{131}{}{Uh...是 啊！Uh...当然。当然，我对他们了如指掌。[看瓶子]...嗯，你知道...见鬼，我真佩服你，我就把这整瓶给你。干得好！}
 #{132}{}{Wow, thanks for the rarity, Joe! I'll see you around. Bye.}
 {132}{}{哇，谢谢你的珍品，乔！回头见。再见。}
 #{140}{}{I want to ask you about the city.}
@@ -99,7 +99,7 @@
 #{163}{}{Well, you can get a kick out of vending machines or buy some grub, the Quok brothers across the street sell equipment and the technician from the Nuka-Cola factory will help you to cope with broken inventory. In the North, in front of the Sheriff's office, there is a pharmacist, however, lately there's almost nothing left to buy from him. Also, you may stay in the hotel, when the weakness is about to floor you.}
 {163}{}{好吧，你可以从自动售货机中得到乐趣，或者买一些食物，街对面的Quok兄弟卖设备，Nuka可乐厂的技术人员会帮你处理残缺的库存。在北部，在警长办公室前，有一个药剂师，然而，最近几乎没有东西可以从他那里买了。另外，你也可以住在酒店里，当你的弱点即将来临的时候。}
 #{164}{}{[He sighs, apparently, he's tired of this question] Oh, God... It's the business center. If you need some equipment or want to relax - come here. The factory of Nuka-Cola is to the East, and further in that direction is the canyon of the wastewater. To the North there is the residential area where the Sheriff's office is located. Overall, it is better not to wander around because of radiation, wild dogs, acid geckos... And many other hostile abominations.}
-{164}{}{[他叹了口气，显然，他厌倦了这个问题]哦，上帝。。。是商务中心。如果你需要一些设备或者想放松-过来。努卡可乐的工厂在东边，再往那个方向就是废水峡谷。北面是警长办公室所在的居民区。总的来说，最好不要因为辐射、野狗、酸壁虎而四处游荡。。。以及许多其他可憎的敌对行为。}
+{164}{}{[他叹了口气，显然，他厌倦了这个问题]哦，上帝...是商务中心。如果你需要一些设备或者想放松-过来。努卡可乐的工厂在东边，再往那个方向就是废水峡谷。北面是警长办公室所在的居民区。总的来说，最好不要因为辐射、野狗、酸壁虎而四处游荡...以及许多其他可憎的敌对行为。}
 #{165}{}{In recent years Salt Lake has attracted more entrepreneurs than usual. This was, you know, just the right moment to line your pockets up with cash. Those, who realized this in time, have bent the entire potential of the city to their interests. That's why the city still has what to offer to other settlements.}
 {165}{}{近年来，盐湖城吸引了比以往更多的企业家。你知道，这正是你口袋里装满现金的时候。那些及时意识到这一点的人，已经将这座城市的全部潜力转向了他们的利益。这就是为什么这座城市还可以为其他定居点提供什么。}
 #{166}{}{[Suddenly everyone around you falls silent and turns to you] What are you talking about?}
@@ -115,11 +115,11 @@
 #{171}{}{So tell me, where is the railway station with trains.}
 {171}{}{告诉我，有火车的火车站在哪里。}
 #{172}{}{[Lowers his voice, the smile slipping from his nervous face] Look, even I rarely dare to joke on this subject... Don't go there. And stop speaking about it.}
-{172}{}{[压低声音，从他紧张的脸上滑落的微笑]看，就连我也很少敢拿这个话题开玩笑。。。不要去那里。别再说了。}
+{172}{}{[压低声音，从他紧张的脸上滑落的微笑]看，就连我也很少敢拿这个话题开玩笑...不要去那里。别再说了。}
 #{173}{}{Hey! Take it easy!}
 {173}{}{嘿！别紧张！}
 #{174}{}{Looks like you asked a wrong question. Something is off here...}
-{174}{}{看来你问错问题了。这里有点不对劲。。。}
+{174}{}{看来你问错问题了。这里有点不对劲...}
 #{175}{}{Who is this guy that is hanging out by the entrance?}
 {175}{}{在入口处闲逛的那个家伙是谁？}
 #{176}{}{Incorrigible Ned? A walking bag full of guts. I wouldn't have to use a work of such a sloven, if only he didn't ask so little for his service. And I don't mind saving a few coins. Ha!}
@@ -137,7 +137,7 @@
 #{182}{}{Why failed?}
 {182}{}{为什么失败了？}
 #{183}{}{Because this muck was too hard and acidic for the stomach. The technician from the factory had been buying it to use as a cleaning agent against rust, but then he started to cook it himself when learned the recipe. Shit...}
-{183}{}{因为这些淤泥对胃来说太硬太酸了。工厂的技术员一直在买它来做除锈剂，但当他知道了配方后，就开始自己煮了。倒霉。。。}
+{183}{}{因为这些淤泥对胃来说太硬太酸了。工厂的技术员一直在买它来做除锈剂，但当他知道了配方后，就开始自己煮了。倒霉...}
 #{184}{}{Interesting. Would you share the recipe?}
 {184}{}{很有趣。你能分享一下食谱吗？}
 #{185}{}{Hey, you're that guardian angel who walks around the town and restores justice? No problem then - here's the recipe and I won't take a buck in exchange!}
@@ -167,7 +167,7 @@
 #{197}{}{Don't step on my aching corns! I'm already giving it almost for free!}
 {197}{}{别踩到我疼痛的鸡眼！我已经给它几乎免费！}
 #{198}{}{Wow, you'll really pay for it? Wonderful! So... [writes the recipe on a piece of paper] don't lose it. If you have problems accessing a kitchen, you can use a simple bonfire for it.}
-{198}{}{哇，你真的要付钱吗？精彩的！所以。。。[把食谱写在纸上]别丢了。如果你进入厨房有困难，你可以用一个简单的篝火。}
+{198}{}{哇，你真的要付钱吗？精彩的！所以...[把食谱写在纸上]别丢了。如果你进入厨房有困难，你可以用一个简单的篝火。}
 #{199}{}{All right.}
 {199}{}{好吧。}
 #{}{}{}
@@ -197,7 +197,7 @@
 #{322}{}{By the way, that beer is yours, Joe!}
 {322}{}{顺便说一下，那啤酒是你的，乔！}
 #{323}{}{Do not generalize! My brain was eaten out by my wench...}
-{323}{}{不要一概而论！我的大脑被我的丫头吃掉了。。。}
+{323}{}{不要一概而论！我的大脑被我的丫头吃掉了...}
 #{324}{}{ }
 {324}{}{ }
 #{}{}{}
@@ -255,15 +255,15 @@
 #{383}{}{You completely went off the rails, Joe!}
 {383}{}{你完全出轨了，乔！}
 #{384}{}{You, like, started this with a train...}
-{384}{}{你好像是从火车开始的。。。}
+{384}{}{你好像是从火车开始的...}
 #{385}{}{Uh...}
-{385}{}{休斯敦大学。。。}
+{385}{}{Uh...}
 #{}{}{}
 {}{}{}
 #{391}{}{Yeah. Who was also an alien, didn't die and flew home. Forget it!}
 {391}{}{是 啊。他也是外星人，没死就飞回家了。算了吧！}
 #{392}{}{Rather go get us your best beer...}
-{392}{}{不如去给我们拿最好的啤酒。。。}
+{392}{}{不如去给我们拿最好的啤酒...}
 #{393}{}{ }
 {393}{}{ }
 #{394}{}{ }
@@ -287,13 +287,13 @@
 #{412}{}{And I then will cease chasing the skirts!}
 {412}{}{然后我就不再追逐裙子了！}
 #{413}{}{You'll switch to chasing men? Or you decided to hook up with a brahmin?}
-{413}{}{你会转而追逐男人？或者你决定和一个婆罗门交往？}
+{413}{}{你会转而追逐男人？或者你决定和一个双头牛交往？}
 #{414}{}{What did you say!?}
 {414}{}{你说什么！？}
 #{}{}{}
 {}{}{}
 #{421}{}{Come on, Joe! You speak nicely! If only you could connect the words into the sentences that would make sense...}
-{421}{}{快点，乔！你说得真好！如果你能把单词连接成有意义的句子。。。}
+{421}{}{快点，乔！你说得真好！如果你能把单词连接成有意义的句子...}
 #{422}{}{ }
 {422}{}{ }
 #{423}{}{ }
@@ -307,9 +307,9 @@
 #{}{}{}
 {}{}{}
 #{451}{}{Good beer, silent Joe... Fuck, where am I?! Put me back into the "Tin angel"!}
-{451}{}{好啤酒，沉默的乔。。。妈的，我在哪？！把我放回“锡天使”里！}
+{451}{}{好啤酒，沉默的乔...妈的，我在哪？！把我放回“锡天使”里！}
 #{452}{}{If the level of brahmin piss in it is 5 percent lower than in this, it's already good...}
-{452}{}{如果婆罗门的尿量比这个低5%，那已经很好了。。。}
+{452}{}{如果双头牛的尿量比这个低5%，那已经很好了...}
 #{453}{}{What piss?! All the drinks Joe serves are made of fresh rat feces!}
 {453}{}{什么尿？！乔提供的所有饮料都是用新鲜的老鼠粪便制成的！}
 #{454}{}{Hey! Let's chip in, everybody!}
@@ -317,7 +317,7 @@
 #{}{}{}
 {}{}{}
 #{461}{}{Uh... Joe?}
-{461}{}{休斯敦大学。。。乔？}
+{461}{}{Uh...乔？}
 #{462}{}{Where's the beer?}
 {462}{}{啤酒呢？}
 #{463}{}{Raging thirst!}
@@ -327,13 +327,13 @@
 #{}{}{}
 {}{}{}
 #{471}{}{I don't understand...}
-{471}{}{我不明白。。。}
+{471}{}{我不明白...}
 #{472}{}{Joe is trying to be funny?}
 {472}{}{乔想搞笑？}
 #{473}{}{Whoa... That's what he usually does, no?}
-{473}{}{哇。。。他平时就是这么做的，不是吗？}
+{473}{}{哇...他平时就是这么做的，不是吗？}
 #{474}{}{Where is this world heading...}
-{474}{}{这个世界将走向何方。。。}
+{474}{}{这个世界将走向何方...}
 #{}{}{}
 {}{}{}
 #{481}{}{Wrote? You put an X instead of a signature!}
@@ -353,7 +353,7 @@
 #{511}{}{In the same magical land where they replaced your coconut with a pumpkin?}
 {511}{}{在同一片神奇的土地上他们用南瓜代替了你的椰子？}
 #{512}{}{Lost? Rather wiped your ass in a toilet with it...}
-{512}{}{迷路的？宁可在厕所里擦屁股。。。}
+{512}{}{迷路的？宁可在厕所里擦屁股...}
 #{513}{}{Hey, quit it! Come on, Joe! Keep it up.}
 {513}{}{嘿，别说了！快点，乔！坚持下去。}
 #{514}{}{ }
@@ -361,7 +361,7 @@
 #{}{}{}
 {}{}{}
 #{521}{}{Bag of brahmin dung?}
-{521}{}{一袋婆罗门粪？}
+{521}{}{一袋双头牛粪？}
 #{522}{}{Bunker of hookers and booze! Yes, Joe! More!!!}
 {522}{}{妓女和酒的掩体！是的，乔！更多！！！}
 #{523}{}{ }
@@ -373,9 +373,9 @@
 #{}{}{}
 {}{}{}
 #{541}{}{Yeah, who could've doubt that...}
-{541}{}{是啊，谁会怀疑。。。}
+{541}{}{是啊，谁会怀疑...}
 #{542}{}{You'd better come up with the idea of how to get some good hooch...}
-{542}{}{你最好想出一个办法，怎样才能弄到一些好东西。。。}
+{542}{}{你最好想出一个办法，怎样才能弄到一些好东西...}
 #{543}{}{ }
 {543}{}{ }
 #{544}{}{ }
@@ -387,7 +387,7 @@
 #{561}{}{Hey, exactly like my mother-in-law!}
 {561}{}{嘿，跟我婆婆一模一样！}
 #{562}{}{Oh, I wouldn't mind to be crossbred with someone...}
-{562}{}{哦，我不介意和某人杂交。。。}
+{562}{}{哦，我不介意和某人杂交...}
 #{563}{}{Shut your mouth, you horny pig! Going to do my wife again?}
 {563}{}{闭上你的嘴，你这个角质猪！要再做我妻子吗？}
 #{564}{}{ }
@@ -417,13 +417,13 @@
 #{613}{}{ }
 {613}{}{ }
 #{614}{}{Oh, I had a friend, doctor Moreau. He would have laughed hard, and then unscrewed your pumpkin for such anti-scientific crap... FAG, jeez...}
-{614}{}{哦，我有个朋友，莫罗医生。他会狠狠地笑，然后为这些反科学的废话拧开你的南瓜。。。基格，天啊。。。}
+{614}{}{哦，我有个朋友，莫罗医生。他会狠狠地笑，然后为这些反科学的废话拧开你的南瓜...基格，天啊...}
 #{}{}{}
 {}{}{}
 #{621}{}{...And was stunned by the amount of empty space.}
 {621}{}{…被空旷的空间惊呆了。}
 #{622}{}{Cut it already, Joe. Better pour me another Bloody Mary...}
-{622}{}{已经停了，乔。最好再给我倒一杯血腥玛丽。。。}
+{622}{}{已经停了，乔。最好再给我倒一杯血腥玛丽...}
 #{623}{}{ }
 {623}{}{ }
 #{624}{}{ }
@@ -447,13 +447,13 @@
 #{652}{}{Someone should get executed for this stupid joke already!}
 {652}{}{已经有人因为这个愚蠢的笑话被处死了！}
 #{653}{}{I think I've heard it somewhere...}
-{653}{}{我想我在什么地方听到过。。。}
+{653}{}{我想我在什么地方听到过...}
 #{654}{}{Better to add the "rad" prefix to your booze. One doesn't even need a flashlight after drinking your 'beer'!}
 {654}{}{最好在你的酒里加上“rad”前缀。一个人喝了你的“啤酒”后甚至不需要手电筒！}
 #{}{}{}
 {}{}{}
 #{661}{}{From Transylvania, you weirdo! Count... Uh... Glad, the Inhaler!}
-{661}{}{来自特兰西瓦尼亚，你这个怪人！计数。。。休斯敦大学。。。很高兴，吸入器！}
+{661}{}{来自特兰西瓦尼亚，你这个怪人！计数...Uh...很高兴，吸入器！}
 #{662}{}{About the vampire-from-the-bar, sucking-money-from-us.}
 {662}{}{关于酒吧里的吸血鬼，从我们这里吸钱。}
 #{663}{}{ }
@@ -485,7 +485,7 @@
 #{722}{}{You've guessed that because of what Joe said about the brain?}
 {722}{}{你猜是因为乔说的大脑？}
 #{723}{}{Uh, I have a sudden urge to go home...}
-{723}{}{呃，我突然有回家的冲动。。。}
+{723}{}{呃，我突然有回家的冲动...}
 #{724}{}{ }
 {724}{}{ }
 #{}{}{}
@@ -501,9 +501,9 @@
 #{}{}{}
 {}{}{}
 #{781}{}{So he won't find his bar? That sucks...}
-{781}{}{所以他找不到他的酒吧？太糟糕了。。。}
+{781}{}{所以他找不到他的酒吧？太糟糕了...}
 #{782}{}{Not funny and not scary. Uh... It's not going to get dark very soon, right?}
-{782}{}{不好笑也不吓人。休斯敦大学。。。天不会很快黑的，对吧？}
+{782}{}{不好笑也不吓人。Uh...天不会很快黑的，对吧？}
 #{783}{}{Guys, Pennsylvania is far away from Nevada isn't it? Is it?}
 {783}{}{伙计们，宾夕法尼亚州离内华达州很远，不是吗？它是？}
 #{784}{}{I have the slop Joe serving instead of my blood anyway. Let's have another one!}
@@ -525,7 +525,7 @@
 #{801}{}{Why are you suddenly so kind?}
 {801}{}{你为什么突然这么和蔼可亲？}
 #{802}{}{And in honor of pumpkinesses... Uh... Pumpkins, we'll have a party! With booze and hookers!}
-{802}{}{为了纪念南瓜。。。休斯敦大学。。。南瓜，我们要开派对了！有酒有妓女！}
+{802}{}{为了纪念南瓜...Uh...南瓜，我们要开派对了！有酒有妓女！}
 #{803}{}{Hey! Why are you so whooping, you sack of hormones?!}
 {803}{}{嘿！你怎么这么大喊大叫，你这一袋荷尔蒙？！}
 #{804}{}{ }
@@ -535,9 +535,9 @@
 #{811}{}{About that psychopath from Sparks, who at night of Halloween skinned and butchered four with the "Ripper", released the guts of another two, tortured three for the whole day and then buried bodies in the outskirts?}
 {811}{}{关于那个来自斯帕克斯的精神病患者，他在万圣节晚上用“开膛手”剥皮并屠杀了四个人，释放了另外两个人的内脏，折磨了三个人一整天，然后把尸体埋在郊区？}
 #{812}{}{Uh... About those three, were rumors they went missing... You're not from Sparks, right?}
-{812}{}{休斯敦大学。。。关于那三个人，有传言说他们失踪了。。。你不是斯帕克斯人，对吧？}
+{812}{}{Uh...关于那三个人，有传言说他们失踪了...你不是斯帕克斯人，对吧？}
 #{813}{}{You were also looking for batteries... Not for the "Ripper" by chance? No?}
-{813}{}{你也在找电池。。。不是偶然的“开膛手”？不？}
+{813}{}{你也在找电池...不是偶然的“开膛手”？不？}
 #{814}{}{Hey! Shut the hell up!}
 {814}{}{嘿！闭嘴！}
 #{}{}{}
@@ -593,7 +593,7 @@
 #{932}{}{Oh, come on! Enough already!}
 {932}{}{哦，来吧！够了！}
 #{933}{}{You're telling this for the hundredth time...}
-{933}{}{你已经说了一百遍了。。。}
+{933}{}{你已经说了一百遍了...}
 #{934}{}{I knew you got bald because of Cola. You need to know the limits, Joe!}
 {934}{}{我就知道你秃顶是因为可乐。你要知道极限，乔！}
 #{}{}{}

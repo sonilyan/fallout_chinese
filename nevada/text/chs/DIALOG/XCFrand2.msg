@@ -33,7 +33,7 @@
 #{119}{}{The government know everything about us!! They'll find you!}
 {119}{}{政府知道我们的一切！！他们会找到你的！}
 #{120}{}{They already did, as you can see...}
-{120}{}{他们已经做到了，正如你所看到的。。。}
+{120}{}{他们已经做到了，正如你所看到的...}
 #{121}{}{You think you're so cool?! Better die now!}
 {121}{}{你觉得你很酷？！最好现在就死！}
 #{122}{}{Hell no!}

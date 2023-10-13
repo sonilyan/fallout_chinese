@@ -7,13 +7,13 @@
 #{103}{}{Who do we have here? Oh, look, it's Mr. Nobody from yesterday!}
 {103}{}{我们这里有谁？哦，看，是昨天的无名小卒先生！}
 #{104}{}{Uh, I'll just go...}
-{104}{}{呃，我就去。。。}
+{104}{}{呃，我就去...}
 #{110}{}{Right, shut the fuck up and listen. You roughed up one of Mr. Thompson's girls. I'll listen to your excuse and then geek you like it's usually done.}
 {110}{}{好吧，他妈的闭嘴听我说。你粗暴地对待了汤普森先生的一个女儿。我会听你的借口，然后像往常一样怪胎你。}
 #{111}{}{W-what!? How was I meant to know?! They didn't tell me anything about that!}
 {111}{}{什么！？我怎么会知道？！他们什么也没告诉我！}
 #{112}{}{They? Tell me about this... Third party and I *might* let you go.}
-{112}{}{他们？告诉我这个。。。第三方和我可能会放你走。}
+{112}{}{他们？告诉我这个...第三方和我可能会放你走。}
 #{113}{}{I don't give a fuck who hired you. I'm here to deal with you.}
 {113}{}{我才不管是谁雇你的。我是来对付你的。}
 #{114}{}{I don't know who they are! They looked like they're from out of town. Walk like they got a pole shoved up their ass, talk in orders. Paid me to rough up that girl and then left. That's it, honest!}
@@ -71,7 +71,7 @@
 #{171}{}{Can't spare a few bucks? Maybe me and my boys can change your mind. Why don't you come over and we'll talk it out?}
 {171}{}{不能省点钱吗？也许我和我的孩子们可以改变你的想法。你为什么不过来我们谈谈？}
 #{172}{}{What, that's it? My boys are tougher. I'll just go and get 'em...}
-{172}{}{什么，就这样？我的孩子们更坚强。我去把他们。。。}
+{172}{}{什么，就这样？我的孩子们更坚强。我去把他们...}
 #{173}{}{Ha! I know everyone around here, you can't fool me. Come on, turn out those pockets! Quick! [he grabs your sleeve]}
 {173}{}{哈！我认识这里的每个人，你骗不了我。快点，把那些口袋翻出来！快点！[他抓住你的袖子]}
 #{174}{}{[Resist]}
@@ -99,11 +99,11 @@
 #{306}{}{Hey, tell me if you find something, kay?}
 {306}{}{嘿，告诉我你有什么发现吗，凯？}
 #{307}{}{Looking for coins in the gutters, what a life...}
-{307}{}{在排水沟里寻找硬币，多么美好的生活。。。}
+{307}{}{在排水沟里寻找硬币，多么美好的生活...}
 #{308}{}{Yeah, find some money!}
 {308}{}{是啊，找点钱！}
 #{309}{}{We need people like you... When you find something useful.}
-{309}{}{我们需要像你这样的人。。。当你发现有用的东西。}
+{309}{}{我们需要像你这样的人...当你发现有用的东西。}
 #{1103}{}{Who have we here?}
 {1103}{}{我们是谁？}
 #{1153}{}{Hey girlfriend, mind helping me out with a few bucks?}
@@ -131,7 +131,7 @@
 #{1306}{}{Hey, tell me if you find something, kay?}
 {1306}{}{嘿，告诉我你有什么发现吗，凯？}
 #{1307}{}{Looking for coins in the gutters, what a life...}
-{1307}{}{在排水沟里寻找硬币，多么美好的生活。。。}
+{1307}{}{在排水沟里寻找硬币，多么美好的生活...}
 #{1308}{}{Yeah, find some money!}
 {1308}{}{是啊，找点钱！}
 #{1309}{}{We need people like you...when you find something useful.}

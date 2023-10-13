@@ -19,7 +19,7 @@
 #{116}{}{Huh. Well, I can't help you. Bye.}
 {116}{}{呵呵。我帮不了你。再见。}
 #{117}{}{Doctor? Ha! Welcome to Reno... The only city without a real doctor, I think. Sometimes Patrick helps sick people, but he's never heard of anything like this. I'm just trying to do as much as I can for my family with the time I have left.}
-{117}{}{医生？哈！欢迎来到雷诺。。。唯一没有真正医生的城市，我想。有时帕特里克帮助病人，但他从没听说过这样的事。我只想在剩下的时间里尽我所能为我的家人做点什么。}
+{117}{}{医生？哈！欢迎来到雷诺...唯一没有真正医生的城市，我想。有时帕特里克帮助病人，但他从没听说过这样的事。我只想在剩下的时间里尽我所能为我的家人做点什么。}
 #{118}{}{I have some medical experience. Let me examine you.}
 {118}{}{我有一些医疗经验。让我给你检查一下。}
 #{119}{}{I won't waste any more of your time, then.}
@@ -31,15 +31,15 @@
 #{122}{}{[After a series of questions, you realize the patient is suffering from an incurable brain tumor] So what do you say, Doc? How much I have - a month, a year?}
 {122}{}{[在一系列问题之后，你意识到病人患有无法治愈的脑瘤]那你怎么说，医生？我有多少-一个月，一年？}
 #{123}{}{Not long. The only way to save your life is to remove parts of your brain, but you'd be left with the intelligence of a brahmin. I'm sorry.}
-{123}{}{不久。拯救你生命的唯一方法是切除你的部分大脑，但你会被留下一个婆罗门的智慧。我很抱歉。}
+{123}{}{不久。拯救你生命的唯一方法是切除你的部分大脑，但你会被留下一个双头牛的智慧。我很抱歉。}
 #{124}{}{I'll give it to you straight. You have a couple more months left before your terminal symptoms begin. Your brain will turn to slush, and you'll suffer hallucinations and loss of vision. Then comes impotence, refusal of food, and exhaustion... Leading to death.}
-{124}{}{我直接告诉你。在你的晚期症状开始之前，你还有几个月的时间。你的大脑会变成泥浆，你会产生幻觉和失去视力。然后是阳痿，拒绝进食，精疲力竭。。。导致死亡。}
+{124}{}{我直接告诉你。在你的晚期症状开始之前，你还有几个月的时间。你的大脑会变成泥浆，你会产生幻觉和失去视力。然后是阳痿，拒绝进食，精疲力竭...导致死亡。}
 #{125}{}{I see. Somehow, I knew I was close to the end. Thanks for making it clear to me, Doc.}
 {125}{}{我懂了。不知怎的，我知道我快结束了。谢谢你告诉我，医生。}
 #{126}{}{Take care.}
 {126}{}{当心。}
 #{127}{}{Oh my god! I didn't think it would be so bad! I thought I'd just go to sleep one night and not wake up... What am I going to do? Once I'm not able to walk to the toilet, I should just kill myself. Or ask someone else..}
-{127}{}{哦，我的上帝！我没想到会这么糟！我想我只会睡一晚而不醒来。。。我该怎么办？一旦我不能走路上厕所，我就应该自杀。或者问别人。。}
+{127}{}{哦，我的上帝！我没想到会这么糟！我想我只会睡一晚而不醒来...我该怎么办？一旦我不能走路上厕所，我就应该自杀。或者问别人。。}
 #{128}{}{Well, that's your decision, not mine.}
 {128}{}{好吧，那是你的决定，不是我的。}
 #{130}{}{You couldn't have lived this long without medication. Where do you get it?}
@@ -51,7 +51,7 @@
 #{133}{}{Fine.}
 {133}{}{好的。}
 #{134}{}{Heh... It's not like I think he's doing it out of the goodness of his heart. What does it matter, anyway, as long as my pain goes away? His name's Solomon. He deals out back of the El Dorado. You be careful if you're going to talk to him. He's twitchy... And dangerous.}
-{134}{}{嘿。。。我不认为他这么做是出于好心。不管怎样，只要我的痛苦消失了又有什么关系？他叫所罗门。他在埃尔多拉多的后面交易。你要跟他说话要小心。他在抽搐。。。而且很危险。}
+{134}{}{嘿...我不认为他这么做是出于好心。不管怎样，只要我的痛苦消失了又有什么关系？他叫所罗门。他在埃尔多拉多的后面交易。你要跟他说话要小心。他在抽搐...而且很危险。}
 #{135}{}{I'll be careful.}
 {135}{}{我会小心的。}
 #{136}{}{How can there be no doctor in such a big city?}

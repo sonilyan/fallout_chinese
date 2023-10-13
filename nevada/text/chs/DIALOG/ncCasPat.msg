@@ -7,7 +7,7 @@
 #{103}{}{Your diversion at the bar was successful.}
 {103}{}{你在酒吧的消遣很成功。}
 #{104}{}{Ugh... What was that??}
-{104}{}{呃。。。那是什么？？}
+{104}{}{呃...那是什么？？}
 #{150}{}{You see one of the casino patrons. He looks tired.}
 {150}{}{你看到一个赌场的顾客。他看起来很累。}
 #{151}{}{You see one of the casino patrons. He has a golden gleam in his eye.}
@@ -33,7 +33,7 @@
 #{161}{}{You see one of the casino patrons. She is trying to get the waiter's attention.}
 {161}{}{你看到一个赌场的顾客。她想引起服务员的注意。}
 #{207}{}{Just looking at him... Her... It... *whatever* it is, gives me the shivers.}
-{207}{}{只是看着他。。。她。。。它。。。*不管是什么，都让我不寒而栗。}
+{207}{}{只是看着他...她...它...*不管是什么，都让我不寒而栗。}
 #{208}{}{Think that thing's looking to cap anyone?}
 {208}{}{你觉得那玩意会给任何人戴帽子吗？}
 #{209}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
@@ -41,7 +41,7 @@
 #{210}{}{Stay outta that thing's path.}
 {210}{}{离那东西远点。}
 #{211}{}{Talk about dangerous-looking... }
-{211}{}{谈论危险的外表。。。}
+{211}{}{谈论危险的外表...}
 #{212}{}{*Gulp*}
 {212}{}{*吞咽*}
 #{213}{}{I think that Mr. Roboto dude was scanning me.}
@@ -67,7 +67,7 @@
 #{223}{}{It's hell's fury given flesh.}
 {223}{}{这是地狱之怒赋予的肉体。}
 #{224}{}{Talk about dangerous-looking... }
-{224}{}{谈论危险的外表。。。}
+{224}{}{谈论危险的外表...}
 #{225}{}{*Gulp*}
 {225}{}{*吞咽*}
 #{226}{}{La Femme Nikita, then some.}
@@ -177,13 +177,13 @@
 #{281}{}{Roll the bones.}
 {281}{}{把骨头卷起来。}
 #{282}{}{Baby needs a new pair of shoes...}
-{282}{}{宝贝需要一双新鞋。。。}
+{282}{}{宝贝需要一双新鞋...}
 #{283}{}{Damn lowrolling tourists... }
-{283}{}{该死的卑鄙的游客。。。}
+{283}{}{该死的卑鄙的游客...}
 #{284}{}{Dammit! I was up *53* chips, then... }
-{284}{}{该死！我涨了53块，然后。。。}
+{284}{}{该死！我涨了53块，然后...}
 #{285}{}{Of all the rotten luck... }
-{285}{}{在所有的霉运中。。。}
+{285}{}{在所有的霉运中...}
 #{286}{}{So close!}
 {286}{}{太近了！}
 #{287}{}{I'm making bank.}
@@ -199,15 +199,15 @@
 #{292}{}{The House ha'mercy on me.}
 {292}{}{这房子真可怜我。}
 #{293}{}{Between tips and these drunken spending sprees... }
-{293}{}{在小费和醉酒狂欢之间。。。}
+{293}{}{在小费和醉酒狂欢之间...}
 #{294}{}{Keep betting like that, and you're going to be calling Golgotha home... }
-{294}{}{继续这样下注，你会打电话给戈尔戈塔家。。。}
+{294}{}{继续这样下注，你会打电话给戈尔戈塔家...}
 #{295}{}{Waitress, another drink!}
 {295}{}{服务员，再来一杯！}
 #{296}{}{Waiter, another drink!}
 {296}{}{服务员，再来一杯！}
 #{297}{}{These drinks taste... Odd.}
-{297}{}{这些饮料味道。。。奇怪。}
+{297}{}{这些饮料味道...奇怪。}
 #{298}{}{I got the fever!}
 {298}{}{我发烧了！}
 #{299}{}{Are all my chips gone already?}
@@ -215,13 +215,13 @@
 #{300}{}{Luck's a fickle bitch, and so is my mother-in-law.}
 {300}{}{幸运是个善变的婊子，我岳母也是。}
 #{301}{}{Well well...}
-{301}{}{好吧，好吧。。。}
+{301}{}{好吧，好吧...}
 #{302}{}{Ehh, don't fail me!}
 {302}{}{别让我失望！}
 #{303}{}{Come on, sweetheart!}
 {303}{}{来吧，甜心！}
 #{304}{}{Damned crossroaders all over the place...}
-{304}{}{到处都是该死的过路人。。。}
+{304}{}{到处都是该死的过路人...}
 #{305}{}{Great, another low roller.}
 {305}{}{太好了，又一个低辊。}
 #{306}{}{I am SO money.}
@@ -241,19 +241,19 @@
 #{313}{}{Who's the big winner tonight? Mikey!}
 {313}{}{今晚谁是大赢家？麦克！}
 #{314}{}{Don't crap out... C'mon... }
-{314}{}{别胡扯了。。。拜托。。。}
+{314}{}{别胡扯了...拜托...}
 #{315}{}{I've gotta 'jet'... If you know what I mean.}
-{315}{}{我要去“喷气机”。。。如果你明白我的意思。}
+{315}{}{我要去“喷气机”...如果你明白我的意思。}
 #{316}{}{This is SUCH bullshit.}
 {316}{}{真是胡说八道。}
 #{317}{}{I lost only 60 chips. In the first five minutes, that is.}
 {317}{}{我只损失了60个筹码。在前五分钟，也就是说。}
 #{318}{}{Red 23! Red 23! C'mon... Red 23... }
-{318}{}{红色23！红色23！拜托。。。红色23。。。}
+{318}{}{红色23！红色23！拜托...红色23...}
 #{319}{}{50 chips on Black 15... }
-{319}{}{黑15上有50个筹码。。。}
+{319}{}{黑15上有50个筹码...}
 #{320}{}{Round and round it goes... Where it stops, nobody knows... }
-{320}{}{它一圈又一圈。。。它停在哪里，没人知道。。。}
+{320}{}{它一圈又一圈...它停在哪里，没人知道...}
 #{321}{}{I'm a *powerful* player!}
 {321}{}{我是一个强大的玩家！}
 #{322}{}{No shit! Where is the cashier!}
@@ -278,18 +278,18 @@
 {331}{}{他妈的走运}
 #{332}{}{I lost *again*!}
 {332}{}{我又输了！}
-#{333}{}{That�s okay, I have some change left}
+#{333}{}{That??s okay, I have some change left}
 {333}{}{没关系，我还有零钱}
 #{334}{}{Ahh shit, when this is going to end!}
 {334}{}{啊，妈的，什么时候结束！}
 #{335}{}{I'm gonna tear her to pieces now!}
 {335}{}{我要把她撕成碎片！}
 #{336}{}{Not my day... Fuck...}
-{336}{}{不是我的日子。。。性交。。。}
+{336}{}{不是我的日子...性交...}
 #{337}{}{Am I such a loser?}
 {337}{}{我真是个失败者吗？}
 #{338}{}{It's time to quit this shit...}
-{338}{}{是时候戒掉这狗屎了。。。}
+{338}{}{是时候戒掉这狗屎了...}
 #{339}{}{Fucking hell, what a bad luck.}
 {339}{}{他妈的，真倒霉。}
 #{340}{}{Soon I'll be left with nothing.}

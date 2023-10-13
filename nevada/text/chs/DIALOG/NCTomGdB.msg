@@ -17,7 +17,7 @@
 #{112}{}{[Ignore him.]}
 {112}{}{[别理他。]}
 #{113}{}{The boss takes care of us. It's great, right? But I've already told everything... Maybe the rest don't have the brains for this. I'll tell you everything.}
-{113}{}{老板照顾我们。很好，对吧？但我已经告诉你了。。。也许其他人都没有这个头脑。我会告诉你一切的。}
+{113}{}{老板照顾我们。很好，对吧？但我已经告诉你了...也许其他人都没有这个头脑。我会告诉你一切的。}
 #{114}{}{Go ahead.}
 {114}{}{前进。}
 #{115}{}{The boss ordered us to hold a demonstration near a night club to get the word out to the public. It's the busiest street in the city. Just as he ordered, we assembled a group at the crossroads. But around the time a crowd started to gather, I was hit by a bullet. The shot was silent, and I couldn't tell where it came from. The crowd fled immediately while our guys hunkered down. Strange, I know, but it's the truth. Ask people around on the street, they'll confirm it.}
@@ -63,7 +63,7 @@
 #{135}{}{What is that about?}
 {135}{}{那是怎么回事？}
 #{136}{}{Oh!.. o-oh... So nice! The pain is gone... Thanks! I had lost all hopes that someone would help. But you're better than those idiots. Now I can tell that dealer where to shove it, ha-ha!}
-{136}{}{哦！。。哦-哦。。。太好了！痛苦消失了。。。谢谢！我对有人会帮助我已经失去了所有的希望。但你比那些白痴强。现在我可以告诉那个商人往哪儿推了，哈哈！}
+{136}{}{哦！。。哦-哦...太好了！痛苦消失了...谢谢！我对有人会帮助我已经失去了所有的希望。但你比那些白痴强。现在我可以告诉那个商人往哪儿推了，哈哈！}
 #{137}{}{You're welcome. But I still want to talk to you about something else.}
 {137}{}{不客气。但我还是想和你谈谈别的事。}
 #{138}{}{Enjoy it! I've got other things to do.}

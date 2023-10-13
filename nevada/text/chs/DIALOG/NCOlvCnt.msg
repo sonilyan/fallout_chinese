@@ -49,19 +49,19 @@
 #{131}{}{Easy money! Isn't it great? You get the thrill of victory *and* you get paid for it!}
 {131}{}{轻松赚钱！是不是很棒？你得到了胜利的刺激，你得到了回报！}
 #{132}{}{That's a good approach. A gentleman should not have to borrow money for his vices, whether it is before the game or after. Good shot, by the way - I should have asked for a handicap. Do you mind if I smoke? Good... }
-{132}{}{这是个好办法。一个绅士不应该因为他的恶习而借钱，不管是在赛前还是赛后。打得好，顺便说一句-我应该要求一个障碍。你介意我抽烟吗？很好。。。}
+{132}{}{这是个好办法。一个绅士不应该因为他的恶习而借钱，不管是在赛前还是赛后。打得好，顺便说一句-我应该要求一个障碍。你介意我抽烟吗？很好...}
 #{133}{}{A decent answer. It's better to be overcautious, than the alternative. Interesting move, by the way - you've put me in a tricky position. Perhaps I should fancy a cigar, while I think about my move... }
-{133}{}{一个体面的回答。谨小慎微总比另一种好。有趣的举动，顺便说一下-你让我陷入了一个棘手的境地。也许我该抽支雪茄，我在想我的行动。。。}
+{133}{}{一个体面的回答。谨小慎微总比另一种好。有趣的举动，顺便说一下-你让我陷入了一个棘手的境地。也许我该抽支雪茄，我在想我的行动...}
 #{134}{}{Strange words. You don't strike me as someone that averse to risk. [he gives you an inscrutable look out of the corner of his eye] My turn... But first, I have to light up my cigar.}
-{134}{}{奇怪的话。我可不觉得你是个讨厌冒险的人。[他从眼角向你看了一眼]轮到我了。。。但首先，我得点燃我的雪茄。}
+{134}{}{奇怪的话。我可不觉得你是个讨厌冒险的人。[他从眼角向你看了一眼]轮到我了...但首先，我得点燃我的雪茄。}
 #{135}{}{Reno's furnaces run on the bodies of those who came seeking quick wins. The locals have learned not to deal with them, fearing they'll be drawn down... Say, that reminds me. How about a smoke?}
-{135}{}{雷诺的火炉在那些来寻求速战速决的人身上运行。当地人已经学会了不与他们打交道，担心他们会被拉下水。。。我想起来了。抽支烟怎么样？}
+{135}{}{雷诺的火炉在那些来寻求速战速决的人身上运行。当地人已经学会了不与他们打交道，担心他们会被拉下水...我想起来了。抽支烟怎么样？}
 #{136}{}{[He lights up a cigar, looking out the window at the prostitutes outside] There they are, always on duty. Well, I suppose some people are interested in that sort of game too, and there's no pleasure Reno won't turn into profit.}
 {136}{}{[他点燃一支雪茄，看着窗外的妓女]她们在那儿，一直在值班。嗯，我想有些人也对这种游戏感兴趣，雷诺不会从中获利的。}
 #{137}{}{We don't have them where I come from, but I sure wish we did!}
 {137}{}{我们在我出生的地方没有，但我真希望我们有！}
 #{138}{}{Wait... I could have sex *and* get paid for it? Why didn't anyone tell me?!}
-{138}{}{等待。。。我可以做爱然后得到报酬？为什么没人告诉我？！}
+{138}{}{等待...我可以做爱然后得到报酬？为什么没人告诉我？！}
 #{139}{}{A dangerous game. I wouldn't touch those girls even if I was wearing power armor.}
 {139}{}{危险的游戏。即使我穿着强力盔甲，我也不会碰那些女孩。}
 #{140}{}{I don't know who's more degenerate - the whores, or the people who use them.}
@@ -69,19 +69,19 @@
 #{141}{}{Some people have no other choice. But personally, I'd rather steer clear of it.}
 {141}{}{有些人别无选择。但就我个人而言，我宁愿避开它。}
 #{142}{}{[He sighs] One has to be careful with women. Barker, Dillinger... A lot of great men have been laid low by this sort of thing. [he shoots] Ha! I learned that trick shot from... Well, it doesn't matter. He's just another one of Reno's beggars now.}
-{142}{}{[他叹息]一个人必须小心对待女人。巴克，迪林杰。。。很多伟人都被这种事贬低了。[他开枪]哈！我是从……学来这个把戏的。。。好吧，没关系。他现在只是雷诺的另一个乞丐。}
+{142}{}{[他叹息]一个人必须小心对待女人。巴克，迪林杰...很多伟人都被这种事贬低了。[他开枪]哈！我是从……学来这个把戏的...好吧，没关系。他现在只是雷诺的另一个乞丐。}
 #{143}{}{[He sighs] I'm no prude, but it's unseemly to offer oneself so cheaply. [he shoots] Ha! I learned that trick shot from... Well, it doesn't matter. He's just another one of Reno's beggars now.}
-{143}{}{[他叹了口气]我并不拘谨，但如此廉价地奉献自己是不体面的。[他开枪]哈！我是从……学来这个把戏的。。。好吧，没关系。他现在只是雷诺的另一个乞丐。}
+{143}{}{[他叹了口气]我并不拘谨，但如此廉价地奉献自己是不体面的。[他开枪]哈！我是从……学来这个把戏的...好吧，没关系。他现在只是雷诺的另一个乞丐。}
 #{144}{}{Hey, slow down, would you? Just kidding, well played. A good move.}
 {144}{}{嘿，慢点，好吗？开玩笑，玩得好。一个好的举动。}
 #{145}{}{Really? Hmm. Hey, slow down, would you? Just kidding, good move. You had better options, though... Maybe you should have a drink to calm down.}
-{145}{}{真正地？嗯。嘿，慢点，好吗？开玩笑的，动作不错。不过，你有更好的选择。。。也许你应该喝一杯让自己冷静下来。}
+{145}{}{真正地？嗯。嘿，慢点，好吗？开玩笑的，动作不错。不过，你有更好的选择...也许你应该喝一杯让自己冷静下来。}
 #{146}{}{I suppose you're right. Not everyone can maintain themselves as skilled at profession as I could. Or you could. [he shoots] Bah, how did I miss?}
 {146}{}{我想你是对的。不是每个人都能像我一样保持自己的专业技能。或者你可以。[他开枪]呸，我怎么没打中？}
 #{147}{}{You should keep such thoughts to yourself. However legitimate they may be, coming from you they sound like sour grapes... Don't wag that cue, it's not a tail. Look, you fouled again.}
-{147}{}{你应该对自己保持这种想法。不管它们多么合法，从你的口中，它们听起来就像酸葡萄。。。别摇动那根线，那不是尾巴。看，你又犯规了。}
+{147}{}{你应该对自己保持这种想法。不管它们多么合法，从你的口中，它们听起来就像酸葡萄...别摇动那根线，那不是尾巴。看，你又犯规了。}
 #{148}{}{With such an attitude, you may earn more than you bargained for... Don't wag that cue, it's not a tail. Look, you fouled again.}
-{148}{}{有了这样的态度，你可能赚得比你预期的多。。。别摇动那根线，那不是尾巴。看，你又犯规了。}
+{148}{}{有了这样的态度，你可能赚得比你预期的多...别摇动那根线，那不是尾巴。看，你又犯规了。}
 #{149}{}{}
 {149}{}{}
 #{150}{}{Don't you judge me. At least I earn my money honestly.}
@@ -107,7 +107,7 @@
 #{160}{}{Hmm. Are you cold? I see you shaking. It's even affecting the game - how could you have missed that last shot?}
 {160}{}{嗯。你冷吗？我看见你在发抖。这甚至影响了比赛-你怎么会错过最后一枪？}
 #{161}{}{I do enjoy the sound of balls knocking together. Far better than the crack of gunshots, especially if the latter are meant for you. It's a shame that in Reno, quick hands are in higher demand than those who prefer... Alternative methods of solving problems.}
-{161}{}{我很喜欢球撞在一起的声音。远胜于枪声，尤其是如果后者是为你准备的。遗憾的是，在里诺，速战速决的人比那些喜欢。。。解决问题的替代方法。}
+{161}{}{我很喜欢球撞在一起的声音。远胜于枪声，尤其是如果后者是为你准备的。遗憾的是，在里诺，速战速决的人比那些喜欢...解决问题的替代方法。}
 #{162}{}{A quick wit and quick hands are more effective than a quick wit alone. Violence was the first standard of diplomacy, and often, it's the last.}
 {162}{}{机智和敏捷的手比单纯的机智更有效。暴力是外交的第一标准，而且往往是最后一个标准。}
 #{163}{}{I try not to get into fights. When I do, I try to get out of them as soon as possible.}
@@ -119,15 +119,15 @@
 #{166}{}{Yes, I think that weapon on your belt is not just for show. My money's on you, if you're up against one of the local rabble.}
 {166}{}{是的，我认为你腰带上的武器不只是为了炫耀。我的钱在你身上，如果你遇到一个当地的乌合之众。}
 #{167}{}{An expert like yourself will never be without opportunity in Reno. Certainly, you'd rank above the local cannon fodder... }
-{167}{}{像你这样的专家在雷诺永远不会没有机会。当然，你的地位比当地的炮灰还高。。。}
+{167}{}{像你这样的专家在雷诺永远不会没有机会。当然，你的地位比当地的炮灰还高...}
 #{168}{}{Hmm. You don't look like Annie Oakley to me. If you're putting on airs, I'd suggest you file the front sight off your gun, in case the locals decide to shove it where you're speaking out of. They don't care for empty boasts.}
 {168}{}{嗯。我看你不像安妮·奥克利。如果你装腔作势的话，我建议你把枪前面的瞄准具归档，以防当地人决定把它推到你说话的地方。他们不喜欢虚夸。}
 #{169}{}{You can't run from all your problems, especially in Reno. There's a bullet waiting around every corner, and I doubt you can outrun them all.}
 {169}{}{你不能逃避所有的问题，尤其是在雷诺。每个角落都有一颗子弹在等着你，我怀疑你能跑得过他们。}
 #{170}{}{[He chuckles slightly] Diplomacy... I hadn't expected to hear that from you. You don't seem the type to rely on it.}
-{170}{}{外交。。。我没想到会听到你这么说。你似乎不是那种依赖它的人。}
+{170}{}{外交...我没想到会听到你这么说。你似乎不是那种依赖它的人。}
 #{171}{}{[He grins slightly, giving you a sidelong look] Sounds serious... But believe me, I've seen my share.}
-{171}{}{[他微微一笑，斜视着你]听起来很严肃。。。但相信我，我看到了我的那份。}
+{171}{}{[他微微一笑，斜视着你]听起来很严肃...但相信我，我看到了我的那份。}
 #{172}{}{[He listens carefully, moving the cue in his hand] By the way, the local gangs seem quiet today. Many of the locals think that throwing in with either of the two bosses will keep their heads above water. Well, I suppose bodies do float, if you're sitting on enough of them.}
 {172}{}{[他仔细听着，移动手中的球杆]顺便说一句，当地的帮派今天似乎很安静。许多当地人认为，与两位老板中的任何一位交往都会使他们保持清醒。好吧，我想如果你坐的够多的话，尸体确实会漂浮。}
 #{173}{}{It's survival of the fittest. If I have to, I'll throw in with one too.}
@@ -139,13 +139,13 @@
 #{176}{}{Anyone who could conquer Reno must be someone special. That's worth following.}
 {176}{}{任何能征服雷诺的人都必须是特别的。值得关注。}
 #{177}{}{Hmm. You are determined, I'll say that. I don't approve of such methods, but I certainly respect your... Focus.}
-{177}{}{嗯。你已经下定决心了，我会这么说。我不赞成这种方法，但我当然尊重你的。。。集中。}
+{177}{}{嗯。你已经下定决心了，我会这么说。我不赞成这种方法，但我当然尊重你的...集中。}
 #{178}{}{[He chuckles] I want to see how you'd deal with this. Step aside, please... You'd have better results in this game if you used more finesse.}
-{178}{}{[他笑了]我想看看你会怎么处理。请让开。。。如果你运用更多的技巧，你在这场比赛中会有更好的结果。}
+{178}{}{[他笑了]我想看看你会怎么处理。请让开...如果你运用更多的技巧，你在这场比赛中会有更好的结果。}
 #{179}{}{You're awfully perceptive for one who's just arrived, aren't you? I'm not complaining... But I wonder how you do it.}
-{179}{}{对一个刚到的人来说，你太有洞察力了，不是吗？我不是在抱怨。。。但我想知道你是怎么做到的。}
+{179}{}{对一个刚到的人来说，你太有洞察力了，不是吗？我不是在抱怨...但我想知道你是怎么做到的。}
 #{180}{}{A very superficial assessment of the situation. That may impress the crowd, but not me... [he takes aim and deftly sinks the ball into a corner pocket] Ha! Today is my day, isn't it?}
-{180}{}{对形势的非常肤浅的评估。这可能会给观众留下深刻印象，但不是我。。。[他瞄准并巧妙地把球扔进角落的口袋]哈！今天是我的日子，不是吗？}
+{180}{}{对形势的非常肤浅的评估。这可能会给观众留下深刻印象，但不是我...[他瞄准并巧妙地把球扔进角落的口袋]哈！今天是我的日子，不是吗？}
 #{181}{}{It looks like we're approaching the endgame. Thank you for the fair play, I'm not used to it around here. In Reno, deceit and betrayal are the nature of things. Any loyalty is born of fear, and most people are waiting for their chance to flop over to someone stronger. [he sighs wistfully] But maybe my principles have become archaic in this modern world.}
 {181}{}{看来我们接近尾声了。谢谢你的公平竞争，我不习惯这里。在雷诺，欺骗和背叛是事物的本质。任何忠诚都是由恐惧产生的，大多数人都在等待机会向更强大的人屈服。[他渴望地叹息]但也许我的原则在这个现代世界已经过时了。}
 #{182}{}{The world has moved on. You should do the same, before you're left behind.}
@@ -153,7 +153,7 @@
 #{183}{}{My word is my bond. My reputation depends on my honesty.}
 {183}{}{我的承诺就是我的保证。我的名誉取决于我的诚实。}
 #{184}{}{Partnerships can be more than the sum of their parts. It's easier said than done, but if the opportunity's there... Why not?}
-{184}{}{伙伴关系可以不仅仅是其组成部分的总和。说起来容易做起来难，但如果有机会。。。为什么不呢？}
+{184}{}{伙伴关系可以不仅仅是其组成部分的总和。说起来容易做起来难，但如果有机会...为什么不呢？}
 #{185}{}{It's true, my principles have cost me. This scar is just the most obvious evidence. But I'd rather die, standing by my principles, than live without them.}
 {185}{}{是的，我的原则让我付出了代价。这个伤疤是最明显的证据。但我宁愿死，坚持我的原则，也不愿没有原则而活。}
 #{186}{}{Do you really think I'm so interested in your opinion? The weight of an individual is in their actions, not their words.}
@@ -163,17 +163,17 @@
 #{188}{}{Maybe your words are inspiring to the hopeless in the slums. But you'll find me a more demanding subject.}
 {188}{}{也许你的话激励了贫民窟里的无望者。但你会发现我的要求更高。}
 #{189}{}{[He comes around the table to shake hands with you] That was an excellent game! I may have lost, but I met one of the few worthy people in this city. It would be a pity if this were our only joint endeavor... }
-{189}{}{[他围过来和你握手]那是一场精彩的比赛！我可能输了，但我遇到了这个城市为数不多的有价值的人。如果这是我们唯一的共同努力那就太可惜了。。。}
+{189}{}{[他围过来和你握手]那是一场精彩的比赛！我可能输了，但我遇到了这个城市为数不多的有价值的人。如果这是我们唯一的共同努力那就太可惜了...}
 #{190}{}{Is that an offer?}
 {190}{}{这是报价吗？}
 #{191}{}{For now, you'll have to be happy with just the game. See you around.}
 {191}{}{现在，你必须对比赛感到满意。回头见。}
 #{192}{}{Game and match! I've still got it! ...Oh, you're still here? Thanks for the game, it was fun, but I think you've given all you have to offer. I suggest we not waste each other's time any further. Still, perhaps we'll meet again someday. People can surprise you from time to time... Anyway, good luck.}
-{192}{}{游戏和比赛！我还留着呢。。。哦，你还在这里？谢谢你的比赛，很有趣，但我认为你已经付出了你所能提供的一切。我建议我们不要再浪费彼此的时间了。不过，也许有一天我们还会再见面。人们有时会给你惊喜。。。不管怎样，祝你好运。}
+{192}{}{游戏和比赛！我还留着呢...哦，你还在这里？谢谢你的比赛，很有趣，但我认为你已经付出了你所能提供的一切。我建议我们不要再浪费彼此的时间了。不过，也许有一天我们还会再见面。人们有时会给你惊喜...不管怎样，祝你好运。}
 #{193}{}{[Leave.]}
 {193}{}{[离开]}
 #{194}{}{Indeed... But this isn't the best place to talk. Follow me to somewhere more private.}
-{194}{}{的确。。。但这不是谈话的好地方。跟我去更私密的地方。}
+{194}{}{的确...但这不是谈话的好地方。跟我去更私密的地方。}
 #{195}{}{[Follow him.]}
 {195}{}{[跟着他。]}
 #{196}{}{Thanks for the game. See you around.}
@@ -209,7 +209,7 @@
 #{214}{}{I'm not here to play games. I've been told to deal with your problem.}
 {214}{}{我不是来玩游戏的。我被告知要处理你的问题。}
 #{215}{}{Yes, I've been told of you. I trust Mr. Luciano's judgment in you, but... I should know your character. And I've found the true nature of a person reveals itself at the pool table.}
-{215}{}{是的，我听说过你。我相信卢西亚诺先生对你的判断，但是。。。我应该了解你的性格。我发现一个人的真实本性在台球桌上显露出来。}
+{215}{}{是的，我听说过你。我相信卢西亚诺先生对你的判断，但是...我应该了解你的性格。我发现一个人的真实本性在台球桌上显露出来。}
 #{216}{}{I don't have time for this. Just tell me the job.}
 {216}{}{我没时间做这个。告诉我你的工作。}
 #{217}{}{If you say so. I suppose I have time for a game.}
@@ -227,7 +227,7 @@
 #{231}{}{Yes, it's done. The bugs are planted.}
 {231}{}{是的，完成了。虫子被种下了。}
 #{232}{}{I've been thinking... You're being awfully careful about this. How much is my silence worth to you?}
-{232}{}{我一直在想。。。你太小心了。我的沉默对你来说值多少钱？}
+{232}{}{我一直在想...你太小心了。我的沉默对你来说值多少钱？}
 #{233}{}{No, I'm just checking in to make sure you're okay.}
 {233}{}{不，我只是想确认你没事。}
 #{234}{}{[For some time, he tinkers with a radio receiver, listening to a pair of headphones. Finally he looks at you and nods.] My friend, I'm glad I was not wrong about you. And now, you'll be glad as well. [he slowly counts out your money] If you're interested in more work for the right man, seek out Oliver Luciano. He has an impressive ranch on the edge of town. Tell them Johnny Chase sent you.}
@@ -235,7 +235,7 @@
 #{235}{}{It's been a pleasure working with you, Mr. Chase.}
 {235}{}{很高兴和你一起工作，蔡斯先生。}
 #{236}{}{I thought you were an honest businessman, not some... Extorter! But I suppose this is my own fault, for not discussing the price beforehand.}
-{236}{}{我以为你是个诚实的商人，不是。。。勒索者！但我想这是我自己的错，没有事先讨论价格。}
+{236}{}{我以为你是个诚实的商人，不是...勒索者！但我想这是我自己的错，没有事先讨论价格。}
 #{237}{}{Thank you, Mr. Chase. I'll consider it.}
 {237}{}{谢谢你，蔡斯先生。我会考虑的。}
 #{238}{}{I agree. A small misunderstanding, but easy to fix. And don't forget to visit Mr. Luciano.}
@@ -271,13 +271,13 @@
 #{1130}{}{I don't have anything against gambling, but I'd rather stay out of it.}
 {1130}{}{我不反对赌博，但我宁愿置身事外。}
 #{1132}{}{That's a good approach. A lady should not have to borrow money for her vices, whether it is before the game or after. Good shot, by the way - I should have asked for a handicap. Do you mind if I smoke? Good... }
-{1132}{}{这是个好办法。一个女人不应该因为她的恶习而借钱，不管是在赛前还是赛后。打得好，顺便说一句-我应该要求一个障碍。你介意我抽烟吗？很好。。。}
+{1132}{}{这是个好办法。一个女人不应该因为她的恶习而借钱，不管是在赛前还是赛后。打得好，顺便说一句-我应该要求一个障碍。你介意我抽烟吗？很好...}
 #{1141}{}{Some people have no other choice. But personally, I'd rather steer clear of it.}
 {1141}{}{有些人别无选择。但就我个人而言，我宁愿避开它。}
 #{1144}{}{Hey, slow down, would you? Just kidding, well played. A good move.}
 {1144}{}{嘿，慢点，好吗？开玩笑，玩得好。一个好的举动。}
 #{1145}{}{Really? Hmm. Hey, slow down, would you? Just kidding, good move. You had better options, though... Maybe you should have a drink to calm down.}
-{1145}{}{真正地？嗯。嘿，慢点，好吗？开玩笑的，动作不错。不过，你有更好的选择。。。也许你应该喝一杯让自己冷静下来。}
+{1145}{}{真正地？嗯。嘿，慢点，好吗？开玩笑的，动作不错。不过，你有更好的选择...也许你应该喝一杯让自己冷静下来。}
 #{1154}{}{Do I look like a junkie to you? Hmm, maybe. Well, you still shouldn't make assumptions.}
 {1154}{}{你觉得我像瘾君子吗？嗯，也许吧。好吧，你还是不应该做假设。}
 #{1157}{}{[He nods in understanding] Well said. In this time and place, minds like ours are hard to find.}
@@ -287,22 +287,22 @@
 #{1168}{}{Hmm. You don't look like Annie Oakley to me. If you're putting on airs, I'd suggest you file the front sight off your gun, in case the locals decide to shove it where you're speaking out of. They don't care for empty boasts.}
 {1168}{}{嗯。我看你不像安妮·奥克利。如果你装腔作势的话，我建议你把枪前面的瞄准具归档，以防当地人决定把它推到你说话的地方。他们不喜欢虚夸。}
 #{1177}{}{Hmm. You are determined, I'll say that. I don't approve of such methods, but I certainly respect your... Focus.}
-{1177}{}{嗯。你已经下定决心了，我会这么说。我不赞成这种方法，但我当然尊重你的。。。集中。}
+{1177}{}{嗯。你已经下定决心了，我会这么说。我不赞成这种方法，但我当然尊重你的...集中。}
 #{1179}{}{You're awfully perceptive for one who's just arrived, aren't you? I'm not complaining... But I wonder how you do it.}
-{1179}{}{对一个刚到的人来说，你太有洞察力了，不是吗？我不是在抱怨。。。但我想知道你是怎么做到的。}
+{1179}{}{对一个刚到的人来说，你太有洞察力了，不是吗？我不是在抱怨...但我想知道你是怎么做到的。}
 #{1189}{}{[He comes around the table to shake hands with you] That was an excellent game! I may have lost, but I met one of the few worthy people in this city. It would be a pity if this were our only joint endeavor... }
-{1189}{}{[他围过来和你握手]那是一场精彩的比赛！我可能输了，但我遇到了这个城市为数不多的有价值的人。如果这是我们唯一的共同努力那就太可惜了。。。}
+{1189}{}{[他围过来和你握手]那是一场精彩的比赛！我可能输了，但我遇到了这个城市为数不多的有价值的人。如果这是我们唯一的共同努力那就太可惜了...}
 #{1190}{}{Is that an offer?}
 {1190}{}{这是报价吗？}
 #{1192}{}{Game and match! I've still got it! ...Oh, you're still here? Thanks for the game, it was fun, but I think you've given all you have to offer. I suggest we not waste each other's time any further. Still, perhaps we'll meet again someday. People can surprise you from time to time... Anyway, good luck.}
-{1192}{}{游戏和比赛！我还留着呢。。。哦，你还在这里？谢谢你的比赛，很有趣，但我认为你已经付出了你所能提供的一切。我建议我们不要再浪费彼此的时间了。不过，也许有一天我们还会再见面。人们有时会给你惊喜。。。不管怎样，祝你好运。}
+{1192}{}{游戏和比赛！我还留着呢...哦，你还在这里？谢谢你的比赛，很有趣，但我认为你已经付出了你所能提供的一切。我建议我们不要再浪费彼此的时间了。不过，也许有一天我们还会再见面。人们有时会给你惊喜...不管怎样，祝你好运。}
 #{1220}{}{Interesting that fate continues to bring us together. This is what I wanted to talk to you about last time. I hope this time you'll be more accommodating.}
 {1220}{}{有趣的是命运继续把我们带到一起。这就是我上次想跟你说的。我希望这次你能更通融些。}
 #{1232}{}{I've been thinking... You're being awfully careful about this. How much is my silence worth to you?}
-{1232}{}{我一直在想。。。你太小心了。我的沉默对你来说值多少钱？}
+{1232}{}{我一直在想...你太小心了。我的沉默对你来说值多少钱？}
 #{1233}{}{No, I'm just checking in to make sure you're okay.}
 {1233}{}{不，我只是想确认你没事。}
 #{1234}{}{[For some time, he tinkers with a radio receiver, listening to a pair of headphones. Finally he looks at you and nods.] My friend, I'm glad I was not wrong about you. And now, you'll be glad as well. [he slowly counts out your money] If you're interested in more work for the right man, seek out Oliver Luciano. He has an impressive ranch on the edge of town. Tell them Johnny Chase sent you.}
 {1234}{}{[有一段时间，他摆弄着无线电接收器，听着耳机。最后他看着你，点了点头。“我的朋友，我很高兴我没有看错你。现在，你也会很高兴的。[他慢慢地数出你的钱]如果你对合适的人有兴趣做更多的工作，那就去找奥利弗·卢西亚诺。他在城镇边缘有一个令人印象深刻的牧场。告诉他们是约翰尼·蔡斯派你来的。}
 #{1236}{}{I thought you were an honest businesswoman, not some... Extorter! But I suppose this is my own fault, for not discussing the price beforehand.}
-{1236}{}{我以为你是个诚实的商人，不是那种。。。勒索者！但我想这是我自己的错，没有事先讨论价格。}
+{1236}{}{我以为你是个诚实的商人，不是那种...勒索者！但我想这是我自己的错，没有事先讨论价格。}

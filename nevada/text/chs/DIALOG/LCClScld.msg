@@ -11,17 +11,17 @@
 #{113}{}{Calm down, I'm here for the batch of product.}
 {113}{}{冷静点，我是来拿这批货的。}
 #{114}{}{It's not a store... Wait, so that's what it is. Well, sorry. But I haven't see you before. Show me your license, some like to impersonate as couriers...}
-{114}{}{这不是商店。。。等等，就是这样。嗯，对不起。但我以前没见过你。给我看看你的执照，有些人喜欢冒充快递员。。。}
+{114}{}{这不是商店...等等，就是这样。嗯，对不起。但我以前没见过你。给我看看你的执照，有些人喜欢冒充快递员...}
 #{115}{}{Here, look.}
 {115}{}{来，看。}
 #{116}{}{Eh, I don't have it with me right now.}
 {116}{}{呃，我现在没带。}
 #{117}{}{So free my ears from your drivel! Bring license or get out! Here you do not shop! Bloody beggars, I'm so sick of...}
-{117}{}{把我的耳朵从你的胡说八道中解放出来！带上执照或者出去！在这里你不购物！该死的乞丐，我受够了。。。}
+{117}{}{把我的耳朵从你的胡说八道中解放出来！带上执照或者出去！在这里你不购物！该死的乞丐，我受够了...}
 #{118}{}{(Leave)}
 {118}{}{（离开）}
 #{119}{}{That's better! Sorry for being rude, there are lots of beggar recently appeared. I've been telling these fools for a long time - just make the accounting system. But they are all busy... So, how many bottles do you need for today?}
-{119}{}{这样更好！对不起，太粗鲁了，最近出现了很多乞丐。我已经告诉这些蠢货很久了-只要把会计系统弄好就行了。但是他们都很忙。。。那么，你今天需要几瓶？}
+{119}{}{这样更好！对不起，太粗鲁了，最近出现了很多乞丐。我已经告诉这些蠢货很久了-只要把会计系统弄好就行了。但是他们都很忙...那么，你今天需要几瓶？}
 #{120}{}{How much I can order?}
 {120}{}{我能订多少？}
 #{121}{}{Ah yes, you're new here. Listen to me, I'll explain once. Now, I roll these boxes to the entrance and put a lock, so in the future we hadn't see each other and hear each other. Then everything goes according to the standard application, we don't even have to contact. You pay at a wholesale price - I am replenishing stocks. It's up to you how and where to utilize them. Everything's clear?}
@@ -29,7 +29,7 @@
 #{122}{}{Perfectly clear.}
 {122}{}{非常清楚。}
 #{123}{}{Yes, and as for your question... We can produce nothing more than }
-{123}{}{是的，至于你的问题。。。我们只能生产}
+{123}{}{是的，至于你的问题...我们只能生产}
 #{124}{}{ product units per month specifically for your needs. Factory can't do more so far.}
 {124}{}{产品单位每月专门为您的需要。到目前为止，工厂做不到更多。}
 #{125}{}{Good. No questions left.}
@@ -39,6 +39,6 @@
 #{127}{}{(Leave)}
 {127}{}{（离开）}
 #{130}{}{A-ah, isn't it our courier... How sweet. But I'm busy, don't interrupt me.}
-{130}{}{啊，是不是我们的信使。。。多甜蜜啊。但是我很忙，不要打断我。}
+{130}{}{啊，是不是我们的信使...多甜蜜啊。但是我很忙，不要打断我。}
 #{131}{}{Okay.}
 {131}{}{可以。}

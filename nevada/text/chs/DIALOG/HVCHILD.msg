@@ -16,42 +16,42 @@
 {114}{}{我们不要浪费时间。切中要害。你为什么要这么做？}
 #{115}{}{[You wake up in a bright, enclosed room. You see a biker watching you through thick glass.]}
 {115}{}{[你在一个明亮封闭的房间里醒来。你看到一个骑摩托车的人透过厚玻璃看着你}
-#{116}{}{It�s you...}
-{116}{}{是你。。。}
-#{120}{}{Making threats won�t help you. You can't get out of here until *I* allow you to. So sit tight and don�t make any sudden moves.}
+#{116}{}{It??s you...}
+{116}{}{是你...}
+#{120}{}{Making threats won??t help you. You can't get out of here until *I* allow you to. So sit tight and don??t make any sudden moves.}
 {120}{}{制造威胁对你没有帮助。在我允许之前你不能离开这里。所以坐好，不要突然行动。}
 #{121}{}{Or what, you'll knock me out again? Just you wait, when I get to you, I will make you feel the pain you cannot even imagine!}
 {121}{}{不然，你又要把我打晕了？你等着，等我到了你身边，我会让你感受到你无法想象的痛苦！}
 #{122}{}{Okay, I'm not going to resist for now. Let's talk.}
 {122}{}{好吧，我现在不反抗。我们谈谈。}
 #{123}{}{Well, you're pretty smart for a biker. To lure me into a trap and spring it in a not so obvious place... Are you afraid of someone?}
-{123}{}{好吧，作为一个摩托车手，你很聪明。把我引诱到一个陷阱里然后把它扔到一个不那么明显的地方。。。你害怕别人吗？}
+{123}{}{好吧，作为一个摩托车手，你很聪明。把我引诱到一个陷阱里然后把它扔到一个不那么明显的地方...你害怕别人吗？}
 #{124}{}{Maybe you'll get such chance. But now you're here, trapped. I brought you here to ensure our conversation.}
 {124}{}{也许你会有这样的机会。但现在你在这里，被困住了。我带你来是为了确保我们的谈话。}
 #{125}{}{Ensure?! You're just a pussy! Hiding behind glass because you're afraid of me.}
 {125}{}{确保？！你只是个娘娘腔！躲在玻璃后面因为你怕我。}
 #{126}{}{I'm not going to argue with that. Let's get down to business.}
 {126}{}{我不想就此争辩。我们开始谈正事吧。}
-#{127}{}{This is reasonable. At least we won�t shoot each other this way.}
+#{127}{}{This is reasonable. At least we won??t shoot each other this way.}
 {127}{}{这是合理的。至少我们不会这样互相射击。}
 #{128}{}{Your attempt to piss me off is funny and pathetic. The kind of the reaction I expected from the residents of the vault. You're like children suffering from teenage problems and delusions far beyond your age. I'll wait until you calm down. In the end, nothing prevents me from walking away. Unlike you.}
-{128}{}{你想惹我生气真是可笑又可悲。我所期待的金库居民的反应。你就像一个遭受青少年问题和错觉折磨的孩子，远远超出了你的年龄。我等你冷静下来再说。最后，没有什么能阻止我离开。不像你。}
+{128}{}{你想惹我生气真是可笑又可悲。我所期待的避难所居民的反应。你就像一个遭受青少年问题和错觉折磨的孩子，远远超出了你的年龄。我等你冷静下来再说。最后，没有什么能阻止我离开。不像你。}
 #{129}{}{You're not leaving until you spit out the truth! Tell me, bitch, tell me everything you know!}
 {129}{}{在你说出真相之前你是不会离开的！告诉我，婊子，告诉我你知道的一切！}
 #{130}{}{Well, I'll try to calm down. While you tell me how you managed to track me down.}
 {130}{}{好吧，我试着冷静下来。告诉我你是怎么找到我的。}
-#{131}{}{That�s more like it.}
+#{131}{}{That??s more like it.}
 {131}{}{更像是这样。}
 #{132}{}{Tell me how you managed to track me down.}
 {132}{}{告诉我你是怎么找到我的。}
-#{133}{}{Don�t even think about it. I won�t give you the satisfaction.}
+#{133}{}{Don??t even think about it. I won??t give you the satisfaction.}
 {133}{}{想都别想。我不会让你满意的。}
 #{134}{}{Will see about that!}
 {134}{}{我会看看的！}
 #{135}{}{Okay. But now tell me how you managed to track me down.}
 {135}{}{可以。但现在告诉我你是怎么找到我的。}
 #{136}{}{[Sneers] How cute. Did you picked this up in the Wasteland? I see it shook you up pretty good during your travels... But let's not waste time on useless chatter. You can't get out of here until *I* allow you to.}
-{136}{}{多可爱啊。你是在荒地捡到这个的吗？我看在你旅行的过程中，它让你很震惊。。。但我们不要把时间浪费在无用的闲聊上。在我允许之前你不能离开这里。}
+{136}{}{多可爱啊。你是在荒地捡到这个的吗？我看在你旅行的过程中，它让你很震惊...但我们不要把时间浪费在无用的闲聊上。在我允许之前你不能离开这里。}
 #{137}{}{Oh, really? And if I try, you will knock me out, you pathetic coward? Wait until I get to you, and you'll see what I do!}
 {137}{}{哦，真的吗？如果我尝试，你会把我打倒，你这个可悲的懦夫？等我找到你，你就知道我在干什么了！}
 #{138}{}{Exactly. You can't get out of here until *I* allow you to. So, do not waste time on empty chat.}
@@ -62,8 +62,8 @@
 {140}{}{最后，我在你孩子气的谈话中听到了理性的声音。注意我还没有威胁你。催眠陷阱是在你打开信号干扰机后设置的，我带你来是为了确保我们的谈话。}
 #{141}{}{[Grimly nods] Nobody can be trusted in this world. Want to talk to me - will have to stick to my rules. Note that I'm not threatening you. Hypnotrance trap was set after you turned the signal jammer, I brought you here to ensure our conversation.}
 {141}{}{在这个世界上没有人可以信任。想和我说话-就得遵守我的规矩。注意我没有威胁你。催眠陷阱是在你打开信号干扰机后设置的，我带你来是为了确保我们的谈话。}
-#{142}{}{There was a bug planted in your Pip-Boy. Most likely it�s in all portable Pip-Boy devices, which were given to the inhabitants of the Vault 8. With its help, I tracked you, but so could someone else. Signal jammer allowed this problem to be temporarily resolved. Don't worry, I already dismantled the bug, just in case.}
-{142}{}{你的皮普小子身上有只虫子。最有可能是在所有便携式皮普男孩设备，这是给8号金库的居民。在它的帮助下，我跟踪了你，但其他人也可以。信号干扰器使这个问题得以暂时解决。别担心，我已经拆除了窃听器，以防万一。}
+#{142}{}{There was a bug planted in your Pip-Boy. Most likely it??s in all portable Pip-Boy devices, which were given to the inhabitants of the Vault 8. With its help, I tracked you, but so could someone else. Signal jammer allowed this problem to be temporarily resolved. Don't worry, I already dismantled the bug, just in case.}
+{142}{}{你的皮普小子身上有只虫子。最有可能是在所有便携式皮普男孩设备，这是给8号避难所的居民。在它的帮助下，我跟踪了你，但其他人也可以。信号干扰器使这个问题得以暂时解决。别担心，我已经拆除了窃听器，以防万一。}
 #{143}{}{Who else knew about this? Your friends, the bikers from Bridgeport?}
 {143}{}{还有谁知道这件事？你的朋友，布里奇波特的车手？}
 #{144}{}{Lies! You just warned these bikers from Bridgeport, right?}
@@ -77,13 +77,13 @@
 #{148}{}{You're hiding on this base without a reason! Protection, monitors, traps - all necessary arsenal for a true coward.}
 {148}{}{你无缘无故地躲在这个基地！保护，监视，陷阱-所有必要的武器为一个真正的懦夫。}
 #{149}{}{Hawthorne was a military base before the great War. Military itself mothballed it and left, and the small local population gradually died out. Many prospectors tried to reach the resources of this base... But it would be better for them to stay away. Anyway, I'm here for another reason. The whole story with the Vault 8 is clearly associated with the military and the government. I came here in search of information.}
-{149}{}{霍桑在大战前是一个军事基地。军方自己将其封存并离开，当地少数人口逐渐消失。许多探矿者试图找到这个基地的资源。。。但他们最好离我远点。不管怎样，我来这里还有另外一个原因。8号金库的整个故事显然与军方和政府有关。我来这里是为了寻找信息。}
+{149}{}{霍桑在大战前是一个军事基地。军方自己将其封存并离开，当地少数人口逐渐消失。许多探矿者试图找到这个基地的资源...但他们最好离我远点。不管怎样，我来这里还有另外一个原因。8号避难所的整个故事显然与军方和政府有关。我来这里是为了寻找信息。}
 #{150}{}{Okay, stop. So you yourself know nothing? Why then did you steal the device from the vault?}
 {150}{}{好了，停下来。你自己什么都不知道？那你为什么要从保险库偷这个设备？}
 #{151}{}{I don't understand. You will have to start from the beginning of all these events.}
 {151}{}{我不明白。你必须从所有这些事件的开始说起。}
 #{152}{}{Oh yeah... You don't remember, right? The employer warned me...}
-{152}{}{哦，是的。。。你不记得了，对吧？老板警告我。。。}
+{152}{}{哦，是的...你不记得了，对吧？老板警告我...}
 #{153}{}{Dr. Willmouth works wonders! He restored my memory, and can save from radiation. Yes, he is a wizard. And he has an Autodoc.}
 {153}{}{威尔茅斯博士创造了奇迹！他恢复了我的记忆，并且可以避免辐射。是的，他是个巫师。他有一个汽车医生。}
 #{154}{}{Doctor at the vault gave me the memory with the help of the Autodoc. And when I get out of here, you'll be sorry that he did it.}
@@ -91,17 +91,17 @@
 #{155}{}{You seem to be properly briefed, but did not consider the possibility of memory recovery with the help of the Autodoc in the vault.}
 {155}{}{您似乎得到了适当的简要介绍，但没有考虑借助保险库中的Autodoc恢复内存的可能性。}
 #{156}{}{And you believe that? Autodoc can't conduct such a serious operation. I've seen more sophisticated devices, but even they were not able to change the consciousness of the patient. And to erase the memory... [suddenly grins] to erase it, Autodoc is not an option. Most likely, there's something else going on in your vault, that you don't know about and what fell out of your consciousness, while Doc did his "experiments" on you.}
-{156}{}{你相信吗？Autodoc不能进行如此严重的操作。我见过更先进的设备，但即使是它们也不能改变病人的意识。为了抹去记忆。。。[突然露齿而笑]要删除它，Autodoc不是一个选项。最有可能的是，你的金库里还发生了一些你不知道的事情，什么东西从你的意识中消失了，而博士在你身上做了他的“实验”。}
+{156}{}{你相信吗？Autodoc不能进行如此严重的操作。我见过更先进的设备，但即使是它们也不能改变病人的意识。为了抹去记忆...[突然露齿而笑]要删除它，Autodoc不是一个选项。最有可能的是，你的避难所里还发生了一些你不知道的事情，什么东西从你的意识中消失了，而博士在你身上做了他的“实验”。}
 #{157}{}{I suppose... Wait a minute! Hypnotrance trap, Autodocs, memory... You son of a bitch, it's because of you I lost my memory!}
-{157}{}{我想。。。等一下！催眠陷阱，自动文档，记忆。。。你个狗娘养的，就是因为你我才失去了记忆！}
-#{158}{}{I believe in the honesty of doctor Willmouth! And your stupid grin only shows that you are disingenuous and hide something. Weren�t it you the one that erased my memory?}
+{157}{}{我想...等一下！催眠陷阱，自动文档，记忆...你个狗娘养的，就是因为你我才失去了记忆！}
+#{158}{}{I believe in the honesty of doctor Willmouth! And your stupid grin only shows that you are disingenuous and hide something. Weren??t it you the one that erased my memory?}
 {158}{}{我相信威尔茅斯医生的诚实！你傻傻的咧嘴一笑只能说明你不真诚，隐瞒了什么。是你抹去了我的记忆吗？}
 #{159}{}{It doesn't matter. What happened, has happened. Now I'm interested more in what you did with the stolen device.}
 {159}{}{没关系。发生了什么，已经发生了。现在我更感兴趣的是你对被盗设备做了什么。}
 #{160}{}{The employer himself has deprived you of memory. I only used your body as an excuse to enter the vault.}
 {160}{}{雇主自己剥夺了你的记忆。我只是用你的身体作为进入保险库的借口。}
 #{161}{}{So, what happened in the vault?}
-{161}{}{那么，金库里发生了什么？}
+{161}{}{那么，避难所里发生了什么？}
 #{162}{}{Should have known you're just a pathetic mercenary. And what was your job?}
 {162}{}{应该知道你只是个可怜的雇佣军。你的工作是什么？}
 #{163}{}{My goal was to get into the vault, using your body as a bait, to cut down the guards with hypnotrance and steal the device. You know it without me telling you.}
@@ -115,7 +115,7 @@
 #{167}{}{Okay, this part of the story is clear now.}
 {167}{}{好了，这部分内容现在已经清楚了。}
 #{168}{}{It was a long conversation. Basically the old man was interested in my life outside of the city, and I - in vaults and its technologies. I won't retell it all.}
-{168}{}{这是一次很长的谈话。基本上，这位老人对我在城外的生活很感兴趣，而我对金库及其技术也很感兴趣。我不会全部复述的。}
+{168}{}{这是一次很长的谈话。基本上，这位老人对我在城外的生活很感兴趣，而我对避难所及其技术也很感兴趣。我不会全部复述的。}
 #{169}{}{At first, I could not understand myself. I got it only in Area 51. There was the most advanced technology I never seen anywhere else.}
 {169}{}{一开始，我无法理解自己。我只在51区买的。这是我在其他地方从未见过的最先进的技术。}
 #{170}{}{I would like to know about it too. Who is he, where did he get your body, why would he need a device from the vault - I don't know that. But my interests were different.}
@@ -133,7 +133,7 @@
 #{176}{}{If you know all this, then why the hell do you want to spend so much effort to find me?}
 {176}{}{如果你知道这一切，那你他妈的为什么要花这么多力气来找我？}
 #{177}{}{Sorry, but without the device the vault will fall to the threats of the Wasteland. I can't let that happen.}
-{177}{}{抱歉，如果没有这个装置，金库就会落入荒地的威胁之中。我不能让这种事发生。}
+{177}{}{抱歉，如果没有这个装置，避难所就会落入荒地的威胁之中。我不能让这种事发生。}
 #{178}{}{Because of your technological ambitions, they kicked me out of the vault and forced me to return the device.}
 {178}{}{因为你的技术野心，他们把我踢出了保险库，强迫我归还设备。}
 #{179}{}{I don't care about the vault and the device. I want to take revenge on those who started all this. And you're one of them.}
@@ -141,7 +141,7 @@
 #{180}{}{I was just given this assignment. The rest is not my business.}
 {180}{}{我刚接到这个任务。剩下的不关我的事。}
 #{181}{}{Okay. It doesn't matter what's gonna happen, you can have it. I'll leave it here. I have a goal more important than your pathetic vault. Although, if you want to know more about such tech, I suggest you to visit Area 51 - a lot of beautiful things there, even better than you have already seen. [Looks at monitors next to him] Oh, and one more thing...}
-{181}{}{可以。不管会发生什么，你都可以拥有它。我把它留在这里。我有一个比你可怜的跳马更重要的目标。不过，如果你想更多地了解这类技术，我建议你去51号地区——那里有很多美丽的东西，甚至比你已经看到的还要好。[看着他旁边的监视器]哦，还有一件事。。。}
+{181}{}{可以。不管会发生什么，你都可以拥有它。我把它留在这里。我有一个比你可怜的跳马更重要的目标。不过，如果你想更多地了解这类技术，我建议你去51号地区——那里有很多美丽的东西，甚至比你已经看到的还要好。[看着他旁边的监视器]哦，还有一件事...}
 #{182}{}{What?}
 {182}{}{什么？}
 #{183}{}{We have company. And they will have to be dealt with.}
@@ -155,7 +155,7 @@
 #{187}{}{If you have at least some brain, you'll find a way out. Farewell.}
 {187}{}{如果你至少有点头脑，你会找到出路的。再会。}
 #{188}{}{So, you are already familiar with the vault and its inhabitants. And how do you like my home?}
-{188}{}{所以，你已经对金库和它的居民很熟悉了。你觉得我家怎么样？}
+{188}{}{所以，你已经对避难所和它的居民很熟悉了。你觉得我家怎么样？}
 #{189}{}{You are all like children. It's funny to explain to people like you that Santa Claus does not exist.}
 {189}{}{你们都像孩子一样。向你这样的人解释圣诞老人不存在是很有趣的。}
 #{190}{}{[End dialogue]}
@@ -177,4 +177,4 @@
 #{198}{}{All right!}
 {198}{}{好吧！}
 #{1157}{}{I suppose... Wait a minute! Hypnotrance trap, autodocs, memory... You son of a bitch, it's because of you I lost my memory!}
-{1157}{}{我想。。。等一下！催眠陷阱，自动文档，记忆。。。你个狗娘养的，就是因为你我才失去了记忆！}
+{1157}{}{我想...等一下！催眠陷阱，自动文档，记忆...你个狗娘养的，就是因为你我才失去了记忆！}

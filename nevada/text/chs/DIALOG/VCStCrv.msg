@@ -10,7 +10,7 @@
 {104}{}{抓住你了，婊子！！}
 #{105}{}{Alarm! Outsider!}
 {105}{}{警报！局外人！}
-#{106}{}{I didn�t invite you here!}
+#{106}{}{I didn??t invite you here!}
 {106}{}{我没有邀请你来这里！}
 #{107}{}{Diversion!?}
 {107}{}{转移注意力！？}

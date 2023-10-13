@@ -7,13 +7,13 @@
 #{110}{}{Hello, wanderer! The Quok brothers always have a lot of useful stuff for the road. Choose, you won't regret it!}
 {110}{}{你好，流浪者！库克兄弟总是有很多有用的东西。选择，你不会后悔的！}
 #{111}{}{Oh! Good choice! Though, I'm sorry, I had to raise prices, because some kind of scoundrel robbed us...}
-{111}{}{哦！不错的选择！尽管如此，我很抱歉，我不得不提高价格，因为一些无赖抢劫了我们。。。}
+{111}{}{哦！不错的选择！尽管如此，我很抱歉，我不得不提高价格，因为一些无赖抢劫了我们...}
 #{112}{}{[Trade]}
 {112}{}{[贸易]}
 #{113}{}{Hey! I just saw someone jumping to our yard! I think it was a thief!}
 {113}{}{嘿！我刚看见有人跳到我们的院子里！我想是小偷！}
 #{114}{}{There is one poor guy that can't find a job. Maybe you could put him somewhere in the back room? He does not need much...}
-{114}{}{有一个可怜的家伙找不到工作。也许你可以把他放在后面房间的某个地方？他不需要太多。。。}
+{114}{}{有一个可怜的家伙找不到工作。也许你可以把他放在后面房间的某个地方？他不需要太多...}
 #{115}{}{Thanks, but no.}
 {115}{}{谢谢，不过不用了。}
 #{116}{}{Work, you say? Well, if you think about it, there is something. Not for the soft handed. You tell him, to come to us, we'll talk.}
@@ -23,7 +23,7 @@
 #{118}{}{Are you sure you don't need anything?}
 {118}{}{你确定你什么都不需要吗？}
 #{119}{}{Let's see what you have one more time...}
-{119}{}{让我们再看看你还有什么。。。}
+{119}{}{让我们再看看你还有什么...}
 #{120}{}{No, bye.}
 {120}{}{不，再见。}
 #{129}{}{Shit! I'll show him!!..}
@@ -53,9 +53,9 @@
 #{141}{}{Hmm, I know of one place where you can make good money. But I'm not sure about you - you may run to competitors!}
 {141}{}{嗯，我知道有一个地方你可以赚很多钱。但我不确定你-你可能会跑到竞争对手那里！}
 #{142}{}{Not sure? Hey, I'm not a trader! I see - you won't change your mind...}
-{142}{}{不确定？嘿，我不是商人！我明白了-你不会改变主意的。。。}
+{142}{}{不确定？嘿，我不是商人！我明白了-你不会改变主意的...}
 #{143}{}{I see you're really a person of action... I'll give you the coordinates of that place. Get inside, take everything that you see, and bring it to me. Then we will trade.}
-{143}{}{我看你真的是一个行动的人。。。我给你那个地方的坐标。进去，把你看到的东西都拿给我。那我们就交易。}
+{143}{}{我看你真的是一个行动的人...我给你那个地方的坐标。进去，把你看到的东西都拿给我。那我们就交易。}
 #{144}{}{Great. What is the place?}
 {144}{}{伟大的。什么地方？}
 #{145}{}{It's in the mountains, on the other side of the salt valley. Some unusual person lives there since the Great War. It is said that it is an eerie sight to see, and that bullets don't hurt him. And his name is Harrelson. But most importantly - he supposedly has untold riches, which he collected after the War. Many went hunting after him, but few returned. His den is about here. [Shows on the map]}
@@ -73,15 +73,15 @@
 #{151}{}{Really?! In any case, it's not my problem - I got these things in an honest fair way. Therefore, if you want something - buy it.}
 {151}{}{真正地？！无论如何，这不是我的问题-我是以诚实公正的方式得到这些东西的。因此，如果你想要什么-买它。}
 #{152}{}{Grm...}
-{152}{}{Grm。。。}
+{152}{}{Grm...}
 #{161}{}{Yes I do need something, but you don't have it. Actually, you don't have a lot of things.}
 {161}{}{是的，我确实需要一些东西，但你没有。事实上，你没有很多东西。}
 #{162}{}{Be thankful that we have what we have. It's not the times to ask for a lot.}
 {162}{}{感谢我们拥有我们所拥有的。现在不是要求太多的时候。}
 #{163}{}{Yeah... But it seemed to me that in such a large city the assortment should be many times more diverse, than in the settlements. There is something you're not telling me.}
-{163}{}{是 啊。。。但在我看来，在这样一个大城市里，各种各样的东西应该比在定居点里多样化许多倍。有件事你没告诉我。}
+{163}{}{是 啊...但在我看来，在这样一个大城市里，各种各样的东西应该比在定居点里多样化许多倍。有件事你没告诉我。}
 #{164}{}{Well, it's not that it's a secret. It's just... Usually, no one understands where the goods come from and how hard it is to get it. Why do you care?}
-{164}{}{嗯，这不是秘密。只是。。。通常，没人知道货物从哪里来，要拿到有多难。你为什么在乎？}
+{164}{}{嗯，这不是秘密。只是...通常，没人知道货物从哪里来，要拿到有多难。你为什么在乎？}
 #{165}{}{You see, I also do business from time to time, trading in different cities. So I'm interested in the local market.}
 {165}{}{你看，我也经常做生意，在不同的城市交易。所以我对本地市场感兴趣。}
 #{166}{}{Just curious. Don't mind me.}
@@ -91,7 +91,7 @@
 #{168}{}{[Next]}
 {168}{}{[下一步]}
 #{169}{}{Things are worn out, factories are destroyed, medicines are all used up... But on the other hand, we have a lot of equipment left from the old city. Unlike Vegas or Reno. They have other crafts there, and we have ours. Caravans bring machinery for repair or purchase some parts, and in exchange they trade medicines and other important things.}
-{169}{}{东西破旧了，工厂被毁了，药品都用光了。。。但另一方面，我们还有很多老城区遗留下来的设备。不像维加斯和雷诺。他们还有别的手艺，我们也有。商队带着机器来修理或购买一些零件，作为交换，他们买卖药品和其他重要物品。}
+{169}{}{东西破旧了，工厂被毁了，药品都用光了...但另一方面，我们还有很多老城区遗留下来的设备。不像维加斯和雷诺。他们还有别的手艺，我们也有。商队带着机器来修理或购买一些零件，作为交换，他们买卖药品和其他重要物品。}
 #{170}{}{And what about marauders? Don't they try to loot the northern ruins?}
 {170}{}{那劫掠者呢？他们不想洗劫北方的废墟吗？}
 #{171}{}{Marauders? Perhaps you are talking about prospectors? We usually call them that. But the sheriff does not like them. He strictly forbids anyone to go to the northern part of the city. And those who dare are punished rather harshly, including pillars of shame, fines and even short-term hard labor. True, this is not the only prospectors problem, more often you have to deal with people from Denver.}

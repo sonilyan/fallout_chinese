@@ -23,13 +23,13 @@
 #{126}{}{Actually, I'm hungry as hell.}
 {126}{}{事实上，我饿得要命。}
 #{127}{}{I'd eat a full roasted gecko... Or a half of it, at least.}
-{127}{}{我会吃一只烤好的壁虎。。。至少是一半。}
+{127}{}{我会吃一只烤好的壁虎...至少是一半。}
 #{128}{}{I should start running in the morning. Running away from stray dogs or something.}
 {128}{}{我应该早上开始跑步。逃离流浪狗什么的。}
 #{129}{}{Don't wanna sleep at all.}
 {129}{}{根本不想睡觉。}
 #{130}{}{Somebody vomited in front of the house again...}
-{130}{}{又有人在房前呕吐。。。}
+{130}{}{又有人在房前呕吐...}
 #{131}{}{I'd better start stocking up vocas till the next growing season.}
 {131}{}{我最好在下一个生长季节开始储备歌喉。}
 #{132}{}{The drug store is empty.}
@@ -39,9 +39,9 @@
 #{134}{}{A whole evening of shitting bricks awaits me.}
 {134}{}{一整晚的屎砖在等着我。}
 #{135}{}{I need to find a restroom... Oh, shit... Not anymore...}
-{135}{}{我要找个洗手间。。。哦，该死。。。不再是了。。。}
+{135}{}{我要找个洗手间...哦，该死...不再是了...}
 #{136}{}{I don't feel so good... I need... Some rest...}
-{136}{}{我感觉不太好。。。我需要。。。休息一下。。。}
+{136}{}{我感觉不太好...我需要...休息一下...}
 #{137}{}{They say drinking beer helps with diarrhea.}
 {137}{}{他们说喝啤酒有助于腹泻。}
 #{138}{}{Such a big turd came out of me yesterday! You won't believe it!}
@@ -55,7 +55,7 @@
 #{142}{}{Damn. If the factory shuts down, it won't be good for anyone.}
 {142}{}{该死。如果工厂倒闭，对任何人都没有好处。}
 #{143}{}{I hope the factory holds out...}
-{143}{}{我希望工厂能坚持下去。。。}
+{143}{}{我希望工厂能坚持下去...}
 #{144}{}{Be strong, Salt Lake, the factory will soon become history.}
 {144}{}{坚强起来，盐湖城的工厂很快就会成为历史。}
 #{145}{}{There's some real crap going on at the factory, man.}
@@ -85,9 +85,9 @@
 #{157}{}{The factory is back on its feet all of a sudden.}
 {157}{}{这家工厂突然恢复了生产。}
 #{158}{}{What? Another Nuka-Cola caravan? How many can there be...}
-{158}{}{什么？又一辆努卡可乐商队？能有多少。。。}
+{158}{}{什么？又一辆努卡可乐商队？能有多少...}
 #{159}{}{They only go to Salt Lake for Nuka-Cola...}
-{159}{}{他们只去盐湖城买努卡可乐。。。}
+{159}{}{他们只去盐湖城买努卡可乐...}
 #{160}{}{In my opinion, those rednecks from Provo deserved it.}
 {160}{}{在我看来，那些来自普罗沃的乡巴佬活该。}
 #{161}{}{It wasn't easy, I reckon - Gilmore was one hell of a moosey.}
@@ -155,7 +155,7 @@
 #{213}{}{I would never have thought that Salt Lake would become like this.}
 {213}{}{我从没想过盐湖城会变成这样。}
 #{214}{}{Remember how we started? Those bad times are in the past now...}
-{214}{}{还记得我们是怎么开始的吗？那些糟糕的时光已经过去了。。。}
+{214}{}{还记得我们是怎么开始的吗？那些糟糕的时光已经过去了...}
 #{215}{}{Is this Salt Lake? It's like only yesterday it was a completely different place.}
 {215}{}{这是盐湖吗？就好像昨天，那是一个完全不同的地方。}
 #{216}{}{The city is growing, that's a fact.}
@@ -175,9 +175,9 @@
 #{223}{}{It seems there are fewer and fewer caravans these days.}
 {223}{}{现在看来商队越来越少了。}
 #{224}{}{Remember how we started? And now it all has come to this...}
-{224}{}{还记得我们是怎么开始的吗？现在一切都变成这样了。。。}
+{224}{}{还记得我们是怎么开始的吗？现在一切都变成这样了...}
 #{225}{}{Is this Salt Lake? It's like only yesterday it was blossoming...}
-{225}{}{这是盐湖吗？就好像昨天才开花。。。}
+{225}{}{这是盐湖吗？就好像昨天才开花...}
 #{226}{}{The city is in a decline, even more so than before.}
 {226}{}{这座城市正在衰退，甚至比以前更为严重。}
 #{227}{}{Damn it all to hell!}

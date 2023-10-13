@@ -17,7 +17,7 @@
 #{113}{}{What if I would help you? Maybe I'd make a great negotiator, myself.}
 {113}{}{如果我能帮你怎么办？也许我自己会成为一个很好的谈判者。}
 #{114}{}{Hmm. [she raises one eyebrow] Maybe you could... You understand there's more to the market than just supply and demand, right?}
-{114}{}{嗯[她扬起眉毛]也许你可以。。。你知道市场不仅仅是供求关系，对吧？}
+{114}{}{嗯[她扬起眉毛]也许你可以...你知道市场不仅仅是供求关系，对吧？}
 #{115}{}{Yes, and right now, the Reno market is in a bad state.}
 {115}{}{是的，现在雷诺的市场状况很糟糕。}
 #{116}{}{Reno was a great place to do business, once. But then the businesses went to war, followed by the criminals. What we have today doesn't even compare to the old times.}
@@ -25,7 +25,7 @@
 #{117}{}{Before the bombs, you mean?}
 {117}{}{你是说在炸弹之前？}
 #{118}{}{No, no. [she waves her hand] I'm talking about the "Golden Age" of Reno. It wasn't so long ago... But that's not the point. I need information. Are you interested?}
-{118}{}{不，不[她挥挥手]我说的是雷诺的“黄金时代”。不久前。。。但这不是重点。我需要信息。你有兴趣吗？}
+{118}{}{不，不[她挥挥手]我说的是雷诺的“黄金时代”。不久前...但这不是重点。我需要信息。你有兴趣吗？}
 #{119}{}{What's the job?}
 {119}{}{什么工作？}
 #{120}{}{[She sighs in exasperation] Whatever sort of trader you are, we're not looking for new contracts. We're already selling off all of our product, except for that which we keep for ourselves.}
@@ -61,10 +61,10 @@
 #{152}{}{[Hand it over.]}
 {152}{}{[交出来]}
 #{153}{}{Hmm... Dates, suppliers, locations, transactions... I'm impressed. I didn't think gangsters had the brainpower for such meticulous record-keeping. Good work. Here's 300 dollars, as we agreed. If you're looking for more work, I'll put in a good word with Mr. Luciano.}
-{153}{}{隐马尔可夫模型。。。日期，供应商，地点，交易。。。我印象深刻。我没想到黑帮有那么大的脑力来做如此细致的记录。干得好。这是我们说好的300美元。如果你想找更多的工作，我会和卢西亚诺先生说句好话。}
+{153}{}{Hmm...日期，供应商，地点，交易...我印象深刻。我没想到黑帮有那么大的脑力来做如此细致的记录。干得好。这是我们说好的300美元。如果你想找更多的工作，我会和卢西亚诺先生说句好话。}
 #{154}{}{[Next]}
 {154}{}{[下一步]}
 #{155}{}{I have another proposition for you. According to this data, both gangs get some of their food from local businessmen and caravans. I don't know anything about these suppliers - find out who they are and why they're so devoted to these... Revolutionaries.}
-{155}{}{我有另一个建议给你。根据这些数据，这两个团伙都从当地商人和商队那里得到了一些食物。我对这些供应商一无所知-找出他们是谁，为什么他们如此热衷于这些。。。革命者。}
+{155}{}{我有另一个建议给你。根据这些数据，这两个团伙都从当地商人和商队那里得到了一些食物。我对这些供应商一无所知-找出他们是谁，为什么他们如此热衷于这些...革命者。}
 #{1140}{}{I, uh, overheard a conversation in a restaurant. They say something's wrong with your meat!}
 {1140}{}{一、 呃，无意中听到一个餐馆里的谈话。他们说你的肉有问题！}

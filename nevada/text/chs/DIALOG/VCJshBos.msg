@@ -7,7 +7,7 @@
 #{103}{}{Citizen? Please don't distract Joshua, he's on a tight schedule.}
 {103}{}{公民？请不要分散约书亚的注意力，他日程很紧。}
 #{104}{}{What have I done...}
-{104}{}{我做了什么。。。}
+{104}{}{我做了什么...}
 #{105}{}{Don't try that again!}
 {105}{}{别再试了！}
 #{106}{}{*error executing script*}
@@ -33,7 +33,7 @@
 #{121}{}{I fixed that light your man was having trouble with.}
 {121}{}{我修好了你手下的灯。}
 #{122}{}{Oh, uh... Yeah, I heard. It's hard to find experienced workers these days, you know? Well, anyway, thanks for the help, }
-{122}{}{哦，呃。。。是的，我听说了。现在很难找到有经验的工人，你知道吗？不管怎样，谢谢你的帮助，}
+{122}{}{哦，呃...是的，我听说了。现在很难找到有经验的工人，你知道吗？不管怎样，谢谢你的帮助，}
 #{123}{}{.}
 {123}{}{.}
 #{124}{}{Absolutely not! The information on our servers can be dangerous to common citizens! The Overseer declared it classified. Try logging a request with the Information Bureau and they'll decide what you can and can't see.}
@@ -59,7 +59,7 @@
 #{134}{}{Thank you for telling me this, }
 {134}{}{谢谢你告诉我这个，}
 #{135}{}{! You did the right thing, exposing this vermin! Keep it up. Oh, and long live Vault City!}
-{135}{}{! 你做得对，暴露了这个害虫！坚持下去。哦，金库城万岁！}
+{135}{}{! 你做得对，暴露了这个害虫！坚持下去。哦，避难所城万岁！}
 #{136}{}{Of course.}
 {136}{}{当然。}
 #{140}{}{Hmm, interesting. It looks like a list of nearby radio stations and their broadcasting parameters. We probably won't be able to listen to them, though.}
@@ -67,13 +67,13 @@
 #{141}{}{Where are those stations located?}
 {141}{}{那些车站在哪里？}
 #{142}{}{Uh... I'm afraid that's classified...}
-{142}{}{休斯敦大学。。。恐怕这是机密。。。}
+{142}{}{Uh...恐怕这是机密...}
 #{143}{}{Then there's no way in hell you're getting this then!}
 {143}{}{那你就不可能得到这个！}
 #{144}{}{What?! You wouldn't... If I tell the Overseer how the wastes have changed you...}
-{144}{}{什么？！你不会。。。如果我告诉监工废物是如何改变你的。。。}
+{144}{}{什么？！你不会...如果我告诉监工废物是如何改变你的...}
 #{145}{}{What? It's just a simple request. But... I think I'll let you be, just in case.}
-{145}{}{什么？这只是一个简单的要求。但是。。。我想我会让你去的，以防万一。}
+{145}{}{什么？这只是一个简单的要求。但是...我想我会让你去的，以防万一。}
 #{146}{}{...then I'll tell him how you drove Joshua insane. How does that sound?}
 {146}{}{……那我就告诉他你是怎么把约书亚逼疯的。听起来怎么样？}
 #{147}{}{Too bad. I think I'll go.}
@@ -87,9 +87,9 @@
 #{151}{}{You have learned of a new location in the south-east}
 {151}{}{你听说东南部有个新地方}
 #{152}{}{Hey, this is Cheyenne's territory! That's interesting...}
-{152}{}{嘿，这是夏延的地盘！真有趣。。。}
+{152}{}{嘿，这是夏延的地盘！真有趣...}
 #{153}{}{That will keep me busy, at least...}
-{153}{}{那会让我很忙，至少。。。}
+{153}{}{那会让我很忙，至少...}
 #{160}{}{Can you help fix this onboard computer?}
 {160}{}{你能帮我修一下这台机载电脑吗？}
 #{161}{}{I can't do that for you while your citizenship is suspended. I'll need authorization from Peter Graves. If he gives the okay, I'll do my best to help you.}

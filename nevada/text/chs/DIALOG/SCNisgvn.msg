@@ -3,9 +3,9 @@
 #{101}{}{You see a tanned, middle-aged Native American with a stoned look in his eyes.}
 {101}{}{你看到一个皮肤黝黑的中年美洲土著，眼神呆滞。}
 #{110}{}{Now that was unnecessary... }
-{110}{}{现在没必要了。。。}
+{110}{}{现在没必要了...}
 #{111}{}{Sorry, maybe later... }
-{111}{}{抱歉，也许以后。。。}
+{111}{}{抱歉，也许以后...}
 #{112}{}{Once upon a time, children, there was a little mouse.}
 {112}{}{从前，孩子们，有一只小老鼠。}
 #{113}{}{He was the youngest mouse out of all his brothers and sisters.}
@@ -19,7 +19,7 @@
 #{117}{}{He met a frog. The frog said, "You hear the Great River flowing. I will take you there."}
 {117}{}{他遇到一只青蛙。青蛙说：“你听见大河在流。我带你去。”}
 #{118}{}{They traveled together to the Great River. When they got there, the frog said... }
-{118}{}{他们一起去了那条大河。当他们到了那里，青蛙说。。。}
+{118}{}{他们一起去了那条大河。当他们到了那里，青蛙说...}
 #{119}{}{"Jump as high as you can, and you'll see the Great Mountains!"}
 {119}{}{“跳得越高越好，你就会看到大山！”}
 #{120}{}{And so the mouse did. He jumped so high, he saw the Great Mountains! But they were very far away.}
@@ -49,11 +49,11 @@
 #{132}{}{Now the little mouse was all alone in the heart of Great Mountains, unable, even for a moment, to witness their beauty.}
 {132}{}{现在，这只小老鼠独自一人在大山的中心，哪怕是一瞬间，也无法目睹它们的美丽。}
 #{133}{}{Suddenly he saw, in blur... The soil... The water... But everything became so distant... }
-{133}{}{突然他模糊地看到。。。土壤。。。水。。。但一切变得如此遥远。。。}
+{133}{}{突然他模糊地看到...土壤...水...但一切变得如此遥远...}
 #{134}{}{And someone spoke to him. "Hello, brother, you have joined our flock. Fly with us. Fly with us, brother eagle!"}
 {134}{}{有人跟他说话了。”你好，兄弟，你加入了我们的队伍。和我们一起飞。和我们一起飞吧，老鹰兄弟！”}
 #{135}{}{Well, children? Did you like it? If you're good, I'll tell you another story later... }
-{135}{}{好吧，孩子们？你喜欢吗？如果你很好，我以后再给你讲另一个故事。。。}
+{135}{}{好吧，孩子们？你喜欢吗？如果你很好，我以后再给你讲另一个故事...}
 #{200}{}{What do you need, outsider?}
 {200}{}{你需要什么，局外人？}
 #{201}{}{I need healing.}
@@ -71,9 +71,9 @@
 #{207}{}{Do you know where the radio station is?}
 {207}{}{你知道电台在哪里吗？}
 #{250}{}{Let's see. [he examines you, mumbling to himself] Yes, yes... I can heal you.}
-{250}{}{让我们看看。[他审视着你，喃喃自语]是的，是的。。。我可以治愈你。}
+{250}{}{让我们看看。[他审视着你，喃喃自语]是的，是的...我可以治愈你。}
 #{251}{}{Let's see. [he examines you, mumbling to himself] Yes, yes... I can heal you, but you'll have to pay me 100 of your dollars.}
-{251}{}{让我们看看。[他审视着你，喃喃自语]是的，是的。。。我可以治好你，但你得付我100美元。}
+{251}{}{让我们看看。[他审视着你，喃喃自语]是的，是的...我可以治好你，但你得付我100美元。}
 #{252}{}{Heal me!}
 {252}{}{治愈我！}
 #{253}{}{Here's the money. Now heal me!}
@@ -251,7 +251,7 @@
 #{431}{}{Not every mice feces can heal. Only those mice that live in caves and have never gone outside are blessed by the Heavenly Mother and can aid the body's healing process.}
 {431}{}{不是每只老鼠的粪便都能愈合。只有那些生活在洞穴里，从未出过门的老鼠才能得到天母的祝福，并能帮助身体的愈合过程。}
 #{432}{}{Hmm... It sounds like something connected to the mice's diet. Their feces probably contain minerals that boost the body's metabolism. Okay, what about your other medicine?}
-{432}{}{隐马尔可夫模型。。。听起来好像和老鼠的饮食有关。他们的粪便可能含有促进身体新陈代谢的矿物质。好吧，你的其他药呢？}
+{432}{}{Hmm...听起来好像和老鼠的饮食有关。他们的粪便可能含有促进身体新陈代谢的矿物质。好吧，你的其他药呢？}
 #{433}{}{Only those gifted by the Heavenly Mother can make medicine from these components. Others are doomed to drink poison.}
 {433}{}{只有天母恩赐的人才可以用这些成分制成药物。其他人注定要喝毒药。}
 #{434}{}{Right. Tell me one more time about those components.}
@@ -261,7 +261,7 @@
 #{441}{}{I see.}
 {441}{}{我懂了。}
 #{442}{}{All healing is a battle in its own way. That's why it is often a trial of pain and screaming... But with bravery and perseverance even the strongest evil spirits will leave the body.}
-{442}{}{所有的治疗都是一场以自己的方式进行的战斗。这就是为什么它经常是痛苦和尖叫的考验。。。但只要有勇气和毅力，即使是最强大的恶魔也会离开身体。}
+{442}{}{所有的治疗都是一场以自己的方式进行的战斗。这就是为什么它经常是痛苦和尖叫的考验...但只要有勇气和毅力，即使是最强大的恶魔也会离开身体。}
 #{443}{}{Right.}
 {443}{}{正确的。}
 #{444}{}{We are strong, even in old age, while outsiders are wrecked and weakened by the spirits infesting them. The Cheyenne people will outlive all others in the wasteland.}
@@ -281,7 +281,7 @@
 #{451}{}{I'm an expert in medical field. I could explain it to you, if you share your knowledges with me in return.}
 {451}{}{我是医学领域的专家。我可以向你解释，如果你和我分享你的知识作为回报。}
 #{452}{}{Hmm... [he regards you curiously] The Heavenly Mother always taught us to seek new knowledge.}
-{452}{}{隐马尔可夫模型。。。[他好奇地看着你]天母总是教导我们去寻求新的知识。}
+{452}{}{Hmm...[他好奇地看着你]天母总是教导我们去寻求新的知识。}
 #{453}{}{So, let's make ourself comfortable?}
 {453}{}{那么，让我们自己舒服点？}
 #{454}{}{Of course. I'd be happy to share with you.}
@@ -347,7 +347,7 @@
 #{486}{}{No doubt the Ruler of Life sent you! Thank you, outsider! Such generosity is rare in our times - rare and precious. For as long as you live, I will heal your injuries without payment.}
 {486}{}{毫无疑问是生活的统治者派你来的！谢谢你，外人！这种慷慨在我们这个时代是罕见的——罕见而珍贵。只要你活着，我会无偿为你疗伤。}
 #{487}{}{That's great, but all this generosity really works up an appetite... }
-{487}{}{那太好了，但是这些慷慨真的让人胃口大开。。。}
+{487}{}{那太好了，但是这些慷慨真的让人胃口大开...}
 #{488}{}{Aw, it was nothing. You're welcome.}
 {488}{}{哦，没什么。不客气。}
 #{490}{}{Of course! Wait here. I will bring you some sandwiches from Omakaki.}
@@ -381,7 +381,7 @@
 #{512}{}{[Leave.]}
 {512}{}{[离开]}
 #{513}{}{[He gives a very long, troubled sigh] Chief Ogima... Wise as he is, he is only a man, like myself. Sometimes, even he is wrong... And I know more of healing than him, don't I?}
-{513}{}{[他发出一声长长的，不安的叹息]奥格玛酋长。。。尽管他很聪明，但他只是个男人，像我一样。有时候，即使他错了。。。我比他更懂得治疗，不是吗？}
+{513}{}{[他发出一声长长的，不安的叹息]奥格玛酋长...尽管他很聪明，但他只是个男人，像我一样。有时候，即使他错了...我比他更懂得治疗，不是吗？}
 #{514}{}{Exactly! What can I do to prove you can trust me?}
 {514}{}{确切地！我能做些什么来证明你能信任我？}
 #{515}{}{Too often outsiders claim to have skills they do not. Just last month, a man came from the east. He promised us rain, but could only show us the clouds.}
@@ -401,7 +401,7 @@
 #{553}{}{I hope that all works out. See you.}
 {553}{}{我希望一切顺利。再见。}
 #{554}{}{Hmm... [he frowns] Go talk to Ogima. I cannot make this decision. I am too close to this boy and I cannot allow my heart to think instead of my head.}
-{554}{}{隐马尔可夫模型。。。[他皱眉]去和奥吉玛谈谈。我不能做这个决定。我离这个男孩太近了，我不能让我的心代替我的头去思考。}
+{554}{}{Hmm...[他皱眉]去和奥吉玛谈谈。我不能做这个决定。我离这个男孩太近了，我不能让我的心代替我的头去思考。}
 #{555}{}{I'll talk to him. But first, another question.}
 {555}{}{我会和他谈谈。但首先，另一个问题。}
 #{556}{}{I'll go talk to him then.}
@@ -409,7 +409,7 @@
 #{557}{}{I'd like to help you with treating that injured boy. Your chief gave me permission.}
 {557}{}{我想帮助你治疗那个受伤的男孩。你的头儿给了我许可。}
 #{558}{}{You're serious? You want to help?! This is a rarity in our times. [he pauses, then his brow furrows] I would love to see you heal this boy, but if even my skill is not enough... Are you sure you can handle it?}
-{558}{}{你说真的？你想帮忙吗？！这在我们这个时代是罕见的。[他停顿了一下，然后眉头皱了起来]我很想看到你治好这个男孩，但如果连我的技能都不够的话。。。你确定你能应付吗？}
+{558}{}{你说真的？你想帮忙吗？！这在我们这个时代是罕见的。[他停顿了一下，然后眉头皱了起来]我很想看到你治好这个男孩，但如果连我的技能都不够的话...你确定你能应付吗？}
 #{559}{}{I??m sure.}
 {559}{}{我肯定。}
 #{560}{}{Then I would like to test your skills first. I have never seen you work before. Shall we begin?}
@@ -513,7 +513,7 @@
 #{669}{}{That is all. [he frowns] Makkon's condition is very complicated, outsider, and I don't think you have the knowledge to treat it correctly. But perhaps you have skills in other areas.}
 {669}{}{仅此而已。[他皱眉]外人，Makkon的情况非常复杂，我认为你不知道如何正确对待它。但也许你在其他领域有技能。}
 #{670}{}{[He throws up his hands] There's no point in continuing this. You don't know anything! How can you call yourself a healer? I can't risk you treating Makkon. I... I forbid it!}
-{670}{}{[他举手]继续这样下去没有意义。你什么都不知道！你怎么能称自己为治疗者？我不能冒险让你去治疗麦肯。一、 。。。我禁止！}
+{670}{}{[他举手]继续这样下去没有意义。你什么都不知道！你怎么能称自己为治疗者？我不能冒险让你去治疗麦肯。一、 ...我禁止！}
 #{671}{}{[He crosses his arms] Experience has told me that knowledge is not enough. Omakaki was my helper once, and while she learned much of herbs, roots, and plants, she could not make a simple potion. Show me your skills on this dummy, so I may see them in practice.}
 {671}{}{经验告诉我，知识是不够的。奥玛卡基曾经是我的帮手，虽然她学会了很多草药、根和植物，但她不能做一种简单的药水。让我看看你在这个假人上的技能，这样我就可以在练习中看到它们了。}
 #{672}{}{Sometimes, the Ruler of Life deprives a person's skills in one area, but grants them something else in exchange. Gekek had a brother who could not tell the difference between an iguana and a gecko, but could throw a spear through its eye from fifty paces. Show me your skills on this dummy, so I may see them in practice.}
@@ -531,17 +531,17 @@
 #{678}{}{Fine, let's do this. [begin sit-ups]}
 {678}{}{好吧，我们开始吧。[开始仰卧起坐]}
 #{679}{}{[After a few minutes, Niskigvan grabs your wrist and measures your heart rate] Hmm... You are remarkably fit and talented, outsider! You make the old man jealous!}
-{679}{}{[几分钟后，尼斯基文抓住你的手腕，测量你的心率]嗯。。。外人，你身体健康，才华横溢！你让老人嫉妒！}
+{679}{}{[几分钟后，尼斯基文抓住你的手腕，测量你的心率]嗯...外人，你身体健康，才华横溢！你让老人嫉妒！}
 #{680}{}{[After a few minutes, Niskigvan grabs your wrist and measures your heart rate] Hmm... Yes, this should be enough. You are strong and skilled enough for this surgery, outsider.}
-{680}{}{[几分钟后，尼斯基文抓住你的手腕，测量你的心率]嗯。。。是的，这应该足够了。外人，你足够强壮和熟练来做这个手术。}
+{680}{}{[几分钟后，尼斯基文抓住你的手腕，测量你的心率]嗯...是的，这应该足够了。外人，你足够强壮和熟练来做这个手术。}
 #{681}{}{[After a few minutes, Niskigvan grabs your wrist and measures your heart rate] Hmm... I am not sure you have the strength for this operation, outsider. I had hoped for more from someone so much younger than me. But with both of us there, perhaps it will be enough.}
-{681}{}{[几分钟后，尼斯基文抓住你的手腕，测量你的心率]嗯。。。外人，我不确定你是否有能力做这个手术。我对一个比我年轻得多的人寄予了更多的希望。但我们两个都在，也许就够了。}
+{681}{}{[几分钟后，尼斯基文抓住你的手腕，测量你的心率]嗯...外人，我不确定你是否有能力做这个手术。我对一个比我年轻得多的人寄予了更多的希望。但我们两个都在，也许就够了。}
 #{682}{}{[After a few minutes, Niskigvan shakes his head] Stop, stop. Your kind spirit cannot make up for the weakness of your body, outsider. If I let you perform this surgery, you'll kill the boy, and maybe yourself! I'm sorry, but... I must forbid you from treating Makkon.}
-{682}{}{[几分钟后，尼斯基文摇了摇头]停，停。你善良的精神无法弥补你身体的弱点，局外人。如果我让你做这个手术，你会杀了那个男孩，也许还会杀了你自己！对不起，但是。。。我必须禁止你治疗麦肯。}
+{682}{}{[几分钟后，尼斯基文摇了摇头]停，停。你善良的精神无法弥补你身体的弱点，局外人。如果我让你做这个手术，你会杀了那个男孩，也许还会杀了你自己！对不起，但是...我必须禁止你治疗麦肯。}
 #{683}{}{Finally, the last test. I have here a pet mouse. She is very sensitive and can easily determine the difference between filthy and pure. I will place some seed in your hands, and we will see if she eats it.}
 {683}{}{最后，最后一个测试。我这里有一只宠物老鼠。她很敏感，很容易分辨污秽和纯洁。我要把种子放在你手里，看她吃不吃。}
 #{684}{}{[The mouse runs from you without even trying to eat the food in your hands] Hmm... I think there are evil spirits within you. Poison, sickness, or even something darker. Anyway, I'm ready to make my decision.}
-{684}{}{[老鼠从你身边跑开，连你手里的食物都没吃]嗯。。。我认为你内心有邪恶的灵魂。毒药，疾病，甚至更黑暗的东西。不管怎样，我已经准备好做决定了。}
+{684}{}{[老鼠从你身边跑开，连你手里的食物都没吃]嗯...我认为你内心有邪恶的灵魂。毒药，疾病，甚至更黑暗的东西。不管怎样，我已经准备好做决定了。}
 #{685}{}{[The mouse cautiously sniffs at the seed in your hands, then starts to eat] An animal cannot be tricked! I'm ready to make my decision!}
 {685}{}{[老鼠小心翼翼地嗅了嗅你手中的种子，然后开始吃]动物是不会被欺骗的！我准备好做决定了！}
 #{686}{}{I had no idea the Heavenly Mother granted such blessings to the people of the city! I will be honored to assist you during the operation.}
@@ -555,7 +555,7 @@
 #{690}{}{You did well, outsider. It is a shame that the mouse smelled uncleanliness on your hands, but I still think you can handle the operation.}
 {690}{}{你做得很好，局外人。很遗憾，你手上的老鼠闻起来不干净，但我仍然认为你能处理好这个手术。}
 #{691}{}{I had reasons to trust you, outsider, but animals know things that we people do not. I do not know what my mouse feared in you, but I cannot allow you to treat Makkon. I... Forbid it.}
-{691}{}{我有理由相信你，局外人，但动物知道我们人类不知道的事情。我不知道我的老鼠在你身上害怕什么，但我不能允许你对待麦肯。一、 。。。禁止它。}
+{691}{}{我有理由相信你，局外人，但动物知道我们人类不知道的事情。我不知道我的老鼠在你身上害怕什么，但我不能允许你对待麦肯。一、 ...禁止它。}
 #{692}{}{Anything else?}
 {692}{}{还有别的吗？}
 #{693}{}{Remember that time will not wait for you, outsider. A few more months without treatment, and the boy will die. Rest for now, and when you're ready to discuss the operation, come to me.}
@@ -579,11 +579,11 @@
 #{702}{}{First, we'll have to drain the pus and reduce the inflammation. We'll have to make him bleed and clean the injury.}
 {702}{}{首先，我们得排脓，减轻炎症。我们得让他流血并清理伤口。}
 #{703}{}{[He nods] Yes, yes... We need clean water and a sharp knife. But how will he endure it? He is so young... }
-{703}{}{[他点头]是的，是的。。。我们需要干净的水和锋利的刀。但他怎么能忍受呢？他太年轻了。。。}
+{703}{}{[他点头]是的，是的...我们需要干净的水和锋利的刀。但他怎么能忍受呢？他太年轻了...}
 #{704}{}{Yes, the boy needs anesthesia. Pre-war chems would be best, but if you don't trust them, we can give him alcohol or herbs.}
 {704}{}{是的，这孩子需要麻醉。战前化学是最好的，但如果你不信任他们，我们可以给他酒精或草药。}
 #{705}{}{Yes... My healing powder can give him respite in the world of dreams. But you bring your chems, too. When the time comes, we'll decide what is best. What else?}
-{705}{}{对。。。我的治疗粉能让他在梦境中得到喘息。但你也带着化学药品。到时候，我们会决定什么是最好的。还有什么？}
+{705}{}{对...我的治疗粉能让他在梦境中得到喘息。但你也带着化学药品。到时候，我们会决定什么是最好的。还有什么？}
 #{706}{}{We'll need strong hands to set his broken bones, and forceps or pliers to remove any bone fragments under the skin.}
 {706}{}{我们需要强壮的手来固定他的骨折，需要镊子或钳子来移除皮肤下的骨头碎片。}
 #{707}{}{Yes, that's right. And after that?}
@@ -621,7 +621,7 @@
 #{802}{}{Right here.}
 {802}{}{就在这里。}
 #{803}{}{Er... No.}
-{803}{}{呃。。。不。}
+{803}{}{呃...不。}
 #{804}{}{How will we do this without a knife? What were you thinking? You can't be so careless with Makkon's life!}
 {804}{}{没有刀我们怎么办？你在想什么？你不能对Makkon的生活这么粗心！}
 #{805}{}{Good. Then we shall begin.}
@@ -645,7 +645,7 @@
 #{814}{}{These painkillers don't expire and have no side effect. Read the bottle, it's a clean product! Besides, i've used such ones myself.}
 {814}{}{这些止痛药不会过期，也没有副作用。看这个瓶子，它是一个干净的产品！另外，我自己也用过。}
 #{815}{}{Good. See, the boy's eyes are already closing... He is in the world of dreams now, and don't feel pain. Let's prepare his wounds. [Niskigvan's hands tremble as he removes the bandages from Makkon's feet, but his movements are confident] What will we use to prevent infection? Those spirits are very cunning... }
-{815}{}{很好。看，男孩的眼睛已经闭上了。。。他现在在梦的世界里，不感到痛苦。让我们给他准备伤口。[尼斯基文的手颤抖着，他把绷带从Makkon的脚上取下来，但他的动作很自信]我们将用什么来防止感染？那些鬼魂很狡猾。。。}
+{815}{}{很好。看，男孩的眼睛已经闭上了...他现在在梦的世界里，不感到痛苦。让我们给他准备伤口。[尼斯基文的手颤抖着，他把绷带从Makkon的脚上取下来，但他的动作很自信]我们将用什么来防止感染？那些鬼魂很狡猾...}
 #{816}{}{Clean water.}
 {816}{}{干净的水。}
 #{817}{}{The bottle of booze. The alcohol will sterilize his wounds.}
@@ -665,9 +665,9 @@
 #{824}{}{No, sorry.}
 {824}{}{不，对不起。}
 #{825}{}{These too must be cleaned... There. Hold his legs here, while I remove the loose fragments... }
-{825}{}{这些也必须清理。。。在那里。把他的腿放在这里，我把散落的碎片移走。。。}
+{825}{}{这些也必须清理...在那里。把他的腿放在这里，我把散落的碎片移走...}
 #{826}{}{Hmm. That is not good. Fortunately I have some pre-war tweezers here. A poor tool for such a delicate operation, but there is nothing else. Hold his legs while I remove the fragments... }
-{826}{}{嗯。那可不好。幸好我这里有一些战前的镊子。对于这样一个精细的操作来说，这是一个糟糕的工具，但没有别的了。抓住他的腿，我把碎片移走。。。}
+{826}{}{嗯。那可不好。幸好我这里有一些战前的镊子。对于这样一个精细的操作来说，这是一个糟糕的工具，但没有别的了。抓住他的腿，我把碎片移走...}
 #{827}{}{[You spend half an hour treating Makkon's wounds and removing small bone fragments from his legs]}
 {827}{}{[你花了半个小时治疗Makkon的伤口，从他腿上取出小块骨头]}
 #{828}{}{We must wash out the pus. We'll have to open the wounds. [You gently drain the pus from Makkon's injured flesh]}
@@ -701,7 +701,7 @@
 #{842}{}{[Go get some fresh air too.]}
 {842}{}{[去呼吸点新鲜空气]}
 #{843}{}{I feel sick... }
-{843}{}{我觉得恶心。。。}
+{843}{}{我觉得恶心...}
 #{844}{}{I have an old painkiller.}
 {844}{}{我有一个旧的止痛药。}
 #{860}{}{I have a switchblade.}

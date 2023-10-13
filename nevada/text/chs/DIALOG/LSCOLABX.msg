@@ -90,7 +90,7 @@
 {161}{}{完成。}
 #{162}{}{There is nothing left in the warehouse.}
 {162}{}{仓库里什么也没有了。}
-#{163}{}{Sorry, you can�t carry so much.}
+#{163}{}{Sorry, you can??t carry so much.}
 {163}{}{对不起，你不能带这么多东西。}
 #{164}{}{Take everything I can carry.}
 {164}{}{带上我能带的一切。}

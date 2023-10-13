@@ -69,7 +69,7 @@
 #{160}{}{[Sternly] Are you out of your mind? Who tells such things to a complete stranger? I myself know very little. The production is delivered with a courier, I have never even been in the lab.}
 {160}{}{你疯了吗？谁把这些事告诉一个完全陌生的人？我自己知道的很少。产品是由快递员送来的，我甚至都没去过实验室。}
 #{161}{}{Of course... Of course... You see, I'm interested in chems, not as a consumer but as a chemist. I would like to contact this laboratory - there can be a vacant position for me.}
-{161}{}{当然。。。当然。。。你看，我对化学感兴趣，不是作为一个消费者，而是作为一个化学家。我想和这个实验室联系-可能有一个空缺的职位给我。}
+{161}{}{当然...当然...你看，我对化学感兴趣，不是作为一个消费者，而是作为一个化学家。我想和这个实验室联系-可能有一个空缺的职位给我。}
 #{162}{}{[Raises an eyebrow skeptically] Well, tell me, weirdo, what do you know about methamphetamine from a scientific point of view.}
 {162}{}{[怀疑地扬起眉毛]好吧，告诉我，怪人，你从科学的角度对甲基苯丙胺了解多少。}
 #{163}{}{N-methyl-alpha-methylfentanyl, a derivative of amphetamine, it's a white crystalline substance, a strong psychostimulant.}
@@ -77,7 +77,7 @@
 #{164}{}{Quite a surprise. But I still can't help you. Like I said, I'm supplied by a delivery courier, and I myself have never been there.}
 {164}{}{真是个惊喜。但我还是帮不了你。就像我说的，我是由快递员提供的，我自己从来没有去过那里。}
 #{165}{}{Well... A drug. White powder. All the junkies know that!}
-{165}{}{好。。。毒品。白色粉末。所有的瘾君子都知道！}
+{165}{}{好...毒品。白色粉末。所有的瘾君子都知道！}
 #{166}{}{Go to hell! If I find out you're a cop I will shoot you where you stand.}
 {166}{}{去死吧！如果我发现你是警察，我就开枪打死你。}
 #{167}{}{Hey, easy!}
@@ -103,7 +103,7 @@
 #{177}{}{I'll refrain. Bye.}
 {177}{}{我克制一下。再见。}
 #{178}{}{Of course... Of Course... You see, I'm interested in chems, not as a consumer, but as...}
-{178}{}{当然。。。当然。。。你看，我对化学感兴趣，不是作为消费者，而是作为。。。}
+{178}{}{当然...当然...你看，我对化学感兴趣，不是作为消费者，而是作为...}
 #{179}{}{[Furiously] Shut up, before I shoot you dead! Now get out of here.}
 {179}{}{闭嘴，在我开枪打死你之前！现在离开这里。}
 #{180}{}{[Attack]}
@@ -121,7 +121,7 @@
 #{186}{}{I don't need your suspicious 'dose'. I don't need any so to speak. I'm leaving.}
 {186}{}{我不需要你可疑的“剂量”。我不需要这样说。我要走了。}
 #{187}{}{Do you even know how much stuff was pushed on me by the likes of you?! All them dealers never bother to understand you, they only know how to line their pockets by selling crap to the living corpses...}
-{187}{}{你知道像你这样的人给了我多少压力吗？！所有的毒贩都不会费心去理解你，他们只知道如何通过向活着的尸体出售垃圾来充实自己的口袋。。。}
+{187}{}{你知道像你这样的人给了我多少压力吗？！所有的毒贩都不会费心去理解你，他们只知道如何通过向活着的尸体出售垃圾来充实自己的口袋...}
 #{188}{}{Hey, take it easy, I care about my clients. You can count on me.}
 {188}{}{嘿，别紧张，我关心我的客户。你可以相信我。}
 #{189}{}{Really? You won't fool me? Well then, let's see what you've got.}
@@ -139,7 +139,7 @@
 #{195}{}{Huh?}
 {195}{}{嗯？}
 #{196}{}{You, addicts, are all hopeless... Although, I know how to help you.}
-{196}{}{你们这些瘾君子都没希望了。。。不过，我知道怎么帮你。}
+{196}{}{你们这些瘾君子都没希望了...不过，我知道怎么帮你。}
 #{197}{}{I know your kind too well but, I guess, listening won't hurt anyway.}
 {197}{}{我太了解你这种人了，不过，我想，听着也不会有什么坏处。}
 #{198}{}{You may help only if you give me something to relieve the addiction. Show me what you're selling.}
@@ -167,7 +167,7 @@
 #{505}{}{I have something that will allow you to kiss the sky!}
 {505}{}{我有东西可以让你亲吻天空！}
 #{506}{}{Oh... From which lands are you from?}
-{506}{}{哦。。。你来自哪个国家？}
+{506}{}{哦...你来自哪个国家？}
 #{507}{}{I'll give you a discount on ALL of my stuff.}
 {507}{}{我所有的东西都给你打折。}
 #{508}{}{I know what you are looking for and I have it. As much as you NEED.}

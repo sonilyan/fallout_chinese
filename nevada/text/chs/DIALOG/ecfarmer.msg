@@ -11,7 +11,7 @@
 #{202}{}{You notice she has a farmer's tan.}
 {202}{}{你注意到她有农民的棕褐色皮肤。}
 #{103}{}{You arrived just in the nick of time. If you hadn't gotten here when you did... Well, let's just be thankful that you came. We don't have much, but I'd like you to accept this as a reward for helping us. [he hands you something.]}
-{103}{}{你来得正是时候。如果你来的时候没来。。。好吧，让我们庆幸你来了。我们没有多少，但我希望你能接受这个作为帮助我们的奖励。[他递给你一些东西。]}
+{103}{}{你来得正是时候。如果你来的时候没来...好吧，让我们庆幸你来了。我们没有多少，但我希望你能接受这个作为帮助我们的奖励。[他递给你一些东西。]}
 #{104}{}{Thank you.}
 {104}{}{非常感谢。}
 #{105}{}{Ugh}
@@ -77,4 +77,4 @@
 #{135}{}{I'll be back.}
 {135}{}{我会回来的。}
 #{136}{}{Take my wife - please...}
-{136}{}{带上我妻子-求你了。。。}
+{136}{}{带上我妻子-求你了...}

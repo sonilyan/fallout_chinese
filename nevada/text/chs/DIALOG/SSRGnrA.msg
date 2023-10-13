@@ -14,11 +14,11 @@
 {106}{}{这台发电机需要零件，而不是燃料。}
 #{107}{}{Useless}
 {107}{}{无用的}
-#{108}{}{This won�t help here.}
+#{108}{}{This won??t help here.}
 {108}{}{这在这里没用。}
 #{109}{}{Done}
 {109}{}{多恩}
 #{110}{}{You replace the damaged parts. The generator is in working condition.}
 {110}{}{更换损坏的零件。发电机处于工作状态。}
-#{111}{}{Without some part replacement, the generator won�t work.}
+#{111}{}{Without some part replacement, the generator won??t work.}
 {111}{}{如果不更换零件，发电机就不能工作。}

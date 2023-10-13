@@ -13,6 +13,6 @@
 #{153}{}{For a long time, no one in the Clean City has been killed, especially a cop.}
 {153}{}{很长一段时间以来，这个干净的城市里没有人被杀，尤其是一个警察。}
 #{154}{}{No one expected this here...}
-{154}{}{没人料到这里。。。}
+{154}{}{没人料到这里...}
 #{155}{}{Who could have done it?}
 {155}{}{是谁干的？}

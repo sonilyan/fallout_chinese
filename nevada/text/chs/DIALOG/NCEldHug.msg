@@ -33,7 +33,7 @@
 #{130}{}{Your father sent me to sort some things out. Explain.}
 {130}{}{你父亲派我来处理一些事情。解释一下。}
 #{131}{}{[Sighs theatrically] Stryker's put a mole in our staff. Now father wants me to end him. The mole doesn't know he's been found. And you're here to... Listen, I'm not stupid, I know why you're here.}
-{131}{}{史崔克在我们的工作人员里放了个内奸。现在父亲要我结束他。鼹鼠不知道他被找到了。你来这里是为了。。。听着，我不傻，我知道你为什么在这里。}
+{131}{}{史崔克在我们的工作人员里放了个内奸。现在父亲要我结束他。鼹鼠不知道他被找到了。你来这里是为了...听着，我不傻，我知道你为什么在这里。}
 #{132}{}{Is that a problem?}
 {132}{}{有问题吗？}
 #{133}{}{This isn't about whether he deserves to die. The problem is that it meant for me to prove something to someone that way. I don't want that.}
@@ -43,7 +43,7 @@
 #{135}{}{Just trust me, we'll take care of it out when we get there.}
 {135}{}{相信我，我们到了那里会处理好的。}
 #{136}{}{[He narrows his eyes, thinking] Fine, let's get this over with. We're doing this on the railroad station where no one will see us. I'll let everyone know we're moving out. Wait here...}
-{136}{}{[他眯起眼睛，心想]好吧，让我们结束这一切。我们在火车站做这件事，没人会看到我们。我会告诉大家我们要搬走了。在这里等着。。。}
+{136}{}{[他眯起眼睛，心想]好吧，让我们结束这一切。我们在火车站做这件事，没人会看到我们。我会告诉大家我们要搬走了。在这里等着...}
 #{137}{}{[Wait]}
 {137}{}{[等等]}
 #{140}{}{Thanks for your help. }

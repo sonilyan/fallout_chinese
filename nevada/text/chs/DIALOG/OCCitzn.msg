@@ -65,13 +65,13 @@
 #{132}{}{[The villagers look at each other] Why should we believe you?}
 {132}{}{[村民们对视]我们为什么要相信你？}
 #{133}{}{I fixed your water pump. The vault has far more advanced technology.}
-{133}{}{我把你的水泵修好了。金库的技术要先进得多。}
+{133}{}{我把你的水泵修好了。避难所的技术要先进得多。}
 #{134}{}{Without Gerlach, it's your only chance.}
 {134}{}{没有杰拉克，这是你唯一的机会。}
 #{135}{}{If I helped Steve, why wouldn't I help you?}
 {135}{}{如果我帮了史蒂夫，我为什么不帮你？}
 #{136}{}{Uh... Well, I can't really prove it, but it really is better than this place! I pinky swear!}
-{136}{}{休斯敦大学。。。嗯，我真的不能证明，但它真的比这个地方好！我发誓！}
+{136}{}{Uh...嗯，我真的不能证明，但它真的比这个地方好！我发誓！}
 #{137}{}{Prove it. We've got no reason to trust you.}
 {137}{}{证明一下。我们没有理由相信你。}
 #{138}{}{Take a look at by Pip-Boy. These were only given to vault dwellers.}
@@ -87,7 +87,7 @@
 #{143}{}{Come on, would I lie to you? Fine, maybe you'll change your mind later.}
 {143}{}{拜托，我会骗你吗？好吧，也许你以后会改变主意。}
 #{144}{}{I've heard of these, but I've never seen one. If these are given to everyone in the vault, then I agree! [the rest of the crowd mumbles in approval]}
-{144}{}{我听说过，但从没见过。如果这些都给了金库里的每个人，那我同意！[其余的人咕哝着表示赞同]}
+{144}{}{我听说过，但从没见过。如果这些都给了避难所里的每个人，那我同意！[其余的人咕哝着表示赞同]}
 #{145}{}{Of course!}
 {145}{}{当然！}
 #{146}{}{We have plenty of food and water. You'll never go hungry or thirsty again.}
@@ -135,7 +135,7 @@
 #{1128}{}{Vault? As in, Vault-Tec? Where?}
 {1128}{}{拱顶？在保险库里？在哪里？}
 #{1133}{}{I fixed your water pump. The vault has far more advanced technology.}
-{1133}{}{我把你的水泵修好了。金库的技术要先进得多。}
+{1133}{}{我把你的水泵修好了。避难所的技术要先进得多。}
 #{1135}{}{If I helped Steve, why wouldn't I help you?}
 {1135}{}{如果我帮了史蒂夫，我为什么不帮你？}
 #{1140}{}{She did earn a little respect, didn't she? [the crowd shouts in agreement] Okay, we'll do it. We've got nothing to lose, anyway. This place can't hold out forever.}

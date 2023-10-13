@@ -5,7 +5,7 @@
 #{102}{}{I'd be happy to serve you, but that thing in your hands is making me nervous.}
 {102}{}{我很乐意为你服务，但你手里的东西让我很紧张。}
 #{103}{}{We don't judge, but... It'd be nice to know who we're dealing with.}
-{103}{}{我们不判断，但是。。。很高兴知道我们在和谁打交道。}
+{103}{}{我们不判断，但是...很高兴知道我们在和谁打交道。}
 #{110}{}{Where can I find a job around here?}
 {110}{}{我在这附近哪里能找到工作？}
 #{111}{}{We need representatives for a courier service. The job isn't hard, but delicate. [Looks you over] Doubt you'll fit the bill.}
@@ -59,15 +59,15 @@
 #{135}{}{I don't have that kind of money!}
 {135}{}{我没有那么多钱！}
 #{136}{}{Yeah, I can see that! How could I even think you were right for the job?! Ugh... Get out!}
-{136}{}{是的，我看得出来！我怎么能认为你适合这份工作？！呃。。。走出！}
+{136}{}{是的，我看得出来！我怎么能认为你适合这份工作？！呃...走出！}
 #{137}{}{You don't...}
-{137}{}{你不。。。}
+{137}{}{你不...}
 #{138}{}{Really? Is that honesty or stupidity? Well, if you're gonna pay for your screw-up, then I've got no problems. [counts the money] I should also get extra from you for crippling our reputation, but since you were honest, I'll let you off the hook.}
 {138}{}{真正地？那是诚实还是愚蠢？好吧，如果你要为你的失败付出代价，那我就没问题了。[数钱]我也应该从你那里得到额外的钱，因为你损害了我们的声誉，但既然你是诚实的，我就让你摆脱困境。}
 #{139}{}{Security! Security! Pat this motherfucker down for money and throw him out on the streets! Come on! Quickly, before he gets away!}
 {139}{}{保安！保安！拍下这个混蛋要钱然后把他扔到街上！加油！快点，在他逃走之前！}
 #{140}{}{Uh-oh...}
-{140}{}{哦哦。。。}
+{140}{}{哦哦...}
 #{141}{}{Great. You delivered three pizzas. That's }
 {141}{}{伟大的。你送了三个披萨。那是}
 #{142}{}{30$ for the cafe. Hand over the money. Keep the tip, of course.}
@@ -77,7 +77,7 @@
 #{144}{}{I, err, I'll bring them right now.}
 {144}{}{一、 呃，我现在就拿来。}
 #{145}{}{A fine job, courier! You know, there were some positive reviews of your work. Someone even hired our kitchen for a party, talking about your service. So, other than thanking you, I should pay you 10$ extra. You can rest for now, there are no more orders... Oh yeah, since you're one of our own, you'll get a 20% discount any time you eat here.}
-{145}{}{干得好，信使！你知道，对你的工作有一些积极的评价。有人甚至雇了我们的厨房来开派对，谈论你的服务。所以，除了谢谢你，我应该多给你10美元。你现在可以休息了，没有更多的命令。。。哦，是的，既然你是我们的人，你在这里吃东西的时候可以打八折。}
+{145}{}{干得好，信使！你知道，对你的工作有一些积极的评价。有人甚至雇了我们的厨房来开派对，谈论你的服务。所以，除了谢谢你，我应该多给你10美元。你现在可以休息了，没有更多的命令...哦，是的，既然你是我们的人，你在这里吃东西的时候可以打八折。}
 #{146}{}{Good job, courier! Good job. You know, you even got some good reviews. Unfortunately we don't have any more orders, so there's nothing to keep you busy. You can go now, thanks.}
 {146}{}{干得好，信使！干得好。你知道，你甚至得到了一些好评。很遗憾我们没有更多的订单了，所以没有什么能让你忙的。你现在可以走了，谢谢。}
 #{147}{}{I'd congratulate you on a job well done, but some of the clients left a negative review. I warned you that being a courier is a delicate job. You are the face of the company, not just two legs running. I mean, I get it - to the clients you are nobody, no one takes you seriously, they try to mock you. Happens all the time. But we need couriers who can keep to the standards, even in the face of mockery. Now, let me work.}
@@ -105,9 +105,9 @@
 #{159}{}{Great! Work like that deserves a reward. Here, as promised, 300$}
 {159}{}{太好了！这样的工作值得奖励。这里，如承诺的，300$}
 #{200}{}{One rot gut, coming right up...}
-{200}{}{一根腐烂的肠子，马上就上来。。。}
+{200}{}{一根腐烂的肠子，马上就上来...}
 #{201}{}{That will be three bucks...}
-{201}{}{三块钱。。。}
+{201}{}{三块钱...}
 #{202}{}{Another one, friend?}
 {202}{}{再来一杯，朋友？}
 #{203}{}{Don't touch Suzie!}
@@ -117,7 +117,7 @@
 #{205}{}{Two half-ounce bags or a tin?}
 {205}{}{两袋半盎司还是一罐？}
 #{206}{}{Special order for a Chris right here...}
-{206}{}{给克里斯的特别订单就在这里。。。}
+{206}{}{给克里斯的特别订单就在这里...}
 #{207}{}{Let me guess, you want me to put it on your tab?}
 {207}{}{让我猜猜，你想让我记在你的帐上吗？}
 #{208}{}{One "dive bomb" with ice.}
@@ -145,7 +145,7 @@
 #{240}{}{Cute waitress! Bet she has no problems with the guys.}
 {240}{}{可爱的女招待！我打赌她和那些家伙没什么问题。}
 #{241}{}{She's precious. The kid had a hard childhood. She... How should I put it, is afraid of representatives of the... Stronger gender.}
-{241}{}{她很珍贵。这孩子的童年很艰难。她。。。我该怎么说呢，就是怕代表。。。更强的性别。}
+{241}{}{她很珍贵。这孩子的童年很艰难。她...我该怎么说呢，就是怕代表...更强的性别。}
 #{242}{}{Is that so? Any reason?}
 {242}{}{是这样吗？有什么原因吗？}
 #{243}{}{[Shrugs] I have no idea. But we need to be gentle with her.}
@@ -167,7 +167,7 @@
 #{251}{}{Other than tech, they like young girls, don't they?}
 {251}{}{除了科技，他们还喜欢年轻女孩，不是吗？}
 #{252}{}{Well of course. And girls are crazy for leather-clad men with shiny guns and motorcycles... Especially young ones.}
-{252}{}{当然。女孩们喜欢穿皮衣的男人，带着闪亮的枪和摩托车。。。尤其是年轻人。}
+{252}{}{当然。女孩们喜欢穿皮衣的男人，带着闪亮的枪和摩托车...尤其是年轻人。}
 #{253}{}{Well, thanks for nothing! Guess I'll have to figure things out on my own.}
 {253}{}{好吧，什么都不用谢！我想我得自己想办法了。}
 #{254}{}{Thanks for the help! Might be useful.}
@@ -187,7 +187,7 @@
 #{261}{}{Got it.}
 {261}{}{知道了。}
 #{262}{}{I'm an official Nuka-Cola supplier...}
-{262}{}{我是努卡可乐的官方供应商。。。}
+{262}{}{我是努卡可乐的官方供应商...}
 #{263}{}{Err, no! Don't even start! We've got fooled by your "product" more than once.}
 {263}{}{呃，不！别动！我们不止一次被你的“产品”愚弄了。}
 #{264}{}{What do you mean?!}
@@ -221,13 +221,13 @@
 #{278}{}{Understood.}
 {278}{}{理解。}
 #{279}{}{Yes, I remember but... Sam isn't with us anymore, so I'll risk making the deal without him.}
-{279}{}{是的，我记得但是。。。山姆不再和我们在一起了，所以没有他我就冒险做这笔交易。}
+{279}{}{是的，我记得但是...山姆不再和我们在一起了，所以没有他我就冒险做这笔交易。}
 #{280}{}{So you agree?!}
 {280}{}{你同意吗？！}
 #{281}{}{Absolutely! I always told Phillips that we should, but he always said something about it being too hard to get deliveries from Salt Lake. But the competition doesn't sleep - they've got reliable supplies.}
 {281}{}{当然！我总是告诉菲利普斯我们应该这样做，但他总是说从盐湖城送货太难了。但是竞争对手没有睡着-他们有可靠的供应。}
 #{282}{}{Well, now we can sign the agreement...}
-{282}{}{好吧，现在我们可以签协议了。。。}
+{282}{}{好吧，现在我们可以签协议了...}
 #{283}{}{Exactly! You know, I remember the "Monte" casino has a vending machine. It would be sweet to get one set up, so we can sell the product without bothering each other. I'll try and figure that out in the next few days, while you handle the deliveries.}
 {283}{}{确切地！我记得“蒙特”赌场有自动售货机。如果能设置一个这样我们就可以在不打扰对方的情况下销售产品，那就太好了。我会在接下来的几天里设法弄清楚的，而你负责送货。}
 #{284}{}{Perfect, a pleasure doing business with you!}
@@ -253,6 +253,6 @@
 #{298}{}{Does he play here all the time?}
 {298}{}{他一直在这里玩吗？}
 #{299}{}{Of course not. He usually comes in during evenings, when some of the more well-off clients come with their wives after work, so they can unwind for a bit. That's when our new, shining star appears on stage... And everyone gets ecstatic!}
-{299}{}{当然不是。他通常在晚上来，一些比较富裕的客户下班后和他们的妻子一起来，这样他们可以放松一下。就在那时，我们闪亮的新星出现在舞台上。。。每个人都会欣喜若狂！}
+{299}{}{当然不是。他通常在晚上来，一些比较富裕的客户下班后和他们的妻子一起来，这样他们可以放松一下。就在那时，我们闪亮的新星出现在舞台上...每个人都会欣喜若狂！}
 #{1236}{}{Whoah! This is pizza? I haven't seen this before.}
 {1236}{}{哇哦！这是比萨饼？我以前没见过这个。}

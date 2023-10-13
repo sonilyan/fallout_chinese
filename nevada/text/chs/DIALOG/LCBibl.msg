@@ -13,11 +13,11 @@
 #{122}{}{Diogenes would surely find the "humble dwelling" part funny.}
 {122}{}{提奥奇尼斯肯定会觉得“简陋的住所”很有趣。}
 #{123}{}{Ha! If you knew more about him, young man, you'd understand that that "humble dwelling" of Diogenes was quite *sufficient* for him and the conditions he lived in: after all, the climate, the scenery, the company...}
-{123}{}{哈！如果你对他了解得更多，年轻人，你就会明白提奥奇尼斯的“简陋住所”对他和他生活的条件来说是相当的“足够”：毕竟，这里的气候、风景、公司。。。}
+{123}{}{哈！如果你对他了解得更多，年轻人，你就会明白提奥奇尼斯的“简陋住所”对他和他生活的条件来说是相当的“足够”：毕竟，这里的气候、风景、公司...}
 #{124}{}{But there are other reasons for his living in a barrel. For him it was about rebellion and self-expression.}
 {124}{}{但他住在桶里还有其他原因。对他来说，这是叛逆和自我表达。}
 #{125}{}{Sure, sure, but... What are you getting at?}
-{125}{}{当然，当然，但是。。。你在说什么？}
+{125}{}{当然，当然，但是...你在说什么？}
 #{126}{}{The point is, you shouldn't belittle yourself when you have quite a decent place to live in and comprise the active part of the city's population.}
 {126}{}{关键是，当你有一个相当体面的居所，并且是城市人口的活跃部分时，你不应该贬低自己。}
 #{127}{}{But I am the poorest man in this city!}
@@ -25,7 +25,7 @@
 #{128}{}{There you go again.}
 {128}{}{又来了。}
 #{129}{}{Well... Okay, let's change it to "I am the poorest among the 'active part of the city's population'" then.}
-{129}{}{好。。。好吧，让我们把它改成“我是‘城市活跃人口’中最穷的一个”。}
+{129}{}{好...好吧，让我们把它改成“我是‘城市活跃人口’中最穷的一个”。}
 #{130}{}{Do you mean to say that the tramps on the streets are not a part of this city?}
 {130}{}{你的意思是说街上的流浪汉不是这个城市的一部分吗？}
 #{131}{}{Indeed, they are not. The city is bigger and beggars only work to disgrace it.}
@@ -41,9 +41,9 @@
 #{136}{}{Don't you think that if a part of the whole becomes something big and independent, it stops being a part, and thus, becomes another whole, but the whole, which it's not a part of anymore, does not depend on it?}
 {136}{}{你不认为如果一个整体的一部分变成一个大的独立的东西，它就不再是一个整体，因此，成为另一个整体，但是这个整体，它不再是一部分，不依赖于它吗？}
 #{137}{}{Hmm... Yes. You are right.}
-{137}{}{隐马尔可夫模型。。。对。你是对的。}
+{137}{}{Hmm...对。你是对的。}
 #{138}{}{So, we have just learned that...}
-{138}{}{所以，我们刚刚了解到。。。}
+{138}{}{所以，我们刚刚了解到...}
 #{139}{}{[For the last few hours, you have been having a visionary discussion with the bookworm about dividing a whole into parts and assembling parts into a whole.]}
 {139}{}{[在过去的几个小时里，你一直在和书呆子进行一次富有远见的讨论，讨论如何将一个整体分成几个部分，并将各个部分组装成一个整体。]}
 #{140}{}{...and thus, the whole, still being a part of the lesser whole, continues to be a whole, while, at the same time, being a part of the other whole, as the other whole remains a part of that whole.}
@@ -67,27 +67,27 @@
 #{156}{}{Salt Lake City was built before the war. It was a big city by American standards. Many people were scurrying about here, trains were moving up and down the railroad, and factories were steaming with smoke. The city was buzzing and was always in motion.}
 {156}{}{盐湖城建于战前。按照美国的标准，这是一座大城市。许多人在这里匆匆忙忙，火车在铁路上来回行驶，工厂里烟雾缭绕。这座城市嗡嗡作响，一直在运动。}
 #{157}{}{After a while, a small gambling zone was set up, with not very expensive casinos and restaurants, which had big signs and shining corbels...}
-{157}{}{过了一会儿，一个小小的赌博区成立了，赌场和餐馆都不是很贵，那里有很大的招牌和闪亮的牛腿。。。}
+{157}{}{过了一会儿，一个小小的赌博区成立了，赌场和餐馆都不是很贵，那里有很大的招牌和闪亮的牛腿...}
 #{158}{}{The city was by no means clean, as it was still an industrial center. It produced electricity, plants were operating, salt and copper were mined... There was even a military base with its own airfield in the north of here...}
-{158}{}{这座城市一点也不干净，因为它还是一个工业中心。它发电，工厂运转，盐矿和铜矿开采。。。在这里的北部甚至有一个军事基地有自己的机场。。。}
+{158}{}{这座城市一点也不干净，因为它还是一个工业中心。它发电，工厂运转，盐矿和铜矿开采...在这里的北部甚至有一个军事基地有自己的机场...}
 #{159}{}{And then...}
-{159}{}{然后。。。}
+{159}{}{然后...}
 #{160}{}{God save us! The radios began crying about an impending nuclear threat! In panic, the residents were signing up for queues to enter large underground vaults, safe shelters constructed by the Vault-Tec Corporation. Small companies that had been engaged in the pool construction business started to make private mini-vaults, designed to hold families. There are hundreds of them in Salt Lake, scattered around the basements of various buildings.}
-{160}{}{上帝保佑我们！收音机开始哭喊即将到来的核威胁！慌乱中，居民们排队进入大型地下保险库，这是保险库技术公司建造的安全避难所。从事游泳池建设业务的小公司开始制造私人迷你金库，用于容纳家庭。盐湖里有几百个，散落在各种建筑的地下室里。}
+{160}{}{上帝保佑我们！收音机开始哭喊即将到来的核威胁！慌乱中，居民们排队进入大型地下保险库，这是保险库技术公司建造的安全避难所。从事游泳池建设业务的小公司开始制造私人迷你避难所，用于容纳家庭。盐湖里有几百个，散落在各种建筑的地下室里。}
 #{161}{}{Then everything calmed down. Armed conflicts subsided and people started to forget about the bombs. Nobody knows who had fired first. It may have been the Russians, or the Chinese, or even us. It doesn't matter now. The past is dead and gone.}
 {161}{}{然后一切平静下来。武装冲突平息了，人们开始忘记炸弹。没人知道是谁先开枪的。可能是俄国人，或者中国人，甚至是美国。现在不重要了。过去已经过去了。}
 #{162}{}{The most astute ones hid inside the big vault in the Wasatch Range east of here, while the rest sheltered in their family vaults and in basements. Those who lived in this part of Salt Lake City were luckier, as the bombs mostly fell in the northern area, where the military base was situated. The local climate smoothed the consequences of the blasts, washing off the nuclear fallout with autumn rains then weighing it down with snow.}
-{162}{}{最精明的人躲在这里以东瓦萨奇山脉的大金库里，其余的人则躲在家里的金库和地下室里。住在盐湖城这一地区的人更幸运，因为炸弹大多落在军事基地所在的北部地区。当地的气候缓和了爆炸的后果，用秋雨冲走了核沉降物，然后用雪把它压下来。}
+{162}{}{最精明的人躲在这里以东瓦萨奇山脉的大避难所里，其余的人则躲在家里的避难所和地下室里。住在盐湖城这一地区的人更幸运，因为炸弹大多落在军事基地所在的北部地区。当地的气候缓和了爆炸的后果，用秋雨冲走了核沉降物，然后用雪把它压下来。}
 #{163}{}{People didn't begin to emerge from the vaults until 10 to 30 years after the war. At the end of the day, nobody liked to spend their life confined within metal walls.}
 {163}{}{人们直到战后10到30年才开始从地下室出来。最后，没有人愿意在金属墙里度过他们的一生。}
 #{164}{}{Those who were brave were the first to come out, while others took their time. The last of the remaining vault dwellers saw the sun only a few years ago.}
-{164}{}{那些勇敢的人是第一个出来的，而其他人则不慌不忙。剩下的金库居民中的最后一个几年前才看到太阳。}
+{164}{}{那些勇敢的人是第一个出来的，而其他人则不慌不忙。剩下的避难所居民中的最后一个几年前才看到太阳。}
 #{165}{}{Those first to emerge saw at once that the outside world was not safe anymore. Radiation and mutated animals frightened the citizens. Some of the people also didn't have the cleanest of hands. So, a council was called and a sheriff elected, with the task of building a new society on the ruins of the old city.}
 {165}{}{那些最先出现的人立刻看到外面的世界不再安全了。辐射和变异的动物吓坏了市民。有些人的手也不干净。于是，召集了一个委员会，选出了一个治安官，任务是在旧城的废墟上建立一个新的社会。}
 #{166}{}{The Sheriff set about fighting crime. He gathered a team of determined people around him and helped many enterprises and organizations gain ground... It was not an easy task, of course.}
-{166}{}{治安官着手打击犯罪。他召集了一批坚定的人围着他，帮助许多企业和组织站稳了脚跟。。。当然，这不是一件容易的事。}
+{166}{}{治安官着手打击犯罪。他召集了一批坚定的人围着他，帮助许多企业和组织站稳了脚跟...当然，这不是一件容易的事。}
 #{167}{}{The city is... Fragile, so to speak. Every prominent figure here is a pillar on which it stands. Should one of the pillars collapse, the whole city will follow.}
-{167}{}{这个城市。。。可以说是脆弱的。这里每一个显赫的人物都是一根柱子。如果其中一根柱子倒塌，整个城市都会跟着倒塌。}
+{167}{}{这个城市...可以说是脆弱的。这里每一个显赫的人物都是一根柱子。如果其中一根柱子倒塌，整个城市都会跟着倒塌。}
 #{168}{}{I hope you find my story interesting. Would you be so kind as to offer me a cup of tea for the effort?}
 {168}{}{我希望你觉得我的故事有趣。请您为我的努力倒杯茶好吗？}
 #{169}{}{Gladly! Here are 10 bucks as a tip. Thanks!}
@@ -103,7 +103,7 @@
 #{181}{}{Oh yes. It's an old story. The inhabitants of Provo were like the Ku Klux Klan from before the war. At first, the Sheriff used their bigotry and extremism for his own cause. He employed them to deal with certain undesirables, and when things improved he got rid of them. Since then, those rednecks hate the city and its citizens. They consider us crooks. After a while, they turned to brigandage, with criminals of all sorts joining their ranks.}
 {181}{}{哦，是的。这是一个古老的故事。普罗沃的居民就像战前的三K党。起初，警长利用他们的偏执和极端主义为自己的事业。他雇用他们来对付某些不受欢迎的人，当情况好转时，他就把他们赶走了。从那时起，那些乡巴佬就憎恨这个城市和市民。他们认为我们是骗子。过了一会儿，他们转为强盗，各种各样的罪犯也加入了他们的行列。}
 #{182}{}{The Sheriff asked me to deal with those criminals...}
-{182}{}{警长让我对付那些罪犯。。。}
+{182}{}{警长让我对付那些罪犯...}
 #{183}{}{Oh? Well, it's no surprise. The rednecks has already robbed several caravans and even tried to sabotage the city. But the Sheriff doesn't want to openly wage war against them. You see, nobody knows much about Provo. There are bound to be a lot of traps scattered around the place waiting for an unwary target to set them off. The tactical situation is against the Sheriff, that's for sure. Anyway, if you decide to venture into the area, be on your guard and pay full attention to your surroundings.}
 {183}{}{哦？嗯，这并不奇怪。红领军已经抢劫了好几辆商队，甚至试图破坏这座城市。但警长不想公开向他们开战。你看，没人对普罗沃了解太多。一定会有很多陷阱散布在这个地方，等待一个不小心的目标来引爆它们。战术上的情况是对警长不利的，这是肯定的。不管怎样，如果你决定冒险进入这个地区，要保持警惕，并充分注意你周围的环境。}
 #{184}{}{Understood.}
@@ -179,7 +179,7 @@
 #{224}{}{More pills for your heart? Phew! A second pack will be even harder to find than the first.}
 {224}{}{你的心脏还有药吗？呸！第二包比第一包更难找到。}
 #{225}{}{Here are the heart pills. Now about that Chryslus Motors catalog you promised...}
-{225}{}{这是心脏药片。关于你答应的克莱斯勒汽车目录。。。}
+{225}{}{这是心脏药片。关于你答应的克莱斯勒汽车目录...}
 #{230}{}{Do you accept rare books and magazines?}
 {230}{}{你们接受稀有的书籍和杂志吗？}
 #{231}{}{I think I've found what you were looking for - a bundle of pre-war newspapers.}
@@ -187,9 +187,9 @@
 #{232}{}{I have more than enough books, but can't say the same about serials. You see, I'd like to know more details about the last few months before the Great War. If you find something on the topic, I'll happily exchange it for one of my books.}
 {232}{}{我的书已经够多了，但连载的书就不多了。你看，我想知道更多关于大战前几个月的细节。如果你找到关于这个话题的东西，我很乐意把它换成我的一本书。}
 #{233}{}{Hmm... It'll take a bit of work to find something like that.}
-{233}{}{隐马尔可夫模型。。。要找到那样的东西要花点功夫。}
+{233}{}{Hmm...要找到那样的东西要花点功夫。}
 #{234}{}{Hmm... [Vernon takes a good look at the articles.] Ah! Denver Post, isn't it! Goodness, it's been more than 50 years and they are still readable! Alright, you can pick something from my library in exchange for this, something valuable.}
-{234}{}{隐马尔可夫模型。。。[弗农仔细看了一下文章]啊！丹佛邮报，不是吗！天哪，已经50多年了，它们仍然可读！好吧，你可以从我的图书馆里选一些东西来交换这个，一些有价值的东西。}
+{234}{}{Hmm...[弗农仔细看了一下文章]啊！丹佛邮报，不是吗！天哪，已经50多年了，它们仍然可读！好吧，你可以从我的图书馆里选一些东西来交换这个，一些有价值的东西。}
 #{235}{}{I need a guide on surviving in the wilderness.}
 {235}{}{我需要一个野外生存指南。}
 #{236}{}{I'll give you the newspapers in exchange for the book on electronics.}
@@ -203,7 +203,7 @@
 #{240}{}{I'm interested in works about firearms.}
 {240}{}{我对有关枪械的作品感兴趣。}
 #{241}{}{I've been looking for something on energy weapons...}
-{241}{}{我一直在寻找能量武器。。。}
+{241}{}{我一直在寻找能量武器...}
 #{242}{}{I want to read these newspapers first. I'll bring them to you when I'm finished.}
 {242}{}{我想先看这些报纸。我吃完了就给你拿来。}
 #{243}{}{Teach you something? Well, I taught writing and mathematics to many residents of the city, but people usually stopped there. These days people are more practical and prefer not to waste their time on something of dubious benefit.}
@@ -273,9 +273,9 @@
 #{275}{}{I'm not exactly sure that I can teach you anything you don't already know.}
 {275}{}{我不确定我能不能教你一些你还不知道的东西。}
 #{300}{}{Youth these days...}
-{300}{}{年轻的这些天。。。}
+{300}{}{年轻的这些天...}
 #{301}{}{No, that's not it, not it...}
-{301}{}{不，不是这样，不是这样。。。}
+{301}{}{不，不是这样，不是这样...}
 #{302}{}{No, really, this comedian should've been hanged at once.}
 {302}{}{不，真的，这个喜剧演员应该马上被绞死。}
 #{303}{}{Nothing interesting about this.}
@@ -283,11 +283,11 @@
 #{304}{}{Another dime novel.}
 {304}{}{又是一本廉价小说。}
 #{305}{}{This is nonsense! Oh... It's a book on psychiatry...}
-{305}{}{这是胡说八道！哦。。。这是一本关于精神病学的书。。。}
+{305}{}{这是胡说八道！哦...这是一本关于精神病学的书...}
 #{306}{}{My God, if only I was born in 19th century!}
 {306}{}{天哪，要是我出生在19世纪就好了！}
 #{307}{}{Civilization has become... Free, yes.}
-{307}{}{文明已经变成。。。免费的，是的。}
+{307}{}{文明已经变成...免费的，是的。}
 #{308}{}{You can't really be strong until you see a funny side to things.}
 {308}{}{只有看到事物有趣的一面，你才能真正坚强。}
 #{309}{}{You have to laugh at the things that hurt you to keep the world from running you plumb crazy.}
@@ -321,6 +321,6 @@
 #{323}{}{Begin at the beginning and go on till you come to the end, then stop.}
 {323}{}{从头开始，一直走到最后，然后停下来。}
 #{1123}{}{Well now! If you knew more about him, young lady, you'd understand that that "humble dwelling" of Diogenes was quite *sufficient* for him and the conditions he lived in: after all, the climate, the scenery, the company...}
-{1123}{}{好吧，现在！如果你对他了解得更多，小姐，你就会明白提奥奇尼斯的“简陋住所”对他和他所处的条件来说是相当“足够”的：毕竟，这里的气候、风景、公司。。。}
+{1123}{}{好吧，现在！如果你对他了解得更多，小姐，你就会明白提奥奇尼斯的“简陋住所”对他和他所处的条件来说是相当“足够”的：毕竟，这里的气候、风景、公司...}
 #{1255}{}{Thank you, wanderer, it was a pleasure dealing with you.}
 {1255}{}{谢谢你，流浪汉，很高兴和你打交道。}

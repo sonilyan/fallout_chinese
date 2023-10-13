@@ -15,17 +15,17 @@
 #{112}{}{The Law is harsh, but it's the law}
 {112}{}{法律是严厉的，但这是法律}
 #{113}{}{Sure, you can break any law in Vegas... But first take care of your funeral.}
-{113}{}{当然，你可以在维加斯犯法。。。但首先要处理好你的葬礼。}
+{113}{}{当然，你可以在维加斯犯法...但首先要处理好你的葬礼。}
 #{114}{}{::stroking the holster, warily looks at you::}
 {114}{}{●抚摸皮套，警惕地看着你：}
 #{115}{}{We will not allow the crowd to beat you... We just don't tolerate the competition!}
-{115}{}{我们不会让群众打败你。。。我们不能容忍竞争！}
+{115}{}{我们不会让群众打败你...我们不能容忍竞争！}
 #{116}{}{There is no such thing as innocence, only a degrees of guilt}
 {116}{}{世上没有清白，只有一定程度的内疚}
 #{117}{}{Behave - and you will see the same response}
 {117}{}{规矩点-你会看到同样的反应}
 #{120}{}{Ghouls don't belong here... Er, no, I wasn't talking to you.}
-{120}{}{食尸鬼不属于这里。。。呃，不，我没和你说话。}
+{120}{}{食尸鬼不属于这里...呃，不，我没和你说话。}
 #{121}{}{What!? Freak in the city!? Oops, my mistake, sorry.}
 {121}{}{什么！？城里的怪胎！？哦，我错了，对不起。}
 #{122}{}{Don't do anything stupid, ghoul.}

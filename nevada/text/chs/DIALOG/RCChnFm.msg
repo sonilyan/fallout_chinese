@@ -35,9 +35,9 @@
 #{123}{}{We do not dare resisting the will of the Emperor. He decided that - so we must obey. But we like living as farmers, I must say. The soil smells of life and soothes - and city ruins only set anguish and anger upon us.}
 {123}{}{我们不敢违抗皇帝的意志。他决定-所以我们必须服从。但我必须说，我们喜欢农民的生活。这片土地散发着生命的气息，令人心旷神怡，而城市废墟只会给我们带来痛苦和愤怒。}
 #{124}{}{We cultivate maize and breed Brahmin. We are peasants, we are born to do this.}
-{124}{}{我们种植玉米，培育婆罗门。我们是农民，我们生来就是要这样做的。}
+{124}{}{我们种植玉米，培育双头牛。我们是农民，我们生来就是要这样做的。}
 #{125}{}{But we live here well. We grow crops, breed cattle, we are not hampered by the noise and bustle of the big city. Now this is our home. And we do not want to leave, even if the earth dragons devour all our brahmin.}
-{125}{}{但我们住在这里很好。我们种庄稼，养牛，我们不受大城市喧嚣的阻碍。现在这是我们的家。我们不想离开，即使地上的龙吞噬了我们所有的婆罗门。}
+{125}{}{但我们住在这里很好。我们种庄稼，养牛，我们不受大城市喧嚣的阻碍。现在这是我们的家。我们不想离开，即使地上的龙吞噬了我们所有的双头牛。}
 #{126}{}{Earth dragons?}
 {126}{}{地球龙？}
 #{127}{}{Oh, Nelson hasn't told yet? The greed of people that worked at the mine awakened the earth dragons. They want to punish people, as God once punished them with an infernal flame that wiped out entire cities.}
@@ -47,19 +47,19 @@
 #{129}{}{Well, then there is nothing easier than to create more noise. We even had to remove the noisemaker made from cans, that guarded our herd at night. It's on the shelves.}
 {129}{}{那么，没有什么比制造更多的噪音更容易的了。我们甚至不得不把罐头做的噪音制造器移走，它在晚上保护着我们的牛群。它在架子上。}
 #{150}{}{I apologize, but your brahmin is needed to save this settlement.}
-{150}{}{我很抱歉，但是你的婆罗门需要拯救这个定居点。}
+{150}{}{我很抱歉，但是你的双头牛需要拯救这个定居点。}
 #{151}{}{Betty? She's the only one left. We can not give it away just like that.}
 {151}{}{贝蒂？她是唯一剩下的人。我们不能就这样把它送人。}
 #{152}{}{Betty? Do you give names to all your Brahmin?}
-{152}{}{贝蒂？你给你所有的婆罗门起名字了吗？}
+{152}{}{贝蒂？你给你所有的双头牛起名字了吗？}
 #{153}{}{Think about it - someday these underground creatures not only will eat miners, but will get to you and Betty.}
 {153}{}{想想看，总有一天，这些地下生物不仅会吃掉矿工，还会吃掉你和贝蒂。}
 #{154}{}{I can buy this brahmin. Will 1000 bucks satisfy you?}
-{154}{}{我可以买这个婆罗门。1000美元能让你满意吗？}
+{154}{}{我可以买这个双头牛。1000美元能让你满意吗？}
 #{155}{}{You think about the offer, while I walk around.}
 {155}{}{当我四处走动的时候，你想想这个提议。}
 #{156}{}{Actually, it's not us who called her like that, but the old Nelson. He called all our brahmin with such name, sometimes muttering, as if in jest: "Betty, my beauty, you want a ride in my car?" Seems like a long life without women is affecting him, tee-hee.}
-{156}{}{实际上，不是我们这样叫她，而是老尼尔森。他用这样的名字称呼我们所有的婆罗门，有时喃喃自语，好像在开玩笑：“贝蒂，我的美人，你想坐我的车吗？”似乎没有女人的漫长生活影响着他，泰熙。}
+{156}{}{实际上，不是我们这样叫她，而是老尼尔森。他用这样的名字称呼我们所有的双头牛，有时喃喃自语，好像在开玩笑：“贝蒂，我的美人，你想坐我的车吗？”似乎没有女人的漫长生活影响着他，泰熙。}
 #{157}{}{[They whisper with each other for a while] We agree.}
 {157}{}{[他们窃窃私语了一会儿]我们同意。}
 #{158}{}{Here's the money.}
@@ -67,7 +67,7 @@
 #{159}{}{I'll return with money.}
 {159}{}{我会带着钱回来的。}
 #{160}{}{We'll be sorry to part with Betty...}
-{160}{}{我们很抱歉和贝蒂分手。。。}
+{160}{}{我们很抱歉和贝蒂分手...}
 #{161}{}{It does not matter anymore. Now she's mine!}
 {161}{}{这已经不重要了。现在她是我的了！}
 #{162}{}{I understand. But nothing lasts forever.}

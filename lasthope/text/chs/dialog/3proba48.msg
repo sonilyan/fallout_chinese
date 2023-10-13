@@ -1,49 +1,64 @@
-{100}{}{You see: a man geared for combat.}
-{101}{}{His face seems to say “dead or alive” and no questions asked.}
-#
-{102}{}{Just move on. I have no interest in you.}
-{103}{}{Why not?}
-{104}{}{[Move on.]}
-#after 103
-{105}{}{[Stares at you.]}
-#cheeky (male)
-{106}{}{Some say I'm rather handsome.}
- #cheeky (female)
-{1106}{}{Some say I'm rather pretty.}
-{107}{}{Perhaps we have a mutual interest.}
-{108}{}{Gee... some people. [Move on.]}
-#after 106/1106
-{109}{}{[Looks you up and down once more. Then continues to stare.]}
-{110}{}{Your loss.}
-#after 107
-{111}{}{How come?}
-{112}{}{You're looking for people. I'm looking for people. Maybe we're looking for the same bunch.}
-#after 112
-{113}{}{Maybe, but I don't get chummy.}
-{114}{}{I see. Tough guy, and all. Lone wolf sitting by the fire, staring in the empty desert, listening to the coyote's
- howl, having a wank, then going to bed alone.}
-{115}{}{Still did you see anything? Group of four. Kinda on the move. Wearing Robes.}
-#after 115
-{116}{}{Tell me more...}
-{117}{}{Nevermind.}
-#
+### {100}{}{You see: a man geared for combat.}
+{100}{}{Äã¿´£ºÒ»¸öÎªÕ½¶·×öºÃ×¼±¸µÄÈË¡£}
+### {101}{}{His face seems to say ?dead or alive? and no questions asked.}
+{101}{}{ËûµÄÁ³ËÆºõÔÚËµ?ËÀµÄ»¹ÊÇ»îµÄ? Ã»ÓĞÈÎºÎÎÊÌâ¡£}
+### {102}{}{Just move on. I have no interest in you.}
+{102}{}{¼ÌĞø°É£¬ÎÒ¶ÔÄãÃ»ÓĞĞËÈ¤¡£}
+### {103}{}{Why not?}
+{103}{}{ÎªÊ²Ã´²»ÄØ£¿}
+### {104}{}{[Move on.]}
+{104}{}{[¼ÌĞøÇ°½ø¡£]}
+### {105}{}{[Stares at you.]}
+{105}{}{[¶¢×ÅÄã¿´¡£]}
+### {106}{}{Some say I'm rather handsome.}
+{106}{}{ÓĞÈËËµÎÒºÜË§¡£}
+### {1106}{}{Some say I'm rather pretty.}
+{1106}{}{ÓĞÈËËµÎÒÏàµ±Æ¯ÁÁ¡£}
+### {107}{}{Perhaps we have a mutual interest.}
+{107}{}{Ò²ĞíÎÒÃÇÓĞ¹²Í¬µÄÀûÒæ¡£}
+### {108}{}{Gee... some people. [Move on.]}
+{108}{}{ÍÛÓĞĞ©ÈË¡£[¼ÌĞø¡£]}
+### {109}{}{[Looks you up and down once more. Then continues to stare.]}
+{109}{}{[ÔÙ´ÎÉÏÏÂ´òÁ¿Äã¡£È»ºó¼ÌĞøÄıÊÓ¡£]}
+### {110}{}{Your loss.}
+{110}{}{ÄãµÄËğÊ§¡£}
+### {111}{}{How come?}
+{111}{}{ÎªÊ²Ã´£¿}
+### {112}{}{You're looking for people. I'm looking for people. Maybe we're looking for the same bunch.}
+{112}{}{ÄãÔÚÕÒÈË¡£ÎÒÔÚÕÒÈË¡£Ò²ĞíÎÒÃÇÔÚÕÒÍ¬Ò»ÈºÈË¡£}
+### {113}{}{Maybe, but I don't get chummy.}
+{113}{}{Ò²Ğí°É£¬µ«ÎÒ²¢²»Ç×ÃÜ¡£}
+### {114}{}{I see. Tough guy, and all. Lone wolf sitting by the fire, staring in the empty desert, listening to the coyote's howl, having a wank, then going to bed alone.}
+{114}{}{ÎÒÃ÷°×ÁË¡£Ó²ºº£¬µÈµÈ¡£¹Â¶ÀµÄÀÇ×øÔÚÂ¯»ğÅÔ£¬ÄıÊÓ×Å¿Õ¿õµÄÉ³Ä®£¬Ìı×Å½¼ÀÇµÄº¿½Ğ£¬¹¾¹¾½Ğ×Å£¬È»ºó¶À×ÔÉÏ´²Ë¯¾õ¡£}
+### {115}{}{Still did you see anything? Group of four. Kinda on the move. Wearing Robes.}
+{115}{}{Äã»¹ÊÇ¿´µ½Ê²Ã´ÁËÂğ£¿ËÄÈËÒ»×é¡£ÓĞµãÒÆ¶¯¡£´©×Å³¤ÅÛ¡£}
+### {116}{}{Tell me more...}
+{116}{}{¸æËßÎÒ¸ü¶à¡£¡£¡£}
+### {117}{}{Nevermind.}
+{117}{}{ÓÀÔ¶²»»á¡£}
 {118}{}{}
 {119}{}{}
-#floats when prison timer ran out
-{120}{}{Hold it, convict!}
-{121}{}{You're going back to jail, one way or another.}
+### {120}{}{Hold it, convict!}
+{120}{}{×¡ÊÖ£¬×ï·¸£¡}
+### {121}{}{You're going back to jail, one way or another.}
+{121}{}{²»¹ÜÔõÑù£¬Äã¶¼Òª»Ø¼àÓüÁË¡£}
 {122}{}{}
 {123}{}{}
-#floats when player is evil
-{124}{}{There's a price on your head that needs collecting.}
-{125}{}{Scum of the wasteland. DIE!}
+### {124}{}{There's a price on your head that needs collecting.}
+{124}{}{ÄãÍ·ÉÏÓĞÒ»¸ö¼Û¸ñĞèÒªÊÕ¼¯¡£}
+### {125}{}{Scum of the wasteland. DIE!}
+{125}{}{»ÄÔ­ÉÏµÄÔü×Ò¡£ËÀ£¡}
 {126}{}{}
 {127}{}{}
-#
-{128}{}{You have failed to use your steal skill.}
-{129}{}{[Chance: }
-#non-verbal floats
-{130}{}{::looks you up and down::}
-{131}{}{::chews for a while then spits::}
-{132}{}{::checks his gun::}
-{133}{}{::stares at you::}
+### {128}{}{You have failed to use your steal skill.}
+{128}{}{ÄãÃ»ÓĞÊ¹ÓÃÄãµÄÍµ¼¼¡£}
+### {129}{}{[Chance: }
+{129}{}{[»ú»á£º}
+### {130}{}{::looks you up and down::}
+{130}{}{::ÉÏÏÂ´òÁ¿Äã::}
+### {131}{}{::chews for a while then spits::}
+{131}{}{::½ÀÒ»»á¶ùÈ»ºóÍÂ::}
+### {132}{}{::checks his gun::}
+{132}{}{::¼ì²éËûµÄÇ¹::}
+### {133}{}{::stares at you::}
+{133}{}{::¶¢×ÅÄã::}

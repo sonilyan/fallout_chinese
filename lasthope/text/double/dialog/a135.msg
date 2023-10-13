@@ -1,57 +1,72 @@
-{100}{}{Hey, I don't know you... You better not be here to bother old Greg... 'cause if you are...}
-{101}{}{I just wanted to ask you something. What is this place?}
-{102}{}{Not at all, sir. Old Ron from Philton asked me to bring you these...}
-{103}{}{Sorry, I'm just passing by.}
-#place...
-{104}{}{This was the old storage unit. But it was too small to meet their daily demands. So Larry moved
- his stuff to a bigger place and let me use this as my workshop, and you know the rest... Something else you wanted?}
-{105}{}{No, that's all.}
-#all...
-{106}{}{What? I can't hear you... Ah forget it, I'm just kidding with you. But now beat it, I'm working here, kid.}
-{107}{}{Alright then.}
-#
-{108}{}{Hah, the old bastard... He can't do anything by himself. Hey, nice ore you got there. So, you want me to do
- something with these or what?}
-{109}{}{Can you use them to make... something?}
-{110}{}{I don't know... Ron told me you know what to do?}
-{111}{}{Perhaps you could start making some barrels now, please...}
-{112}{}{Don't ask me, you are the one who works here.}
-{113}{}{Ah, the old folks... know nothing, forget everything.}
-{114}{}{They could use some good cleaning, if you know what I mean.}
-#109,110,112...
-{115}{}{Unless you are giving these for free, I really don't know what you want me to do with 'em. Tell you what... I'll
- just put these on the shelf here and you let me know when you make up your mind. [He takes the ore and starts walking
- towards the shelves.]}
-{116}{}{Wait, damn it! Make me some barrels, OK?}
-{117}{}{Fine, take the damn stuff, I don't need it.}
-{118}{}{Hey that's mine, give it back!}
-#116,111...
-{119}{}{I guess... [He starts counting with his fingers, constantly mumbling for about a minute.] I can do that. How
- many do you need?}
-{120}{}{As many as you can make.}
-{121}{}{Oh, for God's sake! I don't care, just make me something.}
-# 120,121,117...
-{122}{}{Alright, [chuckles] I'll take it from here... And, this could take a while, why don't you come back tomorrow...
- [Scratching his head.] No, wait... Better make it two days, yes... Oh, damn... [He opens his eyes wide like he just
- remembered something.]}
-{123}{}{What?}
-#123...
-{124}{}{Oh, nothing. I just have so much work to do... I guess I'll be seeing you in three days.}
-{125}{}{You just said two... Oh, nevermind.}
-#113,114...
-{126}{}{Hey, I'm old but I'm not stupid! And I can sure hear what you're saying you little piece o’ shit! The deal is off,
- grab your crap and get out!}
-{127}{}{OK, grandpa... [Leave.]}
-#back in less than 3 days...
-{128}{}{You look familiar, I have seen you before, right?}
-{129}{}{Sure, I asked you to make some barrels for old Ron...}
-{130}{}{Whatever, I'm out of here.}
-#for old Ron... finished
-{131}{}{Ron, eh? Yeah, I got it... Hmm... [Turns around looking for something.] Where did I put those...? Ah, there
- they are. Here you go, don't drop them. And say hello to Ron for me.}
-{132}{}{Alright, thanks.}
-#for old Ron... not finished
-{133}{}{You're a bit early... I'm not done yet, come back later.}
-{134}{}{Sure.}
-#
-{135}{}{Get out!}
+### {100}{}{Hey, I don't know you... You better not be here to bother old Greg... 'cause if you are...}
+{100}{}{ºÙ£¬ÎÒ²»ÈÏÊ¶Äã¡£¡£¡£Äã×îºÃ²»ÒªÀ´´òÈÅÀÏ¸ñÀ×¸ñ¡­¡±ÒòÎªÈç¹ûÄãÊÇ¡£¡£¡£ -- Hey, I don't know you... You better not be here to bother old Greg... 'cause if you are...}
+### {101}{}{I just wanted to ask you something. What is this place?}
+{101}{}{ÎÒÖ»ÊÇÏëÎÊÄãÒ»¼şÊÂ¡£ÕâÊÇÊ²Ã´µØ·½£¿ -- I just wanted to ask you something. What is this place?}
+### {102}{}{Not at all, sir. Old Ron from Philton asked me to bring you these...}
+{102}{}{Ò»µãÒ²²»£¬ÏÈÉú¡£·Æ¶û¶ÙµÄÀÏÂŞ¶÷ÈÃÎÒ¸øÄã´øÕâĞ©¡£¡£¡£ -- Not at all, sir. Old Ron from Philton asked me to bring you these...}
+### {103}{}{Sorry, I'm just passing by.}
+{103}{}{¶Ô²»Æğ£¬ÎÒÖ»ÊÇÂ·¹ı¡£ -- Sorry, I'm just passing by.}
+### {104}{}{This was the old storage unit. But it was too small to meet their daily demands. So Larry moved his stuff to a bigger place and let me use this as my workshop, and you know the rest... Something else you wanted?}
+{104}{}{ÕâÊÇ¾ÉµÄ´¢²ØÊÒ¡£µ«ËüÌ«Ğ¡ÁË£¬ÎŞ·¨Âú×ãËûÃÇµÄÈÕ³£ĞèÇó¡£ËùÒÔÀ­Àï°ÑËûµÄ¶«Î÷°áµ½ÁËÒ»¸ö¸ü´óµÄµØ·½£¬ÈÃÎÒ°ÑÕâÀïµ±×÷ÎÒµÄ¹¤×÷ÊÒ£¬ÄãÖªµÀÊ£ÏÂµÄ¡­¡­Äã»¹ÏëÒªÊ²Ã´Âğ£¿ -- This was the old storage unit. But it was too small to meet their daily demands. So Larry moved his stuff to a bigger place and let me use this as my workshop, and you know the rest... Something else you wanted?}
+### {105}{}{No, that's all.}
+{105}{}{²»£¬½ö´Ë¶øÒÑ¡£ -- No, that's all.}
+### {106}{}{What? I can't hear you... Ah forget it, I'm just kidding with you. But now beat it, I'm working here, kid.}
+{106}{}{Ê²Ã´ÎÒÌı²»¼ûÄãËµ»°¡£¡£¡£°¡£¬ËãÁË£¬ÎÒÖ»ÊÇÔÚ¸úÄã¿ªÍæĞ¦¡£µ«ÏÖÔÚ±ğÕâÑù£¬ÎÒÔÚÕâÀï¹¤×÷£¬º¢×Ó¡£ -- What? I can't hear you... Ah forget it, I'm just kidding with you. But now beat it, I'm working here, kid.}
+### {107}{}{Alright then.}
+{107}{}{ºÃ°É¡£ -- Alright then.}
+### {108}{}{Hah, the old bastard... He can't do anything by himself. Hey, nice ore you got there. So, you want me to do something with these or what?}
+{108}{}{¹ş£¬ÀÏ»ìµ°¡£¡£¡£ËûÒ»¸öÈËÊ²Ã´¶¼×ö²»ÁË¡£ºÙ£¬ºÜºÃ£¬Äãµ½ÁË¡£ÄÇÃ´£¬ÄãÏëÈÃÎÒÓÃÕâĞ©×öµãÊ²Ã´Âğ£¿ -- Hah, the old bastard... He can't do anything by himself. Hey, nice ore you got there. So, you want me to do something with these or what?}
+### {109}{}{Can you use them to make... something?}
+{109}{}{ÄãÄÜÓÃËüÃÇ×ö¡£¡£¡£Ä³Îï -- Can you use them to make... something?}
+### {110}{}{I don't know... Ron told me you know what to do?}
+{110}{}{ÎÒ²»ÖªµÀ¡£¡£¡£ÂŞ¶÷¸æËßÎÒÄãÖªµÀ¸ÃÔõÃ´°ìÂğ£¿ -- I don't know... Ron told me you know what to do?}
+### {111}{}{Perhaps you could start making some barrels now, please...}
+{111}{}{Ò²ĞíÄãÏÖÔÚ¿ÉÒÔ¿ªÊ¼×öÒ»Ğ©Í°ÁË£¬°İÍĞ¡£¡£¡£ -- Perhaps you could start making some barrels now, please...}
+### {112}{}{Don't ask me, you are the one who works here.}
+{112}{}{±ğÎÊÎÒ£¬Äã²ÅÊÇÔÚÕâÀï¹¤×÷µÄÈË¡£ -- Don't ask me, you are the one who works here.}
+### {113}{}{Ah, the old folks... know nothing, forget everything.}
+{113}{}{°¡£¬ÀÏÈËÃÇ¡£¡£¡£Ê²Ã´¶¼²»ÖªµÀ£¬Ê²Ã´¶¼Íü¼Ç¡£ -- Ah, the old folks... know nothing, forget everything.}
+### {114}{}{They could use some good cleaning, if you know what I mean.}
+{114}{}{Èç¹ûÄãÃ÷°×ÎÒµÄÒâË¼µÄ»°£¬ËûÃÇĞèÒªºÃºÃ´òÉ¨¡£ -- They could use some good cleaning, if you know what I mean.}
+### {115}{}{Unless you are giving these for free, I really don't know what you want me to do with 'em. Tell you what... I'll just put these on the shelf here and you let me know when you make up your mind. [He takes the ore and starts walking towards the shelves.]}
+{115}{}{³ı·ÇÄãÃâ·ÑËÍ£¬·ñÔòÎÒÕæµÄ²»ÖªµÀÄãÏëÈÃÎÒÔõÃ´´¦ÀíËüÃÇ¡£¸æËßÄã¡£¡£¡£ÎÒ¾Í°ÑÕâĞ©·ÅÔÚÕâÀïµÄ¼Ü×ÓÉÏ£¬ÄãÏÂ¶¨¾öĞÄµÄÊ±ºò¸æËßÎÒ¡£[Ëû½Ó¹ı¿óÊ¯£¬¿ªÊ¼×ßÏò»õ¼Ü¡£] -- Unless you are giving these for free, I really don't know what you want me to do with 'em. Tell you what... I'll just put these on the shelf here and you let me know when you make up your mind. [He takes the ore and starts walking towards the shelves.]}
+### {116}{}{Wait, damn it! Make me some barrels, OK?}
+{116}{}{µÈµÈ£¬¸ÃËÀ£¡¸øÎÒ×öÒ»Ğ©Í°£¬ºÃÂğ£¿ -- Wait, damn it! Make me some barrels, OK?}
+### {117}{}{Fine, take the damn stuff, I don't need it.}
+{117}{}{ºÃ°É£¬ÄÃ×ßÄÇĞ©¸ÃËÀµÄ¶«Î÷£¬ÎÒ²»ĞèÒª¡£ -- Fine, take the damn stuff, I don't need it.}
+### {118}{}{Hey that's mine, give it back!}
+{118}{}{ºÙ£¬ÄÇÊÇÎÒµÄ£¬»¹¸øÎÒ£¡ -- Hey that's mine, give it back!}
+### {119}{}{I guess... [He starts counting with his fingers, constantly mumbling for about a minute.] I can do that. How many do you need?}
+{119}{}{ÎÒÏë¡£¡£¡£[Ëû¿ªÊ¼ÓÃÊÖÖ¸Êı£¬²»Í£µØà«à«×ÔÓï´óÔ¼Ò»·ÖÖÓ¡£]ÎÒÄÜ×öµ½¡£ÄãĞèÒª¶àÉÙ£¿ -- I guess... [He starts counting with his fingers, constantly mumbling for about a minute.] I can do that. How many do you need?}
+### {120}{}{As many as you can make.}
+{120}{}{¾¡¿ÉÄÜ¶à¡£ -- As many as you can make.}
+### {121}{}{Oh, for God's sake! I don't care, just make me something.}
+{121}{}{Å¶£¬¿´ÔÚÉÏµÛµÄ·İÉÏ£¡ÎÒ²»ÔÚºõ£¬Ö»Òª¸øÎÒ×öµãÊ²Ã´¾ÍĞĞÁË¡£ -- Oh, for God's sake! I don't care, just make me something.}
+### {122}{}{Alright, [chuckles] I'll take it from here... And, this could take a while, why don't you come back tomorrow... [Scratching his head.] No, wait... Better make it two days, yes... Oh, damn... [He opens his eyes wide like he just remembered something.]}
+{122}{}{ºÃ°É£¬[Ğ¦]ÎÒ´ÓÕâÀï¿ªÊ¼¡£¡£¡£¶øÇÒ£¬Õâ¿ÉÄÜĞèÒªÒ»¶ÎÊ±¼ä£¬ÄãÎªÊ²Ã´²»Ã÷Ìì»ØÀ´¡£¡£¡£[ÄÓÍ·¡£]²»£¬µÈµÈ¡£¡£¡£×îºÃÊÇÁ½Ìì£¬ÊÇµÄ¡£¡£¡£Å¶£¬¸ÃËÀ¡£¡£¡£[ËûÕö´óÑÛ¾¦£¬ºÃÏñ¸ÕÏëÆğÊ²Ã´¡£] -- Alright, [chuckles] I'll take it from here... And, this could take a while, why don't you come back tomorrow... [Scratching his head.] No, wait... Better make it two days, yes... Oh, damn... [He opens his eyes wide like he just remembered something.]}
+### {123}{}{What?}
+{123}{}{Ê²Ã´ -- What?}
+### {124}{}{Oh, nothing. I just have so much work to do... I guess I'll be seeing you in three days.}
+{124}{}{Å¶£¬Ã»Ê²Ã´¡£ÎÒ»¹ÓĞºÜ¶à¹¤×÷Òª×ö¡­¡­ÎÒÏëÈıÌìºó¾Í»á¼ûµ½Äã¡£ -- Oh, nothing. I just have so much work to do... I guess I'll be seeing you in three days.}
+### {125}{}{You just said two... Oh, nevermind.}
+{125}{}{Äã¸Õ²ÅËµÁËÁ½¸ö¡£¡£¡£Å¶£¬Ã»¹ØÏµ¡£ -- You just said two... Oh, nevermind.}
+### {126}{}{Hey, I'm old but I'm not stupid! And I can sure hear what you're saying you little piece o? shit! The deal is off, grab your crap and get out!}
+{126}{}{ºÙ£¬ÎÒÀÏÁË£¬µ«ÎÒ²»±¿£¡ÎÒÄÜÌıµ½ÄãÔÚËµÊ²Ã´£¬ÄãÕâ¸öĞ¡¼Ò»ï? ÂèµÄ£¡½»Ò×½áÊøÁË£¬×¥×¡ÄãµÄÀ¬»ø¹ö³öÈ¥£¡ -- Hey, I'm old but I'm not stupid! And I can sure hear what you're saying you little piece o? shit! The deal is off, grab your crap and get out!}
+### {127}{}{OK, grandpa... [Leave.]}
+{127}{}{ºÃ°É£¬Ò¯Ò¯¡£¡£¡£[Àë¿ª¡£] -- OK, grandpa... [Leave.]}
+### {128}{}{You look familiar, I have seen you before, right?}
+{128}{}{Äã¿´ÆğÀ´ºÜÑÛÊì£¬ÎÒÒÔÇ°¼û¹ıÄã£¬¶Ô°É£¿ -- You look familiar, I have seen you before, right?}
+### {129}{}{Sure, I asked you to make some barrels for old Ron...}
+{129}{}{µ±È»£¬ÎÒÈÃÄãÎªÀÏÂŞ¶÷×öÒ»Ğ©Í°¡£¡£¡£ -- Sure, I asked you to make some barrels for old Ron...}
+### {130}{}{Whatever, I'm out of here.}
+{130}{}{²»¹ÜÔõÑù£¬ÎÒÒªÀë¿ªÕâÀï¡£ -- Whatever, I'm out of here.}
+### {131}{}{Ron, eh? Yeah, I got it... Hmm... [Turns around looking for something.] Where did I put those...? Ah, there they are. Here you go, don't drop them. And say hello to Ron for me.}
+{131}{}{ÂŞ¶÷£¬àÅ£¿ÊÇµÄ£¬ÎÒÕÒµ½ÁË¡­àÅ¡­[×ªÉíÕÒ¶«Î÷¡£]ÎÒ°ÑÄÇĞ©¡­·ÅÔÚÄÄÀïÁË¡£¡£¡££¿°¡£¬ËûÃÇÀ´ÁË¡£¸øÄã£¬±ğÈÓÁË¡£ÌæÎÒÏòÂŞ¶÷ÎÊºÃ¡£ -- Ron, eh? Yeah, I got it... Hmm... [Turns around looking for something.] Where did I put those...? Ah, there they are. Here you go, don't drop them. And say hello to Ron for me.}
+### {132}{}{Alright, thanks.}
+{132}{}{ºÃµÄ£¬Ğ»Ğ»¡£ -- Alright, thanks.}
+### {133}{}{You're a bit early... I'm not done yet, come back later.}
+{133}{}{ÄãÀ´µÃÓĞµãÔç¡£¡£¡£ÎÒ»¹Ã»×öÍê£¬ÉÔºóÔÙÀ´¡£ -- You're a bit early... I'm not done yet, come back later.}
+### {134}{}{Sure.}
+{134}{}{µ±È» -- Sure.}
+### {135}{}{Get out!}
+{135}{}{¹ö³öÈ¥£¡ -- Get out!}

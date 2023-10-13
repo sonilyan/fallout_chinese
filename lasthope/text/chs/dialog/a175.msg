@@ -1,21 +1,12 @@
-{100}{}{You see: the statue of a running man, still not fast enough to avoid the pigeons. The plaque reads: Founder
- and first mayor of the “golden” valley (2106 to 2132).}
-#Description
-{101}{}{[You read the plaque. It says:] John Doe (born 2072) left the vault after the great war. He traveled the
- mountains in search of his luck. He was down to his last 10mm bullet & half a stimpak, when in 2106 he found a valley
- of glittering gold. And John Doe decided that this was the place to build his home. The community grew, on the riches
- of golden rock, but it also brought from the waste a pack of villainous rats. Named mayor in 2116, John Doe promised
- to make a stand, and in a night of blazing guns, he drove the bandits to the desert and back to empty land. All was well,
- and all was fine.}
-{102}{}{The valley prospered under John Doe, until 2132 when a villain by the name of Richard Roe came into
- town. This man was crooked and unfair, he would trick and lie, he would swindle and swear. John Doe, a man of
- honest character and fair, wouldn't stand for this wretched affair, and when Richard left with stolen goods, John
- Doe swore to never rest, to never sleep until he found and brought to law, this twisted crook, the villain Roe. He took
- his stimpak, he packed his pistol, just as he begun, and left north, always north, following the tracks of the devil
- Roe.}
-{103}{}{And thus ends the ballad of John Doe, first mayor of Golden Valley, against Richard Roe. If he ever
- caught him? No one knows, as no one ever heard of the pair again. But to the people of this valley, it shall always be
- remembered to always stay true in the battle against injustice, as did our founder, John Doe. [That's all it says. A long
- story from a long time ago.]}
-{104}{}{[Next.]}
-{105}{}{[Exit.]}
+### {100}{}{You see: the statue of a running man, still not fast enough to avoid the pigeons. The plaque reads: Founder and first mayor of the ?golden? valley (2106 to 2132).}
+{100}{}{Äã¿´£ºÒ»¸ö±¼ÅÜµÄÈËµÄµñÏñ£¬ÈÔÈ»²»¹»¿ì£¬ÎŞ·¨¶ã±Ü¸ë×Ó¡£ÅÆØÒÉÏĞ´×Å£º?½ğÖÊµÄ? ¹È£¨2106ÖÁ2132£©¡£}
+### {101}{}{[You read the plaque. It says:] John Doe (born 2072) left the vault after the great war. He traveled the mountains in search of his luck. He was down to his last 10mm bullet & half a stimpak, when in 2106 he found a valley of glittering gold. And John Doe decided that this was the place to build his home. The community grew, on the riches of golden rock, but it also brought from the waste a pack of villainous rats. Named mayor in 2116, John Doe promised to make a stand, and in a night of blazing guns, he drove the bandits to the desert and back to empty land. All was well, and all was fine.}
+{101}{}{[Äã¶ÁÁËÅÆØÒ¡£ÉÏÃæĞ´×Å£º]Ô¼º²¡¤¶àÒÁ£¨2072Äê³öÉú£©ÔÚ´óÕ½ºóÀë¿ªÁË½ğ¿â¡£Ëû·­É½Ô½ÁëÑ°ÕÒÔËÆø¡£2106Äê£¬Ëû·¢ÏÖÁËÒ»¸öÉÁÉÁ·¢¹âµÄ½ğÉ«É½¹È£¬µ±Ê±ËûÖ»Éä³öÁË×îºóÒ»¿Å10ºÁÃ×µÄ×Óµ¯&°ë¸östimpak¡£Ô¼º²¡¤¶àÒÁ¾ö¶¨ÔÚÕâÀï½¨ÔìËûµÄ¼Ò¡£Õâ¸öÉçÇøÔÚ½ğÉ«ÑÒÊ¯µÄ²Æ¸»ÉÏ·¢Õ¹×³´ó£¬µ«ËüÒ²´Ó·ÏÎïÖĞ´øÀ´ÁËÒ»ÈºĞ°¶ñµÄÀÏÊó¡£2116Äê£¬Ô¼º²¡¤¶àÒÁ±»ÈÎÃüÎªÊĞ³¤£¬Ëû³ĞÅµÒª±íÃ÷Á¢³¡£¬ÔÚÒ»¸öÇ¹ÁÖµ¯ÓêµÄÒ¹Íí£¬Ëû°ÑÍÁ·Ë¸Ïµ½É³Ä®£¬È»ºóÓÖ»Øµ½ÁË¿ÕµØÉÏ¡£Ò»ÇĞ¶¼ºÜºÃ¡£}
+### {102}{}{The valley prospered under John Doe, until 2132 when a villain by the name of Richard Roe came into town. This man was crooked and unfair, he would trick and lie, he would swindle and swear. John Doe, a man of honest character and fair, wouldn't stand for this wretched affair, and when Richard left with stolen goods, John Doe swore to never rest, to never sleep until he found and brought to law, this twisted crook, the villain Roe. He took his stimpak, he packed his pistol, just as he begun, and left north, always north, following the tracks of the devil Roe.}
+{102}{}{É½¹ÈÔÚÔ¼º²¡¤¶àÒÁµÄÍ³ÖÎÏÂ·±ÈÙÆğÀ´£¬Ö±µ½2132Äê£¬Ò»¸öÃû½ĞÀí²éµÂ¡¤ÂŞµÄ¶ñ¹÷À´µ½ÁËĞ¡Õò¡£Õâ¸öÈËÊÇ²»¹«Æ½µÄ£¬Ëû»áÆÛÆ­ºÍÈö»Ñ£¬Ëû»áÕ©Æ­ºÍÖäÂî¡£Ô¼º²¡¤¶àÒÁ£¬Ò»¸ö³ÏÊµ¹«ÕıµÄÈË£¬²»»áÈİÈÌÕâ¼ş±¯²ÒµÄÊÂÇé¡£µ±Àí²éµÂ´ø×ÅÔßÎïÀë¿ªÊ±£¬Ô¼º²¡¤¶àÒÁ·¢ÊÄÓÀÔ¶²»»áĞİÏ¢£¬ÓÀÔ¶²»»áË¯¾õ£¬Ö±µ½Ëû·¢ÏÖ²¢½«Õâ¸öÅ¤ÇúµÄÆ­×Ó£¬¶ñ¹÷ÂŞÒÁÉşÖ®ÒÔ·¨¡£ËûÄÃ×ÅËûµÄstimpak£¬¸Õ¿ªÊ¼¾ÍÊÕÊ°ºÃÊÖÇ¹£¬ÑØ×ÅÄ§¹íRoeµÄ×ã¼£Ïò±±×ßÈ¥¡£}
+### {103}{}{And thus ends the ballad of John Doe, first mayor of Golden Valley, against Richard Roe. If he ever caught him? No one knows, as no one ever heard of the pair again. But to the people of this valley, it shall always be remembered to always stay true in the battle against injustice, as did our founder, John Doe. [That's all it says. A long story from a long time ago.]}
+{103}{}{½ğ¹ÈµÚÒ»ÈÎÊĞ³¤John Doe·´¶ÔRichard RoeµÄÃñÒ¥¾Í´Ë½áÊø¡£Èç¹ûËû×¥µ½ËûÁË£¿Ã»ÓĞÈËÖªµÀ£¬ÒòÎªÔÙÒ²Ã»ÓĞÈËÌıËµ¹ıÕâ¶ÔÇéÂÂ¡£µ«¶ÔÓÚÕâ¸öÉ½¹ÈµÄÈËÃñÀ´Ëµ£¬ÎÒÃÇ½«ÓÀÔ¶¼Ç×¡£¬ÔÚÓë²»¹«ÕıµÄ¶·ÕùÖĞÓÀÔ¶±£³ÖÕæÊµ£¬ÎÒÃÇµÄ´´Ê¼ÈËÔ¼º²¡¤¶àÒÁÒ²ÊÇÈç´Ë¡£[½ö´Ë¶øÒÑ¡£ÕâÊÇÒ»¸öºÜ¾ÃÒÔÇ°µÄ³¤»°¶ÌËµ¡£]}
+### {104}{}{[Next.]}
+{104}{}{[ÏÂÒ»¸ö]}
+### {105}{}{[Exit.]}
+{105}{}{[³ö¿Ú]}

@@ -1,11 +1,20 @@
-{100}{}{Who you?}
-{101}{}{Me live here.}
-{102}{}{Hello.}
-{103}{}{The spirits are good.}
-{104}{}{Crops are doing fine.}
-{105}{}{Ever tried roasted lizard?}
-{106}{}{We don't like strangers too much.}
-{107}{}{The earth is talking.}
-{108}{}{You funny.}
-#
-{109}{}{You see: A warrior.}
+### {100}{}{Who you?}
+{100}{}{你是谁？}
+### {101}{}{Me live here.}
+{101}{}{我住在这里。}
+### {102}{}{Hello.}
+{102}{}{你好}
+### {103}{}{The spirits are good.}
+{103}{}{精神很好。}
+### {104}{}{Crops are doing fine.}
+{104}{}{庄稼长得不错。}
+### {105}{}{Ever tried roasted lizard?}
+{105}{}{吃过烤蜥蜴吗？}
+### {106}{}{We don't like strangers too much.}
+{106}{}{我们不太喜欢陌生人。}
+### {107}{}{The earth is talking.}
+{107}{}{地球在说话。}
+### {108}{}{You funny.}
+{108}{}{你真有趣。}
+### {109}{}{You see: A warrior.}
+{109}{}{你看：一个战士。}

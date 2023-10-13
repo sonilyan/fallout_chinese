@@ -1,216 +1,288 @@
-# quick looks
-# unknown
-{100}{}{You see a strange machine. }
-# normal
-{101}{}{You see a slot machine. }
-# high roller
-{102}{}{You see a glittering slot machine. }
-# jackpot
-{103}{}{You see a gleaming slot machine. }
-
-# examines
-# unknown
-{130}{}{It has three eyes and one arm.}
-# bet amount
-{140}{}{The minimum bet is $}
+### {100}{}{You see a strange machine. }
+{100}{}{Äã¿´µ½Ò»Ì¨Ææ¹ÖµÄ»úÆ÷¡£}
+### {101}{}{You see a slot machine. }
+{101}{}{Äã¿´µ½Ò»Ì¨ÀÏ»¢»ú¡£}
+### {102}{}{You see a glittering slot machine. }
+{102}{}{Äã¿´µ½Ò»Ì¨ÉÁÉÁ·¢¹âµÄÀÏ»¢»ú¡£}
+### {103}{}{You see a gleaming slot machine. }
+{103}{}{Äã¿´µ½Ò»Ì¨ÉÁÉÁ·¢¹âµÄÀÏ»¢»ú¡£}
+### {130}{}{It has three eyes and one arm.}
+{130}{}{ËüÓĞÈıÖ»ÑÛ¾¦ºÍÒ»Ö»ÊÖ±Û¡£}
+### {140}{}{The minimum bet is $}
+{140}{}{×îµÍ¶Ä×¢Îª$}
+### {141}{}{.}
 {141}{}{.}
-# normal
-{150}{}{You swear you can see it looking at you out of the corner of your eye. }
-{151}{}{Its shiny frame and golden handle gleam seductively beneath the lights. }
-# high roller
-{165}{}{It's intended for high-rollers. }
-# jackpot
-{180}{}{Its high payoff amount seems mighty attractive. }
-
-# slot machine first play message
-{200}{}{[Your hand quivers as you reach for your coins. The machine continues to whisper at you.] *Come on,
- sugar…that's it…come on now…don't tease…*}
-{201}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath the lights. Its coin slot
- beckons you, and you feel your face flush with anticipation.}
-{202}{}{[Your hand quivers as you reach for your coins. The machine continues to whisper at you.] *Come on,
- honey…that's it…grab the handle…grip it firmly…come on now…*}
-
-# insert coin messages
-{250}{}{Insert $}
+### {150}{}{You swear you can see it looking at you out of the corner of your eye. }
+{150}{}{Äã·¢ÊÄÄã¿ÉÒÔ´ÓÑÛ½Ç¿´µ½ËüÔÚ¿´×ÅÄã¡£}
+### {151}{}{Its shiny frame and golden handle gleam seductively beneath the lights. }
+{151}{}{ËüÉÁÁÁµÄ¿ò¼ÜºÍ½ğÉ«µÄ°ÑÊÖÔÚµÆ¹âÏÂÉÁÉÁ·¢¹â¡£}
+### {165}{}{It's intended for high-rollers. }
+{165}{}{ËüÊÇÎª¸ßÊÕÈëÕßÉè¼ÆµÄ¡£}
+### {180}{}{Its high payoff amount seems mighty attractive. }
+{180}{}{ËüµÄ¸ß¶î»Ø±¨ËÆºõ¼«¾ßÎüÒıÁ¦¡£}
+### {200}{}{[Your hand quivers as you reach for your coins. The machine continues to whisper at you.] *Come on, sugar?that's it?come on now?don't tease?*}
+{200}{}{[µ±ÄãÉìÊÖÈ¥ÄÃÓ²±ÒÊ±£¬ÄãµÄÊÖÔÚ²ü¶¶¡£»úÆ÷¼ÌĞø¶ÔÄã¶úÓï¡£]*À´°É£¬Ç×°®µÄ?¾ÍÊÇÕâÑù?À´°É?²»ÒªÈ¡Ğ¦?*}
+### {201}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath the lights. Its coin slot beckons you, and you feel your face flush with anticipation.}
+{201}{}{Äã¿´µ½Ò»Ì¨ÀÏ»¢»ú¡£ËüÉÁÁÁµÄ¿ò¼ÜºÍ½ğÉ«µÄ°ÑÊÖÔÚµÆ¹âÏÂÉÁÉÁ·¢¹â¡£ËüµÄÍ¶±Ò¿ÚÔÚÏòÄãÕĞÊÖ£¬Äã»á¸Ğµ½Á³ÉÏ³äÂúÁËÆÚ´ı¡£}
+### {202}{}{[Your hand quivers as you reach for your coins. The machine continues to whisper at you.] *Come on, honey?that's it?grab the handle?grip it firmly?come on now?*}
+{202}{}{[µ±ÄãÉìÊÖÈ¥ÄÃÓ²±ÒÊ±£¬ÄãµÄÊÖÔÚ²ü¶¶¡£»úÆ÷¼ÌĞø¶ÔÄã¶úÓï¡£]*À´°É£¬Ç×°®µÄ?¾ÍÊÇÕâÑù?×¥×¡°ÑÊÖ?ÀÎÀÎ×¥×¡Ëü?À´°É?*}
+### {250}{}{Insert $}
+{250}{}{²åÈë$}
+### {251}{}{. }
 {251}{}{. }
-{252}{}{Play last $}
+### {252}{}{Play last $}
+{252}{}{×îºó²¥·Å$}
+### {253}{}{.}
 {253}{}{.}
-{254}{}{Call it a day.}
-{255}{}{You are broke. You are forced to call it a night.}
-{256}{}{Call it a night.}
-{257}{}{You are broke. You are forced to call it a day.}
-{258}{}{That does it! I'm leaving!}
-{259}{}{That does it! I'm leaving!}
-
-# this is the message for when the machine is played
-{500}{}{The rolls spin on the machine... }
-# this goes between every symbol, example:   "cherry... orange... melon... "
+### {254}{}{Call it a day.}
+{254}{}{µ½´ËÎªÖ¹¡£}
+### {255}{}{You are broke. You are forced to call it a night.}
+{255}{}{ÄãÆÆ²úÁË¡£Äã²»µÃ²»µ½´ËÎªÖ¹¡£}
+### {256}{}{Call it a night.}
+{256}{}{µ½´ËÎªÖ¹¡£}
+### {257}{}{You are broke. You are forced to call it a day.}
+{257}{}{ÄãÆÆ²úÁË¡£Äã²»µÃ²»µ½´ËÎªÖ¹¡£}
+### {258}{}{That does it! I'm leaving!}
+{258}{}{¾ÍÊÇÕâÑù£¡ÎÒÒª×ßÁË£¡}
+### {259}{}{That does it! I'm leaving!}
+{259}{}{¾ÍÊÇÕâÑù£¡ÎÒÒª×ßÁË£¡}
+### {500}{}{The rolls spin on the machine... }
+{500}{}{¹öÍ²ÔÚ»úÆ÷ÉÏĞı×ª¡£¡£¡£}
+### {599}{}{... }
 {599}{}{... }
-
-# pay off types
-{600}{}{Nothing. }
-{601}{}{One cherry. }
-{602}{}{Two cherries. }
-# Three [symbol].
-{603}{}{Three }
+### {600}{}{Nothing. }
+{600}{}{Ã»ÓĞÊ²Ã´}
+### {601}{}{One cherry. }
+{601}{}{Ò»¿ÅÓ£ÌÒ¡£}
+### {602}{}{Two cherries. }
+{602}{}{Á½¸öÓ£ÌÒ¡£}
+### {603}{}{Three }
+{603}{}{Èı}
+### {613}{}{. }
 {613}{}{. }
-{604}{}{JACKPOT! }
-{605}{}{DOUBLE JACKPOT!!! }
-
-# payoff amount message
-{700}{}{Payoff is $}
+### {604}{}{JACKPOT! }
+{604}{}{Í·½±£¡}
+### {605}{}{DOUBLE JACKPOT!!! }
+{605}{}{Ë«±¶Í·½±£¡£¡£¡}
+### {700}{}{Payoff is $}
+{700}{}{»Ø±¨ÊÇ$}
+### {701}{}{. }
 {701}{}{. }
-# symbol types
-# singular
-{1001}{}{cherry}
-{1002}{}{orange}
-{1003}{}{plum}
-{1004}{}{bell}
-{1005}{}{bar}
-{1006}{}{melon}
-{1007}{}{seven}
-# plural
-{1101}{}{cherries}
-{1102}{}{oranges}
-{1103}{}{plums}
-{1104}{}{bells}
-{1105}{}{bars}
-{1106}{}{melons}
-{1107}{}{sevens}
-
-# float messages
-{2000}{}{*Come play me for a second, cowboy.*}
-{2001}{}{*Hello there, sailor.*}
-{2002}{}{*Put in a cap, pull the arm. I'll be nice to you.*}
-{2003}{}{*Tick… Tick… Tiiiiick…*}
-{2004}{}{*Ding*}
-{2005}{}{*Bing*}
-{2006}{}{*Kaaa-ching*}
-{2007}{}{*Zzzzzzz*}
-{2008}{}{*Ring-a-ling*}
-{2009}{}{*Dingity-ding*}
-{2010}{}{*Hey there, beautiful. Come play me for a second.*}
-{2011}{}{*Hello there, beautiful.*}
-{2012}{}{*Well ain't you a pretty lil' thing. Why don't you come play me?*}
-
-# 3.  NO MONEY (WTG, 9)
-# no money to play
-{2175}{}{[You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time…]}
-{2176}{}{[Leave.]}
-# won jackpot block
-{2185}{}{[The "OUT OF SERVICE" light on the slot machine is flashing on and off.]}
-{2186}{}{[Leave.]}
-
-# 4. RETARD (WTG)
-{2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the
- prettiest things you have ever seen.}
-{2101}{}{Me }
-{2102}{}{ who yu?}
-{2103}{}{Me miss MOM. }
-{2104}{}{ miss FRENS. Me want go home.}
-{2105}{}{[Shake its hand.]}
-{2106}{}{You one strange mutant.}
-{2107}{}{Praise the Vault! Praise the Vault!}
-{2108}{}{Are you a water chip?}
-{2109}{}{[Wander off, look for other shiny things.]}
-{2110}{}{[Leave.]}
-
-# 5.  RETARD TALKS TO SLOT MACHINE (4, 5)
-{2130}{}{The strange pretty golden metal box with three eyes and one arm does not answer.}
-{2131}{}{ME }
-{2132}{}{! YU ANSWER ME!}
-{2133}{}{[Shake its hand.]}
-{2134}{}{Me chosen-one. You talk to me NOW.}
-{2135}{}{You one strange mutant.}
-{2136}{}{Are you a water chip?}
-{2137}{}{[Wander off, look for other shiny things.]}
-{2138}{}{[Leave.]}
-
-# 6.  RETARD PULLS HANDLE (4, 5)
-{2151}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box
- speaks! "Please… insert… money."}
-{2152}{}{Aighhhhh! Robot! Robot! Runnnnn.}
-{2153}{}{[Leave.]}
-
-# slot machine taunts loss
-# male
-{2201}{}{[You can hear her laughing at you.]}
-{2202}{}{*Hehehe, why don't you just give up sweetie.*}
-{2203}{}{*Maybe you should let someone else pull my handle.*}
-# any
-{2204}{}{[You hear the slot machine laughing at you.]}
-{2205}{}{[The slot machine chuckles at you.]}
-{2206}{}{*Come on now loser, don't give up on me*}
-# female
-{2207}{}{*I got what I wanted from you baby. Why don't you give up?*}
-{2208}{}{*Trash!*}
-{2209}{}{*Don't let the casino door hit you in the ass on your way out.*}
-
-# slot machine taunts win
-# male [3X - 1X]
-{2247}{}{*Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
-{2248}{}{*That's it, sugah… keep pulling the handle… faster, harder, faster… come on now…*}
-{2249}{}{*Come on, sugar… it happens to everyone at least once… try again…please…*}
-# any
-{2250}{}{*Please don't give up on me yet baby! I need you more now than ever!*}
-# female [1X - 3X]
-{2251}{}{*Come on, sweetheart… try it again… grab the handle… grip it firmly… come on now…*}
-{2252}{}{*That's it, sweetheart… keep pulling the handle… faster, harder, faster… come on now…*}
-{2253}{}{*Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
-
-# 13. DRUNK, HIGH OR OTHERWISE FUCKED UP (WTG)
-{2280}{}{[You see a slot machine. Its shiny frame and golden handle gleam seductively beneath the neon lights. Its coin slot beckons you, and you feel your face flush with anticipation. As you stare at it, one of its three windows winks at you. From the coin slot you hear a throaty voice.] *Well, my word! Helloooo there, sugah. Show a girl a good time?*}
-{2281}{}{[You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath the neon lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.] *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*}
-{2282}{}{::Pinch self::}
-{2283}{}{Uh…hello?}
-{2284}{}{::Take a deep breath, walk away::}
-
-# 14. DRUNK CONVERSATION 1 (13)
-{2300}{}{*I'm still here, pretty lady.* [The slot machine lowers its voice.] *Look, come on…you want to place a bet?*}
-{2301}{}{*Ah'm still here, sugah.* [The slot machine lowers its voice.] *You're one fine hunka man, you know that? Come on now…you wanna stick some coins in lil' old me?*}
-{2302}{}{Whooo *are* yoooo?}
-{2303}{}{Surrh I'll plasssh a bet in yooo...}
-{2304}{}{I think I better leave before I stick something in you I might regret. [Leave.]}
-{2305}{}{::Take a deep breath, walk away:: [Leave.]}
-
-# 15. DRUNK 2 (14)
-{2320}{}{*I'm your ideal man.* [The slot machine gives you a wink.] *Give me some coins, and I'll please you in ways no man has EVER pleased you.*}
-{2321}{}{*I'm your ideal woman, sugar. All's ah want is a little attention. Can you help pretty old me? Come on, just a coin or two?*}
-{2322}{}{Can't we jusht talk?}
-
-# 16. DRUNK 3 (15)
-{2340}{}{*Course we can, sweetheart, course we can.* [The slot machine looks sympathetic.] *What's troubling your pretty little head?*}
-{2341}{}{*Course we can, sugah, course we can.* [The slot machine looks sympathetic.] *What's troubling you, handsome?*}
-{2342}{}{Me miss MOM and miss HOME and I…canna find STUFF and…*sniff*}
-{2343}{}{Me miss MOM and wuz ATTACKED and I…dunna what to do…and…*sniff*}
-{2344}{}{Me need to fix stuff…and I dunna know HOW…and muh-muh-my Mom's GONE and…*sniff*}
-{2345}{}{I finsshed the game…anna now I'm jusht wandrin' round and…ah'm worried itz all OVER and…*sniff*}
-{2346}{}{It's jusht that Fhallowt tooo doesnt s'port my 3D Fxxxx card an I spend so much *monee* onnit and *sniff*}
-{2347}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*…n' now I ave a shitteee charactrr…n'…*sniff*}
-{2348}{}{Ah'm havinn a conversashun with a slot macheen, ah'm pretty bad off.}
-
-# 17. DRUNK 4 (16)
-{2370}{}{*There, there...don't trouble your pretty little head about it no more…just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
-{2371}{}{*There, there...don't trouble yourself about it no more, sugah…just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
-{2372}{}{Thanks, slot macheen *sniff* yer the best.}
-{2373}{}{Yooo onlee *nice* pershun I met so far everybodee else is so meeen n' tried ta *hurt* me an' take my monee and…*sniff*}
-
-# 18. DRUNK 5 (17)
-{2380}{}{*You going be all right, sweetheart? I don't feel comfortable letting you go out alone when you're like this.*}
-{2381}{}{[You rest your weary head on the machine.]}
-{2382}{}{*You going be all right, sugah? Ah don't feel comfortable letting you go out alone when you're like this.*}
-{2383}{}{I'll be all rite…thasnk fer talkin' with me, slot macheen I loooove you!}
-
-# 19. DRUNK 6 (18)
-{2400}{}{*You're the only heroine we got in this two-bit world of bastards and thieves! You take care of yourself now, you hear, sweetheart?* [Turns away.] *You better go fore I start acting unmanly.*}
-{2401}{}{[A tear seems to form on one of the windows.] }
-{2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You…you…take care of yourself now, you hear, sugah?* [Turns away.] *You better go before ah start sobbing.*}
-{2403}{}{Byeeeee!}
-
-# rollin' messages
-{3000}{}{C'mon, }
-{3001}{}{! Baby needs a new pair of shoes!}
-{3002}{}{! Daddy needs a new plasma rifle!}
-
-# can't play
-{4000}{}{There seems to be someone blocking the machine.}
+### {1001}{}{cherry}
+{1001}{}{Ó£ÌÒ}
+### {1002}{}{orange}
+{1002}{}{³ÈÉ«}
+### {1003}{}{plum}
+{1003}{}{Ã·×Ó}
+### {1004}{}{bell}
+{1004}{}{ÖÓ}
+### {1005}{}{bar}
+{1005}{}{¾Æ°É}
+### {1006}{}{melon}
+{1006}{}{Ìğ¹Ï}
+### {1007}{}{seven}
+{1007}{}{Æß}
+### {1101}{}{cherries}
+{1101}{}{Ó£ÌÒ}
+### {1102}{}{oranges}
+{1102}{}{½Û×Ó}
+### {1103}{}{plums}
+{1103}{}{Àî×Ó}
+### {1104}{}{bells}
+{1104}{}{ÖÓ}
+### {1105}{}{bars}
+{1105}{}{¸Ö½î}
+### {1106}{}{melons}
+{1106}{}{Ìğ¹Ï}
+### {1107}{}{sevens}
+{1107}{}{Æß}
+### {2000}{}{*Come play me for a second, cowboy.*}
+{2000}{}{*À´¸úÎÒÍæÒ»»á¶ù£¬Å£×Ğ*}
+### {2001}{}{*Hello there, sailor.*}
+{2001}{}{*ÄãºÃ£¬Ë®ÊÖ*}
+### {2002}{}{*Put in a cap, pull the arm. I'll be nice to you.*}
+{2002}{}{*´÷ÉÏÃ±×Ó£¬À­Ò»ÏÂ¸ì²²¡£ÎÒ»á¶ÔÄãºÃµÄ*}
+### {2003}{}{*Tick? Tick? Tiiiiick?*}
+{2003}{}{µÎ´ğµÎ´ğ}
+### {2004}{}{*Ding*}
+{2004}{}{*¶¡*}
+### {2005}{}{*Bing*}
+{2005}{}{*±ØÓ¦*}
+### {2006}{}{*Kaaa-ching*}
+{2006}{}{?Kaaa-ching?}
+### {2007}{}{*Zzzzzzz*}
+{2007}{}{Zzzzzzz}
+### {2008}{}{*Ring-a-ling*}
+{2008}{}{*ÁåÉù*}
+### {2009}{}{*Dingity-ding*}
+{2009}{}{*¶¡*}
+### {2010}{}{*Hey there, beautiful. Come play me for a second.*}
+{2010}{}{*ºÙ£¬Æ¯ÁÁ¡£À´ºÍÎÒÍæÒ»»á¶ù*}
+### {2011}{}{*Hello there, beautiful.*}
+{2011}{}{*ÄãºÃ£¬ÃÀÅ®*}
+### {2012}{}{*Well ain't you a pretty lil' thing. Why don't you come play me?*}
+{2012}{}{*Äã²»ÊÇÒ»¸öÆ¯ÁÁµÄĞ¡¼Ò»ïÂğ¡£ÄãÎªÊ²Ã´²»À´°çÑİÎÒ*}
+### {2175}{}{[You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time?]}
+{2175}{}{[Äã¶¢×ÅÀÏ»¢»ú£¬ÒâÊ¶µ½×Ô¼ºÃ»ÓĞ×ã¹»µÄÇ®Íæ£¬È»ºó×çÖä×Ô¼ºµÄÆ¶Çî¡£Ò²Ğí¸ÄÌì°É?]}
+### {2176}{}{[Leave.]}
+{2176}{}{[Àë¿ª]}
+### {2185}{}{[The OUT OF SERVICE light on the slot machine is flashing on and off.]}
+{2185}{}{[ÀÏ»¢»úÉÏµÄOUT OF SERVICE£¨Í£Ö¹·şÎñ£©Ö¸Ê¾µÆÉÁË¸¡£]}
+### {2186}{}{[Leave.]}
+{2186}{}{[Àë¿ª]}
+### {2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the prettiest things you have ever seen.}
+{2100}{}{Äã¿´µ½Ò»¸öÆæ¹ÖµÄ½ğÉ«½ğÊôºĞ×Ó£¬ÓĞÈıÖ»ÑÛ¾¦ºÍÒ»Ö»ÊÖ±Û¡£ÕâÊÇÄã¼û¹ıµÄ×îÆ¯ÁÁµÄ¶«Î÷Ö®Ò»¡£}
+### {2101}{}{Me }
+{2101}{}{ÎÒ}
+### {2102}{}{ who yu?}
+{2102}{}{ÓàÊÇË­£¿}
+### {2103}{}{Me miss MOM. }
+{2103}{}{ÎÒÏëÄîÂèÂè¡£}
+### {2104}{}{ miss FRENS. Me want go home.}
+{2104}{}{FRENSĞ¡½ã¡£ÎÒÏë»Ø¼Ò¡£}
+### {2105}{}{[Shake its hand.]}
+{2105}{}{[Ò¡Ò»Ò¡ËüµÄÊÖ¡£]}
+### {2106}{}{You one strange mutant.}
+{2106}{}{ÄãÕâ¸öÆæ¹ÖµÄ±äÖÖÈË¡£}
+### {2107}{}{Praise the Vault! Praise the Vault!}
+{2107}{}{ÔŞÃÀ½ğ¿â£¡ÔŞÃÀ½ğ¿â£¡}
+### {2108}{}{Are you a water chip?}
+{2108}{}{ÄãÊÇË®Ğ¾Æ¬Âğ£¿}
+### {2109}{}{[Wander off, look for other shiny things.]}
+{2109}{}{[×ß¿ª£¬Ñ°ÕÒÆäËûÉÁÁÁµÄ¶«Î÷¡£]}
+### {2110}{}{[Leave.]}
+{2110}{}{[Àë¿ª]}
+### {2130}{}{The strange pretty golden metal box with three eyes and one arm does not answer.}
+{2130}{}{Ææ¹ÖµÄÆ¯ÁÁµÄ½ğ»ÆÉ«ºĞ×Ó£¬ÓĞÈıÖ»ÑÛ¾¦ºÍÒ»Ö»ÊÖ±Û£¬Ã»ÓĞ»Ø´ğ¡£}
+### {2131}{}{ME }
+{2131}{}{ÎÒ}
+### {2132}{}{! YU ANSWER ME!}
+{2132}{}{£¡Äã»Ø´ğÎÒ£¡}
+### {2133}{}{[Shake its hand.]}
+{2133}{}{[Ò¡Ò»Ò¡ËüµÄÊÖ¡£]}
+### {2134}{}{Me chosen-one. You talk to me NOW.}
+{2134}{}{ÎÒÑ¡ÁËÒ»¸ö¡£ÄãÏÖÔÚ¾ÍºÍÎÒËµ»°¡£}
+### {2135}{}{You one strange mutant.}
+{2135}{}{ÄãÕâ¸öÆæ¹ÖµÄ±äÖÖÈË¡£}
+### {2136}{}{Are you a water chip?}
+{2136}{}{ÄãÊÇË®Ğ¾Æ¬Âğ£¿}
+### {2137}{}{[Wander off, look for other shiny things.]}
+{2137}{}{[×ß¿ª£¬Ñ°ÕÒÆäËûÉÁÁÁµÄ¶«Î÷¡£]}
+### {2138}{}{[Leave.]}
+{2138}{}{[Àë¿ª]}
+### {2151}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box speaks! Please? insert? money.}
+{2151}{}{Äã×¥×¡ËüµÄÊÖ±Û£¬ÈÈÇéµØÒ¡»ÎËü¡£ÕıÈçÄãËù×öµÄ£¬ÓĞÒ»¸öbzzzzz£¬ºĞ×Ó»áËµ»°£¡Çë? ²åÈë? Ç®}
+### {2152}{}{Aighhhhh! Robot! Robot! Runnnnn.}
+{2152}{}{°¡£¡»úÆ÷ÈË£¡»úÆ÷ÈË£¡Â³¶÷¡£}
+### {2153}{}{[Leave.]}
+{2153}{}{[Àë¿ª]}
+### {2201}{}{[You can hear her laughing at you.]}
+{2201}{}{[Äã¿ÉÒÔÌıµ½ËıÔÚ³°Ğ¦Äã¡£]}
+### {2202}{}{*Hehehe, why don't you just give up sweetie.*}
+{2202}{}{*ºÇºÇ£¬Ç×°®µÄ£¬ÄãÎªÊ²Ã´²»·ÅÆúÄØ*}
+### {2203}{}{*Maybe you should let someone else pull my handle.*}
+{2203}{}{*Ò²ĞíÄãÓ¦¸ÃÈÃ±ğÈËÀ´À­ÎÒµÄÊÖ*}
+### {2204}{}{[You hear the slot machine laughing at you.]}
+{2204}{}{[ÄãÌıµ½ÀÏ»¢»úÔÚ³°Ğ¦Äã¡£]}
+### {2205}{}{[The slot machine chuckles at you.]}
+{2205}{}{[ÀÏ»¢»úÔÚ³°Ğ¦Äã¡£]}
+### {2206}{}{*Come on now loser, don't give up on me*}
+{2206}{}{*À´°É£¬Ê§°ÜÕß£¬²»Òª·ÅÆúÎÒ*}
+### {2207}{}{*I got what I wanted from you baby. Why don't you give up?*}
+{2207}{}{*ÎÒ´ÓÄãÄÇÀïµÃµ½ÁËÎÒÏëÒªµÄ£¬±¦±´¡£ÄãÎªÊ²Ã´²»·ÅÆú*}
+### {2208}{}{*Trash!*}
+{2208}{}{*À¬»ø*}
+### {2209}{}{*Don't let the casino door hit you in the ass on your way out.*}
+{2209}{}{*±ğÈÃ¶Ä³¡µÄÃÅÔÚÄã³öÃÅµÄÊ±ºòÔÒÔÚÄãÆ¨¹ÉÉÏ*}
+### {2247}{}{*Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
+{2247}{}{*Aieeeeeeee£¡¾ÍÊÇÕâÑù£¬sugah£¡Ìì°¡£¬ÊÇµÄ£¡¶ÔÊÇµÄ£¬ÔÙ´Î£¡¸ü¿ì£¡¸üÄÑ£¡Äã»¹ÔÚµÈÊ²Ã´£¿£¡ÔÙ´Î*}
+### {2248}{}{*That's it, sugah? keep pulling the handle? faster, harder, faster? come on now?*}
+{2248}{}{*¾ÍÊÇÕâÑù£¬sugah? ¼ÌĞøÀ­°ÑÊÖ? ¸ü¿ì¡¢¸üÄÑ¡¢¸ü¿ì? À´°É?*}
+### {2249}{}{*Come on, sugar? it happens to everyone at least once? try again?please?*}
+{2249}{}{*À´°É£¬Ç×°®µÄ? Ã¿¸öÈË¶¼ÖÁÉÙ·¢Éú¹ıÒ»´Î? ÔÙÊÔÒ»´Î?Çë?*}
+### {2250}{}{*Please don't give up on me yet baby! I need you more now than ever!*}
+{2250}{}{*Ç×°®µÄ£¬Çë²»Òª·ÅÆúÎÒ£¡ÎÒÏÖÔÚ±ÈÒÔÍùÈÎºÎÊ±ºò¶¼¸üĞèÒªÄã*}
+### {2251}{}{*Come on, sweetheart? try it again? grab the handle? grip it firmly? come on now?*}
+{2251}{}{*À´°É£¬Ç×°®µÄ? ÔÙÊÔÒ»´Î? ×¥×¡°ÑÊÖ? ÀÎÀÎ×¥×¡Ëü? À´°É?*}
+### {2252}{}{*That's it, sweetheart? keep pulling the handle? faster, harder, faster? come on now?*}
+{2252}{}{*¾ÍÊÇÕâÑù£¬Ç×°®µÄ? ¼ÌĞøÀ­°ÑÊÖ? ¸ü¿ì¡¢¸üÄÑ¡¢¸ü¿ì? À´°É?*}
+### {2253}{}{*Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
+{2253}{}{*¶÷£¡¾ÍÊÇÕâÑù£¬Ç×°®µÄ£¡Ë­ÊÇÄã°Ö°Ö£¿£¡Ë­ÊÇÄã°Ö°Ö£¿£¡£¡ÔÙÀ´Ò»´Î£¡Õâ´Î¸üÓÃÁ¦ÁË£¡¸üÄÑ*}
+### {2280}{}{[You see a slot machine. Its shiny frame and golden handle gleam seductively beneath the neon lights. Its coin slot beckons you, and you feel your face flush with anticipation. As you stare at it, one of its three windows winks at you. From the coin slot you hear a throaty voice.] *Well, my word! Helloooo there, sugah. Show a girl a good time?*}
+{2280}{}{[Äã¿´µ½Ò»Ì¨ÀÏ»¢»ú¡£ËüÉÁÁÁµÄ¿ò¼ÜºÍ½ğÉ«µÄÊÖ±úÔÚÄŞºçµÆÏÂÓÕÈËµØÉÁË¸¡£ËüµÄÍ¶±Ò¿ÚÔÚÏòÄãÕĞÊÖ£¬Äã»á¸Ğµ½ÄãµÄÁ³ÒòÆÚ´ı¶øÁ³ºì¡£µ±ÄãÄıÊÓËüÊ±£¬ËüµÄÈıÉÈ´°»§ÖĞµÄÒ»ÉÈÏòÄãÕ£ÑÛ¡£´ÓÍ¶±Ò¿ÚÀïÄã»áÌıµ½Ò»¸öµÍ³ÁµÄÉùÒô¡£]*ºÃ°É£¬ÎÒ±£Ö¤£¡ÄãºÃ£¬sugah¡£¸øÅ®º¢¿´Ò»¶ÎÃÀºÃµÄÊ±¹â*}
+### {2281}{}{[You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath the neon lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.] *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*}
+{2281}{}{[Äã¿´µ½ÁËÒ»Ì¨ÀÏ»¢»ú¡£Ëü½áÊµ½áÊµµÄ¿ò¼ÜºÍ½ğÉ«µÄ°ÑÊÖÔÚÄŞºçµÆÏÂÏñÌ«ÑôÉñÒ»ÑùÉÁÉÁ·¢¹â¡£ËüµÄÍ¶±Ò¿ÚÓÕ»ó×ÅÄã£¬Äã¸Ğ¾õµ½ÄãµÄ´óÍÈ±»ÆÚ´ı×ÆÉËÁË¡£µ±Äã¶¢×ÅËü¿´µÄÊ±ºò£¬Í»È»ÓĞÒ»¸ö³ÁÖØµÄÄĞÉù´ÓÍ¶±Ò¿ÚÀï´«À´¡£]*Ğ¡½ã£¬ÒÔÇ°Ã»ÓĞ¼û¹ıÏñÄãÕâÑùµÄÆ¯ÁÁÅ®ÈË¡£ÄãÏëÅöÅöÔËÆøÂğ*}
+### {2282}{}{::Pinch self::}
+{2282}{}{::Æş×Ô¼º::}
+### {2283}{}{Uh?hello?}
+{2283}{}{ÄãºÃ}
+### {2284}{}{::Take a deep breath, walk away::}
+{2284}{}{::ÉîºôÎü£¬×ß¿ª::}
+### {2300}{}{*I'm still here, pretty lady.* [The slot machine lowers its voice.] *Look, come on?you want to place a bet?*}
+{2300}{}{*ÎÒ»¹ÔÚÕâÀï£¬Æ¯ÁÁµÄÅ®Ê¿?ÄãÏë´ò¶ÄÂğ*}
+### {2301}{}{*Ah'm still here, sugah.* [The slot machine lowers its voice.] *You're one fine hunka man, you know that? Come on now?you wanna stick some coins in lil' old me?*}
+{2301}{}{*°¡£¬ÎÒ»¹ÔÚÕâÀï£¬sugah¡£[ÀÏ»¢»úÑ¹µÍÁËÉùÒô¡£]*ÄãÊÇ¸öºÃÄĞÈË£¬ÄãÖªµÀÂğ£¿À´°É?ÄãÏëÔÚÀÏÎÒÉíÉÏÌùĞ©Ó²±ÒÂğ*}
+### {2302}{}{Whooo *are* yoooo?}
+{2302}{}{ÄãÊÇË­£¿}
+### {2303}{}{Surrh I'll plasssh a bet in yooo...}
+{2303}{}{ËÕ¶û£¬ÎÒ»áÔÚÄãÉíÉÏÏÂ×¢¡£¡£¡£}
+### {2304}{}{I think I better leave before I stick something in you I might regret. [Leave.]}
+{2304}{}{ÎÒÏëÎÒ×îºÃÏÈÀë¿ª£¬²»È»ÎÒ»áºó»ÚµÄ¡£[Àë¿ª¡£]}
+### {2305}{}{::Take a deep breath, walk away:: [Leave.]}
+{2305}{}{£ºÉîºôÎü£¬×ß¿ª£º£º[Àë¿ª¡£]}
+### {2320}{}{*I'm your ideal man.* [The slot machine gives you a wink.] *Give me some coins, and I'll please you in ways no man has EVER pleased you.*}
+{2320}{}{*ÎÒÊÇÄãÀíÏëÖĞµÄÄĞÈË¡£*[ÀÏ»¢»úÏòÄãÕ£ÑÛ¡£]*¸øÎÒÒ»Ğ©Ó²±Ò£¬ÎÒ»áÒÔ´ÓÎ´ÓĞÈËÏ²»¶¹ıµÄ·½Ê½È¡ÔÃÄã*}
+### {2321}{}{*I'm your ideal woman, sugar. All's ah want is a little attention. Can you help pretty old me? Come on, just a coin or two?*}
+{2321}{}{*ÎÒÊÇÄãÀíÏëÖĞµÄÅ®ÈË£¬Ç×°®µÄ¡£ËùÓĞµÄ°¡ÏëÒªµÄÖ»ÊÇÒ»µãµã¹Ø×¢¡£ÄãÄÜ°ïÎÒÂğ£¿À´°É£¬¾ÍÒ»Á½Ã¶Ó²±Ò*}
+### {2322}{}{Can't we jusht talk?}
+{2322}{}{ÎÒÃÇ²»ÄÜÌ¸Ì¸Âğ£¿}
+### {2340}{}{*Course we can, sweetheart, course we can.* [The slot machine looks sympathetic.] *What's troubling your pretty little head?*}
+{2340}{}{*µ±È»¿ÉÒÔÇ×°®µÄµ±È»¿ÉÒÔ*}
+### {2341}{}{*Course we can, sugah, course we can.* [The slot machine looks sympathetic.] *What's troubling you, handsome?*}
+{2341}{}{*ÎÒÃÇµ±È»¿ÉÒÔ£¬sugah£¬ÎÒÃÇµ±È»¿ÉÒÔ¡£*[ÀÏ»¢»ú¿´ÆğÀ´ºÜÓĞÍ¬ÇéĞÄ¡£]*ÄãÔõÃ´ÁË£¬Ë§*}
+### {2342}{}{Me miss MOM and miss HOME and I?canna find STUFF and?*sniff*}
+{2342}{}{ÎÒÏëÄîÂèÂè£¬ÏëÄî¼ÒºÍÎÒ?ÕÒ²»µ½STUFºÍ?*Ğá*}
+### {2343}{}{Me miss MOM and wuz ATTACKED and I?dunna what to do?and?*sniff*}
+{2343}{}{ÎÒÏëÄîÂèÂè£¬ÎÚ×ÈÏ®»÷ÁËÎÒ?dunna¸ÃÔõÃ´°ì?ºÍ?*Ğá*}
+### {2344}{}{Me need to fix stuff?and I dunna know HOW?and muh-muh-my Mom's GONE and?*sniff*}
+{2344}{}{ÎÒĞèÒªĞŞÀí¶«Î÷?ÎÒ²»ÖªµÀÔõÃ´×ö?ÎÒÂèÂè×ßÁË?*Ğá*}
+### {2345}{}{I finsshed the game?anna now I'm jusht wandrin' round and?ah'm worried itz all OVER and?*sniff*}
+{2345}{}{ÎÒÍê³ÉÁË±ÈÈü?annaÏÖÔÚÎÒÊÇjusht wandrin?ÎÒºÜµ£ĞÄ?*Ğá*}
+### {2346}{}{It's jusht that Fhallowt tooo doesnt s'port my 3D Fxxxx card an I spend so much *monee* onnit and *sniff*}
+{2346}{}{Fhallowt tooÃ»ÓĞ´ò¿ªÎÒµÄ3D Fxxxx¿¨£¬ÎÒ»¨ÁËÕâÃ´¶àÇ®ÔÚÉÏÃæ£¬ÎÅÁËÎÅ*}
+### {2347}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*?n' now I ave a shitteee charactrr?n'?*sniff*}
+{2347}{}{ÎÒÊÔ×ÅËÜÔìÒ»¸öºÃ½ÇÉ«£¬µ«ÎÒ¾õµÃÎÒ°ÑÖØµã¶¼»¨´íÁË*?ÏÖÔÚÎÒÓĞÒ»¸öÔã¸âµÄĞÔ¸ñ?n¡¯?*Ğá*}
+### {2348}{}{Ah'm havinn a conversashun with a slot macheen, ah'm pretty bad off.}
+{2348}{}{ÎÒÕıÔÚºÍÒ»¸öÀÏ»¢»úÁÄÌì£¬ÎÒ¹ıµÃºÜ²»ºÃ¡£}
+### {2370}{}{*There, there...don't trouble your pretty little head about it no more?just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
+{2370}{}{*ÄÇÀï£¬ÄÇÀï¡£¡£¡£±ğÔÙÂé·³ÄãÆ¯ÁÁµÄĞ¡ÄÔ´üÁË?ÈÃÎÒÀ´´¦ÀíÒ»ÇĞ¡£À´°É£¬°ÑÄãµÄÍ·¿¿ÔÚÎÒÉíÉÏ¡£¸øÄã¡£ÈÃËüÈ«²¿³öÀ´*}
+### {2371}{}{*There, there...don't trouble yourself about it no more, sugah?just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
+{2371}{}{*ÄÇÀï£¬ÄÇÀï¡£¡£¡£±ğÔÙÎªËü·³ÄÕÁË£¬sugah?ÈÃÎÒÀ´´¦ÀíÒ»ÇĞ¡£À´°É£¬°ÑÄãÓ¢¿¡µÄÍ·¿¿ÔÚÎÒÉíÉÏ¡£¸øÄã¡£ÈÃËüÈ«²¿³öÀ´*}
+### {2372}{}{Thanks, slot macheen *sniff* yer the best.}
+{2372}{}{Ğ»Ğ»£¬³Ô½Ç×ÓÀÏ»¢»úµÄÈËÎÅÁËÎÅÄã×îºÃµÄ¡£}
+### {2373}{}{Yooo onlee *nice* pershun I met so far everybodee else is so meeen n' tried ta *hurt* me an' take my monee and?*sniff*}
+{2373}{}{µ½Ä¿Ç°ÎªÖ¹£¬ÎÒÓöµ½µÄÃ¿¸öÈË¶¼ºÜºÃ£¬ËùÒÔÎÒÊÔÍ¼ÉËº¦ÎÒ£¬ÄÃ×ßÎÒµÄÇ®?*Ğá*}
+### {2380}{}{*You going be all right, sweetheart? I don't feel comfortable letting you go out alone when you're like this.*}
+{2380}{}{*Äã»áÃ»ÊÂµÄ£¬Ç×°®µÄ£¿µ±ÄãÕâÑùµÄÊ±ºò£¬ÈÃÄãÒ»¸öÈË³öÈ¥ÎÒ¾õµÃ²»Êæ·ş*}
+### {2381}{}{[You rest your weary head on the machine.]}
+{2381}{}{[Äã°ÑÆ£±¹µÄÍ··ÅÔÚ»úÆ÷ÉÏĞİÏ¢¡£]}
+### {2382}{}{*You going be all right, sugah? Ah don't feel comfortable letting you go out alone when you're like this.*}
+{2382}{}{*Äã»áÃ»ÊÂµÄÂğ£¬sugah£¿°¡£¬µ±ÄãÕâÑùµÄÊ±ºò£¬ÈÃÄãÒ»¸öÈË³öÈ¥¸Ğ¾õ²»Êæ·ş*}
+### {2383}{}{I'll be all rite?thasnk fer talkin' with me, slot macheen I loooove you!}
+{2383}{}{ÎÒ»á±ò±òÓĞÀñ?ËûÔÚºÍÎÒËµ»°£¬ÀÏ»¢»ú£¬ÎÒ°®Äã£¡}
+### {2400}{}{*You're the only heroine we got in this two-bit world of bastards and thieves! You take care of yourself now, you hear, sweetheart?* [Turns away.] *You better go fore I start acting unmanly.*}
+{2400}{}{*ÄãÊÇÕâ¸ö»ìµ°ºÍĞ¡ÍµµÄÁ½¸öÊÀ½çÀïÎ¨Ò»µÄÅ®Ó¢ĞÛ£¡ÄãÏÖÔÚÒªÕÕ¹ËºÃ×Ô¼ºÁË£¬Ìıµ½ÁËÂğ£¬Ç×°®µÄ£¿*[×ª¹ıÉíÀ´¡£]*Äã×îºÃÔÚÎÒ¿ªÊ¼±íÏÖµÃÃ»ÓĞÄĞ×ÓººÆø¸ÅÖ®Ç°*}
+### {2401}{}{[A tear seems to form on one of the windows.] }
+{2401}{}{[ÆäÖĞÒ»ÉÈ´°»§ÉÏËÆºõĞÎ³ÉÁËÀáºÛ¡£]}
+### {2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You?you?take care of yourself now, you hear, sugah?* [Turns away.] *You better go before ah start sobbing.*}
+{2402}{}{*ÄãÊÇÕâ¸ö»ìµ°ºÍĞ¡ÍµµÄÊÀ½çÀïÎ¨Ò»µÄÓ¢ĞÛ£¡Äã?Äã?ÏÖÔÚÕÕ¹ËºÃÄã×Ô¼º£¬ÄãÌıµ½ÁËÂğ£¬sugah£¿*Äã×îºÃÔÚ°¢¿ªÊ¼¿ŞÆüÖ®Ç°×ß*}
+### {2403}{}{Byeeeee!}
+{2403}{}{°İÒÁ£¡}
+### {3000}{}{C'mon, }
+{3000}{}{À´°É£¬}
+### {3001}{}{! Baby needs a new pair of shoes!}
+{3001}{}{£¡±¦±¦ĞèÒªÒ»Ë«ĞÂĞ¬£¡}
+### {3002}{}{! Daddy needs a new plasma rifle!}
+{3002}{}{£¡°Ö°ÖĞèÒªÒ»Ö§ĞÂµÄµÈÀë×Ó²½Ç¹£¡}
+### {4000}{}{There seems to be someone blocking the machine.}
+{4000}{}{ºÃÏñÓĞÈËµ²×¡ÁË»úÆ÷¡£}

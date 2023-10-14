@@ -32,18 +32,19 @@ namespace fanyi
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             
-            Directory.CreateDirectory("./out");
-            Directory.CreateDirectory("./out2");
+            Directory.CreateDirectory("./test/out");
+            Directory.CreateDirectory("./test/out2");
 
-            var files = Directory.GetFiles(".");
+            var files = Directory.GetFiles("./test");
             foreach (var file in files)
             {
-                if (file.EndsWith(".msg") && !File.Exists($"./out/{file}"))
+                var f = Path.GetFileName(file);
+                if (file.EndsWith(".msg") && !File.Exists($"./test/out/{f}"))
                 {
-                    Console.WriteLine($"翻译文件：{file}");
-                    if (!DoFile(file))
+                    Console.WriteLine($"翻译文件：{f}");
+                    if (!DoFile(f))
                     {
-                        Console.WriteLine($"翻译 {file} 发生错误");
+                        Console.WriteLine($"翻译 {f} 发生错误");
                         Console.ReadLine();
                         return;
                     }
@@ -59,7 +60,7 @@ namespace fanyi
             List<string> writecont = new List<string>();
             List<string> writecont2 = new List<string>();
             
-            var lines = File.ReadAllLines(file);
+            var lines = File.ReadAllLines($"./test/{file}");
 
             for (int i = 0; i < lines.Length; i++)
             {
@@ -70,8 +71,7 @@ namespace fanyi
                 var match3 = Regex.Match(str, "^\\{(?<id>.*)\\}\\{(?<zz>.*)\\}\\{(?<value>.*)\\}");
 
 
-                if (match1.Success && !string.IsNullOrEmpty(match1.Groups["id"].Value) &&
-                    !string.IsNullOrEmpty(match1.Groups["value"].Value))
+                if (match1.Success && !string.IsNullOrEmpty(match1.Groups["id"].Value))
                 {
                     var r = GetString(match1.Groups["value"].Value);
                     if (r.Item1 == true)
@@ -91,8 +91,7 @@ namespace fanyi
                         return false;
                     }
                 }
-                else if (match2.Success && !string.IsNullOrEmpty(match2.Groups["id"].Value) &&
-                         !string.IsNullOrEmpty(match2.Groups["value"].Value))
+                else if (match2.Success && !string.IsNullOrEmpty(match2.Groups["id"].Value))
                 {
                     var r = GetString(match2.Groups["value"].Value);
                     if (r.Item1 == true)
@@ -112,8 +111,7 @@ namespace fanyi
                         return false;
                     }
                 }
-                else if (match3.Success && !string.IsNullOrEmpty(match3.Groups["id"].Value) &&
-                         !string.IsNullOrEmpty(match3.Groups["value"].Value))
+                else if (match3.Success && !string.IsNullOrEmpty(match3.Groups["id"].Value))
                 {
                     var r = GetString(match3.Groups["value"].Value);
                     if (r.Item1 == true)
@@ -141,13 +139,18 @@ namespace fanyi
                 }
             }
 
-            File.WriteAllLines($"./out/{file}", writecont, Encoding.GetEncoding("GB2312"));
-            File.WriteAllLines($"./out2/{file}", writecont2, Encoding.GetEncoding("GB2312"));
+            File.WriteAllLines($"./test/out/{file}", writecont, Encoding.GetEncoding("GB2312"));
+            File.WriteAllLines($"./test/out2/{file}", writecont2, Encoding.GetEncoding("GB2312"));
             return true;
         }
 
         static (bool,string) GetString(string q)
         {
+            if (string.IsNullOrEmpty(q) || q.Replace(" ", "").Length == 0)
+            {
+                return (true, "error : string is empty");
+            }
+
             Thread.Sleep(101);
             
             // 源语言
@@ -155,11 +158,11 @@ namespace fanyi
             // 目标语言
             string to = "zh";
             // 改成您的APP ID
-            string appId = "2222222222222222222222222222222222222222222222222222222222222222";
+            string appId = "20230613001710753";
             Random rd = new Random();
             string salt = rd.Next(100000).ToString();
             // 改成您的密钥
-            string secretKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+            string secretKey = "mu5RDovM0dvMliqLzZse";
             string sign = EncryptString(appId + q + salt + secretKey);
             string url = "http://api.fanyi.baidu.com/api/trans/vip/translate?";
             url += "q=" + HttpUtility.UrlEncode(q);
@@ -170,15 +173,26 @@ namespace fanyi
             url += "&sign=" + sign;
             HttpWebRequest request = (HttpWebRequest) WebRequest.Create(url);
             request.Method = "GET";
-            request.ContentType = "text/html;charset=UTF-8";
+            request.ContentType = "text/html;charset=KOI8-U";
             request.UserAgent = null;
             request.Timeout = 6000;
-            HttpWebResponse response = (HttpWebResponse) request.GetResponse();
-            Stream myResponseStream = response.GetResponseStream();
-            StreamReader myStreamReader = new StreamReader(myResponseStream, Encoding.GetEncoding("utf-8"));
-            string retString = myStreamReader.ReadToEnd();
-            myStreamReader.Close();
-            myResponseStream.Close();
+
+            string retString = "";
+            try
+            {
+                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                Stream myResponseStream = response.GetResponseStream();
+                StreamReader myStreamReader = new StreamReader(myResponseStream, Encoding.GetEncoding("utf-8"));
+                retString = myStreamReader.ReadToEnd();
+                myStreamReader.Close();
+                myResponseStream.Close();
+
+            }
+            catch (Exception e)
+            {
+                Thread.Sleep(1000);
+                return GetString(q);
+            }
             Console.WriteLine(retString);
 
             var tmp = JsonConvert.DeserializeObject<read>(retString);

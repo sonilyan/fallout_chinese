@@ -2,172 +2,340 @@
 # The number is defined as 100+card number by MAPS.TXT
 # If the message is not needed, then leave the line empty (without characters and spaces).
 # Do not delete empty lines between 100-150! Otherwise, error will appear in the game log.
-{100}{}{}
-{101}{}{}
-{102}{}{}
-{103}{}{}
-{104}{}{}
-{105}{}{}
-{106}{}{}
-{107}{}{}
-{108}{}{}
-{109}{}{}
-{110}{}{}
-{111}{}{}
-{112}{}{}
-{113}{}{}
-{114}{}{}
-{115}{}{}
-{116}{}{}
-{117}{}{}
-{118}{}{}
-{119}{}{}
-{120}{}{}
-{121}{}{After a long journey, you return to your native village. But instead of greeting you, Villa greets you with sullen silence.}
-{122}{}{}
-{123}{}{You go down to the cellars. It smells damp and rat droppings.}
-{124}{}{}
-{125}{}{You have come to Flagstaff Colony. It's unexpectedly crowded here.}
-{126}{}{Here is a garrison and a colony correctional facility. Behind bars you find your fellow tribesmen.}
-{127}{}{}
-{128}{}{Ruins of the old city. The depressing appearance of these ruins does not inspire confidence.}
-{129}{}{You are standing at the gates of Garage City. The smell of rust and rubber reeks from this settlement a mile away.}
-{130}{}{}
-{131}{}{}
-{132}{}{The way to the nomads' camp is suddenly blocked by a military detachment.}
-{133}{}{You have entered a tribal camp lost among the dunes.}
-{134}{}{You have come to the pens. The persistent smell of cattle can be felt already a mile away.}
-{135}{}{You have come to the settlement of tinsmiths. Unusual buildings built of aviation equipment can be seen behind the gates.}
-{136}{}{}
-{137}{}{}
-{138}{}{It seems that this bunker has been abandoned for a hundred years.}
-{139}{}{Ahead you notice old ruins. Judging by the humid air, there should be a sea behind them.}
-{140}{}{You found yourself at a small pier.}
-{141}{}{For the first time in your life you were on the deck of a destroyer.}
-{142}{}{}
-{143}{}{The road led you to the dam. On its top, the ranger bastion is unapproachably located.}
-{144}{}{}
-{145}{}{}
-{146}{}{You have reached a huge city located among ancient ruins. Its gloomy streets greet you with heavy smog.}
-{147}{}{}
-{148}{}{These slums seem unsafe. You should always be on your guard here.}
-{149}{}{An ornate building towers over the city. A crowd of people wanders aimlessly in front of him.}
-{150}{}{}
-{151}{}{}
-{152}{}{}
-{153}{}{}
-{154}{}{}
-{155}{}{This place is surrounded by impassable ruins. No wonder it's hard to find.}
-{156}{}{The premises of the Vault seem to be emptied. As if everything useful was taken out of here, and for a very long time.}
-{157}{}{You have come to the small town of Casa Grande, located in the middle of the caravan route.}
-{158}{}{}
-{159}{}{}
-{160}{}{This place remembers all the horrors of the Great War.}
-{161}{}{Before you are the charred ruins of a once large city. Now its streets are flooded with dangerous creatures.}
-{162}{}{}
-{163}{}{}
-{164}{}{You have discovered a small town surrounded by green plantations. There is a lot of life in this oasis.}
-{165}{}{In the middle of the desert there is a huge plantation. So familiar to you and at the same time so alien landscape...}
-{166}{}{}
-{167}{}{A deserted highway leads you to a bandit's lair. It looks like no one is waiting for you here.}
-{168}{}{This place looks abandoned, but something about it worries you.}
-{169}{}{What a sad sight. This place will be uninhabitable for the next hundred years.}
-{170}{}{You went down into the uranium mines.}
-{171}{}{A lonely motel appears on the side of the road like a ghost.}
-{172}{}{An old high lighthouse on the shore beckons to a casual traveler.}
-{173}{}{}
-{174}{}{}
-{175}{}{}
-{176}{}{The echo of your footsteps breaks the silence of the cathedral.}
-{177}{}{Here is a graveyard of long-forgotten technologies.}
-{178}{}{}
-{179}{}{You have come to the ancient ruins. No one has lived here for a very long time.}
-{180}{}{The shores of Colorado are overgrown with prickly vegetation, in which various game can hide.}
-{181}{}{}
-{182}{}{Time has not spared this place — dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
-{183}{}{}
-{184}{}{}
-{185}{}{}
-{186}{}{}
-{187}{}{}
-{188}{}{You are almost desperate in search of human settlements, when suddenly a small ranch appears ahead.}
-{189}{}{The desert smoothly turns into dilapidated one-story blocks. It looks like a military garrison has settled here.}
-{190}{}{After passing the old quarters, you climb to the fort on the hill of Cerro de la Campana.}
-{191}{}{Externally, this old school looks dilapidated and abandoned. Being inside, you should be careful.}
-{192}{}{}
-{193}{}{}
-{194}{}{It looks like the Rangers periodically monitor this water pump. At least it works.}
-{195}{}{A surviving building with lighted windows can be seen ahead. A whole crowd of rippers roams in front of him.}
-{196}{}{}
-{197}{}{}
-{198}{}{}
-{199}{}{}
-{200}{}{}
-{201}{}{This place seems completely silent. But at the same time, there is an incredible tension in it.}
-{202}{}{}
-{203}{}{}
-{204}{}{}
-{205}{}{}
-{206}{}{}
-{207}{}{}
-{208}{}{}
-{209}{}{}
-{210}{}{The warehouse building was badly damaged by the shock wave. The main part of the goods must have fallen into disrepair.}
-{211}{}{}
-{212}{}{It seems that work at this quarry has been urgently suspended.}
-{213}{}{}
-{214}{}{}
-{215}{}{}
-{216}{}{}
-{217}{}{}
-{218}{}{}
-{219}{}{}
-{220}{}{It seems that you accidentally got on someone's holiday.}
-{221}{}{Here is an ancient monument. It looks like it has been standing here for many decades and even more.}
-{222}{}{In front of you is an ancient cemetery. So ancient that it is completely overgrown with desert plants.}
-{223}{}{}
-{224}{}{}
-{225}{}{}
-{226}{}{}
-{227}{}{}
-{228}{}{}
-{229}{}{}
-{230}{}{}
-{231}{}{}
-{232}{}{}
-{233}{}{}
-{234}{}{}
-{235}{}{}
-{236}{}{}
-{237}{}{}
-{238}{}{}
-{239}{}{}
-{240}{}{You went down into the cave. If you didn't know the exact coordinates, you would hardly have found it in the middle of Auteuil Park.}
-{241}{}{}
-{242}{}{}
-{243}{}{}
-{244}{}{You have entered a radioactive area.}
-{245}{}{}
-{246}{}{}
-{247}{}{}
-{248}{}{You have entered a radioactive area.}
-{249}{}{}
-{250}{}{Before you are barren wastelands.}
+### {100}{}{}
+{100}{}{error : string is empty}
+### {101}{}{}
+{101}{}{error : string is empty}
+### {102}{}{}
+{102}{}{error : string is empty}
+### {103}{}{}
+{103}{}{error : string is empty}
+### {104}{}{}
+{104}{}{error : string is empty}
+### {105}{}{}
+{105}{}{error : string is empty}
+### {106}{}{}
+{106}{}{error : string is empty}
+### {107}{}{}
+{107}{}{error : string is empty}
+### {108}{}{}
+{108}{}{error : string is empty}
+### {109}{}{}
+{109}{}{error : string is empty}
+### {110}{}{}
+{110}{}{error : string is empty}
+### {111}{}{}
+{111}{}{error : string is empty}
+### {112}{}{}
+{112}{}{error : string is empty}
+### {113}{}{}
+{113}{}{error : string is empty}
+### {114}{}{}
+{114}{}{error : string is empty}
+### {115}{}{}
+{115}{}{error : string is empty}
+### {116}{}{}
+{116}{}{error : string is empty}
+### {117}{}{}
+{117}{}{error : string is empty}
+### {118}{}{}
+{118}{}{error : string is empty}
+### {119}{}{}
+{119}{}{error : string is empty}
+### {120}{}{}
+{120}{}{error : string is empty}
+### {121}{}{After a long journey, you return to your native village. But instead of greeting you, Villa greets you with sullen silence.}
+{121}{}{¾­¹ı³¤Í¾ÂÃĞĞ£¬Äã»Øµ½ÁËÄãµÄ¼ÒÏç¡£µ«Î¬À­²¢Ã»ÓĞÎÊºòÄã£¬¶øÊÇÃÆÃÆ²»ÀÖµØÄ¬Ä¬µØÎÊºòÄã¡£}
+### {122}{}{}
+{122}{}{error : string is empty}
+### {123}{}{You go down to the cellars. It smells damp and rat droppings.}
+{123}{}{ÄãÈ¥µØ½Ñ¡£ËüÎÅÆğÀ´ÓĞ³±ÊªºÍÀÏÊó·à±ãµÄÎ¶µÀ¡£}
+### {124}{}{}
+{124}{}{error : string is empty}
+### {125}{}{You have come to Flagstaff Colony. It's unexpectedly crowded here.}
+{125}{}{ÄãÀ´µ½ÁË¸¥À­¸ñË¹Ëş·òÖ³ÃñµØ¡£ÕâÀï³öºõÒâÁÏµØÓµ¼·¡£}
+### {126}{}{Here is a garrison and a colony correctional facility. Behind bars you find your fellow tribesmen.}
+{126}{}{ÕâÀïÓĞÒ»¸ö×¤¾üºÍÒ»¸öÖ³ÃñµØ³Í½ÌËù¡£ÔÚ¼àÓüÀï£¬Äã»á·¢ÏÖÄãµÄ²¿ÂäÍ¬°û¡£}
+### {127}{}{}
+{127}{}{error : string is empty}
+### {128}{}{Ruins of the old city. The depressing appearance of these ruins does not inspire confidence.}
+{128}{}{¹Å³ÇµÄ·ÏĞæ¡£ÕâĞ©·ÏĞæÁîÈË¾ÚÉ¥µÄÑù×Ó²¢²»ÄÜ¼¤·¢ÈËÃÇµÄĞÅĞÄ¡£}
+### {129}{}{You are standing at the gates of Garage City. The smell of rust and rubber reeks from this settlement a mile away.}
+{129}{}{ÄãÕ¾ÔÚ³µ¿â³ÇµÄÃÅ¿Ú¡£ÌúĞâºÍÏğ½ºµÄÆøÎ¶´ÓÒ»Ó¢ÀïÍâµÄÕâ¸ö¶¨¾ÓµãÉ¢·¢³öÀ´¡£}
+### {130}{}{}
+{130}{}{error : string is empty}
+### {131}{}{}
+{131}{}{error : string is empty}
+### {132}{}{The way to the nomads' camp is suddenly blocked by a military detachment.}
+{132}{}{Í¨ÍùÓÎÄÁÃñ×åÓªµØµÄÂ·Í»È»±»Ò»Ö§¾üÊÂ·ÖÇ²¶Óµ²×¡ÁË¡£}
+### {133}{}{You have entered a tribal camp lost among the dunes.}
+{133}{}{Äã½øÈëÁËÒ»¸öÃÔÊ§ÔÚÉ³ÇğÖĞµÄ²¿ÂäÓªµØ¡£}
+### {134}{}{You have come to the pens. The persistent smell of cattle can be felt already a mile away.}
+{134}{}{ÄãÒÑ¾­À´µ½Î§À¸ÁË¡£Ò»Ó¢ÀïÍâ¾Í¿ÉÒÔ¸ĞÊÜµ½³ÖĞø²»¶ÏµÄÅ£µÄÆøÎ¶¡£}
+### {135}{}{You have come to the settlement of tinsmiths. Unusual buildings built of aviation equipment can be seen behind the gates.}
+{135}{}{ÄãÀ´µ½ÁËÎı½³¶¨¾Óµã¡£ÔÚ´óÃÅºóÃæ¿ÉÒÔ¿´µ½ÓÃº½¿ÕÉè±¸½¨ÔìµÄ²»Í¬Ñ°³£µÄ½¨Öş¡£}
+### {136}{}{}
+{136}{}{error : string is empty}
+### {137}{}{}
+{137}{}{error : string is empty}
+### {138}{}{It seems that this bunker has been abandoned for a hundred years.}
+{138}{}{Õâ¸öµØ±¤ºÃÏñÒÑ¾­·ÏÆúÁËÒ»°ÙÄêÁË¡£}
+### {139}{}{Ahead you notice old ruins. Judging by the humid air, there should be a sea behind them.}
+{139}{}{Ç°·½ÊÇ¹ÅÀÏµÄ·ÏĞæ¡£´Ó³±ÊªµÄ¿ÕÆøÅĞ¶Ï£¬ËûÃÇÉíºóÓ¦¸ÃÓĞÒ»Æ¬´óº£¡£}
+### {140}{}{You found yourself at a small pier.}
+{140}{}{Äã·¢ÏÖ×Ô¼ºÔÚÒ»¸öĞ¡ÂëÍ·¡£}
+### {141}{}{For the first time in your life you were on the deck of a destroyer.}
+{141}{}{ÄãÓĞÉúÒÔÀ´µÚÒ»´ÎµÇÉÏÇıÖğ½¢µÄ¼×°å¡£}
+### {142}{}{}
+{142}{}{error : string is empty}
+### {143}{}{The road led you to the dam. On its top, the ranger bastion is unapproachably located.}
+{143}{}{ÕâÌõÂ·°ÑÄã´øµ½Ë®°Ó¡£ÔÚËüµÄ¶¥²¿£¬»¤ÁÖÔ±µÄ±¤ÀİÊÇ²»¿É½Ó½üµÄ¡£}
+### {144}{}{}
+{144}{}{error : string is empty}
+### {145}{}{}
+{145}{}{error : string is empty}
+### {146}{}{You have reached a huge city located among ancient ruins. Its gloomy streets greet you with heavy smog.}
+{146}{}{Äãµ½´ïÁËÒ»×ù×øÂäÔÚ¹Å´ú·ÏĞæÖĞµÄ´ó³ÇÊĞ¡£»è°µµÄ½ÖµÀÁıÕÖ×ÅÅ¨ÖØµÄÎíö²¡£}
+### {147}{}{}
+{147}{}{error : string is empty}
+### {148}{}{These slums seem unsafe. You should always be on your guard here.}
+{148}{}{ÕâĞ©Æ¶Ãñ¿ßËÆºõ²»°²È«¡£ÄãÓ¦¸ÃÊ±¿Ì±£³Ö¾¯Ìè¡£}
+### {149}{}{An ornate building towers over the city. A crowd of people wanders aimlessly in front of him.}
+{149}{}{Ò»×ù»ªÀöµÄ½¨ÖşËÊÁ¢ÔÚ³ÇÊĞÉÏ¿Õ¡£Ò»ÈºÈËÔÚËûÃæÇ°ÂşÎŞÄ¿µÄµØÏĞ¹ä¡£}
+### {150}{}{}
+{150}{}{error : string is empty}
+### {151}{}{}
+{151}{}{error : string is empty}
+### {152}{}{}
+{152}{}{error : string is empty}
+### {153}{}{}
+{153}{}{error : string is empty}
+### {154}{}{}
+{154}{}{error : string is empty}
+### {155}{}{This place is surrounded by impassable ruins. No wonder it's hard to find.}
+{155}{}{Õâ¸öµØ·½±»ÎŞ·¨Í¨ĞĞµÄ·ÏĞæ°üÎ§×Å¡£ÄÑ¹ÖºÜÄÑÕÒµ½¡£}
+### {156}{}{The premises of the Vault seem to be emptied. As if everything useful was taken out of here, and for a very long time.}
+{156}{}{±£ÏÕ¿âµÄ·¿ÎİËÆºõ±»Çå¿ÕÁË¡£ºÃÏñËùÓĞÓĞÓÃµÄ¶«Î÷¶¼±»ÄÃ×ßÁË£¬¶øÇÒÄÃ×ßÁËºÜ³¤Ò»¶ÎÊ±¼ä¡£}
+### {157}{}{You have come to the small town of Casa Grande, located in the middle of the caravan route.}
+{157}{}{ÄãÀ´µ½ÁËÎ»ÓÚÉÌ¶ÓÂ·ÏßÖĞ¼äµÄĞ¡ÕòCasa Grande¡£}
+### {158}{}{}
+{158}{}{error : string is empty}
+### {159}{}{}
+{159}{}{error : string is empty}
+### {160}{}{This place remembers all the horrors of the Great War.}
+{160}{}{Õâ¸öµØ·½¼ÇµÃÎ°´óÕ½ÕùµÄËùÓĞ¿Ö²À¡£}
+### {161}{}{Before you are the charred ruins of a once large city. Now its streets are flooded with dangerous creatures.}
+{161}{}{ÑÛÇ°ÊÇÒ»×ùÔø¾­µÄ´ó³ÇÊĞÉÕ½¹µÄ·ÏĞæ¡£ÏÖÔÚËüµÄ½ÖµÀÉÏµ½´¦¶¼ÊÇÎ£ÏÕµÄÉúÎï¡£}
+### {162}{}{}
+{162}{}{error : string is empty}
+### {163}{}{}
+{163}{}{error : string is empty}
+### {164}{}{You have discovered a small town surrounded by green plantations. There is a lot of life in this oasis.}
+{164}{}{Äã·¢ÏÖÁËÒ»¸ö±»ÂÌÉ«ÖÖÖ²Ô°°üÎ§µÄĞ¡Õò¡£ÕâÆ¬ÂÌÖŞÀïÓĞºÜ¶àÉúÃü¡£}
+### {165}{}{In the middle of the desert there is a huge plantation. So familiar to you and at the same time so alien landscape...}
+{165}{}{ÔÚÉ³Ä®ÖĞÑëÓĞÒ»¸ö¾Ş´óµÄÖÖÖ²Ô°¡£ÄãÊÇÈç´ËÊìÏ¤£¬Í¬Ê±ÓÖÊÇÈç´ËÄ°Éú¡£¡£¡£}
+### {166}{}{}
+{166}{}{error : string is empty}
+### {167}{}{A deserted highway leads you to a bandit's lair. It looks like no one is waiting for you here.}
+{167}{}{Ò»Ìõ·ÏÆúµÄ¸ßËÙ¹«Â·½«Äã´øµ½ÍÁ·ËµÄ³²Ñ¨¡£¿´ÆğÀ´Ã»ÓĞÈËÔÚÕâÀïµÈÄã¡£}
+### {168}{}{This place looks abandoned, but something about it worries you.}
+{168}{}{Õâ¸öµØ·½¿´ÆğÀ´±»ÒÅÆúÁË£¬µ«ÓĞĞ©ÊÂÇéÈÃÄãµ£ĞÄ¡£}
+### {169}{}{What a sad sight. This place will be uninhabitable for the next hundred years.}
+{169}{}{¶àÃ´ÁîÈË±¯ÉËµÄ¾°Ïó¡£ÔÚ½ÓÏÂÀ´µÄÒ»°ÙÄêÀï£¬Õâ¸öµØ·½½«²»ÊÊºÏ¾Ó×¡¡£}
+### {170}{}{You went down into the uranium mines.}
+{170}{}{Äã½øÁËÓË¿ó¡£}
+### {171}{}{A lonely motel appears on the side of the road like a ghost.}
+{171}{}{Ò»¼Ò¹ÂÁãÁãµÄÆû³µÂÃ¹İÏñ¹íÒ»Ñù³öÏÖÔÚÂ·±ß¡£}
+### {172}{}{An old high lighthouse on the shore beckons to a casual traveler.}
+{172}{}{°¶±ßÒ»×ù¹ÅÀÏµÄ¸ß¸ßµÆËşÏòÒ»Î»ĞİÏĞµÄÂÃĞĞÕßÕĞÊÖ¡£}
+### {173}{}{}
+{173}{}{error : string is empty}
+### {174}{}{}
+{174}{}{error : string is empty}
+### {175}{}{}
+{175}{}{error : string is empty}
+### {176}{}{The echo of your footsteps breaks the silence of the cathedral.}
+{176}{}{ÄãµÄ½Å²½Éù´òÆÆÁË´ó½ÌÌÃµÄ¼Å¾²¡£}
+### {177}{}{Here is a graveyard of long-forgotten technologies.}
+{177}{}{ÕâÀïÊÇ±»ÒÅÍüÒÑ¾ÃµÄ¼¼ÊõµÄÄ¹µØ¡£}
+### {178}{}{}
+{178}{}{error : string is empty}
+### {179}{}{You have come to the ancient ruins. No one has lived here for a very long time.}
+{179}{}{ÄãÀ´µ½ÁË¹ÅÀÏµÄ·ÏĞæ¡£Ã»ÓĞÈËÔÚÕâÀï×¡ºÜ³¤Ê±¼äÁË¡£}
+### {180}{}{The shores of Colorado are overgrown with prickly vegetation, in which various game can hide.}
+{180}{}{¿ÆÂŞÀ­¶àÖİµÄº£°¶³¤ÂúÁË¶à´ÌµÄÖ²±»£¬¸÷ÖÖÁÔÎï¶¼¿ÉÒÔ²ØÉíÆäÖĞ¡£}
+### {181}{}{}
+{181}{}{error : string is empty}
+### {182}{}{Time has not spared this place ? dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
+{182}{}{Ê±¼äÃ»ÓĞ·Å¹ıÕâ¸öµØ·½? ÆÆ¾ÉµÄ½¨ÖşÎïµ¹ËúÁË£¬É³³¾±©ÔÚ·ÏĞæÉÏ¸²¸ÇÁËÒ»²ãÉ³×Ó¡£}
+### {183}{}{}
+{183}{}{error : string is empty}
+### {184}{}{}
+{184}{}{error : string is empty}
+### {185}{}{}
+{185}{}{error : string is empty}
+### {186}{}{}
+{186}{}{error : string is empty}
+### {187}{}{}
+{187}{}{error : string is empty}
+### {188}{}{You are almost desperate in search of human settlements, when suddenly a small ranch appears ahead.}
+{188}{}{Äã¼¸ºõ¾øÍûµØÑ°ÕÒÈËÀà×¡Çø£¬Í»È»Ç°·½³öÏÖÁËÒ»¸öĞ¡ÄÁ³¡¡£}
+### {189}{}{The desert smoothly turns into dilapidated one-story blocks. It looks like a military garrison has settled here.}
+{189}{}{É³Ä®Ë³ÀûµØ±ä³ÉÁËÆÆ¾ÉµÄÒ»²ãÂ¥¡£¿´ÆğÀ´ºÃÏñÓĞÒ»Ö§¾ü¶Ó×¤ÔúÔÚÕâÀï¡£}
+### {190}{}{After passing the old quarters, you climb to the fort on the hill of Cerro de la Campana.}
+{190}{}{¾­¹ı¾ÉËŞÉáºó£¬Äã»áÅÀÉÏ¿²ÅÁÄÉÉ½ÉÏµÄ±¤Àİ¡£}
+### {191}{}{Externally, this old school looks dilapidated and abandoned. Being inside, you should be careful.}
+{191}{}{´ÓÍâ±íÉÏ¿´£¬ÕâËù¹ÅÀÏµÄÑ§Ğ£¿´ÆğÀ´ÆÆ¾É¶ø·ÏÆú¡£ÔÚÀïÃæ£¬ÄãÓ¦¸ÃĞ¡ĞÄ¡£}
+### {192}{}{}
+{192}{}{error : string is empty}
+### {193}{}{}
+{193}{}{error : string is empty}
+### {194}{}{It looks like the Rangers periodically monitor this water pump. At least it works.}
+{194}{}{¿´ÆğÀ´ÓÎÆï±ø¶Ó¶¨ÆÚ¼àÊÓÕâ¸öË®±Ã¡£ÖÁÉÙËüÓĞĞ§¡£}
+### {195}{}{A surviving building with lighted windows can be seen ahead. A whole crowd of rippers roams in front of him.}
+{195}{}{Ç°Ãæ¿ÉÒÔ¿´µ½Ò»¶°´°»§ÁÁ×ÅµÄĞÒ´æ½¨Öş¡£Ò»Èº±©Í½ÔÚËûÃæÇ°ÓÎµ´¡£}
+### {196}{}{}
+{196}{}{error : string is empty}
+### {197}{}{}
+{197}{}{error : string is empty}
+### {198}{}{}
+{198}{}{error : string is empty}
+### {199}{}{}
+{199}{}{error : string is empty}
+### {200}{}{}
+{200}{}{error : string is empty}
+### {201}{}{This place seems completely silent. But at the same time, there is an incredible tension in it.}
+{201}{}{Õâ¸öµØ·½ËÆºõÍêÈ«Ã»ÓĞ¶¯¾²¡£µ«Óë´ËÍ¬Ê±£¬ËüÒ²ÓĞÒ»ÖÖÁîÈËÄÑÒÔÖÃĞÅµÄ½ôÕÅ¸Ğ¡£}
+### {202}{}{}
+{202}{}{error : string is empty}
+### {203}{}{}
+{203}{}{error : string is empty}
+### {204}{}{}
+{204}{}{error : string is empty}
+### {205}{}{}
+{205}{}{error : string is empty}
+### {206}{}{}
+{206}{}{error : string is empty}
+### {207}{}{}
+{207}{}{error : string is empty}
+### {208}{}{}
+{208}{}{error : string is empty}
+### {209}{}{}
+{209}{}{error : string is empty}
+### {210}{}{The warehouse building was badly damaged by the shock wave. The main part of the goods must have fallen into disrepair.}
+{210}{}{²Ö¿â´óÂ¥±»³å»÷²¨ÑÏÖØËğ»µ¡£»õÎïµÄÖ÷Òª²¿·ÖÒ»¶¨ÒÑ¾­Ê§ĞŞÁË¡£}
+### {211}{}{}
+{211}{}{error : string is empty}
+### {212}{}{It seems that work at this quarry has been urgently suspended.}
+{212}{}{Õâ¸ö²ÉÊ¯³¡µÄ¹¤×÷ËÆºõÒÑ½ô¼±ÔİÍ£¡£}
+### {213}{}{}
+{213}{}{error : string is empty}
+### {214}{}{}
+{214}{}{error : string is empty}
+### {215}{}{}
+{215}{}{error : string is empty}
+### {216}{}{}
+{216}{}{error : string is empty}
+### {217}{}{}
+{217}{}{error : string is empty}
+### {218}{}{}
+{218}{}{error : string is empty}
+### {219}{}{}
+{219}{}{error : string is empty}
+### {220}{}{It seems that you accidentally got on someone's holiday.}
+{220}{}{ÄãºÃÏñ²»Ğ¡ĞÄÈ¥ÁË±ğÈËµÄ¶È¼Ù¡£}
+### {221}{}{Here is an ancient monument. It looks like it has been standing here for many decades and even more.}
+{221}{}{ÕâÊÇÒ»×ù¹ÅÀÏµÄ¼ÍÄî±®¡£Ëü¿´ÆğÀ´ÒÑ¾­ÔÚÕâÀï´£Á¢ÁË¼¸Ê®ÄêÉõÖÁ¸ü³¤Ê±¼ä¡£}
+### {222}{}{In front of you is an ancient cemetery. So ancient that it is completely overgrown with desert plants.}
+{222}{}{ÄãÃæÇ°ÊÇÒ»×ù¹ÅÀÏµÄÄ¹µØ¡£ËüÈç´Ë¹ÅÀÏ£¬ÒÔÖÁÓÚÍêÈ«³¤ÂúÁËÉ³Ä®Ö²Îï¡£}
+### {223}{}{}
+{223}{}{error : string is empty}
+### {224}{}{}
+{224}{}{error : string is empty}
+### {225}{}{}
+{225}{}{error : string is empty}
+### {226}{}{}
+{226}{}{error : string is empty}
+### {227}{}{}
+{227}{}{error : string is empty}
+### {228}{}{}
+{228}{}{error : string is empty}
+### {229}{}{}
+{229}{}{error : string is empty}
+### {230}{}{}
+{230}{}{error : string is empty}
+### {231}{}{}
+{231}{}{error : string is empty}
+### {232}{}{}
+{232}{}{error : string is empty}
+### {233}{}{}
+{233}{}{error : string is empty}
+### {234}{}{}
+{234}{}{error : string is empty}
+### {235}{}{}
+{235}{}{error : string is empty}
+### {236}{}{}
+{236}{}{error : string is empty}
+### {237}{}{}
+{237}{}{error : string is empty}
+### {238}{}{}
+{238}{}{error : string is empty}
+### {239}{}{}
+{239}{}{error : string is empty}
+### {240}{}{You went down into the cave. If you didn't know the exact coordinates, you would hardly have found it in the middle of Auteuil Park.}
+{240}{}{ÄãÏÂµ½É½¶´ÀïÈ¥ÁË¡£Èç¹ûÄã²»ÖªµÀÈ·ÇĞµÄ×ø±ê£¬ÄãºÜÄÑÔÚAuteuil¹«Ô°µÄÖĞÑëÕÒµ½Ëü¡£}
+### {241}{}{}
+{241}{}{error : string is empty}
+### {242}{}{}
+{242}{}{error : string is empty}
+### {243}{}{}
+{243}{}{error : string is empty}
+### {244}{}{You have entered a radioactive area.}
+{244}{}{Äã½øÈëÁË·ÅÉäĞÔÇøÓò¡£}
+### {245}{}{}
+{245}{}{error : string is empty}
+### {246}{}{}
+{246}{}{error : string is empty}
+### {247}{}{}
+{247}{}{error : string is empty}
+### {248}{}{You have entered a radioactive area.}
+{248}{}{Äã½øÈëÁË·ÅÉäĞÔÇøÓò¡£}
+### {249}{}{}
+{249}{}{error : string is empty}
+### {250}{}{Before you are barren wastelands.}
+{250}{}{ÔÚÄãÖ®Ç°ÊÇÆ¶ñ¤µÄ»ÄÔ­¡£}
 
-{500}{}{You get }
-{501}{}{ experience for survival in the cellars of the Villa.}
-{502}{}{Prisoners escaped from the correctional institution!}
-{503}{}{You get }
-{504}{}{ experience for destroying the Cathedral of the Sacred Fire.}
-{505}{}{Until the explosion left }
-{506}{}{ seconds.}
-{507}{}{You get }
-{508}{}{ experience for destroying the Ranger Citadel.}
-{509}{}{ experience for destroying the Brotherhood of Steel Fort.}
-{510}{}{You illegally entered the headquarters of the Brotherhood of Steel bypassing the sentries at the ramp.}
-{511}{}{Now the main thing is not to get burned.}
-{512}{}{You get }
-{513}{}{ experience for crossing the border.}
-{514}{}{ experience for a successful landing on Coronado Island.}
-{515}{}{ experience for the final destruction of Coronado Island.}
-{516}{}{ experience for the liberation of Coronado Island from military control.}
+### {500}{}{You get }
+{500}{}{ÄãµÃµ½}
+### {501}{}{ experience for survival in the cellars of the Villa.}
+{501}{}{ÔÚ±ğÊûµÄµØ½ÑÖĞÉú´æµÄ¾­Ñé¡£}
+### {502}{}{Prisoners escaped from the correctional institution!}
+{502}{}{·¸ÈË´Ó½ÌÑøÔºÌÓ×ßÁË£¡}
+### {503}{}{You get }
+{503}{}{ÄãµÃµ½}
+### {504}{}{ experience for destroying the Cathedral of the Sacred Fire.}
+{504}{}{ÆÆ»µÊ¥»ğ´ó½ÌÌÃµÄ¾­Àú¡£}
+### {505}{}{Until the explosion left }
+{505}{}{Ö±µ½±¬Õ¨Àë¿ª}
+### {506}{}{ seconds.}
+{506}{}{Ãë¡£}
+### {507}{}{You get }
+{507}{}{ÄãµÃµ½}
+### {508}{}{ experience for destroying the Ranger Citadel.}
+{508}{}{´İ»ÙÓÎÆï±ø³Ç±¤µÄ¾­Ñé¡£}
+### {509}{}{ experience for destroying the Brotherhood of Steel Fort.}
+{509}{}{´İ»Ù¸ÖÌú±¤ÀİĞÖµÜ»áµÄ¾­Ñé¡£}
+### {510}{}{You illegally entered the headquarters of the Brotherhood of Steel bypassing the sentries at the ramp.}
+{510}{}{ÄãÈÆ¹ıÆÂµÀÉÏµÄÉÚ±ø·Ç·¨½øÈëÁË¸ÖÌúĞÖµÜ»áµÄ×Ü²¿¡£}
+### {511}{}{Now the main thing is not to get burned.}
+{511}{}{ÏÖÔÚ×îÖØÒªµÄÊÇ²»Òª±»ÉÕÉË¡£}
+### {512}{}{You get }
+{512}{}{ÄãµÃµ½}
+### {513}{}{ experience for crossing the border.}
+{513}{}{¹ı¾³¾­Ñé¡£}
+### {514}{}{ experience for a successful landing on Coronado Island.}
+{514}{}{ÔÚ¿ÆÂŞÄÉ¶àµº³É¹¦×ÅÂ½µÄ¾­Ñé¡£}
+### {515}{}{ experience for the final destruction of Coronado Island.}
+{515}{}{¿ÆÂŞÄÉ¶àµº×îÖÕ»ÙÃğµÄ¾­Ñé¡£}
+### {516}{}{ experience for the liberation of Coronado Island from military control.}
+{516}{}{¿ÆÂŞÄÉ¶àµº´Ó¾üÊÂ¿ØÖÆÏÂ½â·ÅµÄ¾­Ñé¡£}

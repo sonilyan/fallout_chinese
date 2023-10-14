@@ -1,5 +1,10 @@
-{110}{}{"here we keep valuable pre-war knowledge. It would be useful to study them.}
-{111}{}{"Here we keep valuable pre-war knowledge." you have already studied them.}
-{112}{}{You have already studied these sources of pre-war knowledgeÿ.}
-{113}{}{Ö you spent the whole day studying this storehouse of pre-war knowledge. Ònow a lot has become clearer.}
-{114}{}{ The bodyguard will not allow you to study books without proper permission.}
+### {110}{}{"here we keep valuable pre-war knowledge. It would be useful to study them.}
+{110}{}{¡°ÎÒÃÇÔÚÕâÀï±£´æ×Å±¦¹óµÄÕ½Ç°ÖªÊ¶¡£ÑĞ¾¿ËüÃÇ»áºÜÓĞÓÃ¡£¡±¡£}
+### {111}{}{"Here we keep valuable pre-war knowledge." you have already studied them.}
+{111}{}{¡°ÎÒÃÇÔÚÕâÀï±£´æ×Å±¦¹óµÄÕ½Ç°ÖªÊ¶¡£¡±ÄãÒÑ¾­ÑĞ¾¿¹ıÁË¡£}
+### {112}{}{You have already studied these sources of pre-war knowledge?.}
+{112}{}{ÄãÒÑ¾­ÑĞ¾¿ÁËÕâĞ©Õ½Ç°ÖªÊ¶µÄÀ´Ô´?.}
+### {113}{}{? you spent the whole day studying this storehouse of pre-war knowledge. ?now a lot has become clearer.}
+{113}{}{? Äã»¨ÁËÒ»ÕûÌìµÄÊ±¼äÑĞ¾¿Õâ¸öÕ½Ç°ÖªÊ¶µÄ±¦¿â¡£?ÏÖÔÚºÜ¶àÊÂÇé¶¼±äµÃ¸üÇå³şÁË¡£}
+### {114}{}{ The bodyguard will not allow you to study books without proper permission.}
+{114}{}{±£ïÚ²»ÔÊĞíÄãÔÚÃ»ÓĞÊÊµ±Ğí¿ÉµÄÇé¿öÏÂ¶ÁÊé¡£}

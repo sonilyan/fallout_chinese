@@ -1,24 +1,46 @@
-{100}{}{In front of you is a ghoul.}
-{101}{}{You see an ordinary ghoul.}
-{102}{}{Z-z-z...}
+### {100}{}{In front of you is a ghoul.}
+{100}{}{ÔÚÄãÃæÇ°ÊÇÒ»¸öÊ³Ê¬¹í¡£}
+### {101}{}{You see an ordinary ghoul.}
+{101}{}{Äã¿´µ½Ò»¸öÆÕÍ¨µÄÊ³Ê¬¹í¡£}
+### {102}{}{Z-z-z...}
+{102}{}{Z-Z-Z¡£¡£¡£}
 
-{110}{}{Oh...}
-{111}{}{Ah...}
-{112}{}{It hurts...}
-{113}{}{It still hurts...}
+### {110}{}{Oh...}
+{110}{}{Å¶}
+### {111}{}{Ah...}
+{111}{}{°¡¡£¡£¡£}
+### {112}{}{It hurts...}
+{112}{}{ºÜÌÛ¡£¡£¡£}
+### {113}{}{It still hurts...}
+{113}{}{ËüÈÔÈ»ºÜÍ´¡£¡£¡£}
 
-{200}{}{Hey, man, help me! I just got caught in a landslide a little bit and broke a couple of bones. These old houses are no good at all...}
-{201}{}{Hey, buddy, help me! I just got caught in a landslide a little bit and broke a couple of bones. These old houses are no good at all...}
-{202}{}{Oh my God! Don't move, I'll help you now!}
-{203}{}{Daydreaming. I don't even want to dirty my hands about such a freak.}
-{204}{}{I'm not going to help you. I'll just take your stuff and leave you to die. And by the way — no one will hear you here anymore.}
-{205}{}{Oh no! No! No...}
-{206}{}{See you in the next world. Maybe.}
-{207}{}{I'm kidding, man! Wait a bit, I'll cure you soon.}
-{208}{}{I really didn't expect that a person would help me, and even in the heart of radioactive ruins. Thank you, friend.}
-{209}{}{You're welcome. By the way, what were you doing here?}
-{210}{}{Don't forget to tell the other ghouls about my feat. How did you end up here anyway?}
-{211}{}{Explored the ruins, obviously. But the floors here turned out to be quite flimsy. Tread carefully, friend. Oh, and that's not the main danger. I saw a creature from the window. Huge, scary, with claws like sabers. Don't fall into his clutches. And now — good luck. I'll try to hobble to the nearest camp.}
-{212}{}{Thanks for the warning. Bye.}
-{213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case, thank you, friend. I couldn't even kick down the front door without you.}
-{1213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case — thank you, girlfriend. I couldn't even kick down the front door without you.}
+### {200}{}{Hey, man, help me! I just got caught in a landslide a little bit and broke a couple of bones. These old houses are no good at all...}
+{200}{}{ºÙ£¬»ï¼Æ£¬°ï°ïÎÒ£¡ÎÒ¸Õ¸ÕÓöµ½É½Ìå»¬ÆÂ£¬Ë¤¶ÏÁË¼¸¿é¹ÇÍ·¡£ÕâĞ©ÀÏ·¿×ÓÒ»µãÒ²²»ºÃ¡£¡£¡£}
+### {201}{}{Hey, buddy, help me! I just got caught in a landslide a little bit and broke a couple of bones. These old houses are no good at all...}
+{201}{}{ºÙ£¬»ï¼Æ£¬°ï°ïÎÒ£¡ÎÒ¸Õ¸ÕÓöµ½É½Ìå»¬ÆÂ£¬Ë¤¶ÏÁË¼¸¿é¹ÇÍ·¡£ÕâĞ©ÀÏ·¿×ÓÒ»µãÒ²²»ºÃ¡£¡£¡£}
+### {202}{}{Oh my God! Don't move, I'll help you now!}
+{202}{}{Ìì°¡£¡±ğ¶¯£¬ÎÒÏÖÔÚ¾Í°ïÄã£¡}
+### {203}{}{Daydreaming. I don't even want to dirty my hands about such a freak.}
+{203}{}{°×ÈÕÃÎ¡£ÎÒÉõÖÁ²»ÏëÒòÎªÕâÑùÒ»¸ö¹ÖÌ¥¶øÅªÔàÎÒµÄÊÖ¡£}
+### {204}{}{I'm not going to help you. I'll just take your stuff and leave you to die. And by the way ? no one will hear you here anymore.}
+{204}{}{ÎÒ²»»á°ïÄãµÄ¡£ÎÒ»áÄÃ×ßÄãµÄ¶«Î÷£¬ÈÃÄãÈ¥ËÀ¡£Ë³±ãËµÒ»ÏÂ? ÔÚÕâÀïÃ»ÈË»áÔÙÌıµ½ÄãËµ»°ÁË¡£}
+### {205}{}{Oh no! No! No...}
+{205}{}{Å¶£¬²»£¡²»²»}
+### {206}{}{See you in the next world. Maybe.}
+{206}{}{ÏÂ¸öÊÀ½ç¼û¡£´ó¸Å}
+### {207}{}{I'm kidding, man! Wait a bit, I'll cure you soon.}
+{207}{}{ÎÒÔÚ¿ªÍæĞ¦£¬»ï¼Æ£¡µÈÒ»ÏÂ£¬ÎÒºÜ¿ì¾Í»áÖÎºÃÄãµÄ¡£}
+### {208}{}{I really didn't expect that a person would help me, and even in the heart of radioactive ruins. Thank you, friend.}
+{208}{}{ÎÒÕæµÄÃ»Ïëµ½ÓĞÈË»á°ïÖúÎÒ£¬ÉõÖÁÔÚ·ÅÉäĞÔ·ÏĞæµÄÖĞĞÄ¡£Ğ»Ğ»Äã£¬ÅóÓÑ¡£}
+### {209}{}{You're welcome. By the way, what were you doing here?}
+{209}{}{²»¿ÍÆø¡£Ë³±ãÎÊÒ»ÏÂ£¬ÄãÔÚÕâÀï¸ÉÊ²Ã´£¿}
+### {210}{}{Don't forget to tell the other ghouls about my feat. How did you end up here anyway?}
+{210}{}{±ğÍüÁË°ÑÎÒµÄ×³¾Ù¸æËßÆäËûÊ³Ê¬¹í¡£ÄãÊÇÔõÃ´À´µ½ÕâÀïµÄ£¿}
+### {211}{}{Explored the ruins, obviously. But the floors here turned out to be quite flimsy. Tread carefully, friend. Oh, and that's not the main danger. I saw a creature from the window. Huge, scary, with claws like sabers. Don't fall into his clutches. And now ? good luck. I'll try to hobble to the nearest camp.}
+{211}{}{ÏÔÈ»ÊÇÔÚ·ÏĞæÉÏÌ½ÏÕ¡£µ«ÊÂÊµÖ¤Ã÷£¬ÕâÀïµÄµØ°åºÜ´àÈõ¡£Ğ¡ĞÄ²È£¬ÅóÓÑ¡£Å¶£¬ÄÇ²»ÊÇÖ÷ÒªµÄÎ£ÏÕ¡£ÎÒ´Ó´°»§¿´µ½Ò»¸öÉúÎï¡£¾Ş´ó£¬¿ÉÅÂ£¬×¦×ÓÏñ¾üµ¶¡£²»ÒªÂäÈëËûµÄÄ§ÕÆ¡£ÏÖÔÚ? ×£ÄãºÃÔËÎÒ»á¾¡Á¿Ò»È³Ò»¹ÕµØÈ¥×î½üµÄÓªµØ¡£}
+### {212}{}{Thanks for the warning. Bye.}
+{212}{}{Ğ»Ğ»ÄãµÄ¾¯¸æ¡£ÔÙ¼û}
+### {213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case, thank you, friend. I couldn't even kick down the front door without you.}
+{213}{}{ÎÒ²»¼ÇµÃÄãµÄÁ³ÁË¡£ÎÒÃÇÃ»ÓĞÔÚÄ¹µØÀï´©¹ıĞ¡Â·£¬ÊÇÂğ£¿ÕâÊÇÒ»¼şÆæ¹ÖµÄÊÂÇé¡£µ«ÎŞÂÛÈçºÎ£¬Ğ»Ğ»Äã£¬ÅóÓÑ¡£Ã»ÓĞÄã£¬ÎÒÉõÖÁ²»ÄÜÌß¿ªÇ°ÃÅ¡£}
+### {1213}{}{I don't remember your face. We didn't cross paths in the Necropolis, did we? It's a strange thing. But in any case ? thank you, girlfriend. I couldn't even kick down the front door without you.}
+{1213}{}{ÎÒ²»¼ÇµÃÄãµÄÁ³ÁË¡£ÎÒÃÇÃ»ÓĞÔÚÄ¹µØÀï´©¹ıĞ¡Â·£¬ÊÇÂğ£¿ÕâÊÇÒ»¼şÆæ¹ÖµÄÊÂÇé¡£µ«ÎŞÂÛÈçºÎ? Ğ»Ğ»Äã£¬Å®ÅóÓÑ¡£Ã»ÓĞÄã£¬ÎÒÉõÖÁ²»ÄÜÌß¿ªÇ°ÃÅ¡£}

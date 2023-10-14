@@ -1,150 +1,283 @@
-{100}{}{This cannot be done during combat.}
-{101}{}{This item should be used out of hand.}
-{102}{}{The walls of the cave are jamming the radio signal.}
-{103}{}{Something is jamming the radio signal. These are probably ZAX's tricks.}
+### {100}{}{This cannot be done during combat.}
+{100}{}{ÔÚÕ½¶·ÖĞ²»ÄÜÕâÑù×ö¡£}
+### {101}{}{This item should be used out of hand.}
+{101}{}{Õâ¸öÏîÄ¿Ó¦¸ÃÁ¢¼´Ê¹ÓÃ¡£}
+### {102}{}{The walls of the cave are jamming the radio signal.}
+{102}{}{¶´Ñ¨µÄÇ½±ÚÕıÔÚ¸ÉÈÅÎŞÏßµçĞÅºÅ¡£}
+### {103}{}{Something is jamming the radio signal. These are probably ZAX's tricks.}
+{103}{}{ÓĞ¶«Î÷¸ÉÈÅÁËÎŞÏßµçĞÅºÅ¡£ÕâĞ©¿ÉÄÜÊÇZAXµÄ°ÑÏ·¡£}
 
-{210}{}{A slight static crackling sounds from the speaker.}
-{211}{}{Listen to the general frequency.}
-{212}{}{Listen to the frequency of Faber's mercenaries.}
-{213}{}{Listen to the Ranger frequency.}
-{214}{}{Listen to the frequency of fire worshippers.}
-{215}{}{Listen to the frequency of the Phoenix Rebels.}
-{216}{}{Listen to the frequency of tinkers.}
-{217}{}{Listen to the frequency of the Brotherhood of Steel.}
-{218}{}{Listen to the emergency frequency of the Vault 27.}
-{219}{}{Turn it off.}
+### {210}{}{A slight static crackling sounds from the speaker.}
+{210}{}{ÑïÉùÆ÷·¢³öÇáÎ¢µÄ¾²µçàèÅ¾Éù¡£}
+### {211}{}{Listen to the general frequency.}
+{211}{}{ÌıÒ»°ãÆµÂÊ¡£}
+### {212}{}{Listen to the frequency of Faber's mercenaries.}
+{212}{}{ÌıÌı·Ñ²®¹ÍÓ¶±øµÄÆµÂÊ¡£}
+### {213}{}{Listen to the Ranger frequency.}
+{213}{}{ÌıRangerµÄÆµÂÊ¡£}
+### {214}{}{Listen to the frequency of fire worshippers.}
+{214}{}{ÌıÌı°İ»ğÕßµÄÆµÂÊ¡£}
+### {215}{}{Listen to the frequency of the Phoenix Rebels.}
+{215}{}{ÌıÌı·ï»ËÆğÒå¾üµÄÆµÂÊ¡£}
+### {216}{}{Listen to the frequency of tinkers.}
+{216}{}{ÌıÌıĞŞĞŞ²¹²¹µÄÆµÂÊ¡£}
+### {217}{}{Listen to the frequency of the Brotherhood of Steel.}
+{217}{}{ÌıÌı¸ÖÌúĞÖµÜ»áµÄÆµÂÊ¡£}
+### {218}{}{Listen to the emergency frequency of the Vault 27.}
+{218}{}{ÊÕÌı±£ÏÕ¿â27µÄ½ô¼±ÆµÂÊ¡£}
+### {219}{}{Turn it off.}
+{219}{}{°ÑËü¹Øµô¡£}
 
 #Total frequency
-{230}{}{You only hear "white noise".}
-{231}{}{Leave.}
-{232}{}{Apparently, I'm too far away from the negotiation zone on this frequency.}
-{233}{}{Search for signals at all frequencies.}
-{234}{}{...help! The jackals have trapped us, we urgently need help!}
-{235}{}{I hear you. Where are you located?}
-{236}{}{Damn it, finally! Listen, the Jackals have trapped us. We can't get out of here. Help us, we will not remain in debt. Here are the coordinates, north of Garage City... Be careful and bring more people... Damn, these creatures are already here... (the signal is gone)}
-{237}{}{Hold on, stranger. Whoever you are.}
-{238}{}{Hold on, Ranger. Help is on the way.}
-{239}{}{I hear you. Commander Helford sent me to help. Where are you located?}
+### {230}{}{You only hear "white noise".}
+{230}{}{ÄãÖ»ÄÜÌıµ½¡°°×ÔëÒô¡±¡£}
+### {231}{}{Leave.}
+{231}{}{Àë¿ª}
+### {232}{}{Apparently, I'm too far away from the negotiation zone on this frequency.}
+{232}{}{ÏÔÈ»£¬ÔÚÕâ¸öÆµÂÊÉÏ£¬ÎÒÀëÌ¸ÅĞÇøÌ«Ô¶ÁË¡£}
+### {233}{}{Search for signals at all frequencies.}
+{233}{}{ËÑË÷ËùÓĞÆµÂÊµÄĞÅºÅ¡£}
+### {234}{}{...help! The jackals have trapped us, we urgently need help!}
+{234}{}{°ïÖú²òÀÇÀ§×¡ÁËÎÒÃÇ£¬ÎÒÃÇ¼±Ğè°ïÖú£¡}
+### {235}{}{I hear you. Where are you located?}
+{235}{}{ÎÒÌıµ½ÁË¡£ÄãÔÚÄÄÀï£¿}
+### {236}{}{Damn it, finally! Listen, the Jackals have trapped us. We can't get out of here. Help us, we will not remain in debt. Here are the coordinates, north of Garage City... Be careful and bring more people... Damn, these creatures are already here... (the signal is gone)}
+{236}{}{¸ÃËÀ£¬ÖÕÓÚ£¡Ìı×Å£¬²òÀÇÀ§×¡ÁËÎÒÃÇ¡£ÎÒÃÇÎŞ·¨Àë¿ªÕâÀï¡£°ï°ïÎÒÃÇ£¬ÎÒÃÇ²»»á¼ÌĞø¸ºÕ®¡£ÕâÊÇ³µ¿â³ÇÒÔ±±µÄ×ø±ê¡£¡£¡£Ğ¡ĞÄ£¬´ø¸ü¶àµÄÈË¡£¡£¡£¸ÃËÀ£¬ÕâĞ©ÉúÎïÒÑ¾­À´ÁË¡£¡£¡££¨ĞÅºÅÏûÊ§ÁË£©}
+### {237}{}{Hold on, stranger. Whoever you are.}
+{237}{}{µÈÒ»ÏÂ£¬Ä°ÉúÈË¡£²»¹ÜÄãÊÇË­¡£}
+### {238}{}{Hold on, Ranger. Help is on the way.}
+{238}{}{µÈÒ»ÏÂ£¬ÓÎÆï±ø¡£¾ÈÔ®ÕıÔÚÂ·ÉÏ¡£}
+### {239}{}{I hear you. Commander Helford sent me to help. Where are you located?}
+{239}{}{ÎÒÌıµ½ÁË¡£Ö¸»Ó¹ÙºÕ¶û¸£µÂÅÉÎÒÈ¥°ïÃ¦¡£ÄãÔÚÄÄÀï£¿}
 
 #Rangers
-{240}{}{(You hear the boring patrolmen talking. Nothing interesting.)}
-{241}{}{"...The last time we saw them in Garage City." - "They could have died on the way. Especially considering that there were children among the refugees." — "And what are they doing in Vegas?" - "I don't know. They say there are whole wars between clans and cannibalism flourishes. We should sort out our problems." — "That's right. So maybe it's a good thing they got lost in the desert. Fewer mouths to feed on the base." — "Make sure the civilians don't hear you." — "I know, I know..."}
-{242}{}{"...the ration is already in the throat does not climb. When will they finally deliver normal meat to the base?" - "They say the problems have worsened in San Brahmin. Until the situation is resolved, be content with what you have." — "Damn, so the guts will knot..."}
-{243}{}{*sh-sh-sh* "... and drove them into the ruins of Needles. The siege lasted three days until they gave up from hunger."— "Wow, three days in the sun is something." — "Yeah. But the bandits turned out to be naked. I couldn't take anything of value with me..."— * psh-sh*-"So, stop clogging up the ether! You will tell stories in the dining room."— *psh-shh* - "Whatever you say, I'm not used to refusing ladies." — *psh—shh* — "You'll make a joke, you wit, and I'll get your ration cut for a week."}
-{244}{}{*sh-sh-sh*"...they're going on the road. What to do? Reception." — "Let them go. We don't need any extra trouble because of a few beggars."}
-{245}{}{"...I'll send you to the mantises!" "Calm down, Sergeant. I will inform the guys to intercept the caravan and take the stolen goods. From now on, be more careful when communicating with unverified merchants."}
-{246}{}{"...not enough provisions. I don't know if I should help them. We are also running out of rations." — "Then keep it for yourself. The nearest outpost is too far away, it's not worth the risk..."}
-{247}{}{...there was one left, but he escaped into the wasteland."— "Let him run. I'll tell the nearest patrolmen, they'll intercept him." — "Thank you. But I'll catch up somehow."—"Ranger, don't try to chase him through the desert!"—"To hell with it, I'll do it anyway."—" (pause) As you know. But one more such trick, and I will inform the commander."}
-{248}{}{* sh-sh-sh* — "Bravo Group, answer!" — *sh-sh*- "Bravo Group, answer!.. Damn it..."}
-{249}{}{* sh-sh-sh*}
+### {240}{}{(You hear the boring patrolmen talking. Nothing interesting.)}
+{240}{}{£¨ÄãÌıµ½ÎŞÁÄµÄÑ²¾¯ÔÚËµ»°¡£Ã»Ê²Ã´ÓĞÈ¤µÄ¡££©}
+### {241}{}{"...The last time we saw them in Garage City." - "They could have died on the way. Especially considering that there were children among the refugees." ? "And what are they doing in Vegas?" - "I don't know. They say there are whole wars between clans and cannibalism flourishes. We should sort out our problems." ? "That's right. So maybe it's a good thing they got lost in the desert. Fewer mouths to feed on the base." ? "Make sure the civilians don't hear you." ? "I know, I know..."}
+{241}{}{¡°¡­¡­ÎÒÃÇ×îºóÒ»´ÎÔÚ³µ¿â³Ç¿´µ½ËûÃÇ¡£¡±¡ª¡ª¡°ËûÃÇ¿ÉÄÜÔÚÂ·ÉÏËÀÁË¡£ÌØ±ğÊÇ¿¼ÂÇµ½ÄÑÃñÖĞÓĞº¢×Ó¡£¡±? ¡°ËûÃÇÔÚÀ­Ë¹Î¬¼ÓË¹¸ÉÊ²Ã´£¿¡±¡ª¡ª¡°ÎÒ²»ÖªµÀ¡£ËûÃÇËµ²¿×åÖ®¼äÓĞÈ«ÃæµÄÕ½Õù£¬Ê³ÈËÏÖÏóÊ¢ĞĞ¡£ÎÒÃÇÓ¦¸Ã½â¾öÎÒÃÇµÄÎÊÌâ¡£¡±? ¡°Ã»´í¡£Ò²ĞíËûÃÇÔÚÉ³Ä®ÖĞÃÔÂ·ÊÇ¼şºÃÊÂ¡£»ùµØÀï¿É¹©½øÊ³µÄ×ì°Í¸üÉÙÁË¡£¡±? ¡°È·±£Æ½ÃñÌı²»µ½ÄãËµ»°¡£¡±? ¡°ÎÒÖªµÀ£¬ÎÒÖªµÀ¡­¡­¡±}
+### {242}{}{"...the ration is already in the throat does not climb. When will they finally deliver normal meat to the base?" - "They say the problems have worsened in San Brahmin. Until the situation is resolved, be content with what you have." ? "Damn, so the guts will knot..."}
+{242}{}{¡°¡­¡­Åä¸øÁ¿ÒÑ¾­µ½ÁË¼«ÏŞ¡£ËûÃÇÊ²Ã´Ê±ºò²ÅÄÜ°ÑÕı³£µÄÈâËÍµ½»ùµØ£¿¡±-¡°ËûÃÇËµÊ¥ÆÅÂŞÃÅµÄÎÊÌâÒÑ¾­¶ñ»¯ÁË¡£ÔÚ¾ÖÊÆµÃµ½½â¾öÖ®Ç°£¬Âú×ãÓÚÄãËùÓµÓĞµÄ¡£¡±? ¡°¸ÃËÀ£¬ÕâÑùÄÚÔà¾Í»á´ò½á¡­¡­¡±}
+### {243}{}{*sh-sh-sh* "... and drove them into the ruins of Needles. The siege lasted three days until they gave up from hunger."? "Wow, three days in the sun is something." ? "Yeah. But the bandits turned out to be naked. I couldn't take anything of value with me..."? * psh-sh*-"So, stop clogging up the ether! You will tell stories in the dining room."? *psh-shh* - "Whatever you say, I'm not used to refusing ladies." ? *psh?shh* ? "You'll make a joke, you wit, and I'll get your ration cut for a week."}
+{243}{}{*¡°ĞêĞê¡±¡­¡­°ÑËûÃÇ¸Ïµ½ÁËNeedlesµÄ·ÏĞæÖĞ¡£Î§¹¥³ÖĞøÁËÈıÌì£¬Ö±µ½ËûÃÇ¶öËÀ? ¡°ÍÛ£¬ÔÚÑô¹âÏÂÉ¹ÈıÌìÕæÁË²»Æğ¡£¡±? ¡°ÊÇµÄ¡£µ«·ËÍ½ÃÇÔ­À´ÊÇÂãÌåµÄ¡£ÎÒ²»ÄÜ´øÈÎºÎÓĞ¼ÛÖµµÄ¶«Î÷¡­¡­¡±? * psh-sh*-¡°ËùÒÔ£¬±ğÔÙ¶ÂÈûÒÔÌ«ÁË£¡Äã»áÔÚ²ÍÌüÀï½²¹ÊÊÂµÄ¡£¡±? *psh-shh-¡°²»¹ÜÄãËµÊ²Ã´£¬ÎÒ¶¼²»Ï°¹ß¾Ü¾øÅ®Ê¿ÃÇ¡£¡±? *psh?shh*? ¡°Äã»á¿ªÍæĞ¦µÄ£¬ÄãÕâ¸ö´ÏÃ÷ÈË£¬ÎÒ»áÏ÷¼õÄãÒ»ÖÜµÄ¿ÚÁ¸¡£¡±}
+### {244}{}{*sh-sh-sh*"...they're going on the road. What to do? Reception." ? "Let them go. We don't need any extra trouble because of a few beggars."}
+{244}{}{*ĞêĞê¡°¡­¡­ËûÃÇÒªÉÏÂ·ÁË¡£¸ÃÔõÃ´°ì£¿½Ó´ı´¦¡£¡±? ¡°ÈÃËûÃÇ×ß°É¡£ÎÒÃÇ²»ĞèÒªÒòÎª¼¸¸öÆòØ¤¶øÓĞÈÎºÎ¶îÍâµÄÂé·³¡£¡±}
+### {245}{}{"...I'll send you to the mantises!" "Calm down, Sergeant. I will inform the guys to intercept the caravan and take the stolen goods. From now on, be more careful when communicating with unverified merchants."}
+{245}{}{¡°¡­¡­ÎÒ°ÑÄãËÍµ½ó«òëÄÇÀï£¡¡±¡°Àä¾²µã£¬ÖĞÊ¿¡£ÎÒ»áÍ¨Öª»ï¼ÆÃÇÀ¹½ØÉÌ¶Ó²¢´ø×ßÔßÎï¡£´ÓÏÖÔÚÆğ£¬ÓëÎ´¾­ºËÊµµÄÉÌÈË¹µÍ¨Ê±Òª¸ü¼ÓĞ¡ĞÄ¡£¡±}
+### {246}{}{"...not enough provisions. I don't know if I should help them. We are also running out of rations." ? "Then keep it for yourself. The nearest outpost is too far away, it's not worth the risk..."}
+{246}{}{¡°¡­¡­Ê³Îï²»¹»¡£ÎÒ²»ÖªµÀÎÒÊÇ·ñÓ¦¸Ã°ïÖúËûÃÇ¡£ÎÒÃÇµÄ¿ÚÁ¸Ò²¿ìÓÃÍêÁË¡£¡±? ¡°ÄÇÄã×Ô¼ºÁô×Å°É¡£×î½üµÄÇ°ÉÚÕ¾Ì«Ô¶ÁË£¬²»ÖµµÃÃ°ÏÕ¡­¡­¡±}
+### {247}{}{...there was one left, but he escaped into the wasteland."? "Let him run. I'll tell the nearest patrolmen, they'll intercept him." ? "Thank you. But I'll catch up somehow."?"Ranger, don't try to chase him through the desert!"?"To hell with it, I'll do it anyway."?" (pause) As you know. But one more such trick, and I will inform the commander."}
+{247}{}{¡­¡­Ö»Ê£ÏÂÒ»¸ö£¬µ«ËûÌÓµ½ÁË»ÄµØÀï¡£¡°? ¡°ÈÃËûÅÜ°É¡£ÎÒ»á¸æËß×î½üµÄÑ²¾¯£¬ËûÃÇ»áÀ¹½ØËûµÄ¡£¡±? ¡°Ğ»Ğ»¡£µ«ÎÒ»áÉè·¨¸ÏÉÏµÄ¡£¡±?¡°ÓÎÆï±ø£¬±ğÏëÔÚÉ³Ä®Àï×·Ëû£¡¡±?¡°¼û¹íÈ¥°É£¬ÎÒÎŞÂÛÈçºÎ¶¼»á×öµÄ¡£¡±?¡°£¨Í£¶Ù£©ÕıÈçÄãËùÖª¡£µ«ÔÙË£Ò»¸öÕâÑùµÄ°ÑÏ·£¬ÎÒ»áÍ¨ÖªÖ¸»Ó¹ÙµÄ¡£¡±}
+### {248}{}{* sh-sh-sh* ? "Bravo Group, answer!" ? *sh-sh*- "Bravo Group, answer!.. Damn it..."}
+{248}{}{*sh sh sh*? ¡°Bravo Group£¬»Ø´ğ£¡¡±? *sh-sh*-¡°BravoĞ¡×é£¬»Ø´ğ£¡¡­¸ÃËÀ¡­¡­¡±}
+### {249}{}{* sh-sh-sh*}
+{249}{}{*ĞêĞê*}
 
-{250}{}{...I can't! Who could have done such a thing?! — The Rangers have many enemies. But if the dam was destroyed from the inside, it means that someone from their own did it. They say that before that, some newcomer was seen inside the dam. The guards were interrogated to the fullest extent. They won't see their badge anymore.}
-{251}{}{...at the base, be sure to look in. This guy is a great mechanic. — I don't like messing with teenagers. The main thing is that he keeps an eye on the dam, otherwise old Rufus will soon die, and then what to do?}
-{252}{}{...I noticed it too. What happened? — The signalmen seem to have hired some peasant to fix the antenna. Now the walkie-talkie works better and at a greater distance. "A peasant?" That's the twist. We should treat him to empty coffee when we meet.}
-{253}{}{...that fugitive was caught after all. The bitch was hiding in the subway near the farmers on Route 95. "Right under your nose?" And we couldn't catch him for so long? — He was an excellent spy, we would like such. They say it wasn't even the Rangers who caught him, but some crook. — Well, at least some benefit from outsiders. — And don't say...}
+### {250}{}{...I can't! Who could have done such a thing?! ? The Rangers have many enemies. But if the dam was destroyed from the inside, it means that someone from their own did it. They say that before that, some newcomer was seen inside the dam. The guards were interrogated to the fullest extent. They won't see their badge anymore.}
+{250}{}{¡­ÎÒ²»ÄÜ£¡Ë­»á×öÕâÑùµÄÊÂ£¿£¡? ÓÎÆï±ø¶ÓÓĞºÜ¶àµĞÈË¡£µ«Èç¹û´ó°ÓÊÇ´ÓÄÚ²¿±»´İ»ÙµÄ£¬ÄÇ¾ÍÒâÎ¶×ÅÊÇËûÃÇ×Ô¼ºµÄÈË¸ÉµÄ¡£ËûÃÇËµ£¬ÔÚÄÇÖ®Ç°£¬ÓĞÈËÔÚ´ó°ÓÄÚ²¿¿´µ½ÁËÒ»Ğ©ĞÂÀ´Õß¡£¾¯ÎÀÊÜµ½ÁË×î³ä·ÖµÄÉóÎÊ¡£ËûÃÇÔÙÒ²¿´²»µ½»ÕÕÂÁË¡£}
+### {251}{}{...at the base, be sure to look in. This guy is a great mechanic. ? I don't like messing with teenagers. The main thing is that he keeps an eye on the dam, otherwise old Rufus will soon die, and then what to do?}
+{251}{}{¡­¡­ÔÚ»ùµØ£¬Ò»¶¨ÒªÍùÀï¿´¡£Õâ¼Ò»ïÊÇ¸öºÜ°ôµÄ¼¼¹¤¡£? ÎÒ²»Ï²»¶ÈÇÇàÉÙÄê¡£×îÖØÒªµÄÊÇ£¬ËûÒ»Ö±¶¢×Å´ó°Ó£¬·ñÔòÀÏÂ³¸¥Ë¹ºÜ¿ì¾Í»áËÀ£¬ÄÇ¸ÃÔõÃ´°ì£¿}
+### {252}{}{...I noticed it too. What happened? ? The signalmen seem to have hired some peasant to fix the antenna. Now the walkie-talkie works better and at a greater distance. "A peasant?" That's the twist. We should treat him to empty coffee when we meet.}
+{252}{}{¡­ÎÒÒ²×¢Òâµ½ÁË¡£·¢ÉúÁËÊ²Ã´£¿? ĞÅºÅÔ±ËÆºõ¹ÍÁËÒ»Ğ©Å©ÃñÀ´ĞŞÀíÌìÏß¡£ÏÖÔÚ¶Ô½²»ú¹¤×÷µÃ¸üºÃ£¬¾àÀë¸üÔ¶¡£¡°Å©Ãñ£¿¡±Õâ¾ÍÊÇ×ªÕÛµã¡£ÎÒÃÇ¼ûÃæÊ±Ó¦¸ÃÇëËûºÈ¿Õ¿§·È¡£}
+### {253}{}{...that fugitive was caught after all. The bitch was hiding in the subway near the farmers on Route 95. "Right under your nose?" And we couldn't catch him for so long? ? He was an excellent spy, we would like such. They say it wasn't even the Rangers who caught him, but some crook. ? Well, at least some benefit from outsiders. ? And don't say...}
+{253}{}{¡­ÄÇ¸öÌÓ·¸ÖÕ¾¿±»×¥ÁË¡£Õâæ»×Ó¶ãÔÚ95ºÅ¹«Â·Å©Ãñ¸½½üµÄµØÌúÀï¡£¡°¾ÍÔÚÄãÑÛÆ¤µ×ÏÂ£¿¡±ÎÒÃÇÕâÃ´¾Ã¶¼×¥²»µ½Ëû£¿? ËûÊÇÒ»¸ö³öÉ«µÄ¼äµı£¬ÎÒÃÇÏ£ÍûÈç´Ë¡£ËûÃÇËµÉõÖÁ²»ÊÇÓÎÆï±ø¶Ó×¥µ½ÁËËû£¬¶øÊÇÒ»Ğ©Æ­×Ó¡£? ºÃ°É£¬ÖÁÉÙÓĞÒ»Ğ©´Ó¾ÖÍâÈËÄÇÀïÊÜÒæ¡£? ²»ÒªËµ¡£¡£¡£}
 
-{260}{}{Ranger }
-{261}{}{ in touch. I'm in the desert near the base. I urgently need supplies support.}
-{262}{}{*sh-sh-sh* Welcome, rookie. Do you know about the town of Quartz in the south? Find the ruins there in front of the bar. They have a descent into a secret cellar with our supplies. I hope this helps you.}
-{263}{}{Thank you, Ranger.}
-{264}{}{Search for the source of the relay of Ranger talks.}
-{265}{}{You fail to capture this phenomenon. Apparently, the source is too far away.}
-{266}{}{The source is still too far away. It is worth returning to the ranger base and moving away from it strictly to the east.}
-{267}{}{It seems that you have detected the source of the radio echo! It remains to find him in the middle of the desert.}
-{268}{}{Go to the place right now.}
-{269}{}{}
-{270}{}{Hey, Rangers, has anyone seen that legendary giant radscorpion?}
-{271}{}{Welcome, rookie. He was last seen at these coordinates. Are you really going hunting? Be careful, it's better not to catch the eye of such a creature without a grenade launcher.}
-{272}{}{[Go to the received coordinates]}
-{273}{}{Roger that, Ranger. End of communication.}
-{1273}{}{Roger that, Ranger. Out of touch.}
-{274}{}{I'll take that into account. Before the connection.}
+### {260}{}{Ranger }
+{260}{}{»¤ÁÖÔ±}
+### {261}{}{ in touch. I'm in the desert near the base. I urgently need supplies support.}
+{261}{}{ÁªÏµ¡£ÎÒÔÚ»ùµØ¸½½üµÄÉ³Ä®Àï¡£ÎÒ¼±ĞèÎï×ÊÖ§Ô®¡£}
+### {262}{}{*sh-sh-sh* Welcome, rookie. Do you know about the town of Quartz in the south? Find the ruins there in front of the bar. They have a descent into a secret cellar with our supplies. I hope this helps you.}
+{262}{}{*»¶Ó­£¬²ËÄñ¡£ÄãÖªµÀÄÏ·½µÄÊ¯Ó¢ÕòÂğ£¿ÕÒµ½¾Æ°ÉÇ°µÄ·ÏĞæ¡£ËûÃÇ´ø×ÅÎÒÃÇµÄ²¹¸øÇ±ÈëÁËÒ»¸öÃØÃÜµØ½Ñ¡£ÎÒÏ£ÍûÕâ¶ÔÄãÓĞ°ïÖú¡£}
+### {263}{}{Thank you, Ranger.}
+{263}{}{Ğ»Ğ»Äã£¬ÓÎÆï±ø¡£}
+### {264}{}{Search for the source of the relay of Ranger talks.}
+{264}{}{Ñ°ÕÒRangerÌ¸»°µÄÀ´Ô´¡£}
+### {265}{}{You fail to capture this phenomenon. Apparently, the source is too far away.}
+{265}{}{ÄãÃ»ÄÜ²¶×½µ½ÕâÖÖÏÖÏó¡£ÏÔÈ»£¬ÏûÏ¢À´Ô´Ì«Ô¶ÁË¡£}
+### {266}{}{The source is still too far away. It is worth returning to the ranger base and moving away from it strictly to the east.}
+{266}{}{Ô´Í·ÈÔÈ»Ì«Ò£Ô¶¡£ÖµµÃÒ»ÌáµÄÊÇ£¬»Øµ½»¤ÁÖÔ±»ùµØ£¬²¢ÑÏ¸ñÏò¶«ÒÆ¶¯¡£}
+### {267}{}{It seems that you have detected the source of the radio echo! It remains to find him in the middle of the desert.}
+{267}{}{¿´À´ÄãÒÑ¾­Ì½²âµ½ÎŞÏßµç»ØÉùµÄÀ´Ô´ÁË£¡ÔÚÉ³Ä®ÖĞÕÒµ½Ëû»¹ÓĞ´ı¹Û²ì¡£}
+### {268}{}{Go to the place right now.}
+{268}{}{ÏÖÔÚ¾ÍÈ¥ÄÇ¸öµØ·½¡£}
+### {269}{}{}
+{269}{}{error : string is empty}
+### {270}{}{Hey, Rangers, has anyone seen that legendary giant radscorpion?}
+{270}{}{ºÙ£¬ÓÎÆï±ø¶Ó£¬ÓĞÈË¼û¹ı´«ËµÖĞµÄ¾ŞĞÍÀ×´ïĞ«×ÓÂğ£¿}
+### {271}{}{Welcome, rookie. He was last seen at these coordinates. Are you really going hunting? Be careful, it's better not to catch the eye of such a creature without a grenade launcher.}
+{271}{}{»¶Ó­£¬²ËÄñ¡£Ëû×îºóÒ»´ÎÂ¶ÃæÊÇÔÚÕâĞ©×ø±ê´¦¡£ÄãÕæµÄÒªÈ¥´òÁÔÂğ£¿Ğ¡ĞÄ£¬×îºÃ²»ÒªÔÚÃ»ÓĞÁñµ¯·¢ÉäÆ÷µÄÇé¿öÏÂÎüÒıÕâÑùÒ»¸öÉúÎïµÄÑÛÇò¡£}
+### {272}{}{[Go to the received coordinates]}
+{272}{}{[×ªµ½½ÓÊÕµ½µÄ×ø±ê]}
+### {273}{}{Roger that, Ranger. End of communication.}
+{273}{}{ÊÕµ½£¬ÓÎÆï±ø¡£Í¨ĞÅ½áÊø¡£}
+### {1273}{}{Roger that, Ranger. Out of touch.}
+{1273}{}{ÊÕµ½£¬ÓÎÆï±ø¡£Ê§È¥ÁªÏµ¡£}
+### {274}{}{I'll take that into account. Before the connection.}
+{274}{}{ÎÒ»á¿¼ÂÇµ½µÄ¡£Á¬½ÓÖ®Ç°¡£}
 
 #Motel
-{290}{}{Listen to all frequencies.}
-{291}{}{You pick up a barely discernible signal for help.}
-{292}{}{[Listen]}
-{293}{}{[Ignore]}
-{294}{}{...Somebody! Help! I'm in some old motel southwest of Phoenix. They've blocked all the exits, I can't escape. Please help...}
-{295}{}{[Next]}
-{296}{}{Everyone else has already died from the traps. I was left alone... Someone is coming... What do you need? Go away! Oh my God! Don't touch me, you freak! No! No need! A-a-a!}
-{297}{}{An old motel to the southwest? Oh, it won't be an easy walk...}
+### {290}{}{Listen to all frequencies.}
+{290}{}{ÊÕÌıËùÓĞÆµÂÊ¡£}
+### {291}{}{You pick up a barely discernible signal for help.}
+{291}{}{ÄãÊÕµ½ÁËÒ»¸ö¼¸ºõÎŞ·¨±æ±ğµÄÇóÖúĞÅºÅ¡£}
+### {292}{}{[Listen]}
+{292}{}{[Ìı]}
+### {293}{}{[Ignore]}
+{293}{}{[ºöÊÓ]}
+### {294}{}{...Somebody! Help! I'm in some old motel southwest of Phoenix. They've blocked all the exits, I can't escape. Please help...}
+{294}{}{Ä³ÈË°ïÖúÎÒ×¡ÔÚ·ï»Ë³ÇÎ÷ÄÏ²¿µÄÒ»¼ÒÀÏÆû³µÂÃ¹İÀï¡£ËûÃÇ·âËøÁËËùÓĞµÄ³ö¿Ú£¬ÎÒÎŞ·¨ÌÓÍÑ¡£Çë°ïÃ¦¡£¡£¡£}
+### {295}{}{[Next]}
+{295}{}{[ÏÂÒ»¸ö]}
+### {296}{}{Everyone else has already died from the traps. I was left alone... Someone is coming... What do you need? Go away! Oh my God! Don't touch me, you freak! No! No need! A-a-a!}
+{296}{}{ÆäËûÈË¶¼ÒÑ¾­ËÀÓÚÏİÚå¡£ÎÒ¶À×ÔÒ»ÈË¡£¡£¡£ÓĞÈËÀ´ÁË¡£¡£¡£ÄãĞèÒªÊ²Ã´£¿×ß¿ª£¡Ìì°¡£¡±ğÅöÎÒ£¬ÄãÕâ¸ö¹ÖÌ¥£¡²»²»ĞèÒª£¡°¡°¡°¡£¡}
+### {297}{}{An old motel to the southwest? Oh, it won't be an easy walk...}
+{297}{}{Î÷ÄÏ²¿µÄÒ»¼ÒÀÏÆû³µÂÃ¹İ£¿Å¶£¬Õâ²»ÊÇÒ»ÌõÈİÒ×µÄÂ·¡£¡£¡£}
 
 #Vault 27
-{300}{}{The emergency frequency transmits a distress signal.}
-{301}{}{Obviously, I'm too far from the Vault. It's worth going back to Phoenix and trying different directions.}
-{302}{}{It's pointless. I already know where the Vault is.}
-{303}{}{The signal is amplified in that direction. I'll try to find out...}
-{304}{}{The signal is getting stronger.}
-{305}{}{There is! Looks like I found you.}
-{1305}{}{There is! Looks like I found you.}
-{306}{}{Go to the Vault 24.}
+### {300}{}{The emergency frequency transmits a distress signal.}
+{300}{}{½ô¼±ÆµÂÊ·¢ËÍÓöÏÕĞÅºÅ¡£}
+### {301}{}{Obviously, I'm too far from the Vault. It's worth going back to Phoenix and trying different directions.}
+{301}{}{ÏÔÈ»£¬ÎÒÀë½ğ¿âÌ«Ô¶ÁË¡£»Øµ½·ï»Ë³Ç³¢ÊÔ²»Í¬µÄ·½ÏòÊÇÖµµÃµÄ¡£}
+### {302}{}{It's pointless. I already know where the Vault is.}
+{302}{}{ÕâºÁÎŞÒâÒå¡£ÎÒÒÑ¾­ÖªµÀ±£ÏÕ¿âÔÚÄÄÀïÁË¡£}
+### {303}{}{The signal is amplified in that direction. I'll try to find out...}
+{303}{}{ĞÅºÅÔÚÄÇ¸ö·½ÏòÉÏ±»·Å´ó¡£ÎÒ»áÉè·¨ÕÒ³ö¡£¡£¡£}
+### {304}{}{The signal is getting stronger.}
+{304}{}{ĞÅºÅÔ½À´Ô½Ç¿¡£}
+### {305}{}{There is! Looks like I found you.}
+{305}{}{ÓĞ£¡¿´ÆğÀ´ÎÒÕÒµ½ÄãÁË¡£}
+### {1305}{}{There is! Looks like I found you.}
+{1305}{}{ÓĞ£¡¿´ÆğÀ´ÎÒÕÒµ½ÄãÁË¡£}
+### {306}{}{Go to the Vault 24.}
+{306}{}{×ªµ½Vault 24¡£}
 
 #Flagstaff
-{310}{}{(You can hear the patrolmen talking. Nothing interesting, just the usual altercation.)}
-{320}{}{All posts! We've been attacked! A whole crowd of savages! Reinforcements are needed! To everyone... A-a-a!}
-{321}{}{Roger that. I'm sending a detachment from the garrison. Hold on...}
-{322}{}{(Yes, empty the garrison, you idiot, that's all I need)}
-{323}{}{Track the signal of the missing tinsmith.}
-{324}{}{The signal is not traceable.}
-{325}{}{Maybe I'm just too far away from him. We need to get back to the center of Casa Grande.}
-{326}{}{You pick up the tinker's barely noticeable signal.}
-{327}{}{Okay, great, he's in town somewhere. It seems the signal is coming from the east.}
-{328}{}{The signal from the radio implant is clearly audible.}
-{329}{}{So it's somewhere nearby. He or his body.}
+### {310}{}{(You can hear the patrolmen talking. Nothing interesting, just the usual altercation.)}
+{310}{}{£¨Äã¿ÉÒÔÌıµ½Ñ²¾¯ÔÚËµ»°¡£Ã»ÓĞÊ²Ã´ÓĞÈ¤µÄ£¬Ö»ÊÇÍ¨³£µÄÕù³³¡££©}
+### {320}{}{All posts! We've been attacked! A whole crowd of savages! Reinforcements are needed! To everyone... A-a-a!}
+{320}{}{ËùÓĞÌû×Ó£¡ÎÒÃÇ±»Ï®»÷ÁË£¡Ò»ÈºÒ°ÂùÈË£¡ĞèÒªÔöÔ®£¡ÖÂËùÓĞÈË¡£¡£¡£°¡°¡°¡£¡}
+### {321}{}{Roger that. I'm sending a detachment from the garrison. Hold on...}
+{321}{}{ÊÕµ½¡£ÎÒÒª´Ó×¤¾üÅÉ³öÒ»Ö§·ÖÇ²¶Ó¡£µÈµÈ}
+### {322}{}{(Yes, empty the garrison, you idiot, that's all I need)}
+{322}{}{£¨ÊÇµÄ£¬Çå¿Õ×¤¾ü£¬ÄãÕâ¸ö°×³Õ£¬Õâ¾ÍÊÇÎÒËùĞèÒªµÄ£©}
+### {323}{}{Track the signal of the missing tinsmith.}
+{323}{}{×·×ÙÊ§×ÙµÄÎı½³µÄĞÅºÅ¡£}
+### {324}{}{The signal is not traceable.}
+{324}{}{ĞÅºÅÎŞ·¨×·×Ù¡£}
+### {325}{}{Maybe I'm just too far away from him. We need to get back to the center of Casa Grande.}
+{325}{}{Ò²ĞíÎÒÖ»ÊÇÀëËûÌ«Ô¶ÁË¡£ÎÒÃÇĞèÒª»Øµ½¸ñÀ¼µÂÖ®¼ÒµÄÖĞĞÄ¡£}
+### {326}{}{You pick up the tinker's barely noticeable signal.}
+{326}{}{ÄãÌıµ½ÁËĞŞ²¹½³¼¸ºõ²»Ã÷ÏÔµÄĞÅºÅ¡£}
+### {327}{}{Okay, great, he's in town somewhere. It seems the signal is coming from the east.}
+{327}{}{ºÃ°É£¬Ì«ºÃÁË£¬ËûÔÚ³ÇÀïµÄÄ³¸öµØ·½¡£ĞÅºÅËÆºõÀ´×Ô¶«·½¡£}
+### {328}{}{The signal from the radio implant is clearly audible.}
+{328}{}{ÎŞÏßµçÖ²ÈëÎï·¢³öµÄĞÅºÅÇåÎú¿É¼û¡£}
+### {329}{}{So it's somewhere nearby. He or his body.}
+{329}{}{ËùÒÔËü¾ÍÔÚ¸½½üµÄÄ³¸öµØ·½¡£Ëû»òËûµÄÉíÌå¡£}
 
 #Inferno
-{350}{}{Brotherhood of Steel Squad, respond. Can anyone hear me?}
-{351}{}{(Only "white noise" is heard in response)}
-{352}{}{I repeat. The Brotherhood of Steel squad, says a member of the rescue group. Answer.}
-{353}{}{They don't seem to hear me. Hang up.}
-{354}{}{This is Paladin Barkley... Glad to hear it, comrade. We are in a difficult situation. I am wounded, communication with the squad is lost. Requesting urgent assistance.}
-{355}{}{Roger that. Where are you, Paladin Barkley?}
-{1355}{}{I understand you. Where are you, Paladin Barkley?}
-{356}{}{The point of dislocation... A manhole near a destroyed supermarket. There are a lot of mutants on the surface, be careful.}
-{357}{}{Moving into position. Stay where you are. End of communication.}
-{358}{}{Hey, can anyone hear me? Reception?}
-{359}{}{(No one gets in touch)}
-{360}{}{I repeat. Can anyone hear me? Are there still alive in this burial ground?}
-{361}{}{Okay. Hang up.}
-{362}{}{This is Barkley speaking... Yes, at least one is still alive here. Listen to me carefully, comrade. I'm injured, I need urgent help.}
-{363}{}{Where are you, Barkley?}
-{364}{}{The collector under the destroyed supermarket. Come straight to me, don't linger. And be careful, there are these mutants everywhere.}
-{365}{}{Hold on, Barkley. I'm coming.}
-{366}{}{Oh, mutants? It's bad.}
+### {350}{}{Brotherhood of Steel Squad, respond. Can anyone hear me?}
+{350}{}{¸ÖÌúĞ¡¶ÓĞÖµÜ»á£¬»ØÓ¦¡£ÓĞÈËÄÜÌıµ½ÎÒËµ»°Âğ£¿}
+### {351}{}{(Only "white noise" is heard in response)}
+{351}{}{£¨Ö»ÓĞ¡°°×ÔëÒô¡±×÷Îª»ØÓ¦£©}
+### {352}{}{I repeat. The Brotherhood of Steel squad, says a member of the rescue group. Answer.}
+{352}{}{ÎÒÖØ¸´Ò»±é¡£Ò»Ãû¾ÈÔ®×éÖ¯³ÉÔ±Ëµ£¬¡°¸ÖÌúĞÖµÜ»á¡±Ğ¡¶Ó¡£´ğ¸´}
+### {353}{}{They don't seem to hear me. Hang up.}
+{353}{}{ËûÃÇºÃÏñÃ»Ìı¼ûÎÒËµ»°¡£¹Ò¶Ï¡£}
+### {354}{}{This is Paladin Barkley... Glad to hear it, comrade. We are in a difficult situation. I am wounded, communication with the squad is lost. Requesting urgent assistance.}
+{354}{}{ÕâÊÇÊ¥ÆïÊ¿°Í¿ËÀû¡£¡£¡£ºÜ¸ßĞËÌıµ½£¬Í¬Ö¾¡£ÎÒÃÇ´¦¾³¼èÄÑ¡£ÎÒÊÜÉËÁË£¬Ê§È¥ÁËÓëĞ¡¶ÓµÄ¹µÍ¨¡£ÇëÇó½ô¼±Ô®Öú¡£}
+### {355}{}{Roger that. Where are you, Paladin Barkley?}
+{355}{}{ÊÕµ½¡£ÄãÔÚÄÄÀï£¬Ê¥ÆïÊ¿°Í¿ËÀû£¿}
+### {1355}{}{I understand you. Where are you, Paladin Barkley?}
+{1355}{}{ÎÒÀí½âÄã¡£ÄãÔÚÄÄÀï£¬Ê¥ÆïÊ¿°Í¿ËÀû£¿}
+### {356}{}{The point of dislocation... A manhole near a destroyed supermarket. There are a lot of mutants on the surface, be careful.}
+{356}{}{´íÎ»µã¡£¡£¡£Ò»¼Ò±»»ÙµÄ³¬ÊĞ¸½½üµÄ¼ìĞŞ¿×¡£±íÃæÉÏÓĞºÜ¶àÍ»±äÌå£¬ÒªĞ¡ĞÄ¡£}
+### {357}{}{Moving into position. Stay where you are. End of communication.}
+{357}{}{ÒÆ¶¯µ½Î»¡£´ôÔÚÔ­µØ¡£Í¨ĞÅ½áÊø¡£}
+### {358}{}{Hey, can anyone hear me? Reception?}
+{358}{}{ºÙ£¬ÓĞÈËÄÜÌıµ½ÎÒËµ»°Âğ£¿½Ó´ı}
+### {359}{}{(No one gets in touch)}
+{359}{}{£¨Ã»ÓĞÈËÁªÏµ£©}
+### {360}{}{I repeat. Can anyone hear me? Are there still alive in this burial ground?}
+{360}{}{ÎÒÖØ¸´Ò»±é¡£ÓĞÈËÄÜÌıµ½ÎÒËµ»°Âğ£¿Õâ¸öÄ¹µØÀï»¹»î×ÅÂğ£¿}
+### {361}{}{Okay. Hang up.}
+{361}{}{¿ÉÒÔ¹Ò¶Ï}
+### {362}{}{This is Barkley speaking... Yes, at least one is still alive here. Listen to me carefully, comrade. I'm injured, I need urgent help.}
+{362}{}{ÎÒÊÇ°Í¿ËÀû¡£¡£¡£ÊÇµÄ£¬ÖÁÉÙÓĞÒ»¸öÈË»¹»î×Å¡£×ĞÏ¸ÌıÎÒËµ£¬Í¬Ö¾¡£ÎÒÊÜÉËÁË£¬¼±Ğè°ïÖú¡£}
+### {363}{}{Where are you, Barkley?}
+{363}{}{ÄãÔÚÄÄÀï£¬°Í¿ËÀû£¿}
+### {364}{}{The collector under the destroyed supermarket. Come straight to me, don't linger. And be careful, there are these mutants everywhere.}
+{364}{}{±»´İ»ÙµÄ³¬ÊĞÏÂÃæµÄÊÕ¼¯Õß¡£Ö±½ÓÀ´ÕÒÎÒ£¬²»Òª¶ºÁô¡£Ğ¡ĞÄ£¬µ½´¦¶¼ÊÇ±äÖÖÈË¡£}
+### {365}{}{Hold on, Barkley. I'm coming.}
+{365}{}{µÈÒ»ÏÂ£¬°Í¿ËÀû¡£ÎÒÀ´ÁË¡£}
+### {366}{}{Oh, mutants? It's bad.}
+{366}{}{Å¶£¬±äÖÖÈË£¿ÕâºÜÔã¸â¡£}
 
-{370}{}{[Search for a signal]}
-{371}{}{(You carefully examine the frequencies by turning the radio receiver in all directions of the world, until finally the sound comes from the speaker.)}
-{372}{}{[Listen on]}
-{373}{}{[Ignore]}
-{374}{}{(old music is heard through the strong white noise)}
-{375}{}{[Listen to music until the end]}
-{376}{}{... Hey, traveler! Tired from the road? Was the desert exhausting on the way? Then wrap it up in the Hub!}
-{377}{}{[Next]}
-{378}{}{Here you will find everything you need for a holiday: bars, hotels, a huge market ... and, of course, the unforgettable Maltese Falcon cafe! In it you can relax and forget about the claws of death and bandits from the high road.}
-{379}{}{You want to freshen up. We have stocks of Nuka-Cola! And for lovers of something hot, we will always pour a mug of the legendary Khab rum.}
-{380}{}{Hey, what about slot machines? Oh, yes, baby, there are very few of them left in modern California. Don't miss this opportunity!}
-{381}{}{And of course, our ladies will always TAKE CARE of dear customers who were too LONELY on the road. Check out the Maltese Falcon. The hub is waiting for you! (old music starts again)}
-{382}{}{Eh, it's too far. Besides, I need to go in a completely different direction...}
-{383}{}{You have gained experience for detecting a radio signal from California.}
+### {370}{}{[Search for a signal]}
+{370}{}{[ËÑË÷ĞÅºÅ]}
+### {371}{}{(You carefully examine the frequencies by turning the radio receiver in all directions of the world, until finally the sound comes from the speaker.)}
+{371}{}{£¨Äã¿ÉÒÔÍ¨¹ı½«ÎŞÏßµç½ÓÊÕÆ÷ÏòÊÀ½çµÄ¸÷¸ö·½Ïò×ª¶¯À´×ĞÏ¸¼ì²éÆµÂÊ£¬Ö±µ½ÑïÉùÆ÷·¢³öÉùÒô¡££©}
+### {372}{}{[Listen on]}
+{372}{}{[ÊÕÌı]}
+### {373}{}{[Ignore]}
+{373}{}{[ºöÊÓ]}
+### {374}{}{(old music is heard through the strong white noise)}
+{374}{}{£¨Í¨¹ıÇ¿ÁÒµÄ°×ÔëÒô¿ÉÒÔÌıµ½¹ÅÀÏµÄÒôÀÖ£©}
+### {375}{}{[Listen to music until the end]}
+{375}{}{[ÌıÒôÀÖÖ±µ½½áÊø]}
+### {376}{}{... Hey, traveler! Tired from the road? Was the desert exhausting on the way? Then wrap it up in the Hub!}
+{376}{}{¡­ºÙ£¬ÂÃĞĞ¼Ò£¡Â·ÉÏÀÛÁËÂğ£¿É³Ä®ÔÚÂ·ÉÏÀÛÂğ£¿È»ºó°ÑËü°üÔÚÂÖì±Àï£¡}
+### {377}{}{[Next]}
+{377}{}{[ÏÂÒ»¸ö]}
+### {378}{}{Here you will find everything you need for a holiday: bars, hotels, a huge market ... and, of course, the unforgettable Maltese Falcon cafe! In it you can relax and forget about the claws of death and bandits from the high road.}
+{378}{}{ÔÚÕâÀï£¬Äã»áÕÒµ½¶È¼ÙËùĞèµÄÒ»ÇĞ£º¾Æ°É¡¢¾Æµê¡¢¾Ş´óµÄÊĞ³¡¡£¡£¡£µ±È»£¬»¹ÓĞÁîÈËÄÑÍüµÄÂí¶úËûÁÔÓ¥¿§·È¹İ£¡ÔÚÀïÃæÄã¿ÉÒÔ·ÅËÉ£¬Íü¼ÇËÀÍöÖ®×¦ºÍÀ´×Ô¹«Â·µÄÍÁ·Ë¡£}
+### {379}{}{You want to freshen up. We have stocks of Nuka-Cola! And for lovers of something hot, we will always pour a mug of the legendary Khab rum.}
+{379}{}{ÄãÏëÊáÏ´Ò»ÏÂ¡£ÎÒÃÇÓĞÅ¬¿¨¿ÉÀÖµÄ´æ»õ£¡¶ÔÓÚÏ²»¶ÈÈµÄ¶«Î÷µÄÈË£¬ÎÒÃÇ×ÜÊÇ»áµ¹Ò»±­´«ËµÖĞµÄ¿¨²¼ÀÊÄ·¾Æ¡£}
+### {380}{}{Hey, what about slot machines? Oh, yes, baby, there are very few of them left in modern California. Don't miss this opportunity!}
+{380}{}{ºÙ£¬ÀÏ»¢»úÔõÃ´Ñù£¿Å¶£¬ÊÇµÄ£¬±¦±´£¬ÔÚÏÖ´ú¼ÓÀû¸£ÄáÑÇÒÑ¾­ËùÊ£ÎŞ¼¸ÁË¡£²»Òª´í¹ıÕâ¸ö»ú»á£¡}
+### {381}{}{And of course, our ladies will always TAKE CARE of dear customers who were too LONELY on the road. Check out the Maltese Falcon. The hub is waiting for you! (old music starts again)}
+{381}{}{µ±È»£¬ÎÒÃÇµÄÅ®Ê¿ÃÇ»áÒ»Ö±ÕÕ¹ËÄÇĞ©ÔÚÂ·ÉÏ¹ıÓÚ¹Â¶ÀµÄÇ×°®µÄ¹Ë¿Í¡£¿´¿´Âí¶úËûÁÔÓ¥¡£¼¯ÏßÆ÷ÔÚµÈÄã£¡£¨¾ÉÒôÀÖÖØĞÂÏìÆğ£©}
+### {382}{}{Eh, it's too far. Besides, I need to go in a completely different direction...}
+{382}{}{ßÀ£¬Ì«Ô¶ÁË¡£´ËÍâ£¬ÎÒĞèÒª×ßÏòÒ»¸öÍêÈ«²»Í¬µÄ·½Ïò¡£¡£¡£}
+### {383}{}{You have gained experience for detecting a radio signal from California.}
+{383}{}{ÄãÒÑ¾­»ñµÃÁËÌ½²âÀ´×Ô¼ÓÀû¸£ÄáÑÇÖİµÄÎŞÏßµçĞÅºÅµÄ¾­Ñé¡£}
 
-{390}{}{[Listen on]}
-{391}{}{"Brothers and sisters! This is Jerry the Knight. I'm under attack! The super mutants trapped me in an old cafe in National City. I'm hurt. I ask for immediate help!"}
-{392}{}{I hasten to you, brothers. Hold the defense with all your might!}
-{393}{}{Serves you right, ironheads! I hope no one will help you.}
-{394}{}{Uh, some noise, I didn't hear anything, over.}
-{1394}{}{Uh, some noise, I didn't hear anything, over.}
-{395}{}{Hold on, I'll be there soon.}
-{396}{}{The scribe is in touch }
-{397}{}{The knight is in touch }
-{398}{}{Paladin is in touch }
-{399}{}{Scout is in touch }
-{400}{}{. Can anyone hear me? I'm on the ruins of the Dayglow. I need help with supplies.}
-{401}{}{The cadet is in touch }
-{402}{}{Greetings, }
-{403}{}{. This is Jerry from the intelligence unit. Get to Pier #9. I've stashed some supplies there. I hope they will help you.}
-{404}{}{Thank you, Brother Jerry. End of communication.}
-{405}{}{High radiation background on Coronado Island creates strong interference.}
-{406}{}{Apparently, you need to leave the island to have a normal connection.}
-{407}{}{The rock blocks the weak radio signal of your walkie-talkie.}
-{408}{}{So we'll have to go back to the surface.}
+### {390}{}{[Listen on]}
+{390}{}{[ÊÕÌı]}
+### {391}{}{"Brothers and sisters! This is Jerry the Knight. I'm under attack! The super mutants trapped me in an old cafe in National City. I'm hurt. I ask for immediate help!"}
+{391}{}{¡°ĞÖµÜ½ãÃÃÃÇ£¡ÎÒÊÇÆïÊ¿½ÜÈğ¡£ÎÒÊÜµ½¹¥»÷£¡³¬¼¶±äÖÖÈË°ÑÎÒÀ§ÔÚ¹ú¼Ò³ÇµÄÒ»¼ÒÀÏ¿§·È¹İÀï¡£ÎÒÊÜÉËÁË¡£ÎÒÇëÇóÁ¢¼´°ïÖú£¡¡±}
+### {392}{}{I hasten to you, brothers. Hold the defense with all your might!}
+{392}{}{ĞÖµÜÃÇ£¬ÎÒ¸Ï½ôÈ¥ÕÒÄãÃÇ¡£È«Á¦·ÀÊØ£¡}
+### {393}{}{Serves you right, ironheads! I hope no one will help you.}
+{393}{}{ÎªÄã·şÎñ£¬ÌúÍ·ÃÇ£¡ÎÒÏ£ÍûÃ»ÓĞÈË»á°ïÖúÄã¡£}
+### {394}{}{Uh, some noise, I didn't hear anything, over.}
+{394}{}{àÅ£¬ÓĞĞ©ÔëÒô£¬ÎÒÊ²Ã´Ò²Ã»Ìıµ½£¬½áÊø¡£}
+### {1394}{}{Uh, some noise, I didn't hear anything, over.}
+{1394}{}{àÅ£¬ÓĞĞ©ÔëÒô£¬ÎÒÊ²Ã´Ò²Ã»Ìıµ½£¬½áÊø¡£}
+### {395}{}{Hold on, I'll be there soon.}
+{395}{}{µÈÒ»ÏÂ£¬ÎÒºÜ¿ì¾Íµ½¡£}
+### {396}{}{The scribe is in touch }
+{396}{}{»®ÏßÔ±ÕıÔÚÁªÏµ}
+### {397}{}{The knight is in touch }
+{397}{}{ÆïÊ¿ÁªÏµÉÏÁË}
+### {398}{}{Paladin is in touch }
+{398}{}{Ê¥ÆïÊ¿ÁªÏµÉÏÁË}
+### {399}{}{Scout is in touch }
+{399}{}{ScoutÕıÔÚÁªÏµ}
+### {400}{}{. Can anyone hear me? I'm on the ruins of the Dayglow. I need help with supplies.}
+{400}{}{¡£ÓĞÈËÄÜÌıµ½ÎÒËµ»°Âğ£¿ÎÒÔÚÊï¹âµÄ·ÏĞæÉÏ¡£ÎÒĞèÒª°ïÖú²¹¸øÆ·¡£}
+### {401}{}{The cadet is in touch }
+{401}{}{Ñ§Ô±±£³ÖÁªÏµ}
+### {402}{}{Greetings, }
+{402}{}{ÎÊºò£¬}
+### {403}{}{. This is Jerry from the intelligence unit. Get to Pier #9. I've stashed some supplies there. I hope they will help you.}
+{403}{}{¡£ÎÒÊÇÇé±¨²¿ÃÅµÄ½ÜÈğ¡£µ½´ï9ºÅÂëÍ·¡£ÎÒÔÚÄÇÀï²ØÁËÒ»Ğ©²¹¸øÆ·¡£ÎÒÏ£ÍûËûÃÇÄÜ°ïÖúÄã¡£}
+### {404}{}{Thank you, Brother Jerry. End of communication.}
+{404}{}{Ğ»Ğ»Äã£¬½ÜÈğĞÖµÜ¡£Í¨ĞÅ½áÊø¡£}
+### {405}{}{High radiation background on Coronado Island creates strong interference.}
+{405}{}{¿ÆÂŞÄÉ¶àµºµÄ¸ß·øÉä±³¾°Ôì³ÉÇ¿ÁÒ¸ÉÈÅ¡£}
+### {406}{}{Apparently, you need to leave the island to have a normal connection.}
+{406}{}{ÏÔÈ»£¬ÄãĞèÒªÀë¿ªÕâ¸öµº²ÅÄÜÓĞÕı³£µÄÁªÏµ¡£}
+### {407}{}{The rock blocks the weak radio signal of your walkie-talkie.}
+{407}{}{Õâ¿éÊ¯Í·µ²×¡ÁËÄã¶Ô½²»úÎ¢ÈõµÄÎŞÏßµçĞÅºÅ¡£}
+### {408}{}{So we'll have to go back to the surface.}
+{408}{}{ËùÒÔÎÒÃÇ±ØĞë»Øµ½±íÃæ¡£}

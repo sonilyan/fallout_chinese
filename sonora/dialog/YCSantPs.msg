@@ -1,55 +1,106 @@
-{100}{}{You see Derrick.}
-{101}{}{There's a ghoul in front of you. He keeps a close eye on those who walk down the street.}
-{102}{}{My business collapsed with the death of De Santi.}
-{103}{}{All right! All right! I'm going to work for him. Just don't touch my fragile tender body!}
-{104}{}{Derrick is not going to fight anymore.}
+### {100}{}{You see Derrick.}
+{100}{}{Äã¿´µ½µÂÀï¿ËÁË¡£}
+### {101}{}{There's a ghoul in front of you. He keeps a close eye on those who walk down the street.}
+{101}{}{ÄãÃæÇ°ÓĞ¸öÊ³Ê¬¹í¡£ËûÃÜÇĞ×¢ÊÓ×ÅÄÇĞ©×ßÔÚ½ÖÉÏµÄÈË¡£}
+### {102}{}{My business collapsed with the death of De Santi.}
+{102}{}{µÂÉ£µÙÈ¥ÊÀºó£¬ÎÒµÄ¹«Ë¾µ¹±ÕÁË¡£}
+### {103}{}{All right! All right! I'm going to work for him. Just don't touch my fragile tender body!}
+{103}{}{ºÃ°ÉºÃ°ÉÎÒÒªÎªËû¹¤×÷¡£Ö»ÊÇ±ğÅöÎÒ´àÈõµÄÉíÌå£¡}
+### {104}{}{Derrick is not going to fight anymore.}
+{104}{}{µÂÀï¿Ë²»»áÔÙ´ò¼ÜÁË¡£}
 
-{200}{}{Hello, smooth face. Where are you going?}
-{201}{}{None of your business.}
-{202}{}{Okay, whatever you say.}
-{203}{}{Adios.}
-{204}{}{Maybe to the Old Town, or maybe to an institution across the street, or maybe nowhere. Why are you asking?}
-{205}{}{Why are you asking?}
-{206}{}{I can give you a lift. Or are you going to a sanatorium? But it's only for ghouls. So I do not advise you to go there smooth-faced. And there's nothing to do there. After all, I can get all kinds of relaxation at a low price. Contact me, you won't lose.}
-{207}{}{Okay, let's see what you have.}
-{208}{}{I can give you a lift. Or are you going to a sanatorium? It's only for ghouls. But keep in mind that the prices there are as high as the squeak of my late wife. I can get all kinds of lawn at a low price. Contact me, you won't lose.}
-{209}{}{Hmm. I will keep in mind.}
-{210}{}{Hello, mutyara. Where are you going?}
-{211}{}{You'll be back for a new dose.}
-{212}{}{Yeah. Bye.}
-{213}{}{I doubt it very much.}
-{214}{}{And "I can throw" — how is it?}
+### {200}{}{Hello, smooth face. Where are you going?}
+{200}{}{ÄãºÃ£¬¹â»¬µÄÁ³¡£ÄãÒªÈ¥ÄÄÀï£¿}
+### {201}{}{None of your business.}
+{201}{}{²»¹ØÄãµÄÊÂ¡£}
+### {202}{}{Okay, whatever you say.}
+{202}{}{ºÃ°É£¬²»¹ÜÄãËµÊ²Ã´¡£}
+### {203}{}{Adios.}
+{203}{}{ÔÙ¼û¡£}
+### {204}{}{Maybe to the Old Town, or maybe to an institution across the street, or maybe nowhere. Why are you asking?}
+{204}{}{Ò²ĞíÈ¥ÀÏ³Ç£¬Ò²ĞíÈ¥½Ö¶ÔÃæµÄÒ»¼Ò»ú¹¹£¬Ò²Ğí²»È¥ÈÎºÎµØ·½¡£ÄãÎªÊ²Ã´ÒªÎÊ£¿}
+### {205}{}{Why are you asking?}
+{205}{}{ÄãÎªÊ²Ã´ÒªÎÊ£¿}
+### {206}{}{I can give you a lift. Or are you going to a sanatorium? But it's only for ghouls. So I do not advise you to go there smooth-faced. And there's nothing to do there. After all, I can get all kinds of relaxation at a low price. Contact me, you won't lose.}
+{206}{}{ÎÒ¿ÉÒÔÔØÄãÒ»³Ì¡£»òÕßÄãÒªÈ¥ÁÆÑøÔº£¿µ«ËüÖ»ÊÊÓÃÓÚÊ³Ê¬¹í¡£ËùÒÔ£¬ÎÒ²»½¨ÒéÄãÈ¥ÄÇÀïµÄÁ³¹â»¬¡£ÄÇÀïÃ»ÓĞÊ²Ã´¿É×öµÄ¡£±Ï¾¹£¬ÎÒ¿ÉÒÔÒÔµÍÁ®µÄ¼Û¸ñµÃµ½¸÷ÖÖ·ÅËÉ¡£ÁªÏµÎÒ£¬Äã²»»áÊäµÄ¡£}
+### {207}{}{Okay, let's see what you have.}
+{207}{}{ºÃ°É£¬ÈÃÎÒÃÇ¿´¿´ÄãÓĞÊ²Ã´¡£}
+### {208}{}{I can give you a lift. Or are you going to a sanatorium? It's only for ghouls. But keep in mind that the prices there are as high as the squeak of my late wife. I can get all kinds of lawn at a low price. Contact me, you won't lose.}
+{208}{}{ÎÒ¿ÉÒÔÔØÄãÒ»³Ì¡£»òÕßÄãÒªÈ¥ÁÆÑøÔº£¿ËüÖ»ÊÊºÏÊ³Ê¬¹í¡£µ«Çë¼Ç×¡£¬ÄÇÀïµÄ¼Û¸ñºÍÎÒÒÑ¹ÊÆŞ×ÓµÄ¼â½ĞÉùÒ»Ñù¸ß¡£ÎÒ¿ÉÒÔÒÔµÍÁ®µÄ¼Û¸ñÂòµ½¸÷ÖÖ¸÷ÑùµÄ²İÆº¡£ÁªÏµÎÒ£¬Äã²»»áÊäµÄ¡£}
+### {209}{}{Hmm. I will keep in mind.}
+{209}{}{àÅ£¬ÎÒ»á¼ÇÔÚĞÄÀïµÄ¡£}
+### {210}{}{Hello, mutyara. Where are you going?}
+{210}{}{ÄãºÃ£¬ÄÂµÙÑÇÀ­¡£ÄãÒªÈ¥ÄÄÀï£¿}
+### {211}{}{You'll be back for a new dose.}
+{211}{}{Äã»á»ØÀ´·şÓÃĞÂ¼ÁÁ¿µÄ¡£}
+### {212}{}{Yeah. Bye.}
+{212}{}{ÊÇ °¡ÔÙ¼û}
+### {213}{}{I doubt it very much.}
+{213}{}{ÎÒ·Ç³£»³ÒÉ¡£}
+### {214}{}{And "I can throw" ? how is it?}
+{214}{}{»¹ÓĞ¡°ÎÒ»áÈÓ¡±? ÔõÃ´Ñù£¿}
 
-{220}{}{Ah, you again. What do you want this time?}
-{221}{}{Oh, nothing special. Goodbye.}
-{222}{}{Show me what you have.}
-{223}{}{Not "where", but "what". Let me see what you're selling here.}
+### {220}{}{Ah, you again. What do you want this time?}
+{220}{}{°¡£¬ÓÖÊÇÄã¡£Õâ´ÎÄãÏëÒªÊ²Ã´£¿}
+### {221}{}{Oh, nothing special. Goodbye.}
+{221}{}{Å¶£¬Ã»Ê²Ã´ÌØ±ğµÄ¡£ÔÙ¼û}
+### {222}{}{Show me what you have.}
+{222}{}{ÈÃÎÒ¿´¿´ÄãÓĞÊ²Ã´¡£}
+### {223}{}{Not "where", but "what". Let me see what you're selling here.}
+{223}{}{²»ÊÇ¡°ÔÚÄÄÀï¡±£¬¶øÊÇ¡°Ê²Ã´¡±¡£ÈÃÎÒ¿´¿´ÄãÔÚÕâÀïÂôÊ²Ã´¡£}
 
-{230}{}{Well, Derrick, you're on the money. De-Santi is unhappy that you are intercepting his clients.}
-{231}{}{This is free land. I want to trade here — and I will.}
-{232}{}{Aren't you afraid that this land will become a grave for you?}
-{233}{}{I can still understand when the bandits of the Wild West are admired. They met in a fair fight. And De-Santi was just a small fry in the gang environment of Bakersfield. And so he remained. He can't intimidate me.}
-{234}{}{Oh, well, okay. I don't want to mess with it.}
-{235}{}{You talk too much, Derrick. I'll have to teach you a lesson.}
-{236}{}{You'll regret it. Someday.}
-{237}{}{Now you have a choice — to die or work for De-Santi. So, I'm waiting for an answer. Times...}
-{238}{}{Hey, hey, you're not going to do the dirty work for some ex-thug, are you?}
-{239}{}{I'm not going to. I'm just kidding. Bye, Derrick.}
-{240}{}{I don't care as long as he pays. And I'm also spending time with you. It's time to finish with you!}
-{241}{}{Two...}
-{242}{}{Whoa-whoa-whoa, did De-Santi really order me? Seriously? What the hell!}
-{243}{}{Three!}
-{244}{}{All right! All right! I'm going to work for him. Just don't touch my fragile tender body!}
-{245}{}{It's too late, Derrick. You got me. I'll have to punish you!}
-{246}{}{Great. And let's not be silly. Now De Santi is the boss here.}
+### {230}{}{Well, Derrick, you're on the money. De-Santi is unhappy that you are intercepting his clients.}
+{230}{}{µÂÀï¿Ë£¬ÄãÓĞÇ®¡£µÂÉ£µÙ¶ÔÄãÀ¹½ØËûµÄ¿Í»§¸Ğµ½²»Âú¡£}
+### {231}{}{This is free land. I want to trade here ? and I will.}
+{231}{}{ÕâÊÇÒ»Æ¬×ÔÓÉµÄÍÁµØ¡£ÎÒÏëÔÚÕâÀï½»Ò×? ÎÒ»áµÄ¡£}
+### {232}{}{Aren't you afraid that this land will become a grave for you?}
+{232}{}{Äã²»ÅÂÕâÆ¬ÍÁµØ»á±ä³ÉÄãµÄ·ØÄ¹Âğ£¿}
+### {233}{}{I can still understand when the bandits of the Wild West are admired. They met in a fair fight. And De-Santi was just a small fry in the gang environment of Bakersfield. And so he remained. He can't intimidate me.}
+{233}{}{µ±¿ñÒ°Î÷²¿µÄÍÁ·ËÊÜµ½ÇÕÅåÊ±£¬ÎÒÈÔÈ»ÄÜÀí½â¡£ËûÃÇÔÚ¹«Æ½µÄ¶·ÕùÖĞÏàÓö¡£µÂÉ£µÙÔÚ±´¿ËË¹·Æ¶ûµÂµÄ°ïÅÉ»·¾³ÖĞÖ»ÊÇ¸öĞ¡ÈËÎï¡£Ëû¾ÍÕâÑùÁôÏÂÀ´ÁË¡£ËûÎŞ·¨¿ÖÏÅÎÒ¡£}
+### {234}{}{Oh, well, okay. I don't want to mess with it.}
+{234}{}{Å¶£¬ºÃ°É¡£ÎÒ²»ÏëÈÇËü¡£}
+### {235}{}{You talk too much, Derrick. I'll have to teach you a lesson.}
+{235}{}{ÄãËµµÃÌ«¶àÁË£¬µÂÀï¿Ë¡£ÎÒµÃ¸øÄãÉÏÒ»¿Î¡£}
+### {236}{}{You'll regret it. Someday.}
+{236}{}{×ÜÓĞÒ»ÌìÄã»áºó»ÚµÄ¡£}
+### {237}{}{Now you have a choice ? to die or work for De-Santi. So, I'm waiting for an answer. Times...}
+{237}{}{ÏÖÔÚÄã¿ÉÒÔÑ¡ÔñÁË? ÎªµÂÉ£µÙ¶øËÀ»ò¹¤×÷¡£ËùÒÔ£¬ÎÒÔÚµÈ´ı´ğ°¸¡£´ÎÊı¡£¡£¡£}
+### {238}{}{Hey, hey, you're not going to do the dirty work for some ex-thug, are you?}
+{238}{}{ºÙ£¬ºÙ£¬Äã²»»áÎªÄ³¸öÇ°±©Í½×öÔà»îµÄ£¬ÊÇÂğ£¿}
+### {239}{}{I'm not going to. I'm just kidding. Bye, Derrick.}
+{239}{}{ÎÒ²»»áµÄ£¬ÎÒÖ»ÊÇ¿ªÍæĞ¦¡£ÔÙ¼û£¬µÂÀï¿Ë¡£}
+### {240}{}{I don't care as long as he pays. And I'm also spending time with you. It's time to finish with you!}
+{240}{}{Ö»ÒªËû¸¶Ç®£¬ÎÒ¾Í²»ÔÚºõ¡£ÎÒÒ²»áºÍÄãÔÚÒ»Æğ¡£ÊÇÊ±ºòºÍÄã½áÊøÁË£¡}
+### {241}{}{Two...}
+{241}{}{¶ş}
+### {242}{}{Whoa-whoa-whoa, did De-Santi really order me? Seriously? What the hell!}
+{242}{}{ÍÛ£¬ÍÛ£¬µÂÉ£µÙÕæµÄµãÁËÎÒÂğ£¿ÈÏÕæµØ¼û¹í£¡}
+### {243}{}{Three!}
+{243}{}{Èı}
+### {244}{}{All right! All right! I'm going to work for him. Just don't touch my fragile tender body!}
+{244}{}{ºÃ°ÉºÃ°ÉÎÒÒªÎªËû¹¤×÷¡£Ö»ÊÇ±ğÅöÎÒ´àÈõµÄÉíÌå£¡}
+### {245}{}{It's too late, Derrick. You got me. I'll have to punish you!}
+{245}{}{Ì«ÍíÁË£¬µÂÀï¿Ë¡£Äã×¥×¡ÎÒÁË£¬ÎÒµÃ³Í·£Äã£¡}
+### {246}{}{Great. And let's not be silly. Now De Santi is the boss here.}
+{246}{}{Ì«°ôÁËÎÒÃÇ²»ÒªÉµÁË¡£ÏÖÔÚµÂÉ£µÙÊÇÕâÀïµÄÀÏ°å¡£}
 
-{250}{}{You said you could "give it a lift."}
-{251}{}{Well, I haven't had a car for a long time. But I know fast and safe ways. Where do you need to go?}
-{252}{}{[San Isidro for }
-{253}{}{[Bonita Dam for }
-{254}{}{ hubbucks]}
-{255}{}{I think I'll go on my own.}
-{256}{}{Not enough, right? It's a pity.}
-{257}{}{Yes, I'll have to walk on my own two feet.}
-{258}{}{Wait, there's something else I need to know.}
-{259}{}{[Chula Vista for }
+### {250}{}{You said you could "give it a lift."}
+{250}{}{ÄãËµÄã¿ÉÒÔ¡°´îËüÒ»³Ì¡±}
+### {251}{}{Well, I haven't had a car for a long time. But I know fast and safe ways. Where do you need to go?}
+{251}{}{àÅ£¬ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞ³µÁË¡£µ«ÎÒÖªµÀ¿ìËÙ°²È«µÄ·½·¨¡£ÄãĞèÒªÈ¥ÄÄÀï£¿}
+### {252}{}{[San Isidro for }
+{252}{}{[Ê¥ÒÁÎ÷µÂÂŞ}
+### {253}{}{[Bonita Dam for }
+{253}{}{[²©ÄáËş´ó°Ó}
+### {254}{}{ hubbucks]}
+{254}{}{hubbucks]}
+### {255}{}{I think I'll go on my own.}
+{255}{}{ÎÒÏëÎÒ»á×Ô¼ºÈ¥µÄ¡£}
+### {256}{}{Not enough, right? It's a pity.}
+{256}{}{»¹²»¹»£¬¶Ô°É£¿ÕæÒÅº¶¡£}
+### {257}{}{Yes, I'll have to walk on my own two feet.}
+{257}{}{ÊÇµÄ£¬ÎÒµÃ×Ô¼º×ßÂ·ÁË¡£}
+### {258}{}{Wait, there's something else I need to know.}
+{258}{}{µÈµÈ£¬»¹ÓĞÆäËûÊÂÇéÎÒĞèÒªÖªµÀ¡£}
+### {259}{}{[Chula Vista for }
+{259}{}{Chula Vista}

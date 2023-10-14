@@ -1,38 +1,75 @@
-{100}{}{You see a wandering ghoul.}
-{101}{}{Here is one of the ghouls. There is a sly look in his distorted face.}
-{102}{}{Hey, can you give me a lift to the Hub?}
-{103}{}{Hi there.}
+### {100}{}{You see a wandering ghoul.}
+{100}{}{Äã¿´µ½Ò»¸öÁ÷ÀËµÄÊ³Ê¬¹í¡£}
+### {101}{}{Here is one of the ghouls. There is a sly look in his distorted face.}
+{101}{}{ÕâÊÇÒ»¸öÊ³Ê¬¹í¡£ËûÅ¤ÇúµÄÁ³ÉÏÂ¶³ö½ÆÕ©µÄ±íÇé¡£}
+### {102}{}{Hey, can you give me a lift to the Hub?}
+{102}{}{ºÙ£¬ÄãÄÜÔØÎÒÈ¥ÊàÅ¦Âğ£¿}
+### {103}{}{Hi there.}
+{103}{}{ÄãºÃ¡£}
 
-{200}{}{Hey, what a surprise! I didn't think there were purebloods here. Glad to meet you. I'm Bradley. Maybe you need to show the way?}
-{201}{}{Bradley, have you met Steve Morgan?}
-{202}{}{Nope. And why do you need it?}
-{203}{}{He owes the Truckers something.}
-{204}{}{I don't even know how to help you. Steve is afraid of purebloods and hides from them. However, I can contact him if you want and act as an intermediary.}
-{205}{}{Thank you, Bradley. I would appreciate it if you find out what he wants for the product.}
-{1205}{}{Thank you, Bradley. I will be grateful if you find out what he wants for the goods.}
-{206}{}{ (leaves and returns soon) I found Steve. It requires 1000 hubbucks per fuel controller. Well, is it a deal?}
-{207}{}{I don't have that much.}
-{208}{}{Then there will be no deal. Goodbye.}
-{209}{}{[Leave]}
-{210}{}{Hey, wait, I actually have 1000 caps. Now bring the goods.}
-{211}{}{That's what I understand — business people! Well, all the best, partner.}
-{212}{}{Goodbye.}
-{213}{}{And now give the caps back, you idiot.}
-{214}{}{Aren't you lying? I was told that Steve Morgan had gone down this road.}
-{215}{}{No, I'm not Steve Morgan. And why do you need it?}
-{216}{}{Don't talk your teeth into me. Answer me, motherfucker, are you Steve Morgan?}
-{217}{}{Yes, it's not me, it's not me!}
-{218}{}{You're lying, bitch!}
-{219}{}{Sorry. Where's Morgan then?}
-{220}{}{Just don't kill me! Okay, I took the fuel controller. Truckers pay little. I was hoping to sell this thing in the Hub for a lot of money... listen, what about the deal? I will sell the controller to you for 800 caps, and you will resell it to Truckers, how do you like this option?}
-{221}{}{But truckers pay half as much.}
-{222}{}{Damn, that's right. But understand that this is my thing and I set the price for it, not them. So are you going to buy it?}
-{223}{}{No.}
-{224}{}{Then there will be no deal. Goodbye.}
-{225}{}{[Leave]}
-{226}{}{Wait, I've changed my mind. Here are 800 caps. Now bring the goods.}
-{227}{}{If you don't want to give up the controller, then I'll take it by force...}
-{228}{}{Yes. Here are 800 caps.}
-{229}{}{Yes. Here are 1000 caps.}
-{230}{}{Morgan still wants to sell the controller for 1000 hubbucks. Well, is it a deal?}
-{231}{}{The conditions have not changed: 800 caps, and the controller is yours. So are you going to buy it?}
+### {200}{}{Hey, what a surprise! I didn't think there were purebloods here. Glad to meet you. I'm Bradley. Maybe you need to show the way?}
+{200}{}{ºÙ£¬ÕæÊÇ¸ö¾ªÏ²£¡ÎÒÃ»Ïëµ½ÕâÀïÓĞ´¿Ñª¡£ºÜ¸ßĞËÈÏÊ¶Äã¡£ÎÒ½Ğ²¼À­µÂÀû¡£Ò²ĞíÄãĞèÒª´øÂ·£¿}
+### {201}{}{Bradley, have you met Steve Morgan?}
+{201}{}{²¼À­µÂÀû£¬Äã¼û¹ıÊ·µÙ·ò¡¤Ä¦¸ùÂğ£¿}
+### {202}{}{Nope. And why do you need it?}
+{202}{}{Ã»ÓĞ¡£ÄãÎªÊ²Ã´ĞèÒªËü£¿}
+### {203}{}{He owes the Truckers something.}
+{203}{}{ËûÇ·¿¨³µË¾»úÒ»Ğ©¶«Î÷¡£}
+### {204}{}{I don't even know how to help you. Steve is afraid of purebloods and hides from them. However, I can contact him if you want and act as an intermediary.}
+{204}{}{ÎÒÉõÖÁ²»ÖªµÀ¸ÃÔõÃ´°ïÄã¡£Ê·µÙ·òº¦ÅÂ»ìÑª¶ù£¬¶ãÆğÀ´¶ã±ÜËûÃÇ¡£²»¹ı£¬Èç¹ûÄãÔ¸Òâ£¬ÎÒ¿ÉÒÔÁªÏµËû£¬²¢³äµ±ÖĞ¼äÈË¡£}
+### {205}{}{Thank you, Bradley. I would appreciate it if you find out what he wants for the product.}
+{205}{}{Ğ»Ğ»Äã£¬²¼À­µÂÀû¡£Èç¹ûÄãÄÜÁË½âËû¶Ô²úÆ·µÄĞèÇó£¬ÎÒ½«²»Ê¤¸Ğ¼¤¡£}
+### {1205}{}{Thank you, Bradley. I will be grateful if you find out what he wants for the goods.}
+{1205}{}{Ğ»Ğ»Äã£¬²¼À­µÂÀû¡£Èç¹ûÄãÄÜÖªµÀËû¶Ô»õÎïµÄÒªÇó£¬ÎÒ½«²»Ê¤¸Ğ¼¤¡£}
+### {206}{}{ (leaves and returns soon) I found Steve. It requires 1000 hubbucks per fuel controller. Well, is it a deal?}
+{206}{}{£¨ºÜ¿ì¾Í×ßÁËÓÖ»ØÀ´£©ÎÒÕÒµ½ÁËÊ·µÙ·ò¡£Ã¿¸öÈ¼ÁÏ¿ØÖÆÆ÷ĞèÒª1000¸ö¼¯ÏßÆ÷¡£ºÃ°É£¬ÕâÊÇÒ»±Ê½»Ò×Âğ£¿}
+### {207}{}{I don't have that much.}
+{207}{}{ÎÒÃ»ÓĞÄÇÃ´¶à¡£}
+### {208}{}{Then there will be no deal. Goodbye.}
+{208}{}{ÄÇ¾ÍÃ»ÓĞ½»Ò×ÁË¡£ÔÙ¼û}
+### {209}{}{[Leave]}
+{209}{}{[Àë¿ª]}
+### {210}{}{Hey, wait, I actually have 1000 caps. Now bring the goods.}
+{210}{}{ºÙ£¬µÈµÈ£¬ÎÒÊµ¼ÊÉÏÓĞ1000¶¥Ã±×Ó¡£ÏÖÔÚ°Ñ»õÎï´øÀ´¡£}
+### {211}{}{That's what I understand ? business people! Well, all the best, partner.}
+{211}{}{Õâ¾ÍÊÇÎÒËùÀí½âµÄ? ÉÌ½çÈËÊ¿£¡ºÃ°É£¬Ò»ÇĞ¶¼ºÃ£¬»ï¼Æ¡£}
+### {212}{}{Goodbye.}
+{212}{}{ÔÙ¼û}
+### {213}{}{And now give the caps back, you idiot.}
+{213}{}{ÏÖÔÚ°ÑÃ±×Ó»¹¸øÎÒ£¬ÄãÕâ¸ö°×³Õ¡£}
+### {214}{}{Aren't you lying? I was told that Steve Morgan had gone down this road.}
+{214}{}{Äã²»ÊÇÔÚÈö»ÑÂğ£¿ÓĞÈË¸æËßÎÒ£¬Ê·µÙ·ò¡¤Ä¦¸ùÒÑ¾­×ßÉÏÁËÕâÌõÂ·¡£}
+### {215}{}{No, I'm not Steve Morgan. And why do you need it?}
+{215}{}{²»£¬ÎÒ²»ÊÇÊ·µÙ·ò¡¤Ä¦¸ù¡£ÄãÎªÊ²Ã´ĞèÒªËü£¿}
+### {216}{}{Don't talk your teeth into me. Answer me, motherfucker, are you Steve Morgan?}
+{216}{}{±ğ¶Ô×ÅÎÒËµ»°¡£»Ø´ğÎÒ£¬»ìµ°£¬ÄãÊÇÊ·µÙ·ò¡¤Ä¦¸ùÂğ£¿}
+### {217}{}{Yes, it's not me, it's not me!}
+{217}{}{ÊÇµÄ£¬²»ÊÇÎÒ£¬²»ÊÇÎÒ£¡}
+### {218}{}{You're lying, bitch!}
+{218}{}{ÄãÔÚÈö»Ñ£¬æ»×Ó£¡}
+### {219}{}{Sorry. Where's Morgan then?}
+{219}{}{ºÜ±§Ç¸ÄÇÄ¦¸ùÔÚÄÄÀï£¿}
+### {220}{}{Just don't kill me! Okay, I took the fuel controller. Truckers pay little. I was hoping to sell this thing in the Hub for a lot of money... listen, what about the deal? I will sell the controller to you for 800 caps, and you will resell it to Truckers, how do you like this option?}
+{220}{}{±ğÉ±ÁËÎÒ£¡ºÃ°É£¬ÎÒÄÃÁËÈ¼ÓÍ¿ØÖÆÆ÷¡£¿¨³µË¾»ú¸¶µÄÇ®ºÜÉÙ¡£ÎÒÏ£ÍûÄÜÔÚHubÂôÕâ¸ö¶«Î÷×¬ºÜ¶àÇ®¡£¡£¡£Ìı×Å£¬½»Ò×ÔõÃ´Ñù£¿ÎÒ»áÒÔ800¶¥µÄ¼Û¸ñ°Ñ¿ØÖÆÆ÷Âô¸øÄã£¬Äã»á°ÑËü×ªÊÛ¸ø¿¨³µË¾»ú£¬Äã¾õµÃÕâ¸öÑ¡ÏîÔõÃ´Ñù£¿}
+### {221}{}{But truckers pay half as much.}
+{221}{}{µ«¿¨³µË¾»úÒª¸¶Ò»°ëµÄÇ®¡£}
+### {222}{}{Damn, that's right. But understand that this is my thing and I set the price for it, not them. So are you going to buy it?}
+{222}{}{¸ÃËÀ£¬Ã»´í¡£µ«ÒªÃ÷°×£¬ÕâÊÇÎÒµÄÊÂÇé£¬ÎÒÎªËü¶¨¼Û£¬¶ø²»ÊÇËûÃÇ¡£Äã´òËãÂòÂğ£¿}
+### {223}{}{No.}
+{223}{}{²»}
+### {224}{}{Then there will be no deal. Goodbye.}
+{224}{}{ÄÇ¾ÍÃ»ÓĞ½»Ò×ÁË¡£ÔÙ¼û}
+### {225}{}{[Leave]}
+{225}{}{[Àë¿ª]}
+### {226}{}{Wait, I've changed my mind. Here are 800 caps. Now bring the goods.}
+{226}{}{µÈµÈ£¬ÎÒ¸Ä±äÖ÷ÒâÁË¡£ÕâÀïÓĞ800¶¥Ã±×Ó¡£ÏÖÔÚ°Ñ»õÎï´øÀ´¡£}
+### {227}{}{If you don't want to give up the controller, then I'll take it by force...}
+{227}{}{Èç¹ûÄã²»Ïë·ÅÆú¿ØÖÆÆ÷£¬ÄÇÃ´ÎÒ»áÇ¿ĞĞÄÃ×ß¡£¡£¡£}
+### {228}{}{Yes. Here are 800 caps.}
+{228}{}{¶ÔÕâÀïÓĞ800¶¥Ã±×Ó¡£}
+### {229}{}{Yes. Here are 1000 caps.}
+{229}{}{¶ÔÕâÀïÓĞ1000¶¥Ã±×Ó¡£}
+### {230}{}{Morgan still wants to sell the controller for 1000 hubbucks. Well, is it a deal?}
+{230}{}{Ä¦¸ùÈÔÈ»ÏëÒÔ1000ÃÀÔªµÄ¼Û¸ñ³öÊÛ¿ØÖÆÆ÷¡£ºÃ°É£¬ÕâÊÇÒ»±Ê½»Ò×Âğ£¿}
+### {231}{}{The conditions have not changed: 800 caps, and the controller is yours. So are you going to buy it?}
+{231}{}{Ìõ¼şÃ»ÓĞ¸Ä±ä£º800¶¥Ã±×Ó£¬¿ØÖÆÆ÷ÊÇÄãµÄ¡£Äã´òËãÂòÂğ£¿}

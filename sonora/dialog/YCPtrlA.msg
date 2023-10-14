@@ -1,61 +1,120 @@
-{100}{}{You see Tobias.}
-{101}{}{In front of you is a ghoul in a uniform and a border guard hat. His face is disfigured, and his gaze causes consternation.}
-{104}{}{Thank you. I always felt that I was missing something here.}
-{105}{}{Tobias pins a badge to his uniform. You notice the semblance of a smile on his disfigured face.}
-{106}{}{Tobias already wears such a badge.}
+### {100}{}{You see Tobias.}
+{100}{}{Äã¿´µ½ÍĞ±ÈÑÇË¹ÁË¡£}
+### {101}{}{In front of you is a ghoul in a uniform and a border guard hat. His face is disfigured, and his gaze causes consternation.}
+{101}{}{ÄãÃæÇ°ÊÇÒ»¸öÉí´©ÖÆ·ş¡¢Í·´÷±ß·ÀÃ±µÄÊ³Ê¬¹í¡£ËûµÄÁ³±»»ÙÈİÁË£¬ËûµÄÄ¿¹âÒıÆğÁË¿Ö»Å¡£}
+### {104}{}{Thank you. I always felt that I was missing something here.}
+{104}{}{·Ç³£¸ĞĞ»¡£ÎÒÒ»Ö±¾õµÃÎÒÔÚÕâÀï´í¹ıÁËÊ²Ã´¡£}
+### {105}{}{Tobias pins a badge to his uniform. You notice the semblance of a smile on his disfigured face.}
+{105}{}{ÍĞ±ÈÑÇË¹°Ñ»ÕÕÂ±ğÔÚÖÆ·şÉÏ¡£Äã×¢Òâµ½Ëû»ÙÈİµÄÁ³ÉÏÂ¶³öÁËÎ¢Ğ¦¡£}
+### {106}{}{Tobias already wears such a badge.}
+{106}{}{ÍĞ±ÈÑÇË¹ÒÑ¾­´÷ÉÏÁËÕâÑùµÄ»ÕÕÂ¡£}
 
-{200}{}{[You won't pass. This place is only for ghouls.]}
-{201}{}{[Okay, I'm leaving]}
-{202}{}{[I will pass by force]}
-{203}{}{[Give me a task to pass]}
-{204}{}{[Destroy the robot in Tijuana]}
-{205}{}{[Okay]}
-{206}{}{[Robot neutralized]}
+### {200}{}{[You won't pass. This place is only for ghouls.]}
+{200}{}{[Äã²»»áÍ¨¹ıµÄ¡£Õâ¸öµØ·½Ö»ÊÊºÏÊ³Ê¬¹í¡£]}
+### {201}{}{[Okay, I'm leaving]}
+{201}{}{[ºÃ°É£¬ÎÒÒª×ßÁË]}
+### {202}{}{[I will pass by force]}
+{202}{}{[ÎÒ»áÇ¿ĞĞÍ¨¹ı]}
+### {203}{}{[Give me a task to pass]}
+{203}{}{[¸øÎÒÒ»¸öÒªÍ¨¹ıµÄÈÎÎñ]}
+### {204}{}{[Destroy the robot in Tijuana]}
+{204}{}{[´İ»ÙµÙ»ªÄÉµÄ»úÆ÷ÈË]}
+### {205}{}{[Okay]}
+{205}{}{[¿ÉÒÔ]}
+### {206}{}{[Robot neutralized]}
+{206}{}{[»úÆ÷ÈË±»Ñ¹ÖÆ]}
 
-{210}{}{Man, you don't belong here. Go away.}
-{211}{}{You have no right not to let me in.}
-{212}{}{ (lifts the barrel of the machine gun) You will not pass until I give you permission.}
-{213}{}{I'll pass anyway. Get out of the way, freak!}
-{214}{}{Okay, okay, I don't want to go there that much...}
-{215}{}{Why don't you want to let me in?}
-{216}{}{There is no place for normies in the city of ghouls. You drove us into these ruins yourself.}
-{217}{}{Look, I've come a long way here. Maybe we can come to an agreement?}
-{1217}{}{Look, I've come a long way here. Maybe we can come to an agreement?}
-{218}{}{Well, I'll have to leave. Sorry to bother you.}
-{219}{}{Hmm. Maybe I'll let you through if you do us ghouls a favor.}
-{220}{}{What service?}
-{221}{}{A huge military robot has been wandering in the ruins of Tijuana since the War. Because of him, we cannot freely explore this area. Destroy it and I'll let you through the border.}
-{222}{}{I'd rather destroy you. It's much easier.}
-{223}{}{Agreed. I'll do it.}
-{224}{}{The last time this robot was spotted near the Arena. We have installed electromagnetic traps there, but so far to no avail.}
-{225}{}{Clear. I will keep in mind.}
-{226}{}{I've already met this robot. He is no longer a danger to anyone.}
-{227}{}{I'm not suicidal! It's better to go back to Sonora...}
-{228}{}{You will not cross the border until I give you permission.}
-{229}{}{Robot. It is destroyed.}
-{230}{}{You must have a really good reason to go into town. Well, come on in. Welcome to the Dayglow.}
-{231}{}{Thank you for the warm welcome.}
-{232}{}{You should have let me through right away. I'm just wasting my time with you.}
-{233}{}{Greetings, brother. For the first time in the Shining?}
-{1233}{}{Greetings, sister. For the first time in the Shining?}
-{234}{}{Yes. Will you let me into the camp?}
-{235}{}{Of course! But you need to go through security. These are the rules, sorry.}
-{236}{}{I understand everything.}
-{237}{}{You know, I've already changed my mind about going to camp. Goodbye!}
-{1237}{}{You know, I've already changed my mind about going to camp. Goodbye!}
-{238}{}{Good. What is your name and where are you from?}
-{239}{}{I }
-{240}{}{ from Southern Arizona.}
-{241}{}{Show me the backpack. Are there any prohibited items?}
-{242}{}{It depends on what is forbidden here...}
-{243}{}{I was joking! You can go to the camp.}
-{244}{}{Seriously?}
-{245}{}{Welcome to the Dayglow!}
-{246}{}{Thank you.}
-{247}{}{Previously, illegal border crossing was punished. But since you're already here, I just have to accept it. Don't you dare disturb the ghouls.}
-{248}{}{No problem.}
-{249}{}{I didn't expect it. Thank you. And — welcome to the Dayglow.}
-{250}{}{You can pass.}
-{251}{}{Goodbye.}
-{252}{}{You can pass. I wouldn't let you in, but someone in the camp made a fuss for you.}
-{253}{}{I'm going to be here for a while. Maybe you need help?}
+### {210}{}{Man, you don't belong here. Go away.}
+{210}{}{»ï¼Æ£¬Äã²»ÊôÓÚÕâÀï¡£×ß¿ª¡£}
+### {211}{}{You have no right not to let me in.}
+{211}{}{ÄãÎŞÈ¨²»ÈÃÎÒ½øÈ¥¡£}
+### {212}{}{ (lifts the barrel of the machine gun) You will not pass until I give you permission.}
+{212}{}{£¨¾ÙÆğ»ú¹ØÇ¹µÄÇ¹¹Ü£©³ı·ÇÎÒÔÊĞí£¬·ñÔòÄã²»»áÍ¨¹ı¡£}
+### {213}{}{I'll pass anyway. Get out of the way, freak!}
+{213}{}{ÎŞÂÛÈçºÎÎÒ¶¼»áÍ¨¹ıµÄ¡£ÈÃ¿ª£¬¹ÖÌ¥£¡}
+### {214}{}{Okay, okay, I don't want to go there that much...}
+{214}{}{ºÃ°É£¬ºÃ°É£¬ÎÒ²»ÏëÈ¥ÄÇÃ´¶à¡£¡£¡£}
+### {215}{}{Why don't you want to let me in?}
+{215}{}{ÄãÎªÊ²Ã´²»ÈÃÎÒ½øÈ¥£¿}
+### {216}{}{There is no place for normies in the city of ghouls. You drove us into these ruins yourself.}
+{216}{}{Ê³Ê¬¹íÖ®³ÇÃ»ÓĞÕı³£ÈËµÄÈİÉíÖ®µØ¡£Äã×Ô¼º°ÑÎÒÃÇ´ø½øÁËÕâĞ©·ÏĞæ¡£}
+### {217}{}{Look, I've come a long way here. Maybe we can come to an agreement?}
+{217}{}{Ìı×Å£¬ÎÒÒÑ¾­×ßÁËºÜ³¤Ò»¶ÎÂ·ÁË¡£Ò²ĞíÎÒÃÇ¿ÉÒÔ´ï³ÉĞ­Òé£¿}
+### {1217}{}{Look, I've come a long way here. Maybe we can come to an agreement?}
+{1217}{}{Ìı×Å£¬ÎÒÒÑ¾­×ßÁËºÜ³¤Ò»¶ÎÂ·ÁË¡£Ò²ĞíÎÒÃÇ¿ÉÒÔ´ï³ÉĞ­Òé£¿}
+### {218}{}{Well, I'll have to leave. Sorry to bother you.}
+{218}{}{ºÃ°É£¬ÎÒµÃ×ßÁË¡£ºÜ±§Ç¸´òÈÅÄã¡£}
+### {219}{}{Hmm. Maybe I'll let you through if you do us ghouls a favor.}
+{219}{}{àÅ¡£Èç¹ûÄã°ïÎÒÃÇÕâĞ©Ê³Ê¬¹íÒ»¸öÃ¦£¬Ò²ĞíÎÒ»áÈÃÄã¹ıÈ¥µÄ¡£}
+### {220}{}{What service?}
+{220}{}{Ê²Ã´·şÎñ£¿}
+### {221}{}{A huge military robot has been wandering in the ruins of Tijuana since the War. Because of him, we cannot freely explore this area. Destroy it and I'll let you through the border.}
+{221}{}{×ÔÕ½ÕùÒÔÀ´£¬Ò»¸ö¾Ş´óµÄ¾üÓÃ»úÆ÷ÈËÒ»Ö±ÔÚµÙ»ªÄÉµÄ·ÏĞæÖĞÅÇ»²¡£ÒòÎªËû£¬ÎÒÃÇ²»ÄÜ×ÔÓÉÌ½Ë÷Õâ¸öµØÇø¡£´İ»ÙËü£¬ÎÒ»áÈÃÄãÍ¨¹ı±ß¾³¡£}
+### {222}{}{I'd rather destroy you. It's much easier.}
+{222}{}{ÎÒÄşÔ¸»ÙÃğÄã¡£ÕâÒªÈİÒ×µÃ¶à¡£}
+### {223}{}{Agreed. I'll do it.}
+{223}{}{Í¬Òâ¡£ÎÒ»á×öµÄ¡£}
+### {224}{}{The last time this robot was spotted near the Arena. We have installed electromagnetic traps there, but so far to no avail.}
+{224}{}{ÉÏ´ÎÔÚ¾º¼¼³¡¸½½ü·¢ÏÖÕâ¸ö»úÆ÷ÈË¡£ÎÒÃÇÔÚÄÇÀï°²×°ÁËµç´ÅÏİÚå£¬µ«µ½Ä¿Ç°ÎªÖ¹Ã»ÓĞĞ§¹û¡£}
+### {225}{}{Clear. I will keep in mind.}
+{225}{}{Çå³şµÄÎÒ»á¼Ç×¡µÄ¡£}
+### {226}{}{I've already met this robot. He is no longer a danger to anyone.}
+{226}{}{ÎÒÒÑ¾­¼û¹ıÕâ¸ö»úÆ÷ÈËÁË¡£Ëû¶ÔÈÎºÎÈË¶¼²»ÔÙÊÇÎ£ÏÕÈËÎï¡£}
+### {227}{}{I'm not suicidal! It's better to go back to Sonora...}
+{227}{}{ÎÒÃ»ÓĞ×ÔÉ±ÇãÏò£¡×îºÃ»Øµ½Ë÷ÅµÀ­¡£¡£¡£}
+### {228}{}{You will not cross the border until I give you permission.}
+{228}{}{³ı·ÇÎÒÔÊĞí£¬·ñÔòÄã²»»áÔ½¹ı±ß¾³¡£}
+### {229}{}{Robot. It is destroyed.}
+{229}{}{»úÆ÷ÈËËü±»´İ»ÙÁË¡£}
+### {230}{}{You must have a really good reason to go into town. Well, come on in. Welcome to the Dayglow.}
+{230}{}{Äã½ø³ÇÒ»¶¨ÓĞ³ä·ÖµÄÀíÓÉ¡£ºÃ°É£¬½øÀ´°É¡£»¶Ó­À´µ½ĞÇ¹â´óµÀ¡£}
+### {231}{}{Thank you for the warm welcome.}
+{231}{}{Ğ»Ğ»ÄãµÄÈÈÇé»¶Ó­¡£}
+### {232}{}{You should have let me through right away. I'm just wasting my time with you.}
+{232}{}{ÄãÓ¦¸ÃÂíÉÏÈÃÎÒ¹ıÈ¥µÄ¡£ÎÒÖ»ÊÇÔÚÀË·ÑÊ±¼äºÍÄãÔÚÒ»Æğ¡£}
+### {233}{}{Greetings, brother. For the first time in the Shining?}
+{233}{}{ÎÊºò£¬ĞÖµÜ¡£µÚÒ»´ÎÔÚÉÁÁé£¿}
+### {1233}{}{Greetings, sister. For the first time in the Shining?}
+{1233}{}{ÄãºÃ£¬½ã½ã¡£µÚÒ»´ÎÔÚÉÁÁé£¿}
+### {234}{}{Yes. Will you let me into the camp?}
+{234}{}{¶ÔÄãÄÜÈÃÎÒ½øÈëÓªµØÂğ£¿}
+### {235}{}{Of course! But you need to go through security. These are the rules, sorry.}
+{235}{}{µ±È»µ«ÄãĞèÒªÍ¨¹ı°²¼ì¡£ÕâĞ©ÊÇ¹æÔò£¬¶Ô²»Æğ¡£}
+### {236}{}{I understand everything.}
+{236}{}{ÎÒÊ²Ã´¶¼¶®¡£}
+### {237}{}{You know, I've already changed my mind about going to camp. Goodbye!}
+{237}{}{ÄãÖªµÀ£¬ÎÒÒÑ¾­¸Ä±äÁËÈ¥Â¶ÓªµÄÏë·¨¡£ÔÙ¼û}
+### {1237}{}{You know, I've already changed my mind about going to camp. Goodbye!}
+{1237}{}{ÄãÖªµÀ£¬ÎÒÒÑ¾­¸Ä±äÁËÈ¥Â¶ÓªµÄÏë·¨¡£ÔÙ¼û}
+### {238}{}{Good. What is your name and where are you from?}
+{238}{}{ºÃµÄÄã½ĞÊ²Ã´Ãû×Ö£¿ÄãÀ´×ÔÄÄÀï£¿}
+### {239}{}{I }
+{239}{}{ÎÒ}
+### {240}{}{ from Southern Arizona.}
+{240}{}{À´×ÔÑÇÀûÉ£ÄÇÖİÄÏ²¿¡£}
+### {241}{}{Show me the backpack. Are there any prohibited items?}
+{241}{}{ÈÃÎÒ¿´¿´±³°ü¡£ÓĞÎ¥½ûÎïÆ·Âğ£¿}
+### {242}{}{It depends on what is forbidden here...}
+{242}{}{ÕâÈ¡¾öÓÚÕâÀï½ûÖ¹Ê²Ã´¡£¡£¡£}
+### {243}{}{I was joking! You can go to the camp.}
+{243}{}{ÎÒÔÚ¿ªÍæĞ¦£¡Äã¿ÉÒÔÈ¥ÓªµØ¡£}
+### {244}{}{Seriously?}
+{244}{}{ÈÏÕæµØ}
+### {245}{}{Welcome to the Dayglow!}
+{245}{}{»¶Ó­À´µ½Êï¹â£¡}
+### {246}{}{Thank you.}
+{246}{}{·Ç³£¸ĞĞ»¡£}
+### {247}{}{Previously, illegal border crossing was punished. But since you're already here, I just have to accept it. Don't you dare disturb the ghouls.}
+{247}{}{´ËÇ°£¬·Ç·¨Ô½¾³ÊÜµ½³Í·£¡£µ«¼ÈÈ»ÄãÒÑ¾­À´ÁË£¬ÎÒÖ»ºÃ½ÓÊÜ¡£Äã²»¸Ò´òÈÅÊ³Ê¬¹í¡£}
+### {248}{}{No problem.}
+{248}{}{Ã»ÎÊÌâ¡£}
+### {249}{}{I didn't expect it. Thank you. And ? welcome to the Dayglow.}
+{249}{}{ÎÒÃ»Ïëµ½¡£Ğ»Ğ»¡£ºÍ? »¶Ó­À´µ½Êï¹â¡£}
+### {250}{}{You can pass.}
+{250}{}{Äã¿ÉÒÔÍ¨¹ı¡£}
+### {251}{}{Goodbye.}
+{251}{}{ÔÙ¼û}
+### {252}{}{You can pass. I wouldn't let you in, but someone in the camp made a fuss for you.}
+{252}{}{Äã¿ÉÒÔÍ¨¹ı¡£ÎÒ²»ÈÃÄã½øÈ¥£¬µ«ÓªµØÀïÓĞÈËÎªÄã´ó¾ªĞ¡¹Ö¡£}
+### {253}{}{I'm going to be here for a while. Maybe you need help?}
+{253}{}{ÎÒÒªÔÚÕâÀï´ôÒ»¶ÎÊ±¼ä¡£Ò²ĞíÄãĞèÒª°ïÖú£¿}

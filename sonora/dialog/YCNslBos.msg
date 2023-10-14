@@ -1,32 +1,63 @@
-{100}{}{You see Jerry's knight.}
-{101}{}{Here is a knight of the Brotherhood of Steel. He looks pretty battered.}
+### {100}{}{You see Jerry's knight.}
+{100}{}{Äã¿´µ½½ÜÈğµÄÆïÊ¿ÁË¡£}
+### {101}{}{Here is a knight of the Brotherhood of Steel. He looks pretty battered.}
+{101}{}{ÕâÊÇÒ»Î»¸ÖÌúĞÖµÜ»áµÄÆïÊ¿¡£Ëû¿´ÆğÀ´ºÜÆ£±¹¡£}
 
-{200}{}{Hush! A mutant lurked at the entrance. He'll kill us if he sees us. I'm also wounded and can't fight. You are my last hope.}
-{201}{}{Is the mutant gone? Thank you, brother! And now I need to heal my wounds. Do you have a first aid kit?}
-{1201}{}{Is the mutant gone? Thank you, Sister! And now I need to heal my wounds. Do you have a first aid kit?}
-{202}{}{Is the mutant dead? Thank you, brother! And now I need to heal my wounds. Do you have a first aid kit?}
-{1202}{}{Is the mutant dead? Thank you, Sister! And now I need to heal my wounds. Do you have a first aid kit?}
-{203}{}{I'm doing what I can. Stop whining to me here!}
-{204}{}{I will do my best.}
-{205}{}{Thank you for the treatment. Now I can fight at full strength. Although I don't have enough bullets. Where is this mutant? Probably waiting at the entrance.}
-{206}{}{Let's go, let's give him a hard time!}
-{207}{}{You'd better keep your head down so that old wounds don't open up. Stay here until I deal with that bully.}
-{208}{}{The danger has passed. That bully has already left.}
-{209}{}{That bully won't hurt anyone else. We can come out of hiding.}
-{210}{}{But no! Here he is! Careful!}
-{211}{}{Don't shoot! It's a bunch, my partner.}
-{212}{}{Which... Of course I am grateful to you for saving me, but this is too much! Mutants are evil! They destroyed entire human settlements. What the hell is this piece of shit doing with you?}
-{213}{}{He's harmless. Do not hate all mutants because of the misconduct of one particular group.}
-{214}{}{I don't know why I need it either. But he protects me and carries things. Just don't touch him, OK?}
-{215}{}{Who are you? You know, I once knew a resident of the asylum. He was trying to help his brothers and sisters. And when he helped, he was simply thrown out. Good without weapons ends up with something sad.}
-{1215}{}{Who are you? You know, I once knew a resident of the asylum. He was trying to help his brothers and sisters. And when he helped, he was simply thrown out. Good without weapons ends up with something sad.}
-{216}{}{Maybe so.}
-{217}{}{Who knows?}
-{218}{}{Oh, then, six years ago, we would have had people like you on the front line — how many brothers could have been saved from super mutants!}
-{219}{}{At that time I worked on plantations and didn't know about any war with super mutants. That's why I love my rural life.}
-{220}{}{It's enough that I managed to save you.}
-{221}{}{Okay, now I need to find a place to clean up. Thank you, brother.}
-{222}{}{By the way, what is the Brotherhood doing here?}
-{223}{}{When the elders found out that the mutants had rushed to San Diego, I was sent along with a squad to investigate. I couldn't even think that a real hell was going on here. Radiation, monsters, super mutants, ghouls, robots — what's not here! I need to tell the commander about this. It is impossible for ordinary people to rush here too.}
-{224}{}{Clearly. Well, then have a safe journey. Don't get caught by mutants anymore.}
-{225}{}{Thanks again.}
+### {200}{}{Hush! A mutant lurked at the entrance. He'll kill us if he sees us. I'm also wounded and can't fight. You are my last hope.}
+{200}{}{°²¾²Ò»¸ö±äÖÖÈËÇ±·üÔÚÈë¿Ú´¦¡£Èç¹ûËû¿´µ½ÎÒÃÇ£¬Ëû»áÉ±ÁËÎÒÃÇ¡£ÎÒÒ²ÊÜÉËÁË£¬²»ÄÜÕ½¶·¡£ÄãÊÇÎÒ×îºóµÄÏ£Íû¡£}
+### {201}{}{Is the mutant gone? Thank you, brother! And now I need to heal my wounds. Do you have a first aid kit?}
+{201}{}{±äÖÖÈË×ßÁËÂğ£¿Ğ»Ğ»Äã£¬ĞÖµÜ£¡ÏÖÔÚÎÒĞèÒªÁÆÉË¡£ÄãÓĞ¼±¾ÈÏäÂğ£¿}
+### {1201}{}{Is the mutant gone? Thank you, Sister! And now I need to heal my wounds. Do you have a first aid kit?}
+{1201}{}{±äÖÖÈË×ßÁËÂğ£¿Ğ»Ğ»Äã£¬½ã½ã£¡ÏÖÔÚÎÒĞèÒªÁÆÉË¡£ÄãÓĞ¼±¾ÈÏäÂğ£¿}
+### {202}{}{Is the mutant dead? Thank you, brother! And now I need to heal my wounds. Do you have a first aid kit?}
+{202}{}{±äÖÖÈËËÀÁËÂğ£¿Ğ»Ğ»Äã£¬ĞÖµÜ£¡ÏÖÔÚÎÒĞèÒªÁÆÉË¡£ÄãÓĞ¼±¾ÈÏäÂğ£¿}
+### {1202}{}{Is the mutant dead? Thank you, Sister! And now I need to heal my wounds. Do you have a first aid kit?}
+{1202}{}{±äÖÖÈËËÀÁËÂğ£¿Ğ»Ğ»Äã£¬½ã½ã£¡ÏÖÔÚÎÒĞèÒªÁÆÉË¡£ÄãÓĞ¼±¾ÈÏäÂğ£¿}
+### {203}{}{I'm doing what I can. Stop whining to me here!}
+{203}{}{ÎÒÕıÔÚ¾¡ÎÒËùÄÜ¡£±ğÔÚÕâ¶ù¶ÔÎÒ·¢ÀÎÉ§ÁË£¡}
+### {204}{}{I will do my best.}
+{204}{}{ÎÒ»á¾¡Á¦µÄ¡£}
+### {205}{}{Thank you for the treatment. Now I can fight at full strength. Although I don't have enough bullets. Where is this mutant? Probably waiting at the entrance.}
+{205}{}{Ğ»Ğ»ÄãµÄÖÎÁÆ¡£ÏÖÔÚÎÒ¿ÉÒÔÈ«Á¦Õ½¶·ÁË¡£ËäÈ»ÎÒÃ»ÓĞ×ã¹»µÄ×Óµ¯¡£Õâ¸ö±äÖÖÈËÔÚÄÄÀï£¿¿ÉÄÜÔÚÃÅ¿ÚµÈ×Å¡£}
+### {206}{}{Let's go, let's give him a hard time!}
+{206}{}{ÎÒÃÇ×ß°É£¬ÈÃÎÒÃÇ¸øËûÒ»¸ö¼èÄÑµÄÊ±¿Ì£¡}
+### {207}{}{You'd better keep your head down so that old wounds don't open up. Stay here until I deal with that bully.}
+{207}{}{Äã×îºÃµÍ×ÅÍ·£¬ÒÔÃâ¾ÉÉË¿ÚÁÑ¿ª¡£´ıÔÚÕâÀïÖ±µ½ÎÒ¶Ô¸¶ÄÇ¸ö¶ñ°Ô¡£}
+### {208}{}{The danger has passed. That bully has already left.}
+{208}{}{Î£ÏÕÒÑ¾­¹ıÈ¥ÁË¡£ÄÇ¸ö¶ñ°ÔÒÑ¾­×ßÁË¡£}
+### {209}{}{That bully won't hurt anyone else. We can come out of hiding.}
+{209}{}{ÄÇ¸ö¶ñ°Ô²»»áÉËº¦ÈÎºÎÈË¡£ÎÒÃÇ¿ÉÒÔ°ÚÍÑ¶ã²Ø¡£}
+### {210}{}{But no! Here he is! Careful!}
+{210}{}{µ«ÊÇÃ»ÓĞ£¡ËûÀ´ÁË£¡×ĞÏ¸µÄ}
+### {211}{}{Don't shoot! It's a bunch, my partner.}
+{211}{}{²»Òª¿ªÇ¹£¡ÕâÊÇÒ»ÈºÈË£¬ÎÒµÄ´îµµ¡£}
+### {212}{}{Which... Of course I am grateful to you for saving me, but this is too much! Mutants are evil! They destroyed entire human settlements. What the hell is this piece of shit doing with you?}
+{212}{}{ÄÄÒ»¸öÎÒµ±È»ºÜ¸Ğ¼¤Äã¾ÈÁËÎÒ£¬µ«ÕâÌ«¹ı·ÖÁË£¡±äÖÖÈËÊÇĞ°¶ñµÄ£¡ËûÃÇ´İ»ÙÁËÕû¸öÈËÀà×¡Çø¡£Õâ»ìµ°¸úÄã¸ÉÊ²Ã´£¿}
+### {213}{}{He's harmless. Do not hate all mutants because of the misconduct of one particular group.}
+{213}{}{ËûÊÇÎŞº¦µÄ¡£²»ÒªÒòÎªÄ³¸öÌØ¶¨ÈºÌåµÄ²»µ±ĞĞÎª¶øÔ÷ºŞËùÓĞ±äÖÖÈË¡£}
+### {214}{}{I don't know why I need it either. But he protects me and carries things. Just don't touch him, OK?}
+{214}{}{ÎÒÒ²²»ÖªµÀÎªÊ²Ã´ÎÒĞèÒªËü¡£µ«Ëû±£»¤ÎÒ£¬´ø¶«Î÷¡£Ö»ÊÇ²»ÒªÅöËû£¬ºÃÂğ£¿}
+### {215}{}{Who are you? You know, I once knew a resident of the asylum. He was trying to help his brothers and sisters. And when he helped, he was simply thrown out. Good without weapons ends up with something sad.}
+{215}{}{ÄãÊÇË­£¿ÄãÖªµÀ£¬ÎÒÔø¾­ÈÏÊ¶Ò»¸öÊÕÈİËùµÄ¾ÓÃñ¡£ËûÊÔÍ¼°ïÖúËûµÄĞÖµÜ½ãÃÃ¡£µ±Ëû°ïÃ¦Ê±£¬ËûÖ»ÊÇ±»¸ÏÁË³öÈ¥¡£Ã»ÓĞÎäÆ÷µÄºÃ½á¾ÖÊÇ¿É±¯µÄ¡£}
+### {1215}{}{Who are you? You know, I once knew a resident of the asylum. He was trying to help his brothers and sisters. And when he helped, he was simply thrown out. Good without weapons ends up with something sad.}
+{1215}{}{ÄãÊÇË­£¿ÄãÖªµÀ£¬ÎÒÔø¾­ÈÏÊ¶Ò»¸öÊÕÈİËùµÄ¾ÓÃñ¡£ËûÊÔÍ¼°ïÖúËûµÄĞÖµÜ½ãÃÃ¡£µ±Ëû°ïÃ¦Ê±£¬ËûÖ»ÊÇ±»¸ÏÁË³öÈ¥¡£Ã»ÓĞÎäÆ÷µÄºÃ½á¾ÖÊÇ¿É±¯µÄ¡£}
+### {216}{}{Maybe so.}
+{216}{}{Ò²ĞíÊÇÕâÑù¡£}
+### {217}{}{Who knows?}
+{217}{}{Ë­ÖªµÀÄØ£¿}
+### {218}{}{Oh, then, six years ago, we would have had people like you on the front line ? how many brothers could have been saved from super mutants!}
+{218}{}{Å¶£¬ÄÇÃ´£¬ÁùÄêÇ°£¬ÎÒÃÇ»áÓĞÏñÄãÕâÑùµÄÈËÔÚÇ°Ïß? ÓĞ¶àÉÙĞÖµÜ¿ÉÒÔ´Ó³¬¼¶±äÖÖÈËÊÖÖĞÕü¾È³öÀ´£¡}
+### {219}{}{At that time I worked on plantations and didn't know about any war with super mutants. That's why I love my rural life.}
+{219}{}{µ±Ê±ÎÒÔÚÖÖÖ²Ô°¹¤×÷£¬²»ÖªµÀÓë³¬¼¶±äÖÖÈËÓĞÈÎºÎÕ½Õù¡£Õâ¾ÍÊÇÎªÊ²Ã´ÎÒÏ²»¶ÎÒµÄÏç´åÉú»î¡£}
+### {220}{}{It's enough that I managed to save you.}
+{220}{}{ÎÒ¾ÈÁËÄã¾Í¹»ÁË¡£}
+### {221}{}{Okay, now I need to find a place to clean up. Thank you, brother.}
+{221}{}{ºÃ°É£¬ÏÖÔÚÎÒĞèÒªÕÒ¸öµØ·½´òÉ¨¡£Ğ»Ğ»Äã£¬ĞÖµÜ¡£}
+### {222}{}{By the way, what is the Brotherhood doing here?}
+{222}{}{Ë³±ãÎÊÒ»ÏÂ£¬ĞÖµÜ»áÔÚÕâÀï¸ÉÊ²Ã´£¿}
+### {223}{}{When the elders found out that the mutants had rushed to San Diego, I was sent along with a squad to investigate. I couldn't even think that a real hell was going on here. Radiation, monsters, super mutants, ghouls, robots ? what's not here! I need to tell the commander about this. It is impossible for ordinary people to rush here too.}
+{223}{}{µ±³¤ÀÏÃÇ·¢ÏÖ±äÖÖÈËÒÑ¾­¸ÏÍùÊ¥µØÑÇ¸çÊ±£¬ÎÒºÍÒ»¸öĞ¡×éÒ»Æğ±»ÅÉÈ¥µ÷²é¡£ÎÒÉõÖÁ²»¸ÒÏëÏóÕâÀïÕæµÄ·¢ÉúÁËµØÓü¡£·øÉä£¬¹ÖÎï£¬³¬¼¶±äÖÖÈË£¬Ê³Ê¬¹í£¬»úÆ÷ÈË? Ê²Ã´¶«Î÷²»ÔÚÕâ¶ù£¡ÎÒĞèÒª°ÑÕâ¼şÊÂ¸æËßÖ¸»Ó¹Ù¡£ÆÕÍ¨ÈËÒ²²»¿ÉÄÜ³åµ½ÕâÀïÀ´¡£}
+### {224}{}{Clearly. Well, then have a safe journey. Don't get caught by mutants anymore.}
+{224}{}{ÇåÎúµØºÃ°É£¬ÄÇ¾ÍÓĞÒ»¸ö°²È«µÄÂÃ³Ì¡£±ğÔÙ±»±äÖÖÈË×¥×¡ÁË¡£}
+### {225}{}{Thanks again.}
+{225}{}{ÔÙ´Î¸ĞĞ»¡£}

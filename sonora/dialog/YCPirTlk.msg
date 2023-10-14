@@ -1,44 +1,84 @@
-{100}{}{There is a ghoul in front of you.}
-{101}{}{You see a ghoul in battle armor and helmet.}
+### {100}{}{There is a ghoul in front of you.}
+{100}{}{ÄãÃæÇ°ÓĞÒ»¸öÊ³Ê¬¹í¡£}
+### {101}{}{You see a ghoul in battle armor and helmet.}
+{101}{}{Äã¿´µ½Ò»¸öÉí´©Õ½¼×ºÍÍ·¿øµÄÊ³Ê¬¹í¡£}
 
-{200}{}{John was talking about you. He said you were a smart guy. But how are you going to storm the island with such a pretty smooth face?}
-{201}{}{Good question. I need to think about it.}
-{202}{}{It's not your walking face that matters.}
-{203}{}{John was talking about you. He said you were a smart guy. I hope you are aware of the risks that await you on the island?}
-{204}{}{Good question. Probably, it is worth preparing in advance for disembarkation.}
-{205}{}{I forgot to ask you.}
-{206}{}{John was talking about you, but I didn't expect to see Gustavo's people here. What's going on?}
-{207}{}{Yes, he, uh, doesn't have enough people. Gustavo will be in charge of the operation.}
-{208}{}{Gustavo will be in charge of the mine. Is that clear to you?}
+### {200}{}{John was talking about you. He said you were a smart guy. But how are you going to storm the island with such a pretty smooth face?}
+{200}{}{Ô¼º²ÔÚËµÄã¡£ËûËµÄãÊÇ¸ö´ÏÃ÷ÈË¡£µ«ÊÇ£¬ÄãÔõÃ´»á´ø×ÅÒ»ÕÅÈç´Ë¹â»¬µÄÁ³³åÉÏÕâ¸öµºÄØ£¿}
+### {201}{}{Good question. I need to think about it.}
+{201}{}{ºÃÎÊÌâ¡£ÎÒĞèÒªºÃºÃÏëÏë¡£}
+### {202}{}{It's not your walking face that matters.}
+{202}{}{ÖØÒªµÄ²»ÊÇÄã×ßÂ·µÄÁ³¡£}
+### {203}{}{John was talking about you. He said you were a smart guy. I hope you are aware of the risks that await you on the island?}
+{203}{}{Ô¼º²ÔÚËµÄã¡£ËûËµÄãÊÇ¸ö´ÏÃ÷ÈË¡£ÎÒÏ£ÍûÄãÖªµÀµºÉÏµÈ´ıÄãµÄ·çÏÕÂğ£¿}
+### {204}{}{Good question. Probably, it is worth preparing in advance for disembarkation.}
+{204}{}{ºÃÎÊÌâ¡£Ò²Ğí£¬ÌáÇ°×öºÃÏÂ´¬×¼±¸ÊÇÖµµÃµÄ¡£}
+### {205}{}{I forgot to ask you.}
+{205}{}{ÎÒÍüÁËÎÊÄãÁË¡£}
+### {206}{}{John was talking about you, but I didn't expect to see Gustavo's people here. What's going on?}
+{206}{}{Ô¼º²ËµµÄÊÇÄã£¬µ«ÎÒÃ»Ïëµ½»áÔÚÕâÀï¿´µ½¹ÅË¹ËşÎÖµÄÈË¡£ÔõÃ´»ØÊÂ£¿}
+### {207}{}{Yes, he, uh, doesn't have enough people. Gustavo will be in charge of the operation.}
+{207}{}{ÊÇµÄ£¬ËûÃ»ÓĞ×ã¹»µÄÈË¡£¹ÅË¹ËşÎÖ½«¸ºÔğÕâ´ÎĞĞ¶¯¡£}
+### {208}{}{Gustavo will be in charge of the mine. Is that clear to you?}
+{208}{}{¹ÅË¹ËşÎÖ½«¸ºÔğ¿ó¾®¡£ÄãÇå³şÂğ£¿}
 
-{210}{}{Okay. The alignment is like this. We have a transponder. Robots will not attack while we are in its area of action. It remains to launch the boat to go to the island. And then — according to the situation.}
-{211}{}{I need time to prepare. Wait a bit.}
-{212}{}{OK. What is my purpose on the island?}
+### {210}{}{Okay. The alignment is like this. We have a transponder. Robots will not attack while we are in its area of action. It remains to launch the boat to go to the island. And then ? according to the situation.}
+{210}{}{¿ÉÒÔÂ·ÏßÊÇÕâÑùµÄ¡£ÎÒÃÇÓĞÒ»¸ö×ª·¢Æ÷¡£µ±ÎÒÃÇÔÚËüµÄĞĞ¶¯ÇøÓòÊ±£¬»úÆ÷ÈË²»»á¹¥»÷¡£ÏÖÔÚ»¹ĞèÒªÏÂË®È¥µºÉÏ¡£È»ºó? ¸ù¾İÇé¿ö¡£}
+### {211}{}{I need time to prepare. Wait a bit.}
+{211}{}{ÎÒĞèÒªÊ±¼ä×¼±¸¡£µÈÒ»ÏÂ¡£}
+### {212}{}{OK. What is my purpose on the island?}
+{212}{}{ºÃµÄ¡£ÎÒÔÚµºÉÏµÄÄ¿µÄÊÇÊ²Ã´£¿}
 
-{220}{}{Isn't this base destroyed? What is there to take?}
-{221}{}{The whole island was littered with nuclear explosions. The land there is still barren. But the underground levels are partly preserved. Robots come from there and restore them there. This base is one of the largest in pre—war America. Even after the explosions, there should be many valuable relics left there.}
-{222}{}{Surely there is monstrous radiation.}
-{223}{}{Right. That's why only ghouls and robots will be able to work there. It's only to our advantage, yes. But you will have to prepare well so as not to get fried in the blessed isotope rays.}
-{224}{}{What prevented you from landing there so far?}
-{225}{}{Guns of Coronado Island. Some of them survived under the shields during the bombing. They stretch along the entire coastline and do not allow you to swim close. There are also concrete fortifications, garbage in the water, underwater mines and patrolling robots. And we also did not have a transponder, which we recently assembled at the liberated Factory. Well done, by the way, good job.}
-{226}{}{What is my purpose on the island?}
-{227}{}{For you, our smooth one, the goal is to disable the combat readiness system so that robots and guns stop firing at everyone in a row. And then we will figure out for ourselves what and how to take out from the island.}
+### {220}{}{Isn't this base destroyed? What is there to take?}
+{220}{}{Õâ¸ö»ùµØ²»ÊÇ±»»ÙÁËÂğ£¿ÓĞÊ²Ã´¿ÉÄÃµÄ£¿}
+### {221}{}{The whole island was littered with nuclear explosions. The land there is still barren. But the underground levels are partly preserved. Robots come from there and restore them there. This base is one of the largest in pre?war America. Even after the explosions, there should be many valuable relics left there.}
+{221}{}{Õû¸öµºÓìµ½´¦¶¼ÊÇºË±¬Õ¨¡£ÄÇÀïµÄÍÁµØÈÔÈ»Æ¶ñ¤¡£µ«µØÏÂ²¿·Ö±»±£ÁôÁËÏÂÀ´¡£»úÆ÷ÈË´ÓÄÇÀïÀ´£¬²¢ÔÚÄÇÀï»Ö¸´ËüÃÇ¡£Õâ¸ö»ùµØÊÇ?ÃÀ¹úÕ½Õù¡£¼´Ê¹ÔÚ±¬Õ¨Ö®ºó£¬ÄÇÀïÒ²Ó¦¸ÃÁôÏÂĞí¶àÕä¹óµÄÎÄÎï¡£}
+### {222}{}{Surely there is monstrous radiation.}
+{222}{}{¿Ï¶¨´æÔÚ×Å¿ÉÅÂµÄ·øÉä¡£}
+### {223}{}{Right. That's why only ghouls and robots will be able to work there. It's only to our advantage, yes. But you will have to prepare well so as not to get fried in the blessed isotope rays.}
+{223}{}{ÕıÈ·µÄÕâ¾ÍÊÇÎªÊ²Ã´Ö»ÓĞÊ³Ê¬¹íºÍ»úÆ÷ÈË²ÅÄÜÔÚÄÇÀï¹¤×÷¡£ÊÇµÄ£¬ÕâÖ»¶ÔÎÒÃÇÓĞÀû¡£µ«Äã±ØĞë×öºÃ×¼±¸£¬ÒÔÃâÔÚĞÒÔËµÄÍ¬Î»ËØÉäÏßÖĞ±»Õ¨¡£}
+### {224}{}{What prevented you from landing there so far?}
+{224}{}{µ½Ä¿Ç°ÎªÖ¹£¬ÊÇÊ²Ã´×èÖ¹Äã½µÂäÔÚÄÇÀï£¿}
+### {225}{}{Guns of Coronado Island. Some of them survived under the shields during the bombing. They stretch along the entire coastline and do not allow you to swim close. There are also concrete fortifications, garbage in the water, underwater mines and patrolling robots. And we also did not have a transponder, which we recently assembled at the liberated Factory. Well done, by the way, good job.}
+{225}{}{¿ÆÂŞÄÉ¶àµºµÄÇ¹Éù¡£ËûÃÇÖĞµÄÒ»Ğ©ÈËÔÚºäÕ¨ÆÚ¼äÔÚ¶ÜÅÆÏÂĞÒ´æÏÂÀ´¡£ËüÃÇÑØ×ÅÕû¸öº£°¶ÏßÑÓÉì£¬²»ÔÊĞíÄã½ü¾àÀëÓÎÓ¾¡£ÕâÀï»¹ÓĞ»ìÄıÍÁ·ÀÓù¹¤ÊÂ¡¢Ë®ÖĞÀ¬»ø¡¢Ë®ÏÂË®À×ºÍÑ²Âß»úÆ÷ÈË¡£ÎÒÃÇÒ²Ã»ÓĞ×ª·¢Æ÷£¬ÕâÊÇÎÒÃÇ×î½üÔÚ½â·ÅµÄ¹¤³§×é×°µÄ¡£¸ÉµÃºÃ£¬Ë³±ãËµÒ»¾ä£¬¸ÉµÃºÃ¡£}
+### {226}{}{What is my purpose on the island?}
+{226}{}{ÎÒÔÚµºÉÏµÄÄ¿µÄÊÇÊ²Ã´£¿}
+### {227}{}{For you, our smooth one, the goal is to disable the combat readiness system so that robots and guns stop firing at everyone in a row. And then we will figure out for ourselves what and how to take out from the island.}
+{227}{}{¶ÔÄãÀ´Ëµ£¬ÎÒÃÇµÄÄ¿±êÊÇ½ûÓÃÕ½±¸ÏµÍ³£¬ÕâÑù»úÆ÷ÈËºÍÇ¹Ö§¾Í²»»áÁ¬ĞøÏòÃ¿¸öÈË¿ª»ğ¡£È»ºóÎÒÃÇ»á×Ô¼ºÏë°ì·¨´ÓµºÉÏÄÃ×ßÊ²Ã´ÒÔ¼°ÈçºÎÄÃ×ß¡£}
 
-{250}{}{Ah! Do you feel this beautiful fresh air?}
-{251}{}{I only feel the radioactive dust from the scorched earth.}
-{252}{}{Well, everyone's tastes are different. Don't forget — your goal is to disable the security system. Then we'll manage on our own. But don't try to touch everything in a row — there are still a lot of dangerous military toys that can make a handful of embers out of you.}
-{253}{}{Understood, Captain obvious.}
-{1253}{}{The task is clear, Captain obvious.}
-{254}{}{Good.}
-{255}{}{Your goal is to disable the security system. Then we'll manage on our own. But don't try to touch everything in a row — there are still a lot of dangerous military toys that can make a handful of embers out of you.}
-{256}{}{The combat alert is disabled. Access to the base is open to everyone.}
-{257}{}{Great job! Then we'll manage on our own. You can go back to the mainland.}
-{258}{}{OK.}
-{259}{}{By the way, what are you going to do with the local finds?}
-{260}{}{Export, of course. Everything that can be useful, from cartridges to electronics — everything will go to the arrangement of the Dayglow or for sale.}
-{261}{}{That is, some of these dangerous toys will fall into the hands of people?}
-{262}{}{Of course. Any problems?}
-{263}{}{No, sir. None.}
-{264}{}{Stupid! These things in the wrong hands will be a disaster! I won't let you take anything out of here.}
-{265}{}{Everything that can be useful, from cartridges to electronics — everything will go to the arrangement of the Dayglow.}
-{266}{}{I see.}
+### {250}{}{Ah! Do you feel this beautiful fresh air?}
+{250}{}{°¡£¡Äã¸Ğ¾õµ½ÕâÖÖÃÀÀöµÄĞÂÏÊ¿ÕÆøÁËÂğ£¿}
+### {251}{}{I only feel the radioactive dust from the scorched earth.}
+{251}{}{ÎÒÖ»¸Ğ¾õµ½À´×Ô½¹ÍÁµÄ·ÅÉäĞÔ³¾°£¡£}
+### {252}{}{Well, everyone's tastes are different. Don't forget ? your goal is to disable the security system. Then we'll manage on our own. But don't try to touch everything in a row ? there are still a lot of dangerous military toys that can make a handful of embers out of you.}
+{252}{}{Ã¿¸öÈËµÄ¿ÚÎ¶¶¼²»Ò»Ñù¡£±ğÍüÁË? ÄúµÄÄ¿±êÊÇ½ûÓÃ°²È«ÏµÍ³¡£ÄÇÎÒÃÇ¾Í×Ô¼º½â¾öÁË¡£µ«²»ÒªÊÔÍ¼Á¬Ğø´¥ÃşËùÓĞ¶«Î÷? ÈÔÈ»ÓĞºÜ¶àÎ£ÏÕµÄ¾üÓÃÍæ¾ß¿ÉÒÔÈÃÄã³ÉÎª»Ò½ı¡£}
+### {253}{}{Understood, Captain obvious.}
+{253}{}{Ã÷°×ÁË£¬´¬³¤ºÜÃ÷ÏÔ¡£}
+### {1253}{}{The task is clear, Captain obvious.}
+{1253}{}{ÈÎÎñºÜÇå³ş£¬¶Ó³¤ºÜÇå³ş¡£}
+### {254}{}{Good.}
+{254}{}{ºÃµÄ}
+### {255}{}{Your goal is to disable the security system. Then we'll manage on our own. But don't try to touch everything in a row ? there are still a lot of dangerous military toys that can make a handful of embers out of you.}
+{255}{}{ÄúµÄÄ¿±êÊÇ½ûÓÃ°²È«ÏµÍ³¡£ÄÇÎÒÃÇ¾Í×Ô¼º½â¾öÁË¡£µ«²»ÒªÊÔÍ¼Á¬Ğø´¥ÃşËùÓĞ¶«Î÷? ÈÔÈ»ÓĞºÜ¶àÎ£ÏÕµÄ¾üÓÃÍæ¾ß¿ÉÒÔÈÃÄã³ÉÎª»Ò½ı¡£}
+### {256}{}{The combat alert is disabled. Access to the base is open to everyone.}
+{256}{}{Õ½¶·¾¯±¨±»½ûÓÃ¡£»ùµØ¶ÔËùÓĞÈË¿ª·Å¡£}
+### {257}{}{Great job! Then we'll manage on our own. You can go back to the mainland.}
+{257}{}{¸ÉµÃºÃ£¡ÄÇÎÒÃÇ¾Í×Ô¼º½â¾öÁË¡£Äã¿ÉÒÔ»Ø´óÂ½È¥¡£}
+### {258}{}{OK.}
+{258}{}{ºÃ°¡}
+### {259}{}{By the way, what are you going to do with the local finds?}
+{259}{}{Ë³±ãÎÊÒ»ÏÂ£¬Äã´òËãÈçºÎ´¦Àíµ±µØµÄ·¢ÏÖ£¿}
+### {260}{}{Export, of course. Everything that can be useful, from cartridges to electronics ? everything will go to the arrangement of the Dayglow or for sale.}
+{260}{}{µ±È»ÊÇ³ö¿Ú¡£´ÓÄ«ºĞµ½µç×Ó²úÆ·£¬ËùÓĞÓĞÓÃµÄ¶«Î÷? ËùÓĞµÄ¶«Î÷¶¼½«ÓÉDayglow°²ÅÅ»ò³öÊÛ¡£}
+### {261}{}{That is, some of these dangerous toys will fall into the hands of people?}
+{261}{}{Ò²¾ÍÊÇËµ£¬ÕâĞ©Î£ÏÕµÄÍæ¾ßÖĞµÄÒ»Ğ©»áÂäÈëÈËÃÇÊÖÖĞÂğ£¿}
+### {262}{}{Of course. Any problems?}
+{262}{}{µ±È»ÓĞÊ²Ã´ÎÊÌâÂğ£¿}
+### {263}{}{No, sir. None.}
+{263}{}{²»£¬ÏÈÉú¡£Ã»ÓĞÒ»¸ö}
+### {264}{}{Stupid! These things in the wrong hands will be a disaster! I won't let you take anything out of here.}
+{264}{}{ÓŞ´ÀµÄÕâĞ©¶«Î÷ÂäÈë»µÈËÖ®ÊÖ½«ÊÇÒ»³¡ÔÖÄÑ£¡ÎÒ²»»áÈÃÄã´øÈÎºÎ¶«Î÷Àë¿ªÕâÀï¡£}
+### {265}{}{Everything that can be useful, from cartridges to electronics ? everything will go to the arrangement of the Dayglow.}
+{265}{}{´ÓÄ«ºĞµ½µç×Ó²úÆ·£¬ËùÓĞÓĞÓÃµÄ¶«Î÷? Ò»ÇĞ¶¼½«°´ÕÕ¡¶³¯Ï¼¡·µÄ°²ÅÅ½øĞĞ¡£}
+### {266}{}{I see.}
+{266}{}{ÎÒÃ÷°×ÁË¡£}

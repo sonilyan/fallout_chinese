@@ -1,73 +1,144 @@
-{100}{}{You see Rutger.}
-{101}{}{Here is the head of the Truckers squad.}
+### {100}{}{You see Rutger.}
+{100}{}{Äã¿´µ½ÂŞ¸ñÁË¡£}
+### {101}{}{Here is the head of the Truckers squad.}
+{101}{}{ÕâÊÇ¿¨³µË¾»ú¶ÓµÄ¶Ó³¤¡£}
 
-{200}{}{We were very lucky that you were there. I don't have enough words to express my gratitude for saving our asses. Here, take a machine gun as a reward. How can I help you now?}
-{1200}{}{We were very lucky that you were there. I don't have enough words to express my gratitude for saving our asses. Here, take a machine gun as a reward. How can I help you now?}
-{201}{}{Let's just talk first.}
-{202}{}{It seems you were carrying some kind of goods. Can I take a look?}
-{203}{}{This product was intended for ghouls, but they were not interested in it... }
-{204}{}{[Trade]}
-{205}{}{Yes, by the way, I was hoping to buy some things from ghouls. But they don't want to get them, or they charge too much. I'll pay you if you find them for me in the ruins.}
-{206}{}{OK. What kind of things do you need?}
-{207}{}{No, I'm not going to search for old artifacts.}
-{208}{}{What else do you need?}
-{209}{}{That is all. Bye, Rutger.}
-{210}{}{I want to ask you something else.}
-{211}{}{I need to take another look at your products.}
-{212}{}{I'm looking for these things: 1) water chip, 2) printed circuit board, 3) diagnostic board, 4) fuel controller, 5) rotorcraft drawings.}
-{213}{}{If I find it, I'll bring it. Bye.}
-{214}{}{About those old things you're looking for.}
-{215}{}{Did you find anything you need?}
-{216}{}{Not yet. If I find it, I'll bring it. Bye.}
-{217}{}{Why do you need all these old artifacts?}
-{218}{}{My boss Butch at the Hub will be terribly unhappy if I come back empty-handed. And the Hub needs a bunch of different things. And not just him. All of California survives due to ancient technology. And over time, it becomes less.}
-{219}{}{Clear.}
-{220}{}{Where can I find a water chip?}
-{221}{}{This technology was used in the Vaults of the company "Vault-Tech". I know that there was one such Vault in the vicinity of San Diego. But I don't have the exact coordinates.}
-{222}{}{Where can I find a printed circuit board?}
-{223}{}{This technology can only be used in old printing houses. Residents of the Hub want to print their own money, and for this you need to launch a printing press. And just this detail they do not have.}
-{224}{}{Where can I find a diagnostic board?}
-{225}{}{This is a part from the autodoc. This technology was previously used in large hospitals.}
-{226}{}{Where can I find a fuel controller?}
-{227}{}{Funny thing. The merchant opposite says that this detail has already been brought from another camp. But he can't find her. Probably, the old fart lost it among all the unnecessary junk.}
-{228}{}{Where can I find the drawings of the rotorcraft?}
-{229}{}{Do you know about the military base on Coronado Island? And about the military airfield? So they were torn to shreds by nuclear explosions. But the ghouls say that there was also a factory that serviced military equipment. That's where the drawings could have been saved. And by the way — I have no idea what a "rotorcraft" is.}
-{230}{}{I have }
-{231}{}{.}
-{232}{}{Great job! Here are your 400 caps. And I'll take this to the Hub.}
-{233}{}{Thanks for the caps.}
-{234}{}{You have completely closed the Truckers' contract. Great job!}
-{235}{}{Good to see you.}
-{236}{}{Bye.}
-{237}{}{[Continue the conversation]}
-{238}{}{It's good to see you... You, but not your mutant friend.}
-{239}{}{It seems we are no longer welcome in the Shining. We'll be leaving this place soon.}
+### {200}{}{We were very lucky that you were there. I don't have enough words to express my gratitude for saving our asses. Here, take a machine gun as a reward. How can I help you now?}
+{200}{}{ÎÒÃÇºÜĞÒÔËÄãÔÚÄÇÀï¡£ÎÒÃ»ÓĞ×ã¹»µÄÓïÑÔÀ´±í´ïÎÒ¶ÔÕü¾ÈÎÒÃÇµÄ¸Ğ¼¤Ö®Çé¡£¸ø£¬ÄÃÒ»°Ñ»ú¹ØÇ¹×÷Îª½±Àø¡£ÎÒÏÖÔÚÄÜ°ïÄãÊ²Ã´£¿}
+### {1200}{}{We were very lucky that you were there. I don't have enough words to express my gratitude for saving our asses. Here, take a machine gun as a reward. How can I help you now?}
+{1200}{}{ÎÒÃÇºÜĞÒÔËÄãÔÚÄÇÀï¡£ÎÒÃ»ÓĞ×ã¹»µÄÓïÑÔÀ´±í´ïÎÒ¶ÔÕü¾ÈÎÒÃÇµÄ¸Ğ¼¤Ö®Çé¡£¸ø£¬ÄÃÒ»°Ñ»ú¹ØÇ¹×÷Îª½±Àø¡£ÎÒÏÖÔÚÄÜ°ïÄãÊ²Ã´£¿}
+### {201}{}{Let's just talk first.}
+{201}{}{ÎÒÃÇÏÈÌ¸Ì¸°É¡£}
+### {202}{}{It seems you were carrying some kind of goods. Can I take a look?}
+{202}{}{ÄãºÃÏñ´øÁËÊ²Ã´¶«Î÷¡£ÎÒ¿ÉÒÔ¿´¿´Âğ£¿}
+### {203}{}{This product was intended for ghouls, but they were not interested in it... }
+{203}{}{Õâ¸ö²úÆ·ÊÇÎªÊ³Ê¬¹í×¼±¸µÄ£¬µ«ËûÃÇ¶ÔËü²»¸ĞĞËÈ¤¡£¡£¡£}
+### {204}{}{[Trade]}
+{204}{}{[Ã³Ò×]}
+### {205}{}{Yes, by the way, I was hoping to buy some things from ghouls. But they don't want to get them, or they charge too much. I'll pay you if you find them for me in the ruins.}
+{205}{}{ÊÇµÄ£¬Ë³±ãËµÒ»ÏÂ£¬ÎÒÏ£ÍûÄÜ´ÓÊ³Ê¬¹íÄÇÀïÂòĞ©¶«Î÷¡£µ«ËûÃÇ²»ÏëµÃµ½ËüÃÇ£¬»òÕßËüÃÇÊÕ·ÑÌ«¸ß¡£Èç¹ûÄãÔÚ·ÏĞæÖĞÎªÎÒÕÒµ½ËüÃÇ£¬ÎÒ»á¸¶Ç®¸øÄãµÄ¡£}
+### {206}{}{OK. What kind of things do you need?}
+{206}{}{ºÃµÄ¡£ÄãĞèÒªÊ²Ã´ÑùµÄ¶«Î÷£¿}
+### {207}{}{No, I'm not going to search for old artifacts.}
+{207}{}{²»£¬ÎÒ²»»áÈ¥Ñ°ÕÒ¾ÉµÄÎÄÎï¡£}
+### {208}{}{What else do you need?}
+{208}{}{Äã»¹ĞèÒªÊ²Ã´£¿}
+### {209}{}{That is all. Bye, Rutger.}
+{209}{}{½ö´Ë¶øÒÑ¡£ÔÙ¼û£¬ÂŞ¸ñ¡£}
+### {210}{}{I want to ask you something else.}
+{210}{}{ÎÒÏëÎÊÄã±ğµÄÊÂ¡£}
+### {211}{}{I need to take another look at your products.}
+{211}{}{ÎÒĞèÒªÔÙ¿´Ò»ÑÛÄãÃÇµÄ²úÆ·¡£}
+### {212}{}{I'm looking for these things: 1) water chip, 2) printed circuit board, 3) diagnostic board, 4) fuel controller, 5) rotorcraft drawings.}
+{212}{}{ÎÒÔÚÕÒÕâĞ©¶«Î÷£º1£©Ë®Ğ¾Æ¬£¬2£©Ó¡Ë¢µçÂ·°å£¬3£©Õï¶Ï°å£¬4£©È¼ÁÏ¿ØÖÆÆ÷£¬5£©ĞıÒí·É»úÍ¼Ö½¡£}
+### {213}{}{If I find it, I'll bring it. Bye.}
+{213}{}{Èç¹ûÎÒÕÒµ½ÁË£¬ÎÒ»á°ÑËü´øÀ´¡£ÔÙ¼û¡£}
+### {214}{}{About those old things you're looking for.}
+{214}{}{¹ØÓÚÄãÒªÕÒµÄÄÇĞ©¾É¶«Î÷¡£}
+### {215}{}{Did you find anything you need?}
+{215}{}{ÄãÕÒµ½ÄãĞèÒªµÄ¶«Î÷ÁËÂğ£¿}
+### {216}{}{Not yet. If I find it, I'll bring it. Bye.}
+{216}{}{»¹Ã»ÓĞ¡£Èç¹ûÎÒÕÒµ½ÁË£¬ÎÒ»á°ÑËü´øÀ´¡£ÔÙ¼û¡£}
+### {217}{}{Why do you need all these old artifacts?}
+{217}{}{ÄãÎªÊ²Ã´ĞèÒªÕâĞ©¾É¹¤ÒÕÆ·£¿}
+### {218}{}{My boss Butch at the Hub will be terribly unhappy if I come back empty-handed. And the Hub needs a bunch of different things. And not just him. All of California survives due to ancient technology. And over time, it becomes less.}
+{218}{}{Èç¹ûÎÒÁ½ÊÖ¿Õ¿ÕµØ»ØÀ´£¬ÎÒÔÚHubµÄÀÏ°åButch»á·Ç³£²»¸ßĞË¡£HubĞèÒªºÜ¶à²»Í¬µÄ¶«Î÷¡£²»½ö½öÊÇËû¡£ÓÉÓÚ¹ÅÀÏµÄ¼¼Êõ£¬Õû¸ö¼ÓÀû¸£ÄáÑÇÖİµÃÒÔĞÒ´æ¡£Ëæ×ÅÊ±¼äµÄÍÆÒÆ£¬Ëü±äµÃÔ½À´Ô½ÉÙ¡£}
+### {219}{}{Clear.}
+{219}{}{Çå³şµÄ}
+### {220}{}{Where can I find a water chip?}
+{220}{}{ÎÒÔÚÄÄÀïÄÜÕÒµ½Ë®Ğ¾Æ¬£¿}
+### {221}{}{This technology was used in the Vaults of the company "Vault-Tech". I know that there was one such Vault in the vicinity of San Diego. But I don't have the exact coordinates.}
+{221}{}{ÕâÏî¼¼Êõ±»ÓÃÓÚ¡°Vault Tech¡±¹«Ë¾µÄ½ğ¿â¡£ÎÒÖªµÀÔÚÊ¥µØÑÇ¸ç¸½½üÓĞÒ»¸öÕâÑùµÄ½ğ¿â¡£µ«ÎÒÃ»ÓĞÈ·ÇĞµÄ×ø±ê¡£}
+### {222}{}{Where can I find a printed circuit board?}
+{222}{}{ÎÒÔÚÄÄÀï¿ÉÒÔÕÒµ½Ó¡Ë¢µçÂ·°å£¿}
+### {223}{}{This technology can only be used in old printing houses. Residents of the Hub want to print their own money, and for this you need to launch a printing press. And just this detail they do not have.}
+{223}{}{ÕâÏî¼¼ÊõÖ»ÄÜÔÚ¾ÉµÄÓ¡Ë¢³§Ê¹ÓÃ¡£¸ÃÖĞĞÄµÄ¾ÓÃñÏë´òÓ¡×Ô¼ºµÄÇ®£¬Îª´ËÄãĞèÒªÍÆ³öÒ»Ì¨Ó¡Ë¢»ú¡£¶øÕıÊÇÕâĞ©Ï¸½ÚËûÃÇÃ»ÓĞ¡£}
+### {224}{}{Where can I find a diagnostic board?}
+{224}{}{ÎÒÔÚÄÄÀï¿ÉÒÔÕÒµ½Õï¶Ï°å£¿}
+### {225}{}{This is a part from the autodoc. This technology was previously used in large hospitals.}
+{225}{}{ÕâÊÇautodocµÄÒ»²¿·Ö¡£ÕâÏî¼¼ÊõÒÔÇ°ÔøÔÚ´óĞÍÒ½ÔºÊ¹ÓÃ¹ı¡£}
+### {226}{}{Where can I find a fuel controller?}
+{226}{}{ÔÚÄÄÀï¿ÉÒÔÕÒµ½È¼ÓÍ¿ØÖÆÆ÷£¿}
+### {227}{}{Funny thing. The merchant opposite says that this detail has already been brought from another camp. But he can't find her. Probably, the old fart lost it among all the unnecessary junk.}
+{227}{}{ÓĞÈ¤µÄÊÂ¡£¶ÔÃæµÄÉÌÈËËµ£¬Õâ¸öÏ¸½ÚÒÑ¾­´ÓÁíÒ»¸öÕóÓª´øÀ´ÁË¡£µ«ËûÕÒ²»µ½Ëı¡£Ò²Ğí£¬Õâ¸öÀÏ¼Ò»ïÔÚËùÓĞ²»±ØÒªµÄÀ¬»øÖĞ¶ªÁË¡£}
+### {228}{}{Where can I find the drawings of the rotorcraft?}
+{228}{}{ÎÒÔÚÄÄÀï¿ÉÒÔÕÒµ½ĞıÒí·É»úµÄÍ¼Ö½£¿}
+### {229}{}{Do you know about the military base on Coronado Island? And about the military airfield? So they were torn to shreds by nuclear explosions. But the ghouls say that there was also a factory that serviced military equipment. That's where the drawings could have been saved. And by the way ? I have no idea what a "rotorcraft" is.}
+{229}{}{ÄãÖªµÀ¿ÆÂŞÄÉ¶àµºÉÏµÄ¾üÊÂ»ùµØÂğ£¿¾üÓÃ»ú³¡ÄØ£¿ËùÒÔËûÃÇ±»ºË±¬Õ¨Ëº³ÉÁËËéÆ¬¡£µ«Ê³Ê¬¹íÃÇËµ£¬ÄÇÀï»¹ÓĞÒ»¼ÒÎª¾üÊÂÉè±¸Ìá¹©·şÎñµÄ¹¤³§¡£Õâ¾ÍÊÇÍ¼Ö½±¾¿ÉÒÔ±£´æµÄµØ·½¡£Ë³±ãËµÒ»ÏÂ? ÎÒ²»ÖªµÀÊ²Ã´ÊÇ¡°ĞıÒí·É»ú¡±¡£}
+### {230}{}{I have }
+{230}{}{ÎÒÓĞ}
+### {231}{}{.}
+{231}{}{¡£}
+### {232}{}{Great job! Here are your 400 caps. And I'll take this to the Hub.}
+{232}{}{¸ÉµÃºÃ£¡ÕâÊÇÄãµÄ400¶¥Ã±×Ó¡£ÎÒ»á°ÑÕâ¸ö´øµ½ÖĞĞÄ¡£}
+### {233}{}{Thanks for the caps.}
+{233}{}{Ğ»Ğ»ÄãµÄÃ±×Ó¡£}
+### {234}{}{You have completely closed the Truckers' contract. Great job!}
+{234}{}{ÄãÒÑ¾­ÍêÈ«ÖÕÖ¹ÁË¿¨³µË¾»úµÄºÏÍ¬¡£¸ÉµÃºÃ£¡}
+### {235}{}{Good to see you.}
+{235}{}{ºÜ¸ßĞË¼ûµ½Äã¡£}
+### {236}{}{Bye.}
+{236}{}{ÔÙ¼û}
+### {237}{}{[Continue the conversation]}
+{237}{}{[¼ÌĞø¶Ô»°]}
+### {238}{}{It's good to see you... You, but not your mutant friend.}
+{238}{}{ºÜ¸ßĞË¼ûµ½Äã¡£¡£¡£Äã£¬µ«²»ÊÇÄãµÄ±äÖÖÅóÓÑ¡£}
+### {239}{}{It seems we are no longer welcome in the Shining. We'll be leaving this place soon.}
+{239}{}{¿´À´ÎÒÃÇÔÚÉÁÁé²»ÔÙÊÜ»¶Ó­ÁË¡£ÎÒÃÇºÜ¿ì¾Í»áÀë¿ªÕâ¸öµØ·½¡£}
 
-{240}{}{Where did your caravan come from?}
-{241}{}{We're from the Hub. Our main office is there.}
-{242}{}{Tell me about the Hub.}
-{243}{}{It is the largest city in California. The center of bottle currency and trade. The main supplier of clean water. Most people and companies are located there. But there are also more problems there.}
-{244}{}{I see.}
-{245}{}{Phoenix also uses caps for exchange.}
-{246}{}{Are there Hubbucks in Phoenix? Hmm! The Hub has been supporting the cap currency for many years. Probably, someone moved this idea to the east. Just what kind of people could cross the Toxic Divide between Arizona and California? This is interesting!}
-{247}{}{Let's go back...}
-{248}{}{Which company's office?}
-{249}{}{Which company are you from?}
-{250}{}{We are a trading company "Truckers" from the Hub. We transport goods from one settlement to another.}
-{251}{}{And what kind of Hub is this, can you tell me?}
-{252}{}{Must be hard work?}
-{253}{}{Very. For a while we suffered from the raids of super mutants and all sorts of trash. Many people and Brahmins were lost until one person stopped it. The Asylum-Seeker - that's what everyone called him.}
-{254}{}{Where did the super mutants come from here?}
-{255}{}{These sons of bitches robbed caravans and kidnapped people to turn into freaks like them. No one even knew about them in the Hub. And then one person revealed their secret. Everyone was terrified.}
-{256}{}{Go on.}
-{257}{}{I know the story. You don't have to go on.}
-{258}{}{Then that mysterious man and the guys from the Brotherhood of Steel stirred up their nest. But part of the green army survived and scattered across the Wasteland.}
-{259}{}{Thanks for the story, Rutger. I didn't know all this.}
-{1259}{}{Thanks for the story, Rutger. I didn't know all this.}
-{260}{}{Thanks for the story, Rutger. Even in Inferno they didn't tell me about it.}
-{261}{}{Speaking of super mutants. Do you know where they came from?}
-{262}{}{Which office were you talking about?}
-{263}{}{Some settlements were unlucky enough to get in their way. Therefore, people have been fighting mutants in recent years. No wonder some of the green fuckers ended up here — away from human settlements.}
-{264}{}{What happened to this Asylum-Seeker?}
-{265}{}{I don't know. He seemed to have evaporated. No one has heard from him since.}
-{266}{}{Butler promises big orders. Looks like he's hit a gold mine.}
+### {240}{}{Where did your caravan come from?}
+{240}{}{ÄãµÄÉÌ¶Ó´ÓÄÄÀïÀ´µÄ£¿}
+### {241}{}{We're from the Hub. Our main office is there.}
+{241}{}{ÎÒÃÇÀ´×ÔÖĞĞÄ¡£ÎÒÃÇµÄ×Ü°ì¹«ÊÒÔÚÄÇÀï¡£}
+### {242}{}{Tell me about the Hub.}
+{242}{}{¸æËßÎÒÓĞ¹Ø¼¯ÏßÆ÷µÄÇé¿ö¡£}
+### {243}{}{It is the largest city in California. The center of bottle currency and trade. The main supplier of clean water. Most people and companies are located there. But there are also more problems there.}
+{243}{}{ËüÊÇ¼ÓÀû¸£ÄáÑÇÖİ×î´óµÄ³ÇÊĞ¡£Æ¿×Ó»õ±ÒºÍÃ³Ò×µÄÖĞĞÄ¡£Çå½àË®µÄÖ÷Òª¹©Ó¦ÉÌ¡£´ó¶àÊıÈËºÍ¹«Ë¾¶¼ÔÚÄÇÀï¡£µ«Ò²´æÔÚ¸ü¶àµÄÎÊÌâ¡£}
+### {244}{}{I see.}
+{244}{}{ÎÒÃ÷°×ÁË¡£}
+### {245}{}{Phoenix also uses caps for exchange.}
+{245}{}{·ÆÄá¿ËË¹Ò²Ê¹ÓÃÃ±×Ó½øĞĞ½»»»¡£}
+### {246}{}{Are there Hubbucks in Phoenix? Hmm! The Hub has been supporting the cap currency for many years. Probably, someone moved this idea to the east. Just what kind of people could cross the Toxic Divide between Arizona and California? This is interesting!}
+{246}{}{·ÆÄá¿ËË¹ÓĞHubbucksÂğ£¿àÅ£¡¸ÃÖĞĞÄ¶àÄêÀ´Ò»Ö±Ö§³ÖÉÏÏŞ»õ±Ò¡£Ò²Ğí£¬ÓĞÈË°ÑÕâ¸öÏë·¨°áµ½ÁË¶«·½¡£Ê²Ã´ÑùµÄÈË¿ÉÒÔ¿çÔ½ÑÇÀûÉ£ÄÇÖİºÍ¼ÓÀû¸£ÄáÑÇÖİÖ®¼äµÄÓĞ¶¾ºè¹µ£¿ÕâºÜÓĞÈ¤£¡}
+### {247}{}{Let's go back...}
+{247}{}{ÈÃÎÒÃÇ»Øµ½¹ıÈ¥¡£¡£¡£}
+### {248}{}{Which company's office?}
+{248}{}{ÄÄ¼Ò¹«Ë¾µÄ°ì¹«ÊÒ£¿}
+### {249}{}{Which company are you from?}
+{249}{}{ÄãÀ´×ÔÄÄ¼Ò¹«Ë¾£¿}
+### {250}{}{We are a trading company "Truckers" from the Hub. We transport goods from one settlement to another.}
+{250}{}{ÎÒÃÇÊÇÒ»¼ÒÃ³Ò×¹«Ë¾¡°¿¨³µË¾»ú¡±´ÓÊàÅ¦¡£ÎÒÃÇ°Ñ»õÎï´ÓÒ»¸ö¶¨¾ÓµãÔËµ½ÁíÒ»¸ö¶¨¾Óµã¡£}
+### {251}{}{And what kind of Hub is this, can you tell me?}
+{251}{}{ÕâÊÇÊ²Ã´ÑùµÄ¼¯ÏßÆ÷£¬ÄãÄÜ¸æËßÎÒÂğ£¿}
+### {252}{}{Must be hard work?}
+{252}{}{Ò»¶¨ºÜĞÁ¿à°É£¿}
+### {253}{}{Very. For a while we suffered from the raids of super mutants and all sorts of trash. Many people and Brahmins were lost until one person stopped it. The Asylum-Seeker - that's what everyone called him.}
+{253}{}{·Ç³£ÓĞÒ»¶ÎÊ±¼ä£¬ÎÒÃÇÔâÊÜÁË³¬¼¶±äÖÖÈËºÍ¸÷ÖÖÀ¬»øµÄÏ®»÷¡£Ğí¶àÈËºÍÆÅÂŞÃÅÃÔÊ§ÁË·½Ïò£¬Ö±µ½ÓĞÒ»¸öÈË×èÖ¹ÁËËü¡£Ñ°Çó±Ó»¤Õß¡ª¡ªÃ¿¸öÈË¶¼ÕâÃ´³ÆºôËû¡£}
+### {254}{}{Where did the super mutants come from here?}
+{254}{}{³¬¼¶±äÖÖÈËÊÇ´ÓÄÄÀïÀ´µÄ£¿}
+### {255}{}{These sons of bitches robbed caravans and kidnapped people to turn into freaks like them. No one even knew about them in the Hub. And then one person revealed their secret. Everyone was terrified.}
+{255}{}{ÕâĞ©¹·ÄïÑøµÄÇÀ½ÙÁË´óÅñ³µ£¬°ó¼ÜÁËÈË£¬±ä³ÉÁËÏñËûÃÇÒ»ÑùµÄ¹ÖÌ¥¡£ÔÚÖĞĞÄÉõÖÁÃ»ÓĞÈËÖªµÀËûÃÇ¡£È»ºóÒ»¸öÈËÍ¸Â¶ÁËËûÃÇµÄÃØÃÜ¡£´ó¼Ò¶¼ÏÅ»µÁË¡£}
+### {256}{}{Go on.}
+{256}{}{¼ÌĞø}
+### {257}{}{I know the story. You don't have to go on.}
+{257}{}{ÎÒÖªµÀÕâ¸ö¹ÊÊÂ¡£Äã²»±Ø¼ÌĞø¡£}
+### {258}{}{Then that mysterious man and the guys from the Brotherhood of Steel stirred up their nest. But part of the green army survived and scattered across the Wasteland.}
+{258}{}{È»ºóÄÇ¸öÉñÃØµÄÈËºÍ¸ÖÌúĞÖµÜ»áµÄÈË½ÁÂÒÁËËûÃÇµÄ³²Ñ¨¡£µ«Ò»²¿·ÖÂÌÉ«¾ü¶ÓĞÒ´æÏÂÀ´£¬·ÖÉ¢ÔÚ»ÄÔ­ÉÏ¡£}
+### {259}{}{Thanks for the story, Rutger. I didn't know all this.}
+{259}{}{Ğ»Ğ»ÄãµÄ¹ÊÊÂ£¬ÂŞ¸ñ¡£ÎÒ²»ÖªµÀÕâÒ»ÇĞ¡£}
+### {1259}{}{Thanks for the story, Rutger. I didn't know all this.}
+{1259}{}{Ğ»Ğ»ÄãµÄ¹ÊÊÂ£¬ÂŞ¸ñ¡£ÎÒ²»ÖªµÀÕâÒ»ÇĞ¡£}
+### {260}{}{Thanks for the story, Rutger. Even in Inferno they didn't tell me about it.}
+{260}{}{Ğ»Ğ»ÄãµÄ¹ÊÊÂ£¬ÂŞ¸ñ¡£¼´Ê¹ÔÚµØÓü£¬ËûÃÇÒ²Ã»ÓĞ¸æËßÎÒÕâ¼şÊÂ¡£}
+### {261}{}{Speaking of super mutants. Do you know where they came from?}
+{261}{}{Ëµµ½³¬¼¶±äÖÖÈË¡£ÄãÖªµÀËüÃÇÊÇ´ÓÄÄÀïÀ´µÄÂğ£¿}
+### {262}{}{Which office were you talking about?}
+{262}{}{ÄãËµµÄÊÇÄÄ¸ö°ì¹«ÊÒ£¿}
+### {263}{}{Some settlements were unlucky enough to get in their way. Therefore, people have been fighting mutants in recent years. No wonder some of the green fuckers ended up here ? away from human settlements.}
+{263}{}{Ò»Ğ©¶¨¾ÓµãÔËÆø²»ºÃ£¬µ²×¡ÁËËûÃÇµÄÈ¥Â·¡£Òò´Ë£¬½üÄêÀ´ÈËÃÇÒ»Ö±ÔÚÓë±äÖÖÈË×÷¶·Õù¡£¹Ö²»µÃÓĞĞ©ÂÌÉ«µÄ»ìµ°×îÖÕÀ´µ½ÁËÕâÀï? Ô¶ÀëÈËÀà×¡Çø¡£}
+### {264}{}{What happened to this Asylum-Seeker?}
+{264}{}{Õâ¸öÑ°Çó±Ó»¤ÕßÔõÃ´ÁË£¿}
+### {265}{}{I don't know. He seemed to have evaporated. No one has heard from him since.}
+{265}{}{ÎÒ²»ÖªµÀ¡£ËûËÆºõÏûÊ§ÁË¡£´ÓÄÇÒÔºó¾ÍÔÙÒ²Ã»ÓĞËûµÄÏûÏ¢ÁË¡£}
+### {266}{}{Butler promises big orders. Looks like he's hit a gold mine.}
+{266}{}{°ÍÌØÀÕ³ĞÅµ´ó¶©µ¥¡£¿´ÆğÀ´Ëû×²ÉÏÁË½ğ¿ó¡£}

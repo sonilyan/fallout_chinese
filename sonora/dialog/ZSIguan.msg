@@ -1,7 +1,14 @@
-{110}{}{"To use the trap, you need the appropriate skills.}
-{111}{}{N-n-m! These iguanas were not quick enough, and soon they will be in someone's stomach.}
-{112}{}{- with such skills, this trap will be more useless than garbage.}
-{113}{}{the feeding is over, this trap is now useless.}
-{114}{}{two traps in one place? It's a useless$waste of time.}
-{115}{}{You have successfully set the trap.}
-{116}{}{Õoroshaÿ idaÿ, but you have no idea how to do it.}
+### {110}{}{"To use the trap, you need the appropriate skills.}
+{110}{}{¡°ÒªÊ¹ÓÃÏİÚå£¬ÄãĞèÒªÊÊµ±µÄ¼¼ÄÜ¡£}
+### {111}{}{N-n-m! These iguanas were not quick enough, and soon they will be in someone's stomach.}
+{111}{}{N-N-m£¡ÕâĞ©÷àòá²»¹»¿ì£¬ºÜ¿ì¾Í»á½øÈë±ğÈËµÄÎ¸Àï¡£}
+### {112}{}{- with such skills, this trap will be more useless than garbage.}
+{112}{}{-ÓĞÁËÕâÑùµÄ¼¼ÄÜ£¬Õâ¸öÏİÚå½«±ÈÀ¬»ø¸üÎŞÓÃ¡£}
+### {113}{}{the feeding is over, this trap is now useless.}
+{113}{}{Î¹Ê³½áÊøÁË£¬Õâ¸öÏİÚåÏÖÔÚÃ»ÓÃÁË¡£}
+### {114}{}{two traps in one place? It's a useless$waste of time.}
+{114}{}{Ò»¸öµØ·½ÓĞÁ½¸öÏİÚå£¿ÕâÊÇÀË·ÑÊ±¼ä¡£}
+### {115}{}{You have successfully set the trap.}
+{115}{}{ÄúÒÑ³É¹¦ÉèÖÃÏİÚå¡£}
+### {116}{}{?orosha? ida?, but you have no idea how to do it.}
+{116}{}{?orosha? ida?, µ«ÊÇÄã²»ÖªµÀÔõÃ´×ö¡£}

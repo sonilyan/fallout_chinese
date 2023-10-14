@@ -1,21 +1,41 @@
-{100}{}{You see a looter ghoul.}
-{101}{}{There's a ghoul in front of you. He carefully examines the area.}
-{102}{}{Hey, buddy, do you have a light? There's a lot of junk around, but here's the fire...}
-{1102}{}{Hey, girlfriend, is there a light? There's a lot of junk around, but here's the fire...}
-{103}{}{Fire! Wow-oh-oh!}
-{104}{}{Perhaps one lighter will be enough for you.}
+### {100}{}{You see a looter ghoul.}
+{100}{}{Äã¿´µ½Ò»¸öÇÀ½ÙÊ³Ê¬¹í¡£}
+### {101}{}{There's a ghoul in front of you. He carefully examines the area.}
+{101}{}{ÄãÃæÇ°ÓĞ¸öÊ³Ê¬¹í¡£Ëû×ĞÏ¸¼ì²éÁËÕâ¸öµØÇø¡£}
+### {102}{}{Hey, buddy, do you have a light? There's a lot of junk around, but here's the fire...}
+{102}{}{ºÙ£¬»ï¼Æ£¬ÄãÓĞµÆÂğ£¿ÖÜÎ§ÓĞºÜ¶àÀ¬»ø£¬µ«ÕâÊÇ»ğ¡£¡£¡£}
+### {1102}{}{Hey, girlfriend, is there a light? There's a lot of junk around, but here's the fire...}
+{1102}{}{ºÙ£¬Å®ÅóÓÑ£¬ÓĞµÆÂğ£¿ÖÜÎ§ÓĞºÜ¶àÀ¬»ø£¬µ«ÕâÊÇ»ğ¡£¡£¡£}
+### {103}{}{Fire! Wow-oh-oh!}
+{103}{}{»ğÍÛÅ¶Å¶£¡}
+### {104}{}{Perhaps one lighter will be enough for you.}
+{104}{}{Ò²ĞíÒ»¸ö´ò»ğ»ú¶ÔÄãÀ´Ëµ¾Í×ã¹»ÁË¡£}
 
-{200}{}{Flames have descended from heaven! Do you see that? Everything is burning around. That's it! Even the stones are burning!}
-{201}{}{You're delusional. Wake up!}
-{202}{}{Am I going crazy? Nope. The flame of the Great War is still burning. It burns in my heart. And every time I think of him, when I see the slightest spark. It cannot be forgotten. So I want to do it again... remember... Look, it's burning! It burns well!}
-{203}{}{So, it's clear that you have a thing about this topic. Don't you want to share fuel with others?}
-{204}{}{Fire is really fascinating.}
-{205}{}{Do you like FIRE too? Yes, the flame of the Great War has not yet died out. It burns in my heart. And every time I think of him, when I see the slightest spark. It cannot be forgotten. So I want to do it again... remember... Look how it burns! It burns well!}
-{206}{}{And now — create your own flame!}
-{207}{}{Eh, of course, it must.}
-{208}{}{Actually, I just want to make some fire. Do you have any fuel?}
-{209}{}{I think I'll move away while you're messing with the fire. Bye.}
-{210}{}{Do you like to look at flames?}
-{211}{}{You definitely need a flame. Everyone needs it.}
-{212}{}{Fire cleanses. He takes everything you owned. He creates a void. Isn't it amazing?}
-{213}{}{Whether you want it or not, I'll take all the fuel you have.}
+### {200}{}{Flames have descended from heaven! Do you see that? Everything is burning around. That's it! Even the stones are burning!}
+{200}{}{»ğÑæ´ÓÌìÌÃ½µÁÙ£¡Äã¿´µ½ÁËÂğ£¿ÖÜÎ§µÄÒ»ÇĞ¶¼ÔÚÈ¼ÉÕ¡£¾ÍÊÇÕâÑù£¡Á¬Ê¯Í·¶¼ÔÚÈ¼ÉÕ£¡}
+### {201}{}{You're delusional. Wake up!}
+{201}{}{ÄãÓĞÍıÏëÖ¢¡£ĞÑĞÑ}
+### {202}{}{Am I going crazy? Nope. The flame of the Great War is still burning. It burns in my heart. And every time I think of him, when I see the slightest spark. It cannot be forgotten. So I want to do it again... remember... Look, it's burning! It burns well!}
+{202}{}{ÎÒ·èÁËÂğ£¿Ã»ÓĞ¡£´óÕ½µÄ»ğÑæÈÔÔÚÈ¼ÉÕ¡£ËüÔÚÎÒĞÄÖĞÈ¼ÉÕ¡£Ã¿µ±ÎÒÏëÆğËû£¬µ±ÎÒ¿´µ½×îÏ¸Î¢µÄ»ğ»¨¡£ÕâÊÇ²»ÄÜÍü¼ÇµÄ¡£ËùÒÔÎÒÏëÔÙ×öÒ»´Î¡£¡£¡£»ØÏëÆğ¿´£¬ËüÔÚÈ¼ÉÕ£¡ËüÉÕµÃºÜºÃ£¡}
+### {203}{}{So, it's clear that you have a thing about this topic. Don't you want to share fuel with others?}
+{203}{}{ËùÒÔ£¬ºÜÃ÷ÏÔ£¬Äã¶ÔÕâ¸ö»°ÌâºÜ¸ĞĞËÈ¤¡£Äã²»ÏëºÍ±ğÈË·ÖÏíÈ¼ÁÏÂğ£¿}
+### {204}{}{Fire is really fascinating.}
+{204}{}{»ğÕæµÄºÜÃÔÈË¡£}
+### {205}{}{Do you like FIRE too? Yes, the flame of the Great War has not yet died out. It burns in my heart. And every time I think of him, when I see the slightest spark. It cannot be forgotten. So I want to do it again... remember... Look how it burns! It burns well!}
+{205}{}{ÄãÒ²Ï²»¶FIREÂğ£¿ÊÇµÄ£¬´óÕ½µÄ»ğÑæ»¹Ã»ÓĞÏ¨Ãğ¡£ËüÔÚÎÒĞÄÖĞÈ¼ÉÕ¡£Ã¿µ±ÎÒÏëÆğËû£¬µ±ÎÒ¿´µ½×îÏ¸Î¢µÄ»ğ»¨¡£ÕâÊÇ²»ÄÜÍü¼ÇµÄ¡£ËùÒÔÎÒÏëÔÙ×öÒ»´Î¡£¡£¡£»ØÏëÆğ¿´¿´ËüÊÇÔõÃ´È¼ÉÕµÄ£¡ËüÉÕµÃºÜºÃ£¡}
+### {206}{}{And now ? create your own flame!}
+{206}{}{ÏÖÔÚ? ´´ÔìÄã×Ô¼ºµÄ»ğÑæ£¡}
+### {207}{}{Eh, of course, it must.}
+{207}{}{ßÀ£¬µ±È»ÁË¡£}
+### {208}{}{Actually, I just want to make some fire. Do you have any fuel?}
+{208}{}{ÊÂÊµÉÏ£¬ÎÒÖ»ÊÇÏëÉú»ğ¡£ÄãÓĞÈ¼ÁÏÂğ£¿}
+### {209}{}{I think I'll move away while you're messing with the fire. Bye.}
+{209}{}{ÎÒÏëÄãÔÚÉú»ğµÄÊ±ºòÎÒ»á°á×ßµÄ¡£ÔÙ¼û}
+### {210}{}{Do you like to look at flames?}
+{210}{}{ÄãÏ²»¶¿´»ğÑæÂğ£¿}
+### {211}{}{You definitely need a flame. Everyone needs it.}
+{211}{}{Äã¿Ï¶¨ĞèÒªÒ»¸ö»ğÑæ¡£Ã¿¸öÈË¶¼ĞèÒªËü¡£}
+### {212}{}{Fire cleanses. He takes everything you owned. He creates a void. Isn't it amazing?}
+{212}{}{Ïû·ÀÇå½à¡£ËûÄÃ×ßÁËÄãËùÓĞµÄ¶«Î÷¡£ËûÖÆÔìÁËÒ»¸ö¿ÕĞé¡£Õâ²»ÊÇºÜÉñÆæÂğ£¿}
+### {213}{}{Whether you want it or not, I'll take all the fuel you have.}
+{213}{}{²»¹ÜÄãÔ¸²»Ô¸Òâ£¬ÎÒ»áÄÃ×ßÄãËùÓĞµÄÈ¼ÁÏ¡£}

@@ -1,173 +1,331 @@
-{100}{}{This is Father Talius.}
-{101}{}{You see a mutant in a shabby shirt and hat. He sees a cross on his neck.}
-{102}{}{You see before you Talius, a member of the sect of Followers.}
-{103}{}{Give it to someone who really deserves to wear it.}
-{104}{}{Fernando stayed in town.}
-{105}{}{Beatrice stayed in town.}
+### {100}{}{This is Father Talius.}
+{100}{}{ÕâÊÇËşÀïÎÚË¹Éñ¸¸¡£}
+### {101}{}{You see a mutant in a shabby shirt and hat. He sees a cross on his neck.}
+{101}{}{Äã¿´µ½Ò»¸ö´©×ÅÆÆ¾É³ÄÉÀºÍÃ±×ÓµÄ±äÖÖÈË¡£Ëû¿´µ½²±×ÓÉÏÓĞÒ»¸öÊ®×Ö¼Ü¡£}
+### {102}{}{You see before you Talius, a member of the sect of Followers.}
+{102}{}{Äã¿´µ½µÄÊÇËşÀïÎÚË¹£¬Ò»¸öĞÅÍ½½ÌÅÉµÄ³ÉÔ±¡£}
+### {103}{}{Give it to someone who really deserves to wear it.}
+{103}{}{°ÑËüËÍ¸øÕæÕıÖµµÃ´÷µÄÈË¡£}
+### {104}{}{Fernando stayed in town.}
+{104}{}{·Ñ¶ûÄÏ¶àÁôÔÚ³ÇÀï¡£}
+### {105}{}{Beatrice stayed in town.}
+{105}{}{±È°¢ÌØÀöË¹ÁôÔÚ³ÇÀï¡£}
 
 #First meeting
-{200}{}{Greetings, brother. My name is Talius. And I'm glad to see you Shining. Do you need help?}
-{1200}{}{Greetings, sister. My name is Talius. And I'm glad to see you Shining. Do you need help?}
-{201}{}{You're not my brother. Have you ever seen yourself in the mirror?}
-{202}{}{I see you're not very smart either. But I was the same once. But learning from Followers has made me smarter.}
-{203}{}{Does your skull feel tight?}
-{204}{}{You know, it really happens. Sometimes I have to prune the extra convolutions through this hole in... Ah, it seems you're talking about something else. I apologize. I forget myself from time to time. Do you need some brain help?}
-{205}{}{I'm sorry, I just mean there are a lot of differences between us. And this is not racism.}
-{206}{}{Yes, perhaps. So you need my help?}
-{207}{}{I just dropped by to see this place.}
-{1207}{}{I just dropped by to see this place.}
-{208}{}{Thank you for the kind welcome. It's unexpected to hear this in such a place.}
-{209}{}{I understand. Ghouls are suspicious of normies. They've been through too many attacks. But show yourself on the good side — and the ghouls will be glad to see you.}
-{210}{}{I hope so. But why are you so friendly?}
-{211}{}{That was sarcasm, you idiot! There's no way I'm going to be friends with freaks like you.}
-{212}{}{Sorry to hear that. I hope you'll change your mind over time. Maybe you need some brain help?}
+### {200}{}{Greetings, brother. My name is Talius. And I'm glad to see you Shining. Do you need help?}
+{200}{}{ÎÊºò£¬ĞÖµÜ¡£ÎÒµÄÃû×Ö½ĞËşÀïÎÚË¹¡£ÎÒºÜ¸ßĞË¿´µ½ÄãÉÁÉÁ·¢¹â¡£ÄãĞèÒª°ïÖúÂğ£¿}
+### {1200}{}{Greetings, sister. My name is Talius. And I'm glad to see you Shining. Do you need help?}
+{1200}{}{ÄãºÃ£¬½ã½ã¡£ÎÒµÄÃû×Ö½ĞËşÀïÎÚË¹¡£ÎÒºÜ¸ßĞË¿´µ½ÄãÉÁÉÁ·¢¹â¡£ÄãĞèÒª°ïÖúÂğ£¿}
+### {201}{}{You're not my brother. Have you ever seen yourself in the mirror?}
+{201}{}{Äã²»ÊÇÎÒ¸ç¸ç¡£Äã¼û¹ı¾µ×ÓÀïµÄ×Ô¼ºÂğ£¿}
+### {202}{}{I see you're not very smart either. But I was the same once. But learning from Followers has made me smarter.}
+{202}{}{ÎÒ¿´ÄãÒ²²»ÊÇºÜ´ÏÃ÷¡£µ«ÎÒÔø¾­ÊÇÒ»ÑùµÄ¡£µ«Ïò×·ËæÕßÑ§Ï°ÈÃÎÒ±äµÃ¸ü´ÏÃ÷¡£}
+### {203}{}{Does your skull feel tight?}
+{203}{}{ÄãµÄÍ·¹Ç¸Ğ¾õ½ô±ÁÂğ£¿}
+### {204}{}{You know, it really happens. Sometimes I have to prune the extra convolutions through this hole in... Ah, it seems you're talking about something else. I apologize. I forget myself from time to time. Do you need some brain help?}
+{204}{}{ÄãÖªµÀ£¬ÕâÕæµÄ»á·¢Éú¡£ÓĞÊ±ÎÒ²»µÃ²»Í¨¹ıÕâ¸ö¶´ĞŞ¼ô¶àÓàµÄ¾í»ı¡­¡­°¡£¬ÄãºÃÏñÔÚËµ±ğµÄÊ²Ã´¡£ÎÒµÀÇ¸¡£ÎÒÊ±³£Íü¼Ç×Ô¼º¡£ÄãĞèÒªÒ»Ğ©ÄÔÁ¦°ïÖúÂğ£¿}
+### {205}{}{I'm sorry, I just mean there are a lot of differences between us. And this is not racism.}
+{205}{}{¶Ô²»Æğ£¬ÎÒÖ»ÊÇËµÎÒÃÇÖ®¼äÓĞºÜ¶à²»Í¬¡£Õâ²»ÊÇÖÖ×åÆçÊÓ¡£}
+### {206}{}{Yes, perhaps. So you need my help?}
+{206}{}{ÊÇµÄ£¬Ò²Ğí°É¡£ËùÒÔÄãĞèÒªÎÒµÄ°ïÖú£¿}
+### {207}{}{I just dropped by to see this place.}
+{207}{}{ÎÒÖ»ÊÇË³±ãÀ´¿´¿´Õâ¸öµØ·½¡£}
+### {1207}{}{I just dropped by to see this place.}
+{1207}{}{ÎÒÖ»ÊÇË³±ãÀ´¿´¿´Õâ¸öµØ·½¡£}
+### {208}{}{Thank you for the kind welcome. It's unexpected to hear this in such a place.}
+{208}{}{Ğ»Ğ»ÄãµÄÊ¢Çé»¶Ó­¡£ÔÚÕâÑùµÄµØ·½Ìıµ½Õâ¸öÏûÏ¢ÕæÊÇ³öºõÒâÁÏ¡£}
+### {209}{}{I understand. Ghouls are suspicious of normies. They've been through too many attacks. But show yourself on the good side ? and the ghouls will be glad to see you.}
+{209}{}{ÎÒÀí½â¡£Ê³Ê¬¹í¶ÔÕı³£ÈË³Ö»³ÒÉÌ¬¶È¡£ËûÃÇ¾­ÀúÁËÌ«¶àµÄÏ®»÷¡£µ«Òª±íÏÖ³öºÃµÄÒ»Ãæ? Ê³Ê¬¹íÃÇ»áºÜ¸ßĞË¼ûµ½ÄãµÄ¡£}
+### {210}{}{I hope so. But why are you so friendly?}
+{210}{}{ÎÒÏ£ÍûÈç´Ë¡£µ«ÄãÎªÊ²Ã´ÕâÃ´ÓÑºÃ£¿}
+### {211}{}{That was sarcasm, you idiot! There's no way I'm going to be friends with freaks like you.}
+{211}{}{ÄÇÊÇ·í´Ì£¬ÄãÕâ¸ö°×³Õ£¡ÎÒ²»¿ÉÄÜºÍÄãÕâÑùµÄ¹ÖÌ¥×öÅóÓÑ¡£}
+### {212}{}{Sorry to hear that. I hope you'll change your mind over time. Maybe you need some brain help?}
+{212}{}{ºÜ±§Ç¸Ìıµ½Õâ¸öÏûÏ¢¡£ÎÒÏ£ÍûÄã»áËæ×ÅÊ±¼äµÄÍÆÒÆ¸Ä±äÖ÷Òâ¡£Ò²ĞíÄãĞèÒªÒ»Ğ©ÄÔÁ¦°ïÖú£¿}
 
-{220}{}{Greetings, brother. Do you need help?}
-{1220}{}{Greetings, sister. Do you need help?}
-{221}{}{No, don't. Sorry to bother you.}
-{222}{}{What do you want to know?}
-{223}{}{Nothing else. Thank you for your time.}
-{224}{}{A lot, but you still don't know anything. Bye.}
-{225}{}{There will be big changes in the Glow soon. And after that, changes will overtake the rest of the world. This is both frightening and inspiring... Do you need help?}
+### {220}{}{Greetings, brother. Do you need help?}
+{220}{}{ÎÊºò£¬ĞÖµÜ¡£ÄãĞèÒª°ïÖúÂğ£¿}
+### {1220}{}{Greetings, sister. Do you need help?}
+{1220}{}{ÄãºÃ£¬½ã½ã¡£ÄãĞèÒª°ïÖúÂğ£¿}
+### {221}{}{No, don't. Sorry to bother you.}
+{221}{}{²»£¬²»Òª¡£ºÜ±§Ç¸´òÈÅÄã¡£}
+### {222}{}{What do you want to know?}
+{222}{}{ÄãÏëÖªµÀÊ²Ã´£¿}
+### {223}{}{Nothing else. Thank you for your time.}
+{223}{}{Ã»ÓĞ±ğµÄ¡£Ğ»Ğ»Äã³é³öÊ±¼ä¡£}
+### {224}{}{A lot, but you still don't know anything. Bye.}
+{224}{}{ºÜ¶à£¬µ«ÄãÈÔÈ»Ê²Ã´¶¼²»ÖªµÀ¡£ÔÙ¼û}
+### {225}{}{There will be big changes in the Glow soon. And after that, changes will overtake the rest of the world. This is both frightening and inspiring... Do you need help?}
+{225}{}{GlowºÜ¿ì¾Í»áÓĞ´óµÄ±ä»¯¡£ÔÚÄÇÖ®ºó£¬±ä»¯½«³¬Ô½ÊÀ½çÆäËûµØÇø¡£Õâ¼È¿ÉÅÂÓÖ¹ÄÎèÈËĞÄ¡£¡£¡£ÄãĞèÒª°ïÖúÂğ£¿}
 
 #About Followers
-{230}{}{This is the chapel of the Followers of the Apocalypse. Here I help the ghouls comprehend our teaching.}
-{231}{}{Sorry to interrupt. But I want to change the subject.}
-{232}{}{I know a few Followers. We met in Casa Nueva.}
-{233}{}{Then you know enough. The followers of the Apocalypse are kind people. They want to bring peace to this cursed land.}
-{234}{}{Where are the rest of the Followers?}
-{235}{}{I'm alone here. Only ghouls and mutants can live in the midst of irradiated ruins. But almost all the Followers are ordinary people. Their main base is in another city.}
-{236}{}{How did you become a Follower if you... well... ghoul?}
-{237}{}{Would you believe me if I said that I have a different nature? My followers saved me from turning into a disgusting animal while I was lying unconscious under the influence of a mutagen. After that, they let me join their knowledge. They are kind people.}
-{238}{}{I see.}
-{239}{}{What kind of teaching?}
-{240}{}{The followers of the Apocalypse want to bring peace to this cursed land. They preach altruism and non-violence. They use pre-war knowledge to improve people's lives. But the most important thing is that they will not allow people to repeat the mistake of 2077.}
-{241}{}{Tell me about your faith.}
-{242}{}{Your words about Followers touched me to the core. I want to make a donation.}
-{243}{}{That's noble of you. How many hubbucks can you donate to good causes?}
-{244}{}{Right now, not at all. I mean I'll do it in the future.}
-{245}{}{100 caps.}
-{246}{}{200 caps.}
-{247}{}{300 caps.}
-{248}{}{400 caps.}
-{249}{}{500 caps.}
-{250}{}{Thank you. Have a nice day!}
-{251}{}{You're welcome.}
-{252}{}{How relieved I am. But I want to talk to you again, Father Talius.}
+### {230}{}{This is the chapel of the Followers of the Apocalypse. Here I help the ghouls comprehend our teaching.}
+{230}{}{ÕâÊÇÆôÊ¾Â¼ĞÅÍ½µÄÀñ°İÌÃ¡£ÔÚÕâÀï£¬ÎÒ°ïÖúÊ³Ê¬¹íÀí½âÎÒÃÇµÄ½Ìµ¼¡£}
+### {231}{}{Sorry to interrupt. But I want to change the subject.}
+{231}{}{±§Ç¸´òÈÅÁË¡£µ«ÎÒÏë»»¸ö»°Ìâ¡£}
+### {232}{}{I know a few Followers. We met in Casa Nueva.}
+{232}{}{ÎÒÈÏÊ¶Ò»Ğ©×·ËæÕß¡£ÎÒÃÇÔÚÅ¬ÍßÖ®¼Ò¼û¹ıÃæ¡£}
+### {233}{}{Then you know enough. The followers of the Apocalypse are kind people. They want to bring peace to this cursed land.}
+{233}{}{ÄÇÄã¾ÍÖªµÀÁË¡£ÆôÊ¾Â¼µÄ×·ËæÕß¶¼ÊÇÉÆÁ¼µÄÈË¡£ËûÃÇÏë¸øÕâÆ¬±»×çÖäµÄÍÁµØ´øÀ´ºÍÆ½¡£}
+### {234}{}{Where are the rest of the Followers?}
+{234}{}{ÆäËû×·ËæÕßÔÚÄÄÀï£¿}
+### {235}{}{I'm alone here. Only ghouls and mutants can live in the midst of irradiated ruins. But almost all the Followers are ordinary people. Their main base is in another city.}
+{235}{}{ÎÒÒ»¸öÈËÔÚÕâÀï¡£Ö»ÓĞÊ³Ê¬¹íºÍ±äÖÖÈË²ÅÄÜÉú»îÔÚ±»·øÉäµÄ·ÏĞæÖĞ¡£µ«¼¸ºõËùÓĞµÄ×·ËæÕß¶¼ÊÇÆÕÍ¨ÈË¡£ËûÃÇµÄÖ÷Òª»ùµØÔÚÁíÒ»¸ö³ÇÊĞ¡£}
+### {236}{}{How did you become a Follower if you... well... ghoul?}
+{236}{}{Èç¹ûÄã¡£¡£¡£ºÃÊ³Ê¬¹í£¿}
+### {237}{}{Would you believe me if I said that I have a different nature? My followers saved me from turning into a disgusting animal while I was lying unconscious under the influence of a mutagen. After that, they let me join their knowledge. They are kind people.}
+{237}{}{Èç¹ûÎÒËµÎÒÓĞ²»Í¬µÄ±¾ĞÔ£¬Äã»áÏàĞÅÎÒÂğ£¿µ±ÎÒÔÚÓÕ±ä¼ÁµÄÓ°ÏìÏÂ»èÃÔÊ±£¬ÎÒµÄ×·ËæÕß¾ÈÁËÎÒ£¬Ê¹ÎÒÃâÓÚ±ä³ÉÒ»Ö»¶ñĞÄµÄ¶¯Îï¡£Ö®ºó£¬ËûÃÇÈÃÎÒ¼ÓÈëËûÃÇµÄÖªÊ¶¡£ËûÃÇÊÇÉÆÁ¼µÄÈË¡£}
+### {238}{}{I see.}
+{238}{}{ÎÒÃ÷°×ÁË¡£}
+### {239}{}{What kind of teaching?}
+{239}{}{Ê²Ã´ÑùµÄ½ÌÑ§£¿}
+### {240}{}{The followers of the Apocalypse want to bring peace to this cursed land. They preach altruism and non-violence. They use pre-war knowledge to improve people's lives. But the most important thing is that they will not allow people to repeat the mistake of 2077.}
+{240}{}{ÆôÊ¾Â¼µÄ×·ËæÕßÏ£Íû¸øÕâÆ¬±»×çÖäµÄÍÁµØ´øÀ´ºÍÆ½¡£ËûÃÇĞûÑïÀûËûÖ÷ÒåºÍ·Ç±©Á¦¡£ËûÃÇÀûÓÃÕ½Ç°µÄÖªÊ¶À´¸ÄÉÆÈËÃÇµÄÉú»î¡£µ«×îÖØÒªµÄÊÇ£¬ËûÃÇ²»»áÔÊĞíÈËÃÇÖØµ¸2077ÄêµÄ¸²ÕŞ¡£}
+### {241}{}{Tell me about your faith.}
+{241}{}{¸æËßÎÒÄãµÄĞÅÑö¡£}
+### {242}{}{Your words about Followers touched me to the core. I want to make a donation.}
+{242}{}{Äã¹ØÓÚ×·ËæÕßµÄ»°ÉîÉî´ò¶¯ÁËÎÒ¡£ÎÒÏë¾è¿î¡£}
+### {243}{}{That's noble of you. How many hubbucks can you donate to good causes?}
+{243}{}{ÄãÕæÊÇÌ«¸ßÉĞÁË¡£ÄãÄÜÎª´ÈÉÆÊÂÒµ¾èÔù¶àÉÙÕÉ·ò£¿}
+### {244}{}{Right now, not at all. I mean I'll do it in the future.}
+{244}{}{ÏÖÔÚ£¬Ò»µãÒ²²»¡£ÎÒµÄÒâË¼ÊÇÎÒ½«À´»áÕâÃ´×ö¡£}
+### {245}{}{100 caps.}
+{245}{}{100¶¥¡£}
+### {246}{}{200 caps.}
+{246}{}{200¶¥¡£}
+### {247}{}{300 caps.}
+{247}{}{300¶¥¡£}
+### {248}{}{400 caps.}
+{248}{}{400¶¥¡£}
+### {249}{}{500 caps.}
+{249}{}{500¶¥¡£}
+### {250}{}{Thank you. Have a nice day!}
+{250}{}{·Ç³£¸ĞĞ»¡£×£Äã½ñÌìÓä¿ì£¡}
+### {251}{}{You're welcome.}
+{251}{}{²»¿ÍÆø¡£}
+### {252}{}{How relieved I am. But I want to talk to you again, Father Talius.}
+{252}{}{ÎÒËÉÁËÒ»¿ÚÆø¡£µ«ÎÒÏëÔÙºÍÄãÌ¸Ì¸£¬ËşÀïÎÚË¹Éñ¸¸¡£}
 
 # About myself
-{260}{}{What's your name again?}
-{261}{}{I am Talius.}
-{262}{}{Okay, Talius.}
-{263}{}{Where are you from, Talius?}
-{264}{}{My homeland is far away from here, in an old Vault with the number 13.}
-{265}{}{I know about several Vaults, but this is the first time I've heard about 13.}
-{266}{}{I've never heard of it.}
-{1266}{}{I've never heard of it.}
-{267}{}{Of course. There were many such Vaults. And many of them are no longer working these days.}
-{268}{}{Did the other ghouls also come from Vault 13?}
-{269}{}{No matter. Let's change the subject.}
-{270}{}{Almost all of them are from Vault 12, which is located under the city of Necropolis. I've been there too, looking for details for my hideout. And just after that mutated.}
-{271}{}{So you're not a ghoul?}
-{272}{}{A sad story. We need to change the subject.}
-{273}{}{A mutant. I was made like this by the scientists of the Creator. They wanted to turn me into a super mutant, but something went wrong.}
-{274}{}{A mutant. I was made like this by the scientists of the Creator. They wanted to turn me into a super mutant, but something went wrong. And it seems that something similar happened to you.}
-{275}{}{It's really terrible. I wish I could help you with something.}
-{1275}{}{It's really terrible. I wish I could help you with something.}
-{276}{}{Thank you for the kind word. You know, I used to be an atheist. But after fate has made me immortal, you will involuntarily believe in God's plan. Maybe it's just such a test?}
-{277}{}{It must be bad to be like that. But nothing can be done.}
-{278}{}{You know, I used to be an atheist. But after fate has made me immortal, you will involuntarily believe in God's plan. Maybe it's just such a test?}
-{279}{}{Can we talk about something else?}
-{280}{}{Good luck, Father Talius.}
+### {260}{}{What's your name again?}
+{260}{}{Äã½ĞÊ²Ã´Ãû×Ö£¿}
+### {261}{}{I am Talius.}
+{261}{}{ÎÒÊÇËşÀïÎÚË¹¡£}
+### {262}{}{Okay, Talius.}
+{262}{}{ºÃ°É£¬ËşÀïÎÚË¹¡£}
+### {263}{}{Where are you from, Talius?}
+{263}{}{Äã´ÓÄÄÀïÀ´£¬ËşÀïÎÚË¹£¿}
+### {264}{}{My homeland is far away from here, in an old Vault with the number 13.}
+{264}{}{ÎÒµÄ¼ÒÏçÀëÕâÀïºÜÔ¶£¬ÔÚÒ»¸ö±àºÅÎª13µÄ¾É½ğ¿âÀï¡£}
+### {265}{}{I know about several Vaults, but this is the first time I've heard about 13.}
+{265}{}{ÎÒÖªµÀ¼¸¸ö½ğ¿â£¬µ«ÕâÊÇÎÒµÚÒ»´ÎÌıËµ13¸ö¡£}
+### {266}{}{I've never heard of it.}
+{266}{}{ÎÒ´ÓÃ»ÌıËµ¹ı¡£}
+### {1266}{}{I've never heard of it.}
+{1266}{}{ÎÒ´ÓÃ»ÌıËµ¹ı¡£}
+### {267}{}{Of course. There were many such Vaults. And many of them are no longer working these days.}
+{267}{}{µ±È»ÓĞĞí¶àÕâÑùµÄ½ğ¿â¡£ËûÃÇÖĞµÄĞí¶àÈËÏÖÔÚÒÑ¾­²»¹¤×÷ÁË¡£}
+### {268}{}{Did the other ghouls also come from Vault 13?}
+{268}{}{ÆäËûÊ³Ê¬¹íÒ²À´×Ô13ºÅ½ğ¿âÂğ£¿}
+### {269}{}{No matter. Let's change the subject.}
+{269}{}{²»¹ÜÔõÑùÈÃÎÒÃÇ»»¸ö»°Ìâ¡£}
+### {270}{}{Almost all of them are from Vault 12, which is located under the city of Necropolis. I've been there too, looking for details for my hideout. And just after that mutated.}
+{270}{}{¼¸ºõËùÓĞÕâĞ©¶¼À´×Ô12ºÅ½ğ¿â£¬ËüÎ»ÓÚÄ¹µØÖ®ÏÂ¡£ÎÒÒ²È¥¹ıÄÇÀï£¬ÎªÎÒµÄ²ØÉíÖ®´¦Ñ°ÕÒÏ¸½Ú¡£¾ÍÔÚÄÇÖ®ºó·¢ÉúÁË±äÒì¡£}
+### {271}{}{So you're not a ghoul?}
+{271}{}{ËùÒÔÄã²»ÊÇÊ³Ê¬¹í£¿}
+### {272}{}{A sad story. We need to change the subject.}
+{272}{}{Ò»¸ö±¯ÉËµÄ¹ÊÊÂ¡£ÎÒÃÇĞèÒª¸Ä±ä»°Ìâ¡£}
+### {273}{}{A mutant. I was made like this by the scientists of the Creator. They wanted to turn me into a super mutant, but something went wrong.}
+{273}{}{Í»±äÌå¡£ÎÒÊÇÓÉÔìÎïÖ÷µÄ¿ÆÑ§¼Ò´´Ôì³öÀ´µÄ¡£ËûÃÇÏë°ÑÎÒ±ä³ÉÒ»¸ö³¬¼¶±äÖÖÈË£¬µ«³öÁËÎÊÌâ¡£}
+### {274}{}{A mutant. I was made like this by the scientists of the Creator. They wanted to turn me into a super mutant, but something went wrong. And it seems that something similar happened to you.}
+{274}{}{Í»±äÌå¡£ÎÒÊÇÓÉÔìÎïÖ÷µÄ¿ÆÑ§¼Ò´´Ôì³öÀ´µÄ¡£ËûÃÇÏë°ÑÎÒ±ä³ÉÒ»¸ö³¬¼¶±äÖÖÈË£¬µ«³öÁËÎÊÌâ¡£ÄãËÆºõÒ²·¢ÉúÁËÀàËÆµÄÊÂÇé¡£}
+### {275}{}{It's really terrible. I wish I could help you with something.}
+{275}{}{ÕæµÄºÜ¿ÉÅÂ¡£ÎÒÏ£ÍûÎÒÄÜ°ïÄã×öµãÊ²Ã´¡£}
+### {1275}{}{It's really terrible. I wish I could help you with something.}
+{1275}{}{ÕæµÄºÜ¿ÉÅÂ¡£ÎÒÏ£ÍûÎÒÄÜ°ïÄã×öµãÊ²Ã´¡£}
+### {276}{}{Thank you for the kind word. You know, I used to be an atheist. But after fate has made me immortal, you will involuntarily believe in God's plan. Maybe it's just such a test?}
+{276}{}{Ğ»Ğ»ÄãµÄ¿ÍÆø»°¡£ÄãÖªµÀ£¬ÎÒÔø¾­ÊÇ¸öÎŞÉñÂÛÕß¡£µ«ÔÚÃüÔËÈÃÎÒ²»ĞàÖ®ºó£¬Äã»á²»ÓÉ×ÔÖ÷µØÏàĞÅÉÏµÛµÄ¼Æ»®¡£Ò²ĞíÕâÖ»ÊÇÒ»¸ö²âÊÔ£¿}
+### {277}{}{It must be bad to be like that. But nothing can be done.}
+{277}{}{ÄÇÑù¿Ï¶¨²»ºÃ¡£µ«ÊÇÊ²Ã´¶¼×ö²»ÁË¡£}
+### {278}{}{You know, I used to be an atheist. But after fate has made me immortal, you will involuntarily believe in God's plan. Maybe it's just such a test?}
+{278}{}{ÄãÖªµÀ£¬ÎÒÔø¾­ÊÇ¸öÎŞÉñÂÛÕß¡£µ«ÔÚÃüÔËÈÃÎÒ²»ĞàÖ®ºó£¬Äã»á²»ÓÉ×ÔÖ÷µØÏàĞÅÉÏµÛµÄ¼Æ»®¡£Ò²ĞíÕâÖ»ÊÇÒ»¸ö²âÊÔ£¿}
+### {279}{}{Can we talk about something else?}
+{279}{}{ÎÒÃÇÄÜÌ¸Ì¸±ğµÄÂğ£¿}
+### {280}{}{Good luck, Father Talius.}
+{280}{}{×£ÄãºÃÔË£¬ËşÀïÎÚË¹Éñ¸¸¡£}
 
 #Asylum 24
-{290}{}{I remembered a conversation about Vaults. Are they in the Glow?}
-{291}{}{Perhaps. Why do you ask?}
-{292}{}{Just logical reasoning. Nevermind.}
-{293}{}{Well, I came across this thing. I think it has something to do with Vaults.}
-{294}{}{Flask from Vault 24... A relic of ancient times. Where did you get it from?}
-{295}{}{I found one skeleton in a jumpsuit. I think the skeleton has been lying in ruins for many decades.}
-{296}{}{Perhaps it was one of the observers that the Followers sent to investigate. A lot of good people died in those hard times.}
-{297}{}{Did the followers also come out of the Vault?}
-{298}{}{Those who were the progenitors of the Followers. The rest were already born after leaving the Vault or joined from the outside.}
-{299}{}{What happened to this Vault?}
-{300}{}{I do not know the whole story. The Vault is now useless. The followers took out everything valuable from there. Besides, there are terrible creatures in those places. I don't recommend going there.}
-{301}{}{I'll still take a chance. At least for the sake of history. Show me the way.}
-{302}{}{The Vault can wait. I don't want any dangerous adventures yet.}
-{303}{}{It is located in the center of Auteuil Park. It's hard to find him, so I'll plot a route on your PipBoy.}
-{304}{}{[Go right now.]}
-{305}{}{Not now. I need to get ready for a hike.}
-{306}{}{I'll still take a chance. What if they haven't taken everything out yet? Lead the way.}
-{307}{}{Isn't it too brazen of you to break into someone else's domain? Everything here belongs to the ghouls. Many people don't like your very presence here. I'll show you the Vault, but I'm counting on a good donation in return. Let's say 1000 caps.}
-{308}{}{I can't spend that much. Let's put this question aside for now?}
-{309}{}{OK. Here are 1000 caps. Show me.}
-{310}{}{In return, you'll be safe, asshole. This is the best you can count on.}
-{311}{}{I need to get back to Vault 24. Right now.}
-{312}{}{Help me get into Vault 24.}
+### {290}{}{I remembered a conversation about Vaults. Are they in the Glow?}
+{290}{}{ÎÒ¼ÇµÃÓĞÒ»´Î¹ØÓÚ½ğ¿âµÄÌ¸»°¡£ËûÃÇÔÚ·¢¹âÇøÂğ£¿}
+### {291}{}{Perhaps. Why do you ask?}
+{291}{}{¿ÉÄÜÄãÎªÊ²Ã´ÎÊ£¿}
+### {292}{}{Just logical reasoning. Nevermind.}
+{292}{}{Ö»ÊÇÂß¼­ÍÆÀí¡£ÓÀÔ¶²»»á¡£}
+### {293}{}{Well, I came across this thing. I think it has something to do with Vaults.}
+{293}{}{ÎÒÅ¼È»·¢ÏÖÁËÕâ¸ö¶«Î÷¡£ÎÒÈÏÎªÕâÓë½ğ¿âÓĞ¹Ø¡£}
+### {294}{}{Flask from Vault 24... A relic of ancient times. Where did you get it from?}
+{294}{}{24ºÅ½ğ¿âµÄÉÕÆ¿¡­Ò»¼ş¹Å´úÒÅ¼£¡£Äã´ÓÄÄÀïµÃµ½µÄ£¿}
+### {295}{}{I found one skeleton in a jumpsuit. I think the skeleton has been lying in ruins for many decades.}
+{295}{}{ÎÒÔÚÁ¬Ìå¿ãÀï·¢ÏÖÁËÒ»¾ß÷¼÷Ã¡£ÎÒÈÏÎªÕâ¾ß¹Ç¼ÜÒÑ¾­ÔÚ·ÏĞæÖĞÌÉÁË¼¸Ê®ÄêÁË¡£}
+### {296}{}{Perhaps it was one of the observers that the Followers sent to investigate. A lot of good people died in those hard times.}
+{296}{}{Ò²ĞíÊÇ×·ËæÕßÅÉÈ¥µ÷²éµÄ¹Û²ìÔ±Ö®Ò»¡£Ğí¶àºÃÈËÔÚÄÇĞ©¼èÄÑµÄÊ±¿ÌËÀÈ¥¡£}
+### {297}{}{Did the followers also come out of the Vault?}
+{297}{}{×·ËæÕßÒ²´Ó½ğ¿â³öÀ´ÁËÂğ£¿}
+### {298}{}{Those who were the progenitors of the Followers. The rest were already born after leaving the Vault or joined from the outside.}
+{298}{}{ÄÇĞ©×·ËæÕßµÄ×æÏÈ¡£ÆäÓàµÄÈËÔÚÀë¿ª½ğ¿âºóÒÑ¾­³öÉú»ò´ÓÍâ²¿¼ÓÈë¡£}
+### {299}{}{What happened to this Vault?}
+{299}{}{Õâ¸ö±£ÏÕ¿â·¢ÉúÁËÊ²Ã´ÊÂ£¿}
+### {300}{}{I do not know the whole story. The Vault is now useless. The followers took out everything valuable from there. Besides, there are terrible creatures in those places. I don't recommend going there.}
+{300}{}{ÎÒ²»ÖªµÀÕû¸ö¹ÊÊÂ¡£±£ÏÕ¿âÏÖÔÚÒÑ¾­Ã»ÓÃÁË¡£×·ËæÕßÃÇ´ÓÄÇÀïÄÃ×ßÁËËùÓĞÓĞ¼ÛÖµµÄ¶«Î÷¡£´ËÍâ£¬ÄÇĞ©µØ·½»¹ÓĞ¿ÉÅÂµÄÉúÎï¡£ÎÒ²»½¨ÒéÈ¥ÄÇÀï¡£}
+### {301}{}{I'll still take a chance. At least for the sake of history. Show me the way.}
+{301}{}{ÎÒ»¹ÊÇÒªÅöÅöÔËÆø¡£ÖÁÉÙÎªÁËÀúÊ·¡£¸øÎÒÖ¸Â·¡£}
+### {302}{}{The Vault can wait. I don't want any dangerous adventures yet.}
+{302}{}{Vault¿ÉÒÔµÈ´ı¡£ÎÒ»¹²»ÏëÃ°ÏÕ¡£}
+### {303}{}{It is located in the center of Auteuil Park. It's hard to find him, so I'll plot a route on your PipBoy.}
+{303}{}{ËüÎ»ÓÚAuteuil¹«Ô°µÄÖĞĞÄ¡£ºÜÄÑÕÒµ½Ëû£¬ËùÒÔÎÒ»áÔÚÄãµÄÆ¤ÆÕ²©ÒÁÉÏ»­Ò»ÌõÂ·Ïß¡£}
+### {304}{}{[Go right now.]}
+{304}{}{[ÏÖÔÚ¾ÍÈ¥¡£]}
+### {305}{}{Not now. I need to get ready for a hike.}
+{305}{}{ÏÖÔÚ²»ĞĞ¡£ÎÒĞèÒªÎªÍ½²½ÂÃĞĞ×öºÃ×¼±¸¡£}
+### {306}{}{I'll still take a chance. What if they haven't taken everything out yet? Lead the way.}
+{306}{}{ÎÒ»¹ÊÇÒªÅöÅöÔËÆø¡£Èç¹ûËûÃÇ»¹Ã»ÓĞ°ÑËùÓĞ¶«Î÷¶¼ÄÃ³öÀ´ÄØ£¿´øÂ·¡£}
+### {307}{}{Isn't it too brazen of you to break into someone else's domain? Everything here belongs to the ghouls. Many people don't like your very presence here. I'll show you the Vault, but I'm counting on a good donation in return. Let's say 1000 caps.}
+{307}{}{Äã´³Èë±ğÈËµÄÁìÓòÊÇ²»ÊÇÌ«ºñÑÕÎŞ³ÜÁË£¿ÕâÀïµÄÒ»ÇĞ¶¼ÊôÓÚÊ³Ê¬¹í¡£ºÜ¶àÈË²»Ï²»¶ÄãÔÚÕâÀï¡£ÎÒ»á´øÄãÈ¥¿´±£ÏÕ¿â£¬µ«ÎÒÖ¸ÍûµÃµ½Ò»±ÊÉÆ¿î×÷Îª»Ø±¨¡£±È·½Ëµ1000¶¥Ã±×Ó¡£}
+### {308}{}{I can't spend that much. Let's put this question aside for now?}
+{308}{}{ÎÒ²»ÄÜ»¨ÄÇÃ´¶àÇ®¡£ÈÃÎÒÃÇÔİÊ±°ÑÕâ¸öÎÊÌâ·ÅÔÚÒ»±ß°É£¿}
+### {309}{}{OK. Here are 1000 caps. Show me.}
+{309}{}{ºÃµÄ¡£ÕâÊÇ1000¶¥Ã±×Ó¡£¸øÎÒ¿´¿´¡£}
+### {310}{}{In return, you'll be safe, asshole. This is the best you can count on.}
+{310}{}{×÷Îª»Ø±¨£¬Äã»á°²È«µÄ£¬»ìµ°¡£ÕâÊÇÄãÄÜÖ¸ÍûµÄ×îºÃµÄ¡£}
+### {311}{}{I need to get back to Vault 24. Right now.}
+{311}{}{ÎÒĞèÒª»Øµ½24ºÅ½ğ¿â¡£ÂíÉÏ}
+### {312}{}{Help me get into Vault 24.}
+{312}{}{°ïÎÒ½øÈë24ºÅ½ğ¿â¡£}
 
 # Madman
-{320}{}{Is there anything I can do to help your people?}
-{321}{}{Our souls need salvation, and we are coping with the rest. Recently I was informed about another victim of insanity: Our friend Gonzo went berserk and fled to the ruins of Chula Vista. In this state, he is dangerous. He needs to be stopped.}
-{322}{}{Is it possible to do without deaths?}
-{323}{}{Are you asking me to KILL him?}
-{324}{}{(sigh) Will any of the ghouls raise their hand against their fellow? I don't think so. Many ghouls will condemn it. But there is no cure for insanity either. We can only do one thing — avoid unnecessary sacrifices.}
-{325}{}{You just have to chop off his head — that's it.}
-{326}{}{I've seen this before in Inferno. Only death will stop such madness.}
-{327}{}{You can't just take the lives of others! If it is impossible otherwise, then we will have to send Gonzo to his forefathers. But remember that Gonzo is our brother. The ghouls lived with him for many years in the Necropolis. Show some compassion.}
-{328}{}{Is it possible to restore his sanity for a while?}
-{329}{}{In some cases, medications help, in others, triggers from the past. And maybe nothing will help. But any solutions are temporary.}
-{330}{}{I'll figure something out.}
-{331}{}{God help you.}
-{332}{}{I'll be back.}
-{333}{}{I have a couple more questions.}
-{334}{}{Even if you can't handle your own brother, I certainly can't. Sorry.}
-{335}{}{I understand. In that case, just avoid Gonzo if you meet him in the ruins.}
-{336}{}{Remind me where to find Gonzo?}
-{337}{}{He was last seen in the old shopping district on the ruins of Chula Vista. This area is located to the north.}
-{338}{}{Clear.}
-{339}{}{}
-{340}{}{Gonzo is dead. He left me no choice!}
-{341}{}{Well, now his soul will calm down. (sigh) Good. I don't hold a grudge against you. I'm only angry at myself for not being able to help the distraught. Obviously, all ghouls will end up with this sooner or later. There is no cure for insanity.}
-{342}{}{Don't blame yourself. Life goes on after all.}
-{343}{}{He was a danger to society. You know it yourself.}
-{344}{}{Thank you for your kind words.}
-{345}{}{Let's change the subject.}
-{346}{}{Gonzo's not dangerous now, right?}
-{347}{}{Thank you. Gonzo the madman is securely sealed behind bars. Obviously, all ghouls will end up with this sooner or later. There is no cure for insanity. It remains only to lock up Gonzo to avoid unnecessary casualties. If you need soul and body treatment, I will also try to help.}
-{348}{}{Just don't lock me up behind bars!}
-{349}{}{I'll keep that in mind.}
+### {320}{}{Is there anything I can do to help your people?}
+{320}{}{ÎÒÄÜ×öĞ©Ê²Ã´À´°ïÖúÄãÃÇµÄÈËÃñÂğ£¿}
+### {321}{}{Our souls need salvation, and we are coping with the rest. Recently I was informed about another victim of insanity: Our friend Gonzo went berserk and fled to the ruins of Chula Vista. In this state, he is dangerous. He needs to be stopped.}
+{321}{}{ÎÒÃÇµÄÁé»êĞèÒª¾ÈÊê£¬ÎÒÃÇÕıÔÚÓ¦¶ÔÆäËûµÄ¡£×î½ü£¬ÎÒ±»¸æÖªÁíÒ»¸ö¾«Éñ´íÂÒµÄÊÜº¦Õß£ºÎÒÃÇµÄÅóÓÑGonzo·¢·èÁË£¬ÌÓµ½ÁËChula VistaµÄ·ÏĞæÖĞ¡£ÔÚÕâÖÖ×´Ì¬ÏÂ£¬ËûºÜÎ£ÏÕ¡£ËûĞèÒª±»×èÖ¹¡£}
+### {322}{}{Is it possible to do without deaths?}
+{322}{}{ÓĞ¿ÉÄÜÃ»ÓĞËÀÍöÂğ£¿}
+### {323}{}{Are you asking me to KILL him?}
+{323}{}{ÄãÊÇÒªÎÒÉ±ÁËËûÂğ£¿}
+### {324}{}{(sigh) Will any of the ghouls raise their hand against their fellow? I don't think so. Many ghouls will condemn it. But there is no cure for insanity either. We can only do one thing ? avoid unnecessary sacrifices.}
+{324}{}{£¨Ì¾Æø£©»áÓĞÊ³Ê¬¹í¾ÙÊÖ¹¥»÷ËûÃÇµÄÍ¬°éÂğ£¿ÎÒ²»ÕâÃ´ÈÏÎª¡£Ğí¶àÊ³Ê¬¹í»áÇ´ÔğËü¡£µ«Ò²Ã»ÓĞÖÎÓú¾«Éñ´íÂÒµÄ·½·¨¡£ÎÒÃÇÖ»ÄÜ×öÒ»¼şÊÂ? ±ÜÃâ²»±ØÒªµÄÎşÉü¡£}
+### {325}{}{You just have to chop off his head ? that's it.}
+{325}{}{ÄãÖ»ĞèÒª¿³ÏÂËûµÄÍ·? ¾ÍÊÇÕâÑù¡£}
+### {326}{}{I've seen this before in Inferno. Only death will stop such madness.}
+{326}{}{ÎÒÒÔÇ°ÔÚµØÓü¿´¹ıÕâ¸ö¡£Ö»ÓĞËÀÍö²ÅÄÜ×èÖ¹ÕâÖÖ·è¿ñ¡£}
+### {327}{}{You can't just take the lives of others! If it is impossible otherwise, then we will have to send Gonzo to his forefathers. But remember that Gonzo is our brother. The ghouls lived with him for many years in the Necropolis. Show some compassion.}
+{327}{}{Äã²»ÄÜÖ»¶á×ß±ğÈËµÄÉúÃü£¡Èç¹û²»¿ÉÄÜµÄ»°£¬ÄÇÃ´ÎÒÃÇ½«²»µÃ²»°Ñ¹±×ôËÍµ½ËûµÄ×æÏÈÄÇÀï¡£µ«Çë¼Ç×¡£¬¹±×ôÊÇÎÒÃÇµÄĞÖµÜ¡£Ê³Ê¬¹íºÍËûÒ»ÆğÔÚÄ¹µØÉú»îÁËºÜ¶àÄê¡£±íÏÖ³öÒ»Ğ©Í¬ÇéĞÄ¡£}
+### {328}{}{Is it possible to restore his sanity for a while?}
+{328}{}{ÓĞ¿ÉÄÜÔÚÒ»¶ÎÊ±¼äÄÚ»Ö¸´ËûµÄÀíÖÇÂğ£¿}
+### {329}{}{In some cases, medications help, in others, triggers from the past. And maybe nothing will help. But any solutions are temporary.}
+{329}{}{ÔÚÄ³Ğ©Çé¿öÏÂ£¬Ò©ÎïÓĞÖúÓÚ´¥·¢¹ıÈ¥µÄÒòËØ¡£Ò²ĞíÊ²Ã´¶¼ÎŞ¼ÃÓÚÊÂ¡£µ«ÈÎºÎ½â¾ö·½°¸¶¼ÊÇÔİÊ±µÄ¡£}
+### {330}{}{I'll figure something out.}
+{330}{}{ÎÒ»áÏë°ì·¨µÄ¡£}
+### {331}{}{God help you.}
+{331}{}{ÉÏµÛ±£ÓÓÄã¡£}
+### {332}{}{I'll be back.}
+{332}{}{ÎÒ»á»ØÀ´µÄ¡£}
+### {333}{}{I have a couple more questions.}
+{333}{}{ÎÒ»¹ÓĞ¼¸¸öÎÊÌâ¡£}
+### {334}{}{Even if you can't handle your own brother, I certainly can't. Sorry.}
+{334}{}{¼´Ê¹Äã²»ÄÜ´¦ÀíÄã×Ô¼ºµÄĞÖµÜ£¬ÎÒµ±È»²»ÄÜ¡£ºÜ±§Ç¸}
+### {335}{}{I understand. In that case, just avoid Gonzo if you meet him in the ruins.}
+{335}{}{ÎÒÀí½â¡£ÔÚÕâÖÖÇé¿öÏÂ£¬Èç¹ûÄãÔÚ·ÏĞæÖĞÓöµ½¹±×ô£¬¾Í±Ü¿ªËû¡£}
+### {336}{}{Remind me where to find Gonzo?}
+{336}{}{ÌáĞÑÎÒÔÚÄÄÀï¿ÉÒÔÕÒµ½Gonzo£¿}
+### {337}{}{He was last seen in the old shopping district on the ruins of Chula Vista. This area is located to the north.}
+{337}{}{Ëû×îºóÒ»´ÎÂ¶ÃæÊÇÔÚChula Vista·ÏĞæÉÏµÄ¾É¹ºÎïÇø¡£Õâ¸öµØÇøÎ»ÓÚ±±±ß¡£}
+### {338}{}{Clear.}
+{338}{}{Çå³şµÄ}
+### {339}{}{}
+{339}{}{error : string is empty}
+### {340}{}{Gonzo is dead. He left me no choice!}
+{340}{}{¹±×ôËÀÁË¡£ËûÈÃÎÒ±ğÎŞÑ¡Ôñ£¡}
+### {341}{}{Well, now his soul will calm down. (sigh) Good. I don't hold a grudge against you. I'm only angry at myself for not being able to help the distraught. Obviously, all ghouls will end up with this sooner or later. There is no cure for insanity.}
+{341}{}{ºÃ°É£¬ÏÖÔÚËûµÄÁé»ê»áÆ½¾²ÏÂÀ´¡££¨Ì¾Æø£©ºÜºÃ¡£ÎÒ¶ÔÄãÃ»ÓĞÔ¹ºŞ¡£ÎÒÖ»ÊÇÎª×Ô¼ºÃ»ÄÜ°ïÖúÄÇĞ©ĞÄ·³ÒâÂÒµÄÈË¶øÉúÆø¡£ÏÔÈ»£¬ËùÓĞµÄÊ³Ê¬¹í³ÙÔç¶¼»áÓĞÕâÑùµÄÏÂ³¡¡£¾«Éñ´íÂÒÊÇÎŞ·¨ÖÎÓúµÄ¡£}
+### {342}{}{Don't blame yourself. Life goes on after all.}
+{342}{}{²»ÒªÔğ¹Ö×Ô¼º¡£Éú»îÖÕ¾¿»¹ÔÚ¼ÌĞø¡£}
+### {343}{}{He was a danger to society. You know it yourself.}
+{343}{}{Ëû¶ÔÉç»á¹¹³ÉÍşĞ²¡£Äã×Ô¼ºÒ²ÖªµÀ¡£}
+### {344}{}{Thank you for your kind words.}
+{344}{}{Ğ»Ğ»ÄãµÄ¿ÍÆø»°¡£}
+### {345}{}{Let's change the subject.}
+{345}{}{ÈÃÎÒÃÇ»»¸ö»°Ìâ¡£}
+### {346}{}{Gonzo's not dangerous now, right?}
+{346}{}{GonzoÏÖÔÚ²»Î£ÏÕÁË£¬¶Ô°É£¿}
+### {347}{}{Thank you. Gonzo the madman is securely sealed behind bars. Obviously, all ghouls will end up with this sooner or later. There is no cure for insanity. It remains only to lock up Gonzo to avoid unnecessary casualties. If you need soul and body treatment, I will also try to help.}
+{347}{}{·Ç³£¸ĞĞ»¡£·è×Ó¹±×ô±»ÀÎÀÎµØ¹ØÔÚ¼àÓüÀï¡£ÏÔÈ»£¬ËùÓĞµÄÊ³Ê¬¹í³ÙÔç¶¼»áÓĞÕâÑùµÄÏÂ³¡¡£¾«Éñ´íÂÒÊÇÎŞ·¨ÖÎÓúµÄ¡£ËüÈÔÈ»Ö»ÊÇÎªÁË°Ñ¹±×ô¹ØÆğÀ´ÒÔ±ÜÃâ²»±ØÒªµÄÉËÍö¡£Èç¹ûÄãĞèÒªÁé»êºÍÉíÌåÖÎÁÆ£¬ÎÒÒ²»á¾¡Á¦°ïÖúÄã¡£}
+### {348}{}{Just don't lock me up behind bars!}
+{348}{}{±ğ°ÑÎÒ¹ØÔÚ¼àÓüÀï£¡}
+### {349}{}{I'll keep that in mind.}
+{349}{}{ÎÒ»á¼Ç×¡µÄ¡£}
 
 #Treatment
-{350}{}{Do you cure diseases?}
-{351}{}{My followers taught me the simplest medical procedures. But the drugs here are very expensive and rare. What's hurting you?}
-{352}{}{I need treatment.}
-{353}{}{Nothing. Just wondering.}
-{354}{}{ caps]}
-{355}{}{[Treatment of wounds for }
-{356}{}{[Treatment of serious injuries for }
-{357}{}{[Treatment of radiation sickness for }
-{358}{}{[Treatment of poisoning for }
-{359}{}{You're fine.}
-{360}{}{Thank you.}
-{361}{}{[Heap Treatment for }
-{362}{}{He's fine.}
+### {350}{}{Do you cure diseases?}
+{350}{}{ÄãÄÜÖÎ²¡Âğ£¿}
+### {351}{}{My followers taught me the simplest medical procedures. But the drugs here are very expensive and rare. What's hurting you?}
+{351}{}{ÎÒµÄ×·ËæÕß½ÌÎÒ×î¼òµ¥µÄÒ½ÁÆ³ÌĞò¡£µ«ÊÇÕâÀïµÄÒ©Îï·Ç³£°º¹ó¶øÇÒÏ¡ÓĞ¡£Ê²Ã´ÉËÁËÄã£¿}
+### {352}{}{I need treatment.}
+{352}{}{ÎÒĞèÒªÖÎÁÆ¡£}
+### {353}{}{Nothing. Just wondering.}
+{353}{}{Ã»ÓĞÊ²Ã´Ö»ÊÇÏëÖªµÀ¡£}
+### {354}{}{ caps]}
+{354}{}{´óĞ´]}
+### {355}{}{[Treatment of wounds for }
+{355}{}{[ÖÎÁÆ}
+### {356}{}{[Treatment of serious injuries for }
+{356}{}{[ÑÏÖØÊÜÉËµÄÖÎÁÆ}
+### {357}{}{[Treatment of radiation sickness for }
+{357}{}{[·øÉä²¡µÄÖÎÁÆ}
+### {358}{}{[Treatment of poisoning for }
+{358}{}{[ÖĞ¶¾µÄÖÎÁÆ}
+### {359}{}{You're fine.}
+{359}{}{ÄãºÜºÃ¡£}
+### {360}{}{Thank you.}
+{360}{}{·Ç³£¸ĞĞ»¡£}
+### {361}{}{[Heap Treatment for }
+{361}{}{[¶Ñ´¦Àí}
+### {362}{}{He's fine.}
+{362}{}{ËûºÜºÃ¡£}
 
 #Donovan
-{380}{}{It's a strange situation here, Doc. This is Donovan. And he's dead.}
-{381}{}{Really?}
-{382}{}{But his friends can't believe it. What should I do now?}
-{383}{}{Dead, you say? Donovan? Come on, of course he's alive!}
-{384}{}{And you're there too? Are you all gone here?}
-{385}{}{Here, look. He's not breathing. And he doesn't have half of his body. He's dead.}
-{386}{}{Give it to me. I'll take care of him next. That's just...}
-{387}{}{Just what?}
-{388}{}{I'm afraid I won't be able to help him without some items. Do you know where the hospital is? I need to get three jars of biogel out of there.}
-{389}{}{Yes, you really have gone. I'm going to go about my business.}
-{390}{}{Well, you know better. I'll try to get the parts and the biogel.}
-{391}{}{I have what I need.}
-{392}{}{Excellent! Well, let's not waste time — let's start the operation.}
-{393}{}{Uh, okay...}
-{394}{}{(The operation lasts several hours behind closed doors. You're waiting outside. Finally Talius comes out and says loudly: "Donovan will live!")}
-{395}{}{Wow, Talius, you're doing wonders!}
-{396}{}{Yeah. That's how I believed it. Well, well. Bye, charlatan Talius.}
-{397}{}{About Donovan.}
+### {380}{}{It's a strange situation here, Doc. This is Donovan. And he's dead.}
+{380}{}{ÕâÀïµÄÇé¿öºÜÆæ¹Ö£¬Ò½Éú¡£ÕâÊÇ¶àÅµÍò¡£ËûËÀÁË¡£}
+### {381}{}{Really?}
+{381}{}{ÕæÕıµØ}
+### {382}{}{But his friends can't believe it. What should I do now?}
+{382}{}{µ«ÊÇËûµÄÅóÓÑÃÇ²»¸ÒÏàĞÅ¡£ÎÒÏÖÔÚ¸ÃÔõÃ´°ì£¿}
+### {383}{}{Dead, you say? Donovan? Come on, of course he's alive!}
+{383}{}{ÄãËµËÀÁË£¿¶àÅµÍò£¿À´°É£¬Ëûµ±È»»¹»î×Å£¡}
+### {384}{}{And you're there too? Are you all gone here?}
+{384}{}{ÄãÒ²ÔÚÄÇÀï£¿ÄãÃÇ¶¼×ßÁËÂğ£¿}
+### {385}{}{Here, look. He's not breathing. And he doesn't have half of his body. He's dead.}
+{385}{}{¸ø£¬¿´¡£ËûÃ»ÓĞºôÎü¡£¶øÇÒËûÃ»ÓĞ°ë¸öÉíÌå¡£ËûËÀÁË¡£}
+### {386}{}{Give it to me. I'll take care of him next. That's just...}
+{386}{}{°ÑËü¸øÎÒ¡£ÎÒÏÂÒ»²½»áÕÕ¹ËËûµÄ¡£ÄÇÖ»ÊÇ¡£¡£¡£}
+### {387}{}{Just what?}
+{387}{}{Ö»ÊÇÊ²Ã´£¿}
+### {388}{}{I'm afraid I won't be able to help him without some items. Do you know where the hospital is? I need to get three jars of biogel out of there.}
+{388}{}{Èç¹ûÃ»ÓĞÒ»Ğ©ÎïÆ·£¬ÎÒ¿ÖÅÂ°ï²»ÁËËû¡£ÄãÖªµÀÒ½ÔºÔÚÄÄÀïÂğ£¿ÎÒĞèÒªÄÃ³öÈı¹ŞÉúÎïÄı½º¡£}
+### {389}{}{Yes, you really have gone. I'm going to go about my business.}
+{389}{}{ÊÇµÄ£¬ÄãÕæµÄ×ßÁË¡£ÎÒÒªÈ¥×öÎÒµÄÊÂ¡£}
+### {390}{}{Well, you know better. I'll try to get the parts and the biogel.}
+{390}{}{ºÃ°É£¬Äã¸üÇå³ş¡£ÎÒ»áÊÔ×ÅÄÃµ½Áã¼şºÍÉúÎïÄı½º¡£}
+### {391}{}{I have what I need.}
+{391}{}{ÎÒÓĞÎÒĞèÒªµÄ¡£}
+### {392}{}{Excellent! Well, let's not waste time ? let's start the operation.}
+{392}{}{½Ü³öµÄºÃ°É£¬ÎÒÃÇ²»ÒªÀË·ÑÊ±¼ä? ÈÃÎÒÃÇ¿ªÊ¼ĞĞ¶¯°É¡£}
+### {393}{}{Uh, okay...}
+{393}{}{ºÃ°É¡£¡£¡£}
+### {394}{}{(The operation lasts several hours behind closed doors. You're waiting outside. Finally Talius comes out and says loudly: "Donovan will live!")}
+{394}{}{£¨ÊÖÊõ¹ØÆğÃÅÀ´³ÖĞøÁË¼¸¸öĞ¡Ê±¡£ÄãÔÚÍâÃæµÈ×Å¡£×îºóËşÀïÎÚË¹³öÀ´´óÉùËµ£º¡°¶àÅµÍò»á»îÏÂÀ´µÄ£¡¡±£©}
+### {395}{}{Wow, Talius, you're doing wonders!}
+{395}{}{ÍÛ£¬ËşÀïÎÚË¹£¬ÄãÕæÊÇÌ«ÉñÆæÁË£¡}
+### {396}{}{Yeah. That's how I believed it. Well, well. Bye, charlatan Talius.}
+{396}{}{ÊÇ °¡ÎÒ¾ÍÊÇÕâÃ´ÏàĞÅµÄ¡£ÔÙ¼û£¬½­ºşÆ­×ÓËşÀïË¹¡£}
+### {397}{}{About Donovan.}
+{397}{}{¹ØÓÚ¶àÅµÍò¡£}

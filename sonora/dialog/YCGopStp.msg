@@ -1,54 +1,106 @@
-{100}{}{You see a ghoul.}
-{101}{}{Here is a nasty-looking ghoul with one eye. His teeth froze in an eternal grin.}
-{102}{}{Hello stranger.}
-{1102}{}{Hello, stranger.}
-{103}{}{Come closer, don't be afraid. I just want to "touch" your soft smooth skin...}
-{104}{}{Run, normie, run! If I catch it, I'll cook it for dinner.}
-{105}{}{There's really nothing special here. Enjoy the afterlife.}
+### {100}{}{You see a ghoul.}
+{100}{}{Äã¿´µ½Ò»¸öÊ³Ê¬¹í¡£}
+### {101}{}{Here is a nasty-looking ghoul with one eye. His teeth froze in an eternal grin.}
+{101}{}{ÕâÊÇÒ»Ö»ÑÛ¾¦³¤µÃºÜÄÑ¿´µÄÊ³Ê¬¹í¡£ËûµÄÑÀ³İ¶³×¡ÁË£¬ßÖ×ìÒ»Ğ¦¡£}
+### {102}{}{Hello stranger.}
+{102}{}{ÄãºÃ£¬Ä°ÉúÈË¡£}
+### {1102}{}{Hello, stranger.}
+{1102}{}{ÄãºÃ£¬Ä°ÉúÈË¡£}
+### {103}{}{Come closer, don't be afraid. I just want to "touch" your soft smooth skin...}
+{103}{}{×ß½üÒ»µã£¬²»Òªº¦ÅÂ¡£ÎÒÖ»Ïë¡°´¥Ãş¡±ÄãÈáÈí¹â»¬µÄÆ¤·ô¡£¡£¡£}
+### {104}{}{Run, normie, run! If I catch it, I'll cook it for dinner.}
+{104}{}{¿ìÅÜ£¬ÅµÃ×£¬¿ìÅÜ£¡Èç¹ûÎÒ×¥µ½Ëü£¬ÎÒ»á°ÑËü×öÍí·¹¡£}
+### {105}{}{There's really nothing special here. Enjoy the afterlife.}
+{105}{}{ÕâÀïÕæµÄÃ»ÓĞÊ²Ã´ÌØ±ğµÄ¡£ÏíÊÜÀ´Éú¡£}
 
-{200}{}{Hey, you cheeky face. Come here. Are there caps?}
-{201}{}{There are.}
-{202}{}{Give me 10 caps. And hurry up.}
-{203}{}{Okay, here are 10 caps. All for you guys.}
-{204}{}{Watch your tongue. We're not playing games here. And now — disappear.}
-{205}{}{As you say...}
-{206}{}{Here are 10 caps.}
-{207}{}{Good boy... I see you're also rich. Let's have 10 more caps.}
-{208}{}{Here are 10 more caps. Are you satisfied now?}
-{209}{}{That's all there is. Are you happy now?}
-{210}{}{Quite. I love simpletons like you. Even though I don't get that drive anymore, like in the old days. But why am I talking to you? Disappear.}
-{211}{}{Go to hell.}
-{212}{}{Don't forget, you're nobody in this town. Better disappear.}
-{213}{}{With great pleasure.}
-{214}{}{Okay, that's all there is, but there are less than 10 pieces here.}
-{215}{}{Will go. Now get out of here while I'm being nice.}
-{216}{}{No.}
-{217}{}{I do not believe. Show me what's in your backpack.}
-{218}{}{Here, look.}
-{219}{}{I thought so. Only lies can be heard from smooth-faced people. As a punishment for cheating, I'm taking ALL your caps. Now disappear.}
-{220}{}{Whatever you say...}
-{221}{}{Get my cap back, you bastard!}
-{222}{}{Here, look.}
-{223}{}{Ugh! You're of no use. Get off my street.}
-{224}{}{With great pleasure.}
-{225}{}{Just touch my things and you will be left without the last fingers.}
-{226}{}{[Run as fast as you can from a beggar]}
-{227}{}{[Pass by]}
-{228}{}{Stop! I'm talking to you, fucking normie.}
-{229}{}{[Ignore]}
-{230}{}{What do you want?}
-{231}{}{Okay, I have the caps. How much do you need?}
-{232}{}{But I don't have caps.}
-{233}{}{Go to hell.}
-{234}{}{Why would I give you caps?}
-{235}{}{This is the price for having to put up with your nasty smooth face in my beautiful city. Give me the caps, now.}
+### {200}{}{Hey, you cheeky face. Come here. Are there caps?}
+{200}{}{ºÙ£¬ÄãÕâÕÅºñÁ³Æ¤µÄÁ³¡£¹ıÀ´¡£ÓĞÃ±×ÓÂğ£¿}
+### {201}{}{There are.}
+{201}{}{ÓĞ¡£}
+### {202}{}{Give me 10 caps. And hurry up.}
+{202}{}{¸øÎÒ10¶¥Ã±×Ó¡£¿ìµã¡£}
+### {203}{}{Okay, here are 10 caps. All for you guys.}
+{203}{}{ºÃµÄ£¬ÕâÊÇ10¶¥Ã±×Ó¡£¶¼ÊÇÎªÁËÄãÃÇ¡£}
+### {204}{}{Watch your tongue. We're not playing games here. And now ? disappear.}
+{204}{}{Ğ¡ĞÄÄãµÄÉàÍ·¡£ÎÒÃÇ²»ÊÇÔÚÕâÀïÍæÓÎÏ·¡£ÏÖÔÚ? ÏûÊ§}
+### {205}{}{As you say...}
+{205}{}{ÕıÈçÄãËùËµ¡£¡£¡£}
+### {206}{}{Here are 10 caps.}
+{206}{}{ÕâÀïÓĞ10¶¥Ã±×Ó¡£}
+### {207}{}{Good boy... I see you're also rich. Let's have 10 more caps.}
+{207}{}{ºÃº¢×Ó¡£¡£¡£ÎÒ¿´ÄãÒ²ºÜÓĞÇ®¡£ÈÃÎÒÃÇÔÙÀ´10¶¥Ã±×Ó¡£}
+### {208}{}{Here are 10 more caps. Are you satisfied now?}
+{208}{}{ÕâÀï»¹ÓĞ10¶¥Ã±×Ó¡£ÄãÏÖÔÚÂúÒâÁËÂğ£¿}
+### {209}{}{That's all there is. Are you happy now?}
+{209}{}{¾ÍÕâĞ©¡£ÄãÏÖÔÚ¿ªĞÄÂğ£¿}
+### {210}{}{Quite. I love simpletons like you. Even though I don't get that drive anymore, like in the old days. But why am I talking to you? Disappear.}
+{210}{}{Ïàµ±µØÎÒÏ²»¶ÄãÕâÑùµÄÉµ¹Ï¡£¾¡¹ÜÎÒ²»ÔÙÏñÒÔÇ°ÄÇÑù¿ª³µÁË¡£µ«ÎÒÎªÊ²Ã´ÒªºÍÄãËµ»°£¿ÏûÊ§}
+### {211}{}{Go to hell.}
+{211}{}{¼û¹íÈ¥°É¡£}
+### {212}{}{Don't forget, you're nobody in this town. Better disappear.}
+{212}{}{±ğÍüÁË£¬ÄãÔÚÕâ¸öÕòÉÏÊÇÎŞÃûĞ¡×ä¡£×îºÃÏûÊ§¡£}
+### {213}{}{With great pleasure.}
+{213}{}{·Ç³£¸ßĞË¡£}
+### {214}{}{Okay, that's all there is, but there are less than 10 pieces here.}
+{214}{}{ºÃ°É£¬¾ÍÕâĞ©ÁË£¬µ«ÕâÀïÖ»ÓĞ²»µ½10¿é¡£}
+### {215}{}{Will go. Now get out of here while I'm being nice.}
+{215}{}{»á×ßµÄ¡£ÏÖÔÚ£¬³ÃÎÒ±íÏÖµÃºÃ£¬¸Ï½ôÀë¿ªÕâÀï¡£}
+### {216}{}{No.}
+{216}{}{²»}
+### {217}{}{I do not believe. Show me what's in your backpack.}
+{217}{}{ÎÒ²»ÏàĞÅ¡£ÈÃÎÒ¿´¿´Äã±³°üÀïÓĞÊ²Ã´¡£}
+### {218}{}{Here, look.}
+{218}{}{¸ø£¬¿´¡£}
+### {219}{}{I thought so. Only lies can be heard from smooth-faced people. As a punishment for cheating, I'm taking ALL your caps. Now disappear.}
+{219}{}{ÎÒÏëÊÇµÄ¡£Ö»ÓĞ»ÑÑÔ²ÅÄÜ´Ó±íÃæ¹â»¬µÄÈËÄÇÀïÌıµ½¡£×÷Îª¶Ô×÷±×µÄ³Í·££¬ÎÒÒªÄÃ×ßÄãËùÓĞµÄÃ±×Ó¡£ÏÖÔÚÏûÊ§¡£}
+### {220}{}{Whatever you say...}
+{220}{}{²»¹ÜÄãËµÊ²Ã´¡£¡£¡£}
+### {221}{}{Get my cap back, you bastard!}
+{221}{}{°ÑÎÒµÄÃ±×ÓÄÃ»ØÀ´£¬ÄãÕâ¸ö»ìµ°£¡}
+### {222}{}{Here, look.}
+{222}{}{¸ø£¬¿´¡£}
+### {223}{}{Ugh! You're of no use. Get off my street.}
+{223}{}{°¡£¡ÄãÃ»ÓĞÓÃ¡£Àë¿ªÎÒµÄ½ÖµÀ¡£}
+### {224}{}{With great pleasure.}
+{224}{}{·Ç³£¸ßĞË¡£}
+### {225}{}{Just touch my things and you will be left without the last fingers.}
+{225}{}{Ö»ÒªÅöÎÒµÄ¶«Î÷£¬Äã¾Í»áÊ§È¥×îºóµÄÊÖÖ¸¡£}
+### {226}{}{[Run as fast as you can from a beggar]}
+{226}{}{[´ÓÆòØ¤ÄÇÀïÅÜµÃ×î¿ì]}
+### {227}{}{[Pass by]}
+{227}{}{[Â·¹ı]}
+### {228}{}{Stop! I'm talking to you, fucking normie.}
+{228}{}{Í£Ö¹ÎÒÔÚºÍÄãËµ»°£¬¸ÃËÀµÄÅµÃ×¡£}
+### {229}{}{[Ignore]}
+{229}{}{[ºöÊÓ]}
+### {230}{}{What do you want?}
+{230}{}{ÄãÏëÒªÊ²Ã´£¿}
+### {231}{}{Okay, I have the caps. How much do you need?}
+{231}{}{ºÃµÄ£¬ÎÒÓĞÃ±×Ó¡£ÄãĞèÒª¶àÉÙÇ®£¿}
+### {232}{}{But I don't have caps.}
+{232}{}{µ«ÎÒÃ»ÓĞÃ±×Ó¡£}
+### {233}{}{Go to hell.}
+{233}{}{¼û¹íÈ¥°É¡£}
+### {234}{}{Why would I give you caps?}
+{234}{}{ÎÒÎªÊ²Ã´Òª¸øÄãÃ±×Ó£¿}
+### {235}{}{This is the price for having to put up with your nasty smooth face in my beautiful city. Give me the caps, now.}
+{235}{}{Õâ¾ÍÊÇÔÚÎÒÃÀÀöµÄ³ÇÊĞÀï²»µÃ²»ÈÌÊÜÄãÄÇÕÅÌÖÑáµÄ¹â»¬Á³µÄ´ú¼Û¡£ÏÖÔÚ°ÑÃ±×Ó¸øÎÒ¡£}
 
-{250}{}{Senor, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
-{1250}{}{Senora, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
-{251}{}{Okay, here are 10 caps.}
-{252}{}{Sorry, amigo, I'm broke. Maybe another time.}
-{253}{}{Mucho gracia... Oh, yes, there's the monorail, and there's the Mexican border. There is another Gulsky camp in the north. That is all. Be...}
-{254}{}{You didn't tell a damn thing, you fucking bred!}
-{255}{}{It was... educational tour. Thank you.}
-{256}{}{Hi there.}
-{257}{}{Bye.}
+### {250}{}{Senor, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
+{250}{}{×ğ¾´µÄ¸óÏÂ£¡µÚÒ»´ÎÔÚÕâ¸ö³ÇÊĞ£¿ÎÒ»á´øÄã²Î¹ÛËùÓĞµÄ¾°µã¡£Ö»Ğè10¶¥Ã±×Ó¡£}
+### {1250}{}{Senora, my respects! For the first time in the city? I would show you all the sights. For just 10 caps.}
+{1250}{}{·òÈË£¬ÎÒµÄ¾´Òâ£¡µÚÒ»´ÎÔÚÕâ¸ö³ÇÊĞ£¿ÎÒ»á´øÄã²Î¹ÛËùÓĞµÄ¾°µã¡£Ö»Ğè10¶¥Ã±×Ó¡£}
+### {251}{}{Okay, here are 10 caps.}
+{251}{}{ºÃµÄ£¬ÕâÊÇ10¶¥Ã±×Ó¡£}
+### {252}{}{Sorry, amigo, I'm broke. Maybe another time.}
+{252}{}{¶Ô²»Æğ£¬ÅóÓÑ£¬ÎÒÃ»Ç®ÁË¡£Ò²Ğí¸ÄÌì°É¡£}
+### {253}{}{Mucho gracia... Oh, yes, there's the monorail, and there's the Mexican border. There is another Gulsky camp in the north. That is all. Be...}
+{253}{}{Mucho gracia¡£¡£¡£Å¶£¬ÊÇµÄ£¬ÓĞµ¥¹ìµç³µ£¬»¹ÓĞÄ«Î÷¸ç±ß¾³¡£±±·½»¹ÓĞÁíÒ»¸ö¹Å¶ûË¹»ùÓªµØ¡£½ö´Ë¶øÒÑ¡£ÊÇ}
+### {254}{}{You didn't tell a damn thing, you fucking bred!}
+{254}{}{ÄãÊ²Ã´¶¼Ã»Ëµ£¬ÄãÕâ¸ö»ìµ°£¡}
+### {255}{}{It was... educational tour. Thank you.}
+{255}{}{ÄÇÊÇ¡£¡£¡£½ÌÓıÖ®ÂÃ¡£·Ç³£¸ĞĞ»¡£}
+### {256}{}{Hi there.}
+{256}{}{ÄãºÃ¡£}
+### {257}{}{Bye.}
+{257}{}{ÔÙ¼û}

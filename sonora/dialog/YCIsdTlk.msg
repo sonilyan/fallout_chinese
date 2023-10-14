@@ -1,46 +1,90 @@
-{100}{}{You see a guardian ghoul.}
-{101}{}{Here is a ghoul dressed in combat armor.}
-{102}{}{We do not tolerate competitors. Get out of here!}
-{103}{}{If you were actually a patrol officer, you wouldn't have the power here.}
-{104}{}{Were you allowed to be here?}
-{105}{}{Big changes are waiting for us.}
+### {100}{}{You see a guardian ghoul.}
+{100}{}{Äã¿´µ½Ò»¸öÊØ»¤Ê³Ê¬¹í¡£}
+### {101}{}{Here is a ghoul dressed in combat armor.}
+{101}{}{ÕâÊÇÒ»¸ö´©×ÅÕ½¶·¿ø¼×µÄÊ³Ê¬¹í¡£}
+### {102}{}{We do not tolerate competitors. Get out of here!}
+{102}{}{ÎÒÃÇ²»ÈİÈÌ¾ºÕù¶ÔÊÖ¡£¹ö³öÈ¥£¡}
+### {103}{}{If you were actually a patrol officer, you wouldn't have the power here.}
+{103}{}{Èç¹ûÄãÕæµÄÊÇÒ»ÃûÑ²Âß¹Ù£¬ÄãÔÚÕâÀï¾ÍÃ»ÓĞÈ¨Á¦ÁË¡£}
+### {104}{}{Were you allowed to be here?}
+{104}{}{Äã±»ÔÊĞíÔÚÕâÀïÂğ£¿}
+### {105}{}{Big changes are waiting for us.}
+{105}{}{¾Ş´óµÄ±ä»¯ÕıÔÚµÈ×ÅÎÒÃÇ¡£}
 
-{200}{}{Let's decide right away, an eccentric person, smooth people are not welcome here. But if you behave yourself, they won't touch you. Is that clear? Good. Come on, tell me what you need?}
-{201}{}{Welcome, brother. Were you well received in San Ysidro? Do you need anything?}
-{1201}{}{Welcome, Sister. Were you well received in San Ysidro? Do you need anything?}
-{202}{}{I just want to ask a few questions about the Dayglow.}
-{203}{}{What do you need?}
-{204}{}{Nothing. Bye.}
-{205}{}{Ask.}
-{206}{}{It's time for me to go. Thank you for your time.}
-{207}{}{I see. I'll ask you something else, okay?}
-{208}{}{}
-{209}{}{}
-{210}{}{Tell me about yourself?}
-{211}{}{Retired Sergeant Robert Newsom. Before the war, I kept order on the streets of Bakersfield, and now I keep order in the Glare of the Day. I love my job. And I will not allow anyone to bully in my domain.}
-{212}{}{What do you think of Gustavo?}
-{213}{}{He's a great fit for the role of mayor. And the ghouls respect him. At least not here in San Ysidro. Although not everyone in the Old City is as reasonable.}
-{214}{}{And who runs the Old City?}
-{215}{}{John Butler. Ex-military. Therefore, his head is full of bedlam. He gathered around him not only ghouls, but also super mutants and normies. Everyone needs something from him.}
-{216}{}{And in what relationship are Gustavo and Butler?}
-{217}{}{They've had a lot of disagreements lately. But I'm sure it won't break their friendship.}
-{218}{}{}
-{219}{}{}
-{220}{}{Tell us about the area around.}
-{221}{}{San Isidro and the Old Town are the main Gulian settlements. Radioactive ruins and burnt-out parks are spread out between them. Black scavengers and monsters are often found in them.}
-{222}{}{[Next]}
-{223}{}{Most of the nuclear strikes hit a military base and an industrial zone. Downtown San Diego has been hit hard, too. Devastation, high radiation, skeletons — that's what you'll find in the ruins. And there are military robots everywhere. They scattered after the sirens turned on at the military base.}
-{224}{}{Tell me how to get to Chula Vista?}
-{225}{}{You need to cross the valley of the Auteuil River. There is only one surviving bridge, but it is captured by robots and mined. So we go to the county or straight through the valley. But there are many terrible creatures in the valley.}
-{226}{}{Tell me how to get to the Bonita Dam?}
-{227}{}{Follow Federal Highway 805 to the signpost. And then turn right.}
-{228}{}{Tell me how to get to the Old Town?}
-{229}{}{It will be very difficult to get there straight through the ruins. The easiest way is to get on Route 805 and go to Balboa Park. Beware of monsters in the park. Go left to the Little Italy area. And then — to the north.}
-{230}{}{What is your relationship with black scavengers?}
-{231}{}{They are mostly bandits. They collect fragments of the Old World, often without even understanding what they are needed for. And then they sell it to caravans. Thereby leaving the ghouls mere crumbs. Gustavo is trying to drive them away from our ruins, and Butler wants to tame them by giving Seth's Seal to the most obedient.}
-{232}{}{What is your relationship with super mutants?}
-{233}{}{Super mutants? The army of the Creator was divided into many fragments and scattered through the ruins. There are many such groups in the vicinity. Some of them are aggressive, some cooperate with us, the rest are on their own. Lost lost souls.}
+### {200}{}{Let's decide right away, an eccentric person, smooth people are not welcome here. But if you behave yourself, they won't touch you. Is that clear? Good. Come on, tell me what you need?}
+{200}{}{ÈÃÎÒÃÇÂíÉÏ¾ö¶¨£¬ÕâÀï²»»¶Ó­Ò»¸ö¹Å¹Ö¡¢Ô²»¬µÄÈË¡£µ«Èç¹ûÄã±íÏÖµÃºÃÒ»µã£¬ËûÃÇ¾Í²»»áÅöÄã¡£Çå³şÂğ£¿ºÃµÄÀ´°É£¬¸æËßÎÒÄãĞèÒªÊ²Ã´£¿}
+### {201}{}{Welcome, brother. Were you well received in San Ysidro? Do you need anything?}
+{201}{}{»¶Ó­Äã£¬ĞÖµÜ¡£ÄãÔÚÊ¥ÒÁÎ÷µÂÂŞÊÜµ½»¶Ó­Âğ£¿ÄãĞèÒªÊ²Ã´Âğ£¿}
+### {1201}{}{Welcome, Sister. Were you well received in San Ysidro? Do you need anything?}
+{1201}{}{»¶Ó­£¬½ã½ã¡£ÄãÔÚÊ¥ÒÁÎ÷µÂÂŞÊÜµ½»¶Ó­Âğ£¿ÄãĞèÒªÊ²Ã´Âğ£¿}
+### {202}{}{I just want to ask a few questions about the Dayglow.}
+{202}{}{ÎÒÖ»ÏëÎÊ¼¸¸ö¹ØÓÚÒ¹¹âµÄÎÊÌâ¡£}
+### {203}{}{What do you need?}
+{203}{}{ÄãĞèÒªÊ²Ã´£¿}
+### {204}{}{Nothing. Bye.}
+{204}{}{Ã»ÓĞÊ²Ã´ÔÙ¼û}
+### {205}{}{Ask.}
+{205}{}{ÎÊ}
+### {206}{}{It's time for me to go. Thank you for your time.}
+{206}{}{ÎÒ¸Ã×ßÁË¡£Ğ»Ğ»Äã³é³öÊ±¼ä¡£}
+### {207}{}{I see. I'll ask you something else, okay?}
+{207}{}{ÎÒÃ÷°×ÁË¡£ÎÒÔÙÎÊÄãÒ»Ğ©±ğµÄÎÊÌâ£¬ºÃÂğ£¿}
+### {208}{}{}
+{208}{}{error : string is empty}
+### {209}{}{}
+{209}{}{error : string is empty}
+### {210}{}{Tell me about yourself?}
+{210}{}{¸æËßÎÒÄã×Ô¼ºµÄÇé¿ö£¿}
+### {211}{}{Retired Sergeant Robert Newsom. Before the war, I kept order on the streets of Bakersfield, and now I keep order in the Glare of the Day. I love my job. And I will not allow anyone to bully in my domain.}
+{211}{}{ÍËÒÛÖĞÊ¿ÂŞ²®ÌØ¡¤Å¦ÉªÄ·¡£Õ½Ç°£¬ÎÒÔÚ±´¿ËË¹·Æ¶ûµÂµÄ½ÖµÀÉÏÎ¬³ÖÖÈĞò£¬ÏÖÔÚÎÒÔÚÑô¹â²ÓÀÃµÄÈÕ×ÓÀïÎ¬³ÖÖÈĞò¡£ÎÒÈÈ°®ÎÒµÄ¹¤×÷¡£ÎÒ²»»áÔÊĞíÈÎºÎÈËÔÚÎÒµÄÁìÓòÀïÆÛ¸ºÎÒ¡£}
+### {212}{}{What do you think of Gustavo?}
+{212}{}{Äã¾õµÃ¹ÅË¹ËşÎÖÔõÃ´Ñù£¿}
+### {213}{}{He's a great fit for the role of mayor. And the ghouls respect him. At least not here in San Ysidro. Although not everyone in the Old City is as reasonable.}
+{213}{}{Ëû·Ç³£ÊÊºÏµ±ÊĞ³¤¡£Ê³Ê¬¹í×ğÖØËû¡£ÖÁÉÙÔÚÊ¥ÒÁÎ÷µÂÂŞÃ»ÓĞ¡£ËäÈ»²»ÊÇÀÏ³ÇÇøµÄÃ¿¸öÈË¶¼ÕâÃ´Í¨Çé´ïÀí¡£}
+### {214}{}{And who runs the Old City?}
+{214}{}{Ë­À´¹ÜÀíÀÏ³Ç£¿}
+### {215}{}{John Butler. Ex-military. Therefore, his head is full of bedlam. He gathered around him not only ghouls, but also super mutants and normies. Everyone needs something from him.}
+{215}{}{Ô¼º²¡¤°ÍÌØÀÕ¡£ÍËÒÛ¾üÈË¡£Òò´Ë£¬ËûµÄÄÔ×ÓÀï³äÂúÁË»ìÂÒ¡£Ëû¾Û¼¯ÔÚËûÖÜÎ§µÄ²»½öÊÇÊ³Ê¬¹í£¬»¹ÓĞ³¬¼¶±äÖÖÈËºÍÕı³£ÈË¡£Ã¿¸öÈË¶¼ĞèÒªËû×öµãÊ²Ã´¡£}
+### {216}{}{And in what relationship are Gustavo and Butler?}
+{216}{}{¹ÅË¹ËşÎÖºÍ°ÍÌØÀÕÊÇÊ²Ã´¹ØÏµ£¿}
+### {217}{}{They've had a lot of disagreements lately. But I'm sure it won't break their friendship.}
+{217}{}{ËûÃÇ×î½üÓĞºÜ¶à·ÖÆç¡£µ«ÎÒÏàĞÅÕâ²»»áÆÆ»µËûÃÇµÄÓÑÒê¡£}
+### {218}{}{}
+{218}{}{error : string is empty}
+### {219}{}{}
+{219}{}{error : string is empty}
+### {220}{}{Tell us about the area around.}
+{220}{}{¸æËßÎÒÃÇÖÜÎ§µÄµØÇø¡£}
+### {221}{}{San Isidro and the Old Town are the main Gulian settlements. Radioactive ruins and burnt-out parks are spread out between them. Black scavengers and monsters are often found in them.}
+{221}{}{Ê¥ÒÁÎ÷µÂÂŞºÍÀÏ³ÇÇøÊÇ¹ÅÀï°²µÄÖ÷Òª¶¨¾Óµã¡£·ÅÉäĞÔ·ÏĞæºÍ±»ÉÕ»ÙµÄ¹«Ô°É¢²¼ÔÚËüÃÇÖ®¼ä¡£ºÚÉ«µÄÊ°»ÄÕßºÍ¹ÖÎï¾­³£³öÏÖÔÚËüÃÇÉíÉÏ¡£}
+### {222}{}{[Next]}
+{222}{}{[ÏÂÒ»¸ö]}
+### {223}{}{Most of the nuclear strikes hit a military base and an industrial zone. Downtown San Diego has been hit hard, too. Devastation, high radiation, skeletons ? that's what you'll find in the ruins. And there are military robots everywhere. They scattered after the sirens turned on at the military base.}
+{223}{}{´ó²¿·ÖºË´ò»÷¶¼ÊÇÕë¶ÔÒ»¸ö¾üÊÂ»ùµØºÍÒ»¸ö¹¤ÒµÇø¡£Ê¥µØÑÇ¸çÊĞÖĞĞÄÒ²ÊÜµ½ÁË³ÁÖØ´ò»÷¡£»ÙÃğĞÔ´ò»÷£¬¸ß·øÉä£¬÷¼÷Ã? Õâ¾ÍÊÇÄãÔÚ·ÏĞæÖĞÄÜÕÒµ½µÄ¡£µ½´¦¶¼ÊÇ¾üÓÃ»úÆ÷ÈË¡£¾üÊÂ»ùµØµÄ¾¯µÑÏìÆğºó£¬ËûÃÇÉ¢¿ªÁË¡£}
+### {224}{}{Tell me how to get to Chula Vista?}
+{224}{}{¸æËßÎÒÔõÃ´È¥Chula Vista£¿}
+### {225}{}{You need to cross the valley of the Auteuil River. There is only one surviving bridge, but it is captured by robots and mined. So we go to the county or straight through the valley. But there are many terrible creatures in the valley.}
+{225}{}{ÄãĞèÒª´©¹ı°ÂÌØÒÁºÓµÄÉ½¹È¡£Ö»ÓĞÒ»×ùĞÒ´æµÄÇÅÁº£¬µ«Ëü±»»úÆ÷ÈË²¶»ñ²¢±»²¼À×¡£ËùÒÔÎÒÃÇÈ¥ÏØ³Ç»òÕßÖ±½Ó´©¹ıÉ½¹È¡£µ«ÊÇÉ½¹ÈÀïÓĞĞí¶à¿ÉÅÂµÄÉúÎï¡£}
+### {226}{}{Tell me how to get to the Bonita Dam?}
+{226}{}{¸æËßÎÒÔõÃ´È¥²©ÄáËş´ó°Ó£¿}
+### {227}{}{Follow Federal Highway 805 to the signpost. And then turn right.}
+{227}{}{ÑØ×Å805ºÅÁª°î¹«Â·×ßµ½Â·±ê¡£È»ºóÏòÓÒ×ª¡£}
+### {228}{}{Tell me how to get to the Old Town?}
+{228}{}{¸æËßÎÒÔõÃ´È¥ÀÏ³Ç£¿}
+### {229}{}{It will be very difficult to get there straight through the ruins. The easiest way is to get on Route 805 and go to Balboa Park. Beware of monsters in the park. Go left to the Little Italy area. And then ? to the north.}
+{229}{}{´©¹ı·ÏĞæÖ±½Óµ½´ïÄÇÀï½«·Ç³£À§ÄÑ¡£×î¼òµ¥µÄ·½·¨ÊÇ×ß805Â·£¬È»ºóÈ¥°Í¶û²©ÑÇ¹«Ô°¡£µ±ĞÄ¹«Ô°ÀïµÄ¹ÖÎï¡£Ïò×ó×ßµ½Ğ¡Òâ´óÀûµØÇø¡£È»ºó? Íù±±¡£}
+### {230}{}{What is your relationship with black scavengers?}
+{230}{}{ÄãºÍºÚÈËÊ°»ÄÕßÓĞÊ²Ã´¹ØÏµ£¿}
+### {231}{}{They are mostly bandits. They collect fragments of the Old World, often without even understanding what they are needed for. And then they sell it to caravans. Thereby leaving the ghouls mere crumbs. Gustavo is trying to drive them away from our ruins, and Butler wants to tame them by giving Seth's Seal to the most obedient.}
+{231}{}{ËûÃÇ´ó¶àÊÇÍÁ·Ë¡£ËûÃÇÊÕ¼¯¾ÉÊÀ½çµÄËéÆ¬£¬Í¨³£ÉõÖÁ²»ÁË½âËüÃÇµÄÓÃÍ¾¡£È»ºóËûÃÇ°ÑËüÂô¸ø´óÅñ³µ¡£Òò´Ë£¬Ê³Ê¬¹íÖ»Ê£ÏÂÃæ°üĞ¼¡£¹ÅË¹ËşÎÖÊÔÍ¼°ÑËûÃÇ´ÓÎÒÃÇµÄ·ÏĞæÖĞ¸Ï×ß£¬°ÍÌØÀÕÏë°ÑÈüË¹µÄ·âÓ¡½»¸ø×îÌı»°µÄÈËÀ´Ñ±·şËûÃÇ¡£}
+### {232}{}{What is your relationship with super mutants?}
+{232}{}{ÄãºÍ³¬¼¶±äÖÖÈËÓĞÊ²Ã´¹ØÏµ£¿}
+### {233}{}{Super mutants? The army of the Creator was divided into many fragments and scattered through the ruins. There are many such groups in the vicinity. Some of them are aggressive, some cooperate with us, the rest are on their own. Lost lost souls.}
+{233}{}{³¬¼¶±äÖÖÈË£¿ÔìÎïÖ÷µÄ¾ü¶Ó±»·Ö¸î³ÉĞí¶àËéÆ¬£¬É¢ÂäÔÚ·ÏĞæÖĞ¡£¸½½üÓĞĞí¶àÕâÑùµÄÍÅÌå¡£ËûÃÇÖĞµÄÒ»Ğ©ÈËºÜÓĞÇÖÂÔĞÔ£¬Ò»Ğ©ÈËÓëÎÒÃÇºÏ×÷£¬ÆäËûÈËÔò¿¿×Ô¼º¡£ÃÔÊ§µÄÁé»ê¡£}
 
-{241}{}{A bunch of us are looking for his squad. Maybe you've heard of him?}
-{242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, rather the opposite. Maybe this is the squad you're looking for.}
-{243}{}{Clear. Thank you.}
+### {241}{}{A bunch of us are looking for his squad. Maybe you've heard of him?}
+{241}{}{ÎÒÃÇÒ»ÈºÈËÕıÔÚÑ°ÕÒËûµÄÇò¶Ó¡£Ò²ĞíÄãÌıËµ¹ıËû£¿}
+### {242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, rather the opposite. Maybe this is the squad you're looking for.}
+{242}{}{ÎÒÌıËµ³¬¼¶±äÖÖÈËÔÚ°Í¶û²©ÑÇ¹«Ô°½¨Á¢ÁËÒ»¸öÓªµØ¡£ËûÃÇÃ»ÓĞ¹¥»÷ĞÔ£¬Ç¡Ç¡Ïà·´¡£Ò²ĞíÕâ¾ÍÊÇÄãÒªÕÒµÄÇò¶Ó¡£}
+### {243}{}{Clear. Thank you.}
+{243}{}{Çå³şµÄ·Ç³£¸ĞĞ»¡£}

@@ -1,161 +1,309 @@
-{100}{}{This is Senor Gustavo.}
-{101}{}{This is Senor Gustavo, the manager of San Isidro.}
-{102}{}{Here I am the law!}
-{103}{}{Do ghouls need radio communication? We will help them — and then they will respect a lot.}
-{104}{}{Meet me at the pier.}
+### {100}{}{This is Senor Gustavo.}
+{100}{}{ÎÒÊÇ¹ÅË¹ËşÎÖÏÈÉú¡£}
+### {101}{}{This is Senor Gustavo, the manager of San Isidro.}
+{101}{}{ÎÒÊÇÊ¥ÒÁÎ÷µÂÂŞµÄ¾­Àí¹ÅË¹ËşÎÖÏÈÉú¡£}
+### {102}{}{Here I am the law!}
+{102}{}{ÎÒ¾ÍÊÇ·¨ÂÉ£¡}
+### {103}{}{Do ghouls need radio communication? We will help them ? and then they will respect a lot.}
+{103}{}{Ê³Ê¬¹íĞèÒªÎŞÏßµçÍ¨Ñ¶Âğ£¿ÎÒÃÇ»á°ïÖúËûÃÇ? È»ºóËûÃÇ»á·Ç³£×ğÖØ¡£}
+### {104}{}{Meet me at the pier.}
+{104}{}{ÔÚÂëÍ·µÈÎÒ¡£}
 
 #First meeting
-{200}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you violated our posthumous rest.}
-{1200}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you disturbed our posthumous rest.}
-#Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you're disturbing our posthumous peace. We don't tolerate smooth-skinned racists here. Our family has suffered enough from you. So explain clearly and without lying — why should we tolerate your presence?
-{201}{}{To hell with ghouls. I'm here for profit. I was told you can make good money here.}
-{202}{}{Honest answer. With people like you, you can negotiate. I'm starting to like you.}
-{203}{}{It all depends on the terms of the contract, partner.}
-{204}{}{I'm actually looking for a better place to live. Now everything is very bad in my homeland.}
-{205}{}{Running away from problems, aren't you? Not impressed, slimy-skinned. But if you want, you can benefit from it.}
-{1205}{}{Running away from problems, aren't you? Not impressed, slippery skin. But if you want, you can benefit from it.}
-{206}{}{Okay. And what kind of work is there here?}
-{207}{}{I am not a racist. I love ghouls and would like to live among them.}
-{1207}{}{I'm not a racist. I adore you, ghouls, and would like to live with you.}
-{208}{}{You have such a slippery skin that you will be with us for sweets, normie. I won't tolerate any more lies. But I'll give you one chance. You will cope - and you will have hugs with ghouls for the rest of your days.}
-{209}{}{Hey, I'm just trying to be friendly!}
-{1209}{}{Hey, I'm just trying to be friendly!}
-{210}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Glad to see you in our camp, brother. Here you will find eternal rest.}
-{1210}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Glad to see you at our camp, Sister. Here you will find eternal rest.}
-{211}{}{Thank you, brother. So what would I do in this beautiful city?}
-{212}{}{The Dayglow still cannot shine. You can go to the station and help our workers return electricity to the city. I will reward you handsomely and let you stay in San Ysidro for the rest of your days.}
-{213}{}{The Dayglow still cannot shine. You can go to the station and help our workers return electricity to the city. The city will be grateful to you until the very last days.}
-{214}{}{Agreed.}
-{215}{}{Too much trouble.}
-{216}{}{Too many words, normie. Get back to the nuclear wasteland! We don't need you.}
-{217}{}{Oh, oh...}
-{218}{}{After the incident at the border, the conversation with you will be short. What do you need?}
-{219}{}{What is the incident? I don't know!}
-{220}{}{My faithful servants guarded the entrance. And now only the wind is walking there. And at that moment you appear. What do you say in your defense?}
-{221}{}{This is some kind of coincidence. The entrance was open, so I entered.}
-{1221}{}{This is some kind of coincidence. The entrance was open, so I went in.}
-{222}{}{Hmm, if I find out that you're lying, I'll personally rip off your slippery skin and sprinkle radioactive ash on the bleeding meat. You will feel all the pain that ghouls experience every day of their lives.}
-{223}{}{I believe every word. But who are you?}
-{224}{}{That ghoul threatened me. I was just defending myself.}
-{1224}{}{That ghoul threatened me. I was just defending myself.}
-{225}{}{He was a loyal servant of Glow. He defended our city from the normies. Do you think you can redeem yourself?}
-{226}{}{You have no right to set boundaries. This wasteland is for everyone, not just you.}
-{227}{}{We just want to live like normal people. Without wars. Without grandiose missions to save humanity. You may not understand this. But since you're here, you don't have much choice — to redeem yourself or... die.}
-{228}{}{I choose death. Your death!}
-{229}{}{Shall we try to negotiate? By the way, we haven't introduced ourselves yet.}
-{230}{}{I don't remember being warned about your appearance. How did you manage to get across the border?}
-{231}{}{Well, I just walked through the gate.}
-{232}{}{And the faithful servants of the Glow didn't stop you? It looks like someone is waiting for an excellent thrashing.}
-{233}{}{Certainly not me. So you run everything here?}
-{234}{}{To live here, you have to work. Even a mutant like you should understand that. We have enough freeloaders without you.}
-{235}{}{I understand...}
-{236}{}{Any ideas how to fix a radio station?}
+### {200}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you violated our posthumous rest.}
+{200}{}{Gustavo Obanel VallejoËæÊ±ÎªÄú·şÎñ¡£ÎÒÊÇÊ¥ÒÁÎ÷µÂÂŞµÄ¾­Àí¡£ÏÖÔÚ£¬ÈÃÏ¸½Ú¼û¹íÈ¥°É¡£ÎÒÏëÖªµÀÄãÎªÊ²Ã´Î¥·´ÎÒÃÇËÀºóµÄ°²Ï¢ÈÕ¡£}
+### {1200}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you disturbed our posthumous rest.}
+{1200}{}{Gustavo Obanel VallejoËæÊ±ÎªÄú·şÎñ¡£ÎÒÊÇÊ¥ÒÁÎ÷µÂÂŞµÄ¾­Àí¡£ÏÖÔÚ£¬ÈÃÏ¸½Ú¼û¹íÈ¥°É¡£ÎÒÏëÖªµÀÄãÈÅÂÒÎÒÃÇËÀºóĞİÏ¢µÄÔ­Òò¡£}
+#Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Now, to hell with the niceties. I want to know the reason why you're disturbing our posthumous peace. We don't tolerate smooth-skinned racists here. Our family has suffered enough from you. So explain clearly and without lying ? why should we tolerate your presence?
+### {201}{}{To hell with ghouls. I'm here for profit. I was told you can make good money here.}
+{201}{}{ºÍÊ³Ê¬¹í¼û¹íÈ¥°É¡£ÎÒÀ´ÕâÀïÊÇÎªÁËÓ¯Àû¡£ÓĞÈË¸æËßÎÒÄãÔÚÕâÀï¿ÉÒÔ×¬ºÜ¶àÇ®¡£}
+### {202}{}{Honest answer. With people like you, you can negotiate. I'm starting to like you.}
+{202}{}{³ÏÊµµÄ»Ø´ğ¡£ºÍÄãÕâÑùµÄÈËÔÚÒ»Æğ£¬Äã¿ÉÒÔÌ¸ÅĞ¡£ÎÒ¿ªÊ¼Ï²»¶ÄãÁË¡£}
+### {203}{}{It all depends on the terms of the contract, partner.}
+{203}{}{ÕâÍêÈ«È¡¾öÓÚºÏÍ¬Ìõ¿î£¬ºÏ»ïÈË¡£}
+### {204}{}{I'm actually looking for a better place to live. Now everything is very bad in my homeland.}
+{204}{}{ÊÂÊµÉÏ£¬ÎÒÕıÔÚÑ°ÕÒÒ»¸ö¸üºÃµÄ×¡´¦¡£ÏÖÔÚÎÒµÄ×æ¹úÒ»ÇĞ¶¼ºÜÔã¸â¡£}
+### {205}{}{Running away from problems, aren't you? Not impressed, slimy-skinned. But if you want, you can benefit from it.}
+{205}{}{ÌÓ±ÜÎÊÌâ£¬²»ÊÇÂğ£¿Ã»ÓĞÓ¡Ïó£¬Æ¤·ôğ¤ºıºıµÄ¡£µ«Èç¹ûÄãÔ¸Òâ£¬Äã¿ÉÒÔ´ÓÖĞÊÜÒæ¡£}
+### {1205}{}{Running away from problems, aren't you? Not impressed, slippery skin. But if you want, you can benefit from it.}
+{1205}{}{ÌÓ±ÜÎÊÌâ£¬²»ÊÇÂğ£¿Ã»ÓĞÓ¡Ïó£¬Æ¤·ô»¬¡£µ«Èç¹ûÄãÔ¸Òâ£¬Äã¿ÉÒÔ´ÓÖĞÊÜÒæ¡£}
+### {206}{}{Okay. And what kind of work is there here?}
+{206}{}{¿ÉÒÔÕâÀïÓĞÊ²Ã´ÑùµÄ¹¤×÷£¿}
+### {207}{}{I am not a racist. I love ghouls and would like to live among them.}
+{207}{}{ÎÒ²»ÊÇÖÖ×åÖ÷ÒåÕß¡£ÎÒÏ²»¶Ê³Ê¬¹í£¬Ô¸ÒâºÍËüÃÇÉú»îÔÚÒ»Æğ¡£}
+### {1207}{}{I'm not a racist. I adore you, ghouls, and would like to live with you.}
+{1207}{}{ÎÒ²»ÊÇÖÖ×åÖ÷ÒåÕß¡£ÎÒ³ç°İÄã£¬Ê³Ê¬¹í£¬ÎÒÔ¸ÒâºÍÄãÒ»ÆğÉú»î¡£}
+### {208}{}{You have such a slippery skin that you will be with us for sweets, normie. I won't tolerate any more lies. But I'll give you one chance. You will cope - and you will have hugs with ghouls for the rest of your days.}
+{208}{}{ÄãÆ¤·ôÌ«»¬ÁË£¬Äã»áºÍÎÒÃÇÒ»Æğ³ÔÌÇµÄ£¬ÅµÃ×¡£ÎÒÔÙÒ²²»ÄÜÈİÈÌ»ÑÑÔÁË¡£µ«ÎÒ¸øÄãÒ»´Î»ú»á¡£Äã»áÓ¦¸¶µÄ¡ª¡ªÔÚ½ÓÏÂÀ´µÄÈÕ×ÓÀï£¬Äã»áºÍÊ³Ê¬¹íÓµ±§ÔÚÒ»Æğ¡£}
+### {209}{}{Hey, I'm just trying to be friendly!}
+{209}{}{ºÙ£¬ÎÒÖ»ÊÇÏë±íÏÖµÃÓÑºÃÒ»µã£¡}
+### {1209}{}{Hey, I'm just trying to be friendly!}
+{1209}{}{ºÙ£¬ÎÒÖ»ÊÇÏë±íÏÖµÃÓÑºÃÒ»µã£¡}
+### {210}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Glad to see you in our camp, brother. Here you will find eternal rest.}
+{210}{}{Gustavo Obanel VallejoËæÊ±ÎªÄú·şÎñ¡£ÎÒÊÇÊ¥ÒÁÎ÷µÂÂŞµÄ¾­Àí¡£ºÜ¸ßĞËÔÚÎÒÃÇµÄÓªµØ¼ûµ½Äã£¬ĞÖµÜ¡£ÔÚÕâÀïÄã»áÕÒµ½ÓÀºãµÄ°²Ï¢¡£}
+### {1210}{}{Gustavo Obanel Vallejo at your service. I'm the manager of San Isidro. Glad to see you at our camp, Sister. Here you will find eternal rest.}
+{1210}{}{Gustavo Obanel VallejoËæÊ±ÎªÄú·şÎñ¡£ÎÒÊÇÊ¥ÒÁÎ÷µÂÂŞµÄ¾­Àí¡£ºÜ¸ßĞËÔÚÎÒÃÇµÄÓªµØ¼ûµ½Äã£¬½ã½ã¡£ÔÚÕâÀïÄã»áÕÒµ½ÓÀºãµÄ°²Ï¢¡£}
+### {211}{}{Thank you, brother. So what would I do in this beautiful city?}
+{211}{}{Ğ»Ğ»Äã£¬ĞÖµÜ¡£ÄÇÃ´£¬ÔÚÕâ¸öÃÀÀöµÄ³ÇÊĞÎÒ¸Ã×öÊ²Ã´ÄØ£¿}
+### {212}{}{The Dayglow still cannot shine. You can go to the station and help our workers return electricity to the city. I will reward you handsomely and let you stay in San Ysidro for the rest of your days.}
+{212}{}{Ò¹¹âÈÔÈ»ÎŞ·¨·¢¹â¡£Äã¿ÉÒÔÈ¥³µÕ¾°ïÎÒÃÇµÄ¹¤ÈË°Ñµç»¹¸ø³ÇÊĞ¡£ÎÒ»á¸øÄã·áºñµÄ±¨³ê£¬ÈÃÄãÔÚÊ¥ÒÁÎ÷µÂÂŞ¶È¹ıÓàÉú¡£}
+### {213}{}{The Dayglow still cannot shine. You can go to the station and help our workers return electricity to the city. The city will be grateful to you until the very last days.}
+{213}{}{Ò¹¹âÈÔÈ»ÎŞ·¨·¢¹â¡£Äã¿ÉÒÔÈ¥³µÕ¾°ïÎÒÃÇµÄ¹¤ÈË°Ñµç»¹¸ø³ÇÊĞ¡£Õâ×ù³ÇÊĞ½«¸ĞĞ»Äã£¬Ö±µ½×îºóµÄÈÕ×Ó¡£}
+### {214}{}{Agreed.}
+{214}{}{Í¬Òâ¡£}
+### {215}{}{Too much trouble.}
+{215}{}{Ì«Âé·³ÁË¡£}
+### {216}{}{Too many words, normie. Get back to the nuclear wasteland! We don't need you.}
+{216}{}{Ì«¶àµÄ»°ÁË£¬ÅµÃ×¡£»Øµ½ºË»ÄÔ­£¡ÎÒÃÇ²»ĞèÒªÄã¡£}
+### {217}{}{Oh, oh...}
+{217}{}{Å¶£¬Å¶¡£¡£¡£}
+### {218}{}{After the incident at the border, the conversation with you will be short. What do you need?}
+{218}{}{±ß¾³ÊÂ¼ş·¢Éúºó£¬ÓëÄãµÄÌ¸»°»áºÜ¼ò¶Ì¡£ÄãĞèÒªÊ²Ã´£¿}
+### {219}{}{What is the incident? I don't know!}
+{219}{}{ÊÂ¼şÊÇÊ²Ã´£¿ÎÒ²»ÖªµÀ£¡}
+### {220}{}{My faithful servants guarded the entrance. And now only the wind is walking there. And at that moment you appear. What do you say in your defense?}
+{220}{}{ÎÒÖÒÊµµÄÆÍÈËÊØÎÀ×ÅÈë¿Ú¡£ÏÖÔÚÖ»ÓĞ·çÔÚÄÇÀïĞĞ×ß¡£¾ÍÔÚÄÇÒ»¿Ì£¬Äã³öÏÖÁË¡£ÄãÔõÃ´Îª×Ô¼º±ç»¤£¿}
+### {221}{}{This is some kind of coincidence. The entrance was open, so I entered.}
+{221}{}{ÕâÊÇÄ³ÖÖÇÉºÏ¡£Èë¿ÚÊÇ³¨¿ªµÄ£¬ËùÒÔÎÒ½øÈ¥ÁË¡£}
+### {1221}{}{This is some kind of coincidence. The entrance was open, so I went in.}
+{1221}{}{ÕâÊÇÄ³ÖÖÇÉºÏ¡£Èë¿ÚÊÇ³¨¿ªµÄ£¬ËùÒÔÎÒ½øÈ¥ÁË¡£}
+### {222}{}{Hmm, if I find out that you're lying, I'll personally rip off your slippery skin and sprinkle radioactive ash on the bleeding meat. You will feel all the pain that ghouls experience every day of their lives.}
+{222}{}{àÅ£¬Èç¹ûÎÒ·¢ÏÖÄãÔÚÈö»Ñ£¬ÎÒ»áÇ××Ô³¶ÏÂÄã¹â»¬µÄÆ¤·ô£¬ÔÚÁ÷ÑªµÄÈâÉÏÈöÉÏ·ÅÉäĞÔ»Ò¡£Äã»á¸ĞÊÜµ½Ê³Ê¬¹íÃ¿ÌìËù¾­ÀúµÄÍ´¿à¡£}
+### {223}{}{I believe every word. But who are you?}
+{223}{}{ÎÒÏàĞÅÃ¿Ò»¸ö×Ö¡£µ«ÄãÊÇË­£¿}
+### {224}{}{That ghoul threatened me. I was just defending myself.}
+{224}{}{ÄÇ¸öÊ³Ê¬¹íÍşĞ²ÎÒ£¬ÎÒÖ»ÊÇÔÚ×ÔÎÀ¡£}
+### {1224}{}{That ghoul threatened me. I was just defending myself.}
+{1224}{}{ÄÇ¸öÊ³Ê¬¹íÍşĞ²ÎÒ£¬ÎÒÖ»ÊÇÔÚ×ÔÎÀ¡£}
+### {225}{}{He was a loyal servant of Glow. He defended our city from the normies. Do you think you can redeem yourself?}
+{225}{}{ËûÊÇGlowµÄÖÒÊµÆÍÈË¡£Ëû±£ÎÀÎÒÃÇµÄ³ÇÊĞ²»ÊÜÕı³£ÈËµÄ¹¥»÷¡£ÄãÈÏÎªÄãÄÜ¾ÈÊê×Ô¼ºÂğ£¿}
+### {226}{}{You have no right to set boundaries. This wasteland is for everyone, not just you.}
+{226}{}{ÄãÎŞÈ¨Éè¶¨½çÏŞ¡£ÕâÆ¬»ÄµØÊÊºÏËùÓĞÈË£¬¶ø²»½ö½öÊÇÄã¡£}
+### {227}{}{We just want to live like normal people. Without wars. Without grandiose missions to save humanity. You may not understand this. But since you're here, you don't have much choice ? to redeem yourself or... die.}
+{227}{}{ÎÒÃÇÖ»ÏëÏñÆÕÍ¨ÈËÒ»ÑùÉú»î¡£Ã»ÓĞÕ½Õù¡£Ã»ÓĞÕü¾ÈÈËÀàµÄºêÎ°Ê¹Ãü¡£Äã¿ÉÄÜ²»Àí½âÕâÒ»µã¡£µ«¼ÈÈ»ÄãÀ´ÁË£¬Äã¾Í±ğÎŞÑ¡ÔñÁË? ¾ÈÊê×Ô¼º»òÕß¡£¡£¡£ËÀÍö}
+### {228}{}{I choose death. Your death!}
+{228}{}{ÎÒÑ¡ÔñËÀÍö¡£ÄãµÄËÀ£¡}
+### {229}{}{Shall we try to negotiate? By the way, we haven't introduced ourselves yet.}
+{229}{}{ÎÒÃÇ¿ÉÒÔÊÔ×ÅÌ¸ÅĞÂğ£¿Ë³±ãËµÒ»ÏÂ£¬ÎÒÃÇ»¹Ã»ÓĞ×ÔÎÒ½éÉÜ¡£}
+### {230}{}{I don't remember being warned about your appearance. How did you manage to get across the border?}
+{230}{}{ÎÒ²»¼ÇµÃÓĞÈË¾¯¸æ¹ıÎÒÄãµÄÍâ±í¡£ÄãÊÇÔõÃ´Ô½¹ı±ß¾³µÄ£¿}
+### {231}{}{Well, I just walked through the gate.}
+{231}{}{ÎÒ¸Õ´©¹ı´óÃÅ¡£}
+### {232}{}{And the faithful servants of the Glow didn't stop you? It looks like someone is waiting for an excellent thrashing.}
+{232}{}{¹â»ÔµÄÖÒÊµÆÍÈËÃ»ÓĞ×èÖ¹Äã£¿¿´ÆğÀ´ºÃÏñÓĞÈËÔÚµÈ´ıÒ»³¡¾«²ÊµÄ±ÈÈü¡£}
+### {233}{}{Certainly not me. So you run everything here?}
+{233}{}{µ±È»²»ÊÇÎÒ¡£ËùÒÔÄãÔÚÕâÀï¹ÜÀíÒ»ÇĞ£¿}
+### {234}{}{To live here, you have to work. Even a mutant like you should understand that. We have enough freeloaders without you.}
+{234}{}{ÒªÔÚÕâÀïÉú»î£¬Äã±ØĞë¹¤×÷¡£¼´Ê¹ÊÇÏñÄãÕâÑùµÄ±äÖÖÈËÒ²Ó¦¸ÃÃ÷°×ÕâÒ»µã¡£Ã»ÓĞÄã£¬ÎÒÃÇµÄ°×³ÔÕßÒÑ¾­¹»¶àÁË¡£}
+### {235}{}{I understand...}
+{235}{}{ÎÒÃ÷°×¡£¡£¡£}
+### {236}{}{Any ideas how to fix a radio station?}
+{236}{}{ÄãÖªµÀÈçºÎĞŞÀíÒ»¸öµçÌ¨Âğ£¿}
 
 #Repeat dialog
-{250}{}{Speak, smooth-skinned.}
-{1250}{}{Speak, smooth-skinned.}
-{251}{}{Goodbye, Senor Gustavo.}
-{252}{}{What are you up to, normie?}
-{1252}{}{What are you up to, smooth face?}
-{253}{}{Look who we have here. A smooth muzzle begs for a good spanking. Don't worry, I'll save your skin for grafting onto my mortal body. In the meantime, you will tell me everything.}
-{254}{}{Have a seat, amigo. I hope the ghouls in Glow have accepted you as their own.}
-{255}{}{Have a seat, amigo. How do you like the Glow? Are you all right? Tell me if there's a problem.}
-{256}{}{Have a seat, amigo. Tell me. Maybe I can help you.}
-{257}{}{Have a seat. I think it's high time we talked.}
+### {250}{}{Speak, smooth-skinned.}
+{250}{}{Ëµ»°£¬Æ¤·ô¹â»¬¡£}
+### {1250}{}{Speak, smooth-skinned.}
+{1250}{}{Ëµ»°£¬Æ¤·ô¹â»¬¡£}
+### {251}{}{Goodbye, Senor Gustavo.}
+{251}{}{ÔÙ¼û£¬¹ÅË¹ËşÎÖÏÈÉú¡£}
+### {252}{}{What are you up to, normie?}
+{252}{}{ÄãÔÚ¸ÉÊ²Ã´£¬ÅµÃ×£¿}
+### {1252}{}{What are you up to, smooth face?}
+{1252}{}{ÄãÔÚ¸ÉÊ²Ã´£¬¹â»¬µÄÁ³£¿}
+### {253}{}{Look who we have here. A smooth muzzle begs for a good spanking. Don't worry, I'll save your skin for grafting onto my mortal body. In the meantime, you will tell me everything.}
+{253}{}{¿´¿´ÎÒÃÇÕâÀïÓĞË­¡£¹â»¬µÄÇ¹¿ÚÒªÇó´òµÃºÃ¡£±ğµ£ĞÄ£¬ÎÒ»á°ÑÄãµÄÆ¤ÒÆÖ²µ½ÎÒµÄÊ¬ÌåÉÏ¡£ÔÚ´ËÆÚ¼ä£¬Äã»á¸æËßÎÒÒ»ÇĞ¡£}
+### {254}{}{Have a seat, amigo. I hope the ghouls in Glow have accepted you as their own.}
+{254}{}{×ø°É£¬ÅóÓÑ¡£ÎÒÏ£ÍûGlowµÄÊ³Ê¬¹íÃÇÒÑ¾­½ÓÊÜÁËÄã¡£}
+### {255}{}{Have a seat, amigo. How do you like the Glow? Are you all right? Tell me if there's a problem.}
+{255}{}{×ø°É£¬ÅóÓÑ¡£Äã¾õµÃGlowÔõÃ´Ñù£¿Äã»¹ºÃÂğ£¿Èç¹ûÓĞÎÊÌâ£¬Çë¸æËßÎÒ¡£}
+### {256}{}{Have a seat, amigo. Tell me. Maybe I can help you.}
+{256}{}{×ø°É£¬ÅóÓÑ¡£¸æËßÎÒ£¬Ò²ĞíÎÒÄÜ°ïÄã¡£}
+### {257}{}{Have a seat. I think it's high time we talked.}
+{257}{}{Çë×øÎÒÏëÎÒÃÇ¸ÃÌ¸Ì¸ÁË¡£}
 
-{260}{}{Remind me what you wanted from me?}
-{261}{}{Do I speak Russian? (tired sigh) }
-{262}{}{The power plant is working.}
-{263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job, amigo. Let me hug you and thank you. There are 1000 caps here.}
-{1263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job. Let me hug you and thank you. There are 1000 caps here.}
-{264}{}{Thank you.}
-{265}{}{Not bad.}
-{266}{}{I also owe you an apology. I gave this assignment in the expectation that robots or radiation would kill you. And there will be one less smooth-skinned in the Glow. But I was wrong. You can stay in our city as long as you want.}
-{267}{}{I understand you and I don't blame you.}
-{268}{}{Don't expect me to shake your hand after this.}
-{1268}{}{Don't expect me to hug you after that.}
-{269}{}{Now that we have electricity, we need to restore the broken radio station. She is in the next room. This task is just for you.}
-{270}{}{Isn't she too broken? Are you sure it can be repaired?}
-{271}{}{Fix it — no. She needs a replacement. I know that the patrol center operates one of the same. And I'll pay if you bring the parts from there.}
-{272}{}{OK. I'll try.}
-{273}{}{If I'm in the mood, then I'll try. In the meantime, I don't want to do this. Bye.}
-{274}{}{The radio station is working. More precisely, I had to replace it with a new one from the border guards office.}
-{275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You're just like me when I was young.}
-{1275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You're just like me when I was young.}
-{276}{}{Here's another great news in this scorched world!}
-{277}{}{Not the most pleasant comparison, you know.}
-{278}{}{Let's just not hug, okay?}
-{279}{}{Let's not waste time. Here are 500 caps for the job. And now I'm asking you to take this holodisk to Mayor Butler in the Old Town. This is very important.}
-{280}{}{And that's all? After my past cases, this will turn out to be an easy walk.}
-{281}{}{Ahead of you are waiting for the gloomy ruins of San Diego. There are many dangers lurking in them. Be careful. And ask Edward for supplies for the journey.}
-{282}{}{Okay, see you later.}
-{283}{}{Give me a gun if you want me to survive on the way to the Old Town.}
-{284}{}{Hmm, that's reasonable. What weapons do you own best?}
-{285}{}{[Take }
+### {260}{}{Remind me what you wanted from me?}
+{260}{}{ÌáĞÑÎÒÄãÏë´ÓÎÒÕâÀïµÃµ½Ê²Ã´£¿}
+### {261}{}{Do I speak Russian? (tired sigh) }
+{261}{}{ÎÒ»áËµ¶íÓïÂğ£¿£¨Æ£±¹µÄÌ¾Ï¢£©}
+### {262}{}{The power plant is working.}
+{262}{}{·¢µç³§ÕıÔÚÔË×ª¡£}
+### {263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job, amigo. Let me hug you and thank you. There are 1000 caps here.}
+{263}{}{¹â»ÔÔÙ´ÎÉÁÒ«£¡Ê¥ÒÁÎ÷µÂÂŞºÍÀÏ³ÇÇøÒÑ»Ö¸´¹©µç¡£Äã×öµÃºÜºÃ£¬ÅóÓÑ¡£ÈÃÎÒÓµ±§Äã£¬Ğ»Ğ»Äã¡£ÕâÀïÓĞ1000¶¥Ã±×Ó¡£}
+### {1263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job. Let me hug you and thank you. There are 1000 caps here.}
+{1263}{}{¹â»ÔÔÙ´ÎÉÁÒ«£¡Ê¥ÒÁÎ÷µÂÂŞºÍÀÏ³ÇÇøÒÑ»Ö¸´¹©µç¡£Äã×öµÃºÜºÃ¡£ÈÃÎÒÓµ±§Äã£¬Ğ»Ğ»Äã¡£ÕâÀïÓĞ1000¶¥Ã±×Ó¡£}
+### {264}{}{Thank you.}
+{264}{}{·Ç³£¸ĞĞ»¡£}
+### {265}{}{Not bad.}
+{265}{}{²»´í¡£}
+### {266}{}{I also owe you an apology. I gave this assignment in the expectation that robots or radiation would kill you. And there will be one less smooth-skinned in the Glow. But I was wrong. You can stay in our city as long as you want.}
+{266}{}{ÎÒÒ²Ó¦¸ÃÏòÄãµÀÇ¸¡£ÎÒ×öÕâÏîÈÎÎñÊÇÏ£Íû»úÆ÷ÈË»ò·øÉä»áÉ±ËÀÄã¡£ÔÚGlowÖĞ»áÓĞÒ»¸ö²»ÄÇÃ´¹â»¬µÄÆ¤·ô¡£µ«ÎÒ´íÁË¡£ÄãÏëÔÚÎÒÃÇ³ÇÊĞ´ô¶à¾Ã¾Í´ô¶à¾Ã¡£}
+### {267}{}{I understand you and I don't blame you.}
+{267}{}{ÎÒÀí½âÄã£¬ÎÒ²»¹ÖÄã¡£}
+### {268}{}{Don't expect me to shake your hand after this.}
+{268}{}{±ğÖ¸ÍûÎÒÔÚÕâÖ®ºó»áºÍÄãÎÕÊÖ¡£}
+### {1268}{}{Don't expect me to hug you after that.}
+{1268}{}{±ğÖ¸ÍûÎÒ»áÔÚÄÇÖ®ºóÓµ±§Äã¡£}
+### {269}{}{Now that we have electricity, we need to restore the broken radio station. She is in the next room. This task is just for you.}
+{269}{}{ÏÖÔÚÎÒÃÇÓĞµçÁË£¬ÎÒÃÇĞèÒªĞŞ¸´»µÁËµÄµçÌ¨¡£ËıÔÚ¸ô±Ú·¿¼ä¡£ÕâÏîÈÎÎñÖ»ÊÊºÏÄã¡£}
+### {270}{}{Isn't she too broken? Are you sure it can be repaired?}
+{270}{}{ËıÊÇ²»ÊÇÌ«±ÀÀ£ÁË£¿ÄãÈ·¶¨Ëü¿ÉÒÔĞŞÀíÂğ£¿}
+### {271}{}{Fix it ? no. She needs a replacement. I know that the patrol center operates one of the same. And I'll pay if you bring the parts from there.}
+{271}{}{ĞŞ¸´Ëü? Ã»ÓĞ¡£ËıĞèÒªÒ»¸öÌæ´úÆ·¡£ÎÒÖªµÀÑ²ÂßÖĞĞÄÒ²ÊÇÕâÑùÔË×÷µÄ¡£Èç¹ûÄã°ÑÁã¼ş´ÓÄÇÀï´øÀ´£¬ÎÒ»á¸¶Ç®µÄ¡£}
+### {272}{}{OK. I'll try.}
+{272}{}{ºÃµÄ£¬ÎÒÊÔÊÔ¡£}
+### {273}{}{If I'm in the mood, then I'll try. In the meantime, I don't want to do this. Bye.}
+{273}{}{Èç¹ûÎÒÓĞĞÄÇé£¬ÎÒ»áÊÔÊÔµÄ¡£Óë´ËÍ¬Ê±£¬ÎÒ²»ÏëÕâÑù×ö¡£ÔÙ¼û}
+### {274}{}{The radio station is working. More precisely, I had to replace it with a new one from the border guards office.}
+{274}{}{µçÌ¨ÕıÔÚ¹¤×÷¡£¸üÈ·ÇĞµØËµ£¬ÎÒ²»µÃ²»ÓÃ±ß·À°ì¹«ÊÒµÄÒ»¸öĞÂµÄÀ´´úÌæËü¡£}
+### {275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You're just like me when I was young.}
+{275}{}{ÔÚÕâ¸ö½¹×ÆµÄÊÀ½çÀï£¬ÓÖÓĞÒ»¸öºÃÏûÏ¢£¡ÎÒÔ½À´Ô½Ï²»¶Äã£¬Æ¤·ô¹â»¬¡£Äã¾ÍÏñÎÒÄêÇáÊ±Ò»Ñù¡£}
+### {1275}{}{Here's another great news in this scorched world! And I like you more and more, smooth-skinned. You're just like me when I was young.}
+{1275}{}{ÔÚÕâ¸ö½¹×ÆµÄÊÀ½çÀï£¬ÓÖÓĞÒ»¸öºÃÏûÏ¢£¡ÎÒÔ½À´Ô½Ï²»¶Äã£¬Æ¤·ô¹â»¬¡£Äã¾ÍÏñÎÒÄêÇáÊ±Ò»Ñù¡£}
+### {276}{}{Here's another great news in this scorched world!}
+{276}{}{ÔÚÕâ¸ö½¹×ÆµÄÊÀ½çÀï£¬ÓÖÓĞÒ»¸öºÃÏûÏ¢£¡}
+### {277}{}{Not the most pleasant comparison, you know.}
+{277}{}{ÄãÖªµÀ£¬Õâ²»ÊÇ×îÁîÈËÓä¿ìµÄ±È½Ï¡£}
+### {278}{}{Let's just not hug, okay?}
+{278}{}{ÎÒÃÇ²»ÒªÓµ±§£¬ºÃÂğ£¿}
+### {279}{}{Let's not waste time. Here are 500 caps for the job. And now I'm asking you to take this holodisk to Mayor Butler in the Old Town. This is very important.}
+{279}{}{ÎÒÃÇ²»ÒªÀË·ÑÊ±¼ä¡£ÕâÊÇÕâ·İ¹¤×÷µÄ500¶¥Ã±×Ó¡£ÏÖÔÚÎÒÇëÄã°ÑÕâ¸öÈ«Ï¢Í¼´ø¸øÀÏ³ÇÇøµÄ°ÍÌØÀÕÊĞ³¤¡£ÕâÒ»µã·Ç³£ÖØÒª¡£}
+### {280}{}{And that's all? After my past cases, this will turn out to be an easy walk.}
+{280}{}{½ö´Ë¶øÒÑ£¿ÔÚÎÒ¹ıÈ¥µÄ°¸ÀıÖ®ºó£¬Õâ½«ÊÇÒ»´ÎÇáËÉµÄĞĞ×ß¡£}
+### {281}{}{Ahead of you are waiting for the gloomy ruins of San Diego. There are many dangers lurking in them. Be careful. And ask Edward for supplies for the journey.}
+{281}{}{ÔÚÄãµÄÇ°·½µÈ´ı×ÅÊ¥µØÑÇ¸ç»Ò°µµÄ·ÏĞæ¡£ËûÃÇÉíÉÏÇ±·ü×ÅĞí¶àÎ£ÏÕ¡£Ğ¡ĞÄ¡£²¢Ïò°®µÂ»ªË÷ÒªÂÃÍ¾ÓÃÆ·¡£}
+### {282}{}{Okay, see you later.}
+{282}{}{ºÃµÄ£¬»ØÍ·¼û¡£}
+### {283}{}{Give me a gun if you want me to survive on the way to the Old Town.}
+{283}{}{Èç¹ûÄãÏëÈÃÎÒÔÚÈ¥ÀÏ³ÇµÄÂ·ÉÏ»îÏÂÀ´£¬¾Í¸øÎÒÒ»°ÑÇ¹¡£}
+### {284}{}{Hmm, that's reasonable. What weapons do you own best?}
+{284}{}{àÅ£¬ÕâºÜºÏÀí¡£Äã×îºÃÓµÓĞÊ²Ã´ÎäÆ÷£¿}
+### {285}{}{[Take }
+{285}{}{[Take}
+### {286}{}{]}
 {286}{}{]}
-{287}{}{ Be so kind — don't die on the way.}
-{1287}{}{Be so kind — don't die on the way.}
-{288}{}{I'll try...}
-{289}{}{I will try to answer.}
-{290}{}{Is it that important to you?}
-{291}{}{We need this radio station. The areas of Glow are torn apart by impassable ruins, and radiation is jamming the usual weak radio. Constant communication will change the whole city. Try for the sake of all of us.}
-{292}{}{And what is recorded on this disc?}
-{293}{}{First, the data is for radio broadcasts so that we can communicate at a distance. And secondly... Secondly, some warnings to my brother so that he doesn't make big mistakes.}
+### {287}{}{ Be so kind ? don't die on the way.}
+{287}{}{ÕæÉÆÁ¼? ²»ÒªËÀÔÚÂ·ÉÏ¡£}
+### {1287}{}{Be so kind ? don't die on the way.}
+{1287}{}{ÕæÉÆÁ¼? ²»ÒªËÀÔÚÂ·ÉÏ¡£}
+### {288}{}{I'll try...}
+{288}{}{ÎÒ»áÊÔÊÔ¡£¡£¡£}
+### {289}{}{I will try to answer.}
+{289}{}{ÎÒ»á¾¡Á¦»Ø´ğµÄ¡£}
+### {290}{}{Is it that important to you?}
+{290}{}{¶ÔÄãÀ´ËµÓĞÄÇÃ´ÖØÒªÂğ£¿}
+### {291}{}{We need this radio station. The areas of Glow are torn apart by impassable ruins, and radiation is jamming the usual weak radio. Constant communication will change the whole city. Try for the sake of all of us.}
+{291}{}{ÎÒÃÇĞèÒªÕâ¸öµçÌ¨¡£GlowµØÇø±»ÎŞ·¨Í¨ĞĞµÄ·ÏĞæËºÁÑ£¬·øÉä¸ÉÈÅÁËÍ¨³£Î¢ÈõµÄÎŞÏßµç¡£²»¶ÏµÄ½»Á÷½«¸Ä±äÕû¸ö³ÇÊĞ¡£ÎªÎÒÃÇËùÓĞÈËµÄÀûÒæ¶øÅ¬Á¦¡£}
+### {292}{}{And what is recorded on this disc?}
+{292}{}{ÕâÕÅ¹âÅÌÉÏ¼ÇÂ¼ÁËÊ²Ã´£¿}
+### {293}{}{First, the data is for radio broadcasts so that we can communicate at a distance. And secondly... Secondly, some warnings to my brother so that he doesn't make big mistakes.}
+{293}{}{Ê×ÏÈ£¬ÕâĞ©Êı¾İÊÇÓÃÓÚÎŞÏßµç¹ã²¥µÄ£¬ÕâÑùÎÒÃÇ¾Í¿ÉÒÔÔ¶¾àÀëÍ¨ĞÅ¡£Æä´Î¡£¡£¡£Æä´Î£¬¸øÎÒµÜµÜÒ»Ğ©¾¯¸æ£¬ÕâÑùËû¾Í²»»á·¸´ó´íÎó¡£}
 
 
-{296}{}{How to get to the power plant?}
-{297}{}{There are two ways. You can go directly along federal Highway 805, and then turn east from the sign. But the highway is patrolled by military robots. A less dangerous path lies through the toxic swamps of Chula Vista.}
-{298}{}{Okay, I'll try to find it.}
+### {296}{}{How to get to the power plant?}
+{296}{}{ÈçºÎµ½´ï·¢µç³§£¿}
+### {297}{}{There are two ways. You can go directly along federal Highway 805, and then turn east from the sign. But the highway is patrolled by military robots. A less dangerous path lies through the toxic swamps of Chula Vista.}
+{297}{}{ÓĞÁ½ÖÖ·½·¨¡£Äã¿ÉÒÔÖ±½ÓÑØ×Å805ºÅÁª°î¹«Â·×ß£¬È»ºó´Ó±êÖ¾´¦Ïò¶«×ªÍä¡£µ«ÕâÌõ¹«Â·ÓĞ¾üÓÃ»úÆ÷ÈËÑ²Âß¡£Ò»Ìõ²»ÄÇÃ´Î£ÏÕµÄµÀÂ·´©¹ıChula VistaµÄÓĞ¶¾ÕÓÔó¡£}
+### {298}{}{Okay, I'll try to find it.}
+{298}{}{ºÃ°É£¬ÎÒ»áÊÔ×ÅÕÒµ½Ëü¡£}
 
 #Questions
-{300}{}{Can I ask a few questions?}
-{301}{}{Amigo, I'm always happy to listen to you and answer your questions. But there are more important things to do now. You know what to do.}
-{302}{}{It's better if you get busy. You know what I mean.}
-{303}{}{No talking. I'm not sure it's worth talking to you at all.}
-{304}{}{I understand. We'll talk some time later.}
-{305}{}{I would say that you just don't want to see me. Bye.}
-{306}{}{Amigo, I'm always happy to listen to you and answer your questions. }
-{307}{}{Okay, see you later.}
+### {300}{}{Can I ask a few questions?}
+{300}{}{ÎÒÄÜÎÊ¼¸¸öÎÊÌâÂğ£¿}
+### {301}{}{Amigo, I'm always happy to listen to you and answer your questions. But there are more important things to do now. You know what to do.}
+{301}{}{Amigo£¬ÎÒºÜÀÖÒâÌıÄãËµ»°£¬»Ø´ğÄãµÄÎÊÌâ¡£µ«ÏÖÔÚ»¹ÓĞ¸üÖØÒªµÄÊÂÇéÒª×ö¡£ÄãÖªµÀ¸ÃÔõÃ´×ö¡£}
+### {302}{}{It's better if you get busy. You know what I mean.}
+{302}{}{Èç¹ûÄãÃ¦ÆğÀ´»á¸üºÃ¡£ÄãÖªµÀÎÒµÄÒâË¼¡£}
+### {303}{}{No talking. I'm not sure it's worth talking to you at all.}
+{303}{}{²»ÒªËµ»°¡£ÎÒ²»È·¶¨ÊÇ·ñÖµµÃºÍÄãÌ¸Ì¸¡£}
+### {304}{}{I understand. We'll talk some time later.}
+{304}{}{ÎÒÀí½â¡£ÎÒÃÇÉÔºóÔÙÌ¸¡£}
+### {305}{}{I would say that you just don't want to see me. Bye.}
+{305}{}{ÎÒÏëËµÄã¾ÍÊÇ²»Ïë¼ûÎÒ¡£ÔÙ¼û¡£}
+### {306}{}{Amigo, I'm always happy to listen to you and answer your questions. }
+{306}{}{Amigo£¬ÎÒºÜÀÖÒâÌıÄãËµ»°£¬»Ø´ğÄãµÄÎÊÌâ¡£}
+### {307}{}{Okay, see you later.}
+{307}{}{ºÃµÄ£¬»ØÍ·¼û¡£}
 
-{310}{}{I want to know more about you.}
-{311}{}{Who am I? Strange question. I was a doctor once. But the War nullified my license. Now, as you can see, I run a small town. You can learn everything if life forces you to.}
-{312}{}{By the way, about this town. I don't understand, so where is the Dayglow then? What is it?}
-{313}{}{It's in our heart. Glow is a ghoul's dream. The dream of a city where we can safely meet old age. And San Isidro is one of his neighborhoods. The old border wall protects us here.}
-{314}{}{So your goal is to build a Glow?}
-{315}{}{A city for ghouls is my goal. We just want to live like normal people. Without harassment. Without wars. Without grandiose missions to save humanity.}
-{316}{}{I see.}
-{317}{}{Does the Old City also aspire to this paradise?}
-{318}{}{It's not like the Old Town shares your dream.}
-{319}{}{The Old Town is making a mistake. He is too close to the caravan trail and therefore cannot get rid of the corrupting influence of the normies from the northern cities.}
-{320}{}{How do I get to the Old Town?}
-{321}{}{Go north. You can go straight through the piers, in the most radioactive heat. Or you can make a detour through the ruins of the suburbs, providing yourself with new and not always welcome meetings.}
-{322}{}{Clear.}
-{323}{}{What is the Dayglow? Where is it located?}
-{324}{}{Which city are you trying to build?}
-{325}{}{It will be the city as it would have been a hundred years ago. We're collecting everything that's left of the Old World. No one cares about us here, so we can relax and live out our lives in peace.}
-{326}{}{Tell me about yourself.}
+### {310}{}{I want to know more about you.}
+{310}{}{ÎÒÏë¸ü¶àµØÁË½âÄã¡£}
+### {311}{}{Who am I? Strange question. I was a doctor once. But the War nullified my license. Now, as you can see, I run a small town. You can learn everything if life forces you to.}
+{311}{}{ÎÒÊÇË­£¿Ææ¹ÖµÄÎÊÌâ¡£ÎÒÔø¾­ÊÇÒ»ÃûÒ½Éú¡£µ«ÊÇÕ½ÕùÈ¡ÏûÁËÎÒµÄÖ´ÕÕ¡£ÏÖÔÚ£¬ÕıÈçÄãËù¿´µ½µÄ£¬ÎÒ¾­Óª×ÅÒ»¸öĞ¡Õò¡£Èç¹ûÉú»îÆÈÊ¹ÄãÑ§Ï°£¬Äã¿ÉÒÔÑ§µ½Ò»ÇĞ¡£}
+### {312}{}{By the way, about this town. I don't understand, so where is the Dayglow then? What is it?}
+{312}{}{Ë³±ãËµÒ»ÏÂ£¬¹ØÓÚÕâ¸öĞ¡Õò¡£ÎÒ²»Ã÷°×£¬ÄÇÃ´Ò¹¹âÔÚÄÄÀïÄØ£¿ËüÊÇÊ²Ã´£¿}
+### {313}{}{It's in our heart. Glow is a ghoul's dream. The dream of a city where we can safely meet old age. And San Isidro is one of his neighborhoods. The old border wall protects us here.}
+{313}{}{ËüÔÚÎÒÃÇĞÄÖĞ¡£»Ô¹âÊÇÊ³Ê¬¹íµÄÃÎÏë¡£Ò»¸ö³ÇÊĞµÄÃÎÏë£¬ÔÚÄÇÀïÎÒÃÇ¿ÉÒÔ°²È«µØÓ­½ÓÀÏÄê¡£Ê¥ÒÁÎ÷µÂÂŞÊÇËûµÄÒ»¸öÉçÇø¡£¹ÅÀÏµÄ±ß¾³Ç½±£»¤×ÅÎÒÃÇ¡£}
+### {314}{}{So your goal is to build a Glow?}
+{314}{}{ËùÒÔÄãµÄÄ¿±êÊÇ½¨Á¢Ò»¸ö»Ô¹â£¿}
+### {315}{}{A city for ghouls is my goal. We just want to live like normal people. Without harassment. Without wars. Without grandiose missions to save humanity.}
+{315}{}{Ò»¸öÊ³Ê¬¹íÖ®³ÇÊÇÎÒµÄÄ¿±ê¡£ÎÒÃÇÖ»ÏëÏñÆÕÍ¨ÈËÒ»ÑùÉú»î¡£Ã»ÓĞÉ§ÈÅ¡£Ã»ÓĞÕ½Õù¡£Ã»ÓĞÕü¾ÈÈËÀàµÄºêÎ°Ê¹Ãü¡£}
+### {316}{}{I see.}
+{316}{}{ÎÒÃ÷°×ÁË¡£}
+### {317}{}{Does the Old City also aspire to this paradise?}
+{317}{}{ÀÏ³ÇÒ²ÏòÍùÕâ¸öÌìÌÃÂğ£¿}
+### {318}{}{It's not like the Old Town shares your dream.}
+{318}{}{Õâ²»ÏñÊÇÀÏ³ÇÇø·ÖÏíÄãµÄÃÎÏë¡£}
+### {319}{}{The Old Town is making a mistake. He is too close to the caravan trail and therefore cannot get rid of the corrupting influence of the normies from the northern cities.}
+{319}{}{ÀÏ³ÇÇø·¸ÁËÒ»¸ö´íÎó¡£ËûÀëÉÌ¶ÓÂ·ÏßÌ«½üÁË£¬Òò´ËÎŞ·¨°ÚÍÑ±±·½³ÇÊĞÕı³£ÈËµÄ¸¯°ÜÓ°Ïì¡£}
+### {320}{}{How do I get to the Old Town?}
+{320}{}{ÎÒÔõÃ´È¥ÀÏ³Ç£¿}
+### {321}{}{Go north. You can go straight through the piers, in the most radioactive heat. Or you can make a detour through the ruins of the suburbs, providing yourself with new and not always welcome meetings.}
+{321}{}{Íù±±×ß¡£ÔÚ·ÅÉäĞÔ×îÇ¿µÄ¸ßÎÂÏÂ£¬Äã¿ÉÒÔÖ±½Ó´©¹ıÂëÍ·¡£»òÕßÄã¿ÉÒÔÈÆµÀ´©¹ı½¼ÇøµÄ·ÏĞæ£¬Îª×Ô¼ºÌá¹©ĞÂµÄ¡¢²¢²»×ÜÊÇÊÜ»¶Ó­µÄ»áÒé¡£}
+### {322}{}{Clear.}
+{322}{}{Çå³şµÄ}
+### {323}{}{What is the Dayglow? Where is it located?}
+{323}{}{Ê²Ã´ÊÇÒ¹¹â£¿ËüÔÚÄÄÀï£¿}
+### {324}{}{Which city are you trying to build?}
+{324}{}{ÄãÏë½¨ÄÄ¸ö³ÇÊĞ£¿}
+### {325}{}{It will be the city as it would have been a hundred years ago. We're collecting everything that's left of the Old World. No one cares about us here, so we can relax and live out our lives in peace.}
+{325}{}{Õâ½«ÊÇÒ»×ùÒ»°ÙÄêÇ°µÄ³ÇÊĞ¡£ÎÒÃÇÕıÔÚÊÕ¼¯¾ÉÊÀ½çÊ£ÏÂµÄÒ»ÇĞ¡£ÕâÀïÃ»ÓĞÈË¹ØĞÄÎÒÃÇ£¬ËùÒÔÎÒÃÇ¿ÉÒÔ·ÅËÉÏÂÀ´£¬Æ½¾²µØÉú»î¡£}
+### {326}{}{Tell me about yourself.}
+{326}{}{¸æËßÎÒÄã×Ô¼º¡£}
 
-{350}{}{I gave the holodisk to Butler. Your message didn't convince him.}
-{1350}{}{I gave the holodisk to Butler. Your message didn't convince him.}
-{351}{}{Not surprising. John and I are arguing about the Dayglow. About how the city of ghouls should be. He pays too much attention to the normies and completely forgot that we are people of the Old World. We can revive the city, rebuild it anew! Yes, the ghouls are weak, but we have remnants of old cars and energy. With the help of technology, we can create for ourselves all the necessary conditions for life, even in the midst of scorched ruins.}
-{352}{}{By the way, after reading the holodisk, he asked me to help him in the production of chips at the aircraft factory.}
-{353}{}{What a fool! This plant will still serve us, the gulyams. Don't give the chips to the Old Town, give them to me. Our technician uses them to repair robots, and with their help we will restore the city. This will give us more advantages in the future than a stupid exchange for food from the caravaneers.}
-{354}{}{I'll think about it.}
-{355}{}{OK. I will do so.}
-{356}{}{I knew you'd say that, so I took these chips with me in advance. Here they are.}
-{1356}{}{I knew you'd say that, so I took these chips with me in advance. Here they are.}
-{357}{}{Thank you. Here are 1000 caps for the job. The plant will also serve us. You can't leave him to be torn to pieces. I think you should personally tell John that the plant is under my control and that I will not give him the chips.}
-{358}{}{Okay.}
-{359}{}{Here are the chips that Butler wanted to sell. But he won't be able to.}
-{360}{}{Then I have bad news for you — Butler has already taken the chips and is preparing to sell them.}
-{361}{}{This is really bad news. I think you should keep an eye on Butler. Let me know if you find out what new he's up to.}
-{362}{}{OK.}
-{363}{}{I have bad news for you — Butler has already taken the chips and is preparing to sell them.}
-{364}{}{Yes, and also — let me know what Butler is up to if you find out.}
-{365}{}{OK.}
+### {350}{}{I gave the holodisk to Butler. Your message didn't convince him.}
+{350}{}{ÎÒ°ÑÈ«Ï¢ÅÌ¸øÁË°ÍÌØÀÕ¡£ÄãµÄĞÅÏ¢Ã»ÓĞËµ·şËû¡£}
+### {1350}{}{I gave the holodisk to Butler. Your message didn't convince him.}
+{1350}{}{ÎÒ°ÑÈ«Ï¢ÅÌ¸øÁË°ÍÌØÀÕ¡£ÄãµÄĞÅÏ¢Ã»ÓĞËµ·şËû¡£}
+### {351}{}{Not surprising. John and I are arguing about the Dayglow. About how the city of ghouls should be. He pays too much attention to the normies and completely forgot that we are people of the Old World. We can revive the city, rebuild it anew! Yes, the ghouls are weak, but we have remnants of old cars and energy. With the help of technology, we can create for ourselves all the necessary conditions for life, even in the midst of scorched ruins.}
+{351}{}{Õâ²¢²»Ææ¹Ö¡£Ô¼º²ºÍÎÒÔÚÎª¡°Ò¹¹â¡±ÕùÂÛ¡£¹ØÓÚÊ³Ê¬¹íÖ®³ÇÓ¦¸ÃÊÇÊ²Ã´Ñù×Ó¡£ËûÌ«¹Ø×¢ÆÕÍ¨ÈËÁË£¬ÍêÈ«Íü¼ÇÁËÎÒÃÇÊÇ¾ÉÊÀ½çµÄÈË¡£ÎÒÃÇ¿ÉÒÔ¸´ĞËÕâ×ù³ÇÊĞ£¬ÖØ½¨Ëü£¡ÊÇµÄ£¬Ê³Ê¬¹íºÜĞéÈõ£¬µ«ÎÒÃÇÓĞ¾ÉÆû³µºÍÄÜÔ´µÄ²ĞÓà¡£ÔÚ¼¼ÊõµÄ°ïÖúÏÂ£¬ÎÒÃÇ¿ÉÒÔÎª×Ô¼º´´ÔìÒ»ÇĞ±ØÒªµÄÉú»îÌõ¼ş£¬¼´Ê¹ÊÇÔÚÉÕ½¹µÄ·ÏĞæÖĞ¡£}
+### {352}{}{By the way, after reading the holodisk, he asked me to help him in the production of chips at the aircraft factory.}
+{352}{}{Ë³±ãËµÒ»¾ä£¬ÔÚÔÄ¶ÁÁËÈ«Ï¢Í¼Ö®ºó£¬ËûÈÃÎÒ°ïÖúËûÔÚ·É»ú¹¤³§Éú²úĞ¾Æ¬¡£}
+### {353}{}{What a fool! This plant will still serve us, the gulyams. Don't give the chips to the Old Town, give them to me. Our technician uses them to repair robots, and with their help we will restore the city. This will give us more advantages in the future than a stupid exchange for food from the caravaneers.}
+{353}{}{ÕæÊÇ¸öÉµ¹Ï£¡ÕâÖÖÖ²ÎïÈÔÈ»»áÎªÎÒÃÇ·şÎñ£¬¹ÅÀûÑÇÄ·ÈË¡£²»Òª°ÑĞ¾Æ¬¸øÀÏ³Ç£¬¸øÎÒ¡£ÎÒÃÇµÄ¼¼ÊõÈËÔ±ÓÃËüÃÇÀ´ĞŞÀí»úÆ÷ÈË£¬ÔÚËûÃÇµÄ°ïÖúÏÂ£¬ÎÒÃÇ½«»Ö¸´Õâ×ù³ÇÊĞ¡£Õâ½«ÔÚÎ´À´¸øÎÒÃÇ´øÀ´¸ü¶àµÄÓÅÊÆ£¬¶ø²»ÊÇ´Ó·¿³µË¾»úÄÇÀïÓŞ´ÀµØ½»»»Ê³Îï¡£}
+### {354}{}{I'll think about it.}
+{354}{}{ÎÒ»á¿¼ÂÇµÄ¡£}
+### {355}{}{OK. I will do so.}
+{355}{}{ºÃµÄ£¬ÎÒ»áµÄ¡£}
+### {356}{}{I knew you'd say that, so I took these chips with me in advance. Here they are.}
+{356}{}{ÎÒÖªµÀÄã»áÕâÃ´Ëµ£¬ËùÒÔÎÒÌáÇ°´øÉÏÁËÕâĞ©³ïÂë¡£ËüÃÇÔÚÕâ¶ù¡£}
+### {1356}{}{I knew you'd say that, so I took these chips with me in advance. Here they are.}
+{1356}{}{ÎÒÖªµÀÄã»áÕâÃ´Ëµ£¬ËùÒÔÎÒÌáÇ°´øÉÏÁËÕâĞ©³ïÂë¡£ËüÃÇÔÚÕâ¶ù¡£}
+### {357}{}{Thank you. Here are 1000 caps for the job. The plant will also serve us. You can't leave him to be torn to pieces. I think you should personally tell John that the plant is under my control and that I will not give him the chips.}
+{357}{}{·Ç³£¸ĞĞ»¡£ÕâÊÇÕâ·İ¹¤×÷µÄ1000¶¥Ã±×Ó¡£Ö²ÎïÒ²»áÎªÎÒÃÇ·şÎñ¡£Äã²»ÄÜÈÃËû±»Ëº³ÉËéÆ¬¡£ÎÒÈÏÎªÄãÓ¦¸ÃÇ××Ô¸æËßÔ¼º²£¬¹¤³§ÔÚÎÒµÄ¿ØÖÆÖ®ÏÂ£¬ÎÒ²»»á¸øËû³ïÂë¡£}
+### {358}{}{Okay.}
+{358}{}{¿ÉÒÔ}
+### {359}{}{Here are the chips that Butler wanted to sell. But he won't be able to.}
+{359}{}{ÕâÊÇ°ÍÌØÀÕÏëÂôµÄ³ïÂë¡£µ«Ëû×ö²»µ½¡£}
+### {360}{}{Then I have bad news for you ? Butler has already taken the chips and is preparing to sell them.}
+{360}{}{ÄÇÎÒÓĞ¸ö»µÏûÏ¢Òª¸æËßÄã? °ÍÌØÀÕÒÑ¾­ÄÃµ½ÁË³ïÂë£¬Õı×¼±¸°ÑËüÃÇÂôµô¡£}
+### {361}{}{This is really bad news. I think you should keep an eye on Butler. Let me know if you find out what new he's up to.}
+{361}{}{ÕâÕæÊÇ¸ö»µÏûÏ¢¡£ÎÒÈÏÎªÄãÓ¦¸Ã¹Ø×¢°ÍÌØÀÕ¡£Èç¹ûÄãÖªµÀËûÔÚ¸ÉÊ²Ã´£¬Çë¸æËßÎÒ¡£}
+### {362}{}{OK.}
+{362}{}{ºÃ°¡}
+### {363}{}{I have bad news for you ? Butler has already taken the chips and is preparing to sell them.}
+{363}{}{ÎÒÓĞ¸ö»µÏûÏ¢Òª¸æËßÄã? °ÍÌØÀÕÒÑ¾­ÄÃµ½ÁË³ïÂë£¬Õı×¼±¸°ÑËüÃÇÂôµô¡£}
+### {364}{}{Yes, and also ? let me know what Butler is up to if you find out.}
+{364}{}{ÊÇµÄ£¬¶øÇÒ? Èç¹ûÄã·¢ÏÖÁË£¬ÈÃÎÒÖªµÀ°ÍÌØÀÕÔÚ¸ÉÊ²Ã´¡£}
+### {365}{}{OK.}
+{365}{}{ºÃ°¡}
 
-{370}{}{Butler is going to open a military base on the island...}
-{371}{}{He's making a mistake! He will sell most of the finds to people! And this will provoke a big redistribution in human settlements. As soon as the war with super mutants has subsided, the battles for old technologies will begin again. Normies don't understand how to handle the legacy of the Old World. Besides, they can use it against us. Technology should stay for free! We need them more. And we know better how to use them.}
-{372}{}{What are you going to do?}
-{373}{}{Butler won't back down. We have to land first and get everything for ourselves. I'll send a team to the pier to intercept. And you use the radio station, as he asked, and then go to the pier.}
-{374}{}{OK.}
+### {370}{}{Butler is going to open a military base on the island...}
+{370}{}{°ÍÌØÀÕ½«ÔÚµºÉÏ¿ªÉèÒ»¸ö¾üÊÂ»ùµØ¡£¡£¡£}
+### {371}{}{He's making a mistake! He will sell most of the finds to people! And this will provoke a big redistribution in human settlements. As soon as the war with super mutants has subsided, the battles for old technologies will begin again. Normies don't understand how to handle the legacy of the Old World. Besides, they can use it against us. Technology should stay for free! We need them more. And we know better how to use them.}
+{371}{}{Ëû·¸ÁËÒ»¸ö´íÎó£¡Ëû»á°Ñ´ó²¿·ÖµÄ·¢ÏÖÂô¸ø±ğÈË£¡Õâ½«Òı·¢ÈËÀà×¡ÇøµÄ´ó¹æÄ£ÔÙ·ÖÅä¡£Ò»µ©Óë³¬¼¶±äÖÖÈËµÄÕ½ÕùÆ½Ï¢£¬Õù¶á¾É¼¼ÊõµÄ¶·Õù½«ÔÙ´Î¿ªÊ¼¡£Õı³£ÈË²»ÖªµÀÈçºÎ´¦Àí¾ÉÊÀ½çµÄÒÅ²ú¡£´ËÍâ£¬ËûÃÇ¿ÉÒÔÓÃËüÀ´¶Ô¸¶ÎÒÃÇ¡£¼¼ÊõÓ¦¸ÃÊÇÃâ·ÑµÄ£¡ÎÒÃÇ¸üĞèÒªËûÃÇ¡£ÎÒÃÇ¸üÇå³şÈçºÎÊ¹ÓÃËüÃÇ¡£}
+### {372}{}{What are you going to do?}
+{372}{}{Äã´òËãÔõÃ´°ì£¿}
+### {373}{}{Butler won't back down. We have to land first and get everything for ourselves. I'll send a team to the pier to intercept. And you use the radio station, as he asked, and then go to the pier.}
+{373}{}{°ÍÌØÀÕ²»»áÈÃ²½µÄ¡£ÎÒÃÇ±ØĞëÏÈ×ÅÂ½£¬°ÑÒ»ÇĞ¶¼Áô¸ø×Ô¼º¡£ÎÒ»áÅÉÒ»¸öĞ¡×éÈ¥ÂëÍ·À¹½Ø¡£°´ÕÕËûµÄÒªÇó£¬ÄãÊ¹ÓÃµçÌ¨£¬È»ºóÈ¥ÂëÍ·¡£}
+### {374}{}{OK.}
+{374}{}{ºÃ°¡}

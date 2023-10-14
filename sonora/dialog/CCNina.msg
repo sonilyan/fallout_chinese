@@ -1,49 +1,92 @@
-{100}{}{This is Lucía.}
-{101}{}{You see a girl in ceremonial attire.}
-{102}{}{Thanks for everything.}
-{103}{}{Muchas gracias.}
-{104}{}{The wreath has been returned to its rightful owner.}
-{105}{}{It seems to be yours. Take it and do what you want with it.}
-{106}{}{It's too early to give it to you yet.}
+### {100}{}{This is Luc?a.}
+{100}{}{ÎÒÊÇLuc?Ò»}
+### {101}{}{You see a girl in ceremonial attire.}
+{101}{}{Äã¿´µ½Ò»¸ö´©×ÅÒÇÊ½·ş×°µÄÅ®º¢¡£}
+### {102}{}{Thanks for everything.}
+{102}{}{Ğ»Ğ»ÄãËù×öµÄÒ»ÇĞ¡£}
+### {103}{}{Muchas gracias.}
+{103}{}{Muchas gracias¡£}
+### {104}{}{The wreath has been returned to its rightful owner.}
+{104}{}{»¨È¦ÒÑ¹é»¹ÆäºÏ·¨Ö÷ÈË¡£}
+### {105}{}{It seems to be yours. Take it and do what you want with it.}
+{105}{}{ËüËÆºõÊÇÄãµÄ¡£ÄÃ×ÅËü£¬ÓÃËü×öÄãÏë×öµÄÊÂ¡£}
+### {106}{}{It's too early to give it to you yet.}
+{106}{}{ÏÖÔÚ¸øÄã»¹ÎªÊ±¹ıÔç¡£}
 
 {110}{}{}
 
 #Dialogue before the ceremony
-{200}{}{Buenas noches.}
-{201}{}{Buenos dias.}
-{202}{}{Nevermind to me.}
-{203}{}{Hi. Who are you? What's your name?}
-{204}{}{Mi nombre es Lucía.}
-{205}{}{Lucia, then. What kind of special outfit are you wearing? Is this holiday really in your honor? }
-{206}{}{Hoy soy reina. Este es un gran honor para mi... (excitedly hides his gaze) Dime, honestamente, te gusta nuestra ciudad?}
-{207}{}{I don't understand, are you happy or crying?}
-{208}{}{(bottlecaps his face) Estoy bien.}
-{209}{}{Okay, I'm going to keep having fun.}
-{210}{}{Hi. I speak Spanish too. Can I meet you?}
-{211}{}{My name is Lucía.}
-{212}{}{You seem so modest, and your outfit is so provocative. Is this holiday in your honor?}
-{213}{}{I'm going to be queen today. It's such a tradition. And it's a great honor for me... (excitedly hides his gaze) Tell me, do you like our city and this holiday?}
-{214}{}{Yes, this is the most beautiful and friendly place I've ever been!}
-{1214}{}{Yes, this is the most beautiful and friendly place I've ever been!}
-{215}{}{Really? Oh, I'm so glad. I will do everything to keep it that way.}
-{216}{}{Of course, you're the queen... I don't understand, are you happy or crying?}
-{217}{}{(bottlecaps his face) I am well... Talk to someone else.}
-{218}{}{Okay, I'm going to keep having fun.}
-{219}{}{There is nothing better than my beautiful Villa. You have no idea how much better it is.}
-{220}{}{Really? Ah, I'd like to see. But I will never leave my family.}
-{221}{}{I don't understand, are you laughing at me or crying?}
-{222}{}{Do you know where your crown could have gone?}
-{223}{}{Is it missing? Oh, that's bad... find her, please! I have to go through the ceremony, otherwise the saints will be angry!}
-{224}{}{Okay, okay. I'll try to talk to someone else. Maybe someone saw something.}
+### {200}{}{Buenas noches.}
+{200}{}{²¼°£ÄÉË¹¡¤ÅµÇĞË¹¡£}
+### {201}{}{Buenos dias.}
+{201}{}{²¼ÒËÅµË¹°¬ÀûË¹¡£}
+### {202}{}{Nevermind to me.}
+{202}{}{¶ÔÎÒÀ´ËµÃ»¹ØÏµ¡£}
+### {203}{}{Hi. Who are you? What's your name?}
+{203}{}{ÄãºÃÄãÊÇË­£¿Äã½ĞÊ²Ã´Ãû×Ö£¿}
+### {204}{}{Mi nombre es Luc?a.}
+{204}{}{Mi nombre es Luc?Ò»}
+### {205}{}{Lucia, then. What kind of special outfit are you wearing? Is this holiday really in your honor? }
+{205}{}{Â¶Î÷æ«¡£Äã´©Ê²Ã´ÌØ±ğµÄÒÂ·ş£¿Õâ¸ö½ÚÈÕÕæµÄÊÇÎªÁËÄãÂğ£¿}
+### {206}{}{Hoy soy reina. Este es un gran honor para mi... (excitedly hides his gaze) Dime, honestamente, te gusta nuestra ciudad?}
+{206}{}{Hoy´ó¶¹reina¡£Este es un gran honor para mi¡­£¨ĞË·ÜµØÒş²Ø×ÅÄ¿¹â£©Dime£¬honestarmte£¬te gusta nuestra ciudad£¿}
+### {207}{}{I don't understand, are you happy or crying?}
+{207}{}{ÎÒ²»Ã÷°×£¬ÄãÊÇ¸ßĞË»¹ÊÇ¿ŞÆü£¿}
+### {208}{}{(bottlecaps his face) Estoy bien.}
+{208}{}{£¨ÓÃÆ¿×ÓÈû×¡ËûµÄÁ³£©Estoy bien¡£}
+### {209}{}{Okay, I'm going to keep having fun.}
+{209}{}{ºÃ°É£¬ÎÒ»á¼ÌĞøÍæµÃ¿ªĞÄµÄ¡£}
+### {210}{}{Hi. I speak Spanish too. Can I meet you?}
+{210}{}{ÄãºÃÎÒÒ²»áËµÎ÷°àÑÀÓï¡£ÎÒÄÜ¼û¼ûÄãÂğ£¿}
+### {211}{}{My name is Luc?a.}
+{211}{}{ÎÒµÄÃû×Ö½ĞÂÀ¿Ë?Ò»}
+### {212}{}{You seem so modest, and your outfit is so provocative. Is this holiday in your honor?}
+{212}{}{Äã¿´ÆğÀ´ºÜÇ«Ğé£¬ÄãµÄ´ò°çÒ²ºÜÓĞÌô¶ºĞÔ¡£Õâ¸ö½ÚÈÕÊÇÎªÁËÄãÂğ£¿}
+### {213}{}{I'm going to be queen today. It's such a tradition. And it's a great honor for me... (excitedly hides his gaze) Tell me, do you like our city and this holiday?}
+{213}{}{ÎÒ½ñÌìÒªµ±Å®Íõ¡£ÕâÊÇÒ»ÖÖ´«Í³¡£Õâ¶ÔÎÒÀ´ËµÊÇÒ»ÖÖÄª´óµÄÈÙÓş¡­¡­£¨ĞË·ÜµØÒş²Ø×ÅËûµÄÄ¿¹â£©¸æËßÎÒ£¬ÄãÏ²»¶ÎÒÃÇµÄ³ÇÊĞºÍÕâ¸ö½ÚÈÕÂğ£¿}
+### {214}{}{Yes, this is the most beautiful and friendly place I've ever been!}
+{214}{}{ÊÇµÄ£¬ÕâÊÇÎÒÈ¥¹ıµÄ×îÃÀÀö¡¢×îÓÑºÃµÄµØ·½£¡}
+### {1214}{}{Yes, this is the most beautiful and friendly place I've ever been!}
+{1214}{}{ÊÇµÄ£¬ÕâÊÇÎÒÈ¥¹ıµÄ×îÃÀÀö¡¢×îÓÑºÃµÄµØ·½£¡}
+### {215}{}{Really? Oh, I'm so glad. I will do everything to keep it that way.}
+{215}{}{ÕæÕıµØÅ¶£¬ÎÒÌ«¸ßĞËÁË¡£ÎÒ»á¾¡Ò»ÇĞÅ¬Á¦±£³ÖÕâÖÖ×´Ì¬¡£}
+### {216}{}{Of course, you're the queen... I don't understand, are you happy or crying?}
+{216}{}{µ±È»£¬ÄãÊÇÅ®Íõ¡£¡£¡£ÎÒ²»Ã÷°×£¬ÄãÊÇ¸ßĞË»¹ÊÇ¿ŞÆü£¿}
+### {217}{}{(bottlecaps his face) I am well... Talk to someone else.}
+{217}{}{£¨ÓÃÆ¿×ÓÈû×¡ËûµÄÁ³£©ÎÒºÜºÃ¡£¡£¡£ÓëÆäËûÈË½»Ì¸¡£}
+### {218}{}{Okay, I'm going to keep having fun.}
+{218}{}{ºÃ°É£¬ÎÒ»á¼ÌĞøÍæµÃ¿ªĞÄµÄ¡£}
+### {219}{}{There is nothing better than my beautiful Villa. You have no idea how much better it is.}
+{219}{}{Ã»ÓĞÊ²Ã´±ÈÎÒÃÀÀöµÄ±ğÊû¸üºÃµÄÁË¡£Äã¸ù±¾²»ÖªµÀËüÓĞ¶àºÃ¡£}
+### {220}{}{Really? Ah, I'd like to see. But I will never leave my family.}
+{220}{}{ÕæÕıµØ°¡£¬ÎÒÏë¿´¿´¡£µ«ÎÒÓÀÔ¶²»»áÀë¿ªÎÒµÄ¼ÒÈË¡£}
+### {221}{}{I don't understand, are you laughing at me or crying?}
+{221}{}{ÎÒ²»Ã÷°×£¬ÄãÊÇÔÚ³°Ğ¦ÎÒ»¹ÊÇÔÚ¿Ş£¿}
+### {222}{}{Do you know where your crown could have gone?}
+{222}{}{ÄãÖªµÀÄãµÄÍõ¹Ú»áÈ¥ÄÄÀïÂğ£¿}
+### {223}{}{Is it missing? Oh, that's bad... find her, please! I have to go through the ceremony, otherwise the saints will be angry!}
+{223}{}{Ëü²»¼ûÁËÂğ£¿Å¶£¬Ì«Ôã¸âÁË¡£¡£¡£ÇëÕÒµ½Ëı£¡ÎÒ±ØĞëÍ¨¹ıÒÇÊ½£¬·ñÔòÊ¥ÈË»áÉúÆøµÄ£¡}
+### {224}{}{Okay, okay. I'll try to talk to someone else. Maybe someone saw something.}
+{224}{}{ºÃ°É£¬ºÃ°É¡£ÎÒ»áÊÔ×ÅºÍÆäËûÈËÌ¸Ì¸¡£Ò²ĞíÓĞÈË¿´µ½ÁËÊ²Ã´¡£}
 
 #Dialogue after the ceremony
-{230}{}{(He sits on the floor and looks down in frustration)}
-{231}{}{[Leave]}
-{232}{}{Hey, how are you?}
-{233}{}{(Puts his head on his knees)}
-{234}{}{Are you okay?}
-{235}{}{(pulls back his hand and pushes you away) Go home, gringo! El Diablo ya está aqu?!}
-{236}{}{El Diablo? Who is it? What are you talking about anyway? I don't understand...}
-{237}{}{El Diablo is dead. Do you understand? (show with gestures) Dead!}
-{238}{}{(looks up in amazement) El Diablo está muerto?.. No... No! (runs away from the church)}
-{239}{}{Come on, get some fresh air. Now you can afford it.}
+### {230}{}{(He sits on the floor and looks down in frustration)}
+{230}{}{£¨Ëû×øÔÚµØ°åÉÏ¾ÚÉ¥µØÍùÏÂ¿´£©}
+### {231}{}{[Leave]}
+{231}{}{[Àë¿ª]}
+### {232}{}{Hey, how are you?}
+{232}{}{ºÙ£¬ÄãºÃÂğ£¿}
+### {233}{}{(Puts his head on his knees)}
+{233}{}{£¨°ÑÍ··ÅÔÚÏ¥¸ÇÉÏ£©}
+### {234}{}{Are you okay?}
+{234}{}{Äã»¹ºÃÂğ£¿}
+### {235}{}{(pulls back his hand and pushes you away) Go home, gringo! El Diablo ya est? aqu?!}
+{235}{}{£¨À­»ØÊÖÍÆ¿ªÄã£©»Ø¼Ò°É£¬Íâ¹úÀĞ£¡°µºÚÆÆ»µÉñ? aqu£¿£¡}
+### {236}{}{El Diablo? Who is it? What are you talking about anyway? I don't understand...}
+{236}{}{°µºÚÆÆ»µÉñ£¿ÊÇË­£¿Äãµ½µ×ÔÚËµÊ²Ã´£¿ÎÒ²»Ã÷°×¡£¡£¡£}
+### {237}{}{El Diablo is dead. Do you understand? (show with gestures) Dead!}
+{237}{}{°µºÚÆÆ»µÉñËÀÁË¡£ÄãÃ÷°×Âğ£¿£¨ÊÖÊÆ±íÑİ£©ËÀÁË£¡}
+### {238}{}{(looks up in amazement) El Diablo est? muerto?.. No... No! (runs away from the church)}
+{238}{}{£¨¾ªÑÈµØÌ§Í·£©El Diablo est? ÄÂ¶ûÍĞ£¿¡£¡£²»¡­²»£¡£¨ÌÓÀë½ÌÌÃ£©}
+### {239}{}{Come on, get some fresh air. Now you can afford it.}
+{239}{}{À´°É£¬ºôÎüĞÂÏÊ¿ÕÆø¡£ÏÖÔÚÄã¿ÉÒÔ¸ºµ£µÃÆğÁË¡£}

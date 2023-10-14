@@ -1,154 +1,299 @@
-{100}{}{There's a bunch in front of you.}
-{101}{}{You see a super mutant. He is wearing an army helmet and trousers made of camouflage fabric.}
+### {100}{}{There's a bunch in front of you.}
+{100}{}{ÄãÃæÇ°ÓĞÒ»ÈºÈË¡£}
+### {101}{}{You see a super mutant. He is wearing an army helmet and trousers made of camouflage fabric.}
+{101}{}{Äã¿´µ½Ò»¸ö³¬¼¶±äÖÖÈË¡£Ëû´÷×Å¾üÓÃÍ·¿ø£¬´©×ÅÃÔ²Ê²¼ÖÆ³ÉµÄ¿ã×Ó¡£}
 
-{102}{}{Don't you dare touch the shadows, normie!}
-{103}{}{I won't forgive you for that, normie!}
-{104}{}{My brothers, I'm with you!}
-{105}{}{Are my brothers here? Ho-ho, then you know whose side I'm on.}
-{106}{}{Don't you dare touch the shadows!}
-{107}{}{I won't forgive you for that!}
-{108}{}{My brothers, I'm with you!}
-{109}{}{I see my brothers in arms. It's better not to anger them.}
+### {102}{}{Don't you dare touch the shadows, normie!}
+{102}{}{Äã²»¸ÒÅöÒõÓ°£¬ÅµÃ×£¡}
+### {103}{}{I won't forgive you for that, normie!}
+{103}{}{ÎÒ²»»áÔ­ÁÂÄãµÄ£¬ÅµÃ×£¡}
+### {104}{}{My brothers, I'm with you!}
+{104}{}{ÎÒµÄĞÖµÜÃÇ£¬ÎÒºÍÄãÃÇÔÚÒ»Æğ£¡}
+### {105}{}{Are my brothers here? Ho-ho, then you know whose side I'm on.}
+{105}{}{ÎÒµÄĞÖµÜÃÇÔÚÕâÀïÂğ£¿ºÇºÇ£¬ÄÇÄã¾ÍÖªµÀÎÒÕ¾ÔÚÄÄÒ»±ßÁË¡£}
+### {106}{}{Don't you dare touch the shadows!}
+{106}{}{Äã²»¸ÒÅöÒõÓ°£¡}
+### {107}{}{I won't forgive you for that!}
+{107}{}{ÎÒ²»»áÔ­ÁÂÄãµÄ£¡}
+### {108}{}{My brothers, I'm with you!}
+{108}{}{ÎÒµÄĞÖµÜÃÇ£¬ÎÒºÍÄãÃÇÔÚÒ»Æğ£¡}
+### {109}{}{I see my brothers in arms. It's better not to anger them.}
+{109}{}{ÎÒ¿´µ½ÎÒµÄĞÖµÜÃÇÔÚ»³Àï¡£×îºÃ²»Òª¼¤Å­ËûÃÇ¡£}
 
-{110}{}{The Creator was right — all of you had to be converted!}
-{111}{}{Hello.}
-{112}{}{[take in the party]}
-{113}{}{[remove from party]}
-{114}{}{[remove weapon from hand]}
-{115}{}{Later.}
-{116}{}{Right. You don't have to fight. A bunch of approves.}
-{117}{}{}
-{118}{}{}
-{119}{}{}
+### {110}{}{The Creator was right ? all of you had to be converted!}
+{110}{}{ÔìÎïÖ÷ÊÇ¶ÔµÄ? ÄãÃÇËùÓĞÈË¶¼±ØĞëğ§ÒÀ£¡}
+### {111}{}{Hello.}
+{111}{}{ÄãºÃ}
+### {112}{}{[take in the party]}
+{112}{}{[²Î¼Ó¾Û»á]}
+### {113}{}{[remove from party]}
+{113}{}{[´Ó²ÎÓë·½ÖĞÉ¾³ı]}
+### {114}{}{[remove weapon from hand]}
+{114}{}{[´ÓÊÖÖĞÈ¡³öÎäÆ÷]}
+### {115}{}{Later.}
+{115}{}{ºóÀ´}
+### {116}{}{Right. You don't have to fight. A bunch of approves.}
+{116}{}{ÕıÈ·µÄÄã²»±Ø´ò¼Ü¡£Ò»¶ÑÔŞÍ¬¡£}
+### {117}{}{}
+{117}{}{error : string is empty}
+### {118}{}{}
+{118}{}{error : string is empty}
+### {119}{}{}
+{119}{}{error : string is empty}
 
-{150}{}{Dead people live here. They don't like outsiders. But they will not attack themselves.}
-{151}{}{The largest Gulsky camp. Normies also happen here.}
-{152}{}{The very heart of the ruins. This place is poorly explored.}
-{153}{}{I haven't been further than the outpost yet.}
-{154}{}{See the island? There was a military base there. But it is destroyed.}
-{155}{}{}
-{156}{}{If you meet a wild animal, don't be afraid, the Pile will protect you.}
-{157}{}{A bunch can't do that. The pile is too big.}
-{158}{}{You don't treat ghouls well. The pile is no longer on your team.}
-{159}{}{A bunch of people leave your company until you fix your reputation.}
+### {150}{}{Dead people live here. They don't like outsiders. But they will not attack themselves.}
+{150}{}{ËÀÈË×¡ÔÚÕâÀï¡£ËûÃÇ²»Ï²»¶ÍâÈË¡£µ«ËûÃÇ²»»á¹¥»÷×Ô¼º¡£}
+### {151}{}{The largest Gulsky camp. Normies also happen here.}
+{151}{}{×î´óµÄ¹Å¶ûË¹»ùÓªµØ¡£Õı³£Çé¿öÒ²·¢ÉúÔÚÕâÀï¡£}
+### {152}{}{The very heart of the ruins. This place is poorly explored.}
+{152}{}{·ÏĞæµÄÖĞĞÄ¡£Õâ¸öµØ·½Ì½Ë÷µÃºÜÉÙ¡£}
+### {153}{}{I haven't been further than the outpost yet.}
+{153}{}{ÎÒ»¹Ã»È¥¹ıÇ°ÉÚÕ¾¡£}
+### {154}{}{See the island? There was a military base there. But it is destroyed.}
+{154}{}{¿´µ½µºÁËÂğ£¿ÄÇÀïÓĞÒ»¸ö¾üÊÂ»ùµØ¡£µ«Ëü±»´İ»ÙÁË¡£}
+### {155}{}{}
+{155}{}{error : string is empty}
+### {156}{}{If you meet a wild animal, don't be afraid, the Pile will protect you.}
+{156}{}{Èç¹ûÄãÓöµ½Ò°Éú¶¯Îï£¬²»Òªº¦ÅÂ£¬³É¶ÑµÄ¶¯Îï»á±£»¤ÄãµÄ¡£}
+### {157}{}{A bunch can't do that. The pile is too big.}
+{157}{}{Ò»ÈºÈË×ö²»µ½¡£Õâ¶Ñ¶«Î÷Ì«´óÁË¡£}
+### {158}{}{You don't treat ghouls well. The pile is no longer on your team.}
+{158}{}{Äã¶ÔÊ³Ê¬¹í²»ºÃ¡£ÄãµÄ¶ÓÎéÖĞ²»ÔÙÓĞÕâ¶ÑÈË¡£}
+### {159}{}{A bunch of people leave your company until you fix your reputation.}
+{159}{}{Ò»ÈºÈËÀë¿ªÄãµÄ¹«Ë¾£¬Ö±µ½ÄãĞŞ¸´ÄãµÄÉùÓş¡£}
 
 #The first dialog
-{200}{}{A man among ghouls? Suspicious!}
-{201}{}{No, I... it doesn't matter. Just don't touch me, big guy. Agreed?}
-{202}{}{Even a person scolds a bunch. Ghouls don't want to see a bunch either. Nobody needs a bunch!}
-{203}{}{Whoa, whoa, take it easy! I don't want you to be angry. It just seemed to me that ghouls didn't get along with people like you.}
-{204}{}{People are not welcome here either. The bunch was chased out of the squad. The ghouls said they would take care of the Pile if he was good and would help. A lot of trying. But they still don't like him.}
-{205}{}{Who needs you, a mountain of green meat?}
-{206}{}{The bunch was chased out of the squad. The ghouls said they would take care of the Pile if he helped at the mine and behaved well. A lot of trying. But they still don't like him.}
-{207}{}{Sadly. But naturally. }
-{208}{}{What were you hoping for, you idiot? You should have kept order while you were in the squad.}
-{209}{}{A little more — and a lot of respect. Ghouls will know how good I am. I will help the ghouls, even if they don't want it.}
-{210}{}{Great. I also help ghouls. Maybe we can join forces? You will protect me on the road, and I will help you earn respect.}
-{211}{}{I have business here. What are you doing here? Are mutants with ghouls for one thing?}
-{212}{}{Ghouls will never accept you. Forget about them, help me. I need your muscles.}
-{213}{}{That's very noble of you. Well good luck. And it's time for me to move on.}
-{214}{}{Go, man. I won't touch you as long as you don't touch the ghouls.}
-{215}{}{Bye, A bunch.}
-{216}{}{Maybe we'll unite? I need your muscles on the road. And I will help you regain respect.}
-{217}{}{A mutant and a human in the same squad? Ho-ho, that's funny. But if the Heap is useful, he will be happy.}
-{218}{}{Come with me. We'll make a great team together.}
-{219}{}{Great. I'll be back when I need your help.}
-{220}{}{What do you want, mutant brother?}
-{1220}{}{What do you want, sister?}
-{221}{}{I don't need anything from you. Just don't touch me, big guy. Agreed?}
-{222}{}{And you don't trust the Pile. Ghouls don't want to see a bunch. Nobody needs a bunch!}
-{223}{}{What are you doing here? How did you end up among the ghouls?}
-{224}{}{That's the attitude! You know, we could help each other.: you will protect me on the road, and I will help you earn respect. Deal?}
-{225}{}{If the Heap is useful to the ghouls, he will be happy.}
-{226}{}{I need you. Come with me.}
-{227}{}{Private Heap will try!}
-{228}{}{At ease, soldier.}
-{229}{}{Private Heap, you can be free.}
-{230}{}{Sorry. A bunch wanted to help. But don't forget the private Bunch.}
-{231}{}{See you later.}
-{232}{}{Take the weapon out of your hands. It's not necessary right now.}
-{233}{}{It is necessary to remove the weapon from your hands!}
-{234}{}{Good boy.}
+### {200}{}{A man among ghouls? Suspicious!}
+{200}{}{Ê³Ê¬¹íÖĞµÄÄĞÈË£¿¿ÉÒÉµÄ}
+### {201}{}{No, I... it doesn't matter. Just don't touch me, big guy. Agreed?}
+{201}{}{²»£¬ÎÒ¡­Ã»¹ØÏµ¡£±ğÅöÎÒ£¬´ó¿éÍ·¡£Í¬ÒâÂğ£¿}
+### {202}{}{Even a person scolds a bunch. Ghouls don't want to see a bunch either. Nobody needs a bunch!}
+{202}{}{¼´Ê¹ÊÇÒ»¸öÈËÒ²»áÂîÒ»ÈºÈË¡£Ê³Ê¬¹íÒ²²»Ïë¿´µ½Ò»ÈºÈË¡£Ã»ÓĞÈËĞèÒªÒ»¶Ñ£¡}
+### {203}{}{Whoa, whoa, take it easy! I don't want you to be angry. It just seemed to me that ghouls didn't get along with people like you.}
+{203}{}{ÍÛ£¬ÍÛ£¬±ğ½ôÕÅ£¡ÎÒ²»ÏëÈÃÄãÉúÆø¡£ÔÚÎÒ¿´À´£¬Ê³Ê¬¹íºÍÄãÕâÑùµÄÈËÏà´¦²»ºÃ¡£}
+### {204}{}{People are not welcome here either. The bunch was chased out of the squad. The ghouls said they would take care of the Pile if he was good and would help. A lot of trying. But they still don't like him.}
+{204}{}{ÕâÀïÒ²²»»¶Ó­ÈËÃÇ¡£ÕâÈºÈË±»¸Ï³öÁËĞ¡¶Ó¡£Ê³Ê¬¹íÃÇËµ£¬Èç¹ûPileºÜºÃ£¬ËûÃÇ»áÕÕ¹ËËû£¬²¢Ìá¹©°ïÖú¡£ºÜ¶à³¢ÊÔ¡£µ«ËûÃÇÈÔÈ»²»Ï²»¶Ëû¡£}
+### {205}{}{Who needs you, a mountain of green meat?}
+{205}{}{Ë­ĞèÒªÄã£¬Ò»×ùÂÌÉ«µÄ´óÉ½£¿}
+### {206}{}{The bunch was chased out of the squad. The ghouls said they would take care of the Pile if he helped at the mine and behaved well. A lot of trying. But they still don't like him.}
+{206}{}{ÕâÈºÈË±»¸Ï³öÁËĞ¡¶Ó¡£Ê³Ê¬¹íÃÇËµ£¬Èç¹ûPileÔÚ¿ó¾®Àï°ïÃ¦£¬±íÏÖÁ¼ºÃ£¬ËûÃÇ»áÕÕ¹ËËûµÄ¡£ºÜ¶à³¢ÊÔ¡£µ«ËûÃÇÈÔÈ»²»Ï²»¶Ëû¡£}
+### {207}{}{Sadly. But naturally. }
+{207}{}{±¯°§µØµ«ºÜ×ÔÈ»¡£}
+### {208}{}{What were you hoping for, you idiot? You should have kept order while you were in the squad.}
+{208}{}{ÄãÏ£ÍûÊ²Ã´£¬ÄãÕâ¸ö°×³Õ£¿ÄãÔÚ¶ÓÀïµÄÊ±ºò¾ÍÓ¦¸Ã±£³ÖÖÈĞò¡£}
+### {209}{}{A little more ? and a lot of respect. Ghouls will know how good I am. I will help the ghouls, even if they don't want it.}
+{209}{}{ÔÙ¶àÒ»µã? »¹ÓĞºÜ¶à×ğÖØ¡£Ê³Ê¬¹í»áÖªµÀÎÒÓĞ¶àºÃ¡£ÎÒ»á°ïÖúÊ³Ê¬¹í£¬¼´Ê¹ËûÃÇ²»ÏëÒª¡£}
+### {210}{}{Great. I also help ghouls. Maybe we can join forces? You will protect me on the road, and I will help you earn respect.}
+{210}{}{Ì«°ôÁËÎÒÒ²°ïÖúÊ³Ê¬¹í¡£Ò²ĞíÎÒÃÇ¿ÉÒÔÁªºÏÆğÀ´£¿Äã»áÔÚÂ·ÉÏ±£»¤ÎÒ£¬ÎÒ»á°ïÖúÄãÓ®µÃ×ğÖØ¡£}
+### {211}{}{I have business here. What are you doing here? Are mutants with ghouls for one thing?}
+{211}{}{ÎÒÔÚÕâÀïÓĞÉúÒâ¡£ÄãÔÚÕâÀï¸ÉÊ²Ã´£¿±äÖÖÈËºÍÊ³Ê¬¹íÔÚÒ»ÆğÊÇÎªÁËÒ»¼şÊÂÂğ£¿}
+### {212}{}{Ghouls will never accept you. Forget about them, help me. I need your muscles.}
+{212}{}{Ê³Ê¬¹íÓÀÔ¶²»»á½ÓÊÜÄã¡£ÍüµôËûÃÇ£¬°ï°ïÎÒ¡£ÎÒĞèÒªÄãµÄ¼¡Èâ¡£}
+### {213}{}{That's very noble of you. Well good luck. And it's time for me to move on.}
+{213}{}{ÄãÕæÊÇÌ«¸ßÉĞÁË¡£×£ÄãºÃÔË¡£ÏÖÔÚÊÇÎÒ¼ÌĞøÇ°½øµÄÊ±ºòÁË¡£}
+### {214}{}{Go, man. I won't touch you as long as you don't touch the ghouls.}
+{214}{}{×ß°É£¬»ï¼Æ¡£Ö»ÒªÄã²»ÅöÊ³Ê¬¹í£¬ÎÒ¾Í²»»áÅöÄã¡£}
+### {215}{}{Bye, A bunch.}
+{215}{}{ÔÙ¼û£¬Ò»Èº¡£}
+### {216}{}{Maybe we'll unite? I need your muscles on the road. And I will help you regain respect.}
+{216}{}{Ò²ĞíÎÒÃÇ»áÍÅ½áÆğÀ´£¿Â·ÉÏÎÒĞèÒªÄãµÄ¼¡Èâ¡£ÎÒ»á°ïÖúÄãÖØĞÂ»ñµÃ×ğÖØ¡£}
+### {217}{}{A mutant and a human in the same squad? Ho-ho, that's funny. But if the Heap is useful, he will be happy.}
+{217}{}{Í¬Ò»Ğ¡¶ÓµÄ±äÖÖÈËºÍÈËÀà£¿ºÇºÇ£¬ÕæÓĞÈ¤¡£µ«Èç¹û¶ÑÓĞÓÃ£¬Ëû»áºÜ¸ßĞËµÄ¡£}
+### {218}{}{Come with me. We'll make a great team together.}
+{218}{}{¸úÎÒÀ´¡£ÎÒÃÇ»á×é³ÉÒ»¸öÎ°´óµÄÍÅ¶Ó¡£}
+### {219}{}{Great. I'll be back when I need your help.}
+{219}{}{Ì«°ôÁËÎÒĞèÒªÄã°ïÖúµÄÊ±ºò»á»ØÀ´µÄ¡£}
+### {220}{}{What do you want, mutant brother?}
+{220}{}{ÄãÏëÒªÊ²Ã´£¬±äÖÖĞÖµÜ£¿}
+### {1220}{}{What do you want, sister?}
+{1220}{}{ÄãÏëÒªÊ²Ã´£¬½ã½ã£¿}
+### {221}{}{I don't need anything from you. Just don't touch me, big guy. Agreed?}
+{221}{}{ÎÒÊ²Ã´¶¼²»ĞèÒªÄã¡£±ğÅöÎÒ£¬´ó¿éÍ·¡£Í¬ÒâÂğ£¿}
+### {222}{}{And you don't trust the Pile. Ghouls don't want to see a bunch. Nobody needs a bunch!}
+{222}{}{¶øÇÒÄã²»ĞÅÈÎPile¡£Ê³Ê¬¹í²»Ïë¿´µ½Ò»ÈºÈË¡£Ã»ÓĞÈËĞèÒªÒ»¶Ñ£¡}
+### {223}{}{What are you doing here? How did you end up among the ghouls?}
+{223}{}{ÄãÔÚÕâÀï¸ÉÊ²Ã´£¿ÄãÊÇÔõÃ´±ä³ÉÊ³Ê¬¹íµÄ£¿}
+### {224}{}{That's the attitude! You know, we could help each other.: you will protect me on the road, and I will help you earn respect. Deal?}
+{224}{}{Õâ¾ÍÊÇÌ¬¶È£¡ÄãÖªµÀ£¬ÎÒÃÇ¿ÉÒÔ»¥Ïà°ïÖúÄã»áÔÚÂ·ÉÏ±£»¤ÎÒ£¬ÎÒ»á°ïÖúÄãÓ®µÃ×ğÖØ¡£´¦Àí}
+### {225}{}{If the Heap is useful to the ghouls, he will be happy.}
+{225}{}{Èç¹û¶Ñ¶ÔÊ³Ê¬¹íÓĞÓÃ£¬Ëû»áºÜ¸ßĞËµÄ¡£}
+### {226}{}{I need you. Come with me.}
+{226}{}{ÎÒĞèÒªÄã¡£¸úÎÒÀ´¡£}
+### {227}{}{Private Heap will try!}
+{227}{}{Ë½ÈË¶Ñ»á³¢ÊÔµÄ£¡}
+### {228}{}{At ease, soldier.}
+{228}{}{·ÅĞÄ£¬Ê¿±ø¡£}
+### {229}{}{Private Heap, you can be free.}
+{229}{}{Ë½ÈË¶Ñ£¬Äã¿ÉÒÔ×ÔÓÉ¡£}
+### {230}{}{Sorry. A bunch wanted to help. But don't forget the private Bunch.}
+{230}{}{ºÜ±§Ç¸Ò»ÈºÈËÏë°ïÃ¦¡£µ«±ğÍüÁËË½ÈËĞ¡Îİ¡£}
+### {231}{}{See you later.}
+{231}{}{»ØÍ·¼û¡£}
+### {232}{}{Take the weapon out of your hands. It's not necessary right now.}
+{232}{}{°ÑÎäÆ÷´ÓÄãÊÖÀïÄÃ¿ª¡£ÏÖÔÚÃ»ÓĞ±ØÒª¡£}
+### {233}{}{It is necessary to remove the weapon from your hands!}
+{233}{}{ÓĞ±ØÒª°ÑÎäÆ÷´ÓÄãÊÖÖĞÄÃ¿ª£¡}
+### {234}{}{Good boy.}
+{234}{}{ºÃº¢×Ó¡£}
 
-{240}{}{Waiting for orders, Commander.}
-{241}{}{At ease.}
-{242}{}{Captain! Private Heap is ready to help, Captain!}
+### {240}{}{Waiting for orders, Commander.}
+{240}{}{µÈ´ıÃüÁî£¬Ö¸»Ó¹Ù¡£}
+### {241}{}{At ease.}
+{241}{}{·ÅĞÄ¡£}
+### {242}{}{Captain! Private Heap is ready to help, Captain!}
+{242}{}{´¬³¤¶şµÈ±øÏ£ÆÕËæÊ±×¼±¸Ìá¹©°ïÖú£¬ÉÏÎ¾£¡}
 
-{250}{}{Will you come with me to the wasteland of Sonora? I could use your protection on the way.}
-{251}{}{Go to the people? Nope. People won't accept a bunch.}
-{252}{}{Okay, whatever you say.}
-{253}{}{Your brethren are besieging the caravaneers now. Can you talk them out of it?}
-{254}{}{No, they won't listen to a bunch. They kicked a bunch out of the squad. They don't have a lot of orders. But the Bunch won't allow killing fellow humans!}
-{255}{}{Clearly.}
+### {250}{}{Will you come with me to the wasteland of Sonora? I could use your protection on the way.}
+{250}{}{ÄãÔ¸ÒâºÍÎÒÒ»ÆğÈ¥Ë÷ÅµÀ­µÄ»ÄÔ­Âğ£¿ÎÒ¿ÉÒÔÔÚÂ·ÉÏÊ¹ÓÃÄãµÄ±£»¤¡£}
+### {251}{}{Go to the people? Nope. People won't accept a bunch.}
+{251}{}{È¥ÕÒÈËÃñ£¿Ã»ÓĞ¡£ÈËÃÇ²»»á½ÓÊÜÒ»ÈºÈË¡£}
+### {252}{}{Okay, whatever you say.}
+{252}{}{ºÃ°É£¬²»¹ÜÄãËµÊ²Ã´¡£}
+### {253}{}{Your brethren are besieging the caravaneers now. Can you talk them out of it?}
+{253}{}{ÄãµÄĞÖµÜÃÇÏÖÔÚÕıÔÚÎ§¹¥ÉÌ¶Ó¡£ÄãÄÜËµ·şËûÃÇ·ÅÆúÂğ£¿}
+### {254}{}{No, they won't listen to a bunch. They kicked a bunch out of the squad. They don't have a lot of orders. But the Bunch won't allow killing fellow humans!}
+{254}{}{²»£¬ËûÃÇ²»»áÌıÒ»¶ÑµÄ¡£ËûÃÇ°ÑÒ»ÈºÈËÌß³öÁË¶Ó¡£ËûÃÇÃ»ÓĞºÜ¶à¶©µ¥¡£µ«ÊÇBunch²»ÔÊĞíÉ±º¦ÈËÀàÍ¬°û£¡}
+### {255}{}{Clearly.}
+{255}{}{ÇåÎúµØ}
 
-{260}{}{Tell me about yourself.}
-{261}{}{Private Heap. And what?}
-{262}{}{Okay. Let's not talk about it.}
-{263}{}{Heap is a name or a nickname?}
-{264}{}{Is it... e... I completely forgot! Heap is not a real name. This is the call sign for the walkie-talkie. I don't remember the name. Everything that happened before the Initiation is forgotten.}
-{265}{}{Don't you remember who you were before the mutation?}
-{266}{}{That's right. And a bunch doesn't want to remember. Pathetic people. They're messing around with their little problems. The Creator was trying to fix people. But he didn't have time to finish his job.}
-{267}{}{You can tell me. Surely the memories torment you at least sometimes. You can't just cross out the old life.}
-{268}{}{Do you think that's why the Heap is so stupid? Is that why he talks to himself at night? A bunch doesn't like to remember. He was a man, he ...................}
-{269}{}{[Encourage]}
-{270}{}{[Make fun]}
-{271}{}{How did you get into the Shining?}
-{272}{}{Together with the squad. We walked for a long time in the desert. We were being chased by a squad of the Brotherhood of Steel. Ooh, I hate Brotherhood! They killed many brothers in arms and drove us into the wasteland. There was no point in going back. We decided to leave.}
-{273}{}{[Next]}
-{274}{}{On the way we came across ghouls, they told us about the Dayglow. They also fled from the Normies. Normies hate everyone.}
-{275}{}{Why aren't you with your squad?}
-{276}{}{It was a hungry time. The pile was so hungry that it ate all the provisions. Shamefully. For this, he was expelled from the squad. And he didn't see the squad anymore.}
-{277}{}{Do you know where your squad is now?}
-{278}{}{Somewhere in the ruins. A bunch will know if they listen to their radio conversations.}
-{279}{}{Now we know where your squad is. Do you want to meet your comrades?}
-{280}{}{A lot of people miss them. But they don't need a bunch.}
-{281}{}{Don't worry about it. I'll figure it out. Let's go.}
-{282}{}{Did you hear that? Your captain is in trouble.}
-{283}{}{The bunch is furious! The fucking humans have already caused so much trouble! They will pay!}
-{284}{}{So you want to rescue the captain from captivity, even being expelled from the squad?}
-{285}{}{A bunch is willing to take a chance. Come on, little man! Go ahead!}
-{286}{}{Okay. Let's go.}
-{287}{}{Okay. If you don't want to, then we won't contact them.}
-{288}{}{I have a walkie-talkie, but because of the high radiation, it will not be useful without a functioning radio station.}
-{289}{}{I have a walkie-talkie. Let's try it?}
-{290}{}{Useless. High radiation interferes. We need a strong antenna. Maybe ghouls have it?}
-{291}{}{So that's why the walkie-talkie doesn't work! Okay, maybe we'll find a repeater.}
-{292}{}{(The bunch adjusts the frequency and listens carefully to the negotiations. From concentration, all his veins on his face swelled. Finally he says, "They're in Balboa Park.")}
-{293}{}{Good. So we're going to the park.}
-{294}{}{There was a radio station in San Ysidro. Let's try to find out there.}
-{295}{}{There is a radio station here. Let's try it?}
-{296}{}{Useless. It doesn't work.}
-{297}{}{Really. Does not work.}
-{298}{}{I can't hear anything! We need to go to the area above.}
-{299}{}{Okay.}
+### {260}{}{Tell me about yourself.}
+{260}{}{¸æËßÎÒÄã×Ô¼º¡£}
+### {261}{}{Private Heap. And what?}
+{261}{}{×¨ÓÃ¶Ñ¡£Ê²Ã´£¿}
+### {262}{}{Okay. Let's not talk about it.}
+{262}{}{¿ÉÒÔÎÒÃÇ²»ÒªÌ¸ÂÛËü¡£}
+### {263}{}{Heap is a name or a nickname?}
+{263}{}{¶ÑÊÇÃû×Ö»¹ÊÇêÇ³Æ£¿}
+### {264}{}{Is it... e... I completely forgot! Heap is not a real name. This is the call sign for the walkie-talkie. I don't remember the name. Everything that happened before the Initiation is forgotten.}
+{264}{}{ÊÇ²»ÊÇ¡­ÎÒÍêÈ«Íü¼ÇÁË£¡Heap²»ÊÇÕæÃû¡£ÕâÊÇ¶Ô½²»úµÄºôºÅ¡£ÎÒ²»¼ÇµÃÃû×ÖÁË¡£Èë»áÇ°·¢ÉúµÄÒ»ÇĞ¶¼±»ÒÅÍüÁË¡£}
+### {265}{}{Don't you remember who you were before the mutation?}
+{265}{}{Äã²»¼ÇµÃÍ»±äÇ°ÄãÊÇË­ÁËÂğ£¿}
+### {266}{}{That's right. And a bunch doesn't want to remember. Pathetic people. They're messing around with their little problems. The Creator was trying to fix people. But he didn't have time to finish his job.}
+{266}{}{Ã»´í¡£Ò»ÈºÈË²»Ïë¼Ç×¡¡£¿ÉÁ¯µÄÈË¡£ËûÃÇÔÚ´¦ÀíËûÃÇµÄĞ¡ÎÊÌâ¡£ÔìÎïÖ÷ÊÔÍ¼ĞŞ¸´ÈËÀà¡£µ«ÊÇËûÃ»ÓĞÊ±¼äÍê³ÉËûµÄ¹¤×÷¡£}
+### {267}{}{You can tell me. Surely the memories torment you at least sometimes. You can't just cross out the old life.}
+{267}{}{Äã¿ÉÒÔ¸æËßÎÒ¡£µ±È»£¬ÕâĞ©¼ÇÒäÖÁÉÙÓĞÊ±»áÕÛÄ¥Äã¡£Äã²»ÄÜ°Ñ¹ıÈ¥µÄÉú»î»®µô¡£}
+### {268}{}{Do you think that's why the Heap is so stupid? Is that why he talks to himself at night? A bunch doesn't like to remember. He was a man, he ...................}
+{268}{}{ÄãÈÏÎªÕâ¾ÍÊÇÏ£ÆÕÈç´ËÓŞ´ÀµÄÔ­ÒòÂğ£¿Õâ¾ÍÊÇËûÍíÉÏ×ÔÑÔ×ÔÓïµÄÔ­ÒòÂğ£¿Ò»ÈºÈË²»Ï²»¶¼Ç×¡¡£ËûÊÇ¸öÄĞÈË£¬Ëû¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£}
+### {269}{}{[Encourage]}
+{269}{}{[Ö§³Ö]}
+### {270}{}{[Make fun]}
+{270}{}{[¿ªÍæĞ¦]}
+### {271}{}{How did you get into the Shining?}
+{271}{}{ÄãÊÇÔõÃ´½øÈëÉÁÁéµÄ£¿}
+### {272}{}{Together with the squad. We walked for a long time in the desert. We were being chased by a squad of the Brotherhood of Steel. Ooh, I hate Brotherhood! They killed many brothers in arms and drove us into the wasteland. There was no point in going back. We decided to leave.}
+{272}{}{ºÍ¶ÓÔ±ÃÇÔÚÒ»Æğ¡£ÎÒÃÇÔÚÉ³Ä®Àï×ßÁËºÜ³¤Ò»¶ÎÊ±¼ä¡£ÎÒÃÇ±»¸ÖÌúĞÖµÜ»áµÄÒ»¸öĞ¡¶Ó×·¸Ï¡£Å¶£¬ÎÒÌÖÑáĞÖµÜ»á£¡ËûÃÇÉ±ËÀÁËĞí¶àÕ½ÓÑ£¬°ÑÎÒÃÇ¸Ïµ½ÁË»ÄÔ­ÉÏ¡£»ØÈ¥Ã»ÓĞÒâÒå¡£ÎÒÃÇ¾ö¶¨Àë¿ª¡£}
+### {273}{}{[Next]}
+{273}{}{[ÏÂÒ»¸ö]}
+### {274}{}{On the way we came across ghouls, they told us about the Dayglow. They also fled from the Normies. Normies hate everyone.}
+{274}{}{ÔÚÎÒÃÇÓöµ½Ê³Ê¬¹íµÄÂ·ÉÏ£¬ËûÃÇ¸æËßÎÒÃÇ¹ØÓÚÒ¹¹âµÄÊÂ¡£ËûÃÇÒ²ÌÓÀëÁË±±Å·¡£Õı³£ÈËÌÖÑáÃ¿¸öÈË¡£}
+### {275}{}{Why aren't you with your squad?}
+{275}{}{ÄãÎªÊ²Ã´²»ºÍÄãµÄĞ¡¶ÓÔÚÒ»Æğ£¿}
+### {276}{}{It was a hungry time. The pile was so hungry that it ate all the provisions. Shamefully. For this, he was expelled from the squad. And he didn't see the squad anymore.}
+{276}{}{ÄÇÊÇÒ»¶Î¼¢¶öµÄÊ±¹â¡£ÄÇ¶ÑÈË¶öµÃ°ÑËùÓĞµÄÊ³Îï¶¼³Ô¹âÁË¡£Õæ¿É³Ü¡£Îª´Ë£¬Ëû±»¿ª³ı³öÁËÇò¶Ó¡£ËûÔÙÒ²Ã»ÓĞ¿´µ½Çò¶Ó¡£}
+### {277}{}{Do you know where your squad is now?}
+{277}{}{ÄãÖªµÀÄãµÄĞ¡¶ÓÏÖÔÚÔÚÄÄÀïÂğ£¿}
+### {278}{}{Somewhere in the ruins. A bunch will know if they listen to their radio conversations.}
+{278}{}{·ÏĞæÖĞµÄÄ³¸öµØ·½¡£Ò»ÈºÈËÈç¹ûÌıÁËËûÃÇµÄ¹ã²¥¶Ô»°¾Í»áÖªµÀ¡£}
+### {279}{}{Now we know where your squad is. Do you want to meet your comrades?}
+{279}{}{ÏÖÔÚÎÒÃÇÖªµÀÄãµÄĞ¡¶ÓÔÚÄÄÀïÁË¡£ÄãÏë¼û¼ûÄãµÄÕ½ÓÑÂğ£¿}
+### {280}{}{A lot of people miss them. But they don't need a bunch.}
+{280}{}{ºÜ¶àÈË¶¼ºÜÏëÄîËûÃÇ¡£µ«ËûÃÇ²»ĞèÒªÒ»¶Ñ¡£}
+### {281}{}{Don't worry about it. I'll figure it out. Let's go.}
+{281}{}{±ğµ£ĞÄ£¬ÎÒ»á½â¾öµÄ¡£ÎÒÃÇ×ß°É¡£}
+### {282}{}{Did you hear that? Your captain is in trouble.}
+{282}{}{ÄãÌıµ½ÁËÂğ£¿ÄãµÄ´¬³¤ÓĞÂé·³ÁË¡£}
+### {283}{}{The bunch is furious! The fucking humans have already caused so much trouble! They will pay!}
+{283}{}{ÕâÈºÈË·Ç³£·ßÅ­£¡ËûÂèµÄÈËÀàÒÑ¾­ÖÆÔìÁËÕâÃ´¶àÂé·³£¡ËûÃÇ»á¸¶Ç®µÄ£¡}
+### {284}{}{So you want to rescue the captain from captivity, even being expelled from the squad?}
+{284}{}{ËùÒÔÄãÏë°Ñ¶Ó³¤´ÓÇô½ûÖĞ½â¾È³öÀ´£¬ÉõÖÁ±»ÇıÖğ³öĞ¡¶Ó£¿}
+### {285}{}{A bunch is willing to take a chance. Come on, little man! Go ahead!}
+{285}{}{Ò»ÈºÈËÔ¸ÒâÃ°ÏÕ¡£À´°É£¬Ğ¡¸ö×Ó£¡×ÅÊÖ}
+### {286}{}{Okay. Let's go.}
+{286}{}{¿ÉÒÔÎÒÃÇ×ß°É¡£}
+### {287}{}{Okay. If you don't want to, then we won't contact them.}
+{287}{}{¿ÉÒÔÈç¹ûÄã²»Ïë£¬ÎÒÃÇ²»»áÁªÏµËûÃÇ¡£}
+### {288}{}{I have a walkie-talkie, but because of the high radiation, it will not be useful without a functioning radio station.}
+{288}{}{ÎÒÓĞÒ»²¿¶Ô½²»ú£¬µ«ÓÉÓÚ·øÉäºÜ¸ß£¬Èç¹ûÃ»ÓĞÒ»¸öÕı³£¹¤×÷µÄÎŞÏßµçÌ¨£¬Ëü¾ÍÃ»ÓĞÓÃ´¦¡£}
+### {289}{}{I have a walkie-talkie. Let's try it?}
+{289}{}{ÎÒÓĞÒ»²¿¶Ô½²»ú¡£ÎÒÃÇÊÔÊÔ°É£¿}
+### {290}{}{Useless. High radiation interferes. We need a strong antenna. Maybe ghouls have it?}
+{290}{}{ÎŞÓÃµÄ¸ß·øÉä¸ÉÈÅ¡£ÎÒÃÇĞèÒªÒ»¸ö½áÊµµÄÌìÏß¡£Ò²ĞíÊ³Ê¬¹íÓĞ£¿}
+### {291}{}{So that's why the walkie-talkie doesn't work! Okay, maybe we'll find a repeater.}
+{291}{}{Õâ¾ÍÊÇ¶Ô½²»ú²»¹¤×÷µÄÔ­Òò£¡ºÃ°É£¬Ò²ĞíÎÒÃÇ»áÕÒµ½Ò»¸öÖĞ¼ÌÆ÷¡£}
+### {292}{}{(The bunch adjusts the frequency and listens carefully to the negotiations. From concentration, all his veins on his face swelled. Finally he says, "They're in Balboa Park.")}
+{292}{}{£¨ÕâÈºÈËµ÷ÕûÁËÆµÂÊ£¬×ĞÏ¸ÇãÌıÌ¸ÅĞ¡£´Ó¼¯ÖĞ×¢ÒâÁ¦¿ªÊ¼£¬ËûÁ³ÉÏµÄÑª¹Ü¶¼Ö×ÁËÆğÀ´¡£×îºóËûËµ£º¡°ËûÃÇÔÚ°Í¶û²©ÑÇ¹«Ô°¡£¡±£©}
+### {293}{}{Good. So we're going to the park.}
+{293}{}{ºÃµÄËùÒÔÎÒÃÇÒªÈ¥¹«Ô°¡£}
+### {294}{}{There was a radio station in San Ysidro. Let's try to find out there.}
+{294}{}{Ê¥ÒÁÎ÷µÂÂŞÓĞÒ»¸öµçÌ¨¡£ÈÃÎÒÃÇÊÔ×ÅÕÒ³ö´ğ°¸¡£}
+### {295}{}{There is a radio station here. Let's try it?}
+{295}{}{ÕâÀïÓĞÒ»¸ö¹ã²¥µçÌ¨¡£ÎÒÃÇÊÔÊÔ°É£¿}
+### {296}{}{Useless. It doesn't work.}
+{296}{}{ÎŞÓÃµÄËü²»Æğ×÷ÓÃ¡£}
+### {297}{}{Really. Does not work.}
+{297}{}{ÕæÕıµØ²»Æğ×÷ÓÃ¡£}
+### {298}{}{I can't hear anything! We need to go to the area above.}
+{298}{}{ÎÒÊ²Ã´¶¼Ìı²»¼û£¡ÎÒÃÇĞèÒªÈ¥ÉÏÃæµÄÇøÓò¡£}
+### {299}{}{Okay.}
+{299}{}{¿ÉÒÔ}
 
-{300}{}{It's here! The damned paladins are holding the captain here.}
-{301}{}{What's your plan?}
-{302}{}{Plan? The pile doesn't need a plan! A bunch is stronger than any paladin. He'll kick their asses. That's the whole plan.}
-{303}{}{Good plan. Reliable as an atomic clock. Go ahead, Bunch! Kick the ass of these bastards!}
-{304}{}{No, a bunch, you can't kill paladins. It's dangerous and it's not right. We must rescue the captain without violence. Do you understand me?}
-{305}{}{Gr-r! Fucking humans! A bunch wants to fight! The pile is not going to hide in the shadows!}
-{306}{}{If you think about it, then your idea is the simplest and most reliable. Go ahead, Bunch! Kick the ass of these scum!}
-{307}{}{No way! We have little chance in an open battle. Let's do a reconnaissance first.}
-{308}{}{If a Bunch sees a paladin, he won't hold back. Consider this, little man.}
-{309}{}{Okay. I'll take that into account.}
-{310}{}{You know, it would be better if I reconnoitered first, and you wait here. This is an order, a bunch.}
-{311}{}{A lot of thanks to you for saving the captain. He couldn't have done it alone without you. Thank you.}
-{312}{}{Does Mutyara say "thank you"? This is something new!}
-{313}{}{It's too early to thank. We have yet to meet your squad.}
-{314}{}{Yes. Heap must meet the squad again.}
-{315}{}{Then let's go to the camp. Let's go.}
-{316}{}{So what's up with the captain?}
-{317}{}{Be strong, Bunch. The captain is no more. And your squad, too.}
-{318}{}{DAMN THE BROTHERHOOD! I HATE IT! I HATE IT!}
-{319}{}{I think it's better to leave you alone for now.}
-{320}{}{Be strong, Bunch. The captain is no more.}
-{321}{}{What are you going to do now without your squad?}
-{322}{}{A bunch will work hard at the Gulsky mines. Ghouls need his muscles. Ghouls will not regret taking him into service! Yes. So a bunch will be useful. He will be happy doing good. This is what the Bunch wanted.}
-{323}{}{Clear. Well, I hope you'll stay with me some more before I return to Sonora.}
-{324}{}{The squad is ready to receive you again.}
-{325}{}{Brothers in arms forgave a bunch? It brings a lot of joy! But the Heap has already promised to help the ghouls. And will he be able to justify the trust, if once he could not? Tell me, man, what should I do now? Which choice is better for the Heap?}
-{326}{}{I think you need to leave with the squad. Only among your own people can you be truly happy. And ghouls don't owe you anything.}
-{327}{}{You should stay with the ghouls and help them rebuild the city. Your strength will help them a lot. And your squad has already rejected you once, may reject you again. Besides, it is not known what will happen to them on the way.}
-{328}{}{The heap will do everything not to lose trust anymore! The squad will not regret taking him with them. Yes. So the Heap will be calm among its own. He will benefit and be happy. This is what the Bunch wanted.}
-{329}{}{It's good that we sorted out your problem. I hope you'll stay with me some more before your squad leaves the Shining.}
+### {300}{}{It's here! The damned paladins are holding the captain here.}
+{300}{}{ËüÔÚÕâÀï£¡¸ÃËÀµÄÊ¥ÆïÊ¿ÃÇ°Ñ¶Ó³¤×¥ÔÚÕâÀï¡£}
+### {301}{}{What's your plan?}
+{301}{}{ÄãµÄ¼Æ»®ÊÇÊ²Ã´£¿}
+### {302}{}{Plan? The pile doesn't need a plan! A bunch is stronger than any paladin. He'll kick their asses. That's the whole plan.}
+{302}{}{¼Æ»®Õâ¶Ñ¶«Î÷²»ĞèÒª¼Æ»®£¡Ò»ÈºÈË±ÈÈÎºÎÊ¥ÆïÊ¿¶¼Ç¿×³¡£Ëû»áÌßËûÃÇµÄÆ¨¹É¡£Õâ¾ÍÊÇÕû¸ö¼Æ»®¡£}
+### {303}{}{Good plan. Reliable as an atomic clock. Go ahead, Bunch! Kick the ass of these bastards!}
+{303}{}{ºÃ¼Æ»®¡£ÏñÔ­×ÓÖÓÒ»Ñù¿É¿¿¡£È¥°É£¬°îÆæ£¡ÌßÕâĞ©»ìµ°µÄÆ¨¹É£¡}
+### {304}{}{No, a bunch, you can't kill paladins. It's dangerous and it's not right. We must rescue the captain without violence. Do you understand me?}
+{304}{}{²»£¬Ò»ÈºÈË£¬Äã²»ÄÜÉ±ËÀÊ¥ÆïÊ¿¡£ÕâÊÇÎ£ÏÕµÄ£¬Ò²ÊÇ²»¶ÔµÄ¡£ÎÒÃÇ±ØĞëºÁ²»±©Á¦µØÓª¾È´¬³¤¡£ÄãÃ÷°×ÎÒµÄÒâË¼Âğ£¿}
+### {305}{}{Gr-r! Fucking humans! A bunch wants to fight! The pile is not going to hide in the shadows!}
+{305}{}{Gr-r£¡¸ÃËÀµÄÈËÀà£¡Ò»ÈºÈËÏë´ò¼Ü£¡Õâ¶Ñ¶«Î÷²»»á²ØÔÚÒõÓ°Àï£¡}
+### {306}{}{If you think about it, then your idea is the simplest and most reliable. Go ahead, Bunch! Kick the ass of these scum!}
+{306}{}{Èç¹ûÄã×ĞÏ¸ÏëÏë£¬ÄÇÃ´ÄãµÄÏë·¨ÊÇ×î¼òµ¥¡¢×î¿É¿¿µÄ¡£È¥°É£¬°îÆæ£¡ÌßÕâĞ©Ôü×ÒµÄÆ¨¹É£¡}
+### {307}{}{No way! We have little chance in an open battle. Let's do a reconnaissance first.}
+{307}{}{²»¿ÉÄÜ£¡ÔÚ¹«¿ªµÄÕ½¶·ÖĞÎÒÃÇ¼¸ºõÃ»ÓĞ»ú»á¡£ÈÃÎÒÃÇÏÈÕì²ìÒ»ÏÂ¡£}
+### {308}{}{If a Bunch sees a paladin, he won't hold back. Consider this, little man.}
+{308}{}{Èç¹ûBunch¿´µ½Ò»¸öÊ¥ÆïÊ¿£¬Ëû²»»áÍËËõ¡£ÏëÏëÕâ¸ö£¬Ğ¡¸ö×Ó¡£}
+### {309}{}{Okay. I'll take that into account.}
+{309}{}{¿ÉÒÔÎÒ»á¿¼ÂÇµ½µÄ¡£}
+### {310}{}{You know, it would be better if I reconnoitered first, and you wait here. This is an order, a bunch.}
+{310}{}{ÄãÖªµÀ£¬Èç¹ûÎÒÏÈÕì²ì£¬ÄãÔÚÕâÀïµÈ×Å»á¸üºÃ¡£ÕâÊÇÒ»¸ö¶©µ¥£¬Ò»¶Ñ¡£}
+### {311}{}{A lot of thanks to you for saving the captain. He couldn't have done it alone without you. Thank you.}
+{311}{}{·Ç³£¸ĞĞ»Äã¾ÈÁË´¬³¤¡£Ã»ÓĞÄã£¬Ëû²»¿ÉÄÜ¶À×ÔÍê³ÉÕâ¼şÊÂ¡£·Ç³£¸ĞĞ»¡£}
+### {312}{}{Does Mutyara say "thank you"? This is something new!}
+{312}{}{ÄÂµÙÑÇÀ­»áËµ¡°Ğ»Ğ»¡±Âğ£¿ÕâÊÇĞÂ¶«Î÷£¡}
+### {313}{}{It's too early to thank. We have yet to meet your squad.}
+{313}{}{ÏÖÔÚ¸ĞĞ»»¹ÎªÊ±¹ıÔç¡£ÎÒÃÇ»¹Ã»ÓĞ¼ûµ½ÄãÃÇµÄĞ¡¶Ó¡£}
+### {314}{}{Yes. Heap must meet the squad again.}
+{314}{}{¶ÔÏ£ÆÕ±ØĞëÔÙ´ÎÓëĞ¡¶Ó¼ûÃæ¡£}
+### {315}{}{Then let's go to the camp. Let's go.}
+{315}{}{ÄÇÎÒÃÇÈ¥Â¶Óª°É¡£ÎÒÃÇ×ß°É¡£}
+### {316}{}{So what's up with the captain?}
+{316}{}{¶Ó³¤ÔõÃ´ÁË£¿}
+### {317}{}{Be strong, Bunch. The captain is no more. And your squad, too.}
+{317}{}{¼áÇ¿Ò»µã£¬°îÆæ¡£´¬³¤²»ÔÚÁË¡£»¹ÓĞÄãµÄ¶ÓÎé¡£}
+### {318}{}{DAMN THE BROTHERHOOD! I HATE IT! I HATE IT!}
+{318}{}{¸ÃËÀµÄĞÖµÜ»á£¡ÎÒÌÖÑáËü£¡ÎÒÌÖÑáËü£¡}
+### {319}{}{I think it's better to leave you alone for now.}
+{319}{}{ÎÒ¾õµÃÏÖÔÚ×îºÃ±ğ´òÈÅÄã¡£}
+### {320}{}{Be strong, Bunch. The captain is no more.}
+{320}{}{¼áÇ¿Ò»µã£¬°îÆæ¡£´¬³¤²»ÔÚÁË¡£}
+### {321}{}{What are you going to do now without your squad?}
+{321}{}{Ã»ÓĞÄãµÄ¶ÓÎéÄãÏÖÔÚ´òËãÔõÃ´°ì£¿}
+### {322}{}{A bunch will work hard at the Gulsky mines. Ghouls need his muscles. Ghouls will not regret taking him into service! Yes. So a bunch will be useful. He will be happy doing good. This is what the Bunch wanted.}
+{322}{}{Ò»ÈºÈË½«ÔÚ¹Å¶ûË¹»ù¿ó³¡ĞÁÇÚ¹¤×÷¡£Ê³Ê¬¹íĞèÒªËûµÄ¼¡Èâ¡£Ê³Ê¬¹í²»»áºó»ÚÈÃËû·şÒÛµÄ£¡¶ÔËùÒÔÒ»¶Ñ»áºÜÓĞÓÃ¡£×öºÃÊÂËû»áºÜ¸ßĞËµÄ¡£Õâ¾ÍÊÇBunchÏëÒªµÄ¡£}
+### {323}{}{Clear. Well, I hope you'll stay with me some more before I return to Sonora.}
+{323}{}{Çå³şµÄºÃ°É£¬ÎÒÏ£ÍûÔÚÎÒ»Øµ½Ë÷ÅµÀ­Ö®Ç°£¬ÄãÄÜ¶àÅãÎÒÒ»¶ÎÊ±¼ä¡£}
+### {324}{}{The squad is ready to receive you again.}
+{324}{}{Çò¶Ó×¼±¸ÔÙ´Î½Ó´ıÄã¡£}
+### {325}{}{Brothers in arms forgave a bunch? It brings a lot of joy! But the Heap has already promised to help the ghouls. And will he be able to justify the trust, if once he could not? Tell me, man, what should I do now? Which choice is better for the Heap?}
+{325}{}{Õ½ÓÑÃÇÔ­ÁÂÁËÒ»ÈºÈË£¿Ëü´øÀ´ÁËºÜ¶à»¶ÀÖ£¡µ«ÊÇÏ£ÆÕÒÑ¾­´ğÓ¦°ïÖúÊ³Ê¬¹íÁË¡£Èç¹ûÓĞÒ»´ÎËû×ö²»µ½£¬ËûÄÜÖ¤Ã÷ÕâÖÖĞÅÈÎÊÇºÏÀíµÄÂğ£¿¸æËßÎÒ£¬»ï¼Æ£¬ÎÒÏÖÔÚ¸ÃÔõÃ´°ì£¿ÄÄÖÖÑ¡Ôñ¶Ô¶Ñ¸üºÃ£¿}
+### {326}{}{I think you need to leave with the squad. Only among your own people can you be truly happy. And ghouls don't owe you anything.}
+{326}{}{ÎÒÈÏÎªÄãĞèÒªºÍÇò¶ÓÒ»ÆğÀë¿ª¡£Ö»ÓĞÔÚ×Ô¼ºµÄÈËÖĞ¼ä£¬Äã²ÅÄÜÕæÕı¿ìÀÖ¡£Ê³Ê¬¹í²»Ç·ÄãÈÎºÎ¶«Î÷¡£}
+### {327}{}{You should stay with the ghouls and help them rebuild the city. Your strength will help them a lot. And your squad has already rejected you once, may reject you again. Besides, it is not known what will happen to them on the way.}
+{327}{}{ÄãÓ¦¸ÃºÍÊ³Ê¬¹í´ôÔÚÒ»Æğ£¬°ïÖúËûÃÇÖØ½¨³ÇÊĞ¡£ÄãµÄÁ¦Á¿»á¶ÔËûÃÇÓĞºÜ´ó°ïÖú¡£¶øÄãµÄÇò¶ÓÒÑ¾­¾Ü¾øÁËÄãÒ»´Î£¬¿ÉÄÜ»¹»áÔÙ´Î¾Ü¾øÄã¡£´ËÍâ£¬»¹²»ÖªµÀËûÃÇÔÚÂ·ÉÏ»á·¢ÉúÊ²Ã´¡£}
+### {328}{}{The heap will do everything not to lose trust anymore! The squad will not regret taking him with them. Yes. So the Heap will be calm among its own. He will benefit and be happy. This is what the Bunch wanted.}
+{328}{}{¶Ñ»á¾¡Ò»ÇĞÅ¬Á¦²»ÔÙÊ§È¥ĞÅÈÎ£¡Çò¶Ó²»»áºó»Ú´øËûÈ¥µÄ¡£¶ÔÒò´Ë£¬¶ÑÔÚ×Ô¼ºÖĞ¼ä»áºÜÆ½¾²¡£Ëû½«´ÓÖĞÊÜÒæ²¢¿ìÀÖ¡£Õâ¾ÍÊÇBunchÏëÒªµÄ¡£}
+### {329}{}{It's good that we sorted out your problem. I hope you'll stay with me some more before your squad leaves the Shining.}
+{329}{}{ÎÒÃÇ½â¾öÁËÄãµÄÎÊÌâ£¬ÕâºÜºÃ¡£ÎÒÏ£ÍûÔÚÄãµÄ¶ÓÎéÀë¿ª¹â»ÔÖ®Ç°ÄãÄÜ¶àºÍÎÒ´ôÔÚÒ»Æğ¡£}

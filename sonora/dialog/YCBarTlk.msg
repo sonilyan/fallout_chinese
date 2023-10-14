@@ -1,49 +1,95 @@
-{100}{}{This is Jeffrey.}
-{101}{}{You see a ghoul in old pajamas. He calmly sips a cocktail.}
-{102}{}{I can't forbid you to be here. But I forbid you to climb up to me.}
-{103}{}{Smooth—skinned are big xenophobes. Am I not right?}
-{104}{}{Laws? I think you wouldn't like it in the "rule of law".}
+### {100}{}{This is Jeffrey.}
+{100}{}{ÕâÊÇ½Ü¸¥Àï¡£}
+### {101}{}{You see a ghoul in old pajamas. He calmly sips a cocktail.}
+{101}{}{Äã¿´µ½Ò»¸ö´©×Å¾ÉË¯ÒÂµÄÊ³Ê¬¹í¡£ËûÆ½¾²µØà¨Òû×ÅÒ»±­¼¦Î²¾Æ¡£}
+### {102}{}{I can't forbid you to be here. But I forbid you to climb up to me.}
+{102}{}{ÎÒ²»ÄÜ½ûÖ¹ÄãÔÚÕâÀï¡£µ«ÎÒ½ûÖ¹ÄãÅÀµ½ÎÒÃæÇ°¡£}
+### {103}{}{Smooth?skinned are big xenophobes. Am I not right?}
+{103}{}{Æ½ÕûµÄ?Æ¤·ô÷îºÚµÄÊÇ´ó³ğÍâÕß¡£ÎÒËµµÃ²»¶ÔÂğ£¿}
+### {104}{}{Laws? I think you wouldn't like it in the "rule of law".}
+{104}{}{·¨ÂÉ£¿ÎÒÏëÄã²»»áÏ²»¶¡°·¨ÖÎ¡±¡£}
 
-{200}{}{Hey, welcome, dead body. Where are you from?}
-{201}{}{Thanks for the drink, buddy. Where are you from?}
-{1201}{}{Thanks for the drink, girlfriend. Where are you from?}
-{202}{}{Welcome, my friend. Where are you from?}
-{1202}{}{Welcome, lady. Where are you from?}
-{203}{}{I'm from Arizona.}
-{204}{}{Arizona! I didn't think there were dead people there, too. Apparently, we were not the only ones affected by this infection a hundred years ago.}
-{205}{}{Us?}
-{206}{}{Arizona! I didn't think there were people there either. Although it's a bit strange to say "too" about us.}
-{207}{}{Us?}
-{208}{}{Necropolis undead. We waited out the nuclear attack in a local Vault, but as a result turned into ghouls. They died and went to heaven. This is my favorite joke.}
-{209}{}{Then why are you here and not in the Necropolis?}
-{210}{}{Don't you know this story? Oh, it happened a few years ago. In short, because of one fucking mutant who bred other mutants, normal people turned against ALL mutants. This forced us to migrate far away. And now we're here. And it wasn't so bad.}
-{211}{}{In other words, you just ran away from problems?}
-{212}{}{Think what you want. It doesn't matter now.}
-{213}{}{It's prudent. So you show that you don't want enmity with normal people.}
-{214}{}{Thanks for the kind words, my friend.}
-{1214}{}{Thank you for your kind words, friend.}
-{215}{}{Does it look like you like it here?}
-{216}{}{In the Necropolis we would have to dig our own graves. And here we live a normal life. Now I'm sipping white Russian at the bar — what could be better?}
-{217}{}{[Listen]}
-{218}{}{By the way, I lived here before the War. Pleasant memories. A century has passed since then. I'm here again, and there's nothing left of the house. Most of all I feel sorry for the carpet. He set the tone for the whole room.}
-{219}{}{You should switch to "black Russian". It will cheer up the remnants of your brains, which, apparently, are already completely rotten.}
-{220}{}{I don't know how I hurt you, smooth face. You need to change something in your opinion about this place.}
-{221}{}{Maybe. Goodbye.}
-{222}{}{It's so sad. It seems that I don't understand what it's like to live for a century among the ruins.}
-{223}{}{So you haven't lost much in this life. I hope you like it here.}
-{1223}{}{So you haven't lost much in this life. I hope you like it here.}
-{224}{}{Maybe. Bye.}
-{225}{}{I don't know what I've done to you, tanned face. You need to change something in your opinion about this place.}
+### {200}{}{Hey, welcome, dead body. Where are you from?}
+{200}{}{ºÙ£¬»¶Ó­£¬Ê¬Ìå¡£ÄãÊÇÄÄÀïÈË£¿}
+### {201}{}{Thanks for the drink, buddy. Where are you from?}
+{201}{}{Ğ»Ğ»ÄãµÄÒûÁÏ£¬»ï¼Æ¡£ÄãÊÇÄÄÀïÈË£¿}
+### {1201}{}{Thanks for the drink, girlfriend. Where are you from?}
+{1201}{}{Ğ»Ğ»ÄãµÄÒûÁÏ£¬Å®ÅóÓÑ¡£ÄãÊÇÄÄÀïÈË£¿}
+### {202}{}{Welcome, my friend. Where are you from?}
+{202}{}{»¶Ó­£¬ÎÒµÄÅóÓÑ¡£ÄãÊÇÄÄÀïÈË£¿}
+### {1202}{}{Welcome, lady. Where are you from?}
+{1202}{}{»¶Ó­£¬Å®Ê¿¡£ÄãÊÇÄÄÀïÈË£¿}
+### {203}{}{I'm from Arizona.}
+{203}{}{ÎÒÀ´×ÔÑÇÀûÉ£ÄÇÖİ¡£}
+### {204}{}{Arizona! I didn't think there were dead people there, too. Apparently, we were not the only ones affected by this infection a hundred years ago.}
+{204}{}{ÑÇÀûÉ£ÄÇÖİ£¡ÎÒ²»ÈÏÎªÄÇÀïÒ²ÓĞËÀÈË¡£ÏÔÈ»£¬ÎÒÃÇ²¢²»ÊÇÒ»°ÙÄêÇ°Î¨Ò»ÊÜµ½ÕâÖÖ¸ĞÈ¾µÄÈË¡£}
+### {205}{}{Us?}
+{205}{}{ÎÒÃÇ}
+### {206}{}{Arizona! I didn't think there were people there either. Although it's a bit strange to say "too" about us.}
+{206}{}{ÑÇÀûÉ£ÄÇÖİ£¡ÎÒÒ²²»ÈÏÎªÄÇÀïÓĞÈË¡£¾¡¹Ü¶ÔÎÒÃÇËµ¡°Ì«¡±ÓĞµãÆæ¹Ö¡£}
+### {207}{}{Us?}
+{207}{}{ÎÒÃÇ}
+### {208}{}{Necropolis undead. We waited out the nuclear attack in a local Vault, but as a result turned into ghouls. They died and went to heaven. This is my favorite joke.}
+{208}{}{ÍöÁéÄ¹µØ¡£ÎÒÃÇÔÚµ±µØµÄÒ»¸ö½ğ¿âÀïµÈ´ıºËÏ®»÷£¬µ«½á¹û±ä³ÉÁËÊ³Ê¬¹í¡£ËûÃÇËÀÁË£¬ÉÏÁËÌìÌÃ¡£ÕâÊÇÎÒ×îÏ²»¶µÄĞ¦»°¡£}
+### {209}{}{Then why are you here and not in the Necropolis?}
+{209}{}{ÄÇÄãÎªÊ²Ã´ÔÚÕâÀï¶ø²»ÔÚÄ¹µØ£¿}
+### {210}{}{Don't you know this story? Oh, it happened a few years ago. In short, because of one fucking mutant who bred other mutants, normal people turned against ALL mutants. This forced us to migrate far away. And now we're here. And it wasn't so bad.}
+{210}{}{Äã²»ÖªµÀÕâ¸ö¹ÊÊÂÂğ£¿Å¶£¬Õâ·¢ÉúÔÚ¼¸ÄêÇ°¡£¼ò¶øÑÔÖ®£¬ÒòÎªÒ»¸öËûÂèµÄ±äÖÖÈËÅàÓıÁËÆäËû±äÖÖÈË£¬ÆÕÍ¨ÈË×ª¶ø·´¶ÔËùÓĞ±äÖÖÈË¡£ÕâÆÈÊ¹ÎÒÃÇÇ¨ÒÆµ½ºÜÔ¶µÄµØ·½¡£ÏÖÔÚÎÒÃÇµ½ÁË¡£¶øÇÒ»¹Ã»ÄÇÃ´Ôã¸â¡£}
+### {211}{}{In other words, you just ran away from problems?}
+{211}{}{»»¾ä»°Ëµ£¬ÄãÖ»ÊÇÌÓ±ÜÁËÎÊÌâ£¿}
+### {212}{}{Think what you want. It doesn't matter now.}
+{212}{}{ÏëÏëÄãÏëÒªÊ²Ã´¡£ÏÖÔÚÃ»¹ØÏµÁË¡£}
+### {213}{}{It's prudent. So you show that you don't want enmity with normal people.}
+{213}{}{ÕâÊÇ½÷É÷µÄ¡£ËùÒÔÄã±íÃ÷Äã²»ÏëºÍÆÕÍ¨ÈË·¢ÉúµĞÒâ¡£}
+### {214}{}{Thanks for the kind words, my friend.}
+{214}{}{Ğ»Ğ»ÄãµÄ¿ÍÆø»°£¬ÎÒµÄÅóÓÑ¡£}
+### {1214}{}{Thank you for your kind words, friend.}
+{1214}{}{Ğ»Ğ»ÄãµÄ¿ÍÆø»°£¬ÅóÓÑ¡£}
+### {215}{}{Does it look like you like it here?}
+{215}{}{ÄãÏ²»¶ÕâÀïÂğ£¿}
+### {216}{}{In the Necropolis we would have to dig our own graves. And here we live a normal life. Now I'm sipping white Russian at the bar ? what could be better?}
+{216}{}{ÔÚÄ¹µØ£¬ÎÒÃÇ±ØĞë×Ô¼ºÍÚ·ØÄ¹¡£ÎÒÃÇÔÚÕâÀï¹ı×ÅÕı³£µÄÉú»î¡£ÏÖÔÚÎÒÔÚ¾Æ°ÉºÈ×Å°×¶íÂŞË¹? »¹ÓĞÊ²Ã´±ÈÕâ¸üºÃµÄÄØ£¿}
+### {217}{}{[Listen]}
+{217}{}{[Ìı]}
+### {218}{}{By the way, I lived here before the War. Pleasant memories. A century has passed since then. I'm here again, and there's nothing left of the house. Most of all I feel sorry for the carpet. He set the tone for the whole room.}
+{218}{}{Ë³±ãËµÒ»¾ä£¬Õ½Ç°ÎÒ¾Í×¡ÔÚÕâÀï¡£Óä¿ìµÄ»ØÒä¡£Ò»¸öÊÀ¼Í¹ıÈ¥ÁË¡£ÎÒÓÖÀ´ÁË£¬·¿×ÓÒ»ÎŞËùÓĞ¡£×îÖØÒªµÄÊÇ£¬ÎÒÎªµØÌº¸Ğµ½ÄÑ¹ı¡£ËûÎªÕû¸ö·¿¼ä¶¨ÏÂÁË»ùµ÷¡£}
+### {219}{}{You should switch to "black Russian". It will cheer up the remnants of your brains, which, apparently, are already completely rotten.}
+{219}{}{ÄãÓ¦¸Ã»»³É¡°ºÚ¶íÓï¡±¡£Ëü»áÈÃÄã´óÄÔµÄ²ĞÓà²¿·ÖÕñ×÷ÆğÀ´£¬¶øÕâĞ©´óÄÔÏÔÈ»ÒÑ¾­ÍêÈ«¸¯ÀÃÁË¡£}
+### {220}{}{I don't know how I hurt you, smooth face. You need to change something in your opinion about this place.}
+{220}{}{ÎÒ²»ÖªµÀÎÒÊÇÔõÃ´ÉËº¦ÄãµÄ£¬¹â»¬µÄÁ³¡£ÄãĞèÒª¸Ä±äÄã¶ÔÕâ¸öµØ·½µÄ¿´·¨¡£}
+### {221}{}{Maybe. Goodbye.}
+{221}{}{´ó¸ÅÔÙ¼û}
+### {222}{}{It's so sad. It seems that I don't understand what it's like to live for a century among the ruins.}
+{222}{}{Ì«ÁîÈËÄÑ¹ıÁË¡£ÎÒËÆºõ²»Ã÷°×ÔÚ·ÏĞæÖĞÉú»îÒ»¸öÊÀ¼ÍÊÇÊ²Ã´¸Ğ¾õ¡£}
+### {223}{}{So you haven't lost much in this life. I hope you like it here.}
+{223}{}{ËùÒÔÄãÕâ±²×ÓÃ»ÓĞËğÊ§Ì«¶à¡£ÎÒÏ£ÍûÄãÏ²»¶ÕâÀï¡£}
+### {1223}{}{So you haven't lost much in this life. I hope you like it here.}
+{1223}{}{ËùÒÔÄãÕâ±²×ÓÃ»ÓĞËğÊ§Ì«¶à¡£ÎÒÏ£ÍûÄãÏ²»¶ÕâÀï¡£}
+### {224}{}{Maybe. Bye.}
+{224}{}{´ó¸ÅÔÙ¼û}
+### {225}{}{I don't know what I've done to you, tanned face. You need to change something in your opinion about this place.}
+{225}{}{ÎÒ²»ÖªµÀÎÒ¶ÔÄã×öÁËÊ²Ã´£¬É¹ºÚµÄÁ³¡£ÄãĞèÒª¸Ä±äÄã¶ÔÕâ¸öµØ·½µÄ¿´·¨¡£}
 
-{230}{}{You know, these lands once belonged to the Mexicans. And then the Americans came and took it away. But the War erased the boundaries. Now this land belongs to mutants without race and nationality.}
-{231}{}{And you can't argue.}
+### {230}{}{You know, these lands once belonged to the Mexicans. And then the Americans came and took it away. But the War erased the boundaries. Now this land belongs to mutants without race and nationality.}
+{230}{}{ÄãÖªµÀ£¬ÕâĞ©ÍÁµØÔø¾­ÊôÓÚÄ«Î÷¸çÈË¡£È»ºóÃÀ¹úÈËÀ´ÁË£¬°ÑËüÄÃ×ßÁË¡£µ«Õ½ÕùÄ¨È¥ÁË±ß½ç¡£ÏÖÔÚÕâ¿éÍÁµØÊôÓÚÃ»ÓĞÖÖ×åºÍ¹ú¼®µÄ±äÖÖÈË¡£}
+### {231}{}{And you can't argue.}
+{231}{}{Äã²»ÄÜÕù±ç¡£}
 
-{250}{}{Write "Arizona" out of the dust on the bar.}
-{251}{}{Nek-kokol?}
-{252}{}{[Express disgust with the cowardice of ghouls]}
-{253}{}{[Show approval]}
-{254}{}{Why?}
-{255}{}{[Twirl your finger at the temple]}
-{256}{}{[Pat on the shoulder]}
-{257}{}{[Leave]}
-{258}{}{Bye!}
+### {250}{}{Write "Arizona" out of the dust on the bar.}
+{250}{}{ÓÃ°ÉÌ¨ÉÏµÄ»Ò³¾Ğ´ÏÂ¡°ÑÇÀûÉ£ÄÇÖİ¡±¡£}
+### {251}{}{Nek-kokol?}
+{251}{}{ÄÎ¿Ë¿Æ¶û£¿}
+### {252}{}{[Express disgust with the cowardice of ghouls]}
+{252}{}{[¶ÔÊ³Ê¬¹íµÄÅ³Èõ±íÊ¾Ñá¶ñ]}
+### {253}{}{[Show approval]}
+{253}{}{[ÏÔÊ¾Åú×¼]}
+### {254}{}{Why?}
+{254}{}{ÎªÊ²Ã´£¿}
+### {255}{}{[Twirl your finger at the temple]}
+{255}{}{[°ÑÄãµÄÊÖÖ¸Å¤ÏòÌ«ÑôÑ¨]}
+### {256}{}{[Pat on the shoulder]}
+{256}{}{[ÅÄÅÄ¼ç°ò]}
+### {257}{}{[Leave]}
+{257}{}{[Àë¿ª]}
+### {258}{}{Bye!}
+{258}{}{ÔÙ¼û}

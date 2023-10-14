@@ -1,26 +1,50 @@
-{100}{}{There's a patrolman in front of you.}
-{101}{}{Here is a private in standard army armor.}
+### {100}{}{There's a patrolman in front of you.}
+{100}{}{ÄãÃæÇ°ÓĞ¸öÑ²¾¯¡£}
+### {101}{}{Here is a private in standard army armor.}
+{101}{}{ÕâÊÇÒ»ÃûÉí´©±ê×¼Â½¾ü¿ø¼×µÄ¶şµÈ±ø¡£}
 
-{110}{}{El intruso!}
-{111}{}{¡veo al intruso!}
-{112}{}{Eres gringo, yNo?}
-{113}{}{¡bienvenido a Miso!}
-{114}{}{¿qu se te perdiƒ aqui?}
-{115}{}{¿vienes del norte?}
-{116}{}{Esto es Nuevo Mexico.}
-{117}{}{YEsta es nuestra tierra!}
-{118}{}{YGuarda tus armas!}
-{119}{}{No nos caen bien los gringos.}
-{120}{}{quin eres?}
+### {110}{}{El intruso!}
+{110}{}{El introso£¡}
+### {111}{}{?veo al intruso!}
+{111}{}{?ÄãºÃ£¡}
+### {112}{}{Eres gringo, yNo?}
+{112}{}{Eres gringo£¬²»ÊÇÂğ£¿}
+### {113}{}{?bienvenido a M?iso!}
+{113}{}{?bienvenido a M?iso£¡}
+### {114}{}{?qu? se te perdi? aqui?}
+{114}{}{?qu? se te perdi? aqi£¿}
+### {115}{}{?vienes del norte?}
+{115}{}{?±±Å·£¿}
+### {116}{}{Esto es Nuevo Mexico.}
+{116}{}{Ä«Î÷¸çĞÂº£°¶¡£}
+### {117}{}{YEsta es nuestra tierra!}
+{117}{}{Ò®Ë¹ËşÊÇĞÂµÄµÙÒ®À­£¡}
+### {118}{}{YGuarda tus armas!}
+{118}{}{YGuarda tus armas£¡}
+### {119}{}{No nos caen bien los gringos.}
+{119}{}{Ã»ÓĞÍâ¹úÈË¡£}
+### {120}{}{qui?n eres?}
+{120}{}{qui?n eres£¿}
 
-{210}{}{Violator!}
-{211}{}{I see the intruder!}
-{212}{}{Are you an American?}
-{213}{}{Welcome to Mexico.}
-{214}{}{What are you looking for?}
-{215}{}{Did you come from the north?}
-{216}{}{This is the New Mexico.}
-{217}{}{This is our land!}
-{218}{}{Put away your weapon.}
-{219}{}{We don't need outsiders here.}
-{220}{}{Who else are you?}
+### {210}{}{Violator!}
+{210}{}{Î¥·´Õß£¡}
+### {211}{}{I see the intruder!}
+{211}{}{ÎÒ¿´µ½ÈëÇÖÕßÁË£¡}
+### {212}{}{Are you an American?}
+{212}{}{ÄãÊÇÃÀ¹úÈËÂğ£¿}
+### {213}{}{Welcome to Mexico.}
+{213}{}{»¶Ó­À´µ½Ä«Î÷¸ç¡£}
+### {214}{}{What are you looking for?}
+{214}{}{ÄãÔÚÕÒÊ²Ã´£¿}
+### {215}{}{Did you come from the north?}
+{215}{}{ÄãÊÇ´Ó±±·½À´µÄÂğ£¿}
+### {216}{}{This is the New Mexico.}
+{216}{}{ÕâÊÇĞÂÄ«Î÷¸çÖİ¡£}
+### {217}{}{This is our land!}
+{217}{}{ÕâÊÇÎÒÃÇµÄÍÁµØ£¡}
+### {218}{}{Put away your weapon.}
+{218}{}{ÊÕÆğÄãµÄÎäÆ÷¡£}
+### {219}{}{We don't need outsiders here.}
+{219}{}{ÎÒÃÇÕâÀï²»ĞèÒªÍâÈË¡£}
+### {220}{}{Who else are you?}
+{220}{}{Äã»¹ÓĞË­£¿}

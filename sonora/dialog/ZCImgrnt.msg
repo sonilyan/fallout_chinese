@@ -1,24 +1,46 @@
-{100}{}{Here is a civilian.}
-{101}{}{You see a dirty, emaciated man.}
+### {100}{}{Here is a civilian.}
+{100}{}{ÕâÊÇÒ»Î»Æ½Ãñ¡£}
+### {101}{}{You see a dirty, emaciated man.}
+{101}{}{Äã¿´µ½Ò»¸öÓÖÔàÓÖÊİµÄÄĞÈË¡£}
 
-{110}{}{Por favor, no nos ataquen!}
-{111}{}{YNo queremos problemas!}
-{112}{}{Estamos buscando un nuevo hogar.}
-{113}{}{yUa hemos llegado?}
-{114}{}{Quiero dormir.}
-{115}{}{tŸ eres aventurero, yNo?}
-{116}{}{Ya estamos hartos de estos tiranos y guerrilleros.}
-{117}{}{Hay bandidos por todas partes.}
-{118}{}{YDjanos en paz!}
-{119}{}{No tenemos nada de valor.}
+### {110}{}{Por favor, no nos ataquen!}
+{110}{}{°ïÎÒÒ»¸öÃ¦£¬Ã»ÓĞ°¢Ëş¿Ï£¡}
+### {111}{}{YNo queremos problemas!}
+{111}{}{YNÃ»ÓĞÎÊÌâ£¡}
+### {112}{}{Estamos buscando un nuevo hogar.}
+{112}{}{ÕâÊÇÒ»¸öĞÂµÄµØ·½¡£}
+### {113}{}{yUa hemos llegado?}
+{113}{}{ÄãÊÇ¸ö»ìÑª¶ùÂğ£¿}
+### {114}{}{Quiero dormir.}
+{114}{}{QuieroË¯Êó¡£}
+### {115}{}{t? eres aventurero, yNo?}
+{115}{}{t? °£À×Ë¹¡¤°¢ÎÄÍ¼À×ÂŞ£¬ÊÇÂğ£¿}
+### {116}{}{Ya estamos hartos de estos tiranos y guerrilleros.}
+{116}{}{ÄãÊÇÓÎ»÷¶ÓºÍÓÎ»÷¶ÓµÄÒ»Ô±¡£}
+### {117}{}{Hay bandidos por todas partes.}
+{117}{}{ÕâÊÇÎÒÃÇµÄºÏ×÷»ï°é¡£}
+### {118}{}{YD?janos en paz!}
+{118}{}{YD?janos en paz£¡}
+### {119}{}{No tenemos nada de valor.}
+{119}{}{Ã»ÓĞÓÂÆø¡£}
 
-{210}{}{You won't attack us, will you?}
-{211}{}{We just want a peaceful life.}
-{212}{}{We are looking for a new home to start life anew.}
-{213}{}{Are we there yet?}
-{214}{}{I want to sleep.}
-{215}{}{You're adventurers, aren't you?}
-{216}{}{We've had enough of these tyrants and warriors.}
-{217}{}{Damn bandits everywhere.}
-{218}{}{Leave us alone!}
-{219}{}{We have nothing to steal}
+### {210}{}{You won't attack us, will you?}
+{210}{}{Äã²»»á¹¥»÷ÎÒÃÇµÄ£¬ÊÇÂğ£¿}
+### {211}{}{We just want a peaceful life.}
+{211}{}{ÎÒÃÇÖ»ÏëÒªÆ½¾²µÄÉú»î¡£}
+### {212}{}{We are looking for a new home to start life anew.}
+{212}{}{ÎÒÃÇÕıÔÚÑ°ÕÒÒ»¸öĞÂ¼ÒÀ´¿ªÊ¼ĞÂµÄÉú»î¡£}
+### {213}{}{Are we there yet?}
+{213}{}{ÎÒÃÇµ½ÁËÂğ£¿}
+### {214}{}{I want to sleep.}
+{214}{}{ÎÒÏëË¯¾õ¡£}
+### {215}{}{You're adventurers, aren't you?}
+{215}{}{ÄãÃÇÊÇÃ°ÏÕ¼Ò£¬²»ÊÇÂğ£¿}
+### {216}{}{We've had enough of these tyrants and warriors.}
+{216}{}{ÎÒÃÇÊÜ¹»ÁËÕâĞ©±©¾ıºÍÕ½Ê¿¡£}
+### {217}{}{Damn bandits everywhere.}
+{217}{}{µ½´¦¶¼ÊÇ¸ÃËÀµÄÍÁ·Ë¡£}
+### {218}{}{Leave us alone!}
+{218}{}{±ğ¹ÜÎÒÃÇ£¡}
+### {219}{}{We have nothing to steal}
+{219}{}{ÎÒÃÇÃ»ÓĞÊ²Ã´¿ÉÍµµÄ}

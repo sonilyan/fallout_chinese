@@ -1,46 +1,90 @@
-{100}{}{You see Isaac.}
-{101}{}{Here is a ghoul in worn-out work clothes.}
-{102}{}{I'll have to do everything myself again...}
-{1102}{}{I'll have to do everything myself again...}
-{103}{}{Great job... for a smooth-skinned person.}
-{104}{}{This is the engine room. I hope everything works here, otherwise the station won't be of any use.}
-{105}{}{We're already close. Take me to the console in the control room.}
+### {100}{}{You see Isaac.}
+{100}{}{Äã¿´µ½°¬Èø¿ËÁË¡£}
+### {101}{}{Here is a ghoul in worn-out work clothes.}
+{101}{}{ÕâÊÇÒ»¸ö´©×ÅÆÆ¾É¹¤×÷·şµÄÊ³Ê¬¹í¡£}
+### {102}{}{I'll have to do everything myself again...}
+{102}{}{ÎÒ½«²»µÃ²»ÖØĞÂ×öÃ¿¼şÊÂ¡£¡£¡£}
+### {1102}{}{I'll have to do everything myself again...}
+{1102}{}{ÎÒ½«²»µÃ²»ÖØĞÂ×öÃ¿¼şÊÂ¡£¡£¡£}
+### {103}{}{Great job... for a smooth-skinned person.}
+{103}{}{¸ÉµÃºÃ¡£¡£¡£¶ÔÓÚÆ¤·ô¹â»¬µÄÈËÀ´Ëµ¡£}
+### {104}{}{This is the engine room. I hope everything works here, otherwise the station won't be of any use.}
+{104}{}{ÕâÊÇ»ú²Õ¡£ÎÒÏ£ÍûÕâÀïÒ»ÇĞÕı³££¬·ñÔò³µÕ¾¾ÍÃ»ÓÃÁË¡£}
+### {105}{}{We're already close. Take me to the console in the control room.}
+{105}{}{ÎÒÃÇÒÑ¾­½Ó½üÁË¡£´øÎÒµ½¿ØÖÆÊÒµÄ¿ØÖÆÌ¨¡£}
 
-{200}{}{I never thought to see normie here. You must have an awl in your ass?}
-{201}{}{Brand new and straight into hell? That's what I understand! But be careful, it's very dangerous here.}
-{1201}{}{New girl and straight into hell? That's what I understand! But be careful, it's very dangerous here.}
-{202}{}{Senor Gustavo sent me. How can I help you?}
-{203}{}{And what are you doing here?}
-{204}{}{We are trying to do the impossible here — to force the dam to give electricity. That's just from above it was captured by military robots during the nuclear war. They don't let anyone in.}
-{205}{}{And where do you need to get to?}
-{206}{}{I need to get to the control center. It's somewhere underground. Try to find a safe way. Otherwise, I'm not ready to become a part of the local wonderful nature yet.}
-{207}{}{Good. But first I'll try to do it myself.}
-{208}{}{Then come with me. I know how to bypass robots.}
-{209}{}{First tell me, what is this place?}
-{210}{}{This is the Bonita Dam. It was created to store water. The power plant was built here already in times of crisis, when there was a shortage of liquid fuel. Its power is barely enough for the needs of Glow. But there is no other surviving station in the city.}
-{211}{}{I need to get to the control center. It seems we are on the right track.}
-{212}{}{This is the control center. It seems that there has not been a cleaning done for a long time. Nothing, we are not used to... And this, apparently, is the control panel? Wait a minute... so... Done. Hmm. The station is mothballed. I'll have to work with the handles.}
-{213}{}{What should I do?}
-{214}{}{We need to start the second turbine in the engine room. It may take a lot of effort there.}
-{215}{}{Clear.}
-{216}{}{This is the engine room. But now we need to get to the control center.}
-{217}{}{Wait here.}
-{218}{}{Follow me.}
+### {200}{}{I never thought to see normie here. You must have an awl in your ass?}
+{200}{}{ÎÒ´ÓÃ»Ïë¹ıÔÚÕâÀï¼ûµ½ÅµÃ×¡£ÄãÆ¨¹ÉÉÏÒ»¶¨ÓĞ×¶×Ó£¿}
+### {201}{}{Brand new and straight into hell? That's what I understand! But be careful, it's very dangerous here.}
+{201}{}{È«ĞÂµÄ£¬Ö±½Ó½øÈëµØÓü£¿Õâ¾ÍÊÇÎÒËùÀí½âµÄ£¡µ«ÊÇÒªĞ¡ĞÄ£¬ÕâÀïºÜÎ£ÏÕ¡£}
+### {1201}{}{New girl and straight into hell? That's what I understand! But be careful, it's very dangerous here.}
+{1201}{}{ĞÂÀ´µÄÅ®º¢ºÍÖ±½Ó½øÈëµØÓü£¿Õâ¾ÍÊÇÎÒËùÀí½âµÄ£¡µ«ÊÇÒªĞ¡ĞÄ£¬ÕâÀïºÜÎ£ÏÕ¡£}
+### {202}{}{Senor Gustavo sent me. How can I help you?}
+{202}{}{¹ÅË¹ËşÎÖÏÈÉúÅÉÎÒÀ´¡£ÎÒÄÜ°ïÄãÊ²Ã´£¿}
+### {203}{}{And what are you doing here?}
+{203}{}{ÄãÔÚÕâÀï¸ÉÊ²Ã´£¿}
+### {204}{}{We are trying to do the impossible here ? to force the dam to give electricity. That's just from above it was captured by military robots during the nuclear war. They don't let anyone in.}
+{204}{}{ÎÒÃÇÕıÔÚÅ¬Á¦×ö²»¿ÉÄÜµÄÊÂ? ÆÈÊ¹´ó°ÓÍ¨µç¡£´ÓÉÏÃæ¿´£¬ËüÊÇÔÚºËÕ½ÕùÆÚ¼ä±»¾üÓÃ»úÆ÷ÈË²¶»ñµÄ¡£ËûÃÇ²»ÈÃÈÎºÎÈË½øÀ´¡£}
+### {205}{}{And where do you need to get to?}
+{205}{}{ÄãĞèÒªÈ¥ÄÄÀï£¿}
+### {206}{}{I need to get to the control center. It's somewhere underground. Try to find a safe way. Otherwise, I'm not ready to become a part of the local wonderful nature yet.}
+{206}{}{ÎÒĞèÒªÈ¥¿ØÖÆÖĞĞÄ¡£ËüÔÚµØÏÂµÄÄ³¸öµØ·½¡£¾¡Á¿ÕÒÒ»Ìõ°²È«µÄÂ·¡£·ñÔò£¬ÎÒ»¹Ã»ÓĞ×¼±¸ºÃ³ÉÎªµ±µØÃÀÃî×ÔÈ»µÄÒ»²¿·Ö¡£}
+### {207}{}{Good. But first I'll try to do it myself.}
+{207}{}{ºÃµÄµ«Ê×ÏÈÎÒ»áÊÔ×Å×Ô¼º×ö¡£}
+### {208}{}{Then come with me. I know how to bypass robots.}
+{208}{}{ÄÇ¸úÎÒÀ´°É¡£ÎÒÖªµÀÈçºÎÈÆ¹ı»úÆ÷ÈË¡£}
+### {209}{}{First tell me, what is this place?}
+{209}{}{Ê×ÏÈ¸æËßÎÒ£¬ÕâÊÇÊ²Ã´µØ·½£¿}
+### {210}{}{This is the Bonita Dam. It was created to store water. The power plant was built here already in times of crisis, when there was a shortage of liquid fuel. Its power is barely enough for the needs of Glow. But there is no other surviving station in the city.}
+{210}{}{ÕâÊÇ²©ÄáËş´ó°Ó¡£ËüÊÇÓÃÀ´ĞîË®µÄ¡£Õâ×ù·¢µç³§ÊÇÔÚÎ£»úÊ±ÆÚ½¨ÔìµÄ£¬µ±Ê±ÒºÌåÈ¼ÁÏ¶ÌÈ±¡£ËüµÄÄÜÁ¿¼¸ºõ²»×ãÒÔÂú×ãGlowµÄĞèÒª¡£µ«ÊÇÕâ¸ö³ÇÊĞÃ»ÓĞÆäËûĞÒ´æµÄ³µÕ¾¡£}
+### {211}{}{I need to get to the control center. It seems we are on the right track.}
+{211}{}{ÎÒĞèÒªÈ¥¿ØÖÆÖĞĞÄ¡£¿´À´ÎÒÃÇ×ßÔÚÁËÕıÈ·µÄ¹ìµÀÉÏ¡£}
+### {212}{}{This is the control center. It seems that there has not been a cleaning done for a long time. Nothing, we are not used to... And this, apparently, is the control panel? Wait a minute... so... Done. Hmm. The station is mothballed. I'll have to work with the handles.}
+{212}{}{ÕâÊÇ¿ØÖÆÖĞĞÄ¡£ºÃÏñºÜ¾ÃÃ»ÓĞ´òÉ¨ÁË¡£Ã»Ê²Ã´£¬ÎÒÃÇ²»Ï°¹ß¡­¡­ÕâÏÔÈ»ÊÇ¿ØÖÆÃæ°åÂğ£¿µÈÒ»ÏÂ¡£¡£¡£ËùÒÔ¡­Íê³ÉÁË¡£àÅ£¬³µÕ¾±»·â´æÁË¡£ÎÒµÃ´¦Àí°ÑÊÖ¡£}
+### {213}{}{What should I do?}
+{213}{}{ÎÒ¸ÃÔõÃ´°ì£¿}
+### {214}{}{We need to start the second turbine in the engine room. It may take a lot of effort there.}
+{214}{}{ÎÒÃÇĞèÒªÆô¶¯»ú²ÕÀïµÄµÚ¶şÌ¨ÎĞÂÖ»ú¡£Õâ¿ÉÄÜĞèÒª¸¶³öºÜ¶àÅ¬Á¦¡£}
+### {215}{}{Clear.}
+{215}{}{Çå³şµÄ}
+### {216}{}{This is the engine room. But now we need to get to the control center.}
+{216}{}{ÕâÊÇ»ú²Õ¡£µ«ÏÖÔÚÎÒÃÇĞèÒªµ½´ï¿ØÖÆÖĞĞÄ¡£}
+### {217}{}{Wait here.}
+{217}{}{ÔÚÕâÀïµÈºò¡£}
+### {218}{}{Follow me.}
+{218}{}{¸úÎÒÀ´¡£}
 
-{220}{}{This dam will remain a pathetic piece of concrete until we make it work for the benefit of the Glow.}
-{221}{}{Don't tell me you're lost here.}
-{1221}{}{Don't tell me you're lost here.}
-{222}{}{Wait a bit. I'll be back soon.}
-{223}{}{What should I do now?}
-{224}{}{The second turbine is spinning.}
-{225}{}{Hmm, if the turbine is working, then why is there no current coming from it? There must be a gap in the power grid. Check carefully the entire chain from the turbine to the switch.}
-{226}{}{You're kidding...}
-{227}{}{OK.}
-{228}{}{It seems that there is no gap in the network now.}
-{229}{}{Really... Now I will supply current to the substation... Damn it, the substation is not responding. Probably, it was also preserved. You'll have to go there and run it. Remember: we need to direct energy strictly to the power lines in San Isidro and the Old Town. The remaining circuits need to be disconnected.}
-{230}{}{Yes!}
-{231}{}{It seems like I'm doing all the work here...}
-{232}{}{Bonita! Do you hear this wonderful crackling in the transformers and the hum in the wires? It's been a long time since I've heard anything like this. Thank you, amigo. I hope Gustavo will reward you well. Here, take a Geiger counter. You'll need it on your way to San Ysidro.}
-{233}{}{Bye, Isaac.}
-{234}{}{But impassable ruins stretch between the power plant and residential areas...}
-{235}{}{You're thinking! Even though you're not from our century. Although we are ghouls, we have already launched several working robots and prepared power lines. You don't need much for this.}
+### {220}{}{This dam will remain a pathetic piece of concrete until we make it work for the benefit of the Glow.}
+{220}{}{Õâ×ù´ó°Ó½«Ò»Ö±ÊÇÒ»¿é¿ÉÁ¯µÄ»ìÄıÍÁ£¬Ö±µ½ÎÒÃÇÈÃËüÎªGlowµÄÀûÒæ¶ø¹¤×÷¡£}
+### {221}{}{Don't tell me you're lost here.}
+{221}{}{±ğ¸æËßÎÒÄãÔÚÕâÀïÃÔÂ·ÁË¡£}
+### {1221}{}{Don't tell me you're lost here.}
+{1221}{}{±ğ¸æËßÎÒÄãÔÚÕâÀïÃÔÂ·ÁË¡£}
+### {222}{}{Wait a bit. I'll be back soon.}
+{222}{}{µÈÒ»ÏÂ¡£ÎÒºÜ¿ì¾Í»á»ØÀ´¡£}
+### {223}{}{What should I do now?}
+{223}{}{ÎÒÏÖÔÚ¸ÃÔõÃ´°ì£¿}
+### {224}{}{The second turbine is spinning.}
+{224}{}{µÚ¶şÌ¨ÎĞÂÖ»úÕıÔÚĞı×ª¡£}
+### {225}{}{Hmm, if the turbine is working, then why is there no current coming from it? There must be a gap in the power grid. Check carefully the entire chain from the turbine to the switch.}
+{225}{}{àÅ£¬Èç¹ûÎĞÂÖ»úÔÚ¹¤×÷£¬ÄÇÃ´ÎªÊ²Ã´Ã»ÓĞµçÁ÷´ÓËü³öÀ´ÄØ£¿µçÍøÒ»¶¨ÓĞÈ±¿Ú¡£×ĞÏ¸¼ì²é´ÓÎĞÂÖ»úµ½¿ª¹ØµÄÕû¸öÁ´Ìõ¡£}
+### {226}{}{You're kidding...}
+{226}{}{ÄãÔÚ¿ªÍæĞ¦¡£¡£¡£}
+### {227}{}{OK.}
+{227}{}{ºÃ°¡}
+### {228}{}{It seems that there is no gap in the network now.}
+{228}{}{ÏÖÔÚÍøÂçÉÏËÆºõÃ»ÓĞÈ±¿ÚÁË¡£}
+### {229}{}{Really... Now I will supply current to the substation... Damn it, the substation is not responding. Probably, it was also preserved. You'll have to go there and run it. Remember: we need to direct energy strictly to the power lines in San Isidro and the Old Town. The remaining circuits need to be disconnected.}
+{229}{}{ÕæÕıµØÏÖÔÚÎÒ½«Îª±äµçÕ¾¹©µç¡£¡£¡£¸ÃËÀ£¬±äµçÕ¾Ã»ÓĞ·´Ó¦¡£Ò²Ğí£¬ËüÒ²±»±£´æÁËÏÂÀ´¡£Äã±ØĞëÈ¥ÄÇÀïÔËĞĞËü¡£¼Ç×¡£ºÎÒÃÇĞèÒªÑÏ¸ñ½«ÄÜÔ´ÊäËÍµ½Ê¥ÒÁÎ÷µÂÂŞºÍÀÏ³ÇÇøµÄµçÁ¦ÏßÉÏ¡£ĞèÒª¶Ï¿ªÆäÓàµçÂ·¡£}
+### {230}{}{Yes!}
+{230}{}{¶Ô}
+### {231}{}{It seems like I'm doing all the work here...}
+{231}{}{ÎÒºÃÏñÔÚÕâÀï×öËùÓĞµÄ¹¤×÷¡£¡£¡£}
+### {232}{}{Bonita! Do you hear this wonderful crackling in the transformers and the hum in the wires? It's been a long time since I've heard anything like this. Thank you, amigo. I hope Gustavo will reward you well. Here, take a Geiger counter. You'll need it on your way to San Ysidro.}
+{232}{}{²©ÄáËş£¡ÄãÌıµ½±äÑ¹Æ÷·¢³öÃÀÃîµÄàèÅ¾ÉùºÍµçÏß·¢³öµÄÎËÎËÉùÁËÂğ£¿ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞÌıµ½ÕâÑùµÄÏûÏ¢ÁË¡£Ğ»Ğ»Äã£¬ÅóÓÑ¡£ÎÒÏ£Íû¹ÅË¹ËşÎÖ»áºÃºÃ±¨´ğÄã¡£¸ø£¬ÄÃ¸ö¸Ç¸ï¼ÆÊıÆ÷¡£ÄãÔÚÈ¥Ê¥ÒÁÎ÷µÂÂŞµÄÂ·ÉÏĞèÒªËü¡£}
+### {233}{}{Bye, Isaac.}
+{233}{}{ÔÙ¼û£¬°¬Èø¿Ë¡£}
+### {234}{}{But impassable ruins stretch between the power plant and residential areas...}
+{234}{}{µ«ÎŞ·¨Í¨ĞĞµÄ·ÏĞæÔÚ·¢µç³§ºÍ¾ÓÃñÇøÖ®¼äÑÓÉì¡£¡£¡£}
+### {235}{}{You're thinking! Even though you're not from our century. Although we are ghouls, we have already launched several working robots and prepared power lines. You don't need much for this.}
+{235}{}{ÄãÔÚÏë£¡¾¡¹ÜÄã²»ÊÇÎÒÃÇÕâ¸öÊÀ¼ÍµÄÈË¡£¾¡¹ÜÎÒÃÇÊÇÊ³Ê¬¹í£¬µ«ÎÒÃÇÒÑ¾­ÍÆ³öÁË¼¸¸ö¹¤×÷»úÆ÷ÈË£¬²¢×¼±¸ºÃÁËµçÔ´Ïß¡£Äã²»ĞèÒªÌ«¶à¡£}

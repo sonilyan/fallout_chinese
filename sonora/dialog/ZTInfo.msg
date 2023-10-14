@@ -1,47 +1,93 @@
-{100}{}{One-two, check #1.}
-{101}{}{One-two, check #2.}
-{102}{}{One-two, check #3.}
+### {100}{}{One-two, check #1.}
+{100}{}{Ò»¶ş£¬¼ì²é#1¡£}
+### {101}{}{One-two, check #2.}
+{101}{}{Ò»¶ş£¬¼ì²é#2¡£}
+### {102}{}{One-two, check #3.}
+{102}{}{Ò»¶ş£¬¼ì²é#3¡£}
 
-{110}{}{This granary was completely looted.}
-{111}{}{The Town Hall has been vandalized and looted. There are signs of a struggle everywhere.}
-{112}{}{This is the only surviving building — a silent witness of ancient times. And it looks like someone has been here recently.}
-{113}{}{The checkpoint building was completely looted by slaves.}
-{114}{}{Judging by the numerous tracks, the bandits spent several days here waiting for the caravan.}
-{115}{}{This shack seems to have been abandoned for a long time, but you notice a few drops of blood on the floor.}
-{116}{}{This shack seems to have been abandoned for a long time.}
-{117}{}{A long-abandoned and looted drinking establishment. Someone has arranged an overnight stay here.}
-{118}{}{An old dilapidated house. It is impossible to live here.}
-{119}{}{The building is filled with numerous traces. Apparently, the residents spent a lot of time here.}
-{120}{}{The hut of the community leader. The owner kept order even in the midst of all this devastation.}
-{121}{}{By entering the club, you attract a lot of attention to yourself. Visitors evaluate you incredulously and soon return to their business.}
-{122}{}{This stuffy barrack is saturated with the smells of rust and rubber.}
-{123}{}{Peace and quiet reigns in this library.}
-{124}{}{The personal office of the Lord of the Phoenix stands out for sophistication and luxury.}
-{125}{}{This dark stuffy room is a mess.}
-{126}{}{This is your suite. Finally, you can relax after all these tedious journeys.}
-{127}{}{This is a suite. It looks impressive against the background of the surrounding hopelessness.}
-{128}{}{The road ahead rests against the rubble of destroyed buildings.}
-{129}{}{Ugh, this family definitely had something to hide.}
-{130}{}{This is a former pumping station. The locals dragged away everything from here that could be used in everyday life.}
-{131}{}{This place stands out with a terrible stench.}
-{132}{}{The caravaneers have set up a barrack in this old building. It's stuffy, noisy and stinks of sweat.}
-{133}{}{This bar has been abandoned and plundered for a long time. It looks like a shootout took place here a long time ago.}
-{134}{}{This building has been abandoned for a long time. It looks like there was once a swimming pool here, but now there is not even a drop of water left.}
-{135}{}{This large house stands out for its rich decoration and relative cleanliness.}
-{136}{}{The road ahead ends in impassable ruins. We'll have to look for a workaround.}
-{137}{}{A tall building with lighted windows can be seen ahead. A whole crowd of wild ghouls roams in front of him.}
-{138}{}{The sign at the entrance reads: "Open carrying of weapons is prohibited in the casino."}
-{139}{}{This supermarket was destroyed by a shock wave. Many of its visitors died on the spot.}
-{140}{}{This store was badly damaged by the blast wave. Its walls are about to collapse.}
-{141}{}{Further to the south-east, especially destroyed neighborhoods stretch. It looks like there was an epicenter of a nuclear explosion. Nothing survived.}
-{142}{}{This administrative building was recently abandoned. The workers even threw their things in a hurry.}
-{143}{}{This place reeks of sterile cleanliness. You're not used to this smell. Or rather, to his absence.}
-{144}{}{The building of the former hotel has long been abandoned. It looks like someone took everything of value out of here, including furniture.}
-{145}{}{The restaurant is gloomy and dirty. It is worth looking carefully at your feet so as not to stumble.}
-{146}{}{The basement stinks terribly of urine and old rags.}
-{147}{}{It looks like this ancient sewer was dug by someone.}
-{148}{}{These containers are completely leaky. Oil spills into the sea, and vapors risk breaking out from any spark.}
-{149}{}{There are traces of bare human feet around the lighthouse.}
-{150}{}{Further north the road is lost in the sand.}
-{151}{}{This is the road you came from Sonora. To go back, wait for the shipment at the collection point.}
-{152}{}{The road is blocked by collapses of buildings.}
+### {110}{}{This granary was completely looted.}
+{110}{}{Õâ¸öÁ¸²Ö±»Ï´½ÙÒ»¿Õ¡£}
+### {111}{}{The Town Hall has been vandalized and looted. There are signs of a struggle everywhere.}
+{111}{}{ÊĞÕşÌüÔâµ½ÆÆ»µºÍÏ´½Ù¡£µ½´¦¶¼ÓĞ¶·ÕùµÄ¼£Ïó¡£}
+### {112}{}{This is the only surviving building ? a silent witness of ancient times. And it looks like someone has been here recently.}
+{112}{}{ÕâÊÇÎ¨Ò»ĞÒ´æµÄ½¨Öş? ¹Å´úµÄÎŞÉù¼ûÖ¤ÈË¡£¿´ÆğÀ´×î½üºÃÏñÓĞÈËÀ´¹ıÕâÀï¡£}
+### {113}{}{The checkpoint building was completely looted by slaves.}
+{113}{}{¼ì²éÕ¾´óÂ¥±»Å«Á¥Ï´½ÙÒ»¿Õ¡£}
+### {114}{}{Judging by the numerous tracks, the bandits spent several days here waiting for the caravan.}
+{114}{}{´ÓÖÚ¶àµÄ×ã¼£À´¿´£¬ÍÁ·ËÃÇÔÚÕâÀïµÈÁËºÃ¼¸ÌìÉÌ¶Ó¡£}
+### {115}{}{This shack seems to have been abandoned for a long time, but you notice a few drops of blood on the floor.}
+{115}{}{Õâ¸öÅïÎİËÆºõ±»ÒÅÆúÁËºÜ³¤Ê±¼ä£¬µ«Äã×¢Òâµ½µØ°åÉÏÓĞ¼¸µÎÑª¡£}
+### {116}{}{This shack seems to have been abandoned for a long time.}
+{116}{}{Õâ¸öÅïÎİËÆºõÒÑ¾­·ÏÆúºÜ³¤Ê±¼äÁË¡£}
+### {117}{}{A long-abandoned and looted drinking establishment. Someone has arranged an overnight stay here.}
+{117}{}{Ò»¸ö³¤ÆÚ±»ÒÅÆúºÍÂÓ¶áµÄÒû¾Æ³¡Ëù¡£ÓĞÈË°²ÅÅÔÚÕâÀï¹ıÒ¹¡£}
+### {118}{}{An old dilapidated house. It is impossible to live here.}
+{118}{}{ÆÆ¾ÉµÄÀÏ·¿×Ó¡£ÔÚÕâÀïÉú»îÊÇ²»¿ÉÄÜµÄ¡£}
+### {119}{}{The building is filled with numerous traces. Apparently, the residents spent a lot of time here.}
+{119}{}{Õâ×ù½¨Öş²¼ÂúÁËĞí¶àºÛ¼£¡£ÏÔÈ»£¬¾ÓÃñÃÇÔÚÕâÀï¶È¹ıÁËºÜ¶àÊ±¼ä¡£}
+### {120}{}{The hut of the community leader. The owner kept order even in the midst of all this devastation.}
+{120}{}{ÉçÇøÁìĞäµÄĞ¡Îİ¡£¼´Ê¹ÔÚÕâ³¡ÔÖÄÑÖĞ£¬µêÖ÷Ò²Î¬³Ö×ÅÖÈĞò¡£}
+### {121}{}{By entering the club, you attract a lot of attention to yourself. Visitors evaluate you incredulously and soon return to their business.}
+{121}{}{Í¨¹ı½øÈë¾ãÀÖ²¿£¬Äã»áÎüÒıºÜ¶à×¢ÒâÁ¦¡£À´·ÃÕß¶ÔÄãµÄÆÀ¼ÛÁîÈËÄÑÒÔÖÃĞÅ£¬ºÜ¿ì¾Í»á»Øµ½ËûÃÇµÄÒµÎñÖĞ¡£}
+### {122}{}{This stuffy barrack is saturated with the smells of rust and rubber.}
+{122}{}{Õâ¸öÃÆÈÈµÄÓª·¿³äÂúÁËÌúĞâºÍÏğ½ºµÄÆøÎ¶¡£}
+### {123}{}{Peace and quiet reigns in this library.}
+{123}{}{Õâ¸öÍ¼Êé¹İÀïÄş¾²ÏéºÍ¡£}
+### {124}{}{The personal office of the Lord of the Phoenix stands out for sophistication and luxury.}
+{124}{}{·ï»ËÖ®Ö÷µÄË½ÈË°ì¹«ÊÒÒÔ¾«ÖÂºÍÉİ»ªÖø³Æ¡£}
+### {125}{}{This dark stuffy room is a mess.}
+{125}{}{Õâ¸öºÚ°µÃÆÈÈµÄ·¿¼äÒ»ÍÅÔã¡£}
+### {126}{}{This is your suite. Finally, you can relax after all these tedious journeys.}
+{126}{}{ÕâÊÇÄãµÄÌ×·¿¡£×îºó£¬ÔÚ¾­ÀúÁËÕâĞ©·¦Î¶µÄÂÃ³ÌÖ®ºó£¬Äã¿ÉÒÔ·ÅËÉÁË¡£}
+### {127}{}{This is a suite. It looks impressive against the background of the surrounding hopelessness.}
+{127}{}{ÕâÊÇÌ×·¿¡£ÔÚÖÜÎ§¾øÍûµÄ±³¾°ÏÂ£¬Ëü¿´ÆğÀ´ÁîÈËÓ¡ÏóÉî¿Ì¡£}
+### {128}{}{The road ahead rests against the rubble of destroyed buildings.}
+{128}{}{Ç°·½µÄµÀÂ·¿¿ÔÚ±»»Ù»µµÄ½¨ÖşÎïµÄÍßÀùÉÏ¡£}
+### {129}{}{Ugh, this family definitely had something to hide.}
+{129}{}{°¡£¬Õâ¼ÒÈË¿Ï¶¨ÓĞÊ²Ã´ÒªÒşÂ÷µÄ¡£}
+### {130}{}{This is a former pumping station. The locals dragged away everything from here that could be used in everyday life.}
+{130}{}{ÕâÊÇÒÔÇ°µÄ³éË®Õ¾¡£µ±µØÈË´ÓÕâÀïÍÏ×ßÁËÒ»ÇĞ¿ÉÒÔÔÚÈÕ³£Éú»îÖĞÊ¹ÓÃµÄ¶«Î÷¡£}
+### {131}{}{This place stands out with a terrible stench.}
+{131}{}{Õâ¸öµØ·½³ôÆøÑ¬Ìì¡£}
+### {132}{}{The caravaneers have set up a barrack in this old building. It's stuffy, noisy and stinks of sweat.}
+{132}{}{ÉÌ¶ÓÔÚÕâ×ùÀÏ½¨ÖşÀï½¨ÁËÒ»¸öÓª·¿¡£ÕâÀïÓÖÃÆÓÖ³³£¬ÂúÉíº¹³ô¡£}
+### {133}{}{This bar has been abandoned and plundered for a long time. It looks like a shootout took place here a long time ago.}
+{133}{}{Õâ¼Ò¾Æ°É±»ÒÅÆúºÍÂÓ¶áÁËºÜ³¤Ò»¶ÎÊ±¼ä¡£¿´ÆğÀ´ÕâÀïºÜ¾ÃÒÔÇ°¾Í·¢Éú¹ıÇ¹Õ½¡£}
+### {134}{}{This building has been abandoned for a long time. It looks like there was once a swimming pool here, but now there is not even a drop of water left.}
+{134}{}{Õâ×ù½¨ÖşÒÑ¾­·ÏÆúºÜ³¤Ê±¼äÁË¡£¿´ÆğÀ´ÕâÀïÔø¾­ÓĞÒ»¸öÓÎÓ¾³Ø£¬µ«ÏÖÔÚÁ¬Ò»µÎË®¶¼Ã»ÓĞÁË¡£}
+### {135}{}{This large house stands out for its rich decoration and relative cleanliness.}
+{135}{}{Õâ×ù´ó·¿×ÓÒÔÆä·á¸»µÄ×°ÊÎºÍÏà¶ÔÕû½à¶øÒıÈË×¢Ä¿¡£}
+### {136}{}{The road ahead ends in impassable ruins. We'll have to look for a workaround.}
+{136}{}{Ç°·½µÄµÀÂ·¾¡Í·ÊÇÒ»Æ¬ÎŞ·¨Í¨ĞĞµÄ·ÏĞæ¡£ÎÒÃÇµÃÕÒ¸ö±äÍ¨°ì·¨¡£}
+### {137}{}{A tall building with lighted windows can be seen ahead. A whole crowd of wild ghouls roams in front of him.}
+{137}{}{Ç°Ãæ¿ÉÒÔ¿´µ½Ò»¶°´°»§ÁÁ×ÅµÄ¸ßÂ¥¡£Ò»ÈºÒ°Ê³Ê¬¹íÔÚËûÃæÇ°ÓÎµ´¡£}
+### {138}{}{The sign at the entrance reads: "Open carrying of weapons is prohibited in the casino."}
+{138}{}{Èë¿Ú´¦µÄ±êÅÆÉÏĞ´×Å£º¡°¶Ä³¡ÄÚ½ûÖ¹¹«¿ªĞ¯´øÎäÆ÷¡£¡±}
+### {139}{}{This supermarket was destroyed by a shock wave. Many of its visitors died on the spot.}
+{139}{}{Õâ¼Ò³¬ÊĞ±»³å»÷²¨´İ»ÙÁË¡£Ğí¶àÓÎ¿Íµ±³¡ËÀÍö¡£}
+### {140}{}{This store was badly damaged by the blast wave. Its walls are about to collapse.}
+{140}{}{Õâ¼ÒÉÌµê±»±¬Õ¨²¨ÑÏÖØËğ»µ¡£ËüµÄÇ½¿ìÒªµ¹ËúÁË¡£}
+### {141}{}{Further to the south-east, especially destroyed neighborhoods stretch. It looks like there was an epicenter of a nuclear explosion. Nothing survived.}
+{141}{}{ÔÙÍù¶«ÄÏ£¬ÓÈÆäÊÇ±»´İ»ÙµÄ½ÖÇøÃàÑÓ²»¾ø¡£¿´ÆğÀ´ÓĞÒ»¸öºË±¬Õ¨µÄÖĞĞÄ¡£Ò»ÎŞËùÓĞ¡£}
+### {142}{}{This administrative building was recently abandoned. The workers even threw their things in a hurry.}
+{142}{}{Õâ×ùĞĞÕş´óÂ¥×î½ü±»·ÏÆúÁË¡£¹¤ÈËÃÇÉõÖÁ´ÒÃ¦µØÈÓ¶«Î÷¡£}
+### {143}{}{This place reeks of sterile cleanliness. You're not used to this smell. Or rather, to his absence.}
+{143}{}{Õâ¸öµØ·½É¢·¢×ÅÎŞ¾úÇå½àµÄ³ôÎ¶¡£Äã²»Ï°¹ßÕâÖÖÆøÎ¶¡£»òÕß¸üÈ·ÇĞµØËµ£¬ÊÇÓÉÓÚËûµÄÈ±Ï¯¡£}
+### {144}{}{The building of the former hotel has long been abandoned. It looks like someone took everything of value out of here, including furniture.}
+{144}{}{ÒÔÇ°ÄÇ¼ÒÂÃ¹İµÄ½¨ÖşÔçÒÑ·ÏÆú¡£¿´ÆğÀ´ºÃÏñÓĞÈËÄÃ×ßÁËÕâÀïËùÓĞÓĞ¼ÛÖµµÄ¶«Î÷£¬°üÀ¨¼Ò¾ß¡£}
+### {145}{}{The restaurant is gloomy and dirty. It is worth looking carefully at your feet so as not to stumble.}
+{145}{}{Õâ¼Ò²ÍÌüÓÖÔàÓÖ°µ¡£×ĞÏ¸¿´¿´ÄãµÄ½ÅÊÇÖµµÃµÄ£¬ÒÔÃâ°íµ¹¡£}
+### {146}{}{The basement stinks terribly of urine and old rags.}
+{146}{}{µØÏÂÊÒ³ôÆøÑ¬Ìì£¬µ½´¦¶¼ÊÇÄòºÍ¾ÉÄ¨²¼¡£}
+### {147}{}{It looks like this ancient sewer was dug by someone.}
+{147}{}{¿´ÆğÀ´ÕâÌõ¹ÅÀÏµÄÏÂË®µÀÊÇÓĞÈËÍÚµÄ¡£}
+### {148}{}{These containers are completely leaky. Oil spills into the sea, and vapors risk breaking out from any spark.}
+{148}{}{ÕâĞ©ÈİÆ÷ÍêÈ«Â©Ë®¡£Ê¯ÓÍĞ¹Â©µ½º£Àï£¬ÈÎºÎ»ğ»¨¶¼ÓĞ¿ÉÄÜÅç³öÕôÆû¡£}
+### {149}{}{There are traces of bare human feet around the lighthouse.}
+{149}{}{µÆËşÖÜÎ§ÓĞÈË¹â×Å½ÅµÄºÛ¼£¡£}
+### {150}{}{Further north the road is lost in the sand.}
+{150}{}{ÔÙÍù±±£¬ÄÇÌõÂ·±»É³×ÓÑÍÃ»ÁË¡£}
+### {151}{}{This is the road you came from Sonora. To go back, wait for the shipment at the collection point.}
+{151}{}{ÕâÊÇÄã´ÓË÷ÅµÀ­À´µÄÂ·¡£Òª·µ»Ø£¬ÇëÔÚÊÕ»õµãµÈ´ı·¢»õ¡£}
+### {152}{}{The road is blocked by collapses of buildings.}
+{152}{}{µÀÂ·±»µ¹ËúµÄ½¨ÖşÎï¶ÂÈûÁË¡£}

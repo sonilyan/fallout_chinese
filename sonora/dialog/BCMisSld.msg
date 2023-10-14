@@ -1,34 +1,64 @@
-{100}{}{you have a missionary in front of you.}
-{101}{}{you see one of the soldiers. He is in full combat gear.}
+### {100}{}{you have a missionary in front of you.}
+{100}{}{ÄãÃæÇ°ÓĞÒ»Î»´«½ÌÊ¿¡£}
+### {101}{}{you see one of the soldiers. He is in full combat gear.}
+{101}{}{Äã¿´µ½Ò»¸öÊ¿±ø¡£ËûÈ«¸±Îä×°¡£}
 
-{110}{}{I wish I could talk to the commander.}
-{111}{}{how lucky that you are not from the tribe of cattle breeders.}
-{112}{}{The commander brought us. talk to him from there.}
-{113}{}{Do you want to joinÿ? Well, I'm not going to share rations.}
-{114}{}{I don't know how the others are, but I'm going to *survive* this night.}
-{115}{}{Looks like we're stuck here for a long time.}
+### {110}{}{I wish I could talk to the commander.}
+{110}{}{ÎÒÏ£ÍûÎÒÄÜºÍÖ¸»Ó¹ÙÌ¸Ì¸¡£}
+### {111}{}{how lucky that you are not from the tribe of cattle breeders.}
+{111}{}{Äã²»ÊÇÑøÅ£ÈË£¬ÕæÊÇĞÒÔË¡£}
+### {112}{}{The commander brought us. talk to him from there.}
+{112}{}{Ö¸»Ó¹Ù°ÑÎÒÃÇ´øÀ´ÁË¡£´ÓÄÇÀïºÍËûÌ¸Ì¸¡£}
+### {113}{}{Do you want to join?? Well, I'm not going to share rations.}
+{113}{}{ÄãÏë¼ÓÈëÂğ?? ºÃ°É£¬ÎÒ²»»á·ÖÏí¿ÚÁ¸¡£}
+### {114}{}{I don't know how the others are, but I'm going to *survive* this night.}
+{114}{}{ÎÒ²»ÖªµÀÆäËûÈËÔõÃ´Ñù£¬µ«½ñÍíÎÒ»áÍ¦¹ıÀ´µÄ¡£}
+### {115}{}{Looks like we're stuck here for a long time.}
+{115}{}{¿´À´ÎÒÃÇ±»À§ÔÚÕâÀïºÜ³¤Ê±¼äÁË¡£}
 
-{150}{}{Sings an old song, enviously chewing your carbine.}
+### {150}{}{Sings an old song, enviously chewing your carbine.}
+{150}{}{³ª×ÅÒ»Ê×ÀÏ¸è£¬ÏÛÄ½µØ½À×ÅÄãµÄ¿¨±öÇ¹¡£}
+### {151}{}{Carabina Treinta Treinta}
 {151}{}{Carabina Treinta Treinta}
-{152}{}{Que los rebeldes portaban}
-{153}{}{Y Dec?an los maderistas}
-{154}{}{Que con ellas no mataban.}
+### {152}{}{Que los rebeldes portaban}
+{152}{}{ÃÅ»§ÍøÕ¾}
+### {153}{}{Y Dec?an los maderistas}
+{153}{}{12ÔÂYÈÕ£¿los maderistas}
+### {154}{}{Que con ellas no mataban.}
+{154}{}{Ã»ÓĞÂíËş°à¡£}
+### {155}{}{Con mi 30/30 me voy a pelear}
 {155}{}{Con mi 30/30 me voy a pelear}
-{156}{}{Ingrese a las filas de la rebelion}
-{157}{}{Si mi sangre piden, mi sangre les doy}
-{158}{}{Por los habitantes de nuestra nacion}
-{159}{}{.}
+### {156}{}{Ingrese a las filas de la rebelion}
+{156}{}{Ingres a las filas de la rebelion}
+### {157}{}{Si mi sangre piden, mi sangre les doy}
+{157}{}{ÎÒºÜ½¡¿µ£¬ÎÒºÜ½¡¿µ}
+### {158}{}{Por los habitantes de nuestra nacion}
+{158}{}{ĞÂ¾ÓÃñ}
+### {159}{}{.}
+{159}{}{¡£}
 
-{160}{}{it's finally over.}
-{161}{}{we won! Olé!}
-{162}{}{we beat these aborigines like children.}
-{163}{}{Ònow the savages will not dare to go against us.}
-{164}{}{the rangers are fleeing to the west with their tails between their legs.}
-{165}{}{yes! Now we are here, Eva.}
+### {160}{}{it's finally over.}
+{160}{}{ÖÕÓÚ½áÊøÁË¡£}
+### {161}{}{we won! Ol?!}
+{161}{}{ÎÒÃÇÓ®ÁË£¡Ol?!}
+### {162}{}{we beat these aborigines like children.}
+{162}{}{ÎÒÃÇÏñ´òº¢×ÓÒ»Ñù´òÕâĞ©Ô­×¡Ãñ¡£}
+### {163}{}{?now the savages will not dare to go against us.}
+{163}{}{?ÏÖÔÚÒ°ÂùÈË²»¸ÒºÍÎÒÃÇ×÷¶ÔÁË¡£}
+### {164}{}{the rangers are fleeing to the west with their tails between their legs.}
+{164}{}{»¤ÁÖÔ±Õı¼Ğ×ÅÎ²°ÍÌÓÍùÎ÷²¿¡£}
+### {165}{}{yes! Now we are here, Eva.}
+{165}{}{¶ÔÏÖÔÚÎÒÃÇµ½ÁË£¬ÒÁÍŞ¡£}
 
-{170}{}{Bloody savages!}
-{171}{}{I don't want to return to Enix after such a disgrace.}
-{172}{}{These savages will regret that they drove us away.}
-{173}{}{Finally we will return home.}
-{174}{}{If the commander runs away with Paul, then we have nothing to do here.}
-{175}{}{They told me that it was not worth getting into this war...}
+### {170}{}{Bloody savages!}
+{170}{}{ÑªĞÈµÄÒ°ÂùÈË£¡}
+### {171}{}{I don't want to return to Enix after such a disgrace.}
+{171}{}{ÎÒ²»ÏëÔÚÕâÃ´¶ªÁ³Ö®ºó»Øµ½°¬Äá¿ËË¹¡£}
+### {172}{}{These savages will regret that they drove us away.}
+{172}{}{ÕâĞ©Ò°ÂùÈË»áºó»ÚËûÃÇ°ÑÎÒÃÇ¸Ï×ßÁË¡£}
+### {173}{}{Finally we will return home.}
+{173}{}{ÎÒÃÇÖÕÓÚÒª»Ø¼ÒÁË¡£}
+### {174}{}{If the commander runs away with Paul, then we have nothing to do here.}
+{174}{}{Èç¹ûÖ¸»Ó¹Ù´ø×Å±£ÂŞÌÓÅÜ£¬ÄÇÃ´ÎÒÃÇÔÚÕâÀï¾ÍÃ»ÓĞÊ²Ã´¿É×öµÄÁË¡£}
+### {175}{}{They told me that it was not worth getting into this war...}
+{175}{}{ËûÃÇ¸æËßÎÒ²»ÖµµÃ¾íÈëÕâ³¡Õ½Õù¡£¡£¡£}

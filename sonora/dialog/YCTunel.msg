@@ -1,48 +1,93 @@
-{100}{}{You see an old ghoul.}
-{101}{}{In front of you is a lonely living ghoul. If not for his frighteningly perishable appearance, he would have looked quite friendly.}
-{102}{}{The border guards are looking for you. I won't help you even for a bunch of hubbucks.}
-{103}{}{How did you find out about the secret passage? Even Tobias didn't know about him!}
-{1103}{}{How did you find out about the secret passage? Even Tobias didn't know about him!}
+### {100}{}{You see an old ghoul.}
+{100}{}{Äã¿´µ½Ò»¸öÀÏÊ³Ê¬¹í¡£}
+### {101}{}{In front of you is a lonely living ghoul. If not for his frighteningly perishable appearance, he would have looked quite friendly.}
+{101}{}{ÄãÃæÇ°ÊÇÒ»¸ö¹Â¶ÀµÄÊ³Ê¬¹í¡£Èç¹û²»ÊÇÒòÎªËûÄÇÁîÈË¿Ö¾åµÄÒ×¸¯ÀÃµÄÍâ±í£¬Ëû¿´ÆğÀ´»áºÜÓÑºÃ¡£}
+### {102}{}{The border guards are looking for you. I won't help you even for a bunch of hubbucks.}
+{102}{}{±ß·À¾üÔÚÕÒÄã¡£ÎÒ²»»á°ïÄã£¬ÄÄÅÂÊÇ°ïÒ»°ï»ìµ°¡£}
+### {103}{}{How did you find out about the secret passage? Even Tobias didn't know about him!}
+{103}{}{ÄãÊÇÔõÃ´ÖªµÀÕâÌõÃØÃÜÍ¨µÀµÄ£¿Á¬ÍĞ±ÈÑÇË¹¶¼²»ÖªµÀËû£¡}
+### {1103}{}{How did you find out about the secret passage? Even Tobias didn't know about him!}
+{1103}{}{ÄãÊÇÔõÃ´ÖªµÀÕâÌõÃØÃÜÍ¨µÀµÄ£¿Á¬ÍĞ±ÈÑÇË¹¶¼²»ÖªµÀËû£¡}
 
 #Acquaintance
-{200}{}{(At first it seems to you that the shrunken body of the deceased is sitting in the chair. But when you approach, the body slowly raises its head and says in a hoarse drawling voice) Why are you here, man?}
-{201}{}{I'm looking for a way to get into the Glow of the Day.}
-{202}{}{Our city is open only to the dead. There's nothing for the living to do there.}
-{203}{}{Oh, then I really shouldn't go there. Bye.}
-{204}{}{And yet I want to get there.}
-{205}{}{I won't try to dissuade you. But Tobias will hardly let you through the border.}
-{206}{}{Then I'll try to convince him. Bye, old man.}
-{207}{}{Is there a workaround?}
-{208}{}{All other roads are extremely dangerous. But there's no need to go that far. I know one shortcut. I can spend it, but not for free. How many Hubbucks do you have?}
-{209}{}{Hubbucks?}
-{210}{}{So, you're offering something obviously illegal. I'm not going to go that far. Goodbye.}
-{211}{}{Caps! Bottle caps! They were invented in the Hub to replace pre-war money. So how many bottle caps do you have?}
-{212}{}{I don't have any bottle caps.}
-{213}{}{I don't have any hubbucks.}
-{214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
-{1214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
+### {200}{}{(At first it seems to you that the shrunken body of the deceased is sitting in the chair. But when you approach, the body slowly raises its head and says in a hoarse drawling voice) Why are you here, man?}
+{200}{}{£¨Ò»¿ªÊ¼£¬Äã¾õµÃËÀÕßÎ®ËõµÄÊ¬Ìå×øÔÚÒÎ×ÓÉÏ¡£µ«µ±Äã×ß½üÊ±£¬Ê¬ÌåÂıÂıÌ§ÆğÍ·£¬ÓÃÉ³ÑÆµÄÍÏ³¤ÉùÒôËµ£©ÄãÎªÊ²Ã´ÔÚÕâÀï£¬»ï¼Æ£¿}
+### {201}{}{I'm looking for a way to get into the Glow of the Day.}
+{201}{}{ÎÒÕıÔÚÑ°ÕÒÒ»ÖÖ½øÈë¡°¹â»ÔÈÕ¡±µÄ·½Ê½¡£}
+### {202}{}{Our city is open only to the dead. There's nothing for the living to do there.}
+{202}{}{ÎÒÃÇµÄ³ÇÊĞÖ»¶ÔËÀÈË¿ª·Å¡£ÄÇÀïÃ»ÓĞÊ²Ã´»îµÄ¿É×öµÄ¡£}
+### {203}{}{Oh, then I really shouldn't go there. Bye.}
+{203}{}{Å¶£¬ÄÇÎÒÕæµÄ²»¸ÃÈ¥ÄÇÀïÁË¡£ÔÙ¼û}
+### {204}{}{And yet I want to get there.}
+{204}{}{µ«ÎÒÏëÈ¥ÄÇÀï¡£}
+### {205}{}{I won't try to dissuade you. But Tobias will hardly let you through the border.}
+{205}{}{ÎÒ²»»áÈ°×èÄãµÄ¡£µ«ÍĞ±ÈÑÇË¹ºÜÄÑÈÃÄãÍ¨¹ı±ß¾³¡£}
+### {206}{}{Then I'll try to convince him. Bye, old man.}
+{206}{}{È»ºóÎÒ»áÊÔ×ÅËµ·şËû¡£ÔÙ¼û£¬ÀÏÈË¡£}
+### {207}{}{Is there a workaround?}
+{207}{}{ÓĞ±äÍ¨°ì·¨Âğ£¿}
+### {208}{}{All other roads are extremely dangerous. But there's no need to go that far. I know one shortcut. I can spend it, but not for free. How many Hubbucks do you have?}
+{208}{}{ËùÓĞÆäËûµÀÂ·¶¼¼«ÆäÎ£ÏÕ¡£µ«Ã»ÓĞ±ØÒª×ßÄÇÃ´Ô¶¡£ÎÒÖªµÀÒ»Ìõ½İ¾¶¡£ÎÒ¿ÉÒÔ»¨£¬µ«²»ÄÜÃâ·Ñ¡£ÄãÓĞ¶àÉÙHubbucks£¿}
+### {209}{}{Hubbucks?}
+{209}{}{Hubbucks£¿}
+### {210}{}{So, you're offering something obviously illegal. I'm not going to go that far. Goodbye.}
+{210}{}{ËùÒÔ£¬ÄãÌá¹©µÄ¶«Î÷ÏÔÈ»ÊÇ·Ç·¨µÄ¡£ÎÒ²»»á×ßÄÇÃ´Ô¶¡£ÔÙ¼û}
+### {211}{}{Caps! Bottle caps! They were invented in the Hub to replace pre-war money. So how many bottle caps do you have?}
+{211}{}{´óĞ´£¡Æ¿¸Ç£¡ËüÃÇÊÇÔÚHub·¢Ã÷µÄ£¬ÓÃÀ´È¡´úÕ½Ç°µÄ»õ±Ò¡£ÄãÓĞ¼¸¸öÆ¿¸Ç£¿}
+### {212}{}{I don't have any bottle caps.}
+{212}{}{ÎÒÃ»ÓĞÆ¿¸Ç¡£}
+### {213}{}{I don't have any hubbucks.}
+{213}{}{ÎÒÃ»ÓĞÕÉ·ò¡£}
+### {214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
+{214}{}{ÄãÔÚÈö»Ñ¡£ÎÒÖªµÀÄãÊÇ´ø×ÅÃ±×ÓÀ´µÄ¡£´ÓÄÄÀï£¿£¨ËûÓÃÊÖÖ¸´ÁÌ«ÑôÑ¨£©X¹â¼ì²é¡£ºÇºÇ£¬Ò»¸öĞ¦»°¡£}
+### {1214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
+{1214}{}{ÄãÔÚÈö»Ñ¡£ÎÒÖªµÀÄãÊÇ´ø×ÅÃ±×ÓÀ´µÄ¡£´ÓÄÄÀï£¿£¨ËûÓÃÊÖÖ¸´ÁÌ«ÑôÑ¨£©X¹â¼ì²é¡£ºÇºÇ£¬Ò»¸öĞ¦»°¡£}
 #Note: In fact, this is not X-ray vision, just a gul guide studied GG and his belongings while sleeping at one of the parking lots.
-{215}{}{You're delusional, old man. I'd better get out of here.}
-{216}{}{Okay, here are all my caps. Now take me to the city!}
-{217}{}{Now — tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
-{1217}{}{Now — tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
-{218}{}{Uv... Okay. But be careful.}
-{219}{}{Don't even try to deceive me, old man.}
-{220}{}{I believe. It's stupid, of course, to go across the border without any money at all. What should I do with you now? All right, bring me three cans of good old Mexican beer. They can still be found in the ruins on Revolution Avenue.}
-{221}{}{I hope they really are there.}
-{222}{}{What about irradiated Nuka-cola? I found five whole bottles in the ruins.}
-{223}{}{I have five bottles of non-irradiated core Cola. Will they suit you?}
-{224}{}{Here are three cans of old beer.}
-{225}{}{It's a deal. Apparently, there's nothing more to take from you.}
-{226}{}{So will you take me to the city?}
-{227}{}{Did you manage to find what I asked for?}
-{228}{}{No. Maybe I was looking in the wrong place? I'll try to walk through the ruins again.}
-{1228}{}{No. Maybe I was looking in the wrong place? I'll try to walk through the ruins again.}
-{229}{}{}
-{230}{}{Still can't get across the border, can you? I know one shortcut. I can spend it, but not for free. How many hubbucks do you have?}
-{231}{}{Are you leaving the Dayglow already? Well, you really should go.}
-{232}{}{Bye.}
-{233}{}{(You see an old man sitting in an armchair; he slowly raises his head, showing his disfigured face; in a hoarse drawling voice he calls you) Ah, fresh blood! Glad to see you in our dead kingdom. If you need to cross the border, then talk to Tobias, he will be happy to let you through.}
-{234}{}{I'll do that. Later.}
-{235}{}{Who is Tobias?}
-{236}{}{Tobias is the guardian of the city gates. We can say that he is an intermediary between the world of the living and the world of the dead.}
+### {215}{}{You're delusional, old man. I'd better get out of here.}
+{215}{}{ÄãÓĞÍıÏëÖ¢£¬ÀÏÍ·¡£ÎÒ×îºÃÀë¿ªÕâÀï¡£}
+### {216}{}{Okay, here are all my caps. Now take me to the city!}
+{216}{}{ºÃµÄ£¬ÕâÊÇÎÒËùÓĞµÄÃ±×Ó¡£ÏÖÔÚ´øÎÒÈ¥³ÇÀï£¡}
+### {217}{}{Now ? tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
+{217}{}{ÏÖÔÚ? ÇãĞ±ÄãµÄÍ·¡£¡£¡£±ğµ£ĞÄ£¬ÎÒÃÇ½ø³ÇµÄÊ±ºòÎÒ»á°ÑÕâ¸ö°üÕªÏÂÀ´¡£ÏàĞÅÎÒ¡£ºÇºÇ£¬Äã²»ÊÇÎÒµÚÒ»¸ö´øÄãÔ½¹ı±ß¾³µÄÈË¡£}
+### {1217}{}{Now ? tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
+{1217}{}{ÏÖÔÚ? ÇãĞ±ÄãµÄÍ·¡£¡£¡£±ğµ£ĞÄ£¬ÎÒÃÇ½ø³ÇµÄÊ±ºòÎÒ»á°ÑÕâ¸ö°üÕªÏÂÀ´¡£ÏàĞÅÎÒ¡£ºÇºÇ£¬Äã²»ÊÇÎÒµÚÒ»¸ö´øÄãÔ½¹ı±ß¾³µÄÈË¡£}
+### {218}{}{Uv... Okay. But be careful.}
+{218}{}{Uv¡£¡£¡£¿ÉÒÔµ«ÊÇÒªĞ¡ĞÄ¡£}
+### {219}{}{Don't even try to deceive me, old man.}
+{219}{}{±ğÏëÆ­ÎÒ£¬ÀÏÍ·×Ó¡£}
+### {220}{}{I believe. It's stupid, of course, to go across the border without any money at all. What should I do with you now? All right, bring me three cans of good old Mexican beer. They can still be found in the ruins on Revolution Avenue.}
+{220}{}{ÎÒÏàĞÅ¡£µ±È»£¬ÔÚÃ»ÓĞÇ®µÄÇé¿öÏÂ´©Ô½±ß¾³ÊÇÓŞ´ÀµÄ¡£ÎÒÏÖÔÚ¸ÃÔõÃ´´¦ÖÃÄã£¿ºÃ°É£¬¸øÎÒÈı¹ŞÄ«Î÷¸çÀÏÆ¡¾Æ¡£ËüÃÇÈÔÈ»¿ÉÒÔÔÚ¸ïÃü´óµÀµÄ·ÏĞæÖĞÕÒµ½¡£}
+### {221}{}{I hope they really are there.}
+{221}{}{ÎÒÏ£ÍûËûÃÇÕæµÄÔÚÄÇÀï¡£}
+### {222}{}{What about irradiated Nuka-cola? I found five whole bottles in the ruins.}
+{222}{}{·øÕÕ¹ıµÄNuka¿ÉÀÖÔõÃ´Ñù£¿ÎÒÔÚ·ÏĞæÖĞ·¢ÏÖÁËÕûÕûÎå¸öÆ¿×Ó¡£}
+### {223}{}{I have five bottles of non-irradiated core Cola. Will they suit you?}
+{223}{}{ÎÒÓĞÎåÆ¿Î´¾­·øÕÕµÄ¿ÉÀÖ¡£ËüÃÇÊÊºÏÄãÂğ£¿}
+### {224}{}{Here are three cans of old beer.}
+{224}{}{ÕâÊÇÈı¹Ş¾ÉÆ¡¾Æ¡£}
+### {225}{}{It's a deal. Apparently, there's nothing more to take from you.}
+{225}{}{ÕâÊÇÒ»±Ê½»Ò×¡£ÏÔÈ»£¬Ã»ÓĞÊ²Ã´¿ÉÒÔ´ÓÄãÉíÉÏ¶á×ßµÄÁË¡£}
+### {226}{}{So will you take me to the city?}
+{226}{}{Äã»á´øÎÒÈ¥³ÇÀïÂğ£¿}
+### {227}{}{Did you manage to find what I asked for?}
+{227}{}{ÄãÕÒµ½ÎÒÒªµÄ¶«Î÷ÁËÂğ£¿}
+### {228}{}{No. Maybe I was looking in the wrong place? I'll try to walk through the ruins again.}
+{228}{}{Ã»ÓĞ¡£Ò²ĞíÎÒÕÒ´íµØ·½ÁË£¿ÎÒ»áÊÔ×ÅÔÙ´Î´©¹ı·ÏĞæ¡£}
+### {1228}{}{No. Maybe I was looking in the wrong place? I'll try to walk through the ruins again.}
+{1228}{}{Ã»ÓĞ¡£Ò²ĞíÎÒÕÒ´íµØ·½ÁË£¿ÎÒ»áÊÔ×ÅÔÙ´Î´©¹ı·ÏĞæ¡£}
+### {229}{}{}
+{229}{}{error : string is empty}
+### {230}{}{Still can't get across the border, can you? I know one shortcut. I can spend it, but not for free. How many hubbucks do you have?}
+{230}{}{Äã»¹ÊÇ¹ı²»ÁË±ß¾³£¬ÊÇÂğ£¿ÎÒÖªµÀÒ»Ìõ½İ¾¶¡£ÎÒ¿ÉÒÔ»¨£¬µ«²»ÄÜÃâ·Ñ¡£ÄãÓĞ¶àÉÙÀÏ¹«£¿}
+### {231}{}{Are you leaving the Dayglow already? Well, you really should go.}
+{231}{}{ÄãÒÑ¾­Àë¿ªÁËÊï¹âºÅÁËÂğ£¿ºÃ°É£¬ÄãÕæµÄÓ¦¸Ã×ßÁË¡£}
+### {232}{}{Bye.}
+{232}{}{ÔÙ¼û}
+### {233}{}{(You see an old man sitting in an armchair; he slowly raises his head, showing his disfigured face; in a hoarse drawling voice he calls you) Ah, fresh blood! Glad to see you in our dead kingdom. If you need to cross the border, then talk to Tobias, he will be happy to let you through.}
+{233}{}{£¨Äã¿´µ½Ò»¸öÀÏÈË×øÔÚ·öÊÖÒÎÉÏ£¬ËûÂıÂıµØÌ§ÆğÍ·£¬Â¶³öËûÄÇÕÅ³óÂªµÄÁ³£»ËûÓÃÉ³ÑÆµÄÍÏÍÏÀ­À­µÄÉùÒô½ĞÄã£©°¡£¬ĞÂÏÊµÄÑªÒº£¡ºÜ¸ßĞËÔÚÎÒÃÇËÀÈ¥µÄÍõ¹ú¼ûµ½Äã¡£Èç¹ûÄãĞèÒªÔ½¾³£¬ÄÇ¾ÍºÍÍĞ±ÈÑÇË¹Ì¸Ì¸£¬Ëû»áºÜÀÖÒâÈÃÄãÍ¨¹ıµÄ¡£}
+### {234}{}{I'll do that. Later.}
+{234}{}{ÎÒ»áÄÇÑù×öµÄ¡£ºóÀ´}
+### {235}{}{Who is Tobias?}
+{235}{}{ÍĞ±ÈÑÇË¹ÊÇË­£¿}
+### {236}{}{Tobias is the guardian of the city gates. We can say that he is an intermediary between the world of the living and the world of the dead.}
+{236}{}{ÍĞ±ÈÑÇË¹ÊÇ³ÇÃÅµÄÊØ»¤Õß¡£ÎÒÃÇ¿ÉÒÔËµ£¬ËûÊÇ»îÈËÊÀ½çºÍËÀÈËÊÀ½çÖ®¼äµÄÖĞ½é¡£}

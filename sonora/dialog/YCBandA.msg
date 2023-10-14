@@ -1,112 +1,220 @@
-{100}{}{You see Jose Solis.}
-{101}{}{Here is a ghoul in a pre-war suit. He looks much neater and cleaner than other ghouls.}
-{102}{}{You seem to be new here. Do you want to buy me a drink and tell me a little about yourself?}
-{103}{}{My dreams of Jose Solis' Mariachi are over.}
-{104}{}{"Jose Solis' Mariachi" back in business!}
-{105}{}{Don't distract me, I'm busy rehearsing. Shoo! Shoo!}
+### {100}{}{You see Jose Solis.}
+{100}{}{Äã¿´µ½ÁËºÎÈû¡¤Ë÷ÀûË¹¡£}
+### {101}{}{Here is a ghoul in a pre-war suit. He looks much neater and cleaner than other ghouls.}
+{101}{}{ÕâÊÇÒ»¸ö´©×ÅÕ½Ç°Î÷×°µÄÊ³Ê¬¹í¡£Ëû¿´ÆğÀ´±ÈÆäËûÊ³Ê¬¹íÕû½àµÃ¶à¡£}
+### {102}{}{You seem to be new here. Do you want to buy me a drink and tell me a little about yourself?}
+{102}{}{ÄãËÆºõÊÇĞÂÀ´µÄ¡£ÄãÏëÇëÎÒºÈÒ»±­£¬È»ºó¸æËßÎÒÒ»Ğ©Äã×Ô¼ºµÄÇé¿öÂğ£¿}
+### {103}{}{My dreams of Jose Solis' Mariachi are over.}
+{103}{}{ÎÒ¶ÔºÎÈû¡¤Ë÷ÀûË¹µÄÂíÀïÑÇÆæµÄÃÎÏë½áÊøÁË¡£}
+### {104}{}{"Jose Solis' Mariachi" back in business!}
+{104}{}{¡°Jose Solis¡®Mariachi¡±ÖØ·µÉÌ½ç£¡}
+### {105}{}{Don't distract me, I'm busy rehearsing. Shoo! Shoo!}
+{105}{}{±ğ·ÖÉ¢ÎÒµÄ×¢ÒâÁ¦£¬ÎÒÕıÃ¦ÓÚÅÅÁ·¡£Ğê£¡Ğê£¡}
 
-{200}{}{Hello, man. I heard that there was a normal in town, but I thought it was another stupid joke of the oldies. And now you're here, blinding me with white skin and making me remember the old days. By the way, my name is Jose Solis. And you?}
-{201}{}{I }
-{202}{}{.}
-{203}{}{ Damn nice to meet you, }
-{204}{}{. How do you like our little hell's corner? Bored already?}
-{205}{}{I }
-{206}{}{. Remember that name, ghoul.}
-{207}{}{Okay, okay, }
-{208}{}{. I see you don't really like it here. Or am I wrong?}
-{209}{}{Normal. You can live.}
-{210}{}{It's strange to hear this from normie. It seems that you want to trick me around your finger. Okay. So what do you need here?}
-{211}{}{It's kind of boring.}
-{212}{}{That's for sure! I want to shake this place up a little myself. So what do you need here?}
-{213}{}{Oh, nothing definite. Just looking around. Bye.}
-{214}{}{Can I ask you a few questions?}
-{215}{}{Greetings, friend of misfortune! I heard that a new one has appeared in the city, but not from the Necropolis. It's an amazing thing. By the way, my name is Jose Solis. And you?}
-{1215}{}{Greetings, beautiful lady! I heard that a new girl appeared in the city, but not from the Necropolis. You know how to surprise an old man. By the way, my name is Jose Solis. And you?}
-{216}{}{Yes, perhaps. It's even better than the Necropolis. But this is just the beginning! Someday we will restore the city to its original appearance — then you will lose your head with happiness. And how can I help you now?}
-{217}{}{That's for sure! I want to shake this place up a little myself. So how can I help you?}
+### {200}{}{Hello, man. I heard that there was a normal in town, but I thought it was another stupid joke of the oldies. And now you're here, blinding me with white skin and making me remember the old days. By the way, my name is Jose Solis. And you?}
+{200}{}{ÄãºÃ£¬»ï¼Æ¡£ÎÒÌıËµ³ÇÀïÓĞÒ»¸öÕı³£µÄ£¬µ«ÎÒ¾õµÃÕâÓÖÊÇÒ»¸öÓŞ´ÀµÄÀÏĞ¦»°¡£ÏÖÔÚÄãÔÚÕâÀï£¬ÈÃÎÒ°×Æ¤·ôÊ§Ã÷£¬ÈÃÎÒÏëÆğ¹ıÈ¥µÄÈÕ×Ó¡£Ë³±ãËµÒ»ÏÂ£¬ÎÒµÄÃû×Ö½ĞºÎÈû¡¤Ë÷ÀûË¹¡£ÄãÄØ£¿}
+### {201}{}{I }
+{201}{}{ÎÒ}
+### {202}{}{.}
+{202}{}{¡£}
+### {203}{}{ Damn nice to meet you, }
+{203}{}{ºÜ¸ßĞË¼ûµ½Äã£¬}
+### {204}{}{. How do you like our little hell's corner? Bored already?}
+{204}{}{.Äã¾õµÃÎÒÃÇµÄĞ¡½ÇÂäÔõÃ´Ñù£¿ÎŞÁÄÁËÂğ£¿}
+### {205}{}{I }
+{205}{}{ÎÒ}
+### {206}{}{. Remember that name, ghoul.}
+{206}{}{¡£¼Ç×¡ÄÇ¸öÃû×Ö£¬Ê³Ê¬¹í¡£}
+### {207}{}{Okay, okay, }
+{207}{}{ºÃ°É£¬ºÃ°É£¬}
+### {208}{}{. I see you don't really like it here. Or am I wrong?}
+{208}{}{¡£ÎÒ¿´Äã²»ÊÇºÜÏ²»¶ÕâÀï¡£»¹ÊÇÎÒ´íÁË£¿}
+### {209}{}{Normal. You can live.}
+{209}{}{µäĞÍµÄÄã¿ÉÒÔ»î×Å¡£}
+### {210}{}{It's strange to hear this from normie. It seems that you want to trick me around your finger. Okay. So what do you need here?}
+{210}{}{Ìıµ½ÅµÃ×ÕâÃ´ËµÕæÆæ¹Ö¡£ÄãºÃÏñÏëÆÛÆ­ÎÒ¡£¿ÉÒÔÄÇÃ´ÄãÔÚÕâÀïĞèÒªÊ²Ã´£¿}
+### {211}{}{It's kind of boring.}
+{211}{}{ÕâÓĞµãÎŞÁÄ¡£}
+### {212}{}{That's for sure! I want to shake this place up a little myself. So what do you need here?}
+{212}{}{ÕâÊÇ¿Ï¶¨µÄ£¡ÎÒÏë×Ô¼º°ÑÕâ¸öµØ·½¸ÄÔìÒ»ÏÂ¡£ÄÇÃ´ÄãÔÚÕâÀïĞèÒªÊ²Ã´£¿}
+### {213}{}{Oh, nothing definite. Just looking around. Bye.}
+{213}{}{Å¶£¬Ã»Ê²Ã´È·ÇĞµÄ¡£Ö»ÊÇ»·¹ËËÄÖÜ¡£ÔÙ¼û}
+### {214}{}{Can I ask you a few questions?}
+{214}{}{ÎÒÄÜÎÊÄã¼¸¸öÎÊÌâÂğ£¿}
+### {215}{}{Greetings, friend of misfortune! I heard that a new one has appeared in the city, but not from the Necropolis. It's an amazing thing. By the way, my name is Jose Solis. And you?}
+{215}{}{ÎÊºò£¬²»ĞÒµÄÅóÓÑ£¡ÎÒÌıËµ³ÇÀï³öÏÖÁËÒ»¸öĞÂµÄ£¬µ«²»ÊÇ´ÓÄ¹µØÀ´µÄ¡£ÕâÊÇÒ»¼şÁË²»ÆğµÄÊÂÇé¡£Ë³±ãËµÒ»ÏÂ£¬ÎÒµÄÃû×Ö½ĞºÎÈû¡¤Ë÷ÀûË¹¡£ÄãÄØ£¿}
+### {1215}{}{Greetings, beautiful lady! I heard that a new girl appeared in the city, but not from the Necropolis. You know how to surprise an old man. By the way, my name is Jose Solis. And you?}
+{1215}{}{ÎÊºò£¬ÃÀÀöµÄÅ®Ê¿£¡ÎÒÌıËµ³ÇÀï³öÏÖÁËÒ»¸öĞÂÅ®º¢£¬µ«²»ÊÇ´ÓÄ¹µØÀ´µÄ¡£ÄãÖªµÀÈçºÎ¸øÒ»¸öÀÏÈËÒ»¸ö¾ªÏ²¡£Ë³±ãËµÒ»ÏÂ£¬ÎÒµÄÃû×Ö½ĞºÎÈû¡¤Ë÷ÀûË¹¡£ÄãÄØ£¿}
+### {216}{}{Yes, perhaps. It's even better than the Necropolis. But this is just the beginning! Someday we will restore the city to its original appearance ? then you will lose your head with happiness. And how can I help you now?}
+{216}{}{ÊÇµÄ£¬Ò²Ğí°É¡£ËüÉõÖÁ±ÈÄ¹µØ»¹ÒªºÃ¡£µ«Õâ½ö½öÊÇÒ»¸ö¿ªÊ¼£¡×ÜÓĞÒ»ÌìÎÒÃÇ»á°ÑÕâ×ù³ÇÊĞ»Ö¸´Ô­×´? ÄÇÃ´Äã¾Í»áÒòÎªĞÒ¸£¶øÊ§È¥ÀíÖÇ¡£ÎÒÏÖÔÚÄÜ°ïÄãÊ²Ã´£¿}
+### {217}{}{That's for sure! I want to shake this place up a little myself. So how can I help you?}
+{217}{}{ÕâÊÇ¿Ï¶¨µÄ£¡ÎÒÏë×Ô¼º°ÑÕâ¸öµØ·½¸ÄÔìÒ»ÏÂ¡£ÎÒÄÜ°ïÄãÊ²Ã´£¿}
 
-{220}{}{Greetings, friend of misfortune!}
-{1220}{}{Greetings, my love!}
-{221}{}{Welcome, }
-{222}{}{.}
-{223}{}{How can I help you, }
-{224}{}{.}
-{225}{}{I know you, }
-{226}{}{. You're nothing but trouble. Be reasonable and don't bother me in vain.}
-{227}{}{Greetings, Senor normie.}
-{1227}{}{Greetings, Senora Normalka.}
-{228}{}{Greetings, }
-{229}{}{. I hope you're smart enough not to cause problems here.}
-{230}{}{I think I should go.}
-{231}{}{Well, thanks for the conversation. Recently, the normies tried not to talk to us, but immediately fired from all barrels. Very not sociable guys.}
-{232}{}{Goodbye.}
+### {220}{}{Greetings, friend of misfortune!}
+{220}{}{ÎÊºò£¬²»ĞÒµÄÅóÓÑ£¡}
+### {1220}{}{Greetings, my love!}
+{1220}{}{ÎÊºò£¬ÎÒµÄ°®ÈË£¡}
+### {221}{}{Welcome, }
+{221}{}{»¶Ó­}
+### {222}{}{.}
+{222}{}{¡£}
+### {223}{}{How can I help you, }
+{223}{}{ÎÒÄÜ°ïÄãÊ²Ã´£¬}
+### {224}{}{.}
+{224}{}{¡£}
+### {225}{}{I know you, }
+{225}{}{ÎÒÈÏÊ¶Äã£¬}
+### {226}{}{. You're nothing but trouble. Be reasonable and don't bother me in vain.}
+{226}{}{¡£Äã²»¹ıÊÇ¸öÂé·³¡£½²µÀÀí£¬²»Òª°×´òÈÅÎÒ¡£}
+### {227}{}{Greetings, Senor normie.}
+{227}{}{ÄãºÃ£¬ÅµÃ×ÏÈÉú¡£}
+### {1227}{}{Greetings, Senora Normalka.}
+{1227}{}{ÎÊºò£¬ÅµÂí¶û¿¨·òÈË¡£}
+### {228}{}{Greetings, }
+{228}{}{ÎÊºò£¬}
+### {229}{}{. I hope you're smart enough not to cause problems here.}
+{229}{}{¡£ÎÒÏ£ÍûÄã×ã¹»´ÏÃ÷£¬²»ÒªÔÚÕâÀïÖÆÔìÂé·³¡£}
+### {230}{}{I think I should go.}
+{230}{}{ÎÒÏëÎÒÓ¦¸Ã×ßÁË¡£}
+### {231}{}{Well, thanks for the conversation. Recently, the normies tried not to talk to us, but immediately fired from all barrels. Very not sociable guys.}
+{231}{}{Ğ»Ğ»ÄãµÄÌ¸»°¡£×î½ü£¬Õı³£ÈËÊÔÍ¼²»ºÍÎÒÃÇËµ»°£¬µ«Á¢¼´¿ª»ğ¡£²»ÉÆÓÚ½»¼ÊµÄ¼Ò»ï¡£}
+### {232}{}{Goodbye.}
+{232}{}{ÔÙ¼û}
 
-{240}{}{Sure. Spit it out.}
-{241}{}{Only if you finally leave me alone after that.}
-{242}{}{What's going on here?}
-{243}{}{Nothing special. The usual routine life in a big city.}
-{244}{}{Hmm. Okay.}
+### {240}{}{Sure. Spit it out.}
+{240}{}{µ±È»ÍÂ³öÀ´¡£}
+### {241}{}{Only if you finally leave me alone after that.}
+{241}{}{Ö»ÓĞÔÚÄÇÖ®ºóÄã×îÖÕÀë¿ªÎÒ¡£}
+### {242}{}{What's going on here?}
+{242}{}{ÕâÊÇÔõÃ´»ØÊÂ£¿}
+### {243}{}{Nothing special. The usual routine life in a big city.}
+{243}{}{Ã»Ê²Ã´ÌØ±ğµÄ¡£´ó³ÇÊĞµÄÈÕ³£Éú»î¡£}
+### {244}{}{Hmm. Okay.}
+{244}{}{àÅ¡£ºÃµÄ¡£}
 
-{250}{}{Do you like it here yourself?}
-{251}{}{Not a bad city. Good climate, good people. But you know, San Diego used to be famous for its cultural life. And now here you can only hear the singing of the Geiger counter.}
-{252}{}{Yes, I would like to listen to someone live.}
-{253}{}{Are you kidding? These ruins are a hundred years old. There is no one to speak here.}
-{254}{}{Then smile, baby. This is Jose Solis! My ensemble was known throughout Baja California. It was a good time. We were just giving a concert in Bakersfield when the bombs fell on the city. I miraculously survived then. And just now I'm thinking of going back to the old craft.}
-{255}{}{And what's in the way?}
-{256}{}{Well, first of all I need new guitar strings. She's in my room right now. And it's not so easy to find them among these ruins.}
-{257}{}{I'll find you some strings. For me there is nothing that cannot be found in the old cities.}
-{258}{}{Gracias, senor! Together we will remind the Glow of the old days.}
-{1258}{}{Gracias, senorita! Together we will remind the Shining of old times.}
-{259}{}{Goodbye.}
-{260}{}{Can you at least pay me for this job?}
-{261}{}{To be honest, I don't have any caps right now. How about a share of the first fees?}
-{262}{}{I'm in. I'll find you some strings.}
-{263}{}{I don't need any caps or extra hassle. Be.}
-{264}{}{Sorry, it's not for me. Goodbye.}
-{265}{}{Do you know where you can find guitar strings?}
-{266}{}{I have already climbed all the local ruins, there are no strings here. It remains only to visit Tijuana. At one time there was a Mariachi museum and several beautiful performance stages. And now there are crowds of robots and mutants.}
-{267}{}{Tijuana, then. I see.}
-{268}{}{Have you tried out new guitar strings yet?}
-{269}{}{Oh, it sounds great! Besides, it's easier for my stiff skin to clamp the strings now. Thank you, smooth-skinned amigo.}
-{270}{}{No problem. When is the next performance?}
-{271}{}{Don't be in such a hurry! I haven't prepared properly yet. And the most important thing is that I can't perform alone, without my beautiful companions!}
-{272}{}{So are they here, too, in the Glow?}
-{273}{}{Trumpeter Fernando works at the dam, and senorita Beatriz is at a diner in the southern camp. Surely you will pass by, will you bring them to me?}
-{274}{}{Okay. Why not?}
-{275}{}{If I bring your companions, what will I get for it?}
-{276}{}{I'm in. I'll bring your companions.}
-{277}{}{Looking forward to it!}
-{278}{}{Goodbye.}
-{279}{}{Where can I find Fernando?}
-{280}{}{Trumpeter Fernando works at the Bonita Dam.}
-{281}{}{Where can I find Beatrice?}
-{282}{}{Senorita Beatriz works at a diner in the San Isidro neighborhood.}
-{283}{}{Clear. Another question.}
-{284}{}{Goodbye.}
-{285}{}{Fernando and Beatrice are already here.}
-{286}{}{Excellent! We have a lot to talk about with them. Come to our first concert in a day.}
-{287}{}{Okay. Have a good rehearsal.}
-{288}{}{Fernando is already here. But Beatrice died.}
-{289}{}{Poor Beatrice! Finally, she has suffered in this life. Even a little enviable...}
-{290}{}{Beatrice is already here. But Fernando died.}
-{291}{}{Poor Fernando! Finally, he has suffered in this life. Even a little envious...}
-{292}{}{Woe to me! A dream slips out of your hands like ashes between your fingers... listen, what about a hologram? I know, there is one preserved in the Chula Vista shopping center. Maybe she will replace the missing participants for me? Will you bring the holographic module? I will certainly be able to reconfigure it for my purposes.}
-{293}{}{Seriously? Okay, we'll have to look for this thing, otherwise you'll kill yourself like that.}
-{294}{}{I have a holographic module. Here you go.}
-{295}{}{Fernando and Beatrice are dead.}
-{296}{}{Fernando and Beatrice died. I'm sorry.}
-{297}{}{Excellent! I need time to prepare. Come to our first concert in a day.}
-{298}{}{Okay. Have a good rehearsal.}
-{299}{}{It's the old man }
-{1299}{}{This is my goddess of inspiration, }
-{300}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. Thank you for your help, partner.}
-{1300}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. Thank you for your help, senora.}
-{301}{}{Good luck, Jose.}
-{302}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. And also from me personally — this wonderful century-old whiskey. Thank you for your help, partner.}
-{1302}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. And also from me personally — this wonderful century-old whiskey. Thank you for your help, senora.}
-{303}{}{What do you call the band?}
-{304}{}{Hmm, we need something romantic. Maybe "Last Breath"? Or — "Love in hell"? Maybe "A Kiss before death"? What about...}
-{305}{}{I think it would be easier to name after you.}
-{306}{}{Mariachi de Jose Solis? Of course!}
-{307}{}{That's nice...}
-{308}{}{By the way, what do you call the band?}
+### {250}{}{Do you like it here yourself?}
+{250}{}{Äã×Ô¼ºÏ²»¶ÕâÀïÂğ£¿}
+### {251}{}{Not a bad city. Good climate, good people. But you know, San Diego used to be famous for its cultural life. And now here you can only hear the singing of the Geiger counter.}
+{251}{}{²»´íµÄ³ÇÊĞ¡£ºÃµÄÆøºò£¬ºÃµÄÈË¡£µ«ÄãÖªµÀ£¬Ê¥µØÑÇ¸çÔø¾­ÒÔÆäÎÄ»¯Éú»î¶øÎÅÃû¡£ÏÖÔÚÄãÖ»ÄÜÌıµ½¸Ç¸ï¼ÆÊıÆ÷µÄ¸èÉù¡£}
+### {252}{}{Yes, I would like to listen to someone live.}
+{252}{}{ÊÇµÄ£¬ÎÒÏëÌı±ğÈËÖ±²¥¡£}
+### {253}{}{Are you kidding? These ruins are a hundred years old. There is no one to speak here.}
+{253}{}{ÄãÔÚ¿ªÍæĞ¦Âğ£¿ÕâĞ©·ÏĞæÒÑÓĞÒ»°ÙÄêµÄÀúÊ·¡£ÕâÀïÃ»ÓĞÈËËµ»°¡£}
+### {254}{}{Then smile, baby. This is Jose Solis! My ensemble was known throughout Baja California. It was a good time. We were just giving a concert in Bakersfield when the bombs fell on the city. I miraculously survived then. And just now I'm thinking of going back to the old craft.}
+{254}{}{ÄÇ¾ÍÎ¢Ğ¦°É£¬±¦±´¡£ÕâÊÇºÎÈû¡¤Ë÷ÀûË¹£¡ÎÒµÄÀÖÍÅÔÚÕû¸öÏÂ¼ÓÀû¸£ÄáÑÇÖİ¶¼ºÜ³öÃû¡£ÄÇÊÇÒ»¶ÎÃÀºÃµÄÊ±¹â¡£Õ¨µ¯ÂäÔÚ³ÇÊĞÉÏ¿ÕÊ±£¬ÎÒÃÇÕıÔÚ±´¿ËË¹·Æ¶ûµÂ¾ÙĞĞÒôÀÖ»á¡£ÎÒÆæ¼£°ãµØ»îÁËÏÂÀ´¡£¶øÏÖÔÚÎÒÕıÔÚ¿¼ÂÇ»Øµ½¾ÉµÄ¹¤ÒÕ¡£}
+### {255}{}{And what's in the way?}
+{255}{}{Ê²Ã´µ²×¡ÁËÈ¥Â·£¿}
+### {256}{}{Well, first of all I need new guitar strings. She's in my room right now. And it's not so easy to find them among these ruins.}
+{256}{}{Ê×ÏÈ£¬ÎÒĞèÒªĞÂµÄ¼ªËûÏÒ¡£ËıÏÖÔÚÔÚÎÒµÄ·¿¼äÀï¡£ÔÚÕâĞ©·ÏĞæÖĞÕÒµ½ËüÃÇ²¢²»ÈİÒ×¡£}
+### {257}{}{I'll find you some strings. For me there is nothing that cannot be found in the old cities.}
+{257}{}{ÎÒ¸øÄãÕÒĞ©Éş×Ó¡£¶ÔÎÒÀ´Ëµ£¬ÔÚ¹Å³ÇÀïÃ»ÓĞÊ²Ã´ÊÇÕÒ²»µ½µÄ¡£}
+### {258}{}{Gracias, senor! Together we will remind the Glow of the old days.}
+{258}{}{Ğ»Ğ»£¬ÏÈÉú£¡ÎÒÃÇ½«Ò»ÆğÈÃGlowÏëÆğ¹ıÈ¥µÄÈÕ×Ó¡£}
+### {1258}{}{Gracias, senorita! Together we will remind the Shining of old times.}
+{1258}{}{Ğ»Ğ»£¬Ğ¡½ã£¡ÎÒÃÇ½«Ò»ÆğÌáĞÑ¹â»ÔµÄ¾ÉÊ±¹â¡£}
+### {259}{}{Goodbye.}
+{259}{}{ÔÙ¼û}
+### {260}{}{Can you at least pay me for this job?}
+{260}{}{ÄãÖÁÉÙÄÜ¸¶ÎÒÕâ·İ¹¤×÷µÄÇ®Âğ£¿}
+### {261}{}{To be honest, I don't have any caps right now. How about a share of the first fees?}
+{261}{}{ÀÏÊµËµ£¬ÎÒÏÖÔÚÃ»ÓĞÃ±×Ó¡£µÚÒ»±Ê·ÑÓÃ·Ö³ÉÈçºÎ£¿}
+### {262}{}{I'm in. I'll find you some strings.}
+{262}{}{ÎÒÔÚ¡£ÎÒ»á¸øÄãÕÒÒ»Ğ©ÏßË÷¡£}
+### {263}{}{I don't need any caps or extra hassle. Be.}
+{263}{}{ÎÒ²»ĞèÒªÈÎºÎÃ±×Ó»ò¶îÍâµÄÂé·³¡£ÊÇ}
+### {264}{}{Sorry, it's not for me. Goodbye.}
+{264}{}{¶Ô²»Æğ£¬Õâ²»ÊÇ¸øÎÒµÄ¡£ÔÙ¼û¡£}
+### {265}{}{Do you know where you can find guitar strings?}
+{265}{}{ÄãÖªµÀÔÚÄÄÀï¿ÉÒÔÕÒµ½¼ªËûÏÒÂğ£¿}
+### {266}{}{I have already climbed all the local ruins, there are no strings here. It remains only to visit Tijuana. At one time there was a Mariachi museum and several beautiful performance stages. And now there are crowds of robots and mutants.}
+{266}{}{ÎÒÒÑ¾­ÅÀ±éÁËµ±µØËùÓĞµÄ·ÏĞæ£¬ÕâÀïÃ»ÓĞÉş×Ó¡£ËüÈÔÈ»Ö»ÊÇ·ÃÎÊµÙ»ªÄÉ¡£Ôø¾­ÓĞÒ»¸öÂíÀïÑÇÆæ²©Îï¹İºÍ¼¸¸öÃÀÀöµÄ±íÑİÎèÌ¨¡£ÏÖÔÚÓĞÒ»Èº»úÆ÷ÈËºÍ±äÖÖÈË¡£}
+### {267}{}{Tijuana, then. I see.}
+{267}{}{µÙ»ªÄÉ¡£ÎÒÃ÷°×ÁË¡£}
+### {268}{}{Have you tried out new guitar strings yet?}
+{268}{}{ÄãÊÔ¹ıĞÂµÄ¼ªËûÏÒÁËÂğ£¿}
+### {269}{}{Oh, it sounds great! Besides, it's easier for my stiff skin to clamp the strings now. Thank you, smooth-skinned amigo.}
+{269}{}{Å¶£¬ÌıÆğÀ´ºÜ°ô£¡´ËÍâ£¬ÎÒ½©Ó²µÄÆ¤·ôÏÖÔÚ¸üÈİÒ×¼Ğ½ôÉş×ÓÁË¡£Ğ»Ğ»Äã£¬Æ¤·ô¹â»¬µÄÅóÓÑ¡£}
+### {270}{}{No problem. When is the next performance?}
+{270}{}{Ã»ÎÊÌâ¡£ÏÂÒ»³¡Ñİ³öÊÇÊ²Ã´Ê±ºò£¿}
+### {271}{}{Don't be in such a hurry! I haven't prepared properly yet. And the most important thing is that I can't perform alone, without my beautiful companions!}
+{271}{}{±ğÕâÃ´×Å¼±£¡ÎÒ»¹Ã»ÓĞ×öºÃ×¼±¸¡£×îÖØÒªµÄÊÇ£¬Ã»ÓĞÎÒÃÀÀöµÄÍ¬°é£¬ÎÒÎŞ·¨¶À×Ô±íÑİ£¡}
+### {272}{}{So are they here, too, in the Glow?}
+{272}{}{ÄÇÃ´ËûÃÇÒ²ÔÚÕâÀï£¬ÔÚ»Ô¹âÖĞÂğ£¿}
+### {273}{}{Trumpeter Fernando works at the dam, and senorita Beatriz is at a diner in the southern camp. Surely you will pass by, will you bring them to me?}
+{273}{}{Ğ¡ºÅÊÖ·Ñ¶ûÄÏ¶àÔÚ´ó°ÓÉÏ¹¤×÷£¬±È°¢ÌØÀöË¹Ğ¡½ãÔÚÄÏ²¿ÓªµØµÄÒ»¼Ò²ÍÌüÀï¡£ÄãÒ»¶¨»á¾­¹ı£¬Äã»á°ÑËüÃÇ´øµ½ÎÒÉí±ßÂğ£¿}
+### {274}{}{Okay. Why not?}
+{274}{}{¿ÉÒÔÎªÊ²Ã´²»ÄØ£¿}
+### {275}{}{If I bring your companions, what will I get for it?}
+{275}{}{Èç¹ûÎÒ´øÉÏÄãµÄÍ¬°é£¬ÎÒ»áµÃµ½Ê²Ã´£¿}
+### {276}{}{I'm in. I'll bring your companions.}
+{276}{}{ÎÒÀ´ÁË¡£ÎÒ»á´øÉÏÄãµÄÍ¬°é¡£}
+### {277}{}{Looking forward to it!}
+{277}{}{ÆÚ´ıËü£¡}
+### {278}{}{Goodbye.}
+{278}{}{ÔÙ¼û}
+### {279}{}{Where can I find Fernando?}
+{279}{}{ÎÒÔÚÄÄÀïÄÜÕÒµ½·Ñ¶ûÄÏ¶à£¿}
+### {280}{}{Trumpeter Fernando works at the Bonita Dam.}
+{280}{}{Ğ¡ºÅÊÖ·Ñ¶ûÄÏ¶àÔÚ²©ÄáËş´ó°Ó¹¤×÷¡£}
+### {281}{}{Where can I find Beatrice?}
+{281}{}{ÎÒÔÚÄÄÀï¿ÉÒÔÕÒµ½±Ì´äË¿£¿}
+### {282}{}{Senorita Beatriz works at a diner in the San Isidro neighborhood.}
+{282}{}{Senorita BeatrizÔÚÊ¥ÒÁÎ÷µÂÂŞÉçÇøµÄÒ»¼Ò²Í¹İ¹¤×÷¡£}
+### {283}{}{Clear. Another question.}
+{283}{}{Çå³şµÄÁíÒ»¸öÎÊÌâ¡£}
+### {284}{}{Goodbye.}
+{284}{}{ÔÙ¼û}
+### {285}{}{Fernando and Beatrice are already here.}
+{285}{}{·Ñ¶ûÄÏ¶àºÍ±Ì´äË¿ÒÑ¾­µ½ÁË¡£}
+### {286}{}{Excellent! We have a lot to talk about with them. Come to our first concert in a day.}
+{286}{}{½Ü³öµÄÎÒÃÇÓĞºÜ¶àÊÂÇéÒªºÍËûÃÇÌ¸¡£À´²Î¼ÓÎÒÃÇÒ»ÌìÄÚµÄµÚÒ»³¡ÒôÀÖ»á¡£}
+### {287}{}{Okay. Have a good rehearsal.}
+{287}{}{¿ÉÒÔºÃºÃÅÅÁ·¡£}
+### {288}{}{Fernando is already here. But Beatrice died.}
+{288}{}{·Ñ¶ûÄÏ¶àÒÑ¾­À´ÁË¡£µ«ÊÇ±È°¢ÌØÀöË¹ËÀÁË¡£}
+### {289}{}{Poor Beatrice! Finally, she has suffered in this life. Even a little enviable...}
+{289}{}{¿ÉÁ¯µÄ±Ì´äË¿£¡×îºó£¬ËıÔÚÕâÒ»ÉúÖĞÔâÊÜÁËÍ´¿à¡£ÉõÖÁÓĞµãÁîÈËÏÛÄ½¡£¡£¡£}
+### {290}{}{Beatrice is already here. But Fernando died.}
+{290}{}{±Ì´äË¿ÒÑ¾­À´ÁË¡£µ«ÊÇ·Ñ¶ûÄÏ¶àËÀÁË¡£}
+### {291}{}{Poor Fernando! Finally, he has suffered in this life. Even a little envious...}
+{291}{}{¿ÉÁ¯µÄ·Ñ¶ûÄÏ¶à£¡×îºó£¬ËûÔÚÕâÒ»ÉúÖĞÔâÊÜÁËÍ´¿à¡£ÉõÖÁÓĞµã¼µ¶Ê¡£¡£¡£}
+### {292}{}{Woe to me! A dream slips out of your hands like ashes between your fingers... listen, what about a hologram? I know, there is one preserved in the Chula Vista shopping center. Maybe she will replace the missing participants for me? Will you bring the holographic module? I will certainly be able to reconfigure it for my purposes.}
+{292}{}{ÎÒÕæµ¹Ã¹£¡Ò»¸öÃÎ´ÓÄãµÄÊÖÖĞ»¬Âä£¬¾ÍÏñÄãÊÖÖ¸¼äµÄ»Ò½ı¡£¡£¡£Ìı×Å£¬È«Ï¢Í¼ÔõÃ´Ñù£¿ÎÒÖªµÀ£¬Chula Vista¹ºÎïÖĞĞÄ±£´æ×ÅÒ»¸ö¡£Ò²ĞíËı»áÌæÎÒÌæ»»ÄÇĞ©Ê§×ÙµÄ²ÎÓëÕß£¿Äã»á´øÀ´È«Ï¢Ä£¿éÂğ£¿ÎÒ¿Ï¶¨ÄÜ¹»ÎªÎÒµÄÄ¿µÄÖØĞÂÅäÖÃËü¡£}
+### {293}{}{Seriously? Okay, we'll have to look for this thing, otherwise you'll kill yourself like that.}
+{293}{}{ÈÏÕæµØºÃ°É£¬ÎÒÃÇµÃÈ¥ÕÒÕâ¸ö¶«Î÷£¬·ñÔòÄã»áÄÇÑù×ÔÉ±µÄ¡£}
+### {294}{}{I have a holographic module. Here you go.}
+{294}{}{ÎÒÓĞÒ»¸öÈ«Ï¢Ä£¿é¡£¸øÄã¡£}
+### {295}{}{Fernando and Beatrice are dead.}
+{295}{}{·Ñ¶ûÄÏ¶àºÍ±Ì´äË¿ËÀÁË¡£}
+### {296}{}{Fernando and Beatrice died. I'm sorry.}
+{296}{}{·Ñ¶ûÄÏ¶àºÍ±Ì´äË¿ËÀÁË¡£¶Ô²»Æğ¡£}
+### {297}{}{Excellent! I need time to prepare. Come to our first concert in a day.}
+{297}{}{½Ü³öµÄÎÒĞèÒªÊ±¼ä×¼±¸¡£À´²Î¼ÓÎÒÃÇÒ»ÌìÄÚµÄµÚÒ»³¡ÒôÀÖ»á¡£}
+### {298}{}{Okay. Have a good rehearsal.}
+{298}{}{¿ÉÒÔºÃºÃÅÅÁ·¡£}
+### {299}{}{It's the old man }
+{299}{}{ÊÇÀÏÈË}
+### {1299}{}{This is my goddess of inspiration, }
+{1299}{}{ÕâÊÇÎÒµÄÁé¸ĞÅ®Éñ£¬}
+### {300}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. Thank you for your help, partner.}
+{300}{}{£¡¾ÍÏñÄã°ÑÎÒ´ø»ØÁË2077Äê¡£ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞÕâÃ´¿ªĞÄÁË¡£Ë³±ãËµÒ»¾ä£¬ÎÒÃÇÕâ´ÎÑİ³ö×¬ÁËºÜ¶àÇ®¡£ÕâÊÇÄãµÄÒ»·İ£¬1000¸ö¹ş°Í¿ËÈË¡£Ğ»Ğ»ÄãµÄ°ïÖú£¬»ï°é¡£}
+### {1300}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. Thank you for your help, senora.}
+{1300}{}{£¡¾ÍÏñÄã°ÑÎÒ´ø»ØÁË2077Äê¡£ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞÕâÃ´¿ªĞÄÁË¡£Ë³±ãËµÒ»¾ä£¬ÎÒÃÇÕâ´ÎÑİ³ö×¬ÁËºÜ¶àÇ®¡£ÕâÊÇÄãµÄÒ»·İ£¬1000¸ö¹ş°Í¿ËÈË¡£Ğ»Ğ»ÄãµÄ°ïÖú£¬Ğ¡½ã¡£}
+### {301}{}{Good luck, Jose.}
+{301}{}{×£ÄãºÃÔË£¬ºÎÈû¡£}
+### {302}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. And also from me personally ? this wonderful century-old whiskey. Thank you for your help, partner.}
+{302}{}{£¡¾ÍÏñÄã°ÑÎÒ´ø»ØÁË2077Äê¡£ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞÕâÃ´¿ªĞÄÁË¡£Ë³±ãËµÒ»¾ä£¬ÎÒÃÇÕâ´ÎÑİ³ö×¬ÁËºÜ¶àÇ®¡£ÕâÊÇÄãµÄÒ»·İ£¬1000¸ö¹ş°Í¿ËÈË¡£»¹ÓĞÎÒ¸öÈË? ÕâÖÖÃÀÃîµÄ°ÙÄêÍşÊ¿¼É¡£Ğ»Ğ»ÄãµÄ°ïÖú£¬»ï°é¡£}
+### {1302}{}{! It's like you brought me back to 2077. It's been a long time since I've been so happy. By the way, we made a lot of money on this performance. Here's your share, 1000 habaks. And also from me personally ? this wonderful century-old whiskey. Thank you for your help, senora.}
+{1302}{}{£¡¾ÍÏñÄã°ÑÎÒ´ø»ØÁË2077Äê¡£ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞÕâÃ´¿ªĞÄÁË¡£Ë³±ãËµÒ»¾ä£¬ÎÒÃÇÕâ´ÎÑİ³ö×¬ÁËºÜ¶àÇ®¡£ÕâÊÇÄãµÄÒ»·İ£¬1000¸ö¹ş°Í¿ËÈË¡£»¹ÓĞÎÒ¸öÈË? ÕâÖÖÃÀÃîµÄ°ÙÄêÍşÊ¿¼É¡£Ğ»Ğ»ÄãµÄ°ïÖú£¬Ğ¡½ã¡£}
+### {303}{}{What do you call the band?}
+{303}{}{ÄãÔõÃ´³ÆºôÕâÖ§ÀÖ¶Ó£¿}
+### {304}{}{Hmm, we need something romantic. Maybe "Last Breath"? Or ? "Love in hell"? Maybe "A Kiss before death"? What about...}
+{304}{}{àÅ£¬ÎÒÃÇĞèÒªÒ»Ğ©ÀËÂşµÄ¶«Î÷¡£Ò²ĞíÊÇ¡¶×îºóµÄºôÎü¡·£¿»ò? ¡°µØÓüÀïµÄ°®¡±£¿Ò²ĞíÊÇ¡°ËÀÇ°Ö®ÎÇ¡±£¿ÄÇÃ´...ÔõÃ´Ñù}
+### {305}{}{I think it would be easier to name after you.}
+{305}{}{ÎÒÏëÒÔÄãµÄÃû×ÖÃüÃû»á¸üÈİÒ×¡£}
+### {306}{}{Mariachi de Jose Solis? Of course!}
+{306}{}{Mariachi de Jose Solis£¿µ±È»}
+### {307}{}{That's nice...}
+{307}{}{Ì«ºÃÁË¡£¡£¡£}
+### {308}{}{By the way, what do you call the band?}
+{308}{}{Ë³±ãÎÊÒ»ÏÂ£¬Äã½ĞÕâÖ§ÀÖ¶ÓÊ²Ã´£¿}

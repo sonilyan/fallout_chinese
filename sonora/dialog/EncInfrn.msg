@@ -1,23 +1,42 @@
-{100}{}{in front of you Õarvi.}
+### {100}{}{in front of you ?arvi.}
+{100}{}{ÔÚÄãÃæÇ°?arvi¡£}
 
-{110}{}{ÕArvi hates people!}
-{111}{}{Come on, you little bug!}
-{112}{}{People don't like people like you.}
-{113}{}{Why won't you leave us alone?!}
-{114}{}{People are chasing us everywhere!}
-{115}{}{People always shoot at us first!}
-{116}{}{Ñcreator, give me the strength to protect this place from the normies!}
-{117}{}{Levi did not want to see people in our city.}
-{118}{}{Õarvi just protects the city from the normies!}
-{119}{}{Õarvi is good. ÕArvi triesÿfor the sake of Leviÿ.}
+### {110}{}{?Arvi hates people!}
+{110}{}{?°¢¶ûÎ¬ÌÖÑáÈË£¡}
+### {111}{}{Come on, you little bug!}
+{111}{}{À´°É£¬ÄãÕâ¸öĞ¡³æ×Ó£¡}
+### {112}{}{People don't like people like you.}
+{112}{}{ÈËÃÇ²»Ï²»¶ÏñÄãÕâÑùµÄÈË¡£}
+### {113}{}{Why won't you leave us alone?!}
+{113}{}{ÄãÎªÊ²Ã´²»·Å¹ıÎÒÃÇ£¿£¡}
+### {114}{}{People are chasing us everywhere!}
+{114}{}{µ½´¦¶¼ÓĞÈËÔÚ×·ÎÒÃÇ£¡}
+### {115}{}{People always shoot at us first!}
+{115}{}{ÈËÃÇ×ÜÊÇÏÈÏòÎÒÃÇ¿ªÇ¹£¡}
+### {116}{}{?creator, give me the strength to protect this place from the normies!}
+{116}{}{?´´ÔìÕß£¬¸øÎÒÁ¦Á¿À´±£»¤Õâ¸öµØ·½²»ÊÜÕı³£ÈËµÄÉËº¦£¡}
+### {117}{}{Levi did not want to see people in our city.}
+{117}{}{ÀîÎ¬²»Ïë¿´µ½ÎÒÃÇ³ÇÊĞÀïµÄÈË¡£}
+### {118}{}{?arvi just protects the city from the normies!}
+{118}{}{?°¢¶ûÎ¬Ö»ÊÇ±£»¤Õâ×ù³ÇÊĞ²»ÊÜÕı³£ÈËµÄ¹¥»÷£¡}
+### {119}{}{?arvi is good. ?Arvi tries?for the sake of Levi?.}
+{119}{}{?arviºÜºÃ¡£?Arvi³¢ÊÔ?ÎªÁËÀîÎ¬?.}
 
-{120}{}{Levi instructed to guard the city from people.}
-{121}{}{"Sorry, but you can't stay here."}
-{122}{}{Õarvi remembers who helped Levi. Õarvi is grateful.}
-{123}{}{Õarvi is good. arvi protects the city from people.}
-{124}{}{ÒDo you read meÿ as well as ÿ?}
-{125}{}{Ò Do you read the creator?}
-{126}{}{I miss the creator...}
-{127}{}{Õarvi!}
+### {120}{}{Levi instructed to guard the city from people.}
+{120}{}{ÀûÎ´Ö¸Ê¾±£ÎÀÕâ×ù³ÇÊĞ²»ÈÃÈË½øÈë¡£}
+### {121}{}{"Sorry, but you can't stay here."}
+{121}{}{¡°¶Ô²»Æğ£¬Äã²»ÄÜ´ôÔÚÕâÀï¡£¡±}
+### {122}{}{?arvi remembers who helped Levi. ?arvi is grateful.}
+{122}{}{?°¢¶ûÎ¬¼ÇµÃÊÇË­°ïÖúÁËÀîÎ¬¡£?arviºÜ¸Ğ¼¤¡£}
+### {123}{}{?arvi is good. arvi protects the city from people.}
+{123}{}{?arviºÜºÃ¡£arvi±£»¤Õâ×ù³ÇÊĞ²»ÊÜÈËÃÇµÄÇÖÈÅ¡£}
+### {124}{}{?Do you read me? as well as ??}
+{124}{}{?Äã¶ÁÎÒµÄÂğ? ÒÔ¼°??}
+### {125}{}{? Do you read the creator?}
+{125}{}{? Äã¶Á¹ı´´×÷ÕßÂğ£¿}
+### {126}{}{I miss the creator...}
+{126}{}{ÎÒÏëÄî´´ÔìÕß¡£¡£¡£}
+### {127}{}{?arvi!}
+{127}{}{?°¢£¡}
 {128}{}{}
 {129}{}{}

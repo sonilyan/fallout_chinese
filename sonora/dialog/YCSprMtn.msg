@@ -1,3 +1,6 @@
-{102}{}{ÍÍÍ"Æ" ÍĞÌ" Î!}
-{103}{}{"Does the shadow accompany the fuck? I don't like itÿ.}
-{{104}{}{ Hey, the income is $ha, don't confuse it with $ under your feet.}
+### {102}{}{???"?" ???" ?!}
+{102}{}{???¡°?¡°???¡°?!}
+### {103}{}{"Does the shadow accompany the fuck? I don't like it?.}
+{103}{}{¡°ÒõÓ°°éËæ×ÅËûÂèµÄÂğ£¿ÎÒ²»Ï²»¶?.}
+### {{104}{}{ Hey, the income is $ha, don't confuse it with $ under your feet.}
+{{104}{}{ºÙ£¬ÊÕÈëÊÇ$ha£¬²»Òª°ÑËüºÍÄã½ÅÏÂµÄ$ha»ìÏıÁË¡£}

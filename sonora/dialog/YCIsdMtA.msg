@@ -1,22 +1,42 @@
-{100}{}{You see a ghoul.}
-{101}{}{Here is one of the ghouls. He looks particularly battered.}
+### {100}{}{You see a ghoul.}
+{100}{}{Äã¿´µ½Ò»¸öÊ³Ê¬¹í¡£}
+### {101}{}{Here is one of the ghouls. He looks particularly battered.}
+{101}{}{ÕâÊÇÒ»¸öÊ³Ê¬¹í¡£Ëû¿´ÆğÀ´ÌØ±ğÆ£±¹¡£}
 
-{102}{}{Hi. Where did you come from so handsome?}
-{1102}{}{Hi. Where did you come from so beautiful?}
-{103}{}{Hi, friend. Be careful on the ruins.}
-{1103}{}{Hello, friend. Be careful on the ruins.}
-{104}{}{Save me from these stupid mutants!}
-{105}{}{The last time I was pressed like that was before the war. Bandits then, mutants now — not much has changed.}
-{106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thank you, friend.}
-{1106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thanks, girlfriend.}
+### {102}{}{Hi. Where did you come from so handsome?}
+{102}{}{ÄãºÃÄã´ÓÄÄÀïÀ´µÄÕâÃ´Ë§£¿}
+### {1102}{}{Hi. Where did you come from so beautiful?}
+{1102}{}{ÄãºÃÄã´ÓÄÄÀïÀ´ÕâÃ´Æ¯ÁÁ£¿}
+### {103}{}{Hi, friend. Be careful on the ruins.}
+{103}{}{àË£¬ÅóÓÑ¡£ÔÚ·ÏĞæÉÏÒªĞ¡ĞÄ¡£}
+### {1103}{}{Hello, friend. Be careful on the ruins.}
+{1103}{}{ÄãºÃ£¬ÅóÓÑ¡£ÔÚ·ÏĞæÉÏÒªĞ¡ĞÄ¡£}
+### {104}{}{Save me from these stupid mutants!}
+{104}{}{°ÑÎÒ´ÓÕâĞ©ÓŞ´ÀµÄ±äÖÖÈËÊÖÀï¾È³öÀ´£¡}
+### {105}{}{The last time I was pressed like that was before the war. Bandits then, mutants now ? not much has changed.}
+{105}{}{ÎÒÉÏÒ»´ÎÊÜµ½ÕâÑùµÄÑ¹Á¦ÊÇÔÚÕ½Ç°¡£ÄÇÊ±ÊÇÍÁ·Ë£¬ÏÖÔÚÊÇ±äÖÖÈË? ±ä»¯²»´ó¡£}
+### {106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thank you, friend.}
+{106}{}{°¡£¬ÎÒÒÔÎªÎÒÍêµ°ÁË¡£ÔÚÕâÀï£¬´øÉÏĞË·Ü¼ÁºÍ¸ĞĞ»µÄ»°Óï×÷Îª½±Àø¡£Ğ»Ğ»Äã£¬ÅóÓÑ¡£}
+### {1106}{}{Ugh, I thought I was screwed. Here, take a stimulant and words of gratitude as a reward. Thanks, girlfriend.}
+{1106}{}{°¡£¬ÎÒÒÔÎªÎÒÍêµ°ÁË¡£ÔÚÕâÀï£¬´øÉÏĞË·Ü¼ÁºÍ¸ĞĞ»µÄ»°Óï×÷Îª½±Àø¡£Ğ»Ğ»£¬Å®ÅóÓÑ¡£}
 
-{110}{}{Don't touch me, we're the same blood!}
-{111}{}{I won't tell anyone I saw you. Honestly.}
-{112}{}{Not by the face! I have only one tooth left...}
-{113}{}{Leave me alone!}
-{114}{}{I don't have anything edible!}
-{115}{}{Somebody help!}
-{116}{}{What do you want from me?}
-{117}{}{I'm telling you, I don't have any food.}
-{118}{}{Maybe you should hunt in the wastelands, huh?}
-{119}{}{Guys, let's be friends, huh?}
+### {110}{}{Don't touch me, we're the same blood!}
+{110}{}{±ğÅöÎÒ£¬ÎÒÃÇÊÇÍ¬Ò»¸öÈË£¡}
+### {111}{}{I won't tell anyone I saw you. Honestly.}
+{111}{}{ÎÒ²»»á¸æËßÈÎºÎÈËÎÒ¿´¼ûÄãÁË¡£ÕæµÄ}
+### {112}{}{Not by the face! I have only one tooth left...}
+{112}{}{²»ÊÇ¿¿Á³£¡ÎÒÖ»Ê£ÏÂÒ»¿ÅÑÀ³İÁË¡£¡£¡£}
+### {113}{}{Leave me alone!}
+{113}{}{±ğ¹ÜÎÒ£¡}
+### {114}{}{I don't have anything edible!}
+{114}{}{ÎÒÃ»ÓĞÈÎºÎ¿ÉÊ³ÓÃµÄ¶«Î÷£¡}
+### {115}{}{Somebody help!}
+{115}{}{Ë­À´°ïÃ¦£¡}
+### {116}{}{What do you want from me?}
+{116}{}{ÄãÏë´ÓÎÒÕâÀïµÃµ½Ê²Ã´£¿}
+### {117}{}{I'm telling you, I don't have any food.}
+{117}{}{ÎÒ¸æËßÄã£¬ÎÒÃ»ÓĞÊ³Îï¡£}
+### {118}{}{Maybe you should hunt in the wastelands, huh?}
+{118}{}{Ò²ĞíÄãÓ¦¸ÃÔÚ»ÄÔ­ÉÏ´òÁÔ£¬ÊÇÂğ£¿}
+### {119}{}{Guys, let's be friends, huh?}
+{119}{}{»ï¼ÆÃÇ£¬ÎÒÃÇ×öÅóÓÑ°É£¿}

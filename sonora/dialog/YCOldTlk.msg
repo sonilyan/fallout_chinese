@@ -1,16 +1,30 @@
-{100}{}{There is a ghoul in front of you.}
-{101}{}{Here is an ordinary ghoul.}
+### {100}{}{There is a ghoul in front of you.}
+{100}{}{ÄãÃæÇ°ÓĞÒ»¸öÊ³Ê¬¹í¡£}
+### {101}{}{Here is an ordinary ghoul.}
+{101}{}{ÕâÊÇÒ»¸öÆÕÍ¨µÄÊ³Ê¬¹í¡£}
 
-{200}{}{Hey, son, do you want me to tell you a fucking story?}
-{1200}{}{Oh, lady, do you want me to tell you an inspiring story?}
-{201}{}{But I won't tell you! Bought it, right?}
-{1201}{}{But I won't tell you! Bought it, right?}
-{202}{}{No, well, if you want to hear, then I would tell you over a mug of foam.}
-{1202}{}{No, well, if you want to hear it, then I would tell you over a mug of foam.}
+### {200}{}{Hey, son, do you want me to tell you a fucking story?}
+{200}{}{ºÙ£¬¶ù×Ó£¬ÄãÏëÈÃÎÒ¸øÄã½²¸öËûÂèµÄ¹ÊÊÂÂğ£¿}
+### {1200}{}{Oh, lady, do you want me to tell you an inspiring story?}
+{1200}{}{Å¶£¬Å®Ê¿£¬ÄãÏëÈÃÎÒ¸øÄã½²Ò»¸ö¹ÄÎèÈËĞÄµÄ¹ÊÊÂÂğ£¿}
+### {201}{}{But I won't tell you! Bought it, right?}
+{201}{}{µ«ÎÒ²»»á¸æËßÄã£¡ÂòµÄ£¬¶Ô°É£¿}
+### {1201}{}{But I won't tell you! Bought it, right?}
+{1201}{}{µ«ÎÒ²»»á¸æËßÄã£¡ÂòµÄ£¬¶Ô°É£¿}
+### {202}{}{No, well, if you want to hear, then I would tell you over a mug of foam.}
+{202}{}{²»£¬ºÃ°É£¬Èç¹ûÄãÏëÌıµÄ»°£¬ÎÒ»áÔÚÒ»±­ÅİÄ­ÉÏ¸æËßÄã¡£}
+### {1202}{}{No, well, if you want to hear it, then I would tell you over a mug of foam.}
+{1202}{}{²»£¬ºÃ°É£¬Èç¹ûÄãÏëÌıµÄ»°£¬ÎÒ»áÓÃÒ»±­ÅİÄ­¸æËßÄã¡£}
 
-{210}{}{I lived in the sewers after the bombs fell. It fed on objects from puddles and rats. You shouldn't do that.}
-{211}{}{Seth is our former leader. He held all ghouls with an iron hand. Fortunately, he is no longer with us.}
-{212}{}{Even before the Great War, the oil on the planet ran out. Here a reasonable question arises — what did they fight for during the War?}
-{213}{}{There are several large settlements in the north. But this is nothing compared to what megacities were before the War.}
-{214}{}{The Master and his super mutants are a serious force. They tried to subdue people and ghouls. It's good that they were exhausted. But not to the end after all!}
-{215}{}{Uv... I think I've been drinking too much... the interview is over...}
+### {210}{}{I lived in the sewers after the bombs fell. It fed on objects from puddles and rats. You shouldn't do that.}
+{210}{}{Õ¨µ¯ÂäÏÂºó£¬ÎÒ×¡ÔÚÏÂË®µÀÀï¡£ËüÒÔË®¿ÓºÍÀÏÊóµÄ¶«Î÷ÎªÊ³¡£Äã²»Ó¦¸ÃÄÇÑù×ö¡£}
+### {211}{}{Seth is our former leader. He held all ghouls with an iron hand. Fortunately, he is no longer with us.}
+{211}{}{ÈüË¹ÊÇÎÒÃÇµÄÇ°ÈÎÁìµ¼ÈË¡£ËûÓÃÌúÍó×¥×¡ÁËËùÓĞµÄÊ³Ê¬¹í¡£ĞÒÔËµÄÊÇ£¬ËûÒÑ¾­²»ÔÚÎÒÃÇÉí±ßÁË¡£}
+### {212}{}{Even before the Great War, the oil on the planet ran out. Here a reasonable question arises ? what did they fight for during the War?}
+{212}{}{ÉõÖÁÔÚ´óÕ½Ö®Ç°£¬µØÇòÉÏµÄÊ¯ÓÍ¾ÍÒÑ¾­ºÄ¾¡ÁË¡£ÕâÀï³öÏÖÁËÒ»¸öºÏÀíµÄÎÊÌâ? ËûÃÇÔÚÕ½ÕùÆÚ¼äÎªÊ²Ã´¶øÕ½£¿}
+### {213}{}{There are several large settlements in the north. But this is nothing compared to what megacities were before the War.}
+{213}{}{±±·½ÓĞ¼¸¸ö´óµÄ¶¨¾Óµã¡£µ«ÓëÕ½Ç°µÄÌØ´ó³ÇÊĞÏà±È£¬ÕâËã²»ÁËÊ²Ã´¡£}
+### {214}{}{The Master and his super mutants are a serious force. They tried to subdue people and ghouls. It's good that they were exhausted. But not to the end after all!}
+{214}{}{´óÊ¦ºÍËûµÄ³¬¼¶±äÖÖÈËÊÇÒ»¹ÉÇ¿´óµÄÁ¦Á¿¡£ËûÃÇÊÔÍ¼ÖÆ·şÈËÃÇºÍÊ³Ê¬¹í¡£»¹ºÃËûÃÇÒÑ¾­½îÆ£Á¦¾¡ÁË¡£µ«±Ï¾¹²»ÊÇµ½×îºó£¡}
+### {215}{}{Uv... I think I've been drinking too much... the interview is over...}
+{215}{}{Uv¡£¡£¡£ÎÒÏëÎÒºÈ¶àÁË¡£¡£¡£ÃæÊÔ½áÊøÁË¡£¡£¡£}

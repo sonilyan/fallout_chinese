@@ -1,2 +1,4 @@
-{110}{}{Ñudÿ on grÿzi around, this loophole was used quite recently.}
-{111}{}{Ñfirst you need to talk to grandma.}
+### {110}{}{?ud? on gr?zi around, this loophole was used quite recently.}
+{110}{}{?ud? ÔÚgrÉÏ?×Ó£¬Õâ¸öÂ©¶´ÊÇ×î½ü²ÅÓÃµÄ¡£}
+### {111}{}{?first you need to talk to grandma.}
+{111}{}{?Ê×ÏÈÄãĞèÒªºÍÄÌÄÌÌ¸Ì¸¡£}

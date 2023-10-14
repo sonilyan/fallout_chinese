@@ -1,58 +1,105 @@
-{100}{}{You see a stranger.}
-{101}{}{Here is a man in a blue jumpsuit.}
+### {100}{}{You see a stranger.}
+{100}{}{Äã¿´µ½Ò»¸öÄ°ÉúÈË¡£}
+### {101}{}{Here is a man in a blue jumpsuit.}
+{101}{}{ÕâÊÇÒ»¸ö´©×ÅÀ¶É«Á¬Éí¿ãµÄÄĞÈË¡£}
 
 #Cut scenes
-{110}{}{   }
-{111}{}{Who are you guys?}
-{112}{}{It's none of your business. You will ask questions to Butler. And now — get out of here.}
-{113}{}{Mercenaries, then. Of course, Butler won't back down that easily.}
-{114}{}{But it's too late. Coronado belongs to the gulyams of San Isidro. And you don't belong here.}
-{115}{}{Ugh! Only in vain we grab radiation with this rags. Throw them off the pier, guys!}
+### {110}{}{   }
+{110}{}{error : string is empty}
+### {111}{}{Who are you guys?}
+{111}{}{ÄãÃÇÊÇË­£¿}
+### {112}{}{It's none of your business. You will ask questions to Butler. And now ? get out of here.}
+{112}{}{Õâ²»¹ØÄãµÄÊÂ¡£Äã½«Ïò°ÍÌØÀÕÌáÎÊ¡£ÏÖÔÚ? Àë¿ªÕâÀï¡£}
+### {113}{}{Mercenaries, then. Of course, Butler won't back down that easily.}
+{113}{}{¹ÍÓ¶¾ü¡£µ±È»£¬°ÍÌØÀÕ²»»áÇáÒ×ÈÃ²½µÄ¡£}
+### {114}{}{But it's too late. Coronado belongs to the gulyams of San Isidro. And you don't belong here.}
+{114}{}{µ«ÎªÊ±ÒÑÍí¡£¿ÆÂŞÄÉ¶àÊôÓÚÊ¥ÒÁÎ÷µÂÂŞµÄÏ¿¹È¡£Äã²»ÊôÓÚÕâÀï¡£}
+### {115}{}{Ugh! Only in vain we grab radiation with this rags. Throw them off the pier, guys!}
+{115}{}{°¡£¡ÎÒÃÇÓÃÕâĞ©ÆÆ²¼»ñÈ¡·øÉäÊÇÍ½ÀÍµÄ¡£°ÑËûÃÇ´ÓÂëÍ·ÉÏÈÓÏÂÀ´£¬»ï¼ÆÃÇ£¡}
 
-{122}{}{It's none of your business. We won't let anyone sail to the island without our permission.}
-{123}{}{Ah, black scavengers? Of course, everyone wants to get the Coronado treasure.}
-{124}{}{But Coronado belongs to ALL ghouls! San Isidro also has a right to it!}
-{125}{}{Ugh! Only in vain we grab radiation with this rags. Drive them out of here!}
-{126}{}{Only Coronado belongs to the GHOULS! Get off our land, smooth-faced!}
+### {122}{}{It's none of your business. We won't let anyone sail to the island without our permission.}
+{122}{}{Õâ²»¹ØÄãµÄÊÂ¡£Î´¾­ÎÒÃÇÔÊĞí£¬ÎÒÃÇ²»»áÈÃÈÎºÎÈËº½ĞĞµ½µºÉÏ¡£}
+### {123}{}{Ah, black scavengers? Of course, everyone wants to get the Coronado treasure.}
+{123}{}{°¡£¬ºÚÉ«Ê°»ÄÕß£¿µ±È»£¬Ã¿¸öÈË¶¼ÏëµÃµ½¿ÆÂŞÄÉ¶à±¦²Ø¡£}
+### {124}{}{But Coronado belongs to ALL ghouls! San Isidro also has a right to it!}
+{124}{}{µ«¿ÆÂŞÄÉ¶àÊôÓÚËùÓĞµÄÊ³Ê¬¹í£¡Ê¥ÒÁÎ÷µÂÂŞÒ²ÓĞÈ¨ÕâÑù×ö£¡}
+### {125}{}{Ugh! Only in vain we grab radiation with this rags. Drive them out of here!}
+{125}{}{°¡£¡ÎÒÃÇÓÃÕâĞ©ÆÆ²¼»ñÈ¡·øÉäÊÇÍ½ÀÍµÄ¡£°ÑËûÃÇ¸Ï×ß£¡}
+### {126}{}{Only Coronado belongs to the GHOULS! Get off our land, smooth-faced!}
+{126}{}{Ö»ÓĞ¿ÆÂŞÄÉ¶àÊôÓÚGHOULS£¡¹ö³öÎÒÃÇµÄÍÁµØ£¬¹â»¬µÄÁ³£¡}
 
 #Final dialogue
-{200}{}{Hey, hey! Are you okay? Wake up!}
-{201}{}{Thu... What happened?}
-{202}{}{You lost consciousness after the explosion. But everything seems to have worked out. I was afraid you didn't get my invitation.}
-{1202}{}{You lost consciousness after the explosion. But everything seems to have worked out. I was afraid you didn't get my invitation.}
-{203}{}{There was a fight. Someone detonated a grenade, and you lost consciousness from it. But everything seems to have worked out. I was afraid you didn't get my invitation.}
-{1203}{}{There was a fight. Someone detonated a grenade, and you fainted from it. But everything seems to have worked out. I was afraid you didn't get my invitation.}
-{204}{}{Who else are you?}
-{205}{}{You may have heard of me. But it doesn't matter. I'm glad you managed to complete this mission.}
-{1205}{}{Maybe you've heard of me. But it doesn't matter. I'm glad you managed to complete this mission.}
-{206}{}{Do you think I made the right decision?}
-{1206}{}{Do you think I made the right decision?}
-{207}{}{I will not evaluate your choice. You did what you thought was right.}
-{1207}{}{I will not evaluate your choice. You did what you thought was right.}
-{208}{}{[Listen]}
-{209}{}{}
+### {200}{}{Hey, hey! Are you okay? Wake up!}
+{200}{}{ºÙ£¬ºÙ£¡Äã»¹ºÃÂğ£¿ĞÑĞÑ}
+### {201}{}{Thu... What happened?}
+{201}{}{ÖÜËÄ¡£¡£¡£·¢ÉúÁËÊ²Ã´£¿}
+### {202}{}{You lost consciousness after the explosion. But everything seems to have worked out. I was afraid you didn't get my invitation.}
+{202}{}{±¬Õ¨ºóÄãÊ§È¥ÁËÒâÊ¶¡£µ«Ò»ÇĞËÆºõ¶¼½â¾öÁË¡£ÎÒµ£ĞÄÄãÃ»ÓĞÊÕµ½ÎÒµÄÑûÇë¡£}
+### {1202}{}{You lost consciousness after the explosion. But everything seems to have worked out. I was afraid you didn't get my invitation.}
+{1202}{}{±¬Õ¨ºóÄãÊ§È¥ÁËÒâÊ¶¡£µ«Ò»ÇĞËÆºõ¶¼½â¾öÁË¡£ÎÒµ£ĞÄÄãÃ»ÓĞÊÕµ½ÎÒµÄÑûÇë¡£}
+### {203}{}{There was a fight. Someone detonated a grenade, and you lost consciousness from it. But everything seems to have worked out. I was afraid you didn't get my invitation.}
+{203}{}{·¢ÉúÁËÒ»³¡´ò¶·¡£ÓĞÈËÒı±¬ÁËÒ»Ã¶ÊÖÁñµ¯£¬ÄãÊ§È¥ÁËÒâÊ¶¡£µ«Ò»ÇĞËÆºõ¶¼½â¾öÁË¡£ÎÒµ£ĞÄÄãÃ»ÓĞÊÕµ½ÎÒµÄÑûÇë¡£}
+### {1203}{}{There was a fight. Someone detonated a grenade, and you fainted from it. But everything seems to have worked out. I was afraid you didn't get my invitation.}
+{1203}{}{·¢ÉúÁËÒ»³¡´ò¶·¡£ÓĞÈËÒı±¬ÁËÒ»Ã¶ÊÖÁñµ¯£¬Äã¾ÍÔÎµ¹ÁË¡£µ«Ò»ÇĞËÆºõ¶¼½â¾öÁË¡£ÎÒµ£ĞÄÄãÃ»ÓĞÊÕµ½ÎÒµÄÑûÇë¡£}
+### {204}{}{Who else are you?}
+{204}{}{Äã»¹ÓĞË­£¿}
+### {205}{}{You may have heard of me. But it doesn't matter. I'm glad you managed to complete this mission.}
+{205}{}{Äã¿ÉÄÜÌıËµ¹ıÎÒ£¬µ«Ã»¹ØÏµ¡£ÎÒºÜ¸ßĞËÄãÍê³ÉÁËÕâ´ÎÈÎÎñ¡£}
+### {1205}{}{Maybe you've heard of me. But it doesn't matter. I'm glad you managed to complete this mission.}
+{1205}{}{Ò²ĞíÄãÌıËµ¹ıÎÒ¡£µ«Ã»¹ØÏµ¡£ÎÒºÜ¸ßĞËÄãÍê³ÉÁËÕâ´ÎÈÎÎñ¡£}
+### {206}{}{Do you think I made the right decision?}
+{206}{}{ÄãÈÏÎªÎÒ×öÁËÕıÈ·µÄ¾ö¶¨Âğ£¿}
+### {1206}{}{Do you think I made the right decision?}
+{1206}{}{ÄãÈÏÎªÎÒ×öÁËÕıÈ·µÄ¾ö¶¨Âğ£¿}
+### {207}{}{I will not evaluate your choice. You did what you thought was right.}
+{207}{}{ÎÒ²»»áÆÀ¼ÛÄãµÄÑ¡Ôñ¡£Äã×öÁËÄãÈÏÎªÕıÈ·µÄÊÂ¡£}
+### {1207}{}{I will not evaluate your choice. You did what you thought was right.}
+{1207}{}{ÎÒ²»»áÆÀ¼ÛÄãµÄÑ¡Ôñ¡£Äã×öÁËÄãÈÏÎªÕıÈ·µÄÊÂ¡£}
+### {208}{}{[Listen]}
+{208}{}{[Ìı]}
+### {209}{}{}
+{209}{}{error : string is empty}
 
-{210}{}{Of course, the ghouls will be terribly upset that the fragments of the Old World will not get to them.}
-{211}{}{They could give a lot of benefits to this world. But they could also fall into the wrong hands.}
-{212}{}{Who knows, perhaps, thanks to that explosion, the world avoided another catastrophe. Or vice versa — it was the things from this base that were not enough to return civilization to the rails of history. Anyway, the base is finally destroyed. And with it — the discord between the ghouls.}
+### {210}{}{Of course, the ghouls will be terribly upset that the fragments of the Old World will not get to them.}
+{210}{}{µ±È»£¬Ê³Ê¬¹íÃÇ»áÒòÎª¾ÉÊÀ½çµÄËéÆ¬ÕÒ²»µ½ËûÃÇ¶ø¸Ğµ½·Ç³£²»°²¡£}
+### {211}{}{They could give a lot of benefits to this world. But they could also fall into the wrong hands.}
+{211}{}{ËûÃÇ¿ÉÒÔ¸øÕâ¸öÊÀ½ç´øÀ´ºÜ¶àºÃ´¦¡£µ«ËûÃÇÒ²¿ÉÄÜÂäÈë»µÈËÖ®ÊÖ¡£}
+### {212}{}{Who knows, perhaps, thanks to that explosion, the world avoided another catastrophe. Or vice versa ? it was the things from this base that were not enough to return civilization to the rails of history. Anyway, the base is finally destroyed. And with it ? the discord between the ghouls.}
+{212}{}{Ë­ÖªµÀÄØ£¬Ò²ĞíÓÉÓÚÄÇ´Î±¬Õ¨£¬ÊÀ½ç±ÜÃâÁËÁíÒ»³¡ÔÖÄÑ¡£·´Ö®ÒàÈ»? ÕıÊÇÀ´×ÔÕâ¸ö»ùµØµÄ¶«Î÷²»×ãÒÔÈÃÎÄÃ÷»Øµ½ÀúÊ·µÄ¹ìµÀÉÏ¡£²»¹ÜÔõÑù£¬»ùµØÖÕÓÚ±»´İ»ÙÁË¡£ÓĞÁËËü? Ê³Ê¬¹íÖ®¼äµÄ²»ºÍ¡£}
 
-{220}{}{Of course, there will be some discord among the ghouls over the rights to the fragments of the Old World.}
-{221}{}{Gustavo will try to take everything for himself and use it for the development of San Isidro. He will not share with human settlements, which are also in dire need of pre-war things. Butler will try to stop him.}
-{222}{}{As a result, Gustavo will be stronger, he will lure most of the ghouls to his side. And then the Dayglow will live its usual dull peaceful life, shutting itself off from the rest of the world. As many ghouls wanted.}
-{223}{}{Gustavo will try to take everything for himself and use it for the development of San Isidro. And he will not share with human settlements, although they are also in dire need of pre-war things.}
-{224}{}{The Dayglow will heal its own little closed xenophobic life. As many ghouls wanted.}
+### {220}{}{Of course, there will be some discord among the ghouls over the rights to the fragments of the Old World.}
+{220}{}{µ±È»£¬Ê³Ê¬¹íÖ®¼äÔÚ¾ÉÊÀ½çËéÆ¬µÄÈ¨ÀûÎÊÌâÉÏ»áÓĞÒ»Ğ©·ÖÆç¡£}
+### {221}{}{Gustavo will try to take everything for himself and use it for the development of San Isidro. He will not share with human settlements, which are also in dire need of pre-war things. Butler will try to stop him.}
+{221}{}{¹ÅË¹ËşÎÖ½«Å¬Á¦°ÑÒ»ÇĞ¾İÎª¼ºÓĞ£¬²¢½«ÆäÓÃÓÚÊ¥ÒÁÎ÷µÂÂŞµÄ·¢Õ¹¡£Ëû²»»áÓëÈËÀà×¡Çø·ÖÏí£¬ÒòÎªÈËÀà×¡ÇøÒ²¼±ĞèÕ½Ç°µÄ¶«Î÷¡£°ÍÌØÀÕ»á¾¡Á¦×èÖ¹ËûµÄ¡£}
+### {222}{}{As a result, Gustavo will be stronger, he will lure most of the ghouls to his side. And then the Dayglow will live its usual dull peaceful life, shutting itself off from the rest of the world. As many ghouls wanted.}
+{222}{}{Òò´Ë£¬¹ÅË¹ËşÎÖ½«±äµÃ¸üÇ¿£¬Ëû½«ÒıÓÕ´ó¶àÊıÊ³Ê¬¹íµ½ËûµÄÉí±ß¡£È»ºó£¬Ï¼¹â½«¹ıÉÏËüÍ¨³£³ÁÃÆÆ½¾²µÄÉú»î£¬½«×Ô¼ºÓëÊÀ½çÆäËûµØ·½¸ô¾ø¡£ÕıÈçĞí¶àÊ³Ê¬¹íËùÏ£ÍûµÄÄÇÑù¡£}
+### {223}{}{Gustavo will try to take everything for himself and use it for the development of San Isidro. And he will not share with human settlements, although they are also in dire need of pre-war things.}
+{223}{}{¹ÅË¹ËşÎÖ½«Å¬Á¦°ÑÒ»ÇĞ¾İÎª¼ºÓĞ£¬²¢½«ÆäÓÃÓÚÊ¥ÒÁÎ÷µÂÂŞµÄ·¢Õ¹¡£Ëû²»»áÓëÈËÀà×¡Çø·ÖÏí£¬¾¡¹ÜËûÃÇÒ²ÆÈÇĞĞèÒªÕ½Ç°µÄ¶«Î÷¡£}
+### {224}{}{The Dayglow will heal its own little closed xenophobic life. As many ghouls wanted.}
+{224}{}{Êï¹â½«ÖÎÓú×Ô¼º·â±ÕµÄÅÅÍâÉú»î¡£ÕıÈçĞí¶àÊ³Ê¬¹íËùÏ£ÍûµÄÄÇÑù¡£}
 
-{230}{}{Of course, there will be some discord among the ghouls over the rights to the fragments of the Old World.}
-{231}{}{Butler will begin active trade with human settlements in the north. For some of them, pre—war things will be life-saving, for some - disastrous. San Isidro will get mere crumbs, which will turn it into a slum.}
-{232}{}{Gradually, the resources will be exhausted. But thanks to trade, the Dayglow will survive and live its usual dull peaceful life. As many ghouls wanted.}
+### {230}{}{Of course, there will be some discord among the ghouls over the rights to the fragments of the Old World.}
+{230}{}{µ±È»£¬Ê³Ê¬¹íÖ®¼äÔÚ¾ÉÊÀ½çËéÆ¬µÄÈ¨ÀûÎÊÌâÉÏ»áÓĞÒ»Ğ©·ÖÆç¡£}
+### {231}{}{Butler will begin active trade with human settlements in the north. For some of them, pre?war things will be life-saving, for some - disastrous. San Isidro will get mere crumbs, which will turn it into a slum.}
+{231}{}{°ÍÌØÀÕ½«¿ªÊ¼Óë±±·½µÄÈËÀà×¡Çø½øĞĞ»ı¼«µÄÃ³Ò×¡£¶ÔÆäÖĞÒ»Ğ©ÈËÀ´Ëµ?¶ÔÒ»Ğ©ÈËÀ´Ëµ£¬Õ½Õù½«ÊÇÕü¾ÈÉúÃüµÄ¡ª¡ªÔÖÄÑĞÔµÄ¡£Ê¥ÒÁÎ÷µÂÂŞÖ»»áµÃµ½Ãæ°üĞ¼£¬Õâ½«°ÑËü±ä³ÉÆ¶Ãñ¿ß¡£}
+### {232}{}{Gradually, the resources will be exhausted. But thanks to trade, the Dayglow will survive and live its usual dull peaceful life. As many ghouls wanted.}
+{232}{}{×ÊÔ´½«Öğ½¥ºÄ¾¡¡£µ«¶à¿÷ÁËÃ³Ò×£¬¡°Ò¹¹â¡±µÃÒÔĞÒ´æ£¬¹ıÉÏÁËÆ½¾²·¦Î¶µÄÉú»î¡£ÕıÈçĞí¶àÊ³Ê¬¹íËùÏ£ÍûµÄÄÇÑù¡£}
 
-{240}{}{Of course, the ghouls will be terribly upset that the fragments of the Old World will not get to them.}
-{241}{}{The Brotherhood of Steel won't let anyone near this gold mine. The Order will take everything valuable for itself and transport it to the main base.}
-{242}{}{The Ghouls will be left with mere crumbs. Over time, people will forget about them. And then the Dayglow will live an ordinary dull life.}
+### {240}{}{Of course, the ghouls will be terribly upset that the fragments of the Old World will not get to them.}
+{240}{}{µ±È»£¬Ê³Ê¬¹íÃÇ»áÒòÎª¾ÉÊÀ½çµÄËéÆ¬ÕÒ²»µ½ËûÃÇ¶ø¸Ğµ½·Ç³£²»°²¡£}
+### {241}{}{The Brotherhood of Steel won't let anyone near this gold mine. The Order will take everything valuable for itself and transport it to the main base.}
+{241}{}{¸ÖÌúĞÖµÜ»á²»»áÈÃÈÎºÎÈË¿¿½üÕâ¸ö½ğ¿ó¡£ÆïÊ¿ÍÅ½«´ø×ßÒ»ÇĞÓĞ¼ÛÖµµÄ¶«Î÷£¬²¢½«ÆäÔËËÍµ½Ö÷»ùµØ¡£}
+### {242}{}{The Ghouls will be left with mere crumbs. Over time, people will forget about them. And then the Dayglow will live an ordinary dull life.}
+{242}{}{Ê³Ê¬¹íÖ»Ê£ÏÂÃæ°üĞ¼¡£Ëæ×ÅÊ±¼äµÄÍÆÒÆ£¬ÈËÃÇ»áÍü¼ÇËûÃÇ¡£È»ºó£¬³¯Ï¼½«¹ı×ÅÆ½·²¶ø·¦Î¶µÄÉú»î¡£}
 
-{250}{}{Of course, there will be great strife among the ghouls over the rights to the fragments of the Old World.}
-{251}{}{Without their leaders, they will need a lot of time to find a compromise of forces and interests. It will be a period of chaos and confusion. Including in the north, in human settlements.}
-{252}{}{Some of the pre—war stuff will fall into good hands, some into bad hands. Ghouls will get the least. But they are not used to it. The Dayglow will be the same as the Necropolis was before the ghouls left there. Apparently, this is their fate.}
+### {250}{}{Of course, there will be great strife among the ghouls over the rights to the fragments of the Old World.}
+{250}{}{µ±È»£¬Ê³Ê¬¹íÖ®¼ä»áÒòÎª¾ÉÊÀ½çËéÆ¬µÄÈ¨Àû¶ø·¢Éú¾Ş´óµÄ³åÍ»¡£}
+### {251}{}{Without their leaders, they will need a lot of time to find a compromise of forces and interests. It will be a period of chaos and confusion. Including in the north, in human settlements.}
+{251}{}{Èç¹ûÃ»ÓĞËûÃÇµÄÁìµ¼ÈË£¬ËûÃÇ½«ĞèÒª´óÁ¿Ê±¼äÀ´ÕÒµ½Á¦Á¿ºÍÀûÒæµÄÍ×Ğ­¡£Õâ½«ÊÇÒ»¸ö»ìÂÒºÍ»ìÂÒµÄÊ±ÆÚ¡£°üÀ¨ÔÚ±±·½£¬ÔÚÈËÀà×¡Çø¡£}
+### {252}{}{Some of the pre?war stuff will fall into good hands, some into bad hands. Ghouls will get the least. But they are not used to it. The Dayglow will be the same as the Necropolis was before the ghouls left there. Apparently, this is their fate.}
+{252}{}{Ò»Ğ©?Õ½ÕùÎï×Ê»áÂäÈëºÃÈËÖ®ÊÖ£¬ÓĞĞ©»áÂäÈë»µÈËÖ®ÊÖ¡£Ê³Ê¬¹í»áµÃµ½×îÉÙ¡£µ«ËûÃÇ»¹²»Ï°¹ß¡£Êï¹â½«ºÍÊ³Ê¬¹íÀë¿ªÖ®Ç°µÄÄ¹µØÒ»Ñù¡£ÏÔÈ»£¬Õâ¾ÍÊÇËûÃÇµÄÃüÔË¡£}
 
-{260}{}{Well. My business here is over. Yours probably are, too. It was good to see you. Adios, amigo.}
-{261}{}{Goodbye, stranger.}
+### {260}{}{Well. My business here is over. Yours probably are, too. It was good to see you. Adios, amigo.}
+{260}{}{ºÃÎÒÔÚÕâÀïµÄÉúÒâ½áÊøÁË¡£ÄãµÄ¿ÉÄÜÒ²ÊÇ¡£ºÜ¸ßĞË¼ûµ½Äã¡£ÔÙ¼û£¬ÅóÓÑ¡£}
+### {261}{}{Goodbye, stranger.}
+{261}{}{ÔÙ¼û£¬Ä°ÉúÈË¡£}

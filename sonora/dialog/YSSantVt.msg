@@ -1,6 +1,11 @@
-{100}{}{in front of you is a valve of qi}
-{101}{}{you see the old ventilation.}
+### {100}{}{in front of you is a valve of qi}
+{100}{}{ÄãÃæÇ°ÊÇÆøµÄ·§ÃÅ}
+### {101}{}{you see the old ventilation.}
+{101}{}{Äã¿´µ½ÁË¾ÉµÄÍ¨·çÏµÍ³¡£}
 
-{110}{}{Theÿqiÿ is not working. Th it can be repaired.}
-{111}{}{untilÿqiÿ buzzing and Trÿsetsÿ, but still cools the room.}
-{112}{}{you got to fix the fanÿtion to the delight of postoÿlizam and administrator.}
+### {110}{}{The?qi? is not working. Th it can be repaired.}
+{110}{}{Õâ¸ö?Æø? ²»Æğ×÷ÓÃ¡£Ëü¿ÉÒÔĞŞÀí¡£}
+### {111}{}{until?qi? buzzing and Tr?sets?, but still cools the room.}
+{111}{}{Ö±µ½?Æø? ÎËÎËÉùºÍTr?Ì×?, µ«ÈÔÈ»Ê¹·¿¼ä±äÀä¡£}
+### {112}{}{you got to fix the fan?tion to the delight of posto?lizam and administrator.}
+{112}{}{ÄãµÃ°Ñ·çÉÈĞŞºÃ?Áî²¨Ë¹ÌØ¸ßĞËµÄÊÂ?lizamºÍ¹ÜÀíÔ±¡£}

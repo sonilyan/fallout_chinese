@@ -1,110 +1,213 @@
-{100}{}{You see Edward.}
-{101}{}{Here is the owner of a local drinking establishment. He is wearing a once white apron and a cap.}
-{102}{}{Not interested.}
+### {100}{}{You see Edward.}
+{100}{}{Äã¿´µ½°®µÂ»ªÁË¡£}
+### {101}{}{Here is the owner of a local drinking establishment. He is wearing a once white apron and a cap.}
+{101}{}{ÕâÊÇµ±µØÒ»¼Ò¾Æ°ÉµÄÀÏ°å¡£Ëû´©×ÅÒ»ÌõÔø¾­µÄ°×É«Î§È¹ºÍÒ»¶¥Ã±×Ó¡£}
+### {102}{}{Not interested.}
+{102}{}{²»¸ĞĞËÈ¤¡£}
 
-{200}{}{Hello... Oh, man!}
-{201}{}{Exactly. Is this abnormal?}
-{202}{}{Uh, it looks like I don't belong here. So far...}
-{203}{}{Don't get me wrong, but... Don't you know that this is a city of dead people? We even raise the prices to the normies so that they don't stay here.}
-{204}{}{I know. Don't worry, I won't disturb your glorious company.}
-{205}{}{Just get me a drink, you fucking racist.}
-{206}{}{Whatever you say.}
-{207}{}{Clever. What's your name?}
-{208}{}{Edward, sir.}
-{1208}{}{Edward, ma'am.}
-{209}{}{Okay, Edward. Show me what you have for lunch.}
-{210}{}{Here is the menu, and here are the takeaway items.}
-{211}{}{Thank you.}
-{212}{}{What do you want, friend?}
-{1212}{}{What do you want, girlfriend?}
-{213}{}{What do you want, smooth face?}
-{214}{}{Perhaps nothing more.}
-{215}{}{Show me the menu.}
-{216}{}{Come in, don't be shy. Everyone has their own here! Here we do not tolerate normics here and we double the prices. And the doors are always open to mutants.}
-{217}{}{Thank you for the warm welcome. I }
-{218}{}{. What's your name?}
-{219}{}{I haven't agreed to join our club yet. Who are you anyway?}
-{1219}{}{I haven't agreed to join our club yet. Who are you anyway?}
+### {200}{}{Hello... Oh, man!}
+{200}{}{ÄãºÃÅ¶£¬»ï¼Æ£¡}
+### {201}{}{Exactly. Is this abnormal?}
+{201}{}{È·ÇĞµØÕâ²»Õı³£Âğ£¿}
+### {202}{}{Uh, it looks like I don't belong here. So far...}
+{202}{}{¿´ÆğÀ´ÎÒ²»ÊôÓÚÕâÀï¡£Ä¿Ç°ÎªÖ¹}
+### {203}{}{Don't get me wrong, but... Don't you know that this is a city of dead people? We even raise the prices to the normies so that they don't stay here.}
+{203}{}{±ğÎó»áÎÒµÄÒâË¼£¬µ«ÊÇ¡£¡£¡£Äã²»ÖªµÀÕâÊÇÒ»×ùËÀÈËÖ®³ÇÂğ£¿ÎÒÃÇÉõÖÁ°Ñ¼Û¸ñÌá¸ßµ½Õı³£Ë®Æ½£¬ÕâÑùËûÃÇ¾Í²»»áÁôÔÚÕâÀïÁË¡£}
+### {204}{}{I know. Don't worry, I won't disturb your glorious company.}
+{204}{}{ÎÒÖªµÀ¡£±ğµ£ĞÄ£¬ÎÒ²»»á´òÈÅÄã¹âÈÙµÄÅã°é¡£}
+### {205}{}{Just get me a drink, you fucking racist.}
+{205}{}{¸øÎÒºÈÒ»±­£¬ÄãÕâ¸ö¸ÃËÀµÄÖÖ×åÖ÷ÒåÕß¡£}
+### {206}{}{Whatever you say.}
+{206}{}{²»¹ÜÄãËµÊ²Ã´¡£}
+### {207}{}{Clever. What's your name?}
+{207}{}{´ÏÃ÷µÄÄã½ĞÊ²Ã´Ãû×Ö£¿}
+### {208}{}{Edward, sir.}
+{208}{}{°®µÂ»ª£¬ÏÈÉú¡£}
+### {1208}{}{Edward, ma'am.}
+{1208}{}{°®µÂ»ª£¬·òÈË¡£}
+### {209}{}{Okay, Edward. Show me what you have for lunch.}
+{209}{}{ºÃµÄ£¬°®µÂ»ª¡£ÈÃÎÒ¿´¿´ÄãÎç²Í³ÔÊ²Ã´¡£}
+### {210}{}{Here is the menu, and here are the takeaway items.}
+{210}{}{ÕâÊÇ²Ëµ¥£¬ÕâÊÇÍâÂô¡£}
+### {211}{}{Thank you.}
+{211}{}{·Ç³£¸ĞĞ»¡£}
+### {212}{}{What do you want, friend?}
+{212}{}{ÄãÏëÒªÊ²Ã´£¬ÅóÓÑ£¿}
+### {1212}{}{What do you want, girlfriend?}
+{1212}{}{ÄãÏëÒªÊ²Ã´£¬Å®ÅóÓÑ£¿}
+### {213}{}{What do you want, smooth face?}
+{213}{}{ÄãÏëÒªÊ²Ã´£¬¹â»¬µÄÁ³£¿}
+### {214}{}{Perhaps nothing more.}
+{214}{}{Ò²ĞíÃ»ÓĞ±ğµÄÁË¡£}
+### {215}{}{Show me the menu.}
+{215}{}{¸øÎÒ¿´²Ëµ¥¡£}
+### {216}{}{Come in, don't be shy. Everyone has their own here! Here we do not tolerate normics here and we double the prices. And the doors are always open to mutants.}
+{216}{}{½øÀ´£¬±ğº¦Ğß¡£ÕâÀïÃ¿¸öÈË¶¼ÓĞ×Ô¼ºµÄ£¡ÔÚÕâÀï£¬ÎÒÃÇ²»ÄÜÈİÈÌÕâÀïµÄ³£Ì¬»¯£¬ÎÒÃÇ½«¼Û¸ñÌá¸ßÒ»±¶¡£´óÃÅ×ÜÊÇÏò±äÖÖÈË³¨¿ª¡£}
+### {217}{}{Thank you for the warm welcome. I }
+{217}{}{Ğ»Ğ»ÄãµÄÈÈÇé»¶Ó­¡£ÎÒ}
+### {218}{}{. What's your name?}
+{218}{}{.Äã½ĞÊ²Ã´Ãû×Ö£¿}
+### {219}{}{I haven't agreed to join our club yet. Who are you anyway?}
+{219}{}{ÎÒ»¹Ã»ÓĞÍ¬Òâ¼ÓÈëÎÒÃÇ¾ãÀÖ²¿¡£Äãµ½µ×ÊÇË­£¿}
+### {1219}{}{I haven't agreed to join our club yet. Who are you anyway?}
+{1219}{}{ÎÒ»¹Ã»ÓĞÍ¬Òâ¼ÓÈëÎÒÃÇ¾ãÀÖ²¿¡£Äãµ½µ×ÊÇË­£¿}
 
-{220}{}{Let's have a chat, Ed?}
-{221}{}{For example, about what?}
-{222}{}{Enough talking. I have to go about my business.}
-{223}{}{Is this a pre-war menu?}
-{224}{}{To the point. What comes with caravans from the north mostly stays in the Old Town. And mere crumbs reach us. That's why I often cook from pre-war products. But we, the undead, like it even more. Oh, nostalgia! That's just one detail missing for the full range of flavors — good old coffee. How can there be a cafe without coffee?}
-{225}{}{It's not fucking fair, Ed. I can look for coffee for you in the ruins.}
-{226}{}{I'm sick of your whining. I'm here for a snack, not for nostalgic experiences.}
-{227}{}{Would you risk it for a can of coffee? Then I will pay triple the price for each jar!}
-{228}{}{Agreed. I'll bring you coffee if I find it.}
-{229}{}{On the other hand, I had no plans to gather on the ruins. But I'll make a note in the Peep-Fight.}
-{230}{}{You're very lucky. I just have one full jar.}
-{231}{}{I have a can of coffee for your cafe.}
-{232}{}{(Opens, sniffs, tastes) What a rich taste! I'll make a pretty good living on this menu. Here's your fee — }
-{233}{}{ hubbucks. Bring more if you find it.}
-{234}{}{Absolutely.}
-{235}{}{Smooth, you've got the wrong place. They don't serve people like you here.}
-{1235}{}{Smooth, you've got the wrong place. They don't serve people like you here.}
-{236}{}{Make an order and get out soon.}
-{237}{}{Well, I'm sorry... Or maybe we will conclude? I'll pay triple the price for each bottle.}
+### {220}{}{Let's have a chat, Ed?}
+{220}{}{ÎÒÃÇÁÄÁÄ°É£¬°£µÂ£¿}
+### {221}{}{For example, about what?}
+{221}{}{ÀıÈç£¬¹ØÓÚÊ²Ã´£¿}
+### {222}{}{Enough talking. I have to go about my business.}
+{222}{}{Ëµ¹»ÁË¡£ÎÒµÃÈ¥×öÎÒµÄÊÂÁË¡£}
+### {223}{}{Is this a pre-war menu?}
+{223}{}{ÕâÊÇÕ½Ç°µÄ²Ëµ¥Âğ£¿}
+### {224}{}{To the point. What comes with caravans from the north mostly stays in the Old Town. And mere crumbs reach us. That's why I often cook from pre-war products. But we, the undead, like it even more. Oh, nostalgia! That's just one detail missing for the full range of flavors ? good old coffee. How can there be a cafe without coffee?}
+{224}{}{ÇĞÖĞÒªº¦¡£À´×Ô±±·½µÄ´óÅñ³µ´ó¶àÍ£ÁôÔÚÀÏ³Ç¡£Ö»ÓĞÃæ°üĞ¼µ½´ïÎÒÃÇÕâÀï¡£Õâ¾ÍÊÇÎªÊ²Ã´ÎÒ¾­³£ÓÃÕ½Ç°µÄ²úÆ·×ö·¹¡£µ«ÎÒÃÇÕâĞ©²»ËÀ×å¸üÏ²»¶Ëü¡£Å¶£¬»³¾É£¡ÕâÖ»ÊÇÈ«ÏµÁĞ¿ÚÎ¶ÖĞÈ±ÉÙµÄÒ»¸öÏ¸½Ú? ºÃµÄÀÏ¿§·È¡£Ã»ÓĞ¿§·ÈÔõÃ´¿ÉÄÜÓĞ¿§·È¹İ£¿}
+### {225}{}{It's not fucking fair, Ed. I can look for coffee for you in the ruins.}
+{225}{}{ÕâËûÂèµÄ²»¹«Æ½£¬°£µÂ¡£ÎÒ¿ÉÒÔÔÚ·ÏĞæÀïÎªÄãÕÒ¿§·È¡£}
+### {226}{}{I'm sick of your whining. I'm here for a snack, not for nostalgic experiences.}
+{226}{}{ÎÒÌÖÑáÄãµÄ±§Ô¹¡£ÎÒÀ´ÕâÀïÊÇÎªÁË³ÔµãĞÄ£¬¶ø²»ÊÇÎªÁË»³¾É¡£}
+### {227}{}{Would you risk it for a can of coffee? Then I will pay triple the price for each jar!}
+{227}{}{ÄãÔ¸ÒâÃ°Õâ¸öÏÕºÈÒ»¹Ş¿§·ÈÂğ£¿È»ºóÎÒ»áÎªÃ¿¸ö¹Ş×ÓÖ§¸¶Èı±¶µÄ¼Û¸ñ£¡}
+### {228}{}{Agreed. I'll bring you coffee if I find it.}
+{228}{}{Í¬Òâ¡£Èç¹ûÎÒÕÒµ½ÁË£¬ÎÒ»á¸øÄãÄÃ¿§·È¡£}
+### {229}{}{On the other hand, I had no plans to gather on the ruins. But I'll make a note in the Peep-Fight.}
+{229}{}{ÁíÒ»·½Ãæ£¬ÎÒÃ»ÓĞ¼Æ»®¾Û¼¯ÔÚ·ÏĞæÉÏ¡£µ«ÎÒ»áÔÚÍµ¿úÕ½ÖĞ¼ÇÏÂ¡£}
+### {230}{}{You're very lucky. I just have one full jar.}
+{230}{}{ÄãºÜĞÒÔË¡£ÎÒÖ»ÓĞÒ»¸öÂú¹Ş×Ó¡£}
+### {231}{}{I have a can of coffee for your cafe.}
+{231}{}{ÎÒÓĞÒ»¹Ş¿§·È¸øÄãµÄ¿§·È¹İ¡£}
+### {232}{}{(Opens, sniffs, tastes) What a rich taste! I'll make a pretty good living on this menu. Here's your fee ? }
+{232}{}{£¨´ò¿ª£¬ÎÅÁËÎÅ£¬³¢ÁË³¢£©¶àÃ´·á¸»µÄÎ¶µÀ£¡ÎÒ»á¿¿Õâ·İ²Ëµ¥¹ıÉÏºÃÈÕ×ÓµÄ¡£ÕâÊÇÄúµÄ·ÑÓÃ?}
+### {233}{}{ hubbucks. Bring more if you find it.}
+{233}{}{ÀÏ¹«¡£Èç¹ûÄãÕÒµ½ÁË£¬´ø¸ü¶à¡£}
+### {234}{}{Absolutely.}
+{234}{}{¾ø¶ÔµØ}
+### {235}{}{Smooth, you've got the wrong place. They don't serve people like you here.}
+{235}{}{Ë³Àû£¬ÄãÕÒ´íµØ·½ÁË¡£ËûÃÇÔÚÕâÀï²»ÎªÏñÄãÕâÑùµÄÈË·şÎñ¡£}
+### {1235}{}{Smooth, you've got the wrong place. They don't serve people like you here.}
+{1235}{}{Ë³Àû£¬ÄãÕÒ´íµØ·½ÁË¡£ËûÃÇÔÚÕâÀï²»ÎªÏñÄãÕâÑùµÄÈË·şÎñ¡£}
+### {236}{}{Make an order and get out soon.}
+{236}{}{ÏÂ¶©µ¥£¬ÂíÉÏÀë¿ª¡£}
+### {237}{}{Well, I'm sorry... Or maybe we will conclude? I'll pay triple the price for each bottle.}
+{237}{}{¶Ô²»Æğ¡£¡£¡£»òÕßÒ²ĞíÎÒÃÇ»áµÃ³ö½áÂÛ£¿Ã¿Æ¿ÎÒÒª¸¶Èı±¶µÄ¼ÛÇ®¡£}
 
-{240}{}{Thanks for the electricity, }
-{241}{}{! It must have been a very dangerous task? Here, take the drugs for radiation sickness. I think this is the best way I can thank you.}
-{242}{}{Thanks, Ed. I'll definitely need this.}
-{243}{}{That's all? Okay, let's at least do this for what it is.}
-{244}{}{Oh, yes, you can also count on a discount. I set other prices for ordinary smooth-skinned people.}
-{245}{}{I just wanted to order something. Show me the menu.}
-{246}{}{It is wonderful. But right now I need more information than nutrition.}
-{247}{}{Thanks for the electricity, }
-{248}{}{! It must have been a very dangerous task? Here, have a drink and lunch on me. And next time I'll give you a discount.}
-{249}{}{}
-{250}{}{Senor Gustavo said you owe me medicine.}
-{251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, friend.}
-{1251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, girlfriend.}
-{252}{}{I need more. Show me what you have for sale?}
-{253}{}{Thanks, Ed. I'll see you later.}
+### {240}{}{Thanks for the electricity, }
+{240}{}{Ğ»Ğ»ÄãµÄµç£¬}
+### {241}{}{! It must have been a very dangerous task? Here, take the drugs for radiation sickness. I think this is the best way I can thank you.}
+{241}{}{£¡ÕâÒ»¶¨ÊÇÒ»Ïî·Ç³£Î£ÏÕµÄÈÎÎñ£¿¸ø£¬·şÓÃÖÎÁÆ·øÉä²¡µÄÒ©Îï¡£ÎÒÏëÕâÊÇÎÒÄÜ¸ĞĞ»ÄãµÄ×îºÃ·½Ê½¡£}
+### {242}{}{Thanks, Ed. I'll definitely need this.}
+{242}{}{Ğ»Ğ»£¬°£µÂ¡£ÎÒ¿Ï¶¨ĞèÒªÕâ¸ö¡£}
+### {243}{}{That's all? Okay, let's at least do this for what it is.}
+{243}{}{½ö´Ë¶øÒÑ£¿ºÃ°É£¬ÈÃÎÒÃÇÖÁÉÙÕâÑù×ö°É¡£}
+### {244}{}{Oh, yes, you can also count on a discount. I set other prices for ordinary smooth-skinned people.}
+{244}{}{Å¶£¬ÊÇµÄ£¬ÄãÒ²¿ÉÒÔÖ¸ÍûÕÛ¿Û¡£ÎÒÎªÆ¤·ô¹â»¬µÄÆÕÍ¨ÈËÉè¶¨ÁËÆäËû¼Û¸ñ¡£}
+### {245}{}{I just wanted to order something. Show me the menu.}
+{245}{}{ÎÒÖ»ÊÇÏëµãµãÊ²Ã´¡£¸øÎÒ¿´²Ëµ¥¡£}
+### {246}{}{It is wonderful. But right now I need more information than nutrition.}
+{246}{}{Ì«°ôÁË¡£µ«ÏÖÔÚÎÒĞèÒª¸ü¶àµÄĞÅÏ¢¶ø²»ÊÇÓªÑø¡£}
+### {247}{}{Thanks for the electricity, }
+{247}{}{Ğ»Ğ»ÄãµÄµç£¬}
+### {248}{}{! It must have been a very dangerous task? Here, have a drink and lunch on me. And next time I'll give you a discount.}
+{248}{}{£¡ÕâÒ»¶¨ÊÇÒ»Ïî·Ç³£Î£ÏÕµÄÈÎÎñ£¿¸ø£¬ÎÒÇëÄãºÈÒ»±­£¬³Ô¶ÙÎç·¹¡£ÏÂ´ÎÎÒ¸øÄãÕÛ¿Û¡£}
+### {249}{}{}
+{249}{}{error : string is empty}
+### {250}{}{Senor Gustavo said you owe me medicine.}
+{250}{}{¹ÅË¹ËşÎÖÏÈÉúËµÄãÇ·ÎÒÒ©¡£}
+### {251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, friend.}
+{251}{}{ÎÒ¸øÄãRadawaye£¬rad-x£¬Ò»ÖÖ½âÒ©ºÍĞË·Ü¼Á¡£µ«Ãâ·ÑµÄÄÌÀÒÖ»ÊÇ×°ÔÚ²¶ÊóÆ÷Àï¡£Äã½«²»µÃ²»Îª´©Ô½Ê¥µØÑÇ¸çµÄ·ÏĞæ¸¶³ö¸ß°ºµÄ´ú¼Û¡£ÎÒÏ£ÍûÄãÄÜ´¦ÀíºÃ¡£×£ÄãºÃÔË£¬ÅóÓÑ¡£}
+### {1251}{}{I'll give you Radawaye, rad-x, an antidote and a stimulant. But free cheese is only in a mousetrap. You will have to pay dearly for crossing the ruins of San Diego. I hope you can handle it. Good luck, girlfriend.}
+{1251}{}{ÎÒ¸øÄãRadawaye£¬rad-x£¬Ò»ÖÖ½âÒ©ºÍĞË·Ü¼Á¡£µ«Ãâ·ÑµÄÄÌÀÒÖ»ÊÇ×°ÔÚ²¶ÊóÆ÷Àï¡£Äã½«²»µÃ²»Îª´©Ô½Ê¥µØÑÇ¸çµÄ·ÏĞæ¸¶³ö¸ß°ºµÄ´ú¼Û¡£ÎÒÏ£ÍûÄãÄÜ´¦ÀíºÃ¡£×£ÄãºÃÔË£¬Å®ÅóÓÑ¡£}
+### {252}{}{I need more. Show me what you have for sale?}
+{252}{}{ÎÒĞèÒª¸ü¶à¡£¸øÎÒ¿´¿´ÄãÓĞÊ²Ã´´ıÊÛµÄ£¿}
+### {253}{}{Thanks, Ed. I'll see you later.}
+{253}{}{Ğ»Ğ»£¬°£µÂ¡£ÎÒÃÇ´ı»á¶ù¼û¡£}
 
-{260}{}{I need to exchange old money for caps.}
-{261}{}{I will redeem this money for }
-{262}{}{ caps. Deal?}
-{263}{}{Too cheap. Sorry to bother you.}
-{264}{}{No need. Better give me something edible.}
-{265}{}{[Exchange 1 dollar]}
-{266}{}{[Exchange $2]}
-{267}{}{[Exchange 3 dollars]}
-{268}{}{[Exchange $4]}
-{269}{}{[Exchange $5]}
-{270}{}{[Exchange 10 dollars]}
-{271}{}{[Exchange ALL available dollars]}
-{272}{}{What is it, a hole in your pocket? It happens.}
-{273}{}{Yes, it is...}
-{274}{}{Please.}
-{275}{}{Thank you.}
-{276}{}{[Exchange money for caps.]}
-{277}{}{[Refuse and leave.]}
+### {260}{}{I need to exchange old money for caps.}
+{260}{}{ÎÒĞèÒªÓÃ¾ÉÇ®»»Ã±×Ó¡£}
+### {261}{}{I will redeem this money for }
+{261}{}{ÎÒ½«ÓÃÕâ±ÊÇ®Êê»Ø}
+### {262}{}{ caps. Deal?}
+{262}{}{Ã±×Ó¡£´¦Àí}
+### {263}{}{Too cheap. Sorry to bother you.}
+{263}{}{Ì«±ãÒËÁË¡£ºÜ±§Ç¸´òÈÅÄã¡£}
+### {264}{}{No need. Better give me something edible.}
+{264}{}{²»ĞèÒª¡£×îºÃ¸øÎÒÒ»Ğ©¿ÉÊ³ÓÃµÄ¡£}
+### {265}{}{[Exchange 1 dollar]}
+{265}{}{[¶Ò»»1ÃÀÔª]}
+### {266}{}{[Exchange $2]}
+{266}{}{[¶Ò»»2ÃÀÔª]}
+### {267}{}{[Exchange 3 dollars]}
+{267}{}{[¶Ò»»3ÃÀÔª]}
+### {268}{}{[Exchange $4]}
+{268}{}{[¶Ò»»4ÃÀÔª]}
+### {269}{}{[Exchange $5]}
+{269}{}{[¶Ò»»5ÃÀÔª]}
+### {270}{}{[Exchange 10 dollars]}
+{270}{}{[¶Ò»»10ÃÀÔª]}
+### {271}{}{[Exchange ALL available dollars]}
+{271}{}{[¶Ò»»ËùÓĞ¿ÉÓÃÃÀÔª]}
+### {272}{}{What is it, a hole in your pocket? It happens.}
+{272}{}{ËüÊÇÊ²Ã´£¬Äã¿Ú´üÀïµÄÒ»¸ö¶´£¿Ëü·¢ÉúÁË¡£}
+### {273}{}{Yes, it is...}
+{273}{}{ÊÇµÄ£¬ÊÇ¡£¡£¡£}
+### {274}{}{Please.}
+{274}{}{Çë}
+### {275}{}{Thank you.}
+{275}{}{·Ç³£¸ĞĞ»¡£}
+### {276}{}{[Exchange money for caps.]}
+{276}{}{[ÓÃÇ®»»ÉÏÏŞ¡£]}
+### {277}{}{[Refuse and leave.]}
+{277}{}{[¾Ü¾ø²¢Àë¿ª¡£]}
 
-{280}{}{Is there a job for me?}
-{281}{}{I can't offer anything serious. But you can take the groceries to the workers at the dam.}
-{282}{}{No need. I don't want to do such a small thing.}
-{283}{}{Good. Give me the package.}
-{284}{}{There are five boxes of TV dinner with food for five people. Give it to each of them. And you need to make it in one day. It will definitely be faster for you than for ghouls. Yes, and don't eat it on the way. Otherwise the ghouls on the dam will be VERY unhappy.}
-{285}{}{Okay.}
-{286}{}{All the customers at the dam have received their orders.}
-{287}{}{Thank you very much. Here's your salary.}
-{288}{}{Bye.}
-{289}{}{Thank you very much. Here's your salary. Oh, and by the way, I have leftover food here. Here, take it on the house.}
-{290}{}{Thank you.}
-{291}{}{Well, yes, what else can you appease me, if not objects? Bye, Ed.}
+### {280}{}{Is there a job for me?}
+{280}{}{ÓĞ¹¤×÷¸øÎÒÂğ£¿}
+### {281}{}{I can't offer anything serious. But you can take the groceries to the workers at the dam.}
+{281}{}{ÎÒ²»ÄÜÌá¹©ÈÎºÎÑÏËàµÄ¶«Î÷¡£µ«ÊÇÄã¿ÉÒÔ°ÑÊ³Æ·ÔÓ»õËÍµ½´ó°ÓµÄ¹¤ÈËÄÇÀï¡£}
+### {282}{}{No need. I don't want to do such a small thing.}
+{282}{}{²»ĞèÒª¡£ÎÒ²»Ïë×öÕâÃ´Ğ¡µÄÊÂ¡£}
+### {283}{}{Good. Give me the package.}
+{283}{}{ºÃµÄ°Ñ°ü¹ü¸øÎÒ¡£}
+### {284}{}{There are five boxes of TV dinner with food for five people. Give it to each of them. And you need to make it in one day. It will definitely be faster for you than for ghouls. Yes, and don't eat it on the way. Otherwise the ghouls on the dam will be VERY unhappy.}
+{284}{}{ÓĞÎåºĞµçÊÓÍí²Í£¬ÀïÃæÓĞÎå¸öÈËµÄÊ³Îï¡£¸øËûÃÇÃ¿¸öÈË¡£ÄãĞèÒªÔÚÒ»ÌìÄÚÍê³É¡£Õâ¶ÔÄãÀ´Ëµ¿Ï¶¨±È¶ÔÊ³Ê¬¹íÀ´Ëµ¸ü¿ì¡£ÊÇµÄ£¬²»ÒªÔÚÂ·ÉÏ³Ô¡£·ñÔò´ó°ÓÉÏµÄÊ³Ê¬¹í»á·Ç³£²»¸ßĞË¡£}
+### {285}{}{Okay.}
+{285}{}{¿ÉÒÔ}
+### {286}{}{All the customers at the dam have received their orders.}
+{286}{}{´ó°ÓÉÏµÄËùÓĞ¹Ë¿Í¶¼ÊÕµ½ÁË¶©µ¥¡£}
+### {287}{}{Thank you very much. Here's your salary.}
+{287}{}{·Ç³£¸ĞĞ»¡£ÕâÊÇÄãµÄ¹¤×Ê¡£}
+### {288}{}{Bye.}
+{288}{}{ÔÙ¼û}
+### {289}{}{Thank you very much. Here's your salary. Oh, and by the way, I have leftover food here. Here, take it on the house.}
+{289}{}{·Ç³£¸ĞĞ»¡£ÕâÊÇÄãµÄ¹¤×Ê¡£Å¶£¬Ë³±ãËµÒ»¾ä£¬ÎÒÕâÀïÓĞÊ£µÄÊ³Îï¡£¸ø£¬°ÑËü´øµ½·¿×ÓÉÏ¡£}
+### {290}{}{Thank you.}
+{290}{}{·Ç³£¸ĞĞ»¡£}
+### {291}{}{Well, yes, what else can you appease me, if not objects? Bye, Ed.}
+{291}{}{ºÃ°É£¬ÊÇµÄ£¬Èç¹û²»ÊÇ·´¶Ô£¬Äã»¹ÄÜ°²¸§ÎÒÊ²Ã´£¿ÔÙ¼û£¬Ed¡£}
 
-{292}{}{Do you know who owns the movie "Deep Throat" here?}
-{293}{}{I know. This is Raymond. But he will never part with his favorite movie. Although it seems to me that he appreciates just a box with a disc and has never even watched the film itself. Yes, I warn you — do not take the disk from him, he will be beside himself with rage and will raise everyone in the city.}
-{294}{}{Thanks for the warning.}
+### {292}{}{Do you know who owns the movie "Deep Throat" here?}
+{292}{}{ÄãÖªµÀÕâÀïµÄµçÓ°¡¶ºíÁüÉî´¦¡·ÊÇË­µÄÂğ£¿}
+### {293}{}{I know. This is Raymond. But he will never part with his favorite movie. Although it seems to me that he appreciates just a box with a disc and has never even watched the film itself. Yes, I warn you ? do not take the disk from him, he will be beside himself with rage and will raise everyone in the city.}
+{293}{}{ÎÒÖªµÀ¡£ÕâÊÇÀ×ÃÉµÂ¡£µ«ËûÓÀÔ¶²»»á·ÅÆúËû×îÏ²»¶µÄµçÓ°¡£¾¡¹ÜÔÚÎÒ¿´À´£¬ËûÖ»ÊÇĞÀÉÍÒ»¸ö´ø¹âÅÌµÄºĞ×Ó£¬ÉõÖÁ´ÓÎ´¿´¹ıµçÓ°±¾Éí¡£ÊÇµÄ£¬ÎÒ¾¯¸æÄã? ²»Òª´ÓËûÄÇÀïÄÃ×ß¹âÅÌ£¬Ëû»á´ó·¢À×öª£¬»á°Ñ³ÇÀïµÄÈË¶¼Ñø´óµÄ¡£}
+### {294}{}{Thanks for the warning.}
+{294}{}{Ğ»Ğ»ÄãµÄ¾¯¸æ¡£}
 
-{295}{}{Hey, Ed, you know, in the ruins I came across a food processor with your name on the form.}
-{296}{}{Well, finally she was found! She was supposed to be brought by a messenger robot, but something happened to him. You know, this processor has no price! We're dying here without proper food. And the processor would fix this problem quite well. So you're saying you have it?}
-{297}{}{No, uh, I left it where I found it. Sorry.}
-{298}{}{Sorry. Very sorry. We need this processor! I beg you, bring it. I'll give you 200 caps.}
-{299}{}{Well, if I'm around.}
-{300}{}{OK.}
-{301}{}{Yes, here it is.}
-{302}{}{Oh, you're saving us! Hey, guys, look, this smooth-skinned guy did a great job for us. Thank him!}
-{303}{}{Glad to help. Maybe, Ed.}
-{304}{}{Damn, but De-Santi would give me more... Oh, I'm talking about something else, nevermind. Uh, bye.}
+### {295}{}{Hey, Ed, you know, in the ruins I came across a food processor with your name on the form.}
+{295}{}{ºÙ£¬Ed£¬ÄãÖªµÀ£¬ÔÚ·ÏĞæÖĞ£¬ÎÒÓöµ½ÁËÒ»¸öÊ³Æ·¼Ó¹¤»ú£¬±í¸ñÉÏÓĞÄãµÄÃû×Ö¡£}
+### {296}{}{Well, finally she was found! She was supposed to be brought by a messenger robot, but something happened to him. You know, this processor has no price! We're dying here without proper food. And the processor would fix this problem quite well. So you're saying you have it?}
+{296}{}{ÖÕÓÚÕÒµ½ËıÁË£¡Ëı±¾Ó¦¸ÃÊÇÓÉÒ»¸öĞÅÊ¹»úÆ÷ÈË´øÀ´µÄ£¬µ«Ëû³öÁËµãÊÂ¡£ÄãÖªµÀ£¬Õâ¸ö´¦ÀíÆ÷Ã»ÓĞ¼Û¸ñ£¡Èç¹ûÃ»ÓĞºÏÊÊµÄÊ³Îï£¬ÎÒÃÇ»áËÀµÄ¡£´¦ÀíÆ÷»áºÜºÃµØ½â¾öÕâ¸öÎÊÌâ¡£ÄãÊÇËµÄãÓĞ£¿}
+### {297}{}{No, uh, I left it where I found it. Sorry.}
+{297}{}{²»£¬ÎÒ°ÑËü·ÅÔÚÎÒÕÒµ½µÄµØ·½ÁË¡£¶Ô²»Æğ¡£}
+### {298}{}{Sorry. Very sorry. We need this processor! I beg you, bring it. I'll give you 200 caps.}
+{298}{}{ºÜ±§Ç¸·Ç³£±§Ç¸¡£ÎÒÃÇĞèÒªÕâ¸ö´¦ÀíÆ÷£¡ÎÒÇóÄã£¬´øÉÏËü¡£ÎÒ¸øÄã200¶¥Ã±×Ó¡£}
+### {299}{}{Well, if I'm around.}
+{299}{}{ºÃ°É£¬Èç¹ûÎÒÔÚµÄ»°¡£}
+### {300}{}{OK.}
+{300}{}{ºÃ°¡}
+### {301}{}{Yes, here it is.}
+{301}{}{ÊÇµÄ£¬ÔÚÕâ¶ù¡£}
+### {302}{}{Oh, you're saving us! Hey, guys, look, this smooth-skinned guy did a great job for us. Thank him!}
+{302}{}{Å¶£¬ÄãÔÚ¾ÈÎÒÃÇ£¡ºÙ£¬»ï¼ÆÃÇ£¬¿´£¬Õâ¸öÆ¤·ô¹â»¬µÄ¼Ò»ïÎªÎÒÃÇ×öµÃºÜºÃ¡£Ğ»Ğ»Ëû£¡}
+### {303}{}{Glad to help. Maybe, Ed.}
+{303}{}{ºÜÀÖÒâ°ïÃ¦¡£Ò²Ğí°É£¬Ed¡£}
+### {304}{}{Damn, but De-Santi would give me more... Oh, I'm talking about something else, nevermind. Uh, bye.}
+{304}{}{¸ÃËÀ£¬µ«µÂÉ£µÙ»á¸øÎÒ¸ü¶à¡£¡£¡£Å¶£¬ÎÒËµµÄÊÇ±ğµÄ£¬Ã»¹ØÏµ¡£ÔÙ¼û¡£}

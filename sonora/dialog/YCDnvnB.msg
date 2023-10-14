@@ -1,52 +1,102 @@
-{100}{}{This is Jane.}
-{101}{}{In front of you is a dead woman in an ordinary pre-war dress.}
-{102}{}{Thanks for saving Donovan. We were already preparing for the worst.}
-{103}{}{Sorry, I'm too excited right now.}
+### {100}{}{This is Jane.}
+{100}{}{ÕâÊÇ¼ò¡£}
+### {101}{}{In front of you is a dead woman in an ordinary pre-war dress.}
+{101}{}{ÄãÃæÇ°ÊÇÒ»¸ö´©×ÅÆÕÍ¨Õ½Ç°·ş×°µÄËÀÈ¥µÄÅ®ÈË¡£}
+### {102}{}{Thanks for saving Donovan. We were already preparing for the worst.}
+{102}{}{Ğ»Ğ»Äã¾ÈÁË¶àÅµÍò¡£ÎÒÃÇÒÑ¾­×öºÃÁË×î»µµÄ´òËã¡£}
+### {103}{}{Sorry, I'm too excited right now.}
+{103}{}{¶Ô²»Æğ£¬ÎÒÏÖÔÚÌ«ĞË·ÜÁË¡£}
 
-{200}{}{(Jane)... Frank, I feel like something's happened to him. He would have been back long ago... Oh, we're being overheard.}
-{1200}{}{(Frank)... I'm telling you, Jane, he's in trouble! Otherwise, he would have returned long ago... Hey, are you eavesdropping on us, smooth face?}
-{201}{}{What do you seem excited about?}
-{202}{}{(Frank) None of your business, man. This is our dead business.}
-{203}{}{[Next]}
-{204}{}{(Jane) Oh, sorry Frank, he's on edge right now.}
-{205}{}{So what happened?}
-{206}{}{I forgive you this time. Now tell me what the hell it means.}
-{207}{}{(Jane) We lost our friend, Donovan. He went to San Ysidro and didn't come back. No one saw him in San Isidro either.}
-{208}{}{[Next]}
-{209}{}{(Frank) Jane, what the hell are you talking about in front of that smooth face? We've had enough of the smooth-faced ones. I wouldn't be surprised if Donovan was a victim of scavengers.}
-{210}{}{[Next]}
-{211}{}{(Jane) Frank, we need help, isn't it obvious?}
-{212}{}{[Next]}
-{213}{}{(Frank) Hmm, listen, smooth face, don't you have other things to do? Either help us, or go somewhere. I don't want to mess with people. Is that clear? But we could use some help.}
-{214}{}{I'll help you. Whether you want it or not. Just to show you that not all people are bad.}
-{215}{}{(Jane) Oh, how great! You see, Frank, you can always negotiate. Thank you, man. We will be waiting for news from you.}
-{216}{}{Okay. See you later.}
-{217}{}{I really don't care about your problems. Be there.}
-{218}{}{(Frank) Hey, hey, hey, don't be in such a hurry! Just in case, keep in mind that our friend Donovan is somewhere in the ruins on the way to San Ysidro. If you meet him... well, at least remind him of us, okay?}
-{219}{}{Okay. See you later.}
-{220}{}{(Jane)... Frank, I feel like something's happened to him. He would have been back long ago... Oh, we're being overheard.}
-{221}{}{[Next]}
-{222}{}{(Frank) Hmm. I don't remember your face. But it's still good to see you. Will you give us some time?}
-{223}{}{What do you need from me?}
-{224}{}{(Jane) We lost our friend, Donovan. He went to San Ysidro and didn't come back. No one saw him in San Ysidro either.}
-{225}{}{Let me guess — and you'll ask me to find him?}
-{226}{}{And you're smart for a ghoul. Anyway, we need help. Donovan is somewhere in the ruins on his way to San Ysidro. If you meet him... Well, try not to leave in trouble, okay?}
-{227}{}{Okay. See you later.}
+### {200}{}{(Jane)... Frank, I feel like something's happened to him. He would have been back long ago... Oh, we're being overheard.}
+{200}{}{£¨¼ò£©¡£¡£¡£¸¥À¼¿Ë£¬ÎÒ¾õµÃËûºÃÏñ³öÊÂÁË¡£ËûÔç¾Í»ØÀ´ÁË¡£¡£¡£Å¶£¬ÎÒÃÇ±»ÍµÌıµ½ÁË¡£}
+### {1200}{}{(Frank)... I'm telling you, Jane, he's in trouble! Otherwise, he would have returned long ago... Hey, are you eavesdropping on us, smooth face?}
+{1200}{}{£¨¸¥À¼¿Ë£©¡£¡£¡£ÎÒ¸æËßÄã£¬¼ò£¬ËûÓĞÂé·³ÁË£¡·ñÔò£¬ËûÔç¾Í»ØÀ´ÁË¡£¡£¡£ºÙ£¬ÄãÔÚÍµÌıÎÒÃÇÂğ£¬¹â»¬µÄÁ³£¿}
+### {201}{}{What do you seem excited about?}
+{201}{}{ÄãËÆºõ¶ÔÊ²Ã´¸Ğµ½ĞË·Ü£¿}
+### {202}{}{(Frank) None of your business, man. This is our dead business.}
+{202}{}{£¨¸¥À¼¿Ë£©²»¹ØÄãµÄÊÂ£¬»ï¼Æ¡£ÕâÊÇÎÒÃÇµÄËÀ»î¡£}
+### {203}{}{[Next]}
+{203}{}{[ÏÂÒ»¸ö]}
+### {204}{}{(Jane) Oh, sorry Frank, he's on edge right now.}
+{204}{}{£¨¼ò£©àŞ£¬¶Ô²»Æğ£¬¸¥À¼¿Ë£¬ËûÏÖÔÚºÜ½ôÕÅ¡£}
+### {205}{}{So what happened?}
+{205}{}{ÄÇÃ´·¢ÉúÁËÊ²Ã´£¿}
+### {206}{}{I forgive you this time. Now tell me what the hell it means.}
+{206}{}{Õâ´ÎÎÒÔ­ÁÂÄã¡£ÏÖÔÚ¸æËßÎÒÕâµ½µ×ÒâÎ¶×ÅÊ²Ã´¡£}
+### {207}{}{(Jane) We lost our friend, Donovan. He went to San Ysidro and didn't come back. No one saw him in San Isidro either.}
+{207}{}{£¨¼ò£©ÎÒÃÇÊ§È¥ÁËÅóÓÑ¶àÅµÍò¡£ËûÈ¥ÁËÊ¥ÒÁÎ÷µÂÂŞ£¬Ã»ÓĞ»ØÀ´¡£ÔÚÊ¥ÒÁÎ÷µÂÂŞÒ²Ã»ÈË¿´¼ûËû¡£}
+### {208}{}{[Next]}
+{208}{}{[ÏÂÒ»¸ö]}
+### {209}{}{(Frank) Jane, what the hell are you talking about in front of that smooth face? We've had enough of the smooth-faced ones. I wouldn't be surprised if Donovan was a victim of scavengers.}
+{209}{}{£¨¸¥À¼¿Ë£©¼ò£¬ÄãÔÚÄÇÕÅ¹â»¬µÄÁ³Ç°ËµÊ²Ã´£¿ÎÒÃÇÒÑ¾­ÊÜ¹»ÁËÄÇĞ©±íÃæ¹â»¬µÄ¡£Èç¹û¶àÅµÍòÊÇÊ°»ÄÕßµÄÊÜº¦Õß£¬ÎÒ²»»á¸Ğµ½¾ªÑÈ¡£}
+### {210}{}{[Next]}
+{210}{}{[ÏÂÒ»¸ö]}
+### {211}{}{(Jane) Frank, we need help, isn't it obvious?}
+{211}{}{£¨¼ò£©¸¥À¼¿Ë£¬ÎÒÃÇĞèÒª°ïÖú£¬Õâ²»ÊÇºÜÃ÷ÏÔÂğ£¿}
+### {212}{}{[Next]}
+{212}{}{[ÏÂÒ»¸ö]}
+### {213}{}{(Frank) Hmm, listen, smooth face, don't you have other things to do? Either help us, or go somewhere. I don't want to mess with people. Is that clear? But we could use some help.}
+{213}{}{£¨¸¥À¼¿Ë£©àÅ£¬Ìı×Å£¬¹â»¬µÄÁ³£¬ÄãÄÑµÀÃ»ÓĞÆäËûÊÂÇéÒª×öÂğ£¿ÒªÃ´°ïÖúÎÒÃÇ£¬ÒªÃ´È¥Ä³¸öµØ·½¡£ÎÒ²»ÏëÈÇÈË¡£Çå³şÂğ£¿µ«ÎÒÃÇĞèÒªÒ»Ğ©°ïÖú¡£}
+### {214}{}{I'll help you. Whether you want it or not. Just to show you that not all people are bad.}
+{214}{}{ÎÒ»á°ïÄãµÄ¡£²»¹ÜÄãÔ¸²»Ô¸Òâ¡£Ö»ÊÇÏë¸æËßÄã£¬²¢²»ÊÇËùÓĞµÄÈË¶¼ÊÇ»µÈË¡£}
+### {215}{}{(Jane) Oh, how great! You see, Frank, you can always negotiate. Thank you, man. We will be waiting for news from you.}
+{215}{}{£¨¼ò£©Å¶£¬Ì«°ôÁË£¡Äã¿´£¬¸¥À¼¿Ë£¬Äã×ÜÊÇ¿ÉÒÔÌ¸ÅĞµÄ¡£Ğ»Ğ»Äã£¬»ï¼Æ¡£ÎÒÃÇ»áµÈÄãµÄÏûÏ¢¡£}
+### {216}{}{Okay. See you later.}
+{216}{}{¿ÉÒÔ»ØÍ·¼û¡£}
+### {217}{}{I really don't care about your problems. Be there.}
+{217}{}{ÎÒÕæµÄ²»ÔÚºõÄãµÄÎÊÌâ¡£ÔÚÄÇÀï¡£}
+### {218}{}{(Frank) Hey, hey, hey, don't be in such a hurry! Just in case, keep in mind that our friend Donovan is somewhere in the ruins on the way to San Ysidro. If you meet him... well, at least remind him of us, okay?}
+{218}{}{£¨¸¥À¼¿Ë£©ºÙ£¬ºÙ£¬ºÙ²»ÒªÕâÃ´×Å¼±£¡ÒÔ·ÀÍòÒ»£¬Çë¼Ç×¡£¬ÎÒÃÇµÄÅóÓÑ¶àÅµÍòÔÚÈ¥Ê¥ÒÁÎ÷µÂÂŞµÄÂ·ÉÏ¾ÍÔÚ·ÏĞæÖĞ¡£Èç¹ûÄãÓöµ½Ëû¡£¡£¡£ºÃ°É£¬ÖÁÉÙÈÃËûÏëÆğÎÒÃÇ£¬ºÃÂğ£¿}
+### {219}{}{Okay. See you later.}
+{219}{}{¿ÉÒÔ»ØÍ·¼û¡£}
+### {220}{}{(Jane)... Frank, I feel like something's happened to him. He would have been back long ago... Oh, we're being overheard.}
+{220}{}{£¨¼ò£©¡£¡£¡£¸¥À¼¿Ë£¬ÎÒ¾õµÃËûºÃÏñ³öÊÂÁË¡£ËûÔç¾Í»ØÀ´ÁË¡£¡£¡£Å¶£¬ÎÒÃÇ±»ÍµÌıµ½ÁË¡£}
+### {221}{}{[Next]}
+{221}{}{[ÏÂÒ»¸ö]}
+### {222}{}{(Frank) Hmm. I don't remember your face. But it's still good to see you. Will you give us some time?}
+{222}{}{£¨¸¥À¼¿Ë£©àÅ£¬ÎÒ²»¼ÇµÃÄãµÄÁ³ÁË¡£µ«»¹ÊÇºÜ¸ßĞË¼ûµ½Äã¡£ÄãÄÜ¸øÎÒÃÇÒ»Ğ©Ê±¼äÂğ£¿}
+### {223}{}{What do you need from me?}
+{223}{}{ÄãĞèÒªÎÒ×öÊ²Ã´£¿}
+### {224}{}{(Jane) We lost our friend, Donovan. He went to San Ysidro and didn't come back. No one saw him in San Ysidro either.}
+{224}{}{£¨¼ò£©ÎÒÃÇÊ§È¥ÁËÅóÓÑ¶àÅµÍò¡£ËûÈ¥ÁËÊ¥ÒÁÎ÷µÂÂŞ£¬Ã»ÓĞ»ØÀ´¡£ÔÚÊ¥ÒÁÎ÷µÂÂŞÒ²Ã»ÈË¿´¼ûËû¡£}
+### {225}{}{Let me guess ? and you'll ask me to find him?}
+{225}{}{ÈÃÎÒ²Â²Â? Äã»áÈÃÎÒÈ¥ÕÒËûÂğ£¿}
+### {226}{}{And you're smart for a ghoul. Anyway, we need help. Donovan is somewhere in the ruins on his way to San Ysidro. If you meet him... Well, try not to leave in trouble, okay?}
+{226}{}{ÄãÊÇ¸ö´ÏÃ÷µÄÊ³Ê¬¹í¡£²»¹ÜÔõÑù£¬ÎÒÃÇĞèÒª°ïÖú¡£¶àÅµÍòÔÚÈ¥Ê¥ÒÁÎ÷µÂÂŞµÄÂ·ÉÏÔÚ·ÏĞæÖĞµÄÄ³¸öµØ·½¡£Èç¹ûÄãÓöµ½Ëû¡£¡£¡£ºÃ°É£¬¾¡Á¿²»ÒªÈÇÂé·³Àë¿ª£¬ºÃÂğ£¿}
+### {227}{}{Okay. See you later.}
+{227}{}{¿ÉÒÔ»ØÍ·¼û¡£}
 
-{230}{}{Any news about our friend?}
-{231}{}{Not yet. I'll keep looking.}
-{232}{}{Where do you think he might be?}
-{233}{}{He went to San Ysidro. But I didn't get there and didn't come back. So he could be somewhere along the way.}
-{234}{}{Maybe he just found a case of beer and decided to open it alone?}
-{235}{}{I see. I'll keep looking.}
-{236}{}{What are you talking about? Donovan was the brain of our humble company.  .........}
-{237}{}{I have some bad news. Here's Donovan's body. Donovan is dead.}
-{238}{}{Why didn't you say Donovan was short? No wonder it was so hard to find.}
-{239}{}{(Jane) Oh, my God, Donovan, wake up! (Frank) Donovan, you and your jokes again! Stop fooling around!}
-{240}{}{Em. Are you stupid? He's dead. It couldn't be deader.}
-{241}{}{You will have to accept the truth. The body was torn in half. This is incompatible with life.}
-{242}{}{Look, he just needs to be taken to the doctor. Find Talius in San Ysidro. He'll get Donovan on his feet. We won't do it as fast as you.}
-{243}{}{There's something wrong with your head! Maybe at least this Talius will explain to you that it is impossible to revive a dead person.}
-{244}{}{Are you serious? Well, I hope this will calm you down a little.}
-{245}{}{Don't waste your time! Take Donovan to Talius.}
-{246}{}{Okay, okay.}
+### {230}{}{Any news about our friend?}
+{230}{}{ÓĞ¹ØÓÚÎÒÃÇÅóÓÑµÄÏûÏ¢Âğ£¿}
+### {231}{}{Not yet. I'll keep looking.}
+{231}{}{»¹Ã»ÓĞ¡£ÎÒ»á¼ÌĞøÕÒµÄ¡£}
+### {232}{}{Where do you think he might be?}
+{232}{}{ÄãÈÏÎªËû¿ÉÄÜÔÚÄÄÀï£¿}
+### {233}{}{He went to San Ysidro. But I didn't get there and didn't come back. So he could be somewhere along the way.}
+{233}{}{ËûÈ¥ÁËÊ¥ÒÁÎ÷µÂÂŞ¡£µ«ÎÒÃ»ÓĞµ½ÄÇÀï£¬Ò²Ã»ÓĞ»ØÀ´¡£ËùÒÔËû¿ÉÄÜÔÚÂ·ÉÏµÄÄ³¸öµØ·½¡£}
+### {234}{}{Maybe he just found a case of beer and decided to open it alone?}
+{234}{}{Ò²ĞíËû¸Õ¸Õ·¢ÏÖÁËÒ»ÏäÆ¡¾Æ£¬¾ö¶¨¶À×Ô´ò¿ªËü£¿}
+### {235}{}{I see. I'll keep looking.}
+{235}{}{ÎÒÃ÷°×ÁË¡£ÎÒ»á¼ÌĞøÕÒµÄ¡£}
+### {236}{}{What are you talking about? Donovan was the brain of our humble company.  .........}
+{236}{}{ÄãÔÚËµÊ²Ã´£¿¶àÅµÍòÊÇÎÒÃÇ¹«Ë¾µÄÖÇÄÒ¡£¡£¡£¡£¡£¡£¡£¡£¡£}
+### {237}{}{I have some bad news. Here's Donovan's body. Donovan is dead.}
+{237}{}{ÎÒÓĞÒ»Ğ©»µÏûÏ¢¡£ÕâÊÇ¶àÅµÍòµÄÊ¬Ìå¡£¶àÅµÍòËÀÁË¡£}
+### {238}{}{Why didn't you say Donovan was short? No wonder it was so hard to find.}
+{238}{}{ÄãÎªÊ²Ã´²»Ëµ¶àÅµÍò¸ö×Ó°«£¿¹Ö²»µÃÕâÃ´ÄÑÕÒ¡£}
+### {239}{}{(Jane) Oh, my God, Donovan, wake up! (Frank) Donovan, you and your jokes again! Stop fooling around!}
+{239}{}{£¨¼ò£©Å¶£¬ÌìÄÄ£¬¶àÅµÍò£¬ĞÑĞÑ£¡£¨¸¥À¼¿Ë£©¶àÅµÍò£¬ÄãºÍÄãµÄĞ¦»°ÓÖÀ´ÁË£¡±ğÔÙºú¸ãÁË£¡}
+### {240}{}{Em. Are you stupid? He's dead. It couldn't be deader.}
+{240}{}{Em.ÄãÉµÂğ£¿ËûËÀÁË¡£ËüÔÙÖÂÃü²»¹ıÁË¡£}
+### {241}{}{You will have to accept the truth. The body was torn in half. This is incompatible with life.}
+{241}{}{Äã±ØĞë½ÓÊÜÕæÏà¡£Ê¬Ìå±»Ëº³ÉÁ½°ë¡£ÕâÓëÉú»î¸ñ¸ñ²»Èë¡£}
+### {242}{}{Look, he just needs to be taken to the doctor. Find Talius in San Ysidro. He'll get Donovan on his feet. We won't do it as fast as you.}
+{242}{}{¿´£¬ËûÖ»ĞèÒªÈ¥¿´Ò½Éú¡£ÔÚÊ¥ÒÁÎ÷µÂÂŞÕÒµ½ËşÀïÎÚË¹¡£Ëû»áÈÃ¶àÅµÍòÕ¾ÆğÀ´µÄ¡£ÎÒÃÇ²»»áÏñÄãÄÇÑù¿ì¡£}
+### {243}{}{There's something wrong with your head! Maybe at least this Talius will explain to you that it is impossible to revive a dead person.}
+{243}{}{ÄãµÄÄÔ´ü³öÁËÎÊÌâ£¡Ò²ĞíÖÁÉÙÕâ¸öËşÀïÎÚË¹»áÏòÄã½âÊÍ£¬¸´»îÒ»¸öËÀÈËÊÇ²»¿ÉÄÜµÄ¡£}
+### {244}{}{Are you serious? Well, I hope this will calm you down a little.}
+{244}{}{ÄãÊÇÈÏÕæµÄÂğ£¿ºÃ°É£¬ÎÒÏ£ÍûÕâÄÜÈÃÄãÆ½¾²ÏÂÀ´¡£}
+### {245}{}{Don't waste your time! Take Donovan to Talius.}
+{245}{}{²»ÒªÀË·ÑÊ±¼ä£¡´ø¶àÅµÍòÈ¥ËşÀïÎÚË¹¡£}
+### {246}{}{Okay, okay.}
+{246}{}{ºÃ°É£¬ºÃ°É¡£}

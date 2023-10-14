@@ -1,47 +1,92 @@
-{100}{}{You see Fernando.}
-{101}{}{In front of you is a ghoul in an old suit. A gray Mexican mustache hung on his face.}
-{102}{}{Hi. Robots are not allowed to enter the station. They guard her like a mother.}
-{103}{}{Hi. What am I doing here? Nothing so far, as you can see.}
-{104}{}{What's going on? Why was the concert canceled?}
-{105}{}{Hey, hey, buddy!}
-{1105}{}{My respects, senorita!}
+### {100}{}{You see Fernando.}
+{100}{}{Äã¿´µ½·Ñ¶ûÄÏ¶àÁË¡£}
+### {101}{}{In front of you is a ghoul in an old suit. A gray Mexican mustache hung on his face.}
+{101}{}{ÄãÃæÇ°ÊÇÒ»¸ö´©×Å¾ÉÎ÷×°µÄÊ³Ê¬¹í¡£ËûÁ³ÉÏ¹Ò×Å»ÒÉ«µÄÄ«Î÷¸çºú×Ó¡£}
+### {102}{}{Hi. Robots are not allowed to enter the station. They guard her like a mother.}
+{102}{}{ÄãºÃ»úÆ÷ÈËÊÇ²»ÔÊĞí½øÈë³µÕ¾µÄ¡£ËûÃÇÏñÄ¸Ç×Ò»ÑùÊØ»¤×ÅËı¡£}
+### {103}{}{Hi. What am I doing here? Nothing so far, as you can see.}
+{103}{}{ÄãºÃÎÒÔÚÕâÀï¸ÉÊ²Ã´£¿Äã¿ÉÒÔ¿´µ½£¬µ½Ä¿Ç°ÎªÖ¹Ê²Ã´¶¼Ã»ÓĞ¡£}
+### {104}{}{What's going on? Why was the concert canceled?}
+{104}{}{ÔõÃ´»ØÊÂ£¿ÎªÊ²Ã´ÒôÀÖ»á±»È¡ÏûÁË£¿}
+### {105}{}{Hey, hey, buddy!}
+{105}{}{ºÙ£¬ºÙ£¬»ï¼Æ£¡}
+### {1105}{}{My respects, senorita!}
+{1105}{}{×ğ¾´µÄĞ¡½ã£¡}
 
-{110}{}{We've gone too far. The Old Town is on the other side.}
-{111}{}{Is this the legendary Ghost Station?}
-{112}{}{The station comes to life, and the city comes to life after it. And it's all thanks to you.}
-{113}{}{I hope Bonita will work again soon.}
-{114}{}{Be careful! Robots from the border service are often seen in this area.}
-{115}{}{Ahead there will be a cliff leading to the Auteuil River.}
-{116}{}{If we go over the bridge, then watch your feet carefully.}
-{117}{}{Do you believe it — on weekends, hordes of people gathered in such places. And now — not a soul.}
-{118}{}{The tract of the Otei River. Once it was beautiful here.}
-{119}{}{This large building is a military hospital. It has already been looted.}
-{120}{}{}
-{121}{}{I don't feel like going there.}
-{122}{}{We are close to the epicenter of the explosion. You shouldn't linger here.}
-{123}{}{The Italian district — before the War, it was known for its cafes... and bandits and pimps.}
-{124}{}{Shall we go through the park? That's right, there is lower radiation here, but more of all kinds of living creatures.}
+### {110}{}{We've gone too far. The Old Town is on the other side.}
+{110}{}{ÎÒÃÇ×ßµÃÌ«Ô¶ÁË¡£ÀÏ³ÇÔÚÁíÒ»±ß¡£}
+### {111}{}{Is this the legendary Ghost Station?}
+{111}{}{ÕâÊÇ´«ËµÖĞµÄ¹íÕ¾Âğ£¿}
+### {112}{}{The station comes to life, and the city comes to life after it. And it's all thanks to you.}
+{112}{}{³µÕ¾»îÁËÆğÀ´£¬³ÇÊĞÒ²»îÁËÆğÀ´¡£ÕâÒ»ÇĞ¶¼Òª¸ĞĞ»Äã¡£}
+### {113}{}{I hope Bonita will work again soon.}
+{113}{}{ÎÒÏ£Íû²©ÄáËşºÜ¿ìÄÜÔÙ´Î¹¤×÷¡£}
+### {114}{}{Be careful! Robots from the border service are often seen in this area.}
+{114}{}{Ğ¡ĞÄ£¡±ß¾³·şÎñ²¿ÃÅµÄ»úÆ÷ÈË¾­³£³öÏÖÔÚÕâ¸öµØÇø¡£}
+### {115}{}{Ahead there will be a cliff leading to the Auteuil River.}
+{115}{}{Ç°·½½«ÓĞÒ»×ùĞüÑÂÍ¨ÍùAuteuilºÓ¡£}
+### {116}{}{If we go over the bridge, then watch your feet carefully.}
+{116}{}{Èç¹ûÎÒÃÇ¹ıÇÅ£¬ÄÇ¾ÍĞ¡ĞÄ½ÅÏÂ¡£}
+### {117}{}{Do you believe it ? on weekends, hordes of people gathered in such places. And now ? not a soul.}
+{117}{}{ÄãÏàĞÅÂğ? ÖÜÄ©£¬³ÉÈº½á¶ÓµÄÈË¾Û¼¯ÔÚÕâÑùµÄµØ·½¡£ÏÖÔÚ? Ã»ÓĞÁé»ê¡£}
+### {118}{}{The tract of the Otei River. Once it was beautiful here.}
+{118}{}{´ó½­Á÷Óò¡£ÕâÀïÔø¾­ºÜÃÀ¡£}
+### {119}{}{This large building is a military hospital. It has already been looted.}
+{119}{}{Õâ×ù´óÂ¥ÊÇÒ»×ù¾üÊÂÒ½Ôº¡£ËüÒÑ¾­±»Ï´½ÙÒ»¿Õ¡£}
+### {120}{}{}
+{120}{}{error : string is empty}
+### {121}{}{I don't feel like going there.}
+{121}{}{ÎÒ²»ÏëÈ¥ÄÇÀï¡£}
+### {122}{}{We are close to the epicenter of the explosion. You shouldn't linger here.}
+{122}{}{ÎÒÃÇÀë±¬Õ¨ÖĞĞÄºÜ½ü¡£Äã²»Ó¦¸ÃÔÚÕâÀï¶ºÁô¡£}
+### {123}{}{The Italian district ? before the War, it was known for its cafes... and bandits and pimps.}
+{123}{}{Òâ´óÀûÇø? Õ½Ç°£¬ÕâÀïÒÔ¿§·È¹İ¶øÎÅÃû¡£¡£¡£ÍÁ·ËºÍÆ¤Ìõ¿Í¡£}
+### {124}{}{Shall we go through the park? That's right, there is lower radiation here, but more of all kinds of living creatures.}
+{124}{}{ÎÒÃÇ´©¹ı¹«Ô°ºÃÂğ£¿Ã»´í£¬ÕâÀïµÄ·øÉä½ÏµÍ£¬µ«¸÷ÖÖÉúÎïµÄ·øÉä¶¼¸ü¶à¡£}
 
-{200}{}{I am at your service, senor.}
-{1200}{}{I am at your service, senorita.}
-{201}{}{Bye.}
-{202}{}{Who are you?}
-{203}{}{My name is Fernando.}
-{204}{}{What are you doing here?}
-{205}{}{Nothing yet, as you can see.}
-{206}{}{Jose Solis sent me. He is trying to bring his mariachi band back to life.}
-{207}{}{Good idea. I don't mind. When are we performing?}
-{208}{}{I don't know yet. Wait a bit.}
-{209}{}{Let's go right now. I'll take you straight to the Old Town.}
-{210}{}{It will be difficult for me to walk through the ruins alone. I hope you know the way?}
-{211}{}{Yes, let's go.}
-{212}{}{I don't mind performing from the stage like I used to. Will you accompany me to the Old Town?}
-{213}{}{Yes, let's go.}
-{214}{}{No, not now.}
-{215}{}{Yes?}
-{216}{}{Nothing. Nevermind.}
-{217}{}{Come with me. There's a scene waiting for you in the Old Town.}
-{218}{}{Wait for me here. I'll be back soon.}
-{219}{}{Thank you for your help, my friend. I will perform a funeral march in your honor.}
-{1219}{}{Thank you for your help, senorita. I will perform a funeral march in your honor.}
-{220}{}{Yeah. Enjoy it.}
+### {200}{}{I am at your service, senor.}
+{200}{}{ÎÒËæÊ±ÎªÄú·şÎñ£¬ÏÈÉú¡£}
+### {1200}{}{I am at your service, senorita.}
+{1200}{}{ÎÒËæÊ±ÎªÄú·şÎñ£¬Ğ¡½ã¡£}
+### {201}{}{Bye.}
+{201}{}{ÔÙ¼û}
+### {202}{}{Who are you?}
+{202}{}{ÄãÊÇË­£¿}
+### {203}{}{My name is Fernando.}
+{203}{}{ÎÒµÄÃû×Ö½Ğ·Ñ¶ûÄÏ¶à¡£}
+### {204}{}{What are you doing here?}
+{204}{}{ÄãÔÚÕâÀï¸ÉÊ²Ã´£¿}
+### {205}{}{Nothing yet, as you can see.}
+{205}{}{ÕıÈçÄãËù¿´µ½µÄ£¬»¹Ã»ÓĞ¡£}
+### {206}{}{Jose Solis sent me. He is trying to bring his mariachi band back to life.}
+{206}{}{ºÎÈû¡¤Ë÷ÀûË¹ÅÉÎÒÀ´µÄ¡£ËûÕıÊÔÍ¼ÈÃËûµÄÂíÀïÑÇÆæÀÖ¶Ó¸´»î¡£}
+### {207}{}{Good idea. I don't mind. When are we performing?}
+{207}{}{ºÃÖ÷ÒâÎÒ²»½éÒâ¡£ÎÒÃÇÊ²Ã´Ê±ºò±íÑİ£¿}
+### {208}{}{I don't know yet. Wait a bit.}
+{208}{}{ÎÒ»¹²»ÖªµÀ¡£µÈÒ»ÏÂ¡£}
+### {209}{}{Let's go right now. I'll take you straight to the Old Town.}
+{209}{}{ÎÒÃÇÏÖÔÚ¾Í×ß¡£ÎÒÖ±½Ó´øÄãÈ¥ÀÏ³Ç¡£}
+### {210}{}{It will be difficult for me to walk through the ruins alone. I hope you know the way?}
+{210}{}{ÎÒÒ»¸öÈËÔÚ·ÏĞæÖĞĞĞ×ß»áºÜÀ§ÄÑ¡£ÎÒÏ£ÍûÄãÖªµÀÂ·Âğ£¿}
+### {211}{}{Yes, let's go.}
+{211}{}{ÊÇµÄ£¬ÎÒÃÇ×ß°É¡£}
+### {212}{}{I don't mind performing from the stage like I used to. Will you accompany me to the Old Town?}
+{212}{}{ÎÒ²»½éÒâÏñÒÔÇ°ÄÇÑùÔÚÎèÌ¨ÉÏ±íÑİ¡£ÄãÔ¸ÒâÅãÎÒÈ¥ÀÏ³ÇÂğ£¿}
+### {213}{}{Yes, let's go.}
+{213}{}{ÊÇµÄ£¬ÎÒÃÇ×ß°É¡£}
+### {214}{}{No, not now.}
+{214}{}{²»£¬ÏÖÔÚ²»ĞĞ¡£}
+### {215}{}{Yes?}
+{215}{}{¶Ô}
+### {216}{}{Nothing. Nevermind.}
+{216}{}{Ã»ÓĞÊ²Ã´ÓÀÔ¶²»»á¡£}
+### {217}{}{Come with me. There's a scene waiting for you in the Old Town.}
+{217}{}{¸úÎÒÀ´¡£ÀÏ³ÇÇøÓĞÒ»¸ö³¡¾°µÈ×ÅÄã¡£}
+### {218}{}{Wait for me here. I'll be back soon.}
+{218}{}{ÔÚÕâÀïµÈÎÒ¡£ÎÒºÜ¿ì¾Í»á»ØÀ´¡£}
+### {219}{}{Thank you for your help, my friend. I will perform a funeral march in your honor.}
+{219}{}{Ğ»Ğ»ÄãµÄ°ïÖú£¬ÎÒµÄÅóÓÑ¡£ÎÒ½«ÎªÄã¾ÙĞĞÔáÀñ½øĞĞÇú¡£}
+### {1219}{}{Thank you for your help, senorita. I will perform a funeral march in your honor.}
+{1219}{}{Ğ»Ğ»ÄãµÄ°ïÖú£¬Ğ¡½ã¡£ÎÒ½«ÎªÄã¾ÙĞĞÔáÀñ½øĞĞÇú¡£}
+### {220}{}{Yeah. Enjoy it.}
+{220}{}{ÊÇ °¡ºÃºÃÏíÊÜ°É¡£}

@@ -1,69 +1,132 @@
-{100}{}{You see the bartender.}
-{101}{}{Here is an ordinary bartender... would you like to say that if he wasn't a ghoul.}
-{102}{}{Again, these drunken showdowns! Stop them! They'll blow up my bar!}
+### {100}{}{You see the bartender.}
+{100}{}{Äã¿´µ½¾Æ±£ÁË¡£}
+### {101}{}{Here is an ordinary bartender... would you like to say that if he wasn't a ghoul.}
+{101}{}{ÕâÊÇÒ»¸öÆÕÍ¨µÄ¾Æ±£¡£¡£¡£Èç¹ûËû²»ÊÇ¸öÊ³Ê¬¹í£¬ÄãÔ¸ÒâÕâÃ´ËµÂğ¡£}
+### {102}{}{Again, these drunken showdowns! Stop them! They'll blow up my bar!}
+{102}{}{ÔÙÒ»´Î£¬ÕâĞ©×íõ¸õ¸µÄ¶Ô¾ö£¡×èÖ¹ËûÃÇ£¡ËûÃÇ»áÕ¨µôÎÒµÄ¾Æ°É£¡}
 
-{210}{}{What do you want, a bag of bones?}
-{211}{}{Nothing yet. Bye.}
-{212}{}{I want a drink and a snack. What do you have?}
+### {210}{}{What do you want, a bag of bones?}
+{210}{}{ÄãÏëÒªÊ²Ã´£¬Ò»´ü¹ÇÍ·£¿}
+### {211}{}{Nothing yet. Bye.}
+{211}{}{»¹Ã»ÓĞ¡£ÔÙ¼û}
+### {212}{}{I want a drink and a snack. What do you have?}
+{212}{}{ÎÒÏëÒªÒ»±­ÒûÁÏºÍÒ»·İĞ¡³Ô¡£ÄãÓĞÊ²Ã´£¿}
 
-{220}{}{Is Steve Morgan here?}
-{221}{}{He just left. Why do you need this walking corpse?}
-{222}{}{I have a "case" for him. This concerns the courier service.}
-{223}{}{Not the best choice. He has been suffering from a thirst for profit since the War, but he cannot even earn money for a new car. Hehe, just kidding. Anyway, he said he was going to return to the Hub. I was just talking, sitting right in the same chair as you.}
-{224}{}{When is he going to be back? Right now? I'll try to catch up with him on the highway...}
-{225}{}{I should have said it right away, idiot!}
-{226}{}{What are the black scavengers doing here?}
-{227}{}{My bar is open to anyone who pays. Butler doesn't mind people in town either. He is trying to establish trade with the Hub. As long as the scavengers don't create problems, we tolerate them.}
-{228}{}{I see.}
+### {220}{}{Is Steve Morgan here?}
+{220}{}{Ê·µÙ·ò¡¤Ä¦¸ùÔÚÂğ£¿}
+### {221}{}{He just left. Why do you need this walking corpse?}
+{221}{}{Ëû¸ÕÀë¿ª¡£ÄãÎªÊ²Ã´ĞèÒªÕâ¾ßĞĞÊ¬×ßÈâ£¿}
+### {222}{}{I have a "case" for him. This concerns the courier service.}
+{222}{}{ÎÒÎªËû×¼±¸ÁËÒ»¸ö¡°°¸×Ó¡±¡£ÕâÓë¿ìµİ·şÎñÓĞ¹Ø¡£}
+### {223}{}{Not the best choice. He has been suffering from a thirst for profit since the War, but he cannot even earn money for a new car. Hehe, just kidding. Anyway, he said he was going to return to the Hub. I was just talking, sitting right in the same chair as you.}
+{223}{}{²»ÊÇ×îºÃµÄÑ¡Ôñ¡£×ÔÕ½ÕùÒÔÀ´£¬ËûÒ»Ö±¿ÊÍûÀûÈó£¬µ«ËûÉõÖÁ×¬²»µ½ĞÂ³µµÄÇ®¡£ºÇºÇ£¬¿ªÍæĞ¦°É¡£²»¹ÜÔõÑù£¬ËûËµËûÒª»Øµ½ÖĞĞÄ¡£ÎÒÖ»ÊÇÔÚËµ»°£¬ºÍÄã×øÔÚÍ¬Ò»ÕÅÒÎ×ÓÉÏ¡£}
+### {224}{}{When is he going to be back? Right now? I'll try to catch up with him on the highway...}
+{224}{}{ËûÊ²Ã´Ê±ºò»ØÀ´£¿ÂíÉÏÎÒ»áÊÔ×ÅÔÚ¸ßËÙ¹«Â·ÉÏ¸ÏÉÏËû¡£¡£¡£}
+### {225}{}{I should have said it right away, idiot!}
+{225}{}{ÎÒÓ¦¸ÃÂíÉÏËµµÄ£¬°×³Õ£¡}
+### {226}{}{What are the black scavengers doing here?}
+{226}{}{ºÚÈËÊ°»ÄÕßÔÚÕâÀï¸ÉÊ²Ã´£¿}
+### {227}{}{My bar is open to anyone who pays. Butler doesn't mind people in town either. He is trying to establish trade with the Hub. As long as the scavengers don't create problems, we tolerate them.}
+{227}{}{ÎÒµÄ¾Æ°É¶ÔÈÎºÎ¸¶Ç®µÄÈË¶¼¿ª·Å¡£°ÍÌØÀÕÒ²²»½éÒâ³ÇÀïµÄÈË¡£ËûÕıÊÔÍ¼Óë¸ÃÖĞĞÄ½¨Á¢Ã³Ò×¹ØÏµ¡£Ö»ÒªÊ°»ÄÕß²»ÖÆÔìÎÊÌâ£¬ÎÒÃÇ¾ÍÈİÈÌËûÃÇ¡£}
+### {228}{}{I see.}
+{228}{}{ÎÒÃ÷°×ÁË¡£}
 
-{230}{}{Do you have anything stronger than old beer?}
-{231}{}{Good liquor has become a rarity. What is found in the ruins is usually sold to caravans from the north, and the bar is left with all sorts of swill.}
-{232}{}{It's a pity. And I was so hoping for a good drink...}
-{233}{}{I can look for supplies for you in the ruins.}
-{234}{}{Bring it, I'll be happy to pay triple the price.}
-{235}{}{Agreed. I'll bring all the strong alcohol I find in the ruins.}
-{236}{}{You're very lucky. I just have a bottle of pre-war whiskey with me.}
-{237}{}{(Opens the bottle, sniffs, tastes.) Excellent quality! This kind of booze costs good money. Here's your part — }
-{238}{}{ hubbucks. Bring more if you find it.}
-{239}{}{Required.}
-{240}{}{I have a bottle of pre-war whiskey for your bar.}
+### {230}{}{Do you have anything stronger than old beer?}
+{230}{}{ÄãÓĞ±ÈÀÏÆ¡¾Æ¸üÅ¨µÄÂğ£¿}
+### {231}{}{Good liquor has become a rarity. What is found in the ruins is usually sold to caravans from the north, and the bar is left with all sorts of swill.}
+{231}{}{ºÃ¾ÆÒÑ³Éº±¼û¡£ÔÚ·ÏĞæÖĞ·¢ÏÖµÄ¶«Î÷Í¨³£±»Âô¸øÀ´×Ô±±·½µÄÉÌ¶Ó£¬¾Æ°ÉÀïÁôÏÂÁË¸÷ÖÖ¸÷ÑùµÄswill¡£}
+### {232}{}{It's a pity. And I was so hoping for a good drink...}
+{232}{}{ÕæÒÅº¶¡£ÎÒ·Ç³£Ï£ÍûÄÜºÈÒ»±­¡£¡£¡£}
+### {233}{}{I can look for supplies for you in the ruins.}
+{233}{}{ÎÒ¿ÉÒÔÔÚ·ÏĞæÖĞÎªÄãÑ°ÕÒ²¹¸øÆ·¡£}
+### {234}{}{Bring it, I'll be happy to pay triple the price.}
+{234}{}{´øÉÏËü£¬ÎÒºÜÀÖÒâ¸¶Èı±¶µÄ¼ÛÇ®¡£}
+### {235}{}{Agreed. I'll bring all the strong alcohol I find in the ruins.}
+{235}{}{Í¬Òâ¡£ÎÒ»á°ÑÎÒÔÚ·ÏĞæÖĞÕÒµ½µÄËùÓĞÁÒĞÔ¾Æ¶¼´øÀ´¡£}
+### {236}{}{You're very lucky. I just have a bottle of pre-war whiskey with me.}
+{236}{}{ÄãºÜĞÒÔË¡£ÎÒÖ»´øÁËÒ»Æ¿Õ½Ç°ÍşÊ¿¼É¡£}
+### {237}{}{(Opens the bottle, sniffs, tastes.) Excellent quality! This kind of booze costs good money. Here's your part ? }
+{237}{}{£¨´ò¿ªÆ¿×Ó£¬ÎÅÒ»ÎÅ£¬³¢Ò»³¢¡££©ÖÊÁ¿ÉÏ³Ë£¡ÕâÖÖ¾ÆºÜ¹ó¡£ÕâÊÇÄãµÄ²¿·Ö?}
+### {238}{}{ hubbucks. Bring more if you find it.}
+{238}{}{ÀÏ¹«¡£Èç¹ûÄãÕÒµ½ÁË£¬´ø¸ü¶à¡£}
+### {239}{}{Required.}
+{239}{}{±ØĞè¡£}
+### {240}{}{I have a bottle of pre-war whiskey for your bar.}
+{240}{}{ÎÒÓĞÒ»Æ¿Õ½Ç°ÍşÊ¿¼É¸øÄãµÄ¾Æ°É¡£}
 
-{241}{}{A bunch of us are looking for his squad. Maybe you've heard of him?}
-{242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, rather the opposite. Maybe this is the squad you're looking for.}
-{243}{}{Clear. Thank you.}
+### {241}{}{A bunch of us are looking for his squad. Maybe you've heard of him?}
+{241}{}{ÎÒÃÇÒ»ÈºÈËÕıÔÚÑ°ÕÒËûµÄÇò¶Ó¡£Ò²ĞíÄãÌıËµ¹ıËû£¿}
+### {242}{}{I heard that super mutants have set up a camp in Balboa Park. They are not aggressive, rather the opposite. Maybe this is the squad you're looking for.}
+{242}{}{ÎÒÌıËµ³¬¼¶±äÖÖÈËÔÚ°Í¶û²©ÑÇ¹«Ô°½¨Á¢ÁËÒ»¸öÓªµØ¡£ËûÃÇÃ»ÓĞ¹¥»÷ĞÔ£¬Ç¡Ç¡Ïà·´¡£Ò²ĞíÕâ¾ÍÊÇÄãÒªÕÒµÄÇò¶Ó¡£}
+### {243}{}{Clear. Thank you.}
+{243}{}{Çå³şµÄ·Ç³£¸ĞĞ»¡£}
 
-{260}{}{I want to exchange dollars for caps.}
-{261}{}{No problems. Today the course is }
-{262}{}{ caps.}
-{263}{}{Not today. I'll wait for the course change.}
-{264}{}{Another time. Better let me see your menu.}
-{265}{}{[Exchange 1 dollar]}
-{266}{}{[Exchange $2]}
-{267}{}{[Exchange 3 dollars]}
-{268}{}{[Exchange $4]}
-{269}{}{[Exchange $5]}
-{270}{}{[Exchange 10 dollars]}
-{271}{}{[Exchange ALL available dollars]}
-{272}{}{What is it, a hole in your pocket? It happens.}
-{273}{}{Yes, it is...}
-{274}{}{Please.}
-{275}{}{Thank you.}
+### {260}{}{I want to exchange dollars for caps.}
+{260}{}{ÎÒÏëÓÃÃÀÔª»»Ã±×Ó¡£}
+### {261}{}{No problems. Today the course is }
+{261}{}{Ã»ÓĞÎÊÌâ¡£½ñÌìµÄ¿Î³ÌÊÇ}
+### {262}{}{ caps.}
+{262}{}{Ã±×Ó¡£}
+### {263}{}{Not today. I'll wait for the course change.}
+{263}{}{½ñÌì²»ĞĞ¡£ÎÒ»áµÈ¿Î³Ì¸ÄµÄ¡£}
+### {264}{}{Another time. Better let me see your menu.}
+{264}{}{ÏÂ´Î×îºÃÈÃÎÒ¿´¿´ÄãµÄ²Ëµ¥¡£}
+### {265}{}{[Exchange 1 dollar]}
+{265}{}{[¶Ò»»1ÃÀÔª]}
+### {266}{}{[Exchange $2]}
+{266}{}{[¶Ò»»2ÃÀÔª]}
+### {267}{}{[Exchange 3 dollars]}
+{267}{}{[¶Ò»»3ÃÀÔª]}
+### {268}{}{[Exchange $4]}
+{268}{}{[¶Ò»»4ÃÀÔª]}
+### {269}{}{[Exchange $5]}
+{269}{}{[¶Ò»»5ÃÀÔª]}
+### {270}{}{[Exchange 10 dollars]}
+{270}{}{[¶Ò»»10ÃÀÔª]}
+### {271}{}{[Exchange ALL available dollars]}
+{271}{}{[¶Ò»»ËùÓĞ¿ÉÓÃÃÀÔª]}
+### {272}{}{What is it, a hole in your pocket? It happens.}
+{272}{}{ËüÊÇÊ²Ã´£¬Äã¿Ú´üÀïµÄÒ»¸ö¶´£¿Ëü·¢ÉúÁË¡£}
+### {273}{}{Yes, it is...}
+{273}{}{ÊÇµÄ£¬ÊÇ¡£¡£¡£}
+### {274}{}{Please.}
+{274}{}{Çë}
+### {275}{}{Thank you.}
+{275}{}{·Ç³£¸ĞĞ»¡£}
 
-{280}{}{I want to rent a room to rest.}
-{281}{}{It will be worth it for you }
-{282}{}{ hubbucks.}
-{283}{}{Why so many?}
-{284}{}{Because you're smooth-skinned.}
-{1284}{}{Because you're smooth-skinned.}
-{285}{}{This is racism!}
-{286}{}{If you don't like it, sleep under the open sky.}
-{287}{}{Okay, I'll pay for one night.}
-{288}{}{Thank you, no need.}
-{289}{}{I can't help you. All the rooms are, uh, occupied.}
-{290}{}{Really? Are you not lying?}
-{291}{}{It's a shame.}
-{292}{}{If we had free rooms, I'd rather give them to super mutants than to you.}
-{293}{}{I'll remember that, green.}
-{294}{}{I didn't really want to. Forget about it.}
-{295}{}{You don't have enough hubbucks for our service. Go earn something to start with.}
-{296}{}{Okay.}
+### {280}{}{I want to rent a room to rest.}
+{280}{}{ÎÒÏë×â¸ö·¿¼äĞİÏ¢¡£}
+### {281}{}{It will be worth it for you }
+{281}{}{Õâ¶ÔÄãÀ´ËµÊÇÖµµÃµÄ}
+### {282}{}{ hubbucks.}
+{282}{}{ÀÏ¹«¡£}
+### {283}{}{Why so many?}
+{283}{}{ÎªÊ²Ã´ÕâÃ´¶à£¿}
+### {284}{}{Because you're smooth-skinned.}
+{284}{}{ÒòÎªÄãÆ¤·ô¹â»¬¡£}
+### {1284}{}{Because you're smooth-skinned.}
+{1284}{}{ÒòÎªÄãÆ¤·ô¹â»¬¡£}
+### {285}{}{This is racism!}
+{285}{}{ÕâÊÇÖÖ×åÖ÷Òå£¡}
+### {286}{}{If you don't like it, sleep under the open sky.}
+{286}{}{Èç¹ûÄã²»Ï²»¶£¬¾ÍË¯ÔÚ¿ªÀ«µÄÌì¿ÕÏÂ¡£}
+### {287}{}{Okay, I'll pay for one night.}
+{287}{}{ºÃ°É£¬ÎÒ¸¶Ò»ÍíµÄ·ÑÓÃ¡£}
+### {288}{}{Thank you, no need.}
+{288}{}{Ğ»Ğ»£¬Ã»±ØÒª¡£}
+### {289}{}{I can't help you. All the rooms are, uh, occupied.}
+{289}{}{ÎÒ°ï²»ÁËÄã¡£ËùÓĞµÄ·¿¼ä¶¼ÓĞÈËÁË¡£}
+### {290}{}{Really? Are you not lying?}
+{290}{}{ÕæÕıµØÄãÃ»ÓĞÈö»ÑÂğ£¿}
+### {291}{}{It's a shame.}
+{291}{}{ÕæÒÅº¶¡£}
+### {292}{}{If we had free rooms, I'd rather give them to super mutants than to you.}
+{292}{}{Èç¹ûÎÒÃÇÓĞ¿Õ·¿¼ä£¬ÎÒÄşÔ¸°ÑËüÃÇ¸ø³¬¼¶±äÖÖÈË£¬Ò²²»Ô¸¸øÄã¡£}
+### {293}{}{I'll remember that, green.}
+{293}{}{ÎÒ»á¼Ç×¡µÄ£¬¸ñÁÖ¡£}
+### {294}{}{I didn't really want to. Forget about it.}
+{294}{}{ÎÒ²»ÊÇÕæµÄÏë¡£ËãÁË¡£}
+### {295}{}{You don't have enough hubbucks for our service. Go earn something to start with.}
+{295}{}{ÄãÃ»ÓĞ×ã¹»µÄÕÉ·òÎªÎÒÃÇ·şÎñ¡£È¥ÕõµãÇ®¿ªÊ¼°É¡£}
+### {296}{}{Okay.}
+{296}{}{¿ÉÒÔ}

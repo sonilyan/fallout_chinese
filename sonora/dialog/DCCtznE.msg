@@ -1,142 +1,274 @@
-{100}{}{Here is the old man Gallegos.}
-{101}{}{You see a thin settler with a shaggy beard and shabby clothes. He hobbles along the street, leaning on a stick.}
-{102}{}{Don't touch me, you piece of iron, I can still stand up for myself. Shoo, shoo.}
+### {100}{}{Here is the old man Gallegos.}
+{100}{}{ÕâÊÇ¼ÓÁĞ¸êË¹ÀÏÈË¡£}
+### {101}{}{You see a thin settler with a shaggy beard and shabby clothes. He hobbles along the street, leaning on a stick.}
+{101}{}{Äã¿´µ½Ò»¸öÊİÏ÷µÄ¶¨¾ÓÕß£¬ºú×ÓÅîÂÒ£¬ÒÂ·şÆÆ¾É¡£ËûÖô×ÅÒ»¸ù¹÷×ÓõçõÇµØ×ßÔÚ½ÖÉÏ¡£}
+### {102}{}{Don't touch me, you piece of iron, I can still stand up for myself. Shoo, shoo.}
+{102}{}{±ğÅöÎÒ£¬ÄãÕâ¸öÌú¹ÇÍ·£¬ÎÒ»¹ÄÜÕ¾ÆğÀ´¡£Ğê£¬Ğê¡£}
 
-{200}{}{ququ quieres de mi?}
-{201}{}{I just want to talk. Do you understand me?}
-{202}{}{Déjame en paz. No te entiendo.}
-{203}{}{Uh, never mind. Forget it.}
-{204}{}{Don't talk your teeth into me. It can't be that you don't know English.}
-{205}{}{Yo no hablo ingls. Déjame en paz!}
-{206}{}{If you don't stop this performance, I'll knock your teeth out.}
-{207}{}{Stop! Stop! Maldito seas, what do you want?}
-{208}{}{Todo está bien, amigo. Quiero hablar contigo.}
-{209}{}{Shah! yEntonces hablas espaœol? Gusto escuchar mi lengua matera! (Ah, so you speak Spanish? How glad I am to hear my native language!)}
-{210}{}{Todo... est... bien?}
-{211}{}{Eh? quieres decir? No entiendo nada, habla más claro.}
-{212}{}{It's too complicated for my mind. Goodbye, old man.}
-{213}{}{Oh, now you understand me, right?}
-{214}{}{That's better. Why all this representation?}
-{215}{}{It can't be that you don't understand English at least a little.}
-{216}{}{Have pity on the old man, señor. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
-{1216}{}{Have pity on the old man, señora. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
-{217}{}{OK, I'll look for food for you.}
-{218}{}{It looks like you and I won't be able to have a conversation. And fuck you.}
-{219}{}{It looks like you and I won't be able to have a conversation. Fuck you, el decrepito viejo.}
+### {200}{}{ququ? quieres de mi?}
+{200}{}{ÇúÇú? °²¾²£¿}
+### {201}{}{I just want to talk. Do you understand me?}
+{201}{}{ÎÒÖ»ÊÇÏëÌ¸Ì¸¡£ÄãÃ÷°×ÎÒµÄÒâË¼Âğ£¿}
+### {202}{}{D?jame en paz. No te entiendo.}
+{202}{}{D?jame en paz¡£Ã»ÓĞ¡£}
+### {203}{}{Uh, never mind. Forget it.}
+{203}{}{Ã»¹ØÏµ¡£ËãÁË¡£}
+### {204}{}{Don't talk your teeth into me. It can't be that you don't know English.}
+{204}{}{±ğ¸úÎÒËµ»°¡£Äã²»¿ÉÄÜ²»¶®Ó¢Óï¡£}
+### {205}{}{Yo no hablo ingl?s. D?jame en paz!}
+{205}{}{Yo no hablo ingl?s.D?jame en paz£¡}
+### {206}{}{If you don't stop this performance, I'll knock your teeth out.}
+{206}{}{Èç¹ûÄã²»Í£Ö¹Õâ³¡Ñİ³ö£¬ÎÒ»á°ÑÄãÀÛ»µµÄ¡£}
+### {207}{}{Stop! Stop! Maldito seas, what do you want?}
+{207}{}{Í£Ö¹Í£Ö¹Âí¶û´ú·òº£Óò£¬ÄãÏëÒªÊ²Ã´£¿}
+### {208}{}{Todo est? bien, amigo. Quiero hablar contigo.}
+{208}{}{Todo est? ±È¶÷£¬ÅóÓÑ¡£Quiero hablar contigo¡£}
+### {209}{}{Shah! yEntonces hablas espa?ol? Gusto escuchar mi lengua matera! (Ah, so you speak Spanish? How glad I am to hear my native language!)}
+{209}{}{É³°¢£¡ÄãÓĞ¿Õ?ol£¿Gusto escuchar mi lengua matera£¡£¨°¡£¬Äã»áËµÎ÷°àÑÀÓïÂğ£¿Ìıµ½ÎÒµÄÄ¸ÓïÎÒÕæ¸ßĞË£¡£©}
+### {210}{}{Todo... est... bien?}
+{210}{}{Todo¡£¡£¡£est¡£¡£¡£±È¶÷£¿}
+### {211}{}{Eh? quieres decir? No entiendo nada, habla m?s claro.}
+{211}{}{ßÀ£¿quieres decir£¿Ã»ÓĞÍêÕûµÄnada£¬habla m?s claro¡£}
+### {212}{}{It's too complicated for my mind. Goodbye, old man.}
+{212}{}{Õâ¶ÔÎÒÀ´ËµÌ«¸´ÔÓÁË¡£ÔÙ¼û£¬ÀÏÈË¡£}
+### {213}{}{Oh, now you understand me, right?}
+{213}{}{Å¶£¬ÏÖÔÚÄãÃ÷°×ÎÒÁË£¬¶Ô°É£¿}
+### {214}{}{That's better. Why all this representation?}
+{214}{}{ÕâÑù¸üºÃ¡£ÎªÊ²Ã´»áÓĞÕâÑùµÄ±íÏÖ£¿}
+### {215}{}{It can't be that you don't understand English at least a little.}
+{215}{}{Äã²»¿ÉÄÜ²»¶®Ò»µãÓ¢Óï¡£}
+### {216}{}{Have pity on the old man, se?or. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
+{216}{}{¿ÉÁ¯ÕâÎ»ÀÏÈË°É£¬se?»òÄ°ÉúÈËÀ´À´ÍùÍù¡£ÎÒµÃÈ¥ÕÒÊ³Îï¡£ÎÒ¶öÁË£¬Âí¶ûµÙËşº£¡£}
+### {1216}{}{Have pity on the old man, se?ora. Strangers come and go. And I have to look for food. I'm hungry, maldita sea.}
+{1216}{}{¿ÉÁ¯ÕâÎ»ÀÏÈË°É£¬se?ora¡£Ä°ÉúÈËÀ´À´ÍùÍù¡£ÎÒµÃÈ¥ÕÒÊ³Îï¡£ÎÒ¶öÁË£¬Âí¶ûµÙËşº£¡£}
+### {217}{}{OK, I'll look for food for you.}
+{217}{}{ºÃµÄ£¬ÎÒ¸øÄãÕÒÊ³Îï¡£}
+### {218}{}{It looks like you and I won't be able to have a conversation. And fuck you.}
+{218}{}{¿´ÆğÀ´ÄãºÍÎÒ½«ÎŞ·¨½øĞĞ¶Ô»°¡£²ÙÄã¡£}
+### {219}{}{It looks like you and I won't be able to have a conversation. Fuck you, el decrepito viejo.}
+{219}{}{¿´ÆğÀ´ÄãºÍÎÒ½«ÎŞ·¨½øĞĞ¶Ô»°¡£È¥ÄãÂèµÄ£¬ÀÏ¹Å¶­¡£}
 
-{240}{}{(raising his hands, begging for mercy) Ah, the robber! Don't touch me! I have nothing!}
-{1240}{}{ (raising his hands, begging for mercy) Ah, the robber! Don't touch me! I have nothing!}
-{241}{}{Hey, I'm not a robber.}
-{1241}{}{Hey, I'm not a robber.}
-{242}{}{If you scream, I'll kill you.}
-{243}{}{ (raising his hands, begging for mercy) YNo me mates! Shno tengo nada!}
+### {240}{}{(raising his hands, begging for mercy) Ah, the robber! Don't touch me! I have nothing!}
+{240}{}{£¨¾ÙÊÖÇóÈÄ£©°¡£¬Ç¿µÁ£¡±ğÅöÎÒ£¡ÎÒÒ»ÎŞËùÓĞ£¡}
+### {1240}{}{ (raising his hands, begging for mercy) Ah, the robber! Don't touch me! I have nothing!}
+{1240}{}{£¨¾ÙÊÖÇóÈÄ£©°¡£¬Ç¿µÁ£¡±ğÅöÎÒ£¡ÎÒÒ»ÎŞËùÓĞ£¡}
+### {241}{}{Hey, I'm not a robber.}
+{241}{}{ºÙ£¬ÎÒ²»ÊÇÇ¿µÁ¡£}
+### {1241}{}{Hey, I'm not a robber.}
+{1241}{}{ºÙ£¬ÎÒ²»ÊÇÇ¿µÁ¡£}
+### {242}{}{If you scream, I'll kill you.}
+{242}{}{Èç¹ûÄã¼â½Ğ£¬ÎÒ¾ÍÉ±ÁËÄã¡£}
+### {243}{}{ (raising his hands, begging for mercy) YNo me mates! Shno tengo nada!}
+{243}{}{£¨¾ÙÆğË«ÊÖ£¬ÆòÇóÁ¯Ãõ£©ÎÒµÄ»ï°éÃÇ£¡Ğê£¡}
 
-{250}{}{(Gestures ready to talk)}
-{251}{}{Bye, old man.}
-{252}{}{Ah, the food! Thank you, señor.}
-{1252}{}{Ah, the food! Thank you, señorita.}
-{253}{}{Shah, comida! Gracias, Seœog.}
-{1253}{}{Shah, comida! Gracias, SeœOrita.}
-{254}{}{You are welcome. Now can you tell us a little about yourself and the city?}
-{255}{}{Just don't get drunk until you lose your pulse.}
+### {250}{}{(Gestures ready to talk)}
+{250}{}{£¨×¼±¸Ëµ»°µÄÊÖÊÆ£©}
+### {251}{}{Bye, old man.}
+{251}{}{ÔÙ¼û£¬ÀÏÈË¡£}
+### {252}{}{Ah, the food! Thank you, se?or.}
+{252}{}{°¡£¬Ê³Îï£¡Ğ»Ğ»Äã£¬se?»ò}
+### {1252}{}{Ah, the food! Thank you, se?orita.}
+{1252}{}{°¡£¬Ê³Îï£¡Ğ»Ğ»Äã£¬se?orita¡£}
+### {253}{}{Shah, comida! Gracias, Se?og.}
+{253}{}{É³°¢£¬¿ÆÃ×´ï£¡Ğ»Ğ»Se?og¡£}
+### {1253}{}{Shah, comida! Gracias, Se?Orita.}
+{1253}{}{É³°¢£¬¿ÆÃ×´ï£¡Ğ»Ğ»Se?Orita¡£}
+### {254}{}{You are welcome. Now can you tell us a little about yourself and the city?}
+{254}{}{²»¿ÍÆø¡£ÏÖÔÚÄãÄÜ¸æËßÎÒÃÇÒ»Ğ©¹ØÓÚÄã×Ô¼ººÍÕâ×ù³ÇÊĞµÄÇé¿öÂğ£¿}
+### {255}{}{Just don't get drunk until you lose your pulse.}
+{255}{}{Ö»ÊÇÔÚÊ§È¥Âö²«Ö®Ç°²»ÒªºÈ×í¡£}
 
-{260}{}{Who are you, old man?}
-{261}{}{Me? Well, my name is Gallegos. I live here.}
-{262}{}{yMe hablas a mi? Mi nombre es Fernando Gallegos. Yo vivo aqui.}
-{263}{}{Nice to meet you, Gallegos. Let's have a chat?}
-{264}{}{That's all I wanted to know. Bye, Gallegos.}
-{265}{}{How old are you, Gallegos?}
-{266}{}{You look worse than a wrinkled mole rat. How old are you?}
-{267}{}{I didn't count. I think I have already lived forty winters.}
-{268}{}{No los he contado. Creo que por lo menos cuarenta primaveras, eso creo.}
-{269}{}{A long time. Many have not lived even half. Aren't you from around here?}
-{270}{}{You have an unusual accent. Aren't you from these parts?}
-{271}{}{It's understandable why you look like a dead man. It's strange that you survived in these places at all.}
-{272}{}{So you know a lot. Let's talk about something else.}
-{273}{}{It's impressive. It's time for me to go. See you later.}
-{274}{}{Right. Spanish is spoken in the south. I don't know your language well yet.}
-{275}{}{Efectivamente. En el sur hablan espaœol, y no hablo bien tu idioma.}
-{276}{}{So you came from the south? It must have been a hard road.}
-{277}{}{You're delusional, old man. There's a barren desert in the south, you couldn't cross it.}
-{278}{}{It's a real miracle that you survived.}
-{279}{}{It was difficult to cross the desert. But we managed, because we had no choice. First we got to the city of Tucson, and they kicked us out. Then we came to Casa Grande and stayed here.}
-{280}{}{Fue muy dificil cruzar el desierto. Pero lo logramos, porque no teniamos otra orsiƒp. Primero llegamos a la ciudad de Tucson, y de ahi nos echaron. Luego nos quedamos en Casa Grande.}
-{281}{}{You say "we". Who else was with you?}
-{282}{}{A few peasants. I'm the only one left alive.}
-{283}{}{Varios campesinos. Pero yo soy el Ÿpiso que aŸp estávivo.}
-{284}{}{A sad story. I'm sorry.}
-{285}{}{How interesting. I would like to ask more.}
-{286}{}{Stop pouring this lies into my ears.}
-{287}{}{Very interesting. But I have to go. Bye.}
+### {260}{}{Who are you, old man?}
+{260}{}{ÄãÊÇË­£¬ÀÏÈË£¿}
+### {261}{}{Me? Well, my name is Gallegos. I live here.}
+{261}{}{ÎÒÎÒ½Ğ¼ÓÁĞ¸êË¹¡£ÎÒ×¡ÔÚÕâÀï¡£}
+### {262}{}{yMe hablas a mi? Mi nombre es Fernando Gallegos. Yo vivo aqui.}
+{262}{}{ÎÒ¿ÉÒÔ×öÒ»¸ömiÂğ£¿ÎÒ½Ğ·Ñ¶ûÄÏ¶à¡¤¼ÓÁĞ¸êË¹¡£Yo vivo aqui¡£}
+### {263}{}{Nice to meet you, Gallegos. Let's have a chat?}
+{263}{}{ºÜ¸ßĞËÈÏÊ¶Äã£¬¼ÓÁĞ¸êË¹¡£ÎÒÃÇÁÄÁÄ°É£¿}
+### {264}{}{That's all I wanted to know. Bye, Gallegos.}
+{264}{}{Õâ¾ÍÊÇÎÒÏëÖªµÀµÄÈ«²¿¡£ÔÙ¼û£¬¼ÓÁĞ¸êË¹¡£}
+### {265}{}{How old are you, Gallegos?}
+{265}{}{¼ÓÁĞ¸êË¹£¬Äã¶à´óÁË£¿}
+### {266}{}{You look worse than a wrinkled mole rat. How old are you?}
+{266}{}{Äã¿´ÆğÀ´±ÈÒ»Ö»³¤ÂúÖåÎÆµÄ÷úÊó»¹Ôã¸â¡£Äã¶à´óÁË£¿}
+### {267}{}{I didn't count. I think I have already lived forty winters.}
+{267}{}{ÎÒÃ»Êı¡£ÎÒÏëÎÒÒÑ¾­¶È¹ıÁËËÄÊ®¸ö¶¬Ìì¡£}
+### {268}{}{No los he contado. Creo que por lo menos cuarenta primaveras, eso creo.}
+{268}{}{Ã»ÓĞ£¬Ëû¼ÌĞø¡£ÕâÊÇÒ»¸ö·Ç³£ÖØÒªµÄÎÊÌâ¡£}
+### {269}{}{A long time. Many have not lived even half. Aren't you from around here?}
+{269}{}{ºÜ³¤Ò»¶ÎÊ±¼ä¡£Ğí¶àÈËÉõÖÁ»¹Ã»»îÒ»°ë¡£Äã²»ÊÇÕâ¸½½üµÄÈËÂğ£¿}
+### {270}{}{You have an unusual accent. Aren't you from these parts?}
+{270}{}{ÄãµÄ¿ÚÒô²»Í¬Ñ°³£¡£Äã²»ÊÇÕâĞ©µØ·½µÄÈËÂğ£¿}
+### {271}{}{It's understandable why you look like a dead man. It's strange that you survived in these places at all.}
+{271}{}{ÄãÎªÊ²Ã´¿´ÆğÀ´Ïñ¸öËÀÈËÊÇ¿ÉÒÔÀí½âµÄ¡£ÄãÔÚÕâĞ©µØ·½ĞÒ´æÏÂÀ´ÕæÆæ¹Ö¡£}
+### {272}{}{So you know a lot. Let's talk about something else.}
+{272}{}{ËùÒÔÄãÖªµÀºÜ¶à¡£ÈÃÎÒÃÇÌ¸Ì¸ÆäËûÊÂÇé¡£}
+### {273}{}{It's impressive. It's time for me to go. See you later.}
+{273}{}{ÁîÈËÓ¡ÏóÉî¿Ì¡£ÎÒ¸Ã×ßÁË¡£»ØÍ·¼û¡£}
+### {274}{}{Right. Spanish is spoken in the south. I don't know your language well yet.}
+{274}{}{ÕıÈ·µÄÎ÷°àÑÀÓïÔÚÄÏ·½Í¨ĞĞ¡£ÎÒ»¹²»Ì«¶®ÄãµÄÓïÑÔ¡£}
+### {275}{}{Efectivamente. En el sur hablan espa?ol, y no hablo bien tu idioma.}
+{275}{}{ÓĞĞ§ĞÔ¡£ÔÚÎ÷°àÑÀºÓÅÏ?Å¶£¬ÄãÃ»ÓĞ°×³Õ¡£}
+### {276}{}{So you came from the south? It must have been a hard road.}
+{276}{}{ËùÒÔÄãÊÇ´ÓÄÏ·½À´µÄ£¿ÕâÒ»¶¨ÊÇÒ»Ìõ¼èÄÑµÄÂ·¡£}
+### {277}{}{You're delusional, old man. There's a barren desert in the south, you couldn't cross it.}
+{277}{}{ÄãÔÚÍıÏë£¬ÀÏÈË¼Ò¡£ÄÏ·½ÓĞÒ»Æ¬Æ¶ñ¤µÄÉ³Ä®£¬ÄãÎŞ·¨´©Ô½¡£}
+### {278}{}{It's a real miracle that you survived.}
+{278}{}{ÄãÄÜ»îÏÂÀ´ÕæÊÇ¸öÆæ¼£¡£}
+### {279}{}{It was difficult to cross the desert. But we managed, because we had no choice. First we got to the city of Tucson, and they kicked us out. Then we came to Casa Grande and stayed here.}
+{279}{}{´©Ô½É³Ä®ºÜÀ§ÄÑ¡£µ«ÎÒÃÇ³É¹¦ÁË£¬ÒòÎªÎÒÃÇ±ğÎŞÑ¡Ôñ¡£Ê×ÏÈÎÒÃÇµ½ÁËÍ¼É­ÊĞ£¬ËûÃÇ°ÑÎÒÃÇ¸ÏÁË³öÈ¥¡£È»ºóÎÒÃÇÀ´µ½¸ñÀ¼µÂÖ®¼Ò£¬²¢×¡ÔÚÕâÀï¡£}
+### {280}{}{Fue muy dificil cruzar el desierto. Pero lo logramos, porque no teniamos otra orsi?p. Primero llegamos a la ciudad de Tucson, y de ahi nos echaron. Luego nos quedamos en Casa Grande.}
+{280}{}{ÕâÊÇÒ»¸ö·Ç³£À§ÄÑµÄÎÊÌâ¡£Pero lo logramos£¬porque no teniamos otra orsi?p.Primero llegamosÊÇÍ¼É­ÊĞµÄÒ»¸ö³ÇÊĞ£¬¶ø²»ÊÇ°£²éÂ¡ÊĞ¡£Â¬°£¸êÔÚ¸ñÀ¼µÂÖ®¼ÒÃ»ÓĞÅ®Íõ¡£}
+### {281}{}{You say "we". Who else was with you?}
+{281}{}{ÄãËµ¡°ÎÒÃÇ¡±¡£»¹ÓĞË­ºÍÄãÔÚÒ»Æğ£¿}
+### {282}{}{A few peasants. I'm the only one left alive.}
+{282}{}{¼¸¸öÅ©Ãñ¡£ÎÒÊÇÎ¨Ò»»î×ÅµÄÈË¡£}
+### {283}{}{Varios campesinos. Pero yo soy el ?piso que a?p est?vivo.}
+{283}{}{¸÷ÖÖ¸÷ÑùµÄÂ¶Óª¡£Pero yo´ó¶¹?±ÈÈø?p est?ÌåÄÚ¡£}
+### {284}{}{A sad story. I'm sorry.}
+{284}{}{Ò»¸ö±¯ÉËµÄ¹ÊÊÂ¡£¶Ô²»Æğ¡£}
+### {285}{}{How interesting. I would like to ask more.}
+{285}{}{ÕæÓĞÈ¤¡£ÎÒÏëÎÊ¸ü¶à¡£}
+### {286}{}{Stop pouring this lies into my ears.}
+{286}{}{±ğÔÙ°ÑÕâĞ©»ÑÑÔ¹àÊäµ½ÎÒµÄ¶ú¶äÀïÁË¡£}
+### {287}{}{Very interesting. But I have to go. Bye.}
+{287}{}{·Ç³£ÓĞÈ¤¡£µ«ÎÒµÃ×ßÁË¡£ÔÙ¼û}
 {288}{}{}
 {289}{}{}
 
-{290}{}{What are you doing?}
-{291}{}{A little bit of everything. What the residents need, I do. Yesterday I was looking for firewood for the bathhouse. It's good that she's working again.}
-{292}{}{A little bit of everything. What the residents need, I do. Yesterday I was looking for firewood for the mayor. He likes to take a bath to relax.}
-{293}{}{A little bit of everything. What the residents need, I do.}
-{294}{}{Chambitas.}
-{295}{}{Yeah, that was a pointless question. What else would I ask you?}
-{296}{}{I'll keep that in mind. In the meantime, let's break up on this.}
-{297}{}{Why are you limping?}
-{298}{}{An old wound. What's it to you? Do you like to make fun of others?}
-{299}{}{Es por una vieja herida.}
-{300}{}{I'm sorry, I shouldn't have brought this up. Let's talk about something else?}
-{301}{}{If you don't want to talk, it's your business. I'll find others to talk to. Bye.}
-{302}{}{Hobbling like a pregnant brahmin before a sacrifice. Have you ever seen this?}
-{303}{}{You're hobbling around like a mole rat that's drunk on uranium crumbs. Have you ever seen this?}
-{304}{}{Even Uncle Jose, with his bad leg, worked on the plantations. And you're just a whiner and a loser.}
-{305}{}{Laugh, yeah. I'll look at you when a stray bullet tears the fibers of your triceps.}
-{306}{}{Callate, sinverguenza. Era una bala perdida.}
-{307}{}{A stray bullet? This should be taken into account.}
-{308}{}{It looks like this place is dangerous. I think I should get out of here, and as soon as possible.}
-{309}{}{Come on, tell me how it happened. This will remain between us.}
-{310}{}{Leave me alone.}
-{311}{}{Dejame, canalla.}
-{312}{}{Not until I hear everything you know.}
-{313}{}{Okay, whatever you say.}
-{314}{}{It's a pity that it happened. Tell me, how did it happen? I promise this will stay between us.}
-{315}{}{A stray bullet. You know that abandoned bar up north? I was there when the shooting happened. The bullet hit me in the leg. Just an accident.}
-{316}{}{Fue un accidente durante un tiroteo en el antiguo bar. Una bala me higiƒ la pierna.}
-{317}{}{A stray bullet? This should be taken into account.}
-{318}{}{It looks like this place is dangerous. I think I should get out of here, and as soon as possible.}
+### {290}{}{What are you doing?}
+{290}{}{ÄãÔÚ¸ÉÊ²Ã´£¿}
+### {291}{}{A little bit of everything. What the residents need, I do. Yesterday I was looking for firewood for the bathhouse. It's good that she's working again.}
+{291}{}{Ã¿Ñù¶«Î÷¶¼ÓĞÒ»µãµã¡£¾ÓÃñĞèÒªÊ²Ã´£¬ÎÒ¾Í×öÊ²Ã´¡£×òÌìÎÒÔÚÎªÔèÌÃÕÒÄ¾²ñ¡£ºÜ¸ßĞËËıÓÖ¿ªÊ¼¹¤×÷ÁË¡£}
+### {292}{}{A little bit of everything. What the residents need, I do. Yesterday I was looking for firewood for the mayor. He likes to take a bath to relax.}
+{292}{}{Ã¿Ñù¶«Î÷¶¼ÓĞÒ»µãµã¡£¾ÓÃñĞèÒªÊ²Ã´£¬ÎÒ¾Í×öÊ²Ã´¡£×òÌìÎÒÔÚÎªÊĞ³¤ÕÒ²ñ»ğ¡£ËûÏ²»¶Ï´¸öÔè·ÅËÉÒ»ÏÂ¡£}
+### {293}{}{A little bit of everything. What the residents need, I do.}
+{293}{}{Ã¿Ñù¶«Î÷¶¼ÓĞÒ»µãµã¡£¾ÓÃñĞèÒªÊ²Ã´£¬ÎÒ¾Í×öÊ²Ã´¡£}
+### {294}{}{Chambitas.}
+{294}{}{Chambitas¡£}
+### {295}{}{Yeah, that was a pointless question. What else would I ask you?}
+{295}{}{ÊÇµÄ£¬ÄÇÊÇ¸öºÁÎŞÒâÒåµÄÎÊÌâ¡£ÎÒ»¹ÄÜÎÊÄãÊ²Ã´£¿}
+### {296}{}{I'll keep that in mind. In the meantime, let's break up on this.}
+{296}{}{ÎÒ»á¼Ç×¡µÄ¡£ÔÚ´ËÆÚ¼ä£¬ÈÃÎÒÃÇ¾Í´Ë´òÉ¢¡£}
+### {297}{}{Why are you limping?}
+{297}{}{ÄãÎªÊ²Ã´Ò»È³Ò»¹Õ£¿}
+### {298}{}{An old wound. What's it to you? Do you like to make fun of others?}
+{298}{}{Ò»¸ö¾ÉÉË¿Ú¡£ÄãÔõÃ´ÁË£¿ÄãÏ²»¶È¡Ğ¦±ğÈËÂğ£¿}
+### {299}{}{Es por una vieja herida.}
+{299}{}{ÕâÊÇÒ»¸ö¼ÒÍ¥¡£}
+### {300}{}{I'm sorry, I shouldn't have brought this up. Let's talk about something else?}
+{300}{}{¶Ô²»Æğ£¬ÎÒ²»¸ÃÌáÆğÕâ¸ö¡£ÎÒÃÇÌ¸Ì¸±ğµÄ°É£¿}
+### {301}{}{If you don't want to talk, it's your business. I'll find others to talk to. Bye.}
+{301}{}{Èç¹ûÄã²»ÏëËµ»°£¬ÄÇÊÇÄãµÄÊÂ¡£ÎÒÕÒÆäËûÈËÁÄÁÄ¡£ÔÙ¼û¡£}
+### {302}{}{Hobbling like a pregnant brahmin before a sacrifice. Have you ever seen this?}
+{302}{}{Ïñ»³ÔĞµÄÆÅÂŞÃÅÒ»ÑùÔÚÏ×¼ÀÇ°æÒÏ·¡£Äã¼û¹ıÕâ¸öÂğ£¿}
+### {303}{}{You're hobbling around like a mole rat that's drunk on uranium crumbs. Have you ever seen this?}
+{303}{}{ÄãÏñÒ»Ö»ºÈÁËÓËĞ¼µÄ÷úÊóÒ»ÑùõçõÇ¶øĞĞ¡£Äã¼û¹ıÕâ¸öÂğ£¿}
+### {304}{}{Even Uncle Jose, with his bad leg, worked on the plantations. And you're just a whiner and a loser.}
+{304}{}{¾ÍÁ¬ÍÈ²»ºÃµÄºÎÈûÊåÊåÒ²ÔÚÖÖÖ²Ô°¹¤×÷¡£¶øÄãÖ»ÊÇÒ»¸ö°®·¢ÀÎÉ§µÄÊ§°ÜÕß¡£}
+### {305}{}{Laugh, yeah. I'll look at you when a stray bullet tears the fibers of your triceps.}
+{305}{}{Ğ¦°É£¬ÊÇµÄ¡£µ±Ò»¿ÅÁ÷µ¯ËºÁÑÄãÈıÍ·¼¡µÄÏËÎ¬Ê±£¬ÎÒ»á¿´×ÅÄã¡£}
+### {306}{}{Callate, sinverguenza. Era una bala perdida.}
+{306}{}{¿¨À­ÌØ£¬ĞÁ¸¥¸Ç¶÷Ôú¡£ÕâÊÇÒ»¸ö³äÂú»îÁ¦µÄÊ±´ú¡£}
+### {307}{}{A stray bullet? This should be taken into account.}
+{307}{}{Á÷µ¯£¿Ó¦¸Ã¿¼ÂÇµ½ÕâÒ»µã¡£}
+### {308}{}{It looks like this place is dangerous. I think I should get out of here, and as soon as possible.}
+{308}{}{Õâ¸öµØ·½¿´ÆğÀ´ºÜÎ£ÏÕ¡£ÎÒÏëÎÒÓ¦¸Ã¾¡¿ìÀë¿ªÕâÀï¡£}
+### {309}{}{Come on, tell me how it happened. This will remain between us.}
+{309}{}{À´°É£¬¸æËßÎÒÊÂÇéÊÇÔõÃ´·¢ÉúµÄ¡£Õâ½«ÁôÔÚÎÒÃÇÖ®¼ä¡£}
+### {310}{}{Leave me alone.}
+{310}{}{±ğ¹ÜÎÒ¡£}
+### {311}{}{Dejame, canalla.}
+{311}{}{µÂ¼ÖÃ·£¬ÔËºÓ¡£}
+### {312}{}{Not until I hear everything you know.}
+{312}{}{Ö±µ½ÎÒÌıµ½ÄãËùÖªµÀµÄÒ»ÇĞ¡£}
+### {313}{}{Okay, whatever you say.}
+{313}{}{ºÃ°É£¬²»¹ÜÄãËµÊ²Ã´¡£}
+### {314}{}{It's a pity that it happened. Tell me, how did it happen? I promise this will stay between us.}
+{314}{}{ºÜÒÅº¶·¢ÉúÁËÕâÖÖÊÂ¡£¸æËßÎÒ£¬ÕâÊÇÔõÃ´·¢ÉúµÄ£¿ÎÒ±£Ö¤Õâ¼şÊÂ»á±£ÃÜ¡£}
+### {315}{}{A stray bullet. You know that abandoned bar up north? I was there when the shooting happened. The bullet hit me in the leg. Just an accident.}
+{315}{}{Á÷µ¯¡£ÄãÖªµÀ±±±ßÄÇ¸ö·ÏÆúµÄ¾Æ°ÉÂğ£¿Ç¹»÷·¢ÉúÊ±ÎÒ¾ÍÔÚÄÇÀï¡£×Óµ¯´òÖĞÁËÎÒµÄÍÈ¡£Ö»ÊÇ¸öÒâÍâ¡£}
+### {316}{}{Fue un accidente durante un tiroteo en el antiguo bar. Una bala me higi? la pierna.}
+{316}{}{ÔÚantiguo¾Æ°ÉµÄÒ»¶ÎÊ±¼äÀï£¬ÕâÊÇÒ»´ÎÒâÍâ¡£Una bala me higi? À­Æ¤°£¶û¡£}
+### {317}{}{A stray bullet? This should be taken into account.}
+{317}{}{Á÷µ¯£¿Ó¦¸Ã¿¼ÂÇµ½ÕâÒ»µã¡£}
+### {318}{}{It looks like this place is dangerous. I think I should get out of here, and as soon as possible.}
+{318}{}{Õâ¸öµØ·½¿´ÆğÀ´ºÜÎ£ÏÕ¡£ÎÒÏëÎÒÓ¦¸Ã¾¡¿ìÀë¿ªÕâÀï¡£}
 {319}{}{}
 
-{320}{}{Tell me about the city.}
-{321}{}{What is there to tell? We survive only thanks to the water station. She gives us water and attracts merchants from afar.}
-{322}{}{La ciudad sobrevive gracias a la bomba de agua. El agua da vida a este desierto y atrae a comerciantes lejanos.}
-{323}{}{Then why are the streets so empty here?}
-{324}{}{Water attracts not only merchants. We are afraid of highway robbers and all sorts of speculators.}
-{325}{}{El agua no solo atrae a los comerciantes. Tenemos miedo a los bandidos y a los ladrones.}
-{326}{}{Ugh, and it already seemed to me that this is another ghost town.}
-{327}{}{Tell us about the manager of your city.}
-{328}{}{Count Bustos. He runs the city from that huge mansion.}
-{329}{}{El conde Bustos gobierna la ciudad desde esa gran mapsi.}
-{330}{}{Thank you, it helped me.}
-{331}{}{In that mansion, right? I think I should check on him right now.}
-{332}{}{No, I mean, what kind of person is he. How do you feel about him?}
-{333}{}{It's dangerous to discuss those who are sitting over you. We don't know each other that well.}
-{334}{}{No quiero hablar de l.}
-{335}{}{Indeed, your fears are not in vain. Maybe another topic will be less slippery?}
-{336}{}{You're afraid of Bustos, and that says a lot. Now I don't want to ask anything either.}
-{337}{}{I mean, what kind of person is he. Do people admire him or fear him?}
-{338}{}{A terrible man. Cruel, greedy, keeps everyone in subjection. No one will say anything against him here.}
-{339}{}{Es una persona terrible, es un tirano. aqui, nadie dir nada malo de l.}
-{340}{}{So he's holding on tight to the city. Thank you for your honesty.}
-{341}{}{Count Bustos is dead. Do you think the city will be better off without him?}
-{342}{}{He was a terrible man. Greedy and cruel, he ruled everything with an iron hand. Everyone was afraid to say something bad about him. But without him, we are an easy target for robbers.}
-{343}{}{l era un tirano. Pero sin l, nos convertimos en un blanco fácil para los ladrones.}
-{344}{}{Yes, even his tyranny had a certain meaning.}
+### {320}{}{Tell me about the city.}
+{320}{}{¸æËßÎÒÕâ¸ö³ÇÊĞµÄÇé¿ö¡£}
+### {321}{}{What is there to tell? We survive only thanks to the water station. She gives us water and attracts merchants from afar.}
+{321}{}{ÓĞÊ²Ã´ºÃËµµÄ£¿ÎÒÃÇÖ»ÄÜ¿¿¹©Ë®Õ¾Éú´æ¡£Ëı¸øÎÒÃÇË®£¬ÎüÒıÔ¶·½µÄÉÌÈË¡£}
+### {322}{}{La ciudad sobrevive gracias a la bomba de agua. El agua da vida a este desierto y atrae a comerciantes lejanos.}
+{322}{}{ÕâÊÇÒ»¸ö³äÂú»îÁ¦µÄ³ÇÊĞ¡£ÕâÊÇÒ»¸öºÜºÃµÄÑ¡Ôñ£¬Ò²ÊÇÒ»¸öºÜÓĞÉÌÒµ¼ÛÖµµÄÑ¡Ôñ¡£}
+### {323}{}{Then why are the streets so empty here?}
+{323}{}{ÄÇÎªÊ²Ã´ÕâÀïµÄ½ÖµÀÈç´Ë¿Õ¿õ£¿}
+### {324}{}{Water attracts not only merchants. We are afraid of highway robbers and all sorts of speculators.}
+{324}{}{Ë®ÎüÒıµÄ²»½ö½öÊÇÉÌÈË¡£ÎÒÃÇº¦ÅÂ¸ßËÙ¹«Â·ÉÏµÄÇ¿µÁºÍ¸÷ÖÖ¸÷ÑùµÄÍ¶»úÕß¡£}
+### {325}{}{El agua no solo atrae a los comerciantes. Tenemos miedo a los bandidos y a los ladrones.}
+{325}{}{Õâ²»ÊÇÒ»¸öµ¥¶ÀµÄÉÌÈË¡£Tenemos miedo los bandidosºÍlos ladrones¡£}
+### {326}{}{Ugh, and it already seemed to me that this is another ghost town.}
+{326}{}{°¡£¬ÎÒÒÑ¾­¾õµÃÕâÊÇÁíÒ»¸ö¹í³ÇÁË¡£}
+### {327}{}{Tell us about the manager of your city.}
+{327}{}{¸æËßÎÒÃÇÄãËùÔÚ³ÇÊĞµÄ¾­Àí¡£}
+### {328}{}{Count Bustos. He runs the city from that huge mansion.}
+{328}{}{°ÍË¹ÍĞË¹²®¾ô¡£ËûÔÚÄÇ×ù¾Ş´óµÄºÀÕ¬Àï¹ÜÀí×ÅÕâ×ù³ÇÊĞ¡£}
+### {329}{}{El conde Bustos gobierna la ciudad desde esa gran mapsi.}
+{329}{}{Bustos gobiernala ciudad desde esa gran mapsi¡£}
+### {330}{}{Thank you, it helped me.}
+{330}{}{Ğ»Ğ»Äã£¬Ëü°ïÖúÁËÎÒ¡£}
+### {331}{}{In that mansion, right? I think I should check on him right now.}
+{331}{}{ÔÚÄÇ¶°ºÀÕ¬Àï£¬¶Ô°É£¿ÎÒÏëÎÒÏÖÔÚÓ¦¸ÃÈ¥¿´¿´Ëû¡£}
+### {332}{}{No, I mean, what kind of person is he. How do you feel about him?}
+{332}{}{²»£¬ÎÒµÄÒâË¼ÊÇ£¬ËûÊÇÊ²Ã´ÑùµÄÈË¡£Äã¾õµÃËûÔõÃ´Ñù£¿}
+### {333}{}{It's dangerous to discuss those who are sitting over you. We don't know each other that well.}
+{333}{}{ºÍ×øÔÚÄãÅÔ±ßµÄÈËÌÖÂÛÊÇºÜÎ£ÏÕµÄ¡£ÎÒÃÇ±Ë´Ë²»Ì«ÁË½â¡£}
+### {334}{}{No quiero hablar de ?l.}
+{334}{}{Ã»ÓĞ¾²Ö¹?l¡£}
+### {335}{}{Indeed, your fears are not in vain. Maybe another topic will be less slippery?}
+{335}{}{ÊÂÊµÉÏ£¬ÄãµÄ¿Ö¾å²¢Ã»ÓĞ°×·Ñ¡£Ò²ĞíÁíÒ»¸ö»°Ìâ»á²»ÄÇÃ´»¬£¿}
+### {336}{}{You're afraid of Bustos, and that says a lot. Now I don't want to ask anything either.}
+{336}{}{Äãº¦ÅÂ°ÍË¹ÍĞË¹£¬ÕâËµÃ÷ÁËºÜ¶à¡£ÏÖÔÚÎÒÒ²²»ÏëÎÊÈÎºÎÎÊÌâ¡£}
+### {337}{}{I mean, what kind of person is he. Do people admire him or fear him?}
+{337}{}{ÎÒµÄÒâË¼ÊÇ£¬ËûÊÇÊ²Ã´ÑùµÄÈË¡£ÈËÃÇÊÇÇÕÅåËû»¹ÊÇº¦ÅÂËû£¿}
+### {338}{}{A terrible man. Cruel, greedy, keeps everyone in subjection. No one will say anything against him here.}
+{338}{}{Ò»¸ö¿ÉÅÂµÄÈË¡£²ĞÈÌ£¬Ì°À·£¬ÈÃÃ¿¸öÈË¶¼·ş´Ó¡£ÔÚÕâÀïÃ»ÓĞÈË»áËµÈÎºÎ·´¶ÔËûµÄ»°¡£}
+### {339}{}{Es una persona terrible, es un tirano. aqui, nadie dir? nada malo de ?l.}
+{339}{}{ÕâÊÇÒ»¸ö¿ÉÅÂµÄÈËÎïĞÎÏó£¬Ò»¸öÌáÀ­Åµ¡£ÄÉµÏµÏ¶û? ¶ñ³ô?l¡£}
+### {340}{}{So he's holding on tight to the city. Thank you for your honesty.}
+{340}{}{ËùÒÔËû½ô½ô×¥×¡ÁËÕâ¸ö³ÇÊĞ¡£Ğ»Ğ»ÄãµÄ³ÏÊµ¡£}
+### {341}{}{Count Bustos is dead. Do you think the city will be better off without him?}
+{341}{}{°ÍË¹ÍĞË¹²®¾ôËÀÁË¡£ÄãÈÏÎªÃ»ÓĞËûÕâ¸ö³ÇÊĞ»á¸üºÃÂğ£¿}
+### {342}{}{He was a terrible man. Greedy and cruel, he ruled everything with an iron hand. Everyone was afraid to say something bad about him. But without him, we are an easy target for robbers.}
+{342}{}{ËûÊÇÒ»¸ö¿ÉÅÂµÄÈË¡£Ì°À·¶ø²ĞÈÌ£¬ËûÓÃÌúÍóÍ³ÖÎ×ÅÒ»ÇĞ¡£Ã¿¸öÈË¶¼º¦ÅÂËµËû²»ºÃµÄ»°¡£µ«Ã»ÓĞËû£¬ÎÒÃÇºÜÈİÒ×³ÉÎªÇ¿µÁµÄÄ¿±ê¡£}
+### {343}{}{?l era un tirano. Pero sin ?l, nos convertimos en un blanco f?cil para los ladrones.}
+{343}{}{?ÎÒÊÇµÙÀ­ÅµµÄÊ±´ú¡£Pero-sin?l¡¢ ÎŞ×ª»»?¶ÔladronesµÄcil¡£}
+### {344}{}{Yes, even his tyranny had a certain meaning.}
+{344}{}{ÊÇµÄ£¬¼´Ê¹ÊÇËûµÄ±©ÕşÒ²ÓĞÒ»¶¨µÄÒâÒå¡£}
 
-{350}{}{I'm going to head south. Will you come with me?}
-{351}{}{You're delusional. This is a deadly road.}
-{352}{}{Estes completamente loco. Es un camino mortal.}
-{353}{}{Sorry. I could use a guide in unfamiliar lands.}
-{354}{}{If you get to Rancho Dominguez, tell him that I'm alive and that there are settlements in the north too.}
-{355}{}{Cuando encuentres el rancho de Dominguez, cuentale sobre mi. Di que estoy vivo. Di que hay asentamientos en el norte.}
-{356}{}{Rancho Dominguez? Thank you, I'll give him your regards. But it won't be soon, let's continue the conversation for now.}
-{357}{}{I'll tell this Dominguez about you if I meet him. Bye.}
-{358}{}{I'm not going anywhere with you.}
-{359}{}{No voy a ninguna parte contigo.}
-{360}{}{Expected. Can you at least answer the questions?}
-{361}{}{Then stay here. Goodbye, el viejo.}
+### {350}{}{I'm going to head south. Will you come with me?}
+{350}{}{ÎÒÒªÍùÄÏ×ß¡£ÄãÔ¸ÒâºÍÎÒÒ»ÆğÈ¥Âğ£¿}
+### {351}{}{You're delusional. This is a deadly road.}
+{351}{}{ÄãÓĞÍıÏëÖ¢¡£ÕâÊÇÒ»ÌõÖÂÃüµÄµÀÂ·¡£}
+### {352}{}{Estes completamente loco. Es un camino mortal.}
+{352}{}{Estes completamente loco¡£ÕâÊÇÒ»¸ö·²ÈË¡£}
+### {353}{}{Sorry. I could use a guide in unfamiliar lands.}
+{353}{}{ºÜ±§Ç¸ÎÒ¿ÉÒÔÔÚÄ°ÉúµÄµØ·½ÕÒµ¼ÓÎ¡£}
+### {354}{}{If you get to Rancho Dominguez, tell him that I'm alive and that there are settlements in the north too.}
+{354}{}{Èç¹ûÄãµ½ÁË¶àÃ÷¸ñË¹ÄÁ³¡£¬¸æËßËûÎÒ»¹»î×Å£¬±±·½Ò²ÓĞ¶¨¾Óµã¡£}
+### {355}{}{Cuando encuentres el rancho de Dominguez, cuentale sobre mi. Di que estoy vivo. Di que hay asentamientos en el norte.}
+{355}{}{ÕâÊÇ¶àÃ÷¸ñË¹µÄ¹ÊÏç£¬Ò²ÊÇÎÒµÄ¹ÊÏç¡£ÕâÊÇ±±²¿µÄÒ»¸öµØÇø¡£}
+### {356}{}{Rancho Dominguez? Thank you, I'll give him your regards. But it won't be soon, let's continue the conversation for now.}
+{356}{}{À¼ÇÇ¡¤¶àÃ÷¸ñË¹£¿Ğ»Ğ»Äã£¬ÎÒ»á´úÄãÎÊºòËûµÄ¡£µ«Õâ²»»áºÜ¿ì£¬ÈÃÎÒÃÇÏÖÔÚ¼ÌĞø¶Ô»°¡£}
+### {357}{}{I'll tell this Dominguez about you if I meet him. Bye.}
+{357}{}{Èç¹ûÎÒ¼ûµ½¶àÃ÷¸ñË¹£¬ÎÒ»á¸æËßËû¹ØÓÚÄãµÄÊÂ¡£ÔÙ¼û}
+### {358}{}{I'm not going anywhere with you.}
+{358}{}{ÎÒÄÄ¶ùÒ²²»¸úÄãÈ¥¡£}
+### {359}{}{No voy a ninguna parte contigo.}
+{359}{}{Ã»ÓĞÒ»Ìõ´¬ÊÇµ¥·½ÃæµÄ¡£}
+### {360}{}{Expected. Can you at least answer the questions?}
+{360}{}{Ó¦Îª¡£ÄãÖÁÉÙÄÜ»Ø´ğÕâĞ©ÎÊÌâÂğ£¿}
+### {361}{}{Then stay here. Goodbye, el viejo.}
+{361}{}{ÄÇ¾ÍÁôÔÚÕâÀï¡£ÔÙ¼û£¬°£¶ûÎ¬Ò®»ô¡£}

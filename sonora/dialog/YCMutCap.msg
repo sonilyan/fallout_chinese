@@ -1,16 +1,31 @@
-{100}{}{You see the shadow commander.}
-{101}{}{Here is a super mutant shadow.}
-{102}{}{I won't thank you. But you deserve respect. See you again, strange creature.}
-{103}{}{Heap is so glad! So glad!}
+### {100}{}{You see the shadow commander.}
+{100}{}{Äã¿´µ½Ó°×ÓÖ¸»Ó¹ÙÁË¡£}
+### {101}{}{Here is a super mutant shadow.}
+{101}{}{ÕâÊÇÒ»¸ö³¬¼¶±äÖÖÓ°×Ó¡£}
+### {102}{}{I won't thank you. But you deserve respect. See you again, strange creature.}
+{102}{}{ÎÒ²»»á¸ĞĞ»ÄãµÄ¡£µ«ÄãÖµµÃ×ğ¾´¡£ÔÙ¼û£¬Ææ¹ÖµÄ¼Ò»ï¡£}
+### {103}{}{Heap is so glad! So glad!}
+{103}{}{Ï£ÆÕÌ«¸ßĞËÁË£¡Ì«¸ßĞËÁË£¡}
 
-{200}{}{Leave me, man! Stop... Are you not from the Brotherhood?}
-{201}{}{Listen, there's no time to explain, but I want to set you free. Just follow me and don't show yourself to the paladins.}
-{202}{}{Sit still, big guy, until I call.}
-{203}{}{So there's a bunch with you? Strange things. I've seen everyone, but this is the first time I've seen this.}
-{204}{}{I don't understand what you're up to, little man. But don't try to deceive me.}
-{205}{}{We'll talk when we get to a safe place. Let's go.}
-{206}{}{You're free now.}
-{207}{}{Explain, little man, what the hell does this all mean? Why would you help the shadow? Who sent you?}
-{208}{}{It's a Bunch. He wanted to help his squad to redeem himself.}
-{209}{}{Heap? Ho-ho, even the most stupid fighter can sometimes save a life. Surprised you, little man. Now I understand. Heap saw you as a strong commander. I don't mind. Let the Heap choose for himself with whom he will stay — with you or with the shadows. And while he's thinking, I'm going to camp. See you, strange creature.}
-{210}{}{Yes, see you later.}
+### {200}{}{Leave me, man! Stop... Are you not from the Brotherhood?}
+{200}{}{Àë¿ªÎÒ£¬»ï¼Æ£¡Í£Ö¹Äã²»ÊÇĞÖµÜ»áµÄÈËÂğ£¿}
+### {201}{}{Listen, there's no time to explain, but I want to set you free. Just follow me and don't show yourself to the paladins.}
+{201}{}{Ìı×Å£¬Ã»ÓĞÊ±¼ä½âÊÍ£¬µ«ÎÒÏëÈÃÄã×ÔÓÉ¡£¸úÎÒÀ´£¬²»ÒªÏòÊ¥ÆïÊ¿ÃÇÕ¹Ê¾×Ô¼º¡£}
+### {202}{}{Sit still, big guy, until I call.}
+{202}{}{×ø×Å²»¶¯£¬´ó¸ö×Ó£¬Ö±µ½ÎÒ´òµç»°¡£}
+### {203}{}{So there's a bunch with you? Strange things. I've seen everyone, but this is the first time I've seen this.}
+{203}{}{ËùÒÔÓĞÒ»ÈºÈËºÍÄãÔÚÒ»Æğ£¿Ææ¹ÖµÄÊÂÇé¡£ÎÒ¼û¹ıÃ¿¸öÈË£¬µ«ÕâÊÇÎÒµÚÒ»´Î¿´µ½Õâ¸ö¡£}
+### {204}{}{I don't understand what you're up to, little man. But don't try to deceive me.}
+{204}{}{ÎÒ²»Ã÷°×ÄãÔÚ¸ÉÊ²Ã´£¬Ğ¡¸ö×Ó¡£µ«±ğÏëÆÛÆ­ÎÒ¡£}
+### {205}{}{We'll talk when we get to a safe place. Let's go.}
+{205}{}{ÎÒÃÇµ½°²È«µÄµØ·½ºóÔÙÌ¸¡£ÎÒÃÇ×ß°É¡£}
+### {206}{}{You're free now.}
+{206}{}{ÄãÏÖÔÚÓĞ¿ÕÁË¡£}
+### {207}{}{Explain, little man, what the hell does this all mean? Why would you help the shadow? Who sent you?}
+{207}{}{½âÊÍÒ»ÏÂ£¬Ğ¡¸ö×Ó£¬Õâµ½µ×ÊÇÊ²Ã´ÒâË¼£¿ÄãÎªÊ²Ã´Òª°ïÖúÓ°×Ó£¿Ë­ÅÉÄãÀ´µÄ£¿}
+### {208}{}{It's a Bunch. He wanted to help his squad to redeem himself.}
+{208}{}{ÕâÊÇÒ»¸öBunch¡£ËûÏë°ïÖúËûµÄÇò¶ÓÍì»Ø×Ô¼ºµÄËğÊ§¡£}
+### {209}{}{Heap? Ho-ho, even the most stupid fighter can sometimes save a life. Surprised you, little man. Now I understand. Heap saw you as a strong commander. I don't mind. Let the Heap choose for himself with whom he will stay ? with you or with the shadows. And while he's thinking, I'm going to camp. See you, strange creature.}
+{209}{}{¶ÑºÇºÇ£¬¼´Ê¹ÊÇ×îÓŞ´ÀµÄÕ½Ê¿ÓĞÊ±Ò²ÄÜÕü¾ÈÒ»ÌõÉúÃü¡£ÈÃÄã´ó³ÔÒ»¾ª£¬Ğ¡¸ö×Ó¡£ÏÖÔÚÎÒÃ÷°×ÁË¡£Ï£ÆÕÈÏÎªÄãÊÇ¸öÇ¿ÓĞÁ¦µÄÖ¸»Ó¹Ù¡£ÎÒ²»½éÒâ¡£ÈÃ¶Ñ×Ô¼ºÑ¡ÔñºÍË­ÔÚÒ»Æğ? ÓëÄã»òÓëÒõÓ°¡£ÔÚËûË¼¿¼µÄÊ±ºò£¬ÎÒÒªÈ¥Â¶Óª¡£ÔÙ¼û£¬Ææ¹ÖµÄ¼Ò»ï¡£}
+### {210}{}{Yes, see you later.}
+{210}{}{ÊÇµÄ£¬»ØÍ·¼û¡£}

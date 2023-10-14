@@ -1,71 +1,139 @@
-{100}{}{You see Roy.}
-{101}{}{Here is the leader of a gang of black scavengers.}
-{102}{}{Adios.}
+### {100}{}{You see Roy.}
+{100}{}{Äã¿´µ½ÂŞÒÁÁË¡£}
+### {101}{}{Here is the leader of a gang of black scavengers.}
+{101}{}{ÕâÊÇÒ»°ïºÚÈËÊ°»ÄÕßµÄÍ·Ä¿¡£}
+### {102}{}{Adios.}
+{102}{}{ÔÙ¼û¡£}
 
-{200}{}{Hey, stop! This is our mining area. And we don't need you here. Get out of here.}
-{1200}{}{Stop! This is our mining area. And we don't need you here. Go away.}
-{201}{}{Ok.}
-{202}{}{Why on earth would I listen to you?}
-{203}{}{Are you looking for death or are you not friends with your head? So twist a little convolutions. This is OUR territory. Find yourself another factory and do whatever you want there. And don't get in here.}
-{204}{}{OK.}
-{205}{}{It was yours, and now it will be mine. It's simple.}
-{206}{}{Where are you going? Have you lost all fear? Get out of here!}
-{1206}{}{Where are you going? Have you lost all fear? Get out of here!}
-{207}{}{Stop! This is our te... Damn, super mutant! All ready to fight!}
-{208}{}{Oh, no, no, wait...}
-{209}{}{OK. It's your own fault, asshole...}
+### {200}{}{Hey, stop! This is our mining area. And we don't need you here. Get out of here.}
+{200}{}{ºÙ£¬Í£ÏÂ£¡ÕâÊÇÎÒÃÇµÄ¿óÇø¡£ÎÒÃÇÕâÀï²»ĞèÒªÄã¡£Àë¿ªÕâÀï¡£}
+### {1200}{}{Stop! This is our mining area. And we don't need you here. Go away.}
+{1200}{}{Í£Ö¹ÕâÊÇÎÒÃÇµÄ¿óÇø¡£ÎÒÃÇÕâÀï²»ĞèÒªÄã¡£×ß¿ª¡£}
+### {201}{}{Ok.}
+{201}{}{ºÃ°¡}
+### {202}{}{Why on earth would I listen to you?}
+{202}{}{ÎÒµ½µ×ÎªÊ²Ã´ÒªÌıÄãµÄ£¿}
+### {203}{}{Are you looking for death or are you not friends with your head? So twist a little convolutions. This is OUR territory. Find yourself another factory and do whatever you want there. And don't get in here.}
+{203}{}{ÄãÊÇÔÚÑ°ÕÒËÀÍö£¬»¹ÊÇÄãµÄÍ·ÄÔ²»ÊÇÅóÓÑ£¿ËùÒÔÉÔÎ¢Å¤×ªÒ»ÏÂ¡£ÕâÊÇÎÒÃÇµÄÁìÍÁ¡£ÕÒÁíÒ»¼Ò¹¤³§£¬ÔÚÄÇÀï×öÈÎºÎÄãÏë×öµÄÊÂ¡£±ğ½øÀ´¡£}
+### {204}{}{OK.}
+{204}{}{ºÃ°¡}
+### {205}{}{It was yours, and now it will be mine. It's simple.}
+{205}{}{ËüÊÇÄãµÄ£¬ÏÖÔÚ½«ÊÇÎÒµÄ¡£ÕâºÜ¼òµ¥¡£}
+### {206}{}{Where are you going? Have you lost all fear? Get out of here!}
+{206}{}{ÄãÒªÈ¥ÄÄÀï£¿ÄãÊ§È¥ÁËËùÓĞµÄ¿Ö¾åÂğ£¿¹ö³öÈ¥£¡}
+### {1206}{}{Where are you going? Have you lost all fear? Get out of here!}
+{1206}{}{ÄãÒªÈ¥ÄÄÀï£¿ÄãÊ§È¥ÁËËùÓĞµÄ¿Ö¾åÂğ£¿¹ö³öÈ¥£¡}
+### {207}{}{Stop! This is our te... Damn, super mutant! All ready to fight!}
+{207}{}{Í£Ö¹ÕâÊÇÎÒÃÇµÄ¡£¡£¡£¸ÃËÀ£¬³¬¼¶±äÖÖÈË£¡Ò»ÇĞ×¼±¸Õ½¶·£¡}
+### {208}{}{Oh, no, no, wait...}
+{208}{}{Å¶£¬²»£¬²»£¬µÈµÈ¡£¡£¡£}
+### {209}{}{OK. It's your own fault, asshole...}
+{209}{}{ºÃ°É£¬ÕâÊÇÄã×Ô¼ºµÄ´í£¬»ìµ°¡£¡£¡£}
 
-{210}{}{I know what's going on here. You work without the permission of the Old City. And besides, you have enslaved the ghouls.}
-{211}{}{Yes. And what?}
-{212}{}{Nothing. Just curious how it happened.}
-{213}{}{You have to let go of the ghouls.}
-{214}{}{Do you feel sorry for ghouls? Their century has long passed. Let them bring at least some benefit.}
-{215}{}{Why do you need ghouls?}
-{216}{}{Because we are not made of steel. Do you understand? We don't have enough protection to work in a toxic zone. And ghouls can work there for hours without harm to their health. So let them work, they bring benefits to people.}
-{217}{}{Clear.}
-{218}{}{Why do you refuse to receive Seth's Seal?}
-{219}{}{The riches of Old Times belong to the one who finds them. That's fair. And rightly so. We have the same rights to them as the undead. The hell we're going to leave them these riches!}
-{220}{}{What are you looking for here anyway?}
-{221}{}{Everything that will be useful for sale in the Hub. But the most relish here is the chips. There are guys in the north who will pay well for them.}
-{222}{}{And now I want to know, what do you care about ghouls and our factory?}
-{223}{}{None. Can I just leave?}
-{224}{}{You have to let go of the ghouls.}
-{225}{}{Do you feel sorry for Gulichek? Their century has long passed. Let them bring at least some benefit. Or will you work instead of them, eh?}
-{226}{}{The hell with it. I'll just load the gun and shoot you all.}
-{227}{}{Uh, no, this job is not for me.}
-{228}{}{Then get out of our territory!}
-{229}{}{OK.}
-{230}{}{Why, a great idea. What needs to be done so that you let go of the ghouls?}
-{231}{}{Surprised! Okay, bring 10 chips. This is enough for us to recoup our suffering. And after that we will go to trade north.}
-{232}{}{Agreed.}
-{233}{}{You've become quite impudent. It will be easier to take all of you out of here feet first!}
-{234}{}{I'm still waiting for the chip. Come on, surprise me!}
-{235}{}{Fuck you!}
-{236}{}{I'm really trying. Soon they will be at your feet.}
-{237}{}{Here is one chip.}
-{238}{}{Here are the chips, }
-{239}{}{pcs.}
-{240}{}{That's what you need. There's more left }
-{241}{}{ pcs. Come on, get moving.}
-{242}{}{The last one? Ho-ho, and you're quicker than these guys. Great. You can have fun with your green-skinned friends. There's nothing else for us to do here. Ringing caps and hub women are waiting for us in the Maltese Falcon! Hey, brothers, get on your horses!}
-{243}{}{I don't think anyone will miss you here.}
-{244}{}{Bye.}
-{245}{}{Ugh! I thought you were another ghoul. And you're just a freak. We don't need them. Get out of here.}
+### {210}{}{I know what's going on here. You work without the permission of the Old City. And besides, you have enslaved the ghouls.}
+{210}{}{ÎÒÖªµÀÕâÀï·¢ÉúÁËÊ²Ã´¡£ÄãÎ´¾­ÀÏ³ÇÔÊĞí¾Í¹¤×÷¡£´ËÍâ£¬Äã»¹Å«ÒÛÁËÊ³Ê¬¹í¡£}
+### {211}{}{Yes. And what?}
+{211}{}{¶ÔÊ²Ã´£¿}
+### {212}{}{Nothing. Just curious how it happened.}
+{212}{}{Ã»ÓĞÊ²Ã´Ö»ÊÇºÃÆæËüÊÇÔõÃ´·¢ÉúµÄ¡£}
+### {213}{}{You have to let go of the ghouls.}
+{213}{}{Äã±ØĞë·Å¿ªÊ³Ê¬¹í¡£}
+### {214}{}{Do you feel sorry for ghouls? Their century has long passed. Let them bring at least some benefit.}
+{214}{}{ÄãÎªÊ³Ê¬¹í¸Ğµ½ÄÑ¹ıÂğ£¿ËûÃÇµÄÊÀ¼ÍÔçÒÑ¹ıÈ¥¡£ÈÃËûÃÇÖÁÉÙ´øÀ´Ò»Ğ©ºÃ´¦¡£}
+### {215}{}{Why do you need ghouls?}
+{215}{}{ÄãÎªÊ²Ã´ĞèÒªÊ³Ê¬¹í£¿}
+### {216}{}{Because we are not made of steel. Do you understand? We don't have enough protection to work in a toxic zone. And ghouls can work there for hours without harm to their health. So let them work, they bring benefits to people.}
+{216}{}{ÒòÎªÎÒÃÇ²»ÊÇ¸Ö×öµÄ¡£ÄãÃ÷°×Âğ£¿ÎÒÃÇÃ»ÓĞ×ã¹»µÄ±£»¤À´ÔÚÓĞ¶¾ÇøÓò¹¤×÷¡£Ê³Ê¬¹í¿ÉÒÔÔÚÄÇÀï¹¤×÷ÊıĞ¡Ê±¶ø²»»áËğº¦ËûÃÇµÄ½¡¿µ¡£ËùÒÔÈÃËûÃÇ¹¤×÷£¬ËûÃÇ¸øÈËÃÇ´øÀ´ºÃ´¦¡£}
+### {217}{}{Clear.}
+{217}{}{Çå³şµÄ}
+### {218}{}{Why do you refuse to receive Seth's Seal?}
+{218}{}{ÄãÎªÊ²Ã´¾Ü¾ø½ÓÊÜÈüË¹µÄ·âÓ¡£¿}
+### {219}{}{The riches of Old Times belong to the one who finds them. That's fair. And rightly so. We have the same rights to them as the undead. The hell we're going to leave them these riches!}
+{219}{}{¾ÉÊ±´úµÄ²Æ¸»ÊôÓÚ·¢ÏÖËüÃÇµÄÈË¡£ÕâºÜ¹«Æ½¡£ÕâÊÇÕıÈ·µÄ¡£ÎÒÃÇ¶ÔËûÃÇºÍÍöÁéÓĞÍ¬ÑùµÄÈ¨Àû¡£ÎÒÃÇÒª°ÑÕâĞ©²Æ¸»Áô¸øËûÃÇ£¡}
+### {220}{}{What are you looking for here anyway?}
+{220}{}{ÄãÔÚÕâÀïÕÒÊ²Ã´£¿}
+### {221}{}{Everything that will be useful for sale in the Hub. But the most relish here is the chips. There are guys in the north who will pay well for them.}
+{221}{}{ËùÓĞÓĞÓÃµÄ¶«Î÷¶¼¿ÉÒÔÔÚHubÖĞ³öÊÛ¡£µ«ÕâÀï×îÁîÈË½ò½òÀÖµÀµÄÊÇÊíÆ¬¡£±±·½ÓĞĞ©ÈË»áÎªËûÃÇ¸¶³ö¸ß°ºµÄ´ú¼Û¡£}
+### {222}{}{And now I want to know, what do you care about ghouls and our factory?}
+{222}{}{ÏÖÔÚÎÒÏëÖªµÀ£¬Äã¹ØĞÄÊ³Ê¬¹íºÍÎÒÃÇµÄ¹¤³§Âğ£¿}
+### {223}{}{None. Can I just leave?}
+{223}{}{Ã»ÓĞÒ»¸öÎÒ¿ÉÒÔÀë¿ªÂğ£¿}
+### {224}{}{You have to let go of the ghouls.}
+{224}{}{Äã±ØĞë·Å¿ªÊ³Ê¬¹í¡£}
+### {225}{}{Do you feel sorry for Gulichek? Their century has long passed. Let them bring at least some benefit. Or will you work instead of them, eh?}
+{225}{}{ÄãÎª¹ÅÁ¦ÇĞ¿Ë¸Ğµ½ÄÑ¹ıÂğ£¿ËûÃÇµÄÊÀ¼ÍÔçÒÑ¹ıÈ¥¡£ÈÃËûÃÇÖÁÉÙ´øÀ´Ò»Ğ©ºÃ´¦¡£»òÕßÄã»á´úÌæËûÃÇ¹¤×÷£¬àÅ£¿}
+### {226}{}{The hell with it. I'll just load the gun and shoot you all.}
+{226}{}{¼û¹íÈ¥°É£¬ÎÒ°ÑÇ¹×°ÉÏ×Óµ¯£¬°ÑÄãÃÇ¶¼ÉäÁË¡£}
+### {227}{}{Uh, no, this job is not for me.}
+{227}{}{²»£¬Õâ·İ¹¤×÷²»ÊÊºÏÎÒ¡£}
+### {228}{}{Then get out of our territory!}
+{228}{}{ÄÇ¾Í¹ö³öÎÒÃÇµÄµØÅÌ£¡}
+### {229}{}{OK.}
+{229}{}{ºÃ°¡}
+### {230}{}{Why, a great idea. What needs to be done so that you let go of the ghouls?}
+{230}{}{ÎªÊ²Ã´£¬Ò»¸öºÃÖ÷Òâ¡£ÄãĞèÒª×öĞ©Ê²Ã´²ÅÄÜ·Å¿ªÊ³Ê¬¹í£¿}
+### {231}{}{Surprised! Okay, bring 10 chips. This is enough for us to recoup our suffering. And after that we will go to trade north.}
+{231}{}{¾ªÑÈºÃµÄ£¬´ø10¸ö³ïÂë¡£Õâ×ãÒÔÈÃÎÒÃÇÃÖ²¹Í´¿à¡£Ö®ºóÎÒÃÇ½«Ç°Íù±±·½½øĞĞÃ³Ò×¡£}
+### {232}{}{Agreed.}
+{232}{}{Í¬Òâ¡£}
+### {233}{}{You've become quite impudent. It will be easier to take all of you out of here feet first!}
+{233}{}{Äã±äµÃÏàµ±ºñÑÕÎŞ³Ü¡£ÏÈ°ÑÄãÃÇ´ø³öÈ¥»á¸üÈİÒ×£¡}
+### {234}{}{I'm still waiting for the chip. Come on, surprise me!}
+{234}{}{ÎÒ»¹ÔÚµÈĞ¾Æ¬¡£À´°É£¬¸øÎÒÒ»¸ö¾ªÏ²£¡}
+### {235}{}{Fuck you!}
+{235}{}{²ÙÄã£¡}
+### {236}{}{I'm really trying. Soon they will be at your feet.}
+{236}{}{ÎÒÕæµÄºÜÅ¬Á¦¡£ºÜ¿ìËûÃÇ¾Í»áÔÚÄãµÄ½ÅÏÂ¡£}
+### {237}{}{Here is one chip.}
+{237}{}{ÕâÊÇÒ»¸öĞ¾Æ¬¡£}
+### {238}{}{Here are the chips, }
+{238}{}{ÕâÊÇĞ¾Æ¬£¬}
+### {239}{}{pcs.}
+{239}{}{¸ö¡£}
+### {240}{}{That's what you need. There's more left }
+{240}{}{Õâ¾ÍÊÇÄãĞèÒªµÄ¡£»¹ÓĞ¸ü¶à}
+### {241}{}{ pcs. Come on, get moving.}
+{241}{}{pcs¡£À´°É£¬ĞĞ¶¯ÆğÀ´¡£}
+### {242}{}{The last one? Ho-ho, and you're quicker than these guys. Great. You can have fun with your green-skinned friends. There's nothing else for us to do here. Ringing caps and hub women are waiting for us in the Maltese Falcon! Hey, brothers, get on your horses!}
+{242}{}{×îºóÒ»¸ö£¿ºÇºÇ£¬Äã±ÈÕâĞ©¼Ò»ï¿ì¡£Ì«°ôÁËÄã¿ÉÒÔºÍÄãµÄÂÌÆ¤·ôÅóÓÑÍæµÃºÜ¿ªĞÄ¡£ÎÒÃÇÔÚÕâÀïÃ»ÓĞ±ğµÄÊÂ¿É×ö¡£Ringing capsºÍhub womenÔÚÂí¶úËûÁÔÓ¥ºÅµÈ×ÅÎÒÃÇ£¡ºÙ£¬ĞÖµÜÃÇ£¬¿ìÆïÉÏÄãÃÇµÄÂí£¡}
+### {243}{}{I don't think anyone will miss you here.}
+{243}{}{ÎÒÏëÃ»ÓĞÈË»áÔÚÕâÀïÏëÄîÄã¡£}
+### {244}{}{Bye.}
+{244}{}{ÔÙ¼û}
+### {245}{}{Ugh! I thought you were another ghoul. And you're just a freak. We don't need them. Get out of here.}
+{245}{}{°¡£¡ÎÒÒÔÎªÄãÊÇÁíÒ»¸öÊ³Ê¬¹í¡£¶øÄãÖ»ÊÇ¸ö¹ÖÌ¥¡£ÎÒÃÇ²»ĞèÒªËüÃÇ¡£Àë¿ªÕâÀï¡£}
 
-{250}{}{I was sent by the mayor of the Old Town.}
-{251}{}{Yes? And what does he want?}
-{252}{}{Nothing. I just had to see what you were doing here.}
-{253}{}{He had some kind of suggestion. But I forgot which one. And it doesn't matter — I was going to kill you all anyway!}
-{1253}{}{He had some kind of suggestion. But I forgot which one. And it doesn't matter — I was going to kill you all anyway!}
-{254}{}{He has a suggestion. He will give you the Seal of Set and open a collaboration. But you have to collect chips from this factory for him in a short time and release the forced ghouls.}
-{255}{}{So chips are important to gulichek, right? Ha, yes, we hit a gold mine! Okay, Seth's seal is an important thing, if you think about it. We won't have to carry tons of things far, we won't be oppressed and in general — we will now become important people in the city, right? There's just one "but".}
-{256}{}{What is it?}
-{257}{}{This factory is one fucking mole—rat hole! There are a lot of dangers and high radiation in places. And I also don't know a damn thing about all this technology. That's why I make ghouls work — they don't care about radiation and they know well what's what. Therefore, if the "big boss" wants to fulfill the contract quickly, someone will have to work with pens in the danger zone.}
-{258}{}{Apparently, only I can speed up this process.}
-{259}{}{Great. Bring 10 chips.}
-{260}{}{Agreed.}
-{261}{}{Completely oborzel? I'll collect the chips and give them to you instead. Get the fuck out of here!}
-{262}{}{The last one? Ho-ho, and you're quicker than these guys. Great. You can have fun with your green-skinned friends. There's nothing else for us to do here. Ringing caps and hub women are waiting for us in the Maltese Falcon! Hey, brothers, get on your horses!}
-{263}{}{The last one? Ho-ho, and you turned out to be more agile than these guys. Then we'll figure it out for ourselves. Jangling caps and booze are waiting for us in the Old Town. Hey, brothers, get on your horses!}
-{264}{}{It's done. It's really time to go back to the Old Town.}
-{265}{}{Don't get cocky. Now the ghouls are the masters here. You will work for them and follow their rules.}
+### {250}{}{I was sent by the mayor of the Old Town.}
+{250}{}{ÎÒÊÇÀÏ³ÇÇøÊĞ³¤ÅÉÀ´µÄ¡£}
+### {251}{}{Yes? And what does he want?}
+{251}{}{¶ÔËûÏëÒªÊ²Ã´£¿}
+### {252}{}{Nothing. I just had to see what you were doing here.}
+{252}{}{Ã»ÓĞÊ²Ã´ÎÒÖ»ÊÇÏë¿´¿´ÄãÔÚÕâÀï×öÊ²Ã´¡£}
+### {253}{}{He had some kind of suggestion. But I forgot which one. And it doesn't matter ? I was going to kill you all anyway!}
+{253}{}{ËûÌá³öÁËÒ»Ğ©½¨Òé¡£µ«ÎÒÍüÁËÊÇÄÄÒ»¸ö¡£Õâ²¢²»ÖØÒª? ÎŞÂÛÈçºÎ£¬ÎÒ¶¼ÒªÉ±ÁËÄãÃÇ£¡}
+### {1253}{}{He had some kind of suggestion. But I forgot which one. And it doesn't matter ? I was going to kill you all anyway!}
+{1253}{}{ËûÌá³öÁËÒ»Ğ©½¨Òé¡£µ«ÎÒÍüÁËÊÇÄÄÒ»¸ö¡£Õâ²¢²»ÖØÒª? ÎŞÂÛÈçºÎ£¬ÎÒ¶¼ÒªÉ±ÁËÄãÃÇ£¡}
+### {254}{}{He has a suggestion. He will give you the Seal of Set and open a collaboration. But you have to collect chips from this factory for him in a short time and release the forced ghouls.}
+{254}{}{ËûÓĞ¸ö½¨Òé¡£Ëû»á¸øÄã·âÓ¡²¢¿ªÆôºÏ×÷¡£µ«Äã±ØĞëÔÚ¶ÌÊ±¼äÄÚÎªËû´ÓÕâ¼Ò¹¤³§ÊÕ¼¯Ğ¾Æ¬£¬²¢ÊÍ·Å±»Ç¿ÆÈµÄÊ³Ê¬¹í¡£}
+### {255}{}{So chips are important to gulichek, right? Ha, yes, we hit a gold mine! Okay, Seth's seal is an important thing, if you think about it. We won't have to carry tons of things far, we won't be oppressed and in general ? we will now become important people in the city, right? There's just one "but".}
+{255}{}{ËùÒÔĞ¾Æ¬¶Ô¹ÅÀûÇĞ¿ËºÜÖØÒª£¬¶Ô°É£¿¹ş£¬ÊÇµÄ£¬ÎÒÃÇÅöµ½½ğ¿óÁË£¡ºÃ°É£¬Èç¹ûÄã×ĞÏ¸ÏëÏë£¬ÈüË¹µÄÓ¡ÕÂÊÇÒ»¼şÖØÒªµÄÊÂÇé¡£ÎÒÃÇ²»±Ø°ÑºÜ¶à¶«Î÷´øµÃºÜÔ¶£¬ÎÒÃÇ²»»á±»Ñ¹ÆÈ£¬¶øÇÒ×ÜµÄÀ´Ëµ? ÎÒÃÇÏÖÔÚ½«³ÉÎªÕâ¸ö³ÇÊĞµÄÖØÒªÈËÎï£¬¶Ô°É£¿Ö»ÓĞÒ»¸ö¡°µ«ÊÇ¡±¡£}
+### {256}{}{What is it?}
+{256}{}{ËüÊÇÊ²Ã´£¿}
+### {257}{}{This factory is one fucking mole?rat hole! There are a lot of dangers and high radiation in places. And I also don't know a damn thing about all this technology. That's why I make ghouls work ? they don't care about radiation and they know well what's what. Therefore, if the "big boss" wants to fulfill the contract quickly, someone will have to work with pens in the danger zone.}
+{257}{}{Õâ¼Ò¹¤³§ÊÇÒ»¸ö¸ÃËÀµÄ÷úÊó?ÀÏÊó¶´£¡ÓĞĞ©µØ·½ÓĞºÜ¶àÎ£ÏÕºÍ¸ß·øÉä¡£¶øÇÒÎÒ¶ÔÕâĞ©¼¼ÊõÒ»ÎŞËùÖª¡£Õâ¾ÍÊÇÎªÊ²Ã´ÎÒÈÃÊ³Ê¬¹í¹¤×÷? ËûÃÇ²»ÔÚºõ·øÉä£¬ËûÃÇºÜÇå³şÊ²Ã´ÊÇ·øÉä¡£Òò´Ë£¬Èç¹û¡°´óÀÏ°å¡±ÏëÑ¸ËÙÂÄĞĞºÏÍ¬£¬¾Í±ØĞëÓĞÈËÔÚÎ£ÏÕµØ´øÓÃ±Ê¹¤×÷¡£}
+### {258}{}{Apparently, only I can speed up this process.}
+{258}{}{ÏÔÈ»£¬Ö»ÓĞÎÒ²ÅÄÜ¼Ó¿ìÕâ¸ö¹ı³Ì¡£}
+### {259}{}{Great. Bring 10 chips.}
+{259}{}{Ì«°ôÁË´ø10¸ö³ïÂë¡£}
+### {260}{}{Agreed.}
+{260}{}{Í¬Òâ¡£}
+### {261}{}{Completely oborzel? I'll collect the chips and give them to you instead. Get the fuck out of here!}
+{261}{}{ÍêÈ«ÊÇoborzel£¿ÎÒ»á°Ñ³ïÂëÊÕ¼¯ÆğÀ´½»¸øÄã¡£¹ö³öÈ¥£¡}
+### {262}{}{The last one? Ho-ho, and you're quicker than these guys. Great. You can have fun with your green-skinned friends. There's nothing else for us to do here. Ringing caps and hub women are waiting for us in the Maltese Falcon! Hey, brothers, get on your horses!}
+{262}{}{×îºóÒ»¸ö£¿ºÇºÇ£¬Äã±ÈÕâĞ©¼Ò»ï¿ì¡£Ì«°ôÁËÄã¿ÉÒÔºÍÄãµÄÂÌÆ¤·ôÅóÓÑÍæµÃºÜ¿ªĞÄ¡£ÎÒÃÇÔÚÕâÀïÃ»ÓĞ±ğµÄÊÂ¿É×ö¡£Ringing capsºÍhub womenÔÚÂí¶úËûÁÔÓ¥ºÅµÈ×ÅÎÒÃÇ£¡ºÙ£¬ĞÖµÜÃÇ£¬¿ìÆïÉÏÄãÃÇµÄÂí£¡}
+### {263}{}{The last one? Ho-ho, and you turned out to be more agile than these guys. Then we'll figure it out for ourselves. Jangling caps and booze are waiting for us in the Old Town. Hey, brothers, get on your horses!}
+{263}{}{×îºóÒ»¸ö£¿ºÇºÇ£¬Ô­À´Äã±ÈÕâĞ©¼Ò»ï¸üÃô½İ¡£È»ºóÎÒÃÇ×Ô¼ºÏë°ì·¨¡£ĞúÄÖµÄÃ±×ÓºÍ¾ÆÔÚÀÏ³ÇÇøµÈ×ÅÎÒÃÇ¡£ºÙ£¬ĞÖµÜÃÇ£¬¿ìÆïÉÏÄãÃÇµÄÂí£¡}
+### {264}{}{It's done. It's really time to go back to the Old Town.}
+{264}{}{ËüÍê³ÉÁË¡£ÊÇÊ±ºò»Øµ½ÀÏ³ÇÇøÁË¡£}
+### {265}{}{Don't get cocky. Now the ghouls are the masters here. You will work for them and follow their rules.}
+{265}{}{²»Òª×Ô´ó¡£ÏÖÔÚÊ³Ê¬¹íÊÇÕâÀïµÄÖ÷ÈË¡£Äã½«ÎªËûÃÇ¹¤×÷²¢×ñÊØËûÃÇµÄ¹æÔò¡£}

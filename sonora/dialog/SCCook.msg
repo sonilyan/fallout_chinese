@@ -1,134 +1,260 @@
-{100}{}{You see Corwin.}
-{101}{}{In front of you is the kitchen attendant. He hums a silly song about beans and beans under his nose.}
-{102}{}{Now is not the time to chat with the locals.}
-{103}{}{?}
+### {100}{}{You see Corwin.}
+{100}{}{Äã¿´µ½ÁË¿ÆÎÂ¡£}
+### {101}{}{In front of you is the kitchen attendant. He hums a silly song about beans and beans under his nose.}
+{101}{}{ÄãÃæÇ°ÊÇ³ø·¿·şÎñÔ±¡£Ëûºß×ÅÒ»Ê×¹ØÓÚ¶¹×ÓºÍ¶¹×ÓµÄÓŞ´ÀµÄ¸è¡£}
+### {102}{}{Now is not the time to chat with the locals.}
+{102}{}{ÏÖÔÚ²»ÊÇºÍµ±µØÈËÁÄÌìµÄÊ±ºò¡£}
+### {103}{}{?}
+{103}{}{£¿}
 
 #(Cook hums the words from the movie "Deserters" 1950)
-{110}{}{ˆ Beans... pea... green bean.. beans... ˆ}
-{111}{}{ˆ In morphlot, everyone is friendly and strong. ˆ}
-{112}{}{ˆ After all, they eat cutlets, pasta and dumplings... ˆ}
-{113}{}{ˆ ...And the landsmen eat garbage. ˆ}
-{114}{}{ˆ Morphlot gets first-class trout. ˆ}
-{115}{}{ˆ ...And to the landsmen - one bean. ˆ}
-{116}{}{ˆ Beans... pea... green bean.. Beans... }
-{117}{}{ And this sausage is as hard as a paladin's hand. ˆ}
-{118}{}{ˆ Morphlot is served on the table with napkins and salt... ˆ}
-{119}{}{ˆ ...And one bean for the landsmen. One bean. ˆ}
+### {110}{}{? Beans... pea... green bean.. beans... ?}
+{110}{}{? ¶¹×Ó¡£¡£¡£Íã¶¹ËÄ¼¾¶¹¶¹×Ó¡£¡£¡£?}
+### {111}{}{? In morphlot, everyone is friendly and strong. ?}
+{111}{}{? ÔÚmorphlotÖĞ£¬Ã¿¸öÈË¶¼ºÜÓÑºÃ£¬ºÜÇ¿×³¡£?}
+### {112}{}{? After all, they eat cutlets, pasta and dumplings... ?}
+{112}{}{? ±Ï¾¹£¬ËûÃÇ³ÔÈâÅÅ¡¢Òâ´óÀûÃæºÍ½È×Ó¡£¡£¡£?}
+### {113}{}{? ...And the landsmen eat garbage. ?}
+{113}{}{? ...Ô°ÁÖ¹¤ÈË³ÔÀ¬»ø¡£?}
+### {114}{}{? Morphlot gets first-class trout. ?}
+{114}{}{? MorphlotÓĞÒ»Á÷µÄ÷®Óã¡£?}
+### {115}{}{? ...And to the landsmen - one bean. ?}
+{115}{}{? ...»¹ÓĞ¸øÂ½Õ½¶ÓµÄÒ»¿Å¶¹×Ó¡£?}
+### {116}{}{? Beans... pea... green bean.. Beans... }
+{116}{}{? ¶¹×Ó¡£¡£¡£Íã¶¹ËÄ¼¾¶¹¶¹×Ó¡£¡£¡£}
+### {117}{}{ And this sausage is as hard as a paladin's hand. ?}
+{117}{}{Õâ¸ùÏã³¦ÏñÊ¥ÆïÊ¿µÄÊÖÒ»ÑùÓ²¡£?}
+### {118}{}{? Morphlot is served on the table with napkins and salt... ?}
+{118}{}{? MorphlotÓë²Í½íÖ½ºÍÑÎÒ»Æğ·ÅÔÚ×À×ÓÉÏ¡£¡£¡£?}
+### {119}{}{? ...And one bean for the landsmen. One bean. ?}
+{119}{}{? ...»¹ÓĞÒ»¿Å¶¹×Ó¸øÂ½Õ½¶Ó¶ÓÔ±¡£Ò»¿Å¶¹×Ó¡£?}
 
-{200}{}{Na-na-na... Loo-boo-doo... Cough-cough-cough... Ugh.}
-{201}{}{Hey.}
-{202}{}{Ah! What? What is it? Don't scare me like that.}
-{203}{}{What are you doing?}
-{204}{}{Me? I sing...}
-{205}{}{And you call this singing?}
-{206}{}{Don't you like it very much?}
-{207}{}{I really don't like it.}
-{208}{}{But I can't change the voice... And who are you? I haven't seen you before.}
-{209}{}{None of your business, Private. Keep working.}
-{210}{}{What are you. The main thing is that you like it. I'm just here in passing.}
-{211}{}{Exactly. Who are you anyway? I haven't seen you before.}
-{212}{}{I have recently been in the service of the Brotherhood.}
-{213}{}{Oh, congratulations. Can I continue working?}
-{214}{}{Of course, go on, novice.}
-{215}{}{A civilian. I have a security clearance.}
-{216}{}{Well, it's none of my business. But no outsiders are allowed in the kitchen.}
-{217}{}{Of course, I'm coming out now.}
-{218}{}{Don't distract him.}
-{219}{}{See you later.}
+### {200}{}{Na-na-na... Loo-boo-doo... Cough-cough-cough... Ugh.}
+{200}{}{²»£¬²»£¬²»¡£¡£¡£ÎØÎØ¡£¡£¡£¿ÈËÔ¿ÈËÔ¡£¡£¡£°¡¡£}
+### {201}{}{Hey.}
+{201}{}{ºÙ}
+### {202}{}{Ah! What? What is it? Don't scare me like that.}
+{202}{}{°¡£¡Ê²Ã´ËüÊÇÊ²Ã´£¿±ğÄÇÑùÏÅÎÒ¡£}
+### {203}{}{What are you doing?}
+{203}{}{ÄãÔÚ¸ÉÊ²Ã´£¿}
+### {204}{}{Me? I sing...}
+{204}{}{ÎÒÎÒ³ª¸è¡£¡£¡£}
+### {205}{}{And you call this singing?}
+{205}{}{Äã³ÆÖ®Îª³ª¸è£¿}
+### {206}{}{Don't you like it very much?}
+{206}{}{Äã²»ÊÇºÜÏ²»¶Âğ£¿}
+### {207}{}{I really don't like it.}
+{207}{}{ÎÒÕæµÄ²»Ï²»¶¡£}
+### {208}{}{But I can't change the voice... And who are you? I haven't seen you before.}
+{208}{}{µ«ÎÒÎŞ·¨¸Ä±äÉùÒô¡£¡£¡£ÄãÊÇË­£¿ÎÒÒÔÇ°Ã»¼û¹ıÄã¡£}
+### {209}{}{None of your business, Private. Keep working.}
+{209}{}{²»¹ØÄãµÄÊÂ£¬¶şµÈ±ø¡£¼ÌĞø¹¤×÷¡£}
+### {210}{}{What are you. The main thing is that you like it. I'm just here in passing.}
+{210}{}{ÄãÊÇÊ²Ã´¡£×îÖØÒªµÄÊÇÄãÏ²»¶Ëü¡£ÎÒÖ»ÊÇÂ·¹ıÕâÀï¡£}
+### {211}{}{Exactly. Who are you anyway? I haven't seen you before.}
+{211}{}{È·ÇĞµØÄãµ½µ×ÊÇË­£¿ÎÒÒÔÇ°Ã»¼û¹ıÄã¡£}
+### {212}{}{I have recently been in the service of the Brotherhood.}
+{212}{}{ÎÒ×î½üÒ»Ö±ÔÚÎªĞÖµÜ»á·şÎñ¡£}
+### {213}{}{Oh, congratulations. Can I continue working?}
+{213}{}{Å¶£¬×£ºØÄã¡£ÎÒ¿ÉÒÔ¼ÌĞø¹¤×÷Âğ£¿}
+### {214}{}{Of course, go on, novice.}
+{214}{}{µ±È»£¬¼ÌĞø°É£¬ĞÂÊÖ¡£}
+### {215}{}{A civilian. I have a security clearance.}
+{215}{}{Æ½Ãñ¡£ÎÒÓĞ°²È«Ğí¿É¡£}
+### {216}{}{Well, it's none of my business. But no outsiders are allowed in the kitchen.}
+{216}{}{Õâ²»¹ØÎÒµÄÊÂ¡£µ«³ø·¿Àï²»ÔÊĞíÍâÈË½øÈë¡£}
+### {217}{}{Of course, I'm coming out now.}
+{217}{}{µ±È»£¬ÎÒÏÖÔÚÒª³öÀ´ÁË¡£}
+### {218}{}{Don't distract him.}
+{218}{}{²»Òª·ÖÉ¢ËûµÄ×¢ÒâÁ¦¡£}
+### {219}{}{See you later.}
+{219}{}{»ØÍ·¼û¡£}
 
-{220}{}{Novice Corwin, se... Oh, it's you.}
-{221}{}{Do you really have a security clearance?}
-{222}{}{You're lucky, you can go to the wastelands whenever you want. And I've been waiting for a furlough for a hundred years.}
-{223}{}{Na-na, na-na, boo-boo, boo-boo...}
-{224}{}{Beans... pea... green bean.. beans...}
-{225}{}{Did they send you from the infirmary? I don't like all these needles.}
-{226}{}{"Hurry up, Corwin!", "Wash up, Corwin!", "Boo-boo-boo, Corwin". Big bosses...}
+### {220}{}{Novice Corwin, se... Oh, it's you.}
+{220}{}{¿ÆÎÂĞÂÊÖ£¬ÊÇ¡­Å¶£¬ÊÇÄã¡£}
+### {221}{}{Do you really have a security clearance?}
+{221}{}{ÄãÕæµÄÓĞ°²È«Ğí¿ÉÂğ£¿}
+### {222}{}{You're lucky, you can go to the wastelands whenever you want. And I've been waiting for a furlough for a hundred years.}
+{222}{}{ÄãºÜĞÒÔË£¬Äã¿ÉÒÔËæÊ±È¥»ÄÔ­¡£ÎÒµÈĞİ¼ÙÒÑ¾­µÈÁËÒ»°ÙÄêÁË¡£}
+### {223}{}{Na-na, na-na, boo-boo, boo-boo...}
+{223}{}{ÄÈÄÈ£¬ÄÈÄÈ£¬ÎØÎØ£¬ÎØÎØ¡£¡£¡£}
+### {224}{}{Beans... pea... green bean.. beans...}
+{224}{}{¶¹×Ó¡£¡£¡£Íã¶¹ËÄ¼¾¶¹¶¹×Ó¡£¡£¡£}
+### {225}{}{Did they send you from the infirmary? I don't like all these needles.}
+{225}{}{ËûÃÇ°ÑÄã´ÓÒ½ÎñÊÒËÍÀ´ÁËÂğ£¿ÎÒ²»Ï²»¶ÕâĞ©Õë¡£}
+### {226}{}{"Hurry up, Corwin!", "Wash up, Corwin!", "Boo-boo-boo, Corwin". Big bosses...}
+{226}{}{¡°¿ìµã£¬¿ÆÎÄ£¡¡±£¬¡°Ï´Ï´£¬¿ÆÎÄ¡±£¬¡°ĞêĞê£¬¿ÆÎÄ¡£¡±¡£´óÀÏ°å¡£¡£¡£}
 
-{229}{}{Hi... So... Novice Corwin, sir!}
-{1229}{}{Hi... So... Novice Corwin, ma'am!}
+### {229}{}{Hi... So... Novice Corwin, sir!}
+{229}{}{ÄãºÃËùÒÔ¡­¿ÆÎÂĞÂÊÖ£¬ÏÈÉú£¡}
+### {1229}{}{Hi... So... Novice Corwin, ma'am!}
+{1229}{}{ÄãºÃËùÒÔ¡­¿ÆÎÂĞÂÊÖ£¬Å®Ê¿£¡}
 
-{230}{}{I was told you can have lunch here. I'm a rookie.}
-{231}{}{Ah, welcome to the ship. Here's your lunch. And you will have to pay for the supplement with a salary. Here are the rules.}
-{232}{}{Thank you, novice.}
-{233}{}{And it seemed to me that the Brotherhood would be fed better than in a roadside eatery.}
-{234}{}{Can I buy food from you?}
-{235}{}{Absolutely not. Without an order, I can only sell surplus to Brotherhood employees.}
-{236}{}{Sorry. Apparently, there's nothing you can do about it.}
-{237}{}{You just missed an opportunity to get rich. Fool.}
-{238}{}{Come on, you probably have a surplus lying around.}
-{239}{}{Listen, you can get your neck slapped for this case. And you're not even from the Brotherhood. Get out of here, don't bother me cooking.}
-{240}{}{Fool, you just missed an opportunity to get rich. For now.}
-{241}{}{}
-{242}{}{Come on, no one will notice the loss of a couple of plates of soup, and you will get caps.}
-{243}{}{Wow, that was good. You can't buy much on my salary. The main thing is that no one finds out.}
-{244}{}{Of course. Everyone will get their own, Corwin.}
-{245}{}{Everything is fine. I have permission.}
-{246}{}{Well, that's another thing then.}
-{247}{}{Thank you.}
+### {230}{}{I was told you can have lunch here. I'm a rookie.}
+{230}{}{ÓĞÈË¸æËßÎÒÄã¿ÉÒÔÔÚÕâÀï³ÔÎç·¹¡£ÎÒÊÇ¸ö²ËÄñ¡£}
+### {231}{}{Ah, welcome to the ship. Here's your lunch. And you will have to pay for the supplement with a salary. Here are the rules.}
+{231}{}{°¡£¬»¶Ó­ÉÏ´¬¡£ÕâÊÇÄãµÄÎç²Í¡£Äã½«²»µÃ²»ÓÃĞ½Ë®À´Ö§¸¶²¹Öú½ğ¡£ÒÔÏÂÊÇ¹æÔò¡£}
+### {232}{}{Thank you, novice.}
+{232}{}{Ğ»Ğ»Äã£¬ĞÂÊÖ¡£}
+### {233}{}{And it seemed to me that the Brotherhood would be fed better than in a roadside eatery.}
+{233}{}{ÔÚÎÒ¿´À´£¬ĞÖµÜ»áµÄÊ³Îï»á±ÈÔÚÂ·±ßµÄ²Í¹İÀï³ÔµÃ¸üºÃ¡£}
+### {234}{}{Can I buy food from you?}
+{234}{}{ÎÒ¿ÉÒÔÏòÄãÂòÊ³ÎïÂğ£¿}
+### {235}{}{Absolutely not. Without an order, I can only sell surplus to Brotherhood employees.}
+{235}{}{¾ø¶Ô²»ÊÇ¡£Ã»ÓĞ¶©µ¥£¬ÎÒÖ»ÄÜ°ÑÊ£ÓàµÄÂô¸øĞÖµÜ»áµÄÔ±¹¤¡£}
+### {236}{}{Sorry. Apparently, there's nothing you can do about it.}
+{236}{}{ºÜ±§Ç¸ÏÔÈ»£¬Äã¶Ô´ËÎŞÄÜÎªÁ¦¡£}
+### {237}{}{You just missed an opportunity to get rich. Fool.}
+{237}{}{ÄãÖ»ÊÇ´í¹ıÁËÒ»¸öÖÂ¸»µÄ»ú»á¡£´ÀÈË}
+### {238}{}{Come on, you probably have a surplus lying around.}
+{238}{}{°İÍĞ£¬Äã¿ÉÄÜÓĞÓ¯Óà¡£}
+### {239}{}{Listen, you can get your neck slapped for this case. And you're not even from the Brotherhood. Get out of here, don't bother me cooking.}
+{239}{}{Ìı×Å£¬Äã¿ÉÒÔÒòÎªÕâ¸ö°¸×Ó±»´ò¶ú¹â¡£ÄãÉõÖÁ²»ÊÇĞÖµÜ»áµÄÈË¡£Àë¿ªÕâÀï£¬±ğ´òÈÅÎÒ×ö·¹¡£}
+### {240}{}{Fool, you just missed an opportunity to get rich. For now.}
+{240}{}{Éµ¹Ï£¬ÄãÖ»ÊÇ´í¹ıÁËÒ»¸öÖÂ¸»µÄ»ú»á¡£ÏÖÔÚ¡£}
+### {241}{}{}
+{241}{}{error : string is empty}
+### {242}{}{Come on, no one will notice the loss of a couple of plates of soup, and you will get caps.}
+{242}{}{À´°É£¬Ã»ÈË»á×¢Òâµ½ÉÙÁË¼¸ÅÌÌÀ£¬Äã»áµÃµ½Ã±×ÓµÄ¡£}
+### {243}{}{Wow, that was good. You can't buy much on my salary. The main thing is that no one finds out.}
+{243}{}{ÍÛ£¬Ì«ºÃÁË¡£ÄãÓÃÎÒµÄ¹¤×ÊÂò²»ÁË¶àÉÙ¡£×îÖØÒªµÄÊÇÃ»ÓĞÈË·¢ÏÖ¡£}
+### {244}{}{Of course. Everyone will get their own, Corwin.}
+{244}{}{µ±È»Ã¿¸öÈË¶¼»áÓĞ×Ô¼ºµÄ£¬¿ÆÎÂ¡£}
+### {245}{}{Everything is fine. I have permission.}
+{245}{}{Ò»ÇĞ¶¼ºÜºÃ¡£ÎÒÓĞĞí¿É¡£}
+### {246}{}{Well, that's another thing then.}
+{246}{}{ÄÇ¾ÍÁíµ±±ğÂÛÁË¡£}
+### {247}{}{Thank you.}
+{247}{}{·Ç³£¸ĞĞ»¡£}
 
-{250}{}{What's your name, Private?}
-{251}{}{Alvin Corwin. Currently on duty in the kitchen.}
-{252}{}{Working in the kitchen is a disgrace for a paladin.}
-{253}{}{No, I'm not a paladin. I haven't decided on a division yet.}
-{254}{}{Are you a paladin or a scribe?}
-{255}{}{Absolutely not. I haven't decided on a division yet.}
-{256}{}{Then why aren't you in school?}
-{257}{}{I'm serving my sentence. I missed morning training because I was looking for the sergeant all morning.}
-{258}{}{Of course. Who will put a good soldier in the kitchen.}
-{259}{}{Are you kidding me? I wanted to ask for a shore leave, so I was looking for the sergeant all morning, but he was nowhere to be found.}
-{260}{}{Is it so hard to study?}
-{261}{}{I need to rest. I was on leave a hundred years ago.}
-{262}{}{What an injustice. So it's not even your fault that you got into this mess?}
-{263}{}{Exactly. I urgently need a shore leave, but no one could sign the petition. So I ran all over the ship.}
-{264}{}{What if I ask for a leave of absence for you? What will I get for it?}
-{265}{}{Can you? Oh, I'll pay with provisions then. Or I'll share my cartridges.}
-{266}{}{It's been noticed. Consider the order already in your pocket.}
-{267}{}{And the truth is, I have neither connections nor authority. It's unlikely to work.}
-{268}{}{I can get an order for you. Or at least I'll try.}
-{269}{}{Can you? You are my last hope.}
-{270}{}{And yet you can try.}
-{271}{}{Come to think of it, I can hardly do it. Be.}
-{272}{}{About the leave ticket.}
-{273}{}{Did you really succeed?}
-{274}{}{No, to be honest.}
-{275}{}{Why do you need a shore leave? There's nothing but desert all around.}
-{276}{}{No, there is a settlement of Casa Nueva in the west. Our people are on patrol there and sometimes rest. Nice place, lots of people, fresh air. Not like this rusty vessel. At noon it's so stuffy here that you walk around in your underpants.}
-{277}{}{Clear. Well, have a good stay.}
-{278}{}{Yes, I keep thinking, but how would you get a leave of absence? Any ideas?}
-{279}{}{But HOW can I get you a furlough?}
-{280}{}{But why would you go to a deserted beach?}
-{281}{}{I would have known, I would have begged for it long ago. In general, such orders can only be signed by higher ranks. And you can also get an order for a task from one of the divisions. But inexperienced people like me don't like to be sent on free assignments. How to carry heavy things is always welcome. And as soon as the orders are taken to the camp, half of the squad gets in line.}
-{282}{}{The order has been issued. You're free for the next four days.}
-{283}{}{Wow, that's news! Are you serious?}
-{284}{}{It's true. It's my joy to help people.}
-{285}{}{What kind of jokes? I'm serious. But you have to pay for everything.}
-{286}{}{But I'll need caps on the shore. Let me share the bullets? These armor-piercing ones have never been useful to me anyway.}
-{287}{}{Great, I'll find a use for them.}
-{288}{}{Thank you. I'll go to the sergeant, let him burst with envy.}
-{289}{}{Come on, have a good trip.}
+### {250}{}{What's your name, Private?}
+{250}{}{Äã½ĞÊ²Ã´Ãû×Ö£¬¶şµÈ±ø£¿}
+### {251}{}{Alvin Corwin. Currently on duty in the kitchen.}
+{251}{}{°¢¶ûÎÄ¡¤¿ÆÎÄ¡£Ä¿Ç°ÔÚ³ø·¿Öµ°à¡£}
+### {252}{}{Working in the kitchen is a disgrace for a paladin.}
+{252}{}{ÔÚ³ø·¿¹¤×÷¶ÔÊ¥ÆïÊ¿À´ËµÊÇÒ»ÖÖ³ÜÈè¡£}
+### {253}{}{No, I'm not a paladin. I haven't decided on a division yet.}
+{253}{}{²»£¬ÎÒ²»ÊÇÊ¥ÆïÊ¿¡£ÎÒ»¹Ã»ÓĞ¾ö¶¨·Ö×é±í¾ö¡£}
+### {254}{}{Are you a paladin or a scribe?}
+{254}{}{ÄãÊÇÊ¥ÆïÊ¿»¹ÊÇ³­Ğ´Ô±£¿}
+### {255}{}{Absolutely not. I haven't decided on a division yet.}
+{255}{}{¾ø¶Ô²»ÊÇ¡£ÎÒ»¹Ã»ÓĞ¾ö¶¨·Ö×é±í¾ö¡£}
+### {256}{}{Then why aren't you in school?}
+{256}{}{ÄÇÄãÎªÊ²Ã´²»ÔÚÑ§Ğ££¿}
+### {257}{}{I'm serving my sentence. I missed morning training because I was looking for the sergeant all morning.}
+{257}{}{ÎÒÕıÔÚ·şĞÌ¡£ÎÒ´í¹ıÁËÉÏÎçµÄÑµÁ·£¬ÒòÎªÎÒÕû¸öÉÏÎç¶¼ÔÚÕÒÖĞÊ¿¡£}
+### {258}{}{Of course. Who will put a good soldier in the kitchen.}
+{258}{}{µ±È»Ë­»á°ÑÒ»¸öºÃÊ¿±ø·Å½ø³ø·¿¡£}
+### {259}{}{Are you kidding me? I wanted to ask for a shore leave, so I was looking for the sergeant all morning, but he was nowhere to be found.}
+{259}{}{ÄãÔÚ¿ªÍæĞ¦Âğ£¿ÎÒÏëÇë°¶ÉÏ¼Ù£¬ËùÒÔÎÒÕû¸öÉÏÎç¶¼ÔÚÕÒÄÇ¸öÖĞÊ¿£¬µ«Ëû²»¼ûÁË¡£}
+### {260}{}{Is it so hard to study?}
+{260}{}{Ñ§Ï°ÕâÃ´ÄÑÂğ£¿}
+### {261}{}{I need to rest. I was on leave a hundred years ago.}
+{261}{}{ÎÒĞèÒªĞİÏ¢¡£Ò»°ÙÄêÇ°ÎÒĞİ¼ÙÁË¡£}
+### {262}{}{What an injustice. So it's not even your fault that you got into this mess?}
+{262}{}{¶àÃ´²»¹«Õı°¡¡£ËùÒÔÄãÏİÈëÕâÖÖ»ìÂÒÉõÖÁ²»ÊÇÄãµÄ´í£¿}
+### {263}{}{Exactly. I urgently need a shore leave, but no one could sign the petition. So I ran all over the ship.}
+{263}{}{È·ÇĞµØÎÒ¼±ĞèĞİ¼Ù£¬µ«Ã»ÓĞÈËÄÜÔÚÇëÔ¸ÊéÉÏÇ©×Ö¡£ËùÒÔÎÒÅÜ±éÁËÕûËÒ´¬¡£}
+### {264}{}{What if I ask for a leave of absence for you? What will I get for it?}
+{264}{}{Èç¹ûÎÒÎªÄãÇë¼ÙÔõÃ´°ì£¿ÎÒÄÜµÃµ½Ê²Ã´£¿}
+### {265}{}{Can you? Oh, I'll pay with provisions then. Or I'll share my cartridges.}
+{265}{}{ÄãÄÜÂğ£¿Å¶£¬ÄÇÎÒ¾ÍÓÃÁ¸Ê³À´Ö§¸¶¡£»òÕßÎÒ»á·ÖÏíÎÒµÄÄ«ºĞ¡£}
+### {266}{}{It's been noticed. Consider the order already in your pocket.}
+{266}{}{ËüÒÑ¾­±»×¢Òâµ½ÁË¡£¿¼ÂÇÒ»ÏÂÒÑ¾­ÔÚÄã¿Ú´üÀïµÄ¶©µ¥¡£}
+### {267}{}{And the truth is, I have neither connections nor authority. It's unlikely to work.}
+{267}{}{ÊÂÊµÊÇ£¬ÎÒ¼ÈÃ»ÓĞ¹ØÏµ£¬Ò²Ã»ÓĞÈ¨Íş¡£Õâ²»Ì«¿ÉÄÜ×àĞ§¡£}
+### {268}{}{I can get an order for you. Or at least I'll try.}
+{268}{}{ÎÒ¿ÉÒÔ°ïÄã¶©Ò»·İ¡£»òÕßÖÁÉÙÎÒ»áÊÔÊÔ¡£}
+### {269}{}{Can you? You are my last hope.}
+{269}{}{ÄãÄÜÂğ£¿ÄãÊÇÎÒ×îºóµÄÏ£Íû¡£}
+### {270}{}{And yet you can try.}
+{270}{}{µ«ÊÇÄã¿ÉÒÔ³¢ÊÔ¡£}
+### {271}{}{Come to think of it, I can hardly do it. Be.}
+{271}{}{×ĞÏ¸ÏëÏë£¬ÎÒ¼¸ºõ×ö²»µ½¡£}
+### {272}{}{About the leave ticket.}
+{272}{}{¹ØÓÚÇë¼Ùµ¥¡£}
+### {273}{}{Did you really succeed?}
+{273}{}{ÄãÕæµÄ³É¹¦ÁËÂğ£¿}
+### {274}{}{No, to be honest.}
+{274}{}{²»£¬ËµÊµ»°¡£}
+### {275}{}{Why do you need a shore leave? There's nothing but desert all around.}
+{275}{}{ÄãÎªÊ²Ã´ĞèÒªĞİ¼Ù£¿ÖÜÎ§³ıÁËÉ³Ä®Ê²Ã´¶¼Ã»ÓĞ¡£}
+### {276}{}{No, there is a settlement of Casa Nueva in the west. Our people are on patrol there and sometimes rest. Nice place, lots of people, fresh air. Not like this rusty vessel. At noon it's so stuffy here that you walk around in your underpants.}
+{276}{}{²»£¬ÔÚÎ÷²¿ÓĞÒ»¸öÅ¬ÍßÖ®¼ÒµÄ¶¨¾Óµã¡£ÎÒÃÇµÄÈËÔÚÄÇÀïÑ²Âß£¬ÓĞÊ±ĞİÏ¢¡£ºÃµØ·½£¬ÈË¶à£¬¿ÕÆøĞÂÏÊ¡£²»ÏñÕâËÒÉúĞâµÄ´¬¡£ÖĞÎçµÄÊ±ºò£¬ÕâÀïÌ«ÃÆÁË£¬Äã´©×ÅÄÚ¿ãµ½´¦×ß¡£}
+### {277}{}{Clear. Well, have a good stay.}
+{277}{}{Çå³şµÄºÃ°É£¬×£Äã×¡µÃÓä¿ì¡£}
+### {278}{}{Yes, I keep thinking, but how would you get a leave of absence? Any ideas?}
+{278}{}{ÊÇµÄ£¬ÎÒÒ»Ö±ÔÚÏë£¬µ«ÊÇÄãÔõÃ´Çë¼ÙÄØ£¿ÓĞÊ²Ã´Ïë·¨Âğ£¿}
+### {279}{}{But HOW can I get you a furlough?}
+{279}{}{µ«ÊÇÎÒÔõÑù²ÅÄÜÈÃÄãĞİ¼ÙÄØ£¿}
+### {280}{}{But why would you go to a deserted beach?}
+{280}{}{µ«ÄãÎªÊ²Ã´ÒªÈ¥Ò»¸ö»ÄÎßµÄº£Ì²£¿}
+### {281}{}{I would have known, I would have begged for it long ago. In general, such orders can only be signed by higher ranks. And you can also get an order for a task from one of the divisions. But inexperienced people like me don't like to be sent on free assignments. How to carry heavy things is always welcome. And as soon as the orders are taken to the camp, half of the squad gets in line.}
+{281}{}{ÎÒÔç¾ÍÖªµÀÁË£¬ÎÒÔç¾ÍÆòÇóÁË¡£Ò»°ãÀ´Ëµ£¬ÕâÖÖÃüÁîÖ»ÄÜÓÉ¸ü¸ß¼¶±ğµÄÈËÇ©Êğ¡£Äú»¹¿ÉÒÔ´ÓÆäÖĞÒ»¸ö²¿ÃÅ»ñµÃÈÎÎñ¶©µ¥¡£µ«ÏñÎÒÕâÑùÈ±·¦¾­ÑéµÄÈË²»Ï²»¶±»ÅÉÈ¥×öÃâ·ÑÈÎÎñ¡£ÈçºÎ°áÔËÖØÎï×ÜÊÇÊÜ»¶Ó­µÄ¡£Ò»µ©ÃüÁî±»ËÍµ½ÓªµØ£¬Ò»°ëµÄ¶ÓÔ±¾Í»áÅÅ¶Ó¡£}
+### {282}{}{The order has been issued. You're free for the next four days.}
+{282}{}{ÃüÁîÒÑ¾­·¢²¼¡£½ÓÏÂÀ´µÄËÄÌìÄãÓĞ¿Õ¡£}
+### {283}{}{Wow, that's news! Are you serious?}
+{283}{}{ÍÛ£¬ÕâÊÇĞÂÎÅ£¡ÄãÊÇÈÏÕæµÄÂğ£¿}
+### {284}{}{It's true. It's my joy to help people.}
+{284}{}{ÕâÊÇÕæµÄ¡£°ïÖú±ğÈËÊÇÎÒµÄ¿ìÀÖ¡£}
+### {285}{}{What kind of jokes? I'm serious. But you have to pay for everything.}
+{285}{}{Ê²Ã´ÑùµÄĞ¦»°£¿ÎÒÊÇÈÏÕæµÄ¡£µ«Äã±ØĞëÎªÒ»ÇĞ¸¶³ö´ú¼Û¡£}
+### {286}{}{But I'll need caps on the shore. Let me share the bullets? These armor-piercing ones have never been useful to me anyway.}
+{286}{}{µ«ÎÒĞèÒª°¶ÉÏµÄÃ±×Ó¡£ÈÃÎÒ·ÖÏí×Óµ¯£¿ÎŞÂÛÈçºÎ£¬ÕâĞ©´©¼×µÄ¶ÔÎÒÀ´Ëµ´ÓÀ´¶¼Ã»ÓÃ¹ı¡£}
+### {287}{}{Great, I'll find a use for them.}
+{287}{}{Ì«ºÃÁË£¬ÎÒ»áÕÒµ½ËüÃÇµÄÓÃ´¦¡£}
+### {288}{}{Thank you. I'll go to the sergeant, let him burst with envy.}
+{288}{}{·Ç³£¸ĞĞ»¡£ÎÒÒªÈ¥ÕÒÖĞÊ¿£¬ÈÃËû¼µ¶ÊµÃ±©ÌøÈçÀ×¡£}
+### {289}{}{Come on, have a good trip.}
+{289}{}{À´°É£¬×£ÄãÂÃÍ¾Óä¿ì¡£}
 
-{300}{}{What are you doing, Private?}
-{301}{}{Cooking beans, sir.}
-{1301}{}{Cooking beans, ma'am.}
-{302}{}{Beans? And that's it?}
-{303}{}{Well yes. Novices are not given a good ration. Paladins eat the best.}
-{304}{}{Is that why everyone here looks unhappy?}
-{305}{}{They have it. And I have to cook it. Of course, we are supplied with fish, meat, and maize flour. But there are supply failures, and sometimes there are not enough stocks. Eh, now I would like to roast a good steak.}
-{306}{}{Well, I go to different places.}
-{307}{}{Hey, can you get some coffee? We would have folded and paid for each jar.}
-{308}{}{Okay. If I find it, I'll bring it.}
-{309}{}{This rarely comes across. I don't think I'll find at least one jar.}
-{310}{}{I can't help you with anything. Bye.}
-{311}{}{Look what I have. This is a can of real coffee.}
-{312}{}{Super! Sell it to me. I'll pay }
-{313}{}{ caps per jar.}
-{314}{}{Well, no. I want to, too. I won't give it.}
-{315}{}{A profitable exchange. In settlements, they pay less for coffee.}
-{316}{}{Thank you. If there's more, bring it to me right away.}
-{317}{}{Okay.}
-{318}{}{Take it for free. So I want to thank the Brotherhood of Steel.}
-{319}{}{Thank you. All of our people will appreciate such generosity.}
-{320}{}{You are welcome. All for you guys.}
-{321}{}{Cooking pasta, sir.}
-{1321}{}{Cooking pasta, ma'am.}
-{322}{}{Pasta? Is that all?}
+### {300}{}{What are you doing, Private?}
+{300}{}{ÄãÔÚ¸ÉÊ²Ã´£¬¶şµÈ±ø£¿}
+### {301}{}{Cooking beans, sir.}
+{301}{}{Öó¶¹×Ó£¬ÏÈÉú¡£}
+### {1301}{}{Cooking beans, ma'am.}
+{1301}{}{Öó¶¹×Ó£¬·òÈË¡£}
+### {302}{}{Beans? And that's it?}
+{302}{}{¶¹×Ó£¿¾ÍÕâÑù£¿}
+### {303}{}{Well yes. Novices are not given a good ration. Paladins eat the best.}
+{303}{}{ÊÇµÄ¡£ĞÂÊÖÃ»ÓĞµÃµ½ºÜºÃµÄÅä¸ø¡£Ê¥ÆïÊ¿³ÔµÃ×îºÃ¡£}
+### {304}{}{Is that why everyone here looks unhappy?}
+{304}{}{Õâ¾ÍÊÇÎªÊ²Ã´ÕâÀïµÄÃ¿¸öÈË¿´ÆğÀ´¶¼²»¿ªĞÄµÄÔ­ÒòÂğ£¿}
+### {305}{}{They have it. And I have to cook it. Of course, we are supplied with fish, meat, and maize flour. But there are supply failures, and sometimes there are not enough stocks. Eh, now I would like to roast a good steak.}
+{305}{}{ËûÃÇÓĞ¡£ÎÒ±ØĞë×ö·¹¡£µ±È»£¬ÎÒÃÇÓĞÓã¡¢ÈâºÍÓñÃ×·Û¡£µ«Ò²ÓĞ¹©Ó¦¹ÊÕÏ£¬ÓĞÊ±¿â´æ²»×ã¡£ßÀ£¬ÏÖÔÚÎÒÏë¿¾Ò»¿éºÃÅ£ÅÅ¡£}
+### {306}{}{Well, I go to different places.}
+{306}{}{àÅ£¬ÎÒÈ¥²»Í¬µÄµØ·½¡£}
+### {307}{}{Hey, can you get some coffee? We would have folded and paid for each jar.}
+{307}{}{ºÙ£¬ÄãÄÜºÈµã¿§·ÈÂğ£¿ÎÒÃÇ»áÕÛµşÆğÀ´£¬ÎªÃ¿¸ö¹Ş×Ó¸¶Ç®¡£}
+### {308}{}{Okay. If I find it, I'll bring it.}
+{308}{}{¿ÉÒÔÈç¹ûÎÒÕÒµ½ÁË£¬ÎÒ»á°ÑËü´øÀ´¡£}
+### {309}{}{This rarely comes across. I don't think I'll find at least one jar.}
+{309}{}{ÕâÖÖÇé¿öºÜÉÙ·¢Éú¡£ÎÒÏëÎÒÖÁÉÙÕÒ²»µ½Ò»¸ö¹Ş×ÓÁË¡£}
+### {310}{}{I can't help you with anything. Bye.}
+{310}{}{ÎÒÊ²Ã´¶¼°ï²»ÁËÄã¡£ÔÙ¼û}
+### {311}{}{Look what I have. This is a can of real coffee.}
+{311}{}{¿´¿´ÎÒÓĞÊ²Ã´¡£ÕâÊÇÒ»¹ŞÕæÕıµÄ¿§·È¡£}
+### {312}{}{Super! Sell it to me. I'll pay }
+{312}{}{³¬¼¶µÄÂô¸øÎÒ£¬ÎÒ¸¶Ç®}
+### {313}{}{ caps per jar.}
+{313}{}{Ã¿¸ö¹Ş×ÓµÄ¸Ç×Ó¡£}
+### {314}{}{Well, no. I want to, too. I won't give it.}
+{314}{}{²»£¬ÎÒÒ²Ïë¡£ÎÒ²»»á¸øµÄ¡£}
+### {315}{}{A profitable exchange. In settlements, they pay less for coffee.}
+{315}{}{ÓĞÀû¿ÉÍ¼µÄ½»»»¡£ÔÚ¶¨¾Óµã£¬ËûÃÇ¸¶¿§·ÈµÄÇ®¸üÉÙ¡£}
+### {316}{}{Thank you. If there's more, bring it to me right away.}
+{316}{}{·Ç³£¸ĞĞ»¡£Èç¹û»¹ÓĞ£¬ÂíÉÏ¸øÎÒÄÃÀ´¡£}
+### {317}{}{Okay.}
+{317}{}{¿ÉÒÔ}
+### {318}{}{Take it for free. So I want to thank the Brotherhood of Steel.}
+{318}{}{Ãâ·Ñ·şÓÃ¡£ËùÒÔÎÒÒª¸ĞĞ»¸ÖÌúĞÖµÜ»á¡£}
+### {319}{}{Thank you. All of our people will appreciate such generosity.}
+{319}{}{·Ç³£¸ĞĞ»¡£ÎÒÃÇËùÓĞµÄÈËÃñ¶¼»á¸Ğ¼¤ÕâÖÖ¿¶¿®¡£}
+### {320}{}{You are welcome. All for you guys.}
+{320}{}{²»¿ÍÆø¡£¶¼ÊÇÎªÁËÄãÃÇ¡£}
+### {321}{}{Cooking pasta, sir.}
+{321}{}{ÕıÔÚÖóÒâ´óÀûÃæ£¬ÏÈÉú¡£}
+### {1321}{}{Cooking pasta, ma'am.}
+{1321}{}{ÕıÔÚÖóÒâ´óÀûÃæ£¬·òÈË¡£}
+### {322}{}{Pasta? Is that all?}
+{322}{}{Òâ´óÀûÃæÊ³¾ÍÕâĞ©Âğ£¿}

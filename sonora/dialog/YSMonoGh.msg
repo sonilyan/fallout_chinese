@@ -1,51 +1,99 @@
-{100}{}{This is Stanley.}
-{101}{}{You see a terribly bony ghoul in a dirty, worn-out robe. A piece of rebar sticks out of his head.}
-{102}{}{Hello, belyashik. You don't look like a real ghost anymore.}
+### {100}{}{This is Stanley.}
+{100}{}{ÎÒÊÇË¹Ì¹Àû¡£}
+### {101}{}{You see a terribly bony ghoul in a dirty, worn-out robe. A piece of rebar sticks out of his head.}
+{101}{}{Äã¿´µ½Ò»¸ö¹ÇÊİÈç²ñµÄÊ³Ê¬¹í£¬´©×ÅÓÖÔàÓÖÆÆµÄ³¤ÅÛ¡£Ò»¸ù¸Ö½î´ÓËûµÄÍ·ÉÏÉìÁË³öÀ´¡£}
+### {102}{}{Hello, belyashik. You don't look like a real ghost anymore.}
+{102}{}{ÄãºÃ£¬±´ÀûÑÇÏ£¿Ë¡£Äã¿´ÆğÀ´²»ÔÙÏñ¸öÕæÕıµÄ¹íÁË¡£}
 
-{200}{}{A-a-a, don't take me, I still want to live!}
-{201}{}{What are you talking about?}
-{202}{}{What the hell are you yelling at?!}
-{203}{}{Oh, Mommy, you're a human being?! Ugh, I thought you were a ghost. Why are you scaring me?}
-{204}{}{I have the same question for you. You're walking around all black in the dark, only your eyes are glowing!}
-{205}{}{Sorry, whitey, but I was so scared! You know, it's so lonely at these stations. But there were once rumors about a ghostly wagon that took people's souls to hell. It's silly to believe that now, of course. We're already in hell.}
-{206}{}{I'm sorry, it was an accident. I didn't expect to meet anyone here either.}
-{1206}{}{I'm sorry, it was an accident. I didn't expect to meet anyone here either.}
-{207}{}{Once there were crowds of people at these stations. And now it's really deserted here. Probably, the ghost train has already taken everyone to hell. Don't you believe it? Well, look around — we're already in hell.}
-{208}{}{So, what are you doing here anyway?}
-{209}{}{My brothers asked me to prepare the Blue Line for launch. I used to work in the subway, so I can do something. But not everything.}
-{210}{}{What do I need to run?}
-{211}{}{First of all, we don't have any energy yet. And it seems that it can only be taken at the Bonita hydroelectric station, and it has been well guarded since the War. And it is necessary not only to start the station, but also to send it to the monorail substation.}
-{212}{}{And secondly?}
-{213}{}{Secondly, the monorail line needs to be repaired. Mr. Assistants will do it for us when we start the power. To do this, they will disassemble some of the old lines. But the automation of the tram depot will have to be repaired by ourselves. And here I cannot do without an experienced electronics specialist. This thing is in the control room. Maybe a technician in San Ysidro will fix it, but it's damn heavy. Will you help me?}
-{214}{}{Sure. After all, then I will be able to use the monorail.}
-{215}{}{I'll do anything to make life easier for you guys.}
-{216}{}{Wonderful! Help me, and I will share part of the fee that the city administration promised me.}
-{217}{}{OK. See you again.}
-{218}{}{Before I start, I'm going to ask you a few questions.}
+### {200}{}{A-a-a, don't take me, I still want to live!}
+{200}{}{°¢£¬±ğ´ø×ßÎÒ£¬ÎÒ»¹Ïë»î×Å£¡}
+### {201}{}{What are you talking about?}
+{201}{}{ÄãÔÚËµÊ²Ã´£¿}
+### {202}{}{What the hell are you yelling at?!}
+{202}{}{ÄãÔÚºğÊ²Ã´£¿£¡}
+### {203}{}{Oh, Mommy, you're a human being?! Ugh, I thought you were a ghost. Why are you scaring me?}
+{203}{}{Å¶£¬ÂèÂè£¬ÄãÊÇÈËÂğ£¿£¡°¡£¬ÎÒ»¹ÒÔÎªÄãÊÇ¸ö¹íÄØ¡£ÄãÎªÊ²Ã´ÏÅ»£ÎÒ£¿}
+### {204}{}{I have the same question for you. You're walking around all black in the dark, only your eyes are glowing!}
+{204}{}{ÎÒÒ²ÓĞÍ¬ÑùµÄÎÊÌâÒªÎÊÄã¡£ÄãÔÚºÚ°µÖĞÒ»ÉíÆáºÚµØ×ßÀ´×ßÈ¥£¬Ö»ÓĞÄãµÄÑÛ¾¦ÔÚ·¢¹â£¡}
+### {205}{}{Sorry, whitey, but I was so scared! You know, it's so lonely at these stations. But there were once rumors about a ghostly wagon that took people's souls to hell. It's silly to believe that now, of course. We're already in hell.}
+{205}{}{¶Ô²»Æğ£¬whitey£¬µ«ÎÒÌ«º¦ÅÂÁË£¡ÄãÖªµÀ£¬ÔÚÕâĞ©³µÕ¾Ì«¹Â¶ÀÁË¡£µ«Ôø¾­ÓĞ´«ÑÔËµ£¬Ò»Á¾ÓÄÁéÂí³µ°ÑÈËÃÇµÄÁé»ê´øµ½ÁËµØÓü¡£µ±È»£¬ÏÖÔÚÏàĞÅÕâÒ»µãÊÇÓŞ´ÀµÄ¡£ÎÒÃÇÒÑ¾­ÏÂµØÓüÁË¡£}
+### {206}{}{I'm sorry, it was an accident. I didn't expect to meet anyone here either.}
+{206}{}{¶Ô²»Æğ£¬ÄÇÊÇ¸öÒâÍâ¡£ÎÒÒ²Ã»Ïëµ½»áÔÚÕâÀïÓöµ½ÈÎºÎÈË¡£}
+### {1206}{}{I'm sorry, it was an accident. I didn't expect to meet anyone here either.}
+{1206}{}{¶Ô²»Æğ£¬ÄÇÊÇ¸öÒâÍâ¡£ÎÒÒ²Ã»Ïëµ½»áÔÚÕâÀïÓöµ½ÈÎºÎÈË¡£}
+### {207}{}{Once there were crowds of people at these stations. And now it's really deserted here. Probably, the ghost train has already taken everyone to hell. Don't you believe it? Well, look around ? we're already in hell.}
+{207}{}{ÕâĞ©³µÕ¾Ôø¾­¼·ÂúÁËÈË¡£ÏÖÔÚÕâÀïÕæµÄºÜÀäÇå¡£Ò²Ğí£¬ÓÄÁéÁĞ³µÒÑ¾­°ÑËùÓĞÈË¶¼´øµ½ÁËµØÓü¡£Äã²»ÏàĞÅÂğ£¿ºÃ°É£¬¿´¿´ÖÜÎ§? ÎÒÃÇÒÑ¾­ÏÂµØÓüÁË¡£}
+### {208}{}{So, what are you doing here anyway?}
+{208}{}{ÄÇÃ´£¬ÄãÔÚÕâÀï¸ÉÊ²Ã´£¿}
+### {209}{}{My brothers asked me to prepare the Blue Line for launch. I used to work in the subway, so I can do something. But not everything.}
+{209}{}{ÎÒµÄĞÖµÜÃÇÈÃÎÒÎª·¢ÉäÀ¶Ïß×ö×¼±¸¡£ÎÒÒÔÇ°ÔÚµØÌú¹¤×÷£¬ËùÒÔÎÒ¿ÉÒÔ×öµãÊ²Ã´¡£µ«²¢·ÇËùÓĞ¡£}
+### {210}{}{What do I need to run?}
+{210}{}{ÎÒĞèÒªÅÜÊ²Ã´£¿}
+### {211}{}{First of all, we don't have any energy yet. And it seems that it can only be taken at the Bonita hydroelectric station, and it has been well guarded since the War. And it is necessary not only to start the station, but also to send it to the monorail substation.}
+{211}{}{Ê×ÏÈ£¬ÎÒÃÇ»¹Ã»ÓĞÈÎºÎÄÜÁ¿¡£ËüËÆºõÖ»ÄÜÔÚ²©ÄáËşË®µçÕ¾ÅÄÉã£¬×ÔÕ½ÕùÒÔÀ´£¬ÕâÀïÒ»Ö±ÊÜµ½ÑÏÃÜµÄ±£»¤¡£²»½öĞèÒªÆô¶¯³µÕ¾£¬»¹ĞèÒª½«Æä·¢ËÍµ½µ¥¹ì±äµçÕ¾¡£}
+### {212}{}{And secondly?}
+{212}{}{Æä´ÎÄØ£¿}
+### {213}{}{Secondly, the monorail line needs to be repaired. Mr. Assistants will do it for us when we start the power. To do this, they will disassemble some of the old lines. But the automation of the tram depot will have to be repaired by ourselves. And here I cannot do without an experienced electronics specialist. This thing is in the control room. Maybe a technician in San Ysidro will fix it, but it's damn heavy. Will you help me?}
+{213}{}{Æä´Î£¬µ¥¹ìÏßÂ·ĞèÒªÎ¬ĞŞ¡£µ±ÎÒÃÇÆô¶¯µçÔ´Ê±£¬ÖúÀíÏÈÉú½«ÎªÎÒÃÇ×öÕâ¼şÊÂ¡£ÎªÁË×öµ½ÕâÒ»µã£¬ËûÃÇ½«²ğ³ıÒ»Ğ©¾ÉÏßÂ·¡£µ«ÊÇµç³µÕ¾µÄ×Ô¶¯»¯½«²»µÃ²»ÓÉÎÒÃÇ×Ô¼ºĞŞÀí¡£ÔÚÕâÀï£¬ÎÒÀë²»¿ªÒ»Î»¾­Ñé·á¸»µÄµç×Ó×¨¼Ò¡£Õâ¸ö¶«Î÷ÔÚ¿ØÖÆÊÒÀï¡£Ò²ĞíÊ¥ÒÁÎ÷µÂÂŞµÄ¼¼ÊõÈËÔ±»áĞŞÀíËü£¬µ«ËüÌ«ÖØÁË¡£ÄãÄÜ°ïÎÒÂğ£¿}
+### {214}{}{Sure. After all, then I will be able to use the monorail.}
+{214}{}{µ±È»±Ï¾¹£¬ÄÇÑùÎÒ¾Í¿ÉÒÔÊ¹ÓÃµ¥¹ìÁË¡£}
+### {215}{}{I'll do anything to make life easier for you guys.}
+{215}{}{ÎÒ»á×öÈÎºÎÊÂÇéÈÃÄãÃÇµÄÉú»î¸üÇáËÉ¡£}
+### {216}{}{Wonderful! Help me, and I will share part of the fee that the city administration promised me.}
+{216}{}{¾«²ÊµÄ°ïÎÒ°É£¬ÎÒ»á·Öµ£ÊĞÕş¸®´ğÓ¦ÎÒµÄ²¿·Ö·ÑÓÃ¡£}
+### {217}{}{OK. See you again.}
+{217}{}{ºÃµÄ£¬ÔÙ¼û¡£}
+### {218}{}{Before I start, I'm going to ask you a few questions.}
+{218}{}{ÔÚÎÒ¿ªÊ¼Ö®Ç°£¬ÎÒÒªÎÊÄã¼¸¸öÎÊÌâ¡£}
 
-{220}{}{What do you say, belyashik?}
-{221}{}{What are you staring at, belyash?}
-{1221}{}{What are you staring at, paleface?}
-{222}{}{Hey, that's my pale-skinned brother! How are you?}
-{1222}{}{Hey, it's my pale-skinned sister! Are you all right?}
-{223}{}{For now. See you later.}
+### {220}{}{What do you say, belyashik?}
+{220}{}{ÄãËµÄØ£¬±´ÀûÑÇÏ£¿Ë£¿}
+### {221}{}{What are you staring at, belyash?}
+{221}{}{ÄãÔÚ¿´Ê²Ã´£¬±´ÀûÑÇ£¿}
+### {1221}{}{What are you staring at, paleface?}
+{1221}{}{Á³É«²Ô°×µÄÄãÔÚ¿´Ê²Ã´£¿}
+### {222}{}{Hey, that's my pale-skinned brother! How are you?}
+{222}{}{ºÙ£¬ÄÇÊÇÎÒÆ¤·ô²Ô°×µÄµÜµÜ£¡ÄãºÃÂğ}
+### {1222}{}{Hey, it's my pale-skinned sister! Are you all right?}
+{1222}{}{ºÙ£¬ÊÇÎÒÆ¤·ô²Ô°×µÄÃÃÃÃ£¡Äã»¹ºÃÂğ£¿}
+### {223}{}{For now. See you later.}
+{223}{}{ÏÖÔÚ¡£»ØÍ·¼û¡£}
 
-{230}{}{What is a monorail?}
-{231}{}{You really don't know? That sucks! Once upon a time, elevated trains used to travel along these rails. And it was cool. Help me fix the line — then you will see it with your own eyes.}
-{232}{}{I see.}
-{233}{}{What should I do to start the tram?}
-{234}{}{First you need to supply power to the substation of the Blue Line. And then fix the electronics in the control room. If you don't have the skills, then take the equipment to the technician in San Ysidro.}
-{235}{}{Okay.}
-{236}{}{Does that thing in your head bother you?}
-{237}{}{Piece? Oh, you mean the fittings. She's been sticking out of this head for a hundred years. It's okay, I'm used to it. But it's better not to pull it out.}
-{238}{}{Okay. Whatever you say.}
-{239}{}{It's a miracle! To be honest, I thought it wouldn't work. It's so amazing that I can't even believe it. You bring back my hope for people. Maybe all is not lost for you yet.}
-{240}{}{Uh, good.}
-{241}{}{I'm not trying for you.}
-{242}{}{Probably, I need to share the fee with you — 1000 caps. And thank you... friend.}
-{1242}{}{I probably need to share the fee with you — 1000 caps. And thank you... a friend.}
-{243}{}{You're welcome... friend.}
-{244}{}{Probably, I need to share the fee with you — 1000 caps. And thank you... partner.}
-{245}{}{You're welcome... partner.}
-{246}{}{I probably need to share the fee with you — 500 caps. And thank you... partner.}
-{247}{}{And that's it? You're not my "partner" anymore.}
+### {230}{}{What is a monorail?}
+{230}{}{Ê²Ã´ÊÇµ¥¹ìµç³µ£¿}
+### {231}{}{You really don't know? That sucks! Once upon a time, elevated trains used to travel along these rails. And it was cool. Help me fix the line ? then you will see it with your own eyes.}
+{231}{}{ÄãÕæµÄ²»ÖªµÀÂğ£¿Ì«Ôã¸âÁË£¡´ÓÇ°£¬¸ß¼ÜÁĞ³µ³£³£ÑØ×ÅÕâĞ©Ìú¹ìĞĞÊ»¡£¶øÇÒºÜ¿á¡£°ïÎÒĞŞÏßÂ·? È»ºóÄã»áÇ×ÑÛ¿´µ½µÄ¡£}
+### {232}{}{I see.}
+{232}{}{ÎÒÃ÷°×ÁË¡£}
+### {233}{}{What should I do to start the tram?}
+{233}{}{ÎÒ¸ÃÔõÃ´Æô¶¯µç³µ£¿}
+### {234}{}{First you need to supply power to the substation of the Blue Line. And then fix the electronics in the control room. If you don't have the skills, then take the equipment to the technician in San Ysidro.}
+{234}{}{Ê×ÏÈ£¬ÄãĞèÒªÎªÀ¶ÏßµÄ±äµçÕ¾¹©µç¡£È»ºó°Ñµç×ÓÉè±¸¹Ì¶¨ÔÚ¿ØÖÆÊÒÀï¡£Èç¹ûÄãÃ»ÓĞÕâĞ©¼¼ÄÜ£¬ÄÇ¾Í°ÑÉè±¸½»¸øÊ¥ÒÁÎ÷µÂÂŞµÄ¼¼ÊõÈËÔ±¡£}
+### {235}{}{Okay.}
+{235}{}{¿ÉÒÔ}
+### {236}{}{Does that thing in your head bother you?}
+{236}{}{ÄãÄÔ×ÓÀïµÄÄÇ¸ö¶«Î÷´òÈÅÄãÁËÂğ£¿}
+### {237}{}{Piece? Oh, you mean the fittings. She's been sticking out of this head for a hundred years. It's okay, I'm used to it. But it's better not to pull it out.}
+{237}{}{¿éÅ¶£¬ÄãÊÇËµÅä¼ş¡£ËıÒÑ¾­´ÓÕâ¸öÄÔ´üÀïÃ°³öÀ´Ò»°ÙÄêÁË¡£Ã»¹ØÏµ£¬ÎÒÒÑ¾­Ï°¹ßÁË¡£µ«×îºÃ²»Òª°ÑËü°Î³öÀ´¡£}
+### {238}{}{Okay. Whatever you say.}
+{238}{}{¿ÉÒÔ²»¹ÜÄãËµÊ²Ã´¡£}
+### {239}{}{It's a miracle! To be honest, I thought it wouldn't work. It's so amazing that I can't even believe it. You bring back my hope for people. Maybe all is not lost for you yet.}
+{239}{}{ÕâÕæÊÇ¸öÆæ¼££¡ÀÏÊµËµ£¬ÎÒÒÔÎªÕâĞĞ²»Í¨¡£Ì«ÉñÆæÁË£¬ÎÒ¼òÖ±²»¸ÒÏàĞÅ¡£ÄãÈÃÎÒÖØĞÂÈ¼ÆğÁË¶ÔÈËÃÇµÄÏ£Íû¡£Ò²ĞíÄã»¹Ã»ÓĞÊ§È¥Ò»ÇĞ¡£}
+### {240}{}{Uh, good.}
+{240}{}{àÅ£¬ºÜºÃ¡£}
+### {241}{}{I'm not trying for you.}
+{241}{}{ÎÒ²»ÊÇÔÚ°ïÄã¡£}
+### {242}{}{Probably, I need to share the fee with you ? 1000 caps. And thank you... friend.}
+{242}{}{Ò²Ğí£¬ÎÒĞèÒªºÍÄã·Öµ£·ÑÓÃ? 1000¶¥¡£Ğ»Ğ»Äã¡£¡£¡£ÅóÓÑ}
+### {1242}{}{I probably need to share the fee with you ? 1000 caps. And thank you... a friend.}
+{1242}{}{ÎÒ¿ÉÄÜĞèÒªºÍÄã·Öµ£·ÑÓÃ? 1000¶¥¡£Ğ»Ğ»Äã¡£¡£¡£ÅóÓÑ¡£}
+### {243}{}{You're welcome... friend.}
+{243}{}{²»¿ÍÆø¡£¡£¡£ÅóÓÑ}
+### {244}{}{Probably, I need to share the fee with you ? 1000 caps. And thank you... partner.}
+{244}{}{Ò²Ğí£¬ÎÒĞèÒªºÍÄã·Öµ£·ÑÓÃ? 1000¶¥¡£Ğ»Ğ»Äã¡£¡£¡£´îµµ}
+### {245}{}{You're welcome... partner.}
+{245}{}{²»¿ÍÆø¡£¡£¡£´îµµ}
+### {246}{}{I probably need to share the fee with you ? 500 caps. And thank you... partner.}
+{246}{}{ÎÒ¿ÉÄÜĞèÒªºÍÄã·Öµ£·ÑÓÃ? 500¶¥¡£Ğ»Ğ»Äã¡£¡£¡£´îµµ}
+### {247}{}{And that's it? You're not my "partner" anymore.}
+{247}{}{¾ÍÕâÑù£¿Äã²»ÔÙÊÇÎÒµÄ¡°»ï°é¡±ÁË¡£}

@@ -1,69 +1,69 @@
 #
 # Messages used in gdialog.c for custom NPC combat control.
 #
-{0}{}{Burst}
-{1}{}{Run Away}
-{2}{}{Weapon Pref.}
-{3}{}{Distance}
-{4}{}{Attack Who}
-{5}{}{Chem Use}
+{0}{}{扫射}
+{1}{}{逃跑}
+{2}{}{武器偏好}
+{3}{}{距离}
+{4}{}{攻击目标}
+{5}{}{药品使用}
 
-{10}{}{Done}
-{11}{}{Cancel}
+{10}{}{完成}
+{11}{}{取消}
 
 #
 # Burst options.
 #
-{99}{}{Not Applicable.}
-{100}{}{Always!}
-{101}{}{Sometimes, don't worry about hitting me}
-{102}{}{Be sure you won't hit me}
-{103}{}{Be careful not to hit me}
-{104}{}{Be absolutely sure you won't hit me}
+{99}{}{从不。}
+{100}{}{总是！}
+{101}{}{有时候，打中我也没关系}
+{102}{}{尽量不要打中我}
+{103}{}{当心不要打中我}
+{104}{}{绝对不能打中我}
 
 #
 # Run away options.
 #
-{200}{}{Abject coward}
-{201}{}{Your finger hurts}
-{202}{}{You're bleeding a bit}
-{203}{}{Not feeling good}
-{204}{}{You need a tourniquet}
-{205}{}{Never!}
+{200}{}{懦夫}
+{201}{}{当你手指痛的时候}
+{202}{}{当你流一点血时}
+{203}{}{当你感到不太妙时}
+{204}{}{当你需要急救时}
+{205}{}{决不退缩！}
 
 #
 # Weapon pref options.
 #
-{300}{}{None}
-{301}{}{Melee}
-{302}{}{Melee then ranged}
-{303}{}{Ranged then melee}
-{304}{}{Ranged}
-{305}{}{Unarmed}
+{300}{}{没有使用偏好}
+{301}{}{近距武器}
+{302}{}{近战武器优先}
+{303}{}{远程武器优先}
+{304}{}{远程武器}
+{305}{}{徒手}
 
 #
 # Distance options.
 #
-{400}{}{Stay close to me}
-{401}{}{Charge!}
-{402}{}{Snipe the enemy}
-{403}{}{On your own}
-{404}{}{Stay where you are}
+{400}{}{跟紧我}
+{401}{}{冲呀！}
+{402}{}{狙击敌人}
+{403}{}{自己决定}
+{404}{}{留在原地}
 
 #
 # Attack who options.
 #
-{500}{}{Whomever is attacking me}
-{501}{}{The strongest}
-{502}{}{The weakest}
-{503}{}{Whomever you want}
-{504}{}{Whomever is closest}
+{500}{}{正在打我的人}
+{501}{}{最强的敌人}
+{502}{}{最弱的敌人}
+{503}{}{你自己决定}
+{504}{}{最靠近的人}
 
 #
 # Chem use options.
 #
-{600}{}{I'm clean}
-{601}{}{Stimpacks when hurt a bit}
-{602}{}{Stimpacks when hurt a lot}
-{603}{}{Any chem some of the time}
-{604}{}{Any chem any time}
+{600}{}{不使用药物}
+{601}{}{轻伤时使用治疗针}
+{602}{}{重伤时使用治疗针}
+{603}{}{偶尔使用任何的药品}
+{604}{}{随时服用任何的药品}

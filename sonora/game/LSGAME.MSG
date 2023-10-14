@@ -1,56 +1,57 @@
 #
-# ???????????????????????????????????????
+# 控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控
 #
 # Text labels and messages used in LOADSAVE.C
 #
 # (These MUST match "text message" enumeration on the top of LOADSAVE.C)
 #
-# ???????????????????????????????????????
+# 控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控
 
 # System
-{100}{}{LOAD GAME}              # Titles
-{101}{}{PICK A QUICK LOAD SLOT}
-{102}{}{SAVE GAME}
-{103}{}{PICK A QUICK SAVE SLOT}
-{104}{}{DONE}
-{105}{}{CANCEL}
-{106}{}{Error loading save game list!} # Line 1
-{107}{}{Save game directory:}    # Line 2
-{108}{}{Doesn't exist or is corrupted.} # Line 3
-{109}{}{SAVE GAME}
-{110}{}{LOAD GAME}
-{111}{}{- EMPTY -}
-{112}{}{- CORRUPT SAVE  FILE -}
-{113}{}{- OLD VERSION -}
-{114}{}{Empty.}
-{115}{}{Error!}
-{116}{}{Old version.}
-{117}{}{JAN}                            # Months
-{118}{}{FEB}
-{119}{}{MAR}
-{120}{}{APR}
-{121}{}{MAY}
-{122}{}{JUN}
-{123}{}{JUL}
-{124}{}{AUG}
-{125}{}{SEP}
-{126}{}{OCT}
-{127}{}{NOV}
-{128}{}{DEC}
-{129}{}{Level}
-{130}{}{DESCRIPTION}
-{131}{}{Save game already exists, overwrite?}
-{132}{}{Error saving game!}             # Line 1
-{133}{}{Unable to save game.}           # Line 2
-{134}{}{Error loading game!}            # Line 1
-{135}{}{Unable to load game.}           # Line 2
-{136}{}{Save game file is an older version.}
-{137}{}{Map}
+{100}{}{读取进度}	       # Titles
+{101}{}{请选择一个快速进度读取槽}
+{102}{}{储存进度}
+{103}{}{请选择一个快速进度储存槽}
+{104}{}{完成}
+{105}{}{取消}
+{106}{}{无法读取游戏进度表！} # Line 1
+{107}{}{进度储存目录：}    # Line 2
+{108}{}{不存在或损坏。} # Line 3
+{109}{}{储存进度}
+{110}{}{读取进度}
+{111}{}{- 空白 -}
+{112}{}{- 损坏的游戏进度档案 -}
+{113}{}{- 旧版本的进度档案 -}
+{114}{}{空的。}
+{115}{}{错误！}
+{116}{}{旧版档案。}
+{117}{}{一月}				 # Months
+{118}{}{二月}
+{119}{}{三月}
+{120}{}{四月}
+{121}{}{五月}
+{122}{}{六月}
+{123}{}{七月}
+{124}{}{八月}
+{125}{}{九月}
+{126}{}{十月}
+{127}{}{十一月}
+{128}{}{十二月}
+{129}{}{等级}
+{130}{}{存档内容}
+{131}{}{游戏进度已存在，要覆盖旧的进度吗？}
+{132}{}{进度储存发生错误！}		# Line 1
+{133}{}{无法储存进度。} 	  # Line 2
+{134}{}{进度读取发生错误！}	       # Line 1
+{135}{}{无法读取进度。} 	  # Line 2
+{136}{}{游戏进度档案是一个比较旧的版本。}
+{137}{}{地图}
 
-{140}{}{Game Saved.}
-{141}{}{Game Loaded.}
+{140}{}{进度已储存。}
+{141}{}{进度已读取。}
 #
 # Demo versions only
 #
-{200}{}{Sorry you can't save or load} # 1
-{201}{}{in the demo version.}         # 2
+{200}{}{抱歉，在试玩版中不能够读取} # 1
+{201}{}{或是储存游戏进度。}	    # 2
+

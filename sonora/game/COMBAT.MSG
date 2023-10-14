@@ -1,1031 +1,1037 @@
-#######################################################
 #
-#   FALLOUT SONORA: ÁÎÅÂÛÅ ÑÎÎÁÙÅÍÈß Â ËÎÃÅ
+# This is all of the combat messages used by combat.c
+# Note: all %d values will be filled with a number greater than 1
 #
-#   Âàæíî: âñå çíà÷åíèÿ %d áóäóò çàïîëíåíû ÷èñëîì áîëüøå íà 1
+# Truly Generic strings (no need for gender/number issues)
 #
-#   Òåêñò âçÿò îò Fallout 2 ñ ìíîãî÷èñëåííûìè ïåğåğàáîòêàìè (àâòîğ èçìåíåíèé À.Ïîøåëşæèí, 2019)
+{100}{}{ÄãĞèÒª%dµãĞĞ¶¯µãÊı¡£}
+{101}{}{Ã»ÓĞµ¯Ò©ÁË¡£}
+{102}{}{Ä¿±ê²»ÔÚ·¶Î§ÄÚ¡£}
+{103}{}{Õ½¶·ÎŞ·¨ÔÚÖÜÎ§ÈÔÓĞµĞÈËÊ±½áÊø¡£}
+{104}{}{Äã±»ÕÚ×¡ÁË£¬ÎŞ·¨Ãé×¼¡£}
+{105}{}{ÄãµÄË«ÊÖ¶¼ÊÜÉËÁË£¬ÎŞ·¨Ê¹ÓÃÎäÆ÷¡£}
+{106}{}{ÄãµÄÒ»Ö»ÊÖÊÜÉËÁË£¬ÎŞ·¨Ê¹ÓÃË«ÊÖÎäÆ÷¡£}
+{107}{}{Äã²»¹»Ç¿×³£¬²»ÄÜ¹»Ê¹ÓÃ¸ÃÎäÆ÷¡£}
+{108}{}{²¢ÇÒ}
 #
-#######################################################
-
-# Common phrases (without gender and number corrections)
+# Combat Flag Strings (all of these happen to you, the MALE player)
 #
-{100}{}{You lack action points.}
-{101}{}{Out of ammo.}
-{102}{}{Target out of reach.}
-{103}{}{The fight will not end if there are hostile creatures nearby.}
-{104}{}{You don't see the target.}
-{105}{}{You cannot use a weapon while you have both hands damaged.}
-{106}{}{You cannot use a two-handed weapon while your hand is damaged.}
-{107}{}{You don't have enough strength to use this weapon.}
-{108}{}{ and }
+{200}{}{±»»÷ÔÎÁË}
+{201}{}{±»»÷µ¹ÁË}
+{202}{}{Ì±»¾ÁËÄãµÄ×óÍÈ}
+{203}{}{Ì±»¾ÁËÄãµÄÓÒÍÈ}
+{204}{}{Ì±»¾ÁËÄãµÄ×ó±Û}
+{205}{}{Ì±»¾ÁËÄãµÄ×ó±Û}
+{206}{}{±»ÖÂÃ¤ÁË}
+{207}{}{±»É±ËÀÁË}
+{208}{}{±»»÷ÖĞÁË}
+{209}{}{´¦¾³Î£¼±}
+{210}{}{×Å»ğÁË}
+{211}{}{´©Í¸ÄãµÄ»¤¼×}
+{212}{}{ÄãµÄÎäÆ÷±¬Õ¨ÁË}
+{213}{}{»Ù»µÁËÄãµÄÎäÆ÷}
+{214}{}{¶ªµôÁËÄãµÄÎäÆ÷}
+{215}{}{Ê§È¥ÁËÄãÏÂÒ»»ØºÏ}
+{216}{}{´òµ½ÁË×Ô¼º}
+{217}{}{Ê§È¥ÁËÓàÏÂµÄµ¯Ò©}
+{218}{}{Éä³öÒ»·¢ÑÆµ¯}
+{219}{}{´òÉËÁË×ÔÒÑ}
+{220}{}{Ëæ»ú¹¥»÷}
+{221}{}{Ì±»¾ÁËÄãËæ»úÒ»¸ö²¿Î»}
+#{222}{}{±»´òµÄÎåÂí·ÖÊ¬}
+{222}{}{±»´òµÄ·ÉÁËÆğÀ´}
 #
-# Fighting phrases (for male GG)
+# Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
-{200}{}{unconscious}
-{201}{}{on earth}
-{202}{}{cripples your left leg}
-{203}{}{cripples your right leg}
-{204}{}{cripples your left hand}
-{205}{}{cripples your right hand}
-{206}{}{can't see}
-{207}{}{you are dying}
-{208}{}{blow}
-{209}{}{critical}
-{210}{}{on fire}
-{211}{}{notice that your armor is pierced}
-{212}{}{your weapon exploded}
-{213}{}{your weapon broke}
-{214}{}{you dropped your weapon}
-{215}{}{lose your next move}
-{216}{}{fall into yourself}
-{217}{}{losing your remaining ammo}
-{218}{}{doing a blank shot}
-{219}{}{hurt yourself}
-{220}{}{hit at random}
-{221}{}{injuring a limb}
-{222}{}{get a lot of shards}
+{250}{}{±»»÷ÔÎÁË}
+{251}{}{±»»÷µ¹ÁË}
+{252}{}{Ì±»¾ÁËÄãµÄ×óÍÈ}
+{253}{}{Ì±»¾ÁËÄãµÄÓÒÍÈ}
+{254}{}{Ì±»¾ÁËÄãµÄ×ó±Û}
+{255}{}{Ì±»¾ÁËÄãµÄ×ó±Û}
+{256}{}{±»ÖÂÃ¤ÁË}
+{257}{}{±»É±ËÀÁË}
+{258}{}{±»»÷ÖĞÁË}
+{259}{}{´¦¾³Î£¼±}
+{260}{}{×Å»ğÁË}
+{261}{}{´©Í¸ÄãµÄ»¤¼×}
+{262}{}{ÄãµÄÎäÆ÷±¬Õ¨ÁË}
+{263}{}{»Ù»µÁËÄãµÄÎäÆ÷}
+{264}{}{¶ªµôÁËÄãµÄÎäÆ÷}
+{265}{}{Ê§È¥ÁËÄãÏÂÒ»»ØºÏ}
+{266}{}{´òµ½ÁË×Ô¼º}
+{267}{}{Ê§È¥ÁËÓàÏÂµÄµ¯Ò©}
+{268}{}{Éä³öÒ»·¢ÑÆµ¯}
+{269}{}{´òÉËÁË×ÔÒÑ}
+{270}{}{Ëæ»ú¹¥»÷}
+{271}{}{Ì±»¾ÁËÄãËæ»úÒ»¸ö²¿Î»}
+{272}{}{±»´òµÄ·ÉÁËÆğÀ´}
 #
-# Fighting phrases (for female GG)
+# Combat Flag Strings (all of these happen to a male)
 #
-{250}{}{unconscious}
-{251}{}{on earth}
-{252}{}{cripples your left leg}
-{253}{}{cripples your right leg}
-{254}{}{cripples your left hand}
-{255}{}{cripples your right hand}
-{256}{}{can't see}
-{257}{}{you are dying}
-{258}{}{blow}
-{259}{}{critical}
-{260}{}{on fire}
-{261}{}{notice that your armor is pierced}
-{262}{}{your weapon exploded}
-{263}{}{your weapon broke}
-{264}{}{you dropped your weapon}
-{265}{}{lose your next move}
-{266}{}{fall into yourself}
-{267}{}{losing your remaining ammo}
-{268}{}{doing a blank shot}
-{269}{}{hurt yourself}
-{270}{}{hit at random}
-{271}{}{injuring a limb}
-{272}{}{get a lot of shards}
+{300}{}{±»»÷ÔÎÁË}
+{301}{}{±»»÷µ¹ÁË}
+{302}{}{Ì±»¾ÁËËûµÄ×óÍÈ}
+{303}{}{Ì±»¾ÁËËûµÄÓÒÍÈ}
+{304}{}{Ì±»¾ÁËËûµÄ×ó±Û}
+{305}{}{Ì±»¾ÁËËûµÄ×ó±Û}
+{306}{}{±»ÖÂÃ¤ÁË}
+{307}{}{±»É±ËÀÁË}
+{308}{}{±»»÷ÖĞÁË}
+{309}{}{´¦¾³Î£¼±}
+{310}{}{×Å»ğÁË}
+{311}{}{´©Í¸ËûµÄ»¤¼×}
+{312}{}{ËûµÄÎäÆ÷±¬Õ¨ÁË}
+{313}{}{»Ù»µÁËËûµÄÎäÆ÷}
+{314}{}{¶ªµôÁËËûµÄÎäÆ÷}
+{315}{}{Ê§È¥ÁËËûÏÂÒ»»ØºÏ}
+{316}{}{´òµ½ÁË×Ô¼º}
+{317}{}{Ê§È¥ÁËÓàÏÂµÄµ¯Ò©}
+{318}{}{Éä³öÒ»·¢ÑÆµ¯}
+{319}{}{´òÉËÁË×ÔÒÑ}
+{320}{}{Ëæ»ú¹¥»÷}
+{321}{}{Ì±»¾ÁËËûËæ»úÒ»¸ö²¿Î»}
+{322}{}{±»´òµÄ·ÉÁËÆğÀ´}
 #
-# Fighting phrases (for male NPCs)
+# Combat Flag Strings (all of these happen to a female)
 #
-{300}{}{unconscious}
-{301}{}{on earth}
-{302}{}{cripples his left leg}
-{303}{}{cripples his right leg}
-{304}{}{cripples his left arm}
-{305}{}{cripples his right hand}
-{306}{}{can't see}
-{307}{}{died}
-{308}{}{blow}
-{309}{}{critical}
-{310}{}{on fire}
-{311}{}{got a hole in the armor}
-{312}{}{his weapon exploded}
-{313}{}{his weapon broke}
-{314}{}{dropped the weapon}
-{315}{}{lost his next move}
-{316}{}{hit myself}
-{317}{}{lost the remaining ammunition}
-{318}{}{makes a blank shot}
-{319}{}{hurt himself}
-{320}{}{hits at random}
-{321}{}{damages a limb}
-{322}{}{gets a lot of shards}
+{400}{}{±»»÷ÔÎÁË}
+{401}{}{±»»÷µ¹ÁË}
+{402}{}{Ì±»¾ÁËËıµÄ×óÍÈ}
+{403}{}{Ì±»¾ÁËËıµÄÓÒÍÈ}
+{404}{}{Ì±»¾ÁËËıµÄ×ó±Û}
+{405}{}{Ì±»¾ÁËËıµÄ×ó±Û}
+{406}{}{±»ÖÂÃ¤ÁË}
+{407}{}{±»É±ËÀÁË}
+{408}{}{±»»÷ÖĞÁË}
+{409}{}{´¦¾³Î£¼±}
+{410}{}{×Å»ğÁË}
+{411}{}{´©Í¸ËıµÄ»¤¼×}
+{412}{}{ËıµÄÎäÆ÷±¬Õ¨ÁË}
+{413}{}{»Ù»µÁËËıµÄÎäÆ÷}
+{414}{}{¶ªµôÁËËıµÄÎäÆ÷}
+{415}{}{Ê§È¥ÁËËıÏÂÒ»»ØºÏ}
+{416}{}{´òµ½ÁË×Ô¼º}
+{417}{}{Ê§È¥ÁËÓàÏÂµÄµ¯Ò©}
+{418}{}{Éä³öÒ»·¢ÑÆµ¯}
+{419}{}{´òÉËÁË×ÔÒÑ}
+{420}{}{Ëæ»ú¹¥»÷}
+{421}{}{Ì±»¾ÁËËıËæ»úÒ»¸ö²¿Î»}
+{422}{}{±»´òµÄ·ÉÁËÆğÀ´}
 #
-# Battle phrases (for female NPCs)
+# Miscellaneous combat messages (all of these happen to you, the male player)
+# Note: the first %s will be replaced by the value of line 506, which
+#          should be the language's equivalent to 2nd person male singular,
+#          which is "You" in English. The first letter of line 506 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 509
+#          where the second %s is the name of another creature
+{506}{}{Äã}
+{509}{}{Ôã¸â£¡[%s]±»»÷ÖĞ£¬¶ø²»ÊÇ[%s]£¡}
+{511}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{512}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥%dµãÉúÃüÖµ}
+{513}{}{[%s]±»»÷ÖĞ£¬Ê§È¥ÁË%dµãÉúÃüÖµ}
+{514}{}{[%s]±©»÷Ã»»÷ÖĞ}
+{515}{}{[%s]Ã»ÓĞ´òÖĞ}
+{520}{}{[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{521}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{522}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{523}{}{[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{524}{}{[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{525}{}{[%s]µÄ[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{526}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{527}{}{[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{528}{}{[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{533}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥1µãÉúÃüÖµ}
+{534}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥%dµãÉúÃüÖµ}
 #
-{400}{}{unconscious}
-{401}{}{on earth}
-{402}{}{cripples her left leg}
-{403}{}{cripples her right leg}
-{404}{}{cripples her left arm}
-{405}{}{cripples her right arm}
-{406}{}{can't see}
-{407}{}{died}
-{408}{}{blow}
-{409}{}{critical}
-{410}{}{on fire}
-{411}{}{got a hole in the armor}
-{412}{}{her weapon exploded}
-{413}{}{her weapon broke}
-{414}{}{dropped the weapon}
-{415}{}{lost her next move}
-{416}{}{hit herself}
-{417}{}{lost the remaining ammunition}
-{418}{}{makes a blank shot}
-{419}{}{hurt herself}
-{420}{}{hits at random}
-{421}{}{damages a limb}
-{422}{}{gets a lot of shrapnel}
+# Miscellaneous combat messages (all of these happen to you, the female player)
+# Note: the first %s will be replaced by the value of line 556, which
+#          should be the language's equivalent to 2nd person female singular,
+#          which is "You" in English. The first letter of line 556 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 559
+#          where the second %s is the name of another creature
+{556}{}{Äã}
+{559}{}{Ôã¸â£¡[%s]±»»÷ÖĞ£¬¶ø²»ÊÇ[%s]£¡}
+{561}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{562}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥%dµãÉúÃüÖµ}
+{563}{}{[%s]±»»÷ÖĞ£¬Ê§È¥ÁË%dµãÉúÃüÖµ}
+{564}{}{[%s]±©»÷Ã»»÷ÖĞ}
+{565}{}{[%s]Ã»ÓĞ´òÖĞ}
+{570}{}{[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{571}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{572}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{573}{}{[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{574}{}{[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{575}{}{[%s]µÄ[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{576}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{577}{}{[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{578}{}{[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{583}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥1µãÉúÃüÖµ}
+{584}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥%dµãÉúÃüÖµ}
 #
-# Various combat cues (for male GG)
-# Remark: the first %s inserts line 506,
-# the second %s indicates the name of the body part
-# After these replicas, replicas starting from 1000 can be glued.
+# Miscellaneous combat messages (all of these happen to a male)
+# Note: the first %s is the name of the male creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 609
+#          where the second %s is the name of another creature
 #
-{506}{}{You}
-{509}{}{Oops! %s got hit instead of (%s)!}
-{511}{}{%s got critically hit for %d hit points}
-{512}{}{%s hit (%s) for %d hit points}
-{513}{}{%s got hit for %d hit points}
-{514}{}{%s critically missed}
-{515}{}{%s missed}
-{520}{}{%s got critically hit for %d hit points}
-{521}{}{%s critically hit (%s) for 1 hit point}
-{522}{}{%s hit (%s) by 1 hit point}
-{523}{}{%s got hit by 1 hit point}
-{524}{}{%s was critically hit and lost 1 hit point}
-{525}{}{%s critically hit (%s) without loss of health}
-{526}{}{%s got hit by (%s) without losing health}
-{527}{}{%s got hit without losing health}
-{528}{}{%s received a critical hit without losing health}
-{533}{}{%s critically missed and lost 1 hit point}
-{534}{}{%s critically missed and lost %d hit point(S)}
+{608}{}{ßÀ£¡[%s]±»»÷ÖĞ£¬¶ø²»ÊÇÄã£¡}
+{609}{}{ßÀ£¡[%s]±»»÷ÖĞ£¬¶ø²»ÊÇ[%s]£¡}
+{611}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{612}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥%dµãÉúÃüÖµ}
+{613}{}{[%s]±»»÷ÖĞ£¬Ê§È¥%dµãÉúÃüÖµ}
+{614}{}{[%s]±©»÷Ã»»÷ÖĞ}
+{615}{}{[%s]Ã»ÓĞ´òÖĞ}
+{620}{}{[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{621}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{622}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{623}{}{[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{624}{}{[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{625}{}{[%s]µÄ[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{626}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{627}{}{[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{628}{}{[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{633}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥1µãÉúÃüÖµ}
+{634}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥%dµãÉúÃüÖµ}
 #
-# Various combat cues (for female GG)
+# Miscellaneous combat messages (all of these happen to a female)
+# Note: the first %s is the name of the female creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 709
+#          where the second %s is the name of another creature
 #
-{556}{}{You}
-{559}{}{Oops! %s got hit instead of (%s)!}
-{561}{}{%s got critically hit for %d hit points}
-{562}{}{%s hit (%s) for %d hit points}
-{563}{}{%s got hit for %d hit points}
-{564}{}{%s critically missed}
-{565}{}{%s missed}
-{570}{}{%s got critically hit for %d hit points}
-{571}{}{%s critically hit (%s) for 1 hit point}
-{572}{}{%s hit (%s) by 1 hit point}
-{573}{}{%s got hit by 1 hit point}
-{574}{}{%s was critically hit and lost 1 hit point}
-{575}{}{%s critically hit (%s) without loss of health}
-{576}{}{%s got hit by (%s) without losing health}
-{577}{}{%s got hit without losing health}
-{578}{}{%s received a critical hit without losing health}
-{583}{}{%s critically missed and lost 1 hit point}
-{584}{}{%s critically missed and lost %d hit point(S)}
+{708}{}{ßÀ£¡[%s]±»»÷ÖĞ£¬¶ø²»ÊÇÄã£¡}
+{709}{}{ßÀ£¡[%s]±»»÷ÖĞ£¬¶ø²»ÊÇ[%s]£¡}
+{711}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{712}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥%dµãÉúÃüÖµ}
+{713}{}{[%s]±»»÷ÖĞ£¬Ê§È¥%dµãÉúÃüÖµ}
+{714}{}{[%s]±©»÷Ã»»÷ÖĞ}
+{715}{}{[%s]Ã»ÓĞ´òÖĞ}
+{720}{}{[%s]±»±©»÷£¬Ê§È¥%dµãÉúÃüÖµ}
+{721}{}{[%s]µÄ[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{722}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{723}{}{[%s]±»»÷ÖĞ£¬Ê§È¥1µãÉúÃüÖµ}
+{724}{}{[%s]±»±©»÷£¬Ê§È¥1µãÉúÃüÖµ}
+{725}{}{[%s]µÄ[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{726}{}{[%s]µÄ[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{727}{}{[%s]±»»÷ÖĞ£¬Î´Ôì³ÉÉËº¦}
+{728}{}{[%s]±»±©»÷£¬Î´Ôì³ÉÉËº¦}
+{733}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥1µãÉúÃüÖµ}
+{734}{}{[%s]µÄ±©»÷Î´»÷ÖĞ£¬ÇÒÊ§È¥%dµãÉúÃüÖµ}
 #
-# Various combat cues (for male NPCs)
+# Hit Locations (by art_num alias)
 #
-{608}{}{Oops! %s got hit instead of you!}
-{609}{}{Oops! %s got hit instead of (%s)!}
-{611}{}{%s critically hit (%s) %d health}
-{612}{}{%s hit (%s) for %d hit points}
-{613}{}{%s got hit for %d hit points}
-{614}{}{%s critically missed}
-{615}{}{%s missed}
-{620}{}{%s got critically hit for %d hit points}
-{621}{}{%s critically hit (%s) for 1 hit point}
-{622}{}{%s hit (%s) by 1 hit point}
-{623}{}{%s got hit by 1 hit point}
-{624}{}{%s was critically hit and lost 1 hit point}
-{625}{}{%s critically hit (%s) without loss of health}
-{626}{}{%s got hit by (%s) without losing health}
-{627}{}{%s got hit without losing health}
-{628}{}{%s received a critical hit without losing health}
-{633}{}{%s critically missed and lost 1 hit point}
-{634}{}{%s critically missed and lost %d hit point(S)}
+# regular humans
 #
-# Various combat cues (for female NPCs)
+{1110}{}{Í·}
+{1111}{}{×ó±Û}
+{1112}{}{ÓÒ±Û}
+{1113}{}{ÉíÌå}
+{1114}{}{ÓÒÍÈ}
+{1115}{}{×óÍÈ}
+{1116}{}{ÑÛ¾¦}
+{1117}{}{¿çÏÂ}
+{1118}{}{ÈÎºÎ²¿Î»}
 #
-{708}{}{Oops! %s got hit instead of you!}
-{709}{}{Oops! %s got hit instead of (%s)!}
-{711}{}{%s critically hit (%s) %d health}
-{712}{}{%s hit (%s) for %d hit points}
-{713}{}{%s got hit for %d hit points}
-{714}{}{%s critically missed}
-{715}{}{%s missed}
-{720}{}{%s got critically hit for %d hit points}
-{721}{}{%s critically hit (%s) for 1 hit point}
-{722}{}{%s hit (%s) by 1 hit point}
-{723}{}{%s got hit by 1 hit point}
-{724}{}{%s was critically hit and lost 1 hit point}
-{725}{}{%s critically hit (%s) without loss of health}
-{726}{}{%s got hit by (%s) without losing health}
-{727}{}{%s got hit without losing health}
-{728}{}{%s received a critical hit without losing health}
-{733}{}{%s critically missed and lost 1 hit point}
-{734}{}{%s critically missed and lost %d hit point(S)}
+# Brahmin (Mutant 2-Headed Cows)
 #
-
-################################################################
+{1150}{}{Í·}
+{1151}{}{×óºóÍÈ}
+{1152}{}{ÓÒºóÍÈ}
+{1153}{}{ÉíÌå}
+{1154}{}{ÓÒÇ°ÍÈ}
+{1155}{}{×óÇ°ÍÈ}
+{1156}{}{ÑÛ¾¦}
+{1157}{}{ÏÂÌå}
+{1158}{}{ÈÎºÎ²¿Î»}
 #
-# Targeted shooting
+# dogs
 #
-################################################################
-
-#
-# An ordinary person
-#
-{1110}{}{head}
-{1111}{}{left hand}
-{1112}{}{right hand}
-{1113}{}{torso}
-{1114}{}{right leg}
-{1115}{}{left leg}
-{1116}{}{eyes}
-{1117}{}{groin}
-{1118}{}{unknown}
-#
-# Brahmin
-#
-{1150}{}{head}
-{1151}{}{left hind leg}
-{1152}{}{right hind leg}
-{1153}{}{torso}
-{1154}{}{right front leg}
-{1155}{}{left front leg}
-{1156}{}{eyes}
-{1157}{}{udder}
-{1158}{}{unknown}
-#
-# Dog, coyote, wolf
-#
-{1160}{}{head}
-{1161}{}{left leg}
-{1162}{}{right leg}
-{1163}{}{torso}
-{1164}{}{right paw}
-{1165}{}{left paw}
-{1166}{}{eyes}
-{1167}{}{groin}
-{1168}{}{unknown}
+{1160}{}{Í·}
+{1161}{}{×óºóÍÈ}
+{1162}{}{ÓÒºóÍÈ}
+{1163}{}{ÉíÌå}
+{1164}{}{ÓÒÇ°ÍÈ}
+{1165}{}{×óÇ°ÍÈ}
+{1166}{}{ÑÛ¾¦}
+{1167}{}{ÏÂÌå}
+{1168}{}{ÈÎºÎ²¿Î»}
 #
 # Mr. Handy
 #
-{1170}{}{processor}
-{1171}{}{manipulator}
-{1172}{}{manipulator}
-{1173}{}{building}
-{1174}{}{engine}
-{1175}{}{engine}
-{1176}{}{sensors}
-{1177}{}{regulator}
-{1178}{}{unknown}
+{1170}{}{ÖĞÑë´¦ÀíÆ÷}
+{1171}{}{´¥ÊÖ}
+{1172}{}{´¥ÊÖ}
+{1173}{}{Ö÷Ìå}
+{1174}{}{ÒÆ¶¯Æ÷}
+{1175}{}{ÒÆ¶¯Æ÷}
+{1176}{}{¸ĞÓ¦Æ÷}
+{1177}{}{ÎÈÁ÷Æ÷}
+{1178}{}{ÈÎºÎ²¿Î»}
 #
-# Supermutant (not used? see below 1210-1218)
+# Super Mutants             # Fallout 2: Reserved?
 #
-{1180}{}{head}
-{1181}{}{left hand}
-{1182}{}{right hand}
-{1183}{}{torso}
-{1184}{}{right leg}
-{1185}{}{left leg}
-{1186}{}{eyes}
-{1187}{}{groin}
-{1188}{}{unknown}
+{1180}{}{Í·}
+{1181}{}{×ó±Û}
+{1182}{}{ÓÒ±Û}
+{1183}{}{ÉíÌå}
+{1184}{}{ÓÒÍÈ}
+{1185}{}{×óÍÈ}
+{1186}{}{ÑÛ¾¦}
+{1187}{}{¿çÏÂ}
+{1188}{}{ÈÎºÎ²¿Î»}
 #
-# Mole rat, rat god
+# Mole-Rat
 #
-{1190}{}{head}
-{1191}{}{left paw}
-{1192}{}{right paw}
-{1193}{}{torso}
-{1194}{}{right leg}
-{1195}{}{left leg}
-{1196}{}{eyes}
-{1197}{}{groin}
-{1198}{}{unknown}
+{1190}{}{Í·}
+{1191}{}{×óÇ°×¦}
+{1192}{}{ÓÒÇ°×¦}
+{1193}{}{ÉíÌå}
+{1194}{}{ÓÒÍÈ}
+{1195}{}{×óÍÈ}
+{1196}{}{ÑÛ¾¦}
+{1197}{}{¿çÏÂ}
+{1198}{}{ÈÎºÎ²¿Î»}
 #
-# Super Mutants
+# big humans and mutants
 #
-{1210}{}{head}
-{1211}{}{left hand}
-{1212}{}{right hand}
-{1213}{}{torso}
-{1214}{}{right leg}
-{1215}{}{left leg}
-{1216}{}{eyes}
-{1217}{}{groin}
-{1218}{}{unknown}
+{1210}{}{Í·}
+{1211}{}{×ó±Û}
+{1212}{}{ÓÒ±Û}
+{1213}{}{ÉíÌå}
+{1214}{}{ÓÒÍÈ}
+{1215}{}{×óÍÈ}
+{1216}{}{ÑÛ¾¦}
+{1217}{}{¿çÏÂ}
+{1218}{}{ÈÎºÎ²¿Î»}
 #
 # Radscorpion
 #
-{1220}{}{head}
-{1221}{}{tail}
-{1222}{}{claw}
-{1223}{}{shell}
-{1224}{}{front legs}
-{1225}{}{hind legs}
-{1226}{}{eyes}
-{1227}{}{brain}
-{1228}{}{unknown}
+{1220}{}{Í·}
+{1221}{}{Î²°Í}
+{1222}{}{×¦}
+{1223}{}{¼×¿Ç}
+{1224}{}{Ç°½Å}
+{1225}{}{ºó½Å}
+{1226}{}{ÑÛ¾¦}
+{1227}{}{Í·ÄÔ}
+{1228}{}{ÈÎºÎ²¿Î»}
 #
-# Flyer
+# Floater
 #
-{1230}{}{head}
-{1231}{}{mouth}
-{1232}{}{front mouth}
-{1233}{}{torso}
-{1234}{}{air bag}
-{1235}{}{tail}
-{1236}{}{nerve center}
-{1237}{}{ovipositor}
-{1238}{}{unknown}
+{1230}{}{Í·}
+{1231}{}{×ì}
+{1232}{}{Ç°×ì}
+{1233}{}{ÉíÒÔ}
+{1234}{}{¸¡´ü}
+{1235}{}{Î²°Í}
+{1236}{}{Éñ¾­Ïß}
+{1237}{}{²úÂÑ¹Ü}
+{1238}{}{ÈÎºÎ²¿Î»}
 #
-# Common rat
+# masrat? a rat perhaps?
 #
-{1240}{}{head}
-{1241}{}{left paw}
-{1242}{}{right paw}
-{1243}{}{torso}
-{1244}{}{right leg}
-{1245}{}{left leg}
-{1246}{}{eyes}
-{1247}{}{groin}
-{1248}{}{unknown}
+{1240}{}{Í·}
+{1241}{}{×óÇ°×¦}
+{1242}{}{ÓÒÇ°×¦}
+{1243}{}{ÉíÌå}
+{1244}{}{ÓÒÍÈ}
+{1245}{}{×óÍÈ}
+{1246}{}{ÑÛ¾¦}
+{1247}{}{¿çÏÂ}
+{1248}{}{ÈÎºÎ²¿Î»}
 #
 # Centaur
 #
-{1250}{}{head}
-{1251}{}{left hand}
-{1252}{}{right hand}
-{1253}{}{torso}
-{1254}{}{right leg}
-{1255}{}{left leg}
-{1256}{}{eyes}
-{1257}{}{groin}
-{1258}{}{unknown}
+{1250}{}{Í·}
+{1251}{}{×ó±Û}
+{1252}{}{ÓÒ±Û}
+{1253}{}{ÉíÌå}
+{1254}{}{ÓÒÍÈ}
+{1255}{}{×óÍÈ}
+{1256}{}{ÑÛ¾¦}
+{1257}{}{¿çÏÂ}
+{1258}{}{ÈÎºÎ²¿Î»}
 #
-# Dwarfs and children
+# human midgets and children
 #
-{1270}{}{head}
-{1271}{}{left hand}
-{1272}{}{right hand}
-{1273}{}{torso}
-{1274}{}{right leg}
-{1275}{}{left leg}
-{1276}{}{eyes}
-{1277}{}{groin}
-{1278}{}{unknown}
+{1270}{}{Í·}
+{1271}{}{×ó±Û}
+{1272}{}{ÓÒ±Û}
+{1273}{}{ÉíÌå}
+{1274}{}{ÓÒÍÈ}
+{1275}{}{×óÍÈ}
+{1276}{}{ÑÛ¾¦}
+{1277}{}{¿çÏÂ}
+{1278}{}{ÈÎºÎ²¿Î»}
 #
-# Overseer # Fallout Sonora: not used
+# Overseer                  # Fallout 2: Reserved?
 #
-{1460}{}{head}
-{1461}{}{left hand}
-{1462}{}{right hand}
-{1463}{}{torso}
-{1464}{}{right leg}
-{1465}{}{left leg}
-{1466}{}{eyes}
-{1467}{}{groin}
-{1468}{}{unknown}
+{1460}{}{Í·}
+{1461}{}{×ó±Û}
+{1462}{}{ÓÒ±Û}
+{1463}{}{ÉíÌå}
+{1464}{}{ÓÒÍÈ}
+{1465}{}{×óÍÈ}
+{1466}{}{ÑÛ¾¦}
+{1467}{}{¿çÏÂ}
+{1468}{}{ÈÎºÎ²¿Î»}
 #
-# Gizmo # Fallout Sonora: not used
+# Gizmo                     # Fallout 2: Reserved?
 #
-{1490}{}{head}
-{1491}{}{left hand}
-{1492}{}{right hand}
-{1493}{}{torso}
-{1494}{}{right leg}
-{1495}{}{left leg}
-{1496}{}{eyes}
-{1497}{}{groin}
-{1498}{}{unknown}
+{1490}{}{Í·}
+{1491}{}{×ó±Û}
+{1492}{}{ÓÒ±Û}
+{1493}{}{ÉíÌå}
+{1494}{}{ÓÒÍÈ}
+{1495}{}{×óÍÈ}
+{1496}{}{ÑÛ¾¦}
+{1497}{}{¿çÏÂ}
+{1498}{}{ÈÎºÎ²¿Î»}
 #
-# The Master! # Fallout Sonora: Not used
+# The Master!               # Fallout 2: Reserved?
 #
-{1500}{}{head}
+{1500}{}{Í·}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{ housing}
+{1503}{}{ÉíÌå}
 {1504}{}{???}
 {1505}{}{???}
-{1506}{}{ eyes}
-{1507}{}{processor}
-{1508}{}{unknown}
+{1506}{}{ÑÛ¾¦}
+{1507}{}{ÖĞÑë´¦ÀíÆ÷}
+{1508}{}{ÈÎºÎ²¿Î»}
 #
 # Death Claw
 #
-{1510}{}{head}
-{1511}{}{left paw}
-{1512}{}{right paw}
-{1513}{}{torso}
-{1514}{}{right leg}
-{1515}{}{left leg}
-{1516}{}{eyes}
-{1517}{}{groin}
-{1518}{}{unknown}
+{1510}{}{Í·}
+{1511}{}{×ó±Û}
+{1512}{}{ÓÒ±Û}
+{1513}{}{ÉíÌå}
+{1514}{}{ÓÒÍÈ}
+{1515}{}{×óÍÈ}
+{1516}{}{ÑÛ¾¦}
+{1517}{}{¿çÏÂ}
+{1518}{}{ÈÎºÎ²¿Î»}
 #
 # Mantis
 #
-{1520}{}{head}
-{1521}{}{grasping limb}
-{1522}{}{grasping limb}
-{1523}{}{backside}
-{1524}{}{legs}
-{1525}{}{wings}
-{1526}{}{eyes}
-{1527}{}{abdomen}
-{1528}{}{unknown}
+{1520}{}{Í·}
+{1521}{}{´¥½Å}
+{1522}{}{´¥½Å}
+{1523}{}{ÏÂ¸¹}
+{1524}{}{×ã}
+{1525}{}{³á°ò}
+{1526}{}{ÑÛ¾¦}
+{1527}{}{ºóĞØ}
+{1528}{}{ÈÎºÎ²¿Î»}
 #
-# Robot brain
+# Robobrain
 #
-{1530}{}{processor}
-{1531}{}{manipulator}
-{1532}{}{manipulator}
-{1533}{}{building}
-{1534}{}{engine}
-{1535}{}{engine}
-{1536}{}{sensors}
-{1537}{}{regulator}
-{1538}{}{unknown}
+{1530}{}{ÖĞÑë´¦ÀíÆ÷}
+{1531}{}{´¥ÊÖ}
+{1532}{}{´¥ÊÖ}
+{1533}{}{Ö÷Ìå}
+{1534}{}{ÒÆ¶¯Æ÷}
+{1535}{}{ÒÆ¶¯Æ÷}
+{1536}{}{¸ĞÓ¦Æ÷}
+{1537}{}{ÎÈÁ÷Æ÷}
+{1538}{}{ÈÎºÎ²¿Î»}
 #
-# Roboglaz
+# Eyeball (Robot)
 #
-{1540}{}{processor}
-{1541}{}{manipulator}
-{1542}{}{manipulator}
-{1543}{}{building}
-{1544}{}{engine}
-{1545}{}{engine}
-{1546}{}{sensors}
-{1547}{}{regulator}
-{1548}{}{unknown}
+{1540}{}{ÖĞÑë´¦ÀíÆ÷}
+{1541}{}{´¥ÊÖ}
+{1542}{}{´¥ÊÖ}
+{1543}{}{Ö÷Ìå}
+{1544}{}{ÒÆ¶¯Æ÷}
+{1545}{}{ÒÆ¶¯Æ÷}
+{1546}{}{¸ĞÓ¦Æ÷}
+{1547}{}{ÎÈÁ÷Æ÷}
+{1548}{}{ÈÎºÎ²¿Î»}
 #
-# Pig-rat
+# Mutant Pig Rat (small Mole-Rat)
 #
-{1550}{}{head}
-{1551}{}{left paw}
-{1552}{}{right paw}
-{1553}{}{torso}
-{1554}{}{right leg}
-{1555}{}{left leg}
-{1556}{}{eyes}
-{1557}{}{groin}
-{1558}{}{unknown}
+{1550}{}{Í·}
+{1551}{}{×óÇ°×¦}
+{1552}{}{ÓÒÇ°×¦}
+{1553}{}{ÉíÌå}
+{1554}{}{ÓÒÍÈ}
+{1555}{}{×óÍÈ}
+{1556}{}{ÑÛ¾¦}
+{1557}{}{¿çÏÂ}
+{1558}{}{ÈÎºÎ²¿Î»}
 #
-# Egg
+# Deathclaw Egg
 #
-{1580}{}{shell}
-{1581}{}{shell}
-{1582}{}{shell}
-{1583}{}{shell}
-{1584}{}{shell}
-{1585}{}{shell}
-{1586}{}{shell}
-{1587}{}{shell}
-{1588}{}{unknown}
+{1580}{}{¿Ç}
+{1581}{}{¿Ç}
+{1582}{}{¿Ç}
+{1583}{}{¿Ç}
+{1584}{}{¿Ç}
+{1585}{}{»¹ÊÇ¿Ç}
+{1586}{}{¿Ç}
+{1587}{}{¿Ç}
+{1588}{}{ÈÎºÎ²¿Î»}
 #
-# Small radscorpion
+# Lesser Radscorpion
 #
-{1590}{}{head}
-{1591}{}{tail}
-{1592}{}{claw}
-{1593}{}{shell}
-{1594}{}{front legs}
-{1595}{}{hind legs}
-{1596}{}{eyes}
-{1597}{}{brain}
-{1598}{}{unknown}
+{1590}{}{Í·}
+{1591}{}{Î²°Í}
+{1592}{}{×¦}
+{1593}{}{¼×¿Ç}
+{1594}{}{Ç°½Å}
+{1595}{}{ºó½Å}
+{1596}{}{ÑÛ¾¦}
+{1597}{}{Í·ÄÔ}
+{1598}{}{ÈÎºÎ²¿Î»}
 #
-# Small Death Claw
+# Lesser Death Claw
 #
-{1600}{}{head}
-{1601}{}{left paw}
-{1602}{}{right paw}
-{1603}{}{torso}
-{1604}{}{right leg}
-{1605}{}{left leg}
-{1606}{}{eyes}
-{1607}{}{groin}
-{1608}{}{unknown}
+{1600}{}{Í·}
+{1601}{}{×ó±Û}
+{1602}{}{ÓÒ±Û}
+{1603}{}{ÉíÌå}
+{1604}{}{ÓÒÍÈ}
+{1605}{}{×óÍÈ}
+{1606}{}{ÑÛ¾¦}
+{1607}{}{¿çÏÂ}
+{1608}{}{ÈÎºÎ²¿Î»}
 #
-# Predatory plant
+# Giant Plant
 #
-{1650}{}{mouth}
-{1651}{}{stem}
-{1652}{}{stem}
-{1653}{}{central stem}
-{1654}{}{roots}
-{1655}{}{roots}
-{1656}{}{tentacles}
-{1657}{}{base}
-{1658}{}{unknown}
+{1650}{}{¿Ú}
+{1651}{}{¾¥}
+{1652}{}{¾¥}
+{1653}{}{Ö÷¸É}
+{1654}{}{¸ù}
+{1655}{}{¸ù}
+{1656}{}{´¥ÊÖ}
+{1657}{}{µ×²¿}
+{1658}{}{ÈÎºÎ²¿Î»}
 #
-# Security robot
+# Security Robot
 #
-{1660}{}{head}
-{1661}{}{hand with rocket}
-{1662}{}{hand with barrel}
-{1663}{}{torso}
-{1664}{}{right leg}
-{1665}{}{left leg}
-{1666}{}{sensors}
-{1667}{}{lower torso}
-{1668}{}{unknown}
+{1660}{}{Í·}
+{1661}{}{»ğ¼ı·¢ÉäÆ÷}
+{1662}{}{»ú¹ØÇ¹·¢ÉäÆ÷}
+{1663}{}{ÉíÌå}
+{1664}{}{ÓÒÍÈ}
+{1665}{}{×óÍÈ}
+{1666}{}{¸ĞÓ¦Æ÷}
+{1667}{}{ÏÂÉí}
+{1668}{}{ÈÎºÎ²¿Î»}
 #
-# GECKo 2 # Fallout Sonora: not used
+# Gecko 2
 #
-{1670}{}{head}
-{1671}{}{left claw}
-{1672}{}{right claw}
-{1673}{}{torso}
-{1674}{}{right leg}
-{1675}{}{left leg}
-{1676}{}{eyes}
-{1677}{}{groin}
-{1678}{}{unknown}
+{1670}{}{Í·}
+{1671}{}{×óÇ°×¦}
+{1672}{}{ÓÒÇ°×¦}
+{1673}{}{ÉíÌå}
+{1674}{}{ÓÒÍÈ}
+{1675}{}{×óÍÈ}
+{1676}{}{ÑÛ¾¦}
+{1677}{}{¿çÏÂ}
+{1678}{}{ÈÎºÎ²¿Î»}
 #
-# GECKo # Fallout Sonora: not used
+# Gecko
 #
-{1680}{}{head}
-{1681}{}{left claw}
-{1682}{}{right claw}
-{1683}{}{torso}
-{1684}{}{right leg}
-{1685}{}{left leg}
-{1686}{}{eyes}
-{1687}{}{groin}
-{1688}{}{unknown}
+{1680}{}{Í·}
+{1681}{}{×óÇ°×¦}
+{1682}{}{ÓÒÇ°×¦}
+{1683}{}{ÉíÌå}
+{1684}{}{ÓÒÍÈ}
+{1685}{}{×óÍÈ}
+{1686}{}{ÑÛ¾¦}
+{1687}{}{¿çÏÂ}
+{1688}{}{ÈÎºÎ²¿Î»}
 #
-# Alien # Fallout Sonora: not used
+# Alien Thing
 #
-{1800}{}{head}
-{1801}{}{left tentacle}
-{1802}{}{right tentacle}
-{1803}{}{torso}
-{1804}{}{right foot}
-{1805}{}{left foot}
-{1806}{}{eyes?}
-{1807}{}{groin area}
-{1808}{}{unknown}
+{1800}{}{Í·}
+{1801}{}{×ó´¥ÊÖ}
+{1802}{}{ÓÒ´¥ÊÖ}
+{1803}{}{ÉíÌå}
+{1804}{}{ÓÒÍÈ}
+{1805}{}{×óÍÈ}
+{1806}{}{ÑÛ²¿}
+{1807}{}{ÏÂ°ëÉí}
+{1808}{}{ÈÎºÎ²¿Î»}
 #
-# Scolopendra
+# End Boss
 #
-{1810}{}{head}
-{1811}{}{left pectoral leg}
-{1812}{}{right pectoral leg}
-{1813}{}{shell}
-{1814}{}{right abdominal leg}
-{1815}{}{left abdominal leg}
-{1816}{}{eyes}
-{1817}{}{abdomen}
-{1818}{}{unknown}
+{1850}{}{Í·}
+{1851}{}{×ó±Û}
+{1852}{}{ÓÒ±Û}
+{1853}{}{ÉíÌå}
+{1854}{}{ÓÒÍÈ}
+{1855}{}{×óÍÈ}
+{1856}{}{ÑÛ¾¦}
+{1857}{}{¿çÏÂ}
+{1858}{}{ÈÎºÎ²¿Î»}
 #
-# End Boss # Fallout Sonora: not used
+# Alien Queen
 #
-{1850}{}{head}
-{1851}{}{left hand}
-{1852}{}{right hand}
-{1853}{}{torso}
-{1854}{}{right leg}
-{1855}{}{left leg}
-{1856}{}{eyes}
-{1857}{}{groin}
-{1858}{}{unknown}
+{1860}{}{Í·}
+{1861}{}{×ó´¥ÊÖ}
+{1862}{}{ÓÒ´¥ÊÖ}
+{1863}{}{ÉíÌå}
+{1864}{}{ÓÒÍÈ}
+{1865}{}{×óÍÈ}
+{1866}{}{ÑÛ²¿}
+{1867}{}{ÏÂ°ëÉí}
+{1868}{}{ÈÎºÎ²¿Î»}
 #
-# Alien 2 # Fallout Sonora: Not used
+# Gun Turret 2
 #
-{1860}{}{head}
-{1861}{}{left tentacle}
-{1862}{}{right tentacle}
-{1863}{}{torso}
-{1864}{}{right foot}
-{1865}{}{left foot}
-{1866}{}{eyes?}
-{1867}{}{groin area}
-{1868}{}{unknown}
+{1900}{}{ÖĞÑë´¦ÀíÆ÷}
+{1901}{}{Ç¹¹Ø½Ú}
+{1902}{}{Ç¹¹Ø½Ú}
+{1903}{}{±¾Ìå}
+{1904}{}{µ×²¿¹Ø½Ú}
+{1905}{}{µ×²¿¹Ø½Ú}
+{1906}{}{¸ĞÓ¦Æ÷}
+{1907}{}{µ¼Á÷Æ÷}
+{1908}{}{ÈÎºÎ²¿Î»}
 #
-# Turret # Fallout Sonora: not used
+# Giant Ant
 #
-{1900}{}{processor}
-{1901}{}{servomotor guns}
-{1902}{}{servomotor guns}
-{1903}{}{building}
-{1904}{}{main servo motor}
-{1905}{}{main servo motor}
-{1906}{}{sensors}
-{1907}{}{regulator}
-{1908}{}{unknown}
+{1970}{}{Í·}
+{1971}{}{×óÇ°½Å}
+{1972}{}{ÓÒÇ°½Å}
+{1973}{}{ÏÂ¸¹}
+{1974}{}{ÓÒºó½Å}
+{1975}{}{×óºó½Å}
+{1976}{}{´¥½Ç}
+{1977}{}{ºóĞØ}
+{1978}{}{ÈÎºÎ²¿Î»}
 #
-# Huge ant
+# Goris Robed
 #
-{1970}{}{head}
-{1971}{}{left front leg}
-{1972}{}{right front leg}
-{1973}{}{backside}
-{1974}{}{right hind leg}
-{1975}{}{left hind leg}
-{1976}{}{mustache}
-{1977}{}{abdomen}
-{1978}{}{unknown}
+{1990}{}{Í·}
+{1991}{}{×ó±Û}
+{1992}{}{ÓÒ±Û}
+{1993}{}{ÉíÌå}
+{1994}{}{ÓÒÍÈ}
+{1995}{}{×óÍÈ}
+{1996}{}{ÑÛ¾¦}
+{1997}{}{¿çÏÂ}
+{1998}{}{ÈÎºÎ²¿Î»}
 #
-# Goris in a robe # Fallout Sonora: not used
+# Goris UnRobed
 #
-{1990}{}{head}
-{1991}{}{left hand}
-{1992}{}{right hand}
-{1993}{}{torso}
-{1994}{}{right leg}
-{1995}{}{left leg}
-{1996}{}{eyes}
-{1997}{}{groin}
-{1998}{}{unknown}
+{2000}{}{Í·}
+{2001}{}{×ó±Û}
+{2002}{}{ÓÒ±Û}
+{2003}{}{ÉíÌå}
+{2004}{}{ÓÒÍÈ}
+{2005}{}{×óÍÈ}
+{2006}{}{ÑÛ¾¦}
+{2007}{}{¿çÏÂ}
+{2008}{}{ÈÎºÎ²¿Î»}
 #
-# Goris without robes # Fallout Sonora: not used
+# Gun Turret 2
 #
-{2000}{}{head}
-{2001}{}{left hand}
-{2002}{}{right hand}
-{2003}{}{torso}
-{2004}{}{right leg}
-{2005}{}{left leg}
-{2006}{}{eyes}
-{2007}{}{groin}
-{2008}{}{unknown}
-#
-# Turret # Fallout Sonora: not used
-#
-{2010}{}{processor}
-{2011}{}{servomotor guns}
-{2012}{}{servomotor guns}
-{2013}{}{building}
-{2014}{}{main servo motor}
-{2015}{}{main servo motor}
-{2016}{}{sensors}
-{2017}{}{regulator}
-{2018}{}{unknown}
-
-
-################################################################
-#
-# Critical hits
-#
-################################################################
+{2010}{}{ÖĞÑë´¦ÀíÆ÷}
+{2011}{}{Ç¹¹Ø½Ú}
+{2012}{}{Ç¹¹Ø½Ú}
+{2013}{}{±¾Ìå}
+{2014}{}{µ×²¿¹Ø½Ú}
+{2015}{}{µ×²¿¹Ø½Ú}
+{2016}{}{¸ĞÓ¦Æ÷}
+{2017}{}{µ¼Á÷Æ÷}
+{2018}{}{ÈÎºÎ²¿Î»}
 
 #
-# 5000 is a man
+# Fruit Fly
 #
-{5000}{}{, and it hurts a lot}
-{5001}{}{. A serious wound has been inflicted}
-{5002}{}{ in the absence of armor}
-{5003}{}{. A strong blow knocks him unconscious}
-{5004}{}{. The blow knocks him down}
-{5005}{}{. A strong blow to the head knocks him unconscious}
-{5006}{}{. A crushing blow to the temple. Good night, darling}
-{5007}{}{, instant death occurs}
-{5008}{}{, causing severe shoulder bursitis}
-{5009}{}{, knocking out the joint}
-{5010}{}{, leaving a big bruise}
-{5011}{}{, severely injuring the left arm}
-{5012}{}{, while the arm is almost completely detached}
-{5013}{}{. Now this arm looks like a bloody stump}
-{5014}{}{, severely injuring the right hand}
-{5015}{}{. His right hand turns to dust with this powerful blow}
-{5016}{}{ with a strong impact}
-{5017}{}{ with a blow that pierced the armor}
-{5018}{}{, additional damage is inflicted}
-{5019}{}{ in the absence of armor, while the opponent falls to the ground}
-{5020}{}{ shaking the air, he falls to the ground, and the fight ends}
-{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
-{5022}{}{ at the same time, he severely damages his leg}
-{5023}{}{, at the same time he falls to the ground like a pin knocked down by a ball}
-{5024}{}{, at the same time he falls and cripples his leg}
-{5025}{}{, at the same time he knocks out his knee a lot. He's falling}
-{5026}{}{. Severe pain when tearing off his leg forces him to end the fight}
-{5027}{}{ at the same time, the pain becomes even stronger}
-{5028}{}{, at the same time, unfortunately for him, he goes blind}
-{5029}{}{, and since there is no protection there, the blow causes severe pain}
-{5030}{}{, and this sharp blow blinds him}
-{5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
-{5032}{}{ unfortunately, he is too busy with the unexpected influx of air to the brain to notice the approach of death}
-{5033}{}{. Oh-oh! It must have hurt}
-{5034}{}{, and there is no protection on it}
-{5035}{}{, and since there is no protection, he falls, groaning in agony}
-{5036}{}{. He cannot bear such pain and falls like a rag}
-{5037}{}{. He mumbles, "Mom," his eyes are completely rolled up}
-#
-# 5100 - a woman
-#
-{5100}{}{, and it hurts a lot}
-{5101}{}{. A serious wound has been inflicted}
-{5102}{}{ in the absence of armor}
-{5103}{}{. A strong blow knocks her unconscious}
-{5104}{}{. The blow knocks her off her feet}
-{5105}{}{. A strong blow to the head knocks her unconscious}
-{5106}{}{. A crushing blow to the temple. Good night, dear}
-{5107}{}{, instant death occurs}
-{5108}{}{, causing severe shoulder bursitis}
-{5109}{}{, knocking out the joint}
-{5110}{}{, leaving a big bruise}
-{5111}{}{, severely injuring the left arm}
-{5112}{}{. Her left hand barely rests on her shoulder}
-{5113}{}{. Now this arm looks like a bloody stump}
-{5114}{}{, severely injuring the right hand}
-{5115}{}{. The blow turned her right arm into mincemeat}
-{5116}{}{ with a strong impact}
-{5117}{}{ punching her armor}
-{5118}{}{, additional damage is inflicted}
-{5119}{}{. In the absence of armor, the blow knocks her down}
-{5120}{}{. Shaking the air, she settles to the ground}
-{5121}{}{. Unfortunately, her main internal organs are visible to the naked eye}
-{5122}{}{. At the same time, her leg is severely damaged}
-{5123}{}{. At the same time, she loses consciousness, as on the first blind date}
-{5124}{}{, at the same time she falls and cripples her leg}
-{5125}{}{it looks like her kneecap will be found in the next town. The woman falls as if knocked down}
-{5126}{}{. She screams from the pain of her broken leg}
-{5127}{}{ at the same time, the pain becomes even stronger}
-{5128}{}{, which causes blindness. She winces}
-{5129}{}{, and since there is no protection there, the blow causes severe pain}
-{5130}{}{. The wound causes complete blindness. As if it happens incomplete}
-{5131}{}{. A blinding blow renders her unconscious}
-{5132}{}{. Unfortunately, she didn't have time to pray to her gods before meeting them}
-{5133}{}{. She takes the blow like a man. In other words, it hurts her too}
-{5134}{}{, which knocks her down}
-{5135}{}{. She settles to the ground. It seems that from now on she is threatened with infertility}
-#
-# 5200 - children
-#
-{5200}{}{. A small child starts crying}
-{5201}{}{. A small child falls, losing consciousness}
-{5202}{}{. Oh, oh!}
-{5203}{}{. The blow is right, and the child loses consciousness}
-{5204}{}{, while the child is carried away like a light feather}
-{5205}{}{. There is now a wound on the child's left arm}
-{5206}{}{, while the blow knocks the child off his feet}
-{5207}{}{, while the hand breaks with a loud crunch. Tears begin to flow immediately}
-{5208}{}{, while the hand breaks like a dry twig}
-{5209}{}{. The right hand begins to swell, like an inflated balloon}
-{5210}{}{, and the baby starts crying}
-{5211}{}{. The blow falls right on the most sensitive spot}
-{5212}{}{. A blow to a vital organ knocks the spirit out of a child}
-{5213}{}{. The blow knocks a small child off his feet like a toy}
-{5214}{}{. From now on, this little child will never know real life}
-{5215}{}{, while the child gets a severe cut}
-{5216}{}{. The blow knocks the child down. His leg is broken}
-{5217}{}{, which causes great harm to a small child}
-{5218}{}{. A small child looks up and starts crying}
-{5219}{}{, while the child goes blind}
-{5220}{}{. The blow falls directly on the baby's nose}
-{5221}{}{. A cut appears above the eyes, and blood begins to flow down the face}
-{5222}{}{. The eye bursts like a grape. The child seems to be in shock}
-{5223}{}{, which causes blindness. A small child falls to the ground}
-{5224}{}{. A blow pierces a child's skull}
-{5225}{}{. The child looks shocked and scared}
-{5226}{}{. The blow knocks down a small victim}
-#
-# 5300 - super mutants
-#
-{5300}{}{, which causes severe damage to the mighty mutant}
-{5301}{}{. The blow falls on a vital place}
-{5302}{}{. The blow falls on a vital place and knocks the mutant off his feet}
-{5303}{}{. The huge mutant looks around in confusion and smoothly settles to the ground}
-{5304}{}{. The mutant's head explodes like a huge, bloody watermelon}
-{5305}{}{, which causes great harm to the mighty mutant}
-{5306}{}{. The giant spends a few seconds cursing the entire universe}
-{5307}{}{. On impact, a nerve is touched, and the pain causes the giant to grab his hand}
-{5308}{}{. The blow breaks the elbow joint. Probably not the most pleasant feelings}
-{5309}{}{. At the same time, the mutant's thick arm breaks, and his blood floods the ground around}
-{5310}{}{, after which the giant swings for a couple of seconds, and then falls like a mown tree}
-{5311}{}{, and tons of entrails spill out onto the ground}
-{5312}{}{, after which the giant flies to the floor}
-{5313}{}{. The mutant staggers and falls, as his legs can no longer hold him}
-{5314}{}{. The blow falls in a vital place. The mutant writhes, clutching his broken leg}
-{5315}{}{. The pain of a broken leg overwhelms the mighty mutant}
-{5316}{}{, while the mutant practically goes blind}
-{5317}{}{, while the enraged mutant goes blind}
-{5318}{}{. The mutant is almost blinded and loses his balance}
-{5319}{}{. The blinded mutant staggers and does not have time to prepare for the next blow}
-{5320}{}{, while the unconscious mutant goes blind}
-{5321}{}{. The mutant's eyes flash for a moment and then go out. Forever}
-#
-# 5400 - ghouls
-#
-{5400}{}{. The ghoul is surprised and does not have time to defend himself from this blow}
-{5401}{}{. This blow destroys the ghoul}
-{5402}{}{. The paralyzed ghoul's hands unclench}
-{5403}{}{. The blow penetrates through his armor and hits the most vulnerable spot}
-{5404}{}{. The blow penetrates through his armor and rips off his arm}
-{5405}{}{. The ghoul makes the wrong move in the wrong direction and loses an eye}
-{5406}{}{. The ghoul has no armor there}
-{5407}{}{. Due to the lack of armor, the ghoul goes blind}
-{5408}{}{. In the last seconds of his life, the ghoul takes a stunned look}
-#
-# 5500 - Brahmins
-#
-{5500}{}{, which knocks the animal down}
-{5501}{}{, while both brains are paralyzed, and the huge animal falls}
-{5502}{}{. The brahmin makes a loud, frightened moo}
-{5503}{}{. At the same time, the brahmin breaks one of his legs}
-{5504}{}{, causing serious wounds to a brahmin}
-{5505}{}{. The blow easily pierces the thick hide of a huge animal}
-{5506}{}{. The blow simultaneously pierces both hearts of the two-headed brute}
-{5507}{}{. The blow simultaneously blinds both pairs of the brahmin's eyes}
-{5508}{}{. The blow paralyzes the animal, blinding both of its heads}
-{5509}{}{. The wound completely blinds the brahmin and knocks the spirit out of him}
-{5510}{}{. The animal stands staggering for a while}
-{5511}{}{. The brahmin is trembling with rage}
-{5512}{}{. The brahmin wheezes in pain}
-{5513}{}{. The Brahmin really did not like this blow to the udder}
-#
-# 5600 - radscorpions
-#
-{5600}{}{. The radscorpion jumps from the blow and lands on its back}
-{5601}{}{. The blow tears the head off the shell}
-{5602}{}{. The blow seriously damages the tail of the radscorpion}
-{5603}{}{. The main blow falls on his claws}
-{5604}{}{. The blow penetrates through the durable shell of the radscorpion}
-{5605}{}{. The solid shell was not even able to slow down the impact}
-{5606}{}{. The blow pierces the natural armor and knocks the spirit out of the radscorpion}
-{5607}{}{. Radscorpion cannot cope with new sensations, or rather, with the absence of internal organs}
-{5608}{}{. The blow hits the radscorpion on the ground, and it damages the legs}
-{5609}{}{. The blow falls on the unprotected joint of the leg, severely damaging it}
-{5610}{}{. The blow seriously injures and blinds the mutant}
-{5611}{}{. The blow goes almost to the brain. And you say - crush the beetle}
-{5612}{}{. The blow goes almost to the brain, blinding the animal}
-{5613}{}{. The blow is very cruel and too difficult for this primitive creature}
-{5614}{}{. If there was a man in front of you, you could swear that he was furious}
-{5615}{}{. The blow knocks the spirit out of the poor creature}
-{5616}{}{. The blow chains his brain to the floor}
-#
-# 5700 - rats
-#
-{5700}{}{. The rodent's skull makes several unnatural sounds}
-{5701}{}{. At the same time, the rodent's skull is crushed like a wet paper bag}
-{5702}{}{. Now the left paw looks somewhat flat}
-{5703}{}{. The rat tears off the left paw}
-{5704}{}{. The right paw is badly damaged}
-{5705}{}{. At the same time, the rat tears off the right paw}
-{5706}{}{. At this blow, the rat gets a serious wound}
-{5707}{}{. The blow severely wounds the rat and throws it back}
-{5708}{}{, smearing the rat all over the floor}
-{5709}{}{, which damages the right leg}
-{5710}{}{, which leaves a large hole in the left leg}
-{5711}{}{, while the blow falls on a sensitive spot, causing additional damage}
-{5712}{}{. The great Pied piper in heaven calls this poor fellow to himself}
-#
-# 5800 - flyers
-#
-{5800}{}{. The worm falls to the ground}
-{5801}{}{. The worm falls to the ground without signs of life}
-{5802}{}{. The blow threatens serious consequences if this creature survives}
-{5803}{}{. The blow paralyzes this creature}
-{5804}{}{. The blow falls on the vulnerable spot and paralyzes the worm}
-{5805}{}{. After the impact, the worm begins to tremble violently, spraying scarlet liquid}
-{5806}{}{. The blow causes some kind of creepy reaction in this creature}
-{5807}{}{. The worm is suddenly engulfed in flames}
-{5808}{}{. The creature twitches and begins to tremble with a small tremor, like jelly}
-{5809}{}{. The blow falls on a vulnerable place}
-{5810}{}{. This creature is clearly agitated}
-#
-# 5900 - centaurs
-#
-{5900}{}{. Terrible as fate, the blow overturns and paralyzes the centaur}
-{5901}{}{. The blow falls on a vital point}
-{5902}{}{. The blow causes a severe nervous system failure}
-{5903}{}{. A hard blow paralyzes this creature}
-{5904}{}{, while the blow damages the centaur's arm}
-{5905}{}{. The blow falls on a vital point and damages the arm}
-{5906}{}{. The blow knocks the centaur to the ground and damages one of its legs}
-{5907}{}{. The blow damages the centaur's leg, knocking him to the ground and paralyzing him}
-{5908}{}{. The blow blinds him}
-{5909}{}{. The surprised centaur staggers blindly}
-{5910}{}{. The surprised centaur falls to the ground}
-{5911}{}{. Surprised centaur falls into a pile of manure}
-{5912}{}{. The blow wasn't as effective as it could have been}
-#
-# 6000 - robots
-#
-{6000}{}{. The blow does some damage to the body}
-{6001}{}{. Sparks fly, and the robot instantly fails}
-{6002}{}{. The blow falls on an important part, and the robot fails}
-{6003}{}{. The blow falls on an important part and causes a severe malfunction of the robot}
-{6004}{}{. The robot tries to compensate for the blow}
-{6005}{}{. The robot makes an attempt to compensate for the impact}
-{6006}{}{. The blow falls on a key part and causes severe damage}
-{6007}{}{. The blow causes severe damage to the robot structure}
-{6008}{}{. The blow falls on an important detail and causes severe damage}
-{6009}{}{. The robot shudders from the strongest blow}
-{6010}{}{. The blow blows the robot apart}
-{6011}{}{. The robot tries to compensate for the damage, but it fails, and it falls to the ground}
-{6012}{}{. The robot cannot withstand such pressure and falls to the ground}
-{6013}{}{. Impact shatters sensor lenses}
-#
-# 6100 - dogs, coyotes, wolves
-#
-{6100}{}{. The blow knocks the mutt off his feet}
-{6101}{}{. The blow falls right on the muzzle}
-{6102}{}{. The dog is falling, but still breathing}
-{6103}{}{. Dog coughs up blood}
-{6104}{}{. The blow damages the paw}
-{6105}{}{. The blow damages the paw. The animal tries to stay on its feet, but to no avail}
-{6106}{}{. The blinded animal howls in pain}
-{6107}{}{. From a blow, the poor man becomes a castrate}
-#
-# 6200 - mantises
-#
-{6200}{}{. The blow knocks down this mutant insect}
-{6201}{}{. It falls to the ground}
-{6202}{}{. Mantis wonders if it's worth living on}
-{6203}{}{. The blow damages one of the creature's limbs}
-{6204}{}{. The mantis begins to lick its wounds. He holds his limb in a strange way}
-{6205}{}{. The blow pierces the chitinous armor}
-{6206}{}{. The mantis emits a piercing inhuman cry and begins to tremble violently}
-{6207}{}{. The blow knocks the mantis off its feet. His limb is bent at a strange angle}
-{6208}{}{. The blow cuts off the wings}
-{6209}{}{. The blow pierces the strong armor and throws the mantis back}
-{6210}{}{. Precise blow blinds insect}
-#
-# 6300 - death claws
-#
-{6300}{}{. This strong blow disturbed even such a creature}
-{6301}{}{. The blow bypasses the monster's huge claws and hits the target. Death Claw shudders and growls}
-{6302}{}{. The result of the impact is severe damage to the eyes of the Death Claw}
-#
-# 6400 - predatory plants
-#
-{6400}{}{. The blow breaks through the plant's defense mechanism}
-{6401}{}{. The blow tears off a few leaves}
-{6402}{}{. The blow breaks several appendages}
-{6403}{}{. The impact damages the organ of chlorophyll absorption}
-{6404}{}{. The blow knocks the pollen out of him}
-{6405}{}{. The impact almost rips him out of the ground}
-{6406}{}{. The blow breaks several branches}
-#
-# 6500 - THE MAIN CHARACTER
-#
-{6500}{}{. Tomorrow you will have a very bad headache. If you live}
-{6501}{}{. Your armor can't protect you from this precise strike}
-{6502}{}{. For a few seconds you feel a sharp pain, after which you are consumed by darkness ...}
-{6503}{}{. The blow pierces your armor and knocks you down}
-{6504}{}{. The shock makes your eyes go dark. After some time, you notice that your vision does not return}
-{6505}{}{. You get a rare opportunity to contemplate your body from the side while your head is in free flight}
-{6506}{}{. To your surprise, you don't feel that much pain}
-{6507}{}{. It will paralyze you for a while}
-{6508}{}{. What a pain}
-{6509}{}{. Because of the impact, your arm becomes completely useless}
-{6510}{}{. The blow pierces your armor, breaking bones in your hand like dry twigs}
-{6511}{}{. The blow pierces your armor. Now your hand is hanging lifeless at the side}
-{6512}{}{. It turned out to be a great bruise. And scars will surely attract the attention of the opposite sex at parties}
-{6513}{}{. The impact damages your internal organs. You are hardly capable of anything other than spitting blood}
-{6514}{}{. It turns you upside down}
-{6515}{}{. The shock pulse knocks you back and you break your leg}
-{6516}{}{. The blow pierces the armor and knocks you down, seriously injuring your knee}
-{6517}{}{. The pain of a broken leg renders you unconscious}
-{6518}{}{. You wince in pain, but otherwise everything is fine}
-{6519}{}{. Unfortunately for you, a stroke causes immediate loss of vision}
-{6520}{}{. You spend some time trying to wipe the blood from your eyes}
-{6521}{}{. The blow pierces your armor. Realizing that you are blind, you cannot move from your place}
-{6522}{}{. You have a strange feeling in your head. Do you understand that this is brain paralysis}
-{6523}{}{. You're writhing in pain}
-{6524}{}{. You grab your groin and fall to the ground in pain}
-{6525}{}{. The pain is so intense that you lose consciousness. Oh-oh}
-{6526}{}{. There are not enough words in the entire universe to describe the pain you are feeling right now}
-#
-# 6600 - ???
-#
-{6600}{}{.}
-#
-# 6700 - scolopendra
-#
-{6700}{}{. The blow pierces the shell of the scolopendra}
-{6701}{}{. The blow rips out a piece of slippery shell}
-{6702}{}{. The blow breaks several insect limbs}
-{6703}{}{. The blow damages her antennae}
-{6704}{}{. The blow disorients the creature}
-{6705}{}{. The shock pulse almost overturns the insect}
-{6706}{}{. The blow damages several limbs}
-#
-# 6800 - aliens
-#
-{6800}{}{. The blow breaks through the creature's defense}
-{6801}{}{. The blow knocks the slime off the creature}
-{6802}{}{. The blow almost tears off the tentacles of the creature}
-{6803}{}{. The blow damages the respiratory (?) organ}
-{6804}{}{. When hit, something nasty pops out of the creature}
-{6805}{}{. The shock pulse almost knocks the creature over}
-{6806}{}{. The blow damages the tentacles of the creature}
-#
-# 6900 - ants
-#
-{6900}{}{. The blow pierces the ant's shell}
-{6901}{}{. The blow tears off his antennae}
-{6902}{}{. The blow damages his antennae}
-{6903}{}{. The blow harms his health}
-{6904}{}{. The shock pulse carries him back}
-{6905}{}{. The shock pulse almost knocks the creature over}
-{6906}{}{. The blow damages his exoskeleton}
-#
-# 7000 - Gun Turret -- WIP! Won't Work! (rudiment F2?)
-#
-{7000}{}{. The blow pierces the ant's shell}
-{7001}{}{. The blow tears off his antennae}
-{7002}{}{. The blow damages his antennae}
-{7003}{}{. The blow harms his health}
-{7004}{}{. The shock pulse carries him back}
-{7005}{}{. The shock pulse almost knocks the creature over}
-{7006}{}{. The impact damages his exoskeleton}
+{2030}{}{Í·}
+{2031}{}{òØÕë}
+{2032}{}{´¥Ğë}
+{2033}{}{ĞØ²¿}
+{2034}{}{Ç°ÍÈ}
+{2035}{}{ºóÍÈ}
+{2036}{}{ÑÛ¾¦}
+{2037}{}{³á°ò}
+{2038}{}{ÈÎºÎ²¿Î»}
 
-# 7100 - Horrigan (rudiment F2, not used in FS)
-{7100}{}{. The blow pierces the Bodyguard's armor}
-{7101}{}{. The blow causes the Bodyguard to fall to his knees}
-{7102}{}{. The impact destroys his hand control mechanism}
-{7103}{}{. The impact destroys his foot control mechanism}
-{7104}{}{. The blow damages his bionic eye}
-{7105}{}{. He needs time to recover from your blow}
-{7106}{}{. The impact damages his chest plate}
+#
+# Critical Hit Messages
+#
+# 5000 series - men (including generics)
+#
+{5000}{}{¡£ÄÇÏàµ±Í´}
+{5001}{}{¡£Ôì³ÉÑÏÖØÉËº¦}
+{5002}{}{¶øÇÒÃ»ÓĞ»¤¼×±£»¤}
+{5003}{}{¡£ÖØ»÷Ê¹Ëû²»Ê¡ÈËÊÂ}
+{5004}{}{¡£ÖØ»÷½«Ëû»÷µ¹ÔÚµØ}
+{5005}{}{¡£Í·²¿µÄÖØ»÷½«Ëû´òÔÎ}
+{5006}{}{¡£ÖØ»÷´òÔÚËûµÄÌ«ÑôÑ¨}
+{5007}{}{¡£±ôÁÙËÀÍö}
+{5008}{}{£¬½«ÊÖÖâ´òËéÁË}
+{5009}{}{£¬½«ÊÖ±Û´òÍÑ¾ÊÁË}
+{5010}{}{£¬ÁôÏÂÒ»´ó¿éğöÉË}
+{5011}{}{£¬½«×ó±Û´ò²ĞÁË}
+{5012}{}{£¬½«×ó±Û´òµÃÖ»Ê£ÏÂÆ¤·ô¹Ò×Å}
+{5013}{}{¡£ÄÇÌõÊÖ±Û¿´ÆğÀ´ÑªÈâÄ£ºı}
+{5014}{}{£¬½«ÓÒ±Û´ò²ĞÁË}
+{5015}{}{¡£ËûµÄÓÒ±Û±»ÖØ»÷´òµÃ·ÛËé}
+{5016}{}{ÔÚÒ»¼ÇÖØ»÷ÖĞ}
+{5017}{}{£¬´©¹ıÁË×°¼×}
+{5018}{}{£¬Ôì³É¶îÍâµÄÉËº¦}
+{5019}{}{±»Ë¤µ½µØÃæÉÏÇÒÃ»ÓĞ»¤¼×}
+{5020}{}{£¬´òµÃ²»³ÉÈËĞÍ£¬Ëûµ¹ÔÚµØÉÏÎŞ·¨¼ÌĞøÕ½¶·}
+{5021}{}{¡£ºÜ²»ĞÒµÄ£¬ÄãÏÖÔÚ¿ÉÒÔ¿´µ½ËûµÄ¼¹×µ¹ÇÂ¶ÔÚÍâÃæ}
+{5022}{}{£¬°ÑËûµÄ½Å´ò³ÉÖØÉË}
+{5023}{}{£¬°ÑËû´òµÃÏñ±£ÁäÇòÆ¿Ò»Ñùµ¹ÔÚµØÉÏ}
+{5024}{}{£¬½«Ëû´òµ¹ÔÚµØ£¬ÍÈÒ²´ò³É²Ğ·Ï}
+{5025}{}{£¬°ÑÏ¥¸Ç´òµÃ·ÛËé¡£ËûÓ¦Éùµ¹ÏÂ}
+{5026}{}{¡£¶ÏÍÈµÄÍ´¿àÊ¹ËûÎŞ·¨¼ÌĞøÕ½¶·}
+{5027}{}{£¬ÓÖ¼Ó¾çÁËËûµÄÍ´¿à¡£}
+{5028}{}{¡£Ëûµ¹Ã¹µÄ±»´òÏ¹ÁË}
+{5029}{}{¡£ÓÉÓÚÃ»ÓĞ±£»¤£¬Ôì³ÉÁË¾Ş´óÌÛÍ´¡£}
+{5030}{}{£¬¶øÇÒÓÃÁ¦µÄÒ»»÷Ò²Ê¹ËûÏ¹ÁËÑÛ¾¦}
+{5031}{}{¡£Ê§È¥ÑÛ¾¦¶ÔËûÀ´Ëµ´ò»÷Ì«´óÁË£¬ËûÒò´Ëµ¹ÔÚµØÉÏ}
+{5032}{}{¡£²»ĞÒµÄÊÇ£¬ËûÕıÃ¦×Å¸ĞÊÜ´óÄÔÖĞµÄì«·ç£¬Ã»ÄÜ×¢Òâµ½ËÀÍöµÄÆÈ½ü}
+{5033}{}{¡£°¡£¡ÄÇÒ»¶¨ºÜÍ´}
+{5034}{}{£¬¶øÇÒËû²¢Ã»ÓĞ´©´÷ÈÎºÎµÄ»¤¾ß}
+{5035}{}{¡£Ã»ÓĞÈÎºÎµÄ·À»¤£¬Ëûµ¹ÏÂÀ´£¬²¢ÇÒÌÛÍ´°§ºÅ}
+{5036}{}{¡£ÌÛÍ´µÄ³Ì¶ÈÒÑ¾­³¬¹ıËûµÄ¼«ÏŞ£¬ËûÓ¦Éùµ¹ÏÂ}
+{5037}{}{¡£ÔÚº¬ºıµÄËµ³ö¡°ÂèÂè¡±Ö®ºó£¬ËûµÄÑÛ¾¦·­ÁË¹ıÈ¥}
+#
+# series 5100 - women
+#
+{5100}{}{¡£ÄÇÏàµ±Í´}
+{5101}{}{¡£Ôì³ÉÑÏÖØÉËº¦}
+{5102}{}{¶øÇÒÃ»ÓĞ»¤¼×±£»¤}
+{5103}{}{¡£ÖØ»÷Ê¹Ëı²»Ê¡ÈËÊÂ}
+{5104}{}{¡£ÖØ»÷½«Ëı»÷µ¹ÔÚµØ}
+{5105}{}{¡£Í·²¿µÄÖØ»÷½«Ëı´òÔÎ}
+{5106}{}{¡£ÖØ»÷´òÔÚËıµÄÌ«ÑôÑ¨}
+{5107}{}{¡£±ôÁÙËÀÍö}
+{5108}{}{£¬½«ÊÖÖâ´òËéÁË}
+{5109}{}{£¬½«ÊÖ±Û´òÍÑ¾ÊÁË}
+{5110}{}{£¬ÁôÏÂÒ»´ó¿éğöÉË}
+{5111}{}{£¬½«×ó±Û´ò²ĞÁË}
+{5112}{}{¡£½«×ó±Û´òµÃÖ»Ê£ÏÂÆ¤·ô¹Ò×Å}
+{5113}{}{¡£ÄÇÌõÊÖ±Û¿´ÆğÀ´ÑªÈâÄ£ºı}
+{5114}{}{£¬½«ÓÒ±Û´ò²ĞÁË}
+{5115}{}{¡£ËıµÄÓÒ±Û±»ÖØ»÷´ò³ÉÁËºº±¤°ü}
+{5116}{}{ÔÚÒ»¼ÇÖØ»÷ÖĞ}
+{5117}{}{£¬´©¹ıÁËËıµÄ·À»¤}
+{5118}{}{£¬Ôì³É¶îÍâµÄÉËº¦}
+{5119}{}{Ò»¸öÅ®ĞÔ±»´òµ¹ÔÚµØÇÒÃ»ÓĞ»¤¼×}
+{5120}{}{£¬´òµÃ²»³ÉÈËĞÍ£¬Ëıµ¹ÔÚµØÉÏ}
+{5121}{}{¡£²»ĞÒµÄÊÇ£¬ËıµÄÖ÷ÒªÆ÷¹ÙÒÑ±©Â¶ÔÚÍâ}
+{5122}{}{£¬°ÑËıµÄÍÈ´ò³ÉÖØÉË}
+{5123}{}{£¬ÏñÒ»¸öÃ¤Ä¿µÄÔ¼»á°ã°ÑËı´òµ¹ÔÚµØÉÏ}
+{5124}{}{£¬½«Ëı´òµ¹ÔÚµØ£¬ÍÈÒ²´ò³É²Ğ·Ï}
+{5125}{}{£¬°ÑÏ¥¸Ç´òµÃ·ÛËé¡£ËıÓ¦Éùµ¹ÏÂ}
+{5126}{}{¡£ËıÒò¶ÏµôÍÈµÄÌÛÍ´·¢³ö¼â½Ğ}
+{5127}{}{£¬ÓÖ¼Ó¾çÁËËıµÄÍ´¿à¡£}
+{5128}{}{£¬ËıÑÛ¾¦Ï¹ÁË£¬¾Í¸ú¹íÒ»Ñù}
+{5129}{}{¡£ÓÉÓÚÃ»ÓĞ±£»¤£¬ÕâÔì³ÉÑÏÖØÌÛÍ´¡£}
+{5130}{}{¡£¶øÇÒÓÃÁ¦µÄÒ»»÷Ò²Ê¹ËıÏ¹ÁËÑÛ¾¦}
+{5131}{}{¡£ÖÂÃ¤µÄ¹¥»÷´òµ½ÁËËı}
+{5132}{}{¡£¿É±¯µÄÊÇ£¬ËıÃ»ÄÜÔÚ¼ûµ½ÉñÃ÷Ö®Ç°ÏòËûÃÇÆíµ»}
+{5133}{}{¡£ËıÏñÄĞÈËÒ»ÑùÊÜµ½ÁËÉËº¦£¬Èç´ËÌÛÍ´}
+{5134}{}{£¬½«Ëı´òµ¹ÔÚµØÉÏ}
+{5135}{}{¡£ËıÉúÓıĞ¡º¢µÄÊ±ºò½«»áÒòÎªËı±ÀËú±äĞÎµÄÍÎ²¿ÏİÈëÂé·³¡£}
+#
+# series 5200 - children
+#
+{5200}{}{¡£ÄÇĞ¡º¢¿ªÊ¼·ÅÉù´ó¿Ş}
+{5201}{}{¡£Ğ¡º¢µ¹ÔÚµØÉÏ²»Ê¡ÈËÊÂ}
+{5202}{}{¡£Í´£¡}
+{5203}{}{¡£ÄÇÒ»»÷²¢²»Çá£¬ÈÃĞ¡º¢²»Ê¡ÈËÊÂ}
+{5204}{}{£¬°ÑĞ¡º¢´òµÄÏñÒ»¿éÆÆµØÌºÒ»Ñù}
+{5205}{}{¡£ÄÇĞ¡º¢µÄ×ó±ÛÏÖÔÚÓĞÁË¸öÉËºÛ}
+{5206}{}{£¬Ğ¡º¢ÔÚÊ§È¥Æ½ºâºóµ¹ÔÚµØÉÏ}
+{5207}{}{£¬ÄÇÊÖ±ÛÅ¾µÄÒ»Éù¾Í¶ÏÁË¡£Ğ¡º¢¿ªÊ¼·ÅÉù´ó¿Ş}
+{5208}{}{£¬ºÃÏñ°ô°ôÌÇÒ»Ñù£¬ÄÇÌõÊÖ±Û±»ÕÛ¶ÏÁË¡£}
+{5209}{}{¡£ÓÒ±Û¿ªÊ¼·¢Ö×£¬Ïñ¸öÆøÇòÒ»Ñù}
+{5210}{}{£¬²¢ÇÒ¿ªÊ¼¿Ş}
+{5211}{}{Ò»¸öÃô¸ĞµÄµØ·½}
+{5212}{}{¡£ÔÚ»÷ÖĞÁËÒ»¸öÖ÷ÒªµÄÆ÷¹Ùºó£¬Ğ¡º¢µ¹ÁËÏÂÈ¥}
+{5213}{}{£¬ÏñÍŞÍŞÒ»Ñù½«ÕâĞ¡º¢´òµ¹}
+{5214}{}{¡£ÏÖÔÚ£¬ÕâÒ»¸öĞ¡º¢ÓÀÔ¶¶¼²»ÓÃÌåÑéµ½ÈËÉúµÄÍ´¿àÁË}
+{5215}{}{£¬ÉË¿ÚÇĞµÃºÜÉî}
+{5216}{}{¡£ÄÇÒ»»÷°ÑĞ¡º¢´òµ½µØÉÏ£¬²¢ÇÒ½«ÍÈ´ò¶Ï}
+{5217}{}{£¬½«ÄÇĞ¡º¢´ò³ÉÖØÉË}
+{5218}{}{¡£Ğ¡º¢¿´×ÅÄã£¬²¢ÇÒ¿ªÊ¼´ó¿Ş}
+{5219}{}{£¬½«ËûÅªÏ¹ÁË}
+{5220}{}{£¬ÖØÖØµÄ¸øËûÄÇĞ¡Ğ¡µÄ±Ç×ÓÒ»»÷}
+{5221}{}{¡£Ò»¸öÇĞ¿Ú³öÏÖÔÚÑÛ¾¦ÉÏ·½£¬ÑªÒºÅçÓ¿¶ø³ö}
+{5222}{}{£¬½«ÑÛ¾¦´ò±¬ÁË¡£Ğ¡º¢Òò´Ë¶ø·¢ÁËã¶}
+{5223}{}{ÈÃÑÛ¾¦Ï¹ÁË¡£ÄÇĞ¡º¢Òò´Ëµ¹ÔÚµØÉÏ}
+{5224}{}{£¬ÄÇÒ»»÷´ò´©ÁËĞ¡º¢µÄÄÔ´ü}
+{5225}{}{¡£Ğ¡º¢×ÓÈ«Éí·¢¶¶£¬²¢ÏòÄã±È³öÁËÖĞÖ¸}
+{5226}{}{£¬½«ÄÇÄêÓ×µÄÉíÌå´òµ½µØÉÏ}
+#
+# series 5300 - Super Mutants
+#
+{5300}{}{£¬ÉËÁËÄÇÇ¿×³µÄ±äÖÖÈË}
+{5301}{}{£¬´òÖĞÁËÒ»¸öÒªº¦}
+{5302}{}{£¬´òÖĞÁËÒ»¸öÒªº¦£¬²¢ÇÒ½«ÄÇ¾Ş´óµÄ¹ÖÎï´òµ½µØÉÏ}
+{5303}{}{¡£ÄÇ¾Ş´óµÄ±äÖÖÈËËÄ´¦¿´¿´£¬È»ºóËæ¼´µ¹ÔÚµØÉÏ}
+{5304}{}{¡£ËüµÄÍ·¾ÍÏñ¾Ş´óµÄÎ÷¹ÏÒ»Ñù±¬Õ¨ÁË[Í»È»ÄãºÜÏëÖªµÀµ½µ×Ê²Ã´ÊÇÎ÷¹Ï]}
+{5305}{}{£¬ÈÃ¾Ş´óµÄ±äÖÖÈËÊÜÁËÖØÉË}
+{5306}{}{£¬ÈÃÄÇ¾Ş´óµÄ±äÖÖÈËÆøµÃÖ±ÂîÄãÂèÂè}
+{5307}{}{£¬´òÖĞÁËÖ÷ÒªµÄÉñ¾­£¬ÈÃËü×¥×Å×Ô¼ºµÄÊÖ±ÛÖ±º°×ÅÌÛ}
+{5308}{}{¡£ÄÇÒ»»÷½«ËüµÄÊÖÍó´òËéÁË}
+{5309}{}{£¬½«ËûÄÇ´Ö´óµÄÊÖ±Û´ò¶Ï£¬²¢ÇÒÑª½¦Îå²½}
+{5310}{}{£¬ÈÃÄÇ¾ŞÈËÊ§È¥Æ½ºâ£¬²¢ÇÒÏñ±»¿³·¥µÄ´óÊ÷Ò»Ñùµ¹ÔÚµØÉÏ}
+{5311}{}{£¬È»ºóËüµÄÄÚÔàÈ«²¿¶¼Á÷µ½µØÉÏ}
+{5312}{}{£¬½«Ëü´òµÃ·Éµ½µØÉÏ}
+{5313}{}{¡£±äÖÖÈËÒ¡Ò¡»Î»ÎµÄ£¬×îºóµ¹ÔÚµØÉÏ£¬ÒòÎªËûµÄÍÈÒÑ¾­ÎŞ·¨Ö§³ÅËüµÄÖØÁ¿ÁË¡£}
+{5314}{}{£¬´òÖĞÁËÒªº¦¡£±äÖÖÈËµÄÍÈÓ¦Éù¶ø¶Ï¡£}
+{5315}{}{£¬¼ÈÊ¹ÊÇÕâÑù´óµÄ¹ÖÎïÒ²ÊÜ²»ÁËÄÇÑùµÄÌÛÍ´¡£}
+{5316}{}{£¬²îÒ»µã¾Í½«±äÖÖÈË¸ø´òÏ¹ÁË}
+{5317}{}{£¬½«ÉúÆøµÄ±äÖÖÈË¸ø´òÏ¹ÁË}
+{5318}{}{£¬²îÒ»µã¾Í½«±äÖÖÈË´òÏ¹ÁË£¬²»¹ı£¬ËûÈ´Ê§È¥ÁËÆ½ºâ}
+{5319}{}{¡£±äÖÖÈË¼ÈÊ¹ÊÇÏ¹ÁËÒ²Ã»ÓĞ¼õµÍËûµÄ¶·Ö¾}
+{5320}{}{£¬½«²»Ê¡ÈËÊÂµÄ±äÖÖÈË´òÏ¹ÁË}
+{5321}{}{¡£±äÖÖÈËµÄÑÛ¾¦ÂıÂıµØÊ§È¥µÄ¹âÃ÷£­ÓÀÔ¶µÄ¡£}
+#
+# series 5400 - Ghouls
+#
+{5400}{}{¡£¶ÔÓÚÄãÕâÍ»ÈçÆäÀ´µÄ¹¥»÷£¬½©Ê¬À´²»¼°½ÓÕĞ¶ø±»´ò¸öÕı×Å£¬Õâ¾ÍÊÇ"±ØÉ±¼¼"}
+{5401}{}{¡£ÕâÒ»»÷½«¸Ã½©Ê¬ËÍ½øÁË·ØÄ¹}
+{5402}{}{¡£±»Í»È»µÄ»÷ÖĞ£¬½©Ê¬µÄÊÖÓ¦Éù¶ø¶Ï}
+{5403}{}{£¬ÕâÒ»»÷´©¹ıÁË×°¼×£¬Ö±½ÓµÄ´ò¶ÏÁË½©Ê¬µÄ¹Ø½Ú}
+{5404}{}{£¬ÕâÒ»»÷´©¹ıÁË×°¼×£¬Ö±½ÓµÄÇĞ¶ÏÁË½©Ê¬µÄË«ÊÖ}
+{5405}{}{¡£½©Ê¬µÄÑÛ¾¦±»´ò¸öÕı×Å£¬Òò´ËËüÊ§È¥ÁËÒ»Ö»ÑÛ¾¦}
+{5406}{}{¡£ËüÄÇÀï²¢Ã»ÓĞ´©ÈÎºÎµÄ×°¼×}
+{5407}{}{£¬ÒòÎªÃ»ÓĞ±£»¤£¬½©Ê¬±»´òÏ¹ÁË}
+{5408}{}{£¬ÈÃ½©Ê¬²»ÖªµÀ×Ô¼ºÊÇÔõÃ´ËÀµÄ}
+#
+# series 5500 - Brahmin
+#
+{5500}{}{£¬½«Õâ´óÒ°ÊŞµ¹ÔÚµØÉÏ}
+{5501}{}{£¬»÷ÖĞÁËÕâÒ°ÊŞµÄÁ½¸öÍ·£¬ÕâÈÃËüµ¹ÔÚµØÉÏ}
+{5502}{}{¡£ÕâË«Í·Å£´óÉùµÄ°§ºÅ}
+{5503}{}{£¬´ò¶ÏÁËË«Í·Å£µÄÒ»ÌõÍÈ}
+{5504}{}{£¬½«ÕâË«Í·Å£´ò³ÉÖØÉË}
+{5505}{}{£¬ºÜÈİÒ×µÄ¾Í´ò´©ÁËÕâÃÍÊŞµÄÆ¤}
+{5506}{}{£¬´©¹ıË«Í·Å£µÄÉíÌå£¬Ö±½ÓµÄ´òÖĞÁËËüµÄĞÄÔà}
+{5507}{}{£¬Ò»»÷¾Í½«ËüÁ½Ë«ÑÛ¸ø´òÏ¹ÁË}
+{5508}{}{£¬½«È«²¿µÄÑÛ¾¦¶¼´òÏ¹ÁË£¬ÈÃÕâÖ»Ë«Í·Å£²»ÖªËù´ë}
+{5509}{}{£¬½«Ë«Í·Å£´òÏ¹£¬²¢ÇÒ´òÔÎ}
+{5510}{}{£¬Õâ¾ŞÊŞÊ§È¥ÁËÆ½ºâÒ»Õó×Ó}
+{5511}{}{¡£Ë«Í·Å£ºÜÉúÆø}
+{5512}{}{¡£Ë«Í·Å£·ßÅ­µÄ°§ºÅ}
+{5513}{}{¡£¶ÔÓÚÄãÃÜ¼¯µÄ¹¥»÷Ë«Í·Å£¸Ğµ½ºÜÉúÆø£¬Äã¿´µ½ËüµÄ×ìĞÍÔÚÂîÄã"±È³Ø"}
+#
+# series 5600 - Radscorpions
+#
+{5600}{}{£¬½«·øÉäĞ«´òµÃ·ÉÉÏÁËÌì}
+{5601}{}{£¬½«ËüµÄÍ·ÓëÉíÌå·Ö¿ªÁË}
+{5602}{}{£¬½«Î²°Í´òµÃÉËÖØ²»ÒÑ}
+{5603}{}{£¬ÔÚ×¦×ÓÉÏÔì³ÉÁËÑÏÖØµÄÉËº¦}
+{5604}{}{¡£ÄÇÒ»»÷´òÖĞÁË¼×¿ÇÖ®¼äµÄ½Ó·ì}
+{5605}{}{£¬´©¹ıÁË¶¾Ğ«¼áÓ²µÄÍâ¿Ç}
+{5606}{}{£¬´©¹ıÁË¶¾Ğ«ÓëÉú¾ãÀ´µÄ×°¼×£¬²¢ÇÒ½«Æä´òµ¹ÔÚµØÉÏ}
+{5607}{}{¡£¶ÔÓÚÕâÇ°ËùÎ´ÓĞ£¬Ê§È¥ÄÚÔàµÄ¸Ğ¾õ£¬¶¾Ğ«¸Ğµ½ÎŞ·¨³ĞÊÜ}
+{5608}{}{£¬¶¾Ğ«·ÉÉÏÁËÌì£¬Í¬Ê±Ê§È¥ÁËËüµÄÒ»Ğ©½Å}
+{5609}{}{¡£ÄÇÒ»»÷´òÖĞÁËËüÍÈÉÏÃ»ÓĞ±£»¤µÄµØ·½£¬ËüµÄÍÈ¾ÍÕâÃ´¶ÏÁË}
+{5610}{}{£¬ÈÃ¶¾Ğ«ÊÜÁËÏàµ±ÑÏÖØµÄÉËº¦}
+{5611}{}{£¬²îÒ»Ğ©¾Í¿ÉÒÔ½«¶¾Ğ«µÄÄÔ´ü´òÀÃ¡£Õâ¾ÍÊÇ½«Ò»Ö»³æ×ÓÄëËÀµÄ¸Ğ¾õ°É}
+{5612}{}{£¬²îÒ»Ğ©¾Í¿ÉÒÔ½«¶¾Ğ«µÄÄÔ´ü´òÀÃ£¬²»¹ıÈ´½«Ëü´òÏ¹ÁË}
+{5613}{}{¡£ÕâÊÇ¼òµ¥µÄÒ»»÷£¬µ«ÊÇ¶Ô¶¾Ğ«À´ËµÈ´ÊÇÖÂÃüµÄÒ»»÷}
+{5614}{}{¡£Èç¹ûÄÇÊÇÒ»¸öÈËµÄ»°£¬ËûÒ»¶¨»áÏàµ±µÄÉúÆø}
+{5615}{}{£¬½«ÄÇ¿ÉÁ¯µÄÀ¥³æ´òµÃÂÒÆß°ËÔã}
+{5616}{}{£¬½«Ëü´òµÃÄÔ½¬ËÄÒç}
+#
+# series 5700 - Rats
+#
+{5700}{}{¡£ÀÏÊóÍ·¹ÇËéÁÑµÄÉùÒôÌıÆğÀ´Ò²ÁîÈË¸Ğµ½¶ñĞÄ}
+{5701}{}{£¬½«ÀÏÊóµÄÍ·ÏñÒ»¿Åµ°Ò»Ñù´òÀÃ}
+{5702}{}{£¬¶øÇÒ×ó±ßµÄ×¦×ÓºÃÏñ²»¼ûÁË}
+{5703}{}{¡£ÀÏÊóµÄ×ó×¦±»Õ¨ÀÃÁË}
+{5704}{}{¡£×ó±ßµÄ×¦×ÓÊÜµ½ÁËÏàµ±ÑÏÖØµÄÉË}
+{5705}{}{£¬½«ÓÒ×¦¸øÕ¨µôÁË}
+{5706}{}{¡£ÀÏÊó±»ÕâÒ»»÷¸ø´ò³ÉÖØÉË}
+{5707}{}{£¬ÖØÉËµÄÀÏÊó¿ªÊ¼»ÅÕÅµÄÅÜ}
+{5708}{}{£¬½«ÀÏÊó´òµÃ¸ÎÄÔÍ¿µØ}
+{5709}{}{£¬½«ÓÒ½Å´ò²ĞÁË}
+{5710}{}{£¬ÔÚ×óÍÈÉÏ¿ªÁËÒ»¸ö´ó¶´}
+{5711}{}{£¬ÄÇÒ»»÷µÄÉËº¦ÌØ±ğÖØ£¬ÒòÎªÄã´òÖĞÁËÀÏÊóÌØ±ğÃô¸ĞµÄµØ·½}
+{5712}{}{£¬½«ËüËÍÉÏÁËÎ÷Ìì}
+#
+# series 5800 - Floaters
+#
+{5800}{}{£¬¸¡ÓÎÌØËæ¼´µ¹ÔÚµØÉÏ}
+{5801}{}{£¬¸¡ÓÎÌØËæ¼´µ¹ÔÚµØÉÏ£¬¿´ÉÏÈ¥ºÁÎŞÉúÃüµÄ¼£Ïó}
+{5802}{}{£¬ÈÃÕâÉúÎïÎŞ·¨¼ÌĞøµÄ»î×Å}
+{5803}{}{£¬ÈÃÕâÏÂµÈµÄÉúÎïÏÅÁËÒ»Ìø}
+{5804}{}{£¬´òÖĞÁËÌØ±ğĞéÈõµÄµØ·½£¬ÈÃÕâÏÂµÈµÄÉúÎïÏÅÁËÒ»Ìø}
+{5805}{}{¡£ÕâÒ»»÷ÈÃ¸¡ÓÎÌØ´óÉùµÄ°§ºÅ}
+{5806}{}{£¬ÕâÒ»»÷ÈÃ¸¡ÓÎÌØÏàµ±µÄÉúÆø}
+{5807}{}{¡£¸¡ÓÎÌØÍ»È»µÄ×Å»ğÁË}
+{5808}{}{È»ºóËü¿ªÊ¼³é¶¯£¬Ò»¸±Ïàµ±Í´¿àµÄÑù×Ó}
+{5809}{}{£¬ÄÇÒ»»÷´òÖĞÁËËüµÄÈõµã}
+{5810}{}{¡£ÄÇÉúÎïÏÖÔÚÏàµ±µÄ½¹ÂÇ£¬Äã¿´µ½ËüÓÃÎ²°ÍÔÚµØÉÏĞ´ÁËÒ»¸ö"·¨¿Ë"}
+#
+# series 5900 - Centaurs
+#
+{5900}{}{£¬ÕâÒ»»÷Ê¹µÃ¶à½ÅÊŞµ¹ÔÚµØÉÏ}
+{5901}{}{µ±ÄÇÒ»»÷´òÖĞÁËÒªº¦Ê±}
+{5902}{}{£¬ÆÆ»µÁËÉñ¾­ÏßÂ·}
+{5903}{}{£¬Õâ±©Á¦µÄ¹¥»÷ÈÃËüÏàµ±µÄ¾ªÑÈ}
+{5904}{}{£¬·ÏÁËËüµÄ±Û°ò}
+{5905}{}{´òµ½ÁËÒ»¸öÈõµã£¬·ÏÁËËüµÄ±Û°ò}
+{5906}{}{£¬½«¶à½Å¹Ö´òÔÚµØÉÏ£¬²¢ÇÒ·ÏÁËËüµÄÍÈ}
+{5907}{}{£¬ÈÃËü»¹²»ÖªµÀ·¢ÉúÁËÊ²Ã´ÊÂ¾Í¶ÏÁËÒ»ÌõÍÈµÄµ¹ÔÚµØÉÏ}
+{5908}{}{£¬ÈÃËüÏ¹ÁËÑÛ}
+{5909}{}{£¬¹¥Æä²»±¸µÄ£¬ÈÃËüÊ§È¥ÁËÆ½ºâ}
+{5910}{}{£¬¹¥Æä²»±¸µÄ£¬ÈÃËüµ¹ÔÚµØÉÏ}
+{5911}{}{£¬¹¥Æä²»±¸µÄ£¬ÈÃËüÑªÈâÄ£»îµ¹ÔÚµØÉÏ}
+{5912}{}{¡£ÄÇÒ»»÷²¢Ã»ÓĞÄãÏëÏñÖĞÄÇÑù´óµÄĞ§¹û£¬ËüÂî×Å"·¨¿ËÓÊ±È³Ø"²¢Õ¾ÁËÆğÀ´}
+#
+# series 6000 - Robots
+#
+{6000}{}{£¬ÈÃËüµÄÍâ²¿ÊÜµ½ÁËÒ»Ğ©ÉËº¦}
+{6001}{}{£¬ÈÃ»úÆ÷ÈËÔİÊ±µÄÊ§È¥ÁË×÷ÓÃ}
+{6002}{}{£¬´òÖĞÁËÒ»¸öÖ÷ÒªµÄÁã¼ş£¬ÈÃ»úÆ÷ÈË¿ªÊ¼Ê§È¥¿ØÖÆ}
+{6003}{}{£¬´òÖĞÁËÒ»¸öÖ÷ÒªµÄÁã¼ş£¬ÈÃ»úÆ÷ÈËµÄÏµÍ³Ê§È¥×÷ÓÃ}
+{6004}{}{¡£»úÆ÷ÈË¿ªÊ¼³¢ÊÔ×Å×ÔÎÒĞŞ¸´}
+{6005}{}{¡£»úÆ÷ÈË¾¡Á¦µÄÌø¹ı±»Ëğ»µµÄÏµÍ³}
+{6006}{}{£¬´òÖĞÁËÒ»Ğ©Ö÷ÒªµÄÁã¼ş£¬Ôì³ÉÁËÏàµ±´óµÄËğÉË}
+{6007}{}{£¬Ôì³ÉÁËÏàµ±ÑÏÖØµÄÍâ²¿ËğÉË}
+{6008}{}{£¬´òÖĞÁËÒ»¸öÖ÷ÒªµÄÏµÍ³£¬Ôì³ÉÁËÏàµ±´óµÄÉËº¦}
+{6009}{}{¡£ÔÚÖØ»÷Ö®ºó»úÆ÷ÈËÎŞ·¨Õı³£µÄÔË×÷}
+{6010}{}{£¬²¢½«»úÆ÷ÈË¸ø·Ö½âÁË}
+{6011}{}{¡£»úÆ÷ÈË¿ªÊ¼³¢ÊÔ×Å×ÔÎÒĞŞ¸´£¬µ«È´Ê§°ÜÁË£¬Ëü¼´¿ÌÓ¦Éùµ¹ÔÚµØÉÏ}
+{6012}{}{¡£»úÆ÷ÈË³ĞÊÜÁËÌ«´óµÄÁ¦Á¿£¬Òò´Ëµ¹ÔÚµØÉÏ}
+{6013}{}{£¬´òËéÁË¸ĞÓ¦Æ÷µÄ¾µÆ¬£¬»úÆ÷ÈËÏòÄã±È³öÁËÖĞÖ¸}
+#
+# series 6100 - Dogs
+#
+{6100}{}{£¬½«¹·´òµÃÌÉÔÚµØÉÏ}
+{6101}{}{£¬ÕıÖĞ±Ç×Ó}
+{6102}{}{¡£¹·ËÄ½Å³¯Ìì£¬µ«È´ÈÔÔÚºôÎü}
+{6103}{}{£¬ÄÇÖ»¹·ÍÂ³öÁËÒ»ÅİÏÊÑª}
+{6104}{}{£¬·ÏÁËËüµÄÍÈ}
+{6105}{}{£¬·ÏÁËËüµÄÍÈ¡£ËüÊÔ×ÅÒªÅÀÆğÀ´£¬µ«ÊÇÈ´Ê§°ÜÁË}
+{6106}{}{¡£Ï¹ÁËÑÛµÄ¹·¿ªÊ¼Æà²ÒµÄ½Ğ×Å}
+{6107}{}{£¬½«ÄÇÖ»¿ÉÁ¯µÄ¹·ÑËÁË}
+#
+# series 6200 - Manti
+#
+{6200}{}{£¬½«ÄÇ±äÖÖµÄÀ¥³æ´òµ¹ÁË}
+{6201}{}{£¬È»ºó±ãËÄ½Å³¯ÌìÁË}
+{6202}{}{¡£ó«òëÓ¦¸ÃÊÇ»î²»¾ÃÁË}
+{6203}{}{£¬·ÏÁËËüµÄ½Å}
+{6204}{}{£¬Òò´Ëó«òë¿ªÊ¼ÌòËüµÄÉË¿Ú¡£ËüÉËµÃºÜÖØ}
+{6205}{}{£¬´ò´©ÁËËüµÄ¿Ç}
+{6206}{}{¡£ó«òë¿ªÊ¼·¢¶¶³é¶¯}
+{6207}{}{£¬ÈÃó«òëµ¹ÔÚµØÉÏ¡£ËüµÄ½Å±»ÕÛ¶Ï±ä³ÉÆæ¹ÖµÄĞÎ×´}
+{6208}{}{£¬³á°ò¿ªÊ¼·¢¶¶}
+{6209}{}{£¬´ò´©ÁËËüµÄ¿Ç£¬²¢ÇÒ½«Ëü´òµÃ·É³öÈ¥}
+{6210}{}{£¬×¼È·µÄÒ»»÷½«ÄÇÀ¥³æ¸ø´òÏ¹ÁË}
+#
+# series 6300 - Deathclaw
+#
+{6300}{}{¡£¼ÈÊ¹ÊÇÏñÄÇÑùÇ¿µÄ¹ÖÎïÒ²±»ÕâÍ»È»¶øÀ´µÄÒ»»÷¸øÏÅµ½ÁË}
+{6301}{}{£¬´©¹ıÁË¹ÖÎï¾Ş´óµÄ×¦×ÓÖ±½Ó´òÖĞÁËËüµÄÉíÌå¡£ËÀÍö×¦¿ªÊ¼ÒòÌÛÍ´¶ø·¢¶¶}
+{6302}{}{¡£Ôì³ÉÁËËÀÍö×¦ÑÛ²¿µÄÉËº¦}
+#
+# series 6400 - Spore Plant  # Was The Master
+#
+{6400}{}{£¬´©¹ıÁËÖ²ÎïµÄ·ÀÎÀ}
+{6401}{}{£¬½«ËüÒ»Ğ©µÄÒ¶×Ó¸ø³¶ÁËÏÂÀ´}
+{6402}{}{£¬½«ËüµÄÒ»Ğ©Ö¦Ò¶¸ø´ò¶ÏÁË}
+{6403}{}{£¬½«ËüµÄÒ¶ÂÌËØ¸ø´òµÃÁ÷ÁË³öÀ´}
+{6404}{}{£¬½«Ëü´òµÄ»¨·Û¶¼ÅçÁË³öÀ´}
+{6405}{}{¡£²îµã½«Ëü¸ø´ò·­ÁË}
+{6406}{}{£¬½«ËüµÄÒ»Ğ©Ê÷Ö¦¸øÕÛ¶ÏÁË}
+#
+# series 6500 - The Player
+#
+{6500}{}{¡£Äã¾ÍËãÃ÷Ìì»¹»î×ÅµÄ»°£¬Í·Ò²»áÏàµ±µÄÍ´}
+{6501}{}{¡£¶ÔÓÚÕâÏàµ±×¼È·µÄÒ»»÷£¬ÄãµÄ×°¼×Ò²·¢»Ó²»ÁËÊ²Ã´±£»¤×÷ÓÃ}
+{6502}{}{¡£Äã¸Ğ¾õµ½ÁË¶ÌÔİµÄÍ´³ş£¬½Ó×Å¶øÀ´µÄ¾ÍÊÇ»èÌìºÚµØµÄ¸Ğ¾õ¡­¡­}
+{6503}{}{£¬´©¹ıÁËÄãµÄ×°¼×¡£ÄÇÒ»»÷½«Äã´òµÃµ¹ÔÚµØÉÏ}
+{6504}{}{£¬Á¦Á¿´óµ½ÈÃÄã¿´²»Çå³ş¡£¹ıÒ»»á¶ùºó£¬Äã·¢ÏÖÄãµÄÊÓ¾õÓÖ»Ø¸´Õı³£ÁË}
+{6505}{}{¡£µ±ÄãÍ··ÉµôµÄÒ»Ë²¼ä£¬ÄãµÚÒ»´Î´Ó²»Í¬µÄ½Ç¶È¿´µ½ÁËÄãµÄÉíÌå}
+{6506}{}{¡£ÁîÄã¾ªÑÈµÄÊÇ£¬ÕâÉË¿Ú²¢Ã»ÓĞÄÇÃ´Í´}
+{6507}{}{£¬ÈÃÄã³ÔÁËÒ»¾ª}
+{6508}{}{¡£¸Ğ¾õµ½ÁËÏàµ±µÄÍ´¿à}
+{6509}{}{¡£ÄÇÒ»»÷ÈÃÄãµÄÊÖ±ÛÊ§È¥ÁË×÷ÓÃ}
+{6510}{}{£¬´©¹ıÁËÄãµÄ×°¼×¡£ÄÇÒ»»÷´òËéÁËÄãÊÖ±ÛÀïµÄ¹ÇÍ·}
+{6511}{}{£¬´©¹ıÁËÄãµÄ×°¼×¡£ÏÖÔÚÄãµÄÊÖ±ÛÖ»Ê£ÏÂÆ¤Á¬×Å¹ÒÔÚÉíÉÏ}
+{6512}{}{¡£ÉË¿Ú»áÈÃÄã¿´ÆğÀ´¸üÓĞÓ¢ĞÛÆø¸Å£¬°ÌºÛ¸ü½«ÊÇ¿ªÅÉ¶ÔÊ±µÄºÃ»°Ìâ}
+{6513}{}{£¬´òÉËÁËÄãµÄÄÚÔà¡£ÄãÏÖÔÚÖ»ÄÜ¹»Ò»Ö±ÍÂÑª}
+{6514}{}{£¬½«ÄãµÄÍ·µÄÒ»²¿·Ö´òµÃ·ÉÁË³öÈ¥}
+{6515}{}{£¬½«Äã´òµÃ·É³öÈ¥£¬²¢ÇÒ½«ÄãµÄÍÈÕÛ¶ÏÁË}
+{6516}{}{£¬½«ÄãµÄ×°¼×´òËé¡£ÄÇÒ»»÷ºÜÑÏÖØµÄÉËÁËÄãµÄÏ¥¸Ç}
+{6517}{}{¡£¶ÏÍÈÖ®Í´ÈÃÄã»èÁË¹ıÈ¥}
+{6518}{}{¡£ÄÇÌÛÍ´µÄÒ»»÷ÈÃÄã½ĞÁËÒ»Éù£¬Èç´Ë¶øÒÑ}
+{6519}{}{¡£²»ĞÒµÄ£¬ÄÇÒ²ÈÃÄãÊ§È¥ÁËÊÓ¾õ}
+{6520}{}{¡£Äã½«ÑÛÖĞµÄÑª²Áµô}
+{6521}{}{£¬´©¹ıÁËÄãµÄ×°¼×¡£ÄãÕ¾ÔÚÄÇ±ß£¬¾ªÑÈµÄ·¢ÏÖÄã¿´²»¼ûÁË}
+{6522}{}{¡£Äã¾õµÃÍ·ÀïºÜÆæ¹Ö£¬Äã·¢ÏÖÄãµÄÄÔ×ÓÒÑ¾­ÊÜÁËÖØÉË}
+{6523}{}{£¬Ê¹µÃÄã±äµÃÎ·Ëõ}
+{6524}{}{¡£ÄãË«ÊÖ×¥×ÅÄãµÄÏÂÌå²¢ÇÒÍ´µÃÔÚµØÉÏ´ò¹ö}
+{6525}{}{¡£ÌÛÍ´µÄ³Ì¶È»¹²»×ãÒÔÈÃÄã»è¹ıÈ¥¡£}
+{6526}{}{¡£ÄãÏÖÔÚ¸Ğµ½µÄÌÛÍ´ÊÇËûÂèµÄÑÔÓïËù²»ÄÜĞÎÈİµÄ}
+
+
+# Fallout 2:
+
+#
+# series 6700 - Gecko
+#
+{6700}{}{£¬´©¹ıÁËòáòæµÄ·ÀÎÀ}
+{6701}{}{£¬½«ËüÉíÉÏÒ»Ğ©ğ¤´ğ´ğµÄÆ¤·ô³¶ÁËÏÂÀ´}
+{6702}{}{£¬½«ËüÒ»Ğ©Ö¸Í·´ò¶ÏÁË}
+{6703}{}{£¬ÈÃËü²»ÄÜ¹»ºôÎü}
+{6704}{}{£¬°ÑËüµÄÄÚÔà´òÁË³öÀ´}
+{6705}{}{£¬²îÒ»µã½«Ëü´òµ¹ÁË}
+{6706}{}{£¬½«ËûµÄÊÖ½Å´òÉËÁË}
+#
+# series 6800 - Alien
+#
+{6800}{}{£¬´©¹ıÁËÄÇÉúÎïµÄ·ÀÎÀ}
+{6801}{}{£¬½«ËüµÄÍâÆ¤³¶ÁËÒ»Ğ©ÏÂÀ´}
+{6802}{}{£¬½«ËüµÄÒ»Ğ©Æ÷¹Ù´òÉËÁË}
+{6803}{}{£¬ÈÃËü²»ÄÜ¹»ºôÎüÁË}
+{6804}{}{£¬ÈÃËüÍÂ³öÁËÒ»Ğ©¶ñĞÄµÄ¶«Î÷}
+{6805}{}{£¬²îµãÈÃËüÊ§È¥Æ½ºâ}
+{6806}{}{£¬´òÉËÁËËüÒ»Ğ©´¥½Å}
+#
+# series 6900 - Giant Ant
+#
+{6900}{}{£¬´©¹ıÁËÂìÒÏµÄ·ÀÎÀ}
+{6901}{}{£¬½«ËüµÄ´¥½Ç¸ø°ÎÁËÏÂÀ´}
+{6902}{}{£¬´ò¶ÏÁËËüµÄ×ì}
+{6903}{}{£¬½«Ëü´ò³ÉÁËÖØÉË}
+{6904}{}{£¬½«Ëü´òµÄÔÚµØÉÏ´ò¹ö}
+{6905}{}{£¬²îµãÈÃËûËÄ½Å³¯Ìì}
+{6906}{}{£¬´òÉËÁËËüµÄÍâ¿Ç}
+#
+# series 7000 - Gun Turret  -- WIP! Won't Work!
+#
+{7000}{}{£¬´©¹ıÁËÂìÒÏµÄ·ÀÎÀ}
+{7001}{}{£¬½«ËüµÄ´¥½Ç¸ø°ÎÁËÏÂÀ´}
+{7002}{}{£¬´ò¶ÏÁËËüµÄ×ì}
+{7003}{}{£¬½«Ëü´ò³ÉÁËÖØÉË}
+{7004}{}{£¬½«Ëü´òµÄÔÚµØÉÏ´ò¹ö}
+{7005}{}{£¬²îµãÈÃËûËÄ½Å³¯Ìì}
+{7006}{}{£¬´òÉËÁËËüµÄÍâ¿Ç}
+
+# Series 7100 - End Boss
+{7100}{}{£¬´©¹ıÁË±£»¤µÄ×°¼×}
+{7101}{}{£¬´ò´©ËûµÄÏ¥¸Ç±£»¤}
+{7102}{}{£¬ÆÆ»µÁËÊÖ±Û²Ù×÷ÏµÍ³}
+{7103}{}{£¬ÆÆ»µÁËÍÈ²¿×ª¶¯ÏµÍ³}
+{7104}{}{£¬´òËéÁËËûµÄÉú»¯ÑÛ}
+{7105}{}{£¬Ç¿ÁÒµÄ¹¥»÷ÈÃËû¾çÁÒµÄ»Î¶¯}
+{7106}{}{£¬´ò´©ÁËËûµÄ»¤ĞØ}

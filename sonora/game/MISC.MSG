@@ -1,99 +1,197 @@
-#--------------------------------------------------
-# Interface options
-#--------------------------------------------------
-{0}{}{Are you sure you want to quit?}
-{1}{}{Demo version}
-{2}{}{The default character will be used.}
-{3}{}{Screenshot saved.}
-{4}{}{Fast loading of the game was successful.}
-{5}{}{Quick save of the game was successful.}
-{6}{}{The demo version has expired.}
-{7}{}{Pip-Boy is unavailable during the fight!}
-{8}{}{Error saving screenshot.}
-{9}{}{INTRO}
-{10}{}{NEW GAME}
-{11}{}{LOAD GAME}
-{12}{}{OPTIONS}
-{13}{}{CREDITS}
-{14}{}{EXIT}
-{15}{}{Action Points}
-{16}{}{Health}
-{17}{}{The motion sensor is not installed.}
-{18}{}{The motion sensor has run out of power.}
-{20}{}{11.09.23 [ReBuild by Foxx] ENG: RadMurav Team}
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{你确定你要离开游戏吗？}
+{1}{}{试玩版}
+{2}{}{将会使用预设的人物。}
+{3}{}{储存截图。}
+{4}{}{快速进度读取完成。}
+{5}{}{快速进度储存完成。}
+{6}{}{试玩时间结束。}
+{7}{}{哔哔小子无法在战斗中使用！}
+{8}{}{无法储存截图。}
+{9}{}{开场电影}
+{10}{}{开始新游戏}
+{11}{}{读取进度}
+{12}{}{系统设定}
+{13}{}{设计小组}
+{14}{}{离开游戏}
+{15}{}{行动点数}
+{16}{}{生命值}
+{17}{}{动态感应器功能没有安装。}
+{18}{}{动态感应器没有电了。}
+{20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}
 
-{30}{}{Do you want to continue the game?}
-{50}{}{To start the game, insert the disc!}
-{100}{}{Error saving the game configuration file!}
-{101}{}{The game settings are not saved.}
+{30}{}{你希望要继续进行游戏吗？}
 
-#--------------------------------------------------
+{50}{}{玩异尘余生二中文版须要放入光碟！}
+
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{储存游戏设定档案发生错误！}
+{101}{}{游戏设定档案没有储存。}
+#
 # Some radiation messages used in critter.c
-#--------------------------------------------------
-{1000}{}{You feel very sick.}
-{1001}{}{You feel very sick. After vomiting, you feel slightly tired.}
-{1002}{}{You feel very tired, vomiting does not stop, and your recovery time increases.}
-{1003}{}{You're bleeding very badly. You are terribly ill and your hair is falling out.}
-{1004}{}{You have severe and prolonged bleeding. You're vomiting blood. The skin peels off.}
-{1005}{}{You have internal bleeding and terrible diarrhea. In addition, you have bloating and terrible agony.}
-{1006}{}{You are dying of radiation sickness.}
-{1007}{}{You get a large dose of radiation.}
-{1008}{}{The Geiger counter is ticking.}
-{1009}{}{The Geiger counter is ticking like crazy.}
+#
+{1000}{}{你感到有些恶心。}
+{1001}{}{你感到有些恶心，在呕吐了之后，你觉得有一些累。}
+{1002}{}{你感到相当的累，而且呕吐不止。你的恢复时间受损。}
+{1003}{}{你正在大量的溢血，你感到相当的难过，而且你的头发不停的掉。}
+{1004}{}{你正不断的大量溢血，你的呕吐物被血染成红色，身体上的皮肤开始脱落。}
+{1005}{}{你肠道出血，伴有严重腹泻。你因为浮肿而感到极度痛苦。}
+{1006}{}{你因死于辐射病。}
+{1007}{}{你受到了巨量辐射。}
+{1008}{}{盖勒计数器的指针正在跳动。}
+{1009}{}{盖勒计数器的指针正在大幅跳动。}
 #
 # Message used in actions.c
 #
-{2000}{}{You can't get there.}
-{2001}{}{The lock is stuck.}
+{2000}{}{你不能到达那里。}
+{2001}{}{锁卡住了。}
 #
 # poison messages from critter.c
 #
-{3000}{}{You are poisoned!}
-{3001}{}{You take poison damage.}
-{3002}{}{You feel a little better.}
-{3003}{}{You feel better.}
+{3000}{}{你中毒了！}
+{3001}{}{你受到了毒素伤害。}
+{3002}{}{你感觉好些了。}
+{3003}{}{你感觉舒服多了。}
 #
 # from queue.c
 #
-{4000}{}{Because of your clumsiness, the bomb explodes ahead of time.}
+{4000}{}{由于你笨拙的操作，炸药提前爆炸了。}
 #
 # from combatai.c
 #
-{5000}{}{uses}
-{5001}{}{remains without ammunition for weapons}
-{5002}{}{reloads weapons}
+{5000}{}{使用}
+{5001}{}{没有弹药可用}
+{5002}{}{重新上膛}
 #
 # from gdialog.c - new tell me about stuff
 #
-{6000}{}{What should I ask?}
-{7000}{}{You don't have a Pip-Boy with you!}
-{8000}{}{You are overloaded.}
-{8001}{}{%s carries too much.}
-{8500}{}{You get %d experience for using a survival skill.}
+{6000}{}{问什么？}
 
-#--------------------------------------------------
-# Replicas over the head of teammates when they get a new level
-#--------------------------------------------------
+#
+# from pipboy.c -- Fallout 2
+#
+{7000}{}{你没有装备哔哔小子！}
 
-{9000}{}{%s gets new qualities.}
+#
+# from anim.c -- Fallout 2
+#
+{8000}{}{你已经超重了。}  # Carrying too much weight
+{8001}{}{[%s]已经超重了。}
 
-{9010}{}{Wow. What an unexpected rush of experience.}
-{9011}{}{Level up, baby! One level higher!}
-{9012}{}{I feel great disturbances in the Force. It's like all my skills have improved (+%).}
-{9013}{}{I feel cooler. Stronger. Smarter.}
+#
+# from worldmap.c -- Fallout 2
+#
+{8500}{}{你成功的使用了野外求生技能，得到了%d点经验值。}
 
-{9020}{}{I want to know more!}
-{9021}{}{I have a great theory!}
-{9022}{}{Everything brilliant is simple.}
+#
+# from party.c -- Fallout 2
+#
+{9000}{}{[%s]得到了一些能力。} # Party Member has gained experience/level
+# Individuals
 
-{9030}{}{The training was not in vain.}
-{9031}{}{Will I be promoted after all these trips?}
-{9032}{}{I'm getting stronger. The Order should conduct field work more often.}
+{9010}{}{啊~~~！我突然感觉到许多的经验值涌入我的体内。} # pMMyron_PID
+{9011}{}{升级了，宝贝！升级了！}
+{9012}{}{我感觉到一股不可言语的力量，我觉得我所有的能力值都有所提升了。}
+{9013}{}{我觉得我更强壮、更聪明了。}
 
-{9040}{}{You know, I'm getting better at it.}
-{9041}{}{Now I'm definitely going to hit the jackpot in this case.}
-{9042}{}{I think I'm ready for a big adventure now.}
+{9020}{}{哇！我好像因为一些乱七八糟的经验值而变强了！} # pMMarcus_PID
+{9021}{}{啊啊啊！肌肉...凸显...能力...增加...等级提升！}
+{9022}{}{给我张文凭和一顶看起来傻乎乎的带穗帽子，因为我刚毕业。}
+{9023}{}{嘿，我感到力量增强了！我是可以升级吗？}
 
-{9050}{}{Oh, if only my brothers and sisters knew about it...}
-{9051}{}{Now I understand: knowledge is insignificant without practice.}
-{9052}{}{Thank you for our journey.}
+{9030}{}{我慢慢的记得了...} # pMMacRae_PID
+{9031}{}{嘿，我还是可以学到新技术的。}
+{9032}{}{看来我的冒险还是有代价的。}
+{9033}{}{我学到一些新的能力了。}
+
+{9040}{}{祖先的教导我们一定铭记。} # pMSulik_PID
+{9041}{}{我从灵魂那里学到了更多事。}
+{9042}{}{我们正在学习。}
+{9043}{}{伟大的灵魂与我合二为一了。}
+{9044}{}{我现在和祖先借由祖先的骨头合一了！}
+{9045}{}{祖先，我们办到了。}
+
+{9050}{}{哦，亲爱的...我的确从中学到了些东西。} # pMLenny_PID
+{9051}{}{我会因为活着而感到难过。}
+{9052}{}{我不相信我居然还活着。}
+
+{9060}{}{汪！} # pMCyberdog_PID
+{9061}{}{汪！}
+{9062}{}{汪！}
+{9063}{}{汪！}
+{9064}{}{汪！ 汪！}
+
+{9070}{}{我学到了一些新的东西！} # pMDoc_PID
+{9071}{}{我学到了一些新的东西！}
+
+{9080}{}{我相信我得到了一些知识！} # pMGoris_PID
+{9081}{}{知识就是上天的礼物。}
+{9082}{}{我觉得我学到了不少。}
+{9083}{}{我相信我比甘地都要聪明。}
+{9084}{}{我更强壮了。}
+{9085}{}{我更有力量了。}
+
+{9090}{}{我学到了一些新的东西！} # pMDavin_PID
+{9091}{}{我学到了一些新的东西！}
+
+{9100}{}{我学到了一些新的东西！} # pMMaria_PID
+{9101}{}{我学到了一些新的东西！}
+
+{9110}{}{我学到了一些新的东西！} # pMLaddie_PID
+{9111}{}{我学到了一些新的东西！}
+
+{9120}{}{资料处理完成。将所有的系统升级中。} # pMRoboBrain_PID	-- CyberBrain
+{9121}{}{资料收集完成。增强瞄准系统。}
+{9122}{}{系统更新完成。}
+{9123}{}{瞄准系统升级完成，准确度增加20%。}
+{9124}{}{已达到最佳状态。}
+
+{9130}{}{老大！我认为我能掌握这个了。} # pMVic_PID
+{9131}{}{我越来越行了！我就说我不会让你失望的，老大！}
+{9132}{}{嘿！等等...现在我会了。我想我还有进步的空间。}
+{9133}{}{看看吧，老大！你能让老狗也学会新把戏！}
+{9134}{}{你知道吗，老大？我觉得我的确学到了几招。}
+{9135}{}{我越来越擅长这个了。老大，勤学苦练肯定会有进步。}
+
+{9140}{}{我学到了一些新的东西！} # pMBess_PID
+{9141}{}{我学到了一些新的东西！}
+
+{9150}{}{我学到了一些新的东西！}  # pMChicken_PID
+{9151}{}{我学到了一些新的东西！}
+
+{9160}{}{我学到了一些新的东西！}  # pMKarl_PID
+{9161}{}{我学到了一些新的东西！}
+
+{9170}{}{我学到了一些新的东西！}  # pMJonny_PID
+{9171}{}{我学到了一些新的东西！}
+
+{9180}{}{我学到了一些新的东西！}  # pMLloyd_PID
+{9181}{}{我学到了一些新的东西！}
+
+{9190}{}{汪！汪！} # pMDogMeat_PID
+{9191}{}{汪！ 汪！ 汪～～}
+{9192}{}{汪！ 汪！ 汪～～}
+{9193}{}{汪！ 汪！ 汪～～}
+{9194}{}{汪！ 汪！ 汪～～}
+{9195}{}{哇－呜～～}
+
+{9200}{}{} # pMRoboBrain_PID -- Human
+
+{9210}{}{} # pMRoboBrain_PID -- Abnormal
+
+{9220}{}{} # pMRoboBrain_PID -- Chimp
+
+{9230}{}{} # pMPariahDog_PID
+
+{9240}{}{开始程序升级，主人...升级完成。}  # pMK9_PID
+{9241}{}{开始软件升级，主人...2.0 版本安装完毕。}
+{9242}{}{处理硬件更变，主人...系统升级。}
+{9243}{}{处理硬件更变，主人...系统最佳化！}
+
+{9250}{}{} # pMCarTrunk_PID

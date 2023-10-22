@@ -39,11 +39,11 @@
 ### {211}{}{Old people and children. When they gather in a crowd, it is better not to anger them.}
 {211}{}{老人和儿童。当他们聚集在人群中时，最好不要激怒他们。}
 ### {212}{}{Damn it! I told you they'd come again. So, let's get out of here...}
-{212}{}{该死！我告诉过你他们还会来的。所以，让我们离开这里。。。}
+{212}{}{该死！我告诉过你他们还会来的。所以，让我们离开这里...}
 ### {213}{}{Here are 10 bags of maize for you. Is that enough to get you out of the Villa?}
 {213}{}{这里有10袋玉米给你。这足以让你离开别墅吗？}
 ### {214}{}{Quite. I don't want a bunch of hillbillies coming after us. So, let's get out of here...}
-{214}{}{相当地我不想让一群乡巴佬来追我们。所以，让我们离开这里。。。}
+{214}{}{相当地我不想让一群乡巴佬来追我们。所以，让我们离开这里...}
 ### {215}{}{Give me time to figure it out. I'll be back.}
 {215}{}{给我时间弄清楚。我会回来的。}
 ### {216}{}{Hurry up...}
@@ -57,13 +57,13 @@
 ### {220}{}{Get out of here!}
 {220}{}{滚出去！}
 ### {221}{}{Let's see how it ends...}
-{221}{}{让我们看看结局如何。。。}
+{221}{}{让我们看看结局如何...}
 ### {222}{}{Okay, you got it.}
 {222}{}{好吧，你明白了。}
 ### {223}{}{The villa is now under the protection of the Rangers. You're taking a big risk.}
 {223}{}{别墅现在由游骑兵队保护。你在冒很大的风险。}
 ### {224}{}{Rangers? Here? It's a bad thing. Let's get out of here quickly...}
-{224}{}{游骑兵队？在这里这是一件坏事。让我们赶快离开这里。。。}
+{224}{}{游骑兵队？在这里这是一件坏事。让我们赶快离开这里...}
 ### {225}{}{Yes, yes, you should hurry up.}
 {225}{}{是的，是的，你应该快点。}
 ### {226}{}{Get out. And don't come back.}

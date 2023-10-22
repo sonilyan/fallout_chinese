@@ -79,7 +79,7 @@
 ### {248}{}{One of them showed a badge. Besides, the bandits wouldn't chase us away, but would simply rob or kill us.}
 {248}{}{其中一人展示了徽章。此外，土匪不会把我们赶走，只是简单地抢劫或杀害我们。}
 ### {249}{}{A strange story... I need to know the details, and you don't leave town yet.}
-{249}{}{一个奇怪的故事。。。我需要知道细节，而你还没有离开小镇。}
+{249}{}{一个奇怪的故事...我需要知道细节，而你还没有离开小镇。}
 
 ### {250}{}{I need to find these rangers.}
 {250}{}{我需要找到这些护林员。}
@@ -96,7 +96,7 @@
 ### {256}{}{You'll chew your own teeth if you don't show me this place.}
 {256}{}{如果你不带我去这个地方，你会自食其力的。}
 ### {257}{}{Fair. Here are 20 caps, you can buy food at a local bar with them.}
-{257}{}{公平的这里有20顶帽子，你可以用它们在当地的酒吧买食物。}
+{257}{}{公平的这里有20个瓶盖，你可以用它们在当地的酒吧买食物。}
 ### {258}{}{(greedily watching you rummage through your pockets)}
 {258}{}{（贪婪地看着你在口袋里翻找）}
 ### {259}{}{Uh, I think I left cash at the motel.}

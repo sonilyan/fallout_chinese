@@ -55,7 +55,7 @@
 ### {221}{}{I know enough. Goodbye.}
 {221}{}{我知道的够多了。再见}
 ### {222}{}{Wait a minute. Let's be clear - they teach knowledge here, not combat... "arts". We don't like violence, and we certainly won't tolerate it at school. So keep your fists, knives, and whatever else you have in stock with you. And there's nothing to smile so brazenly. You have been warned.}
-{222}{}{等一下。让我们明确一点——他们在这里教授知识，而不是战斗。。。“艺术”。我们不喜欢暴力，在学校我们当然不会容忍。所以，把你的拳头、刀子和其他任何你手头的东西都留着。没有什么可以如此厚颜无耻地微笑。您已收到警告。}
+{222}{}{等一下。让我们明确一点——他们在这里教授知识，而不是战斗...“艺术”。我们不喜欢暴力，在学校我们当然不会容忍。所以，把你的拳头、刀子和其他任何你手头的东西都留着。没有什么可以如此厚颜无耻地微笑。您已收到警告。}
 ### {223}{}{Agreed. My fighting skills will remain outside of school.}
 {223}{}{同意。我的格斗技能将留在校外。}
 ### {224}{}{You watch your tongue, too, if you don't want problems.}
@@ -78,7 +78,7 @@
 ### {237}{}{Go on.}
 {237}{}{继续}
 ### {238}{}{Here we have direct evidence of what the nuclear explosion in Mexicali looked like... Well, that's what this city was called before the War.}
-{238}{}{在这里，我们有墨西卡利核爆炸的直接证据。。。这就是战前这个城市的名字。}
+{238}{}{在这里，我们有墨西卡利核爆炸的直接证据...这就是战前这个城市的名字。}
 ### {239}{}{Now it is called Inferno. Do you want to buy this thing?}
 {239}{}{现在它被称为地狱。你想买这个东西吗？}
 ### {240}{}{Of course! Give it to us, for the sake of science.}
@@ -137,7 +137,7 @@
 ### {274}{}{Thank you very much. Here is the payment - }
 {274}{}{非常感谢。这是付款-}
 ### {275}{}{ caps.}
-{275}{}{帽子。}
+{275}{}{瓶盖。}
 ### {276}{}{I'll bring more if I find it. Goodbye.}
 {276}{}{如果我找到了，我会带更多的。再见。}
 ### {277}{}{Leave the bottlecaps to your school. This is my donation.}

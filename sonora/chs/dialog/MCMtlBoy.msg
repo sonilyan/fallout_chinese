@@ -12,7 +12,7 @@
 ### {202}{}{Shut up, you idiot. They'll hear us.}
 {202}{}{闭嘴，你这个白痴。他们会听到我们的。}
 ### {203}{}{Eh? Aren't you a mutant? Oh... How glad I am to see you...}
-{203}{}{呃？你不是变种人吗？哦我很高兴见到你。。。}
+{203}{}{呃？你不是变种人吗？哦我很高兴见到你...}
 ### {204}{}{Why did the mutants lock you up?}
 {204}{}{变种人为什么把你关起来？}
 ### {205}{}{Don't you see all these bones? They're cannibals! They lure people into traps and then butcher them like cattle.}
@@ -21,7 +21,7 @@
 {206}{}{真恐怖。}
 
 ### {210}{}{We need to get out of here! They killed everyone else... They will kill us too!}
-{210}{}{我们需要离开这里！他们杀死了其他人。。。他们也会杀了我们！}
+{210}{}{我们需要离开这里！他们杀死了其他人...他们也会杀了我们！}
 ### {211}{}{For now, sit here, and I'll see if there's any danger ahead.}
 {211}{}{现在，坐在这里，我看看前方是否有危险。}
 ### {212}{}{Okay. I'll walk you to the nearest settlement. Let's go. Just be quiet.}

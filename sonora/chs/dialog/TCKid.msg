@@ -7,7 +7,7 @@
 ### {103}{}{Following the tinker's instructions, you manage to extract the chip from his body.}
 {103}{}{按照修补匠的指示，你设法从他身上取出芯片。}
 ### {104}{}{Alien? Here? Perhaps I should double-check my weapon...}
-{104}{}{外星人在这里也许我应该仔细检查一下我的武器。。。}
+{104}{}{外星人在这里也许我应该仔细检查一下我的武器...}
 
 #The first dialog
 ### {200}{}{(in front of you is a teenage tinker with wide-open eyes; he is studying your person with interest) A man from the wasteland, you should know that in Two-Sun they do not like outsiders. Better not test our patience.}
@@ -19,13 +19,13 @@
 ### {203}{}{Go away. We're not allowed to talk to you. (turns around and walks away from you)}
 {203}{}{走开。我们不允许和你说话。（转身离开你）}
 ### {204}{}{It wasn't very kind...}
-{204}{}{这不是很好。。。}
+{204}{}{这不是很好...}
 ### {1204}{}{Fi. What boorish treatment of ladies...}
-{1204}{}{Fi.对女士的粗暴对待。。。}
+{1204}{}{Fi.对女士的粗暴对待...}
 ### {205}{}{There is indecision in your words. Are you lonely here?}
 {205}{}{你的话有些犹豫不决。你在这里孤独吗？}
 ### {206}{}{(stops in bewilderment) The team considers communication with low-developed outsiders unproductive... while it does not bring benefits.}
-{206}{}{（困惑地停了下来）团队认为与低发展的局外人的沟通毫无成效。。。但它不会带来好处。}
+{206}{}{（困惑地停了下来）团队认为与低发展的局外人的沟通毫无成效...但它不会带来好处。}
 ### {207}{}{That's what the Team thinks. And what do you think *you*?}
 {207}{}{这就是团队的想法。你觉得你怎么样？}
 ### {208}{}{Hey, who are you calling low-level?}
@@ -46,7 +46,7 @@
 ### {215}{}{Who is destructive here? Mind you, I won't tolerate it next time.}
 {215}{}{谁是破坏性的？请注意，下次我不会容忍的。}
 ### {216}{}{(hesitates) At first... Talk to Master Hard first.}
-{216}{}{（犹豫）一开始。。。先和大师好好谈谈。}
+{216}{}{（犹豫）一开始...先和大师好好谈谈。}
 ### {217}{}{Great, I'll remember that.}
 {217}{}{太好了，我会记住的。}
 ### {218}{}{Yes... no...}
@@ -68,7 +68,7 @@
 ### {225}{}{It seems that last time you hesitated when talking about your Team. Is something bothering you?}
 {225}{}{上次你在谈到你的团队时似乎有些犹豫。有什么事困扰着你吗？}
 ### {226}{}{Worried? Yes... perhaps. The collective teaches that our past is insignificant, we must forget it and live in the future for the sake of Progress. But I can't just give up mine... childhood.}
-{226}{}{担心对可能集体教导我们，我们的过去微不足道，我们必须忘记它，为了进步而活在未来。但我不能放弃我的。。。童年}
+{226}{}{担心对可能集体教导我们，我们的过去微不足道，我们必须忘记它，为了进步而活在未来。但我不能放弃我的...童年}
 ### {227}{}{Childhood? So you're not from here?}
 {227}{}{童年所以你不是这里人？}
 
@@ -94,7 +94,7 @@
 ### {237}{}{Okay, I'll look for your parents.}
 {237}{}{好吧，我去找你父母。}
 ### {238}{}{(brightening up) Great! That is... (makes a dry face) I would be grateful... Now we'd better disperse before we arouse suspicion. And it's not worth telling about the conversation.}
-{238}{}{（兴奋起来）太棒了！那是…（做了一个干燥的脸）我会很感激。。。现在我们最好在引起怀疑之前散开。这段对话不值得讲。}
+{238}{}{（兴奋起来）太棒了！那是…（做了一个干燥的脸）我会很感激...现在我们最好在引起怀疑之前散开。这段对话不值得讲。}
 ### {239}{}{No problem.}
 {239}{}{没问题。}
 ### {240}{}{Actually, I'm not on my way, so I'm sorry.}
@@ -120,7 +120,7 @@
 ### {1261}{}{Oh, a date with a tinker? It's intriguing. I'll be there.}
 {1261}{}{哦，和小修补匠约会？这很有趣。我会在那里。}
 ### {262}{}{I don't think I want to be with you... uh, dating.}
-{262}{}{我想我不想和你在一起。。。呃，约会。}
+{262}{}{我想我不想和你在一起...呃，约会。}
 
 #Dialogue when the quest is open
 ### {300}{}{Do you have any information for me?}
@@ -132,7 +132,7 @@
 ### {302}{}{I managed to find your family, but she turned out to be dead. Don't ask, the tinsmiths have nothing to do with it.}
 {302}{}{我设法找到了你的家人，但她已经死了。别问了，打铁的人与此无关。}
 ### {303}{}{This was to be expected... Apparently, the team was right - you can't cling to the past. After all, it is not even known if we could find mutual understanding after so many years of separation. Now, thanks to you, I can finally get rid of the old splinter. And from now on I will not let feelings take over my mind.}
-{303}{}{这是意料之中的事。。。显然，球队是对的——你不能执着于过去。毕竟，在分开这么多年后，我们是否能找到相互理解还不得而知。现在，多亏了你，我终于可以摆脱旧碎片了。从现在起，我不会让感情占据我的头脑。}
+{303}{}{这是意料之中的事...显然，球队是对的——你不能执着于过去。毕竟，在分开这么多年后，我们是否能找到相互理解还不得而知。现在，多亏了你，我终于可以摆脱旧碎片了。从现在起，我不会让感情占据我的头脑。}
 ### {304}{}{Well, it's up to you to decide.}
 {304}{}{好吧，由你来决定。}
 
@@ -144,7 +144,7 @@
 ### {312}{}{I don't think you'll like their story. According to them, the tinkerers just took you away during the raid.}
 {312}{}{我想你不会喜欢他们的故事。据他们说，修补工在突袭期间刚刚把你带走了。}
 ### {313}{}{That is, my metal brothers have been deceiving me all this time?! That's what I've always been afraid of... You know, Master Hard won't like me digging into the past. Especially after what I learned...}
-{313}{}{也就是说，我的金属兄弟一直在欺骗我？！这就是我一直害怕的。。。你知道吗，哈德大师不会喜欢我挖掘过去。尤其是在我学到了。。。}
+{313}{}{也就是说，我的金属兄弟一直在欺骗我？！这就是我一直害怕的...你知道吗，哈德大师不会喜欢我挖掘过去。尤其是在我学到了...}
 ### {314}{}{My part of the deal is done, then figure it out for yourself.}
 {314}{}{我的部分交易已经完成，然后自己想办法。}
 ### {315}{}{Well, no. I have to get proof of your words, otherwise the deal will be canceled.}
@@ -169,7 +169,7 @@
 ### {324}{}{I can ask to join the caravan, but first I need to get rid of the chip control. Every tinker has such a chip sewn under the skin on his neck. It transmits data about my location. Help me remove it! I won't do it myself.}
 {324}{}{我可以要求加入车队，但首先我需要摆脱芯片控制。每个修补匠的脖子上都缝着这样一块芯片。它传输有关我所在位置的数据。帮我把它取下来！我不会自己做的。}
 ### {325}{}{Okay, let's try...}
-{325}{}{好吧，让我们试试。。。}
+{325}{}{好吧，让我们试试...}
 
 ### {326}{}{So what should I do?}
 {326}{}{那么我该怎么办呢？}
@@ -180,13 +180,13 @@
 ### {328}{}{But then you will be seriously punished by your own.}
 {328}{}{但是你会受到自己的严厉惩罚。}
 ### {329}{}{I've been a stranger here from the very beginning... Probably, emotions are speaking in me now, but I'd rather sacrifice my precarious position in Two-Sun and return to my family.}
-{329}{}{我从一开始就对这里很陌生。。。也许，现在我的情绪在说话，但我宁愿牺牲我在《两个太阳》中岌岌可危的地位，回到我的家人身边。}
+{329}{}{我从一开始就对这里很陌生...也许，现在我的情绪在说话，但我宁愿牺牲我在《两个太阳》中岌岌可危的地位，回到我的家人身边。}
 
 #Quest - Hard managed to convince
 ### {330}{}{Hard has agreed to meet with your family in Two-Sun. You don't have to go against the collective anymore.}
 {330}{}{Hard已同意在Two Sun与您的家人见面。你不必再反对集体了。}
 ### {331}{}{How did you manage it?! It's hard to argue with Master Hard, even for his narrow circle of confidants. But you're not even a tinker. Amazingly... I mean, I'm grateful to you. With your help, I will finally be able to sort out the old thorn. This is very important to me.}
-{331}{}{你是怎么做到的？！很难与哈德大师争论，即使是他的密友圈子很窄。但你甚至不是一个修补匠。令人惊奇的是。。。我的意思是，我很感激你。在你的帮助下，我终于能够解决这个老刺了。这对我来说非常重要。}
+{331}{}{你是怎么做到的？！很难与哈德大师争论，即使是他的密友圈子很窄。但你甚至不是一个修补匠。令人惊奇的是...我的意思是，我很感激你。在你的帮助下，我终于能够解决这个老刺了。这对我来说非常重要。}
 ### {332}{}{Well, I think we have resolved this issue.}
 {332}{}{嗯，我认为我们已经解决了这个问题。}
 
@@ -200,7 +200,7 @@
 ### {340}{}{I think you should know that. The tinsmiths didn't take you away, but took me as payment for helping repair the water station.}
 {340}{}{我想你应该知道这一点。铁匠们没有把你带走，而是把我当作帮修理供水站的报酬。}
 ### {341}{}{Me... sold by parents?! It changes a lot... You know, Master Hard won't like it if I keep bringing up the past. Especially after what I found out. Anyway, thanks to you, I can get rid of the old splinter.}
-{341}{}{我…被父母出卖了？！它变化很大。。。你知道吗，如果我继续提起过去，哈德大师不会喜欢的。尤其是在我发现之后。不管怎样，多亏了你，我可以摆脱旧碎片。}
+{341}{}{我…被父母出卖了？！它变化很大...你知道吗，如果我继续提起过去，哈德大师不会喜欢的。尤其是在我发现之后。不管怎样，多亏了你，我可以摆脱旧碎片。}
 ### {342}{}{Exactly. It's time to put an end to this story and move on.}
 {342}{}{确切地是时候结束这个故事，继续前进了。}
 ### {343}{}{It's up to you.}
@@ -224,7 +224,7 @@
 {414}{}{对不起，成交就是成交。高兴地}
 
 ### {420}{}{I would like to lift the caps.}
-{420}{}{我想把帽子掀起来。}
+{420}{}{我想把瓶盖掀起来。}
 ### {421}{}{I need nuclear batteries.}
 {421}{}{我需要核电池。}
 ### {422}{}{The pneumatic fist that tinsmiths are famous for.}

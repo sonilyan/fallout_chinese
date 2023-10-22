@@ -19,9 +19,9 @@
 ### {121}{}{The day when we have the right to say: yes, we are still alive. We were able to live another day. Many were unlucky, but we managed.}
 {121}{}{当我们有权说：是的，我们还活着。我们可以再活一天。许多人运气不好，但我们成功了。}
 ### {122}{}{Thank our saints for this good, who protect us from wild beasts and robbers...}
-{122}{}{感谢我们的圣人，他们保护我们免受野兽和强盗的伤害。。。}
+{122}{}{感谢我们的圣人，他们保护我们免受野兽和强盗的伤害...}
 ### {123}{}{And that's all... Only... Oh, uh...}
-{123}{}{仅此而已。。。只有哦，呃。。。}
+{123}{}{仅此而已...只有哦，呃...}
 ### {124}{}{Lucia, today is your big day.}
 {124}{}{露西娅，今天是你的大日子。}
 ### {125}{}{Go to the church and finish the ceremony. You know what to do. And we will pray.}
@@ -29,13 +29,13 @@
 
 #The first dialog
 ### {200}{}{(at the sight of you, the crowd falls silent and moves aside; there is a tense pause) Uh-uh... I think we have guests... What a surprise!}
-{200}{}{（一看到你，人群就安静下来，向一边移动；有一段紧张的停顿）呃。。。我想我们有客人。。。真是个惊喜！}
+{200}{}{（一看到你，人群就安静下来，向一边移动；有一段紧张的停顿）呃...我想我们有客人...真是个惊喜！}
 ### {201}{}{I was just passing by and heard the fun. What's going on here?}
 {201}{}{我只是路过，听到了其中的乐趣。这是怎么回事？}
 ### {1201}{}{I was just passing by and heard the fun. What's going on here?}
 {1201}{}{我只是路过，听到了其中的乐趣。这是怎么回事？}
 ### {202}{}{What's going on? Oh, gringos, we celebrate the day of our saints. You're at the celebration of life! Help yourself and make yourself at home. We welcome everyone... who will not interfere with us.}
-{202}{}{怎么回事？哦，外国佬，我们庆祝我们的圣徒节。你参加了生命庆典！自食其力，让自己自在。我们欢迎大家。。。谁不会干涉我们。}
+{202}{}{怎么回事？哦，外国佬，我们庆祝我们的圣徒节。你参加了生命庆典！自食其力，让自己自在。我们欢迎大家...谁不会干涉我们。}
 ### {203}{}{During my journey, I see such a happy society for the first time. I will be glad to linger on your holiday.}
 {203}{}{在旅途中，我第一次看到这样一个幸福的社会。我很乐意在你的假期逗留。}
 ### {1203}{}{During my journey, I see such a happy society for the first time. I will be glad to stay on your holiday.}
@@ -71,13 +71,13 @@
 ### {219}{}{It was the antics of a teenager. I don't know what motivated him.}
 {219}{}{这是一个青少年的滑稽动作。我不知道是什么驱使他。}
 ### {220}{}{Oh, I guess... Simple excitement, hot blood in a brave body. Nevermind.}
-{220}{}{哦，我想。。。单纯的兴奋，热血在勇敢的身体里。永远不会。}
+{220}{}{哦，我想...单纯的兴奋，热血在勇敢的身体里。永远不会。}
 ### {221}{}{Good if so.}
 {221}{}{如果是的话，那就太好了。}
 ### {222}{}{Really?}
 {222}{}{真正地}
 ### {223}{}{Now I can finish the ceremony. This is our glorious old tradition. Every few months we hold a coronation of one of the residents to remind everyone of equality and that everyone has the opportunity to become useful to the community. This time the honor fell to Lucia. Lucia, come closer...}
-{223}{}{现在我可以完成仪式了。这是我们光荣的古老传统。每隔几个月，我们就会为其中一位居民举行加冕典礼，提醒大家平等，每个人都有机会对社区有用。这一次，荣誉落在了露西娅身上。露西娅，走近一点。。。}
+{223}{}{现在我可以完成仪式了。这是我们光荣的古老传统。每隔几个月，我们就会为其中一位居民举行加冕典礼，提醒大家平等，每个人都有机会对社区有用。这一次，荣誉落在了露西娅身上。露西娅，走近一点...}
 ### {224}{}{[Watch the ceremony]}
 {224}{}{[观看仪式]}
 ### {225}{}{The ceremony is so tiring. But I'm not quite young anymore. I need to lie down to rest.}
@@ -96,9 +96,9 @@
 ### {231}{}{Don't worry, old man. The monster in the basement is dead. You have nothing to fear anymore.}
 {231}{}{别担心，老人。地下室的怪物已经死了。你再也不用害怕了。}
 ### {232}{}{M-is dead?! (contrite) You... WHAT HAVE YOU DONE!!!}
-{232}{}{M死了？！（忏悔）你。。。你做了什么！！！}
+{232}{}{M死了？！（忏悔）你...你做了什么！！！}
 ### {1232}{}{ M-dead?! (contrite) You... WHAT HAVE YOU DONE!!!}
-{1232}{}{M-死了？！（忏悔）你。。。你做了什么！！！}
+{1232}{}{M-死了？！（忏悔）你...你做了什么！！！}
 ### {233}{}{Well, I killed a monster. It die. Dead. Went back to hell. Do you understand?}
 {233}{}{我杀了一个怪物。它死了。死去的回地狱去了。你明白吗？}
 ### {1233}{}{Well, I killed a monster. It die. Dead. Went back to hell. Do you understand?}
@@ -118,7 +118,7 @@
 ### {240}{}{Try to stop me, holy man.}
 {240}{}{试着阻止我，圣人。}
 ### {241}{}{You're making a big mistake...}
-{241}{}{你犯了一个大错误。。。}
+{241}{}{你犯了一个大错误...}
 ### {242}{}{That's what, gringo. Go away and never come back.}
 {242}{}{就是这样，外国佬。走开，再也不回来。}
 ### {243}{}{Don't you dare threaten me, old man. Believe me, it's not in your best interest.}
@@ -152,4 +152,4 @@
 ### {256}{}{Unexpectedly the right decision. You're being wise, old Ilario. Goodbye.}
 {256}{}{出乎意料的是正确的决定。你很聪明，老伊拉里奥。再见}
 ### {257}{}{I'll help you find a new place to live... this place is in hell!}
-{257}{}{我会帮你找个新住处。。。这个地方简直是地狱！}
+{257}{}{我会帮你找个新住处...这个地方简直是地狱！}

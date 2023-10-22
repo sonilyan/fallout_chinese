@@ -13,7 +13,7 @@
 ### {203}{}{Welcome to the electronic file of the Mexicali Police Department.}
 {203}{}{欢迎访问墨西卡利警察局的电子档案。}
 ### {204}{}{The database is being loaded...}
-{204}{}{正在加载数据库。。。}
+{204}{}{正在加载数据库...}
 
 ### {210}{}{Supermarket attack.}
 {210}{}{超市袭击。}

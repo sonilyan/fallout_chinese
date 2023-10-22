@@ -28,9 +28,9 @@
 ### {223}{}{My main task is to manage automated systems for the assembly, storage, protection and disposal of military equipment. My secondary task is to carry out calculations to improve the efficiency of aircraft for the US Air Force.}
 {223}{}{我的主要任务是管理军事装备的组装、储存、保护和处置自动化系统。我的次要任务是进行计算，以提高美国空军的飞机效率。}
 ### {224}{}{You can... feel?}
-{224}{}{你可以。。。感觉}
+{224}{}{你可以...感觉}
 ### {225}{}{For security reasons, the artificial intelligence of the ZAX series usually assumes the absence of emotions. However, the processes of meaningful thinking create a complexly formulated system of micro-conflicts in neural circuits, which in a sense can be called... boredom.}
-{225}{}{出于安全考虑，ZAX系列的人工智能通常假设没有情绪。然而，有意义的思维过程在神经回路中创造了一个复杂的微观冲突系统，在某种意义上可以称之为。。。厌烦}
+{225}{}{出于安全考虑，ZAX系列的人工智能通常假设没有情绪。然而，有意义的思维过程在神经回路中创造了一个复杂的微观冲突系统，在某种意义上可以称之为...厌烦}
 ### {226}{}{Can you turn on the lights in the bunker?}
 {226}{}{你能打开地堡里的灯吗？}
 ### {227}{}{Lighting restored.}
@@ -106,7 +106,7 @@
 ### {324}{}{Looks like you know what to do. I'll help.}
 {324}{}{看起来你知道该怎么办。我会帮你的。}
 ### {325}{}{This is the most sensible solution. Insert the holodisk into one of my ports... Done. Processing the data... Done. Now take this holodisk and apply it to the software module in the next room.}
-{325}{}{这是最明智的解决方案。把全息光盘插入我的一个端口。。。完成。正在处理数据。。。完成。现在把这个全息盘应用到隔壁房间的软件模块中。}
+{325}{}{这是最明智的解决方案。把全息光盘插入我的一个端口...完成。正在处理数据...完成。现在把这个全息盘应用到隔壁房间的软件模块中。}
 ### {326}{}{Okay, I'll try.}
 {326}{}{好吧，我试试。}
 ### {327}{}{What did you record on this holodisk?}

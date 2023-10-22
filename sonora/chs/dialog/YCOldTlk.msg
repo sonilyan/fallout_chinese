@@ -27,4 +27,4 @@
 ### {214}{}{The Master and his super mutants are a serious force. They tried to subdue people and ghouls. It's good that they were exhausted. But not to the end after all!}
 {214}{}{大师和他的超级变种人是一股强大的力量。他们试图制服人们和食尸鬼。还好他们已经筋疲力尽了。但毕竟不是到最后！}
 ### {215}{}{Uv... I think I've been drinking too much... the interview is over...}
-{215}{}{Uv。。。我想我喝多了。。。面试结束了。。。}
+{215}{}{Uv...我想我喝多了...面试结束了...}

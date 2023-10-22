@@ -12,11 +12,11 @@
 ### {111}{}{It hurts}
 {111}{}{很疼}
 ### {112}{}{Uv...}
-{112}{}{Uv。。。}
+{112}{}{Uv...}
 ### {113}{}{*Cough-cough*}
 {113}{}{*咳嗽*}
 ### {114}{}{Um-m-m...}
-{114}{}{嗯。。。}
+{114}{}{嗯...}
 ### {115}{}{Filth...}
 {115}{}{污物}
 ### {116}{}{Not another step into the ring.}
@@ -37,7 +37,7 @@
 ### {153}{}{I think I got a concussion.}
 {153}{}{我想我得了脑震荡。}
 ### {154}{}{I need a doctor...}
-{154}{}{我需要一个医生。。。}
+{154}{}{我需要一个医生...}
 ### {155}{}{Do you have painkillers?}
 {155}{}{你有止痛药吗？}
 ### {156}{}{Pusher, bitch, can't get a stimpack.}
@@ -47,7 +47,7 @@
 ### {158}{}{*Moans in response, clutching his head*}
 {158}{}{*Moans抓着他的头回应道*}
 ### {159}{}{Um-m-m... My head hurts!}
-{159}{}{嗯。。。我的头疼！}
+{159}{}{嗯...我的头疼！}
 
 ### {170}{}{Thank you for saving me.}
 {170}{}{谢谢你救了我。}

@@ -15,7 +15,7 @@
 ### {202}{}{(grunting with discontent) Well yes. This is a communal house, and this is my room.}
 {202}{}{（不满地咕哝着）是的。这是一栋公共房屋，这是我的房间。}
 ### {203}{}{And you...}
-{203}{}{而你。。。}
+{203}{}{而你...}
 ### {204}{}{I'm Bob, a garbage man and a handyman. But who are you and who are you looking for here?}
 {204}{}{我是鲍勃，一个垃圾工和杂工。但是你是谁，你在这里找谁？}
 ### {205}{}{None of your business.}
@@ -95,7 +95,7 @@
 ### {253}{}{Uh, nothing.}
 {253}{}{没什么。}
 ### {254}{}{Yes, there was a golden time when scavengers rummaged through the ruins of Phoenix in droves. Now only really dangerous areas with high radiation remain untouched... And what?}
-{254}{}{是的，有一段黄金时期，拾荒者成群结队地在凤凰城的废墟中搜寻。现在只有真正危险的高辐射区域没有受到影响。。。什么？}
+{254}{}{是的，有一段黄金时期，拾荒者成群结队地在凤凰城的废墟中搜寻。现在只有真正危险的高辐射区域没有受到影响...什么？}
 ### {255}{}{Tell me about the scavengers.}
 {255}{}{告诉我拾荒者的事。}
 ### {256}{}{You really don't know about us? Hmm, we are really quite inconspicuous.}
@@ -111,7 +111,7 @@
 ### {261}{}{}
 {261}{}{error : string is empty}
 ### {262}{}{Oh, it's you... uh, scavengers... exactly. Can we talk about something else?}
-{262}{}{哦，是你。。。呃，拾荒者。。。确切地我们能谈谈别的吗？}
+{262}{}{哦，是你...呃，拾荒者...确切地我们能谈谈别的吗？}
 ### {263}{}{We look for valuables in the ruins and then sell them to the market or customers. The case is dangerous and difficult. Therefore, for large-scale work, the scavengers united in a whole guild.}
 {263}{}{我们在废墟中寻找贵重物品，然后卖给市场或顾客。这个案子既危险又困难。因此，为了进行大规模的工作，拾荒者们联合成了一个完整的公会。}
 ### {264}{}{Was it such a sought-after job?}
@@ -124,21 +124,21 @@
 {267}{}{细节和书籍？我祝你成功。我觉得是时候对我来说了。}
 
 ### {270}{}{Do you know anything about Vaults?}
-{270}{}{你知道金库吗？}
+{270}{}{你知道避难所吗？}
 ### {271}{}{Vaults? What are you talking about? Any basement will be your refuge.}
-{271}{}{金库？你在说什么？任何地下室都是你的避难所。}
+{271}{}{避难所？你在说什么？任何地下室都是你的避难所。}
 ### {272}{}{No, no, I'm talking about Great Vaults.}
-{272}{}{不，不，我说的是大金库。}
+{272}{}{不，不，我说的是大避难所。}
 ### {273}{}{Ah, the Vault-Tec project. I came across one of them, number 26.}
 {273}{}{啊，Vault Tec项目。我遇到了其中一个，26号。}
 ### {274}{}{Really? And where was it?}
 {274}{}{真正地它在哪里？}
 ### {275}{}{In the western ruins, on the edge of the crater. The Scavengers Guild once made an expedition there, but the Vault was so destroyed that we returned empty-handed.}
-{275}{}{在西部的废墟中，在火山口的边缘。拾荒者协会曾经在那里进行过一次探险，但金库被毁了，我们空手而归。}
+{275}{}{在西部的废墟中，在火山口的边缘。拾荒者协会曾经在那里进行过一次探险，但避难所被毁了，我们空手而归。}
 ### {276}{}{Sorry to hear that. What about other Vaults?}
-{276}{}{很抱歉听到这个消息。其他金库呢？}
+{276}{}{很抱歉听到这个消息。其他避难所呢？}
 ### {277}{}{So eager to find the real treasure, huh? Many tried, but found only brain cancer. Or a bandit bullet. If anyone knows about the Vaults, it's probably the fire worshippers. But they are reluctant to share information.}
-{277}{}{如此渴望找到真正的宝藏，是吗？许多人尝试过，但只发现了脑癌症。或者土匪子弹。如果有人知道金库的话，那可能是那些拜火者。但他们不愿分享信息。}
+{277}{}{如此渴望找到真正的宝藏，是吗？许多人尝试过，但只发现了脑癌症。或者土匪子弹。如果有人知道避难所的话，那可能是那些拜火者。但他们不愿分享信息。}
 ### {278}{}{Thank you, maybe they will help me there.}
 {278}{}{谢谢你，也许他们会在那里帮助我。}
 ### {279}{}{You're no good, you old fart.}
@@ -169,7 +169,7 @@
 ### {300}{}{Of course. But I'm not the one to travel anymore. I can only tell you about various places around the city, if it helps you.}
 {300}{}{当然但我不再是那个旅行的人了。如果对你有帮助的话，我只能告诉你这个城市的各个地方。}
 ### {301}{}{Great. Let me expand the map...}
-{301}{}{太棒了让我展开地图。。。}
+{301}{}{太棒了让我展开地图...}
 ### {302}{}{The most difficult thing is to avoid unnecessary meetings.}
 {302}{}{最困难的是避免不必要的会议。}
 ### {303}{}{Thanks, Bob. This will help me a lot.}

@@ -69,7 +69,7 @@
 ### {232}{}{This is a courier delivery service. Does the sign outside mean anything to you?}
 {232}{}{这是快递服务。外面的标志对你有意义吗？}
 ### {233}{}{Such a service is not much... unusual, considering the scorched desert around. What are you transporting?}
-{233}{}{这样的服务并不多。。。考虑到周围烧焦的沙漠，这是不寻常的。你在运输什么？}
+{233}{}{这样的服务并不多...考虑到周围烧焦的沙漠，这是不寻常的。你在运输什么？}
 ### {234}{}{We are ready to transfer anything, even a dead flea, if the right price is paid for it. Are you just curious or are you ready to place an order?}
 {234}{}{如果价格合适，我们准备转移任何东西，即使是一只死跳蚤。你只是好奇还是准备下订单？}
 ### {235}{}{Perhaps. I want to know more.}
@@ -112,9 +112,9 @@
 ### {296}{}{Happily.}
 {296}{}{高兴地}
 ### {297}{}{Keep the caps for yourself. It's enough for me that ordinary people are waiting for these letters.}
-{297}{}{帽子自己留着。对我来说，普通人在等这些信就足够了。}
+{297}{}{瓶盖自己留着。对我来说，普通人在等这些信就足够了。}
 ### {298}{}{This is the first time I've seen someone refuse caps. You are an amazing person. But thanks for the delivery.}
-{298}{}{这是我第一次看到有人拒绝戴帽子。你是个了不起的人。但是谢谢你的快递。}
+{298}{}{这是我第一次看到有人拒绝戴瓶盖。你是个了不起的人。但是谢谢你的快递。}
 ### {299}{}{Glad to help. Happily.}
 {299}{}{很乐意帮忙。高兴地}
 ### {1299}{}{Glad to help. Happily.}
@@ -140,7 +140,7 @@
 ### {308}{}{Yes, bye.}
 {308}{}{是的，再见。}
 ### {309}{}{Robbers, slums... No, I won't take that risk for some caps.}
-{309}{}{强盗，贫民窟。。。不，我不会为了一些帽子而冒这个险。}
+{309}{}{强盗，贫民窟...不，我不会为了一些瓶盖而冒这个险。}
 ### {310}{}{Of course I understand. Have a nice day.}
 {310}{}{我当然理解。祝你今天愉快。}
 ### {311}{}{Yes, bye.}
@@ -156,20 +156,20 @@
 ### {316}{}{I came across someone's letters. It doesn't look like they reached the recipients.}
 {316}{}{我偶然发现有人的信。看起来他们没有联系到收件人。}
 ### {317}{}{Let me see... Ah, finally! These letters were considered lost after our courier was robbed in the slums. You have no idea what a service you have rendered us.}
-{317}{}{让我看看。。。啊，终于！我们的快递员在贫民窟遭到抢劫后，这些信件被认为是丢失的。你根本不知道你为我们提供了什么样的服务。}
+{317}{}{让我看看...啊，终于！我们的快递员在贫民窟遭到抢劫后，这些信件被认为是丢失的。你根本不知道你为我们提供了什么样的服务。}
 ### {318}{}{You're welcome. Is there a fee due for the find?}
 {318}{}{不客气。这个发现需要付费吗？}
 
 ### {320}{}{Are these the letters in question? They were taken over by a man from the gang of Red Cardinals.}
 {320}{}{这些是有问题的信件吗？他们被红雀队的一个人接管了。}
 ### {321}{}{Ah, finally! You have no idea what kind of service you are providing us. Let me see... Yes, it's them.}
-{321}{}{啊，终于！你根本不知道你在为我们提供什么样的服务。让我看看。。。是的，是他们。}
+{321}{}{啊，终于！你根本不知道你在为我们提供什么样的服务。让我看看...是的，是他们。}
 ### {322}{}{And my caps?}
-{322}{}{我的帽子呢？}
+{322}{}{我的瓶盖呢？}
 ### {323}{}{Of course, here are 50 caps. You know what, I'll pay you another 25 caps for their delivery. More precisely, for the delivery of one of these letters. It is addressed to a certain Steve, who lives in those very dangerous slums. It looks like you manage to walk there safely, and we just need *guaranteed* delivery.}
-{323}{}{当然，这里有50顶帽子。你知道吗，我会再付你25顶帽子的运费。更确切地说，是为了其中一封信的递送。这封信是写给住在那些非常危险的贫民窟里的某个史蒂夫的。看起来你能安全地走到那里，而我们只需要“有保证”的交付。}
+{323}{}{当然，这里有50个瓶盖。你知道吗，我会再付你25个瓶盖的运费。更确切地说，是为了其中一封信的递送。这封信是写给住在那些非常危险的贫民窟里的某个史蒂夫的。看起来你能安全地走到那里，而我们只需要“有保证”的交付。}
 ### {324}{}{Of course, more caps won't hurt me.}
-{324}{}{当然，更多的帽子不会伤害我。}
+{324}{}{当然，更多的瓶盖不会伤害我。}
 ### {325}{}{That's how it always is. If you help once, everyone will reach out to you. Okay, give it here.}
 {325}{}{事情总是这样。如果你帮助过一次，每个人都会向你伸出援手。好的，给我。}
 ### {326}{}{Let's sign a short contract. So... Great. Now go to the slums and hand over the letter on receipt. Good luck.}
@@ -190,13 +190,13 @@
 ### {335}{}{About that letter. There is no one else to receive it. The addressee died.}
 {335}{}{关于那封信。没有其他人来收。收件人死了。}
 ### {336}{}{What a pity. Well, it happens. The contract takes into account such an overlay. You only get half the fee. Here are your 12 caps.}
-{336}{}{真遗憾。好吧，它发生了。合同考虑到了这种重叠。你只得到一半的费用。这是你的12顶帽子。}
+{336}{}{真遗憾。好吧，它发生了。合同考虑到了这种重叠。你只得到一半的费用。这是你的12个瓶盖。}
 ### {337}{}{This is outrageous! I demand full payment!}
 {337}{}{这太离谱了！我要求全额付款！}
 ### {338}{}{Read the contract. You signed it. And there's nothing to shout here now.}
 {338}{}{阅读合同。你签了字。现在这里没有什么可喊的了。}
 ### {339}{}{Wh... how... Ur-rh.}
-{339}{}{为什么。。。怎样Ur-rh。}
+{339}{}{为什么...怎样Ur-rh。}
 ### {340}{}{Well, that's fair. There are no complaints.}
 {340}{}{这很公平。没有人抱怨。}
 ### {341}{}{[Leave the office with a sense of accomplishment]}

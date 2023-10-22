@@ -8,7 +8,7 @@
 ### {201}{}{[Next]}
 {201}{}{[下一个]}
 ### {202}{}{(One of the tinsmiths examines you and checks the data on the tablet) You. Also from the Villa? Send him to the Instructor, let him send him after his relatives... So, next...}
-{202}{}{（其中一个铁匠检查了你，并检查了平板电脑上的数据）你。同样来自别墅？把他送到教官那里，让他跟着他的亲戚。。。那么，接下来。。。}
+{202}{}{（其中一个铁匠检查了你，并检查了平板电脑上的数据）你。同样来自别墅？把他送到教官那里，让他跟着他的亲戚...那么，接下来...}
 ### {203}{}{[Next]}
 {203}{}{[下一个]}
 

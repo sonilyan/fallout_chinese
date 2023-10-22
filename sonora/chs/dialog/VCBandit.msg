@@ -11,7 +11,7 @@
 ### {105}{}{The raider leaves the Villa peacefully.}
 {105}{}{袭击者平静地离开了别墅。}
 ### {106}{}{My first murder... Strange feelings.}
-{106}{}{我的第一次谋杀。。。奇怪的感觉。}
+{106}{}{我的第一次谋杀...奇怪的感觉。}
 
 #Floating replicas
 ### {110}{}{*Heavy breathing*}
@@ -19,9 +19,9 @@
 ### {111}{}{*Cough*}
 {111}{}{*咳嗽*}
 ### {112}{}{Hr-r-r...}
-{112}{}{小时-小时。。。}
+{112}{}{小时-小时...}
 ### {113}{}{Damn it...}
-{113}{}{该死。。。}
+{113}{}{该死...}
 ### {114}{}{Why did I get involved in this?}
 {114}{}{我为什么要卷入其中？}
 ### {115}{}{And why the hell am I doing this?}
@@ -50,17 +50,17 @@
 ### {202}{}{Hostility? Looks like I'm going to have to defend myself.}
 {202}{}{敌意看来我得为自己辩护了。}
 ### {203}{}{Shut up... (heavy breath) I've been immured in this basement for twenty-four hours. Do you think I'm just going to let it go? *Cough-cough* You'll all pay for it. I'll tear down your Villa!}
-{203}{}{闭嘴。。。（沉重的呼吸）我在这个地下室被关了二十四小时。你认为我会放手吗*咳咳，你们都会为此付出代价的。我要拆掉你们的别墅！}
+{203}{}{闭嘴...（沉重的呼吸）我在这个地下室被关了二十四小时。你认为我会放手吗*咳咳，你们都会为此付出代价的。我要拆掉你们的别墅！}
 ### {204}{}{You leave me no choice. I'll have to calm you down by force.}
 {204}{}{你让我别无选择。我必须用武力让你平静下来。}
 ### {205}{}{Go to hell!}
 {205}{}{见鬼去吧！}
 ### {206}{}{Hey, hey, wait...}
-{206}{}{嘿，嘿，等等。。。}
+{206}{}{嘿，嘿，等等...}
 ### {207}{}{Let's start the fun...}
-{207}{}{让我们开始玩吧。。。}
+{207}{}{让我们开始玩吧...}
 ### {208}{}{Listen, there's no point in us fighting...}
-{208}{}{听着，我们战斗没有意义。。。}
+{208}{}{听着，我们战斗没有意义...}
 ### {209}{}{Look, there's no point in us fighting. Calm down. The worst is over.}
 {209}{}{听着，我们打架没有意义。冷静最糟糕的情况已经过去了。}
 ### {210}{}{You don't look well. I can cure you.}
@@ -74,9 +74,9 @@
 ### {214}{}{Will you attack a defenseless woman? Are you completely crazy?}
 {214}{}{你会攻击一个手无寸铁的女人吗？你完全疯了吗？}
 ### {215}{}{ (looks around, coming to his senses) Your truth... Okay, you'll be my guide. But don't try to deceive me. Make an extra move and you're dead.}
-{215}{}{（环顾四周，清醒过来）你的真相。。。好吧，你来当我的向导。但别想骗我，多出一步，你就死定了。}
+{215}{}{（环顾四周，清醒过来）你的真相...好吧，你来当我的向导。但别想骗我，多出一步，你就死定了。}
 ### {216}{}{Good-good... Can you start by telling me what happened?}
-{216}{}{很好很好。。。你能先告诉我发生了什么事吗？}
+{216}{}{很好很好...你能先告诉我发生了什么事吗？}
 
 ### {220}{}{Is this some kind of trick? I'm fucking dying here. Hurry up and take me upstairs.}
 {220}{}{这是什么把戏吗？我他妈的快死在这里了。快带我上楼。}
@@ -85,7 +85,7 @@
 ### {222}{}{And you really think I'm going to let you go after all I've heard? You're too dangerous for the Villa.}
 {222}{}{你真的认为我听了这么多之后会放你走吗？你对别墅来说太危险了。}
 ### {223}{}{A secret exit? Cleverly devised... Hell, I'd like to kill you, but I'm not in the best shape for that. We must conserve our strength. So live for now.}
-{223}{}{秘密出口？设计巧妙。。。见鬼，我很想杀了你，但我的状态不是最好的。我们必须保持体力。所以活在当下吧。}
+{223}{}{秘密出口？设计巧妙...见鬼，我很想杀了你，但我的状态不是最好的。我们必须保持体力。所以活在当下吧。}
 ### {224}{}{Uh, okay. Let's do without goodbye hugs.}
 {224}{}{好吧。别再拥抱了。}
 ### {225}{}{Go already. Stop wasting my time.}
@@ -93,7 +93,7 @@
 ### {226}{}{Yes, you can take it. (throws you an old key taken by the raiders from your father) There's nothing of value there anyway.}
 {226}{}{是的，你可以拿走。（扔给你一把被袭击者从你父亲那里拿走的旧钥匙）反正那里没有什么价值。}
 ### {227}{}{Hmm...}
-{227}{}{嗯。。。}
+{227}{}{嗯...}
 
 # About myself
 ### {250}{}{Who are you anyway?}
@@ -113,7 +113,7 @@
 ### {257}{}{Are you all so wild out there in the wastelands? Here is our Villa - one big family.}
 {257}{}{你们在荒原上都那么狂野吗？这是我们的别墅——一个大家庭。}
 ### {258}{}{I don't know... I do not know what it means to live in a big pack like you. I probably can't do that. I won't be able to share and trust someone like myself... Damn, you better shut up before I knock your teeth out.}
-{258}{}{我不知道。。。我不知道像你这样生活在一大群人中意味着什么。我可能做不到。我将无法分享和信任像我这样的人。。。该死，在我把你的牙齿打掉之前，你最好闭嘴。}
+{258}{}{我不知道...我不知道像你这样生活在一大群人中意味着什么。我可能做不到。我将无法分享和信任像我这样的人...该死，在我把你的牙齿打掉之前，你最好闭嘴。}
 ### {259}{}{Why are you so angry?}
 {259}{}{你为什么这么生气？}
 ### {260}{}{Wow, it makes you angry, doesn't it?}
@@ -164,7 +164,7 @@
 ### {284}{}{You're putting yourself in the frame of a bad guy to fit the environment, right?}
 {284}{}{为了适应环境，你把自己放在坏人的框架里，对吧？}
 ### {285}{}{Damn, there's something in that. Maybe I'm just talking to the wrong people? Or maybe we should sit and think... No, I just need to shut you up. Don't forget who's in charge here.}
-{285}{}{该死，里面有东西。也许我只是说错人了？或者我们应该坐下来思考。。。不，我只是想让你闭嘴。别忘了谁是这里的负责人。}
+{285}{}{该死，里面有东西。也许我只是说错人了？或者我们应该坐下来思考...不，我只是想让你闭嘴。别忘了谁是这里的负责人。}
 ### {286}{}{Of course, you're the boss here now.}
 {286}{}{当然，你现在是这里的老板。}
 
@@ -231,13 +231,13 @@
 ### {323}{}{Damn barbarians. Are you only capable of robberies, or are you at least of some use?}
 {323}{}{该死的野蛮人。你是只会抢劫，还是至少有点用处？}
 ### {324}{}{Stupid peasant, you... (mocks you, but then clears his throat bitterly) You don't even have the slightest idea about the outside world, do you? Your tribesmen were taken to work in the mine. Although I don't think you know what it is.}
-{324}{}{愚蠢的农民，你。。。（嘲笑你，然后痛苦地清了清嗓子）你对外面的世界一点都不了解，是吗？你的部落成员被带到矿井里工作。虽然我想你不知道它是什么。}
+{324}{}{愚蠢的农民，你...（嘲笑你，然后痛苦地清了清嗓子）你对外面的世界一点都不了解，是吗？你的部落成员被带到矿井里工作。虽然我想你不知道它是什么。}
 ### {1324}{}{Stupid peasant woman, you... (mocks you, but then coughs bitterly) You don't even have the slightest idea about the outside world, do you? Your tribesmen were taken to work in the mine. Although I don't think you know what it is.}
-{1324}{}{愚蠢的农妇，你。。。（嘲笑你，然后痛苦地咳嗽）你对外面的世界一点都不了解，是吗？你的部落成员被带到矿井里工作。虽然我想你不知道它是什么。}
+{1324}{}{愚蠢的农妇，你...（嘲笑你，然后痛苦地咳嗽）你对外面的世界一点都不了解，是吗？你的部落成员被带到矿井里工作。虽然我想你不知道它是什么。}
 ### {325}{}{[Listen]}
 {325}{}{[听]}
 ### {326}{}{So, you better shut up, otherwise...}
-{326}{}{所以，你最好闭嘴，否则。。。}
+{326}{}{所以，你最好闭嘴，否则...}
 ### {327}{}{They will be put on collars and forced to work underground. Those who refuse to obey will be severely punished. Face it, these people won't come back to the Villa anymore. And some will not even see the light of the sun.}
 {327}{}{他们将被戴上项圈，被迫在地下工作。拒不服从的人将受到严厉惩罚。面对现实，这些人不会再回到别墅了。有些人甚至看不到太阳的光。}
 ### {328}{}{I don't understand how you could do such a thing.}
@@ -253,7 +253,7 @@
 ### {332}{}{Don't you dare talk about the Villa like that. This place is beautiful.}
 {332}{}{你不敢那样谈论别墅。这个地方很美。}
 ### {333}{}{You have no idea how I had to survive. I lived on the street, fought for food, robbed passers-by and even killed. Like everyone else in the wastelands... Everyone except you.}
-{333}{}{你根本不知道我是怎么活下来的。我住在街上，争抢食物，抢劫路人，甚至杀人。就像荒原上的其他人一样。。。除了你以外的所有人。}
+{333}{}{你根本不知道我是怎么活下来的。我住在街上，争抢食物，抢劫路人，甚至杀人。就像荒原上的其他人一样...除了你以外的所有人。}
 ### {334}{}{[Next]}
 {334}{}{[下一个]}
 ### {335}{}{You are the only ones who eat and drink as much as they want. You are clean, plump, and look at people from the Wasteland as if they were garbage. You disgust me. All your blooming Villa is like a lump in my throat for me.}

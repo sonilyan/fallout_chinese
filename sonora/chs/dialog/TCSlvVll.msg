@@ -5,7 +5,7 @@
 
 #The first dialog
 ### {200}{}{?! And you're here?! I thought the raiders didn't find you...}
-{200}{}{？！你在这里？！我以为袭击者没有找到你。。。}
+{200}{}{？！你在这里？！我以为袭击者没有找到你...}
 ### {201}{}{No, Gerardo, we haven't found it. That's why I'm here to save you.}
 {201}{}{不，杰拉尔多，我们还没找到。这就是我来救你的原因。}
 ### {202}{}{Eh, amigo, you know how to encourage. But believe me, there's no way out of here. The very earth here is saturated with death! We will perish, amigo, and no one will even bury us.}
@@ -32,7 +32,7 @@
 ### {212}{}{The barrier is disabled, and the robots will not touch us. Go back to the Villa.}
 {212}{}{屏障被禁用，机器人不会碰我们。回别墅去吧。}
 ### {213}{}{And did you manage it all? Truly, here is the real leader of the Villa! Although something has changed in you, amigo... Okay, I'll meet you at home! If, of course, we get there.}
-{213}{}{你把这一切都搞定了吗？真的，这里才是真正的维拉首领！虽然你身上有些变化，朋友。。。好吧，我在家见！当然，如果我们到达那里。}
+{213}{}{你把这一切都搞定了吗？真的，这里才是真正的维拉首领！虽然你身上有些变化，朋友...好吧，我在家见！当然，如果我们到达那里。}
 ### {214}{}{Be.}
 {214}{}{是}
 ### {215}{}{What now?}
@@ -45,11 +45,11 @@
 ### {222}{}{I don't recognize you, Gerardo. Remember, you were always a cool pepper in our village?}
 {222}{}{我不认识你，杰拉尔多。还记得吗，你在我们村里一直是个很酷的人？}
 ### {223}{}{Ya... I'm alive only because of your padre. The villa and this world are completely different. I'm not ready for this. Sorry. Even if I return to the Villa, I will not be able to live as before.}
-{223}{}{耶。。。我活着只是因为你的牧师。别墅和这个世界完全不同。我还没准备好。很抱歉即使我回到了别墅，我也不能再像以前那样生活了。}
+{223}{}{耶...我活着只是因为你的牧师。别墅和这个世界完全不同。我还没准备好。很抱歉即使我回到了别墅，我也不能再像以前那样生活了。}
 ### {224}{}{Gerardo, now is not the time for despondency. Get up, your family needs you!}
 {224}{}{杰拉尔多，现在不是沮丧的时候。起来，你的家人需要你！}
 ### {225}{}{Okay, amigo... But I won't take a step into that damn bunker! Let's get to the entrance, and then without me.}
-{225}{}{好吧，朋友。。。但我不会踏入那个该死的掩体！让我们到入口，然后不要带我。}
+{225}{}{好吧，朋友...但我不会踏入那个该死的掩体！让我们到入口，然后不要带我。}
 ### {226}{}{Well, at least so.}
 {226}{}{至少是这样。}
 ### {227}{}{No... I'm needed here now. Padre Andres is counting on me.}
@@ -59,6 +59,6 @@
 ### {229}{}{We should split up. Stay where you are until I get back.}
 {229}{}{我们应该分手。呆在原地直到我回来。}
 ### {230}{}{Whatever you say, amigo...}
-{230}{}{不管你说什么，朋友。。。}
+{230}{}{不管你说什么，朋友...}
 ### {231}{}{That's settled.}
 {231}{}{这就解决了。}

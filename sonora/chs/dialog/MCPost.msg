@@ -3,7 +3,7 @@
 ### {101}{}{One of the highway robbers.}
 {101}{}{一个高速公路劫匪。}
 ### {102}{}{It looks like I'm hallucinating...}
-{102}{}{看起来我有幻觉。。。}
+{102}{}{看起来我有幻觉...}
 
 ### {110}{}{Looking for trouble, trash?}
 {110}{}{找麻烦，垃圾？}
@@ -19,9 +19,9 @@
 ### {203}{}{Which... Motherfucker, freak, you can't sneak up on people like that. What do you need?}
 {203}{}{哪一个混蛋，怪胎，你不能那样偷袭别人。你需要什么？}
 ### {204}{}{Wait, and you're someone else... Hey, guys, there's a spy here!}
-{204}{}{等等，你是另外一个人。。。嘿，伙计们，这里有个间谍！}
+{204}{}{等等，你是另外一个人...嘿，伙计们，这里有个间谍！}
 ### {205}{}{But this was not worth doing ...}
-{205}{}{但这不值得做。。。}
+{205}{}{但这不值得做...}
 ### {206}{}{Who is the spy? Me?}
 {206}{}{谁是间谍？我}
 
@@ -34,11 +34,11 @@
 ### {213}{}{Are you? You can't even fill up a tent. A bunch of losers in an old dump - that's who you are.}
 {213}{}{你是吗？你甚至不能填满一个帐篷。一群在旧垃圾堆里的失败者——你就是这样。}
 ### {214}{}{Shut your filthy mouth, road carrion... (grabs his weapon in an evil grin)}
-{214}{}{闭上你肮脏的嘴，路上的腐肉。。。（恶狠狠地咧嘴一笑，抓起武器）}
+{214}{}{闭上你肮脏的嘴，路上的腐肉...（恶狠狠地咧嘴一笑，抓起武器）}
 ### {215}{}{And then what?}
 {215}{}{然后呢？}
 ### {216}{}{Oh, oh...}
-{216}{}{哦，哦。。。}
+{216}{}{哦，哦...}
 ### {217}{}{Wow. You guys are great. Do you have any available seats in the gang? I'm thinking of joining.}
 {217}{}{哇！你们太棒了。帮派里有空位吗？我正在考虑加入。}
 ### {218}{}{Ha, there's no place for road carrion like you. Get out of here while I'm being nice.}
@@ -56,7 +56,7 @@
 ### {223}{}{Try it, bitch.}
 {223}{}{试试看，婊子。}
 ### {224}{}{It looks like you only understand brute force. Now I'm explaining everything...}
-{224}{}{看起来你只懂暴力。现在我正在解释一切。。。}
+{224}{}{看起来你只懂暴力。现在我正在解释一切...}
 ### {225}{}{Okay, you're the boss here, let me just leave.}
 {225}{}{好吧，你是这里的老板，让我离开吧。}
 ### {226}{}{Take me to the leader. Immediately.}
@@ -66,9 +66,9 @@
 ### {228}{}{[Follow him]}
 {228}{}{[跟着他]}
 ### {229}{}{What if I meet you halfway? For example, I'll give you 25 caps.}
-{229}{}{如果我半途而废怎么办？例如，我会给你25顶帽子。}
+{229}{}{如果我半途而废怎么办？例如，我会给你25个瓶盖。}
 ### {230}{}{(takes the caps, then looks around) OK, follow me.}
-{230}{}{（拿着帽子，然后环顾四周）好的，跟我来。}
+{230}{}{（拿着瓶盖，然后环顾四周）好的，跟我来。}
 ### {231}{}{[Follow him]}
 {231}{}{[跟着他]}
 ### {232}{}{(Looks carefully at how you are looking for non-existent bottlecaps in your pockets).}
@@ -76,11 +76,11 @@
 ### {233}{}{Uh, I'll get them now. Honestly...}
 {233}{}{呃，我现在就去拿。真的}
 ### {234}{}{To hell with it. It's easier to kill you right here and now...}
-{234}{}{见鬼去吧。现在就杀你更容易。。。}
+{234}{}{见鬼去吧。现在就杀你更容易...}
 ### {235}{}{I should have started with that right away. Let me just leave.}
 {235}{}{我应该马上开始。让我离开吧。}
 ### {236}{}{Not so fast, bitch. Give me all your caps, and then you can go.}
-{236}{}{别那么快，婊子。把你所有的帽子都给我，然后你就可以走了。}
+{236}{}{别那么快，婊子。把你所有的瓶盖都给我，然后你就可以走了。}
 
 ### {240}{}{I travel. Is there a place for me to sleep here?}
 {240}{}{我旅行。这里有我睡觉的地方吗？}
@@ -95,13 +95,13 @@
 ### {245}{}{Oh, I'm sorry! I'm new here. You won't see me again.}
 {245}{}{哦，对不起！我是新来的。你再也见不到我了。}
 ### {246}{}{Hehe, road carrion, you've gone too far. Now give up all your caps.}
-{246}{}{呵呵，路上的腐肉，你太过分了。现在放弃你所有的帽子。}
+{246}{}{呵呵，路上的腐肉，你太过分了。现在放弃你所有的瓶盖。}
 ### {1246}{}{Hehe, road carrion, you've gone too far. Now give me all your caps.}
-{1246}{}{呵呵，路上的腐肉，你太过分了。现在把你所有的帽子都给我。}
+{1246}{}{呵呵，路上的腐肉，你太过分了。现在把你所有的瓶盖都给我。}
 ### {247}{}{You won't get anything.}
 {247}{}{你什么都得不到。}
 ### {248}{}{Of course, of course, here are all my bottlecaps, please...}
-{248}{}{当然，当然，这是我所有的水瓶，请。。。}
+{248}{}{当然，当然，这是我所有的水瓶，请...}
 ### {249}{}{And where am I? Tell me what this place is.}
 {249}{}{我在哪里？告诉我这个地方是什么。}
 ### {250}{}{This time I will ignore your rudeness. Now take me to your leader.}
@@ -182,9 +182,9 @@
 ### {331}{}{About the traps. Can you show me the dangerous places more specifically?}
 {331}{}{关于陷阱。你能更具体地告诉我危险的地方吗？}
 ### {332}{}{I'll pay 50 caps. Don't worry, no one will know about it.}
-{332}{}{我要付50顶帽子。别担心，没人会知道的。}
+{332}{}{我要付50个瓶盖。别担心，没人会知道的。}
 ### {333}{}{No. For an ass like you, it will cost 100 caps.}
-{333}{}{不，像你这样的蠢驴要花100顶帽子。}
+{333}{}{不，像你这样的蠢驴要花100个瓶盖。}
 ### {334}{}{It's too expensive.}
 {334}{}{太贵了。}
 ### {335}{}{Good. Let there be 100 caps.}

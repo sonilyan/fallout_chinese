@@ -44,13 +44,13 @@
 {214}{}{尽管如此，我还是想四处看看。}
 
 ### {215}{}{Are you leaving already? And correctly... After Mr. Kogan's death, people in the city went wild.}
-{215}{}{你已经走了吗？正确地说。。。Kogan先生死后，城里的人都疯了。}
+{215}{}{你已经走了吗？正确地说...Kogan先生死后，城里的人都疯了。}
 ### {216}{}{Sorry to hear that.}
 {216}{}{很抱歉听到这个消息。}
 ### {217}{}{Serves you right. There was nothing to make friends with slavers.}
 {217}{}{为您服务。没有什么可以和奴隶贩子交朋友的。}
 ### {218}{}{You mean the convoy from Flagstaff? Yes, the deal was not the best, but it brought the city a good income. I doubt that these two cases were connected... Or not?}
-{218}{}{你是说弗拉格斯塔夫的车队？是的，这笔交易不是最好的，但它给这座城市带来了不错的收入。我怀疑这两起案件是否有关联。。。还是不？}
+{218}{}{你是说弗拉格斯塔夫的车队？是的，这笔交易不是最好的，但它给这座城市带来了不错的收入。我怀疑这两起案件是否有关联...还是不？}
 ### {219}{}{Think about it. And my business here is really already over.}
 {219}{}{想想看，我在这里的生意真的已经结束了。}
 
@@ -97,7 +97,7 @@
 ### {240}{}{Welcome to the landfill. Make yourself at home.}
 {240}{}{欢迎来到垃圾填埋场。别拘束。}
 ### {241}{}{Welcome to Garage City. You'll like it here... if you get used to it a little.}
-{241}{}{欢迎来到车库城。你会喜欢这里的。。。如果你稍微习惯一点。}
+{241}{}{欢迎来到车库城。你会喜欢这里的...如果你稍微习惯一点。}
 ### {242}{}{Don't you want to leave so much?}
 {242}{}{你不想离开那么多吗？}
 ### {243}{}{This dump is our home. Our sweet cozy home.}
@@ -105,7 +105,7 @@
 ### {244}{}{That's a cool thing on your arm. Is it a computer? I've never seen anything like it.}
 {244}{}{你手臂上的东西很酷。它是一台电脑吗？我从来没有见过这样的东西。}
 ### {245}{}{Wait, who's coming? Oh, it's you...}
-{245}{}{等等，谁来了？哦，是你。。。}
+{245}{}{等等，谁来了？哦，是你...}
 
 ### {246}{}{Ah, you're still here. Strange, I thought you didn't like it here.}
 {246}{}{啊，你还在这里。奇怪，我以为你不喜欢这里。}
@@ -196,7 +196,7 @@
 ### {287}{}{I can go after a brahmin.}
 {287}{}{我可以去找一个婆罗门。}
 ### {288}{}{Great. Let's wait for the others...}
-{288}{}{太棒了让我们等待其他人。。。}
+{288}{}{太棒了让我们等待其他人...}
 ### {289}{}{[Go to the wasteland]}
 {289}{}{[去荒原]}
 ### {290}{}{They say a Brahmin hunt is planned?}
@@ -206,7 +206,7 @@
 ### {292}{}{First explain what kind of animal it is.}
 {292}{}{首先解释一下它是什么动物。}
 ### {293}{}{A brahmin is... well... a large two-headed and four-legged beast. Lives in the desert, eats grass. Is that clear?}
-{293}{}{婆罗门是…嗯。。。两头四条腿的大野兽。生活在沙漠里，吃草。清楚吗？}
+{293}{}{婆罗门是…嗯...两头四条腿的大野兽。生活在沙漠里，吃草。清楚吗？}
 ### {294}{}{I need some time to pack. Don't leave without me.}
 {294}{}{我需要一些时间收拾行李。别丢下我走。}
 ### {295}{}{I'm not interested in hunting. Shall we talk about something else?}
@@ -349,7 +349,7 @@
 ### {368}{}{I can fix it.}
 {368}{}{我能修好。}
 ### {369}{}{Seriously? That would be very helpful. I'll pay 25 caps if you succeed.}
-{369}{}{认真地那将非常有帮助。如果你成功了，我将支付25顶帽子。}
+{369}{}{认真地那将非常有帮助。如果你成功了，我将支付25个瓶盖。}
 ### {370}{}{I can't handle your gun right now. We'll talk about it later.}
 {370}{}{我现在拿不动你的枪。我们稍后再谈。}
 ### {371}{}{Yes, it doesn't fire. And count the cartridges on your fingers. What's next?}
@@ -363,9 +363,9 @@
 ### {375}{}{Looks like you're in trouble, man. Well, I'll go.}
 {375}{}{看来你有麻烦了，伙计。好吧，我走。}
 ### {376}{}{Let's see...}
-{376}{}{让我们看看。。。}
+{376}{}{让我们看看...}
 ### {377}{}{I'll be damned, you did it! And it seemed to me that the peasants had never held weapons in their hands. Uh, I mean, I'm grateful to you. Here are 25 caps, as agreed. Eh, I would still like to find more cartridges...}
-{377}{}{我会被诅咒的，是你干的！在我看来，农民们从来没有拿过武器。呃，我的意思是，我很感激你。按照约定，这里有25顶帽子。呃，我还是想找更多的子弹。。。}
+{377}{}{我会被诅咒的，是你干的！在我看来，农民们从来没有拿过武器。呃，我的意思是，我很感激你。按照约定，这里有25个瓶盖。呃，我还是想找更多的子弹...}
 ### {378}{}{Enjoy, my business here is over.}
 {378}{}{享受吧，我在这里的生意结束了。}
 ### {379}{}{No, I can't fix it.}

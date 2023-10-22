@@ -17,7 +17,7 @@
 
 #The first dialog
 ### {200}{}{? How are you... For God's sake, you shouldn't have taken that risk! We would have been able to find salvation... But of course, I'm glad to see you. And how proud your padre would be if he learned about the feat of his child! You're doing great.}
-{200}{}{？你好吗看在上帝的份上，你不应该冒这个险！我们本可以找到救赎。。。当然，我很高兴见到你。如果你的牧师知道他孩子的壮举，他会多么自豪！你做得很好。}
+{200}{}{？你好吗看在上帝的份上，你不应该冒这个险！我们本可以找到救赎...当然，我很高兴见到你。如果你的牧师知道他孩子的壮举，他会多么自豪！你做得很好。}
 ### {201}{}{It's disgusting to listen to you, Madre. I'm old enough to make decisions.}
 {201}{}{听你说话真恶心，马德尔。我已经足够大了，可以做决定了。}
 ### {1201}{}{It's disgusting to listen to you, Madre. I'm old enough to make decisions.}
@@ -27,7 +27,7 @@
 ### {1202}{}{I wouldn't forgive myself if something happened to you because of my inaction.}
 {1202}{}{如果你因为我的不作为而出事，我不会原谅自己。}
 ### {203}{}{Oh, yes, of course... I understand. Perhaps it's all about this raid. He changed something in all of us. I see changes in your eyes, I see a slightly different person. And I don't know if it's good or not.}
-{203}{}{哦，是的，当然。。。我理解。也许这一切都与这次突袭有关。他改变了我们所有人的一些东西。我从你的眼睛里看到了变化，我看到了一个稍微不同的人。我不知道它是好是坏。}
+{203}{}{哦，是的，当然...我理解。也许这一切都与这次突袭有关。他改变了我们所有人的一些东西。我从你的眼睛里看到了变化，我看到了一个稍微不同的人。我不知道它是好是坏。}
 ### {204}{}{Well, that's the strength of our whole Villa - we're all like one big family. Everyone is responsible for each other. And I am glad to see that the journey has not changed these ideals in you.}
 {204}{}{好吧，这就是我们整个别墅的力量——我们就像一个大家庭。每个人都对彼此负责。我很高兴看到这段旅程并没有改变你们的这些理想。}
 ### {205}{}{Now let's think about how we can get out of this mess.}

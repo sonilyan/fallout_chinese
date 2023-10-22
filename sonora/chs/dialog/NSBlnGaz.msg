@@ -11,4 +11,4 @@
 ### {105}{}{Burn! Burn-and-and!}
 {105}{}{燃烧燃烧和！}
 ### {106}{}{The system is failing. A little more, and a fire will start here...}
-{106}{}{系统出现故障。再多一点，这里就会着火。。。}
+{106}{}{系统出现故障。再多一点，这里就会着火...}

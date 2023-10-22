@@ -41,7 +41,7 @@
 ### {214}{}{And you hope to fix it with your own hands?}
 {214}{}{你希望用自己的双手来修复它？}
 ### {215}{}{Sometimes it succeeds. This is one of the filters, it's just clogged with dirt... Or not.}
-{215}{}{有时它会成功。这是其中一个过滤器，它只是被污垢堵塞了。。。或者不是。}
+{215}{}{有时它会成功。这是其中一个过滤器，它只是被污垢堵塞了...或者不是。}
 ### {216}{}{I can fix it.}
 {216}{}{我能修好。}
 ### {217}{}{Really? If you fix the filter, I'll pay. Less than the tinsmiths, of course. But in the end, everyone will win.}
@@ -59,7 +59,7 @@
 ### {223}{}{The filter is fine. Dirt and sand ruined some parts, but I managed to restore them.}
 {223}{}{过滤器很好。泥土和沙子毁坏了一些零件，但我设法把它们修复了。}
 ### {224}{}{I love diligence in people. It's not a pity to pay for such work. Take it, there are 200 caps here.}
-{224}{}{我喜欢人的勤奋。为这样的工作付钱并不可惜。拿着，这里有200顶帽子。}
+{224}{}{我喜欢人的勤奋。为这样的工作付钱并不可惜。拿着，这里有200个瓶盖。}
 ### {225}{}{Thank you.}
 {225}{}{非常感谢。}
 ### {226}{}{That's too little.}
@@ -73,7 +73,7 @@
 ### {230}{}{This amount barely bottlecaps the cost of additional details.}
 {230}{}{这个数额几乎无法弥补额外细节的成本。}
 ### {231}{}{Then here are 50 more caps. And don't ask any more.}
-{231}{}{还有50顶帽子。不要再问了。}
+{231}{}{还有50个瓶盖。不要再问了。}
 ### {232}{}{What a miser you are.}
 {232}{}{你真是个吝啬鬼。}
 ### {233}{}{That's enough, thank you.}
@@ -210,10 +210,10 @@
 ### {307}{}{Don't open your mouth, and you won't have any problems. It's simple.}
 {307}{}{不要开口，你就不会有任何问题。这很简单。}
 ### {308}{}{Ah, that's how it is...}
-{308}{}{啊，事情就是这样。。。}
+{308}{}{啊，事情就是这样...}
 ### {309}{}{You have to pay for silence. You don't expect this story to bury itself, do you?}
 {309}{}{你必须为沉默付出代价。你不会指望这个故事会自暴自弃吧？}
 ### {310}{}{Business approach. (counts down 10 caps) But watch your tongue. Otherwise, you'll be in big trouble in this city.}
 {310}{}{业务方法。（倒计时10次）但要注意你的舌头。否则，你在这个城市会有大麻烦的。}
 ### {311}{}{Oh, I understand you perfectly...}
-{311}{}{哦，我完全理解你。。。}
+{311}{}{哦，我完全理解你...}

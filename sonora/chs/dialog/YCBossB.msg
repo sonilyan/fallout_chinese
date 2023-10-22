@@ -19,7 +19,7 @@
 ### {205}{}{It doesn't happen on the wastelands.}
 {205}{}{这不会发生在荒原上。}
 ### {206}{}{*Attention!* I'm John Butler. I run this city... More precisely, what's left of it. And I'm glad to see any smooth-skinned people who behave decently in my city. * Fire! Fire!*}
-{206}{}{*注意！*我是约翰·巴特勒。我管理着这座城市。。。更确切地说，还有什么。我很高兴在我的城市里看到任何皮肤光滑、举止得体的人。*火着火了*}
+{206}{}{*注意！*我是约翰·巴特勒。我管理着这座城市...更确切地说，还有什么。我很高兴在我的城市里看到任何皮肤光滑、举止得体的人。*火着火了*}
 ### {207}{}{I had no intention of somehow hooliganism here.}
 {207}{}{我无意在这里耍流氓。}
 ### {208}{}{Humans and super mutants drove us from our homes. You probably already know this story. But this is not a reason to hate everyone around. On the contrary, I want to prove to people that ghouls are also people... * Keep firing!*}
@@ -93,7 +93,7 @@
 ### {249}{}{Tell me about yourself.}
 {249}{}{告诉我你自己。}
 ### {250}{}{I've already told you. My name is John Butler. I am the mayor of Glow... well, the future Glow.}
-{250}{}{我已经告诉过你了。我的名字叫约翰·巴特勒。我是Glow的市长。。。好吧，未来的光辉。}
+{250}{}{我已经告诉过你了。我的名字叫约翰·巴特勒。我是Glow的市长...好吧，未来的光辉。}
 ### {251}{}{Is San Isidro part of your domain?}
 {251}{}{圣伊西德罗是你的领地吗？}
 ### {252}{}{This is one of the areas of the future Glow. There are several Gulian camps on the ruins. The Old Town and San Isidro are the largest of them. And each is managed by its own administrator. * God save America! *}
@@ -149,7 +149,7 @@
 ### {300}{}{Gustavo asked me to give you this CD.}
 {300}{}{古斯塔沃让我把这张CD给你。}
 ### {301}{}{Give it here. Let's see what this wheezer got into his head ... hmm. Yes, this is killer news! Now Glow has electricity and radio communication. Just like in the good old days. What could be better? *Everyone to the front! All for the war!*}
-{301}{}{给我。让我们看看这个喘息者脑子里想的是什么。。。嗯。是的，这是个致命的消息！现在Glow拥有电力和无线电通信。就像过去一样。还有什么更好的呢*大家到前线去！一切为了战争*}
+{301}{}{给我。让我们看看这个喘息者脑子里想的是什么...嗯。是的，这是个致命的消息！现在Glow拥有电力和无线电通信。就像过去一样。还有什么更好的呢*大家到前线去！一切为了战争*}
 ### {302}{}{[Next]}
 {302}{}{[下一个]}
 ### {303}{}{Oh, and Gustavo again demands to break with the smooth-skinned. This senile old man doesn't understand anything. * Aim! Fire!* You see, Gustavo wants to protect the city from outsiders. And I think it's stupid. We need things and food from the Hub. And the Hub needs Glow technologies. Tell me, you're not going to indulge his nonsense, are you?}

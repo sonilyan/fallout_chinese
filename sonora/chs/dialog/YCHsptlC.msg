@@ -3,7 +3,7 @@
 ### {101}{}{You see an ordinary ghoul. He's a little dented after meeting with the black scavengers.}
 {101}{}{你看到一个普通的食尸鬼。他在遇到黑人拾荒者后有点凹陷。}
 ### {102}{}{Z-z-z...}
-{102}{}{Z-Z-Z。。。}
+{102}{}{Z-Z-Z...}
 ### {103}{}{Leave me alone!}
 {103}{}{别管我！}
 ### {104}{}{As Zerah said, there was pre-war money in the mailbox, }
@@ -22,9 +22,9 @@
 ### {1201}{}{Oh, sister, help me. These bandits won't let me live.}
 {1201}{}{哦，姐姐，帮帮我。这些土匪不让我活下去。}
 ### {202}{}{I'm going to untie you now... Now let's get out of here. Just be quiet!}
-{202}{}{我现在要给你松绑。。。现在让我们离开这里。安静点！}
+{202}{}{我现在要给你松绑...现在让我们离开这里。安静点！}
 ### {203}{}{I see you're in trouble. I can help if you tell me where the caps are.}
-{203}{}{我看你有麻烦了。如果你告诉我帽子在哪里，我可以帮忙。}
+{203}{}{我看你有麻烦了。如果你告诉我瓶盖在哪里，我可以帮忙。}
 ### {204}{}{I'll tell you! Just get me out of here.}
 {204}{}{我会告诉你的！把我带出去。}
 ### {205}{}{I don't care about you. Lie down and keep quiet.}
@@ -32,7 +32,7 @@
 ### {206}{}{Hey guys! There's some normie wandering around!}
 {206}{}{嘿，伙计们！有个普通人在四处游荡！}
 ### {207}{}{Oh, you bitch...}
-{207}{}{哦，你这个婊子。。。}
+{207}{}{哦，你这个婊子...}
 ### {208}{}{Shut up!}
 {208}{}{闭嘴！}
 

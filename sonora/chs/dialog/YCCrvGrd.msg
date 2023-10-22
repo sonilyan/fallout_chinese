@@ -38,7 +38,7 @@
 ### {131}{}{Gustavo is trying to drive us out of town. He's crazy!}
 {131}{}{古斯塔沃想把我们赶出小镇。他疯了！}
 ### {132}{}{Butler reached the military base. Soon we will be swimming in caps!}
-{132}{}{巴特勒到达了军事基地。很快我们就要戴着帽子游泳了！}
+{132}{}{巴特勒到达了军事基地。很快我们就要戴着瓶盖游泳了！}
 ### {133}{}{}
 {133}{}{error : string is empty}
 ### {134}{}{Ghouls scurry like ants after napalm. This is the first time I've seen this. Well, that's good for our wallet.}

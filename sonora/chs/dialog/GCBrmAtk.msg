@@ -83,4 +83,4 @@
 ### {258}{}{See you in Garage City.}
 {258}{}{车库城见。}
 ### {259}{}{The Brahmin is almost in our hands. Wait until I bring him closer...}
-{259}{}{婆罗门几乎在我们手中。等我把他拉近。。。}
+{259}{}{婆罗门几乎在我们手中。等我把他拉近...}

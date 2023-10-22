@@ -13,7 +13,7 @@
 
 #First meeting
 ### {200}{}{Oh, a new face in town! What a pleasant surprise... Greetings to you. I am, one might say, the mayor of this city. And my name is Alvaro.}
-{200}{}{哦，城里的新面孔！多么令人愉快的惊喜。。。问候你。有人可能会说，我是这个城市的市长。我的名字叫阿尔瓦罗。}
+{200}{}{哦，城里的新面孔！多么令人愉快的惊喜...问候你。有人可能会说，我是这个城市的市长。我的名字叫阿尔瓦罗。}
 ### {201}{}{Hello, Mayor.}
 {201}{}{你好，市长。}
 ### {202}{}{Hmm. Don't you want to tell me your name? I won't insist. Surely you have a reason for that.}
@@ -55,7 +55,7 @@
 ### {220}{}{I serve the Brotherhood of Steel. Here's my badge.}
 {220}{}{我为钢铁兄弟会服务。这是我的徽章。}
 ### {221}{}{Oh, welcome! Did not recognize... er... we are always glad to have our defenders. Make yourself as comfortable as you like.}
-{221}{}{哦，欢迎！不认识。。。呃…我们总是很高兴有我们的后卫。让自己随心所欲地舒服。}
+{221}{}{哦，欢迎！不认识...呃…我们总是很高兴有我们的后卫。让自己随心所欲地舒服。}
 ### {222}{}{Thank you.}
 {222}{}{非常感谢。}
 ### {223}{}{That would be right away.}
@@ -73,7 +73,7 @@
 ### {229}{}{Well, let's assume that it's really none of my business. But don't be rude to us, because we are a peaceful settlement.}
 {229}{}{好吧，让我们假设这真的不关我的事。但不要对我们无礼，因为我们是和平解决的。}
 ### {230}{}{Sorry, it was in a hurry - just fatigue from the road...}
-{230}{}{对不起，很匆忙——只是路上的疲劳。。。}
+{230}{}{对不起，很匆忙——只是路上的疲劳...}
 ### {231}{}{If you don't want a conflict, don't start it yourself. Got it?}
 {231}{}{如果你不想发生冲突，就不要自己动手。明白了吗？}
 ### {232}{}{I was glad to chat. But I'm sorry, I have a lot of paperwork right now.}
@@ -86,11 +86,11 @@
 ### {239}{}{So your town will come to an end. Run away from here before the crowd overthrows you, the mayor is a loser.}
 {239}{}{所以你的城市将结束。在人群推翻你之前逃离这里，市长是个失败者。}
 ### {240}{}{(clutching his head with his hands, the mayor sits at the table and does not pay attention to others) Eh...}
-{240}{}{（市长双手抱着头，坐在桌子旁，不理会其他人）呃。。。}
+{240}{}{（市长双手抱着头，坐在桌子旁，不理会其他人）呃...}
 ### {241}{}{You look like shit. Did something happen?}
 {241}{}{你看起来像大便。发生什么事了吗？}
 ### {242}{}{Everything is gone... We used to survive thanks to the Brotherhood of Steel. And recently a messenger came with bad news...}
-{242}{}{一切都不见了。。。多亏了钢铁兄弟会，我们才得以生存。最近一个信使带来了坏消息。。。}
+{242}{}{一切都不见了...多亏了钢铁兄弟会，我们才得以生存。最近一个信使带来了坏消息...}
 ### {243}{}{Yes, I know - the Brotherhood has been destaroyed. Probably an explosion at the ammunition depot.}
 {243}{}{是的，我知道——兄弟会已经被摧毁了。可能是弹药库发生爆炸。}
 ### {244}{}{What should we do now? Who will protect us? Who will give us instructions?}
@@ -98,7 +98,7 @@
 ### {245}{}{What about the Followers?}
 {245}{}{追随者们呢？}
 ### {246}{}{They are not warriors and there are very few of them to solve so many issues. It's hopeless... Everything is gone... it's all gone...}
-{246}{}{他们不是战士，他们中很少有人能解决这么多问题。这是无望的。。。一切都不见了。。。一切都过去了。。。}
+{246}{}{他们不是战士，他们中很少有人能解决这么多问题。这是无望的...一切都不见了...一切都过去了...}
 ### {247}{}{Hey, Alvaro, get it together! You're the mayor. Everything is in your hands now. You are free from total control and oppression. Isn't that wonderful?}
 {247}{}{嘿，阿尔瓦罗，振作起来！你是市长。现在一切都掌握在你手中。你完全摆脱了控制和压迫。这不是很棒吗？}
 ### {248}{}{Yes... of course... But what kind of mayor am I? I was just doing paperwork under the supervision of people from the order. Now we have to survive on our own. It won't be easy.}
@@ -176,7 +176,7 @@
 ### {295}{}{By the way, who are these Followers?}
 {295}{}{顺便问一下，这些追随者是谁？}
 ### {296}{}{Followers of the Apocalypse... It's a strange name, but we're already used to it. They conduct scientific research, teach children, treat diseases. Needless to say, the plantation itself appeared in the middle of the desert thanks to their experiments. But it's easier for you to ask the Followers themselves.}
-{296}{}{启示录的追随者。。。这是一个奇怪的名字，但我们已经习惯了。他们进行科学研究，教育孩子，治疗疾病。不用说，由于他们的实验，种植园本身出现在沙漠中央。但你更容易问追随者自己。}
+{296}{}{启示录的追随者...这是一个奇怪的名字，但我们已经习惯了。他们进行科学研究，教育孩子，治疗疾病。不用说，由于他们的实验，种植园本身出现在沙漠中央。但你更容易问追随者自己。}
 ### {297}{}{I know about some other followers - Followers of Fire in Phoenix.}
 {297}{}{我知道其他一些追随者-凤凰城的火的追随者。}
 ### {298}{}{I heard something about them, but we never crossed paths. Except for the caravans that come from Phoenix.}
@@ -221,7 +221,7 @@
 ### {318}{}{I can talk to you frankly, right? We try not to talk about it, but everyone here lives by and large on the rights of peons. That is, lifelong slaves. After all, in order to obtain protection and a place of residence, you need to pay unaffordable taxes.}
 {318}{}{我可以坦率地和你谈谈，对吧？我们尽量不谈论它，但这里的每个人基本上都以人民的权利为生。也就是说，终身奴隶。毕竟，为了获得保护和住所，你需要支付负担不起的税款。}
 ### {319}{}{So, go on...}
-{319}{}{所以，继续。。。}
+{319}{}{所以，继续...}
 ### {320}{}{Due to the lack of so many funds, residents conclude a peonage contract, in fact, renting themselves out for the resta of their lives.}
 {320}{}{由于缺乏这么多资金，居民们签订了一份雇佣合同，事实上，他们把自己租出去过自己的生活。}
 ### {321}{}{It's sad to hear that.}

@@ -13,7 +13,7 @@
 ### {122}{}{This skin is completely bald.}
 {122}{}{这皮肤完全秃了。}
 ### {123}{}{Shhh, stop barking! A stranger will hear...}
-{123}{}{嘘，别叫了！陌生人会听到。。。}
+{123}{}{嘘，别叫了！陌生人会听到...}
 ### {124}{}{Parasites on my body do not let me sleep.}
 {124}{}{我身上的寄生虫让我睡不着。}
 ### {125}{}{This s-bitch will be mine!}

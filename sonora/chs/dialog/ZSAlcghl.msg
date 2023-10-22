@@ -31,4 +31,4 @@
 ### {122}{}{The device is destroyed. It will be a big loss for the local hotbed of drunkenness.}
 {122}{}{设备已损坏。对于当地酗酒的温床来说，这将是一个巨大的损失。}
 ### {123}{}{Oops...}
-{123}{}{哎呀。。。}
+{123}{}{哎呀...}

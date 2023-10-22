@@ -3,9 +3,9 @@
 ### {101}{}{You see a disheveled boy with a childish look.}
 {101}{}{你看到一个衣冠不整的男孩，一副幼稚的样子。}
 ### {102}{}{Hr-r-r...}
-{102}{}{小时-小时。。。}
+{102}{}{小时-小时...}
 ### {1102}{}{Ma... ma... hr-r...}
-{1102}{}{马…马…hr-r。。。}
+{1102}{}{马…马…hr-r...}
 ### {103}{}{I have shoes.}
 {103}{}{我有鞋子。}
 ### {104}{}{Wow, thank you so much!}
@@ -44,9 +44,9 @@
 ### {216}{}{The mainline operator! There's a trunk driver here!}
 {216}{}{主线运营商！这里有个卡车司机！}
 ### {217}{}{But no...}
-{217}{}{但不是。。。}
+{217}{}{但不是...}
 ### {218}{}{Hey, you...}
-{218}{}{嘿，你。。。}
+{218}{}{嘿，你...}
 
 ### {220}{}{When a ranger says to put the gun away, it makes sense, man.}
 {220}{}{当护林员说要把枪收起来时，这是有道理的，伙计。}
@@ -59,22 +59,22 @@
 ### {224}{}{What happened to them?}
 {224}{}{他们怎么了？}
 ### {225}{}{A sad sight. The explosion tears off the hands, the eyes burst and flow out of the sockets. Survivors writhe in pain for hours...}
-{225}{}{悲伤的景象。爆炸撕裂了双手，泪水夺眶而出。幸存者痛苦地扭动了好几个小时。。。}
+{225}{}{悲伤的景象。爆炸撕裂了双手，泪水夺眶而出。幸存者痛苦地扭动了好几个小时...}
 ### {226}{}{Nothing special. Keep it up and you'll find out for yourself.}
 {226}{}{没什么特别的。坚持下去，你会自己发现的。}
 ### {227}{}{(The boy throws a grenade like a hot potato and runs away.)}
 {227}{}{（男孩像烫手山芋一样扔了一枚手榴弹就跑了。）}
 ### {228}{}{Hey, I haven't told you a couple of instructive examples yet...}
-{228}{}{嘿，我还没有告诉你几个有启发性的例子。。。}
+{228}{}{嘿，我还没有告诉你几个有启发性的例子...}
 ### {1228}{}{Hey, I haven't told you a couple of edifying examples yet...}
-{1228}{}{嘿，我还没有告诉你几个有启发性的例子。。。}
+{1228}{}{嘿，我还没有告诉你几个有启发性的例子...}
 
 ### {230}{}{I want this grenade. Shall we exchange?}
 {230}{}{我想要这枚手榴弹。我们交换一下好吗？}
 ### {231}{}{What do you have?}
 {231}{}{你有什么？}
 ### {232}{}{Let's see...}
-{232}{}{让我们看看。。。}
+{232}{}{让我们看看...}
 ### {233}{}{(Waiting for your suggestions.)}
 {233}{}{（正在等待您的建议。）}
 ### {234}{}{[Done]}
@@ -112,18 +112,18 @@
 ### {255}{}{(listens with a gasp)}
 {255}{}{（气喘吁吁地听着）}
 ### {256}{}{The fragments will also damage the eyes, and they will flow out of the eye sockets. You'll go blind and lose consciousness. And when you wake up, you will have several hours of unbearable pain in a pool of your own blood, until...}
-{256}{}{碎片也会损伤眼睛，并且会从眼窝中流出。你会失明并失去意识。当你醒来时，你会在自己的血泊中忍受几个小时难以忍受的疼痛，直到。。。}
+{256}{}{碎片也会损伤眼睛，并且会从眼窝中流出。你会失明并失去意识。当你醒来时，你会在自己的血泊中忍受几个小时难以忍受的疼痛，直到...}
 ### {257}{}{(the boy throws a grenade like a red-hot potato and runs away)}
 {257}{}{（男孩像烫手山芋一样扔了一枚手榴弹就跑了）}
 ### {258}{}{Hey, I haven't told you about the internal hemorrhages yet...}
-{258}{}{嘿，我还没告诉你关于内出血的事。。。}
+{258}{}{嘿，我还没告诉你关于内出血的事...}
 
 ### {260}{}{Give me the grenade, immediately.}
 {260}{}{马上把手榴弹给我。}
 ### {261}{}{(having seen through your bluff, makes a mocking sound)}
 {261}{}{（看透了你的虚张声势，发出嘲弄的声音）}
 ### {262}{}{Oh, that's how you are...}
-{262}{}{哦，你就是这样。。。}
+{262}{}{哦，你就是这样...}
 {263}{}{}
 ### {264}{}{Give me the grenade and no one will get hurt. You won't get hurt.}
 {264}{}{把手榴弹给我，没有人会受伤。你不会受伤的。}
@@ -141,11 +141,11 @@
 {270}{}{好孩子。}
 
 ### {271}{}{And let's play a game? If I lose, I will give you 5 caps, otherwise you will give the grenade.}
-{271}{}{让我们玩个游戏吧？如果我输了，我会给你5顶帽子，否则你会给手榴弹。}
+{271}{}{让我们玩个游戏吧？如果我输了，我会给你5个瓶盖，否则你会给手榴弹。}
 ### {272}{}{(Excitement appears in the boy's eyes) Okay.}
 {272}{}{（男孩眼中流露出兴奋）好的。}
 ### {273}{}{Great, then let's start...}
-{273}{}{太好了，那我们开始吧。。。}
+{273}{}{太好了，那我们开始吧...}
 ### {274}{}{We'll do it later, now I have things to do.}
 {274}{}{我们稍后再做，现在我有事情要做。}
 ### {275}{}{Let's play a game? If you lose, you will give away the grenade.}
@@ -169,7 +169,7 @@
 ### {284}{}{Well, well, we'll see about that.}
 {284}{}{好吧，好吧，我们拭目以待。}
 ### {285}{}{If you continue to make fun of me, I'll take both my caps and your grenade.}
-{285}{}{如果你继续取笑我，我会拿走我的帽子和你的手榴弹。}
+{285}{}{如果你继续取笑我，我会拿走我的瓶盖和你的手榴弹。}
 
 ### {290}{}{Where are your parents, baby?}
 {290}{}{你的父母在哪里，宝贝？}

@@ -29,7 +29,7 @@
 ### {170}{}{So that I can be enrolled in some sect? Well, no!}
 {170}{}{这样我就可以加入某个教派了？不！}
 ### {171}{}{T-you... y-you are this... You're not going to sleep in that tin can, are you? And why do you need a motel with such and such equipment?}
-{171}{}{你。。。你就是这个。。。你不会睡在那个锡罐里吧？为什么你需要一家有这样那样设备的汽车旅馆？}
+{171}{}{你...你就是这个...你不会睡在那个锡罐里吧？为什么你需要一家有这样那样设备的汽车旅馆？}
 ### {172}{}{First get yourself a power armor to tell me what to do.}
 {172}{}{首先给自己找一件力量盔甲，告诉我该怎么做。}
 ### {173}{}{Don't worry, I won't hurt you.}
@@ -89,7 +89,7 @@
 ### {201}{}{Hi there.}
 {201}{}{你好。}
 ### {202}{}{Hey, hey! These guys were just hooligans. I didn't want problems and turned a blind eye to their tricks. What else could I do? I am also a victim of circumstances. But killing guys... Let me say I didn't see anything, and you just leave, okay?}
-{202}{}{嘿，嘿！这些家伙只是流氓。我不想遇到麻烦，对他们的把戏视而不见。我还能做什么？我也是环境的受害者。但是杀人。。。让我说我什么都没看到，你就走吧，好吗？}
+{202}{}{嘿，嘿！这些家伙只是流氓。我不想遇到麻烦，对他们的把戏视而不见。我还能做什么？我也是环境的受害者。但是杀人...让我说我什么都没看到，你就走吧，好吗？}
 ### {203}{}{Don't worry, I won't inconvenience you anymore.}
 {203}{}{别担心，我不会再给你带来不便了。}
 ### {204}{}{Stay quiet and keep your head down. Don't think you'll get rid of me so easily.}
@@ -102,11 +102,11 @@
 {211}{}{再见}
 
 ### {219}{}{Forget it, I don't have so many caps right now.}
-{219}{}{算了，我现在没有那么多帽子。}
+{219}{}{算了，我现在没有那么多瓶盖。}
 ### {220}{}{I'm looking for a slave convoy that passed by the city. Do you know anything about it?}
 {220}{}{我在找一支经过城市的奴隶车队。你知道这件事吗？}
 ### {221}{}{Perhaps. But sometimes there are gaps in my memory. And only the ringing of a hundred caps can fix it.}
-{221}{}{可能但有时我的记忆会有空白。只有一百顶帽子的铃声才能解决这个问题。}
+{221}{}{可能但有时我的记忆会有空白。只有一百个瓶盖的铃声才能解决这个问题。}
 ### {222}{}{Yes, this is robbery! I'll ask someone else.}
 {222}{}{是的，这是抢劫！我会问别人的。}
 ### {223}{}{Speak, you beast! My patience is running out!}
@@ -114,7 +114,7 @@
 ### {224}{}{That's not very kind of you. Every scavenger in this town knows me, and you're just a stranger from the wasteland. So get out of the motel before I call for help.}
 {224}{}{你真不太好。这个镇上的每个拾荒者都认识我，而你只是一个来自荒原的陌生人。所以在我呼救之前，先离开汽车旅馆。}
 ### {225}{}{Let it be your way, here are a hundred caps. Now tell me everything you know.}
-{225}{}{随你的便吧，这里有一百顶帽子。现在告诉我你所知道的一切。}
+{225}{}{随你的便吧，这里有一百个瓶盖。现在告诉我你所知道的一切。}
 ### {226}{}{Okay, I'll leave peacefully.}
 {226}{}{好吧，我会平静地离开。}
 ### {227}{}{Here are the bottlecaps. Now tell me everything you know.}
@@ -125,7 +125,7 @@
 {229}{}{我在追赶这支车队。你知道他去哪儿了吗？}
 
 ### {230}{}{(scrapes the bottlecaps under the table in amazement) I didn't think you were serious... yes, these guys have raised a fuss in our quiet town. It's been a long time since it's been so lively here. But the whole city got an excellent welding from them.}
-{230}{}{（惊讶地刮桌子下面的瓶子）我不认为你是认真的。。。是的，这些家伙在我们安静的小镇上引起了骚动。这里已经很久没有这么热闹了。但整个城市都从他们那里得到了极好的焊接。}
+{230}{}{（惊讶地刮桌子下面的瓶子）我不认为你是认真的...是的，这些家伙在我们安静的小镇上引起了骚动。这里已经很久没有这么热闹了。但整个城市都从他们那里得到了极好的焊接。}
 ### {231}{}{What are you talking about? What kind of welding?}
 {231}{}{你在说什么？什么类型的焊接？}
 ### {232}{}{Yes, almost any institution in the city got something of its own. In my motel, for example, there is not a single empty seat left. Almost all the drinks were drunk at the bar. And Mr. Kogan was counting on some contracts. The city lived for a whole week at the expense of all this mess with slaves.}
@@ -161,7 +161,7 @@
 ### {256}{}{How long have you been running this motel?}
 {256}{}{你经营这家汽车旅馆多久了？}
 ### {257}{}{I came here a few years ago, like many others, hoping to earn some caps. Then the city needed a motel, and I thought that this could get more than a dirty and unsafe mine.}
-{257}{}{我几年前来到这里，和其他许多人一样，希望能获得一些帽子。然后这个城市需要一家汽车旅馆，我想这不仅仅是一个肮脏和不安全的矿井。}
+{257}{}{我几年前来到这里，和其他许多人一样，希望能获得一些瓶盖。然后这个城市需要一家汽车旅馆，我想这不仅仅是一个肮脏和不安全的矿井。}
 ### {258}{}{It's weird that you call it a motel.}
 {258}{}{你叫它汽车旅馆真奇怪。}
 ### {259}{}{I don't know. So it happened. The Old Town is full of garages and auto repair shops. And caravanners use these hefty trailers from pickups.}
@@ -177,11 +177,11 @@
 ### {264}{}{Wow, you can give a lot for a quiet, peaceful sleep. How much does one night cost? }
 {264}{}{哇，你可以为一个安静、平静的睡眠付出很多。一晚多少钱？}
 ### {265}{}{Oh, you should know about the wonderful adobe houses in my village... And how much does a night in this bedbug cost?}
-{265}{}{哦，你应该知道我村里那些很棒的土坯房。。。在这个臭虫里住一晚要多少钱？}
+{265}{}{哦，你应该知道我村里那些很棒的土坯房...在这个臭虫里住一晚要多少钱？}
 ### {266}{}{For you, it will cost in }
 {266}{}{对你来说，这将花费}
 ### {267}{}{ caps.}
-{267}{}{帽子。}
+{267}{}{瓶盖。}
 ### {268}{}{I want to rent a room.}
 {268}{}{我想租一个房间。}
 ### {269}{}{Here are the bottlecaps.}
@@ -200,7 +200,7 @@
 ### {283}{}{So you're with them for one thing, or what?}
 {283}{}{所以你和他们在一起是为了一件事，还是什么？}
 ### {284}{}{The girl herself has sunk to such a life. If she didn't want to, she wouldn't have gotten involved with these guys. Don't feel sorry for her. And nothing terrible is happening. The guys will play and let them go... I'm telling you - it's none of your business!}
-{284}{}{这个女孩自己也适应了这样的生活。如果她不想，她就不会和这些家伙扯上关系。不要为她感到难过。没有什么可怕的事情发生。伙计们会玩，然后让他们走。。。我告诉你，这不关你的事！}
+{284}{}{这个女孩自己也适应了这样的生活。如果她不想，她就不会和这些家伙扯上关系。不要为她感到难过。没有什么可怕的事情发生。伙计们会玩，然后让他们走...我告诉你，这不关你的事！}
 ### {285}{}{Damn, I can't just leave it like that.}
 {285}{}{该死，我不能就这样算了。}
 ### {286}{}{Ah, well, then I really should pass by.}

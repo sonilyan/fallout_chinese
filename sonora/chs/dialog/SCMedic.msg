@@ -114,7 +114,7 @@
 ### {262}{}{What is the expression of his illness?}
 {262}{}{他的病是怎么表现的？}
 ### {263}{}{The patient cannot serve due to insomnia and headaches. He even claims to hear voices in his head... Just a minute. I can't discuss this with outsiders. Although the case is really complicated.}
-{263}{}{病人由于失眠和头痛而不能服务。他甚至声称能听到脑子里的声音。。。等一下我不能和外人讨论这个问题。虽然这个案子真的很复杂。}
+{263}{}{病人由于失眠和头痛而不能服务。他甚至声称能听到脑子里的声音...等一下我不能和外人讨论这个问题。虽然这个案子真的很复杂。}
 ### {264}{}{Maybe he's faking it?}
 {264}{}{也许他在假装？}
 ### {265}{}{What about? For the Brotherhood soldier to fake it? I do not think so. But it is not excluded. Lately, everyone in our fort has been homesick in California.}

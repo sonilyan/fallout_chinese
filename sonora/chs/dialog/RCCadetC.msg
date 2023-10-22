@@ -6,7 +6,7 @@
 {102}{}{你不在配给单上。}
 
 ### {200}{}{Okay, stop... Civilian? What are you doing here?}
-{200}{}{好吧，停下。。。平民你在这里干什么？}
+{200}{}{好吧，停下...平民你在这里干什么？}
 ### {201}{}{I'm watching you. Got it?}
 {201}{}{我在看着你。明白了吗？}
 ### {202}{}{E... These are office premises. Go away.}
@@ -57,7 +57,7 @@
 ### {233}{}{Indeed, it is difficult to argue with this. You can be free, cadet.}
 {233}{}{事实上，很难反驳这一点。你可以自由，学员。}
 ### {234}{}{Thu... uh... uh... Listen. I told them it was a bad idea.}
-{234}{}{周四。。。嗯嗯听我告诉他们这是个坏主意。}
+{234}{}{周四...嗯嗯听我告诉他们这是个坏主意。}
 ### {235}{}{So. Tell me.}
 {235}{}{那么，告诉我。}
 ### {236}{}{Yeah. So you confessed.}

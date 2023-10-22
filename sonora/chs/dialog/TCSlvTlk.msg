@@ -72,7 +72,7 @@
 ### {243}{}{An interesting point of view.}
 {243}{}{一个有趣的观点。}
 ### {244}{}{Why the tinsmiths were sent here... a ghoul?}
-{244}{}{为什么要把铁匠送到这里。。。食尸鬼？}
+{244}{}{为什么要把铁匠送到这里...食尸鬼？}
 ### {245}{}{Because having lived for so many years, I know a lot more than any smooth-skinned person. Add immunity to radiation - and here you have an ideal candidate for opening old bases. But the truth is that I have absolutely no idea how to disable the damn defense system of this damned burial ground!}
 {245}{}{因为生活了这么多年，我比任何一个皮肤光滑的人都了解得多。加上对辐射的免疫力，你就有了打开旧基地的理想人选。但事实是，我完全不知道如何禁用这个该死的墓地的该死的防御系统！}
 ### {246}{}{I see.}
@@ -90,7 +90,7 @@
 ### {251}{}{Just don't get into the middle of it. And keep in mind - I will not climb into the bunker.}
 {251}{}{只是不要钻到中间。记住——我不会爬进地堡的。}
 ### {252}{}{Let's see...}
-{252}{}{让我们看看。。。}
+{252}{}{让我们看看...}
 ### {253}{}{Wait here, I'm scouting.}
 {253}{}{在这里等着，我在侦察。}
 ### {254}{}{Don't try to deceive me.}

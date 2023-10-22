@@ -10,7 +10,7 @@
 ### {203}{}{What are you talking about? Capture the spy!}
 {203}{}{你在说什么？抓住间谍！}
 ### {204}{}{Well, okay...}
-{204}{}{好吧。。。}
+{204}{}{好吧...}
 ### {205}{}{You're making a mistake, General.}
 {205}{}{你犯了一个错误，将军。}
 ### {206}{}{Civilian. I want to join your army, General!}
@@ -29,6 +29,6 @@
 ### {1210}{}{I warned you. Put her in the brig! Let him suffer with the rest of the prisoners of war.}
 {1210}{}{我警告过你。把她关进禁闭室！让他和其他战俘一起受苦吧。}
 ### {211}{}{No, no, you can't go to the punishment cell, I have claustrophobia...}
-{211}{}{不，不，你不能去惩罚室，我有幽闭恐惧症。。。}
+{211}{}{不，不，你不能去惩罚室，我有幽闭恐惧症...}
 ### {212}{}{No one will drag me there.}
 {212}{}{没有人会把我拖到那里。}

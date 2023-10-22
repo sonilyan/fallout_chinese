@@ -25,7 +25,7 @@
 ### {130}{}{Old Man Mangas has already bullied everyone.}
 {130}{}{曼加斯老人已经欺负了所有人。}
 ### {131}{}{But old man Mangas warned us...}
-{131}{}{但是曼加斯老人警告我们。。。}
+{131}{}{但是曼加斯老人警告我们...}
 ### {132}{}{Genaro will certainly advocate an alliance with the Phoenix.}
 {132}{}{Genaro肯定会主张和凤凰城结盟。}
 ### {133}{}{Genaro died, and he was the best at bargaining with outsiders.}
@@ -37,13 +37,13 @@
 ### {136}{}{I'm worried about the future of Chatto and his upstart friends.}
 {136}{}{我担心查特和他的新贵朋友们的未来。}
 ### {137}{}{I haven't seen Chatto for a long time...}
-{137}{}{我好久没见到查特了。。。}
+{137}{}{我好久没见到查特了...}
 ### {138}{}{Chatto is very young, but he has already become a leader. Yes, strange times have come.}
 {138}{}{查特很年轻，但他已经成为一名领导者。是的，奇怪的时代来了。}
 ### {139}{}{Chief Geronimo knows what is right for the tribe and what is wrong.}
 {139}{}{杰罗尼莫酋长知道什么对部落有利，什么错。}
 ### {140}{}{Geronimo... May the Sun always illuminate your Heavenly Paths.}
-{140}{}{Geronimo。。。愿太阳永远照亮你的天路。}
+{140}{}{Geronimo...愿太阳永远照亮你的天路。}
 
 ### {150}{}{So this day has come. The Phoenix conquered our tribe.}
 {150}{}{所以这一天来了。凤凰征服了我们的部落。}

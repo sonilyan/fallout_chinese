@@ -104,7 +104,7 @@
 ### {258}{}{A small oasis on the trade route. Literally. The water pump is still operating here, so the caravans willingly stop for the night. There won't be any special problems with the locals if you don't meddle in their affairs yourself.}
 {258}{}{贸易路线上的一片小绿洲。字面上水泵还在这里工作，所以大篷车愿意停下来过夜。如果你不亲自干预当地人的事务，他们就不会有什么特别的问题。}
 ### {259}{}{This is a peaceful, but semi-closed town. Mostly agave and maize are grown here... listen, further west is Puerto Penasco. It would be nice to go there right now. It won't take long.}
-{259}{}{这是一个宁静但半封闭的小镇。这里主要种植龙舌兰和玉米。。。听着，再往西就是佩纳斯科港。现在去那里就好了。这不会花很长时间。}
+{259}{}{这是一个宁静但半封闭的小镇。这里主要种植龙舌兰和玉米...听着，再往西就是佩纳斯科港。现在去那里就好了。这不会花很长时间。}
 ### {260}{}{I've never been to these parts. We've gone too far. Hey, I'll never get to Puerto Penasco like this!}
 {260}{}{我从来没有去过这些地方。我们走得太远了。嘿，我再也不会这样去佩纳斯科港了！}
 ### {261}{}{The Church of the Fire Worshippers is a local landmark. Although these people are pious, they also know how to hold weapons in their hands.}
@@ -139,19 +139,19 @@
 ### {308}{}{And what is there in this port?}
 {308}{}{这个港口有什么？}
 ### {309}{}{My customers are there. After all, I need to report on the work done... But I couldn't find out anything special. It would be good to collect more data for them in Hermosillo.}
-{309}{}{我的客户在那里。毕竟，我需要报告所做的工作。。。但我找不到什么特别的东西。最好能在赫莫西洛为他们收集更多的数据。}
+{309}{}{我的客户在那里。毕竟，我需要报告所做的工作...但我找不到什么特别的东西。最好能在赫莫西洛为他们收集更多的数据。}
 ### {310}{}{It looks like it smells like a good profit. Great, I'm in.}
 {310}{}{看起来它闻起来像是一笔不错的利润。太好了，我来了。}
 ### {311}{}{Glad to hear it, partner. You won't regret it.}
 {311}{}{很高兴听到，伙计。你不会后悔的。}
 ### {312}{}{Then we're on our way to Puerto Penasco...}
-{312}{}{然后我们在去佩纳斯科港的路上。。。}
+{312}{}{然后我们在去佩纳斯科港的路上...}
 ### {313}{}{I'll take you to the port, but if it's a trap, you'll pay cruelly.}
 {313}{}{我会带你去港口，但如果这是一个陷阱，你会付出残酷的代价。}
 ### {314}{}{I'm telling you - this is business. Don't worry, you'll get your interest from the fee too.}
 {314}{}{我告诉你，这是生意。别担心，你也会从这笔费用中得到利息的。}
 ### {315}{}{OK, we're on our way to Puerto Penasco...}
-{315}{}{好的，我们正在去佩纳斯科港的路上。。。}
+{315}{}{好的，我们正在去佩纳斯科港的路上...}
 ### {316}{}{Sorry, but we're not on the way.}
 {316}{}{对不起，我们不在路上。}
 ### {317}{}{Okay, whatever you say. In this case, I suggest we get to the nearest settlement, and then we will disperse peacefully.}
@@ -183,7 +183,7 @@
 ### {331}{}{So this is where you were supposed to meet the customer?}
 {331}{}{所以你应该在这里见客户？}
 ### {332}{}{Yes, but... What force could destroy an entire port?}
-{332}{}{是的，但是。。。什么力量可以摧毁整个港口？}
+{332}{}{是的，但是...什么力量可以摧毁整个港口？}
 ### {333}{}{It looks like the local "caravaneers" were selling something very killer, isn't it?}
 {333}{}{看起来当地的“房车客”在卖一些非常致命的东西，不是吗？}
 ### {334}{}{Wait... okay... let me explain. I did lie a little. I was hired not by the caravaneers, but by the Brotherhood of Steel. And I had to scout not trade routes, but the military potential of the Mexican army. But what difference does it make now? After all, the Brotherhood's post has been destroyed!}
@@ -195,7 +195,7 @@
 ### {337}{}{What are you going to do now?}
 {337}{}{你现在打算做什么？}
 ### {338}{}{I don't know. Without the Brotherhood, there will be a decline in these parts, and without the caps, there is no point in me returning to Phoenix. I'll have to wander the wastelands in search of work.}
-{338}{}{我不知道。如果没有兄弟会，这些地方就会衰落，如果没有帽子，我回到凤凰城就没有意义。我将不得不在荒原上游荡找工作。}
+{338}{}{我不知道。如果没有兄弟会，这些地方就会衰落，如果没有瓶盖，我回到凤凰城就没有意义。我将不得不在荒原上游荡找工作。}
 ### {339}{}{You know, we should stick together. I need an assistant on the way, and you will surely find a place at the Villa when everything settles down there.}
 {339}{}{你知道，我们应该团结在一起。我需要一个助理在路上，当一切稳定下来的时候，你肯定会在维拉找到一个位置。}
 ### {340}{}{Do you think your relatives will accept me? Well, it's worth a try. It must be great to have your own home and family. Come on, partner. I'll watch your back.}
@@ -214,9 +214,9 @@
 ### {350}{}{We're here. You'll have to wait a bit while I talk to my customer.}
 {350}{}{我们到了。我和我的客户谈话时，你得等一等。}
 ### {351}{}{Wait a minute, are your customers the Brotherhood of Steel? But you said that...}
-{351}{}{等一下，你的客户是钢铁兄弟会吗？但你说过。。。}
+{351}{}{等一下，你的客户是钢铁兄弟会吗？但你说过...}
 ### {352}{}{Yes, yes, I lied about the caravaneers. The Brotherhood of Steel pays excellent caps for exploration of the southern lands... Now wait here, it will take a little time.}
-{352}{}{是的，是的，我在车队的事上撒了谎。钢铁兄弟会为南部土地的勘探支付了极好的费用。。。现在在这里等一下，需要一点时间。}
+{352}{}{是的，是的，我在车队的事上撒了谎。钢铁兄弟会为南部土地的勘探支付了极好的费用...现在在这里等一下，需要一点时间。}
 ### {353}{}{[Next]}
 {353}{}{[下一个]}
 ### {354}{}{(Three hours later, Jack comes out to you with a contrite look)}
@@ -232,11 +232,11 @@
 ### {359}{}{Something has changed. Now we are not welcome here. It's better to get out of here while your legs are intact.}
 {359}{}{有些事情发生了变化。现在我们在这里不受欢迎。最好在你的腿完好无损的时候离开这里。}
 ### {360}{}{What's up with the caps? Did they pay you?}
-{360}{}{帽子怎么了？他们付钱给你了吗？}
+{360}{}{瓶盖怎么了？他们付钱给你了吗？}
 ### {361}{}{Yes, but they broke your contract. Sorry.}
 {361}{}{是的，但他们违反了你的合同。很抱歉}
 ### {362}{}{S-bitches... Why did I go through so much? It looks like this trip turned out to be pointless.}
-{362}{}{S婊子。。。为什么我经历了这么多？看来这次旅行毫无意义。}
+{362}{}{S婊子...为什么我经历了这么多？看来这次旅行毫无意义。}
 ### {363}{}{What are you going to do now, Jack?}
 {363}{}{杰克，你现在打算做什么？}
 ### {364}{}{I don't know. Since the contract with the Brotherhood is broken, and I have no caps, I will have to wander the wastelands in search of work.}

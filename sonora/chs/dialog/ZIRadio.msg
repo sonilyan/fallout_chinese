@@ -42,7 +42,7 @@
 ### {235}{}{I hear you. Where are you located?}
 {235}{}{我听到了。你在哪里？}
 ### {236}{}{Damn it, finally! Listen, the Jackals have trapped us. We can't get out of here. Help us, we will not remain in debt. Here are the coordinates, north of Garage City... Be careful and bring more people... Damn, these creatures are already here... (the signal is gone)}
-{236}{}{该死，终于！听着，豺狼困住了我们。我们无法离开这里。帮帮我们，我们不会继续负债。这是车库城以北的坐标。。。小心，带更多的人。。。该死，这些生物已经来了。。。（信号消失了）}
+{236}{}{该死，终于！听着，豺狼困住了我们。我们无法离开这里。帮帮我们，我们不会继续负债。这是车库城以北的坐标...小心，带更多的人...该死，这些生物已经来了...（信号消失了）}
 ### {237}{}{Hold on, stranger. Whoever you are.}
 {237}{}{等一下，陌生人。不管你是谁。}
 ### {238}{}{Hold on, Ranger. Help is on the way.}
@@ -79,7 +79,7 @@
 ### {252}{}{...I noticed it too. What happened? ? The signalmen seem to have hired some peasant to fix the antenna. Now the walkie-talkie works better and at a greater distance. "A peasant?" That's the twist. We should treat him to empty coffee when we meet.}
 {252}{}{…我也注意到了。发生了什么？? 信号员似乎雇了一些农民来修理天线。现在对讲机工作得更好，距离更远。“农民？”这就是转折点。我们见面时应该请他喝空咖啡。}
 ### {253}{}{...that fugitive was caught after all. The bitch was hiding in the subway near the farmers on Route 95. "Right under your nose?" And we couldn't catch him for so long? ? He was an excellent spy, we would like such. They say it wasn't even the Rangers who caught him, but some crook. ? Well, at least some benefit from outsiders. ? And don't say...}
-{253}{}{…那个逃犯终究被抓了。这婊子躲在95号公路农民附近的地铁里。“就在你眼皮底下？”我们这么久都抓不到他？? 他是一个出色的间谍，我们希望如此。他们说甚至不是游骑兵队抓到了他，而是一些骗子。? 好吧，至少有一些从局外人那里受益。? 不要说。。。}
+{253}{}{…那个逃犯终究被抓了。这婊子躲在95号公路农民附近的地铁里。“就在你眼皮底下？”我们这么久都抓不到他？? 他是一个出色的间谍，我们希望如此。他们说甚至不是游骑兵队抓到了他，而是一些骗子。? 好吧，至少有一些从局外人那里受益。? 不要说...}
 
 ### {260}{}{Ranger }
 {260}{}{护林员}
@@ -124,23 +124,23 @@
 ### {293}{}{[Ignore]}
 {293}{}{[忽视]}
 ### {294}{}{...Somebody! Help! I'm in some old motel southwest of Phoenix. They've blocked all the exits, I can't escape. Please help...}
-{294}{}{某人帮助我住在凤凰城西南部的一家老汽车旅馆里。他们封锁了所有的出口，我无法逃脱。请帮忙。。。}
+{294}{}{某人帮助我住在凤凰城西南部的一家老汽车旅馆里。他们封锁了所有的出口，我无法逃脱。请帮忙...}
 ### {295}{}{[Next]}
 {295}{}{[下一个]}
 ### {296}{}{Everyone else has already died from the traps. I was left alone... Someone is coming... What do you need? Go away! Oh my God! Don't touch me, you freak! No! No need! A-a-a!}
-{296}{}{其他人都已经死于陷阱。我独自一人。。。有人来了。。。你需要什么？走开！天啊！别碰我，你这个怪胎！不不需要！啊啊啊！}
+{296}{}{其他人都已经死于陷阱。我独自一人...有人来了...你需要什么？走开！天啊！别碰我，你这个怪胎！不不需要！啊啊啊！}
 ### {297}{}{An old motel to the southwest? Oh, it won't be an easy walk...}
-{297}{}{西南部的一家老汽车旅馆？哦，这不是一条容易的路。。。}
+{297}{}{西南部的一家老汽车旅馆？哦，这不是一条容易的路...}
 
 #Vault 27
 ### {300}{}{The emergency frequency transmits a distress signal.}
 {300}{}{紧急频率发送遇险信号。}
 ### {301}{}{Obviously, I'm too far from the Vault. It's worth going back to Phoenix and trying different directions.}
-{301}{}{显然，我离金库太远了。回到凤凰城尝试不同的方向是值得的。}
+{301}{}{显然，我离避难所太远了。回到凤凰城尝试不同的方向是值得的。}
 ### {302}{}{It's pointless. I already know where the Vault is.}
 {302}{}{这毫无意义。我已经知道保险库在哪里了。}
 ### {303}{}{The signal is amplified in that direction. I'll try to find out...}
-{303}{}{信号在那个方向上被放大。我会设法找出。。。}
+{303}{}{信号在那个方向上被放大。我会设法找出...}
 ### {304}{}{The signal is getting stronger.}
 {304}{}{信号越来越强。}
 ### {305}{}{There is! Looks like I found you.}
@@ -154,7 +154,7 @@
 ### {310}{}{(You can hear the patrolmen talking. Nothing interesting, just the usual altercation.)}
 {310}{}{（你可以听到巡警在说话。没有什么有趣的，只是通常的争吵。）}
 ### {320}{}{All posts! We've been attacked! A whole crowd of savages! Reinforcements are needed! To everyone... A-a-a!}
-{320}{}{所有帖子！我们被袭击了！一群野蛮人！需要增援！致所有人。。。啊啊啊！}
+{320}{}{所有帖子！我们被袭击了！一群野蛮人！需要增援！致所有人...啊啊啊！}
 ### {321}{}{Roger that. I'm sending a detachment from the garrison. Hold on...}
 {321}{}{收到。我要从驻军派出一支分遣队。等等}
 ### {322}{}{(Yes, empty the garrison, you idiot, that's all I need)}
@@ -184,13 +184,13 @@
 ### {353}{}{They don't seem to hear me. Hang up.}
 {353}{}{他们好像没听见我说话。挂断。}
 ### {354}{}{This is Paladin Barkley... Glad to hear it, comrade. We are in a difficult situation. I am wounded, communication with the squad is lost. Requesting urgent assistance.}
-{354}{}{这是圣骑士巴克利。。。很高兴听到，同志。我们处境艰难。我受伤了，失去了与小队的沟通。请求紧急援助。}
+{354}{}{这是圣骑士巴克利...很高兴听到，同志。我们处境艰难。我受伤了，失去了与小队的沟通。请求紧急援助。}
 ### {355}{}{Roger that. Where are you, Paladin Barkley?}
 {355}{}{收到。你在哪里，圣骑士巴克利？}
 ### {1355}{}{I understand you. Where are you, Paladin Barkley?}
 {1355}{}{我理解你。你在哪里，圣骑士巴克利？}
 ### {356}{}{The point of dislocation... A manhole near a destroyed supermarket. There are a lot of mutants on the surface, be careful.}
-{356}{}{错位点。。。一家被毁的超市附近的检修孔。表面上有很多突变体，要小心。}
+{356}{}{错位点...一家被毁的超市附近的检修孔。表面上有很多突变体，要小心。}
 ### {357}{}{Moving into position. Stay where you are. End of communication.}
 {357}{}{移动到位。呆在原地。通信结束。}
 ### {358}{}{Hey, can anyone hear me? Reception?}
@@ -202,7 +202,7 @@
 ### {361}{}{Okay. Hang up.}
 {361}{}{可以挂断}
 ### {362}{}{This is Barkley speaking... Yes, at least one is still alive here. Listen to me carefully, comrade. I'm injured, I need urgent help.}
-{362}{}{我是巴克利。。。是的，至少有一个人还活着。仔细听我说，同志。我受伤了，急需帮助。}
+{362}{}{我是巴克利...是的，至少有一个人还活着。仔细听我说，同志。我受伤了，急需帮助。}
 ### {363}{}{Where are you, Barkley?}
 {363}{}{你在哪里，巴克利？}
 ### {364}{}{The collector under the destroyed supermarket. Come straight to me, don't linger. And be careful, there are these mutants everywhere.}
@@ -229,7 +229,7 @@
 ### {377}{}{[Next]}
 {377}{}{[下一个]}
 ### {378}{}{Here you will find everything you need for a holiday: bars, hotels, a huge market ... and, of course, the unforgettable Maltese Falcon cafe! In it you can relax and forget about the claws of death and bandits from the high road.}
-{378}{}{在这里，你会找到度假所需的一切：酒吧、酒店、巨大的市场。。。当然，还有令人难忘的马耳他猎鹰咖啡馆！在里面你可以放松，忘记死亡之爪和来自公路的土匪。}
+{378}{}{在这里，你会找到度假所需的一切：酒吧、酒店、巨大的市场...当然，还有令人难忘的马耳他猎鹰咖啡馆！在里面你可以放松，忘记死亡之爪和来自公路的土匪。}
 ### {379}{}{You want to freshen up. We have stocks of Nuka-Cola! And for lovers of something hot, we will always pour a mug of the legendary Khab rum.}
 {379}{}{你想梳洗一下。我们有努卡可乐的存货！对于喜欢热的东西的人，我们总是会倒一杯传说中的卡布朗姆酒。}
 ### {380}{}{Hey, what about slot machines? Oh, yes, baby, there are very few of them left in modern California. Don't miss this opportunity!}
@@ -237,7 +237,7 @@
 ### {381}{}{And of course, our ladies will always TAKE CARE of dear customers who were too LONELY on the road. Check out the Maltese Falcon. The hub is waiting for you! (old music starts again)}
 {381}{}{当然，我们的女士们会一直照顾那些在路上过于孤独的亲爱的顾客。看看马耳他猎鹰。集线器在等你！（旧音乐重新响起）}
 ### {382}{}{Eh, it's too far. Besides, I need to go in a completely different direction...}
-{382}{}{呃，太远了。此外，我需要走向一个完全不同的方向。。。}
+{382}{}{呃，太远了。此外，我需要走向一个完全不同的方向...}
 ### {383}{}{You have gained experience for detecting a radio signal from California.}
 {383}{}{你已经获得了探测来自加利福尼亚州的无线电信号的经验。}
 

@@ -29,7 +29,7 @@
 ### {200}{}{Civilian? What are you doing here?}
 {200}{}{平民你在这里干什么？}
 ### {201}{}{I... uh...}
-{201}{}{我…呃。。。}
+{201}{}{我…呃...}
 ### {202}{}{I'm destroying your ship, you idiot.}
 {202}{}{我要毁了你的船，你这个白痴。}
 ### {203}{}{A rat on a ship! All battle alert!}
@@ -37,7 +37,7 @@
 ### {204}{}{Damn...}
 {204}{}{该死}
 ### {205}{}{It won't save you...}
-{205}{}{它救不了你。。。}
+{205}{}{它救不了你...}
 
 ### {210}{}{What the fuck are these jokes? Someone is going to be severely reprimanded today for missing civilians. Okay, tell me who you are and what you want?}
 {210}{}{这些他妈的笑话是什么？今天有人将因失踪平民而受到严厉谴责。好吧，告诉我你是谁，你想要什么？}
@@ -60,7 +60,7 @@
 ### {219}{}{A village? So are you growing something? Or are you engaged in hunting and gathering?}
 {219}{}{一个村庄？你在种什么？或者你从事狩猎和采集？}
 ### {220}{}{We cultivate the land and grow maize. But recently there have been problems with colonizers from Flagstaff...}
-{220}{}{我们耕种土地，种植玉米。但最近弗拉格斯塔夫的殖民者出现了问题。。。}
+{220}{}{我们耕种土地，种植玉米。但最近弗拉格斯塔夫的殖民者出现了问题...}
 ### {221}{}{Ah, that's it. I have already been informed that there is a shortage of labor in the uranium mines. Well, the costs are inevitable. It's not fucking fair, son.}
 {221}{}{啊，就是这样。我已经接到通知，铀矿里劳动力短缺。嗯，成本是不可避免的。这他妈的不公平，儿子。}
 ### {1221}{}{Ah, that's it. I have already been informed that there is a shortage of labor in the uranium mines. Well, the costs are inevitable. It's damn unfair, lady.}
@@ -104,13 +104,13 @@
 ### {239}{}{The Brotherhood of Steel is an ancient order. We are collecting and reviving technologies and knowledge that were lost after the Great War. For a long time we hid in the shadow of history, studying the situation and gathering strength. And now the end of our isolation has come. The brotherhood came out of its bunker a few years ago. Our scribes will tell you the details.}
 {239}{}{钢铁兄弟会是一个古老的组织。我们正在收集和复兴二战后失去的技术和知识。很长一段时间以来，我们都躲在历史的阴影中，研究形势，凝聚力量。现在我们的孤立已经结束了。兄弟会是几年前从地堡里出来的。我们的抄写员会告诉你细节。}
 ### {240}{}{.......}
-{240}{}{。。。。。。。}
+{240}{}{......。}
 ### {241}{}{I'm just walking by and wondering if you have a job?}
 {241}{}{我只是路过，想知道你是否有工作？}
 ### {242}{}{I don't do mercenaries. There is a special post outside for this. Now I ask you to leave our fortress immediately.}
 {242}{}{我不做雇佣兵。外面有一个专门的职位。现在我请求你立即离开我们的堡垒。}
 ### {243}{}{Excuse me, General...}
-{243}{}{对不起，将军。。。}
+{243}{}{对不起，将军...}
 ### {244}{}{OK, I'm leaving peacefully.}
 {244}{}{好吧，我要平静地离开。}
 ### {245}{}{How are you going to change the Wastelands?}
@@ -128,7 +128,7 @@
 ### {251}{}{In that case, I'm wasting my time trying to be nice to you. Your village WILL supply us with food even against its own will. You had a chance to choose an easy path, but this chance is missed. Put down your weapons and put your hands up.}
 {251}{}{那样的话，我就是在浪费时间对你好。你们的村庄会为我们提供食物，即使违背了自己的意愿。你本有机会选择一条轻松的道路，但这次机会错过了。放下武器，举起双手。}
 ### {252}{}{Uh, don't, General...}
-{252}{}{不要，将军。。。}
+{252}{}{不要，将军...}
 ### {253}{}{The hell with it. You will not intimidate the free peasant people.}
 {253}{}{见鬼去吧。你不会恐吓自由的农民的。}
 ### {254}{}{Sounds amazing. I'll talk to the elders.}
@@ -174,7 +174,7 @@
 ### {271}{}{Continue.}
 {271}{}{持续}
 ### {272}{}{.....}
-{272}{}{。。。。。}
+{272}{}{...。。}
 ### {273}{}{Go on.}
 {273}{}{继续}
 ### {274}{}{And now I have a question for you - what are you trying to achieve, you son of a bitch?}
@@ -206,13 +206,13 @@
 ### {286}{}{The hell with two. The Rangers will protect us, and you will go to hell.}
 {286}{}{两个见鬼去吧。游骑兵会保护我们，你会下地狱的。}
 ### {287}{}{Very sorry. So, in accordance with the laws of the Old World, you will face the death penalty for your crimes. Get ready to accept your fate, you piece of shit...}
-{287}{}{非常抱歉。因此，根据旧世界的法律，你的罪行将面临死刑。准备好接受你的命运吧，你这个混蛋。。。}
+{287}{}{非常抱歉。因此，根据旧世界的法律，你的罪行将面临死刑。准备好接受你的命运吧，你这个混蛋...}
 ### {288}{}{Go to hell.}
 {288}{}{见鬼去吧。}
 ### {289}{}{But I'm not a criminal...}
-{289}{}{但我不是罪犯。。。}
+{289}{}{但我不是罪犯...}
 ### {1289}{}{But I'm not a criminal...}
-{1289}{}{但我不是罪犯。。。}
+{1289}{}{但我不是罪犯...}
 ### {290}{}{If you leave us alone, then I will try to do it.}
 {290}{}{如果你不理我们，我会尽力去做的。}
 ### {291}{}{As the supreme Paladin, I will keep my word. Act.}
@@ -285,7 +285,7 @@
 ### {329}{}{I'm just doing my job. So what about the payment?}
 {329}{}{我只是在做我的工作。那么付款呢？}
 ### {330}{}{Do you want caps, but don't want to choose? It is a pity that among your mercantile interests there is no concept of honor and justice. But you do your job properly, and this is appreciated in the Brotherhood. Don't worry, we'll pay. Contact the quartermaster, he will give you a fee.}
-{330}{}{你想要帽子，但不想选择吗？遗憾的是，在你们的商业利益中，没有荣誉和正义的概念。但你的工作做得很好，兄弟会对此表示赞赏。别担心，我们会付钱的。联系军需官，他会给你一笔费用。}
+{330}{}{你想要瓶盖，但不想选择吗？遗憾的是，在你们的商业利益中，没有荣誉和正义的概念。但你的工作做得很好，兄弟会对此表示赞赏。别担心，我们会付钱的。联系军需官，他会给你一笔费用。}
 ### {331}{}{Thank you, General.}
 {331}{}{谢谢你，将军。}
 
@@ -344,7 +344,7 @@
 ### {375}{}{Those are your words, Dixon. Does the General Staff know?}
 {375}{}{这是你的话，Dixon。总参谋部知道吗？}
 ### {376}{}{This fort is worth several... aside from the decisions of the general Staff. I was given "broad powers" to successfully complete the main mission.}
-{376}{}{这座堡垒值几个。。。除了总参谋部的决定。我被赋予了成功完成主要任务的“广泛权力”。}
+{376}{}{这座堡垒值几个...除了总参谋部的决定。我被赋予了成功完成主要任务的“广泛权力”。}
 ### {377}{}{I see. May I ask another question about the Brotherhood?}
 {377}{}{我明白了。我可以再问一个关于兄弟会的问题吗？}
 ### {380}{}{What are your global goals?}
@@ -387,7 +387,7 @@
 ### {408}{}{Reminds me of someone, don't you think?}
 {408}{}{让我想起某人，你不觉得吗？}
 ### {409}{}{Ahem... In the end, they don't let us connect California and Arizona. Moreover, they have already shown their meanness in the Battle of Nogales, when they tried to quarrel with the tinsmiths and oust us from the territory of the state. This is more than enough.}
-{409}{}{啊。。。最后，他们不让我们把加州和亚利桑那州联系起来。此外，他们在诺加莱斯战役中已经表现出了他们的卑鄙，当时他们试图与锡匠争吵，并将我们逐出国家领土。这已经足够了。}
+{409}{}{啊...最后，他们不让我们把加州和亚利桑那州联系起来。此外，他们在诺加莱斯战役中已经表现出了他们的卑鄙，当时他们试图与锡匠争吵，并将我们逐出国家领土。这已经足够了。}
 ### {410}{}{Permission to go, General?}
 {410}{}{允许去吗，将军？}
 ### {411}{}{I managed to blow up the Rangers' dam.}
@@ -432,7 +432,7 @@
 ### {432}{}{Although I promised to give you a rank in the order, but it turned out that there is an evil reputation about you among our brothers. I'll have to hold off on the order until you prove yourself again.}
 {432}{}{虽然我答应给你一个等级，但事实证明，在我们的兄弟中，你有一个邪恶的名声。我将不得不推迟订单，直到你再次证明自己。}
 ### {433}{}{Damn. Reputation is quite a thing...}
-{433}{}{该死声誉是一件很重要的事情。。。}
+{433}{}{该死声誉是一件很重要的事情...}
 ### {434}{}{Our order can be entered only for outstanding merits. And your exploits aren't that impressive.}
 {434}{}{我们的订单只有在有突出优点的情况下才能输入。你的功绩并没有那么令人印象深刻。}
 ### {435}{}{I will try my best.}

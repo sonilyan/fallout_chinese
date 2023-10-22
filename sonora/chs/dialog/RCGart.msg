@@ -24,7 +24,7 @@
 ### {205}{}{Congratulations on the promotion. Make yourself at home, everyone is here.}
 {205}{}{祝贺你升职。让自己在家里，每个人都在这里。}
 ### {206}{}{And you...}
-{206}{}{而你。。。}
+{206}{}{而你...}
 ### {207}{}{My village needed the help of rangers.}
 {207}{}{我的村庄需要护林员的帮助。}
 ### {208}{}{Then contact the person on duty at the information center on the dam. No one can help you here.}
@@ -153,4 +153,4 @@
 ### {334}{}{Damn it, I don't need that at all. Show me this place.}
 {334}{}{该死，我根本不需要。让我看看这个地方。}
 ### {335}{}{It's over there...}
-{335}{}{就在那边。。。}
+{335}{}{就在那边...}

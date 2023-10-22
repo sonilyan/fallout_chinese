@@ -1,5 +1,5 @@
 ### {110}{}{Great plan... for a suicide.}
-{110}{}{伟大的计划。。。自杀。}
+{110}{}{伟大的计划...自杀。}
 ### {111}{}{This cannot be done during a battle.}
 {111}{}{这在战斗中是不能做到的。}
 ### {112}{}{The sentry on duty forbids you to board the ship.}

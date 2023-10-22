@@ -92,7 +92,7 @@
 ### {316}{}{And why is there a sign at the entrance "Morrison brothers"?}
 {316}{}{为什么入口处有“莫里森兄弟”的标志？}
 ### {317}{}{( confused) Morrison... No matter. This sign is probably a hundred years old. Now *I* own this land!}
-{317}{}{（困惑）莫里森。。。不管怎样这个标志可能有一百年的历史了。现在我拥有这片土地！}
+{317}{}{（困惑）莫里森...不管怎样这个标志可能有一百年的历史了。现在我拥有这片土地！}
 ### {318}{}{What do you know about the invaders?}
 {318}{}{你对入侵者了解多少？}
 ### {319}{}{They lived here before us. Savages, that is. They did not adapt to the new life, but they learned to rob. The garrisons took out almost everyone, but this gang turned out to be too tenacious.}
@@ -105,13 +105,13 @@
 ### {350}{}{The invaders are dead, Randy. You can go back to your sweet home.}
 {350}{}{入侵者已经死了，Randy。你可以回到你甜蜜的家了。}
 ### {351}{}{I can't believe you did it. Eh, I could use your skills... Maybe you'll move in with me for good, huh?}
-{351}{}{真不敢相信你居然这么做了。呃，我可以用你的技术。。。也许你会永远和我一起住，是吗？}
+{351}{}{真不敢相信你居然这么做了。呃，我可以用你的技术...也许你会永远和我一起住，是吗？}
 ### {352}{}{Can't. I have a house too. And he's in danger.}
 {352}{}{不能我也有房子。他处于危险之中。}
 ### {353}{}{Into this hole? Well, no. There are plantations in my native village that you never dreamed of.}
 {353}{}{进这个洞？嗯，没有。在我的家乡有一些种植园，你做梦也想不到。}
 ### {354}{}{Well, if that's the case... I understand. Thank you for your help and good luck.}
-{354}{}{如果是这样的话。。。我理解。谢谢你的帮助和好运。}
+{354}{}{如果是这样的话...我理解。谢谢你的帮助和好运。}
 ### {355}{}{Not so fast. Give all the food you have.}
 {355}{}{没那么快。把你所有的食物都给我。}
 ### {356}{}{Glad to help.}

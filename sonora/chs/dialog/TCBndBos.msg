@@ -9,15 +9,15 @@
 {200}{}{所以，我被告知你的出现。我承认我很困惑。你是谁？你在这里干什么？}
 
 ### {201}{}{Actually, I'm just looking for valuables in these ruins...}
-{201}{}{事实上，我只是在废墟中寻找贵重物品。。。}
+{201}{}{事实上，我只是在废墟中寻找贵重物品...}
 ### {202}{}{That's how. Am I supposed to believe this nonsense? You know our location, you successfully bypass the traps, and this is in the middle of a huge territory lying in ruins. I'm asking for the last time - what the hell are you doing here?}
 {202}{}{就是这样。我应该相信这些无稽之谈吗？你知道我们的位置，你成功地绕过了陷阱，这是在一个巨大的废墟中。我最后一次问你你到底在这里干什么？}
 ### {203}{}{I'm telling the truth.}
 {203}{}{我说的是实话。}
 ### {204}{}{Hmm... You look like an experienced scavenger, you obviously had to walk more than one mile... Okay, I'll believe you... this time.}
-{204}{}{嗯…你看起来像一个经验丰富的拾荒者，你显然要走一英里以上。。。好吧，我相信你。。。这次。}
+{204}{}{嗯…你看起来像一个经验丰富的拾荒者，你显然要走一英里以上...好吧，我相信你...这次。}
 ### {1204}{}{Hmm... You look like an experienced scavenger, you obviously had to walk more than one mile... Okay, I'll believe you... this time.}
-{1204}{}{嗯…你看起来像一个经验丰富的拾荒者，你显然要走一英里以上。。。好吧，我相信你。。。这次。}
+{1204}{}{嗯…你看起来像一个经验丰富的拾荒者，你显然要走一英里以上...好吧，我相信你...这次。}
 ### {205}{}{It's good that we found mutual understanding.}
 {205}{}{我们找到了相互理解，这很好。}
 ### {206}{}{Then we'll see what you say when we hang you over a burning barrel. Hold the spy, guys!}
@@ -41,7 +41,7 @@
 ### {220}{}{I'm here on behalf of the tinsmiths. They are investigating the attack on the caravan.}
 {220}{}{我是代表锡匠们来的。他们正在调查对商队的袭击。}
 ### {221}{}{Yes, that was our job... More precisely, our achievement. It took a whole month to prepare for this operation, and we coped. Now the tinkerers will understand that they are not alone on the Wastelands. And the supplies we got will go to the good cause of our struggle.}
-{221}{}{是的，那是我们的工作。。。更确切地说，是我们的成就。我们花了整整一个月的时间为这次行动做准备，我们应付了。现在，修补匠们将明白，在荒原上，他们并不孤单。我们得到的物资将用于我们的斗争。}
+{221}{}{是的，那是我们的工作...更确切地说，是我们的成就。我们花了整整一个月的时间为这次行动做准备，我们应付了。现在，修补匠们将明白，在荒原上，他们并不孤单。我们得到的物资将用于我们的斗争。}
 ### {222}{}{I see.}
 {222}{}{我明白了。}
 ### {223}{}{You know I can't let you go now. Or is there a reason?}
@@ -49,7 +49,7 @@
 ### {224}{}{I'm just a mercenary. I don't care who I work for.}
 {224}{}{我只是个雇佣兵。我不在乎我为谁工作。}
 ### {225}{}{You'll have to. Because... you're going to die!}
-{225}{}{你必须这样做，因为。。。你会死的！}
+{225}{}{你必须这样做，因为...你会死的！}
 ### {226}{}{We are fighting not for the sake of bottlecaps, but for the sake of an idea - for the sake of saving the Wastelands from the corrupting "progress". (spits contemptuously)}
 {226}{}{我们不是为了瓶子而战斗，而是为了一个想法——为了把荒原从腐败的“进步”中拯救出来。（轻蔑地吐唾沫）}
 ### {227}{}{[Next]}
@@ -145,6 +145,6 @@
 ### {295}{}{Perhaps... our situation is desperate. No food, no medicine, not even the weapons from the last convoy gives us a head start. I'll talk to the others, let them decide by majority vote.}
 {295}{}{可能我们的处境非常危急。没有食物，没有药品，甚至连最后一支车队的武器都没有，这让我们领先了一步。我会和其他人谈谈，让他们以多数票决定。}
 ### {296}{}{The right idea...}
-{296}{}{正确的想法。。。}
+{296}{}{正确的想法...}
 ### {297}{}{The tinsmiths are preparing for an attack. You have no chance.}
 {297}{}{铁匠们正在为进攻做准备。你没有机会。}

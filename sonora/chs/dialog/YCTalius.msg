@@ -1,7 +1,7 @@
 ### {100}{}{This is Father Talius.}
 {100}{}{这是塔里乌斯神父。}
 ### {101}{}{You see a mutant in a shabby shirt and hat. He sees a cross on his neck.}
-{101}{}{你看到一个穿着破旧衬衫和帽子的变种人。他看到脖子上有一个十字架。}
+{101}{}{你看到一个穿着破旧衬衫和瓶盖的变种人。他看到脖子上有一个十字架。}
 ### {102}{}{You see before you Talius, a member of the sect of Followers.}
 {102}{}{你看到的是塔里乌斯，一个信徒教派的成员。}
 ### {103}{}{Give it to someone who really deserves to wear it.}
@@ -56,7 +56,7 @@
 ### {224}{}{A lot, but you still don't know anything. Bye.}
 {224}{}{很多，但你仍然什么都不知道。再见}
 ### {225}{}{There will be big changes in the Glow soon. And after that, changes will overtake the rest of the world. This is both frightening and inspiring... Do you need help?}
-{225}{}{Glow很快就会有大的变化。在那之后，变化将超越世界其他地区。这既可怕又鼓舞人心。。。你需要帮助吗？}
+{225}{}{Glow很快就会有大的变化。在那之后，变化将超越世界其他地区。这既可怕又鼓舞人心...你需要帮助吗？}
 
 #About Followers
 ### {230}{}{This is the chapel of the Followers of the Apocalypse. Here I help the ghouls comprehend our teaching.}
@@ -72,7 +72,7 @@
 ### {235}{}{I'm alone here. Only ghouls and mutants can live in the midst of irradiated ruins. But almost all the Followers are ordinary people. Their main base is in another city.}
 {235}{}{我一个人在这里。只有食尸鬼和变种人才能生活在被辐射的废墟中。但几乎所有的追随者都是普通人。他们的主要基地在另一个城市。}
 ### {236}{}{How did you become a Follower if you... well... ghoul?}
-{236}{}{如果你。。。好食尸鬼？}
+{236}{}{如果你...好食尸鬼？}
 ### {237}{}{Would you believe me if I said that I have a different nature? My followers saved me from turning into a disgusting animal while I was lying unconscious under the influence of a mutagen. After that, they let me join their knowledge. They are kind people.}
 {237}{}{如果我说我有不同的本性，你会相信我吗？当我在诱变剂的影响下昏迷时，我的追随者救了我，使我免于变成一只恶心的动物。之后，他们让我加入他们的知识。他们是善良的人。}
 ### {238}{}{I see.}
@@ -116,21 +116,21 @@
 ### {263}{}{Where are you from, Talius?}
 {263}{}{你从哪里来，塔里乌斯？}
 ### {264}{}{My homeland is far away from here, in an old Vault with the number 13.}
-{264}{}{我的家乡离这里很远，在一个编号为13的旧金库里。}
+{264}{}{我的家乡离这里很远，在一个编号为13的旧避难所里。}
 ### {265}{}{I know about several Vaults, but this is the first time I've heard about 13.}
-{265}{}{我知道几个金库，但这是我第一次听说13个。}
+{265}{}{我知道几个避难所，但这是我第一次听说13个。}
 ### {266}{}{I've never heard of it.}
 {266}{}{我从没听说过。}
 ### {1266}{}{I've never heard of it.}
 {1266}{}{我从没听说过。}
 ### {267}{}{Of course. There were many such Vaults. And many of them are no longer working these days.}
-{267}{}{当然有许多这样的金库。他们中的许多人现在已经不工作了。}
+{267}{}{当然有许多这样的避难所。他们中的许多人现在已经不工作了。}
 ### {268}{}{Did the other ghouls also come from Vault 13?}
-{268}{}{其他食尸鬼也来自13号金库吗？}
+{268}{}{其他食尸鬼也来自13号避难所吗？}
 ### {269}{}{No matter. Let's change the subject.}
 {269}{}{不管怎样让我们换个话题。}
 ### {270}{}{Almost all of them are from Vault 12, which is located under the city of Necropolis. I've been there too, looking for details for my hideout. And just after that mutated.}
-{270}{}{几乎所有这些都来自12号金库，它位于墓地之下。我也去过那里，为我的藏身之处寻找细节。就在那之后发生了变异。}
+{270}{}{几乎所有这些都来自12号避难所，它位于墓地之下。我也去过那里，为我的藏身之处寻找细节。就在那之后发生了变异。}
 ### {271}{}{So you're not a ghoul?}
 {271}{}{所以你不是食尸鬼？}
 ### {272}{}{A sad story. We need to change the subject.}
@@ -156,23 +156,23 @@
 
 #Asylum 24
 ### {290}{}{I remembered a conversation about Vaults. Are they in the Glow?}
-{290}{}{我记得有一次关于金库的谈话。他们在发光区吗？}
+{290}{}{我记得有一次关于避难所的谈话。他们在发光区吗？}
 ### {291}{}{Perhaps. Why do you ask?}
 {291}{}{可能你为什么问？}
 ### {292}{}{Just logical reasoning. Nevermind.}
 {292}{}{只是逻辑推理。永远不会。}
 ### {293}{}{Well, I came across this thing. I think it has something to do with Vaults.}
-{293}{}{我偶然发现了这个东西。我认为这与金库有关。}
+{293}{}{我偶然发现了这个东西。我认为这与避难所有关。}
 ### {294}{}{Flask from Vault 24... A relic of ancient times. Where did you get it from?}
-{294}{}{24号金库的烧瓶…一件古代遗迹。你从哪里得到的？}
+{294}{}{24号避难所的烧瓶…一件古代遗迹。你从哪里得到的？}
 ### {295}{}{I found one skeleton in a jumpsuit. I think the skeleton has been lying in ruins for many decades.}
 {295}{}{我在连体裤里发现了一具骷髅。我认为这具骨架已经在废墟中躺了几十年了。}
 ### {296}{}{Perhaps it was one of the observers that the Followers sent to investigate. A lot of good people died in those hard times.}
 {296}{}{也许是追随者派去调查的观察员之一。许多好人在那些艰难的时刻死去。}
 ### {297}{}{Did the followers also come out of the Vault?}
-{297}{}{追随者也从金库出来了吗？}
+{297}{}{追随者也从避难所出来了吗？}
 ### {298}{}{Those who were the progenitors of the Followers. The rest were already born after leaving the Vault or joined from the outside.}
-{298}{}{那些追随者的祖先。其余的人在离开金库后已经出生或从外部加入。}
+{298}{}{那些追随者的祖先。其余的人在离开避难所后已经出生或从外部加入。}
 ### {299}{}{What happened to this Vault?}
 {299}{}{这个保险库发生了什么事？}
 ### {300}{}{I do not know the whole story. The Vault is now useless. The followers took out everything valuable from there. Besides, there are terrible creatures in those places. I don't recommend going there.}
@@ -190,17 +190,17 @@
 ### {306}{}{I'll still take a chance. What if they haven't taken everything out yet? Lead the way.}
 {306}{}{我还是要碰碰运气。如果他们还没有把所有东西都拿出来呢？带路。}
 ### {307}{}{Isn't it too brazen of you to break into someone else's domain? Everything here belongs to the ghouls. Many people don't like your very presence here. I'll show you the Vault, but I'm counting on a good donation in return. Let's say 1000 caps.}
-{307}{}{你闯入别人的领域是不是太厚颜无耻了？这里的一切都属于食尸鬼。很多人不喜欢你在这里。我会带你去看保险库，但我指望得到一笔善款作为回报。比方说1000顶帽子。}
+{307}{}{你闯入别人的领域是不是太厚颜无耻了？这里的一切都属于食尸鬼。很多人不喜欢你在这里。我会带你去看保险库，但我指望得到一笔善款作为回报。比方说1000个瓶盖。}
 ### {308}{}{I can't spend that much. Let's put this question aside for now?}
 {308}{}{我不能花那么多钱。让我们暂时把这个问题放在一边吧？}
 ### {309}{}{OK. Here are 1000 caps. Show me.}
-{309}{}{好的。这是1000顶帽子。给我看看。}
+{309}{}{好的。这是1000个瓶盖。给我看看。}
 ### {310}{}{In return, you'll be safe, asshole. This is the best you can count on.}
 {310}{}{作为回报，你会安全的，混蛋。这是你能指望的最好的。}
 ### {311}{}{I need to get back to Vault 24. Right now.}
-{311}{}{我需要回到24号金库。马上}
+{311}{}{我需要回到24号避难所。马上}
 ### {312}{}{Help me get into Vault 24.}
-{312}{}{帮我进入24号金库。}
+{312}{}{帮我进入24号避难所。}
 
 # Madman
 ### {320}{}{Is there anything I can do to help your people?}
@@ -306,7 +306,7 @@
 ### {385}{}{Here, look. He's not breathing. And he doesn't have half of his body. He's dead.}
 {385}{}{给，看。他没有呼吸。而且他没有半个身体。他死了。}
 ### {386}{}{Give it to me. I'll take care of him next. That's just...}
-{386}{}{把它给我。我下一步会照顾他的。那只是。。。}
+{386}{}{把它给我。我下一步会照顾他的。那只是...}
 ### {387}{}{Just what?}
 {387}{}{只是什么？}
 ### {388}{}{I'm afraid I won't be able to help him without some items. Do you know where the hospital is? I need to get three jars of biogel out of there.}
@@ -320,7 +320,7 @@
 ### {392}{}{Excellent! Well, let's not waste time ? let's start the operation.}
 {392}{}{杰出的好吧，我们不要浪费时间? 让我们开始行动吧。}
 ### {393}{}{Uh, okay...}
-{393}{}{好吧。。。}
+{393}{}{好吧...}
 ### {394}{}{(The operation lasts several hours behind closed doors. You're waiting outside. Finally Talius comes out and says loudly: "Donovan will live!")}
 {394}{}{（手术关起门来持续了几个小时。你在外面等着。最后塔里乌斯出来大声说：“多诺万会活下来的！”）}
 ### {395}{}{Wow, Talius, you're doing wonders!}

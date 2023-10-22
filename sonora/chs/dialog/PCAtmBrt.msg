@@ -4,13 +4,13 @@
 {101}{}{你看到一个皮肤烧焦的人。他穿着带有战前标志的破旧工作服。}
 
 ### {200}{}{Holy Om! Don't scare me like that. You with your pale skin wander around the station like a ghost...}
-{200}{}{天哪！别那样吓我。你苍白的皮肤像鬼一样在车站里游荡。。。}
+{200}{}{天哪！别那样吓我。你苍白的皮肤像鬼一样在车站里游荡...}
 ### {201}{}{There are definitely people who look like dead people here. But it's not me.}
 {201}{}{这里肯定有人看起来像死人。但不是我。}
 ### {202}{}{Sorry, I had no idea of scaring anyone.}
 {202}{}{对不起，我不想吓到任何人。}
 ### {203}{}{Haha. Nevermind, we can only laugh at death... I'm Herbert, the warehouse manager.}
-{203}{}{哈哈。无论如何，我们只能嘲笑死亡。。。我是赫伯特，仓库经理。}
+{203}{}{哈哈。无论如何，我们只能嘲笑死亡...我是赫伯特，仓库经理。}
 ### {204}{}{Warehouse? So, you probably have something useful.}
 {204}{}{仓库所以，你可能有一些有用的东西。}
 

@@ -147,12 +147,12 @@
 ### {303}{}{Oh, no, no, I don't need that. Cancel, cancel!}
 {303}{}{哦，不，不，我不需要。取消，取消！}
 ### {304}{}{The torpedoes are on alert. Starting in... }
-{304}{}{鱼雷处于戒备状态。开始于。。。}
+{304}{}{鱼雷处于戒备状态。开始于...}
 ### {305}{}{ seconds.}
 {305}{}{秒。}
 ### {306}{}{Oops, it's time to escape from a sinking ship...}
-{306}{}{哎呀，是时候逃离沉船了。。。}
+{306}{}{哎呀，是时候逃离沉船了...}
 ### {307}{}{Press the buttons at random.}
 {307}{}{随意按下按钮。}
 ### {308}{}{Oops, it seems that some kind of countdown has begun...}
-{308}{}{哎呀，似乎某种倒计时已经开始了。。。}
+{308}{}{哎呀，似乎某种倒计时已经开始了...}

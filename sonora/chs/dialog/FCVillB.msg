@@ -3,7 +3,7 @@
 ### {101}{}{You see a slave. If you look closely, you will recognize in his dirty, emaciated face your fellow tribesman.}
 {101}{}{你看到一个奴隶。如果你仔细看，你会从他那张又脏又瘦的脸上认出你的部落同胞。}
 ### {102}{}{Oops, I hope no one at the Villa finds out about this...}
-{102}{}{哎呀，我希望别墅里没有人知道这件事。。。}
+{102}{}{哎呀，我希望别墅里没有人知道这件事...}
 ### {103}{}{The traitor! You're possessed by Diablo!}
 {103}{}{叛徒！你被暗黑破坏神附身了！}
 ### {104}{}{Now Hugo will not be able to return to the Villa.}
@@ -34,7 +34,7 @@
 ### {207}{}{Si?}
 {207}{}{Si？}
 ### {208}{}{That was a rat! I've never seen such a huge and vicious one! Eh, I would like to roast her now...}
-{208}{}{那是只老鼠！我从来没有见过这么大又恶毒的家伙！呃，我现在想烤她。。。}
+{208}{}{那是只老鼠！我从来没有见过这么大又恶毒的家伙！呃，我现在想烤她...}
 ### {209}{}{Okay, let's go.}
 {209}{}{好吧，我们走吧。}
 
@@ -47,13 +47,13 @@
 ### {1212}{}{I took the padre's things without asking, and then you told him. And I was punished. Remember?}
 {1212}{}{我没问就拿走了牧师的东西，然后你告诉了他。我受到了惩罚。回想起}
 ### {213}{}{(smiling) Yeah, hehe, it was... (confused) like this...}
-{213}{}{（微笑）是啊，呵呵，是。。。（困惑）像这样。。。}
+{213}{}{（微笑）是啊，呵呵，是...（困惑）像这样...}
 ### {214}{}{I'm here now. Saving your skin. How do you feel, Hugo?}
 {214}{}{我现在在这里。拯救你的皮肤。你感觉怎么样，雨果？}
 ### {215}{}{(mutters under his breath) P-sorry... I'm sorry for everything! (wipes away tears)}
-{215}{}{（低声喃喃自语）对不起。。。我为一切感到抱歉！（擦去眼泪）}
+{215}{}{（低声喃喃自语）对不起...我为一切感到抱歉！（擦去眼泪）}
 ### {216}{}{That's the same thing. Remember this day... "friend".}
-{216}{}{这是一样的。记住这一天。。。“朋友”。}
+{216}{}{这是一样的。记住这一天...“朋友”。}
 ### {217}{}{Come on, I'm not angry, calm down. Let's get out of here.}
 {217}{}{拜托，我不生气，冷静点。让我们离开这里。}
 ### {218}{}{Come on, forget it.}

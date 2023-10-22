@@ -19,9 +19,9 @@
 ### {204}{}{Oh-very good. Capture the spy!}
 {204}{}{哦，非常好。抓住间谍！}
 ### {205}{}{Just try...}
-{205}{}{试着。。。}
+{205}{}{试着...}
 ### {206}{}{Hey, I was misunderstood...}
-{206}{}{嘿，我被误解了。。。}
+{206}{}{嘿，我被误解了...}
 
 ### {210}{}{Your cause is worthy of respect. I don't tolerate all these sectarians, just like you.}
 {210}{}{你的事业值得尊敬。我不能容忍所有这些宗派主义者，就像你一样。}
@@ -46,7 +46,7 @@
 ### {220}{}{Oh...}
 {220}{}{哦}
 ### {221}{}{It was in vain...}
-{221}{}{这是徒劳的。。。}
+{221}{}{这是徒劳的...}
 ### {222}{}{Why don't I just leave and we'll forget about everything that happened here?}
 {222}{}{我为什么不离开，我们就会忘记这里发生的一切？}
 ### {223}{}{You don't expect to leave here without consequences, do you? Let's see what happens.}
@@ -78,7 +78,7 @@
 ### {234}{}{The Rangers sent me. They offer their help in the fight against Aaron.}
 {234}{}{流浪者队派我来，他们在对抗亚伦的比赛中提供帮助。}
 ### {235}{}{Rangers. I was hoping for their help, but I was counting on more... impressive reinforcements. In any case, we welcome any help.}
-{235}{}{游骑兵队。我希望得到他们的帮助，但我指望更多。。。令人印象深刻的增援部队。无论如何，我们欢迎任何帮助。}
+{235}{}{游骑兵队。我希望得到他们的帮助，但我指望更多...令人印象深刻的增援部队。无论如何，我们欢迎任何帮助。}
 ### {236}{}{Our cause is right.}
 {236}{}{我们的事业是正确的。}
 ### {237}{}{Waiting for instructions.}
@@ -172,7 +172,7 @@
 ### {316}{}{The fighter you saved told you what happened. Getting out of such a trap is impressive.}
 {316}{}{你救的那个战士告诉你发生了什么。摆脱这样的陷阱令人印象深刻。}
 ### {317}{}{Oh yes. Crossfire, explosions... You should have seen what a shootout there was. Our lives were hanging by a thread.}
-{317}{}{哦，是的。交叉火力，爆炸。。。你应该看到那里发生了多么激烈的枪战。我们的生命危在旦夕。}
+{317}{}{哦，是的。交叉火力，爆炸...你应该看到那里发生了多么激烈的枪战。我们的生命危在旦夕。}
 ### {318}{}{It wasn't difficult.}
 {318}{}{这并不难。}
 

@@ -5,9 +5,9 @@
 ### {102}{}{Guns are prohibited in the city. Hide it quickly.}
 {102}{}{市内禁止携带枪支。快把它藏起来。}
 ### {103}{}{Oh, my respects, sir... I, uh, need to work... if I may...}
-{103}{}{哦，尊敬的先生。。。I、 呃，需要工作。。。如果可以的话。。。}
+{103}{}{哦，尊敬的先生...I、 呃，需要工作...如果可以的话...}
 ### {104}{}{Don't talk to me while there's a curfew in town...}
-{104}{}{镇上有宵禁的时候别跟我说话。。。}
+{104}{}{镇上有宵禁的时候别跟我说话...}
 
 #First meeting
 ### {200}{}{Hola, se?or. My name is Juan. But I haven't seen you before.}
@@ -85,7 +85,7 @@
 ### {237}{}{And where are the plantations?}
 {237}{}{种植园在哪里？}
 ### {238}{}{In the east... But I do not advise you to go there. Many of us won't like it.}
-{238}{}{在东方。。。但我不建议你去那里。我们中的许多人不会喜欢它。}
+{238}{}{在东方...但我不建议你去那里。我们中的许多人不会喜欢它。}
 ### {239}{}{How interesting. Can I buy some crops?}
 {239}{}{真有趣。我能买些庄稼吗？}
 ### {240}{}{Actually, there is not enough harvest for everyone. Therefore, I am forbidden to trade with everyone in a row.}
@@ -101,7 +101,7 @@
 ### {245}{}{And who's in charge here?}
 {245}{}{谁是这里的负责人？}
 ### {246}{}{You probably have a surplus that no one will notice. And I have extra caps...}
-{246}{}{你可能有盈余，没有人会注意到。我还有额外的帽子。。。}
+{246}{}{你可能有盈余，没有人会注意到。我还有额外的瓶盖...}
 ### {247}{}{I see you know how to bargain. Okay, if you need agave juice, contact us. Although I don't understand why you need it. Do you really want to make tequila?}
 {247}{}{我看你知道怎么讨价还价。好的，如果你需要龙舌兰汁，请联系我们。虽然我不明白你为什么需要。你真的想做龙舌兰酒吗？}
 ### {248}{}{I'm thinking about it.}

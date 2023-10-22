@@ -1,7 +1,7 @@
 ### {100}{}{This is a hammering machine.}
 {100}{}{这是一台锤击机。}
 ### {101}{}{Here is an installation for the production of fake caps.}
-{101}{}{这是一个制作假帽子的装置。}
+{101}{}{这是一个制作假瓶盖的装置。}
 ### {102}{}{The installation is destroyed.}
 {102}{}{安装已损坏。}
 ### {103}{}{The installation has already been destroyed.}

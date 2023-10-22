@@ -15,9 +15,9 @@
 ### {201}{}{Calm down. Your father sent me.}
 {201}{}{冷静你父亲派我来的。}
 ### {202}{}{Mine... Dad? Daddy... Let's get out of here soon.}
-{202}{}{矿爸爸爸爸。。。让我们尽快离开这里。}
+{202}{}{矿爸爸爸爸...让我们尽快离开这里。}
 ### {203}{}{I'm going to untie you now... Let's go, but quietly.}
-{203}{}{我现在要给你松绑。。。我们走吧，但要安静。}
+{203}{}{我现在要给你松绑...我们走吧，但要安静。}
 ### {204}{}{We shouldn't be noticed. If the robbers see us, they'll probably shoot us.}
 {204}{}{我们不应该被注意到。如果劫匪看到我们，他们可能会开枪打死我们。}
 ### {205}{}{Okay, let's go.}

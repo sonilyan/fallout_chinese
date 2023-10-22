@@ -12,7 +12,7 @@
 ### {113}{}{Hey, Dad, do you want a shot of fractions?}
 {113}{}{嘿，爸爸，你想要分数吗？}
 ### {114}{}{Where do they keep the caps?}
-{114}{}{他们把帽子放在哪里？}
+{114}{}{他们把瓶盖放在哪里？}
 ### {115}{}{Damn, these beggars don't have any food!}
 {115}{}{该死，这些乞丐没有食物！}
 ### {116}{}{Bitches, who do you take me for?!}
@@ -34,7 +34,7 @@
 ### {203}{}{(thinks for a second) Fuck you!}
 {203}{}{（想了想）操你！}
 ### {204}{}{Ugh...}
-{204}{}{啊。。。}
+{204}{}{啊...}
 ### {205}{}{(thinks for a second and then rushes away)}
 {205}{}{（想了想，然后匆匆离去）}
 ### {206}{}{Come on, run away from here.}

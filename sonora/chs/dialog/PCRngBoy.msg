@@ -17,7 +17,7 @@
 ### {114}{}{Boring. When is the new fight?}
 {114}{}{没趣的新的战斗是什么时候？}
 ### {115}{}{I'm putting all my caps on this fighter.}
-{115}{}{我把我所有的帽子都戴在这架战斗机上。}
+{115}{}{我把我所有的瓶盖都戴在这架战斗机上。}
 ### {116}{}{Are you betting or participating?}
 {116}{}{您是在下注还是参与？}
 ### {117}{}{This bet will be the last one.}
@@ -55,7 +55,7 @@
 ### {162}{}{Hey, hey, take it easy!}
 {162}{}{嘿，嘿，别紧张！}
 ### {163}{}{Cool, champ, but I bet on your opponent. So now I'm bankrupt...}
-{163}{}{很酷，冠军，但我把赌注押在你的对手身上。所以现在我破产了。。。}
+{163}{}{很酷，冠军，但我把赌注押在你的对手身上。所以现在我破产了...}
 ### {164}{}{Why don't you fight anymore?}
 {164}{}{你为什么不再打架？}
 ### {165}{}{Just try to hit me.}

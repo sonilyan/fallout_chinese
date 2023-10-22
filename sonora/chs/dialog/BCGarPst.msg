@@ -22,11 +22,11 @@
 ### {208}{}{Don't think that I will be afraid of your threats.}
 {208}{}{别以为我会害怕你的威胁。}
 ### {209}{}{What are you, it's a mistake, I wasn't there...}
-{209}{}{你是什么，这是个错误，我当时不在。。。}
+{209}{}{你是什么，这是个错误，我当时不在...}
 ### {210}{}{Come on, make up fairy tales. I definitely remember your face, bastard!}
 {210}{}{来吧，编童话吧。我绝对记得你的脸，混蛋！}
 ### {211}{}{Okay, that was a mistake. We thought the Brahmins were wild...}
-{211}{}{好吧，那是个错误。我们以为婆罗门是狂野的。。。}
+{211}{}{好吧，那是个错误。我们以为婆罗门是狂野的...}
 ### {212}{}{Yeah. Wild. They thought. It is against such outsiders that Mangas and others act. I hope you're leaving the pueblo soon, thief. Otherwise I can't vouch for myself!}
 {212}{}{是 啊自然生长的他们想。曼加斯和其他人正是针对这些局外人采取行动的。我希望你尽快离开普韦布洛，小偷。否则我不能为自己担保！}
 ### {213}{}{And what are you going to do now?}

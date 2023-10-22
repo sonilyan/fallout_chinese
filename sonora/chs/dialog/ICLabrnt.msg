@@ -22,7 +22,7 @@
 ### {118}{}{I don't trust you or strangers like you.}
 {118}{}{我不信任你，也不信任像你这样的陌生人。}
 ### {119}{}{Our people have suffered so much from normics...}
-{119}{}{我们的人民遭受了如此多的病毒感染。。。}
+{119}{}{我们的人民遭受了如此多的病毒感染...}
 
 ### {120}{}{Oh, come in, friend, have a seat.}
 {120}{}{哦，进来吧，朋友，坐下。}

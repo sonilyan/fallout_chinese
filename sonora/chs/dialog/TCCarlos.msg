@@ -1,23 +1,23 @@
 ### {100}{}{You see Carlos.}
 {100}{}{你看到卡洛斯了。}
 ### {101}{}{Here is one of the peasants of the Villa. However, he became somehow... other.}
-{101}{}{这是别墅里的一个农民。然而，不知怎么的，他变得。。。另外}
+{101}{}{这是别墅里的一个农民。然而，不知怎么的，他变得...另外}
 ### {102}{}{They say real science is coming back to Casa Nueva. Like before the Great War. I have to be there.}
 {102}{}{他们说真正的科学正在回到努瓦之家。就像大战前一样。我必须在那里。}
 ### {103}{}{I'll be back home... to make it more civilized.}
-{103}{}{我会回家的。。。让它更文明。}
+{103}{}{我会回家的...让它更文明。}
 ### {104}{}{I have no choice but to go on a journey. I hope to see a lot of new things.}
 {104}{}{我别无选择，只能去旅行。我希望看到很多新事物。}
 ### {105}{}{How... how can you...}
-{105}{}{怎样你怎么能。。。}
+{105}{}{怎样你怎么能...}
 ### {106}{}{You... it's your fault...}
-{106}{}{你是你的错。。。}
+{106}{}{你是你的错...}
 
 #The first dialog
 ### {200}{}{? You... why are you here?}
 {200}{}{？你你为什么在这里？}
 ### {201}{}{Obviously to save your ass, Carlos. Let's get out of here...}
-{201}{}{显然是为了救你，卡洛斯。让我们离开这里。。。}
+{201}{}{显然是为了救你，卡洛斯。让我们离开这里...}
 ### {202}{}{Salvation... Salvation from what? From the mouse fuss in the beds with dying crops? From diseases for which the peasants will never find a cure? From enemies against whom we didn't even have primitive rifles? I don't see salvation. I see only the narrow and limited horizons of a handful of diggers.}
 {202}{}{拯救什么拯救？从老鼠在有垂死庄稼的床上大惊小怪？农民永远找不到治愈的病？来自那些我们甚至没有原始步枪的敌人？我看不到救赎。我只看到少数挖掘者狭窄而有限的视野。}
 ### {203}{}{Who are you talking about?}
@@ -25,7 +25,7 @@
 ### {204}{}{We are savages, amigo, understand this. Savages who saw electric light for the first time only after being in slavery. It was like living in a tin can until someone opened it and showed us the vast world around. And the Villa turned out to be only a small part of it, and not the center, as previously thought.}
 {204}{}{我们是野蛮人，朋友，明白这一点。野蛮人，在成为奴隶后才第一次看到电灯。这就像生活在一个锡罐里，直到有人打开它，向我们展示了周围广阔的世界。事实证明，维拉只是其中的一小部分，而不是之前认为的中心。}
 ### {205}{}{Wait a minute...}
-{205}{}{等一下。。。}
+{205}{}{等一下...}
 ### {206}{}{Only here I was able to realize myself and my talents. Because my passion for technology was banned in my homeland. I hid it so as not to cause problems for myself and others. Now I am free to follow the call of my mind, and not drag myself after the pack. Go away, amigo. Leave me here.}
 {206}{}{只有在这里，我才能认识到自己和我的才能。因为我对科技的热情在我的祖国被禁止了。我把它藏起来，以免给自己和他人带来麻烦。现在我可以自由地听从我的想法，而不是拖泥带水。走开，朋友。把我留在这里。}
 ### {207}{}{I'll leave you for now. But don't think you'll get rid of me so easily.}
@@ -57,7 +57,7 @@
 ### {238}{}{I'm going to go to the Restricted Area. Carlos, I really need help.}
 {238}{}{我要去禁区。卡洛斯，我真的需要帮助。}
 ### {239}{}{I... can't help you... The tinsmiths keep a close eye on me and keep a clear record of their warehouses.}
-{239}{}{我…帮不了你。。。锡匠们密切关注着我，并对他们的仓库做了清晰的记录。}
+{239}{}{我…帮不了你...锡匠们密切关注着我，并对他们的仓库做了清晰的记录。}
 ### {240}{}{Thanks for the answers. Now it's time for me to get busy.}
 {240}{}{谢谢你的回答。现在是我忙碌的时候了。}
 ### {241}{}{Come on, the tinkerers should be interested in my success!}
@@ -83,7 +83,7 @@
 ### {254}{}{You're saying hurtful words. See you later.}
 {254}{}{你在说伤人的话。回头见。}
 ### {255}{}{Come to think of it, I know how to stay out of suspicion...}
-{255}{}{仔细想想，我知道如何远离怀疑。。。}
+{255}{}{仔细想想，我知道如何远离怀疑...}
 ### {256}{}{That's a good girl.}
 {256}{}{那是个好女孩。}
 ### {257}{}{(looks around) If they ask, I have nothing to do with it.}
@@ -91,7 +91,7 @@
 ### {258}{}{Come on, amigo.}
 {258}{}{来吧，朋友。}
 ### {259}{}{We'll see about that...}
-{259}{}{我们拭目以待。。。}
+{259}{}{我们拭目以待...}
 
 #Care
 ### {300}{}{So are you going back to the Villa?}
@@ -109,7 +109,7 @@
 ### {306}{}{Have you already heard the news about your "thefts"?}
 {306}{}{你听说过关于你“盗窃”的消息吗？}
 ### {307}{}{So this is your doing? Ooh... It looks like you have a serious attitude.}
-{307}{}{这是你干的吗？哦。。。看起来你的态度很严肃。}
+{307}{}{这是你干的吗？哦...看起来你的态度很严肃。}
 ### {308}{}{You can't hide anywhere. My padre has ordered you to be returned alive or dead.}
 {308}{}{你不能躲在任何地方。我的牧师已经命令你要么活着要么死了。}
 ### {309}{}{I'm sorry, but this is the only way to bring you to reason.}
@@ -121,7 +121,7 @@
 ### {312}{}{So far it is. But I'm growing above myself. And someday I will be able to join the ranks of tinsmiths on equal terms.}
 {312}{}{到目前为止。但我正在超越自我。总有一天，我将能够平等地加入锡匠的行列。}
 ### {313}{}{We'll see about that...}
-{313}{}{我们拭目以待。。。}
+{313}{}{我们拭目以待...}
 ### {314}{}{Right. Tinkerers are distrustful of the rest of the inhabitants of the Wastelands. Their trust can only be achieved by fanaticism about technology. It will be very difficult to join their ranks as equals.}
 {314}{}{正确的修补匠们不信任荒原上的其他居民。他们的信任只能通过对技术的狂热来实现。要平等地加入他们的行列将是非常困难的。}
 ### {315}{}{Then go back to the Villa and bring your knowledge there - that's your way.}
@@ -140,7 +140,7 @@
 ### {321}{}{But are there places where your talents will be in demand?}
 {321}{}{但有没有地方会对你的才能有需求？}
 ### {322}{}{Hmm. Phoenix? No, it's a crappy place where the caps decide too much. That leaves Casa Nueva. Caravaneers told about this small settlement. They say there's a whole scientific laboratory where the best brains of Arizona flock.}
-{322}{}{嗯，菲尼克斯？不，这是一个糟糕的地方，帽子决定得太多了。那就剩下努瓦之家了。房车客讲述了这个小定居点的情况。他们说有一个完整的科学实验室，亚利桑那州最优秀的人才聚集在那里。}
+{322}{}{嗯，菲尼克斯？不，这是一个糟糕的地方，瓶盖决定得太多了。那就剩下努瓦之家了。房车客讲述了这个小定居点的情况。他们说有一个完整的科学实验室，亚利桑那州最优秀的人才聚集在那里。}
 ### {323}{}{So what prevents you from going there?}
 {323}{}{是什么阻止你去那里？}
 ### {324}{}{This is a kind of closed settlement. Maybe I just won't be accepted. While I'm here trying to make a new life, can you go to the scientists and talk about my vacancy?}

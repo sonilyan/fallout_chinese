@@ -26,7 +26,7 @@
 ### {231}{}{(You find a lot of grammatical errors in the declarations.)}
 {231}{}{（你在声明中发现了很多语法错误。）}
 ### {232}{}{God, there are so many mistakes here! This misunderstanding needs to be corrected...}
-{232}{}{天啊，这里有那么多错误！这个误解需要纠正。。。}
+{232}{}{天啊，这里有那么多错误！这个误解需要纠正...}
 ### {233}{}{(The text is fine now.)}
 {233}{}{（文本现在很好。）}
 ### {234}{}{Yes. That's better.}
@@ -34,4 +34,4 @@
 ### {235}{}{(You don't find any errors.)}
 {235}{}{（您没有发现任何错误。）}
 ### {236}{}{The text is fine. Well, it seems so to me...}
-{236}{}{文本很好。嗯，在我看来。。。}
+{236}{}{文本很好。嗯，在我看来...}

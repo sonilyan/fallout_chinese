@@ -3,7 +3,7 @@
 ### {101}{}{You see a surprisingly diligent and executive cashier. It looks like she's been well trained to obey.}
 {101}{}{你会看到一个令人惊讶的勤奋和执行出纳。她似乎受过良好的服从训练。}
 ### {102}{}{P-sorry, but you'll have to take it off... And-or I'll call security...}
-{102}{}{抱歉，你得把它摘下来…否则我会叫保安。。。}
+{102}{}{抱歉，你得把它摘下来…否则我会叫保安...}
 
 ### {105}{}{Security! There's a robber here!}
 {105}{}{安全这里有个强盗！}
@@ -46,7 +46,7 @@
 ### {213}{}{Is the casino still working?}
 {213}{}{赌场还在营业吗？}
 ### {214}{}{Oh, yes. We are still restoring the interior after the explosion in the cathedral, but you can already use all the standard types of entertainment... if you are satisfied with this mess.}
-{214}{}{哦，是的。大教堂爆炸后，我们仍在修复内部，但你已经可以使用所有标准类型的娱乐。。。如果你对这种混乱感到满意。}
+{214}{}{哦，是的。大教堂爆炸后，我们仍在修复内部，但你已经可以使用所有标准类型的娱乐...如果你对这种混乱感到满意。}
 ### {215}{}{Mess? Do you even know what kind of world we live in? I'm no stranger to this devastation.}
 {215}{}{混乱你知道我们生活在一个什么样的世界吗？我对这种破坏并不陌生。}
 ### {216}{}{So the casino is in a state of disrepair? That's it, I'm leaving here.}
@@ -70,7 +70,7 @@
 ### {224}{}{Of course, we will make an exception for you. But the limit of caps for such purposes is limited.}
 {224}{}{当然，我们会为您破例。但这类目的的上限是有限的。}
 ### {225}{}{Thank you. I will keep in mind that now you have caps.}
-{225}{}{非常感谢。我会记住，现在你有帽子了。}
+{225}{}{非常感谢。我会记住，现在你有瓶盖了。}
 ### {226}{}{Yes, but I'm sorry, I have no orders in your name.}
 {226}{}{是的，但很抱歉，我没有以你的名义下订单。}
 ### {227}{}{No problem.}
@@ -80,7 +80,7 @@
 ### {229}{}{I believe it willingly. I think we'll make an exception for you. But the limit of caps for such purposes is limited.}
 {229}{}{我很乐意相信。我想我们会为你破例的。但这类目的的上限是有限的。}
 ### {230}{}{Thank you. I'll keep in mind that now you have caps.}
-{230}{}{非常感谢。我要记住，现在你有帽子了。}
+{230}{}{非常感谢。我要记住，现在你有瓶盖了。}
 ### {231}{}{I believe it willingly. But for a casino, caps are preferable. You can exchange your things at the local market.}
 {231}{}{我很乐意相信。但对于赌场来说，上限更可取。你可以在当地市场换货。}
 ### {232}{}{You refuse in vain.}
@@ -90,7 +90,7 @@
 ### {234}{}{I'm sorry, you're absolutely right. From now on, you can count on a deposit.}
 {234}{}{对不起，你说得很对。从现在起，你可以指望存款。}
 ### {235}{}{Thank you. I'll keep in mind that now you have caps.}
-{235}{}{非常感谢。我要记住，现在你有帽子了。}
+{235}{}{非常感谢。我要记住，现在你有瓶盖了。}
 ### {236}{}{I'm sorry, but you know your reputation in *this* city.}
 {236}{}{对不起，你知道你在这个城市的名声。}
 ### {237}{}{Bitch, are you implying that I'm despised here?}
@@ -112,19 +112,19 @@
 ### {244}{}{In this case, I just need to talk to the administrator. Have a nice day.}
 {244}{}{在这种情况下，我只需要和管理员谈谈。祝你今天愉快。}
 ### {245}{}{Of course, there is deception all around. Damn casino...}
-{245}{}{当然，欺骗无处不在。该死的赌场。。。}
+{245}{}{当然，欺骗无处不在。该死的赌场...}
 ### {246}{}{Wait! Uh, excuse me... sir...}
-{246}{}{等待对不起…先生。。。}
+{246}{}{等待对不起…先生...}
 ### {1246}{}{Wait! Uh, excuse me... ma'am...}
-{1246}{}{等待对不起…女士。。。}
+{1246}{}{等待对不起…女士...}
 ### {247}{}{Is something wrong?}
 {247}{}{有什么不对劲吗？}
 
 #Exchange
 ### {250}{}{I want to exchange the caps for casino chips.}
-{250}{}{我想用帽子换赌场筹码。}
+{250}{}{我想用瓶盖换赌场筹码。}
 ### {251}{}{How many caps do you want to exchange?}
-{251}{}{你想换多少顶帽子？}
+{251}{}{你想换多少个瓶盖？}
 ### {252}{}{10 caps.}
 {252}{}{10个盖帽。}
 ### {253}{}{50 caps.}
@@ -142,7 +142,7 @@
 ### {259}{}{Thank you.}
 {259}{}{非常感谢。}
 ### {260}{}{You don't have enough caps.}
-{260}{}{你没有足够的帽子。}
+{260}{}{你没有足够的瓶盖。}
 ### {261}{}{Okay.}
 {261}{}{可以}
 ### {262}{}{You are welcome. (you got caps in exchange for casino chips)}

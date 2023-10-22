@@ -95,7 +95,7 @@
 ### {306}{}{Believe me, not a single caravan goes there now. Something went wrong with the Brotherhood of Steel, as a result, their ship exploded like a damn demolition beetle. Now instead of a ship there is a radioactive funnel and not a single living soul.}
 {306}{}{相信我，现在没有一个商队去那里。钢铁兄弟会出了问题，结果他们的船像一只该死的拆迁甲虫一样爆炸了。现在，取而代之的是一艘放射性漏斗，而不是一个活着的灵魂。}
 ### {307}{}{That's right... surprise.}
-{307}{}{没错。。。惊喜}
+{307}{}{没错...惊喜}
 ### {308}{}{I don't think so.}
 {308}{}{我不这么认为。}
 
@@ -126,9 +126,9 @@
 ### {322}{}{I will pay 1000 caps for the escort.}
 {322}{}{我将支付1000顶护送费。}
 ### {323}{}{Are you sure you have that many caps?}
-{323}{}{你确定你有那么多帽子吗？}
+{323}{}{你确定你有那么多瓶盖吗？}
 ### {324}{}{Let me count it...}
-{324}{}{让我数一下。。。}
+{324}{}{让我数一下...}
 
 #Other locations
 ### {400}{}{We will spend the night in this settlement. You have a little time to look around. Do not oversleep the departure of the caravan, otherwise we will leave without you.}

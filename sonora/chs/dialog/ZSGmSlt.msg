@@ -46,7 +46,7 @@
 ### {125}{}{Hey, it's a robbery!}
 {125}{}{嘿，这是抢劫！}
 ### {126}{}{That was the last trick...}
-{126}{}{那是最后的把戏。。。}
+{126}{}{那是最后的把戏...}
 ### {127}{}{It won't be easy to win back.}
 {127}{}{要赢回来并不容易。}
 ### {128}{}{Damn it! This machine ate my last chips!}

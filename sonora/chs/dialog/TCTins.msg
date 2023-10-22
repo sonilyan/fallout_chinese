@@ -82,7 +82,7 @@
 ### {146}{}{Without the Cathedral of Fire, it will become much harder to obtain nuclear material.}
 {146}{}{如果没有火之大教堂，获得核材料将变得更加困难。}
 ### {147}{}{After the explosion in the Cathedral, the value of the caps plummeted.}
-{147}{}{大教堂发生爆炸后，这些帽子的价值暴跌。}
+{147}{}{大教堂发生爆炸后，这些瓶盖的价值暴跌。}
 ### {148}{}{We need new partners. The Cathedral of Fire is no longer in business.}
 {148}{}{我们需要新的合作伙伴。火之大教堂已经不营业了。}
 ### {149}{}{That's what happens when technology falls into the wrong hands.}

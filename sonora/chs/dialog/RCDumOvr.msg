@@ -104,9 +104,9 @@
 ### {265}{}{Why do we need this controller?}
 {265}{}{为什么我们需要这个控制器？}
 ### {266}{}{Look at that big thing in the middle of the hall. Inside she has a screw submerged in the water of the Colorado River. It turns and generates electricity... You know what "electricity" is, right?}
-{266}{}{看看大厅中间的那个大东西。在里面，她有一个螺丝被淹没在科罗拉多河的水中。它转动并发电。。。你知道什么是“电”，对吧？}
+{266}{}{看看大厅中间的那个大东西。在里面，她有一个螺丝被淹没在科罗拉多河的水中。它转动并发电...你知道什么是“电”，对吧？}
 ### {267}{}{I think I can guess...}
-{267}{}{我想我能猜到。。。}
+{267}{}{我想我能猜到...}
 ### {268}{}{Through the controller, the current is directed to the power transformers outside, and then to the power lines. But now nothing works there - just bare and useless wires.}
 {268}{}{通过控制器，电流被引导到外部的电力变压器，然后被引导到电力线。但现在那里什么都不管用——只有裸露无用的电线。}
 ### {269}{}{I need to know more.}
@@ -120,7 +120,7 @@
 {272}{}{但它是有效的。看一看。}
 
 ### {273}{}{Well, let's see... Holy heavens, it really worked!}
-{273}{}{好吧，让我们看看。。。天哪，它真的起作用了！}
+{273}{}{好吧，让我们看看...天哪，它真的起作用了！}
 ### {274}{}{This job is not for nothing, you know.}
 {274}{}{你知道，这份工作不是白干的。}
 ### {275}{}{Yes... of course. Here's a pack of nuclear batteries for your trouble. If you don't need them, exchange them in the nearest city for something useful.}
@@ -134,7 +134,7 @@
 ### {279}{}{Thank you. It's a pity that you won't be able to replace me in this post when I retire. Now leave me with this baby for a while. She needs extra care.}
 {279}{}{非常感谢。很遗憾，我退休后你不能代替我担任这一职务。现在让我和这个孩子在一起一段时间。她需要额外的照顾。}
 ### {280}{}{Okay, I'll be back later... when you bring this iron to life.}
-{280}{}{好的，我稍后回来。。。当你把这个熨斗变成现实的时候。}
+{280}{}{好的，我稍后回来...当你把这个熨斗变成现实的时候。}
 ### {281}{}{Don't overdo it, old man. The wires can respond to your caresses with an electric current.}
 {281}{}{别做得太过火了，老人。电线可以通过电流对你的爱抚做出反应。}
 ### {282}{}{}
@@ -177,20 +177,20 @@
 ### {320}{}{Bad news - that guy from Garage City died on the way.}
 {320}{}{坏消息——车库城的那个家伙在路上死了。}
 ### {321}{}{Sorry for the guy, he would be extremely useful to the Rangers in the future... Well, we'll have to work with local guys, although there is not a single one among them who is passionate about technology. I don't have any more assignments for you either. Thank you for your service.}
-{321}{}{对不起这个家伙，他将来会对流浪者队非常有用。。。好吧，我们将不得不与当地人合作，尽管他们中没有一个人对技术充满热情。我也没有更多的任务给你了。感谢您的服务。}
+{321}{}{对不起这个家伙，他将来会对流浪者队非常有用...好吧，我们将不得不与当地人合作，尽管他们中没有一个人对技术充满热情。我也没有更多的任务给你了。感谢您的服务。}
 ### {322}{}{Will I get nothing for my efforts?}
 {322}{}{我的努力会一无所获吗？}
 ### {323}{}{Your labors were useless. Go somewhere already, don't interfere with work.}
 {323}{}{你的劳动毫无用处。已经去某个地方了，不要干扰工作。}
 ### {324}{}{That's it, then...}
-{324}{}{就这样，那么。。。}
+{324}{}{就这样，那么...}
 
 ### {330}{}{This is the gifted guy you were looking for.}
 {330}{}{这就是你要找的那个有天赋的人。}
 ### {331}{}{Hello, son! Here, at the Rangers, you will surely like it. I can see it in your eyes. But first you need to wash a little...}
-{331}{}{你好，儿子！在这里，在流浪者队，你一定会喜欢的。我能从你的眼睛里看到。但首先你需要洗一点。。。}
+{331}{}{你好，儿子！在这里，在流浪者队，你一定会喜欢的。我能从你的眼睛里看到。但首先你需要洗一点...}
 ### {332}{}{Ahem...}
-{332}{}{啊。。。}
+{332}{}{啊...}
 ### {333}{}{...And you've done a great service to the Rangers by bringing this guy in. Look to the quartermaster, let him pick up a reward for you.}
 {333}{}{……你把这个家伙带进来为流浪者队做了很大的贡献。看看四分卫，让他为你拿奖励。}
 ### {1333}{}{...And you've done a great service to the Rangers by bringing this guy in. Look to the quartermaster, let him pick up a reward for you.}

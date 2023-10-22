@@ -117,11 +117,11 @@
 ### {260}{}{Can you at least pay me for this job?}
 {260}{}{你至少能付我这份工作的钱吗？}
 ### {261}{}{To be honest, I don't have any caps right now. How about a share of the first fees?}
-{261}{}{老实说，我现在没有帽子。第一笔费用分成如何？}
+{261}{}{老实说，我现在没有瓶盖。第一笔费用分成如何？}
 ### {262}{}{I'm in. I'll find you some strings.}
 {262}{}{我在。我会给你找一些线索。}
 ### {263}{}{I don't need any caps or extra hassle. Be.}
-{263}{}{我不需要任何帽子或额外的麻烦。是}
+{263}{}{我不需要任何瓶盖或额外的麻烦。是}
 ### {264}{}{Sorry, it's not for me. Goodbye.}
 {264}{}{对不起，这不是给我的。再见。}
 ### {265}{}{Do you know where you can find guitar strings?}
@@ -173,13 +173,13 @@
 ### {288}{}{Fernando is already here. But Beatrice died.}
 {288}{}{费尔南多已经来了。但是比阿特丽斯死了。}
 ### {289}{}{Poor Beatrice! Finally, she has suffered in this life. Even a little enviable...}
-{289}{}{可怜的碧翠丝！最后，她在这一生中遭受了痛苦。甚至有点令人羡慕。。。}
+{289}{}{可怜的碧翠丝！最后，她在这一生中遭受了痛苦。甚至有点令人羡慕...}
 ### {290}{}{Beatrice is already here. But Fernando died.}
 {290}{}{碧翠丝已经来了。但是费尔南多死了。}
 ### {291}{}{Poor Fernando! Finally, he has suffered in this life. Even a little envious...}
-{291}{}{可怜的费尔南多！最后，他在这一生中遭受了痛苦。甚至有点嫉妒。。。}
+{291}{}{可怜的费尔南多！最后，他在这一生中遭受了痛苦。甚至有点嫉妒...}
 ### {292}{}{Woe to me! A dream slips out of your hands like ashes between your fingers... listen, what about a hologram? I know, there is one preserved in the Chula Vista shopping center. Maybe she will replace the missing participants for me? Will you bring the holographic module? I will certainly be able to reconfigure it for my purposes.}
-{292}{}{我真倒霉！一个梦从你的手中滑落，就像你手指间的灰烬。。。听着，全息图怎么样？我知道，Chula Vista购物中心保存着一个。也许她会替我替换那些失踪的参与者？你会带来全息模块吗？我肯定能够为我的目的重新配置它。}
+{292}{}{我真倒霉！一个梦从你的手中滑落，就像你手指间的灰烬...听着，全息图怎么样？我知道，Chula Vista购物中心保存着一个。也许她会替我替换那些失踪的参与者？你会带来全息模块吗？我肯定能够为我的目的重新配置它。}
 ### {293}{}{Seriously? Okay, we'll have to look for this thing, otherwise you'll kill yourself like that.}
 {293}{}{认真地好吧，我们得去找这个东西，否则你会那样自杀的。}
 ### {294}{}{I have a holographic module. Here you go.}
@@ -215,6 +215,6 @@
 ### {306}{}{Mariachi de Jose Solis? Of course!}
 {306}{}{Mariachi de Jose Solis？当然}
 ### {307}{}{That's nice...}
-{307}{}{太好了。。。}
+{307}{}{太好了...}
 ### {308}{}{By the way, what do you call the band?}
 {308}{}{顺便问一下，你叫这支乐队什么？}

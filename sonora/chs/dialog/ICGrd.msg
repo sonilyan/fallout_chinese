@@ -12,7 +12,7 @@
 ### {113}{}{I hate it when people stare at me.}
 {113}{}{我讨厌别人盯着我看。}
 ### {114}{}{Hmm...}
-{114}{}{嗯。。。}
+{114}{}{嗯...}
 ### {115}{}{Do you play dice?}
 {115}{}{你会玩骰子吗？}
 ### {116}{}{Don't wake up the beast in me.}
@@ -33,7 +33,7 @@
 ### {123}{}{Maybe we'll face off?}
 {123}{}{也许我们会对峙？}
 ### {124}{}{It got boring...}
-{124}{}{它变得无聊。。。}
+{124}{}{它变得无聊...}
 ### {125}{}{Levi says there will be a cure soon.}
 {125}{}{李维说很快就会有治愈方法。}
 ### {126}{}{Do you want to become like me?}

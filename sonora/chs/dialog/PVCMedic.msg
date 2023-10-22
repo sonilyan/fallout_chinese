@@ -3,7 +3,7 @@
 ### {101}{}{Here is a surgeon in a blood-stained robe.}
 {101}{}{这是一位穿着血迹斑斑长袍的外科医生。}
 ### {102}{}{If I don't hurry up, then no medicine will help me...}
-{102}{}{如果我不快点，那么没有药能帮我。。。}
+{102}{}{如果我不快点，那么没有药能帮我...}
 
 #The first dialog
 ### {200}{}{What's the problem?}
@@ -15,11 +15,11 @@
 ### {1202}{}{(folds gloves and rubs his hands) I am alone, but there are many patients. Are you something special?}
 {1202}{}{（叠好手套，揉了揉他的手）我一个人，但病人很多。你有什么特别的东西吗？}
 ### {203}{}{I don't know... What will make me special?}
-{203}{}{我不知道。。。什么会让我与众不同？}
+{203}{}{我不知道...什么会让我与众不同？}
 ### {1203}{}{I don't know... What will make me special?}
-{1203}{}{我不知道。。。什么会让我与众不同？}
+{1203}{}{我不知道...什么会让我与众不同？}
 ### {204}{}{A special title of a Follower of Fire... Or a large amount of caps. So do you need something?}
-{204}{}{火的追随者的特别称号。。。或者大量的上限。你需要什么吗？}
+{204}{}{火的追随者的特别称号...或者大量的上限。你需要什么吗？}
 ### {205}{}{Perhaps.}
 {205}{}{可能}
 ### {206}{}{No, nothing. I was just curious.}
@@ -49,7 +49,7 @@
 ### {227}{}{The usual case. We will cure it. But since you are not a Follower, you will have to make a donation - }
 {227}{}{通常的情况。我们会治好的。但既然你不是追随者，你就必须捐款-}
 ### {228}{}{ caps.}
-{228}{}{帽子。}
+{228}{}{瓶盖。}
 ### {229}{}{Here are the bottlecaps.}
 {229}{}{这是水瓶。}
 ### {230}{}{The usual case. We will cure it.}

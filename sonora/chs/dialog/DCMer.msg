@@ -74,9 +74,9 @@
 ### {228}{}{Where are they being taken?}
 {228}{}{他们被带到哪里去了？}
 ### {229}{}{Some are being taken to work in the south. Others are just pulling the load... listen, stranger... what's your name there?}
-{229}{}{一些人被带到南方工作。其他人只是在拉负载。。。听着，陌生人。。。你叫什么名字？}
+{229}{}{一些人被带到南方工作。其他人只是在拉负载...听着，陌生人...你叫什么名字？}
 ### {1229}{}{Some are being taken to work in the south. Others are just pulling the load... listen, woman... what's your name there?}
-{1229}{}{一些人被带到南方工作。其他人只是在拉负载。。。听着，女人。。。你叫什么名字？}
+{1229}{}{一些人被带到南方工作。其他人只是在拉负载...听着，女人...你叫什么名字？}
 ### {230}{}{It doesn't matter.}
 {230}{}{没关系。}
 ### {231}{}{.}
@@ -117,7 +117,7 @@
 ### {248}{}{Recently, the tinkerers have been collecting slaves for some important business. Several such caravans passed through my city. But I don't ask where they got the slaves from.}
 {248}{}{最近，修补匠们一直在为一些重要的生意收集奴隶。有几辆这样的大篷车经过我的城市。但我不会问他们从哪里得到这些奴隶。}
 ### {249}{}{So Two-Sun... Thank you, Mr. Mayor. I'll see you again.}
-{249}{}{所以两个太阳。。。谢谢你，市长先生。我会再见到你的。}
+{249}{}{所以两个太阳...谢谢你，市长先生。我会再见到你的。}
 
 #Bathhouse
 ### {250}{}{I need to talk to you about the bathhouse.}
@@ -143,7 +143,7 @@
 ### {260}{}{I see. I can rid you of this type once and for all.}
 {260}{}{我明白了。我可以一劳永逸地让你摆脱这种类型。}
 ### {261}{}{Sounds good. I'll pay 100 caps, but don't mention my name anywhere. I don't want my reputation to suffer.}
-{261}{}{听起来不错。我会付100顶帽子，但不要在任何地方提到我的名字。我不想让我的名誉受损。}
+{261}{}{听起来不错。我会付100个瓶盖，但不要在任何地方提到我的名字。我不想让我的名誉受损。}
 ### {262}{}{You can rely on me, Mr. Mayor.}
 {262}{}{市长先生，你可以相信我。}
 ### {263}{}{In that case, I want to buy the rights to the bathhouse for 250 caps.}
@@ -177,7 +177,7 @@
 ### {277}{}{It has something to do with the recent war in Casa Grande, doesn't it? Are you afraid of revenge?}
 {277}{}{这与最近发生在格兰德之家的战争有关，不是吗？你害怕报复吗？}
 ### {278}{}{(sigh) Although I didn't kill the owner of the bathhouse, others did... against the background of the war that I started.}
-{278}{}{（叹气）虽然我没有杀死澡堂的主人，但其他人。。。在我发动战争的背景下。}
+{278}{}{（叹气）虽然我没有杀死澡堂的主人，但其他人...在我发动战争的背景下。}
 ### {279}{}{I think the guy already knows. But it seems that he is only interested in business.}
 {279}{}{我想那家伙已经知道了。但他似乎只对商业感兴趣。}
 ### {280}{}{Then it's a big risk for you. I'll tell the guy your refusal.}
@@ -195,7 +195,7 @@
 ### {286}{}{? It is not surprising that a person with such a name cannot sit still. }
 {286}{}{？一个有这样名字的人坐不住也就不足为奇了。}
 ### {287}{}{If it's a joke, it's a bad one. If something happens to you, they will think about me, because no one will realize that there are two people with the same name in the city. It will be very unpleasant... }
-{287}{}{如果这是个笑话，那就是个坏笑话。如果你出了什么事，他们会想到我，因为没有人会意识到这个城市里有两个同名的人。这将是非常不愉快的。。。}
+{287}{}{如果这是个笑话，那就是个坏笑话。如果你出了什么事，他们会想到我，因为没有人会意识到这个城市里有两个同名的人。这将是非常不愉快的...}
 
 ### {290}{}{The stranger won't bother you anymore.}
 {290}{}{陌生人不会再打扰你了。}
@@ -204,7 +204,7 @@
 ### {292}{}{[Next]}
 {292}{}{[下一个]}
 ### {293}{}{All work should be paid adequately. Here are your 100 caps. But don't forget - I have nothing to do with this incident.}
-{293}{}{所有的工作都应该得到足够的报酬。这是你的100顶帽子。但别忘了，我与这件事无关。}
+{293}{}{所有的工作都应该得到足够的报酬。这是你的100个瓶盖。但别忘了，我与这件事无关。}
 ### {294}{}{No one will know anything, Mr. Mayor.}
 {294}{}{没有人会知道任何事情，市长先生。}
 ### {295}{}{It is not in my interest to destroy relationships with potential clients.}
@@ -354,7 +354,7 @@
 ### {375}{}{Let me take a little more of your time.}
 {375}{}{让我多花点时间给你。}
 ### {376}{}{In a former moonshiner's shack in the east. Tinsmiths don't like to be around... "ordinary" people.}
-{376}{}{在东部一个曾经的登月者的棚屋里。铁匠们不喜欢在身边。。。“普通”人。}
+{376}{}{在东部一个曾经的登月者的棚屋里。铁匠们不喜欢在身边...“普通”人。}
 
 ### {380}{}{What can I do in this city?}
 {380}{}{在这个城市我能做什么？}
@@ -433,7 +433,7 @@
 ### {417}{}{Usually the word "brother" loses all meaning when it comes to business.}
 {417}{}{当谈到生意时，“兄弟”这个词通常失去了所有的意义。}
 ### {418}{}{I'll let it pass. Perhaps, in a big city, the caps are separated, but this is not the case here. I appreciate John as a reliable person. The most reliable in Casa Grande.}
-{418}{}{我会让它过去的。也许，在大城市里，帽子是分开的，但这里不是这样。我很欣赏约翰是个可靠的人。卡萨格兰德最可靠的。}
+{418}{}{我会让它过去的。也许，在大城市里，瓶盖是分开的，但这里不是这样。我很欣赏约翰是个可靠的人。卡萨格兰德最可靠的。}
 ### {419}{}{Was Sullivan a friend to you?}
 {419}{}{沙利文是你的朋友吗？}
 ### {420}{}{Don't mention his name. We started out together, and I could not have expected such a betrayal. Now I don't even want to hear about him.}
@@ -443,7 +443,7 @@
 ### {422}{}{It looks like you're really hurt by this. Let's not talk about it anymore.}
 {422}{}{看起来你真的受到了伤害。我们别再谈论它了。}
 ### {423}{}{(fist bump on the table) Sullivan... He got what he deserved for his meanness. I can only erase this traitor from my life. And you'd better keep quiet until our relationship has completely deteriorated.}
-{423}{}{（拳头撞在桌子上）沙利文。。。他的卑鄙得到了应有的惩罚。我只能把这个叛徒从我的生活中抹去。你最好保持沉默，直到我们的关系完全恶化。}
+{423}{}{（拳头撞在桌子上）沙利文...他的卑鄙得到了应有的惩罚。我只能把这个叛徒从我的生活中抹去。你最好保持沉默，直到我们的关系完全恶化。}
 ### {424}{}{Sorry, we won't talk about it anymore.}
 {424}{}{对不起，我们不再谈这个了。}
 ### {425}{}{If you want to close your eyes to past mistakes, it's up to you. Change the subject?}
@@ -465,7 +465,7 @@
 ### {433}{}{And yet. What happened here?}
 {433}{}{然而。这里发生了什么？}
 ### {434}{}{A little bit of everything - robbers, scorpions... And enough about it. People don't like it when their past is stirred up.}
-{434}{}{什么都有一点点——强盗，蝎子。。。这已经够了。人们不喜欢他们的过去被搅乱。}
+{434}{}{什么都有一点点——强盗，蝎子...这已经够了。人们不喜欢他们的过去被搅乱。}
 ### {435}{}{I know what happened here in the past. You seized power in Casa Grande by force.}
 {435}{}{我知道过去这里发生了什么。你武力夺取了卡萨格兰德的政权。}
 ### {436}{}{That robber claimed that you killed half the population to come to power.}
@@ -509,7 +509,7 @@
 ### {453}{}{OK, I'll go ask the rest of the residents.}
 {453}{}{好的，我去问问其他的居民。}
 ### {454}{}{I don't have a job for you... However, you can solve one problem.}
-{454}{}{我没有工作给你。。。然而，你可以解决一个问题。}
+{454}{}{我没有工作给你...然而，你可以解决一个问题。}
 ### {455}{}{What are we talking about?}
 {455}{}{我们在说什么？}
 ### {456}{}{Highway robbers robbed one of the caravans near the railway station and locked themselves in with the goods inside. It seems that they are not going to leave, as if they are provoking or testing us. Go there and find out what they want.}
@@ -521,7 +521,7 @@
 ### {459}{}{No one wants to risk their lives for a box of old rags. We hope that the bandits will get tired of being locked up and they will leave on their own.}
 {459}{}{没有人愿意为了一盒旧抹布而冒着生命危险。我们希望土匪们厌倦被关起来，他们会自己离开。}
 ### {460}{}{I need caps, but I'm not going to take that risk. Look for someone else.}
-{460}{}{我需要帽子，但我不会冒这个险。找其他人。}
+{460}{}{我需要瓶盖，但我不会冒这个险。找其他人。}
 ### {461}{}{OK, I'll get rid of these robbers.}
 {461}{}{好的，我会把这些强盗赶走的。}
 ### {462}{}{Great. The station is south of here.}
@@ -534,11 +534,11 @@
 ### {471}{}{A strange story. Count, why did the robbers get so close to the city?}
 {471}{}{一个奇怪的故事。伯爵，为什么强盗们离城市这么近？}
 ### {472}{}{Highway workers usually rob travelers on the highway and are afraid to come close to the city. But they knew what to do, because their leader once lived in Casa Grande... However, it's a long story, and I still haven't paid you for your help.}
-{472}{}{高速公路工人通常在高速公路上抢劫旅行者，他们害怕靠近城市。但他们知道该怎么办，因为他们的领袖曾经住在格兰德之家。。。不过，说来话长，我还没有付钱请你帮忙。}
+{472}{}{高速公路工人通常在高速公路上抢劫旅行者，他们害怕靠近城市。但他们知道该怎么办，因为他们的领袖曾经住在格兰德之家...不过，说来话长，我还没有付钱请你帮忙。}
 ### {473}{}{[Next]}
 {473}{}{[下一个]}
 ### {474}{}{Here are 250 caps. And you can earn more.}
-{474}{}{这里有250顶帽子。你可以赚更多。}
+{474}{}{这里有250个瓶盖。你可以赚更多。}
 ### {475}{}{More? How much more?}
 {475}{}{更多还有多少？}
 ### {476}{}{I'm listening. Who's the problem this time?}
@@ -550,21 +550,21 @@
 ### {479}{}{[Next]}
 {479}{}{[下一个]}
 ### {480}{}{And here you are... Come in. After that bar fight, I need a drink.}
-{480}{}{你来了。。。进来吧。酒吧斗殴之后，我需要喝一杯。}
+{480}{}{你来了...进来吧。酒吧斗殴之后，我需要喝一杯。}
 ### {481}{}{I am very sorry that your daughter died.}
 {481}{}{我对你女儿的去世感到非常抱歉。}
 ### {482}{}{To hell with regrets! I once made the mistake of driving some residents out of the city instead of executing them. And they came back. Now I have to take cruel revenge on the mainline...}
-{482}{}{带着遗憾见鬼去吧！我曾经犯过一个错误，把一些居民赶出了城市，而不是处决他们。他们回来了。现在我不得不在主线上进行残酷的报复。。。}
+{482}{}{带着遗憾见鬼去吧！我曾经犯过一个错误，把一些居民赶出了城市，而不是处决他们。他们回来了。现在我不得不在主线上进行残酷的报复...}
 ### {483}{}{[Next]}
 {483}{}{[下一个]}
 ### {484}{}{Are you trying to wash down the problem with alcohol? It won't work.}
 {484}{}{你想用酒精来解决这个问题吗？这行不通。}
 ### {485}{}{What do you understand... (calms himself) Your truth. I once made the mistake of driving some residents out of the city instead of executing them. And they came back. Now I have to take cruel revenge on the mainline...}
-{485}{}{你理解什么。。。（冷静下来）你的真相。我曾经犯过一个错误，把一些居民赶出了城市，而不是处决他们。他们回来了。现在我不得不在主线上进行残酷的报复。。。}
+{485}{}{你理解什么...（冷静下来）你的真相。我曾经犯过一个错误，把一些居民赶出了城市，而不是处决他们。他们回来了。现在我不得不在主线上进行残酷的报复...}
 ### {486}{}{[Next]}
 {486}{}{[下一个]}
 ### {487}{}{I think you needed the caps? I will not pay for the disassembly in the bar. But I will pay for a new case.}
-{487}{}{我想你需要帽子吗？我不会为酒吧里的拆卸买单。但我会为一个新案子买单。}
+{487}{}{我想你需要瓶盖吗？我不会为酒吧里的拆卸买单。但我会为一个新案子买单。}
 ### {488}{}{What should I do?}
 {488}{}{我该怎么办？}
 ### {489}{}{Those bandits in the bar belonged to the largest clan of highway workers-the Blue Shield Clan. He is known throughout the neighborhood for his ruthless crimes. After robbing the last caravans, these scum got good equipment. So now the whole city is at risk of being held hostage.}
@@ -572,7 +572,7 @@
 ### {490}{}{Are you suggesting we stop them? But how?}
 {490}{}{你是在建议我们阻止他们吗？但是怎么做呢？}
 ### {491}{}{Kill their leader, Ben. I'll pay 500 caps for his head.}
-{491}{}{杀死他们的首领本。我愿意为他的头付500顶帽子。}
+{491}{}{杀死他们的首领本。我愿意为他的头付500个瓶盖。}
 ### {492}{}{I've been looking for smart people like you for a long time to find their lair and finish off their leader Ben. Without him, the clan will fall apart and, at least for a while, leave us alone.}
 {492}{}{很长一段时间以来，我一直在寻找像你这样的聪明人，找到他们的巢穴，干掉他们的领袖本。如果没有他，这个家族将分崩离析，至少在一段时间内，让我们独处。}
 ### {493}{}{There is no need to explain the whole story. What is the price?}
@@ -590,7 +590,7 @@
 ### {504}{}{To hell with the background. Just tell me how to find them.}
 {504}{}{让背景见鬼去吧。告诉我怎么找到它们。}
 ### {505}{}{There's no need to kill a whole crowd. I will pay 500 caps for the head of their leader, Ben. You'll get the same amount if you destroy their fuel depot.}
-{505}{}{没有必要杀了一大群人。我将为他们的领袖本的领袖支付500顶帽子。如果你摧毁他们的燃料库，你会得到同样的数量。}
+{505}{}{没有必要杀了一大群人。我将为他们的领袖本的领袖支付500个瓶盖。如果你摧毁他们的燃料库，你会得到同样的数量。}
 ### {506}{}{All these deaths will be in my nightmares for more than one night. I'm washing my hands of it this time.}
 {506}{}{所有这些死亡都将在我的噩梦中持续一个多晚上。这次我要洗手不干了。}
 ### {507}{}{Well, it's a pity. I was already hoping that this was really a real fighter in front of me. But don't rush to a decision. The problem won't solve itself, and I'm always willing to pay for a good job.}
@@ -661,13 +661,13 @@
 ### {545}{}{Then don't forget to sign who killed him.}
 {545}{}{那就别忘了签上谁杀了他。}
 ### {546}{}{I appreciate people who do their job flawlessly. You deserve a reward... (takes the lid out of the safe) Here are 500 caps, as we agreed. Now leave me alone. I want to rest.}
-{546}{}{我欣赏那些完美地完成工作的人。你应该得到奖励。。。（把保险箱的盖子拿出来）这是我们约定的500顶帽子。现在别管我。我想休息。}
+{546}{}{我欣赏那些完美地完成工作的人。你应该得到奖励...（把保险箱的盖子拿出来）这是我们约定的500个瓶盖。现在别管我。我想休息。}
 ### {547}{}{Goodbye, Count.}
 {547}{}{再见，伯爵。}
 ### {548}{}{Hey, where's my reward? I didn't just trudge along hot highways with rotting flesh in a bag.}
 {548}{}{嘿，我的奖励在哪里？我不只是背着腐烂的肉在炎热的高速公路上跋涉。}
 ### {549}{}{Sure. This is your honestly earned right... (takes the caps out of the safe) There are 500 caps here, as we agreed. Now leave me alone.}
-{549}{}{当然这是你应得的权利。。。（把帽子从保险箱里拿出来）按照我们的约定，这里有500顶帽子。现在别管我。}
+{549}{}{当然这是你应得的权利...（把瓶盖从保险箱里拿出来）按照我们的约定，这里有500个瓶盖。现在别管我。}
 
 ### {550}{}{I've destroyed the Blue Shield fuel depots. This will surely weaken the gang.}
 {550}{}{我已经摧毁了蓝盾号的燃料库。这肯定会削弱这个团伙。}
@@ -678,19 +678,19 @@
 ### {552}{}{Ahem. The services are not free, wasn't that the deal?}
 {552}{}{嗯。服务不是免费的，不是这样吗？}
 ### {553}{}{Of course, here's the reward - 500 caps. And thank you. Your service is invaluable for the city.}
-{553}{}{当然，这是500顶帽子的奖励。谢谢你。你的服务对这座城市来说是无价之宝。}
+{553}{}{当然，这是500个瓶盖的奖励。谢谢你。你的服务对这座城市来说是无价之宝。}
 ### {554}{}{You're welcome, Count. As long as the city brings caps, it has a future.}
 {554}{}{不客气，伯爵。只要这座城市有上限，它就有未来。}
 ### {555}{}{I know well from my community how to tolerate violence against you. Therefore, I consider it my duty to stop the mainline workers.}
 {555}{}{我在社区里很清楚如何容忍针对你的暴力行为。因此，我认为阻止主线工人是我的职责。}
 ### {556}{}{That's how? Now it's clear where you got so much strength to fight. I really hope you will save your people from captivity. Take the reward, there are 500 caps here. And thank you. Your service is invaluable for the city.}
-{556}{}{就是这样？现在很清楚你在哪里有这么大的力量去战斗了。我真的希望你能把你的人民从囚禁中拯救出来。拿着奖励，这里有500顶帽子。谢谢你。你的服务对这座城市来说是无价之宝。}
+{556}{}{就是这样？现在很清楚你在哪里有这么大的力量去战斗了。我真的希望你能把你的人民从囚禁中拯救出来。拿着奖励，这里有500个瓶盖。谢谢你。你的服务对这座城市来说是无价之宝。}
 ### {557}{}{Goodbye, Count Bustos.}
 {557}{}{再见，巴斯托斯伯爵。}
 ### {558}{}{That was the calculation. For a while, the raiders will weaken and start fighting with each other.}
 {558}{}{这就是计算。在一段时间内，袭击者将削弱并开始相互战斗。}
 ### {559}{}{Great job. It's not a pity to pay all 500 caps for this. And thank you. Your service is invaluable for the city.}
-{559}{}{干得好。为此支付全部500顶帽子并不可惜。谢谢你。你的服务对这座城市来说是无价之宝。}
+{559}{}{干得好。为此支付全部500个瓶盖并不可惜。谢谢你。你的服务对这座城市来说是无价之宝。}
 ### {560}{}{You're welcome, Count Bustos.}
 {560}{}{不客气，巴斯托斯伯爵。}
 
@@ -729,7 +729,7 @@
 ### {585}{}{Thank you, Mr. Mayor.}
 {585}{}{谢谢你，市长先生。}
 ### {586}{}{How about a deposit? I'll pay 100 caps for his freedom.}
-{586}{}{押金怎么样？我愿意为他的自由支付100顶帽子。}
+{586}{}{押金怎么样？我愿意为他的自由支付100个瓶盖。}
 ### {587}{}{Sounds acceptable. But tell him to get out of town within an hour.}
 {587}{}{听起来可以接受。但告诉他一小时内离开小镇。}
 ### {588}{}{Thank you, Mr. Mayor.}

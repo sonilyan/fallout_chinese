@@ -3,7 +3,7 @@
 ### {101}{}{You see a very helpful young man with an ingratiating look.}
 {101}{}{你看到一个非常乐于助人的年轻人，一副讨好的样子。}
 ### {102}{}{Q-you're not going to check into the room in this one... in this...}
-{102}{}{Q-你不会在这间房间里登记的。。。在这个。。。}
+{102}{}{Q-你不会在这间房间里登记的...在这个...}
 ### {103}{}{Sorry, buddy, but I was forbidden to serve an ass like you.}
 {103}{}{对不起，伙计，我被禁止为你这样的混蛋服务。}
 ### {1103}{}{Sorry, but I was forbidden to serve a bitch like you.}
@@ -20,7 +20,7 @@
 ### {203}{}{Clear.}
 {203}{}{清楚的}
 ### {204}{}{Any progress? I definitely have... Heh heh.}
-{204}{}{有进展吗？我肯定。。。呵呵。}
+{204}{}{有进展吗？我肯定...呵呵。}
 
 ### {210}{}{Good night, sir.}
 {210}{}{晚安，先生。}
@@ -72,7 +72,7 @@
 ### {1229}{}{Don't, I've changed my mind.}
 {1229}{}{别这样，我已经改变主意了。}
 ### {230}{}{I wish I had so many caps.}
-{230}{}{我真希望我有这么多帽子。}
+{230}{}{我真希望我有这么多瓶盖。}
 ### {231}{}{Good. Here are the bottlecaps.}
 {231}{}{好的这是水瓶。}
 ### {232}{}{You have had a good rest and gained strength.}
@@ -102,7 +102,7 @@
 ### {258}{}{Ahem. bottlecaps forward.}
 {258}{}{嗯。瓶子向前冲。}
 ### {259}{}{Yes, yes, uh, of course...}
-{259}{}{是的，是的，嗯，当然。。。}
+{259}{}{是的，是的，嗯，当然...}
 ### {260}{}{All ready, sir.}
 {260}{}{准备好了，先生。}
 ### {1260}{}{All set, ma'am.}
@@ -126,28 +126,28 @@
 ### {305}{}{Uh, no. (looks around at the guard and lowers his voice) The boss won't like it.}
 {305}{}{嗯，不。（环顾四周，压低声音）老板不会喜欢的。}
 ### {306}{}{No one will know about it. [it's tempting to show your caps]}
-{306}{}{没人会知道的。（露出你的帽子很诱人）}
+{306}{}{没人会知道的。（露出你的瓶盖很诱人）}
 ### {307}{}{Then forget it.}
 {307}{}{那就忘了。}
 ### {308}{}{H-hy, everything is for our customers. For 300 caps, I will spend a small one... a master class, yes. "How can you raise your chances by five percent and why is it a lot". Something like this.}
-{308}{}{嘿，一切都是为了我们的客户。300顶帽子，我会花一小顶。。。大师班，是的。“你怎么能把你的机会提高5%，为什么会这么多”。像这样的东西。}
+{308}{}{嘿，一切都是为了我们的客户。300个瓶盖，我会花一小顶...大师班，是的。“你怎么能把你的机会提高5%，为什么会这么多”。像这样的东西。}
 ### {309}{}{I can easily win back such caps. When do we start?}
-{309}{}{我可以轻而易举地赢回这样的帽子。我们什么时候开始？}
+{309}{}{我可以轻而易举地赢回这样的瓶盖。我们什么时候开始？}
 ### {310}{}{I can't afford it. See you later.}
 {310}{}{我买不起。回头见。}
 ### {311}{}{Meet me at the billiard table on the second floor. And this... don't forget the caps.}
-{311}{}{在二楼的台球桌等我。而这个。。。别忘了帽子。}
+{311}{}{在二楼的台球桌等我。而这个...别忘了瓶盖。}
 ### {312}{}{No problems.}
 {312}{}{没有问题。}
 
 ### {320}{}{I'm ready to start anytime.}
 {320}{}{我随时准备出发。}
 ### {321}{}{Here are 300 caps. }
-{321}{}{这里有300顶帽子。}
+{321}{}{这里有300个瓶盖。}
 ### {322}{}{Wait a little longer. I'll have to go get the caps.}
-{322}{}{再等一会儿。我得去拿帽子了。}
+{322}{}{再等一会儿。我得去拿瓶盖了。}
 ### {323}{}{Thank you. (looking around hides the bottlecaps) Let's start with the general rules...}
-{323}{}{非常感谢。（环顾四周隐藏着瓶颈）让我们从一般规则开始。。。}
+{323}{}{非常感谢。（环顾四周隐藏着瓶颈）让我们从一般规则开始...}
 ### {324}{}{[Continue]}
 {324}{}{[持续]}
 ### {325}{}{...And never split on fives, then the sum will be equal to ten.}

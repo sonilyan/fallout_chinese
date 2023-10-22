@@ -14,9 +14,9 @@
 ### {114}{}{I'm watching you.}
 {114}{}{我在看着你。}
 ### {115}{}{You. Stand against the wall and take off your pants... I'm kidding.}
-{115}{}{你靠墙站着，脱下裤子。。。我在开玩笑。}
+{115}{}{你靠墙站着，脱下裤子...我在开玩笑。}
 ### {116}{}{Hands behind your head. Muzzle to the floor... Joke, don't worry.}
-{116}{}{把手放在脑后。把枪口对准地板。。。开玩笑，别担心。}
+{116}{}{把手放在脑后。把枪口对准地板...开玩笑，别担心。}
 ### {117}{}{Smile, you're in the funniest place in Phoenix.}
 {117}{}{微笑吧，你在凤凰城最有趣的地方。}
 ### {118}{}{Straight out of the wasteland, eh? You're still an innocent kid for a big city.}
@@ -30,4 +30,4 @@
 ### {122}{}{Is this the first time you've seen such armor? You can touch it.}
 {122}{}{这是你第一次看到这样的盔甲吗？你可以触摸它。}
 ### {123}{}{Open the bag and take out all the valuables. A joke...}
-{123}{}{打开袋子，取出所有贵重物品。一个笑话。。。}
+{123}{}{打开袋子，取出所有贵重物品。一个笑话...}

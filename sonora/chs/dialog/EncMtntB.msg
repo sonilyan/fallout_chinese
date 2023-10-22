@@ -25,7 +25,7 @@
 ### {156}{}{I remember. I'm not stupid. But the Creator would not approve.}
 {156}{}{我记得。我并不愚蠢。但是造物主不会同意。}
 ### {157}{}{Yes. But the Creator is no more...}
-{157}{}{对但是造物主已经不在了。。。}
+{157}{}{对但是造物主已经不在了...}
 ### {158}{}{Ar-r-r! We shouldn't have left, we should have fought back!}
 {158}{}{Ar-r-r！我们不应该离开，我们应该反击！}
 ### {159}{}{We have suffered too many losses. The captain knows what he's doing.}

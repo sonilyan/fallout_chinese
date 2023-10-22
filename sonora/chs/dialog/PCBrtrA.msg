@@ -3,7 +3,7 @@
 ### {101}{}{You see the owner of the gun shop. He seems to be obsessed with weapons.}
 {101}{}{你看到枪店的老板了。他似乎痴迷于武器。}
 ### {102}{}{Oh, it's power armor! I've heard so much about her, but I've never seen...}
-{102}{}{哦，这是力量盔甲！我听说过很多关于她的事，但我从未见过。。。}
+{102}{}{哦，这是力量盔甲！我听说过很多关于她的事，但我从未见过...}
 ### {103}{}{Don't touch it. I don't serve addicts. Who knows what's on your mind?}
 {103}{}{别碰它。我不为瘾君子服务。谁知道你在想什么？}
 
@@ -13,7 +13,7 @@
 ### {1200}{}{(looks closely and skeptically at you, assessing the prospects of trading) What are you looking for, ma'am? There are plenty of weapons here for any purpose and for any level of prosperity.}
 {1200}{}{（仔细而怀疑地看着你，评估交易的前景）女士，你在找什么？这里有很多武器，用于任何目的和任何程度的繁荣。}
 ### {201}{}{Let me see...}
-{201}{}{让我看看。。。}
+{201}{}{让我看看...}
 ### {202}{}{Let me take a closer look at your guns.}
 {202}{}{让我仔细看看你的枪。}
 
@@ -43,7 +43,7 @@
 ### {222}{}{What did you say about caravans from the south?}
 {222}{}{你对来自南方的大篷车怎么说？}
 ### {223}{}{In the south there is a settlement of tinsmiths. These guys know a lot about old technologies and almost pray to them. They have restored the machines and are now engaged in repair and production. For example, here is their development... (takes it out and shows it)}
-{223}{}{在南部有一个锡匠定居点。这些家伙知道很多关于旧技术的知识，几乎向他们祈祷。他们已经修复了这些机器，现在正在进行维修和生产。例如，以下是他们的发展。。。（拿出并展示）}
+{223}{}{在南部有一个锡匠定居点。这些家伙知道很多关于旧技术的知识，几乎向他们祈祷。他们已经修复了这些机器，现在正在进行维修和生产。例如，以下是他们的发展...（拿出并展示）}
 ### {224}{}{[Next]}
 {224}{}{[下一个]}
 ### {225}{}{A pneumatic spear. It operates on a spring-piston mechanism. No electronics and questionable gunpowder. (with pomp shows the work of the spear) You rest against the enemy's body, and boom! - the thorn flies out of the spear and pierces the body. Don't worry, it will return to its place by itself with the help of a return spring. Then it's just a question of your skills.}
@@ -76,7 +76,7 @@
 {239}{}{好吧，让我看看你对像我这样的平民有什么。}
 
 ### {240}{}{Hmm... sounds convincing. (opens the product and spreads his hands with a satisfied look) Here is all the best that there is in Phoenix...}
-{240}{}{嗯…听起来很有说服力。（打开产品，满意地张开双手）这是凤凰城最好的东西。。。}
+{240}{}{嗯…听起来很有说服力。（打开产品，满意地张开双手）这是凤凰城最好的东西...}
 ### {241}{}{Damn, it's enough to take over the whole city.}
 {241}{}{该死，这足以占领整个城市。}
 ### {242}{}{And this is what you keep for the most important customers? What a pathetic sight.}
@@ -132,13 +132,13 @@
 ### {281}{}{Sounds like a hint of a bargain.}
 {281}{}{听起来像是讨价还价的暗示。}
 ### {282}{}{We'll see... Dear people, I make a small discount. After all, it is necessary to support the development of the city, even doing business.}
-{282}{}{我们拭目以待。。。亲爱的人们，我给你们打个小折扣。毕竟，支持城市发展，甚至做生意都是必要的。}
+{282}{}{我们拭目以待...亲爱的人们，我给你们打个小折扣。毕竟，支持城市发展，甚至做生意都是必要的。}
 ### {283}{}{Discount? Great, I'll need it.}
 {283}{}{折扣太好了，我需要它。}
 ### {284}{}{(Having recognized your person, the seller warily changes his position, as if expecting a trick) Hey. Do you need something?}
 {284}{}{（认出你的人后，卖家小心翼翼地改变了自己的位置，好像在期待一个把戏）嘿。你需要什么吗？}
 ### {285}{}{I'm thinking of buying a weapon...}
-{285}{}{我在考虑买武器。。。}
+{285}{}{我在考虑买武器...}
 ### {286}{}{Then choose quickly and get lost. This isn't a gang hangout. And keep in mind, I won't sell anything to assholes like you at a normal price.}
 {286}{}{然后快速选择，然后迷失方向。这不是帮派聚会。记住，我不会以正常价格把任何东西卖给像你这样的混蛋。}
 ### {287}{}{Whatever you say, man. Still, I need a weapon. Even at an increased price.}
@@ -147,7 +147,7 @@
 {288}{}{你应该感谢任何买家。你知道，世界变化太快了。}
 
 ### {290}{}{Hey, do you think you can just show up here after the explosion in the Cathedral? The townspeople will be unhappy if I continue to trade weapons with you sectarians...}
-{290}{}{嘿，你觉得大教堂爆炸后你能出现在这里吗？如果我继续和你们这些宗派主义者交换武器，镇上的人会不高兴的。。。}
+{290}{}{嘿，你觉得大教堂爆炸后你能出现在这里吗？如果我继续和你们这些宗派主义者交换武器，镇上的人会不高兴的...}
 ### {291}{}{That's why I need a weapon for self-defense.}
 {291}{}{这就是为什么我需要自卫武器。}
 ### {292}{}{Hmm, okay. I'll sell you something. But no discounts, okay?}
@@ -165,19 +165,19 @@
 ### {301}{}{Pay for ammo and rental of weapons - and you can shoot skills in the dash as much as you want.}
 {301}{}{支付弹药和武器租赁费用，你就可以随心所欲地在冲刺中射击。}
 ### {302}{}{Here are 500 caps for shooting light weapons.}
-{302}{}{这里有500顶射击轻武器的帽子。}
+{302}{}{这里有500顶射击轻武器的瓶盖。}
 ### {303}{}{Here are 1000 caps for firing heavy weapons.}
 {303}{}{这里有1000顶重型武器发射帽。}
 ### {304}{}{Here are 2000 caps if you let me shoot with an energy weapon.}
-{304}{}{如果你让我用能量武器射击，这里有2000顶帽子。}
+{304}{}{如果你让我用能量武器射击，这里有2000个瓶盖。}
 ### {305}{}{Here are 250 caps for learning the throwing skill.}
-{305}{}{这里有250顶用来学习投掷技巧的帽子。}
+{305}{}{这里有250顶用来学习投掷技巧的瓶盖。}
 ### {306}{}{Then it's easier for me to buy a gun.}
 {306}{}{那我就更容易买枪了。}
 ### {307}{}{This is robbery. I'm leaving here.}
 {307}{}{这是抢劫。我要离开这里。}
 ### {308}{}{Save caps if you want to learn shooting.}
-{308}{}{如果你想学习射击，可以节省帽子。}
+{308}{}{如果你想学习射击，可以节省瓶盖。}
 ### {309}{}{OK.}
 {309}{}{好啊}
 
@@ -242,7 +242,7 @@
 ### {357}{}{How much does it cost?}
 {357}{}{它要多少钱？}
 ### {358}{}{ caps. bottlecaps forward.}
-{358}{}{帽子。瓶子向前冲。}
+{358}{}{瓶盖。瓶子向前冲。}
 ### {359}{}{I need this scope. Here are the bottlecaps and the rifle.}
 {359}{}{我需要这个范围。这是水瓶和步枪。}
 ### {360}{}{What is missing?}

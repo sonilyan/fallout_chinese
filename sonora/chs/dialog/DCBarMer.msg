@@ -13,7 +13,7 @@
 ### {201}{}{Ahem.}
 {201}{}{嗯。}
 ### {202}{}{Ah, it's you... Come closer. We need any help right now.}
-{202}{}{啊，是你。。。走近一点。我们现在需要任何帮助。}
+{202}{}{啊，是你...走近一点。我们现在需要任何帮助。}
 ### {203}{}{What's going on here?}
 {203}{}{这是怎么回事？}
 ### {204}{}{There are robbers in the bar. They have seized my daughter and are demanding a ransom. It seems that it will not be possible to negotiate with them. I will pay any money to the one who will save Kristina.}
@@ -43,7 +43,7 @@
 ### {218}{}{I suggest a frontal attack. Talking to them is pointless.}
 {218}{}{我建议正面攻击。与他们交谈毫无意义。}
 ### {219}{}{I don't seem to have a choice... Who is ready to participate? I will pay everyone who will help save my daughter.}
-{219}{}{我似乎别无选择。。。谁准备参加？我会付钱给所有帮助救我女儿的人。}
+{219}{}{我似乎别无选择...谁准备参加？我会付钱给所有帮助救我女儿的人。}
 ### {220}{}{Wait, let's not rush it. Let me assess the situation.}
 {220}{}{等等，我们不要着急。让我评估一下情况。}
 ### {221}{}{I'm participating. Let's give these bastards a hard time!}
@@ -55,7 +55,7 @@
 ### {224}{}{Why not pay them a ransom?}
 {224}{}{为什么不付给他们赎金？}
 ### {225}{}{They demand too much. The city will be devastated. And more...}
-{225}{}{他们要求太多了。这座城市将被摧毁。还有更多。。。}
+{225}{}{他们要求太多了。这座城市将被摧毁。还有更多...}
 ### {226}{}{More?}
 {226}{}{更多}
 ### {227}{}{They want to trade Christina for me to clear their way into the wastelands. They cannot be trusted.}
@@ -63,12 +63,12 @@
 ### {228}{}{Do you want to sneak in there in THIS? Not a bad idea, but you will be identified very quickly. Any other ideas?}
 {228}{}{你想在这里偷偷溜进去吗？这不是一个坏主意，但你很快就会被认出。还有其他想法吗？}
 ### {229}{}{I see...}
-{229}{}{我明白了。。。}
+{229}{}{我明白了...}
 
 ### {250}{}{As you can see, your daughter is safe.}
 {250}{}{正如你所看到的，你的女儿是安全的。}
 ### {251}{}{Ah, Christina... How are you? I'll make these bastards pay for what they did!}
-{251}{}{啊，克里斯蒂娜。。。你好吗我要让这些混蛋为他们的所作所为付出代价！}
+{251}{}{啊，克里斯蒂娜...你好吗我要让这些混蛋为他们的所作所为付出代价！}
 ### {252}{}{Are you going to attack the bar?}
 {252}{}{你要去酒吧吗？}
 ### {253}{}{Of course. If other robbers find out this story, then my daughter will be kidnapped every single day. They need to be finished right now.}
@@ -100,15 +100,15 @@
 ### {265}{}{I don't want another massacre in my city either. We already have a bloody reputation. Let them go. We're going back to the mansion.}
 {265}{}{我也不希望我的城市再次发生大屠杀。我们已经名声大噪了。放开他们。我们要回官邸去。}
 ### {266}{}{The right decision, Mr. Mayor...}
-{266}{}{正确的决定，市长先生。。。}
+{266}{}{正确的决定，市长先生...}
 ### {267}{}{It doesn't make much sense. They are already leaving the city.}
 {267}{}{这没有多大意义。他们已经离开这个城市了。}
 ### {268}{}{You have incredible powers of persuasion. Even a little suspicious. Well, let them get out of here. And we're going back to the mansion.}
 {268}{}{你有令人难以置信的说服力。甚至有点可疑。好吧，让他们离开这里。然后我们要回豪宅。}
 ### {269}{}{The right decision, Mr. Mayor...}
-{269}{}{正确的决定，市长先生。。。}
+{269}{}{正确的决定，市长先生...}
 ### {270}{}{The goal is clear...}
-{270}{}{目标很明确。。。}
+{270}{}{目标很明确...}
 ### {271}{}{Don't count on me. I will not shed someone's blood.}
 {271}{}{别指望我，我不会流血的。}
 ### {272}{}{The bandits will not go anywhere until you fulfill their demands.}
@@ -138,7 +138,7 @@
 ### {285}{}{[Listen]}
 {285}{}{[听]}
 ### {286}{}{Bustos: Gr-rm... They knew how to catch her and who to aim at... Damn it, if other robbers find out about this, then this story will repeat itself from day to day.}
-{286}{}{巴斯托斯：Gr rm。。。他们知道如何抓住她，瞄准谁…该死，如果其他劫匪发现了这件事，那么这个故事就会日复一日地重复。}
+{286}{}{巴斯托斯：Gr rm...他们知道如何抓住她，瞄准谁…该死，如果其他劫匪发现了这件事，那么这个故事就会日复一日地重复。}
 ### {287}{}{[Listen]}
 {287}{}{[听]}
 ### {288}{}{Sullivan: I had to keep an eye on her. The mayor of the whole city, but can't keep track of his own girl.}
@@ -150,6 +150,6 @@
 ### {291}{}{[Listen]}
 {291}{}{[听]}
 ### {292}{}{Sullivan: Don't you dare tell me, Bustos. These are not the times you remember at the bottom of a tequila bottle. Better get all your ransom caps ready. And hurry up ... (seeing you) And? And what do you need?}
-{292}{}{苏利文：你不敢告诉我，巴斯托斯。这不是你在龙舌兰酒瓶底部记得的时间。最好准备好你所有的赎金上限。快点。。。（见）然后呢？你需要什么？}
+{292}{}{苏利文：你不敢告诉我，巴斯托斯。这不是你在龙舌兰酒瓶底部记得的时间。最好准备好你所有的赎金上限。快点...（见）然后呢？你需要什么？}
 ### {293}{}{What's going on here?}
 {293}{}{这是怎么回事？}

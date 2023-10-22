@@ -20,7 +20,7 @@
 ### {205}{}{Duck?}
 {205}{}{鸭子}
 ### {206}{}{Well, you know, the bird was like that. Even before the nuclear war. I haven't seen a single live duck since. Probably died out like a dinosaur...}
-{206}{}{你知道，那只鸟就是那样的。甚至在核战争之前。从那以后，我再也没见过一只活鸭子。可能像恐龙一样灭绝了。。。}
+{206}{}{你知道，那只鸟就是那样的。甚至在核战争之前。从那以后，我再也没见过一只活鸭子。可能像恐龙一样灭绝了...}
 ### {207}{}{A dinosaur?}
 {207}{}{恐龙？}
 ### {208}{}{Oh, okay, let's go.}

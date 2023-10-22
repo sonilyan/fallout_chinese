@@ -3,11 +3,11 @@
 ### {101}{}{You see your uncle arriving from Phoenix.}
 {101}{}{你看到你的叔叔从凤凰城来了。}
 ### {102}{}{I've never liked you... uncle.}
-{102}{}{我从来都不喜欢你。。。叔叔}
+{102}{}{我从来都不喜欢你...叔叔}
 ### {103}{}{Uncle Miguel has returned to the Villa.}
 {103}{}{米格尔叔叔已经回到别墅。}
 ### {104}{}{That's right, show the hillbillies high technology. They will be SO happy...}
-{104}{}{没错，向乡巴佬们展示高科技。他们会很高兴。。。}
+{104}{}{没错，向乡巴佬们展示高科技。他们会很高兴...}
 ### {105}{}{So this is the legendary power armor? (whistling)}
 {105}{}{这就是传说中的力量盔甲？（吹口哨）}
 
@@ -23,7 +23,7 @@
 ### {203}{}{Then why did you come back?}
 {203}{}{那你为什么回来？}
 ### {204}{}{Well, the Phoenix is not the same anymore. After you clicked in the wrong place, almost a civil war began there. After that I realized that... I was wrong about something.}
-{204}{}{凤凰已经不一样了。当你点击错误的地方后，那里几乎开始了一场内战。之后我意识到。。。我错了。}
+{204}{}{凤凰已经不一样了。当你点击错误的地方后，那里几乎开始了一场内战。之后我意识到...我错了。}
 ### {205}{}{Something? Yes, you were definitely wrong about something, Uncle Miguel. Later.}
 {205}{}{某物是的，你肯定错了，米格尔叔叔。后来}
 

@@ -41,9 +41,9 @@
 ### {220}{}{How dare you defile the name of a holy man? Keep your fucking mouth shut before I lose my temper. Away! Pro-och!}
 {220}{}{你怎么敢玷污一个圣人的名字？在我发脾气之前，闭上你他妈的嘴。离开亲啊！}
 ### {221}{}{Okay, okay...}
-{221}{}{好吧，好吧。。。}
+{221}{}{好吧，好吧...}
 ### {222}{}{Hey, take it easy...}
-{222}{}{嘿，别紧张。。。}
+{222}{}{嘿，别紧张...}
 ### {223}{}{He's doing a great job.}
 {223}{}{他做得很好。}
 ### {224}{}{May the name of Aaron be glorified! A man who gives life to the desert.}
@@ -57,7 +57,7 @@
 ### {228}{}{The truth is always offended.}
 {228}{}{真相总是被冒犯。}
 ### {229}{}{Hey, take it easy...}
-{229}{}{嘿，别紧张。。。}
+{229}{}{嘿，别紧张...}
 
 ### {230}{}{Do you know that mutants used to live here?}
 {230}{}{你知道变种人以前住在这里吗？}

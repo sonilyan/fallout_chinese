@@ -27,7 +27,7 @@
 ### {222}{}{Why is this city so poor?}
 {222}{}{为什么这个城市这么穷？}
 ### {223}{}{Honestly? I have no idea. The locals earn a lot of caps from us, the caravaneers. But they can't afford basic things themselves. Partly because of the highway robbers who are ruining the highway, but this is clearly not all the reasons.}
-{223}{}{真的我不知道。当地人从我们这些房车司机那里赚了很多帽子。但他们自己买不起基本的东西。部分原因是高速公路劫匪正在破坏高速公路，但这显然不是所有的原因。}
+{223}{}{真的我不知道。当地人从我们这些房车司机那里赚了很多瓶盖。但他们自己买不起基本的东西。部分原因是高速公路劫匪正在破坏高速公路，但这显然不是所有的原因。}
 ### {224}{}{It's noticeable. The city is more like a garbage dump.}
 {224}{}{这很明显。这座城市更像是一个垃圾场。}
 ### {225}{}{Don't treat the locals like that. They are just trying to survive in these difficult conditions.}
@@ -138,7 +138,7 @@
 ### {311}{}{ caps I'm ready to tolerate ballast. But don't take too many things, we don't have an extra brahmin to carry them.}
 {311}{}{caps我已经准备好承受压舱物了。但不要拿太多东西，我们没有多余的婆罗门来拿。}
 ### {312}{}{I don't have that many caps. I'll have to go alone. See you later.}
-{312}{}{我没有那么多帽子。我得一个人去。回头见。}
+{312}{}{我没有那么多瓶盖。我得一个人去。回头见。}
 ### {313}{}{Right now I need answers to questions more.}
 {313}{}{现在我需要更多问题的答案。}
 ### {314}{}{Here are the bottlecaps. I'm ready to go.}
@@ -162,7 +162,7 @@
 ### {322}{}{Now you're saying one thing. But anything can happen on the way.}
 {322}{}{现在你在说一件事。但任何事情都可能在途中发生。}
 ### {323}{}{Well, yes...}
-{323}{}{嗯，是的。。。}
+{323}{}{嗯，是的...}
 ### {324}{}{If it's a problem, you can leave me in the middle of the track with all these things.}
 {324}{}{如果这是一个问题，你可以把我留在轨道的中间。}
 ### {325}{}{OK. We will consider this part of the contract. But I don't work for free.}

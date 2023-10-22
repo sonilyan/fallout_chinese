@@ -5,7 +5,7 @@
 ### {102}{}{Z-z-z}
 {102}{}{Z-Z-Z}
 ### {103}{}{Sorry, we're closed. In these parts, no one needs our services anymore...}
-{103}{}{抱歉，我们关门了。在这些地方，没有人需要我们的服务了。。。}
+{103}{}{抱歉，我们关门了。在这些地方，没有人需要我们的服务了...}
 
 #Replicas when a prisoner is attacked
 ### {120}{}{Please calm down!}
@@ -15,7 +15,7 @@
 ### {122}{}{Don't touch anything here!}
 {122}{}{不要碰这里的任何东西！}
 ### {123}{}{Listen, I really feel for you...}
-{123}{}{听着，我真的很同情你。。。}
+{123}{}{听着，我真的很同情你...}
 ### {124}{}{I really can't help you!}
 {124}{}{我真的帮不了你！}
 ### {125}{}{Please go away, I have nothing!}
@@ -33,7 +33,7 @@
 ### {200}{}{(you see a woman in an unusually decent outfit; it looks like she is watching herself and looks down on others)}
 {200}{}{（你看到一个女人穿着异常得体的衣服；看起来她在监视自己，看不起别人）}
 ### {201}{}{My respects, Miss...}
-{201}{}{尊敬的女士。。。}
+{201}{}{尊敬的女士...}
 ### {202}{}{Hey, hello.}
 {202}{}{嘿，你好。}
 ### {203}{}{En Brandley. And call me Mrs..}
@@ -68,13 +68,13 @@
 ### {222}{}{Wonderful. The cost of shipment will be }
 {222}{}{精彩的运费为}
 ### {223}{}{ caps. Place the package in this box against the wall and let us know that it is ready. After payment, we will take them to Phoenix.}
-{223}{}{帽子。把包裹放在这个靠墙的盒子里，让我们知道它已经准备好了。付款后，我们将带他们去凤凰城。}
+{223}{}{瓶盖。把包裹放在这个靠墙的盒子里，让我们知道它已经准备好了。付款后，我们将带他们去凤凰城。}
 ### {224}{}{Here is the payment, the parcel can be sent.}
 {224}{}{这是付款，包裹可以寄了。}
 ### {225}{}{The package will wait. Let's talk about something better?}
 {225}{}{包裹将等待。我们谈谈更好的吧？}
 ### {226}{}{I don't have so many caps with me. I'll come back later.}
-{226}{}{我没有带那么多帽子。我稍后再来。}
+{226}{}{我没有带那么多瓶盖。我稍后再来。}
 ### {227}{}{(stumbling over every word, she draws up a contract and enters your name in the journal) Thank you for choosing our company. The package will be waiting at the destination.}
 {227}{}{（每个字都结结巴巴，她起草了一份合同，并在日记中输入了你的名字）谢谢你选择我们公司。包裹将在目的地等待。}
 ### {228}{}{}
@@ -86,7 +86,7 @@
 ### {231}{}{Can we talk about something then?}
 {231}{}{那我们能谈谈吗？}
 ### {232}{}{Well, I'm going to collect the caps.}
-{232}{}{好吧，我要去收集帽子。}
+{232}{}{好吧，我要去收集瓶盖。}
 
 ### {240}{}{Do you accept old money for payment?}
 {240}{}{你们接受旧钱付款吗？}
@@ -110,9 +110,9 @@
 {249}{}{这份合同的可靠性如何？}
 
 ### {250}{}{You sure can... write?}
-{250}{}{你当然可以。。。写}
+{250}{}{你当然可以...写}
 ### {251}{}{Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I really don't have enough practice.}
-{251}{}{比这个城市的大多数“识字”居民要好得多。我参加了火的追随者的课程。。。但我真的没有足够的练习。}
+{251}{}{比这个城市的大多数“识字”居民要好得多。我参加了火的追随者的课程...但我真的没有足够的练习。}
 ### {252}{}{Uh, yes, of course.}
 {252}{}{当然可以。}
 ### {253}{}{We transport parcels once a month. And the cases of their loss can be counted on the fingers. We have experienced couriers. They know the terrain and ways of survival well. In case of loss of the parcel, you can claim compensation.}
@@ -181,7 +181,7 @@
 ### {296}{}{Ahem. The job is done, but the reward is not visible.}
 {296}{}{嗯。工作完成了，但回报却不可见。}
 ### {297}{}{Thank you very much. Here are 20 caps for the find.}
-{297}{}{非常感谢。这里有20顶帽子。}
+{297}{}{非常感谢。这里有20个瓶盖。}
 ### {298}{}{A good start.}
 {298}{}{一个良好的开端。}
 ### {299}{}{Better than nothing.}

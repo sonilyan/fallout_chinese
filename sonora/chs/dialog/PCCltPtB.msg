@@ -20,7 +20,7 @@
 ### {206}{}{Sorry. I thought he was with us.}
 {206}{}{很抱歉我以为他和我们在一起。}
 ### {207}{}{You know, I have that feeling too. I'll try to convince him again...}
-{207}{}{你知道，我也有这种感觉。我会再次说服他。。。}
+{207}{}{你知道，我也有这种感觉。我会再次说服他...}
 ### {208}{}{I don't think you should trust him. Act without him.}
 {208}{}{我认为你不应该相信他。在没有他的情况下行动。}
 ### {209}{}{Mathias is dead. He won't help us.}

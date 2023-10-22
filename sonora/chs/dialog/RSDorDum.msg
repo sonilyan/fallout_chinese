@@ -1,5 +1,5 @@
 ### {110}{}{Great plan... for a suicide.}
-{110}{}{伟大的计划。。。自杀。}
+{110}{}{伟大的计划...自杀。}
 ### {111}{}{This cannot be done during combat.}
 {111}{}{在战斗中不能这样做。}
 ### {112}{}{The rangers at the post forbid you to go there.}

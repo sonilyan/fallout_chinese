@@ -9,7 +9,7 @@
 ### {200}{}{(reluctantly turns in your direction) All rooms are occupied.}
 {200}{}{（不情愿地转向你的方向）所有的房间都有人住。}
 ### {201}{}{But half of the keys are hanging on the counter...}
-{201}{}{但是有一半的钥匙挂在柜台上。。。}
+{201}{}{但是有一半的钥匙挂在柜台上...}
 ### {202}{}{A big race is planned. These numbers are not for sale. If you need to spend the night, I advise you to knock on residential buildings.}
 {202}{}{计划举行一场大型比赛。这些号码是非卖品。如果你需要过夜，我建议你去敲住宅楼。}
 ### {203}{}{I don't think I'll be welcome there.}
@@ -17,7 +17,7 @@
 ### {204}{}{It's none of my business.}
 {204}{}{这不关我的事。}
 ### {205}{}{Uh, okay...}
-{205}{}{好吧。。。}
+{205}{}{好吧...}
 
 ### {210}{}{I told you - the rooms are occupied.}
 {210}{}{我告诉过你了——房间都有人了。}
@@ -29,7 +29,7 @@
 ### {213}{}{And I think that some people allow themselves too much.}
 {213}{}{我认为有些人允许自己太多。}
 ### {214}{}{Grm...}
-{214}{}{Grm。。。}
+{214}{}{Grm...}
 
 ### {215}{}{(leaning towards you) Tinkerers are afraid of espionage and do not want their plans to be public, so I have to be careful with strangers.}
 {215}{}{（向你倾斜）修补者害怕间谍活动，不希望他们的计划公开，所以我必须小心对待陌生人。}
@@ -44,7 +44,7 @@
 ### {220}{}{You're out of town.}
 {220}{}{你不在城里。}
 ### {221}{}{Well, yes, of course...}
-{221}{}{嗯，是的，当然。。。}
+{221}{}{嗯，是的，当然...}
 
 #Repeat dialog
 ### {250}{}{What can I do for you?}

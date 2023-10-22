@@ -21,7 +21,7 @@
 ### {202}{}{(spits as if casually) We're not used to sissies here, I'm sorry.}
 {202}{}{（漫不经心地吐口水）对不起，我们不习惯这里的娘娘腔。}
 ### {203}{}{Eh, nothing...}
-{203}{}{呃，没什么。。。}
+{203}{}{呃，没什么...}
 ### {204}{}{And I'm not used to seeing ragamuffins. Later.}
 {204}{}{我不习惯看到乌合之众。后来}
 
@@ -73,11 +73,11 @@
 ### {256}{}{This city will die sooner or later, and Eugene will have nothing left but junk.}
 {256}{}{这座城市迟早会消亡，尤金将一无所有，只剩下垃圾。}
 ### {257}{}{Yes, it's true... So what? How do I know these Rangers really mean well to Eugene? I don't believe them!}
-{257}{}{是的，这是真的。。。那又怎样？我怎么知道这些流浪者对尤金真的很好？我不相信他们！}
+{257}{}{是的，这是真的...那又怎样？我怎么知道这些流浪者对尤金真的很好？我不相信他们！}
 ### {258}{}{Trust Eugene. Look how he's wasting away in this dump. Is this what you want? He will gain at least some future from the Rangers.}
 {258}{}{相信尤金。看看他在这垃圾堆里是怎么浪费的。这是你想要的吗？他至少会从流浪者队获得一些未来。}
 ### {259}{}{You speak with the words of a Garbage Devil... Take Eugene and take him to a better place. But keep in mind and remember - if something happens to him, you will answer for it with your head!}
-{259}{}{你用垃圾魔鬼的话说话。。。带尤金去一个更好的地方。但请记住，如果他出了什么事，你会用你的脑袋来回答的！}
+{259}{}{你用垃圾魔鬼的话说话...带尤金去一个更好的地方。但请记住，如果他出了什么事，你会用你的脑袋来回答的！}
 ### {260}{}{You don't have to worry about anything. Eugene is in good hands}
 {260}{}{你什么都不用担心。尤金得到了很好的照顾}
 ### {261}{}{I don't think I can convince you.}
@@ -92,7 +92,7 @@
 ### {271}{}{You will never collect so much valuable junk in your whole life.}
 {271}{}{你一辈子都不会收集这么多有价值的垃圾。}
 ### {272}{}{Take a look at my offer first...}
-{272}{}{先看看我的报价。。。}
+{272}{}{先看看我的报价...}
 ### {273}{}{Then forget it.}
 {273}{}{那就忘了。}
 ### {274}{}{Ha-ha! Get out of here.}

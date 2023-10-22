@@ -57,11 +57,11 @@
 ### {256}{}{That's fair enough. There was nothing to bring yourself to such a state. And now it's time to go back to the city. Later.}
 {256}{}{这很公平。没有什么能把你自己带到这样的状态。现在是时候回到城市了。后来}
 ### {257}{}{You know, I've changed my mind. I'm taking ALL the caps for myself.}
-{257}{}{你知道，我改变了主意。我把所有的帽子都给自己。}
+{257}{}{你知道，我改变了主意。我把所有的瓶盖都给自己。}
 ### {1257}{}{You know, I've changed my mind. I'm taking ALL the caps for myself.}
-{1257}{}{你知道，我改变了主意。我把所有的帽子都给自己。}
+{1257}{}{你知道，我改变了主意。我把所有的瓶盖都给自己。}
 ### {258}{}{No! You can't do that! We're partners, I showed you this place... Hell, someday... Someday I'll earn a lot of caps and hire mercenaries on your head. And then I'll play football with it. You'll remember this day again.}
-{258}{}{不你不能那样做！我们是合作伙伴，我带你参观了这个地方。。。见鬼，总有一天。。。总有一天，我会赚很多帽子，在你头上雇佣雇佣兵。然后我会用它踢足球。你会再次记住这一天的。}
+{258}{}{不你不能那样做！我们是合作伙伴，我带你参观了这个地方...见鬼，总有一天...总有一天，我会赚很多瓶盖，在你头上雇佣雇佣兵。然后我会用它踢足球。你会再次记住这一天的。}
 ### {259}{}{Well, well. Goodbye, loser.}
 {259}{}{嗯，嗯。再见，失败者。}
 ### {260}{}{In that case, you leave me no choice -I'll kill you right now.}

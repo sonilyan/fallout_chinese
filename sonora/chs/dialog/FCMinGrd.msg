@@ -3,7 +3,7 @@
 ### {101}{}{You see an angry shouting man.}
 {101}{}{你看到一个愤怒的大喊大叫的人。}
 ### {102}{}{Where's your shovel, slave? Ah, you're not one of ours... Your luck, otherwise I would have whipped you until you lost your pulse.}
-{102}{}{奴隶，你的铲子在哪里？啊，你不是我们的人。。。你运气好，否则我会鞭打你，直到你失去脉搏。}
+{102}{}{奴隶，你的铲子在哪里？啊，你不是我们的人...你运气好，否则我会鞭打你，直到你失去脉搏。}
 ### {1102}{}{You shouldn't be here, lady. This place is only for criminals and slaves.}
 {1102}{}{你不应该在这里，女士。这个地方只供罪犯和奴隶居住。}
 ### {103}{}{Get out of here!}
@@ -57,7 +57,7 @@
 ### {1208}{}{ I'LL KILL YOU, BITCH!!!}
 {1208}{}{我要杀了你，婊子！！！}
 ### {209}{}{Oh, how strange...}
-{209}{}{哦，真奇怪。。。}
+{209}{}{哦，真奇怪...}
 ### {210}{}{That slave did not deserve such treatment.}
 {210}{}{那个奴隶不应该受到这样的待遇。}
 ### {211}{}{How do you know that? Only criminals and charlatans work in this mine. So if you pretend to be an arbitrator, you will instantly take the vacant place. Is that clear to you?}
@@ -72,7 +72,7 @@
 ### {220}{}{Everyone back up! This is a criminal conspiracy! You're all under arrest! You will crumble the ore with your teeth!}
 {220}{}{大家后退！这是一起犯罪阴谋！你们都被捕了！你会用牙齿打碎矿石的！}
 ### {221}{}{You're not sane. Now we'll put your brains in the right place...}
-{221}{}{你不理智。现在我们会把你的大脑放在正确的位置。。。}
+{221}{}{你不理智。现在我们会把你的大脑放在正确的位置...}
 ### {222}{}{Hey, it's nothing to do with me. Here's your competitor.}
 {222}{}{嘿，这与我无关。这是你的竞争对手。}
 ### {223}{}{Let's discuss everything peacefully, eh?}
@@ -82,6 +82,6 @@
 ### {225}{}{Faber personally signed the order. Give up now, then it will be too late.}
 {225}{}{费伯亲自签署了订单。现在就放弃，那就太晚了。}
 ### {226}{}{Gr-rm... Do not think that I will leave it so easily. You're all going to pay for me! I swear!}
-{226}{}{Gr-rm。。。别以为我会这么轻易地离开它。你们都要为我付出代价！我发誓！}
+{226}{}{Gr-rm...别以为我会这么轻易地离开它。你们都要为我付出代价！我发誓！}
 ### {227}{}{Well, well.}
 {227}{}{嗯，嗯。}

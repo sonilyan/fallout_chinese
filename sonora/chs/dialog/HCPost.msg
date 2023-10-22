@@ -8,7 +8,7 @@
 ### {110}{}{*Yawn*}
 {110}{}{*Yawn*}
 ### {111}{}{Estoy aburrido...}
-{111}{}{Estoy aburrido。。。}
+{111}{}{Estoy aburrido...}
 ### {112}{}{Viene alguien?}
 {112}{}{维也纳？}
 ### {113}{}{Donde esta el cambio de guardia?}
@@ -39,7 +39,7 @@
 ### {125}{}{This will have to be reported.}
 {125}{}{这将不得不报告。}
 ### {126}{}{Damn insects...}
-{126}{}{该死的昆虫。。。}
+{126}{}{该死的昆虫...}
 ### {127}{}{I need new shoes.}
 {127}{}{我需要新鞋。}
 ### {128}{}{}
@@ -54,7 +54,7 @@
 ### {202}{}{Eres un gringo, No? Hablas espanol?}
 {202}{}{不是外国佬吗？哈瓦那？}
 ### {203}{}{Mine speak the language of the fists. Look and be surprised, native...}
-{203}{}{我说的是拳头的语言。看着并感到惊讶，土生土长的。。。}
+{203}{}{我说的是拳头的语言。看着并感到惊讶，土生土长的...}
 ### {204}{}{Unfortunately, I don't speak Spanish.}
 {204}{}{不幸的是，我不会说西班牙语。}
 ### {205}{}{American - road - stop. Do you understand? Go back. Quickly.}
@@ -79,9 +79,9 @@
 ### {221}{}{Shel intruso! Shalerta!}
 {221}{}{Shel入侵！沙勒塔！}
 ### {222}{}{You shouldn't have done that...}
-{222}{}{你不应该那样做。。。}
+{222}{}{你不应该那样做...}
 ### {223}{}{Hey, you just misunderstood me...}
-{223}{}{嘿，你刚才误会我了。。。}
+{223}{}{嘿，你刚才误会我了...}
 
 ### {230}{}{Me alegro de escucharlo. Hm. De donde vienes?}
 {230}{}{我是埃斯科查洛。嗯，是不是？}
@@ -109,7 +109,7 @@
 ### {240}{}{Don't you understand the first time? If you go into the garrison, you'll get a bullet in the forehead. Got it?}
 {240}{}{你第一次不明白吗？如果你进入驻军，你的前额会中弹。明白了吗？}
 ### {241}{}{OK, OK, I'll leave...}
-{241}{}{好的，好的，我走。。。}
+{241}{}{好的，好的，我走...}
 ### {242}{}{If you do that again, I can't vouch for myself.}
 {242}{}{如果你再那样做，我不能为自己担保。}
 ### {243}{}{You're not otra vez? (raises his weapon threateningly) Shvete! Savoy a dispararte!}
@@ -133,9 +133,9 @@
 ### {252}{}{Gringos cannot be trusted.}
 {252}{}{格林戈斯是不可信任的。}
 ### {253}{}{Beautiful speech. I almost shed tears. Okay, I'll talk to the commander...}
-{253}{}{漂亮的演讲。我差点流下眼泪。好吧，我会和指挥官谈谈。。。}
+{253}{}{漂亮的演讲。我差点流下眼泪。好吧，我会和指挥官谈谈...}
 ### {254}{}{I'll wait...}
-{254}{}{我会等着。。。}
+{254}{}{我会等着...}
 ### {255}{}{We found a radio in the barracks. Give it to Dominguez's family. We don't want to get a bad name about us.}
 {255}{}{我们在营房里发现了一台收音机。把它给多明格斯的家人。我们不想让人对我们恶名相向。}
 ### {256}{}{Smart guys. And it was also possible to behave like this from the very beginning.}
@@ -145,7 +145,7 @@
 ### {258}{}{And if I give you this bottle of invigorating?}
 {258}{}{如果我给你这瓶提神的饮料？}
 ### {259}{}{Okay, I'll talk to the commander...}
-{259}{}{好吧，我会和指挥官谈谈。。。}
+{259}{}{好吧，我会和指挥官谈谈...}
 ### {260}{}{Return it.}
 {260}{}{归还。}
 ### {261}{}{Please return it. It's terribly unfair.}

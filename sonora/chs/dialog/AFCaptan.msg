@@ -87,7 +87,7 @@
 ### {255}{}{What kind of poison is this?}
 {255}{}{这是什么毒药？}
 ### {256}{}{I think this is what used to be called "oil" and was extracted from the bottom of the sea. But I do not know what it is. In any case, you need to stop the leak. We will pay 1000 caps to the daredevil who decides to go to the platform and do it.}
-{256}{}{我认为这就是过去所说的“石油”，是从海底提取的。但我不知道它是什么。无论如何，你需要停止泄漏。我们将支付1000顶帽子给决定去平台做这件事的冒险家。}
+{256}{}{我认为这就是过去所说的“石油”，是从海底提取的。但我不知道它是什么。无论如何，你需要停止泄漏。我们将支付1000个瓶盖给决定去平台做这件事的冒险家。}
 ### {257}{}{So what's the problem?}
 {257}{}{那么问题出在哪里呢？}
 ### {258}{}{We have been bypassing the platform for a long time. Some flying animals have built their nest there and are not allowed to approach it. Several fishermen have already tried to break through there with a fight. Some came back, others died. But if we don't stop the pollution of the sea, then we will have nothing to eat.}
@@ -116,16 +116,16 @@
 ### {273}{}{You don't think it was free, do you?}
 {273}{}{你不认为它是免费的，是吗？}
 ### {274}{}{Did we negotiate the payment? However, you probably spent some medicines. Here, take 40 caps for each patient. Thanks again.}
-{274}{}{我们协商付款了吗？然而，你可能花了一些药。在这里，为每位患者取40顶帽子。再次感谢。}
+{274}{}{我们协商付款了吗？然而，你可能花了一些药。在这里，为每位患者取40个瓶盖。再次感谢。}
 ### {1274}{}{Did we negotiate the payment? However, you probably spent some medications. Here, take 40 caps for each patient. Thanks again.}
-{1274}{}{我们协商付款了吗？然而，你可能花了一些药物。在这里，为每位患者取40顶帽子。再次感谢。}
+{1274}{}{我们协商付款了吗？然而，你可能花了一些药物。在这里，为每位患者取40个瓶盖。再次感谢。}
 ### {275}{}{Well, that's another thing.}
 {275}{}{好吧，那是另一回事。}
 
 ### {280}{}{Viva! You succeeded! The whole village was watching you from the shore. Now the sea will be more merciful to us. Thank you, amigo. We are eternally indebted to you. Here are 1000 caps. We collected this award to the one who could cope with our problem. She's yours now.}
-{280}{}{Viva！你成功了！全村人都在岸边看着你。现在大海会对我们更加仁慈。谢谢你，朋友。我们永远感激你。这里有1000顶帽子。我们把这个奖颁给了能解决我们问题的人。她现在是你的了。}
+{280}{}{Viva！你成功了！全村人都在岸边看着你。现在大海会对我们更加仁慈。谢谢你，朋友。我们永远感激你。这里有1000个瓶盖。我们把这个奖颁给了能解决我们问题的人。她现在是你的了。}
 ### {281}{}{Keep the caps for yourself. I didn't do it for the caps, but for the sake of ordinary people in trouble. How my Villa once got into it.}
-{281}{}{帽子自己留着。我这样做不是为了帽子，而是为了陷入困境的普通人。我的别墅是怎么进去的。}
+{281}{}{瓶盖自己留着。我这样做不是为了瓶盖，而是为了陷入困境的普通人。我的别墅是怎么进去的。}
 ### {282}{}{You really are an amazing person.}
 {282}{}{你真是个了不起的人。}
 ### {283}{}{Goodbye, Gilberto. It's time for me to go.}
@@ -142,7 +142,7 @@
 ### {291}{}{The Order went to the bottom to feed the six-eyed fish.}
 {291}{}{骑士团到海底去喂六眼鱼。}
 ### {292}{}{That's how... And you don't really appreciate them, do you? To be honest, we weren't ready to kiss them passionately either. But they helped us in exchange for fish. Without them, you know, it will be hard. Well, we've lived well for a while, now let's do survival again.}
-{292}{}{这就是为什么。。。你并不是真的很欣赏他们，是吗？老实说，我们也没有准备好热情地亲吻他们。但他们帮助我们换取了鱼。没有他们，你知道，这将是困难的。好吧，我们已经过了一段时间了，现在让我们重新开始生存吧。}
+{292}{}{这就是为什么...你并不是真的很欣赏他们，是吗？老实说，我们也没有准备好热情地亲吻他们。但他们帮助我们换取了鱼。没有他们，你知道，这将是困难的。好吧，我们已经过了一段时间了，现在让我们重新开始生存吧。}
 ### {293}{}{Freedom is more precious to me than life under someone's oppression. I hope you will understand this now too. Happen.}
 {293}{}{对我来说，自由比在别人压迫下的生命更珍贵。我希望你现在也能理解这一点。发生}
 ### {294}{}{I didn't think of that. I am very sorry that it happened.}
@@ -186,7 +186,7 @@
 ### {320}{}{Besides the platform, what else can you do here?}
 {320}{}{除了站台，你还能在这里做什么？}
 ### {321}{}{Well, someone is stealing fish caches and nets along the shore. I think it's some kind of beast from the wasteland. But it has not been possible to catch him yet. If you find out who is doing this, I will pay 50 caps.}
-{321}{}{嗯，有人在岸边偷鱼窝和渔网。我认为这是某种来自荒原的野兽。但现在还没能抓到他。如果你发现是谁干的，我会支付50顶帽子。}
+{321}{}{嗯，有人在岸边偷鱼窝和渔网。我认为这是某种来自荒原的野兽。但现在还没能抓到他。如果你发现是谁干的，我会支付50个瓶盖。}
 ### {322}{}{Agreed. I'll find this thief.}
 {322}{}{同意。我会找到这个小偷的。}
 ### {323}{}{This is not enough. Look for a fish lover yourself.}
@@ -206,7 +206,7 @@
 ### {330}{}{However, this one got here somehow.}
 {330}{}{然而，这一个不知怎么来到了这里。}
 ### {331}{}{Perhaps something forced him to leave his native ruins. I hope the others won't follow him. Oh yes, here are your 50 caps. Thank you.}
-{331}{}{也许是什么原因迫使他离开了家乡的废墟。我希望其他人不要跟着他。哦，是的，这是你的50顶帽子。非常感谢。}
+{331}{}{也许是什么原因迫使他离开了家乡的废墟。我希望其他人不要跟着他。哦，是的，这是你的50个瓶盖。非常感谢。}
 ### {332}{}{Good luck, Gilberto.}
 {332}{}{祝你好运，吉尔伯托。}
 ### {333}{}{Inferno? Yes, most likely he was from there.}
@@ -216,9 +216,9 @@
 ### {335}{}{It was a dead man. During the day he hid in the shadow of the lighthouse, and at night he went to the beach in search of fish. I managed to drive him out of the Black Lagoon.}
 {335}{}{那是一个死人。白天他躲在灯塔的阴影里，晚上他去海滩找鱼。我设法把他赶出了黑湖。}
 ### {336}{}{Perhaps something forced him to leave his native ruins. I hope the others won't follow him. That's just not an invention, is it? I'm not ready to pay 50 caps for bare words, I'm sorry. Here are 10 caps so that no one will be offended.}
-{336}{}{也许是什么原因迫使他离开了家乡的废墟。我希望其他人不要跟着他。这不是一项发明，是吗？对不起，我还没有准备好为裸言支付50顶帽子。这里有10顶帽子，这样就不会冒犯任何人。}
+{336}{}{也许是什么原因迫使他离开了家乡的废墟。我希望其他人不要跟着他。这不是一项发明，是吗？对不起，我还没有准备好为裸言支付50个瓶盖。这里有10个瓶盖，这样就不会冒犯任何人。}
 ### {337}{}{You can be understood. Thanks for the 10 caps.}
-{337}{}{你可以被理解。谢谢你的10顶帽子。}
+{337}{}{你可以被理解。谢谢你的10个瓶盖。}
 ### {338}{}{You bastard, you're going to pay for your deception!}
 {338}{}{你这个混蛋，你要为你的欺骗付出代价！}
 
@@ -260,7 +260,7 @@
 ### {360}{}{Bad news. Someone strangled a teenager at the lighthouse.}
 {360}{}{坏消息。有人在灯塔勒死了一名少年。}
 ### {361}{}{This is VERY bad news! We're going there now...}
-{361}{}{这是个非常坏的消息！我们现在要去那里。。。}
+{361}{}{这是个非常坏的消息！我们现在要去那里...}
 ### {362}{}{Okay.}
 {362}{}{可以}
 ### {363}{}{Hey, let's agree right away that I have nothing to do with it. Is it clear?}

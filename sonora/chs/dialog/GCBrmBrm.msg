@@ -22,4 +22,4 @@
 ### {204}{}{No, don't follow me. The shepherds won't like it.}
 {204}{}{不，别跟着我。牧羊人不会喜欢的。}
 ### {205}{}{Let's go, let's go, before the savages see...}
-{205}{}{走吧，走吧，在野蛮人看到之前。。。}
+{205}{}{走吧，走吧，在野蛮人看到之前...}

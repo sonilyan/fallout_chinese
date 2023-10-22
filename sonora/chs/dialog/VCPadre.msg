@@ -3,7 +3,7 @@
 ### {103}{}{Goodbye. I don't need my father's guidance anymore.}
 {103}{}{再见我不再需要我父亲的指导了。}
 ### {104}{}{Are you all right in the head? Go to the wastelands and bury this... "jar" deeper.}
-{104}{}{你的脑袋还好吗？去荒原埋葬这个。。。“罐子”更深。}
+{104}{}{你的脑袋还好吗？去荒原埋葬这个...“罐子”更深。}
 ### {105}{}{Your padre has returned to the Villa.}
 {105}{}{你的牧师已返回别墅。}
 ### {106}{}{I'm proud of you, son.}
@@ -29,7 +29,7 @@
 ### {208}{}{I really hope it's not contagious. Believe me, in order to protect the community, I am ready to sacrifice one close person. Enough about that for now.}
 {208}{}{我真的希望它不会传染。相信我，为了保护社区，我准备牺牲一个亲近的人。现在已经够了。}
 ### {209}{}{Thank you for your honesty... Padre.}
-{209}{}{谢谢你的诚实。。。教士。}
+{209}{}{谢谢你的诚实...教士。}
 
 #Repeat dialog
 ### {210}{}{Speak, I'm listening to you.}
@@ -53,7 +53,7 @@
 ### {230}{}{The help of a person who can read and count, but can't hold a shovel in his hand?}
 {230}{}{一个会读书和数数，但手里拿不住铲子的人的帮助？}
 ### {231}{}{He's a little weak, right, but he knows a lot more about the outside world than you and me. And he also understands old technologies. With their help, we...}
-{231}{}{他有点软弱，对吧，但他比你我更了解外面的世界。他也了解旧技术。在他们的帮助下，我们。。。}
+{231}{}{他有点软弱，对吧，但他比你我更了解外面的世界。他也了解旧技术。在他们的帮助下，我们...}
 ### {232}{}{I don't believe my ears! Has traveling through the desert completely overshadowed your mind? We've lived in isolation from the rest of the world for generations, and you bring an outsider here and offer to take up old technologies? Pray that your decision does not turn out to be a mistake. I will keep a close eye on this stranger. And for you, too.}
 {232}{}{我不相信我的耳朵！穿越沙漠的旅行完全盖过了你的头脑吗？我们几代人都生活在与世界其他地方隔绝的环境中，而你却把一个局外人带到这里，并提出要采用旧技术？祷告你的决定不会变成错误。我会密切关注这个陌生人。对你来说也是如此。}
 ### {233}{}{You won't regret it.}
@@ -88,7 +88,7 @@
 ### {252}{}{OK, I'll do it.}
 {252}{}{好的，我来做。}
 ### {253}{}{Are you crazy?! It took so much work to free you from Two-Sun, and now Flagstaff...}
-{253}{}{你疯了吗？！花了很多工作才把你从两个太阳中解放出来，现在弗拉格斯塔夫。。。}
+{253}{}{你疯了吗？！花了很多工作才把你从两个太阳中解放出来，现在弗拉格斯塔夫...}
 ### {254}{}{We have no choice! This is your responsibility as the future leader of the community. Do what YOU HAVE to do!}
 {254}{}{我们别无选择！这是你作为社区未来领导者的责任。做你必须做的事！}
 ### {1254}{}{We have no choice! This is your responsibility as the future leader of the community. Do what YOU HAVE to do!}
@@ -104,7 +104,7 @@
 ### {259}{}{Okay.}
 {259}{}{可以}
 ### {260}{}{(takes a deep breath, closing his eyes) Maria... Are you sure you know that? Well, it's better for the rest not to know yet, such news can further burden the lives of our people.}
-{260}{}{（深吸一口气，闭上眼睛）玛丽亚。。。你确定你知道吗？好吧，其他人最好还不知道，这样的消息会给我们人民的生活带来进一步的负担。}
+{260}{}{（深吸一口气，闭上眼睛）玛丽亚...你确定你知道吗？好吧，其他人最好还不知道，这样的消息会给我们人民的生活带来进一步的负担。}
 ### {261}{}{What are we going to do now?}
 {261}{}{我们现在该怎么办？}
 ### {262}{}{We have a lot of work ahead of us. The raiders looted the settlement, rats got into the cellars, the plantations fell into disrepair during our absence, but the main thing is that we must be ready for new clashes with an external threat.}
@@ -157,15 +157,15 @@
 ### {304}{}{I see.}
 {304}{}{我明白了。}
 ### {305}{}{I happened to visit Vault 27. You never talked about him.}
-{305}{}{我碰巧参观了27号金库。你从来没有谈论过他。}
+{305}{}{我碰巧参观了27号避难所。你从来没有谈论过他。}
 ### {306}{}{What are you saying?! The very Vault from which our ancestors came out?}
 {306}{}{你在说什么？！正是我们祖先的避难所？}
 ### {307}{}{Exactly. As the Founder said, this is a real storehouse of old technologies...}
-{307}{}{确切地正如创始人所说，这是一个真正的旧技术仓库。。。}
+{307}{}{确切地正如创始人所说，这是一个真正的旧技术仓库...}
 ### {308}{}{Shut up! The Founder left the Vault. And you already know why. It is not necessary to stir up the past. Forget everything you could see and hear there.}
-{308}{}{闭嘴！创始人离开了金库。你已经知道为什么了。没有必要挑拨离间。忘记你在那里看到和听到的一切。}
+{308}{}{闭嘴！创始人离开了避难所。你已经知道为什么了。没有必要挑拨离间。忘记你在那里看到和听到的一切。}
 ### {1308}{}{Shut up! The Founder left the Vault. And you already know why. It is not necessary to stir up the past. Forget everything you could see and hear there.}
-{1308}{}{闭嘴！创始人离开了金库。你已经知道为什么了。没有必要挑拨离间。忘记你在那里看到和听到的一切。}
+{1308}{}{闭嘴！创始人离开了避难所。你已经知道为什么了。没有必要挑拨离间。忘记你在那里看到和听到的一切。}
 ### {309}{}{Why are you so afraid of the past?}
 {309}{}{你为什么如此害怕过去？}
 
@@ -176,7 +176,7 @@
 ### {312}{}{(in the heat) It doesn't matter! He was saving his people! (calming down) Hard times required hard decisions. The founder lived with this burden until the end of his days. But it was he who created the Villa and gave life to this desert. And if someone considers his act a crime, I am personally ready to rip out his tongue.}
 {312}{}{（在高温下）没关系！他在拯救他的人民！（冷静下来）困难时期需要艰难的决定。这位创始人一直承受着这种负担，直到生命的尽头。但正是他创造了这座别墅，并赋予了这片沙漠生命。如果有人认为他的行为是犯罪，我个人准备撕掉他的舌头。}
 ### {313}{}{But Padre...}
-{313}{}{但是神父。。。}
+{313}{}{但是神父...}
 ### {314}{}{I understand. You won't hear about it again.}
 {314}{}{我理解。你不会再听到这件事了。}
 

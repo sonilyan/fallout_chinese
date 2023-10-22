@@ -43,7 +43,7 @@
 ### {126}{}{Even if you were given a badge, but you need to earn my respect separately.}
 {126}{}{即使你得到了徽章，但你需要单独赢得我的尊重。}
 ### {127}{}{I'll keep an eye on you... ranger.}
-{127}{}{我会一直盯着你。。。护林员}
+{127}{}{我会一直盯着你...护林员}
 ### {128}{}{Keep order on the Wastelands.}
 {128}{}{在荒原上维持秩序。}
 ### {129}{}{I hope now you feel responsible for the affairs in the Wastelands.}
@@ -68,7 +68,7 @@
 ### {136}{}{Hey, who gave you this armor? Answer immediately!}
 {136}{}{嘿，谁给你的盔甲？立即回答！}
 ### {137}{}{Hello, rain... Hey, I don't remember you being enlisted in our ranks!}
-{137}{}{你好，下雨了。。。嘿，我不记得你被编入我们的行列了！}
+{137}{}{你好，下雨了...嘿，我不记得你被编入我们的行列了！}
 
 ### {138}{}{What's that jar on you? Take it off immediately!}
 {138}{}{你身上的罐子是什么？马上把它摘下来！}

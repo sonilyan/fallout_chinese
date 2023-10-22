@@ -13,7 +13,7 @@
 ### {201}{}{Are you alone here?}
 {201}{}{你一个人在这里吗？}
 ### {202}{}{Don't worry, my squad has set up camp not far away in the wasteland. We thought our presence was a little... will excite your brother. If necessary, I can always call them on the radio.}
-{202}{}{别担心，我的小队已经在不远处的荒地上扎营了。我们觉得我们的存在有点。。。会让你弟弟兴奋的。如果有必要，我可以随时用收音机给他们打电话。}
+{202}{}{别担心，我的小队已经在不远处的荒地上扎营了。我们觉得我们的存在有点...会让你弟弟兴奋的。如果有必要，我可以随时用收音机给他们打电话。}
 ### {203}{}{Thank you for your service, Ambassador. I have to go.}
 {203}{}{感谢你的服务，大使。我得走了。}
 ### {204}{}{OK. But if you're lying, our union will come to an end.}

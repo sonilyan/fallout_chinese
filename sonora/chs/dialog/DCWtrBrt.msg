@@ -39,7 +39,7 @@
 ### {208}{}{I'm too busy to chat. Don't stop me from working.}
 {208}{}{我太忙了，没时间聊天。不要阻止我工作。}
 ### {209}{}{Ugh, how unfriendly...}
-{209}{}{啊，多么不友好啊。。。}
+{209}{}{啊，多么不友好啊...}
 ### {210}{}{Yes, I urgently need water.}
 {210}{}{是的，我急需水。}
 ### {211}{}{Of course. Everyone needs water. But if you want to drink, pay. There is nothing free here.}
@@ -49,7 +49,7 @@
 ### {213}{}{Please give some water to a tired ranger. It'll count for you.}
 {213}{}{请给疲惫的护林员一些水。这对你很重要。}
 ### {214}{}{(making a face) Ranger... I don't remember what the Rangers did so well for us. However, the caravaneers have been talking a lot about you lately.}
-{214}{}{（扮鬼脸）游骑兵。。。我不记得流浪者队为我们做了什么。然而，最近车队一直在谈论你。}
+{214}{}{（扮鬼脸）游骑兵...我不记得流浪者队为我们做了什么。然而，最近车队一直在谈论你。}
 ### {215}{}{[Next]}
 {215}{}{[下一个]}
 ### {216}{}{Okay. Here's some water for you. But don't ask any more. We are engaged in trade here, not charity.}
@@ -57,7 +57,7 @@
 ### {217}{}{Thank you, dear.}
 {217}{}{谢谢你，亲爱的。}
 ### {218}{}{Water! Water! I'm dying of thirst...}
-{218}{}{水水我渴死了。。。}
+{218}{}{水水我渴死了...}
 ### {219}{}{And you expect me to buy it? What a pathetic parody of dehydration.}
 {219}{}{你想让我买吗？真是对脱水的可悲模仿。}
 ### {220}{}{I will remember this day. And someday you will pay dearly for your greed.}
@@ -71,13 +71,13 @@
 ### {224}{}{Would you really refuse a mug of life-saving water to a ranger? I'm not asking for much.}
 {224}{}{你真的会拒绝护林员喝一杯救命水吗？我要求不多。}
 ### {225}{}{Water! Water! I'm dying of thirst...}
-{225}{}{水水我渴死了。。。}
+{225}{}{水水我渴死了...}
 ### {226}{}{My God, how many miles did you have to walk under the sun? Okay, take some water. Just don't die on my floor.}
 {226}{}{天啊，你在太阳底下走了多少英里？好吧，喝点水。只是不要死在我的地板上。}
 ### {227}{}{Thank you very much...}
-{227}{}{非常感谢。。。}
+{227}{}{非常感谢...}
 ### {1227}{}{Thank you very much...}
-{1227}{}{非常感谢。。。}
+{1227}{}{非常感谢...}
 
 ### {230}{}{Hey, not so fast. Show me your neck. Come on, show me.}
 {230}{}{嘿，没那么快。让我看看你的脖子。来吧，给我看看。}
@@ -90,7 +90,7 @@
 ### {234}{}{We don't need conflicts.}
 {234}{}{我们不需要冲突。}
 ### {235}{}{So, there are no traces of the collar. It's good... for both of us.}
-{235}{}{所以，没有项圈的痕迹。这很好。。。为了我们两个。}
+{235}{}{所以，没有项圈的痕迹。这很好...为了我们两个。}
 ### {236}{}{Exactly. Under other circumstances, it would have cost you dearly.}
 {236}{}{确切地在其他情况下，这会让你付出高昂的代价。}
 ### {237}{}{Nothing, I understand. It's fine.}
@@ -98,7 +98,7 @@
 ### {238}{}{I'm not going to curry favor with you.}
 {238}{}{我不会讨好你的。}
 ### {239}{}{Look, let's just break up, okay? Consider that I'm not here...}
-{239}{}{听着，我们分手吧，好吗？想想我不在这里。。。}
+{239}{}{听着，我们分手吧，好吗？想想我不在这里...}
 ### {240}{}{Well, well, and here's our escaped convict. And what should I do with you?}
 {240}{}{好吧，好吧，这是我们的逃犯。我该怎么处置你？}
 ### {241}{}{Nothing, I guess. Can I just leave?}
@@ -143,9 +143,9 @@
 ### {259}{}{Okay. Bye.}
 {259}{}{可以再见}
 ### {260}{}{I'm chasing a slave convoy...}
-{260}{}{我在追一个奴隶车队。。。}
+{260}{}{我在追一个奴隶车队...}
 ### {261}{}{Wait, I'm looking for a tinker...}
-{261}{}{等等，我在找修补工。。。}
+{261}{}{等等，我在找修补工...}
 ### {262}{}{I don't know anything. Do you need water or not?}
 {262}{}{我什么都不知道。你需要水吗？}
 ### {263}{}{No.}
@@ -192,7 +192,7 @@
 ### {282}{}{I doubt it's just that.}
 {282}{}{我怀疑仅仅是这样。}
 ### {283}{}{Yes. Someone among his loved ones died in that struggle... But as I said before, it's none of your business. And not even mine. This is a thing of the past.}
-{283}{}{对他的亲人中有人死于那场斗争。。。但正如我之前所说，这不关你的事。甚至连我的都没有。这已经成为过去。}
+{283}{}{对他的亲人中有人死于那场斗争...但正如我之前所说，这不关你的事。甚至连我的都没有。这已经成为过去。}
 ### {284}{}{That past almost ruined your life. And now I'll leave you with this thought.}
 {284}{}{那段过去几乎毁了你的生活。现在我就把这个想法留给你。}
 ### {285}{}{Indeed, it makes no sense to stir up someone's past mistakes. It's time to tackle our future. See you.}

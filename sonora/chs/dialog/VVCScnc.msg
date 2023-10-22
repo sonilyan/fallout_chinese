@@ -24,9 +24,9 @@
 ### {200}{}{I was expecting rescuers from Phoenix, but who ARE YOU?}
 {200}{}{我期待着来自凤凰城的救援人员，但你是谁？}
 ### {201}{}{I am a peasant from a Villa. My ancestors are somehow connected with this Vault. And I'm here to find out the details.}
-{201}{}{我是别墅里的农民。我的祖先不知何故与这个金库有联系。我是来了解细节的。}
+{201}{}{我是别墅里的农民。我的祖先不知何故与这个避难所有联系。我是来了解细节的。}
 ### {1201}{}{I'm a peasant from a villa. My ancestors are somehow connected with this Vault. And I'm here to find out the details.}
-{1201}{}{我是别墅里的农民。我的祖先不知何故与这个金库有联系。我是来了解细节的。}
+{1201}{}{我是别墅里的农民。我的祖先不知何故与这个避难所有联系。我是来了解细节的。}
 ### {202}{}{It's impressive that you managed to get this far. You know, I've heard about this Villa thing. But if you want to know the details, then help me finish my business in this Vault.}
 {202}{}{你能走到这一步真是令人印象深刻。你知道，我听说过维拉的事。但如果你想知道细节，那就帮我在这个保险库里完成我的业务。}
 ### {203}{}{What's your business here?}
@@ -50,14 +50,14 @@
 ### {212}{}{I have to get into the caretaker's post. This room is located one level above. Follow there. We shouldn't waste any time. Yes, my name is Arthur Carrington. Glad to meet you.}
 {212}{}{我必须到管理员的岗位上去。这个房间位于楼上一层。跟着那里走。我们不应该浪费任何时间。是的，我的名字叫阿瑟·卡林顿。很高兴认识你。}
 ### {213}{}{Is it really so necessary...}
-{213}{}{真的有必要吗。。。}
+{213}{}{真的有必要吗...}
 ### {214}{}{Okay. But don't be silly.}
 {214}{}{可以但别傻了。}
 #Before the escape (as caretaker)
 ### {220}{}{Damn it! Is this a complete failure?}
 {220}{}{该死！这是一次彻底的失败吗？}
 ### {221}{}{What happened? You look depressed...}
-{221}{}{发生了什么？你看起来很沮丧。。。}
+{221}{}{发生了什么？你看起来很沮丧...}
 ### {222}{}{Hey, are you talking to yourself? I actually want to know too.}
 {222}{}{嘿，你在自言自语吗？我其实也想知道。}
 ### {223}{}{Protocol zero.}
@@ -67,13 +67,13 @@
 ### {225}{}{What the hell is the protocol?}
 {225}{}{协议到底是什么？}
 ### {226}{}{I suspected it would all end there. Many years of imprisonment brought the caretaker out of his mental balance, and he launched a chain of procedures to destroy the Vault. The so-called "protocol zero".}
-{226}{}{我怀疑一切都会就此结束。多年的监禁使看守人失去了精神平衡，他启动了一系列程序来摧毁金库。所谓的“零协议”。}
+{226}{}{我怀疑一切都会就此结束。多年的监禁使看守人失去了精神平衡，他启动了一系列程序来摧毁避难所。所谓的“零协议”。}
 ### {227}{}{But some of the equipment works.}
 {227}{}{但有些设备是有效的。}
 ### {228}{}{Looks like his plans weren't much more successful than yours.}
 {228}{}{看来他的计划并不比你的成功多少。}
 ### {229}{}{Yes, that's right. Obviously, the residents resisted the actions of the caretaker and were able to stop some of the procedures. They saved their lives, but doomed themselves to years of suffering by becoming... ghosts.}
-{229}{}{是的，没错。显然，居民们抵制了看守人的行动，并阻止了一些程序。他们拯救了自己的生命，但由于成为。。。鬼魂。}
+{229}{}{是的，没错。显然，居民们抵制了看守人的行动，并阻止了一些程序。他们拯救了自己的生命，但由于成为...鬼魂。}
 ### {230}{}{I think they suffered long before that.}
 {230}{}{我想他们早在那之前就遭受了痛苦。}
 ### {231}{}{If we stay here, we'll be one of them.}
@@ -149,7 +149,7 @@
 ### {300}{}{How are you, boss?}
 {300}{}{你好吗，老板？}
 ### {301}{}{So, let's look at these equations... Oh, did I miss something?}
-{301}{}{让我们来看看这些方程。。。哦，我错过什么了吗？}
+{301}{}{让我们来看看这些方程...哦，我错过什么了吗？}
 ### {302}{}{There are always not enough answers.}
 {302}{}{答案总是不够。}
 ### {303}{}{What, do you need wise advice again?}
@@ -170,7 +170,7 @@
 ### {310}{}{I don't feel well. It seems to be the effects of poisoning.}
 {310}{}{我感觉不舒服。这似乎是中毒的后果。}
 ### {311}{}{Let... Okay, bend over... And now so... Is that better now?}
-{311}{}{允许好吧，弯腰。。。现在…现在好了吗？}
+{311}{}{允许好吧，弯腰...现在…现在好了吗？}
 ### {312}{}{Yes... Thanks, Doc.}
 {312}{}{对谢谢，医生。}
 
@@ -188,7 +188,7 @@
 ### {334}{}{And where is the city of Phoenix?}
 {334}{}{凤凰城在哪里？}
 ### {335}{}{You really don't know? This is strange... Hold out Pip-Boy, I'll show this city on the map.}
-{335}{}{你真的不知道吗？这很奇怪。。。坚持住皮普男孩，我会在地图上显示这个城市。}
+{335}{}{你真的不知道吗？这很奇怪...坚持住皮普男孩，我会在地图上显示这个城市。}
 ### {336}{}{Thank you.}
 {336}{}{非常感谢。}
 
@@ -203,11 +203,11 @@
 ### {354}{}{Who were your parents?}
 {354}{}{你的父母是谁？}
 ### {355}{}{I think they were the descendants of those who came out of the Vault. Although they did not directly talk about it.}
-{355}{}{我认为他们是那些从金库出来的人的后代。尽管他们没有直接谈论此事。}
+{355}{}{我认为他们是那些从避难所出来的人的后代。尽管他们没有直接谈论此事。}
 ### {356}{}{Why did you go on an expedition?}
 {356}{}{你为什么去探险？}
 ### {357}{}{The fire worshippers were looking for people to scout. Their interests were too much... mercantile. They needed only practically significant things-old equipment, energy sources, weapons, after all. As a scientist, I looked at things more broadly. The Vault could tell a lot about the Old World and help in the development of the New One. Ancient relics should not be thrown around so recklessly.}
-{357}{}{拜火者在找人侦察。他们的兴趣太多了。。。商业的毕竟，他们只需要一些实际意义重大的东西——旧设备、能源、武器。作为一名科学家，我更广泛地看待事物。金库可以讲述很多关于旧世界的故事，并有助于新世界的发展。古代文物不应该如此肆无忌惮地乱扔。}
+{357}{}{拜火者在找人侦察。他们的兴趣太多了...商业的毕竟，他们只需要一些实际意义重大的东西——旧设备、能源、武器。作为一名科学家，我更广泛地看待事物。避难所可以讲述很多关于旧世界的故事，并有助于新世界的发展。古代文物不应该如此肆无忌惮地乱扔。}
 
 ### {360}{}{Tell me what happened to the expedition.}
 {360}{}{告诉我探险队发生了什么事。}
@@ -230,7 +230,7 @@
 ### {368}{}{It looks more like you were just holding the rear for safety, and you wasted your people.}
 {368}{}{这看起来更像是你只是为了安全起见，而浪费了你的人。}
 ### {369}{}{Caution allowed me to live up to my age. And it was only here, in the Vault, that I paid the price for letting my ambitions get the better of me. But I had to act decisively, because the expedition was under threat - at any moment the cult could stop funding or send me a replacement. I couldn't derail my life's work!}
-{369}{}{谨慎使我不负年龄。只有在这里，在金库里，我才为让我的野心战胜我而付出了代价。但我必须果断行动，因为探险队受到了威胁——邪教随时可能停止资助或派一名替代者接替我。我不能破坏我一生的工作！}
+{369}{}{谨慎使我不负年龄。只有在这里，在避难所里，我才为让我的野心战胜我而付出了代价。但我必须果断行动，因为探险队受到了威胁——邪教随时可能停止资助或派一名替代者接替我。我不能破坏我一生的工作！}
 
 ### {370}{}{What do you know about ghosts?}
 {370}{}{你对鬼魂了解多少？}
@@ -244,9 +244,9 @@
 {373}{}{当我遇见你的时候，我差点把你当成鬼。祝贺你，你还有很长的路要走。}
 
 ### {380}{}{You promised to tell me about the connection between the Vault and the Villa.}
-{380}{}{你答应告诉我金库和别墅之间的联系。}
+{380}{}{你答应告诉我避难所和别墅之间的联系。}
 ### {381}{}{I'm sorry, I lied so you'd have a reason to save my life. I don't know anything about the Villa, or how things from the Vault ended up there. Most likely, a long time ago someone came out of the Vault, and then his things came to you. This is a common thing.}
-{381}{}{对不起，我撒谎是为了让你有理由救我的命。我对别墅一无所知，也不知道金库里的东西是怎么跑到那里的。很可能，很久以前有人从金库出来，然后他的东西来到了你身边。这是一件常见的事情。}
+{381}{}{对不起，我撒谎是为了让你有理由救我的命。我对别墅一无所知，也不知道避难所里的东西是怎么跑到那里的。很可能，很久以前有人从避难所出来，然后他的东西来到了你身边。这是一件常见的事情。}
 ### {382}{}{[Next]}
 {382}{}{[下一个]}
 ### {383}{}{You'll have to go downstairs and look for something that will give hints of an answer. Here, take an access card, it will allow you to open locked doors.}
@@ -261,7 +261,7 @@
 ### {390}{}{What are you going to do now?}
 {390}{}{你现在打算做什么？}
 ### {391}{}{I'll make a big report and try to get some more resources from the cult to complete the expedition. I need a reliable guard to clear the ghost Vault and a new set of slaves.}
-{391}{}{我会做一个大报告，并试图从邪教那里获得更多的资源来完成探险。我需要一个可靠的警卫来清除幽灵金库和一组新的奴隶。}
+{391}{}{我会做一个大报告，并试图从邪教那里获得更多的资源来完成探险。我需要一个可靠的警卫来清除幽灵避难所和一组新的奴隶。}
 ### {392}{}{Clear. Do as you want.}
 {392}{}{清楚的你想怎么做就怎么做。}
 ### {393}{}{A lot of people died because of you and your ambitions. Do you want to continue?}
@@ -271,17 +271,17 @@
 ### {395}{}{Did technology help the local ghosts?}
 {395}{}{技术帮助了当地的鬼魂吗？}
 ### {396}{}{No, they didn't help. So what? This is nothing more than the stupidity of one particular person in the caretaker Vault.}
-{396}{}{不，他们没有帮忙。那又怎样？这只不过是看守金库里一个特定的人的愚蠢。}
+{396}{}{不，他们没有帮忙。那又怎样？这只不过是看守避难所里一个特定的人的愚蠢。}
 ### {397}{}{Okay. Whatever you say.}
 {397}{}{可以不管你说什么。}
 ### {398}{}{Technology has not saved the residents of the Vault. On the contrary, they were condemned to eternal suffering.}
-{398}{}{技术并没有拯救金库的居民。相反，他们注定要遭受永恒的痛苦。}
+{398}{}{技术并没有拯救避难所的居民。相反，他们注定要遭受永恒的痛苦。}
 ### {399}{}{What do you mean by that?}
 {399}{}{你的意思是什么？}
 ### {400}{}{Technology will not save a rotten society. But they will generate wars around ancient artifacts.}
 {400}{}{技术无法拯救一个腐朽的社会。但它们将引发围绕古代文物的战争。}
 ### {401}{}{Hmm... I didn't think about it. The Phoenix Society is undergoing a reformation thanks to the cult of Fire. The introduction of ancient technologies gave a lot of benefits, but at the same time divided the population... Perhaps I should read more books on sociology.}
-{401}{}{嗯…我没想过。凤凰社正在经历一场改革，这要归功于对火的崇拜。古代技术的引入带来了很多好处，但同时也分裂了人口。。。也许我应该多读一些社会学的书。}
+{401}{}{嗯…我没想过。凤凰社正在经历一场改革，这要归功于对火的崇拜。古代技术的引入带来了很多好处，但同时也分裂了人口...也许我应该多读一些社会学的书。}
 ### {402}{}{Just thinking out loud. Forget it.}
 {402}{}{只是大声思考。算了。}
 ### {403}{}{This is the end of our conversation. So far.}
@@ -362,4 +362,4 @@
 ### {486}{}{Goodbye, Arthur.}
 {486}{}{再见，亚瑟。}
 ### {487}{}{The customer was extremely dissatisfied with the results of my many months of work. I was reprimanded for waste and inefficiency and even offered to be burned at the stake. But how could I know that there would be these "ghosts" in the Vault? And that the Vault itself is so messed up? The expenses of the expedition were not justified. That's what they say. Damn lid-lovers! It looks like my scientific career will come to an end here.}
-{487}{}{客户对我几个月的工作结果非常不满意。我因浪费和效率低下而受到谴责，甚至提出要被烧死在火刑柱上。但我怎么知道金库里会有这些“鬼”呢？保险库本身就这么混乱？探险的费用是不合理的。他们就是这么说的。该死的盖子爱好者！看来我的科学生涯将在这里结束。}
+{487}{}{客户对我几个月的工作结果非常不满意。我因浪费和效率低下而受到谴责，甚至提出要被烧死在火刑柱上。但我怎么知道避难所里会有这些“鬼”呢？保险库本身就这么混乱？探险的费用是不合理的。他们就是这么说的。该死的盖子爱好者！看来我的科学生涯将在这里结束。}

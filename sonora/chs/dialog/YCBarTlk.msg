@@ -30,7 +30,7 @@
 ### {207}{}{Us?}
 {207}{}{我们}
 ### {208}{}{Necropolis undead. We waited out the nuclear attack in a local Vault, but as a result turned into ghouls. They died and went to heaven. This is my favorite joke.}
-{208}{}{亡灵墓地。我们在当地的一个金库里等待核袭击，但结果变成了食尸鬼。他们死了，上了天堂。这是我最喜欢的笑话。}
+{208}{}{亡灵墓地。我们在当地的一个避难所里等待核袭击，但结果变成了食尸鬼。他们死了，上了天堂。这是我最喜欢的笑话。}
 ### {209}{}{Then why are you here and not in the Necropolis?}
 {209}{}{那你为什么在这里而不在墓地？}
 ### {210}{}{Don't you know this story? Oh, it happened a few years ago. In short, because of one fucking mutant who bred other mutants, normal people turned against ALL mutants. This forced us to migrate far away. And now we're here. And it wasn't so bad.}

@@ -9,7 +9,7 @@
 ### {204}{}{This system is too complicated for you.}
 {204}{}{这个系统对你来说太复杂了。}
 ### {205}{}{It would be nice to find the instructions... or an instructor.}
-{205}{}{如果能找到说明书就太好了。。。或教练。}
+{205}{}{如果能找到说明书就太好了...或教练。}
 ### {206}{}{It won't help here. Knowledge is needed here.}
 {206}{}{这对这里没有帮助。这里需要知识。}
 ### {207}{}{Now you know what to do.}

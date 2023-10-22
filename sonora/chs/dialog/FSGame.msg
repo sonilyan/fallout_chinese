@@ -62,6 +62,6 @@
 ### {150}{}{"It was aerobatics, Captain! You've conquered Space and you can be proud of yourself!"}
 {150}{}{“这是特技飞行，上尉！你征服了太空，你可以为自己感到骄傲！”}
 ### {151}{}{Phew, it's finally over... It's strange, I feel something... emptiness after victory.}
-{151}{}{哇，终于结束了。。。这很奇怪，我感觉到了。。。胜利后的空虚。}
+{151}{}{哇，终于结束了...这很奇怪，我感觉到了...胜利后的空虚。}
 ### {152}{}{During the game you had a seizure!}
 {152}{}{在比赛中你癫痫发作了！}

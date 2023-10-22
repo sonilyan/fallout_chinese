@@ -63,7 +63,7 @@
 ### {231}{}{That's my line. I'll do it in the best possible way, your bike will make a whole caravan. But such work is expensive. What can you offer in return?}
 {231}{}{这是我的台词。我会用最好的方式做的，你的自行车会成为一个大篷车。但这样的工作很昂贵。你能提供什么作为回报？}
 ### {232}{}{Let's see...}
-{232}{}{让我们看看。。。}
+{232}{}{让我们看看...}
 ### {233}{}{The tannery is closed to outsiders. I work only for members of the tribe and those outsiders who are trusted by shamans.}
 {233}{}{制革厂不对外人开放。我只为部落成员和那些受到萨满信任的外来者工作。}
 ### {234}{}{So you have to deal with the local shit first? Clear.}
@@ -137,7 +137,7 @@
 ### {285}{}{I should have thought better. It's lucky for you that the shepherds didn't get hurt. Otherwise, the whole pueblo would be mad at you. But it's good that you admit a mistake. At least I know I should be more careful with you.}
 {285}{}{我本应该想得更好。你很幸运，牧羊人没有受伤。否则，整个普韦布洛人都会生你的气。但你承认错误是件好事。至少我知道我应该对你更加小心。}
 ### {286}{}{Uh, okay...}
-{286}{}{好吧。。。}
+{286}{}{好吧...}
 ### {287}{}{I will think over your words, wise man.}
 {287}{}{我会仔细考虑你的话的，智者。}
 ### {288}{}{Leave your moralizing to the stupid kids, dumbass.}

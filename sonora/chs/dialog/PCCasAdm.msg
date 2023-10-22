@@ -9,7 +9,7 @@
 ### {200}{}{Welcome to our casino. Note - *the only* operating casino in all of Arizona.}
 {200}{}{欢迎光临我们的赌场。注：亚利桑那州唯一的赌场。}
 ### {201}{}{Not impressive. I thought there would be more... lively.}
-{201}{}{不令人印象深刻。我以为会有更多。。。活泼的}
+{201}{}{不令人印象深刻。我以为会有更多...活泼的}
 ### {202}{}{Your truth. The population of Phoenix is going through a bad time, it affects our business as well. In any case, there is no choice, is there?}
 {202}{}{你的真相。凤凰城的人口正在经历一段糟糕的时期，这也影响了我们的业务。无论如何，别无选择，是吗？}
 ### {203}{}{You can't argue with that.}
@@ -39,7 +39,7 @@
 ### {224}{}{Take the trouble to explain.}
 {224}{}{麻烦你解释一下。}
 ### {225}{}{It is not difficult to guess that other people's winnings hurt the casino's capital. And you've already earned enough caps for a comfortable old age. It's time to make way for new players. Don't you think?}
-{225}{}{不难猜测，其他人的奖金损害了赌场的资本。而且你已经挣到了足够的帽子来度过一个舒适的晚年。是时候为新玩家让路了。你不觉得吗？}
+{225}{}{不难猜测，其他人的奖金损害了赌场的资本。而且你已经挣到了足够的瓶盖来度过一个舒适的晚年。是时候为新玩家让路了。你不觉得吗？}
 ### {226}{}{Pathetic speculator, you can't trick me around your finger.}
 {226}{}{可怜的投机者，你骗不了我。}
 ### {227}{}{I can understand your logic, but it's still a shame.}
@@ -57,7 +57,7 @@
 ### {233}{}{You're all courtesy.}
 {233}{}{你们都很有礼貌。}
 ### {234}{}{Have a nice time... Oh, by the way. Don Diego is interested in your person and would like to discuss some common business. I already told the guards to let you through.}
-{234}{}{祝你玩得愉快。。。哦，对了。Don Diego对你的人很感兴趣，想讨论一些共同的业务。我已经告诉警卫让你通过了。}
+{234}{}{祝你玩得愉快...哦，对了。Don Diego对你的人很感兴趣，想讨论一些共同的业务。我已经告诉警卫让你通过了。}
 ### {235}{}{Tell him I'll drop by when I have some free time. Later.}
 {235}{}{告诉他我有空的时候会顺道来。后来}
 ### {236}{}{Certainly. I would also like to chat with Don Diego.}
@@ -100,12 +100,12 @@
 ### {272}{}{I see.}
 {272}{}{我明白了。}
 ### {273}{}{I think you underestimate his contribution to the business... Shall we change the subject?}
-{273}{}{我认为你低估了他对公司的贡献。。。我们换个话题好吗？}
+{273}{}{我认为你低估了他对公司的贡献...我们换个话题好吗？}
 
 ### {275}{}{I see the casino is still working after that explosion?}
 {275}{}{我看到赌场在爆炸后还在工作吗？}
 ### {276}{}{Yes, a terrible story. We were lucky that the explosion was underground and was far enough away. And yet the building has suffered serious damage. We will restore it to its former form in a year... Well, I'm counting on it.}
-{276}{}{是的，一个可怕的故事。我们很幸运，爆炸发生在地下，而且距离足够远。然而，这座建筑遭到了严重的破坏。我们将在一年内恢复原状。。。好吧，我指望着它。}
+{276}{}{是的，一个可怕的故事。我们很幸运，爆炸发生在地下，而且距离足够远。然而，这座建筑遭到了严重的破坏。我们将在一年内恢复原状...好吧，我指望着它。}
 ### {277}{}{I see.}
 {277}{}{我明白了。}
 ### {278}{}{I hardly believe it.}
@@ -174,7 +174,7 @@
 ### {326}{}{Still, tell your boss. What if he's interested in our partnership?}
 {326}{}{尽管如此，还是要告诉你的老板。如果他对我们的合作感兴趣呢？}
 ### {327}{}{It's useless. Your candidacy... not quite the level to talk about partnership. Do you understand?}
-{327}{}{这没用。你的候选人资格。。。谈不上伙伴关系。你明白吗？}
+{327}{}{这没用。你的候选人资格...谈不上伙伴关系。你明白吗？}
 ### {328}{}{Yeah. I understand. Someone here is quite arrogant.}
 {328}{}{是 啊我理解。这里有人很傲慢。}
 ### {329}{}{No problems. I understand everything.}
@@ -214,7 +214,7 @@
 ### {352}{}{I don't think it has bottlecaps at all. They say he's completely drunk and is on the verge. If so, we will lose the client, and with it our bottlecaps. And this by the way }
 {352}{}{我认为它根本没有瓶颈。他们说他已经完全醉了，快要醉了。如果是这样，我们将失去客户，也将失去我们的瓶颈。顺便说一下}
 ### {353}{}{ caps... So let's write it down.}
-{353}{}{大写。。。所以让我们把它写下来。}
+{353}{}{大写...所以让我们把它写下来。}
 ### {354}{}{You'll find that son of a bitch in the slums. Go, I have a lot of work to do.}
 {354}{}{你会在贫民窟里找到那个婊子养的。去吧，我有很多工作要做。}
 ### {355}{}{Yes, I'll see you.}
@@ -234,7 +234,7 @@
 ### {362}{}{How much does the client owe the casino bank?}
 {362}{}{客户欠赌场银行多少钱？}
 ### {363}{}{ caps. We accept cash only. Don't let this speculator cheat with barter or some kind of service. With people like him, you have to be on your guard.}
-{363}{}{帽子。我们只收现金。不要让这个投机者以物易物或某种服务进行欺骗。和他这样的人在一起，你必须保持警惕。}
+{363}{}{瓶盖。我们只收现金。不要让这个投机者以物易物或某种服务进行欺骗。和他这样的人在一起，你必须保持警惕。}
 ### {364}{}{ ringing investments in the bank.}
 {364}{}{对银行的大额投资。}
 ### {365}{}{The client is dead. There's nothing more I can do.}
@@ -246,7 +246,7 @@
 ### {368}{}{That's his duty, }
 {368}{}{这是他的职责，}
 ### {369}{}{ caps. Don't ask me how I did it.}
-{369}{}{帽子。不要问我是怎么做到的。}
+{369}{}{瓶盖。不要问我是怎么做到的。}
 ### {370}{}{That's how dutiful it is. Thank you for your cooperation. Great job. Here is your fee - one fifth of the amount owed.}
 {370}{}{这是多么的尽职。谢谢你的合作。干得好。这是你的费用，是欠款的五分之一。}
 ### {371}{}{Have a nice day.}

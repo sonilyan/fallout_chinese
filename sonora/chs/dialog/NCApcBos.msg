@@ -35,9 +35,9 @@
 ### {222}{}{What a joy, Doctor! I feel better somehow.}
 {222}{}{真高兴，医生！不知怎么的，我感觉好多了。}
 ### {223}{}{Oh, I'm sorry... I can cure you. But the drugs are too expensive. We will spend on your treatment }
-{223}{}{哦，对不起。。。我可以治好你。但是这些药太贵了。我们会花在你的治疗上}
+{223}{}{哦，对不起...我可以治好你。但是这些药太贵了。我们会花在你的治疗上}
 ### {224}{}{ caps. What can you offer for compensation?}
-{224}{}{帽子。你能提供什么补偿？}
+{224}{}{瓶盖。你能提供什么补偿？}
 ### {225}{}{bottlecaps. Exactly as much as you need.}
 {225}{}{装瓶。你需要多少就多少。}
 ### {226}{}{I don't have anything of value.}
@@ -62,7 +62,7 @@
 ### {237}{}{I understand. I'll pay }
 {237}{}{我理解。我会付钱的}
 ### {238}{}{ caps. Is that enough?}
-{238}{}{帽子。够了吗？}
+{238}{}{瓶盖。够了吗？}
 ### {239}{}{Hmm. It's not much, but there's nothing you can do - after all, you need to be saved.}
 {239}{}{嗯，不多，但你也无能为力——毕竟，你需要被拯救。}
 ### {240}{}{Before we start, I need to leave. I'll be back a little later.}
@@ -70,7 +70,7 @@
 ### {241}{}{Here are the bottlecaps. When do we start?}
 {241}{}{这是水瓶。我们什么时候开始？}
 ### {242}{}{The sooner the better. First you should take a bath...}
-{242}{}{越快越好。首先你应该洗个澡。。。}
+{242}{}{越快越好。首先你应该洗个澡...}
 ### {243}{}{A whole bath? Wow!}
 {243}{}{洗个完整的澡？哇！}
 ### {244}{}{The ability "Rehabilitation" was obtained.}
@@ -93,11 +93,11 @@
 ### {256}{}{ bottlecaps and ten days of strict regime. It's expensive, but this way you buy yourself extra health.}
 {256}{}{装瓶和十天的严格制度。它很贵，但这样你可以为自己购买额外的健康。}
 ### {257}{}{Uh, no. Thanks for the offer, Doc, but I can't get those caps.}
-{257}{}{不，谢谢你的提议，医生，但我买不到那些帽子。}
+{257}{}{不，谢谢你的提议，医生，但我买不到那些瓶盖。}
 ### {258}{}{I'm taking the bait, Doc. Here is the payment for the service.}
 {258}{}{我上当了，医生。这是服务费。}
 ### {259}{}{Very good. To begin with, we will conduct a survey...}
-{259}{}{很好。首先，我们将进行一项调查。。。}
+{259}{}{很好。首先，我们将进行一项调查...}
 ### {260}{}{Hey, it tickles, Doctor!}
 {260}{}{嘿，它很痒，医生！}
 ### {261}{}{You have received a bonus to health points.}
@@ -148,7 +148,7 @@
 ### {320}{}{I know about the infection that turns peasants into monsters.}
 {320}{}{我知道把农民变成怪物的传染病。}
 ### {321}{}{So you know...}
-{321}{}{所以你知道。。。}
+{321}{}{所以你知道...}
 ### {322}{}{No need to roll your eyes and make these heavy sighs. It's your fault, isn't it?}
 {322}{}{没有必要翻白眼，发出沉重的叹息。这是你的错，不是吗？}
 ### {323}{}{Yes, it's our mistake. And it's getting harder to hide it. But I ask for your understanding - you can't create panic. It's already difficult for us to manage with so many worries in the city.}
@@ -239,11 +239,11 @@
 ### {366}{}{Here are the laboratory data and reagents.}
 {366}{}{这是实验室数据和试剂。}
 ### {367}{}{Finally! Now we are one step away from victory. I need time to study and check the materials...}
-{367}{}{最后现在我们离胜利只有一步之遥。我需要时间学习和检查材料。。。}
+{367}{}{最后现在我们离胜利只有一步之遥。我需要时间学习和检查材料...}
 ### {368}{}{Please.}
 {368}{}{请}
 ### {369}{}{...So that's what our colleague suggestaed? How could I not have guessed right away! Yes, different specialization affects. I am not strong in insects, so I could not take into account such a symbiosis with fungal spores... Oh, Wang Chong, how his boring maxims are missing now.}
-{369}{}{…所以这就是我们同事的建议？我怎么能不马上猜到呢！是的，不同的专业化影响。我不擅长昆虫，所以我无法考虑与真菌孢子的共生关系。。。哦，王冲，他那无聊的格言现在怎么不见了。}
+{369}{}{…所以这就是我们同事的建议？我怎么能不马上猜到呢！是的，不同的专业化影响。我不擅长昆虫，所以我无法考虑与真菌孢子的共生关系...哦，王冲，他那无聊的格言现在怎么不见了。}
 ### {370}{}{What are you going to do?}
 {370}{}{你打算怎么办？}
 ### {371}{}{First of all, I will make an insecticide to stop the spread of the infection. I think it won't take much time, because the reagents from the laboratory are well preserved. Please wait in the corridor for a couple of hours.}
@@ -265,16 +265,16 @@
 ### {1377}{}{I'm sorry, bespectacled. But I risked for the promised caps, not for the sake of science.}
 {1377}{}{对不起，戴眼镜的。但我冒着风险是为了承诺的上限，而不是为了科学。}
 ### {378}{}{All work must be paid. I asked the mayor for a bonus - 350 caps are due to you. Spend them wisely. And thanks again.}
-{378}{}{所有工作都必须有报酬。我向市长要了一笔奖金——你要350顶帽子。明智地使用它们。再次感谢。}
+{378}{}{所有工作都必须有报酬。我向市长要了一笔奖金——你要350个瓶盖。明智地使用它们。再次感谢。}
 ### {379}{}{I am also delighted with the work done.}
 {379}{}{我也对所做的工作感到高兴。}
 
 ### {380}{}{The laboratory has been destroyed. She was burned in a fire.}
 {380}{}{实验室已被摧毁。她被火烧了。}
 ### {381}{}{We saw smoke from the fire. This is your doing, isn't it? (sigh) What a fool you are...}
-{381}{}{我们看到了火冒出的烟。这是你干的，不是吗？（叹气）你真傻。。。}
+{381}{}{我们看到了火冒出的烟。这是你干的，不是吗？（叹气）你真傻...}
 ### {1381}{}{We saw smoke from the fire. This is your doing, isn't it? (sigh) What a stupid thing to do...}
-{1381}{}{我们看到了火冒出的烟。这是你干的，不是吗？（叹气）做一件多么愚蠢的事。。。}
+{1381}{}{我们看到了火冒出的烟。这是你干的，不是吗？（叹气）做一件多么愚蠢的事...}
 ### {382}{}{Is something wrong? Isn't the breeding ground of infection destroyed?}
 {382}{}{有什么不对劲吗？感染的滋生地难道没有被摧毁吗？}
 ### {383}{}{There were other ways to destroy the nursery! But along with the laboratory, all scientific works that could help people in the future were destroyed!}
@@ -286,7 +286,7 @@
 ### {385}{}{This was the most effective way to stop the infection.}
 {385}{}{这是阻止感染的最有效方法。}
 ### {386}{}{Of course! Well, of course! Who else besides you knows how to solve a scientific problem... Ugh. We need to calm down.}
-{386}{}{当然当然！除了你，还有谁知道如何解决科学问题。。。啊。我们需要冷静下来。}
+{386}{}{当然当然！除了你，还有谁知道如何解决科学问题...啊。我们需要冷静下来。}
 ### {387}{}{?}
 {387}{}{？}
 ### {388}{}{I'm sorry, of course, what you did was right. Safety comes first. But what if the infection grows again in another place? Without scientific data from the laboratory, it will be much more difficult to cope with it. On the other hand, we now have a lot of time to prepare. So in any case, thank you.}
@@ -296,9 +296,9 @@
 ### {390}{}{Hey, hey! Will I get paid? It wasn't that easy.}
 {390}{}{嘿，嘿！我会得到报酬吗？事情没那么容易。}
 ### {391}{}{Formally, you have not completed your task. After all, I asked to get documents and chemicals. But in order not to offend you, I will pay 100 caps. That's enough.}
-{391}{}{从形式上讲，你还没有完成任务。毕竟，我要求得到文件和化学品。但为了不冒犯你，我愿意支付100顶帽子。够了。}
+{391}{}{从形式上讲，你还没有完成任务。毕竟，我要求得到文件和化学品。但为了不冒犯你，我愿意支付100个瓶盖。够了。}
 ### {1391}{}{Formally, you have not completed your task. After all, I asked to get documents and chemicals. But in order not to offend you, I will pay 100 caps. That's enough.}
-{1391}{}{从形式上讲，你还没有完成任务。毕竟，我要求得到文件和化学品。但为了不冒犯你，我愿意支付100顶帽子。够了。}
+{1391}{}{从形式上讲，你还没有完成任务。毕竟，我要求得到文件和化学品。但为了不冒犯你，我愿意支付100个瓶盖。够了。}
 ### {392}{}{It's better than nothing.}
 {392}{}{总比什么都没有好。}
 ### {393}{}{Deception is all around! I won't trust my Followers anymore.}
@@ -312,7 +312,7 @@
 ### {397}{}{Okay, I'm going to look further.}
 {397}{}{好吧，我再往下看。}
 ### {398}{}{Well, it already seemed to me that the job was done ...}
-{398}{}{嗯，在我看来，这项工作已经完成了。。。}
+{398}{}{嗯，在我看来，这项工作已经完成了...}
 
 #Questions
 ### {400}{}{Tell us about the Followers.}
@@ -352,7 +352,7 @@
 ### {417}{}{But there was another Follower, right?}
 {417}{}{但还有另一个追随者，对吧？}
 ### {418}{}{Wang Chun... He was unlucky. He spent most of his time in greenhouses. He didn't like communicating with people, but he loved plants and science. That's what killed him when mutagenic spores took over his body. You know, it's better if you don't ask about him, so as not to hurt someone's feelings.}
-{418}{}{王春。。。他运气不好。他大部分时间都在温室里度过。他不喜欢与人交流，但他喜欢植物和科学。当诱变孢子占据他的身体时，这就是杀死他的原因。你知道，最好不要问他，以免伤害别人的感情。}
+{418}{}{王春...他运气不好。他大部分时间都在温室里度过。他不喜欢与人交流，但他喜欢植物和科学。当诱变孢子占据他的身体时，这就是杀死他的原因。你知道，最好不要问他，以免伤害别人的感情。}
 ### {419}{}{Plantations are also your business?}
 {419}{}{种植园也是你的事吗？}
 ### {420}{}{That's right.}
@@ -409,11 +409,11 @@
 ### {451}{}{Do you know anything about Vault 24? }
 {451}{}{你知道Vault 24吗？}
 ### {452}{}{This Vault is located on the ruins of San Diego. The founders of our mission came out of it. But I've never been there myself, because this place is cursed with radiation for many generations to come.}
-{452}{}{这个金库位于圣地亚哥的废墟上。我们使命的创始人就是从这里走出来的。但我自己从来没有去过那里，因为这个地方在未来的几代人中都受到辐射的诅咒。}
+{452}{}{这个避难所位于圣地亚哥的废墟上。我们使命的创始人就是从这里走出来的。但我自己从来没有去过那里，因为这个地方在未来的几代人中都受到辐射的诅咒。}
 ### {453}{}{How did the founders live there then?}
 {453}{}{创始人当时是怎么住在那里的？}
 ### {454}{}{Vaults were built just in order to survive hard times in them after a nuclear attack. According to legend, the founders left the Vault in order to help the world reborn. This sacrifice of theirs is appreciated by all Followers.}
-{454}{}{建造金库只是为了在核袭击后度过艰难时期。根据传说，创始人离开金库是为了帮助世界重生。他们的这种牺牲受到了所有追随者的赞赏。}
+{454}{}{建造避难所只是为了在核袭击后度过艰难时期。根据传说，创始人离开避难所是为了帮助世界重生。他们的这种牺牲受到了所有追随者的赞赏。}
 ### {455}{}{I was there. The place is really cursed. And they also stole everything useful that was only there.}
 {455}{}{我当时在场。这个地方真的被诅咒了。他们还偷走了所有有用的东西。}
 ### {456}{}{Not surprising. I heard about the Great Exodus of ghouls to the south, to the Glow. It looks like they found a suitable place for themselves. Well, let this radioactive earth be lenient with them.}
@@ -423,7 +423,7 @@
 ### {458}{}{I have a piece of this Vault. Look, this is a copy of the diaries of the local caretaker.}
 {458}{}{我有一块保险库。看，这是当地看护人的日记。}
 ### {459}{}{Really? Let me see... It turns out that the founders were forced by the situation? How corny. The legend sounded more beautiful, but... But now I see that they were just as simple people as everyone else. Thank you for this text. I'll save it for our history.}
-{459}{}{真正地让我看看。。。事实证明，创始人是迫于形势吗？真老套。这个传说听起来更美丽，但是。。。但现在我发现他们和其他人一样简单。谢谢你的短信。我会把它留给我们的历史。}
+{459}{}{真正地让我看看...事实证明，创始人是迫于形势吗？真老套。这个传说听起来更美丽，但是...但现在我发现他们和其他人一样简单。谢谢你的短信。我会把它留给我们的历史。}
 ### {460}{}{You are welcome. Can we talk about something else?}
 {460}{}{不客气。我们能谈谈别的吗？}
 ### {461}{}{Can we talk about something else?}

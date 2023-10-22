@@ -94,7 +94,7 @@
 ### {280}{}{You, uh, have to leave this, uh, suit.}
 {280}{}{你得离开这套西装。}
 ### {281}{}{We can't let you in on this... Uh, okay, come on in.}
-{281}{}{我们不能让你参与这件事。。。好吧，进来吧。}
+{281}{}{我们不能让你参与这件事...好吧，进来吧。}
 ### {282}{}{You won't cause us any problems, will you?}
 {282}{}{你不会给我们带来任何问题，是吗？}
 ### {283}{}{I can't imagine how you will play in THIS.}
@@ -102,13 +102,13 @@
 ### {284}{}{Not that we mind, but you can't come here in this armor.}
 {284}{}{我们不介意，但你不能穿着这件盔甲来这里。}
 ### {285}{}{Could you please leave your armor somewhere... elsewhere?}
-{285}{}{你能把你的盔甲放在某个地方吗。。。在别处}
+{285}{}{你能把你的盔甲放在某个地方吗...在别处}
 ### {286}{}{Yes, yes, of course, uh, you're always welcome, sir... or ma'am...}
-{286}{}{是的，是的，当然，呃，我们一直欢迎你，先生。。。或者女士。。。}
+{286}{}{是的，是的，当然，呃，我们一直欢迎你，先生...或者女士...}
 ### {287}{}{Please leave the room. You will ruin our furniture.}
 {287}{}{请离开房间。你会毁了我们的家具。}
 ### {288}{}{We can't let you walk in this one... piece.}
-{288}{}{我们不能让你走在这个。。。块}
+{288}{}{我们不能让你走在这个...块}
 ### {289}{}{You look, uh, defiant in that armor.}
 {289}{}{你穿着那件盔甲看起来，呃，挑衅。}
 

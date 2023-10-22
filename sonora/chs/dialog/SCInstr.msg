@@ -18,9 +18,9 @@
 ### {1205}{}{Idiot! Go out into the corridor and don't come back!}
 {1205}{}{蠢人出去到走廊里去，别回来！}
 ### {206}{}{As you say, sir...}
-{206}{}{正如你所说，先生。。。}
+{206}{}{正如你所说，先生...}
 ### {207}{}{Oh, I see, and I'm looking for a toilet...}
-{207}{}{哦，我明白了，我在找厕所。。。}
+{207}{}{哦，我明白了，我在找厕所...}
 ### {208}{}{Wow, can I do one of the workouts?}
 {208}{}{哇，我能做其中一项锻炼吗？}
 ### {209}{}{Wait, I also want to participate in training.}
@@ -36,7 +36,7 @@
 ### {213}{}{Hmm. Good. Let's see how much you have enough, lizard. What are you trying to achieve anyway?}
 {213}{}{嗯，很好。让我们看看你有多少足够的，蜥蜴。你到底想达到什么目的？}
 ### {214}{}{It doesn't matter yet. I'll get the caps first.}
-{214}{}{这还不重要。我先去拿帽子。}
+{214}{}{这还不重要。我先去拿瓶盖。}
 ### {215}{}{Shooting with small arms.}
 {215}{}{用小武器射击。}
 ### {216}{}{Shooting with heavy weapons.}

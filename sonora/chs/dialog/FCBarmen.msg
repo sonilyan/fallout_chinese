@@ -5,7 +5,7 @@
 ### {102}{}{The bar is closed, come in the morning.}
 {102}{}{酒吧关门了，早上来。}
 ### {103}{}{Z-z-z...}
-{103}{}{Z-Z-Z。。。}
+{103}{}{Z-Z-Z...}
 ### {104}{}{Cool armor. But you should wear something simpler for the bar.}
 {104}{}{酷炫的盔甲。但是你应该穿简单一点的去酒吧。}
 ### {105}{}{Sorry, but no guns in the bar. Such a rule.}
@@ -143,7 +143,7 @@
 ### {238}{}{I want to buy drinks for everyone present.}
 {238}{}{我想给在场的每个人买饮料。}
 ### {239}{}{That's generosity. It will cost you 50 caps.}
-{239}{}{这就是慷慨。这将花费你50顶帽子。}
+{239}{}{这就是慷慨。这将花费你50个瓶盖。}
 ### {240}{}{The price does not matter - pour for everyone, I treat!}
 {240}{}{价格不重要——为每个人倒，我请客！}
 ### {241}{}{How much? I'm afraid I can't afford generosity today.}
@@ -169,7 +169,7 @@
 ### {250}{}{Look, it's the tooth of that rat king from the mines.}
 {250}{}{看，这是矿井里那个老鼠王的牙齿。}
 ### {251}{}{Seriously? I'll be damned if this mutant wasn't the size of a brahmin! They've told me all sorts of things about him... listen, sell him to me. I'll pay 100 caps.}
-{251}{}{认真地如果这个变种人不是婆罗门那么大，我会被诅咒的！他们告诉了我关于他的各种事情。。。听着，把他卖给我。我付100顶。}
+{251}{}{认真地如果这个变种人不是婆罗门那么大，我会被诅咒的！他们告诉了我关于他的各种事情...听着，把他卖给我。我付100顶。}
 ### {252}{}{Why do you need these teeth?}
 {252}{}{你为什么需要这些牙齿？}
 ### {253}{}{Okay, take it.}
@@ -181,9 +181,9 @@
 ### {256}{}{This attraction is sure to attract customers.}
 {256}{}{这种吸引力一定会吸引顾客。}
 ### {257}{}{Eh, these rural superstitions of yours... In vain you refuse the bottlecaps. Think again.}
-{257}{}{呃，你的这些农村迷信。。。你拒绝瓶装水是徒劳的。再想想。}
+{257}{}{呃，你的这些农村迷信...你拒绝瓶装水是徒劳的。再想想。}
 ### {258}{}{(grins ominously) Now I'm going to unwind with this thing... Oh, yes - your 100 caps.}
-{258}{}{（不祥地笑了笑）现在我要用这个东西来放松。。。哦，是的，你的100顶帽子。}
+{258}{}{（不祥地笑了笑）现在我要用这个东西来放松...哦，是的，你的100个瓶盖。}
 ### {259}{}{Good deal.}
 {259}{}{很划算。}
 ### {260}{}{Goodbye, speculator.}
@@ -246,7 +246,7 @@
 ### {288}{}{I'll get over it somehow. Thanks for the beer.}
 {288}{}{我会设法克服的。谢谢你的啤酒。}
 ### {289}{}{Yeah, special prices... twice as big.}
-{289}{}{是的，特价。。。两倍大。}
+{289}{}{是的，特价...两倍大。}
 
 # About your relatives in the city
 ### {290}{}{I'm looking for my relatives from a village in the west.}
@@ -280,13 +280,13 @@
 ### {304}{}{Show me what you have.}
 {304}{}{让我看看你有什么。}
 ### {305}{}{Great, now let's see what I can offer you...}
-{305}{}{太好了，现在让我们看看我能为你提供什么。。。}
+{305}{}{太好了，现在让我们看看我能为你提供什么...}
 
 #Quest - return the debt
 ### {310}{}{Is there another task for me?}
 {310}{}{我还有别的任务吗？}
 ### {311}{}{There is one. A mercenary named Davis owes me a hundred caps. I stopped letting him in the bar, but it's bad for business.}
-{311}{}{有一个。一个叫戴维斯的雇佣兵欠我一百顶帽子。我不再让他进酒吧了，但这对生意不好。}
+{311}{}{有一个。一个叫戴维斯的雇佣兵欠我一百个瓶盖。我不再让他进酒吧了，但这对生意不好。}
 ### {312}{}{What do you suggest?}
 {312}{}{你有什么建议？}
 ### {313}{}{If you make him pay the debt, I'll give you half.}
@@ -312,9 +312,9 @@
 ### {323}{}{I want to repay the debt to the bar.}
 {323}{}{我想偿还酒吧的债务。}
 ### {324}{}{Really? And I thought you couldn't do it. Thank you. Give me 50 caps, the rest is yours, as agreed.}
-{324}{}{真正地我还以为你做不到。谢谢。按照约定，给我50顶帽子，剩下的都是你的。}
+{324}{}{真正地我还以为你做不到。谢谢。按照约定，给我50个瓶盖，剩下的都是你的。}
 ### {325}{}{I like the ringing of the caps more and more. See you soon.}
-{325}{}{我越来越喜欢帽子的铃声。再见。}
+{325}{}{我越来越喜欢瓶盖的铃声。再见。}
 
 #Slot machine
 ### {330}{}{That slot machine doesn't work.}
@@ -324,7 +324,7 @@
 ### {332}{}{Why isn't it working?}
 {332}{}{为什么它不起作用？}
 ### {333}{}{It looks like something burned out. There is nothing to replace, there are no suitable parts in this city. You seem to travel a lot, don't you? If you find something to fix the Starball, I'll pay 50 caps.}
-{333}{}{看起来像是什么东西烧坏了。没有什么可更换的，这个城市没有合适的零件。你似乎经常旅行，不是吗？如果你能找到修理星球的方法，我会付50顶帽子。}
+{333}{}{看起来像是什么东西烧坏了。没有什么可更换的，这个城市没有合适的零件。你似乎经常旅行，不是吗？如果你能找到修理星球的方法，我会付50个瓶盖。}
 ### {334}{}{Agreed.}
 {334}{}{同意。}
 
@@ -369,7 +369,7 @@
 ### {353}{}{Where did this machine come from?}
 {353}{}{这台机器是从哪里来的？}
 ### {354}{}{Stood in the pantry from the very beginning. I pulled it out, and Uncle Tom cleaned the dust for a couple of caps and launched it.}
-{354}{}{从一开始就放在食品储藏室里。我把它拔了出来，汤姆叔叔清理了几顶帽子的灰尘，然后把它发射了出去。}
+{354}{}{从一开始就放在食品储藏室里。我把它拔了出来，汤姆叔叔清理了几个瓶盖的灰尘，然后把它发射了出去。}
 ### {355}{}{What are the rules of the game?}
 {355}{}{游戏规则是什么？}
 ### {356}{}{Use the side buttons to kick the ball with a star so that it bypasses all the slots with points. The longer the ball lasts on the field until it hits the "black hole", the more points you earn. Just be careful, sometimes electromagnetic coils shock players.}
@@ -385,7 +385,7 @@
 ### {361}{}{I managed to fix the Starball.}
 {361}{}{我设法修好了星球。}
 ### {362}{}{I see. Great job. Here are your 50 caps and another beer from me personally.}
-{362}{}{我明白了。干得好。这是你的50顶帽子和我个人的另一杯啤酒。}
+{362}{}{我明白了。干得好。这是你的50个瓶盖和我个人的另一杯啤酒。}
 ### {363}{}{Can I play this?}
 {363}{}{我可以玩这个吗？}
 ### {364}{}{Try. Just don't break it.}
@@ -393,7 +393,7 @@
 ### {365}{}{No problem.}
 {365}{}{没问题。}
 ### {366}{}{I see. Great job. Here are your 50 caps.}
-{366}{}{我明白了。干得好。这是你的50顶帽子。}
+{366}{}{我明白了。干得好。这是你的50个瓶盖。}
 ### {367}{}{Wow! To beat this slot machine is strong. Here, take a relaxing one at my expense. You should unload your head after such a strain.}
 {367}{}{哇！打败这台老虎机是很强大的。来吧，我花钱买一个放松的。经历了这样的紧张之后，你应该卸下你的头。}
 ### {368}{}{Thank you.}
@@ -425,7 +425,7 @@
 ### {390}{}{The bartender in Garage City just needs a drink.}
 {390}{}{车库城的酒保只需要喝一杯。}
 ### {391}{}{It seemed to me that this city was finally bent. Wait a minute, though... Oh, yes, it's probably because of the cattle breeders' tribe. They rebelled and no longer allow caravans to cross their lands.}
-{391}{}{在我看来，这座城市终于屈服了。不过等一下。。。哦，是的，可能是因为养牛人的部落。他们反抗，不再允许商队穿越他们的土地。}
+{391}{}{在我看来，这座城市终于屈服了。不过等一下...哦，是的，可能是因为养牛人的部落。他们反抗，不再允许商队穿越他们的土地。}
 ### {392}{}{Besides the booze, there's nothing relaxing left in the Garage.}
 {392}{}{除了酒，车库里没有什么放松的了。}
 ### {393}{}{Well, I can share the surplus. But I doubt that the bartender will be enough for a long time. After all, courier delivery is expensive.}
@@ -454,7 +454,7 @@
 ### {407}{}{A terrible thing. It turned out that the administrator was killed. The whole mine is on edge because of this.}
 {407}{}{一件可怕的事情。原来管理员被杀了。整个矿井都因此而紧张。}
 ### {408}{}{Oh... that's how... It's sad to hear that. After all, he paid well for the dinners. I hope the new administrator will continue his glorious tradition. And as for you, you can take the lunch as a fee.}
-{408}{}{哦这就是为什么。。。听到这个消息很难过。毕竟，他的饭钱很高。我希望新任行政长官能继续他的光荣传统。至于你，你可以收取午餐费。}
+{408}{}{哦这就是为什么...听到这个消息很难过。毕竟，他的饭钱很高。我希望新任行政长官能继续他的光荣传统。至于你，你可以收取午餐费。}
 ### {409}{}{That's not what I wanted. But I won't starve to death.}
 {409}{}{这不是我想要的。但我不会饿死的。}
 ### {410}{}{Lunch instead of the promised caps? Pray that your greed is not found out in the garrison, you bastard.}

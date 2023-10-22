@@ -36,7 +36,7 @@
 ### {213}{}{A village? There are few settlements there. It looks like you're just lying.}
 {213}{}{一个村庄？那里几乎没有定居点。看起来你只是在撒谎。}
 ### {214}{}{I'm telling you... It doesn't matter. Where are you from?}
-{214}{}{我告诉你。。。没关系。你是哪里人？}
+{214}{}{我告诉你...没关系。你是哪里人？}
 ### {215}{}{Let it remain a secret. Better take care of yourself.}
 {215}{}{让它保持秘密。最好照顾好自己。}
 ### {216}{}{See you, stranger.}
@@ -66,7 +66,7 @@
 ### {228}{}{Are you Ranger Oscar? General Mossman sent me. He demands a report.}
 {228}{}{你是奥斯卡游骑兵吗？莫斯曼将军派我来他要求报告。}
 ### {229}{}{It's a strange thing. I don't understand why he sent you and not one of the rangers... But the general knows better.}
-{229}{}{这是一件奇怪的事情。我不明白他为什么派你而不是一个护林员。。。但将军更清楚。}
+{229}{}{这是一件奇怪的事情。我不明白他为什么派你而不是一个护林员...但将军更清楚。}
 
 ### {230}{}{I was sent to San Brahmin to restore order. The tribe is trying to defend its freedom and independence from the Phoenician Empire. The situation is complicated and at any moment it can go from local skirmishes to a state of real war.}
 {230}{}{我被派往圣婆罗门以恢复秩序。该部落正试图从腓尼基帝国手中捍卫自己的自由和独立。局势很复杂，随时可能从局部冲突演变成真正的战争状态。}
@@ -96,9 +96,9 @@
 ### {242}{}{Hello, sectarian. What are you counting on? Oh, I know - for a bullet in the forehead.}
 {242}{}{你好，宗派主义者。你指望什么？哦，我知道——因为前额中了一颗子弹。}
 ### {243}{}{Wait a minute...}
-{243}{}{等一下。。。}
+{243}{}{等一下...}
 ### {244}{}{What are you...}
-{244}{}{你是什么。。。}
+{244}{}{你是什么...}
 ### {245}{}{Get out! So that your spirit will not be on the land of cattle breeders. You, Aaron's henchmen, were not invited here.}
 {245}{}{滚出去！这样，你的灵就不在养牛的地上。你，亚伦的党羽，没有被邀请来这里。}
 ### {246}{}{Okay... calm down... I'm leaving.}
@@ -263,7 +263,7 @@
 ### {366}{}{In that case, you'll die like a dog. Whining and vainly begging for mercy.}
 {366}{}{那样的话，你会死得像条狗一样。鞭打，徒劳地乞求宽恕。}
 ### {367}{}{That's enough! Time's up, Ranger...}
-{367}{}{够了！时间到了，游骑兵。。。}
+{367}{}{够了！时间到了，游骑兵...}
 ### {368}{}{Drive away the Phoenicians!}
 {368}{}{赶走腓尼基人！}
 ### {369}{}{Vper-ed!}

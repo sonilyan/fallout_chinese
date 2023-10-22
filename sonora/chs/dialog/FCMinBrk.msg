@@ -68,7 +68,7 @@
 ### {250}{}{Does the supervisor often beat up the workers?}
 {250}{}{主管经常殴打工人吗？}
 ### {251}{}{(sigh) This Whip... he's a real psycho, snaps at everyone. I get it from him too, but not so often. I wish I could get rid of him, but Faber appoints the guards himself.}
-{251}{}{（叹气）这个鞭子。。。他真是个神经病，对每个人都大发雷霆。我也从他那里得到，但不经常。我希望我能把他赶走，但法伯亲自任命了警卫。}
+{251}{}{（叹气）这个鞭子...他真是个神经病，对每个人都大发雷霆。我也从他那里得到，但不经常。我希望我能把他赶走，但法伯亲自任命了警卫。}
 ### {252}{}{What about the administrator? Can't he do anything?}
 {252}{}{管理员呢？他什么都做不了吗？}
 ### {253}{}{I don't know why I'm telling you this. But the Whip forces him to rewrite reports, as if the imprisoned workers were hit by a landslide or injured themselves. He doesn't want to tarnish his reputation, the bastard. But he also keeps the administrator in check.}

@@ -3,11 +3,11 @@
 ### {101}{}{Here is a ghoul in worn-out work clothes.}
 {101}{}{这是一个穿着破旧工作服的食尸鬼。}
 ### {102}{}{I'll have to do everything myself again...}
-{102}{}{我将不得不重新做每件事。。。}
+{102}{}{我将不得不重新做每件事...}
 ### {1102}{}{I'll have to do everything myself again...}
-{1102}{}{我将不得不重新做每件事。。。}
+{1102}{}{我将不得不重新做每件事...}
 ### {103}{}{Great job... for a smooth-skinned person.}
-{103}{}{干得好。。。对于皮肤光滑的人来说。}
+{103}{}{干得好...对于皮肤光滑的人来说。}
 ### {104}{}{This is the engine room. I hope everything works here, otherwise the station won't be of any use.}
 {104}{}{这是机舱。我希望这里一切正常，否则车站就没用了。}
 ### {105}{}{We're already close. Take me to the console in the control room.}
@@ -40,7 +40,7 @@
 ### {211}{}{I need to get to the control center. It seems we are on the right track.}
 {211}{}{我需要去控制中心。看来我们走在了正确的轨道上。}
 ### {212}{}{This is the control center. It seems that there has not been a cleaning done for a long time. Nothing, we are not used to... And this, apparently, is the control panel? Wait a minute... so... Done. Hmm. The station is mothballed. I'll have to work with the handles.}
-{212}{}{这是控制中心。好像很久没有打扫了。没什么，我们不习惯……这显然是控制面板吗？等一下。。。所以…完成了。嗯，车站被封存了。我得处理把手。}
+{212}{}{这是控制中心。好像很久没有打扫了。没什么，我们不习惯……这显然是控制面板吗？等一下...所以…完成了。嗯，车站被封存了。我得处理把手。}
 ### {213}{}{What should I do?}
 {213}{}{我该怎么办？}
 ### {214}{}{We need to start the second turbine in the engine room. It may take a lot of effort there.}
@@ -69,22 +69,22 @@
 ### {225}{}{Hmm, if the turbine is working, then why is there no current coming from it? There must be a gap in the power grid. Check carefully the entire chain from the turbine to the switch.}
 {225}{}{嗯，如果涡轮机在工作，那么为什么没有电流从它出来呢？电网一定有缺口。仔细检查从涡轮机到开关的整个链条。}
 ### {226}{}{You're kidding...}
-{226}{}{你在开玩笑。。。}
+{226}{}{你在开玩笑...}
 ### {227}{}{OK.}
 {227}{}{好啊}
 ### {228}{}{It seems that there is no gap in the network now.}
 {228}{}{现在网络上似乎没有缺口了。}
 ### {229}{}{Really... Now I will supply current to the substation... Damn it, the substation is not responding. Probably, it was also preserved. You'll have to go there and run it. Remember: we need to direct energy strictly to the power lines in San Isidro and the Old Town. The remaining circuits need to be disconnected.}
-{229}{}{真正地现在我将为变电站供电。。。该死，变电站没有反应。也许，它也被保存了下来。你必须去那里运行它。记住：我们需要严格将能源输送到圣伊西德罗和老城区的电力线上。需要断开其余电路。}
+{229}{}{真正地现在我将为变电站供电...该死，变电站没有反应。也许，它也被保存了下来。你必须去那里运行它。记住：我们需要严格将能源输送到圣伊西德罗和老城区的电力线上。需要断开其余电路。}
 ### {230}{}{Yes!}
 {230}{}{对}
 ### {231}{}{It seems like I'm doing all the work here...}
-{231}{}{我好像在这里做所有的工作。。。}
+{231}{}{我好像在这里做所有的工作...}
 ### {232}{}{Bonita! Do you hear this wonderful crackling in the transformers and the hum in the wires? It's been a long time since I've heard anything like this. Thank you, amigo. I hope Gustavo will reward you well. Here, take a Geiger counter. You'll need it on your way to San Ysidro.}
 {232}{}{博尼塔！你听到变压器发出美妙的噼啪声和电线发出的嗡嗡声了吗？我已经很久没有听到这样的消息了。谢谢你，朋友。我希望古斯塔沃会好好报答你。给，拿个盖革计数器。你在去圣伊西德罗的路上需要它。}
 ### {233}{}{Bye, Isaac.}
 {233}{}{再见，艾萨克。}
 ### {234}{}{But impassable ruins stretch between the power plant and residential areas...}
-{234}{}{但无法通行的废墟在发电厂和居民区之间延伸。。。}
+{234}{}{但无法通行的废墟在发电厂和居民区之间延伸...}
 ### {235}{}{You're thinking! Even though you're not from our century. Although we are ghouls, we have already launched several working robots and prepared power lines. You don't need much for this.}
 {235}{}{你在想！尽管你不是我们这个世纪的人。尽管我们是食尸鬼，但我们已经推出了几个工作机器人，并准备好了电源线。你不需要太多。}

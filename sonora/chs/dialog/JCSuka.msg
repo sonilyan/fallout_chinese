@@ -13,7 +13,7 @@
 ### {1201}{}{Grab the stranger! Get her out of her shell! Bring me her head!}
 {1201}{}{抓住陌生人！把她从壳里弄出来！把她的头拿来！}
 ### {202}{}{Don't be so nervous, lady...}
-{202}{}{别那么紧张，女士。。。}
+{202}{}{别那么紧张，女士...}
 ### {203}{}{Get back, you creatures, everyone back!}
 {203}{}{回来，你们这些生物，大家回来！}
 
@@ -40,7 +40,7 @@
 ### {217}{}{(face changes dramatically) We want to eat! We kill to survive. We are starving, and the stranger will become food for us. We will feed our children with his body! (the approving howl of a dozen mouths spreads through the burrows)}
 {217}{}{（脸色大变）我们想吃东西！我们杀人是为了生存。我们正在挨饿，陌生人将成为我们的食物。我们将用他的身体喂养我们的孩子！（一打嘴巴发出的赞许的叫声在洞穴中蔓延开来）}
 ### {218}{}{Actually, I had other plans...}
-{218}{}{事实上，我还有其他计划。。。}
+{218}{}{事实上，我还有其他计划...}
 ### {219}{}{You're not serious, are you?}
 {219}{}{你不是认真的，是吗？}
 
@@ -66,13 +66,13 @@
 {228}{}{它是什么？一个铁壳男人？真是个惊喜。你吓了很多人，贝壳人。但你不能用这个骗我。放弃吧，我们无论如何都会把你从这丑陋的事情中救出来的。}
 
 ### {230}{}{I am the messenger of the Spirit of Vaults. My costume is proof of that.}
-{230}{}{我是金库之灵的使者。我的服装就是明证。}
+{230}{}{我是避难所之灵的使者。我的服装就是明证。}
 ### {1230}{}{I am the messenger of the Spirit of Vaults. My costume is proof of that.}
-{1230}{}{我是金库之灵的使者。我的服装就是明证。}
+{1230}{}{我是避难所之灵的使者。我的服装就是明证。}
 ### {231}{}{Holy Jackal, now I remember! Our ancestors wore the same blue robes as you. So we all came out of the same hole, are we members of the same tribe?}
 {231}{}{天啊，豺狼，现在我想起来了！我们的祖先穿着和你一样的蓝色长袍。所以我们都是从同一个洞里出来的，我们是同一个部落的成员吗？}
 ### {232}{}{More precisely, Vaults.}
-{232}{}{更确切地说，是金库。}
+{232}{}{更确切地说，是避难所。}
 ### {233}{}{Then tell me, why did the Spirit of Refuge abandon us? Why was he punished with pestilence and starvation? We called Him at night, brought Him sacrifices. If He finally heard us barking, then explain what we should do?}
 {233}{}{那么告诉我，为什么避难之灵抛弃了我们？为什么他会受到瘟疫和饥饿的惩罚？我们晚上召他来，给他带来祭物。如果他终于听到了我们的吠叫，那么解释一下我们该怎么办？}
 ### {234}{}{Give me time to get to know the pack and explore your life. Maybe I can help you.}
@@ -141,13 +141,13 @@
 ### {272}{}{They are also tired of this war. For now, just listen to them. They will send a delegate to negotiate.}
 {272}{}{他们也厌倦了这场战争。现在，听他们说。他们将派一名代表进行谈判。}
 ### {273}{}{Conversations... They will not satisfy hunger. But they won't make it worse either. Tell this one... to the s-strangers that I will listen to them.}
-{273}{}{对话。。。他们不会满足饥饿。但他们也不会让情况变得更糟。告诉这个。。。对陌生人说我会听他们的。}
+{273}{}{对话...他们不会满足饥饿。但他们也不会让情况变得更糟。告诉这个...对陌生人说我会听他们的。}
 ### {274}{}{As a sign of reconciliation, let go of the ranger you keep. Otherwise, you will lose the only chance to find an ally.}
 {274}{}{作为和解的标志，放开你留下的护林员。否则，你将失去找到盟友的唯一机会。}
 ### {275}{}{I will give them your consent.}
 {275}{}{我会同意他们的。}
 ### {276}{}{Such juicy meat... I can feed a whole brood of them. But if this is a fraud, then you will pay cruelly.}
-{276}{}{这么多汁的肉。。。我能养活他们一窝。但如果这是一场骗局，那么你将付出残酷的代价。}
+{276}{}{这么多汁的肉...我能养活他们一窝。但如果这是一场骗局，那么你将付出残酷的代价。}
 ### {277}{}{Now disappear. I'm not going to wait until the end of my days.}
 {277}{}{现在消失。我不会等到我生命的尽头。}
 ### {278}{}{OK.}
@@ -162,7 +162,7 @@
 ### {303}{}{So you haven't always lived in this valley?}
 {303}{}{你不是一直住在这个山谷里吗？}
 ### {304}{}{The ancestors wandered a lot. They came from a place they called "Vault 15." I don't know what that means. But then everything was different than now.}
-{304}{}{祖先们经常流浪。他们来自一个他们称之为“15号金库”的地方。我不知道这意味着什么。但那时一切都不同于现在。}
+{304}{}{祖先们经常流浪。他们来自一个他们称之为“15号避难所”的地方。我不知道这意味着什么。但那时一切都不同于现在。}
 ### {305}{}{I see.}
 {305}{}{我明白了。}
 ### {306}{}{This gear-shaped structure is a reminder of those days, right?}
@@ -178,7 +178,7 @@
 ### {311}{}{This is an image of an armored door. Your ancestors came out of the Vault-Tech Vault.}
 {311}{}{这是一个装甲门的图像。你的祖先是从保险库技术保险库出来的。}
 ### {312}{}{(thoughtfully) Vault-Tech... You really know a lot. Then tell us how to fight hunger! Too many jackals and too little food. That's what's really important.}
-{312}{}{（若有所思）沃科技。。。你真的知道很多。那就告诉我们如何战胜饥饿吧！豺狼太多，食物太少。这才是真正重要的。}
+{312}{}{（若有所思）沃科技...你真的知道很多。那就告诉我们如何战胜饥饿吧！豺狼太多，食物太少。这才是真正重要的。}
 ### {313}{}{You can't argue with that. But before we start fighting over a handful of maggots, let me ask you one more question?}
 {313}{}{你不能对此争辩。但在我们开始为一把蛆虫而战之前，让我再问你一个问题？}
 ### {314}{}{Why can't I enter warehouses?}

@@ -6,4 +6,4 @@
 ### {102}{}{Talk to your husband, he's in charge here.}
 {102}{}{和你丈夫谈谈，他是这里的负责人。}
 ### {103}{}{Do you really know Cody? I'd like to take another look at it...}
-{103}{}{你真的认识科迪吗？我想再看一眼。。。}
+{103}{}{你真的认识科迪吗？我想再看一眼...}

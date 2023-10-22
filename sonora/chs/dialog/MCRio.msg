@@ -19,7 +19,7 @@
 ### {200}{}{(he grits his teeth, looking straight into your eyes like an animal) So now I have to move. It's getting a little tight around Ben, huh?}
 {200}{}{（他咬牙切齿，像动物一样直视你的眼睛）所以现在我必须搬家了。本周围有点紧了，是吗？}
 ### {201}{}{Yes, Ben and I are on great terms now...}
-{201}{}{是的，本和我现在关系很好。。。}
+{201}{}{是的，本和我现在关系很好...}
 ### {202}{}{Then remember that *I* am the first one here after Ben. Don't cross my path.}
 {202}{}{记住，我是本之后第一个来这里的人。不要越过我的路。}
 ### {203}{}{OK.}
@@ -134,7 +134,7 @@
 ### {279}{}{I hope these tyrants will be severely punished.}
 {279}{}{我希望这些暴君会受到严厉的惩罚。}
 ### {280}{}{But things are different in Ben's gang. Everyone here is their own, everyone gets what they deserve... But why the hell am I talking to you about this? This chatter is starting to get boring. Fuck off, I need to do my favorite hardware.}
-{280}{}{但本的帮派情况不同。这里的每个人都是自己的，每个人都得到了他们应得的。。。但我为什么要和你谈论这件事？这种闲聊开始变得无聊了。滚吧，我需要做我最喜欢的硬件。}
+{280}{}{但本的帮派情况不同。这里的每个人都是自己的，每个人都得到了他们应得的...但我为什么要和你谈论这件事？这种闲聊开始变得无聊了。滚吧，我需要做我最喜欢的硬件。}
 ### {281}{}{Not before I find out something else.}
 {281}{}{在我发现其他事情之前。}
 ### {282}{}{With pleasure. Later.}
@@ -183,15 +183,15 @@
 ### {310}{}{Damn, you're twisting my balls. Okay, get ready for a fight, I'm kind today.}
 {310}{}{该死，你在扭我的蛋蛋。好吧，准备战斗吧，我今天很好。}
 ### {311}{}{Great, let's start the fun...}
-{311}{}{太好了，让我们开始玩吧。。。}
+{311}{}{太好了，让我们开始玩吧...}
 ### {312}{}{Not now, I need to do something first.}
 {312}{}{现在不行，我需要先做点什么。}
 ### {313}{}{I have 250 caps. Is that enough?}
-{313}{}{我有250顶帽子。够了吗？}
+{313}{}{我有250个瓶盖。够了吗？}
 ### {314}{}{Quite. Go get ready for a fight.}
 {314}{}{相当地去准备战斗吧。}
 ### {315}{}{Great, let's start the fun...}
-{315}{}{太好了，让我们开始玩吧。。。}
+{315}{}{太好了，让我们开始玩吧...}
 ### {316}{}{Will you teach me how to fight with knives?}
 {316}{}{你能教我如何用刀打架吗？}
 
@@ -241,7 +241,7 @@
 ### {341}{}{If someone else were in your place, I would finish him off. Do you know why?}
 {341}{}{如果有其他人在你的位置上，我会干掉他。你知道为什么吗？}
 ### {342}{}{Yes, I somehow...}
-{342}{}{是的，我不知怎么的。。。}
+{342}{}{是的，我不知怎么的...}
 ### {343}{}{Why?}
 {343}{}{为什么？}
 ### {344}{}{I took care of Ben's motorcycle like it was my own dick. Blew away every speck of dust to please him. Do you think I like that Ben treats my work like this?}

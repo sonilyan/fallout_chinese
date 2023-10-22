@@ -3,7 +3,7 @@
 ### {101}{}{You see a disheveled guy. Judging by his appearance, things are going badly for him.}
 {101}{}{你看到一个衣冠不整的家伙。从他的外表来看，情况对他不利。}
 ### {102}{}{Ah... I'm... suffocating...}
-{102}{}{啊。。。我是令人窒息。。。}
+{102}{}{啊...我是令人窒息...}
 
 #Answers after healing
 ### {110}{}{Leave me alone.}
@@ -83,7 +83,7 @@
 ### {231}{}{I don't need a doctor! I'm fine! Leave me alone!}
 {231}{}{我不需要医生！我很好！别管我！}
 ### {232}{}{Whoa, don't be so nervous...}
-{232}{}{哇，别那么紧张。。。}
+{232}{}{哇，别那么紧张...}
 ### {233}{}{Let me examine you, I'm a doctor.}
 {233}{}{让我给你检查一下，我是医生。}
 ### {234}{}{I don't need a doctor, I just need some medicine. And I'll be fine again.}
@@ -106,7 +106,7 @@
 ### {242}{}{What kind of drugs do you take?}
 {242}{}{你吃什么药？}
 ### {243}{}{A mixture of psycho, painkillers and mentats. Killer dope, you start seeing leprechauns and flying cars. Yes, not simple leprechauns. Small ones. Tiny ones like that... At least some joy in these fucking slums.}
-{243}{}{一种精神病药物、止痛药和精神分裂症药物的混合物。杀手毒品，你开始看到小妖精和飞车。是的，不是简单的小妖精。小的。像那样的小家伙。。。至少在这些该死的贫民窟里有点快乐。}
+{243}{}{一种精神病药物、止痛药和精神分裂症药物的混合物。杀手毒品，你开始看到小妖精和飞车。是的，不是简单的小妖精。小的。像那样的小家伙...至少在这些该死的贫民窟里有点快乐。}
 ### {244}{}{Why did you even take up this stuff?}
 {244}{}{你为什么要学这些东西？}
 ### {245}{}{Well, you know, initially it was a cure for fever. And it really cured me, but then I realized that I couldn't stop. It's not so easy to quit.}
@@ -141,7 +141,7 @@
 ### {260}{}{Stop poisoning your life. Your wife and kids need you, Larry.}
 {260}{}{停止毒害你的生活。你的妻子和孩子需要你，拉里。}
 ### {261}{}{Yes... I've already forgotten about them... What a fool I am... Thanks, I'll try to start over.}
-{261}{}{对我已经忘记了他们。。。我真傻……谢谢，我会重新开始的。}
+{261}{}{对我已经忘记了他们...我真傻……谢谢，我会重新开始的。}
 ### {262}{}{I take you at your word. Goodbye, Larry.}
 {262}{}{我相信你的话。再见，拉里。}
 ### {263}{}{If you continue like this, you will recline.}

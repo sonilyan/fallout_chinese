@@ -13,4 +13,4 @@
 ### {205}{}{Don't fall asleep on the way, you strange creature.}
 {205}{}{路上别睡着了，你这个奇怪的家伙。}
 ### {206}{}{I want to sleep...}
-{206}{}{我想睡觉。。。}
+{206}{}{我想睡觉...}

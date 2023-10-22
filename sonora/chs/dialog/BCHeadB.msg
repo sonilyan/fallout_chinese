@@ -63,7 +63,7 @@
 ### {240}{}{You're making the right choice, Chief Genaro.}
 {240}{}{你的选择是正确的Genaro长官。}
 ### {241}{}{Well, you can understand...}
-{241}{}{好吧，你可以理解。。。}
+{241}{}{好吧，你可以理解...}
 ### {242}{}{You saved the children and cattle from the evil spirit. How can I refuse your request after that?}
 {242}{}{你把孩子和牲畜从邪恶的灵魂中救了出来。那之后我怎么能拒绝你的要求呢？}
 ### {1242}{}{You saved the children and cattle from the evil spirit. How can I refuse your request after that?}
@@ -98,7 +98,7 @@
 ### {258}{}{Can I help you?}
 {258}{}{我能帮你吗？}
 ### {259}{}{Didn't you have to cultivate maize before? So, working with the land should not be a burden for you. Take a shovel in the paddock and clean it from... brahmin filth. Brahmins must be clean while they are in captivity. Especially the ones I chose to celebrate the Day of the Sun.}
-{259}{}{你以前不是要种玉米吗？所以，在土地上工作对你来说不应该是一种负担。在围场里拿一把铲子，把它从。。。婆罗门的污秽。婆罗门在被囚禁期间必须保持清洁。尤其是那些我选择庆祝太阳日的人。}
+{259}{}{你以前不是要种玉米吗？所以，在土地上工作对你来说不应该是一种负担。在围场里拿一把铲子，把它从...婆罗门的污秽。婆罗门在被囚禁期间必须保持清洁。尤其是那些我选择庆祝太阳日的人。}
 ### {260}{}{Okay. I will do it. I hope you will at least feed me fresh brahmin meat for this.}
 {260}{}{可以我会做的。我希望你至少能给我喂新鲜的婆罗门肉。}
 ### {261}{}{What about? Cleaning up the shit behind the Brahmins?}
@@ -147,12 +147,12 @@
 ### {290}{}{A reasonable explanation. In two heads it will be easier to monitor the situation around.}
 {290}{}{合理的解释。在两个头脑中，监控周围的情况会更容易。}
 ### {291}{}{You even find a divine explanation for ordinary ugliness. There's something unhealthy about it...}
-{291}{}{你甚至可以找到一个对普通丑陋的神圣解释。这有点不健康。。。}
+{291}{}{你甚至可以找到一个对普通丑陋的神圣解释。这有点不健康...}
 
 ### {300}{}{Can I buy a brahmin here?}
 {300}{}{我可以在这里买一个婆罗门吗？}
 ### {301}{}{Hold on to your ridiculous caps. Because of the war, we temporarily suspended the trade in both Brahmins and meat and hides.}
-{301}{}{抓住你那可笑的帽子。由于战争，我们暂时停止了婆罗门和肉皮贸易。}
+{301}{}{抓住你那可笑的瓶盖。由于战争，我们暂时停止了婆罗门和肉皮贸易。}
 ### {302}{}{Very sorry. Can we discuss something else?}
 {302}{}{非常抱歉。我们可以讨论其他事情吗？}
 ### {303}{}{The war ended and trade resumed. Do you want to buy a whole brahmin? This acquisition will cost you very much.}

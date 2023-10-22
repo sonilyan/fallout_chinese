@@ -3,7 +3,7 @@
 ### {101}{}{One of the highway robbers who fell into the hands of justice.}
 {101}{}{其中一名高速公路劫匪落入司法之手。}
 ### {102}{}{S-su-uka...}
-{102}{}{S-su-uka。。。}
+{102}{}{S-su-uka...}
 ### {103}{}{*Cough-cough*}
 {103}{}{*咳嗽*}
 ### {104}{}{See you at the base. If we survive.}

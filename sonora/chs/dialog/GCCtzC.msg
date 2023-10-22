@@ -3,19 +3,19 @@
 ### {101}{}{You see one of the few residents of Garage City.}
 {101}{}{你可以看到车库城为数不多的居民之一。}
 ### {102}{}{Oh, oh, I need to go to the bathroom right now...}
-{102}{}{哦，哦，我现在需要去洗手间。。。}
+{102}{}{哦，哦，我现在需要去洗手间...}
 ### {103}{}{Frank is not able to talk right now.}
 {103}{}{弗兰克现在不能说话。}
 ### {104}{}{Boo-uh...}
-{104}{}{Boo呃。。。}
+{104}{}{Boo呃...}
 ### {105}{}{Hr-r-r...}
-{105}{}{小时-小时。。。}
+{105}{}{小时-小时...}
 ### {106}{}{After a good drink, Frank passes out in his torn chair.}
 {106}{}{喝了一杯之后，弗兰克躺在破旧的椅子上昏倒了。}
 ### {107}{}{Oh-oh...}
-{107}{}{哦哦。。。}
+{107}{}{哦哦...}
 ### {108}{}{Something is not good for me...}
-{108}{}{有些事情对我不好。。。}
+{108}{}{有些事情对我不好...}
 
 # Before the quest
 ### {200}{}{Hey, hey, this is my house. What do you want here?}
@@ -25,7 +25,7 @@
 ### {202}{}{That's how. Fine. Great. It's just magical. Get out of here, you fool!}
 {202}{}{就是这样。好的太棒了这太神奇了。滚出去，你这个傻瓜！}
 ### {1202}{}{That's how. Fine. Great. It's just magical... Get out of here, cheeky!}
-{1202}{}{就是这样。好的太棒了这太神奇了。。。滚出去，厚脸皮！}
+{1202}{}{就是这样。好的太棒了这太神奇了...滚出去，厚脸皮！}
 ### {203}{}{Bye.}
 {203}{}{再见}
 ### {204}{}{Hey, it's just a joke. I'm your new neighbor.}
@@ -119,7 +119,7 @@
 ### {259}{}{Hmm, either you have incredible instincts, or you're just covering for a thief. Thanks anyway. Here are yours }
 {259}{}{嗯，要么你有不可思议的直觉，要么你只是在为小偷做掩护。无论如何，谢谢。这是你的}
 ### {260}{}{ caps.}
-{260}{}{帽子。}
+{260}{}{瓶盖。}
 ### {261}{}{Please.}
 {261}{}{请}
 ### {262}{}{It was Todd from the trailer.}
@@ -127,6 +127,6 @@
 ### {263}{}{Ha! Todd thinks he's the smartest one here. But sooner or later justice will find anyone, anywhere. Now give me my phone. Here are your }
 {263}{}{哈托德认为他是这里最聪明的人。但正义迟早会在任何地方找到任何人。现在把我的手机给我。这是你的}
 ### {264}{}{ caps. But not a word to anyone.}
-{264}{}{帽子。但对任何人都只字不提。}
+{264}{}{瓶盖。但对任何人都只字不提。}
 ### {265}{}{No problems.}
 {265}{}{没有问题。}

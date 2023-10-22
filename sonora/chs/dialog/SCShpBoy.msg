@@ -102,9 +102,9 @@
 ### {274}{}{Here you go. And don't lose any more.}
 {274}{}{给你。不要再输了。}
 ### {275}{}{Thank you, sir...}
-{275}{}{谢谢你，先生。。。}
+{275}{}{谢谢你，先生...}
 ### {1275}{}{Thank you, ma'am...}
-{1275}{}{谢谢你，女士。。。}
+{1275}{}{谢谢你，女士...}
 ### {276}{}{Please.}
 {276}{}{请}
 ### {277}{}{We usually get paid for work in the wastelands. What can you give me in return?}
@@ -127,4 +127,4 @@
 ### {284}{}{*whimper-whimper*}
 {284}{}{*呜咽*}
 ### {285}{}{Sp... thank you...}
-{285}{}{Sp..谢谢。。。}
+{285}{}{Sp..谢谢...}

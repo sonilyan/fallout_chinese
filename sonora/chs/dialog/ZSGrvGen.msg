@@ -13,8 +13,8 @@
 ### {117}{}{While digging the grave, it suddenly began to crumble and carried you down into the underground voids.}
 {117}{}{在挖坟墓的时候，它突然开始坍塌，把你带到地下的空隙里。}
 ### {118}{}{What the hell...}
-{118}{}{他妈的。。。}
+{118}{}{他妈的...}
 ### {119}{}{Ay-ay-ay...}
-{119}{}{啊啊啊。。。}
+{119}{}{啊啊啊...}
 ### {120}{}{The pit is quite deep.}
 {120}{}{坑很深。}

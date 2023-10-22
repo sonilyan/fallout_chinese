@@ -33,7 +33,7 @@
 ### {212}{}{He can redeem himself.}
 {212}{}{他可以自我救赎。}
 ### {213}{}{I do not believe. A bunch of dumb. He's not even fit to carry a machine gun. It's a pity the captain is not with us to tell him off again...}
-{213}{}{我不相信。一群蠢蛋。他甚至不适合带机关枪。遗憾的是，船长没有和我们在一起，再次斥责他。。。}
+{213}{}{我不相信。一群蠢蛋。他甚至不适合带机关枪。遗憾的是，船长没有和我们在一起，再次斥责他...}
 ### {214}{}{And what happened to the captain?}
 {214}{}{船长怎么了？}
 ### {215}{}{Captured in disgrace by the soldiers of the Brotherhood of Steel. Now he is being tortured at the patrol center near San Ysidro.}

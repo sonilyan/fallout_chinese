@@ -39,9 +39,9 @@
 ### {204}{}{Really? (adjusts strange glasses with luminous lenses and looks for something below your chest)}
 {204}{}{真正地（用发光镜片调整奇怪的眼镜，寻找胸部下方的东西）}
 ### {205}{}{Eh, doc... can we talk first?}
-{205}{}{呃，医生。。。我们可以先谈谈吗？}
+{205}{}{呃，医生...我们可以先谈谈吗？}
 ### {206}{}{Wait, Doc, I'll be back soon...}
-{206}{}{等等，医生，我很快就会回来。。。}
+{206}{}{等等，医生，我很快就会回来...}
 ### {207}{}{But the tourniquets are over, so you'll have to suffer.}
 {207}{}{但是止血带已经用完了，所以你将不得不忍受痛苦。}
 
@@ -62,7 +62,7 @@
 ### {222}{}{This is not good.}
 {222}{}{这不好。}
 ### {223}{}{Are there any caps? Then show me what's broken.}
-{223}{}{有帽子吗？然后给我看看坏了什么。}
+{223}{}{有瓶盖吗？然后给我看看坏了什么。}
 ### {224}{}{Nothing.}
 {224}{}{没有什么}
 ### {225}{}{Just heal my wounds, Doc.}
@@ -72,7 +72,7 @@
 ### {227}{}{The cost of treatment will be }
 {227}{}{治疗费用为}
 ### {228}{}{ caps.}
-{228}{}{帽子。}
+{228}{}{瓶盖。}
 ### {229}{}{Okay, Doc, here are the bottlecaps.}
 {229}{}{好的，医生，这是水瓶。}
 ### {230}{}{You know, Doc, it's better if I put up with it.}
@@ -86,7 +86,7 @@
 ### {234}{}{Next time I'll find another clinic. Later.}
 {234}{}{下次我会找另一家诊所。后来}
 ### {235}{}{caps.}
-{235}{}{帽子。}
+{235}{}{瓶盖。}
 
 ### {250}{}{Can you get me one of those implants of yours?}
 {250}{}{你能给我一个你的植入物吗？}
@@ -125,7 +125,7 @@
 ### {267}{}{Great. }
 {267}{}{太棒了}
 ### {268}{}{ caps, and we can start. After the operation, it will also take two days to adapt.}
-{268}{}{帽子，我们可以开始了。手术后，也需要两天的时间来适应。}
+{268}{}{瓶盖，我们可以开始了。手术后，也需要两天的时间来适应。}
 ### {269}{}{Here are the bottlecaps. Go ahead, Doc.}
 {269}{}{这是水瓶。继续吧，医生。}
 
@@ -135,15 +135,15 @@
 ### {301}{}{(looks around in bewilderment) Is it?}
 {301}{}{（困惑地环顾四周）是吗？}
 ### {302}{}{Doc, I'm afraid to ask, but... how many of your patients survived surgery?}
-{302}{}{医生，我不敢问，但是。。。你的病人中有多少人在手术中幸存下来？}
+{302}{}{医生，我不敢问，但是...你的病人中有多少人在手术中幸存下来？}
 ### {303}{}{Wait, I'll turn on the statistics analyzer... There is. 58 percent.}
-{303}{}{等等，我打开统计分析器。。。有.58%。}
+{303}{}{等等，我打开统计分析器...有.58%。}
 ### {304}{}{So... a little more than half.}
 {304}{}{所以…一点点超过一半。}
 ### {305}{}{This is not a place where people get to with light scratches. Most patients come with severe injuries. In second place is an electric shock. And then - radiation, breathing problems, decreased vision, diarrhea...}
-{305}{}{这不是一个有轻微划痕的地方。大多数病人伤势严重。排在第二位的是触电。然后-辐射，呼吸问题，视力下降，腹泻。。。}
+{305}{}{这不是一个有轻微划痕的地方。大多数病人伤势严重。排在第二位的是触电。然后-辐射，呼吸问题，视力下降，腹泻...}
 ### {306}{}{Uh, I see, doc. You don't have to continue...}
-{306}{}{我明白了，医生。你不必继续。。。}
+{306}{}{我明白了，医生。你不必继续...}
 
 ### {310}{}{Tell me about the clinic.}
 {310}{}{告诉我诊所的情况。}

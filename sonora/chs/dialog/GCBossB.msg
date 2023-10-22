@@ -16,7 +16,7 @@
 ### {114}{}{I'll go back to my garage, but Lucas will have to pay dearly for his insolence.}
 {114}{}{我会回到我的车库，但卢卡斯将不得不为他的傲慢付出高昂的代价。}
 ### {115}{}{This caravan was our only hope for a bright future...}
-{115}{}{这个大篷车是我们对光明未来的唯一希望。。。}
+{115}{}{这个大篷车是我们对光明未来的唯一希望...}
 
 ### {120}{}{Everything seems to be clear.}
 {120}{}{一切似乎都很清楚。}
@@ -38,7 +38,7 @@
 ### {205}{}{Okay, guys, you need to get Lucas' people out before they hurt the deal. Do what I say!}
 {205}{}{好吧，伙计们，你们需要在卢卡斯的人破坏交易之前把他们弄出来。照我说的做！}
 ### {206}{}{It seems to have started...}
-{206}{}{它似乎已经开始了。。。}
+{206}{}{它似乎已经开始了...}
 ### {207}{}{Only Lucas and his people will be able to fully restore the Plant. You should cooperate with him.}
 {207}{}{只有卢卡斯和他的人民才能完全恢复工厂。你应该和他合作。}
 ### {208}{}{Hmm... Trayvon and his team really don't know anything about this. They are good at rummaging through the ruins, but the Factory needs other skills that Lucas just has.}

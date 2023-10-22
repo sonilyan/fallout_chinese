@@ -19,7 +19,7 @@
 ### {114}{}{I don't even want to dirty my shoes about you.}
 {114}{}{我甚至不想因为你而弄脏我的鞋子。}
 ### {115}{}{Did I pay my caps for *this*?}
-{115}{}{我为这个付了帽子吗？}
+{115}{}{我为这个付了瓶盖吗？}
 ### {116}{}{It looks like the jailers overestimated your price, a lump of dirt.}
 {116}{}{看起来狱警高估了你的价格，一堆垃圾。}
 ### {117}{}{*Pushes the servant with his foot*}
@@ -53,11 +53,11 @@
 ### {209}{}{[Next]}
 {209}{}{[下一个]}
 ### {210}{}{I'll pay 5 caps if you leave him alone.}
-{210}{}{如果你不理他，我就付5顶帽子。}
+{210}{}{如果你不理他，我就付5个瓶盖。}
 ### {211}{}{Oh, do you hear, you jerk? For your peace of mind, I get paid as much as five caps! Who would have thought that you could earn this way, huh?}
-{211}{}{哦，你听到了吗，你这个混蛋？为了你的安心，我的薪水高达五顶帽子！谁能想到你能以这种方式赚钱呢？}
+{211}{}{哦，你听到了吗，你这个混蛋？为了你的安心，我的薪水高达五个瓶盖！谁能想到你能以这种方式赚钱呢？}
 ### {212}{}{Here are 5 caps.}
-{212}{}{这里有5顶帽子。}
+{212}{}{这里有5个瓶盖。}
 ### {213}{}{Not bad. Slave! You can be free for today.}
 {213}{}{不错。奴隶你今天可以有空。}
 ### {214}{}{[Next]}
@@ -67,12 +67,12 @@
 ### {216}{}{really? Then listen to me, redneck. This city has its own rules. And if you intend to break them, then someone will call the guards. And then we'll see which of us will "regret".}
 {216}{}{真正地那就听我说，乡下人。这个城市有自己的规则。如果你打算打破它们，就会有人叫警卫。然后我们将看看我们中的哪一个会“后悔”。}
 ### {217}{}{Okay, okay, I'm really hot today... But just dare to touch me and I'll call the guards. You definitely won't like it.}
-{217}{}{好吧，好吧，我今天真的很热。。。但只要敢碰我，我就会叫警卫。你肯定不会喜欢的。}
+{217}{}{好吧，好吧，我今天真的很热...但只要敢碰我，我就会叫警卫。你肯定不会喜欢的。}
 ### {218}{}{[Next]}
 {218}{}{[下一个]}
 ### {219}{}{}
 {219}{}{error : string is empty}
 ### {220}{}{Let me give you some advice. I don't know what's on your mind, but the servants in this colony have to be kept on a leash. Otherwise it will end badly... All the best.}
-{220}{}{让我给你一些建议。我不知道你在想什么，但这个殖民地的仆人必须受到约束。否则结局会很糟糕。。。一切顺利。}
+{220}{}{让我给你一些建议。我不知道你在想什么，但这个殖民地的仆人必须受到约束。否则结局会很糟糕...一切顺利。}
 ### {221}{}{Goodbye.}
 {221}{}{再见}

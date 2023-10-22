@@ -7,7 +7,7 @@
 {102}{}{你在找你的朋友吗？看来他们已经被送到禁区了。}
 
 ### {110}{}{Please kill me! I don't want to endure this torment...}
-{110}{}{请杀了我！我不想忍受这种折磨。。。}
+{110}{}{请杀了我！我不想忍受这种折磨...}
 ### {111}{}{I'm not allowed to talk to strangers.}
 {111}{}{我不允许和陌生人说话。}
 ### {112}{}{We are just expendable for tinsmiths.}

@@ -68,7 +68,7 @@
 ### {152}{}{The whole sky is from oil burning. A lot of it is spilled in the sea.}
 {152}{}{整个天空都被烧油了。很多都洒在海里了。}
 ### {153}{}{Thanks for the help with the oil. I'll have to breathe a little smoke, really...}
-{153}{}{谢谢你帮忙加油。我得吸一点烟，真的。。。}
+{153}{}{谢谢你帮忙加油。我得吸一点烟，真的...}
 
 ### {159}{}{Hey, are you saving the lives of the poisoned? Thank you.}
 {159}{}{嘿，你在救中毒者的命吗？非常感谢。}

@@ -3,7 +3,7 @@
 ### {101}{}{You see an ordinary mercenary who keeps order in the garrison.}
 {101}{}{你可以看到一个普通的雇佣兵在驻军维持秩序。}
 ### {102}{}{Enough! I'll give you my caps if you calm down!}
-{102}{}{足够地如果你冷静下来，我就把帽子给你！}
+{102}{}{足够地如果你冷静下来，我就把瓶盖给你！}
 
 ### {200}{}{Stop! What's your business in the garrison?}
 {200}{}{停止你在驻军干什么？}
@@ -55,7 +55,7 @@
 ### {224}{}{You'd better disappear. Before I get mad.}
 {224}{}{你最好消失。在我生气之前。}
 ### {225}{}{Calm down, don't get angry... Here are the bottlecaps. Will you leave me alone now, eh?}
-{225}{}{冷静点，不要生气。。。这是水瓶。你现在就让我一个人呆着好吗？}
+{225}{}{冷静点，不要生气...这是水瓶。你现在就让我一个人呆着好吗？}
 ### {226}{}{That would be right away.}
 {226}{}{那就马上。}
 ### {227}{}{Here, take all the bottlecaps, just don't touch me!}

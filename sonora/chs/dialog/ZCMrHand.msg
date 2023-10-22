@@ -17,7 +17,7 @@
 ### {118}{}{You shouldn't have kidnapped my master's dog!}
 {118}{}{你不应该绑架我主人的狗！}
 ### {119}{}{God, that blinding flash... Mr. McClellan? What's the matter with you? Mr. McClellan!}
-{119}{}{天啊，那耀眼的闪光。。。麦克莱伦先生？你怎么了？麦克莱伦先生！}
+{119}{}{天啊，那耀眼的闪光...麦克莱伦先生？你怎么了？麦克莱伦先生！}
 ### {120}{}{I cannot harm members of the McClellan family. But you're not from this family.}
 {120}{}{我不能伤害麦克莱伦家族的成员。但你不是这个家庭的人。}
 ### {121}{}{I was created to obey only the orders of the McClellan family.}

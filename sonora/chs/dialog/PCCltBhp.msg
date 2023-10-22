@@ -72,7 +72,7 @@
 ### {222}{}{Now, if you don't mind, I'd like to talk to you.}
 {222}{}{现在，如果你不介意的话，我想和你谈谈。}
 ### {223}{}{Crede firmi... what? I am still far from the sacred texts. See you.}
-{223}{}{诚信企业。。。什么我仍然远离神圣的文本。再见}
+{223}{}{诚信企业...什么我仍然远离神圣的文本。再见}
 
 #Repeat dialog
 ### {250}{}{I see that the talk about the Sacred Fire does not give you peace? So what do you want to know this time?}
@@ -141,7 +141,7 @@
 ### {286}{}{Fools, they succumbed to the temptations of the Nuclear Devil. Some of them spread false rumors about our church and its leader Aaron, may he be famous forever and ever. Others are punished for robbing our monks or the church itself. From now on, their souls will have no rest in the Nuclear Underworld.}
 {286}{}{愚蠢的人，他们屈服于核魔鬼的诱惑。他们中的一些人散布关于我们教会及其领袖亚伦的虚假谣言，愿他永远出名。其他人因为抢劫我们的僧侣或教堂本身而受到惩罚。从现在起，他们的灵魂将无法在核黑社会中安息。}
 ### {287}{}{Don't you think it's too much... harsh punishment?}
-{287}{}{你不觉得太过分了吗。。。严厉的惩罚？}
+{287}{}{你不觉得太过分了吗...严厉的惩罚？}
 ### {288}{}{They got what they deserved. Now I'll be more careful. Be.}
 {288}{}{他们得到了应得的。现在我会更加小心。是}
 ### {289}{}{Execution on a religious basis? I'm going to get out of here before I get swept up with them.}

@@ -18,15 +18,15 @@
 ### {113}{}{My spine! My spine!}
 {113}{}{我的脊梁骨！我的脊梁骨！}
 ### {114}{}{Doctors...}
-{114}{}{医生。。。}
+{114}{}{医生...}
 ### {115}{}{Can anyone help me?}
 {115}{}{有人能帮我吗？}
 ### {116}{}{Why is this happening to me?}
 {116}{}{为什么会发生在我身上？}
 ### {117}{}{First a truck, then a pickup truck, and now a bike...}
-{117}{}{先是一辆卡车，然后是一辆皮卡，现在是一辆自行车。。。}
+{117}{}{先是一辆卡车，然后是一辆皮卡，现在是一辆自行车...}
 ### {118}{}{This is already becoming the norm...}
-{118}{}{这已经成为常态。。。}
+{118}{}{这已经成为常态...}
 ### {119}{}{}
 {119}{}{error : string is empty}
 
@@ -35,7 +35,7 @@
 ### {201}{}{Oh, I'm sorry, are you all right?}
 {201}{}{哦，对不起，你还好吗？}
 ### {202}{}{Are you okay? Well... A couple of fractured vertebrae, a crack in the hip joint, a torn bladder... yes. I'm totally fine.}
-{202}{}{你还好吗？好几块脊椎骨骨折，髋关节有裂缝，膀胱撕裂。。。对我完全没事。}
+{202}{}{你还好吗？好几块脊椎骨骨折，髋关节有裂缝，膀胱撕裂...对我完全没事。}
 ### {203}{}{Sorry, I didn't mean to.}
 {203}{}{对不起，我不是故意的。}
 ### {204}{}{Of course not on purpose! I told those freaks that road signs were needed here. And they never listen! Like when I was run over by a hefty truck with a core-Cola. Bottle caps were scattered all over the desert.}
@@ -45,17 +45,17 @@
 ### {206}{}{Wow! Imagine if someone came across this in the middle of the desert.}
 {206}{}{哇！想象一下，如果有人在沙漠中央遇到这个。}
 ### {207}{}{Or else... Gr-rh! Oh! I hate to interrupt this wonderful conversation, but I still need to get up somehow. Will you help?}
-{207}{}{否则。。。Gr-rh！哦我不想打断这段美妙的谈话，但我还是需要起床。你能帮忙吗？}
+{207}{}{否则...Gr-rh！哦我不想打断这段美妙的谈话，但我还是需要起床。你能帮忙吗？}
 ### {208}{}{Are you sure?}
 {208}{}{你确定吗？}
 ### {209}{}{Are you sure? Maybe you shouldn't move now...}
-{209}{}{你确定吗？也许你现在不应该动。。。}
+{209}{}{你确定吗？也许你现在不应该动...}
 ### {210}{}{Oh, don't worry. Sooner or later, everything will grow together by itself. Okay. Good luck, man.}
 {210}{}{哦，别担心。迟早，一切都会自己成长。可以祝你好运，伙计。}
 ### {211}{}{Bye.}
 {211}{}{再见}
 ### {212}{}{Oops...}
-{212}{}{哎呀。。。}
+{212}{}{哎呀...}
 ### {213}{}{What, are you going to stare? Aren't you going to give me first aid and mouth-to-mouth breathing? Okay. I'll get up without you somehow.}
 {213}{}{什么，你要瞪大眼睛吗？你不给我做急救和口对口呼吸吗？可以不知怎么的，我会在没有你的情况下起床的。}
 ### {214}{}{Well, thank God. It seemed to me that you were really sick. Well, see you later.}

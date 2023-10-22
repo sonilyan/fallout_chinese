@@ -35,7 +35,7 @@
 ### {202}{}{}
 {202}{}{error : string is empty}
 ### {203}{}{Not garbage, no, no! Everything you need is here. Take a closer look. Maybe you need those rusty spoons? Or do you prefer to eat with dirty hands? Then you will surely be interested in this toaster. It has a bit of a button jam, but it definitely works. Or maybe you need...}
-{203}{}{不是垃圾，不，不！你需要的一切都在这里。仔细看看。也许你需要那些生锈的勺子？还是你更喜欢用脏手吃饭？那么你肯定会对这款烤面包机感兴趣。它的按钮有点卡住，但它确实有效。或者你可能需要。。。}
+{203}{}{不是垃圾，不，不！你需要的一切都在这里。仔细看看。也许你需要那些生锈的勺子？还是你更喜欢用脏手吃饭？那么你肯定会对这款烤面包机感兴趣。它的按钮有点卡住，但它确实有效。或者你可能需要...}
 ### {204}{}{Hey, slow down, man. Let me figure it out on my own.}
 {204}{}{嘿，慢一点，伙计。让我自己想办法。}
 ### {205}{}{Shut up, you stupid mole rat. You're making too much noise.}
@@ -45,7 +45,7 @@
 ### {207}{}{Why?}
 {207}{}{为什么？}
 ### {208}{}{The caps were Aaron's idea. His church kept the course on the same level. And now there is no church, and the caps are depreciating. We may have to give them up altogether.}
-{208}{}{帽子是亚伦的主意。他的教堂使球场保持在同一水平线上。现在没有教堂了，上限也在贬值。我们可能不得不彻底放弃它们。}
+{208}{}{瓶盖是亚伦的主意。他的教堂使球场保持在同一水平线上。现在没有教堂了，上限也在贬值。我们可能不得不彻底放弃它们。}
 ### {209}{}{I see. So, it's time to buy up everything you need.}
 {209}{}{我明白了。所以，是时候买下你需要的一切了。}
 
@@ -88,17 +88,17 @@
 
 #Quest to find Vault 27
 ### {240}{}{Have you come across items from Vaults?}
-{240}{}{你有没有遇到过金库里的物品？}
+{240}{}{你有没有遇到过避难所里的物品？}
 ### {241}{}{Vaults? What are you talking about... Ah, I see! Vault-Tec Vaults are a true legend. They say some of our ancestors lived there after the Great War. But so much time has passed that no one knows the location of these Vaults.}
-{241}{}{金库？你在说什么。。。啊，我明白了！Vault Tec Vault是一个真正的传奇。他们说我们的一些祖先在大战后就住在那里。但是时间已经过去了，没有人知道这些金库的位置。}
+{241}{}{避难所？你在说什么...啊，我明白了！Vault Tec Vault是一个真正的传奇。他们说我们的一些祖先在大战后就住在那里。但是时间已经过去了，没有人知道这些避难所的位置。}
 ### {242}{}{And who can know?}
 {242}{}{谁能知道呢？}
 ### {243}{}{You need to go to the Followers of Fire. There is so much knowledge in their library that they themselves no longer know what to do with it. Maybe the coordinates of the Vaults are there. That's just they won't want to share without a good reason.}
-{243}{}{你需要去火的追随者那里。他们的图书馆里有太多的知识，以至于他们自己都不知道该怎么办了。也许金库的坐标就在那里。这只是他们不想在没有充分理由的情况下分享。}
+{243}{}{你需要去火的追随者那里。他们的图书馆里有太多的知识，以至于他们自己都不知道该怎么办了。也许避难所的坐标就在那里。这只是他们不想在没有充分理由的情况下分享。}
 ### {244}{}{But what about the scavengers?}
 {244}{}{但是拾荒者呢？}
 ### {245}{}{Heh, do you think a normal scavenger would disclose the location of Vaults? After all, according to legend, there are a hell of a lot of relics stored there! But if you have a chatty tongue, then visit Bob in the slums. He's one of the oldest scavengers in Phoenix.}
-{245}{}{呵呵，你认为一个普通的拾荒者会透露金库的位置吗？毕竟，根据传说，那里存放着大量的文物！但如果你有一个健谈的舌头，那就去贫民窟看望鲍勃。他是凤凰城最古老的拾荒者之一。}
+{245}{}{呵呵，你认为一个普通的拾荒者会透露避难所的位置吗？毕竟，根据传说，那里存放着大量的文物！但如果你有一个健谈的舌头，那就去贫民窟看望鲍勃。他是凤凰城最古老的拾荒者之一。}
 ### {246}{}{Clear.}
 {246}{}{清楚的}
 
@@ -106,7 +106,7 @@
 ### {250}{}{I need advice on old subjects.}
 {250}{}{我需要关于老问题的建议。}
 ### {251}{}{This is what I live by - Old World stuff. But my knowledge is also worth something. A couple of caps will be enough for me.}
-{251}{}{这就是我赖以生存的东西——旧世界的东西。但我的知识也有价值。几顶帽子对我来说就足够了。}
+{251}{}{这就是我赖以生存的东西——旧世界的东西。但我的知识也有价值。几个瓶盖对我来说就足够了。}
 ### {252}{}{[}
 {252}{}{[}
 ### {253}{}{]}
@@ -141,11 +141,11 @@
 ### {267}{}{[Medal for Bravery]}
 {267}{}{[银英勇勋章]}
 ### {268}{}{Operation Anchorage... Somewhere in the old newspapers I read about this massacre. It seems that the USA was proud of its victory then. I don't even know who can be pleased with such a find now. Do you know the notorious patriots of "that country"? I'm not.}
-{268}{}{安克雷奇行动。。。我在旧报纸上读到关于这场大屠杀的消息。当时美国似乎为自己的胜利感到骄傲。我甚至不知道现在谁会对这样的发现感到高兴。你知道“那个国家”那些臭名昭著的爱国者吗？我不是。}
+{268}{}{安克雷奇行动...我在旧报纸上读到关于这场大屠杀的消息。当时美国似乎为自己的胜利感到骄傲。我甚至不知道现在谁会对这样的发现感到高兴。你知道“那个国家”那些臭名昭著的爱国者吗？我不是。}
 ### {269}{}{[Ranger Star]}
 {269}{}{[游骑兵之星]}
 ### {270}{}{It looks very old... The Arizona Ranger? I heard that the Ranger base is in the west. But I don't know where exactly.}
-{270}{}{它看起来很老。。。亚利桑那游骑兵？我听说游骑兵基地在西部。但我不知道具体在哪里。}
+{270}{}{它看起来很老...亚利桑那游骑兵？我听说游骑兵基地在西部。但我不知道具体在哪里。}
 ### {271}{}{[Holy Book]}
 {271}{}{[圣书]}
 ### {272}{}{I think it's a religious book. Surely the Followers of Fire will be interested in her.}
@@ -153,11 +153,11 @@
 ### {273}{}{[Photo]}
 {273}{}{[照片]}
 ### {274}{}{A snapshot of the big bang? So that's how it was... Scary. It is not necessary to show this thing to mere mortals. Better find a bald connoisseur of ancient history if you want to talk about the Great War.}
-{274}{}{大爆炸的快照？所以事情就是这样。。。恐怖的没有必要把这东西展示给凡人。如果你想谈论大战，最好找一位秃头的古代历史鉴赏家。}
+{274}{}{大爆炸的快照？所以事情就是这样...恐怖的没有必要把这东西展示给凡人。如果你想谈论大战，最好找一位秃头的古代历史鉴赏家。}
 ### {275}{}{[Tooth with crown]}
 {275}{}{[带牙冠的牙齿]}
 ### {276}{}{It's just a tooth with a crown. Let me take a look under a magnifying glass... so... No, there's something here. We need a microscope... so... wow. Yes, it's not just a crown, it's some kind of chip. Or a magnetic key. Or maybe an information storage device. It's too complicated for me. Only tinkerers understand such high technologies.}
-{276}{}{这只是一颗带牙冠的牙齿。让我在放大镜下看看。。。所以…不，这里有东西。我们需要一台显微镜。。。所以…哇。是的，它不仅仅是一顶王冠，它还是某种芯片。或者一把磁性钥匙。或者可能是一个信息存储设备。这对我来说太复杂了。只有修修补补的人才懂这么高的技术。}
+{276}{}{这只是一颗带牙冠的牙齿。让我在放大镜下看看...所以…不，这里有东西。我们需要一台显微镜...所以…哇。是的，它不仅仅是一顶王冠，它还是某种芯片。或者一把磁性钥匙。或者可能是一个信息存储设备。这对我来说太复杂了。只有修修补补的人才懂这么高的技术。}
 ### {277}{}{[Arizona Flag]}
 {277}{}{[亚利桑那州旗帜]}
 ### {278}{}{One of the flags of the Old World. Most of these flags have decayed, but this one is surprisingly well preserved. They should be waving at the colonizers in the north at the right time. And there are few conservatives left in our city.}
@@ -169,7 +169,7 @@
 ### {281}{}{[My Portable Pip-Boy]}
 {281}{}{[我的便携式皮普男孩]}
 ### {282}{}{Hmm, this is the first time I've seen such a compact computer... Wait, there should be an output section here... So, Pip-Boy, model 2000, serial number... wow, this thing is straight from 27! This is one of those Vault-Tec Vaults that are legendary. So it does exist after all.}
-{282}{}{嗯，这是我第一次看到这么小巧的电脑。。。等等，这里应该有一个输出部分。。。所以，皮普男孩，型号2000，序列号。。。哇，这东西是直接从27！这是一个具有传奇色彩的Vault Tec Vault。所以它确实存在。}
+{282}{}{嗯，这是我第一次看到这么小巧的电脑...等等，这里应该有一个输出部分...所以，皮普男孩，型号2000，序列号...哇，这东西是直接从27！这是一个具有传奇色彩的Vault Tec Vault。所以它确实存在。}
 ### {283}{}{[The surviving book]}
 {283}{}{[幸存的书]}
 ### {284}{}{A rare find. A valuable source of pre-war wisdom - that's what the Followers of Fire say about them. Basically, they buy them. After all, few people in Phoenix can read. And the knowledge in these books does not really help ordinary residents.}
@@ -182,13 +182,13 @@
 ### {289}{}{The merchant lowered his prices by 5%.}
 {289}{}{商人把价格降低了5%。}
 ### {290}{}{You'll probably be interested in this. Look, if you shake it, it starts snowing inside...}
-{290}{}{你可能会对此感兴趣。听着，如果你摇晃它，里面就会开始下雪。。。}
+{290}{}{你可能会对此感兴趣。听着，如果你摇晃它，里面就会开始下雪...}
 ### {291}{}{Snow! I've never seen real snow, except for a few mountain peaks in the distance. Yes, any rich man will fork out for such a thing... Hey, listen, sell this trinket to me? You definitely won't need it.}
-{291}{}{雪除了远处的几座山峰外，我从未见过真正的雪。是的，任何有钱人都会为这样的事情付出代价。。。嘿，听着，把这个小饰品卖给我？你肯定不需要它。}
+{291}{}{雪除了远处的几座山峰外，我从未见过真正的雪。是的，任何有钱人都会为这样的事情付出代价...嘿，听着，把这个小饰品卖给我？你肯定不需要它。}
 ### {292}{}{Are you crazy? I just needed to know what it was. That's where we'll part ways. Bye.}
 {292}{}{你疯了吗？我只需要知道它是什么。那就是我们分道扬镳的地方。再见}
 ### {293}{}{Let me think. In the meantime, let's do other things...}
-{293}{}{让我想想。在此期间，让我们做其他事情。。。}
+{293}{}{让我想想。在此期间，让我们做其他事情...}
 ### {294}{}{Take it for free. I'm just glad to get rid of the extra stuff in my backpack.}
 {294}{}{免费服用。我很高兴能把背包里多余的东西扔掉。}
 ### {1294}{}{Take it for free. I'm just glad to get rid of the extra stuff in my backpack.}
@@ -200,9 +200,9 @@
 ### {297}{}{You know, it took a lot of work to get it. I'll give the thing for 350 caps. And no less!}
 {297}{}{你知道，这花了很多功夫。我愿意为350场比赛付出代价。同样如此！}
 ### {298}{}{So expensive? Ugh... it will be difficult to find a buyer, but the chances remain. Okay, here are 350 caps. Now give me the snow globe. (grabs the ball and looks at it with fascination at the light) U-u-u...}
-{298}{}{这么贵？啊。。。很难找到买家，但机会依然存在。好的，这里有350顶帽子。现在把雪球给我。（抓住球，着迷地看着灯光）U-U-U。。。}
+{298}{}{这么贵？啊...很难找到买家，但机会依然存在。好的，这里有350个瓶盖。现在把雪球给我。（抓住球，着迷地看着灯光）U-U-U...}
 ### {299}{}{You're there, be careful... Oh, okay. Later.}
-{299}{}{你在那里，小心。。。哦，好吧。后来}
+{299}{}{你在那里，小心...哦，好吧。后来}
 
 #Attack on Followers
 ### {300}{}{Did you see the attack on the Followers at the casino?}
@@ -218,7 +218,7 @@
 ### {305}{}{I don't care who you testified to or how many times. NOW you're going to tell it to ME.}
 {305}{}{我不在乎你向谁作证，也不在乎你作证了多少次。现在你要告诉我。}
 ### {306}{}{Okay, okay... damn you...}
-{306}{}{好吧，好吧。。。该死的。。。}
+{306}{}{好吧，好吧...该死的...}
 ### {307}{}{How was it?}
 {307}{}{怎么样？}
 ### {308}{}{Relax, you can trust me.}

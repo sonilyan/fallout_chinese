@@ -22,7 +22,7 @@
 ### {212}{}{October 23, 2077, 12:10}
 {212}{}{2077年10月23日12:10}
 ### {213}{}{Says the Platform! Calling the Operator. Can you hear me? (silence) What happened there...}
-{213}{}{平台说！呼叫接线员。你能听到我说话吗？（沉默）那里发生了什么。。。}
+{213}{}{平台说！呼叫接线员。你能听到我说话吗？（沉默）那里发生了什么...}
 ### {214}{}{October 23, 2077, 13:00}
 {214}{}{2077年10月23日13:00}
 ### {215}{}{Says the Platform. There is no connection with the shore. If someone hears me, please give a counter signal.}
@@ -50,12 +50,12 @@
 ### {226}{}{November 21, 2077, 12:33}
 {226}{}{2077年11月21日12:33}
 ### {227}{}{The platform is in touch! Who's talking?! - It's us, buddy. And we have very bad news... Mexicali is destroyed by a nuclear explosion... - Thu... Oh, my God! - ...and it looks like we've caught a hell of a lot of rads along the way. I was the only one able to get to the shore to give you this message... I'm suffocating... Don't do anything stupid there... Save food and water, but we will not return the boat. Goodbye, amigo. It was nice working with you...}
-{227}{}{平台保持联系！谁在说话？！-是我们，伙计。我们有一个非常坏的消息。。。墨西卡利被核爆炸摧毁…-周四。。。天啊！-。。。看起来我们一路上抓到了很多雷达。我是唯一一个能够上岸给你这个信息的人。。。我快窒息了。。。不要在那里做傻事。。。节省食物和水，但我们不会还船。再见，朋友。和你一起工作很愉快。。。}
+{227}{}{平台保持联系！谁在说话？！-是我们，伙计。我们有一个非常坏的消息...墨西卡利被核爆炸摧毁…-周四...天啊！-...看起来我们一路上抓到了很多雷达。我是唯一一个能够上岸给你这个信息的人...我快窒息了...不要在那里做傻事...节省食物和水，但我们不会还船。再见，朋友。和你一起工作很愉快...}
 ### {228}{}{November 29, 2077, 15:00}
 {228}{}{2077年11月29日15:00}
 ### {229}{}{Says... Anyway, who cares, right? Nobody needs this station anymore. Just like me. I'm here alone and I can't go anywhere. When the station was automated, these misers from the administration left only one boat to make room for new equipment. The boat is somewhere on the shore now. I can hardly swim there on my own. Will there ever be help? I don't know. I have enough food and water for a month, no more. In the meantime, I will make sure that there is no catastrophe here. However, the coast of Cortez has already become an ecological disaster zone without our station. It's all because of human greed...}
-{229}{}{说。。。不管怎样，谁在乎，对吧？没有人需要这个电台了。就像我一样。我一个人在这里，哪儿也去不了。当车站实现自动化时，这些来自政府的吝啬鬼只留下一艘船来为新设备腾出空间。船现在在岸边的某个地方。我一个人几乎不能在那里游泳。会有人帮忙吗？我不知道。我有足够一个月的食物和水，再也没有了。在此期间，我将确保这里不会发生灾难。然而，没有我们的站点，科尔特斯海岸已经成为一个生态灾区。这都是因为人类的贪婪。。。}
+{229}{}{说...不管怎样，谁在乎，对吧？没有人需要这个电台了。就像我一样。我一个人在这里，哪儿也去不了。当车站实现自动化时，这些来自政府的吝啬鬼只留下一艘船来为新设备腾出空间。船现在在岸边的某个地方。我一个人几乎不能在那里游泳。会有人帮忙吗？我不知道。我有足够一个月的食物和水，再也没有了。在此期间，我将确保这里不会发生灾难。然而，没有我们的站点，科尔特斯海岸已经成为一个生态灾区。这都是因为人类的贪婪...}
 ### {230}{}{December 25, 2077, 23:14}
 {230}{}{2077年12月25日23:14}
 ### {231}{}{Hey, you're there, on the shore! Probably celebrating Christmas already, huh? *Ic!* I just remembered about a bottle that one of the workers had saved. *Ir!* I want to say hello to everyone. You were joking, right? There was no war, was there? And the Mexicali is intact, right? Firstly, I will join you soon, I will only wear a life jacket... so... wait for me, kids! Daddy, we'll be home soon!}
-{231}{}{嘿，你在那儿，在岸边！可能已经在庆祝圣诞节了吧*Ic！*我只记得一个工人存了一个瓶子*Ir！*我想向大家问好。你在开玩笑，对吧？没有战争，是吗？墨西卡利号完好无损，对吧？首先，我很快就会加入你们，我只会穿一件救生衣。。。所以…等我，孩子们！爸爸，我们很快就到家！}
+{231}{}{嘿，你在那儿，在岸边！可能已经在庆祝圣诞节了吧*Ic！*我只记得一个工人存了一个瓶子*Ir！*我想向大家问好。你在开玩笑，对吧？没有战争，是吗？墨西卡利号完好无损，对吧？首先，我很快就会加入你们，我只会穿一件救生衣...所以…等我，孩子们！爸爸，我们很快就到家！}

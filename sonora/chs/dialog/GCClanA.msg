@@ -44,9 +44,9 @@
 ### {207}{}{I know enough. You can continue what you were doing there.}
 {207}{}{我知道的够多了。你可以继续你在那里做的事情。}
 ### {208}{}{Then go to the boss and tell him everything. We won't let it go that easily... Stop, bitch! Where to?! (taking advantage of the moment, the detainees tried to escape)}
-{208}{}{然后去找老板，把一切都告诉他。我们不会那么轻易放手。。。住手，婊子！去哪里？！（被拘留者利用这一时机试图逃跑）}
+{208}{}{然后去找老板，把一切都告诉他。我们不会那么轻易放手...住手，婊子！去哪里？！（被拘留者利用这一时机试图逃跑）}
 ### {209}{}{Er...}
-{209}{}{呃。。。}
+{209}{}{呃...}
 
 ### {210}{}{Are you sure lynching is worth it? You're from the same city and the same company.}
 {210}{}{你确定私刑值得吗？你来自同一个城市，同一家公司。}

@@ -7,6 +7,6 @@
 ### {103}{}{I was struck down with a magic stick that spews fire and makes a deafening sound. It hurt.}
 {103}{}{我被一根喷火并发出震耳欲聋的声音的魔杖击倒了。很疼。}
 ### {104}{}{Oh... ah... it hurts...}
-{104}{}{哦啊。。。很疼。。。}
+{104}{}{哦啊...很疼...}
 ### {105}{}{May the Spirit of the Divine Brahmin be with you!}
 {105}{}{愿神圣婆罗门的精神与你同在！}

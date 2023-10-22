@@ -47,7 +47,7 @@
 ### {230}{}{Are you in love with him?}
 {230}{}{你爱上他了吗？}
 ### {231}{}{Wh... how... listen, of course I admire him as a leader. After all, he gathered so many people under a common noble goal. But I don't even know his face, he never took off his balaclava in front of me.}
-{231}{}{为什么。。。怎样听着，作为一个领导者，我当然钦佩他。毕竟，他把这么多人聚集在一个共同的崇高目标之下。但我甚至不知道他的脸，他从来没有在我面前摘下巴拉克拉瓦帽。}
+{231}{}{为什么...怎样听着，作为一个领导者，我当然钦佩他。毕竟，他把这么多人聚集在一个共同的崇高目标之下。但我甚至不知道他的脸，他从来没有在我面前摘下巴拉克拉瓦帽。}
 ### {232}{}{Thank you for such a, uh, detailed answer.}
 {232}{}{谢谢你这么详细的回答。}
 ### {233}{}{I see. Thanks for the reply.}
@@ -104,17 +104,17 @@
 ### {273}{}{These bottlecaps can be used for the work of our Party and save a lot of time. If you get 350 caps, I'll teach you the tricks I know.}
 {273}{}{这些瓶子可以用于我们党的工作，节省了很多时间。如果你能打350场比赛，我会教你我知道的技巧。}
 ### {274}{}{Agreed. I'll be back with the caps.}
-{274}{}{同意。我会带着帽子回来的。}
+{274}{}{同意。我会带着瓶盖回来的。}
 ### {275}{}{I understand, forget it.}
 {275}{}{我明白，忘了它。}
 ### {276}{}{Considering that I saved the Party agent, you could have been more loyal to me.}
 {276}{}{考虑到我救了党的特工，你本可以对我更忠诚。}
 ### {277}{}{Your truth. Sorry, there's too much going on right now. And yet it would be fair to donate a hundred caps to our cause.}
-{277}{}{你的真相。对不起，现在事情太多了。然而，为我们的事业捐赠一百顶帽子是公平的。}
+{277}{}{你的真相。对不起，现在事情太多了。然而，为我们的事业捐赠一百个瓶盖是公平的。}
 ### {278}{}{Here are a hundred caps...}
-{278}{}{这里有一百顶帽子。。。}
+{278}{}{这里有一百个瓶盖...}
 ### {279}{}{Here are 350 caps...}
-{279}{}{这里有350顶帽子。。。}
+{279}{}{这里有350个瓶盖...}
 
 #Tasks
 ### {300}{}{Marcos sent me to the surface. What should I do?}
@@ -155,7 +155,7 @@
 ### {318}{}{The amplifier is installed. You can check the signal strength.}
 {318}{}{放大器已安装。您可以检查信号强度。}
 ### {319}{}{Then let's not waste time...}
-{319}{}{那我们就不要浪费时间了。。。}
+{319}{}{那我们就不要浪费时间了...}
 ### {320}{}{[Next]}
 {320}{}{[下一个]}
 ### {321}{}{This is much more important. Find an amplifier and install it on the surface. We don't have another one like that.}
@@ -173,7 +173,7 @@
 ### {327}{}{I managed to find and start the radio signal amplifier.}
 {327}{}{我设法找到并启动了无线电信号放大器。}
 ### {328}{}{Very good. Wait a bit, I need to check the signal strength...}
-{328}{}{很好。等一下，我需要检查信号强度。。。}
+{328}{}{很好。等一下，我需要检查信号强度...}
 ### {329}{}{[Next]}
 {329}{}{[下一个]}
 ### {330}{}{Great job. And what about our agent?}
@@ -181,7 +181,7 @@
 ### {331}{}{Your agent is dead.}
 {331}{}{你的经纪人死了。}
 ### {332}{}{It's bad... Very bad. Wait a bit, I need to check the equipment...}
-{332}{}{这很糟糕。。。非常糟糕。等一下，我需要检查一下设备。。。}
+{332}{}{这很糟糕...非常糟糕。等一下，我需要检查一下设备...}
 ### {333}{}{[Next]}
 {333}{}{[下一个]}
 ### {334}{}{I couldn't find it. Maybe he ran away?}

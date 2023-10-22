@@ -5,4 +5,4 @@
 ### {111}{}{This homemade pulse weapon is assembled from various parts found on the territory of the Burial Ground.}
 {111}{}{这种自制的脉冲武器是由墓地上发现的各种零件组装而成的。}
 ### {112}{}{Weapons are collected! Now robots will become more obedient...}
-{112}{}{武器收集完毕！现在机器人会变得更听话。。。}
+{112}{}{武器收集完毕！现在机器人会变得更听话...}

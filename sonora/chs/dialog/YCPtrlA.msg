@@ -33,7 +33,7 @@
 ### {213}{}{I'll pass anyway. Get out of the way, freak!}
 {213}{}{无论如何我都会通过的。让开，怪胎！}
 ### {214}{}{Okay, okay, I don't want to go there that much...}
-{214}{}{好吧，好吧，我不想去那么多。。。}
+{214}{}{好吧，好吧，我不想去那么多...}
 ### {215}{}{Why don't you want to let me in?}
 {215}{}{你为什么不让我进去？}
 ### {216}{}{There is no place for normies in the city of ghouls. You drove us into these ruins yourself.}
@@ -61,7 +61,7 @@
 ### {226}{}{I've already met this robot. He is no longer a danger to anyone.}
 {226}{}{我已经见过这个机器人了。他对任何人都不再是危险人物。}
 ### {227}{}{I'm not suicidal! It's better to go back to Sonora...}
-{227}{}{我没有自杀倾向！最好回到索诺拉。。。}
+{227}{}{我没有自杀倾向！最好回到索诺拉...}
 ### {228}{}{You will not cross the border until I give you permission.}
 {228}{}{除非我允许，否则你不会越过边境。}
 ### {229}{}{Robot. It is destroyed.}
@@ -95,7 +95,7 @@
 ### {241}{}{Show me the backpack. Are there any prohibited items?}
 {241}{}{让我看看背包。有违禁物品吗？}
 ### {242}{}{It depends on what is forbidden here...}
-{242}{}{这取决于这里禁止什么。。。}
+{242}{}{这取决于这里禁止什么...}
 ### {243}{}{I was joking! You can go to the camp.}
 {243}{}{我在开玩笑！你可以去营地。}
 ### {244}{}{Seriously?}

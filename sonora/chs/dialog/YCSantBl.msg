@@ -22,6 +22,6 @@
 ### {206}{}{We don't need Seth's seal! Otherwise, we would have received it long ago. Do you understand?}
 {206}{}{我们不需要赛斯的印章！否则，我们早就收到了。你明白吗？}
 ### {207}{}{It seems to be useless to talk to you. You only understand brute force...}
-{207}{}{和你说话似乎没用。你只懂暴力。。。}
+{207}{}{和你说话似乎没用。你只懂暴力...}
 ### {208}{}{[Leave]}
 {208}{}{[离开]}

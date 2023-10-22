@@ -32,7 +32,7 @@
 ### {200}{}{Hey, hey! Are you okay? Wake up!}
 {200}{}{嘿，嘿！你还好吗？醒醒}
 ### {201}{}{Thu... What happened?}
-{201}{}{周四。。。发生了什么？}
+{201}{}{周四...发生了什么？}
 ### {202}{}{You lost consciousness after the explosion. But everything seems to have worked out. I was afraid you didn't get my invitation.}
 {202}{}{爆炸后你失去了意识。但一切似乎都解决了。我担心你没有收到我的邀请。}
 ### {1202}{}{You lost consciousness after the explosion. But everything seems to have worked out. I was afraid you didn't get my invitation.}

@@ -63,9 +63,9 @@
 ### {253}{}{I'm asking you on behalf of the Rangers.}
 {253}{}{我代表游骑兵队问你。}
 ### {254}{}{Damn, another wasted day... Here, hold the handle. But you will twist it yourself.}
-{254}{}{该死，又浪费了一天。。。拿着把手。但你会自己扭转的。}
+{254}{}{该死，又浪费了一天...拿着把手。但你会自己扭转的。}
 ### {1254}{}{Damn, another wasted day... Here, hold the handle. But you will twist it yourself.}
-{1254}{}{该死，又浪费了一天。。。拿着把手。但你会自己扭转的。}
+{1254}{}{该死，又浪费了一天...拿着把手。但你会自己扭转的。}
 ### {255}{}{Thank you.}
 {255}{}{非常感谢。}
 ### {256}{}{Well, you're a rat after that.}

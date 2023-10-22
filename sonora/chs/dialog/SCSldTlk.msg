@@ -11,7 +11,7 @@
 ### {1200}{}{Hey, native. Even if you were given a pass, it does not mean that you can walk around the ship and distract people from their service.}
 {1200}{}{嘿，本地人。即使你得到了通行证，也不意味着你可以在船上走来走去，分散人们对服务的注意力。}
 ### {201}{}{I'm sorry, but I was terribly curious. This place is so unusual...}
-{201}{}{对不起，我当时很好奇。这个地方太不寻常了。。。}
+{201}{}{对不起，我当时很好奇。这个地方太不寻常了...}
 ### {202}{}{Impressive, right? A real ship. With a huge well-trained and armed team. Tell me, Native, have you come across anything more impressive? That's it.}
 {202}{}{令人印象深刻，对吧？一艘真正的船。拥有一支训练有素、全副武装的庞大队伍。告诉我，Native，你有没有遇到过更令人印象深刻的东西？就是这样。}
 ### {1202}{}{Impressive, right? A real ship. With a huge well-trained and armed team. Tell me, native, have you come across anything more impressive? That's it.}
@@ -94,15 +94,15 @@
 ### {259}{}{It was very rude.}
 {259}{}{这很粗鲁。}
 ### {260}{}{So, let's get started... Distribution... You... me... Your move.}
-{260}{}{所以，让我们开始吧。。。分配你我…你的举动。}
+{260}{}{所以，让我们开始吧...分配你我…你的举动。}
 ### {261}{}{We continue...}
-{261}{}{我们继续。。。}
+{261}{}{我们继续...}
 ### {262}{}{I give up.}
 {262}{}{我放弃了。}
 ### {263}{}{What? Did I lose to a wasteland brat? Damn, today is definitely not my day...}
-{263}{}{什么我输给了一个荒地顽童吗？该死，今天绝对不是我的日子。。。}
+{263}{}{什么我输给了一个荒地顽童吗？该死，今天绝对不是我的日子...}
 ### {1263}{}{What? Did I lose to a wasteland girl? Damn, today is definitely not my day...}
-{1263}{}{什么我输给一个荒地女孩了吗？该死，今天绝对不是我的日子。。。}
+{1263}{}{什么我输给一个荒地女孩了吗？该死，今天绝对不是我的日子...}
 ### {264}{}{Your card is broken, Knight Graham.}
 {264}{}{你的牌坏了，格雷厄姆骑士。}
 ### {265}{}{That should knock you down a little. Bye, loser.}
@@ -119,7 +119,7 @@
 ### {271}{}{If I keep losing my stocks, I'll be left in nothing but dirty leggings. Being a knight of the Brotherhood, I say "stop" to the game.}
 {271}{}{如果我的股票继续下跌，我将只剩下肮脏的紧身裤。作为兄弟会的骑士，我对游戏说“停止”。}
 ### {272}{}{Okay, whatever you say...}
-{272}{}{好吧，不管你说什么。。。}
+{272}{}{好吧，不管你说什么...}
 
 #Questions
 ### {280}{}{And whose kid is this running around the upper deck?}
@@ -150,7 +150,7 @@
 ### {293}{}{It sounds loud, but I don't hear much about you in Arizona.}
 {293}{}{听起来声音很大，但我在亚利桑那州很少听到你的消息。}
 ### {294}{}{But we are well known in California. They know and are afraid, because it was we who destroyed the Creator and his entire army. What, you don't know that? Good God, where is this country going...}
-{294}{}{但我们在加利福尼亚州很有名。他们知道并害怕，因为是我们摧毁了造物主和他的整个军队。什么，你不知道吗？天啊，这个国家要去哪里。。。}
+{294}{}{但我们在加利福尼亚州很有名。他们知道并害怕，因为是我们摧毁了造物主和他的整个军队。什么，你不知道吗？天啊，这个国家要去哪里...}
 ### {295}{}{I won't argue. But what have you done to be feared?}
 {295}{}{我不会争辩的。但是你做了什么让人害怕呢？}
 ### {296}{}{Here in Arizona, we have a lot to do, but the commoners don't know much about us yet. But in California, every mutt on the Wastelands knows that it was we who destroyed the Creator's army.}
@@ -240,11 +240,11 @@
 ### {343}{}{It was during your battles that his tower was torn off, right?}
 {343}{}{在你们的战斗中，他的塔被拆掉了，对吧？}
 ### {344}{}{What are you... Ah, well. Listen, we were on different patrols with him. And the tower was torn off for him already here. Therefore, he could get his injury anywhere.}
-{344}{}{你是什么。。。啊，好吧。听着，我们和他在不同的巡逻队。塔已经在这里为他拆除了。因此，他可能在任何地方受伤。}
+{344}{}{你是什么...啊，好吧。听着，我们和他在不同的巡逻队。塔已经在这里为他拆除了。因此，他可能在任何地方受伤。}
 ### {345}{}{He was talking about some kind of ash desert in hell. What do you think it means?}
 {345}{}{他说的是地狱里的灰烬沙漠。你认为这意味着什么？}
 ### {346}{}{An ash-colored desert? I don't even know... Although there is one place near Casa Nueva. Cement was mined there, so everything is gray.}
-{346}{}{灰白色的沙漠？我甚至不知道。。。尽管在努瓦之家附近有一个地方。那里开采了水泥，所以一切都是灰色的。}
+{346}{}{灰白色的沙漠？我甚至不知道...尽管在努瓦之家附近有一个地方。那里开采了水泥，所以一切都是灰色的。}
 ### {347}{}{Did you have a task there?}
 {347}{}{你在那里有任务吗？}
 ### {348}{}{I didn't tell you that, but at some point in the career, workers began to disappear. One by one. We were sent to deal with this problem.}

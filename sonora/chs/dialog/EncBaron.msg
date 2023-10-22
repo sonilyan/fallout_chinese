@@ -45,7 +45,7 @@
 {218}{}{[其他选项]}
 
 ### {220}{}{I am glad to welcome you into my ranks, noble man. Kneel down and say the words of the oath...}
-{220}{}{我很高兴欢迎你加入我的行列，贵族。跪下来，说出誓言。。。}
+{220}{}{我很高兴欢迎你加入我的行列，贵族。跪下来，说出誓言...}
 ### {221}{}{I swear to protect you and your possessions. [+1 Strength]}
 {221}{}{我发誓要保护你和你的财产。[+1力量]}
 ### {222}{}{I swear to be your loyal subject. [+1 Perception]}

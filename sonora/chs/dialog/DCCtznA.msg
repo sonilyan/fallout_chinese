@@ -79,7 +79,7 @@
 {149}{}{太阳不会在两个太阳里再次升起。从不}
 
 ### {150}{}{The big City beckons with lights... like fire beckons a moth.}
-{150}{}{大城市用灯光向你招手。。。就像火焰在召唤飞蛾。}
+{150}{}{大城市用灯光向你招手...就像火焰在召唤飞蛾。}
 ### {151}{}{I would like to see Phoenix.}
 {151}{}{我想去看凤凰城。}
 ### {152}{}{I've been hearing so much about Phoenix lately.}
@@ -87,7 +87,7 @@
 ### {153}{}{They say there's a casino in Phoenix. But I don't understand what it is.}
 {153}{}{他们说凤凰城有一家赌场。但我不明白这是什么。}
 ### {154}{}{The idea with the caps came from Phoenix. This has never happened before.}
-{154}{}{戴帽子的想法来自凤凰城。这种情况以前从未发生过。}
+{154}{}{戴瓶盖的想法来自凤凰城。这种情况以前从未发生过。}
 
 {155}{}{}
 ### {156}{}{Finally, the bathhouse is working again.}
@@ -104,7 +104,7 @@
 ### {162}{}{I don't understand these fire worshippers.}
 {162}{}{我不理解这些拜火者。}
 ### {163}{}{Fire worshippers, tinkerers, Blue Shields... Are we the only ones normal here?}
-{163}{}{火崇拜者，修修补补者，蓝盾。。。这里只有我们正常吗？}
+{163}{}{火崇拜者，修修补补者，蓝盾...这里只有我们正常吗？}
 ### {161}{}{That sectarian offered me writing lessons. Fool, hehe.}
 {161}{}{那个教派给我上了写作课。傻瓜，呵呵。}
 ### {164}{}{These fire worshippers seem to be pious, but they themselves have a sharp knife under their mantle.}
@@ -136,7 +136,7 @@
 ### {176}{}{We need to stick together. Otherwise we will end up the same as the others before us.}
 {176}{}{我们需要团结一致。否则，我们的结局将和我们之前的其他人一样。}
 ### {177}{}{Have you seen a stranger? If he finds out...}
-{177}{}{你见过陌生人吗？如果他发现了。。。}
+{177}{}{你见过陌生人吗？如果他发现了...}
 ### {178}{}{Don't talk about it. And, however, who cares?}
 {178}{}{不要谈论它。然而，谁在乎呢？}
 {179}{}{}

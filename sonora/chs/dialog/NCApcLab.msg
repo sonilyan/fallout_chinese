@@ -1,7 +1,7 @@
 ### {100}{}{This is Wang Chun.}
 {100}{}{这是王春。}
 ### {101}{}{You see a large spreading tree. The pattern on its bark reminds you of a man's face. Wait a minute...}
-{101}{}{你看到一棵蔓延的大树。树皮上的图案让你想起一张男人的脸。等一下。。。}
+{101}{}{你看到一棵蔓延的大树。树皮上的图案让你想起一张男人的脸。等一下...}
 ### {102}{}{*Cough-cough*}
 {102}{}{*咳嗽*}
 ### {103}{}{It's hard to talk in this smoke. We need to get out into the fresh air faster.}
@@ -28,7 +28,7 @@
 ### {119}{}{We need more fertilizers from human compost.}
 {119}{}{我们需要更多来自人类堆肥的肥料。}
 ### {120}{}{Oh-x...}
-{120}{}{哦。。。}
+{120}{}{哦...}
 ### {121}{}{*Heavy sigh*}
 {121}{}{*沉重的叹息*}
 
@@ -42,9 +42,9 @@
 {153}{}{用你锋利的爪子抓住它们！}
 
 ### {200}{}{Ah... uh... Wow. How long I slept... Oh, Mom. So that's why the servants woke me up.}
-{200}{}{啊。。。嗯哇！我睡了多久。。。哦，妈妈。这就是仆人叫醒我的原因。}
+{200}{}{啊...嗯哇！我睡了多久...哦，妈妈。这就是仆人叫醒我的原因。}
 ### {201}{}{Eh, who are you... or what are you?}
-{201}{}{呃，你是谁。。。或者你是什么？}
+{201}{}{呃，你是谁...或者你是什么？}
 ### {202}{}{Horror! A talking plant!}
 {202}{}{恐怖会说话的植物！}
 ### {203}{}{I am Wang Chun, the scientist who created these gardens of paradise. And who are you? Oh, yes, I know. People like you flock to the smell of nectar, like stupid dummies, so that soon they will be eaten by predatory plants. In any case, coming here is a big mistake on your part.}
@@ -74,7 +74,7 @@
 ### {215}{}{I don't want to be exposed to the same infection. Is there any medicine against it?}
 {215}{}{我不想暴露在同样的感染之下。有特效药吗？}
 ### {216}{}{And what is "contagion"? People parasitizing on the remnants of an old civilization? Oh, how blind I was when I came to this dome hoping to taste the fruits of the Ancients! I was in too much of a hurry and made a number of mistakes. Now the whole valley is a paradise for mutants. And if this is not stopped, the whole wasteland will change. And people... there will be no place for people in this new world.}
-{216}{}{什么是“传染”？寄生在旧文明残余上的人？哦，当我来到这个圆顶，希望品尝古人的果实时，我是多么的盲目！我太匆忙了，犯了很多错误。现在整个山谷都是变种人的天堂。如果不停止这种做法，整个荒原就会改变。人们。。。在这个新世界里，人们将没有立足之地。}
+{216}{}{什么是“传染”？寄生在旧文明残余上的人？哦，当我来到这个圆顶，希望品尝古人的果实时，我是多么的盲目！我太匆忙了，犯了很多错误。现在整个山谷都是变种人的天堂。如果不停止这种做法，整个荒原就会改变。人们...在这个新世界里，人们将没有立足之地。}
 ### {217}{}{How so? Can't this infection be stopped?}
 {217}{}{为什么呢这种感染不能被阻止吗？}
 ### {218}{}{May. But if the Followers receive laboratory records and other materials of the complex, someday they will continue their research. And the trouble will happen again.}

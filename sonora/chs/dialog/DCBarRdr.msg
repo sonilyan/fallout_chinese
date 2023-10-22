@@ -8,7 +8,7 @@
 ### {111}{}{We are not here from a good life.}
 {111}{}{我们不是从美好的生活来到这里的。}
 ### {112}{}{Let the count count the caps if he wants to see his daughter alive.}
-{112}{}{如果伯爵想看到他的女儿活着，就让他数帽子吧。}
+{112}{}{如果伯爵想看到他的女儿活着，就让他数瓶盖吧。}
 ### {113}{}{I don't want to dirty my hands about the girl, but someone has to do it.}
 {113}{}{我不想因为这个女孩而弄脏我的手，但总得有人来做。}
 ### {114}{}{What did Bustos decide? Come on, spit it out.}

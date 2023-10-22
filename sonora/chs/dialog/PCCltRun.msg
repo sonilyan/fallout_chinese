@@ -43,7 +43,7 @@
 ### {207}{}{It is doubtful that the explosion alone scared you. Were you addicted to a cult?}
 {207}{}{单是爆炸就吓到你了，这是值得怀疑的。你对邪教上瘾了吗？}
 ### {208}{}{(exchanging glances) It doesn't matter anymore... Our close relatives were members of the cult, so we occupied a special place in this city. Others looked at us with envy. But now there is no one to protect us, the townspeople have turned against the cult. If we stay, the city will not forgive this.}
-{208}{}{（交换眼神）这已经不重要了。。。我们的近亲都是邪教的成员，所以我们在这个城市占据了一个特殊的位置。其他人羡慕地看着我们。但现在没有人来保护我们，镇上的人已经反对邪教了。如果我们留下来，这座城市将不会原谅我们。}
+{208}{}{（交换眼神）这已经不重要了...我们的近亲都是邪教的成员，所以我们在这个城市占据了一个特殊的位置。其他人羡慕地看着我们。但现在没有人来保护我们，镇上的人已经反对邪教了。如果我们留下来，这座城市将不会原谅我们。}
 ### {209}{}{It looks like you really don't have a choice. Good luck on the way.}
 {209}{}{看起来你真的别无选择。祝你好运。}
 ### {210}{}{Well, that's right. Get out of Phoenix, you arrogant bastards.}

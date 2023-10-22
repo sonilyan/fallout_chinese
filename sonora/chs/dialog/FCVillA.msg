@@ -3,7 +3,7 @@
 ### {101}{}{You see a slave. If you look closely, you will recognize in his dirty, emaciated face your fellow tribesman.}
 {101}{}{你看到一个奴隶。如果你仔细看，你会从他那张又脏又瘦的脸上认出你的部落同胞。}
 ### {102}{}{Oops, I hope no one at the Villa finds out about this...}
-{102}{}{哎呀，我希望别墅里没有人知道这件事。。。}
+{102}{}{哎呀，我希望别墅里没有人知道这件事...}
 ### {103}{}{The traitor! You're possessed by Diablo!}
 {103}{}{叛徒！你被暗黑破坏神附身了！}
 ### {104}{}{Now Sancho will not be able to return to the Villa.}

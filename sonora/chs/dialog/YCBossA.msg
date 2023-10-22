@@ -56,7 +56,7 @@
 ### {216}{}{Too many words, normie. Get back to the nuclear wasteland! We don't need you.}
 {216}{}{太多的话了，诺米。回到核荒原！我们不需要你。}
 ### {217}{}{Oh, oh...}
-{217}{}{哦，哦。。。}
+{217}{}{哦，哦...}
 ### {218}{}{After the incident at the border, the conversation with you will be short. What do you need?}
 {218}{}{边境事件发生后，与你的谈话会很简短。你需要什么？}
 ### {219}{}{What is the incident? I don't know!}
@@ -80,7 +80,7 @@
 ### {226}{}{You have no right to set boundaries. This wasteland is for everyone, not just you.}
 {226}{}{你无权设定界限。这片荒地适合所有人，而不仅仅是你。}
 ### {227}{}{We just want to live like normal people. Without wars. Without grandiose missions to save humanity. You may not understand this. But since you're here, you don't have much choice ? to redeem yourself or... die.}
-{227}{}{我们只想像普通人一样生活。没有战争。没有拯救人类的宏伟使命。你可能不理解这一点。但既然你来了，你就别无选择了? 救赎自己或者。。。死亡}
+{227}{}{我们只想像普通人一样生活。没有战争。没有拯救人类的宏伟使命。你可能不理解这一点。但既然你来了，你就别无选择了? 救赎自己或者...死亡}
 ### {228}{}{I choose death. Your death!}
 {228}{}{我选择死亡。你的死！}
 ### {229}{}{Shall we try to negotiate? By the way, we haven't introduced ourselves yet.}
@@ -96,7 +96,7 @@
 ### {234}{}{To live here, you have to work. Even a mutant like you should understand that. We have enough freeloaders without you.}
 {234}{}{要在这里生活，你必须工作。即使是像你这样的变种人也应该明白这一点。没有你，我们的白吃者已经够多了。}
 ### {235}{}{I understand...}
-{235}{}{我明白。。。}
+{235}{}{我明白...}
 ### {236}{}{Any ideas how to fix a radio station?}
 {236}{}{你知道如何修理一个电台吗？}
 
@@ -129,9 +129,9 @@
 ### {262}{}{The power plant is working.}
 {262}{}{发电厂正在运转。}
 ### {263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job, amigo. Let me hug you and thank you. There are 1000 caps here.}
-{263}{}{光辉再次闪耀！圣伊西德罗和老城区已恢复供电。你做得很好，朋友。让我拥抱你，谢谢你。这里有1000顶帽子。}
+{263}{}{光辉再次闪耀！圣伊西德罗和老城区已恢复供电。你做得很好，朋友。让我拥抱你，谢谢你。这里有1000个瓶盖。}
 ### {1263}{}{The Glow is shining again! Electricity has returned to San Isidro and the Old Town. You've done a great job. Let me hug you and thank you. There are 1000 caps here.}
-{1263}{}{光辉再次闪耀！圣伊西德罗和老城区已恢复供电。你做得很好。让我拥抱你，谢谢你。这里有1000顶帽子。}
+{1263}{}{光辉再次闪耀！圣伊西德罗和老城区已恢复供电。你做得很好。让我拥抱你，谢谢你。这里有1000个瓶盖。}
 ### {264}{}{Thank you.}
 {264}{}{非常感谢。}
 ### {265}{}{Not bad.}
@@ -167,7 +167,7 @@
 ### {278}{}{Let's just not hug, okay?}
 {278}{}{我们不要拥抱，好吗？}
 ### {279}{}{Let's not waste time. Here are 500 caps for the job. And now I'm asking you to take this holodisk to Mayor Butler in the Old Town. This is very important.}
-{279}{}{我们不要浪费时间。这是这份工作的500顶帽子。现在我请你把这个全息图带给老城区的巴特勒市长。这一点非常重要。}
+{279}{}{我们不要浪费时间。这是这份工作的500个瓶盖。现在我请你把这个全息图带给老城区的巴特勒市长。这一点非常重要。}
 ### {280}{}{And that's all? After my past cases, this will turn out to be an easy walk.}
 {280}{}{仅此而已？在我过去的案例之后，这将是一次轻松的行走。}
 ### {281}{}{Ahead of you are waiting for the gloomy ruins of San Diego. There are many dangers lurking in them. Be careful. And ask Edward for supplies for the journey.}
@@ -187,7 +187,7 @@
 ### {1287}{}{Be so kind ? don't die on the way.}
 {1287}{}{真善良? 不要死在路上。}
 ### {288}{}{I'll try...}
-{288}{}{我会试试。。。}
+{288}{}{我会试试...}
 ### {289}{}{I will try to answer.}
 {289}{}{我会尽力回答的。}
 ### {290}{}{Is it that important to you?}
@@ -197,7 +197,7 @@
 ### {292}{}{And what is recorded on this disc?}
 {292}{}{这张光盘上记录了什么？}
 ### {293}{}{First, the data is for radio broadcasts so that we can communicate at a distance. And secondly... Secondly, some warnings to my brother so that he doesn't make big mistakes.}
-{293}{}{首先，这些数据是用于无线电广播的，这样我们就可以远距离通信。其次。。。其次，给我弟弟一些警告，这样他就不会犯大错误。}
+{293}{}{首先，这些数据是用于无线电广播的，这样我们就可以远距离通信。其次...其次，给我弟弟一些警告，这样他就不会犯大错误。}
 
 
 ### {296}{}{How to get to the power plant?}
@@ -279,7 +279,7 @@
 ### {1356}{}{I knew you'd say that, so I took these chips with me in advance. Here they are.}
 {1356}{}{我知道你会这么说，所以我提前带上了这些筹码。它们在这儿。}
 ### {357}{}{Thank you. Here are 1000 caps for the job. The plant will also serve us. You can't leave him to be torn to pieces. I think you should personally tell John that the plant is under my control and that I will not give him the chips.}
-{357}{}{非常感谢。这是这份工作的1000顶帽子。植物也会为我们服务。你不能让他被撕成碎片。我认为你应该亲自告诉约翰，工厂在我的控制之下，我不会给他筹码。}
+{357}{}{非常感谢。这是这份工作的1000个瓶盖。植物也会为我们服务。你不能让他被撕成碎片。我认为你应该亲自告诉约翰，工厂在我的控制之下，我不会给他筹码。}
 ### {358}{}{Okay.}
 {358}{}{可以}
 ### {359}{}{Here are the chips that Butler wanted to sell. But he won't be able to.}
@@ -298,7 +298,7 @@
 {365}{}{好啊}
 
 ### {370}{}{Butler is going to open a military base on the island...}
-{370}{}{巴特勒将在岛上开设一个军事基地。。。}
+{370}{}{巴特勒将在岛上开设一个军事基地...}
 ### {371}{}{He's making a mistake! He will sell most of the finds to people! And this will provoke a big redistribution in human settlements. As soon as the war with super mutants has subsided, the battles for old technologies will begin again. Normies don't understand how to handle the legacy of the Old World. Besides, they can use it against us. Technology should stay for free! We need them more. And we know better how to use them.}
 {371}{}{他犯了一个错误！他会把大部分的发现卖给别人！这将引发人类住区的大规模再分配。一旦与超级变种人的战争平息，争夺旧技术的斗争将再次开始。正常人不知道如何处理旧世界的遗产。此外，他们可以用它来对付我们。技术应该是免费的！我们更需要他们。我们更清楚如何使用它们。}
 ### {372}{}{What are you going to do?}

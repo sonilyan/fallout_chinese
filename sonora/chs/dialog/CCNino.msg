@@ -62,7 +62,7 @@
 ### {237}{}{Is it bad?}
 {237}{}{这很糟糕吗？}
 ### {238}{}{You're a gringo, you don't understand anything! If she wears a crown, then I won't even be able to get close to her. And I... I'm her...}
-{238}{}{你是个外国佬，什么都不懂！如果她戴着王冠，那么我甚至都无法靠近她。而我…我就是她。。。}
+{238}{}{你是个外国佬，什么都不懂！如果她戴着王冠，那么我甚至都无法靠近她。而我…我就是她...}
 ### {239}{}{Boy, I think you're being selfish.}
 {239}{}{天啊，我觉得你太自私了。}
 ### {240}{}{Maybe so. I don't care!}

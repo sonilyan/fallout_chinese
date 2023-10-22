@@ -22,7 +22,7 @@
 ### {210}{}{Vault-Tec Vault Search.}
 {210}{}{Vault Tec Vault搜索。}
 ### {211}{}{According to the latest data, Vault-Tec Vaults with numbers 25-28 may be located in the vicinity of Phoenix. The General Staff of the Brotherhood of Steel ordered to find all these Vaults, study the situation and use the resources and equipment available there for self-sufficiency or export to the General Staff.}
-{211}{}{根据最新数据，编号为25-28的Vault Tec Vault可能位于菲尼克斯附近。钢铁兄弟会总参谋部下令找到所有这些金库，研究情况，并利用那里可用的资源和设备自给自足或出口给总参谋部。}
+{211}{}{根据最新数据，编号为25-28的Vault Tec Vault可能位于菲尼克斯附近。钢铁兄弟会总参谋部下令找到所有这些避难所，研究情况，并利用那里可用的资源和设备自给自足或出口给总参谋部。}
 ### {212}{}{}
 {212}{}{error : string is empty}
 ### {213}{}{}
@@ -34,17 +34,17 @@
 ### {216}{}{Vault 25.}
 {216}{}{保险库25。}
 ### {217}{}{The Vault was found in Phoenix and is in perfect condition. It is currently under the control of the Brotherhood of Steel and is used as a base for the Cathedral of Fire. Some equipment has been dismantled and taken to the outpost in Puerto Penasco.}
-{217}{}{金库是在凤凰城发现的，目前状况良好。它目前由钢铁兄弟会控制，并被用作火之大教堂的基地。一些设备已被拆除，并被送往佩纳斯科港的前哨基地。}
+{217}{}{避难所是在凤凰城发现的，目前状况良好。它目前由钢铁兄弟会控制，并被用作火之大教堂的基地。一些设备已被拆除，并被送往佩纳斯科港的前哨基地。}
 ### {218}{}{Vault 26.}
 {218}{}{保险库26。}
 ### {219}{}{The remains of the Vault were found to the west of Phoenix. Due to the severe damage sustained during the nuclear bombing, the Vault, along with its equipment, fell into complete disrepair.}
-{219}{}{金库的遗迹是在凤凰城的西面发现的。由于核轰炸期间受到严重破坏，金库及其设备年久失修。}
+{219}{}{避难所的遗迹是在凤凰城的西面发现的。由于核轰炸期间受到严重破坏，避难所及其设备年久失修。}
 ### {220}{}{Vault 27.}
 {220}{}{保险库27。}
 ### {221}{}{There is information about the location of the Vault. At the moment, the search and excavation of the Vault is underway by the forces of the Cathedral of Fire under the leadership of Paladin Ulysses Grant.}
-{221}{}{有关于Vault位置的信息。目前，在圣骑士尤利西斯·格兰特的领导下，火之大教堂的部队正在对金库进行搜索和挖掘。}
+{221}{}{有关于Vault位置的信息。目前，在圣骑士尤利西斯·格兰特的领导下，火之大教堂的部队正在对避难所进行搜索和挖掘。}
 ### {222}{}{Vault 28.}
-{222}{}{金库28。}
+{222}{}{避难所28。}
 ### {223}{}{The location and condition of the Vault are unknown.}
 {223}{}{Vault的位置和状况未知。}
 

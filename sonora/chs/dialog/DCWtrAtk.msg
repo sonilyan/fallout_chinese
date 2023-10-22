@@ -15,11 +15,11 @@
 {114}{}{很抱歉我不知道发生了什么事。}
 
 ### {120}{}{Again? I told you - no water without...}
-{120}{}{再一次我告诉过你——没有水就没有。。。}
+{120}{}{再一次我告诉过你——没有水就没有...}
 ### {121}{}{Shut up. You TOOK the water from the residents.}
 {121}{}{闭嘴。你从居民那里偷水。}
 ### {122}{}{What are you talking about? You should wash your mouth with soap...}
-{122}{}{你在说什么？你应该用肥皂漱口。。。}
+{122}{}{你在说什么？你应该用肥皂漱口...}
 ### {123}{}{Give me the water. Immediately.}
 {123}{}{把水给我。立即}
 ### {124}{}{Get out of my hangar, you piece of dirt.}
@@ -54,12 +54,12 @@
 ### {209}{}{Calm down, my friend, it's not worth such sacrifices.}
 {209}{}{冷静点，我的朋友，这样的牺牲不值得。}
 ### {210}{}{Sacrifices. What do you know about the victims? Crowds of people lay down in the ground for the sake of this cursed water. I have nothing left to lose...}
-{210}{}{牺牲。你对受害者了解多少？为了这被诅咒的水，成群的人躺在地上。我没有什么可失去的了。。。}
+{210}{}{牺牲。你对受害者了解多少？为了这被诅咒的水，成群的人躺在地上。我没有什么可失去的了...}
 ### {211}{}{Okay, if you say so. Come on, kick his ass.}
 {211}{}{好吧，如果你这么说的话。来吧，踢他的屁股。}
 ### {212}{}{It's all in the past. No need for new victims.}
 {212}{}{一切都过去了。不需要新的受害者。}
 ### {213}{}{(looks around in confusion, then looks at his sledgehammer) God... I think I've completely lost my head. Me... I need to collect my thoughts.}
-{213}{}{（困惑地环顾四周，然后看着他的大锤）上帝。。。我想我已经完全失去理智了。我…我需要收集我的想法。}
+{213}{}{（困惑地环顾四周，然后看着他的大锤）上帝...我想我已经完全失去理智了。我…我需要收集我的想法。}
 ### {214}{}{That's for sure.}
 {214}{}{这是肯定的。}

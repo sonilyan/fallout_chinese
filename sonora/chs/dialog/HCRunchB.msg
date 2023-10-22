@@ -9,10 +9,10 @@
 ### {104}{}{A woman is crazy about new shoes.}
 {104}{}{一个女人迷上了新鞋。}
 ### {105}{}{Thank you very much! It's so hard to find shoes in these desolate lands...}
-{105}{}{非常感谢！在这些荒凉的土地上很难找到鞋子。。。}
+{105}{}{非常感谢！在这些荒凉的土地上很难找到鞋子...}
 
 ### {110}{}{And... what... Honey, check it out... *yawn* door...}
-{110}{}{和什么亲爱的，看看*打哈欠*门。。。}
+{110}{}{和什么亲爱的，看看*打哈欠*门...}
 ### {111}{}{Eh... que... Querido, mira... *yawn* la puerta.}
 {111}{}{呃…que…Querido，mira*打呵欠。}
 ### {112}{}{Get out, you damn gringo!}

@@ -25,11 +25,11 @@
 ### {206}{}{Yeah. And what will happen to me if I tell you?}
 {206}{}{是 啊如果我告诉你，我会怎么样？}
 ### {207}{}{I'll give you some food. Wait, I'll get something now...}
-{207}{}{我给你一些食物。等等，我现在就拿点东西。。。}
+{207}{}{我给你一些食物。等等，我现在就拿点东西...}
 ### {208}{}{You've already had enough food. Now tell me.}
 {208}{}{你已经吃够了。现在告诉我。}
 ### {209}{}{Here are ten caps for your food.}
-{209}{}{这是你的食物的十顶帽子。}
+{209}{}{这是你的食物的十个瓶盖。}
 ### {210}{}{Oh, thank you very much.}
 {210}{}{哦，非常感谢。}
 ### {211}{}{Now tell me.}

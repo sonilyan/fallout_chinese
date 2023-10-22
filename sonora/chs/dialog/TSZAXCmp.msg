@@ -36,6 +36,6 @@
 ### {217}{}{Please, for security reasons, disconnect this terminal and take away the access cards.}
 {217}{}{出于安全考虑，请断开此终端的连接并拿走访问卡。}
 ### {218}{}{I'm launching an emergency protocol...}
-{218}{}{我正在启动一项紧急协议。。。}
+{218}{}{我正在启动一项紧急协议...}
 ### {219}{}{Come on, do it, you damn piece of hardware!}
 {219}{}{来吧，干吧，你这个该死的硬件！}

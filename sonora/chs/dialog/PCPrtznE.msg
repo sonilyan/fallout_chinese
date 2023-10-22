@@ -31,11 +31,11 @@
 ### {209}{}{Are you threatening me with a piece of rusty pipe? Get out of the way, mummers.}
 {209}{}{你用一根生锈的管子威胁我吗？让开，妈妈们。}
 ### {210}{}{Okay, okay...}
-{210}{}{好吧，好吧。。。}
+{210}{}{好吧，好吧...}
 ### {211}{}{You again? In the name of the Sacred Fire, go away.}
 {211}{}{你又来了？以圣火的名义，走开。}
 ### {212}{}{Okay, okay...}
-{212}{}{好吧，好吧。。。}
+{212}{}{好吧，好吧...}
 
 ### {220}{}{I have a meeting with a guy. Have you seen him?}
 {220}{}{我要和一个男人见面。你见过他吗？}
@@ -46,13 +46,13 @@
 ### {223}{}{Stay out of trouble, scavenger. Go on digging in your dirt.}
 {223}{}{远离麻烦，拾荒者。继续挖掘你的泥土。}
 ### {224}{}{Uh, okay...}
-{224}{}{好吧。。。}
+{224}{}{好吧...}
 ### {225}{}{Now you will pay cruelly for your insults, you mummified pig-rat.}
 {225}{}{现在你将为你的侮辱付出残酷的代价，你这个木乃伊猪老鼠。}
 ### {226}{}{I don't believe your lying words. Get on your knees, atomic creature...}
-{226}{}{我不相信你的谎话。跪下来，原子生物。。。}
+{226}{}{我不相信你的谎话。跪下来，原子生物...}
 ### {227}{}{Hey, no hands...}
-{227}{}{嘿，没有手。。。}
+{227}{}{嘿，没有手...}
 ### {228}{}{Spy? No, we're just looking for useful things with him in the ruins.}
 {228}{}{间谍不，我们只是在废墟中和他一起寻找有用的东西。}
 ### {229}{}{Spy? No, you were wrong.}
@@ -64,9 +64,9 @@
 ### {232}{}{Don't you dare talk about what happened here. And fear the Sacred Fire.}
 {232}{}{你不敢谈论这里发生的事。害怕圣火。}
 ### {233}{}{Yes, yes, uh, of course...}
-{233}{}{是的，是的，嗯，当然。。。}
+{233}{}{是的，是的，嗯，当然...}
 ### {234}{}{Oh, oh...}
-{234}{}{哦，哦。。。}
+{234}{}{哦，哦...}
 
 ### {250}{}{Dedicated? What are you doing here?}
 {250}{}{献身的你在这里干什么？}
@@ -86,8 +86,8 @@
 ### {262}{}{Just looking for ancient relics. See you, brother.}
 {262}{}{只是在寻找古代遗迹。再见，兄弟。}
 ### {263}{}{Dedicated? No, I don't even know what...}
-{263}{}{献身的不，我甚至不知道。。。}
+{263}{}{献身的不，我甚至不知道...}
 ### {264}{}{It's a spy! Grab him, brothers!}
 {264}{}{这是个间谍！抓住他，兄弟们！}
 ### {265}{}{Oh, oh...}
-{265}{}{哦，哦。。。}
+{265}{}{哦，哦...}

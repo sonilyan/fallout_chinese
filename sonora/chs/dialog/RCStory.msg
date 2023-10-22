@@ -15,7 +15,7 @@
 ### {202}{}{Well, I've been patrolling in other directions. But I heard something about the Villa. Is it about you who was told that you grow crops in the middle of a barren desert? Surprisingly. I thought it was the usual bullshit you hear in the dining room.}
 {202}{}{嗯，我一直在其他方向巡逻。但我听说了一些关于别墅的事。是关于你被告知在贫瘠的沙漠中种植作物吗？惊人地我以为这是你在餐厅里经常听到的废话。}
 ### {203}{}{And you...}
-{203}{}{而你。。。}
+{203}{}{而你...}
 ### {204}{}{None of your business.}
 {204}{}{不关你的事。}
 ### {205}{}{Hey, I wasn't rude to you, was I? But I understand your distrust. If you don't want to, don't tell me.}
@@ -82,7 +82,7 @@
 ### {242}{}{Seriously? I would be grateful. But do you really know what to do?}
 {242}{}{认真地我将不胜感激。但你真的知道该怎么办吗？}
 ### {243}{}{Let me see...}
-{243}{}{让我看看。。。}
+{243}{}{让我看看...}
 ### {244}{}{Use medical skills or medications to treat the injury.}
 {244}{}{使用医疗技能或药物治疗损伤。}
 
@@ -120,7 +120,7 @@
 ### {283}{}{There are also rumors about pitiful hypnotic butterflies and armadillos that use old cars as a shell. But I myself have only met wolves, lizards and rodents of all stripes.}
 {283}{}{也有传言说可怜的催眠蝴蝶和以旧车为壳的armadillos。但我自己只见过各种各样的狼、蜥蜴和啮齿动物。}
 ### {284}{}{Thanks for the story. It was very... informative.}
-{284}{}{谢谢你的故事。非常。。。提供有用信息的}
+{284}{}{谢谢你的故事。非常...提供有用信息的}
 ### {285}{}{Don't lose your vigilance.}
 {285}{}{不要失去警惕。}
 ### {286}{}{Let's chat a little more.}
@@ -233,7 +233,7 @@
 ### {361}{}{I can only show this stump of a spear that was sticking out of the shell.}
 {361}{}{我只能展示这个从外壳里伸出来的长矛残端。}
 ### {362}{}{Damn me! I remember him... Did you really manage to defeat this monster? But... how?}
-{362}{}{该死的！我记得他。。。你真的打败了这个怪物吗？但是怎样}
+{362}{}{该死的！我记得他...你真的打败了这个怪物吗？但是怎样}
 ### {363}{}{He is big, but clumsy.}
 {363}{}{他个子很大，但很笨拙。}
 ### {364}{}{There is no price for people like you. Here, take some cartridges from me and this old revolver as a token of appreciation. Don't be modest, I have something to shoot back from mutants in the desert. Thank you again.}

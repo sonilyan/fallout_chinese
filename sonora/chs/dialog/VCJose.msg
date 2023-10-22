@@ -103,7 +103,7 @@
 {252}{}{我得走了。}
 
 ### {253}{}{There are a few questions... No, a lot of questions.}
-{253}{}{有几个问题。。。不，有很多问题。}
+{253}{}{有几个问题...不，有很多问题。}
 ### {254}{}{Ask me anything.}
 {254}{}{问我任何事。}
 ### {255}{}{What do you know about the world outside the Villa?}
@@ -134,7 +134,7 @@
 ### {267}{}{Who are the Rangers?}
 {267}{}{游骑兵队是谁？}
 ### {268}{}{Cool and self-confident guys. They say they are protecting us from the villains, but who will understand what they have in mind? Sometimes they come to show themselves, but we can cope without their help... and you know, now such help would be very useful to us.}
-{268}{}{酷而自信的家伙。他们说他们在保护我们免受恶棍的伤害，但谁能理解他们的想法呢？有时他们来展示自己，但没有他们的帮助，我们可以应付。。。你知道，现在这样的帮助对我们非常有用。}
+{268}{}{酷而自信的家伙。他们说他们在保护我们免受恶棍的伤害，但谁能理解他们的想法呢？有时他们来展示自己，但没有他们的帮助，我们可以应付...你知道，现在这样的帮助对我们非常有用。}
 ### {269}{}{If you haven't been, who has?}
 {269}{}{如果你没有去过，谁去过？}
 ### {270}{}{Your Uncle Miguel, for example. He once quarreled with your padre and left the Villa. Haven't heard of him for years.}
@@ -198,15 +198,15 @@
 ### {297}{}{Eh?}
 {297}{}{呃？}
 ### {298}{}{Well, just so much has happened... Oh well, forget it.}
-{298}{}{好吧，只是发生了这么多。。。哦，算了吧。}
+{298}{}{好吧，只是发生了这么多...哦，算了吧。}
 ### {299}{}{You're not having fun, Jose. You can't have fun. People died, others were driven into slavery, the Villa was ruined... Stop pretending you're having fun.}
-{299}{}{你玩得不开心，何塞。你不能玩得开心。有人死了，其他人沦为奴隶，别墅被毁。。。别再假装你玩得很开心了。}
+{299}{}{你玩得不开心，何塞。你不能玩得开心。有人死了，其他人沦为奴隶，别墅被毁...别再假装你玩得很开心了。}
 ### {300}{}{(lip trembling) Amigo... Why are you so...}
-{300}{}{（嘴唇颤抖）Amigo。。。你为什么这么。。。}
+{300}{}{（嘴唇颤抖）Amigo...你为什么这么...}
 ### {301}{}{And now go cry...}
-{301}{}{现在哭吧。。。}
+{301}{}{现在哭吧...}
 ### {302}{}{It's okay, Uncle, just give free rein to your feelings, you don't have to keep them to yourself...}
-{302}{}{没关系，叔叔，放开你的感情，你不必把它们留给自己。。。}
+{302}{}{没关系，叔叔，放开你的感情，你不必把它们留给自己...}
 ### {303}{}{What are you talking about?}
 {303}{}{你在说什么？}
 
@@ -254,7 +254,7 @@
 ### {355}{}{Well, if you think about it, then after the return of our people, I could use a detente. But keep in mind - I will not give in.}
 {355}{}{好吧，如果你仔细想想，那么在我们的人民返回后，我可以缓和一下。但请记住，我不会屈服的。}
 ### {356}{}{Great, get out the board and lay out the dice...}
-{356}{}{太好了，拿出棋盘来掷骰子。。。}
+{356}{}{太好了，拿出棋盘来掷骰子...}
 ### {357}{}{Playing with you is just wasting time. Let's have a chat.}
 {357}{}{和你一起玩只是在浪费时间。我们聊聊吧。}
 ### {358}{}{You know, now is not the best time. I'll come play later.}

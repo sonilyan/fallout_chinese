@@ -32,4 +32,4 @@
 ### {205}{}{Then move over, little ones, this is a case for real pros.}
 {205}{}{然后转移，小家伙，这是一个真正的专业人士的情况。}
 ### {206}{}{No, kid, it was a big pig-rat...}
-{206}{}{不，孩子，那是一只大猪鼠。。。}
+{206}{}{不，孩子，那是一只大猪鼠...}

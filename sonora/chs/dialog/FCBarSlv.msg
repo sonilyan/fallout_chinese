@@ -45,27 +45,27 @@
 {209}{}{这很不愉快。你想打架吗？所以，抓住它！}
 
 ### {210}{}{What about? The way you talk to me, you empty shit! Now you will beg for mercy from me...}
-{210}{}{那么...怎么样你跟我说话的方式，你这个废物！现在你要向我求饶。。。}
+{210}{}{那么...怎么样你跟我说话的方式，你这个废物！现在你要向我求饶...}
 ### {211}{}{Just don't hit me in the face...}
-{211}{}{只是不要打我的脸。。。}
+{211}{}{只是不要打我的脸...}
 ### {212}{}{Great, show me what you're capable of.}
 {212}{}{太好了，让我看看你的能力。}
 
 ### {213}{}{I work for him too. So shut up.}
 {213}{}{我也为他工作。所以闭嘴。}
 ### {214}{}{ (through his teeth) W-damn... (returns to his bottle and looks dejectedly at the table)}
-{214}{}{（透过他的牙齿）该死的。。。（回到瓶子旁，沮丧地看着桌子）}
+{214}{}{（透过他的牙齿）该死的...（回到瓶子旁，沮丧地看着桌子）}
 ### {215}{}{That's it.}
 {215}{}{就是这样。}
 
 ### {216}{}{Faber is dead! Do you hear? He's dead!}
 {216}{}{费伯死了！你听到了吗？他死了！}
 ### {217}{}{Yes, yes, uh, I hear, calm down...}
-{217}{}{是的，是的，嗯，我听说了，冷静点。。。}
+{217}{}{是的，是的，嗯，我听说了，冷静点...}
 ### {218}{}{I found something to be proud of. You get off on drunks in a bar just because you're a six, right?}
 {218}{}{我找到了值得骄傲的东西。你在酒吧里因为你是六岁的孩子就对醉汉大发雷霆，对吧？}
 ### {219}{}{Well, no. I'm just... me... Go to hell!}
-{219}{}{不，我只是。。。我…去死吧！}
+{219}{}{不，我只是...我…去死吧！}
 
 ### {220}{}{What do I need?}
 {220}{}{我需要什么？}

@@ -63,7 +63,7 @@
 ### {228}{}{Do you accept bottle caps?}
 {228}{}{你接受瓶盖吗？}
 ### {229}{}{What are you talking about? Why do I need caps? Leave this nonsense. I would never believe that people in cities are exchanging for these useless things. We always threw them away like garbage.}
-{229}{}{你在说什么？为什么我需要帽子？别胡说八道了。我永远不会相信城市里的人们在用这些无用的东西交换。我们总是把它们像垃圾一样扔掉。}
+{229}{}{你在说什么？为什么我需要瓶盖？别胡说八道了。我永远不会相信城市里的人们在用这些无用的东西交换。我们总是把它们像垃圾一样扔掉。}
 ### {230}{}{Do you mind chatting about something else?}
 {230}{}{你介意聊点别的吗？}
 ### {231}{}{Something else?}
@@ -80,7 +80,7 @@
 ### {252}{}{What do you understand? We live in the middle of the desert, where there is nothing - no crops, no animals, no settlements. Rare travelers are the only way to survive in such difficult conditions.}
 {252}{}{你明白什么？我们生活在沙漠中央，那里什么都没有——没有农作物，没有动物，没有定居点。罕见的旅行者是在如此困难的条件下生存的唯一途径。}
 ### {253}{}{So why not get out of this hell? Somewhere in the distance there are whole cities...}
-{253}{}{那为什么不离开这个地狱呢？远处的某个地方有整座城市。。。}
+{253}{}{那为什么不离开这个地狱呢？远处的某个地方有整座城市...}
 ### {254}{}{Nonsense! You all tell these stories, but they are all different. I don't trust outsiders anymore. To leave this cafe, where you have lived all your life, for the sake of dubious stories is certain death. And we want to live.}
 {254}{}{胡说你们都讲这些故事，但它们都不一样。我不再相信外人了。离开这家你生活了一辈子的咖啡馆，为了一些可疑的故事，肯定是死亡。我们想活下去。}
 ### {255}{}{So you're just a fool.}
@@ -90,9 +90,9 @@
 ### {257}{}{Hey...}
 {257}{}{嘿}
 ### {258}{}{Exactly. You had a chance before. And now it's too late, you fool...}
-{258}{}{确切地你以前有机会。现在已经太晚了，你这个傻瓜。。。}
+{258}{}{确切地你以前有机会。现在已经太晚了，你这个傻瓜...}
 ### {1258}{}{Exactly. You had a chance before. And now it's too late, stupid...}
-{1258}{}{确切地你以前有机会。现在已经太晚了，愚蠢的。。。}
+{1258}{}{确切地你以前有机会。现在已经太晚了，愚蠢的...}
 ### {259}{}{So, how do you survive in this barren desert - kill travelers and make a kebab out of them?}
 {259}{}{那么，你如何在这片贫瘠的沙漠中生存——杀死旅行者，用他们做烤肉串？}
 ### {260}{}{So this conversation will have only one outcome. Your death.}
@@ -100,11 +100,11 @@
 ### {261}{}{Stop talking. I will rid the wasteland of such parasites as your family.}
 {261}{}{别说话了。我会把你家这样的寄生虫从荒原上清除掉。}
 ### {262}{}{Wait, you're making a big mistake...}
-{262}{}{等等，你犯了一个大错误。。。}
+{262}{}{等等，你犯了一个大错误...}
 ### {263}{}{Wait. I'm telling the truth. There are big cities in the wastelands. There's plenty of room for your family. Living in the desert, you only condemn yourself to a slow death.}
 {263}{}{等待我说的是实话。荒原上有大城市。有足够的空间容纳你的家人。生活在沙漠中，你只会让自己慢慢死去。}
 ### {264}{}{Hmm... It's strange that outsiders talk about cities so often. Maybe it's true... Do you know where we can go? Show me. I want to know.}
-{264}{}{嗯…奇怪的是，外地人经常谈论城市。也许这是真的。。。你知道我们能去哪里吗？给我看看，我想知道。}
+{264}{}{嗯…奇怪的是，外地人经常谈论城市。也许这是真的...你知道我们能去哪里吗？给我看看，我想知道。}
 ### {265}{}{OK, but after that you'll let me go. Okay?}
 {265}{}{好吧，但之后你会放我走的。可以}
 ### {266}{}{To hell with it. People like you have no place in a civilized society.}

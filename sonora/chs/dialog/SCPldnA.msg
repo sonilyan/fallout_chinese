@@ -31,7 +31,7 @@
 ### {212}{}{There is nothing to wander around a military base like at home.}
 {212}{}{没有什么比在家里更适合在军事基地闲逛了。}
 ### {213}{}{Do you have a pass? Your happiness that you have it...}
-{213}{}{你有通行证吗？你拥有的幸福。。。}
+{213}{}{你有通行证吗？你拥有的幸福...}
 ### {214}{}{Just give me a reason - and you'll fly overboard in a jiffy.}
 {214}{}{只要给我一个理由，你马上就会飞到船外。}
 ### {215}{}{My tactic is simple - hit first until you get hit in the back.}
@@ -39,7 +39,7 @@
 ### {216}{}{I'm just curious, who let you in?}
 {216}{}{我只是好奇，是谁让你进来的？}
 ### {217}{}{Now civilians are allowed to wander around the ship? Bar-rdak...}
-{217}{}{现在允许平民在船上游荡？Bar rdak。。。}
+{217}{}{现在允许平民在船上游荡？Bar rdak...}
 ### {218}{}{Freely. I don't bite until they give me a reason.}
 {218}{}{自由地除非他们给我一个理由，否则我不会咬人。}
 ### {219}{}{}
@@ -48,7 +48,7 @@
 ### {220}{}{In our Brotherhood they say: "A good ally is a dead ally."}
 {220}{}{在我们的兄弟会中，他们说：“好的盟友就是死的盟友。”}
 ### {221}{}{Wait, do you have a pass? Show me...}
-{221}{}{等等，你有通行证吗？显示。。。}
+{221}{}{等等，你有通行证吗？显示...}
 ### {222}{}{Better not piss me off, stupid redneck.}
 {222}{}{最好别惹我生气，愚蠢的乡下人。}
 ### {223}{}{Showing up here unannounced and demanding answers? There's something wrong with your head.}
@@ -56,13 +56,13 @@
 ### {224}{}{Stay here and don't move until I find out who you are and how you got through the guards.}
 {224}{}{呆在这里，不要动，直到我发现你是谁，你是如何通过警卫的。}
 ### {225}{}{Well, well, we've got a rat here...}
-{225}{}{好吧，好吧，我们这里有一只老鼠。。。}
+{225}{}{好吧，好吧，我们这里有一只老鼠...}
 ### {226}{}{I don't negotiate with civilians.}
 {226}{}{我不与平民谈判。}
 ### {227}{}{Does the guard know that you're on the ship?}
 {227}{}{警卫知道你在船上吗？}
 ### {228}{}{What, a stranger on board? I give you five seconds to explain, otherwise...}
-{228}{}{什么，船上有个陌生人？我给你五秒钟的时间解释，否则。。。}
+{228}{}{什么，船上有个陌生人？我给你五秒钟的时间解释，否则...}
 ### {229}{}{Do you even realize that you're on a warship?}
 {229}{}{你知道你在军舰上吗？}
 

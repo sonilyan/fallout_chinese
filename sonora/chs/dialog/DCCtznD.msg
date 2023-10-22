@@ -70,7 +70,7 @@
 ### {208}{}{Then let's go to the city. They're probably already looking for you.}
 {208}{}{那我们去城里吧。他们可能已经在找你了。}
 ### {209}{}{Yes, exactly... (cautiously looks out from under the door) Uh, you first...}
-{209}{}{是的，确切地说。。。（从门下小心地向外看）呃，你先。。。}
+{209}{}{是的，确切地说...（从门下小心地向外看）呃，你先...}
 ### {210}{}{Of course.}
 {210}{}{当然}
 ### {211}{}{Forward.}

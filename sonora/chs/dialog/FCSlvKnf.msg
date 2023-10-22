@@ -20,7 +20,7 @@
 ### {205}{}{Don't say that! I was placed here by force. What could I do?}
 {205}{}{别这么说！我被强行安置在这里。我能做什么？}
 ### {206}{}{That's it. Some excuses...}
-{206}{}{就是这样。一些借口。。。}
+{206}{}{就是这样。一些借口...}
 ### {207}{}{Shut up! Shut up!}
 {207}{}{闭嘴！闭嘴！}
 ### {208}{}{Does it really hurt your eyes, sucker?}

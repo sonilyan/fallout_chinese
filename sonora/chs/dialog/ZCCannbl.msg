@@ -22,4 +22,4 @@
 ### {118}{}{Nothing personal. I just really want to eat.}
 {118}{}{没有什么私人问题。我真的很想吃东西。}
 ### {119}{}{Don't be afraid, I don't bite... until I roast you properly on the fire.}
-{119}{}{别害怕，我不咬。。。直到我把你放在火上烤熟。}
+{119}{}{别害怕，我不咬...直到我把你放在火上烤熟。}

@@ -52,13 +52,13 @@
 ### {251}{}{Information about the current Generator of the Eden Tabernacles is still missing, the search continues. I attach the expedition reports.}
 {251}{}{搜寻工作仍在继续，目前有关伊甸园避难所发电机的信息仍然下落不明。我附上探险队的报告。}
 ### {252}{}{Expedition to the Vault 26.}
-{252}{}{远征金库26。}
+{252}{}{远征避难所26。}
 ### {253}{}{The expedition to Vault 26 gave a negative result. The Vault was destroyed by a nuclear strike. Excavation is impossible.}
-{253}{}{对26号金库的探险给出了否定的结果。保险库被核打击摧毁了。挖掘是不可能的。}
+{253}{}{对26号避难所的探险给出了否定的结果。保险库被核打击摧毁了。挖掘是不可能的。}
 ### {254}{}{Expedition to the Vault 27.}
-{254}{}{远征金库27。}
+{254}{}{远征避难所27。}
 ### {255}{}{The expedition to Vault 27 could not confirm the presence of the GECK. Long-term excavations are currently underway. It is confirmed that the Vault has been looted and is in poor condition. Some equipment was taken out by convoy to Two-Sun, the list is attached. I also attach copies of the expedition reports.}
-{255}{}{27号金库的探险队无法确认GECK的存在。目前正在进行长期挖掘。经证实，该金库已被洗劫一空，目前状况不佳。一些设备是由车队带到“二太阳”的，名单附后。我还附上探险报告的副本。}
+{255}{}{27号避难所的探险队无法确认GECK的存在。目前正在进行长期挖掘。经证实，该避难所已被洗劫一空，目前状况不佳。一些设备是由车队带到“二太阳”的，名单附后。我还附上探险报告的副本。}
 ### {256}{}{Remark.}
 {256}{}{评论}
 ### {257}{}{There is information that the population of Phoenix largely consists of descendants of the inhabitants of refuge 27. And there is also a legend about the discord of their ancestors who went different ways. It can be assumed that one of the groups of immigrants took the GECK with them. This hypothesis should be worked out if we don't find the device.}

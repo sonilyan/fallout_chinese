@@ -16,7 +16,7 @@
 ### {115}{}{Why the hell are you waking people up in the middle of the night?}
 {115}{}{你为什么在半夜把人叫醒？}
 ### {116}{}{You'll wake me up in the middle of the night again...}
-{116}{}{你会在半夜再次叫醒我。。。}
+{116}{}{你会在半夜再次叫醒我...}
 ### {117}{}{}
 {117}{}{error : string is empty}
 ### {118}{}{}

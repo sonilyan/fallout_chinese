@@ -61,9 +61,9 @@
 ### {216}{}{I still won't forgive what people have done to us!}
 {216}{}{我仍然不会原谅人们对我们所做的一切！}
 ### {217}{}{It's a pity that you understand in a good way...}
-{217}{}{很遗憾你能以一种好的方式理解。。。}
+{217}{}{很遗憾你能以一种好的方式理解...}
 ### {218}{}{You shouldn't be so...}
-{218}{}{你不应该这么。。。}
+{218}{}{你不应该这么...}
 ### {219}{}{The ghouls won't be happy with you. After all, they are building a city for everyone. Humans and mutants can live together in the Glow of the Day. Don't you really want the long-awaited peace?}
 {219}{}{食尸鬼和你在一起不会高兴的。毕竟，他们正在为每个人建设一座城市。人类和变种人可以一起生活在光辉的一天。你真的不想要期待已久的和平吗？}
 ### {220}{}{Ghouls are careless! Someday they will pay. People will betray them!}

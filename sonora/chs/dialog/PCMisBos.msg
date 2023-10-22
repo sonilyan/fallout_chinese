@@ -5,7 +5,7 @@
 ### {102}{}{Hey, buddy, how did they miss you in this thing? Bar-r-duck!}
 {102}{}{嘿，伙计，他们怎么会在这件事上想念你？酒吧-鸭子！}
 ### {103}{}{Your mother...}
-{103}{}{你妈妈。。。}
+{103}{}{你妈妈...}
 
 ### {200}{}{Leave me alone - my head hurts.}
 {200}{}{别管我，我的头很疼。}

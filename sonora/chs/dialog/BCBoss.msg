@@ -5,15 +5,15 @@
 ### {102}{}{Protect me, Brahmin of Salvation! May the joints of this golem fall apart!}
 {102}{}{保护我，拯救婆罗门！愿这个傀儡的关节分崩离析！}
 ### {103}{}{Oh, Dark Brahmin... Why are you looking at me so intently?}
-{103}{}{哦，黑暗婆罗门。。。你为什么这么专注地看着我？}
+{103}{}{哦，黑暗婆罗门...你为什么这么专注地看着我？}
 ### {104}{}{Really... time... it's come...}
-{104}{}{真正地时间它来了。。。}
+{104}{}{真正地时间它来了...}
 
 #First meeting
 ### {200}{}{The peasant from the Villa... I know who you are. Have a seat. If the road brought you to us, then there are reasons for that, aren't there?}
-{200}{}{别墅里的农民。。。我知道你是谁。请坐如果这条路把你带到了我们这里，那是有原因的，不是吗？}
+{200}{}{别墅里的农民...我知道你是谁。请坐如果这条路把你带到了我们这里，那是有原因的，不是吗？}
 ### {1200}{}{A peasant woman from the Villa... I know who you are. Have a seat. If the road has brought you to us, then there are reasons for that, aren't there?}
-{1200}{}{别墅里的一个农妇。。。我知道你是谁。请坐如果这条路把你带到了我们这里，那么这是有原因的，不是吗？}
+{1200}{}{别墅里的一个农妇...我知道你是谁。请坐如果这条路把你带到了我们这里，那么这是有原因的，不是吗？}
 ### {201}{}{My village was enslaved. Do you know something about it?}
 {201}{}{我的村庄被奴役了。你知道吗？}
 ### {202}{}{Twilight covered Sonora from the eyes of the Divine Brahmin. Slavers are everywhere now. They use our brothers in mines, logging, and settlement construction. I don't know where exactly your tribesmen are. But you'll probably find out in Phoenix.}
@@ -146,7 +146,7 @@
 ### {263}{}{[Listen]}
 {263}{}{[听]}
 ### {264}{}{It's as if the Divine Brahmin himself sent you to us in a difficult hour! Thank you. You can stay in the camp as long as you want. I will tell everyone about your exploits so that anyone can share Vault and food with you.}
-{264}{}{就好像神圣的婆罗门自己在困难的时刻把你送到了我们这里！非常感谢。你想在营地呆多久就呆多久。我会告诉每个人你的功绩，这样任何人都可以和你分享金库和食物。}
+{264}{}{就好像神圣的婆罗门自己在困难的时刻把你送到了我们这里！非常感谢。你想在营地呆多久就呆多久。我会告诉每个人你的功绩，这样任何人都可以和你分享避难所和食物。}
 ### {265}{}{Thank you.}
 {265}{}{非常感谢。}
 ### {266}{}{I hope your search for the missing family will be even more successful. By the way, our scouts reported that a group of slaves from the Villa was seen on the way to Flagstaff. Look there.}
@@ -239,7 +239,7 @@
 ### {335}{}{There's nothing but desert all around.}
 {335}{}{周围除了沙漠什么都没有。}
 ### {336}{}{It is all the more amazing that you are growing a crop in the middle of barren soil. It was as if the Divine Brahmin himself kept your lands... until recently. Maybe you angered him with something?}
-{336}{}{更令人惊讶的是，你在贫瘠的土壤中种植作物。就好像神圣的婆罗门自己保护了你的土地。。。直到最近。也许你用什么激怒了他？}
+{336}{}{更令人惊讶的是，你在贫瘠的土壤中种植作物。就好像神圣的婆罗门自己保护了你的土地...直到最近。也许你用什么激怒了他？}
 ### {337}{}{It is also interesting how such a miracle arose. But enough about my village. Shall we talk about yours?}
 {337}{}{同样有趣的是，这样的奇迹是如何产生的。但我的村庄已经足够了。我们谈谈你的好吗？}
 ### {338}{}{I don't think so. We just lost our vigilance. And by the way, it's time for me to hit the road, to correct this stupid mistake. See you later, Chief.}

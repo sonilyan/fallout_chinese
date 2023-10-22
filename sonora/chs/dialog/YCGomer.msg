@@ -173,7 +173,7 @@
 ### {267}{}{You can tell me. Surely the memories torment you at least sometimes. You can't just cross out the old life.}
 {267}{}{你可以告诉我。当然，这些记忆至少有时会折磨你。你不能把过去的生活划掉。}
 ### {268}{}{Do you think that's why the Heap is so stupid? Is that why he talks to himself at night? A bunch doesn't like to remember. He was a man, he ...................}
-{268}{}{你认为这就是希普如此愚蠢的原因吗？这就是他晚上自言自语的原因吗？一群人不喜欢记住。他是个男人，他。。。。。。。。。。。。。。。。。。。}
+{268}{}{你认为这就是希普如此愚蠢的原因吗？这就是他晚上自言自语的原因吗？一群人不喜欢记住。他是个男人，他..................。}
 ### {269}{}{[Encourage]}
 {269}{}{[支持]}
 ### {270}{}{[Make fun]}

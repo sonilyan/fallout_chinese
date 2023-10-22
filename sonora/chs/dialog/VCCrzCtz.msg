@@ -61,7 +61,7 @@
 ### {225}{}{By the way, these forbidden items were found with him. Decide what to do with them, we don't need alien technology. (hands you some old cartridges of different calibers)}
 {225}{}{顺便说一下，这些违禁物品是和他一起被发现的。决定如何处理它们，我们不需要外星技术。（递给你一些不同口径的旧弹壳）}
 ### {226}{}{Great, I'm them... I'm disposing of it.}
-{226}{}{太好了，我是他们。。。我正在处理它。}
+{226}{}{太好了，我是他们...我正在处理它。}
 ### {227}{}{Obviously, there's no point in waiting for Chris. Right?}
 {227}{}{显然，等克里斯是没有意义的。正确的}
 ### {228}{}{Exactly. He has left the valley and will not return here again.}

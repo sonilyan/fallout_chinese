@@ -56,7 +56,7 @@
 ### {197}{}{This is the gossip of my enemies. Nevermind.}
 {197}{}{这是我敌人的流言蜚语。永远不会。}
 ### {198}{}{I thought so...}
-{198}{}{我是这么想的。。。}
+{198}{}{我是这么想的...}
 ### {199}{}{M?}
 {199}{}{M}
 
@@ -72,7 +72,7 @@
 ### {204}{}{Get away from me!}
 {204}{}{离我远点！}
 ### {205}{}{Hey, don't be so nervous...}
-{205}{}{嘿，别那么紧张。。。}
+{205}{}{嘿，别那么紧张...}
 ### {206}{}{On the contrary, I release them. What do you know about the attack on the Villa?}
 {206}{}{相反，我释放了他们。你对维拉遇袭事件了解多少？}
 ### {207}{}{Nothing. Better leave before the others give you a "warm" welcome.}
@@ -107,7 +107,7 @@
 ### {222}{}{Do we have a long way to go?}
 {222}{}{我们还有很长的路要走吗？}
 ### {223}{}{I'm tired...}
-{223}{}{我累了。。。}
+{223}{}{我累了...}
 ### {224}{}{Let's make a halt, eh?}
 {224}{}{让我们停下来，嗯？}
 ### {225}{}{I can't wait to see the Ranger Dam.}
@@ -135,7 +135,7 @@
 {235}{}{不管你说什么。}
 
 ### {236}{}{I want to get home as soon as possible... However, I don't know what I want anymore.}
-{236}{}{我想尽快回家。。。然而，我不知道我想要什么了。}
+{236}{}{我想尽快回家...然而，我不知道我想要什么了。}
 ### {237}{}{I don't like your team. Are they coming with us too? Then I'm staying.}
 {237}{}{我不喜欢你们队。他们也和我们一起去吗？那我就留下来。}
 ### {238}{}{That's not a good idea, man.}
@@ -161,7 +161,7 @@
 ### {307}{}{The offer about the Rangers is still valid.}
 {307}{}{关于流浪者队的报价仍然有效。}
 ### {308}{}{It's great... But I can't leave until my father agrees.}
-{308}{}{太棒了。。。但在我父亲同意之前，我不能离开。}
+{308}{}{太棒了...但在我父亲同意之前，我不能离开。}
 ### {309}{}{Okay, I'll talk to him.}
 {309}{}{好吧，我和他谈谈。}
 ### {310}{}{Your padre has agreed. You can be free.}
@@ -189,7 +189,7 @@
 ### {320}{}{I have bad news for you: the Ranger base has been destroyed.}
 {320}{}{我有个坏消息要告诉你：游骑兵基地被毁了。}
 ### {321}{}{It can't be! I was so hoping that everything would get better... that you don't have to pick through the trash anymore for a couple of caps... But I don't want to go home now either. What should I do?}
-{321}{}{不可能！我非常希望一切都会好起来。。。你再也不用为了几顶帽子而翻垃圾了。。。但我现在也不想回家。我该怎么办？}
+{321}{}{不可能！我非常希望一切都会好起来...你再也不用为了几个瓶盖而翻垃圾了...但我现在也不想回家。我该怎么办？}
 ### {322}{}{You won't survive alone in the desert, and the Rangers aren't up to you right now. Come home.}
 {322}{}{你无法独自在沙漠中生存，而游骑兵队现在也无法胜任你。回家吧。}
 ### {323}{}{Now no one will pay me to guard your ass. Which means you're on your own. Disappear.}
@@ -199,13 +199,13 @@
 ### {325}{}{That's great.}
 {325}{}{太好了。}
 ### {326}{}{Yes, of course... I can't believe it was all in vain!}
-{326}{}{是的，当然。。。我不敢相信这一切都是徒劳的！}
+{326}{}{是的，当然...我不敢相信这一切都是徒劳的！}
 ### {327}{}{Well, maybe life in a landfill isn't so bad. Let's go.}
 {327}{}{也许垃圾填埋场的生活没那么糟糕。我们走吧。}
 ### {328}{}{Here you are at home. What's the matter?}
 {328}{}{你在家。怎么了？}
 ### {329}{}{You know... This journey with you has not been in vain. I've seen so much, discovered a whole world I didn't know anything about. After all this, I will not be able to live in the old way. Someday I will definitely go south.}
-{329}{}{你知道。。。和你的这次旅行没有白费。我看到了很多，发现了一个我一无所知的世界。在经历了这一切之后，我将不能再过旧的生活了。总有一天我一定会南下。}
+{329}{}{你知道...和你的这次旅行没有白费。我看到了很多，发现了一个我一无所知的世界。在经历了这一切之后，我将不能再过旧的生活了。总有一天我一定会南下。}
 ### {330}{}{Sounds flattering, though sad. Goodbye.}
 {330}{}{听起来很讨人喜欢，但很难过。再见}
 ### {331}{}{Well, you now have the right to decide for yourself. My job is done. Have a good stay.}

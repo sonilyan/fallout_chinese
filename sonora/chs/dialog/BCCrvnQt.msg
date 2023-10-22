@@ -86,7 +86,7 @@
 {259}{}{等一下，我需要为上路做好准备。}
 
 ### {260}{}{Thank you for your cooperation. It's a pleasure doing business with you. Here are 500 caps for the job, as promised. And I probably won't return to San Brahmin for another couple of years until the dust settles there. Well, you know.}
-{260}{}{谢谢您的合作。很高兴和你做生意。正如承诺的那样，这是这份工作的500顶帽子。在那里尘埃落定之前，我可能再过几年都不会回到圣婆罗门。嗯，你知道。}
+{260}{}{谢谢您的合作。很高兴和你做生意。正如承诺的那样，这是这份工作的500个瓶盖。在那里尘埃落定之前，我可能再过几年都不会回到圣婆罗门。嗯，你知道。}
 ### {261}{}{Have a nice day, Sid.}
 {261}{}{祝你今天愉快，希德。}
 ### {262}{}{Thank you for your cooperation. But because of the loss of the Brahmins and the cargo, I won't be able to pay you the full price. Here }
@@ -114,7 +114,7 @@
 ### {273}{}{Be careful. I don't have enough people as it is. I didn't want to lose you yet.}
 {273}{}{小心。我现在没有足够的人。我还不想失去你。}
 ### {274}{}{That's what we'll do. Wait for my signal...}
-{274}{}{那就是我们要做的。等我的信号。。。}
+{274}{}{那就是我们要做的。等我的信号...}
 ### {275}{}{You're talking business. Singly, we're an easy target. Let's move together.}
 {275}{}{你在谈生意。奇怪的是，我们很容易成为目标。让我们一起行动吧。}
 ### {276}{}{I need to get ready. Wait a minute.}

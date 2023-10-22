@@ -16,9 +16,9 @@
 ### {203}{}{Seriously? Did you open a sanatorium in the middle of the scorched ruins? Yes, who will reach here?}
 {203}{}{认真地你在焦土废墟中开了一家疗养院吗？是的，谁会到达这里？}
 ### {204}{}{Relax, baby. It is in such a place that it is safest... Well, except for those lunatics across the street. They still treat the ghouls calmly, but it's a matter of time.}
-{204}{}{放松，宝贝。它在这样一个地方，它是最安全的。。。嗯，除了街对面的那些疯子。他们仍然冷静地对待食尸鬼，但这只是时间问题。}
+{204}{}{放松，宝贝。它在这样一个地方，它是最安全的...嗯，除了街对面的那些疯子。他们仍然冷静地对待食尸鬼，但这只是时间问题。}
 ### {1204}{}{Relax, baby. It is in such a place that it is safest... Well, except for those lunatics across the street. They still treat the ghouls calmly, but it's a matter of time.}
-{1204}{}{放松，宝贝。它在这样一个地方，它是最安全的。。。嗯，除了街对面的那些疯子。他们仍然冷静地对待食尸鬼，但这只是时间问题。}
+{1204}{}{放松，宝贝。它在这样一个地方，它是最安全的...嗯，除了街对面的那些疯子。他们仍然冷静地对待食尸鬼，但这只是时间问题。}
 ### {205}{}{Okay. I'll keep that in mind.}
 {205}{}{可以我会记住的。}
 
@@ -33,9 +33,9 @@
 ### {213}{}{See you again, Mr. De-Santi.}
 {213}{}{再见，德桑蒂先生。}
 ### {214}{}{Vs-s-s, a-ah! I love the smell of caps before going to bed. Okay, baby, you really deserve half.}
-{214}{}{Vs-s，啊！我喜欢睡前帽子的味道。好吧，宝贝，你真的应该得到一半。}
+{214}{}{Vs-s，啊！我喜欢睡前瓶盖的味道。好吧，宝贝，你真的应该得到一半。}
 ### {215}{}{(shakes the bag with the caps) Ah! I like to listen to the clink of caps during lunch. Okay, baby, you really deserve half.}
-{215}{}{（拿着帽子摇晃袋子）啊！午饭时我喜欢听帽子的叮当声。好吧，宝贝，你真的应该得到一半。}
+{215}{}{（拿着瓶盖摇晃袋子）啊！午饭时我喜欢听瓶盖的叮当声。好吧，宝贝，你真的应该得到一半。}
 
 #Quests
 ### {220}{}{Have you tried to get rid of the distraught in the next building?}
@@ -67,15 +67,15 @@
 ### {231}{}{Derrick won't bother you anymore. He swallowed lead.}
 {231}{}{德里克不会再打扰你了。他吞下了铅。}
 ### {232}{}{What a pity! Of course you don't know who did it, right? (winks and hands you 100 caps) I'll have to clean up a little shit at the entrance.}
-{232}{}{真遗憾！你当然不知道是谁干的，对吧？（眨眼，递给你100顶帽子）我得清理入口处的一点大便。}
+{232}{}{真遗憾！你当然不知道是谁干的，对吧？（眨眼，递给你100个瓶盖）我得清理入口处的一点大便。}
 ### {233}{}{[Leave]}
 {233}{}{[离开]}
 ### {234}{}{Derrick decided to reconsider his plans for the future. He is ready to work for you.}
 {234}{}{德里克决定重新考虑他的未来计划。他已经准备好为你工作了。}
 ### {235}{}{Great job, kid. It's worth the increased fee. (winks and hands you 150 caps)}
-{235}{}{干得好，孩子。增加的费用是值得的。（眨眼递给你150顶帽子）}
+{235}{}{干得好，孩子。增加的费用是值得的。（眨眼递给你150个瓶盖）}
 ### {1235}{}{Great job, baby. It's worth the increased fee. (winks and hands you 150 caps)}
-{1235}{}{干得好，宝贝。增加的费用是值得的。（眨眼递给你150顶帽子）}
+{1235}{}{干得好，宝贝。增加的费用是值得的。（眨眼递给你150个瓶盖）}
 ### {236}{}{[Leave]}
 {236}{}{[离开]}
 ### {237}{}{Are you sure killing the insane is a good idea?}
@@ -95,13 +95,13 @@
 ### {244}{}{What is the name of this body?}
 {244}{}{这具尸体叫什么名字？}
 ### {245}{}{His name is Kurt. He owes me 300 caps. Shake them out of him and half is yours.}
-{245}{}{他的名字叫库尔特。他欠我300顶帽子。把它们从他身上抖下来，一半是你的。}
+{245}{}{他的名字叫库尔特。他欠我300个瓶盖。把它们从他身上抖下来，一半是你的。}
 ### {246}{}{Okay.}
 {246}{}{可以}
 ### {247}{}{Here are the caps that Kurt owed ? exactly 300 pieces.}
-{247}{}{这是科特欠下的帽子? 整整300件。}
+{247}{}{这是科特欠下的瓶盖? 整整300件。}
 ### {248}{}{Vs-s-s, a-ah! I love the smell of caps in the morning. Okay, baby, you really deserve half.}
-{248}{}{Vs-s，啊！我喜欢早晨帽子的味道。好吧，宝贝，你真的应该得到一半。}
+{248}{}{Vs-s，啊！我喜欢早晨瓶盖的味道。好吧，宝贝，你真的应该得到一半。}
 ### {249}{}{Well, of course.}
 {249}{}{当然。}
 
@@ -186,7 +186,7 @@
 ### {283}{}{Here's the part you were looking for.}
 {283}{}{这是你要找的角色。}
 ### {284}{}{Good girl! I've never had such a clear?cut kid in a gang... er, I mean, in a team. Here's your reward. And perhaps I don't have any new tasks anymore. You can rest, baby.}
-{284}{}{好女孩！我从来没有这么清楚?在一个帮派里被砍的孩子。。。呃，我是说，在一个团队里。这是你的奖励。也许我再也没有什么新任务了。你可以休息了，宝贝。}
+{284}{}{好女孩！我从来没有这么清楚?在一个帮派里被砍的孩子...呃，我是说，在一个团队里。这是你的奖励。也许我再也没有什么新任务了。你可以休息了，宝贝。}
 ### {1284}{}{Good girl! I knew right away that you wouldn't let me down, baby. Here's your reward. And perhaps I don't have any new tasks anymore.}
 {1284}{}{好女孩！我马上就知道你不会让我失望的，宝贝。这是你的奖励。也许我再也没有什么新任务了。}
 ### {285}{}{[Leave]}
@@ -238,7 +238,7 @@
 ### {302}{}{Very sorry.}
 {302}{}{非常抱歉。}
 ### {303}{}{Don't fit at all? But my caps are begging to be spent.}
-{303}{}{根本不合身？但我的帽子都快花掉了。}
+{303}{}{根本不合身？但我的瓶盖都快花掉了。}
 ### {304}{}{Admit it, you just hate smooth-skinned people, right?}
 {304}{}{承认吧，你只是讨厌皮肤光滑的人，对吧？}
 ### {305}{}{It's just business, kid. It's not in my interest for the client to be hard boiled. But since you're so sensitive, I can tell my ghoul friends that you're a good smooth-skinned one. It will cost you in }
@@ -256,7 +256,7 @@
 ### {309}{}{OK.}
 {309}{}{好啊}
 ### {310}{}{(quickly counts the caps) I give you my word ? I'll come up with an excellent and plausible legend for you. All ghouls will be delighted.}
-{310}{}{（快速数帽子）我向你保证? 我会为你想出一个绝妙的、似是而非的传说。所有的食尸鬼都会高兴的。}
+{310}{}{（快速数瓶盖）我向你保证? 我会为你想出一个绝妙的、似是而非的传说。所有的食尸鬼都会高兴的。}
 ### {311}{}{I'm counting on you.}
 {311}{}{我指望着你。}
 ### {312}{}{Just let's not cheat. I don't like it.}
@@ -269,9 +269,9 @@
 ### {321}{}{I think I'll do with a simple ablution for now. How much does it cost?}
 {321}{}{我想我现在只洗个简单的澡。它要多少钱？}
 ### {322}{}{ caps.}
-{322}{}{帽子。}
+{322}{}{瓶盖。}
 ### {323}{}{Good. Here are the caps.}
-{323}{}{好的这是帽子。}
+{323}{}{好的这是瓶盖。}
 ### {324}{}{I'll think. And how much does a full wellness complex cost?}
 {324}{}{我会考虑的。一个完整的健康综合体要花多少钱？}
 ### {325}{}{Maybe another time.}
@@ -283,7 +283,7 @@
 ### {328}{}{ caps we will arrange a full range of procedures from uranium ablutions and massage to meditation and mushroom smoking. An ordinary ghoul then throws off the dirt, how much he has been saving up for ten years.}
 {328}{}{caps我们将安排一系列的程序，从铀浴和按摩到冥想和蘑菇吸烟。然后，一个普通的食尸鬼扔掉泥土，他十年来一直在存多少钱。}
 ### {329}{}{I like that! Here are the caps, I'm all at your disposal.}
-{329}{}{我喜欢！这是帽子，我完全由你支配。}
+{329}{}{我喜欢！这是瓶盖，我完全由你支配。}
 ### {330}{}{I don't have that much money. But taking a bath would probably be nice.}
 {330}{}{我没有那么多钱。但是洗个澡可能会很好。}
 ### {331}{}{Yes, for such money, I will arrange all these procedures for myself! Be.}

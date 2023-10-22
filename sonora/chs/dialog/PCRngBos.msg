@@ -40,11 +40,11 @@
 ### {210}{}{I don't care about your Rico. You can't intimidate me.}
 {210}{}{我不在乎你的Rico。你不能恐吓我。}
 ### {211}{}{Rico, take that bitch outside...}
-{211}{}{里科，带那个婊子出去。。。}
+{211}{}{里科，带那个婊子出去...}
 ### {212}{}{Just touch it and you're finished.}
 {212}{}{只要碰一下，你就完了。}
 ### {213}{}{Okay, okay, don't push...}
-{213}{}{好吧，好吧，别推。。。}
+{213}{}{好吧，好吧，别推...}
 ### {214}{}{Again? You're starting to get on my nerves.}
 {214}{}{再一次你开始让我紧张了。}
 ### {215}{}{I demand compensation for such treatment. Immediately.}
@@ -58,7 +58,7 @@
 ### {218}{}{Don't you have any brains at all? Rico!}
 {218}{}{你一点脑子都没有吗？里科！}
 ### {219}{}{Don't you dare...}
-{219}{}{你不敢。。。}
+{219}{}{你不敢...}
 
 ### {220}{}{I want to put.}
 {220}{}{我想把。}
@@ -83,7 +83,7 @@
 ### {230}{}{(examines you from head to toe, then gives a signal to the bodyguard) Rico, inspect the goods.}
 {230}{}{（从头到脚检查你，然后向保镖发出信号）里科，检查货物。}
 ### {1230}{}{Woman and boxing? Where the world is going... However, a good advertising move can come out of this. Rico, inspect the goods.}
-{1230}{}{女人和拳击？世界走向何方。。。然而，一个好的广告动作可以从中产生。里科，检查货物。}
+{1230}{}{女人和拳击？世界走向何方...然而，一个好的广告动作可以从中产生。里科，检查货物。}
 ### {231}{}{Hey, hey, what are you up to?}
 {231}{}{嘿，嘿，你在干什么？}
 ### {232}{}{Be gentle, honey.}
@@ -165,7 +165,7 @@
 ### {288}{}{There's still something missing in your success formula. Getting a foothold in the city is not so easy.}
 {288}{}{你的成功公式中仍然缺少一些东西。在这个城市站稳脚跟并不容易。}
 ### {289}{}{Consider it ........}
-{289}{}{想想看。。。。。。。。}
+{289}{}{想想看......。。}
 ### {290}{}{ What happened to Mike?}
 {290}{}{迈克怎么了？}
 ### {291}{}{I don't know if I can tell you this, but once Mike's students killed his girlfriend during a robbery. At that moment, he was disappointed in people.}
@@ -185,7 +185,7 @@
 ### {305}{}{How much will I earn if I knock him down in the ring?}
 {305}{}{如果我在拳击场上击倒他，我能挣多少钱？}
 ### {306}{}{Immediately about the caps? Don't count on a quick start, baby. First, show your capabilities. I pay 100 caps for the first fight. In Phoenix, no one will pay you that much for an ordinary fight.}
-{306}{}{马上就要帽子了吗？不要指望快速起步，宝贝。首先，展示你的能力。第一场比赛我付100顶帽子。在凤凰城，没有人会为一场普通的战斗付给你那么多钱。}
+{306}{}{马上就要瓶盖了吗？不要指望快速起步，宝贝。首先，展示你的能力。第一场比赛我付100个瓶盖。在凤凰城，没有人会为一场普通的战斗付给你那么多钱。}
 ### {307}{}{And the last question - should he die during the battle?}
 {307}{}{最后一个问题——他应该在战斗中死去吗？}
 ### {308}{}{It depends on your desire and your capabilities. But when someone dies in the ring, it gets the audience excited and increases your fame. So what do you say?}
@@ -227,7 +227,7 @@
 ### {325}{}{Give me a little more time to tune in before the fight.}
 {325}{}{比赛前给我多一点时间收听。}
 ### {326}{}{Big Mario is waiting for you. And not only him, but also real fame... if, of course, you can beat him. So, }
-{326}{}{大马里奥在等你。不仅是他，还有真正的名气。。。当然，如果你能打败他。所以}
+{326}{}{大马里奥在等你。不仅是他，还有真正的名气...当然，如果你能打败他。所以}
 ### {327}{}{? Are you ready for the decisive battle?}
 {327}{}{？你准备好进行决定性的战斗了吗？}
 ### {328}{}{Today Big Mario Albright will see his defeat. Take me to the ring, Angelo. Behave like a future champion.}
@@ -265,7 +265,7 @@
 ### {343}{}{And my fee?}
 {343}{}{我的费用是多少？}
 ### {344}{}{Everything is fair with me. Here are your 200 caps. Don't drink it all at once. Better get ready for a new fight.}
-{344}{}{对我来说一切都很公平。这是你的200顶帽子。不要一下子喝光。最好为新的战斗做好准备。}
+{344}{}{对我来说一切都很公平。这是你的200个瓶盖。不要一下子喝光。最好为新的战斗做好准备。}
 ### {345}{}{Who are you going to bet against me next time?}
 {345}{}{下次你打算和谁打赌？}
 ### {346}{}{Let me think. Now I see that you need a bigger opponent. What about Canelo? He won ten fights in a row. A serious opponent. You have chances, and the audience loves good fights.}
@@ -283,7 +283,7 @@
 ### {352}{}{Do you want to have another fight?}
 {352}{}{你想再战一场吗？}
 ### {353}{}{Yes, IF you still have gunpowder for the battle. But first take your fee, there are 400 caps here.}
-{353}{}{是的，如果你还有战斗的火药。但先拿着你的费用，这里有400顶帽子。}
+{353}{}{是的，如果你还有战斗的火药。但先拿着你的费用，这里有400个瓶盖。}
 ### {354}{}{It follows from your words that the next fight will be with some serious pro.}
 {354}{}{从你的话中可以看出，下一场比赛将与一些严肃的职业选手进行。}
 ### {355}{}{This is not just a professional. This is the invincible Big Mario Albright himself! He wants to fight you himself. But prepare for the battle thoroughly. No one has ever managed to get this bully on his back.}
@@ -301,7 +301,7 @@
 ### {360}{}{It was a brilliant fight, }
 {360}{}{这是一场精彩的比赛，}
 ### {361}{}{! The audience is delighted, there has not been such a stir for a long time. We collected huge bets, because many believed that Big Mario was invincible. But you managed to make it! Well done. Here are your 800 caps. But now let's talk about the bad.}
-{361}{}{！观众们很高兴，好久没有这么激动了。我们收集了大量的赌注，因为许多人认为大马里奥是不可战胜的。但是你成功了！干得好。这是你的800顶帽子。但现在让我们谈谈坏的。}
+{361}{}{！观众们很高兴，好久没有这么激动了。我们收集了大量的赌注，因为许多人认为大马里奥是不可战胜的。但是你成功了！干得好。这是你的800个瓶盖。但现在让我们谈谈坏的。}
 ### {362}{}{Is something wrong?}
 {362}{}{有什么不对劲吗？}
 ### {363}{}{You see, now you're like a champion. Invincible. Do you understand? We don't have any fighters who can be opposed to you. And I don't think they will appear any time soon. And if the public starts betting on you and winning, then we won't get anything from it. After all, we earn mainly on LOST bets. Do you understand?}
@@ -313,7 +313,7 @@
 ### {366}{}{Exactly. Sorry, amigo, but everyone had their golden time. It's been a pleasure doing business with you, but it's time for us to say goodbye.}
 {366}{}{确切地对不起，朋友，但每个人都有他们的黄金时期。很高兴和你做生意，但我们该说再见了。}
 ### {367}{}{Damn, Angelo, aren't you interested in anything but caps? It looks like there's nothing left for me to catch in this ring.}
-{367}{}{该死的，安吉洛，你除了帽子什么都不感兴趣吗？在这个圈子里我好像没什么可抓的了。}
+{367}{}{该死的，安吉洛，你除了瓶盖什么都不感兴趣吗？在这个圈子里我好像没什么可抓的了。}
 ### {368}{}{Fuck you!}
 {368}{}{操你！}
 
@@ -373,7 +373,7 @@
 ### {395}{}{I need, uh, a drink of water. Give me a couple of minutes.}
 {395}{}{我需要，呃，一杯水。给我几分钟时间。}
 ### {396}{}{This has never happened in Phoenix before! The sight was unforgettable. Legends will be made about this fight. How are you doing? It looks like you've been pretty battered by this fight. Here are 1500 caps, you'll need them to get back to normal.}
-{396}{}{这在凤凰城以前从未发生过！那景象令人难忘。这场战斗将成为传奇。你好吗？看起来你被这场战斗打得遍体鳞伤。这里有1500顶帽子，你需要它们才能恢复正常。}
+{396}{}{这在凤凰城以前从未发生过！那景象令人难忘。这场战斗将成为传奇。你好吗？看起来你被这场战斗打得遍体鳞伤。这里有1500个瓶盖，你需要它们才能恢复正常。}
 ### {397}{}{You're especially caring today, Angelo. I appreciate it. Thank you.}
 {397}{}{你今天特别关心我，安吉洛。我很感激。谢谢。}
 ### {398}{}{I was almost killed, and here you are rejoicing like a child. My foot will not enter here again.}

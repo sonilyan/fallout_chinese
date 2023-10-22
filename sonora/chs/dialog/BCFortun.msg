@@ -26,15 +26,15 @@
 ### {210}{}{You need to part with something that is valuable to you. You can even give away the bottlecaps. Only in the sense of loss are revealed the most intimate lines of life.}
 {210}{}{你需要放弃一些对你有价值的东西。你甚至可以把水瓶送人。只有在失落的感觉中，才显露出生命中最亲密的线条。}
 ### {211}{}{Here are 100 caps. Tell me, I want to know everything!}
-{211}{}{这里有100顶帽子。告诉我，我想知道一切！}
+{211}{}{这里有100个瓶盖。告诉我，我想知道一切！}
 ### {212}{}{Maybe another time.}
 {212}{}{也许改天吧。}
 ### {213}{}{(performs a complex ritual on the blood of a sacred animal) Um-m-m... Om-m-m... I'm starting to see... yes...}
-{213}{}{（对神圣动物的血液进行复杂的仪式）嗯。。。Om-m。。。我开始看到。。。对}
+{213}{}{（对神圣动物的血液进行复杂的仪式）嗯...Om-m...我开始看到...对}
 ### {214}{}{What do you see?}
 {214}{}{你看到了什么？}
 ### {215}{}{I see people with a star in their forehead... And people who generate fire with the power of thought, opposite them... They want to destroy each other, and you are between them. Right in the line of fire...}
-{215}{}{我看到人们额头上有一颗星星。。。而那些用思想的力量产生火焰的人，与他们相对。。。他们想摧毁彼此，而你却夹在他们中间。就在火线上。。。}
+{215}{}{我看到人们额头上有一颗星星...而那些用思想的力量产生火焰的人，与他们相对...他们想摧毁彼此，而你却夹在他们中间。就在火线上...}
 ### {216}{}{Not very happy about it.}
 {216}{}{对此不太高兴。}
 ### {217}{}{But the Divine Brahmin will not let you die in this battle. You have your own way! Don't let yourself be fooled! A great mission awaits you! Great!!!}

@@ -39,20 +39,20 @@
 ### {213}{}{I don't have any hubbucks.}
 {213}{}{我没有丈夫。}
 ### {214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
-{214}{}{你在撒谎。我知道你是带着帽子来的。从哪里？（他用手指戳太阳穴）X光检查。呵呵，一个笑话。}
+{214}{}{你在撒谎。我知道你是带着瓶盖来的。从哪里？（他用手指戳太阳穴）X光检查。呵呵，一个笑话。}
 ### {1214}{}{You're lying. I know you came here with caps. From where? (he pokes his temple with his finger) X-ray vision. Hehe, a joke.}
-{1214}{}{你在撒谎。我知道你是带着帽子来的。从哪里？（他用手指戳太阳穴）X光检查。呵呵，一个笑话。}
+{1214}{}{你在撒谎。我知道你是带着瓶盖来的。从哪里？（他用手指戳太阳穴）X光检查。呵呵，一个笑话。}
 #Note: In fact, this is not X-ray vision, just a gul guide studied GG and his belongings while sleeping at one of the parking lots.
 ### {215}{}{You're delusional, old man. I'd better get out of here.}
 {215}{}{你有妄想症，老头。我最好离开这里。}
 ### {216}{}{Okay, here are all my caps. Now take me to the city!}
-{216}{}{好的，这是我所有的帽子。现在带我去城里！}
+{216}{}{好的，这是我所有的瓶盖。现在带我去城里！}
 ### {217}{}{Now ? tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
-{217}{}{现在? 倾斜你的头。。。别担心，我们进城的时候我会把这个包摘下来。相信我。呵呵，你不是我第一个带你越过边境的人。}
+{217}{}{现在? 倾斜你的头...别担心，我们进城的时候我会把这个包摘下来。相信我。呵呵，你不是我第一个带你越过边境的人。}
 ### {1217}{}{Now ? tilt your head... Don't worry, I'll take this bag off when we go out into the city. Trust me. Hehe, you're not the first one I've led across the border.}
-{1217}{}{现在? 倾斜你的头。。。别担心，我们进城的时候我会把这个包摘下来。相信我。呵呵，你不是我第一个带你越过边境的人。}
+{1217}{}{现在? 倾斜你的头...别担心，我们进城的时候我会把这个包摘下来。相信我。呵呵，你不是我第一个带你越过边境的人。}
 ### {218}{}{Uv... Okay. But be careful.}
-{218}{}{Uv。。。可以但是要小心。}
+{218}{}{Uv...可以但是要小心。}
 ### {219}{}{Don't even try to deceive me, old man.}
 {219}{}{别想骗我，老头子。}
 ### {220}{}{I believe. It's stupid, of course, to go across the border without any money at all. What should I do with you now? All right, bring me three cans of good old Mexican beer. They can still be found in the ruins on Revolution Avenue.}

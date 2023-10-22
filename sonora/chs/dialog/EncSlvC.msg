@@ -19,7 +19,7 @@
 ### {205}{}{It is a pity that your thinking is as insignificant as a single atom in a nuclear womb. I'll have to split you until you completely disappear!}
 {205}{}{遗憾的是，你的思想就像核子宫里的一个原子一样微不足道。我将不得不拆散你，直到你完全消失！}
 ### {206}{}{What are you carrying...}
-{206}{}{你带着什么。。。}
+{206}{}{你带着什么...}
 ### {207}{}{If you really are a brother of Fire, then you should know: if you are not initiated into the most important things, then you are not worthy of it.}
 {207}{}{如果你真的是火之兄弟，那么你应该知道：如果你没有开始做最重要的事情，那么你就不配做。}
 ### {208}{}{So can I ask a question?}
@@ -60,6 +60,6 @@
 ### {225}{}{I'm dying of thirst! Give me a sip of water!}
 {225}{}{我渴死了！给我一口水！}
 ### {226}{}{Saving a worthless life is not in my plans. But on the other hand, any convention is valuable for the revival of the world. Take a sip of this pure water. And tell everyone you meet that the Followers of Fire dream of giving everyone water to drink... everyone who deserves it.}
-{226}{}{拯救一条没有价值的生命不是我的计划。但另一方面，任何公约对世界的复兴都是有价值的。喝一口这种纯净的水。告诉你遇到的每个人，火的追随者梦想给每个人水喝。。。每个应得的人。}
+{226}{}{拯救一条没有价值的生命不是我的计划。但另一方面，任何公约对世界的复兴都是有价值的。喝一口这种纯净的水。告诉你遇到的每个人，火的追随者梦想给每个人水喝...每个应得的人。}
 ### {227}{}{I'm not going to waste time on those who are ready to talk, but not ready to listen. Go away.}
 {227}{}{我不会把时间浪费在那些准备好说话但又不准备倾听的人身上。走开。}

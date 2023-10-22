@@ -21,6 +21,6 @@
 ### {205}{}{The entrance to the station is prohibited. But you can pass.}
 {205}{}{禁止进入车站。但你可以通过。}
 ### {206}{}{It's strange that they let you in. You know, all these racists...}
-{206}{}{他们让你进来真奇怪。你知道，所有这些种族主义者。。。}
+{206}{}{他们让你进来真奇怪。你知道，所有这些种族主义者...}
 ### {207}{}{We don't look like this from a good life, baby.}
 {207}{}{从美好的生活中我们不会是这样的，宝贝。}

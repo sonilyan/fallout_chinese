@@ -82,7 +82,7 @@
 ### {233}{}{Do you like it here?}
 {233}{}{你喜欢这里吗？}
 ### {234}{}{Well... It's a little boring here. If it wasn't for my husband, I would have preferred to stay in Phoenix. Nevertheless, you can live and work here, and the garrison protects you from any rabble. You can even hire a maid if you don't mind the caps. There aren't many places in the world where you can do that.}
-{234}{}{好这里有点无聊。如果不是因为我丈夫，我宁愿留在凤凰城。尽管如此，你可以在这里生活和工作，驻军保护你免受任何乌合之众的伤害。如果你不介意帽子的话，你甚至可以雇一个女佣。世界上没有多少地方可以做到这一点。}
+{234}{}{好这里有点无聊。如果不是因为我丈夫，我宁愿留在凤凰城。尽管如此，你可以在这里生活和工作，驻军保护你免受任何乌合之众的伤害。如果你不介意瓶盖的话，你甚至可以雇一个女佣。世界上没有多少地方可以做到这一点。}
 ### {235}{}{Are you kidding me? After the escape of the prisoners, I can't go outside without a knife! You can't find a worse place in all of Arizona. Even in Phoenix, life was quieter.}
 {235}{}{你在开玩笑吗？囚犯们逃跑后，我不能不带刀出门！在整个亚利桑那州，你找不到比这更糟糕的地方了。即使在凤凰城，生活也比较安静。}
 ### {236}{}{Then can I have another question?}

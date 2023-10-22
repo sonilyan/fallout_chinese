@@ -20,7 +20,7 @@
 ### {203}{}{Uh, I'll think about it. And who are you?}
 {203}{}{呃，我会考虑的。你是谁？}
 ### {204}{}{My name is Pedro Fuerte... or just Pete.}
-{204}{}{我叫佩德罗·富尔特。。。或者只是皮特。}
+{204}{}{我叫佩德罗·富尔特...或者只是皮特。}
 ### {205}{}{I'll call you Pete.}
 {205}{}{我叫你皮特。}
 ### {206}{}{As it will be more convenient, se?or. As it will be more convenient.}
@@ -71,7 +71,7 @@
 ### {228}{}{Oh, no... Although I also think I should get a fee for a couple of caps more.}
 {228}{}{哦，不……虽然我也认为我应该多拿几场比赛的费用。}
 ### {229}{}{He's just playing you... Okay, never mind.}
-{229}{}{他只是在耍你。。。好吧，没关系。}
+{229}{}{他只是在耍你...好吧，没关系。}
 ### {230}{}{No, no, Mr. Kogan - he's the boss, there's no way without him.}
 {230}{}{不，不，Kogan先生——他是老板，没有他是不可能的。}
 ### {231}{}{The question wasn't about that, but it doesn't matter.}
@@ -94,9 +94,9 @@
 ### {240}{}{Your boss is dead. What are you going to do now?}
 {240}{}{你的老板死了。你现在打算做什么？}
 ### {241}{}{This is bad, se?or. The boss humiliated me, paid half a penny for hard work, but without him... without him, the whole Garage City will become a dump!}
-{241}{}{这很糟糕，塞诺。老板羞辱了我，辛苦工作付了半便士，但没有他。。。没有他，整个车库城将变成垃圾场！}
+{241}{}{这很糟糕，塞诺。老板羞辱了我，辛苦工作付了半便士，但没有他...没有他，整个车库城将变成垃圾场！}
 ### {1241}{}{This is bad, se?ora. The boss humiliated me, paid half a penny for hard work, but without him... without him, the whole Garage City will become a dump!}
-{1241}{}{这很糟糕，塞诺拉。老板羞辱了我，辛苦工作付了半便士，但没有他。。。没有他，整个车库城将变成垃圾场！}
+{1241}{}{这很糟糕，塞诺拉。老板羞辱了我，辛苦工作付了半便士，但没有他...没有他，整个车库城将变成垃圾场！}
 ### {242}{}{Are you sure?}
 {242}{}{你确定吗？}
 ### {243}{}{Only he knew how to run a business. And now there will be a war for the mine among the scavengers. I don't know what to do... Maybe it's time to leave these places. But where will I go?}
@@ -174,31 +174,31 @@
 ### {281}{}{Well, yes, we use them as money before the Great War. Don't you know about it?}
 {281}{}{嗯，是的，我们在大战前把它们当作钱用。你不知道吗？}
 ### {282}{}{It looks a bit... strange.}
-{282}{}{看起来有点。。。奇怪的}
+{282}{}{看起来有点...奇怪的}
 ### {283}{}{Everyone is already used to it. And it's just convenient. Just be careful, someone started minting their own caps. This is bad, because if there are too many caps, they will become worthless. And the richest person will be the one who makes them.}
-{283}{}{每个人都已经习惯了，而且很方便。小心点，有人开始铸造自己的帽子。这很糟糕，因为如果上限太多，它们就会变得毫无价值。而最富有的人将是制造它们的人。}
+{283}{}{每个人都已经习惯了，而且很方便。小心点，有人开始铸造自己的瓶盖。这很糟糕，因为如果上限太多，它们就会变得毫无价值。而最富有的人将是制造它们的人。}
 ### {284}{}{Yes, it's a little unfair.}
 {284}{}{是的，这有点不公平。}
 ### {285}{}{We've been trying to track down this Pendejo for a long time. If you find out who is minting fake caps, tell me.}
-{285}{}{很长一段时间以来，我们一直试图找到这个潘德霍。如果你发现谁在铸造假帽子，告诉我。}
+{285}{}{很长一段时间以来，我们一直试图找到这个潘德霍。如果你发现谁在铸造假瓶盖，告诉我。}
 ### {286}{}{Required.}
 {286}{}{必需。}
 ### {287}{}{Okay.}
 {287}{}{可以}
 ### {288}{}{About the fake caps.}
-{288}{}{关于假帽子。}
+{288}{}{关于假瓶盖。}
 ### {289}{}{Yes? Any leads?}
 {289}{}{对有线索吗？}
 ### {290}{}{No, not yet.}
 {290}{}{不，还没有。}
 ### {291}{}{It looks like it's Todd. He paid me with brand-new caps.}
-{291}{}{看起来是托德。他付给我一顶崭新的帽子。}
+{291}{}{看起来是托德。他付给我一顶崭新的瓶盖。}
 ### {292}{}{He himself could have been a victim of deception. Let's not blame him ahead of time. But it doesn't hurt to check.}
 {292}{}{他本人可能是欺骗的受害者。我们不要提前责怪他。但检查一下也无妨。}
 ### {293}{}{What do you suggest?}
 {293}{}{你有什么建议？}
 ### {294}{}{What do you think, amigo? Trailer... tools... boom! Someone has to do it, you know? I would appeal to other residents, but I'm afraid Todd will be lynched. And I don't want to hurt anyone.}
-{294}{}{你觉得怎么样，朋友？拖车工具。。。繁荣必须有人来做，你知道吗？我会呼吁其他居民，但我担心托德会被私刑处死。我不想伤害任何人。}
+{294}{}{你觉得怎么样，朋友？拖车工具...繁荣必须有人来做，你知道吗？我会呼吁其他居民，但我担心托德会被私刑处死。我不想伤害任何人。}
 ### {295}{}{I understand now. Get into the trailer and look for tools for the production of bottlecaps there. And if they are there, then they need to be destroyed.}
 {295}{}{我现在明白了。进入拖车，寻找生产瓶装水的工具。如果他们在那里，那么他们就需要被摧毁。}
 ### {296}{}{So will you do it?}
@@ -244,7 +244,7 @@
 ### {315}{}{How much will you charge for the job?}
 {315}{}{这份工作你要收多少钱？}
 ### {316}{}{ caps. And no barter!}
-{316}{}{帽子。没有易货！}
+{316}{}{瓶盖。没有易货！}
 ### {317}{}{Okay, here are the bottlecaps.}
 {317}{}{好的，这是水瓶。}
 ### {318}{}{I'll think about it, but in the meantime, watch something else.}
@@ -255,7 +255,7 @@
 ### {320}{}{(shakes his head) That's not enough.}
 {320}{}{（摇摇头）这还不够。}
 ### {321}{}{Oh, really...}
-{321}{}{哦，真的。。。}
+{321}{}{哦，真的...}
 ### {322}{}{Changing tires will increase the speed of your bike by about 15%.}
 {322}{}{更换轮胎会使你的自行车速度提高15%左右。}
 ### {323}{}{Your motorcycle has a trunk with a capacity of 100 units.}

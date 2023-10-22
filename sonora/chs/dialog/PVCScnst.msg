@@ -3,7 +3,7 @@
 ### {101}{}{Here is the leader of the scientific group. He looks weird.}
 {101}{}{这是科学小组的组长。他看起来很奇怪。}
 ### {102}{}{Now is not the time for scientific controversy...}
-{102}{}{现在不是科学争论的时候。。。}
+{102}{}{现在不是科学争论的时候...}
 
 #The first dialog
 ### {200}{}{(in front of you is a scientist in a lab coat with a crazy look and tousled hair; he speaks without looking up from his tablet) I'm busy, get out.}
@@ -16,16 +16,16 @@
 {203}{}{那我很抱歉打扰你。}
 
 ### {207}{}{That's what I'm trying to explain - I'm new here and...}
-{207}{}{这就是我想要解释的——我是新来的。。。}
+{207}{}{这就是我想要解释的——我是新来的...}
 ### {208}{}{Security! We have an outsider!}
 {208}{}{安全我们有一个局外人！}
 ### {209}{}{You shouldn't have done that...}
-{209}{}{你不应该那样做。。。}
+{209}{}{你不应该那样做...}
 
 ### {210}{}{(irritated) I told you, I don't have time for everyone... Stop. And who are YOU?}
-{210}{}{（被激怒了）我告诉过你，我没有时间和每个人在一起。。。停止你是谁？}
+{210}{}{（被激怒了）我告诉过你，我没有时间和每个人在一起...停止你是谁？}
 ### {1210}{}{(irritated) I told you, I don't have time for everyone... Stop. And who are YOU?}
-{1210}{}{（被激怒了）我告诉过你，我没有时间和每个人在一起。。。停止你是谁？}
+{1210}{}{（被激怒了）我告诉过你，我没有时间和每个人在一起...停止你是谁？}
 
 ### {211}{}{I'm a Follower.}
 {211}{}{我是一个追随者。}
@@ -57,7 +57,7 @@
 ### {223}{}{I am also a scientist, and I was referred to you.}
 {223}{}{我也是一名科学家，我被推荐给你。}
 ### {224}{}{Really? (puts down the tablet) Very curious... quite... But no one has reported to me about a new laboratory assistant. Bring the order, then we'll talk.}
-{224}{}{真正地（放下平板电脑）很好奇。。。相当地但是没有人向我报告一个新的实验室助理。把订单拿来，然后我们再谈。}
+{224}{}{真正地（放下平板电脑）很好奇...相当地但是没有人向我报告一个新的实验室助理。把订单拿来，然后我们再谈。}
 ### {225}{}{OK.}
 {225}{}{好啊}
 
@@ -78,13 +78,13 @@
 ### {305}{}{With all due respect, colleague, here *I* am in charge. And I have the right to kick anyone out of the lab, even Aaron himself. Get out!}
 {305}{}{恕我直言，同事，这里由我负责。我有权把任何人踢出实验室，甚至是亚伦本人。滚出去！}
 ### {306}{}{Okay, okay...}
-{306}{}{好吧，好吧。。。}
+{306}{}{好吧，好吧...}
 
 #Questions about yourself
 ### {310}{}{I'm sorry, but who are you?}
 {310}{}{对不起，你是谁？}
 ### {311}{}{ (waves his hand in frustration) That's what it means to be in the shadows... My name is Zach Zimmer. Professor Zach Zimmer. And I'm in charge of this research department. Practically, I am the third person in the whole church, after Aaron and the Counselor. You don't have to bend the knee.}
-{311}{}{（沮丧地挥手）这就是在阴影中的意义。。。我的名字叫扎克·齐默。Zach Zimmer教授。我负责这个研究部门。实际上，我是整个教会的第三个人，仅次于亚伦和辅导员。你不必弯曲膝盖。}
+{311}{}{（沮丧地挥手）这就是在阴影中的意义...我的名字叫扎克·齐默。Zach Zimmer教授。我负责这个研究部门。实际上，我是整个教会的第三个人，仅次于亚伦和辅导员。你不必弯曲膝盖。}
 
 ### {312}{}{A scientist in our time is unusual.}
 {312}{}{在我们这个时代，科学家是不寻常的。}
@@ -115,7 +115,7 @@
 ### {325}{}{What were the contradictions?}
 {325}{}{矛盾是什么？}
 ### {326}{}{Let's put it this way... The followers of the Apocalypse are too soft. They oppose experiments on living people. And this slowed down many medical projects.}
-{326}{}{这么说吧。。。启示录的追随者太软弱了。他们反对在活人身上做实验。这减缓了许多医疗项目的进度。}
+{326}{}{这么说吧...启示录的追随者太软弱了。他们反对在活人身上做实验。这减缓了许多医疗项目的进度。}
 ### {327}{}{And what kind of Burial Ground?}
 {327}{}{什么样的墓地？}
 ### {328}{}{Ruins to the west, beyond the Sonoran Desert. It's very far away, you can't get there.}
@@ -136,7 +136,7 @@
 ### {336}{}{I am a member of the Brotherhood of Steel.}
 {336}{}{我是钢铁兄弟会的成员。}
 ### {337}{}{Oh... It changes a lot... Well, then you'd better talk to the Counselor, not me.}
-{337}{}{哦它变化很大。。。那你最好和辅导员谈谈，而不是我。}
+{337}{}{哦它变化很大...那你最好和辅导员谈谈，而不是我。}
 ### {338}{}{This will remain between us.}
 {338}{}{这将留在我们之间。}
 ### {339}{}{Aaron would have been nothing if he hadn't been put in charge of the city and the church. He still feels like a puppet, sometimes it pisses him off... However, I'm talking too much today.}
@@ -154,7 +154,7 @@
 ### {345}{}{Don't they know that?}
 {345}{}{难道他们不知道吗？}
 ### {346}{}{I'm afraid too much time has passed. The events of a bygone era are overgrown with myths and legends. On the other hand, the faith of Followers is useful for society... so far, it is not going against progress.}
-{346}{}{恐怕时间过得太久了。过去时代的事件充斥着神话传说。另一方面，信徒的信仰对社会有益。。。到目前为止，这并没有妨碍进展。}
+{346}{}{恐怕时间过得太久了。过去时代的事件充斥着神话传说。另一方面，信徒的信仰对社会有益...到目前为止，这并没有妨碍进展。}
 
 ### {350}{}{Why are you snapping at subordinates?}
 {350}{}{你为什么对下属大发雷霆？}
@@ -190,7 +190,7 @@
 ### {381}{}{Perhaps this is the most difficult thing we have managed. No one, up to California and Texas, could have done it. And we are on the verge of completion! It remains only to wait for some details from Two-Sun.}
 {381}{}{也许这是我们处理过的最困难的事情。除了加利福尼亚州和得克萨斯州，没有人能做到这一点。我们即将完成！它只是等待两个太阳的一些细节。}
 ### {382}{}{California and... Texas?}
-{382}{}{加利福尼亚州和。。。得克萨斯州？}
+{382}{}{加利福尼亚州和...得克萨斯州？}
 ### {383}{}{(disappointed) Texas! These are parts of a bygone country, dumbass. Maybe they are called differently now, but before the War they were called that way.}
 {383}{}{（失望）得克萨斯州！这些都是过去国家的一部分，蠢蛋。也许他们现在的称呼有所不同，但在战争之前，他们是这样称呼的。}
 ### {384}{}{But you wouldn't be able to construct it without instructions.}
@@ -210,11 +210,11 @@
 ### {400}{}{What kind of research does the laboratory do?}
 {400}{}{实验室做什么样的研究？}
 ### {401}{}{Different, obviously. (goes into his thoughts) Our mission is... in order to first provide the Followers of Fire with everything they need... yes. And then take up the reconstruction of the city and its industrial facilities. After all, we need workers... And this is only the first part of the plan. The most important thing now is to eliminate the shortage of food and clean water in Phoenix.}
-{401}{}{显然不同。（进入他的思想）我们的使命是……首先为火的追随者提供他们所需要的一切。。。对然后着手重建城市及其工业设施。毕竟，我们需要工人。。。这只是计划的第一部分。现在最重要的事情是消除菲尼克斯的食物和清洁水短缺问题。}
+{401}{}{显然不同。（进入他的思想）我们的使命是……首先为火的追随者提供他们所需要的一切...对然后着手重建城市及其工业设施。毕竟，我们需要工人...这只是计划的第一部分。现在最重要的事情是消除菲尼克斯的食物和清洁水短缺问题。}
 ### {402}{}{And how are you doing?}
 {402}{}{你过得怎么样？}
 ### {403}{}{There is progress, but it is too slow. The city is badly destroyed, old equipment is destroyed or worn out, and the production base of this Vault will only be enough to provide for the Cathedral. Add to this squabbles between individual clans in the city, illiteracy and a whole list of other problems. And if you don't have any more stupid questions, then I'll go back to finding solutions.}
-{403}{}{有进展，但太慢了。这座城市被严重摧毁，旧设备被摧毁或磨损，这个金库的生产基地只够建造大教堂。再加上城市里各个部族之间的争吵、文盲和一大堆其他问题。如果你没有任何愚蠢的问题，那么我会回去寻找解决方案。}
+{403}{}{有进展，但太慢了。这座城市被严重摧毁，旧设备被摧毁或磨损，这个避难所的生产基地只够建造大教堂。再加上城市里各个部族之间的争吵、文盲和一大堆其他问题。如果你没有任何愚蠢的问题，那么我会回去寻找解决方案。}
 ### {404}{}{It seemed to me that the Followers were not so generous as to distribute food.}
 {404}{}{在我看来，追随者们并没有慷慨地分发食物。}
 ### {405}{}{What are you talking about? No one is going to feed this rabble on the streets! Food and water are unconditional power over the whole city. In exchange for food, the locals are ready to do any job, and we need cheap workers.}
@@ -226,4 +226,4 @@
 ### {408}{}{[Science 100] How confident are you that society is ready for such innovations?}
 {408}{}{【科学100】你对社会已经为这种创新做好了准备有多大信心？}
 ### {409}{}{I've been thinking about it a lot......}
-{409}{}{我想了很多。。。。。。}
+{409}{}{我想了很多......}

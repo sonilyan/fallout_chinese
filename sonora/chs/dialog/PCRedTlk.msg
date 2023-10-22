@@ -161,4 +161,4 @@
 ### {271}{}{Why would you hide something? You're a cool dude, come on, tell me.}
 {271}{}{你为什么要隐瞒什么？你是个很酷的家伙，来吧，告诉我。}
 ### {272}{}{Are you afraid of something? And I thought the Cardinals were cool guys...}
-{272}{}{你害怕什么吗？我觉得红雀队很酷。。。}
+{272}{}{你害怕什么吗？我觉得红雀队很酷...}

@@ -6,7 +6,7 @@
 {102}{}{小心超级变种人，伙计。}
 
 ### {200}{}{Hello... E... I didn't know there were civilians on board... e... Welcome aboard.}
-{200}{}{你好E.…我不知道船上有平民。。。欢迎登机。}
+{200}{}{你好E.…我不知道船上有平民...欢迎登机。}
 ### {201}{}{It seems that your thoughts are far from here.}
 {201}{}{你的想法似乎离这里很远。}
 ### {202}{}{Exactly. What are you mumbling about? Not in a military way somehow.}
@@ -58,7 +58,7 @@
 ### {238}{}{You just got lucky.}
 {238}{}{你只是运气好。}
 ### {239}{}{So the two of us survived. But other groups were already engaged in cleaning up the mutants... I'm sorry, I must have tired you with stories... You're not one of us anyway, you wouldn't understand... And in general, why am I talking to you? Okay, good luck in the desert, or whatever you're doing there.}
-{239}{}{所以我们两个活了下来。但其他小组已经在清理变种人。。。对不起，我一定是讲故事累了你。。。无论如何，你不是我们中的一员，你不会理解。。。总的来说，我为什么要和你说话？好吧，祝你在沙漠里好运，或者不管你在那里做什么。}
+{239}{}{所以我们两个活了下来。但其他小组已经在清理变种人...对不起，我一定是讲故事累了你...无论如何，你不是我们中的一员，你不会理解...总的来说，我为什么要和你说话？好吧，祝你在沙漠里好运，或者不管你在那里做什么。}
 ### {240}{}{Thanks for the story. Sometimes it's worth talking out, even if you're in front of a stranger. Good luck, Paladin.}
 {240}{}{谢谢你的故事。有时候，即使你在陌生人面前，也值得说出来。祝你好运，圣骑士。}
 ### {241}{}{Yes, I don't understand how someone like you is still alive. I hope they'll take you back to the dark bunker.}

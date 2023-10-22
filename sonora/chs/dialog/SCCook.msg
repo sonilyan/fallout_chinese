@@ -9,11 +9,11 @@
 
 #(Cook hums the words from the movie "Deserters" 1950)
 ### {110}{}{? Beans... pea... green bean.. beans... ?}
-{110}{}{? 豆子。。。豌豆四季豆豆子。。。?}
+{110}{}{? 豆子...豌豆四季豆豆子...?}
 ### {111}{}{? In morphlot, everyone is friendly and strong. ?}
 {111}{}{? 在morphlot中，每个人都很友好，很强壮。?}
 ### {112}{}{? After all, they eat cutlets, pasta and dumplings... ?}
-{112}{}{? 毕竟，他们吃肉排、意大利面和饺子。。。?}
+{112}{}{? 毕竟，他们吃肉排、意大利面和饺子...?}
 ### {113}{}{? ...And the landsmen eat garbage. ?}
 {113}{}{? ...园林工人吃垃圾。?}
 ### {114}{}{? Morphlot gets first-class trout. ?}
@@ -21,16 +21,16 @@
 ### {115}{}{? ...And to the landsmen - one bean. ?}
 {115}{}{? ...还有给陆战队的一颗豆子。?}
 ### {116}{}{? Beans... pea... green bean.. Beans... }
-{116}{}{? 豆子。。。豌豆四季豆豆子。。。}
+{116}{}{? 豆子...豌豆四季豆豆子...}
 ### {117}{}{ And this sausage is as hard as a paladin's hand. ?}
 {117}{}{这根香肠像圣骑士的手一样硬。?}
 ### {118}{}{? Morphlot is served on the table with napkins and salt... ?}
-{118}{}{? Morphlot与餐巾纸和盐一起放在桌子上。。。?}
+{118}{}{? Morphlot与餐巾纸和盐一起放在桌子上...?}
 ### {119}{}{? ...And one bean for the landsmen. One bean. ?}
 {119}{}{? ...还有一颗豆子给陆战队队员。一颗豆子。?}
 
 ### {200}{}{Na-na-na... Loo-boo-doo... Cough-cough-cough... Ugh.}
-{200}{}{不，不，不。。。呜呜。。。咳嗽咳嗽。。。啊。}
+{200}{}{不，不，不...呜呜...咳嗽咳嗽...啊。}
 ### {201}{}{Hey.}
 {201}{}{嘿}
 ### {202}{}{Ah! What? What is it? Don't scare me like that.}
@@ -38,7 +38,7 @@
 ### {203}{}{What are you doing?}
 {203}{}{你在干什么？}
 ### {204}{}{Me? I sing...}
-{204}{}{我我唱歌。。。}
+{204}{}{我我唱歌...}
 ### {205}{}{And you call this singing?}
 {205}{}{你称之为唱歌？}
 ### {206}{}{Don't you like it very much?}
@@ -46,7 +46,7 @@
 ### {207}{}{I really don't like it.}
 {207}{}{我真的不喜欢。}
 ### {208}{}{But I can't change the voice... And who are you? I haven't seen you before.}
-{208}{}{但我无法改变声音。。。你是谁？我以前没见过你。}
+{208}{}{但我无法改变声音...你是谁？我以前没见过你。}
 ### {209}{}{None of your business, Private. Keep working.}
 {209}{}{不关你的事，二等兵。继续工作。}
 ### {210}{}{What are you. The main thing is that you like it. I'm just here in passing.}
@@ -77,13 +77,13 @@
 ### {222}{}{You're lucky, you can go to the wastelands whenever you want. And I've been waiting for a furlough for a hundred years.}
 {222}{}{你很幸运，你可以随时去荒原。我等休假已经等了一百年了。}
 ### {223}{}{Na-na, na-na, boo-boo, boo-boo...}
-{223}{}{娜娜，娜娜，呜呜，呜呜。。。}
+{223}{}{娜娜，娜娜，呜呜，呜呜...}
 ### {224}{}{Beans... pea... green bean.. beans...}
-{224}{}{豆子。。。豌豆四季豆豆子。。。}
+{224}{}{豆子...豌豆四季豆豆子...}
 ### {225}{}{Did they send you from the infirmary? I don't like all these needles.}
 {225}{}{他们把你从医务室送来了吗？我不喜欢这些针。}
 ### {226}{}{"Hurry up, Corwin!", "Wash up, Corwin!", "Boo-boo-boo, Corwin". Big bosses...}
-{226}{}{“快点，科文！”，“洗洗，科文”，“嘘嘘，科文。”。大老板。。。}
+{226}{}{“快点，科文！”，“洗洗，科文”，“嘘嘘，科文。”。大老板...}
 
 ### {229}{}{Hi... So... Novice Corwin, sir!}
 {229}{}{你好所以…科温新手，先生！}
@@ -115,7 +115,7 @@
 ### {241}{}{}
 {241}{}{error : string is empty}
 ### {242}{}{Come on, no one will notice the loss of a couple of plates of soup, and you will get caps.}
-{242}{}{来吧，没人会注意到少了几盘汤，你会得到帽子的。}
+{242}{}{来吧，没人会注意到少了几盘汤，你会得到瓶盖的。}
 ### {243}{}{Wow, that was good. You can't buy much on my salary. The main thing is that no one finds out.}
 {243}{}{哇，太好了。你用我的工资买不了多少。最重要的是没有人发现。}
 ### {244}{}{Of course. Everyone will get their own, Corwin.}
@@ -200,7 +200,7 @@
 ### {285}{}{What kind of jokes? I'm serious. But you have to pay for everything.}
 {285}{}{什么样的笑话？我是认真的。但你必须为一切付出代价。}
 ### {286}{}{But I'll need caps on the shore. Let me share the bullets? These armor-piercing ones have never been useful to me anyway.}
-{286}{}{但我需要岸上的帽子。让我分享子弹？无论如何，这些穿甲的对我来说从来都没用过。}
+{286}{}{但我需要岸上的瓶盖。让我分享子弹？无论如何，这些穿甲的对我来说从来都没用过。}
 ### {287}{}{Great, I'll find a use for them.}
 {287}{}{太好了，我会找到它们的用处。}
 ### {288}{}{Thank you. I'll go to the sergeant, let him burst with envy.}

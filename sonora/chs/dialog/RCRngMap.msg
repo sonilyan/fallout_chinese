@@ -25,7 +25,7 @@
 ### {222}{}{What's wrong with old maps?}
 {222}{}{旧地图怎么了？}
 ### {223}{}{They are becoming obsolete. Of course, the relief has hardly changed since the Great War, but some lakes and rivers have dried up, radioactive areas have appeared and new settlements have formed. Nowadays, only rangers and caravan drivers know the geography of the surrounding area in detail. But even our patrols sometimes need precise coordinates. And no one makes new maps... No one but me.}
-{223}{}{它们正在变得过时。当然，自第一次世界大战以来，救济几乎没有改变，但一些湖泊和河流已经干涸，放射性区域已经出现，新的定居点已经形成。如今，只有护林员和大篷车司机才能详细了解周围地区的地理情况。但即使是我们的巡逻队有时也需要精确的坐标。没有人制作新地图。。。除了我，没有人。}
+{223}{}{它们正在变得过时。当然，自第一次世界大战以来，救济几乎没有改变，但一些湖泊和河流已经干涸，放射性区域已经出现，新的定居点已经形成。如今，只有护林员和大篷车司机才能详细了解周围地区的地理情况。但即使是我们的巡逻队有时也需要精确的坐标。没有人制作新地图...除了我，没有人。}
 ### {224}{}{What are you pointing at on these cards?}
 {224}{}{你在这些卡片上指的是什么？}
 ### {225}{}{Everything that will be useful to our brother on the way: settlements, farms, outposts, radioactive areas, oases. And for the command center, any cartographic information can be useful at all.}
@@ -43,7 +43,7 @@
 ### {231}{}{Is that why you're always making those grimaces?}
 {231}{}{这就是为什么你总是做那些鬼脸的原因吗？}
 ### {232}{}{Are you kidding? I've been dribbling over maps and texts in the semi-darkness for years. Therefore, without an eyepiece, I can hardly see anything... Damn, you know, if I'm forced to leave in the wastelands, it will be my last day in my life.}
-{232}{}{你在开玩笑吗？多年来，我一直在半黑暗中翻阅地图和文本。因此，如果没有目镜，我几乎什么都看不见。。。该死，你知道，如果我被迫离开荒原，那将是我生命中的最后一天。}
+{232}{}{你在开玩笑吗？多年来，我一直在半黑暗中翻阅地图和文本。因此，如果没有目镜，我几乎什么都看不见...该死，你知道，如果我被迫离开荒原，那将是我生命中的最后一天。}
 ### {233}{}{Why are you still here?}
 {233}{}{你为什么还在这里？}
 ### {234}{}{Although the command center has been destroyed, this does not cancel my duties.}
@@ -53,7 +53,7 @@
 ### {250}{}{Commander Helford sent me to Quartz.}
 {250}{}{赫尔福德指挥官派我去Quartz。}
 ### {251}{}{Really? Probably, the commander does not have enough people... I have long asked him to conduct geodetic measurements there.}
-{251}{}{真正地也许，指挥官没有足够的人。。。我长期以来一直要求他在那里进行大地测量。}
+{251}{}{真正地也许，指挥官没有足够的人...我长期以来一直要求他在那里进行大地测量。}
 ### {252}{}{Come on, forget it.}
 {252}{}{来吧，忘了它。}
 ### {253}{}{What can you tell me about this place?}
@@ -71,11 +71,11 @@
 ### {259}{}{What dangers can I face there?}
 {259}{}{我在那里会面临什么危险？}
 ### {260}{}{Residual radioactive background, radscorpions, collapses of dilapidated buildings... Overall Quartz has been a pretty quiet place so far.}
-{260}{}{残留的放射性背景，放射性蝎子，破旧建筑的倒塌。。。总的来说，到目前为止，Quartz一直是一个相当安静的地方。}
+{260}{}{残留的放射性背景，放射性蝎子，破旧建筑的倒塌...总的来说，到目前为止，Quartz一直是一个相当安静的地方。}
 ### {261}{}{What measurements do you need to take?}
 {261}{}{你需要测量什么？}
 ### {262}{}{I'm afraid it's too much work for one person: relief, radioactive background, condition of neighborhoods, vegetation...}
-{262}{}{恐怕对一个人来说工作量太大了：救援、放射性背景、社区状况、植被。。。}
+{262}{}{恐怕对一个人来说工作量太大了：救援、放射性背景、社区状况、植被...}
 ### {263}{}{My Pip-Boy has a built-in map sensor.}
 {263}{}{我的皮普男孩有一个内置的地图传感器。}
 ### {264}{}{Really? Wow, then you're a real godsend for my work. I'll show you the positions for observations. Your task is just to go there and record the data.}

@@ -34,7 +34,7 @@
 ### {211}{}{[Show middle finger]}
 {211}{}{[显示中指]}
 ### {212}{}{Hey, I don't want to fight...}
-{212}{}{嘿，我不想打架。。。}
+{212}{}{嘿，我不想打架...}
 ### {213}{}{I'm sorry to hear that. But the farmer is not to blame for anything. He's a civilian, leave him.}
 {213}{}{听到这个消息我很难过。但农民不应为任何事情负责。他是平民，离开他。}
 ### {214}{}{We know. That's why they kept him alive. Let him thank you and leave.}
@@ -70,7 +70,7 @@
 ### {260}{}{Stranger... Why do you look like a mutafruit skin that's been lying in the sun all day?}
 {260}{}{陌生人为什么你看起来像一个整天躺在阳光下的变形水果皮？}
 ### {261}{}{What do you think, dark-skinned? Eh, there are only racists around...}
-{261}{}{你觉得怎么样，黑皮肤？呃，周围只有种族主义者。。。}
+{261}{}{你觉得怎么样，黑皮肤？呃，周围只有种族主义者...}
 ### {262}{}{You're suffering, right? You suffer from others who don't look like you. We are the same, we understand you.}
 {262}{}{你很痛苦，对吧？别人长得不像你，你会因此而受苦。我们是一样的，我们理解你。}
 ### {263}{}{Don't even laugh at my appearance.}

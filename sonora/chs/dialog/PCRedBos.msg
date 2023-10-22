@@ -5,15 +5,15 @@
 ### {102}{}{I need this armor. Give it back.}
 {102}{}{我需要这件盔甲。把它还给我。}
 ### {103}{}{...Phew, this stuff fries like hell...}
-{103}{}{…哇，这东西炸得像地狱。。。}
+{103}{}{…哇，这东西炸得像地狱...}
 ### {104}{}{I don't do business with sectarians anymore.}
 {104}{}{我不再和宗派主义者做生意了。}
 
 #Acquaintance
 ### {200}{}{[Murphy] Op-pa, we've got a rat here. Do you know where you are, asshole? Hey, Orris, let me hang out with him...}
-{200}{}{奥帕，我们这里有只老鼠。你知道你在哪里吗，混蛋？嘿，欧里斯，让我和他一起玩。。。}
+{200}{}{奥帕，我们这里有只老鼠。你知道你在哪里吗，混蛋？嘿，欧里斯，让我和他一起玩...}
 ### {1200}{}{[Murphy] Op-pa, we've got a rat here. Do you know where you are, you fool? Hey, Orris, let me have some fun with her...}
-{1200}{}{奥帕，我们这里有只老鼠。你知道你在哪里吗，你这个傻瓜？嘿，欧里斯，让我和她一起玩吧。。。}
+{1200}{}{奥帕，我们这里有只老鼠。你知道你在哪里吗，你这个傻瓜？嘿，欧里斯，让我和她一起玩吧...}
 ### {201}{}{[Next]}
 {201}{}{[下一个]}
 ### {202}{}{[Orris] Wait, Murphy. Don't be so bloodthirsty when it comes to our guestas. You. What do you need?}
@@ -73,7 +73,7 @@
 ### {225}{}{That's for sure. Besides, you can no longer count on fees.}
 {225}{}{这是肯定的。此外，你再也不能指望收费了。}
 ### {226}{}{Need caps? I just need strong guys... Damn it, Murphy, shut up! I know who I can trust and who I can't. So... listen, there's a job just for you.}
-{226}{}{需要帽子吗？我只需要强壮的家伙。。。该死，墨菲，闭嘴！我知道我可以信任谁，也知道我不能信任谁。所以…听着，有一份工作就是给你的。}
+{226}{}{需要瓶盖吗？我只需要强壮的家伙...该死，墨菲，闭嘴！我知道我可以信任谁，也知道我不能信任谁。所以…听着，有一份工作就是给你的。}
 ### {227}{}{I'm listening.}
 {227}{}{我在听。}
 ### {228}{}{Well, no. I don't want to mess with bandits.}
@@ -93,7 +93,7 @@
 ### {234}{}{OK, I'll do it.}
 {234}{}{好的，我来做。}
 ### {235}{}{You see, Murphy. You can negotiate with everyone. Although I understand you...}
-{235}{}{你看，墨菲。你可以和每个人协商。虽然我理解你。。。}
+{235}{}{你看，墨菲。你可以和每个人协商。虽然我理解你...}
 ### {236}{}{[Next]}
 {236}{}{[下一个]}
 ### {237}{}{Now listen carefully. Go to the caravan park and go down to the local collector. My man was supposed to meet the courier there. Find out what happened to them and come back to me. If you do everything right, you will get a reward.}
@@ -117,9 +117,9 @@
 ### {246}{}{I've had enough! I will PERSONALLY kill you.}
 {246}{}{我受够了！我会亲手杀了你。}
 ### {247}{}{Your nerves are a little weak...}
-{247}{}{你的神经有点弱。。。}
+{247}{}{你的神经有点弱...}
 ### {248}{}{Come on, man, calm down...}
-{248}{}{来吧，伙计，冷静点。。。}
+{248}{}{来吧，伙计，冷静点...}
 
 ### {250}{}{Did you find the ones I was talking about?}
 {250}{}{你找到我说的那些了吗？}
@@ -130,7 +130,7 @@
 ### {252}{}{Your friend and contact were attacked by Bruce's mercenaries.}
 {252}{}{你的朋友和联系人遭到了布鲁斯雇佣兵的袭击。}
 ### {253}{}{What the... Hey, Murphy, did you hear that? It's bad. He knew too much. If they put pressure on him, they will find out all our plans. We need to act quickly.}
-{253}{}{什么。。。嘿，墨菲，你听到了吗？这很糟糕。他知道的太多了。如果他们对他施加压力，他们就会发现我们所有的计划。我们需要迅速采取行动。}
+{253}{}{什么...嘿，墨菲，你听到了吗？这很糟糕。他知道的太多了。如果他们对他施加压力，他们就会发现我们所有的计划。我们需要迅速采取行动。}
 ### {254}{}{What happened?}
 {254}{}{发生了什么？}
 ### {255}{}{Look, you're not from around here, are you? I'll tell you something. In this city, the strongesta survives. It can't be any other way. And we are still alive only because we do not allow any trash to sharpen knives against us. If you want to gain a foothold in Phoenix, stay close to the right people.}
@@ -151,7 +151,7 @@
 ### {262}{}{Damn it, if he cracks during the interrogation, you will also fall under the distribution. Understand this.}
 {262}{}{该死，如果他在审讯过程中出现裂痕，你也会被分配。理解这一点。}
 ### {263}{}{The hint is clear...}
-{263}{}{提示很清楚。。。}
+{263}{}{提示很清楚...}
 ### {264}{}{You don't have to threaten me.}
 {264}{}{你不必威胁我。}
 ### {265}{}{I'm sick of it. Not only am I not going to work for you. But I'll also hand over your whole damn gang to the mercenaries. Come on, you son of a bitch.}
@@ -161,9 +161,9 @@
 ### {267}{}{Your buddy's out there. It wasn't easy, but I succeeded.}
 {267}{}{你的伙伴在外面。这并不容易，但我成功了。}
 ### {268}{}{And you're not a miss guy. I was very lucky that you were there. Here are the caps for the job and the stimpack. Have fun while I'm dealing with this shit.}
-{268}{}{而且你不是一个想念的人。我很幸运你在那里。这是工作的帽子和刺激包。在我处理这些垃圾的时候玩得开心。}
+{268}{}{而且你不是一个想念的人。我很幸运你在那里。这是工作的瓶盖和刺激包。在我处理这些垃圾的时候玩得开心。}
 ### {1268}{}{And you're a good girl. I was very lucky that you were there. Here are the caps for the job and the stimpack. Have fun while I deal with this shit.}
-{1268}{}{你是个好女孩。我很幸运你在那里。这是工作的帽子和刺激包。在我处理这些垃圾的时候玩得开心。}
+{1268}{}{你是个好女孩。我很幸运你在那里。这是工作的瓶盖和刺激包。在我处理这些垃圾的时候玩得开心。}
 ### {269}{}{Okay, I'll be back later.}
 {269}{}{好的，我稍后回来。}
 
@@ -184,7 +184,7 @@
 ### {276}{}{Could someone have told them?}
 {276}{}{有人能告诉他们吗？}
 ### {277}{}{One of our own? It's hard to believe. We are just bandits for the sectarians...}
-{277}{}{我们自己的？很难相信。我们只是宗派主义者的土匪。。。}
+{277}{}{我们自己的？很难相信。我们只是宗派主义者的土匪...}
 ### {278}{}{[Next]}
 {278}{}{[下一个]}
 ### {279}{}{Listen, I need a man in the Cathedral. If you find out who turned us in, I'll pay good caps. Agreed?}
@@ -200,7 +200,7 @@
 ### {283}{}{It was Murphy. He's Aaron's agent.}
 {283}{}{是墨菲。他是亚伦的经纪人。}
 ### {284}{}{Murphy? I couldn't even think, because he's the besta of the besta... However, if you think about it... He knew more about my plans than anyone else.}
-{284}{}{墨菲？我甚至想都不敢想，因为他是最好的。。。然而，如果你仔细想想…他比任何人都更了解我的计划。}
+{284}{}{墨菲？我甚至想都不敢想，因为他是最好的...然而，如果你仔细想想…他比任何人都更了解我的计划。}
 ### {285}{}{It's definitely Murphy. I managed to listen to his dialogue on the radio with the Cathedral's signalman. Aaron wanted to control your gang by putting his own man in charge.}
 {285}{}{绝对是墨菲。我设法听了他和大教堂的信号员在收音机里的对话。亚伦想通过让自己的人负责来控制你的帮派。}
 ### {286}{}{Aaron's plans won't come true anymore. I'll get rid of Murphy. And you should be rewarded for your efforts. I don't want to lose such a useful agent. Here are the bottlecaps. Also talk to the pusher in the slums, I have a special agreement with him.}
@@ -252,11 +252,11 @@
 ### {321}{}{It's their own fault.}
 {321}{}{这是他们自己的错。}
 ### {322}{}{My neighborhood is my rules. People need to see that my strength has to be reckoned with. Guys, deal with this garbage...}
-{322}{}{我的邻居是我的规则。人们需要看到我的力量是不可忽视的。伙计们，处理这些垃圾。。。}
+{322}{}{我的邻居是我的规则。人们需要看到我的力量是不可忽视的。伙计们，处理这些垃圾...}
 ### {1322}{}{My neighborhood is my rules. People need to see that my strength has to be reckoned with. Guys, deal with this stuff...}
-{1322}{}{我的邻居是我的规则。人们需要看到我的力量是不可忽视的。伙计们，处理好这些东西。。。}
+{1322}{}{我的邻居是我的规则。人们需要看到我的力量是不可忽视的。伙计们，处理好这些东西...}
 ### {323}{}{Oh, not in the face...}
-{323}{}{哦，不是在脸上。。。}
+{323}{}{哦，不是在脸上...}
 ### {324}{}{Go to hell with your whole gang.}
 {324}{}{和你们这帮人见鬼去吧。}
 ### {325}{}{It's their own fault. Consider this our personal showdown with them.}
@@ -270,9 +270,9 @@
 ### {1328}{}{You've confused me with someone else. It wasn't me.}
 {1328}{}{你把我和别人搞混了。不是我。}
 ### {329}{}{You're lying. Guys, deal with this garbage...}
-{329}{}{你在撒谎。伙计们，处理这些垃圾。。。}
+{329}{}{你在撒谎。伙计们，处理这些垃圾...}
 ### {330}{}{Oh no, not by the face...}
-{330}{}{哦，不，不是靠脸。。。}
+{330}{}{哦，不，不是靠脸...}
 ### {331}{}{Go to hell.}
 {331}{}{见鬼去吧。}
 ### {332}{}{I must have been confused with someone else. Well, look at me, how can I beat your guys?}
@@ -330,7 +330,7 @@
 ### {363}{}{Not anymore. Because of you, we lost a great supplier. You won't get away with it.}
 {363}{}{不再是了。因为你，我们失去了一个伟大的供应商。你不会逃脱惩罚的。}
 ### {364}{}{You're a typical bandit...}
-{364}{}{你是个典型的土匪。。。}
+{364}{}{你是个典型的土匪...}
 ### {365}{}{This is our relationship with him. How was I supposed to know that Gonzalez was cooperating with you?}
 {365}{}{这就是我们和他的关系。我怎么知道冈萨雷斯在和你合作？}
 ### {366}{}{In that case, you owe me. Don't think about getting out of it so easily.}
@@ -342,7 +342,7 @@
 ### {369}{}{That's not enough. Blood for blood is the law of the streets. Take off your clothes if you want it to end quickly.}
 {369}{}{这还不够。以血换血是街头的法则。如果你想快点结束，就把衣服脱下来。}
 ### {370}{}{No, don't...}
-{370}{}{不，不要。。。}
+{370}{}{不，不要...}
 ### {371}{}{He got what he deserved. But it's too late to deal with it. Can I make it up to you?}
 {371}{}{他得到了他应得的。但现在处理已经太晚了。我能补偿你吗？}
 ### {372}{}{You owe me. Bring ten stimulants, then MAYBE I'll forgive you.}
@@ -379,7 +379,7 @@
 ### {387}{}{After our common affairs, you can trust me. Are you involved in this?}
 {387}{}{在我们的共同事务之后，你可以相信我。你参与其中了吗？}
 ### {388}{}{We're just surviving. Caps are never superfluous. Especially so light.}
-{388}{}{我们只是在生存。帽子从来都不是多余的。特别是这么轻。}
+{388}{}{我们只是在生存。瓶盖从来都不是多余的。特别是这么轻。}
 ### {389}{}{What do you mean? Did they help you?}
 {389}{}{你是什么意思？他们帮你了吗？}
 ### {390}{}{Sectarians, fuck them. They had connections with someone at the station. With someone who was interested in sabotage. My guys just went into the open basement and blew up the pipes. What could be simpler? But keep in mind - I didn't tell you that.}

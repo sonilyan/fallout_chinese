@@ -65,7 +65,7 @@
 ### {220}{}{I got a medal for bravery. Do you know anything about it?}
 {220}{}{我因勇敢获得了一枚奖章。你知道这件事吗？}
 ### {221}{}{Let me take a look... Operation Anchorage? Of course, it was one of the most striking victories of the United States before the Great War. The armed forces of America entered the battle against the red invaders in Alaska. However, this did not save us from nuclear bombing.}
-{221}{}{让我看看。。。安克雷奇行动？当然，这是美国在二战前最引人注目的胜利之一。美国武装部队参加了在阿拉斯加与红色入侵者的战斗。然而，这并没有使我们免于核轰炸。}
+{221}{}{让我看看...安克雷奇行动？当然，这是美国在二战前最引人注目的胜利之一。美国武装部队参加了在阿拉斯加与红色入侵者的战斗。然而，这并没有使我们免于核轰炸。}
 ### {222}{}{It looks like it's not just a story for you.}
 {222}{}{看起来这不仅仅是你的故事。}
 ### {223}{}{The Brotherhood of Steel consists of the descendants of the military. Including those who participated in that battle. We use power armor, which was first used in the operation at Anchorage. Listen, you don't need this medal, do you? I want to get it for the story. What do you want in return?}
@@ -91,7 +91,7 @@
 ### {233}{}{Then shooting in our shooting range with a training weapon will help you. I'll arrange everything.}
 {233}{}{然后在我们的射击场用训练武器射击会对你有所帮助。我会安排一切的。}
 ### {234}{}{That's what you need...}
-{234}{}{这就是你需要的。。。}
+{234}{}{这就是你需要的...}
 ### {235}{}{The quartermaster reduced the cost of his goods by 10%.}
 {235}{}{军需官把货物的成本降低了10%。}
 
@@ -139,7 +139,7 @@
 ### {260}{}{Maybe, but we need regular suppliers.}
 {260}{}{也许吧，但我们需要正规的供应商。}
 ### {261}{}{You will not be fooled...}
-{261}{}{你不会上当的。。。}
+{261}{}{你不会上当的...}
 ### {262}{}{I have a lot of trading partners all over Arizona. I can attract many good caravans here.}
 {262}{}{我在亚利桑那州有很多贸易伙伴。我可以在这里吸引很多优秀的商队。}
 ### {263}{}{That's how? Well, you've convinced me. I think I'll include you in the list of our suppliers.}
@@ -172,9 +172,9 @@
 ### {280}{}{I came across the tokens of the Brotherhood. What to do with them?}
 {280}{}{我偶然发现了兄弟会的标志。他们该怎么办？}
 ### {281}{}{Each token speaks of a fallen brother or sister. A sad fate. Tell me how this token got to you, and I will redeem it for 10 caps.}
-{281}{}{每一个象征都讲述着一个逝去的兄弟姐妹。不幸的命运。告诉我这个代币是怎么得到你的，我会用它兑换10顶帽子。}
+{281}{}{每一个象征都讲述着一个逝去的兄弟姐妹。不幸的命运。告诉我这个代币是怎么得到你的，我会用它兑换10个瓶盖。}
 ### {282}{}{Perhaps the caps will be useful to me.}
-{282}{}{也许帽子对我有用。}
+{282}{}{也许瓶盖对我有用。}
 ### {283}{}{Take it for free. I don't want to profit from someone else's tragedy.}
 {283}{}{免费服用。我不想从别人的悲剧中获利。}
 ### {284}{}{Thank you. Every token is important to us.}
@@ -196,7 +196,7 @@
 ### {291}{}{Yes, there is a drum magazine for this model. Literally one thing. I will install for }
 {291}{}{是的，这个型号有一本鼓杂志。实际上是一回事。我将为安装}
 ### {292}{}{ caps.}
-{292}{}{帽子。}
+{292}{}{瓶盖。}
 ### {293}{}{A big store will increase my chances of survival. Do it. Here are the bottlecaps.}
 {293}{}{一家大商店会增加我生存的机会。做吧。这是水瓶。}
 ### {294}{}{Not yet.}
@@ -227,7 +227,7 @@
 ### {311}{}{Scout Kit.}
 {311}{}{童军装备。}
 ### {312}{}{A smart choice, considering you're from the wasteland, too... Oh, I'm sorry, I don't mean to offend you. Here's your gear: a rocket launcher with ammo, a shock glove, stealth combat. Get it and sign it.}
-{312}{}{考虑到你也来自荒原，这是一个明智的选择。。。哦，对不起，我无意冒犯你。这是你的装备：一个装有弹药的火箭发射器，一只电击手套，隐形作战。拿到并签字。}
+{312}{}{考虑到你也来自荒原，这是一个明智的选择...哦，对不起，我无意冒犯你。这是你的装备：一个装有弹药的火箭发射器，一只电击手套，隐形作战。拿到并签字。}
 ### {313}{}{Thank you, Knight Raymond.}
 {313}{}{谢谢你，雷蒙德骑士。}
 ### {314}{}{Is that all? Okay, that'll do, too.}
@@ -242,7 +242,7 @@
 ### {323}{}{Yes, here it is. I return it to you, the rightful owners.}
 {323}{}{是的，它在这里。我把它还给你，合法的主人。}
 ### {324}{}{Ah, look how the chrome glitters in the light of the lamp! There is nothing more beautiful among the old technologies than this war machine... Yes, and thanks for the help. The brotherhood appreciates your action.}
-{324}{}{啊，看那铬在灯光下闪闪发光！在旧技术中，没有什么比这台战争机器更美丽的了。。。是的，谢谢你的帮助。兄弟会感谢你的行动。}
+{324}{}{啊，看那铬在灯光下闪闪发光！在旧技术中，没有什么比这台战争机器更美丽的了...是的，谢谢你的帮助。兄弟会感谢你的行动。}
 ### {325}{}{Unfortunately, she got a little battered on the ruins of Inferno.}
 {325}{}{不幸的是，她在地狱的废墟上受了点伤。}
 ### {326}{}{I see. It's not a big deal. The damage is quite fixable, although the recovery process may take a couple of weeks.}
@@ -250,9 +250,9 @@
 ### {327}{}{And if I need this armor again?}
 {327}{}{如果我还需要这件盔甲？}
 ### {328}{}{Of course, we are grateful for her return. But this armor is the property of the Brotherhood of Steel. And you have no rights to it. However, the general can take into account your merits and issue a permit. Talk to him. In the meantime, I'll have to do the repairs. Damn, and what a fool tore off this part...}
-{328}{}{当然，我们感谢她的归来。但这件盔甲是钢铁兄弟会的财产。你没有权利这样做。但是，将军可以考虑到你的优点，签发许可证。和他谈谈。在此期间，我将不得不修理。该死，多么愚蠢的人扯下了这部分。。。}
+{328}{}{当然，我们感谢她的归来。但这件盔甲是钢铁兄弟会的财产。你没有权利这样做。但是，将军可以考虑到你的优点，签发许可证。和他谈谈。在此期间，我将不得不修理。该死，多么愚蠢的人扯下了这部分...}
 ### {329}{}{An order has already been received in your name. You can exercise your sacred right to wear power armor... when I finish fixing it. Damn, and what a fool tore off this part...}
-{329}{}{已经收到以您名义发出的订单。你可以行使你神圣的权利，穿上力量盔甲。。。当我修完它的时候。该死，多么愚蠢的人把这个部分撕了。。。}
+{329}{}{已经收到以您名义发出的订单。你可以行使你神圣的权利，穿上力量盔甲...当我修完它的时候。该死，多么愚蠢的人把这个部分撕了...}
 ### {330}{}{I'll drop by in a couple of weeks.}
 {330}{}{我过几个星期就会来。}
 ### {331}{}{I just want to know if I can use it after I return it?}

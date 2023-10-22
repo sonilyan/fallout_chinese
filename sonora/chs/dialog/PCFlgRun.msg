@@ -18,13 +18,13 @@
 ### {111}{}{We've known each other since childhood.}
 {111}{}{我们从小就认识。}
 ### {112}{}{I promise there will be caps, just wait a bit.}
-{112}{}{我保证会有帽子，等一下。}
+{112}{}{我保证会有瓶盖，等一下。}
 ### {113}{}{I know how to earn my rent.}
 {113}{}{我知道如何赚取房租。}
 ### {114}{}{Now I have nothing to pay with, but it won't be for long.}
 {114}{}{现在我没有什么可付的，但不会太久。}
 ### {115}{}{Give me a chance, I'll earn caps.}
-{115}{}{给我一个机会，我会赢得帽子。}
+{115}{}{给我一个机会，我会赢得瓶盖。}
 ### {116}{}{I'm telling you - I'll FIND a job.}
 {116}{}{我告诉你，我会找到工作的。}
 ### {117}{}{Listen, I don't want to fight with you.}
@@ -50,9 +50,9 @@
 {206}{}{一个悲伤的故事。}
 
 ### {210}{}{Listen, can I borrow ten caps? I'll give it back as soon as I earn it, honestly.}
-{210}{}{听着，我能借十顶帽子吗？老实说，我一挣到钱就还给你。}
+{210}{}{听着，我能借十个瓶盖吗？老实说，我一挣到钱就还给你。}
 ### {211}{}{I also have problems with caps, sorry.}
-{211}{}{对不起，我的帽子也有问题。}
+{211}{}{对不起，我的瓶盖也有问题。}
 ### {212}{}{Yes, of course, everyone has their own problems. Nothing, I'll figure it out somehow.}
 {212}{}{是的，当然，每个人都有自己的问题。没什么，我会想办法的。}
 ### {213}{}{Bye.}
@@ -87,7 +87,7 @@
 ### {227}{}{Everything happens for the first time sometime. Move your hips, now we'll find a secluded place.}
 {227}{}{一切都是第一次发生。移动你的臀部，现在我们会找到一个隐蔽的地方。}
 ### {228}{}{Sorry, it was a bad idea. Forget it, let me just leave...}
-{228}{}{对不起，这是个坏主意。算了，让我离开吧。。。}
+{228}{}{对不起，这是个坏主意。算了，让我离开吧...}
 ### {229}{}{ (after an hour of dirty violence, you get out of bed with satisfaction and look at the limp body below; you take out the bottlecaps and silently throw them on the dirty sheet; the woman turns away and begins to sob quietly)}
 {229}{}{（在一个小时的肮脏暴力之后，你满意地起床，看着下面虚弱的身体；你拿出水瓶，默默地扔在脏床单上；女人转过身来，开始安静地哭泣）}
 ### {230}{}{[Leave]}

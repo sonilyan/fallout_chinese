@@ -14,7 +14,7 @@
 ### {203}{}{But how was I supposed to know? You should at least hang a warning.}
 {203}{}{但我怎么会知道呢？你至少应该挂个警告牌。}
 ### {204}{}{What kind of road dust has darkened your eyes? I can't write... Wait, are you kidding me? A thousand quicksand miles, you can't get away with it.}
-{204}{}{什么样的路尘让你的眼睛变黑了？我不会写。。。等等，你在开玩笑吗？流沙千里，你无法逃脱。}
+{204}{}{什么样的路尘让你的眼睛变黑了？我不会写...等等，你在开玩笑吗？流沙千里，你无法逃脱。}
 
 ### {210}{}{It's none of your business.}
 {210}{}{这不关你的事。}
@@ -27,7 +27,7 @@
 ### {214}{}{You need to be done. We don't need any extra rumors.}
 {214}{}{你需要完成。我们不需要任何额外的谣言。}
 ### {215}{}{Sounds pretty serious...}
-{215}{}{听起来很严肃。。。}
+{215}{}{听起来很严肃...}
 ### {216}{}{You should wash your eyes. And you look like you haven't washed in years.}
 {216}{}{你应该洗眼睛。你看起来好像好几年没洗过了。}
 
@@ -49,7 +49,7 @@
 ### {231}{}{So you're from around here? Probably a beginner. Everyone knows not to cross our path. Get out. If I see you here again, you're a dead man.}
 {231}{}{那么你是从这里来的？可能是初学者。每个人都知道不要越过我们的路。滚出去。如果我在这里再见到你，你就死定了。}
 ### {232}{}{As you say, sir...}
-{232}{}{正如你所说，先生。。。}
+{232}{}{正如你所说，先生...}
 ### {233}{}{I'm just looking around. What's wrong with that?}
 {233}{}{我只是四处看看。怎么了？}
 ### {234}{}{And the fact that we don't like them here. You're on our territory. I'll have to kill you to avoid unnecessary rumors.}

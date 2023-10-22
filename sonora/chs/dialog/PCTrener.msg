@@ -7,7 +7,7 @@
 ### {103}{}{Someone killed Angelo. I'll find that son of a bitch and personally break his neck.}
 {103}{}{有人杀了安吉洛。我会找到那个婊子养的，亲自打断他的脖子。}
 ### {104}{}{Another junkie... The exit is there. I say THE EXIT IS THERE.}
-{104}{}{另一个瘾君子。。。出口就在那里。我说出口在那里。}
+{104}{}{另一个瘾君子...出口就在那里。我说出口在那里。}
 ### {105}{}{Uh, no, buddy, I don't want to have anything to do with cardinals.}
 {105}{}{不，伙计，我不想和红衣主教有任何关系。}
 
@@ -17,13 +17,13 @@
 ### {201}{}{What are you doing, you bastard?!}
 {201}{}{你在干什么，你这个混蛋？！}
 ### {202}{}{Sorry, I didn't mean to disturb you...}
-{202}{}{对不起，我不是故意打扰你的。。。}
+{202}{}{对不起，我不是故意打扰你的...}
 ### {1202}{}{Sorry, I didn't mean to disturb you...}
-{1202}{}{对不起，我不是故意打扰你的。。。}
+{1202}{}{对不起，我不是故意打扰你的...}
 ### {203}{}{(You can distinguish a naked man with a very strong build in the chair; his arms and bald head are covered with clouded combat tattoos). I don't want to see anyone. Get out!}
 {203}{}{（你可以在椅子上认出一个身材魁梧的裸体男子；他的手臂和光头上布满了云状的战斗纹身）。我不想见任何人。滚出去！}
 ### {204}{}{Okay, whatever you say...}
-{204}{}{好吧，不管你说什么。。。}
+{204}{}{好吧，不管你说什么...}
 ### {205}{}{Don't think you can get away with it.}
 {205}{}{别以为你能逃脱惩罚。}
 ### {206}{}{Go away. I don't want to see anyone.}
@@ -33,7 +33,7 @@
 ### {208}{}{Don't you understand the first time? Get out!}
 {208}{}{你第一次不明白吗？滚出去！}
 ### {209}{}{I just...}
-{209}{}{我只是。。。}
+{209}{}{我只是...}
 
 #First dialog 2
 ### {210}{}{I'm sorry I yelled. Sometimes I can't help myself, especially after the second bottle of tequila.}
@@ -43,11 +43,11 @@
 ### {212}{}{Next time I can respond in kind.}
 {212}{}{下次我可以用同样的方式回应。}
 ### {213}{}{My name is Mike. They are also sometimes called Iron, because no one managed to beat me in the ring. But you know what? To hell with them! I'm tired of these fights. People fight only for the caps, and I fought for the right to be the besta. It's not the same thing.}
-{213}{}{我的名字叫迈克。他们有时也被称为铁，因为在拳击场上没有人能打败我。但你知道吗？见鬼去吧！我厌倦了这些打架。人们只为帽子而战，而我则为成为最佳球员的权利而战。这不是一回事。}
+{213}{}{我的名字叫迈克。他们有时也被称为铁，因为在拳击场上没有人能打败我。但你知道吗？见鬼去吧！我厌倦了这些打架。人们只为瓶盖而战，而我则为成为最佳球员的权利而战。这不是一回事。}
 ### {214}{}{If you don't fight anymore, then what do you do?}
 {214}{}{如果你不再打架，你会怎么做？}
 ### {215}{}{(sips the leftovers from the bottle and sighs) I'm drinking! And I remember the old days. Seriously, it won't be difficult for me to earn extra money on "power actions". But I don't want. The city is mired in sin... Are you listening?}
-{215}{}{（啜饮着瓶子里的剩菜，叹了口气）我在喝酒！我还记得过去的日子。说真的，对我来说，通过“权力行动”赚外快并不难。但我不想。这座城市深陷罪恶之中。。。你在听吗？}
+{215}{}{（啜饮着瓶子里的剩菜，叹了口气）我在喝酒！我还记得过去的日子。说真的，对我来说，通过“权力行动”赚外快并不难。但我不想。这座城市深陷罪恶之中...你在听吗？}
 ### {216}{}{Yes, uh, in sin. What do you mean?}
 {216}{}{是的，呃，在罪恶中。你是什么意思？}
 ### {217}{}{Hey, leave me at least a couple drops.}
@@ -59,7 +59,7 @@
 ### {220}{}{Yes, you're a complete loser.}
 {220}{}{是的，你完全是个失败者。}
 ### {221}{}{All these revolutionaries, sectarians, bandits, black market dealers - nobody cares about you and the city. Everyone cares about their own benefit... By the way, what are you doing here?}
-{221}{}{所有这些革命者、宗派主义者、土匪、黑市商人——没有人关心你和这座城市。每个人都关心自己的利益。。。顺便问一下，你在这里干什么？}
+{221}{}{所有这些革命者、宗派主义者、土匪、黑市商人——没有人关心你和这座城市。每个人都关心自己的利益...顺便问一下，你在这里干什么？}
 ### {222}{}{Just looking for new acquaintances. I'm new in town.}
 {222}{}{只是在寻找新的熟人。我是新来的。}
 ### {223}{}{ (scratches his stubble and makes an indifferent grimace) You're not in the besta place for this, baby. But a fight in the ring may attract some attention to you.}
@@ -158,7 +158,7 @@
 ### {283}{}{I think you should know that he had an "accident". Are you satisfied?}
 {283}{}{我想你应该知道他出了“意外”。你满意吗？}
 ### {284}{}{Partly. Although I don't know what I would do myself .......}
-{284}{}{一定程度上虽然我不知道我自己会做什么。。。。。。。}
+{284}{}{一定程度上虽然我不知道我自己会做什么......。}
 ### {285}{}{Fortunately, bandits don't live long. And I'm not going to join their ranks with new forces. All I have to do is forget myself with a bottle of tequila. I drink and don't touch anyone. It's good for everyone.}
 {285}{}{幸运的是，土匪活不了多久。我不会加入他们的行列，加入新的力量。我所要做的就是喝一瓶龙舌兰酒忘记自己。我喝酒，不碰任何人。这对每个人都有好处。}
 ### {286}{}{It's a sad story, Mike. Now I see why you don't want to teach me.}
@@ -217,7 +217,7 @@
 ### {317}{}{I'll pay.}
 {317}{}{我会付钱的。}
 ### {318}{}{bottlecaps. Sure. Now everything is solved by bottlecaps. But first tell me, how are you going to use the acquired skills? For self-defense? To earn money in the ring? Okay, promise me, right now and here... No, SWEAR that you will use your skills for the benefit of ordinary people.}
-{318}{}{装瓶。当然现在一切都通过瓶颈解决了。但首先告诉我，你将如何使用所获得的技能？为了自卫？在拳击场上赚钱？好吧，答应我，现在和这里。。。不，发誓你会为了普通人的利益而使用你的技能。}
+{318}{}{装瓶。当然现在一切都通过瓶颈解决了。但首先告诉我，你将如何使用所获得的技能？为了自卫？在拳击场上赚钱？好吧，答应我，现在和这里...不，发誓你会为了普通人的利益而使用你的技能。}
 ### {319}{}{I can't take such an oath.}
 {319}{}{我不能这样发誓。}
 ### {320}{}{First of all. Exactly. Now go away. We have nothing more to talk about.}
@@ -231,17 +231,17 @@
 ### {324}{}{Okay.}
 {324}{}{可以}
 ### {325}{}{Hmm... I don't know... Give me time to think. And bring more drinks.}
-{325}{}{嗯…我不知道。。。给我时间思考。带更多的饮料。}
+{325}{}{嗯…我不知道...给我时间思考。带更多的饮料。}
 ### {326}{}{Okay.}
 {326}{}{可以}
 ### {327}{}{So what have you decided? Will you train me?}
 {327}{}{那么你决定了什么？你会训练我吗？}
 ### {328}{}{Maybe I've been wrong all these years... Good. But for each workout I will take 500 caps. As soon as you save up, come.}
-{328}{}{也许这些年来我一直错了。。。好的但每次锻炼我都要戴500顶帽子。你一存起来就来。}
+{328}{}{也许这些年来我一直错了...好的但每次锻炼我都要戴500个瓶盖。你一存起来就来。}
 ### {329}{}{See you later, Mike.}
 {329}{}{回头见，迈克。}
 ### {330}{}{Maybe I've been wrong all these years... Good. Get ready for training and come back tomorrow morning.}
-{330}{}{也许这些年来我一直错了。。。好的做好训练准备，明天早上再来。}
+{330}{}{也许这些年来我一直错了...好的做好训练准备，明天早上再来。}
 ### {331}{}{I'll definitely come, Mike.}
 {331}{}{我一定会来的，迈克。}
 
@@ -257,9 +257,9 @@
 ### {340}{}{I'm here to learn the art of melee combat.}
 {340}{}{我来这里是为了学习近战的艺术。}
 ### {341}{}{Sounds a bit pompous, but it doesn't matter. Brought 500 caps?}
-{341}{}{听起来有点浮夸，但没关系。带了500顶帽子？}
+{341}{}{听起来有点浮夸，但没关系。带了500个瓶盖？}
 ### {1341}{}{Sounds a bit pompous, but it doesn't matter. Did you bring 500 caps?}
-{1341}{}{听起来有点浮夸，但没关系。你带了500顶帽子吗？}
+{1341}{}{听起来有点浮夸，但没关系。你带了500个瓶盖吗？}
 ### {342}{}{No, I didn't think of that somehow, sorry.}
 {342}{}{不，我不知怎么没想到，对不起。}
 ### {1342}{}{No, I didn't think about that somehow, I'm sorry.}
@@ -269,9 +269,9 @@
 ### {344}{}{Yes, of course.}
 {344}{}{是的，当然。}
 ### {345}{}{Here are the caps. What are we going to do today?}
-{345}{}{这是帽子。我们今天要做什么？}
+{345}{}{这是瓶盖。我们今天要做什么？}
 ### {346}{}{Sounds inspiring. And you can keep the caps. Today I train for you for free. Just because I like you.}
-{346}{}{听起来很鼓舞人心。你可以保留帽子。今天我免费为你训练。只是因为我喜欢你。}
+{346}{}{听起来很鼓舞人心。你可以保留瓶盖。今天我免费为你训练。只是因为我喜欢你。}
 ### {347}{}{Cool. What are we going to do today?}
 {347}{}{凉的我们今天要做什么？}
 ### {348}{}{I've heard rumors that you're involved in the murder of some children. I don't know if this is true, but I trust my source. From this day on, you are no longer my disciple. Go away.}
@@ -279,7 +279,7 @@
 ### {1348}{}{I've heard rumors that you're involved in the murder of children. I don't know if it's true, but I don't want to check either. I don't want to see you from now on. Get out.}
 {1348}{}{我听说你和谋杀儿童有关。我不知道这是不是真的，但我也不想核实。从现在起我不想见你，滚出去。}
 ### {349}{}{...}
-{349}{}{。。。}
+{349}{}{...}
 
 ### {350}{}{Let's start with the basics. Correct stance, breathing and concentration.}
 {350}{}{让我们从基础知识开始。正确的姿势、呼吸和注意力。}

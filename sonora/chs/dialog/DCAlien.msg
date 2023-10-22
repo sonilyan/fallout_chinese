@@ -3,17 +3,17 @@
 ### {101}{}{You see a man in dusty clothes. It looks like he walked many miles in it.}
 {101}{}{你看到一个男人穿着满是灰尘的衣服。看起来他开着它走了好几英里。}
 ### {102}{}{Wow. I knew that tinsmiths are masters, but I didn't even think about it...}
-{102}{}{哇！我知道锡匠是大师，但我甚至没有想过。。。}
+{102}{}{哇！我知道锡匠是大师，但我甚至没有想过...}
 ### {103}{}{What's wrong with this damn city?}
 {103}{}{这个该死的城市怎么了？}
 ### {104}{}{...}
-{104}{}{。。。}
+{104}{}{...}
 
 #First meeting
 ### {200}{}{Hey, is that you? What a surprise. I didn't think I'd meet you here.}
 {200}{}{嘿，是你吗？真是个惊喜。我没想到会在这里见到你。}
 ### {201}{}{And you...}
-{201}{}{而你。。。}
+{201}{}{而你...}
 ### {202}{}{Do you remember you brought me a letter in Phoenix? I was very surprised at the time and thought it was some kind of deception. As it turned out, in vain.}
 {202}{}{你还记得你在凤凰城给我带来一封信吗？当时我非常惊讶，认为这是某种欺骗。事实证明，这是徒劳的。}
 ### {1202}{}{Do you remember when you brought me the letter in Phoenix? I was very surprised at the time and thought it was some kind of deception. As it turned out, in vain.}
@@ -101,7 +101,7 @@
 ### {266}{}{Are you kidding? After all these threats, are you going to stay?}
 {266}{}{你在开玩笑吗？在所有这些威胁之后，你会留下来吗？}
 ### {267}{}{You see... To be honest, things weren't going well in Phoenix either. I was completely desperate, trying to earn caps on the fights. But here you can revive my uncle's business and get rich. Why the hell should I miss my chance?}
-{267}{}{你看。。。老实说，菲尼克斯的情况也不太好。我完全绝望了，试图赢得比赛的上限。但在这里你可以重振我叔叔的生意并致富。我为什么要错过机会？}
+{267}{}{你看...老实说，菲尼克斯的情况也不太好。我完全绝望了，试图赢得比赛的上限。但在这里你可以重振我叔叔的生意并致富。我为什么要错过机会？}
 ### {268}{}{Ah, that's it. The death of your relative was very convenient, wasn't it?}
 {268}{}{啊，就是这样。你亲戚的死很方便，不是吗？}
 ### {269}{}{What are you talking about? I can revive my uncle's business and get rich. It would be stupid to miss such a chance.}
@@ -141,13 +141,13 @@
 ### {303}{}{Dead? What the hell is wrong with this city? Okay, I don't want the details. But your truth is - I need to occupy the bathhouse before someone else does it.}
 {303}{}{死去的这个城市到底怎么了？好吧，我不想要细节。但你的真相是——我需要在别人之前占据澡堂。}
 ### {304}{}{OK, we'll meet there...}
-{304}{}{好的，我们在那里见面。。。}
+{304}{}{好的，我们在那里见面...}
 ### {305}{}{The mayor has recognized your right to a bathing place. You can start your own business.}
 {305}{}{市长已经承认你有权去洗澡。你可以自己创业。}
 ### {306}{}{Wow, you know how to negotiate with people. Now we need to occupy the bathhouse before the mayor changes his mind.}
 {306}{}{哇，你知道如何与人谈判。现在，在市长改变主意之前，我们需要占用澡堂。}
 ### {307}{}{OK, we'll meet on the spot...}
-{307}{}{好的，我们会在现场见面。。。}
+{307}{}{好的，我们会在现场见面...}
 ### {308}{}{The mayor demands that you leave the city. Immediately.}
 {308}{}{市长要求你离开这个城市。立即}
 ### {309}{}{What happened to you? Can't you see that it's not fair? I rightfully own this bathhouse. It's empty now anyway.}
@@ -173,7 +173,7 @@
 ### {318}{}{Listen to me. I'll count to five, and then I'll get the gun. One... two...}
 {318}{}{听我说，我数数到五，然后拿枪。一二}
 ### {319}{}{Hey, hey, wait...}
-{319}{}{嘿，嘿，等等。。。}
+{319}{}{嘿，嘿，等等...}
 ### {320}{}{...three.}
 {320}{}{三}
 ### {321}{}{Come on, it's a joke. Of course, stay, it's your problem.}
@@ -229,7 +229,7 @@
 ### {401}{}{I'll only charge you for firewood and water. It will cost in }
 {401}{}{我只收你的柴火和水。它将花费}
 ### {402}{}{ caps.}
-{402}{}{帽子。}
+{402}{}{瓶盖。}
 ### {403}{}{I can't afford that luxury. Another time.}
 {403}{}{我负担不起那种奢侈。下次}
 ### {404}{}{Sounds acceptable. Here...}
@@ -250,13 +250,13 @@
 ### {416}{}{You're a scum.}
 {416}{}{你是个渣滓。}
 ### {417}{}{Of course, partner. I've been saving up caps just for you. Here, 200 pieces. And now I'm sorry, this tub needs to be cleaned properly.}
-{417}{}{当然，伙伴。我一直在为你攒帽子。给，200块。现在我很抱歉，这个浴缸需要好好清洗。}
+{417}{}{当然，伙伴。我一直在为你攒瓶盖。给，200块。现在我很抱歉，这个浴缸需要好好清洗。}
 ### {418}{}{Thank you, it's a pleasure doing business with you. Have a nice day, Steve.}
 {418}{}{谢谢你，很高兴和你做生意。祝你今天愉快，史蒂夫。}
 ### {419}{}{And that's it? Shit is your business, Steve. And change the sign. It looks lousy.}
 {419}{}{就这样？妈的是你的事，史蒂夫。然后换个标志。它看起来很糟糕。}
 ### {420}{}{If you don't want to give up the bottlecaps, I'll take them by force. Stand still, you bastard...}
-{420}{}{如果你不想放弃瓶子，我就强行拿走。站住，你这个混蛋。。。}
+{420}{}{如果你不想放弃瓶子，我就强行拿走。站住，你这个混蛋...}
 
 ### {430}{}{The tinsmiths sent an ambassador here. Do you know anything about it?}
 {430}{}{锡匠们派了一位大使来这里。你知道这件事吗？}

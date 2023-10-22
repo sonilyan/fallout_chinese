@@ -38,4 +38,4 @@
 ### {123}{}{After Diego's death, everyone around seemed to break loose.}
 {123}{}{迭戈死后，周围的人似乎都放松了。}
 ### {124}{}{Ah, Diego... Who just raised their hand?}
-{124}{}{啊，迭戈。。。谁刚刚举手？}
+{124}{}{啊，迭戈...谁刚刚举手？}

@@ -28,7 +28,7 @@
 {211}{}{社区犯了一个错误。杀死自己的人是破坏生活方式的方式。}
 
 ### {212}{}{Maybe so... I don't know! We all changed after that raid. Before him, we lived in peace and no one was going to throw stones at a neighbor. Only in the old days, when the Villa was being rebuilt...}
-{212}{}{也许是这样…我不知道！那次突袭后我们都变了。在他之前，我们过着平静的生活，没有人会向邻居扔石头。只是在过去，当别墅正在重建时。。。}
+{212}{}{也许是这样…我不知道！那次突袭后我们都变了。在他之前，我们过着平静的生活，没有人会向邻居扔石头。只是在过去，当别墅正在重建时...}
 ### {213}{}{[Next]}
 {213}{}{[下一个]}
 ### {214}{}{Here the ancestors took the material for building houses. And they say that life was tight then, a neighbor could steal from a neighbor. We survived that horror and became a big close-knit family. Everything changed after the raid.}
@@ -36,11 +36,11 @@
 ### {215}{}{Then you must understand that this is not the way out. Let Chris go.}
 {215}{}{那么你必须明白，这不是出路。放开克里斯。}
 ### {216}{}{I can't! He... he should be an example... so the community decided...}
-{216}{}{我不能！他他应该成为一个榜样。。。所以社区决定。。。}
+{216}{}{我不能！他他应该成为一个榜样...所以社区决定...}
 ### {217}{}{You are afraid. You are afraid that the Villa will change.}
 {217}{}{你很害怕。你担心别墅会改变。}
 ### {218}{}{Yes! Cris... forgive me.}
-{218}{}{对克里斯。。。原谅我。}
+{218}{}{对克里斯...原谅我。}
 ### {219}{}{Ugh, it seems we have solved this problem.}
 {219}{}{啊，看来我们已经解决了这个问题。}
 ### {220}{}{Then do what you have to do. I won't bother you.}
@@ -52,7 +52,7 @@
 ### {222}{}{The community will not forgive you for such an act. (spits on your feet and leaves)}
 {222}{}{社区不会原谅你的这种行为。（吐在你的脚上并离开）}
 ### {223}{}{Come on, move back to the herd, you fool...}
-{223}{}{来吧，回到牛群里去，你这个傻瓜。。。}
+{223}{}{来吧，回到牛群里去，你这个傻瓜...}
 ### {224}{}{Just let Chris go.}
 {224}{}{让克里斯走吧。}
 

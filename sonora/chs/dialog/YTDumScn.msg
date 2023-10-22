@@ -7,7 +7,7 @@
 ### {113}{}{What cretins! Now we have less time to prepare.}
 {113}{}{什么白痴！现在我们准备的时间少了。}
 ### {114}{}{So, can we seize the dam? It's not the case to leave such power to the dregs...}
-{114}{}{那么，我们能占领大坝吗？不是把这样的权力留给渣滓。。。}
+{114}{}{那么，我们能占领大坝吗？不是把这样的权力留给渣滓...}
 ### {115}{}{No, it will only distract us from the main goal.}
 {115}{}{不，这只会分散我们对主要目标的注意力。}
 ### {116}{}{Besides, the ghouls need the station for the city. It is unlikely that they use it to harm.}

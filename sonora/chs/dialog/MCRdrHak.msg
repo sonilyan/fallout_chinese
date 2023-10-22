@@ -28,7 +28,7 @@
 ### {209}{}{Dedication?}
 {209}{}{奉献}
 ### {210}{}{Oh, hello. Uh, I'm training here... I want to be as cool as you.}
-{210}{}{哦，你好。我在这里训练。。。我想和你一样酷。}
+{210}{}{哦，你好。我在这里训练...我想和你一样酷。}
 ### {211}{}{If you want to take my place next to Ben, then you're too late.}
 {211}{}{如果你想取代我在本旁边的位置，那你就太晚了。}
 ### {212}{}{No, no, I'm not up to you. That's why I train hard before initiation.}

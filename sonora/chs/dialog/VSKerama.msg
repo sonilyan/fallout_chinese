@@ -5,4 +5,4 @@
 ### {112}{}{You have made several pieces of tableware. But you weren't allowed anywhere near here before.}
 {112}{}{你做了几件餐具。但你以前不允许靠近这里。}
 ### {113}{}{It seems that the Villa traded ceramics with neighboring settlements...}
-{113}{}{别墅似乎与邻近的定居点进行陶瓷交易。。。}
+{113}{}{别墅似乎与邻近的定居点进行陶瓷交易...}

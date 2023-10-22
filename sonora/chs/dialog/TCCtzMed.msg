@@ -5,9 +5,9 @@
 ### {102}{}{How could primitive medicine cure me? This is illogical!}
 {102}{}{原始医学怎么能治好我？这是不合逻辑的！}
 ### {104}{}{Why... I'm not... digitized yet...}
-{104}{}{为什么？我不是。。。数字化了。。。}
+{104}{}{为什么？我不是...数字化了...}
 ### {105}{}{Mine... biomatrix... crashes...}
-{105}{}{矿生物矩阵。。。崩溃。。。}
+{105}{}{矿生物矩阵...崩溃...}
 
 ### {110}{}{Take me apart for parts.}
 {110}{}{把我拆开。}

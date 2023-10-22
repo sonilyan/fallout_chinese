@@ -36,7 +36,7 @@
 ### {230}{}{Medical experiments.}
 {230}{}{医学实验。}
 ### {231}{}{The followers of Fire are conducting various medical experiments thanks to the perfectly preserved equipment of the Vault.}
-{231}{}{火的追随者们正在进行各种医学实验，这要归功于金库保存完好的设备。}
+{231}{}{火的追随者们正在进行各种医学实验，这要归功于避难所保存完好的设备。}
 ### {232}{}{Projects in development.}
 {232}{}{正在开发的项目。}
 ### {233}{}{Increased resistance to radiation; increased combat capability of guards with chemical agents; antivirus for "wasteland disease".}
@@ -53,13 +53,13 @@
 ### {242}{}{What else is GECK?}
 {242}{}{GECK还有什么？}
 ### {243}{}{The Eden Bushes Compact Generator is an ancient technology for restoring the earth after being hit by a nuclear strike. The technology turned out to be too complex to be repeated in the laboratory conditions of Vault 25. In search of a GECK worker, the Followers equipped expeditions to other Vaults.}
-{243}{}{伊甸园布什紧凑型发电机是一种古老的技术，用于在遭受核打击后恢复地球。事实证明，这项技术过于复杂，无法在Vault 25的实验室条件下重复使用。为了寻找一名GECK工作人员，追随者们装备了前往其他金库的探险队。}
+{243}{}{伊甸园布什紧凑型发电机是一种古老的技术，用于在遭受核打击后恢复地球。事实证明，这项技术过于复杂，无法在Vault 25的实验室条件下重复使用。为了寻找一名GECK工作人员，追随者们装备了前往其他避难所的探险队。}
 ### {244}{}{Expedition to the Vault 26.}
-{244}{}{远征金库26。}
+{244}{}{远征避难所26。}
 ### {245}{}{The Vault was destroyed by a nuclear strike, the GECK was not preserved.}
 {245}{}{保险库被核打击摧毁，GECK没有保存下来。}
 ### {246}{}{Expedition to the Vault 27.}
-{246}{}{远征金库27。}
+{246}{}{远征避难所27。}
 ### {247}{}{Excavations are currently underway under the direction of Arthur Carrington. The coordinates of the Vault are attached. The presence of the GECK in the Vault has not been confirmed.}
 {247}{}{挖掘工作目前正在阿瑟·卡林顿的指导下进行。Vault的坐标已附着。GECK在保险库中的存在尚未得到确认。}
 

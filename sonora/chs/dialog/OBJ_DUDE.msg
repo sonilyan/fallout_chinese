@@ -24,7 +24,7 @@
 {119}{}{通过你的背包或从你的手中使用这个。}
 
 ### {120}{}{At the sight of this useless garbage, you involuntarily have an idea... the idea of burning this world in a new atomic war.}
-{120}{}{看到这些无用的垃圾，你会不由自主地产生一个想法。。。在一场新的原子战争中烧毁这个世界的想法。}
+{120}{}{看到这些无用的垃圾，你会不由自主地产生一个想法...在一场新的原子战争中烧毁这个世界的想法。}
 ### {121}{}{This update is intended exclusively for the ZAX logic module.}
 {121}{}{此更新仅适用于ZAX逻辑模块。}
 ### {122}{}{It's not like you're a nuclear bomb.}
@@ -36,7 +36,7 @@
 ### {125}{}{This letter should be presented to the Followers of Fire in Phoenix.}
 {125}{}{这封信应该交给凤凰城的火的追随者。}
 ### {126}{}{Damn sectarians...}
-{126}{}{该死的宗派主义者。。。}
+{126}{}{该死的宗派主义者...}
 ### {127}{}{I don't want to think about them anymore.}
 {127}{}{我不想再去想他们了。}
 ### {128}{}{Drinking this liquid in its pure form will only lead to an upset stomach.}
@@ -73,7 +73,7 @@
 ### {140}{}{Your family members would not be happy to know that you are throwing away family heirlooms.}
 {140}{}{你的家人会不高兴知道你正在扔掉传家宝。}
 ### {141}{}{Beggars will be very happy to find your caps.}
-{141}{}{乞丐会很高兴找到你的帽子。}
+{141}{}{乞丐会很高兴找到你的瓶盖。}
 ### {142}{}{Imagining yourself a patron of the arts, you generously scatter money to the wind.}
 {142}{}{想象自己是艺术的赞助人，你慷慨地把钱撒向风中。}
 ### {143}{}{These sandals will help you survive in caustic substances, but only for a short time.}
@@ -97,7 +97,7 @@
 ### {156}{}{Don't do it.}
 {156}{}{不要这么做。}
 ### {157}{}{It could be dangerous! Your recklessness almost ruined your character. And how upset Granny Adonsia would be...}
-{157}{}{这可能很危险！你的鲁莽几乎毁了你的性格。阿东西娅奶奶会多么难过。。。}
+{157}{}{这可能很危险！你的鲁莽几乎毁了你的性格。阿东西娅奶奶会多么难过...}
 ### {158}{}{You should look for more reliable shoes. And this one can be sold at the nearest market.}
 {158}{}{你应该找更可靠的鞋。这个可以在最近的市场上卖。}
 ### {159}{}{To parse this item, you will need a workbench.}

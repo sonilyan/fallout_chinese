@@ -34,17 +34,17 @@
 ### {210}{}{I don't have anything of value either. Maybe another time.}
 {210}{}{我也没有什么有价值的东西。也许改天吧。}
 ### {211}{}{Here's one cap, don't deny yourself anything.}
-{211}{}{这里有一个帽子，不要否定自己。}
+{211}{}{这里有一个瓶盖，不要否定自己。}
 ### {212}{}{Keep two caps, you deserve it.}
-{212}{}{保留两顶帽子，你应得的。}
+{212}{}{保留两个瓶盖，你应得的。}
 ### {213}{}{Take these three caps and spend them on food.}
-{213}{}{拿着这三顶帽子，把它们花在食物上。}
+{213}{}{拿着这三个瓶盖，把它们花在食物上。}
 ### {214}{}{Today I am generous. Here are four bottlecaps.}
 {214}{}{今天我很慷慨。这是四个瓶子。}
 ### {1214}{}{I'm generous today. Here are four bottlecaps.}
 {1214}{}{我今天很大方。这是四个瓶子。}
 ### {215}{}{I can't bear to see you suffer on the street. Take these five caps.}
-{215}{}{我不忍心看到你在街上受苦。拿这五顶帽子。}
+{215}{}{我不忍心看到你在街上受苦。拿这五个瓶盖。}
 ### {216}{}{What a terrible ordeal for my ears! Don't make that noise anymore.}
 {216}{}{对我的耳朵来说是多么可怕的折磨啊！别再制造那种噪音了。}
 ### {217}{}{Bravo! You're doing great, young lady.}
@@ -53,11 +53,11 @@
 {218}{}{一首奇怪的歌。但执行死刑是值得的。}
 
 ### {220}{}{Thank you, sir...}
-{220}{}{谢谢你，先生。。。}
+{220}{}{谢谢你，先生...}
 ### {1220}{}{Thank you, ma'am...}
-{1220}{}{谢谢你，女士。。。}
+{1220}{}{谢谢你，女士...}
 ### {221}{}{Hmm. You could have said it more respectfully. But what can you expect from such a mongrel...}
-{221}{}{嗯。你本可以更礼貌地说。但是你能从这样一个混血儿身上期待什么。。。}
+{221}{}{嗯。你本可以更礼貌地说。但是你能从这样一个混血儿身上期待什么...}
 ### {222}{}{You are welcome. I hope this helps you.}
 {222}{}{不客气。我希望这对你有帮助。}
 
@@ -76,8 +76,8 @@
 ### {236}{}{You're lucky this time.}
 {236}{}{这次你很幸运。}
 ### {237}{}{Let go! (Holding the girl by the elbow, you find ten caps in her things and take them for yourself.) Somebody! Help!}
-{237}{}{放手（抓住女孩的胳膊肘，你在她的东西里发现了十顶帽子，就把它们拿走了。）谁！帮助}
+{237}{}{放手（抓住女孩的胳膊肘，你在她的东西里发现了十个瓶盖，就把它们拿走了。）谁！帮助}
 ### {238}{}{Don't bring anyone after me, okay? Now get lost.}
 {238}{}{不要带任何人来追我，好吗？现在迷路吧。}
 ### {239}{}{You can go now. I was only interested in the caps.}
-{239}{}{你现在可以走了。我只对帽子感兴趣。}
+{239}{}{你现在可以走了。我只对瓶盖感兴趣。}

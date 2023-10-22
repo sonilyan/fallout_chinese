@@ -53,13 +53,13 @@
 ### {203}{}{Well, get used to it, BITCH.}
 {203}{}{好吧，习惯吧，婊子。}
 ### {204}{}{Watch your mouth, you piece of roadside shit, otherwise...}
-{204}{}{小心你的嘴，你这路边的屎，否则。。。}
+{204}{}{小心你的嘴，你这路边的屎，否则...}
 ### {205}{}{Otherwise what? Ooh, will you resist?}
 {205}{}{否则怎么办？哦，你会反抗吗？}
 ### {206}{}{Well, one more word, and...}
-{206}{}{好吧，再来一个词，然后。。。}
+{206}{}{好吧，再来一个词，然后...}
 ### {207}{}{What are you gonna do, baby? I have a palm. The palm I'm going to slap you with...}
-{207}{}{你打算怎么办，宝贝？我有一只手掌。我要扇你的手掌。。。}
+{207}{}{你打算怎么办，宝贝？我有一只手掌。我要扇你的手掌...}
 ### {208}{}{Do you want me, trash?}
 {208}{}{你想要我吗，垃圾？}
 ### {209}{}{You want to, huh?}
@@ -67,7 +67,7 @@
 ### {210}{}{*Ugh*}
 {210}{}{*啊*}
 ### {211}{}{No, it's fine... Sorry, I got confused...}
-{211}{}{不，很好。。。对不起，我弄糊涂了。。。}
+{211}{}{不，很好...对不起，我弄糊涂了...}
 ### {212}{}{Talk to me here.}
 {212}{}{在这里和我说话。}
 ### {213}{}{. . .}

@@ -16,7 +16,7 @@
 ### {204}{}{I see. Maybe I'll come back to you.}
 {204}{}{我明白了。也许我会回到你身边。}
 ### {205}{}{Hmm, I've seen you somewhere... Hey! They're looking for you in Phoenix, aren't they? Don't worry, I won't turn you in. Someone is looking for me there too.}
-{205}{}{嗯，我在什么地方见过你。。。嘿他们在凤凰城找你，不是吗？别担心，我不会告发你的。那里也有人在找我。}
+{205}{}{嗯，我在什么地方见过你...嘿他们在凤凰城找你，不是吗？别担心，我不会告发你的。那里也有人在找我。}
 ### {206}{}{That's good. What are you doing in such a terrible place?}
 {206}{}{这很好。你在这么糟糕的地方干什么？}
 

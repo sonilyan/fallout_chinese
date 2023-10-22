@@ -67,15 +67,15 @@
 ### {212}{}{[Interrupt speech]}
 {212}{}{[中断语音]}
 ### {213}{}{We were a close-knit community, but the fire worshippers brought us selfishness! We believed in one god, but they taught us to argue about religion! We wanted to do good to our fellow tribesmen, but the clans have once again entered the path of enmity...}
-{213}{}{我们是一个紧密团结的社区，但拜火者给我们带来了自私！我们相信一个神，但他们教会我们争论宗教！我们想对我们的部落同胞做好事，但部落再次走上了敌对的道路。。。}
+{213}{}{我们是一个紧密团结的社区，但拜火者给我们带来了自私！我们相信一个神，但他们教会我们争论宗教！我们想对我们的部落同胞做好事，但部落再次走上了敌对的道路...}
 ### {214}{}{The Phoenix taught us to trade brahmins as objects, although these animals are sacred. How many more outsiders will destroy our foundations? How many more feuds within the tribe will they cause just by their appearance in our lands?}
 {214}{}{凤凰教我们将婆罗门作为物品进行交易，尽管这些动物是神圣的。还有多少外来者会摧毁我们的基础？仅仅因为他们出现在我们的土地上，就会在部落内部引发多少世仇？}
 ### {215}{}{Now look at Chatto. He learned to read pagan texts from the caravaneers. Reading! He calls for the Brahmins to be exchanged for the soulless technology of outsiders. He and his friends want to trade our freedom for an alliance with Phoenix. They want to put the pueblo in the hands of missionaries!}
 {215}{}{现在看看查特。他从商队那里学会了阅读异教徒的经文。阅读他呼吁用外来者的无灵魂技术来交换婆罗门。他和他的朋友们想用我们的自由换取与凤凰城的联盟。他们想把普韦布洛交给传教士！}
 ### {216}{}{Look at these pagan things - books, technology, dubious and dangerous substances... We have always rejected them because they are dangerous, but there is nothing more valuable than the life of the tribe and the Brahmins. And now Chatto, along with his companions, collects pagan talismans and tries to read them. The Dark Brahmin has taken over the minds of our youth!}
-{216}{}{看看这些异教徒的东西——书籍、技术、可疑和危险的物质。。。我们一直拒绝他们，因为他们很危险，但没有什么比部落和婆罗门的生命更宝贵的了。现在查特和他的同伴们收集异教徒的护身符，并试图阅读它们。黑暗婆罗门已经占领了我们年轻人的思想！}
+{216}{}{看看这些异教徒的东西——书籍、技术、可疑和危险的物质...我们一直拒绝他们，因为他们很危险，但没有什么比部落和婆罗门的生命更宝贵的了。现在查特和他的同伴们收集异教徒的护身符，并试图阅读它们。黑暗婆罗门已经占领了我们年轻人的思想！}
 ### {217}{}{And this is our future? When did we fall so low that even the youth goes against the tribe? The missionaries are to blame for this! Drive them away! The pueblo must remain ours...}
-{217}{}{这就是我们的未来？我们什么时候堕落到连年轻人都反对部落的地步？这要怪传教士！把他们赶走！普韦布洛必须属于我们。。。}
+{217}{}{这就是我们的未来？我们什么时候堕落到连年轻人都反对部落的地步？这要怪传教士！把他们赶走！普韦布洛必须属于我们...}
 ### {218}{}{Oh, I see a stranger in the pueblo. Who are you? What are you doing in a strange tribe?}
 {218}{}{哦，我在普韦布洛看到一个陌生人。你是谁？你在一个陌生的部落里干什么？}
 ### {219}{}{Oh, I see a fire worshipper in the pueblo. What do you want? Take away our children and our brahmins? We have already answered your predecessors that the San Brahmin tribe cannot be bought, as you have done with the rest. Get back to your stinking Phoenix, pagan!}
@@ -219,10 +219,10 @@
 ### {294}{}{You deserve respect and reward. Take these old things that I recently took away from the tribesmen. Surely you will find a use for all this.}
 {294}{}{你应该得到尊重和奖励。拿我最近从部落里拿走的这些旧东西来说。你肯定会找到这一切的用处。}
 ### {295}{}{So, so, nuclear batteries, stimpacks, Radawaye and a bunch of caps... Pretty good.}
-{295}{}{核电池，刺激包，Radawaye和一堆帽子。。。还不错。}
+{295}{}{核电池，刺激包，Radawaye和一堆瓶盖...还不错。}
 
 ### {300}{}{...And this is our future? When did we fall so low that even the youth goes against the tribe? The Phoenix missionaries are to blame for this...}
-{300}{}{…这就是我们的未来？我们什么时候堕落到连年轻人都反对部落的地步？凤凰城的传教士应该对此负责。。。}
+{300}{}{…这就是我们的未来？我们什么时候堕落到连年轻人都反对部落的地步？凤凰城的传教士应该对此负责...}
 ### {301}{}{It's too late to shout about freedom, Mangas. The chief has made an alliance with the Phoenix. Accept it.}
 {301}{}{现在喊自由已经太晚了，曼加斯。首领已与凤凰城结盟。接受它。}
 ### {302}{}{I look with grief at the future of the tribe. It's covered in fog. We are like a lost brahmin strayed from the herd. Sadly. Very sad.}
@@ -269,9 +269,9 @@
 ### {327}{}{Trust me. Rangers are not your friends, and Phoenix will win anyway. You have no choice, otherwise you will perish in the sand.}
 {327}{}{相信我，流浪者队不是你的朋友，凤凰队无论如何都会赢。你别无选择，否则你会死在沙子里。}
 ### {328}{}{I listen to your words and I am more and more grieved... Is it really so bad that even the Villa is ready to bend under the Phoenix? Then we really have no choice.}
-{328}{}{听着你的话，我越来越难过。。。就连维拉都准备在凤凰城下屈服，真的这么糟糕吗？那我们真的别无选择。}
+{328}{}{听着你的话，我越来越难过...就连维拉都准备在凤凰城下屈服，真的这么糟糕吗？那我们真的别无选择。}
 ### {329}{}{I don't know anymore, Mangas... I need to collect my thoughts.}
-{329}{}{我不知道了，曼加斯。。。我需要收集我的想法。}
+{329}{}{我不知道了，曼加斯...我需要收集我的想法。}
 ### {330}{}{Of course. And until you convince me otherwise, I will speak at the council for an alliance with the Rangers. They are the ones who wish us well.}
 {330}{}{当然在你说服我之前，我会在理事会上发言，争取与流浪者队结盟。他们是祝福我们的人。}
 ### {331}{}{Okay. Bye.}

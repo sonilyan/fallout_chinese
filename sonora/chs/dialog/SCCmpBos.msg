@@ -56,7 +56,7 @@
 {226}{}{它会完成的，多布斯爵士。}
 
 ### {230}{}{I need fire support. Follow me...}
-{230}{}{我需要火力支援。跟我来。。。}
+{230}{}{我需要火力支援。跟我来...}
 ### {231}{}{I'll go on alone so as not to attract attention. Wait for the signal.}
 {231}{}{我一个人继续讲，以免引起注意。等待信号。}
 ### {1231}{}{Then I'll go alone, so as not to attract attention. Wait for the signal.}
@@ -66,13 +66,13 @@
 ### {1232}{}{Stop, rookie! How dare you leave the area of the operation without permission? Did you at least complete the task? Well? I'm waiting for an explanation!}
 {1232}{}{住手，菜鸟！你怎么敢未经允许就离开行动区？你至少完成任务了吗？好我在等解释！}
 ### {233}{}{No, I failed the assignment. Excuse me, Sir paladin...}
-{233}{}{不，我没有通过作业。抱歉，圣骑士。。。}
+{233}{}{不，我没有通过作业。抱歉，圣骑士...}
 ### {1233}{}{No, I failed the assignment. Excuse me, Sir paladin...}
-{1233}{}{不，我没有通过作业。抱歉，圣骑士。。。}
+{1233}{}{不，我没有通过作业。抱歉，圣骑士...}
 ### {234}{}{A deserter! A tribunal awaits you! Not another step to the base!}
 {234}{}{逃兵！法庭在等着你！不要再向基地走一步！}
 ### {235}{}{As you say, sir...}
-{235}{}{正如你所说，先生。。。}
+{235}{}{正如你所说，先生...}
 ### {236}{}{I don't care.}
 {236}{}{我不在乎。}
 
@@ -99,7 +99,7 @@
 ### {249}{}{Died? Damn it... So, now we have no reason to be polite to these scum.}
 {249}{}{死了？该死……所以，现在我们没有理由对这些渣滓客气了。}
 ### {250}{}{As you say, sir...}
-{250}{}{正如你所说，先生。。。}
+{250}{}{正如你所说，先生...}
 ### {251}{}{I managed to find out where the base is located.}
 {251}{}{我设法找到了基地的位置。}
 ### {252}{}{Great job, rookie. That's why we came here.}

@@ -16,7 +16,7 @@
 ### {115}{}{If you want to introduce yourself, order everyone a drink.}
 {115}{}{如果你想自我介绍，请给每个人点一杯。}
 ### {116}{}{Yes, you won't even give a couple of caps to a friend.}
-{116}{}{是的，你甚至不会给朋友几顶帽子。}
+{116}{}{是的，你甚至不会给朋友几个瓶盖。}
 ### {117}{}{Nah, don't touch it.}
 {117}{}{不，别碰它。}
 ### {118}{}{You weren't invited here, find another table.}
@@ -29,7 +29,7 @@
 ### {121}{}{I like you.}
 {121}{}{我喜欢你。}
 ### {122}{}{And you're nothing... for hillbillies.}
-{122}{}{而你什么都不是。。。为乡下人。}
+{122}{}{而你什么都不是...为乡下人。}
 ### {123}{}{What's your name there? Well, glad to meet you.}
 {123}{}{你叫什么名字？很高兴见到你。}
 ### {124}{}{The best way to get acquainted is drinking. And you do.}

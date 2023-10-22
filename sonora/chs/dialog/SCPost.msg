@@ -23,7 +23,7 @@
 ### {204}{}{You don't seem friendly.}
 {204}{}{你看起来不友好。}
 ### {205}{}{Wait... What the hell are you staring at? We don't need drug addicts here. Get out of here and don't come back. Come on, move...}
-{205}{}{等待你到底在看什么？我们这里不需要吸毒者。离开这里，别回来。来吧，动起来。。。}
+{205}{}{等待你到底在看什么？我们这里不需要吸毒者。离开这里，别回来。来吧，动起来...}
 ### {206}{}{Uh... uh...}
 {206}{}{嗯嗯}
 ### {207}{}{Closed? How is that? I don't know.}

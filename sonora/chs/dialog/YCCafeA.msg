@@ -1,7 +1,7 @@
 ### {100}{}{You see Edward.}
 {100}{}{你看到爱德华了。}
 ### {101}{}{Here is the owner of a local drinking establishment. He is wearing a once white apron and a cap.}
-{101}{}{这是当地一家酒吧的老板。他穿着一条曾经的白色围裙和一顶帽子。}
+{101}{}{这是当地一家酒吧的老板。他穿着一条曾经的白色围裙和一个瓶盖。}
 ### {102}{}{Not interested.}
 {102}{}{不感兴趣。}
 
@@ -12,7 +12,7 @@
 ### {202}{}{Uh, it looks like I don't belong here. So far...}
 {202}{}{看起来我不属于这里。目前为止}
 ### {203}{}{Don't get me wrong, but... Don't you know that this is a city of dead people? We even raise the prices to the normies so that they don't stay here.}
-{203}{}{别误会我的意思，但是。。。你不知道这是一座死人之城吗？我们甚至把价格提高到正常水平，这样他们就不会留在这里了。}
+{203}{}{别误会我的意思，但是...你不知道这是一座死人之城吗？我们甚至把价格提高到正常水平，这样他们就不会留在这里了。}
 ### {204}{}{I know. Don't worry, I won't disturb your glorious company.}
 {204}{}{我知道。别担心，我不会打扰你光荣的陪伴。}
 ### {205}{}{Just get me a drink, you fucking racist.}
@@ -89,7 +89,7 @@
 ### {236}{}{Make an order and get out soon.}
 {236}{}{下订单，马上离开。}
 ### {237}{}{Well, I'm sorry... Or maybe we will conclude? I'll pay triple the price for each bottle.}
-{237}{}{对不起。。。或者也许我们会得出结论？每瓶我要付三倍的价钱。}
+{237}{}{对不起...或者也许我们会得出结论？每瓶我要付三倍的价钱。}
 
 ### {240}{}{Thanks for the electricity, }
 {240}{}{谢谢你的电，}
@@ -123,11 +123,11 @@
 {253}{}{谢谢，埃德。我们待会儿见。}
 
 ### {260}{}{I need to exchange old money for caps.}
-{260}{}{我需要用旧钱换帽子。}
+{260}{}{我需要用旧钱换瓶盖。}
 ### {261}{}{I will redeem this money for }
 {261}{}{我将用这笔钱赎回}
 ### {262}{}{ caps. Deal?}
-{262}{}{帽子。处理}
+{262}{}{瓶盖。处理}
 ### {263}{}{Too cheap. Sorry to bother you.}
 {263}{}{太便宜了。很抱歉打扰你。}
 ### {264}{}{No need. Better give me something edible.}
@@ -149,7 +149,7 @@
 ### {272}{}{What is it, a hole in your pocket? It happens.}
 {272}{}{它是什么，你口袋里的一个洞？它发生了。}
 ### {273}{}{Yes, it is...}
-{273}{}{是的，是。。。}
+{273}{}{是的，是...}
 ### {274}{}{Please.}
 {274}{}{请}
 ### {275}{}{Thank you.}
@@ -198,7 +198,7 @@
 ### {297}{}{No, uh, I left it where I found it. Sorry.}
 {297}{}{不，我把它放在我找到的地方了。对不起。}
 ### {298}{}{Sorry. Very sorry. We need this processor! I beg you, bring it. I'll give you 200 caps.}
-{298}{}{很抱歉非常抱歉。我们需要这个处理器！我求你，带上它。我给你200顶帽子。}
+{298}{}{很抱歉非常抱歉。我们需要这个处理器！我求你，带上它。我给你200个瓶盖。}
 ### {299}{}{Well, if I'm around.}
 {299}{}{好吧，如果我在的话。}
 ### {300}{}{OK.}
@@ -210,4 +210,4 @@
 ### {303}{}{Glad to help. Maybe, Ed.}
 {303}{}{很乐意帮忙。也许吧，Ed。}
 ### {304}{}{Damn, but De-Santi would give me more... Oh, I'm talking about something else, nevermind. Uh, bye.}
-{304}{}{该死，但德桑蒂会给我更多。。。哦，我说的是别的，没关系。再见。}
+{304}{}{该死，但德桑蒂会给我更多...哦，我说的是别的，没关系。再见。}

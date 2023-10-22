@@ -13,7 +13,7 @@
 ### {111}{}{I would like to see how these Jackals were chased across the desert.}
 {111}{}{我想看看这些豺狼是如何在沙漠中被追赶的。}
 ### {112}{}{Have you heard the news about Jackals? You can't trust anyone now. Even the Rangers...}
-{112}{}{你听说关于豺狼的消息了吗？你现在不能相信任何人。即使是游骑兵队。。。}
+{112}{}{你听说关于豺狼的消息了吗？你现在不能相信任何人。即使是游骑兵队...}
 
 ### {113}{}{I don't hope for a good relationship with the scavengers after what they did.}
 {113}{}{我不希望在拾荒者做了这些之后能和他们保持良好的关系。}

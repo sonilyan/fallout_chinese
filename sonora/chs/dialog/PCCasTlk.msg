@@ -25,7 +25,7 @@
 ### {1205}{}{Everything is clear with you. Goodbye, loser.}
 {1205}{}{你一切都很清楚。再见，失败者。}
 ### {206}{}{Of course, buddy, now I'll buy you something hot...}
-{206}{}{当然，伙计，现在我给你买点热乎乎的。。。}
+{206}{}{当然，伙计，现在我给你买点热乎乎的...}
 ### {207}{}{Sorry, I can't. Another time.}
 {207}{}{对不起，我不能。下次}
 ### {208}{}{I understand. Be.}
@@ -33,7 +33,7 @@
 ### {209}{}{[Get back to your important business]}
 {209}{}{[回到你的重要业务上来]}
 ### {210}{}{Okay, I'll order you a drink...}
-{210}{}{好的，我给你点一杯。。。}
+{210}{}{好的，我给你点一杯...}
 ### {211}{}{Someone must have balls of steel here. By the way, my request is still valid.}
 {211}{}{这里一定有人铁石心肠。顺便说一句，我的请求仍然有效。}
 ### {1211}{}{Someone must have nerves of steel here. By the way, my request is still valid.}
@@ -100,7 +100,7 @@
 {245}{}{你为什么还要谈论这个？}
 
 ### {250}{}{(sighs and takes a sip after a short pause) I had one case...}
-{250}{}{（停顿片刻后叹了口气，喝了一口）我有一个病例。。。}
+{250}{}{（停顿片刻后叹了口气，喝了一口）我有一个病例...}
 ### {251}{}{Come on, tell me what's on your mind, buddy. That's why it's a bar.}
 {251}{}{来吧，告诉我你在想什么，伙计。这就是为什么它是一个酒吧。}
 ### {1251}{}{Come on, tell me what's on the soul of the great survivalist. That's why it's a bar.}

@@ -33,15 +33,15 @@
 ### {210}{}{Tell me about the raid.}
 {210}{}{告诉我这次突袭的情况。}
 ### {211}{}{I don't want to remember this horror! Strangers swooped in a crowd, beat our husbands, broke down doors and windows... I couldn't even run away from fear! And the children still can't come to their senses.}
-{211}{}{我不想记住这种恐怖！陌生人突然闯入人群，殴打我们的丈夫，打碎门窗。。。我甚至无法逃离恐惧！孩子们仍然无法恢复理智。}
+{211}{}{我不想记住这种恐怖！陌生人突然闯入人群，殴打我们的丈夫，打碎门窗...我甚至无法逃离恐惧！孩子们仍然无法恢复理智。}
 ### {212}{}{How are the kids?}
 {212}{}{孩子们好吗？}
 ### {213}{}{They are still in shock. I have to take care of the children, although I could use some support myself... This is terrible!}
-{213}{}{他们仍然感到震惊。我必须照顾孩子，尽管我自己需要一些支持。。。这太可怕了！}
+{213}{}{他们仍然感到震惊。我必须照顾孩子，尽管我自己需要一些支持...这太可怕了！}
 ### {214}{}{Is there anything I can do to help?}
 {214}{}{有什么我能帮忙的吗？}
 ### {215}{}{Yes, probably... Eden was so scared after losing his parents that he ran away and is now hiding somewhere. I can't leave the other kids to look for him. Look for him, okay?}
-{215}{}{是的，可能。。。伊登在失去父母后非常害怕，他逃跑了，现在躲在某个地方。我不能让其他孩子去找他。找他，好吗？}
+{215}{}{是的，可能...伊登在失去父母后非常害怕，他逃跑了，现在躲在某个地方。我不能让其他孩子去找他。找他，好吗？}
 ### {216}{}{Where should I start looking?}
 {216}{}{我应该从哪里开始寻找？}
 ### {217}{}{Yes, he could be anywhere!}
@@ -59,7 +59,7 @@
 ### {223}{}{Bad news - Eden has passed away.}
 {223}{}{坏消息——伊甸园去世了。}
 ### {224}{}{(faints) Ah... I guessed it was too late... it's all my fault... if I could have stopped him in time...}
-{224}{}{（晕倒）啊。。。我猜已经太晚了。。。都是我的错。。。如果我能及时阻止他。。。}
+{224}{}{（晕倒）啊...我猜已经太晚了...都是我的错...如果我能及时阻止他...}
 ### {225}{}{We did what we could.}
 {225}{}{我们做了力所能及的事。}
 ### {226}{}{As you can see, Eden is back.}
@@ -79,6 +79,6 @@
 ### {231}{}{Brass knuckles? Yes, I can use it.}
 {231}{}{黄铜指节？是的，我可以用它。}
 ### {232}{}{It's good that we have you... Oh, yes, the children found this, it looks like one of the raiders dropped it. Take it, maybe it will help you.}
-{232}{}{很高兴我们有你。。。哦，是的，孩子们发现了这个，看起来像是一个袭击者扔下的。拿着它，也许它会帮助你。}
+{232}{}{很高兴我们有你...哦，是的，孩子们发现了这个，看起来像是一个袭击者扔下的。拿着它，也许它会帮助你。}
 ### {233}{}{They still have nightmares. I'm trying to help them while the others are busy rebuilding the village. Although sometimes the support itself would not hurt. We can't let this happen again!}
 {233}{}{他们仍然做噩梦。当其他人忙于重建村庄时，我正努力帮助他们。尽管有时支持本身不会有什么坏处。我们不能让这种情况再次发生！}

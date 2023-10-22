@@ -23,7 +23,7 @@
 ### {123}{}{Go away. Don't make me scream.}
 {123}{}{走开。别让我尖叫。}
 ### {124}{}{What impudence. Strangers are so ill-mannered...}
-{124}{}{真厚颜无耻。陌生人太没礼貌了。。。}
+{124}{}{真厚颜无耻。陌生人太没礼貌了...}
 ### {125}{}{Now is not the time to talk. Go away.}
 {125}{}{现在不是谈话的时候。走开。}
 ### {126}{}{Listen, it's curfew time. We're going to have problems.}

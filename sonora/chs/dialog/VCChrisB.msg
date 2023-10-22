@@ -6,7 +6,7 @@
 ### {110}{}{Chris's backpack was filled with provisions.}
 {110}{}{克里斯的背包里装满了食物。}
 ### {111}{}{Thank you, that's enough... I hope.}
-{111}{}{谢谢，够了。。。我希望。}
+{111}{}{谢谢，够了...我希望。}
 ### {112}{}{(}
 {112}{}{(}
 ### {113}{}{ of }
@@ -17,7 +17,7 @@
 {115}{}{非常感谢。至少我不会饿死。}
 
 ### {200}{}{? It's you... Not surprisingly, I suspected that you, the new hero of the Villa, would be sent to search. Now they see you as a leader. I probably don't want to lose my special status, right?}
-{200}{}{？是你。。。毫不奇怪，我怀疑你，别墅的新英雄，会被派去搜查。现在他们把你看作领导者。我可能不想失去我的特殊身份，对吧？}
+{200}{}{？是你...毫不奇怪，我怀疑你，别墅的新英雄，会被派去搜查。现在他们把你看作领导者。我可能不想失去我的特殊身份，对吧？}
 ### {201}{}{So why did you run away from the community?}
 {201}{}{那你为什么要逃离社区？}
 ### {202}{}{They want to execute me. You know. Why these unnecessary questions?}
@@ -51,7 +51,7 @@
 ### {224}{}{What do you know about this place?}
 {224}{}{你对这个地方了解多少？}
 ### {225}{}{Ancient ruins of some settlement. Our ancestors took bricks from here to build their houses. The rest is destroyed by time. As you can see, there is almost nothing left...}
-{225}{}{一些定居点的古代废墟。我们的祖先从这里取砖建造房屋。其余的都被时间摧毁了。正如你所看到的，几乎什么都没有了。。。}
+{225}{}{一些定居点的古代废墟。我们的祖先从这里取砖建造房屋。其余的都被时间摧毁了。正如你所看到的，几乎什么都没有了...}
 ### {226}{}{[Next]}
 {226}{}{[下一个]}
 ### {227}{}{Funny. The villa exists thanks to these ruins. Now they keep me alive. But no one knows anything about their past and about the people who lived here. Perhaps in other cities with a different way of life, not like in a Villa, I will find my place.}

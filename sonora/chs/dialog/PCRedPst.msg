@@ -61,17 +61,17 @@
 ### {227}{}{Haha, are you telling me? FOR ME? Find at least one reason to listen to you. The one that sounds no worse than bottle caps will do.}
 {227}{}{哈哈，你是在告诉我吗？给我？至少找一个理由听你说话。听起来不比瓶盖差的就行了。}
 ### {228}{}{So it's all corny because of the caps?}
-{228}{}{所以这一切都是因为帽子的缘故？}
+{228}{}{所以这一切都是因为瓶盖的缘故？}
 ### {229}{}{What do you want for these letters?}
 {229}{}{这些信你想要什么？}
 ### {230}{}{Something that sounds as good as bottle caps, baby. Do you understand what I'm talking about?}
 {230}{}{听起来像瓶盖一样好的东西，宝贝。你明白我在说什么吗？}
 ### {231}{}{So it's all corny because of the caps?}
-{231}{}{所以这一切都是因为帽子的缘故？}
+{231}{}{所以这一切都是因为瓶盖的缘故？}
 ### {232}{}{Do you think I'm doing this for the good life? Everyone needs caps. But there is no legal work for people like me in the city. And if they don't take me to the "right" places, I will earn as I can.}
-{232}{}{你认为我这样做是为了美好的生活吗？每个人都需要帽子。但在这个城市，像我这样的人没有法律工作。如果他们不把我带到“正确”的地方，我会尽我所能赚钱。}
+{232}{}{你认为我这样做是为了美好的生活吗？每个人都需要瓶盖。但在这个城市，像我这样的人没有法律工作。如果他们不把我带到“正确”的地方，我会尽我所能赚钱。}
 ### {233}{}{Okay. I'll pay 30 caps.}
-{233}{}{可以我要付30顶帽子。}
+{233}{}{可以我要付30个瓶盖。}
 ### {234}{}{}
 {234}{}{error : string is empty}
 ### {235}{}{About the Sonora Express letters. Do you still have them?}
@@ -79,21 +79,21 @@
 ### {236}{}{They're not going anywhere until I get what I'm owed.}
 {236}{}{在我得到欠款之前，他们哪儿也不去。}
 ### {237}{}{You need caps, don't you?}
-{237}{}{你需要帽子，不是吗？}
+{237}{}{你需要瓶盖，不是吗？}
 ### {238}{}{I remember. But I need more time to collect the required amount.}
 {238}{}{我记得。但我需要更多的时间来收集所需的金额。}
 ### {239}{}{What is it? It looks like you need caps even more than I do.}
-{239}{}{它是什么？看起来你比我更需要帽子。}
+{239}{}{它是什么？看起来你比我更需要瓶盖。}
 ### {240}{}{I'll collect the necessary amount. Give me some time.}
 {240}{}{我会收取必要的金额。给我一些时间。}
 ### {241}{}{You know, it doesn't make sense. I'll just kill you and take the letters...}
-{241}{}{你知道，这没有道理。我会杀了你然后拿走信。。。}
+{241}{}{你知道，这没有道理。我会杀了你然后拿走信...}
 ### {242}{}{Not bad. There will be more caps - bring them in.}
-{242}{}{不错。会有更多的帽子——把它们带进来。}
+{242}{}{不错。会有更多的瓶盖——把它们带进来。}
 ### {243}{}{Yes, uh, bye.}
 {243}{}{是的，嗯，再见。}
 ### {244}{}{To hell with negotiations. I'll just kill you and take the letters...}
-{244}{}{让谈判见鬼去吧。我会杀了你然后拿走信。。。}
+{244}{}{让谈判见鬼去吧。我会杀了你然后拿走信...}
 ### {245}{}{You know, I don't want to get involved in this problem anymore. Bye.}
 {245}{}{你知道，我不想再卷入这个问题了。再见}
 ### {246}{}{Atomic worm. Your actions are worthy of a punitive bonfire.}

@@ -22,13 +22,13 @@
 ### {207}{}{Why?}
 {207}{}{为什么？}
 ### {208}{}{This old Vault crumbles at the slightest touch. The life support system is out of order, the generator is not working at full capacity. And we don't know how to fix it.}
-{208}{}{这个旧金库一碰就碎了。生命支持系统出现故障，发电机未满负荷工作。我们不知道如何解决它。}
+{208}{}{这个旧避难所一碰就碎了。生命支持系统出现故障，发电机未满负荷工作。我们不知道如何解决它。}
 ### {209}{}{Yes, a real disaster.}
 {209}{}{是的，一场真正的灾难。}
 ### {210}{}{And are these your problems? Ugh!}
 {210}{}{这些是你的问题吗？啊！}
 ### {211}{}{Besides, there are raiders waiting for us outside. Over the past few months, they have carried out a dozen raids to seize the Vault. So far, they are being held back by a large door, but with such problems, we ourselves will soon go outside so as not to suffocate. I'm afraid to imagine what they will do to us. They've already caught Fred and are probably torturing him.}
-{211}{}{此外，外面还有袭击者在等我们。在过去的几个月里，他们进行了十几次突袭以夺取金库。到目前为止，他们被一扇大门挡住了，但有了这样的问题，我们自己很快就会走出去，以免窒息。我不敢想象他们会对我们做什么。他们已经抓住了弗雷德，可能正在折磨他。}
+{211}{}{此外，外面还有袭击者在等我们。在过去的几个月里，他们进行了十几次突袭以夺取避难所。到目前为止，他们被一扇大门挡住了，但有了这样的问题，我们自己很快就会走出去，以免窒息。我不敢想象他们会对我们做什么。他们已经抓住了弗雷德，可能正在折磨他。}
 ### {212}{}{How can I help you?}
 {212}{}{我能帮你什么？}
 ### {213}{}{Well, I'm just solving all sorts of problems. Not for nothing, of course.}
@@ -60,11 +60,11 @@
 ### {235}{}{How to restore life support?}
 {235}{}{如何恢复生命支持？}
 ### {236}{}{After starting the generator, just use the computer to turn on the life support system. Then all we'll have to do is fix the robo-eye so that it can patrol the Vault and protect us from enemies.}
-{236}{}{启动发电机后，只需使用计算机打开生命支持系统。然后我们要做的就是修复机器人眼，这样它就可以在金库巡逻，保护我们免受敌人的攻击。}
+{236}{}{启动发电机后，只需使用计算机打开生命支持系统。然后我们要做的就是修复机器人眼，这样它就可以在避难所巡逻，保护我们免受敌人的攻击。}
 ### {237}{}{Tell me about this Vault.}
 {237}{}{告诉我这个保险库的情况。}
 ### {238}{}{The Vault was built a hundred years ago. Our ancestors survived the nuclear war here. But it is no longer possible to fully survive in the Vault. We lock ourselves in here only when there is some kind of threat.}
-{238}{}{金库建于一百年前。我们的祖先在这里的核战争中幸存下来。但是，在保险库中完全生存已经不可能了。只有当存在某种威胁时，我们才会把自己锁在这里。}
+{238}{}{避难所建于一百年前。我们的祖先在这里的核战争中幸存下来。但是，在保险库中完全生存已经不可能了。只有当存在某种威胁时，我们才会把自己锁在这里。}
 
 ### {240}{}{Thanks for the life support system. We already feel better!}
 {240}{}{感谢你的生命支持系统。我们已经感觉好多了！}
@@ -83,6 +83,6 @@
 ### {247}{}{Are you kidding? A pathetic flask for such a difficult job? Take off your jumpsuit, and hurry up!}
 {247}{}{你在开玩笑吗？一个可怜的烧瓶做这么难的工作？脱下你的连身裤，快点！}
 ### {248}{}{All right! All right! I don't know how I can live without him... Here, take it.}
-{248}{}{好吧好吧我不知道没有他我怎么活。。。给，拿着。}
+{248}{}{好吧好吧我不知道没有他我怎么活...给，拿着。}
 ### {249}{}{And don't look at me so pityingly. This is an honest payment for the work.}
 {249}{}{别那么可怜地看着我。这是对工作的诚实报酬。}

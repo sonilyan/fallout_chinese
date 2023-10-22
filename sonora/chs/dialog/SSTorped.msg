@@ -5,7 +5,7 @@
 ### {112}{}{These are torpedoes with a nuclear charge. And they are on alert. }
 {112}{}{这些是装有核弹头的鱼雷。他们处于戒备状态。}
 ### {113}{}{It's time to get out of here...}
-{113}{}{是时候离开这里了。。。}
+{113}{}{是时候离开这里了...}
 ### {114}{}{It made sense to do this before. But not now, when I'm on the Brotherhood's side.}
 {114}{}{以前这样做是有道理的。但现在不行，当我站在兄弟会一边的时候。}
 

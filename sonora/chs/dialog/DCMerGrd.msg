@@ -49,4 +49,4 @@
 ### {142}{}{The raiders are completely brazen, they are already walking freely around the city.}
 {142}{}{袭击者非常厚颜无耻，他们已经在城市里自由行走了。}
 ### {143}{}{Are the magistrates going to negotiate? Strange times have come...}
-{143}{}{治安法官会谈判吗？奇怪的时代来了。。。}
+{143}{}{治安法官会谈判吗？奇怪的时代来了...}

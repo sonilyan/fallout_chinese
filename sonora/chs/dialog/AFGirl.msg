@@ -31,7 +31,7 @@
 ### {208}{}{No booze, se?orita. Adios.}
 {208}{}{没有酒，塞诺丽塔。再见。}
 ### {209}{}{Here are 5 caps for you, take it yourself.}
-{209}{}{这里有5顶帽子给你，你自己拿吧。}
+{209}{}{这里有5个瓶盖给你，你自己拿吧。}
 ### {210}{}{Muchas gracias!}
 {210}{}{Muchas gracias！}
 ### {211}{}{Now tell me what's going on here.}
@@ -90,9 +90,9 @@
 ### {239}{}{Not so fast. A reward is usually given for such cases.}
 {239}{}{没那么快。这种情况通常会得到奖励。}
 ### {240}{}{I didn't think you'd say that. Maybe that's why you helped us with the platform - to show yourself? Okay, here's my last hundred caps. Is that enough?}
-{240}{}{我没想到你会这么说。也许这就是你帮助我们搭建平台的原因——展示自己？好吧，这是我最后一百顶帽子。够了吗？}
+{240}{}{我没想到你会这么说。也许这就是你帮助我们搭建平台的原因——展示自己？好吧，这是我最后一百个瓶盖。够了吗？}
 ### {1240}{}{I didn't think you'd say that. Maybe that's why you helped us with the platform - to show yourself? Okay, here's my last hundred caps. Is that enough?}
-{1240}{}{我没想到你会这么说。也许这就是你帮助我们搭建平台的原因——展示自己？好吧，这是我最后一百顶帽子。够了吗？}
+{1240}{}{我没想到你会这么说。也许这就是你帮助我们搭建平台的原因——展示自己？好吧，这是我最后一百个瓶盖。够了吗？}
 ### {241}{}{Enough. Bye.}
 {241}{}{足够地再见}
 ### {242}{}{On the platform, I came across a token among a pile of bones. Apparently it belonged to your uncle.}

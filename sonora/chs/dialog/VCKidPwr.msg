@@ -23,7 +23,7 @@
 ### {211}{}{A-a-a! El Diablo! El Diablo!}
 {211}{}{啊啊啊！暗黑破坏神！暗黑破坏神！}
 ### {212}{}{Eh, the new generation has become a pussy...}
-{212}{}{呃，新一代变成了一个胆小鬼。。。}
+{212}{}{呃，新一代变成了一个胆小鬼...}
 ### {213}{}{}
 {213}{}{error : string is empty}
 ### {214}{}{[Ignore and move on]}

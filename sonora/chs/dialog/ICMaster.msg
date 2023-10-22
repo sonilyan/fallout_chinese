@@ -4,11 +4,11 @@
 {105}{}{混蛋！你要为我战友的死付出代价！}
 
 ### {110}{}{In the name of the Creator...}
-{110}{}{以造物主的名义。。。}
+{110}{}{以造物主的名义...}
 ### {111}{}{In the name of His Holy Spirit...}
-{111}{}{以圣灵的名义。。。}
+{111}{}{以圣灵的名义...}
 ### {112}{}{Accept the sinful soul of your slave...}
-{112}{}{接受你奴隶的罪恶灵魂。。。}
+{112}{}{接受你奴隶的罪恶灵魂...}
 ### {113}{}{Servant of God, kneel down and repent of your sins before the face of the Creator.}
 {113}{}{上帝的仆人，跪下来，在造物主面前忏悔你的罪。}
 ### {114}{}{Drink from the holy chalice of the Holy Virus.}
@@ -79,11 +79,11 @@
 ### {228}{}{If I help you "find paradise", will you let me go free?}
 {228}{}{如果我帮你“寻找天堂”，你会让我自由吗？}
 ### {229}{}{One name for two? Strange vicissitudes of fate... But it doesn't matter. }
-{229}{}{一个名字换两个？命运的离奇变迁。。。但这并不重要。}
+{229}{}{一个名字换两个？命运的离奇变迁...但这并不重要。}
 ### {230}{}{What the hell? Let me go immediately!}
 {230}{}{什么鬼东西？让我马上走！}
 ### {231}{}{There's no way out for you here. Garrett, explain this to our guest...}
-{231}{}{你在这里没有出路。加勒特，向我们的客人解释一下。。。}
+{231}{}{你在这里没有出路。加勒特，向我们的客人解释一下...}
 ### {232}{}{I'm getting out of here anyway. And don't even think about stopping me.}
 {232}{}{我无论如何都要离开这里。甚至不要想阻止我。}
 ### {233}{}{Wait a minute! What if I help you? Will you let me go then?}
@@ -99,7 +99,7 @@
 ### {238}{}{Well, no. I don't make deals with devils.}
 {238}{}{不，我不跟魔鬼做交易。}
 ### {239}{}{Sorry to hear the rejection after such a frank conversation. Garrett, I leave this body to your discretion...}
-{239}{}{很抱歉在这么坦率的交谈后听到拒绝。加勒特，我把这具尸体交给你决定。。。}
+{239}{}{很抱歉在这么坦率的交谈后听到拒绝。加勒特，我把这具尸体交给你决定...}
 ### {240}{}{What?}
 {240}{}{什么}
 ### {241}{}{Don't come near me, big guy!}
@@ -108,7 +108,7 @@
 ### {242}{}{Batvas? Great.. What?}
 {242}{}{巴特瓦斯？太棒了什么}
 ### {243}{}{(heavy sigh) Poor child... It's amazing that you managed to survive and get here. But don't worry. We're your friends. We will help. You won't hurt your friends, right?}
-{243}{}{（沉重的叹息）可怜的孩子。。。你能活下来并来到这里真是太神奇了。但别担心。我们是你的朋友。我们将提供帮助。你不会伤害你的朋友，对吧？}
+{243}{}{（沉重的叹息）可怜的孩子...你能活下来并来到这里真是太神奇了。但别担心。我们是你的朋友。我们将提供帮助。你不会伤害你的朋友，对吧？}
 ### {244}{}{Oh, friends! Friends!}
 {244}{}{哦，朋友们！朋友们！}
 ### {245}{}{You're lying. You're bad. I don't have a friend.}
@@ -118,7 +118,7 @@
 ### {247}{}{No! Don't believe! Deception!}
 {247}{}{不不要相信！欺骗}
 ### {248}{}{There will be too many problems with this body. Garrett, end his suffering...}
-{248}{}{这个机构会有太多的问题。加勒特，结束他的痛苦。。。}
+{248}{}{这个机构会有太多的问题。加勒特，结束他的痛苦...}
 ### {249}{}{Yeah!}
 {249}{}{是 啊}
 
@@ -272,7 +272,7 @@
 ### {333}{}{We did everything you wanted. If you don't want to keep your word, then go to hell.}
 {333}{}{我们做了你想做的一切。如果你不想信守诺言，那就见鬼去吧。}
 ### {334}{}{It's very rude. Garrett, show our guest that he is no longer welcome here...}
-{334}{}{这很粗鲁。加勒特，让我们的客人知道他在这里不再受欢迎。。。}
+{334}{}{这很粗鲁。加勒特，让我们的客人知道他在这里不再受欢迎...}
 ### {335}{}{Die!}
 {335}{}{死亡}
 ### {336}{}{No, wait! I can take a mutagen to prove its effectiveness. Is that okay with you?}
@@ -311,7 +311,7 @@
 ### {351}{}{That's how? What happened to them?}
 {351}{}{就是这样？他们怎么了？}
 ### {352}{}{They became... smarter and calmer.}
-{352}{}{他们变成了。。。更聪明、更冷静。}
+{352}{}{他们变成了...更聪明、更冷静。}
 ### {353}{}{I think the mutagen lowered their aggressiveness threshold and eliminated the chronic pain syndrome.}
 {353}{}{我认为诱变剂降低了它们的攻击性阈值，消除了慢性疼痛综合征。}
 ### {354}{}{Good. It's just like Diana said. You did a great job. To be honest, I didn't expect this.}
@@ -330,9 +330,9 @@
 ### {1360}{}{You have proved your loyalty to our sacred alliance. You have renounced the human for the spiritual. We are glad to see you, Sister.}
 {1360}{}{你已经证明了你对我们神圣联盟的忠诚。你为了精神而放弃了人类。我们很高兴见到你，姐姐。}
 ### {361}{}{Ugh, I'm experiencing unusual sensations. It's like I've been... reborn.}
-{361}{}{啊，我有一种不寻常的感觉。就好像我。。。重生。}
+{361}{}{啊，我有一种不寻常的感觉。就好像我...重生。}
 ### {1361}{}{Ugh, I'm experiencing unusual sensations. It's like I'm... reborn.}
-{1361}{}{啊，我有一种不寻常的感觉。就像我。。。重生。}
+{1361}{}{啊，我有一种不寻常的感觉。就像我...重生。}
 ### {362}{}{That's right, brother. You're a new person now. Forget the past and live in the present. Consider your past mission complete.}
 {362}{}{没错，兄弟。你现在是个新人了。忘记过去，活在现在。认为你过去的任务完成了。}
 ### {1362}{}{That's right, Sister. You're a new person now. Forget the past and live in the present. Consider your past mission complete.}

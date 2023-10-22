@@ -34,9 +34,9 @@
 ### {201}{}{I don't have a security clearance. I don't need him. Got it?}
 {201}{}{我没有安全许可。我不需要他。明白了吗？}
 ### {202}{}{That's how. Interesting. Stand still and don't twitch. I'll summon the paladins now... Stop, I say! Damn...}
-{202}{}{就是这样。有趣的站着不动，不要抽搐。我现在就召集圣骑士。。。停下来，我说！该死}
+{202}{}{就是这样。有趣的站着不动，不要抽搐。我现在就召集圣骑士...停下来，我说！该死}
 ### {203}{}{Oh, oh...}
-{203}{}{哦，哦。。。}
+{203}{}{哦，哦...}
 ### {204}{}{Yes, I have permission. It's all right.}
 {204}{}{是的，我有许可。没关系。}
 ### {205}{}{In that case, greetings, stranger. I am Maura, the supreme scribe of the Brotherhood of Steel. Civilians are not often allowed here. What are you doing on our ship?}
@@ -242,9 +242,9 @@
 ### {311}{}{I don't understand why I have to listen to this. Should I call the paladins to get you kicked off the ship?}
 {311}{}{我不明白为什么我必须听这些。我应该叫圣骑士把你踢下船吗？}
 ### {312}{}{I apologize. I got a little overreacted...}
-{312}{}{我道歉。我有点反应过度了。。。}
+{312}{}{我道歉。我有点反应过度了...}
 ### {1312}{}{I apologize. I got a little overreacted...}
-{1312}{}{我道歉。我有点反应过度了。。。}
+{1312}{}{我道歉。我有点反应过度了...}
 ### {313}{}{Does it really hurt your eyes? You will not change this by my exile.}
 {313}{}{它真的疼你的眼睛吗？你不会因为我的流亡而改变这一点。}
 ### {314}{}{You can't shut me up! And just try it - I'll chew everyone's throat out!}

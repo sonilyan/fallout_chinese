@@ -10,7 +10,7 @@
 ### {201}{}{I'm just passing through here. And what?}
 {201}{}{我只是路过这里。什么？}
 ### {202}{}{Just like that. Strangers have become a rarity in our city... Yes, my name is Todd.}
-{202}{}{就这样。陌生人在我们的城市里已经很少见了。。。是的，我的名字叫托德。}
+{202}{}{就这样。陌生人在我们的城市里已经很少见了...是的，我的名字叫托德。}
 ### {203}{}{Nice to meet you.}
 {203}{}{很高兴认识你。}
 ### {204}{}{If you are ingratiating yourself into trust, then keep in mind that it does not work on me.}
@@ -36,7 +36,7 @@
 ### {225}{}{Animals?}
 {225}{}{动物？}
 ### {226}{}{Damn coyotes. I don't know what they smelled, but there's a whole pack of them. I'm afraid to get too close. And after all, all my tools are in my house. Will you help me get rid of the coyotes? I'll pay five caps for each of them if I just get to my place.}
-{226}{}{该死的郊狼。我不知道它们闻起来是什么味道，但有一整包。我怕离得太近。毕竟，我所有的工具都在我家里。你能帮我赶走郊狼吗？如果我刚到我的住处，我会为他们每人支付五顶帽子。}
+{226}{}{该死的郊狼。我不知道它们闻起来是什么味道，但有一整包。我怕离得太近。毕竟，我所有的工具都在我家里。你能帮我赶走郊狼吗？如果我刚到我的住处，我会为他们每人支付五个瓶盖。}
 ### {227}{}{Okay, that's settled.}
 {227}{}{好吧，事情解决了。}
 ### {228}{}{I'm not a hunter, but I'll think about the offer.}
@@ -58,9 +58,9 @@
 ### {236}{}{The coyotes are over.}
 {236}{}{郊狼结束了。}
 ### {237}{}{Oh, cool. Looks like it's time to pay, right? Otherwise you won't leave me alone...}
-{237}{}{哦，太酷了。看来是时候付钱了，对吧？否则你不会丢下我不管的。。。}
+{237}{}{哦，太酷了。看来是时候付钱了，对吧？否则你不会丢下我不管的...}
 ### {238}{}{Unusually clean caps. Where are they from?}
-{238}{}{异常干净的帽子。他们来自哪里？}
+{238}{}{异常干净的瓶盖。他们来自哪里？}
 ### {239}{}{Happily.}
 {239}{}{高兴地}
 ### {240}{}{They're just well preserved. Don't you care? Take it in silence and spend it on something.}
@@ -70,13 +70,13 @@
 ### {242}{}{And it seems to me that you made them from the scrap metal that you collect near the factory. What do you say to that?}
 {242}{}{在我看来，它们是用你在工厂附近收集的废金属制成的。你对此怎么说？}
 ### {243}{}{Hush! Don't tell anyone. Don't you care where and how these bottlecaps were produced? The pre-war caps are already rusted, but at least these are intact. Take it and keep quiet. No one will believe you anyway.}
-{243}{}{安静不要告诉任何人。你不在乎这些瓶子是在哪里以及如何生产的吗？战前的帽子已经生锈了，但至少这些完好无损。拿着它，保持安静。不管怎样，没有人会相信你。}
+{243}{}{安静不要告诉任何人。你不在乎这些瓶子是在哪里以及如何生产的吗？战前的瓶盖已经生锈了，但至少这些完好无损。拿着它，保持安静。不管怎样，没有人会相信你。}
 ### {244}{}{I'm not judging you. Just be careful next time. Happily.}
 {244}{}{我不是在评判你。下次一定要小心。高兴地}
 ### {245}{}{Silence is expensive. For 100 caps, I will close my eyes to this case.}
-{245}{}{沉默是昂贵的。对于100顶帽子，我会闭上眼睛看这个案子。}
+{245}{}{沉默是昂贵的。对于100个瓶盖，我会闭上眼睛看这个案子。}
 ### {246}{}{Damn, do you have any idea how much work it takes to make one cap? Well, let it be your way. But don't you dare tell anyone!}
-{246}{}{该死，你知道做一顶帽子要花多少功夫吗？好吧，让它成为你的方式。但是你不敢告诉任何人！}
+{246}{}{该死，你知道做一个瓶盖要花多少功夫吗？好吧，让它成为你的方式。但是你不敢告诉任何人！}
 ### {247}{}{Whatever you say. Happily.}
 {247}{}{不管你说什么。高兴地}
 
@@ -91,7 +91,7 @@
 ### {254}{}{And what do you get in exchange for work? Corn cobs?}
 {254}{}{你用什么来换取工作？玉米棒？}
 ### {255}{}{caps, redneck! bottlecaps! We use them the way we used money in ancient times. Hmm. It wouldn't hurt for you to get a wallet, too. Remember - now nothing goes without caps in big cities.}
-{255}{}{帽子，红脖子！装瓶！我们使用它们就像我们在古代使用金钱一样。嗯。你也可以买个钱包。记住，在大城市里，没有什么是没有上限的。}
+{255}{}{瓶盖，红脖子！装瓶！我们使用它们就像我们在古代使用金钱一样。嗯。你也可以买个钱包。记住，在大城市里，没有什么是没有上限的。}
 ### {256}{}{And you know a lot. Can I ask you a couple more questions?}
 {256}{}{你知道很多。我能再问你几个问题吗？}
 ### {257}{}{Thanks for the advice. I have to go now.}

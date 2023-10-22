@@ -7,7 +7,7 @@
 ### {103}{}{Bastards!!! What would you all die!}
 {103}{}{混蛋！！！你们会怎么死！}
 ### {104}{}{It's over... Leave me, let the wolves eat me.}
-{104}{}{一切都结束了。。。离开我，让狼吃掉我。}
+{104}{}{一切都结束了...离开我，让狼吃掉我。}
 
 #Dialogue on the Ranger map
 ### {200}{}{Hey, you! Call the general immediately!}
@@ -54,7 +54,7 @@
 ### {220}{}{You can't stay here. The Rangers do not want to take you under protection, and your reputation will not allow you to settle in neighboring settlements.}
 {220}{}{你不能呆在这里。游骑兵不想保护你，你的名声也不允许你在附近的定居点定居。}
 ### {221}{}{I know! But where do we go now? There is a desert around, we will not survive another such trip. However, you can try to go to California... This is the only way out. But the Rangers blocked the only crossing of the river!}
-{221}{}{我知道！但我们现在该去哪里？周围有一片沙漠，我们再也活不下去了。不过，你可以试着去加利福尼亚。。。这是唯一的出路。但是游骑兵队挡住了唯一的渡河通道！}
+{221}{}{我知道！但我们现在该去哪里？周围有一片沙漠，我们再也活不下去了。不过，你可以试着去加利福尼亚...这是唯一的出路。但是游骑兵队挡住了唯一的渡河通道！}
 ### {222}{}{They say there is a ferry downstream. But it's not a safe place.}
 {222}{}{他们说下游有一艘渡船。但这不是一个安全的地方。}
 ### {223}{}{Exactly. I don't even have a gun to protect me from wolves and pig rats. I can't get to the ferry with my child without help.}

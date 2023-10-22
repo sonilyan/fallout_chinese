@@ -98,7 +98,7 @@
 ### {1243}{}{Surely it was an accident. Sorry I broke your world record.}
 {1243}{}{这肯定是个意外。对不起，我打破了你的世界纪录。}
 ### {244}{}{I don't understand how this could happen. After all, for 90 years I have studied ALL possible moves in chess. But this is your move... Why couldn't I have predicted it? Probably, without rivals, I simply squandered my skills. That's why it's important to have an enemy! We should definitely learn from each other.}
-{244}{}{我不明白这怎么会发生。毕竟，90年来，我一直在研究国际象棋中所有可能的动作。但这是你的举动。。。为什么我没有预料到呢？也许，没有对手，我只是浪费了我的技术。这就是为什么有一个敌人很重要！我们一定要互相学习。}
+{244}{}{我不明白这怎么会发生。毕竟，90年来，我一直在研究国际象棋中所有可能的动作。但这是你的举动...为什么我没有预料到呢？也许，没有对手，我只是浪费了我的技术。这就是为什么有一个敌人很重要！我们一定要互相学习。}
 ### {245}{}{By the way, yes. Will you let me read your library?}
 {245}{}{对了，是的。你能让我看看你的图书馆吗？}
 
@@ -137,7 +137,7 @@
 ### {1265}{}{I found Mortimer's new book.}
 {1265}{}{我找到了莫蒂默的新书。}
 ### {266}{}{A new book! Ah, it's been a long time since I've felt such awe of a fresh edition. Let's see what Mortimer has scraped up sensational about San Diego... Oh, yes, you're probably waiting for some kind of payment. Here are 100 hubbucks. And now go, go, don't bother reading!}
-{266}{}{一本新书！啊，我已经很久没有对新版感到如此敬畏了。让我们来看看莫蒂默对圣地亚哥的耸人听闻的报道。。。哦，是的，你可能在等某种付款。这是100个哈勃。现在去吧，去吧，别麻烦阅读了！}
+{266}{}{一本新书！啊，我已经很久没有对新版感到如此敬畏了。让我们来看看莫蒂默对圣地亚哥的耸人听闻的报道...哦，是的，你可能在等某种付款。这是100个哈勃。现在去吧，去吧，别麻烦阅读了！}
 ### {267}{}{Bye.}
 {267}{}{再见}
 
@@ -167,7 +167,7 @@
 ### {286}{}{Ah, a new addition! Okay, there's nothing you can do, you'll have to break away from reading. Now I'll make you a program. What did you say you had to do there?}
 {286}{}{啊，一个新加入的！好吧，你无能为力，你必须放弃阅读。现在我将为您制作一个程序。你说你必须在那里做什么？}
 ### {287}{}{The program of the hotel administrator...}
-{287}{}{酒店管理员的程序。。。}
+{287}{}{酒店管理员的程序...}
 ### {288}{}{Or maybe you'll just help a good person?}
 {288}{}{或者你只会帮助一个好人？}
 ### {289}{}{I will certainly help a GOOD person IF I see him.}

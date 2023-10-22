@@ -38,15 +38,15 @@
 ### {122}{}{These mines won't work again without me.}
 {122}{}{没有我，这些矿井就不能再开采了。}
 ### {123}{}{Everything is gone...}
-{123}{}{一切都不见了。。。}
+{123}{}{一切都不见了...}
 ### {124}{}{Well all... Now I'm going to get slapped for sure.}
-{124}{}{所有。。。现在我肯定会被扇耳光的。}
+{124}{}{所有...现在我肯定会被扇耳光的。}
 ### {125}{}{Maybe I should pack up my belongings and run away?}
 {125}{}{也许我应该收拾行李逃跑？}
 ### {126}{}{Ore, ore... Ore again. Tired.}
 {126}{}{矿石，矿石…再次矿石。疲倦的}
 ### {127}{}{My caps were crying... Soon the city will become impoverished.}
-{127}{}{我的帽子在哭。。。这个城市很快就会变得一贫如洗。}
+{127}{}{我的瓶盖在哭...这个城市很快就会变得一贫如洗。}
 ### {128}{}{The mine collapsed, but the reports didn't go away.}
 {128}{}{矿井坍塌了，但报道并没有消失。}
 ### {129}{}{Just a little more and I'll go completely crazy.}
@@ -64,7 +64,7 @@
 ### {204}{}{Well all. It's going to *really* hurt, Mr. Big boss.}
 {204}{}{好吧。这真的很痛苦，大老板先生。}
 ### {205}{}{ (changes in voice) Okay, okay, don't let go of your hands! It's unlikely that the caravaneers will respect me if I'm covered in bruises... (to myself) Damn, and where do people like you come from...}
-{205}{}{（声音变了）好吧，好吧，不要放开你的手！如果我遍体鳞伤，房车司机不太可能尊重我。。。（自言自语）该死，像你这样的人从哪里来。。。}
+{205}{}{（声音变了）好吧，好吧，不要放开你的手！如果我遍体鳞伤，房车司机不太可能尊重我...（自言自语）该死，像你这样的人从哪里来...}
 ### {206}{}{So now you're ready to talk?}
 {206}{}{现在你准备好说话了吗？}
 ### {207}{}{A couple of questions?! I don't get paid for idle chatter. I'm doing business here. Do you understand? BUSINESS! So let's get this over with.}
@@ -83,7 +83,7 @@
 ### {212}{}{Who are you and what are you doing here?}
 {212}{}{你是谁？你在这里干什么？}
 ### {213}{}{I'm the administrator! I repeat: ad-mi-ni-stra-tor! This means that the work of this entire mine rests on my shoulders. In other words, I am the main face of this company... well, after Roy Faber, of course.}
-{213}{}{我是管理员！我重复一遍：再见！这意味着整个矿井的工作都落在我的肩上。换句话说，我是这家公司的主要代言人。。。当然，在罗伊·费伯之后。}
+{213}{}{我是管理员！我重复一遍：再见！这意味着整个矿井的工作都落在我的肩上。换句话说，我是这家公司的主要代言人...当然，在罗伊·费伯之后。}
 ### {214}{}{Must be a hard job for you?}
 {214}{}{这对你来说一定很难吗？}
 ### {215}{}{Of course. What do you think, redneck? Managing ore production and cultivating beds is not the same thing at all.}
@@ -91,11 +91,11 @@
 ### {216}{}{It looks like you have a very nervous job. And no one understands this except you.}
 {216}{}{看起来你的工作很紧张。除了你，没有人理解这一点。}
 ### {217}{}{(pause) You... you have no idea how close this is to the truth. I put all my strength into this work, and what in return? Pathetic caps that don't even have anything to buy. And old housing without amenities.}
-{217}{}{（停顿）你。。。你根本不知道这与事实有多接近。我把所有的力量都投入到这项工作中，作为回报呢？可怜的帽子，甚至没有什么可买的。以及没有便利设施的旧住房。}
+{217}{}{（停顿）你...你根本不知道这与事实有多接近。我把所有的力量都投入到这项工作中，作为回报呢？可怜的瓶盖，甚至没有什么可买的。以及没有便利设施的旧住房。}
 ### {218}{}{[Listen]}
 {218}{}{[听]}
 ### {219}{}{Roy doesn't seem to hear me. He just doesn't realize my importance and the size of my contribution. For him, I'm just as much a worker as the others. (to myself) Damn, I shouldn't have left Phoenix for this hole...}
-{219}{}{罗伊似乎没有听我说话。他只是没有意识到我的重要性和我的贡献。对他来说，我和其他人一样是个工人。（自言自语）该死，我不该离开凤凰城去这个洞。。。}
+{219}{}{罗伊似乎没有听我说话。他只是没有意识到我的重要性和我的贡献。对他来说，我和其他人一样是个工人。（自言自语）该死，我不该离开凤凰城去这个洞...}
 ### {220}{}{It's horrible. But let me change the subject.}
 {220}{}{太可怕了。但让我换个话题。}
 ### {221}{}{This... it's none of your business. And not another word about it!}
@@ -144,7 +144,7 @@
 ### {246}{}{I'm not going to discuss this with you!}
 {246}{}{我不打算和你讨论这个！}
 ### {247}{}{Uh, don't strain yourself so much...}
-{247}{}{呃，别那么紧张。。。}
+{247}{}{呃，别那么紧张...}
 
 #Quests in mines
 ### {250}{}{Faber told me to sort out the problems.}
@@ -177,7 +177,7 @@
 ### {264}{}{The robot is in perfect order and ready to work.}
 {264}{}{机器人处于完美状态，可以工作了。}
 ### {265}{}{I really didn't expect that the redneck would cope with such a delicate problem. Well, here's your fee, there's 200 caps. Good job.}
-{265}{}{我真的没想到乡下人会处理这么棘手的问题。这是你的费用，有200顶帽子。干得好}
+{265}{}{我真的没想到乡下人会处理这么棘手的问题。这是你的费用，有200个瓶盖。干得好}
 ### {266}{}{OK.}
 {266}{}{好啊}
 ### {267}{}{I will inform Faber about your merits. Go talk to him.}
@@ -200,7 +200,7 @@
 ### {275}{}{If you want to get rid of the creature, then give me explosives.}
 {275}{}{如果你想除掉这个生物，那就给我炸药。}
 ### {276}{}{Damn it, do you even know how hard we got this army reserve? Timing... But the rat is more important now. Here's the key to the warehouse in the mine. Use stocks wisely.}
-{276}{}{该死的，你知道我们得到这支预备役部队有多难吗？计时。。。但老鼠现在更重要了。这是矿井仓库的钥匙。明智地使用库存。}
+{276}{}{该死的，你知道我们得到这支预备役部队有多难吗？计时...但老鼠现在更重要了。这是矿井仓库的钥匙。明智地使用库存。}
 ### {277}{}{OK.}
 {277}{}{好啊}
 ### {278}{}{This is ridiculous. I won't give you anything.}
@@ -210,7 +210,7 @@
 ### {280}{}{Oh, what a surprise.}
 {280}{}{哦，真是个惊喜。}
 ### {281}{}{Excellent! I love executive people. There was a reward for this creature. Here are your 200 caps. I advise you to spend all of them at a local bar.}
-{281}{}{杰出的我喜欢高管。这个生物得到了奖励。这是你的200顶帽子。我建议你把它们都花在当地的酒吧里。}
+{281}{}{杰出的我喜欢高管。这个生物得到了奖励。这是你的200个瓶盖。我建议你把它们都花在当地的酒吧里。}
 ### {282}{}{Absolutely.}
 {282}{}{绝对地}
 ### {283}{}{A thief? Here? Damn him!}
@@ -227,7 +227,7 @@
 ### {294}{}{After the death of our boss, the city became dangerous. And the fate of the mine is even more unclear. We can only hope for the best.}
 {294}{}{老板死后，这个城市变得危险起来。而该矿的命运则更加不明朗。我们只能抱着最好的希望。}
 ### {295}{}{After the escape of the prisoners, there is no one to mine ore. Deadlines have already been disrupted, and now this...}
-{295}{}{囚犯逃跑后，没有人开采矿石。截止日期已经被打乱，现在。。。}
+{295}{}{囚犯逃跑后，没有人开采矿石。截止日期已经被打乱，现在...}
 ### {296}{}{Thanks to your efforts, the mine is at the peak of production! I'm not even sure we'll sell out all the uranium this season. Keep it up ! Now I can channel my genius in the right direction.}
 {296}{}{由于您的努力，该矿正处于生产高峰期！我甚至不确定这个季节我们会把所有的铀都卖光。继续加油！现在我可以把我的天赋引导到正确的方向。}
 ### {297}{}{Things are bad. Deadlines are disrupted, there are not enough workers, the boss breaks down on subordinates. Not the best times for the mine, that's for sure.}

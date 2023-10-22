@@ -5,7 +5,7 @@
 ### {102}{}{}
 {102}{}{error : string is empty}
 ### {103}{}{See that handsome guy behind the counter? He makes great eggs... Oh, I hope you understand me correctly.}
-{103}{}{看到柜台后面那个英俊的家伙了吗？他做的鸡蛋很棒。。。哦，我希望你能正确地理解我。}
+{103}{}{看到柜台后面那个英俊的家伙了吗？他做的鸡蛋很棒...哦，我希望你能正确地理解我。}
 ### {104}{}{Hey, what happened to Jose? He couldn't leave us on this stage!}
 {104}{}{嘿，何塞怎么了？他不能把我们留在这个舞台上！}
 ### {105}{}{I'm so glad! I'm so glad!}

@@ -5,14 +5,14 @@
 
 #The first dialog
 ### {200}{}{Get out of here and don't come back! There is nothing to spoil the lives of peaceful people. And as soon as the earth tolerates you...}
-{200}{}{离开这里，别回来！没有什么可以破坏和平人民的生活。只要地球能容忍你。。。}
+{200}{}{离开这里，别回来！没有什么可以破坏和平人民的生活。只要地球能容忍你...}
 ### {201}{}{Don't get excited, old man.}
 {201}{}{别激动，老头。}
 ### {202}{}{I won't cause you any problems.}
 {202}{}{我不会给你带来任何问题。}
 
 ### {210}{}{(Here is a farmer in a plaid shirt, worn work pants and a holey hat; when you get closer, he grabs a rake in his hands and, squinting, looks you up and down; it seems that he is not a particular fan of long conversations.) }
-{210}{}{（这里有一个农民，穿着格子衬衫，穿着破旧的工作裤，戴着一顶破洞的帽子；当你走近时，他手里拿着一把耙子，眯着眼睛上下打量着你；他似乎不是一个特别喜欢长时间交谈的人。）}
+{210}{}{（这里有一个农民，穿着格子衬衫，穿着破旧的工作裤，戴着一顶破洞的瓶盖；当你走近时，他手里拿着一把耙子，眯着眼睛上下打量着你；他似乎不是一个特别喜欢长时间交谈的人。）}
 ### {211}{}{I'm sorry to bother you. I'm looking for the nearest settlement.}
 {211}{}{很抱歉打扰你。我在找最近的定居点。}
 ### {212}{}{Hey, old man, where's the nearest bar? I urgently need a drink.}
@@ -110,11 +110,11 @@
 ### {260}{}{Just like I said. Rangers bring justice and justice to the wasteland. And we pay a tax for it. That's fair, isn't it?}
 {260}{}{就像我说的。游骑兵为荒原伸张正义。我们为此纳税。这很公平，不是吗？}
 ### {261}{}{Hmm...}
-{261}{}{嗯。。。}
+{261}{}{嗯...}
 ### {262}{}{The Rangers protect us, but they drink blood afterwards. To give them a part of your harvest, which has been grown so hard, is like giving away a child. But if there were no rangers, there would be bandits who would take everything away. You have to pay, there is no choice anyway.}
 {262}{}{游骑兵队保护我们，但他们事后喝了血。把你辛勤种植的收成的一部分送给他们，就像送了一个孩子。但如果没有护林员，就会有土匪夺走一切。你必须付钱，别无选择。}
 ### {263}{}{That's how it is...}
-{263}{}{事情就是这样。。。}
+{263}{}{事情就是这样...}
 ### {264}{}{I need to get to the leader of the Rangers. How to do it?}
 {264}{}{我需要去找游骑兵队的队长。怎么做？}
 ### {265}{}{Well, they won't let you go to the general so easily. He usually sits inside the dam, and the entrance there is securely guarded. If you want to get inside, you'll have to find a really serious reason.}
@@ -143,7 +143,7 @@
 ### {292}{}{Fair. But at least you can count on answers?}
 {292}{}{公平的但至少你能指望答案？}
 ### {293}{}{I'll remember it to you as soon as the opportunity presents itself...}
-{293}{}{机会一出现，我就会记住。。。}
+{293}{}{机会一出现，我就会记住...}
 ### {294}{}{Here, drink as much as you want. Don't squeeze, Ranger, it's not a pity for you to have water.}
 {294}{}{给，你想喝多少就喝多少。别挤，流浪者，你有水并不可惜。}
 ### {295}{}{Thank you...}
@@ -173,9 +173,9 @@
 ### {305}{}{The water tank is no longer leaking.}
 {305}{}{水箱不再漏水了。}
 ### {306}{}{It's true... Yes, you are a real master! Listen, you should stop by the Rangers, they need people like you.}
-{306}{}{这是真的。。。是的，你是个真正的大师！听着，你应该去游骑兵队，他们需要像你这样的人。}
+{306}{}{这是真的...是的，你是个真正的大师！听着，你应该去游骑兵队，他们需要像你这样的人。}
 ### {1306}{}{It's true... Yes, you are a real craftswoman! Listen, you should stop by the Rangers, they need people like you.}
-{1306}{}{这是真的。。。是的，你真是个巧妇！听着，你应该去游骑兵队，他们需要像你这样的人。}
+{1306}{}{这是真的...是的，你真是个巧妇！听着，你应该去游骑兵队，他们需要像你这样的人。}
 ### {307}{}{Ahem. Actually, I was hoping for a reward.}
 {307}{}{嗯。事实上，我希望得到奖励。}
 ### {1307}{}{Ahem. Actually, I was hoping for a reward.}

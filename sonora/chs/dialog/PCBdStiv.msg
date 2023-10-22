@@ -3,7 +3,7 @@
 ### {101}{}{You see one of the fans of the ring.}
 {101}{}{你看到一个戒指的粉丝。}
 ### {102}{}{Wow. I knew that tinsmiths are masters, but I didn't even think about it...}
-{102}{}{哇！我知道锡匠是大师，但我甚至没有想过。。。}
+{102}{}{哇！我知道锡匠是大师，但我甚至没有想过...}
 ### {103}{}{That letter was very helpful. Thanks for the delivery.}
 {103}{}{那封信很有帮助。谢谢你的快递。}
 ### {104}{}{Do you also take risks on betting?}
@@ -18,7 +18,7 @@
 ### {203}{}{It's not up to me.}
 {203}{}{这不取决于我。}
 ### {204}{}{Ah, I see. That little guy is also greedy for caps, right? Okay, let's go.}
-{204}{}{啊，我明白了。那个小家伙也很喜欢帽子，对吧？好吧，我们走吧。}
+{204}{}{啊，我明白了。那个小家伙也很喜欢瓶盖，对吧？好吧，我们走吧。}
 ### {205}{}{I'm looking for a man named Steve. He lives in the house opposite.}
 {205}{}{我在找一个叫史蒂夫的人。他住在对面的房子里。}
 ### {206}{}{I'm not fighting anymore. And period.}
@@ -36,17 +36,17 @@
 ### {212}{}{So you're not the Steve I need. Goodbye.}
 {212}{}{所以你不是我需要的史蒂夫。再见}
 ### {213}{}{Hey, wait. Of course I'll sign it. So, are there enough fingerprints? Great, come here...}
-{213}{}{嘿，等等。我当然会签字的。那么，指纹够多吗？太好了，过来。。。}
+{213}{}{嘿，等等。我当然会签字的。那么，指纹够多吗？太好了，过来...}
 ### {214}{}{[Next]}
 {214}{}{[下一个]}
 ### {215}{}{I don't know who's texting you. But you have five caps for delivery.}
-{215}{}{我不知道是谁在给你发短信。但你有五顶帽子要送。}
+{215}{}{我不知道是谁在给你发短信。但你有五个瓶盖要送。}
 ### {216}{}{So do I have to pay for it yet? Well, no. This is definitely some kind of deception. Don't expect me to fall for it.}
 {216}{}{那我还得付钱吗？不，这绝对是某种欺骗。别指望我会上当。}
 ### {217}{}{Well good. Take the letter like this. It only interferes with things in the backpack.}
 {217}{}{很好。像这样拿这封信。它只会干扰背包里的东西。}
 ### {218}{}{It's intriguing. Okay, here are five caps. I really hope it's worth it.}
-{218}{}{这很有趣。好的，这是五顶帽子。我真的希望这是值得的。}
+{218}{}{这很有趣。好的，这是五个瓶盖。我真的希望这是值得的。}
 ### {219}{}{Here you go.}
 {219}{}{给你。}
 ### {220}{}{Yes, everything is fine. Just sign and take the letter.}
@@ -68,7 +68,7 @@
 {229}{}{是的。远离喧嚣的城市，生活更轻松、更平静。后来}
 
 ### {230}{}{ (takes the letter, unfolds it and reads it slowly) So... so...}
-{230}{}{（拿着信，展开慢慢读）所以…所以。。。}
+{230}{}{（拿着信，展开慢慢读）所以…所以...}
 ### {231}{}{Is this really a letter for you?}
 {231}{}{这真的是给你的信吗？}
 ### {232}{}{My uncle writes from Casa Grande. It looks like we have a meeting scheduled with him. Thank you, it was a very valuable letter. True.}

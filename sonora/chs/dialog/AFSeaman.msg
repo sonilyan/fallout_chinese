@@ -35,7 +35,7 @@
 ### {222}{}{A couple of holes, cracks, rust. And there's nothing to charge the motor with. Everything is bad, in short, but without boats, the whole local business will die. So someone has to rejuvenate this old lady.}
 {222}{}{几个洞，裂缝，铁锈。而且没有什么东西可以给马达充电。简言之，一切都很糟糕，但如果没有船只，整个当地企业都将倒闭。所以必须有人让这位老太太恢复活力。}
 ### {223}{}{Holes, you say? Let me see...}
-{223}{}{你说是洞吗？让我看看。。。}
+{223}{}{你说是洞吗？让我看看...}
 ### {224}{}{Clearly. Can I ask you a few questions?}
 {224}{}{清晰地我能问你几个问题吗？}
 

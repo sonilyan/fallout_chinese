@@ -51,7 +51,7 @@
 ### {221}{}{Come on, give me an iguana! Now!}
 {221}{}{来吧，给我一只鬣蜥！现在}
 ### {222}{}{Yes on! Take it! And there's nothing to wave your arms around here. And where do you come from in such a wilderness...}
-{222}{}{是的！拿着！这里没有什么可以挥动你的手臂的。在这样的荒野中，你从哪里来。。。}
+{222}{}{是的！拿着！这里没有什么可以挥动你的手臂的。在这样的荒野中，你从哪里来...}
 ### {223}{}{I'm not done with you yet. I need answers to questions.}
 {223}{}{我对你还没完。我需要问题的答案。}
 ### {1223}{}{I'm not done with you yet. I need answers to questions.}
@@ -65,7 +65,7 @@
 ### {227}{}{I'll do that. Anyway, I don't want to communicate with such a greedy person anymore.}
 {227}{}{我会那样做的。不管怎样，我不想再和这样一个贪婪的人交流了。}
 ### {228}{}{I have no evil intentions. Here, take the cap as a sign of my honesty.}
-{228}{}{我没有恶意。给，把这顶帽子当作我诚实的标志。}
+{228}{}{我没有恶意。给，把这个瓶盖当作我诚实的标志。}
 ### {229}{}{Is this a joke?}
 {229}{}{这是个笑话吗？}
 
@@ -79,7 +79,7 @@
 ### {233}{}{Bye, old man, the trumpet is calling.}
 {233}{}{再见，老人，喇叭在吹。}
 ### {234}{}{There would be something to buy in this city... But thanks for the cap.}
-{234}{}{在这个城市会有东西可以买。。。但是谢谢你的帽子。}
+{234}{}{在这个城市会有东西可以买...但是谢谢你的瓶盖。}
 
 ### {239}{}{Well, there's nothing to pull an iguana by the tail. Tell me straight out, what do you want?}
 {239}{}{没有什么可以拉鬣蜥的尾巴。直截了当地告诉我，你想要什么？}
@@ -125,13 +125,13 @@
 {259}{}{顺便问一下，你在这里干什么？}
 
 ### {260}{}{Seriously? I just had some garbage in my pocket. Take a look...}
-{260}{}{认真地我只是口袋里有一些垃圾。看看。。。}
+{260}{}{认真地我只是口袋里有一些垃圾。看看...}
 ### {261}{}{Well ... (with interest sorting through the trash from your pocket) If I had such pockets, I would have gotten rich a long time ago.}
 {261}{}{好（饶有兴趣地整理你口袋里的垃圾）如果我有这样的口袋，我早就发财了。}
 ### {262}{}{Is there something useful here?}
 {262}{}{这里有什么有用的东西吗？}
 ### {263}{}{Look, there's a pre-war bill here, a couple of caps, and a small-caliber cartridge. At best, you can buy an iguana for all this. But it's better than nothing, right?}
-{263}{}{看，这里有一张战前的钞票，几顶帽子，还有一个小口径的子弹。充其量，你可以花这么多钱买一只鬣蜥。但总比什么都没有好，对吧？}
+{263}{}{看，这里有一张战前的钞票，几个瓶盖，还有一个小口径的子弹。充其量，你可以花这么多钱买一只鬣蜥。但总比什么都没有好，对吧？}
 ### {264}{}{Ugh, I really thought this garbage wouldn't be of any use.}
 {264}{}{啊，我真的以为这些垃圾没什么用。}
 ### {265}{}{So I still have everything ahead of me. I'm going to look for an investor.}
@@ -272,9 +272,9 @@
 ### {342}{}{And if I pay?}
 {342}{}{如果我付钱呢？}
 ### {343}{}{How will you pay? caps? Now there is nothing to buy with them in this city.}
-{343}{}{你将如何付款？帽子？现在这个城市没有什么可买的了。}
+{343}{}{你将如何付款？瓶盖？现在这个城市没有什么可买的了。}
 ### {344}{}{Well, if you think about it, the bottlecaps are back in business after all these events at the Factory. Give me 50 caps.}
-{344}{}{好吧，如果你仔细想想，在工厂发生了所有这些事件之后，装瓶厂又开始营业了。给我50顶帽子。}
+{344}{}{好吧，如果你仔细想想，在工厂发生了所有这些事件之后，装瓶厂又开始营业了。给我50个瓶盖。}
 ### {345}{}{You're not going to keep deceiving me, are you?}
 {345}{}{你不会一直欺骗我吧？}
 ### {346}{}{Hmm... Agreed. But first, fulfill one of my little requests.}
@@ -328,7 +328,7 @@
 ### {371}{}{I can smell these mushrooms a mile away.}
 {371}{}{我能在一英里外闻到这些蘑菇的味道。}
 ### {372}{}{But where are they? We were here...}
-{372}{}{但是他们在哪里？我们在这里。。。}
+{372}{}{但是他们在哪里？我们在这里...}
 ### {373}{}{Oh, yes, that's enough for me for a long time.}
 {373}{}{哦，是的，这对我来说已经足够长时间了。}
 ### {374}{}{So how do you catch iguanas?}
@@ -354,4 +354,4 @@
 ### {384}{}{Then listen carefully, I won't repeat it twice.}
 {384}{}{然后仔细听，我不会重复两次。}
 ### {385}{}{Speak up, old man. I want to absorb all your experience...}
-{385}{}{说出来吧，老人。我想吸收你所有的经验。。。}
+{385}{}{说出来吧，老人。我想吸收你所有的经验...}

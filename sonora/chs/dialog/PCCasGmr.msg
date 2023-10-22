@@ -53,7 +53,7 @@
 ### {126}{}{Dare to play against me?}
 {126}{}{敢和我比赛吗？}
 ### {127}{}{These damn beggar tourists...}
-{127}{}{这些该死的乞丐游客。。。}
+{127}{}{这些该死的乞丐游客...}
 ### {128}{}{Don't get caught when I'm playing.}
 {128}{}{我玩的时候别被抓住。}
 ### {129}{}{Do you want to share my luck? No, go for a walk.}
@@ -73,7 +73,7 @@
 ### {155}{}{I shouldn't be playing this game at all. It's hopeless.}
 {155}{}{我根本不应该玩这个游戏。这是无望的。}
 ### {156}{}{Hey, borrow a couple of caps.}
-{156}{}{嘿，借几顶帽子。}
+{156}{}{嘿，借几个瓶盖。}
 ### {157}{}{If I win, I'll give everyone a drink.}
 {157}{}{如果我赢了，我会给每个人一杯。}
 ### {158}{}{I hope you have better luck than me.}
@@ -97,7 +97,7 @@
 ### {167}{}{Luck is a flighty bitch.}
 {167}{}{幸运是个轻浮的婊子。}
 ### {168}{}{I managed to win as many as 60 chips! But then...}
-{168}{}{我赢得了多达60个筹码！但是。。。}
+{168}{}{我赢得了多达60个筹码！但是...}
 ### {169}{}{My whole life is at stake!}
 {169}{}{我的整个生命危在旦夕！}
 ### {170}{}{Be careful, there's deception all around.}
@@ -120,7 +120,7 @@
 ### {205}{}{I have a fever!}
 {205}{}{我发烧了！}
 ### {206}{}{But it started so well...}
-{206}{}{但它开始得很好。。。}
+{206}{}{但它开始得很好...}
 ### {207}{}{Either I win, or I'm dead.}
 {207}{}{要么我赢了，要么我死了。}
 ### {208}{}{If I lose again, I will demolish this place.}
@@ -144,7 +144,7 @@
 ### {217}{}{My pockets are empty.}
 {217}{}{我的口袋是空的。}
 ### {218}{}{Almost got it...}
-{218}{}{差一点。。。}
+{218}{}{差一点...}
 ### {219}{}{Not that!}
 {219}{}{不是这样！}
 ### {220}{}{My affairs are bad.}
@@ -166,7 +166,7 @@
 ### {228}{}{What, again?!}
 {228}{}{又是什么？！}
 ### {229}{}{That's really unlucky...}
-{229}{}{这真的很不幸。。。}
+{229}{}{这真的很不幸...}
 ### {230}{}{I need a drink.}
 {230}{}{我需要喝一杯。}
 ### {231}{}{Everything was against me.}
@@ -180,7 +180,7 @@
 ### {235}{}{Ugh, it's time to take a leak.}
 {235}{}{啊，是时候泄漏了。}
 ### {236}{}{By selling my spleen, I can recoup...}
-{236}{}{通过卖我的脾脏，我可以收回。。。}
+{236}{}{通过卖我的脾脏，我可以收回...}
 ### {237}{}{Not in this life.}
 {237}{}{这辈子都不会。}
 ### {238}{}{Stop mocking me!}

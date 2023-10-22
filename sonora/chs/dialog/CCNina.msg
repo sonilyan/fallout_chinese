@@ -51,9 +51,9 @@
 ### {215}{}{Really? Oh, I'm so glad. I will do everything to keep it that way.}
 {215}{}{真正地哦，我太高兴了。我会尽一切努力保持这种状态。}
 ### {216}{}{Of course, you're the queen... I don't understand, are you happy or crying?}
-{216}{}{当然，你是女王。。。我不明白，你是高兴还是哭泣？}
+{216}{}{当然，你是女王...我不明白，你是高兴还是哭泣？}
 ### {217}{}{(bottlecaps his face) I am well... Talk to someone else.}
-{217}{}{（用瓶子塞住他的脸）我很好。。。与其他人交谈。}
+{217}{}{（用瓶子塞住他的脸）我很好...与其他人交谈。}
 ### {218}{}{Okay, I'm going to keep having fun.}
 {218}{}{好吧，我会继续玩得开心的。}
 ### {219}{}{There is nothing better than my beautiful Villa. You have no idea how much better it is.}
@@ -65,7 +65,7 @@
 ### {222}{}{Do you know where your crown could have gone?}
 {222}{}{你知道你的王冠会去哪里吗？}
 ### {223}{}{Is it missing? Oh, that's bad... find her, please! I have to go through the ceremony, otherwise the saints will be angry!}
-{223}{}{它不见了吗？哦，太糟糕了。。。请找到她！我必须通过仪式，否则圣人会生气的！}
+{223}{}{它不见了吗？哦，太糟糕了...请找到她！我必须通过仪式，否则圣人会生气的！}
 ### {224}{}{Okay, okay. I'll try to talk to someone else. Maybe someone saw something.}
 {224}{}{好吧，好吧。我会试着和其他人谈谈。也许有人看到了什么。}
 
@@ -83,7 +83,7 @@
 ### {235}{}{(pulls back his hand and pushes you away) Go home, gringo! El Diablo ya est? aqu?!}
 {235}{}{（拉回手推开你）回家吧，外国佬！暗黑破坏神? aqu？！}
 ### {236}{}{El Diablo? Who is it? What are you talking about anyway? I don't understand...}
-{236}{}{暗黑破坏神？是谁？你到底在说什么？我不明白。。。}
+{236}{}{暗黑破坏神？是谁？你到底在说什么？我不明白...}
 ### {237}{}{El Diablo is dead. Do you understand? (show with gestures) Dead!}
 {237}{}{暗黑破坏神死了。你明白吗？（手势表演）死了！}
 ### {238}{}{(looks up in amazement) El Diablo est? muerto?.. No... No! (runs away from the church)}

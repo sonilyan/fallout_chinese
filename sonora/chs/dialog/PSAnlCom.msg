@@ -22,7 +22,7 @@
 ### {205}{}{(You hear a click and the door opens)}
 {205}{}{（你听到咔嗒一声，门就开了）}
 ### {206}{}{It looks like taciturn guys are sitting there...}
-{206}{}{看起来沉默寡言的家伙坐在那里。。。}
+{206}{}{看起来沉默寡言的家伙坐在那里...}
 ### {207}{}{I'm from the Rangers. Here are my call signs.}
 {207}{}{我是游骑兵队的。这是我的呼号。}
 ### {208}{}{Prior Mathias sent me to help the Liberation Party.}

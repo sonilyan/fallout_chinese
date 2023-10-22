@@ -9,11 +9,11 @@
 
 #The first dialog
 ### {200}{}{(looks around in confusion) The owner... dead?}
-{200}{}{（困惑地环顾四周）主人。。。死去的}
+{200}{}{（困惑地环顾四周）主人...死去的}
 ### {201}{}{Aren't you happy?}
 {201}{}{你不高兴吗？}
 ### {202}{}{What am I going to do without a host?! Master... Yes! I have to find a new owner! We need to get back to the paddock. There is no other way...}
-{202}{}{没有主人我该怎么办？！主人对我得找个新主人了！我们需要回到围场。没有其他办法。。。}
+{202}{}{没有主人我该怎么办？！主人对我得找个新主人了！我们需要回到围场。没有其他办法...}
 ### {203}{}{It seems like you don't know anything else in life. Well, come on.}
 {203}{}{你似乎对生活中的其他事情一无所知。好吧，来吧。}
 ### {204}{}{ (the servant falls at your feet and diligently bows with his bald forehead) Thank you, mi se?or! I am very grateful to you, se?or! Thank you!}
@@ -39,15 +39,15 @@
 ### {220}{}{Tell me why the owner beat you.}
 {220}{}{告诉我主人为什么打你。}
 ### {221}{}{For the cap, se?or. I, an insignificant lump of dirt, probably dropped it when I went shopping for the owner.}
-{221}{}{对于帽子，塞诺。I、 一块微不足道的泥土，可能是我为店主购物时掉下来的。}
+{221}{}{对于瓶盖，塞诺。I、 一块微不足道的泥土，可能是我为店主购物时掉下来的。}
 ### {1221}{}{For the cap, se?ora. I, an insignificant lump of dirt, probably dropped it when I went shopping for the owner.}
-{1221}{}{对于帽子，塞诺拉。I、 一块微不足道的泥土，可能是我为店主购物时掉下来的。}
+{1221}{}{对于瓶盖，塞诺拉。I、 一块微不足道的泥土，可能是我为店主购物时掉下来的。}
 ### {222}{}{Did he beat you because of ONE cap?}
-{222}{}{他打你是因为一顶帽子吗？}
+{222}{}{他打你是因为一个瓶盖吗？}
 ### {223}{}{The cap is a lot, se?or. On the cap you can buy... half an iguana. But... (decides to look up at you and immediately drops down) Yes, it's a small amount, se?or. The owner is angry because of the debts, because the city is now restless.}
-{223}{}{塞诺，帽子很大。在你可以买到的帽子上。。。半只鬣蜥。但是（决定抬头看你，然后立即往下看）是的，这是一小部分，塞诺。业主因为债务而生气，因为这座城市现在坐立不安。}
+{223}{}{塞诺，瓶盖很大。在你可以买到的瓶盖上...半只鬣蜥。但是（决定抬头看你，然后立即往下看）是的，这是一小部分，塞诺。业主因为债务而生气，因为这座城市现在坐立不安。}
 ### {1223}{}{The cap is a lot, se?ora. On the cap you can buy... half an iguana. But... (decides to look up at you and immediately drops down) Yes, it's a small amount, se?ora. The owner is angry because of the debts, because the city is restless now.}
-{1223}{}{帽子很大，塞诺拉。在你可以买到的帽子上。。。半只鬣蜥。但是（决定抬头看你，然后立即往下看）是的，这是一小部分，塞诺拉。老板因为债务而生气，因为现在这个城市不安了。}
+{1223}{}{瓶盖很大，塞诺拉。在你可以买到的瓶盖上...半只鬣蜥。但是（决定抬头看你，然后立即往下看）是的，这是一小部分，塞诺拉。老板因为债务而生气，因为现在这个城市不安了。}
 ### {224}{}{It can be seen that things are not going well here.}
 {224}{}{可以看出这里的情况并不顺利。}
 
@@ -71,8 +71,8 @@
 ### {242}{}{So you've lived in slavery all your life?}
 {242}{}{所以你一辈子都生活在奴隶制度中？}
 ### {243}{}{Si, se?or. Except for the early years... when I was taking care of myself.}
-{243}{}{Si，se?or。除了早年。。。当我照顾自己的时候。}
+{243}{}{Si，se?or。除了早年...当我照顾自己的时候。}
 ### {1243}{}{Si, se?ora. Except for the early years... when I was taking care of myself.}
-{1243}{}{Si，se?ora。除了早年。。。当我照顾自己的时候。}
+{1243}{}{Si，se?ora。除了早年...当我照顾自己的时候。}
 ### {244}{}{An unenviable fate.}
 {244}{}{令人羡慕的命运。}

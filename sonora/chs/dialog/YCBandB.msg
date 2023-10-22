@@ -40,7 +40,7 @@
 ### {122}{}{We are close to the epicenter of the explosion. You shouldn't linger here.}
 {122}{}{我们离爆炸中心很近。你不应该在这里逗留。}
 ### {123}{}{The Italian district ? before the War, it was known for its cafes... and bandits and pimps.}
-{123}{}{意大利区? 战前，这里以咖啡馆而闻名。。。土匪和皮条客。}
+{123}{}{意大利区? 战前，这里以咖啡馆而闻名...土匪和皮条客。}
 ### {124}{}{Shall we go through the park? That's right, there is lower radiation here, but more of all kinds of living creatures.}
 {124}{}{我们穿过公园好吗？没错，这里的辐射较低，但各种生物的辐射都更多。}
 

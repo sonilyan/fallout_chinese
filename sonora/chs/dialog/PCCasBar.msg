@@ -3,7 +3,7 @@
 ### {101}{}{Here is the bartender. You are not at all surprised to see him here.}
 {101}{}{这是酒保。你在这里看到他一点也不惊讶。}
 ### {102}{}{No, no, in this "suit" you will break all the dishes...}
-{102}{}{不，不，穿着这套“西装”你会打碎所有的盘子。。。}
+{102}{}{不，不，穿着这套“西装”你会打碎所有的盘子...}
 ### {103}{}{This is a service area. Please sit at the counter.}
 {103}{}{这是一个服务区。请坐在柜台旁。}
 ### {104}{}{I need to get back to the bar.}
@@ -57,7 +57,7 @@
 {211}{}{我现在弃权。}
 
 ### {212}{}{Hey, look, it's the new arena champion! This is a surprise. Oh, wait, I know it's not really according to the rules, but I personally want to put a bottle of beer on. Because it's cool. (about myself) I will tell everyone now...}
-{212}{}{嘿，看，是新的竞技场冠军！这是一个惊喜。哦，等等，我知道这不符合规定，但我个人想喝一瓶啤酒。因为它很酷。（关于我自己）我现在要告诉大家。。。}
+{212}{}{嘿，看，是新的竞技场冠军！这是一个惊喜。哦，等等，我知道这不符合规定，但我个人想喝一瓶啤酒。因为它很酷。（关于我自己）我现在要告诉大家...}
 ### {213}{}{Thanks, man. That's very kind of you.}
 {213}{}{谢谢，伙计。你真是太好了。}
 ### {214}{}{This swill is urine. But I like your attitude.}
@@ -113,7 +113,7 @@
 ### {241}{}{(pointing up with a gesture of displeasure)}
 {241}{}{（用不高兴的手势指起来）}
 ### {242}{}{What? Is he already in heaven? Oh no, what a grief... Oh, he's just on the second floor.}
-{242}{}{什么他已经在天堂了吗？哦，不，多么悲伤。。。哦，他就在二楼。}
+{242}{}{什么他已经在天堂了吗？哦，不，多么悲伤...哦，他就在二楼。}
 ### {243}{}{A room on the second floor? Clearly.}
 {243}{}{二楼的房间？清晰地}
 
@@ -140,7 +140,7 @@
 ### {259}{}{I don't understand, is this some kind of prank? You have a great reputation in the city. I can't believe you really need a heroic legend.}
 {259}{}{我不明白，这是恶作剧吗？你在这个城市有很好的声誉。我不敢相信你真的需要一个英雄传奇。}
 ### {260}{}{But you're right... Okay, forget it.}
-{260}{}{但你是对的。。。好吧，算了。}
+{260}{}{但你是对的...好吧，算了。}
 ### {261}{}{Well, I'm going to spend the caps on something more meaningful.}
 {261}{}{好吧，我要把上限花在更有意义的事情上。}
 ### {262}{}{Ah, I understand, you need a good reputation to start a career? Yes, something can be thought of.}
@@ -172,7 +172,7 @@
 ### {274}{}{Any problems? Nothing, I'll wait.}
 {274}{}{有什么问题吗？没什么，我等着。}
 ### {275}{}{Uh, we need to recalculate...}
-{275}{}{呃，我们需要重新计算。。。}
+{275}{}{呃，我们需要重新计算...}
 
 ### {280}{}{Do you only have alcoholic beverages?}
 {280}{}{你只喝酒精饮料吗？}

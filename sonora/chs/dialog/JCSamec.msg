@@ -43,7 +43,7 @@
 ### {203}{}{You will die in agony for your words!}
 {203}{}{你会为你的话而死的！}
 ### {204}{}{So, I'll have to subdue you...}
-{204}{}{所以，我必须制服你。。。}
+{204}{}{所以，我必须制服你...}
 ### {205}{}{Yes... It's better this way. Now go ahead. I want to show you to a Rabid Bitch. You are my prey. Everyone should know this!}
 {205}{}{对这样更好。现在继续。我想带你去看一个疯狂的婊子。你是我的猎物。每个人都应该知道这一点！}
 ### {206}{}{Okay, lead on.}
@@ -55,7 +55,7 @@
 ### {209}{}{You! You won't escape anymore, you piece of meat!}
 {209}{}{你你再也逃不掉了，你这个混蛋！}
 ### {210}{}{We'll see about that...}
-{210}{}{我们拭目以待。。。}
+{210}{}{我们拭目以待...}
 ### {211}{}{What do you need?}
 {211}{}{你需要什么？}
 ### {212}{}{Nothing. Bye.}
@@ -63,13 +63,13 @@
 ### {213}{}{Wait, I don't want to hurt anyone!}
 {213}{}{等等，我不想伤害任何人！}
 ### {214}{}{You're trapped, alien... Ar-r-r! The man with the iron skin! Who are you? What do you need?}
-{214}{}{你被困住了，外星人。。。Ar-r-r！铁皮人！你是谁？你需要什么？}
+{214}{}{你被困住了，外星人...Ar-r-r！铁皮人！你是谁？你需要什么？}
 ### {215}{}{I need your death. Take off your capes and give me the spear.}
 {215}{}{我需要你的死。脱下你的斗篷，把长矛给我。}
 ### {216}{}{Everyone over here! Evil iron spirit in the burrows!}
 {216}{}{大家都过来！邪恶的铁精灵在洞穴里！}
 ### {217}{}{But this was not worth doing ...}
-{217}{}{但这不值得做。。。}
+{217}{}{但这不值得做...}
 ### {218}{}{Who's in charge?}
 {218}{}{谁负责？}
 ### {219}{}{Do you want to talk to the chief? She's A Rabid Bitch. Let her deal with you, and I'll see you off.}
@@ -103,11 +103,11 @@
 ### {1231}{}{Gr-rm! (viciously rips off the necklace and throws it at your feet) You won, bitch!}
 {1231}{}{Gr rm！（恶毒地扯下项链扔到你脚边）你赢了，婊子！}
 ### {232}{}{I think I'll leave you until you calm down...}
-{232}{}{我想我会离开你直到你冷静下来。。。}
+{232}{}{我想我会离开你直到你冷静下来...}
 ### {233}{}{Ha-ha! Black Fang is the winner again! I'm the winner!}
 {233}{}{哈哈！黑方再次获胜！我是胜利者！}
 ### {234}{}{Hey, wait, what are you doing...}
-{234}{}{嘿，等等，你在干什么。。。}
+{234}{}{嘿，等等，你在干什么...}
 ### {235}{}{Games are not for warriors. And for puppies like you.}
 {235}{}{游戏不适合勇士。还有像你这样的小狗。}
 ### {236}{}{I won't argue.}
@@ -129,7 +129,7 @@
 ### {1244}{}{To have a stranger hanging around me? Okay, so I'll rise even higher in the eyes of the pack.}
 {1244}{}{让一个陌生人围着我转？好吧，所以我会在众人眼中站得更高。}
 ### {245}{}{Of course, you're the leader, sit down, I'll rub your back...}
-{245}{}{当然，你是领导，坐下，我给你按摩背部。。。}
+{245}{}{当然，你是领导，坐下，我给你按摩背部...}
 ### {246}{}{I didn't feel like it.}
 {246}{}{我不喜欢。}
 ### {247}{}{I don't trust outsiders. And you're a stranger.}

@@ -3,16 +3,16 @@
 ### {101}{}{This withered creature stares at you with distraught eyes.}
 {101}{}{这个枯萎的生物悲痛欲绝地盯着你。}
 ### {102}{}{I will eat you and become stronger... but I'm so disgusted with myself for it.}
-{102}{}{我会吃掉你，变得更强壮。。。但我对自己很反感。}
+{102}{}{我会吃掉你，变得更强壮...但我对自己很反感。}
 ### {103}{}{The shrunken one attacked you when you turned your back on him!}
 {103}{}{当你背对他时，那个萎缩的家伙攻击了你！}
 ### {104}{}{My horn is starting to hurt. You better go!}
 {104}{}{我的喇叭开始疼了。你最好走！}
 
 ### {110}{}{Pain... How painful...}
-{110}{}{疼痛多么痛苦。。。}
+{110}{}{疼痛多么痛苦...}
 ### {111}{}{The pain is gone... Now I feel weak...}
-{111}{}{疼痛消失了。。。现在我感觉很虚弱。。。}
+{111}{}{疼痛消失了...现在我感觉很虚弱...}
 
 ### {200}{}{(In front of you is a creature in rags, vaguely resembling a human. His crazy eyes are frightened and at the same time greedily looking at you)}
 {200}{}{（你面前是一个穿着破烂衣服的生物，隐约像人。他那双疯狂的眼睛既害怕又贪婪地看着你）}
@@ -29,7 +29,7 @@
 ### {206}{}{Speak when someone is talking to you.}
 {206}{}{当有人在和你说话时说话。}
 ### {207}{}{(gets up and looks around) That's right. But you? Where are you from? I haven't seen a normal person for a long time. And these clothes... I remember. Yes. It was given to residents of Vaults. (walks around, examining you) I wasn't in the Vault. That's why I'm here.}
-{207}{}{（站起来环顾四周）没错。但是你呢？你是哪里人？我好久没见到一个正常人了。这些衣服。。。我记得。对它是送给沃的居民的。（四处走动，检查你）我不在保险库里。这就是我来这里的原因。}
+{207}{}{（站起来环顾四周）没错。但是你呢？你是哪里人？我好久没见到一个正常人了。这些衣服...我记得。对它是送给沃的居民的。（四处走动，检查你）我不在保险库里。这就是我来这里的原因。}
 ### {208}{}{Wait a minute, my friend. I have a lot of questions for you.}
 {208}{}{等一下，我的朋友。我有很多问题要问你。}
 ### {209}{}{Sit tight, freak. Just throw something out and I'll shoot you to hell.}
@@ -40,13 +40,13 @@
 ### {221}{}{Okay, I'm leaving. Don't try to follow me.}
 {221}{}{好吧，我要走了。不要试图跟着我。}
 ### {222}{}{(gets up and looks around) That's right. But you? Where are you from? I haven't seen a normal person for a long time. Since then... (walks around, examining you) Ever since people took refuge in Vaults. And I didn't have enough space there, so I'm here.}
-{222}{}{（站起来环顾四周）没错。但是你呢？你是哪里人？我好久没见到一个正常人了。从那时起（四处走动，打量着你）自从有人在金库避难以来。我在那里没有足够的空间，所以我在这里。}
+{222}{}{（站起来环顾四周）没错。但是你呢？你是哪里人？我好久没见到一个正常人了。从那时起（四处走动，打量着你）自从有人在避难所避难以来。我在那里没有足够的空间，所以我在这里。}
 
 # About myself
 ### {230}{}{Who are you? Are you a demon?}
 {230}{}{你是谁？你是恶魔吗？}
 ### {231}{}{Demon? (looks away) Or maybe so... I was a human once... I was a farmer. I poured milk on the ground so that prices would not fall on it. I was burying potatoes and vegetables in the ground... How stupid.}
-{231}{}{魔鬼（看向别处）也许是这样…我曾经是一个人。。。我是个农民。我把牛奶倒在地上，以免价格下跌。我把土豆和蔬菜埋在地里。。。真愚蠢。}
+{231}{}{魔鬼（看向别处）也许是这样…我曾经是一个人...我是个农民。我把牛奶倒在地上，以免价格下跌。我把土豆和蔬菜埋在地里...真愚蠢。}
 ### {232}{}{Is there anyone else here besides you?}
 {232}{}{除了你，这里还有其他人吗？}
 ### {233}{}{Is this where your farm was, among these ruins?}
@@ -64,7 +64,7 @@
 ### {239}{}{There's no food here! We used to eat what we found in the ruins. And now we eat each other. But rarely. We are used to hunger.}
 {239}{}{这里没有食物！我们过去常吃在废墟中发现的东西。现在我们互相吃掉。但很少。我们已经习惯了饥饿。}
 ### {240}{}{So there are others here... like you?}
-{240}{}{所以这里还有其他人。。。像你一样？}
+{240}{}{所以这里还有其他人...像你一样？}
 ### {241}{}{No wonder - there are only city ruins around.}
 {241}{}{难怪周围只有城市废墟。}
 ### {242}{}{Farm, you say? Wait a minute, when was that?}
@@ -98,7 +98,7 @@
 ### {257}{}{So you were kicked out of the pack? Is that why you're so skinny?}
 {257}{}{所以你被开除了？这就是你这么瘦的原因吗？}
 ### {258}{}{The pack divides the food. You can't survive here alone. And the glowing ones take all the best for themselves. And when there is no food at all, they eat the weakest... like me. I will be eaten, and I will be freed from torment. But I don't want to be eaten. That's why I'm hiding.}
-{258}{}{背包把食物分开。你不能一个人在这里生存。发光的人会把最好的都据为己有。当根本没有食物的时候，他们会吃最弱的。。。就像我一样。我会被吃掉，我会从痛苦中解脱出来。但我不想被吃掉。这就是我躲起来的原因。}
+{258}{}{背包把食物分开。你不能一个人在这里生存。发光的人会把最好的都据为己有。当根本没有食物的时候，他们会吃最弱的...就像我一样。我会被吃掉，我会从痛苦中解脱出来。但我不想被吃掉。这就是我躲起来的原因。}
 ### {259}{}{Something is becoming clear to me. But let's change the subject.}
 {259}{}{有些事情我越来越清楚了。但让我们换个话题吧。}
 ### {260}{}{So there aren't any normal people here, are there?}
@@ -108,7 +108,7 @@
 ### {262}{}{Do you know a safe way to this mansion?}
 {262}{}{你知道去这座豪宅的安全路吗？}
 ### {263}{}{I could show. But they'll eat me there. And they'll eat you, too. But if you want... if you want, go through the sewer. This is the safest way.}
-{263}{}{我可以展示。但他们会在那里吃掉我。他们也会吃掉你。但如果你想。。。如果你愿意，就去下水道吧。这是最安全的方法。}
+{263}{}{我可以展示。但他们会在那里吃掉我。他们也会吃掉你。但如果你想...如果你愿意，就去下水道吧。这是最安全的方法。}
 ### {264}{}{How interesting. But you probably know something else.}
 {264}{}{真有趣。但你可能知道其他事情。}
 ### {265}{}{Who else lives on these ruins besides you?}
@@ -118,11 +118,11 @@
 
 # About the city
 ### {270}{}{(looks around for a long time) A long time ago there was a big city here. It was called Mexicali. A beautiful city. Then the atomic bombs fell...}
-{270}{}{（环顾四周很长时间）很久以前这里有一个大城市。它叫墨西卡利。一座美丽的城市。然后原子弹落下。。。}
+{270}{}{（环顾四周很长时间）很久以前这里有一个大城市。它叫墨西卡利。一座美丽的城市。然后原子弹落下...}
 ### {271}{}{[Listen]}
 {271}{}{[听]}
 ### {272}{}{They turned it into fields of burnt garbage and scrap metal. The Reds did it. They were aiming at aircraft factories, but... they destroyed everything else, too. Now, because of the radioactive fallout, there is no life left here. Even the grass doesn't grow.}
-{272}{}{他们把它变成了燃烧的垃圾和废金属的田地。红军做到了。他们的目标是飞机制造厂，但是。。。他们也摧毁了其他一切。现在，由于放射性沉降物，这里已经没有生命了。连草都长不出来。}
+{272}{}{他们把它变成了燃烧的垃圾和废金属的田地。红军做到了。他们的目标是飞机制造厂，但是...他们也摧毁了其他一切。现在，由于放射性沉降物，这里已经没有生命了。连草都长不出来。}
 ### {273}{}{[Next]}
 {273}{}{[下一个]}
 ### {274}{}{Everything here is infected with radiation. It's because of her such mutations as I have.}
@@ -140,11 +140,11 @@
 ### {281}{}{[Listen]}
 {281}{}{[听]}
 ### {282}{}{Recently I saw a giant ant. There have never been such. This is not right. There must be ants... ma-scarlet. Less than a nail on your little finger. But they are not like that.}
-{282}{}{最近我看到一只巨大的蚂蚁。从来没有这样的。这是不对的。一定有蚂蚁。。。马猩红。不到你小指上的一个钉子。但事实并非如此。}
+{282}{}{最近我看到一只巨大的蚂蚁。从来没有这样的。这是不对的。一定有蚂蚁...马猩红。不到你小指上的一个钉子。但事实并非如此。}
 ### {283}{}{[Next]}
 {283}{}{[下一个]}
 ### {284}{}{It's because of the fallout... Shh! Do you hear that? It's the demons howling in pain. When night comes, all the demons get hurt.}
-{284}{}{这是因为沉降物。。。嘘！你听到了吗？是恶魔在痛苦中嚎叫。当夜幕降临时，所有的恶魔都会受伤。}
+{284}{}{这是因为沉降物...嘘！你听到了吗？是恶魔在痛苦中嚎叫。当夜幕降临时，所有的恶魔都会受伤。}
 ### {285}{}{Are these demons the other survivors?}
 {285}{}{这些恶魔是其他幸存者吗？}
 ### {286}{}{Tell me, what was this city like before the bombing?}
@@ -159,7 +159,7 @@
 ### {300}{}{Have you seen the Brotherhood of Steel squad? He had to go down this road.}
 {300}{}{你见过钢铁兄弟会小队吗？他不得不沿着这条路走下去。}
 ### {301}{}{Oh, oh, my head hurts! How painful...}
-{301}{}{哦，哦，我的头疼！多么痛苦。。。}
+{301}{}{哦，哦，我的头疼！多么痛苦...}
 ### {302}{}{Don't mess with my balls. Tell me what happened to the convoy!}
 {302}{}{别惹我的蛋蛋。告诉我车队发生了什么事！}
 ### {1302}{}{These tricks don't work on me. Tell me what happened to the convoy!}
@@ -173,4 +173,4 @@
 ### {306}{}{They are kept in the old church. But you can't go there, hehe. No, no, don't pass! There are crowds of demons around and no one knows what's going on inside. This is a cursed place, the lair of Lucifer himself. No one came back from there.}
 {306}{}{它们被保存在旧教堂里。但是你不能去那里，呵呵。不，不，不要通过！周围有成群的恶魔，没有人知道里面发生了什么。这是一个被诅咒的地方，路西法自己的巢穴。没有人从那里回来。}
 ### {307}{}{It looks like getting there won't be easy...}
-{307}{}{看起来到达那里并不容易。。。}
+{307}{}{看起来到达那里并不容易...}

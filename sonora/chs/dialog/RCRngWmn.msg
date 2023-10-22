@@ -19,15 +19,15 @@
 ### {113}{}{All to the very last puppy!}
 {113}{}{献给最后一只小狗！}
 ### {114}{}{And you... you make an alliance with them!}
-{114}{}{而你。。。你和他们结盟！}
+{114}{}{而你...你和他们结盟！}
 ### {115}{}{It's disgusting!}
 {115}{}{太恶心了！}
 ### {116}{}{You can reprimand me as much as you like for insubordination...}
-{116}{}{你可以任意斥责我不服从命令。。。}
+{116}{}{你可以任意斥责我不服从命令...}
 ### {117}{}{But other rangers agree with me - it's wrong!}
 {117}{}{但其他护林员也同意我的观点——这是错误的！}
 ### {118}{}{No alliance will change these savages...}
-{118}{}{任何联盟都无法改变这些野蛮人。。。}
+{118}{}{任何联盟都无法改变这些野蛮人...}
 ### {119}{}{...and certainly will not bring back the dead rangers.}
 {119}{}{……当然不会让死去的护林员回来。}
 ### {120}{}{And I won't let it go so easily!}

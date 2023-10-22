@@ -43,7 +43,7 @@
 ### {257}{}{Ralph paid less.}
 {257}{}{拉尔夫付的更少。}
 ### {258}{}{Have the bottlecaps become a reliable adviser for you? In that case, you're just an ordinary egoist. The Church has given the world Knowledge. With their help, we turned on the lights in the houses and taught some people forgotten literacy. And what will a handful of caps in your pocket give this city?}
-{258}{}{装瓶人成为你可靠的顾问了吗？在这种情况下，你只是一个普通的利己主义者。教会给了世界知识。在他们的帮助下，我们打开了房子里的灯，教一些被遗忘的人识字。你口袋里的几顶帽子会给这个城市带来什么？}
+{258}{}{装瓶人成为你可靠的顾问了吗？在这种情况下，你只是一个普通的利己主义者。教会给了世界知识。在他们的帮助下，我们打开了房子里的灯，教一些被遗忘的人识字。你口袋里的几个瓶盖会给这个城市带来什么？}
 ### {259}{}{I'm just fulfilling a deal. This is a fair contract.}
 {259}{}{我只是在履行一项协议。这是一份公平的合同。}
 ### {260}{}{Perhaps. Perhaps the Old World has fallen because of the greed of your kind. And that's why people like you have no place in the New World. From now on, your presence in the city does not please the Church of Fire. Everyone will be better off if you leave.}

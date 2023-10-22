@@ -10,7 +10,7 @@
 ### {200}{}{(In the twilight of the barracks you see a woman on the bed; she is barely audible sobbing, turning away from you).}
 {200}{}{（在营房的暮色中，你看到一个女人躺在床上；几乎听不到她抽泣，转身离开你）。}
 ### {201}{}{Hey, ma'am...}
-{201}{}{嘿，女士。。。}
+{201}{}{嘿，女士...}
 ### {202}{}{Get out! Get out!}
 {202}{}{滚出去！滚出去！}
 ### {203}{}{Calm down, ma'am, I want to help you.}
@@ -50,11 +50,11 @@
 ### {220}{}{The murderer! My kids just wanted to live. All the outsiders tried to kill them. Just like you. Why are you so angry? (the woman turns her disfigured face sharply towards you) We haven't let anyone in since. Strangers bring us death!}
 {220}{}{凶手！我的孩子们只想活着。所有的局外人都试图杀死他们。就像你一样。你为什么这么生气？（那个女人把她那张毁容的脸猛地转向你）从那以后，我们再也没让任何人进来过。陌生人给我们带来死亡！}
 ### {221}{}{I'm not...}
-{221}{}{我不是。。。}
+{221}{}{我不是...}
 ### {222}{}{It's so familiar...}
-{222}{}{太熟悉了。。。}
+{222}{}{太熟悉了...}
 ### {223}{}{But that's nothing. We are all one family. No one will break the Bates. There will be new ones. Someday. Ha! Ha-ha! A-ha-ha! U-i-i-i...}
-{223}{}{但那没什么。我们都是一家人。没有人会打破贝茨。会有新的。总有一天。哈哈哈！哈哈哈！U-i-i-i。。。}
+{223}{}{但那没什么。我们都是一家人。没有人会打破贝茨。会有新的。总有一天。哈哈哈！哈哈哈！U-i-i-i...}
 ### {224}{}{[Leave the mutant alone]}
 {224}{}{[别管变种人]}
 ### {225}{}{You're just crazy.}
@@ -64,7 +64,7 @@
 ### {227}{}{Do you think I can't handle a few freaks?}
 {227}{}{你觉得我对付不了几个怪胎吗？}
 ### {228}{}{My sons will kill you! And any other outsider. Because we're family. No one will break the Bates. Ha! Ha-ha! A-ha-ha! U-i-i-i...}
-{228}{}{我的儿子会杀了你！以及任何其他局外人。因为我们是一家人。没有人会打破贝茨。哈哈哈！哈哈哈！U-i-i-i。。。}
+{228}{}{我的儿子会杀了你！以及任何其他局外人。因为我们是一家人。没有人会打破贝茨。哈哈哈！哈哈哈！U-i-i-i...}
 ### {229}{}{In fact, I understand you well. Outsiders also tried to break my village. And that's why I'm not going to die yet.}
 {229}{}{事实上，我很理解你。外地人也试图破坏我的村庄。这就是为什么我还不会死。}
 ### {230}{}{Outsiders also tried to break my village. I won't let you stop me. Your sons tried-and now they're dead.}

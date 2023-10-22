@@ -52,7 +52,7 @@
 ### {226}{}{What is it? Something happened?}
 {226}{}{它是什么？发生了什么事？}
 ### {227}{}{Don't... (takes a rough sip) It's been better.}
-{227}{}{不要。。。（喝了一口）好多了。}
+{227}{}{不要...（喝了一口）好多了。}
 ### {228}{}{Hey, listen, since I'm treating you, can you tell me about the city?}
 {228}{}{嘿，听着，既然我在请你，你能告诉我这个城市的情况吗？}
 
@@ -84,7 +84,7 @@
 ### {241}{}{Is there any way to get him out of prison?}
 {241}{}{有什么办法让他出狱吗？}
 ### {242}{}{Only if you pay off part of the debts. And there's nowhere to get so many caps.}
-{242}{}{只有你还清了部分债务。没有地方可以买到这么多帽子。}
+{242}{}{只有你还清了部分债务。没有地方可以买到这么多瓶盖。}
 ### {243}{}{A sad story. Well, come on.}
 {243}{}{一个悲伤的故事。好吧，来吧。}
 ### {244}{}{Yeah. Happily.}

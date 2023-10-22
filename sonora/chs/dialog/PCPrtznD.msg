@@ -23,7 +23,7 @@
 ### {205}{}{We need to leave.}
 {205}{}{我们需要离开。}
 ### {206}{}{It will not be possible to pass by the cultists unnoticed ... Hmm, but how did you manage it?}
-{206}{}{不可能在不被注意的情况下与邪教分子擦肩而过。。。嗯，但是你是怎么做到的？}
+{206}{}{不可能在不被注意的情况下与邪教分子擦肩而过...嗯，但是你是怎么做到的？}
 ### {207}{}{We'll have to fight our way to the exit. Are you ready? Then let's go.}
 {207}{}{我们必须奋力杀出出口。你准备好了吗？那我们走吧。}
 ### {208}{}{First you need to finish your assignment. Wait here.}

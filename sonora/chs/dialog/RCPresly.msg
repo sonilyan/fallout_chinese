@@ -67,7 +67,7 @@
 ### {232}{}{I see.}
 {232}{}{我明白了。}
 ### {233}{}{Tell me honestly, you've killed before... a person?}
-{233}{}{老实说，你以前杀过。。。一个人？}
+{233}{}{老实说，你以前杀过...一个人？}
 ### {234}{}{Not yet. Cadets are sent at best to shoot wolves. But I will kill the criminal bastards, as any ranger should.}
 {234}{}{还没有。学员们最多只能被派去打狼。但我会像任何护林员一样杀死那些犯罪的混蛋。}
 ### {235}{}{I didn't even think about it.}
@@ -89,7 +89,7 @@
 ### {306}{}{Agatha asked me to keep an eye on you.}
 {306}{}{阿加莎让我照看你。}
 ### {307}{}{Really? Do you think I need a mentor to shoot ordinary rodents? Although... I really could use a partner... and I need a witness, just in case.}
-{307}{}{真正地你认为我需要一个导师来射杀普通啮齿动物吗？虽然我真的需要一个合作伙伴。。。我需要一个证人以防万一。}
+{307}{}{真正地你认为我需要一个导师来射杀普通啮齿动物吗？虽然我真的需要一个合作伙伴...我需要一个证人以防万一。}
 ### {308}{}{So?}
 {308}{}{所以}
 ### {309}{}{It's a deal! But I can't go there without a gun.}
@@ -136,7 +136,7 @@
 ### {335}{}{Are you all right?}
 {335}{}{你还好吗？}
 ### {336}{}{I don't know... This bandit... He had a weapon, he could have found another way to survive. But he attacked a defenseless family. Why did he do it?}
-{336}{}{我不知道。。。这个土匪。。。他有武器，他本可以找到另一种生存方式。但他攻击了一个毫无防御能力的家庭。他为什么这么做？}
+{336}{}{我不知道...这个土匪...他有武器，他本可以找到另一种生存方式。但他攻击了一个毫无防御能力的家庭。他为什么这么做？}
 ### {337}{}{He didn't know any other way.}
 {337}{}{他不知道其他办法。}
 ### {338}{}{I'm no better, right? Now I understand why all this training was needed at the base. And why we are not allowed to important tasks. Now I will take the words of veterans more seriously.}
@@ -185,7 +185,7 @@
 ### {365}{}{What is it, Cadet? You've just been bloodthirsty rejoicing, cutting off the head of a pig-rat.}
 {365}{}{这是什么，学员？你刚才嗜血成性地高兴，割下了一只猪老鼠的头。}
 ### {366}{}{But this is different! Oh, damn, it's such a bad time... What should I do now?}
-{366}{}{但这不一样！哦，该死，这真是个糟糕的时刻。。。我现在该怎么办？}
+{366}{}{但这不一样！哦，该死，这真是个糟糕的时刻...我现在该怎么办？}
 ### {367}{}{We need to act now. While we wait for help, he will have time to escape or prepare for a siege. Someone will surely die.}
 {367}{}{我们现在需要采取行动。当我们等待救援时，他将有时间逃跑或准备围攻。肯定会有人死的。}
 ### {368}{}{Right. Now we have every chance. He is not expecting our appearance and is busy with other things. But let's be careful - man is not an animal, he is smarter.}

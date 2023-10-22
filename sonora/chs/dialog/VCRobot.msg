@@ -5,11 +5,11 @@
 
 #The first dialog
 ### {200}{}{Ah, finally! It's been a long time since I've seen the faces of living people. Decades of loneliness do not pass without a trace, even for my neural connections... Who are you? Tell me about yourself?}
-{200}{}{啊，终于！我已经很久没有看到活人的脸了。几十年的孤独并不是没有痕迹的，即使是我的神经连接。。。你是谁？告诉我你自己的情况？}
+{200}{}{啊，终于！我已经很久没有看到活人的脸了。几十年的孤独并不是没有痕迹的，即使是我的神经连接...你是谁？告诉我你自己的情况？}
 ### {201}{}{I }
 {201}{}{我}
 ### {202}{}{ from the Villa. And that's who you are... or WHAT are you?}
-{202}{}{别墅。这就是你。。。或者你是什么？}
+{202}{}{别墅。这就是你...或者你是什么？}
 ### {203}{}{Lo siento, mi joven descendiente. Technically, I'm a car from the Old Days. But more importantly, I am the personality of Felix Tejada, your direct ancestor. Don't worry, great-great-grandson. Once there were plenty of such robots all over the continent.}
 {203}{}{Lo siento，我喜欢下降。严格来说，我是一辆旧时代的车。但更重要的是，我是费利克斯·特贾达的个性，你的直系祖先。别担心，曾曾孙。曾经整个大陆都有很多这样的机器人。}
 ### {204}{}{This is something amazing.}
@@ -38,7 +38,7 @@
 ### {217}{}{Waiting for instructions.}
 {217}{}{正在等待指示。}
 ### {218}{}{How sad... And I told the Caretaker that it was no longer possible to live in the Vault.}
-{218}{}{多么悲伤。。。我告诉看守人，再也不可能住在金库里了。}
+{218}{}{多么悲伤...我告诉看守人，再也不可能住在避难所里了。}
 ### {219}{}{I am more and more surprised by the willingness of people to get into the very ass in search of trouble. That's what we're here for, isn't it?}
 {219}{}{我越来越惊讶于人们愿意钻到屁股里寻找麻烦。这就是我们来这里的目的，不是吗？}
 
@@ -65,12 +65,12 @@
 ### {230}{}{Tell me how the Villa appeared?}
 {230}{}{告诉我别墅是怎么出现的？}
 ### {231}{}{It's a long and sad story... To be honest, I don't know everything myself. Felix must not have wanted to talk about something. But one thing is clear - it has something to do with Vault 27 near Phoenix.}
-{231}{}{这是一个漫长而悲伤的故事。。。老实说，我自己并不是什么都知道。费利克斯一定不想谈什么。但有一点是明确的——这与菲尼克斯附近的27号金库有关。}
+{231}{}{这是一个漫长而悲伤的故事...老实说，我自己并不是什么都知道。费利克斯一定不想谈什么。但有一点是明确的——这与菲尼克斯附近的27号避难所有关。}
 ### {232}{}{Curious.}
 {232}{}{好奇的}
 
 ### {233}{}{What should I call you? You just... just a robot.}
-{233}{}{我该怎么称呼你？你只是。。。只是一个机器人。}
+{233}{}{我该怎么称呼你？你只是...只是一个机器人。}
 ### {234}{}{Call me Felix, baby. What, is this too exciting for you? Well, that's your right. In that case, se?or Assistant is the nickname your ancestor gave me.}
 {234}{}{叫我费利克斯，宝贝。什么，这对你来说太激动人心了吗？好吧，这是你的权利。在这种情况下，se?or Assistant是你祖先给我的昵称。}
 ### {235}{}{I'll just call you robot.}

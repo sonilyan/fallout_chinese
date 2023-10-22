@@ -69,7 +69,7 @@
 ### {229}{}{Then it's understandable why you're so discouraged. But everywhere I've been, there's no such damn thing. No one sacrifices their relatives to monsters.}
 {229}{}{那么你为什么如此沮丧也是可以理解的。但无论我到过哪里，都没有这种该死的东西。没有人会把亲人献给怪物。}
 ### {230}{}{(exhausted) Okay... okay... I'll be back. Come what may.}
-{230}{}{（筋疲力尽）好吧。。。可以我会回来的。来吧，不管怎样。}
+{230}{}{（筋疲力尽）好吧...可以我会回来的。来吧，不管怎样。}
 ### {231}{}{That's good. I'll make sure you get home.}
 {231}{}{这很好。我会确保你回家。}
 ### {232}{}{Stay here, I'll check the situation outside.}

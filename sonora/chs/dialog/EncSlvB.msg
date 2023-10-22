@@ -1,7 +1,7 @@
 ### {100}{}{You see a mercenary.}
 {100}{}{你看到一个雇佣兵。}
 ### {101}{}{Here is a mercenary. He keeps a close eye on the slaves... and for you too.}
-{101}{}{这是一个雇佣兵。他密切监视着奴隶们。。。也是为了你。}
+{101}{}{这是一个雇佣兵。他密切监视着奴隶们...也是为了你。}
 ### {102}{}{This person has nothing to tell you.}
 {102}{}{这个人没有什么要告诉你的。}
 

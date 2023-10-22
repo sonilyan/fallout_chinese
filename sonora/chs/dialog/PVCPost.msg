@@ -4,7 +4,7 @@
 {101}{}{这是邪教的守护者之一。他看起来和其他警卫没什么区别。}
 
 ### {104}{}{Someone raised the alarm. Looks like I'm going to have to detain you...}
-{104}{}{有人发出警报。看来我要拘留你了。。。}
+{104}{}{有人发出警报。看来我要拘留你了...}
 ### {105}{}{Are you leaving already? That's good.}
 {105}{}{你已经走了吗？这很好。}
 ### {106}{}{Stop! Who's coming?}
@@ -12,7 +12,7 @@
 ### {107}{}{The intruder! Raise the alarm!}
 {107}{}{入侵者！拉响警报！}
 ### {108}{}{Stop! Who did... uh, I think I saw a ghost.}
-{108}{}{停止谁干的。。。我想我看到鬼了。}
+{108}{}{停止谁干的...我想我看到鬼了。}
 
 ### {200}{}{Stop! Tell me the name and purpose of the visit.}
 {200}{}{停止告诉我这次访问的名字和目的。}
@@ -25,7 +25,7 @@
 ### {203}{}{Why these questions, brother? Isn't my cassock enough?}
 {203}{}{为什么要问这些问题，兄弟？我的袈裟还不够吗？}
 ### {204}{}{Eh, I'd better get out of here...}
-{204}{}{呃，我最好离开这里。。。}
+{204}{}{呃，我最好离开这里...}
 ### {205}{}{Tell your boss that I have information for him.}
 {205}{}{告诉你的老板我有消息要告诉他。}
 ### {206}{}{I'm going to Ulysses Grant. I was sent by Aaron himself.}

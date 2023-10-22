@@ -33,12 +33,12 @@
 ### {211}{}{Bye.}
 {211}{}{再见}
 ### {212}{}{Hmm, I've seen you somewhere... Hey! It's you the Rangers are looking for, isn't it? I don't know what your problems are with them, and I don't want to know. Just go your own way.}
-{212}{}{嗯，我在什么地方见过你。。。嘿流浪者队在找你，不是吗？我不知道你有什么问题，我也不想知道。走你自己的路。}
+{212}{}{嗯，我在什么地方见过你...嘿流浪者队在找你，不是吗？我不知道你有什么问题，我也不想知道。走你自己的路。}
 ### {213}{}{Bye.}
 {213}{}{再见}
 ### {214}{}{Just tell me one more time...}
-{214}{}{再告诉我一次。。。}
+{214}{}{再告诉我一次...}
 ### {215}{}{Hmm, I've seen you somewhere... Hey! It's you the Rangers are looking for, isn't it? Don't worry, I won't turn you in. They're looking for me too, heh-heh.}
-{215}{}{嗯，我在什么地方见过你。。。嘿流浪者队在找你，不是吗？别担心，我不会交你的。他们也在找我，呵呵。}
+{215}{}{嗯，我在什么地方见过你...嘿流浪者队在找你，不是吗？别担心，我不会交你的。他们也在找我，呵呵。}
 ### {216}{}{That's good. And where are you going?}
 {216}{}{这很好。你要去哪里？}

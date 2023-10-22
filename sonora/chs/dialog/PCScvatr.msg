@@ -19,7 +19,7 @@
 ### {116}{}{The skin is shedding again.}
 {116}{}{皮肤又开始脱落了。}
 ### {117}{}{Uv. I need to empty my stomach...}
-{117}{}{Uv。我需要排空我的胃。。。}
+{117}{}{Uv。我需要排空我的胃...}
 ### {118}{}{*Lazily itching*}
 {118}{}{*懒痒*}
 ### {119}{}{*Cough-cough-cough*}
@@ -72,7 +72,7 @@
 ### {158}{}{Do you hear? It breathes the city above.}
 {158}{}{你听到了吗？它呼吸着上面的城市。}
 ### {159}{}{It's usually quiet and peaceful here... until someone from above comes down here.}
-{159}{}{这里通常很安静。。。直到有人从上面下来。}
+{159}{}{这里通常很安静...直到有人从上面下来。}
 
 ### {160}{}{Hello.}
 {160}{}{你好}

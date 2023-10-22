@@ -5,7 +5,7 @@
 ### {102}{}{Hey, piece of iron, go back to the tinsmiths, we don't need such.}
 {102}{}{嘿，铁块，回到铁匠铺去吧，我们不需要这样。}
 ### {103}{}{T-you... What do you want? Get out of here!}
-{103}{}{你。。。你想要什么？滚出去！}
+{103}{}{你...你想要什么？滚出去！}
 
 ### {200}{}{The count and the others are now at the abandoned bar. Something happened there, but I do not know what exactly.}
 {200}{}{伯爵和其他人现在在废弃的酒吧里。那里发生了一些事情，但我不知道具体是什么。}
@@ -16,7 +16,7 @@
 ### {203}{}{I'm guarding the mansion. It is unwise to leave all this luxury unattended.}
 {203}{}{我在守卫这座宅邸。不去管这些奢侈品是不明智的。}
 ### {204}{}{Well yes. So, at the old bar...}
-{204}{}{是的。所以，在老酒吧。。。}
+{204}{}{是的。所以，在老酒吧...}
 
 ### {210}{}{The Count is no more. He's dead. Do you understand? Do you understand, eh? Yes, the whole city is over now!}
 {210}{}{伯爵不在了。他死了。你明白吗？你明白了吗？是的，现在整个城市都结束了！}
@@ -103,7 +103,7 @@
 ### {312}{}{Are you local?}
 {312}{}{你是本地人吗？}
 ### {313}{}{No, from a small community near Phoenix. The community went bankrupt, so I went to the big city. Things didn't work out there either, so I joined the caravan to earn caps. But they left me here on the way. I haven't seen the caravan since. Hell, they didn't even pay me the full amount.}
-{313}{}{不，来自菲尼克斯附近的一个小社区。社区破产了，所以我去了大城市。那里的情况也不太好，所以我加入了大篷车来赚取帽子。但他们在路上把我留在了这里。从那以后我再也没见过大篷车。见鬼，他们甚至没有全额付给我。}
+{313}{}{不，来自菲尼克斯附近的一个小社区。社区破产了，所以我去了大城市。那里的情况也不太好，所以我加入了大篷车来赚取瓶盖。但他们在路上把我留在了这里。从那以后我再也没见过大篷车。见鬼，他们甚至没有全额付给我。}
 ### {314}{}{Have you been working here as a security guard since then?}
 {314}{}{从那以后你一直在这里当保安吗？}
 ### {315}{}{No, just a few months. The count needed people, and there was no one among the locals to recruit for protection. Otherwise I wouldn't be here.}

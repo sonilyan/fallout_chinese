@@ -10,7 +10,7 @@
 ### {121}{}{I'm Peck. Paxter. Do you want to sleep with me?}
 {121}{}{我叫派克。帕克斯特。你想和我睡觉吗？}
 ### {122}{}{Do you know how many caps I have? And I don't have caps. And I'm happy!}
-{122}{}{你知道我有多少顶帽子吗？而且我没有帽子。我很高兴！}
+{122}{}{你知道我有多少个瓶盖吗？而且我没有瓶盖。我很高兴！}
 ### {123}{}{I didn't have any money before. Now no one has any money.}
 {123}{}{我以前没有钱。现在没人有钱了。}
 ### {124}{}{I live like the star of a TV show.}
@@ -18,11 +18,11 @@
 ### {125}{}{This is the best place in the world. Wee-ee-ee!}
 {125}{}{这是世界上最好的地方。哇！}
 ### {126}{}{It's time for Pack to take his medicine. * Yum-yum * Bue-uh...}
-{126}{}{帕克该吃药了。*百胜。。。}
+{126}{}{帕克该吃药了。*百胜...}
 ### {127}{}{Cops! It's the cops! But no... Just a flashback...}
-{127}{}{警察！是警察！但不是…只是一个闪回。。。}
+{127}{}{警察！是警察！但不是…只是一个闪回...}
 ### {128}{}{It's okay, I'm fine... it seems.}
-{128}{}{没关系，我很好。。。看起来。}
+{128}{}{没关系，我很好...看起来。}
 ### {129}{}{Without foreigners, Glow is not Glow.}
 {129}{}{没有外国人，Glow就不是Glow。}
 ### {130}{}{I'm not homeless. I'm free from home!}
@@ -87,10 +87,10 @@
 ### {235}{}{Then lead the way. Here }
 {235}{}{然后带路。在这里}
 ### {236}{}{ caps.}
-{236}{}{帽子。}
+{236}{}{瓶盖。}
 ### {237}{}{Not now. Later.}
 {237}{}{现在不行。后来}
 ### {238}{}{I need to get to the power plant. Will you take it for 500 caps?}
-{238}{}{我需要去发电厂。你愿意花500顶帽子吗？}
+{238}{}{我需要去发电厂。你愿意花500个瓶盖吗？}
 ### {239}{}{I will pay 1500 caps if you take me to the Old Town along safe paths.}
-{239}{}{如果你带我沿着安全的小路去老城，我会付1500顶帽子。}
+{239}{}{如果你带我沿着安全的小路去老城，我会付1500个瓶盖。}

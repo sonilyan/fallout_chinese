@@ -47,9 +47,9 @@
 ### {222}{}{Wonderful. Just great.}
 {222}{}{精彩的太棒了。}
 ### {223}{}{Ah, it's you again... But I just have to inform you that the discount on our services has now been canceled. And don't be indignant. This is the decision of the management, I have nothing to do with it.}
-{223}{}{啊，又是你。。。但我只想通知你，我们服务的折扣现在已经取消了。不要生气。这是管理层的决定，我与之无关。}
+{223}{}{啊，又是你...但我只想通知你，我们服务的折扣现在已经取消了。不要生气。这是管理层的决定，我与之无关。}
 ### {224}{}{Yes, bad luck...}
-{224}{}{是的，运气不好。。。}
+{224}{}{是的，运气不好...}
 
 #The first dialog
 ### {230}{}{What can I do for you?}

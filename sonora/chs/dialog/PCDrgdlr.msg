@@ -84,7 +84,7 @@
 ### {230}{}{So what kind of medicines are you selling?}
 {230}{}{那么你们卖什么药呢？}
 ### {231}{}{And what do you need? Tell me, I can get a stimpack, Radawaye or... (winks) something more serious. Do you understand?}
-{231}{}{你需要什么？告诉我，我可以得到一个刺激包，Radawaye或。。。（眨眼）更严重的事情。你明白吗？}
+{231}{}{你需要什么？告诉我，我可以得到一个刺激包，Radawaye或...（眨眼）更严重的事情。你明白吗？}
 ### {232}{}{I'll keep that in mind. See you later.}
 {232}{}{我会记住的。回头见。}
 ### {233}{}{But where did you get all this chemistry from?}
@@ -96,11 +96,11 @@
 ### {236}{}{But why did they need old army drugs?}
 {236}{}{但他们为什么需要旧的军药？}
 ### {237}{}{They hide behind caring for the residents of the city... look, I really don't know why they do this, but I don't want to go against the rules. However... (goes into a whisper)}
-{237}{}{他们躲在后面照顾城市的居民。。。听着，我真的不知道他们为什么这么做，但我不想违反规则。然而（低声说）}
+{237}{}{他们躲在后面照顾城市的居民...听着，我真的不知道他们为什么这么做，但我不想违反规则。然而（低声说）}
 ### {238}{}{Yes?}
 {238}{}{对}
 ### {239}{}{I have a lot of connections. For a modest reward of 100 caps, I can become your personal dealer. But this has to stay between us. Do you understand?}
-{239}{}{我有很多关系。只要100顶帽子的适度奖励，我就可以成为你的私人经销商。但这必须是我们之间的事。你明白吗？}
+{239}{}{我有很多关系。只要100个瓶盖的适度奖励，我就可以成为你的私人经销商。但这必须是我们之间的事。你明白吗？}
 ### {240}{}{I'll think about your offer.}
 {240}{}{我会考虑你的报价。}
 ### {241}{}{Yes, you are a danger to society. You need to be eliminated urgently.}
@@ -137,7 +137,7 @@
 {256}{}{让我看看你有什么。}
 
 ### {260}{}{Damn, I have everything I need. Don't worry, you'll feel good now...}
-{260}{}{该死，我有我需要的一切。别担心，你现在会感觉很好的。。。}
+{260}{}{该死，我有我需要的一切。别担心，你现在会感觉很好的...}
 ### {261}{}{Ugh, my eyes are running away from the choice. Now I will know where to buy dope.}
 {261}{}{啊，我的眼睛在逃避选择。现在我知道在哪里买毒品了。}
 ### {262}{}{Another thing. But don't you dare talk. This will be our little secret.}
@@ -158,7 +158,7 @@
 ### {272}{}{Doesn't sound very reliable, don't you think?}
 {272}{}{听起来不太可靠，你不觉得吗？}
 ### {273}{}{Calmly. Chemistry is almost without impurities. You can't find the best dope in the city... Except, perhaps, the Followers of Fire. But they don't share it with anyone.}
-{273}{}{冷静。化学几乎没有杂质。你在这个城市找不到最好的毒品。。。也许除了火的追随者。但他们不会与任何人分享。}
+{273}{}{冷静。化学几乎没有杂质。你在这个城市找不到最好的毒品...也许除了火的追随者。但他们不会与任何人分享。}
 ### {274}{}{And what kind of "dope" do you sell?}
 {274}{}{你卖什么“毒品”？}
 ### {275}{}{Almost? I need *really* quality medicines.}
@@ -166,7 +166,7 @@
 ### {276}{}{I'm telling you - I have the best chemistry. If you don't trust me, then get out of here.}
 {276}{}{我告诉你，我的化学反应最好。如果你不信任我，那就离开这里。}
 ### {277}{}{Okay, okay, I'm leaving...}
-{277}{}{好吧，好吧，我要走了。。。}
+{277}{}{好吧，好吧，我要走了...}
 ### {278}{}{Just try to be rude to me again - you will be left without teeth.}
 {278}{}{再对我无礼一次就好了——你会被弄得没牙的。}
 ### {279}{}{I need *really* high-quality medicines. The lives of my patients depend on it.}
@@ -182,9 +182,9 @@
 ### {284}{}{I'm from Murphy. And I need medicine for eternal sleep.}
 {284}{}{我来自墨菲。我需要药物来保证永远的睡眠。}
 ### {285}{}{I don't know why you need it, and I don't want to know. But I have poison from the tail of a radscorpion and various drugs for overdose. Choose what you have enough caps for.}
-{285}{}{我不知道你为什么需要它，我也不想知道。但我有一只蛇蝎尾巴上的毒药和各种过量服用的药物。选择你有足够的帽子。}
+{285}{}{我不知道你为什么需要它，我也不想知道。但我有一只蛇蝎尾巴上的毒药和各种过量服用的药物。选择你有足够的瓶盖。}
 ### {286}{}{Let's see...}
-{286}{}{让我们看看。。。}
+{286}{}{让我们看看...}
 ### {287}{}{But if anyone asks, I have nothing to do with it.}
 {287}{}{但如果有人问我，我与之无关。}
 ### {288}{}{OK.}
@@ -223,7 +223,7 @@
 ### {304}{}{I don't care.}
 {304}{}{我不在乎。}
 ### {305}{}{Um-M... Remember, it will cost you dearly. I will take my lost profit from our transactions.}
-{305}{}{嗯。。。记住，这会让你付出高昂的代价。我将从我们的交易中获利。}
+{305}{}{嗯...记住，这会让你付出高昂的代价。我将从我们的交易中获利。}
 ### {306}{}{So now I won't be able to count on discounts? Sorry to hear that.}
 {306}{}{所以现在我不能指望折扣了？很抱歉听到这个消息。}
 ### {307}{}{I'm not going to shop at your shady shop anyway. Bye.}
@@ -249,7 +249,7 @@
 ### {316}{}{Damn, I hate it when someone takes away my clients.}
 {316}{}{该死，我讨厌有人抢走我的客户。}
 ### {317}{}{You mean that junkie... What's his name... Larry?}
-{317}{}{你是说那个瘾君子。。。他叫什么名字。。。拉里？}
+{317}{}{你是说那个瘾君子...他叫什么名字...拉里？}
 ### {318}{}{Larry. Even though he was trash, he had periods of epiphany. At such moments, I managed to earn light caps on it. And what will I have now?}
 {318}{}{拉里。尽管他是个废物，但他也有过顿悟的时期。在这样的时刻，我设法在上面赚了很多钱。现在我会有什么？}
 ### {319}{}{You wouldn't be able to make money on someone else's problem for a long time. Think about it.}
@@ -285,7 +285,7 @@
 ### {333}{}{Then don't poke your nose into other people's business.}
 {333}{}{那就不要干涉别人的事。}
 ### {334}{}{Uh, okay...}
-{334}{}{好吧。。。}
+{334}{}{好吧...}
 ### {335}{}{The residents of the house are dissatisfied with this.}
 {335}{}{这所房子的居民对此感到不满。}
 ### {336}{}{Let them figure it out for themselves. It's not my problem, it's Larry's problem. I'm just selling him medicine.}

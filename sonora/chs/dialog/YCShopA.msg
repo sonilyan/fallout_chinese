@@ -52,15 +52,15 @@
 ### {220}{}{There's a dead guy with a rebar in his head who asked me to fix it.}
 {220}{}{有一个脑袋里插着钢筋的死人要我修理。}
 ### {221}{}{And that's all? Okay, come here...}
-{221}{}{仅此而已？好吧，过来。。。}
+{221}{}{仅此而已？好吧，过来...}
 ### {222}{}{Here.}
 {222}{}{在这里}
 ### {223}{}{No, I want to try it myself...}
-{223}{}{不，我想自己试试。。。}
+{223}{}{不，我想自己试试...}
 ### {1223}{}{No, I want to try it myself...}
-{1223}{}{不，我想自己试试。。。}
+{1223}{}{不，我想自己试试...}
 ### {224}{}{Oh, I don't like that he messed with you. But since you're here, you'll have to help. Give me that thing...}
-{224}{}{哦，我不喜欢他惹你。但既然你来了，你就得帮忙了。把那个东西给我。。。}
+{224}{}{哦，我不喜欢他惹你。但既然你来了，你就得帮忙了。把那个东西给我...}
 ### {225}{}{Done. Don't break it on the way.}
 {225}{}{完成。不要在路上把它弄坏。}
 ### {226}{}{Okay. Thank you.}
@@ -79,9 +79,9 @@
 ### {234}{}{ hubbucks. Caps forward.}
 {234}{}{老公。向前大写。}
 ### {235}{}{Wait a bit, I'll go get the caps.}
-{235}{}{等一下，我去拿帽子。}
+{235}{}{等一下，我去拿瓶盖。}
 ### {236}{}{Then do it. Here are the caps and the disk.}
-{236}{}{那就做吧。这是帽子和圆盘。}
+{236}{}{那就做吧。这是瓶盖和圆盘。}
 ### {237}{}{You have received a copy of the holodisk.}
 {237}{}{你收到了全息图的副本。}
 

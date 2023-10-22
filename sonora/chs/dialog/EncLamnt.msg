@@ -3,10 +3,10 @@
 ### {101}{}{You see an emaciated man. His gaze seems empty.}
 {101}{}{你看到一个瘦弱的男人。他的目光似乎是空洞的。}
 ### {102}{}{Run before it's too late. You still have a chance...}
-{102}{}{趁现在还来得及跑。你还有机会。。。}
+{102}{}{趁现在还来得及跑。你还有机会...}
 
 ### {200}{}{Who's here? Answer me! God, I hope you're not a figment of my imagination... N-don't touch the weeds! They are dangerous!}
-{200}{}{谁在这儿？回答我！天啊，我希望你不是我想象中的虚构。。。不要碰杂草！他们很危险！}
+{200}{}{谁在这儿？回答我！天啊，我希望你不是我想象中的虚构...不要碰杂草！他们很危险！}
 ### {201}{}{Okay, calm down.}
 {201}{}{好吧，冷静下来。}
 ### {202}{}{I'm Lamont. I have a farm in the canyon. Well, it used to be a farm.}
@@ -14,9 +14,9 @@
 ### {203}{}{Why? Are there weeds there too?}
 {203}{}{为什么？那里也有杂草吗？}
 ### {204}{}{They are worse than mantises... (looks around in panic) Weeds! They're everywhere! Everywhere!}
-{204}{}{它们比螳螂还糟糕。。。（惊慌失措地环顾四周）杂草！他们无处不在！处处}
+{204}{}{它们比螳螂还糟糕...（惊慌失措地环顾四周）杂草！他们无处不在！处处}
 ### {205}{}{Come on, it's just a tumbleweed...}
-{205}{}{来吧，这只是一株风滚草。。。}
+{205}{}{来吧，这只是一株风滚草...}
 
 ### {210}{}{I have a farm in the canyon.}
 {210}{}{我在峡谷里有一个农场。}
@@ -33,7 +33,7 @@
 ### {216}{}{Neither to me, nor to you. No one will leave.}
 {216}{}{既不是对我，也不是对你。没有人会离开。}
 ### {217}{}{What are you...}
-{217}{}{你是什么。。。}
+{217}{}{你是什么...}
 
 ### {220}{}{There is no way out. That's all. THEY won't give.}
 {220}{}{没有出路。仅此而已。他们不会让步。}
@@ -52,7 +52,7 @@
 ### {227}{}{Go on.}
 {227}{}{继续}
 ### {228}{}{At first I didn't pay attention. It just seemed like the tumbleweed was bigger than usual. And then they began to behave as if they were alive. They wouldn't even let me leave the canyon-they blocked the road or clung to my legs when I tried to leave. I haven't tried since...}
-{228}{}{一开始我没注意。看起来风滚草比平时大。然后他们开始表现得好像还活着。他们甚至不让我离开峡谷——当我试图离开时，他们挡住了路，或者抓住了我的腿。从那以后我就没试过。。。}
+{228}{}{一开始我没注意。看起来风滚草比平时大。然后他们开始表现得好像还活着。他们甚至不让我离开峡谷——当我试图离开时，他们挡住了路，或者抓住了我的腿。从那以后我就没试过...}
 ### {229}{}{Hmm.}
 {229}{}{嗯。}
 ### {230}{}{Go away! You still have a chance to get out of here. Run while you can!}

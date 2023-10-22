@@ -6,7 +6,7 @@
 {102}{}{扬言要哇！}
 
 ### {200}{}{Hmm-m... It's been a long time since I've talked to anyone. The language is heavy.}
-{200}{}{嗯。。。我已经很久没有和任何人说话了。语言很重。}
+{200}{}{嗯...我已经很久没有和任何人说话了。语言很重。}
 ### {201}{}{I don't want to talk to anyone either. I suggest we disperse.}
 {201}{}{我也不想和任何人说话。我建议我们散开。}
 

@@ -25,7 +25,7 @@
 ### {113}{}{*Burp*}
 {113}{}{*打嗝*}
 ### {114}{}{Damn heartburn...}
-{114}{}{该死的烧心。。。}
+{114}{}{该死的烧心...}
 ### {115}{}{ }
 {115}{}{error : string is empty}
 ### {116}{}{ }
@@ -45,13 +45,13 @@
 ### {122}{}{Larry, for fuck's sake! Why the hell are you breaking into my office?}
 {122}{}{拉里，看在他妈的份上！你为什么闯进我的办公室？}
 ### {123}{}{What's the matter? No one dares to break into my office...}
-{123}{}{怎么了？没有人敢闯入我的办公室。。。}
+{123}{}{怎么了？没有人敢闯入我的办公室...}
 ### {124}{}{Mr. Kogan! There, in the dormitory, a serious mess began!}
 {124}{}{Kogan先生！在宿舍里，一片狼藉开始了！}
 ### {125}{}{Well, what else can happen in this hole? Probably another drunken brawl.}
 {125}{}{这个洞里还能发生什么？可能又是一场酒后斗殴。}
 ### {126}{}{No, it doesn't look like it. I didn't understand the reason for the fight, I immediately ran here...}
-{126}{}{不，看起来不像。我不明白打架的原因，我马上跑过来。。。}
+{126}{}{不，看起来不像。我不明白打架的原因，我马上跑过来...}
 ### {127}{}{So go figure it out, idiot!}
 {127}{}{去想办法吧，白痴！}
 
@@ -90,7 +90,7 @@
 ### {184}{}{You'll have to work hard to earn my respect. It all depends on you.}
 {184}{}{你必须努力工作才能赢得我的尊重。这一切都取决于你。}
 ### {185}{}{That's how...}
-{185}{}{这就是为什么。。。}
+{185}{}{这就是为什么...}
 ### {186}{}{He started it first! I was just defending myself.}
 {186}{}{他先开始的！我只是在为自己辩护。}
 ### {1186}{}{He started it first! I was just defending myself.}
@@ -99,7 +99,7 @@
 {187}{}{这是我们对他的不满。它们与你无关。}
 
 ### {190}{}{You again... (sigh) Do you know about the Rangers? I hate these guys. They're always poking their noses into other people's business, as if the whole wasteland belongs to them. You're not going to do the same in *my* city, are you?}
-{190}{}{你又。。。（叹气）你知道游骑兵队吗？我讨厌这些家伙。他们总是对别人的事情嗤之以鼻，好像整个荒地都属于他们。你不会在我的城市做同样的事，是吗？}
+{190}{}{你又...（叹气）你知道游骑兵队吗？我讨厌这些家伙。他们总是对别人的事情嗤之以鼻，好像整个荒地都属于他们。你不会在我的城市做同样的事，是吗？}
 ### {191}{}{No, Mr. Kogan. I'm here solely on business.}
 {191}{}{不，Kogan先生。我来这里只是出差。}
 ### {192}{}{OK. I think we understand each other. Don't forget who this place belongs to.}
@@ -178,7 +178,7 @@
 {223}{}{这不是我要问的。}
 
 ### {230}{}{These scavengers can be unbearable when they get drunk... Listen, if you're going to stay in town, you're going to need my protection. And now a great opportunity has turned up to show itself.}
-{230}{}{这些拾荒者喝醉了会让人难以忍受。。。听着，如果你要留在城里，你需要我的保护。现在出现了一个展示自己的大好机会。}
+{230}{}{这些拾荒者喝醉了会让人难以忍受...听着，如果你要留在城里，你需要我的保护。现在出现了一个展示自己的大好机会。}
 ### {231}{}{Are you suggesting I calm down the workers?}
 {231}{}{你是在建议我让工人们冷静下来吗？}
 ### {232}{}{Go to the dorm and find out what happened there. I don't need any extra problems in the city.}
@@ -241,7 +241,7 @@
 ### {256}{}{What's the story with the decoder?}
 {256}{}{解码器是怎么回事？}
 ### {257}{}{A rare device for hacking electronic systems. I ordered a decoder for a large amount of caps through the southern caravans and gave it to the Trayvon clan to open the old factory. It's the only place we couldn't get to because of the damn security system. It looks like Lucas decided to bypass all of us in this operation.}
-{257}{}{一种罕见的用于入侵电子系统的设备。我通过南部大篷车订购了大量帽子的解码器，并将其交给特雷冯家族，让他们打开旧工厂。这是我们唯一不能去的地方，因为该死的安全系统。看起来卢卡斯决定在这次行动中绕过我们所有人。}
+{257}{}{一种罕见的用于入侵电子系统的设备。我通过南部大篷车订购了大量瓶盖的解码器，并将其交给特雷冯家族，让他们打开旧工厂。这是我们唯一不能去的地方，因为该死的安全系统。看起来卢卡斯决定在这次行动中绕过我们所有人。}
 ### {258}{}{Why was it necessary to divide the scavengers into clans?}
 {258}{}{为什么有必要把拾荒者分成部落？}
 ### {259}{}{They wanted it themselves. People need authorities, that's how their thinking works. I don't care who I give instructions to. The main thing is that they obey and do not create problems.}
@@ -268,7 +268,7 @@
 ### {276}{}{It's not like you want to come back.}
 {276}{}{你好像不想回来。}
 ### {277}{}{I'm afraid we have some with the main office... disagreements.}
-{277}{}{恐怕我们总公司有一些。。。分歧。}
+{277}{}{恐怕我们总公司有一些...分歧。}
 ### {278}{}{What is your cartel doing?}
 {278}{}{你们的卡特尔在干什么？}
 ### {279}{}{Mainly extracts minerals from old ruins. For a hundred years after the Great War, many things have deteriorated, but some have survived and can be useful to society. We also try to fix some things, but things are much more complicated with this.}
@@ -349,7 +349,7 @@
 ### {339}{}{Well, that was very stupid of you. Get out of my town. And you won't get any reward.}
 {339}{}{你真是太愚蠢了。滚出我的城市。而且你不会得到任何奖励。}
 ### {340}{}{...}
-{340}{}{。。。}
+{340}{}{...}
 ### {341}{}{ Yes. I'm with you.}
 {341}{}{对我支持你。}
 ### {342}{}{Very good. Get ready for the meeting, take everything you need. And then come back to me.}
@@ -382,7 +382,7 @@
 ### {360}{}{The transaction was successful, wasn't it?}
 {360}{}{交易成功了，不是吗？}
 ### {361}{}{It was a great deal. You have no idea how much. We didn't just earn caps. We gave the city a chance to survive.}
-{361}{}{这是一笔巨大的交易。你不知道有多少。我们不仅仅是赢得了帽子。我们给了这座城市生存的机会。}
+{361}{}{这是一笔巨大的交易。你不知道有多少。我们不仅仅是赢得了瓶盖。我们给了这座城市生存的机会。}
 ### {362}{}{What do you mean?}
 {362}{}{你是什么意思？}
 ### {363}{}{This city is degenerating. We used to survive by extracting minerals from the ruins, but their reserves have become scarce. To survive, the city needs not just new orders, but a whole new production.}
@@ -409,13 +409,13 @@
 {373}{}{我不在乎。我只对我们的协议感兴趣。}
 
 ### {380}{}{I appreciate my business partners. Here's your fee for your work - here are 200 caps. I'll also tell Pete to serve you to the fullest. Make yourself at home.}
-{380}{}{我感谢我的商业伙伴。这是你的工作费——这里有200顶帽子。我也会告诉皮特为你服务到极致。别拘束。}
+{380}{}{我感谢我的商业伙伴。这是你的工作费——这里有200个瓶盖。我也会告诉皮特为你服务到极致。别拘束。}
 ### {381}{}{I'm going to spend the bottlecaps.}
 {381}{}{我要花掉瓶子里的钱。}
 ### {382}{}{What about the Villa and the raiders?}
 {382}{}{别墅和袭击者呢？}
 ### {383}{}{And you still won't calm down... The slave convoy has gone to the city of Flagstaff, it is located to the east, a week away from here. Go along the 40th federal highway, you won't miss.}
-{383}{}{你还是不会冷静下来。。。奴隶车队已经前往弗拉格斯塔夫市，该市位于东部，距离这里一周路程。沿着40号联邦高速公路走，你不会错过的。}
+{383}{}{你还是不会冷静下来...奴隶车队已经前往弗拉格斯塔夫市，该市位于东部，距离这里一周路程。沿着40号联邦高速公路走，你不会错过的。}
 ### {384}{}{Great, now I'm going to deal with these damn raiders.}
 {384}{}{太好了，现在我要对付这些该死的袭击者。}
 ### {385}{}{I hope there will be something to spend the earned caps on.}
@@ -432,7 +432,7 @@
 ### {390}{}{You might be pleased to hear that Lucas is dead.}
 {390}{}{听到卢卡斯死了，你可能会很高兴。}
 ### {391}{}{Good job. Here's your reward, 100 caps. You can spend it at a local bar, although I don't think that after this you will be met there amicably.}
-{391}{}{干得好这是你的奖励，100顶帽子。你可以在当地的酒吧消费，尽管我认为在这之后你不会在那里友好地见面。}
+{391}{}{干得好这是你的奖励，100个瓶盖。你可以在当地的酒吧消费，尽管我认为在这之后你不会在那里友好地见面。}
 ### {392}{}{Thank you for the bottlecaps, Mr. Kogan.}
 {392}{}{谢谢你给我的瓶子，Kogan先生。}
 ### {393}{}{I was hoping for a different amount for such dirty work. But this one will do.}

@@ -30,7 +30,7 @@
 ### {222}{}{I'm sorry, uh, but you'd better talk to the mayor first. Otherwise we will have problems.}
 {222}{}{对不起，呃，你最好先和市长谈谈。否则我们会有问题。}
 ### {223}{}{Are you serious? Well, okay...}
-{223}{}{你是认真的吗？好吧。。。}
+{223}{}{你是认真的吗？好吧...}
 
 ### {230}{}{Who are you?}
 {230}{}{你是谁？}
@@ -62,7 +62,7 @@
 ### {245}{}{How free are you here? Can you leave if you want?}
 {245}{}{你在这里有多自由？如果你愿意，你能离开吗？}
 ### {246}{}{Why leave this paradise? There is only a desert around, and in large settlements there is nothing but suffering. Yes, I'm losing some of my freedom here. But in exchange I get Vault and food. First we have to survive and build a new world, and only after that we can talk about freedom. Such times.}
-{246}{}{为什么要离开这个天堂？周围只有一片沙漠，在大型定居点，除了苦难什么都没有。是的，我在这里失去了一些自由。但作为交换，我得到了金库和食物。首先，我们必须生存并建立一个新世界，只有在那之后，我们才能谈论自由。这样的时代。}
+{246}{}{为什么要离开这个天堂？周围只有一片沙漠，在大型定居点，除了苦难什么都没有。是的，我在这里失去了一些自由。但作为交换，我得到了避难所和食物。首先，我们必须生存并建立一个新世界，只有在那之后，我们才能谈论自由。这样的时代。}
 ### {247}{}{Inspiring speech, Nick. Life is really better here than in the rest of Arizona. Will you tell me something else?}
 {247}{}{鼓舞人心的演讲，尼克。这里的生活确实比亚利桑那州其他地方好。你能告诉我别的事吗？}
 ### {248}{}{Only weak people don't go against the wind. I hope you have the strength to at least answer a couple of questions.}

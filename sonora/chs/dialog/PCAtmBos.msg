@@ -9,14 +9,14 @@
 ### {104}{}{I have a lot to do. But thanks for visiting Grandpa. By the way, who are you?}
 {104}{}{我有很多事要做。但是谢谢你来看望爷爷。顺便问一下，你是谁？}
 ### {105}{}{Oh, I don't feel well...}
-{105}{}{哦，我感觉不舒服。。。}
+{105}{}{哦，我感觉不舒服...}
 
 ### {110}{}{   }
 {110}{}{error : string is empty}
 ### {111}{}{Boss! Theodore! Trouble!}
 {111}{}{老板西奥多！麻烦}
 ### {112}{}{What happened? I'm trying to sleep here...}
-{112}{}{发生了什么？我正试着睡在这里。。。}
+{112}{}{发生了什么？我正试着睡在这里...}
 ### {113}{}{Ralph and the others locked themselves at the control panel. And he's not joking!}
 {113}{}{拉尔夫和其他人把自己锁在控制面板上。他不是在开玩笑！}
 ### {114}{}{Ralph? I asked you to bring him to me. for me. Repeat?}
@@ -49,7 +49,7 @@
 ### {211}{}{Sure. I always want to earn money.}
 {211}{}{当然我一直想挣钱。}
 ### {212}{}{Fine, I'm counting on you. Go, but don't tell anyone about our agreement... Hmm. M-nasty sea worms. They are trying to pounce on you with their copper teeth.}
-{212}{}{好吧，我指望你。去吧，但不要告诉任何人我们的协议。。。嗯，讨厌的海虫。他们正试图用他们的铜牙向你猛扑。}
+{212}{}{好吧，我指望你。去吧，但不要告诉任何人我们的协议...嗯，讨厌的海虫。他们正试图用他们的铜牙向你猛扑。}
 ### {213}{}{e... Goodbye.}
 {213}{}{再见。}
 ### {214}{}{But don't tell anyone about our agreement. Especially those crazy fire worshippers.}
@@ -81,7 +81,7 @@
 ### {238}{}{We studied the wreckage. So what? The system was deliberately blown up with dynamite. How do you explain this, my slippery pale-skinned friend?}
 {238}{}{我们研究了残骸。那又怎样？这个系统是故意用炸药炸毁的。你怎么解释呢，我这个皮肤滑滑的苍白朋友？}
 ### {239}{}{Uh, I have nothing to do with it. You let me in yourself and then...}
-{239}{}{我跟你无关你让我自己进去然后。。。}
+{239}{}{我跟你无关你让我自己进去然后...}
 ### {240}{}{Enough of these soporific speeches, dear. I'll tell you what - find the culprits who are behind the terrorist attack. And only then will I decide whether to pay you or not.}
 {240}{}{亲爱的，这些催眠的演讲够了。我告诉你-找到恐怖袭击的幕后黑手。只有到那时，我才能决定是否付钱给你。}
 ### {241}{}{Give me my bottlecaps, old man, or you'll go to your forefathers.}
@@ -102,7 +102,7 @@
 ### {250}{}{I know who blew up the cooler.}
 {250}{}{我知道是谁炸了冷却器。}
 ### {251}{}{Wow, how curious. Like in a real detective story... And who is it?}
-{251}{}{哇，真奇怪。就像在一个真实的侦探故事中。。。是谁？}
+{251}{}{哇，真奇怪。就像在一个真实的侦探故事中...是谁？}
 ### {252}{}{I don't know. I'm just desperate. I'd better go get a drink.}
 {252}{}{我不知道。我只是绝望了。我最好去喝一杯。}
 ### {253}{}{The explosion was carried out by the Red Cardinals on the order of the fire worshippers. And your devoted assistant, Ralph, helped them in this.}
@@ -112,17 +112,17 @@
 ### {255}{}{I have no idea, but it's a fact.}
 {255}{}{我不知道，但这是事实。}
 ### {256}{}{The Church tried to persuade you to an unprofitable contract. And Ralph... He thinks it's time for him to take up the post of stationmaster.}
-{256}{}{教会试图说服你签订一份无利可图的合同。拉尔夫。。。他认为是时候担任站长了。}
+{256}{}{教会试图说服你签订一份无利可图的合同。拉尔夫...他认为是时候担任站长了。}
 ### {257}{}{Hey, security! Bring Ralph to me. And do not take your eyes off him, so that there are no discounts for him... He's crazy. Like an overripe cherry. Do you know how much work it cost to launch this station?}
-{257}{}{嘿，保安！把拉尔夫带到我身边。不要把你的目光从他身上移开，这样他就没有折扣了。。。他疯了。就像一颗过熟的樱桃。你知道发射这个电台要花多少钱吗？}
+{257}{}{嘿，保安！把拉尔夫带到我身边。不要把你的目光从他身上移开，这样他就没有折扣了...他疯了。就像一颗过熟的樱桃。你知道发射这个电台要花多少钱吗？}
 ### {258}{}{I don't care...}
-{258}{}{我不在乎。。。}
+{258}{}{我不在乎...}
 ### {259}{}{Must be pretty damn hard?}
 {259}{}{一定很难吗？}
 ### {260}{}{Oh yeah. All worries. Ralph thinks the cultists will do better if they take command here. But as a former officer, I know that people with convictions should not be allowed to come to power. Oh, I love to write out fines for crossing in the wrong place. You feel like that... big.}
-{260}{}{哦，是的。所有的担忧。拉尔夫认为，如果邪教分子在这里掌权，他们会做得更好。但作为一名前官员，我知道不应该允许有定罪的人上台。哦，我喜欢写下在错误的地方穿越的罚款单。你觉得。。。大的}
+{260}{}{哦，是的。所有的担忧。拉尔夫认为，如果邪教分子在这里掌权，他们会做得更好。但作为一名前官员，我知道不应该允许有定罪的人上台。哦，我喜欢写下在错误的地方穿越的罚款单。你觉得...大的}
 ### {261}{}{N-well...}
-{261}{}{N井。。。}
+{261}{}{N井...}
 ### {262}{}{What are you talking about?}
 {262}{}{你在说什么？}
 

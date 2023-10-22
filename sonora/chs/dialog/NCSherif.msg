@@ -18,7 +18,7 @@
 ### {202}{}{I'm not going to waste a lot of time on you. Can you read? Then remember the rules written at the main gate, and nothing will happen to you.}
 {202}{}{我不会在你身上浪费很多时间。你会读书吗？然后记住大门上写的规则，你就不会出事了。}
 ### {203}{}{Oh yes, the rules...}
-{203}{}{哦，是的，规则。。。}
+{203}{}{哦，是的，规则...}
 ### {204}{}{Glad to meet you, brother! Congratulations on the promotion.}
 {204}{}{很高兴见到你，兄弟！祝贺你升职。}
 ### {1204}{}{Glad to meet you, Sister! Congratulations on the promotion.}
@@ -44,7 +44,7 @@
 ### {221}{}{There must be serious grounds for such statements.}
 {221}{}{这种说法必须有充分的理由。}
 ### {222}{}{That's what people say...}
-{222}{}{人们就是这么说的。。。}
+{222}{}{人们就是这么说的...}
 ### {223}{}{Remember, stranger, I don't like it when they create panic and spread rumors in my city. If you don't want problems, don't aggravate your situation. It's simple.}
 {223}{}{记住，陌生人，我不喜欢他们在我的城市制造恐慌和散布谣言。如果你不想遇到问题，不要使你的处境恶化。这很简单。}
 ### {224}{}{Yes, indeed. I don't want any problems.}
@@ -63,7 +63,7 @@
 ### {234}{}{I understand now. I'm sorry for asking ridiculous questions. Can I go?}
 {234}{}{我现在明白了。我很抱歉问了一些荒谬的问题。我能去吗？}
 ### {235}{}{Well yes. It's so convenient...}
-{235}{}{是的。太方便了。。。}
+{235}{}{是的。太方便了...}
 ### {236}{}{I don't like you. You come to a place where you were not invited, and you dare to doubt our rules. But I'll give you a choice. One of two.}
 {236}{}{我不喜欢你。你来到了一个没有被邀请的地方，你敢怀疑我们的规则。但我给你一个选择。二选一。}
 ### {237}{}{And what is it?}
@@ -86,7 +86,7 @@
 ### {252}{}{Don't talk your teeth into me. Everyone has to sleep in their holes during curfew. I'll give you two minutes to get into bed and not crawl out of there until six in the morning.}
 {252}{}{别跟我说话。宵禁期间每个人都得睡在自己的洞里。我给你两分钟时间上床睡觉，直到早上六点才爬出来。}
 ### {253}{}{I will, sir. No problem, sir...}
-{253}{}{我会的，先生。没问题，先生。。。}
+{253}{}{我会的，先生。没问题，先生...}
 ### {254}{}{Any problems?}
 {254}{}{有什么问题吗？}
 ### {255}{}{No, none.}
@@ -102,17 +102,17 @@
 ### {260}{}{You again. We've already discussed what not to do at night. So what's the problem?}
 {260}{}{你又来了。我们已经讨论过晚上不该做什么了。那么问题出在哪里呢？}
 ### {261}{}{Uh, insomnia, sir. I'm sorry, sir...}
-{261}{}{呃，失眠，先生。对不起，先生。。。}
+{261}{}{呃，失眠，先生。对不起，先生...}
 ### {262}{}{Well, that's it, I was trying to be kind. It's time to teach you a lesson. You'll sit in a cell for a dozen hours and think about your behavior. Get moving. And don't try to run away from me.}
 {262}{}{好吧，就是这样，我试着表现得善良。是时候教训你了。你会在牢房里坐上十几个小时，思考自己的行为。行动起来。不要试图逃离我。}
 ### {263}{}{Okay, sir, I won't resist...}
-{263}{}{好吧，先生，我不会抗拒。。。}
+{263}{}{好吧，先生，我不会抗拒...}
 ### {264}{}{Suck it!}
 {264}{}{吸吧！}
 ### {265}{}{I'm sick of it!}
 {265}{}{我受够了！}
 ### {266}{}{Oh, oh...}
-{266}{}{哦，哦。。。}
+{266}{}{哦，哦...}
 ### {267}{}{Suck it!}
 {267}{}{吸吧！}
 
@@ -121,17 +121,17 @@
 ### {271}{}{Sure. And you're not a hindrance to me.}
 {271}{}{当然你不是我的障碍。}
 ### {272}{}{Nothing will be hidden from the order. You're a criminal. The Brotherhood of Steel demands that you be brought to justice on the spot. Do you have the last word? No, to hell with it. You have no right to...}
-{272}{}{订单中不会隐藏任何内容。你是个罪犯。钢铁兄弟会要求当场将你绳之以法。你知道最后一句话吗？不，见鬼去吧。你无权。。。}
+{272}{}{订单中不会隐藏任何内容。你是个罪犯。钢铁兄弟会要求当场将你绳之以法。你知道最后一句话吗？不，见鬼去吧。你无权...}
 ### {273}{}{Oops...}
-{273}{}{哎呀。。。}
+{273}{}{哎呀...}
 ### {274}{}{I don't know what you're talking about. Surely you are confusing me with someone...}
-{274}{}{我不知道你在说什么。你肯定把我和某人搞混了。。。}
+{274}{}{我不知道你在说什么。你肯定把我和某人搞混了...}
 ### {275}{}{You're confusing me with someone else. I do not know about any order.}
 {275}{}{你把我和别人搞混了。我不知道有什么订单。}
 ### {276}{}{Hmm, maybe. Although the description is very similar to you. Okay, for now I'll consider you a suspect.}
 {276}{}{嗯，也许吧。尽管描述与您非常相似。好吧，现在我认为你是嫌疑犯。}
 ### {277}{}{Ugh, it's gone...}
-{277}{}{啊，它不见了。。。}
+{277}{}{啊，它不见了...}
 
 ### {280}{}{Can you tell me about the city?}
 {280}{}{你能告诉我这个城市的情况吗？}
@@ -164,7 +164,7 @@
 ### {293}{}{The law. Security. Boring. Want to fight!}
 {293}{}{法律。安全没趣的想要战斗！}
 ### {294}{}{Hmm-m... There is one damn place where it is better not to go. I want to warn you right away so that I don't have to pull you out of there.}
-{294}{}{嗯。。。有一个该死的地方最好不要去。我想马上警告你，这样我就不用把你从那里拉出来了。}
+{294}{}{嗯...有一个该死的地方最好不要去。我想马上警告你，这样我就不用把你从那里拉出来了。}
 ### {295}{}{Tell me.}
 {295}{}{告诉我。}
 ### {296}{}{A concrete plant outside the city and a quarry near it. The plant was closed after people began to disappear there. There are various rumors, but still no one knows what happened there.}
@@ -180,7 +180,7 @@
 ### {302}{}{Please don't tell me any more about this creepy place.}
 {302}{}{请不要再告诉我这个令人毛骨悚然的地方了。}
 ### {303}{}{I will solve the problem for 300 caps.}
-{303}{}{我会解决300顶帽子的问题。}
+{303}{}{我会解决300个瓶盖的问题。}
 ### {304}{}{I have already heard these words from past mercenaries. If life is precious, then don't go to the silo.}
 {304}{}{我已经从过去的雇佣军那里听到过这些话。如果生命是宝贵的，那么就不要去筒仓。}
 ### {305}{}{Still, I'll try. Take me to the silo right now.}
@@ -188,13 +188,13 @@
 ### {306}{}{I think I'll listen to your words.}
 {306}{}{我想我会听你的话。}
 ### {307}{}{There was a monster in the factory. I managed to finish him off. The tenacious bastard got caught...}
-{307}{}{工厂里有个怪物。我设法把他干掉了。那个顽强的混蛋被抓住了。。。}
+{307}{}{工厂里有个怪物。我设法把他干掉了。那个顽强的混蛋被抓住了...}
 ### {308}{}{...I'll be damned! Death claw? Here? How far have these creatures made their way.}
 {308}{}{…我会被诅咒的！死亡之爪？在这里这些生物已经走了多远。}
 ### {309}{}{He's not threatening you now.}
 {309}{}{他现在没有威胁你。}
 ### {310}{}{Great job. The whole city owes you. So be it, I will beat out a reward for you from the city treasury.}
-{310}{}{干得好。整个城市都欠你。不管怎样，我会从城市金库里为你打赏的。}
+{310}{}{干得好。整个城市都欠你。不管怎样，我会从城市避难所里为你打赏的。}
 ### {311}{}{Thank you.}
 {311}{}{非常感谢。}
 ### {312}{}{How do you know about the claws?}
@@ -234,7 +234,7 @@
 ### {335}{}{Your position is clear. It couldn't be clearer.}
 {335}{}{你的立场很明确。再清楚不过了。}
 ### {336}{}{What do you care about a pig-rat? Obviously, one curiosity. Then I have a suggestion. I'll pay 30 caps if you kill this beast. What do you say?}
-{336}{}{你关心猪老鼠什么？显然，这是一种好奇。那我有个建议。如果你杀了这头野兽，我会付30顶帽子。你怎么说？}
+{336}{}{你关心猪老鼠什么？显然，这是一种好奇。那我有个建议。如果你杀了这头野兽，我会付30个瓶盖。你怎么说？}
 ### {337}{}{Well, no. I don't want to hurt a teenager.}
 {337}{}{不，我不想伤害一个青少年。}
 ### {338}{}{Chipo is to blame! There was nothing to bring a cub into the house. Alvaro also did not have the courage and courage to put everything in its place. Sorry. It's a pity that there are only weaklings around.}
@@ -242,7 +242,7 @@
 ### {339}{}{Bye, Commandant.}
 {339}{}{再见，指挥官。}
 ### {340}{}{It won't take long. Count off the caps, buddy.}
-{340}{}{这不会花很长时间。数帽子，伙计。}
+{340}{}{这不会花很长时间。数瓶盖，伙计。}
 ### {341}{}{I'm counting on you.}
 {341}{}{我指望着你。}
 ### {342}{}{See you, Commandant.}
@@ -267,10 +267,10 @@
 ### {352}{}{Herman Genaro Cipriano Gomez Valdez y Castillo. He traveled by stagecoach from Phoenix to the Platform.}
 {352}{}{Herman Genaro Cipriano Gomez Valdez y Castillo。他乘马车从凤凰城到站台。}
 ### {353}{}{Now I'll look at the migration log... Wait a minute. I have no record of him visiting Casa Nueva.}
-{353}{}{现在我将查看迁移日志。。。等一下。我没有他访问努瓦之家的记录。}
+{353}{}{现在我将查看迁移日志...等一下。我没有他访问努瓦之家的记录。}
 ### {354}{}{What about the Sonora Express stagecoach?}
 {354}{}{Sonora Express驿站马车怎么样？}
 ### {355}{}{Wait a minute... Yes, there is that name here, but... I have it recorded that the whole stagecoach died at the hands of highway robbers, never reaching us.}
-{355}{}{等一下。。。是的，这里有这个名字，但是。。。我有记录说，整辆马车都死在了高速公路劫匪手中，从来没有到达我们身边。}
+{355}{}{等一下...是的，这里有这个名字，但是...我有记录说，整辆马车都死在了高速公路劫匪手中，从来没有到达我们身边。}
 ### {356}{}{Well, not fate. Thanks, Cap.}
 {356}{}{不是命运。谢谢，上尉。}

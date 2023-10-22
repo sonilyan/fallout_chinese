@@ -10,7 +10,7 @@
 ### {110}{}{Hey, are we here yet?}
 {110}{}{嘿，我们到了吗？}
 ### {111}{}{A big city. Almost a Hub. Eh, brings back memories...}
-{111}{}{一个大城市。几乎是一个枢纽。呃，让人回想起。。。}
+{111}{}{一个大城市。几乎是一个枢纽。呃，让人回想起...}
 ### {112}{}{This city is like a prison. I wonder if the locals are happy?}
 {112}{}{这座城市就像一座监狱。我想知道当地人是否高兴？}
 ### {113}{}{The city of nomadic cattle breeders. That's so unexpected.}
@@ -101,7 +101,7 @@
 ### {273}{}{Can you show me where it is?}
 {273}{}{你能告诉我它在哪里吗？}
 ### {274}{}{Sure. Open your card, I'll show you...}
-{274}{}{当然打开你的卡片，我给你看。。。}
+{274}{}{当然打开你的卡片，我给你看...}
 ### {275}{}{Thank you.}
 {275}{}{非常感谢。}
 ### {276}{}{I happened to visit this city. Nice place.}
@@ -109,7 +109,7 @@
 ### {277}{}{Really? Great. The faster I want to get there.}
 {277}{}{真正地太棒了我想越快到达那里。}
 ### {278}{}{We'll come back to that later... If we get out of here.}
-{278}{}{我们稍后再谈。。。如果我们离开这里。}
+{278}{}{我们稍后再谈...如果我们离开这里。}
 ### {279}{}{Casa Nueva was built by slaves, and peons work on the plantations there. Scientists are parasitic on someone else's work.}
 {279}{}{努瓦之家是由奴隶建造的，人们在那里的种植园里工作。科学家们寄生在别人的工作上。}
 ### {280}{}{Yes, it is difficult to combine science and manual labor. And, of course, it is wrong to oppress someone. But we strive to make the world a better place. Besides, slaves were not used by us, but by the mercenaries of the Brotherhood of Steel.}
@@ -152,7 +152,7 @@
 ### {305}{}{So the Rippers were acting on Levi's orders?}
 {305}{}{所以开膛手是按照李维斯的命令行事的？}
 ### {306}{}{Probably, yes. Levi is a kind of god for them... or the devil. They try to please him and follow simple orders. But these are just my guesses.}
-{306}{}{可能吧，是的。李维对他们来说是一种神。。。或者魔鬼。他们试图取悦他，听从简单的命令。但这些只是我的猜测。}
+{306}{}{可能吧，是的。李维对他们来说是一种神...或者魔鬼。他们试图取悦他，听从简单的命令。但这些只是我的猜测。}
 ### {307}{}{And what happened to your companions?}
 {307}{}{你的同伴怎么了？}
 ### {308}{}{The squad consisted of several members of the Brotherhood of Steel. The squad was led by Paladin Barkley. After I was kidnapped, I didn't hear anything about them. I don't know if they're alive or dead.}
@@ -366,17 +366,17 @@
 ### {430}{}{Here's your chemical kit.}
 {430}{}{这是你的化学试剂盒。}
 ### {431}{}{Thank god! I was already afraid that the ghouls had gutted him. So... Yes, there is what you need here. First you need to conduct some experiments. Put the kit on that lab table over there...}
-{431}{}{感谢上帝！我已经害怕食尸鬼已经把他干掉了。所以…是的，这里有你需要的。首先你需要做一些实验。把试剂盒放在那边的实验室桌子上。。。}
+{431}{}{感谢上帝！我已经害怕食尸鬼已经把他干掉了。所以…是的，这里有你需要的。首先你需要做一些实验。把试剂盒放在那边的实验室桌子上...}
 ### {432}{}{[Next]}
 {432}{}{[下一个]}
 ### {433}{}{... so... hmm... Hand me that test tube over there... Look, it's turning green. Now it's a small matter - we need to conduct clinical trials. Fortunately, we have prototypes.}
-{433}{}{…所以…嗯…把那边的试管递给我。。。看，它变绿了。现在这只是一件小事——我们需要进行临床试验。幸运的是，我们有原型。}
+{433}{}{…所以…嗯…把那边的试管递给我...看，它变绿了。现在这只是一件小事——我们需要进行临床试验。幸运的是，我们有原型。}
 ### {434}{}{Do you want to use those rippers? It looks like we have no other choice.}
 {434}{}{你想用那些撕裂器吗？看来我们别无选择。}
 ### {435}{}{You're a real sadie, Diana. And I'm starting to like you.}
 {435}{}{你真是个虐待狂，黛安娜。我开始喜欢你了。}
 ### {436}{}{Hmm-m... How interesting. Please note that the test subjects have become calmer. Now I'm going to look at their blood cells through a microscope... so... Hey, we did it! I think this is exactly what Levi wanted.}
-{436}{}{嗯。。。真有趣。请注意，受试者已经变得更冷静了。现在我要用显微镜观察他们的血细胞。。。所以…嘿，我们做到了！我想这正是李维想要的。}
+{436}{}{嗯...真有趣。请注意，受试者已经变得更冷静了。现在我要用显微镜观察他们的血细胞...所以…嘿，我们做到了！我想这正是李维想要的。}
 ### {437}{}{Good news. I'll talk to Levi.}
 {437}{}{好消息。我会和李维谈谈。}
 ### {438}{}{It so happened that I already have your things.}
@@ -433,7 +433,7 @@
 ### {506}{}{Can you show this place on the map?}
 {506}{}{你能在地图上标出这个地方吗？}
 ### {507}{}{Sure. Open your card... Oh, you have a PipBoy. What a surprise. A relic, you say? Okay... so. It's right here in the Sonoran desert, in the southeast.}
-{507}{}{当然打开你的卡片。。。哦，你有一个皮普男孩。真是个惊喜。你说是遗迹吗？可以就在索诺兰沙漠的东南部。}
+{507}{}{当然打开你的卡片...哦，你有一个皮普男孩。真是个惊喜。你说是遗迹吗？可以就在索诺兰沙漠的东南部。}
 ### {508}{}{Clear. Let's go.}
 {508}{}{清楚的我们走吧。}
 ### {509}{}{But why do you need to go there?}
@@ -489,17 +489,17 @@
 ### {533}{}{Yes, you're right. It is worth saving medicines as a last resort.}
 {533}{}{是的，你是对的。作为最后的手段，节省药品是值得的。}
 ### {534}{}{Your wounds are not fatal, but injuries will greatly interfere with the journey. We'll have to remember the course of surgery. However, I have little practice...}
-{534}{}{你的伤口不是致命的，但伤害会极大地干扰你的旅程。我们必须记住手术过程。然而，我很少练习。。。}
+{534}{}{你的伤口不是致命的，但伤害会极大地干扰你的旅程。我们必须记住手术过程。然而，我很少练习...}
 ### {535}{}{Yes, do something already!}
 {535}{}{是的，已经做点什么了！}
 ### {536}{}{I trust you, Doc.}
 {536}{}{我相信你，医生。}
 ### {537}{}{My God, you're covered in blood! This is no good. Go to bed, I'll have to spend the last medicines on you...}
-{537}{}{天啊，你浑身是血！这不好。上床睡觉吧，我得把最后的药花在你身上。。。}
+{537}{}{天啊，你浑身是血！这不好。上床睡觉吧，我得把最后的药花在你身上...}
 ### {1537}{}{My God, you're covered in blood! This is no good. Go to bed, I'll have to spend the last medicines on you...}
-{1537}{}{天啊，你浑身是血！这不好。上床睡觉吧，我得把最后的药花在你身上。。。}
+{1537}{}{天啊，你浑身是血！这不好。上床睡觉吧，我得把最后的药花在你身上...}
 ### {538}{}{Don't let me fall asleep, Doc...}
-{538}{}{别让我睡着，医生。。。}
+{538}{}{别让我睡着，医生...}
 ### {539}{}{We'll have to be patient. You didn't care about the wounds of others, did you? Feel what it's like. Maybe that's how you'll learn kindness.}
 {539}{}{我们必须耐心等待。你不在乎别人的伤口，是吗？感受一下它是什么样子。也许这就是你学会善良的方式。}
 ### {540}{}{That's it, then? Did you decide to leave me because of my bad reputation? La-adno, I'll remember that, bitch.}
@@ -533,7 +533,7 @@
 ### {565}{}{Wait. Do you mean his native hideout is somewhere in Arizona?}
 {565}{}{等待你是说他的老家在亚利桑那州？}
 ### {566}{}{Show me the markings on the back... right. Yes, it's from Vault 27. I don't know for sure, but I think the bunker is probably located somewhere near Phoenix.}
-{566}{}{让我看看背面的标记。。。正确的是的，它来自27号金库。我不确定，但我认为地堡可能位于菲尼克斯附近的某个地方。}
+{566}{}{让我看看背面的标记...正确的是的，它来自27号避难所。我不确定，但我认为地堡可能位于菲尼克斯附近的某个地方。}
 ### {567}{}{Thank you, Diana. This is valuable information.}
 {567}{}{谢谢你，黛安娜。这是有价值的信息。}
 
@@ -544,7 +544,7 @@
 ### {572}{}{Do you even know why a gun needs a trigger?}
 {572}{}{你知道为什么枪需要扳机吗？}
 ### {573}{}{Oh, my God... Well, I'm good with laser and plasma weapons, but I'm very bad at shooting firearms and even more so at fighting with my hands. Is that okay with you?}
-{573}{}{天啊。。。嗯，我擅长激光和等离子体武器，但我不擅长射击枪支，更不擅长徒手作战。你同意吗？}
+{573}{}{天啊...嗯，我擅长激光和等离子体武器，但我不擅长射击枪支，更不擅长徒手作战。你同意吗？}
 ### {574}{}{That's enough.}
 {574}{}{够了。}
 ### {575}{}{It's like traveling with a cactus. Everything is clear with you.}
@@ -567,11 +567,11 @@
 ### {587}{}{Wow, they are well settled in this bunker. And the equipment has been preserved in excellent condition. Amazingly. Oh, if my brothers and sisters had come here, how many people would we have been able to help then!}
 {587}{}{哇，他们在这个地堡里安顿得很好。设备保存完好。令人惊奇。哦，如果我的兄弟姐妹们来了，那时我们能帮助多少人呢！}
 ### {588}{}{Are you kidding? Let me just wipe the rat droppings off my raincoat and I'll try to answer you...}
-{588}{}{你在开玩笑吗？让我把雨衣上的老鼠屎擦干净，我会尽力回答你的。。。}
+{588}{}{你在开玩笑吗？让我把雨衣上的老鼠屎擦干净，我会尽力回答你的...}
 ### {589}{}{The town looks dreary. In such places, locals often keep some terrible secrets.}
 {589}{}{这座城市看起来很沉闷。在这样的地方，当地人经常保守一些可怕的秘密。}
 ### {590}{}{Unbelievable! These people have even learned microchipping. I urgently need to talk to their scientists... However, I doubt they will talk to me.}
-{590}{}{难以置信的这些人甚至学会了微芯片。我急需和他们的科学家谈谈。。。然而，我怀疑他们会和我说话。}
+{590}{}{难以置信的这些人甚至学会了微芯片。我急需和他们的科学家谈谈...然而，我怀疑他们会和我说话。}
 ### {591}{}{We need to get out of here. And as soon as possible.}
 {591}{}{我们需要离开这里。并且尽快。}
 ### {592}{}{An outpost of the Brotherhood of Steel. The one where my convoy was heading. Shall we go to the quartermaster to restock?}

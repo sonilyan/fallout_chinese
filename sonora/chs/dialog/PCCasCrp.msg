@@ -3,7 +3,7 @@
 ### {101}{}{You see a man with a sharp look and businesslike habits.}
 {101}{}{你看到的是一个目光犀利、习惯办事的男人。}
 ### {102}{}{Because, in-you can't sit at roulette in THIS...}
-{102}{}{因为，在这里你不能坐在轮盘赌上。。。}
+{102}{}{因为，在这里你不能坐在轮盘赌上...}
 ### {103}{}{If you don't leave, I'll call security.}
 {103}{}{如果你不离开，我会叫保安。}
 
@@ -20,7 +20,7 @@
 ### {1204}{}{Of course, ma'am. Join us.}
 {1204}{}{当然，夫人。加入我们。}
 ### {205}{}{So, what do we have here...}
-{205}{}{那么，我们这里有什么。。。}
+{205}{}{那么，我们这里有什么...}
 
 ### {210}{}{Place your bets.}
 {210}{}{下注。}

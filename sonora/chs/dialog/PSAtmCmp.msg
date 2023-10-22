@@ -38,9 +38,9 @@
 ### {232}{}{General information about the station.}
 {232}{}{有关电台的一般信息。}
 ### {233}{}{.....}
-{233}{}{。。。。。}
+{233}{}{...。。}
 ### {234}{}{Contract for parts from... Garage City?}
-{234}{}{来自…的零件合同。。。车库城？}
+{234}{}{来自…的零件合同...车库城？}
 ### {235}{}{(As it turned out, the tinsmiths received from the Followers of Fire the very detail that you handed over to the caravaneers in Garage City. She was sent here to replace the old damaged one.)}
 {235}{}{（事实证明，锡匠们从火的追随者那里收到了你在车库城交给商队的细节。她被派到这里来更换旧的损坏的。）}
 ### {236}{}{Hey, I remember that story!}

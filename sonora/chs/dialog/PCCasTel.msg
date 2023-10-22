@@ -34,7 +34,7 @@
 ### {123}{}{The boss won't like me talking to you.}
 {123}{}{老板不喜欢我和你说话。}
 ### {124}{}{If I find out you're a spy...}
-{124}{}{如果我发现你是间谍。。。}
+{124}{}{如果我发现你是间谍...}
 
 ### {125}{}{What are you doing here?}
 {125}{}{你在这里干什么？}

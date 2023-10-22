@@ -24,11 +24,11 @@
 ### {205}{}{Okay, you got it. Take all my things.}
 {205}{}{好吧，你明白了。拿走我所有的东西。}
 ### {206}{}{So you're an ordinary robber. I have a short conversation with such people...}
-{206}{}{所以你是个普通的强盗。我和这些人进行了简短的交谈。。。}
+{206}{}{所以你是个普通的强盗。我和这些人进行了简短的交谈...}
 ### {207}{}{I can't stand idiots...}
-{207}{}{我受不了白痴。。。}
+{207}{}{我受不了白痴...}
 ### {1207}{}{I can't stand idiots...}
-{1207}{}{我受不了白痴。。。}
+{1207}{}{我受不了白痴...}
 ### {208}{}{Hey, what are you taking out?}
 {208}{}{嘿，你在拿什么？}
 ### {209}{}{You shouldn't do that to an ambassador of the outside world. It's in your best interest to keep me alive.}
@@ -101,7 +101,7 @@
 ### {251}{}{I've never met anyone stupider than you. It will be fun to hear your posthumous words.}
 {251}{}{我从未见过比你更愚蠢的人。听到你的遗言会很有趣。}
 ### {252}{}{Eh, what are you up to? Oh no, not that...}
-{252}{}{呃，你在干什么？哦，不，不是那个。。。}
+{252}{}{呃，你在干什么？哦，不，不是那个...}
 ### {253}{}{Fuck you.}
 {253}{}{操你。}
 ### {254}{}{}
@@ -123,7 +123,7 @@
 ### {261}{}{We are busy surviving through the fault of a tyrant and dictator. Robbing caravans, we just take our own - what was taken away from us. Besides, we are not bloodthirsty, we mercifully release the caravaneers who do not want a fight.}
 {261}{}{我们正忙于在暴君和独裁者的过错中生存。抢劫大篷车，我们只是拿走了我们自己的东西。此外，我们并不嗜血，我们仁慈地释放了那些不想打架的大篷车司机。}
 ### {262}{}{You're letting them go so they can lead a caravan again that can be robbed, aren't you? Oh, you bastards...}
-{262}{}{你让他们走，这样他们就可以再次带领一支可能被抢劫的大篷车，不是吗？哦，你们这些混蛋。。。}
+{262}{}{你让他们走，这样他们就可以再次带领一支可能被抢劫的大篷车，不是吗？哦，你们这些混蛋...}
 ### {263}{}{I don't care what you think about it..}
 {263}{}{我不在乎你怎么想。。}
 ### {264}{}{}
@@ -142,9 +142,9 @@
 ### {272}{}{Because you guys are cool, I want to be with you.}
 {272}{}{因为你们很酷，我想和你们在一起。}
 ### {273}{}{Do I look like an idiot to you? I'm tired of listening to this nonsense. Finish him off...}
-{273}{}{你觉得我像个白痴吗？我听厌了这些胡言乱语。干掉他。。。}
+{273}{}{你觉得我像个白痴吗？我听厌了这些胡言乱语。干掉他...}
 ### {1273}{}{Do I look like an idiot to you? I'm tired of listening to this nonsense. Finish her off...}
-{1273}{}{你觉得我像个白痴吗？我听厌了这些胡言乱语。干掉她。。。}
+{1273}{}{你觉得我像个白痴吗？我听厌了这些胡言乱语。干掉她...}
 ### {274}{}{What about...}
 {274}{}{那么...怎么样}
 ### {275}{}{Wait. I saved your people at the Casa Grande bar. You can trust me.}
@@ -324,7 +324,7 @@
 ### {382}{}{Who else is bothering you?}
 {382}{}{还有谁在打扰你？}
 ### {383}{}{Count Bustos, mayor of Casa Grande. If he refuses to recognize us as a peaceful settlement, then the caravaneers will have nothing to do with us. We need to convince him to sign the contract... or - get rid of the mayor.}
-{383}{}{巴斯托斯伯爵，格兰德之家的市长。如果他拒绝承认我们是和平解决方案，那么车队将与我们无关。我们需要说服他签署合同。。。或者——除掉市长。}
+{383}{}{巴斯托斯伯爵，格兰德之家的市长。如果他拒绝承认我们是和平解决方案，那么车队将与我们无关。我们需要说服他签署合同...或者——除掉市长。}
 ### {384}{}{Kill Bustos so he doesn't get in the way? It seems more realistic than negotiations.}
 {384}{}{杀了巴斯托斯，这样他就不会挡道了？这似乎比谈判更现实。}
 ### {385}{}{I will still try to negotiate with him. It's hard to say what will happen to the city without him.}

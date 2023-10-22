@@ -18,6 +18,6 @@
 ### {215}{}{Gateway 4 is down. Attention! All gateways are in the lowered position.}
 {215}{}{网关4已关闭。注意所有网关都处于降低位置。}
 ### {216}{}{It's time for me to get out of here...}
-{216}{}{是时候让我离开这里了。。。}
+{216}{}{是时候让我离开这里了...}
 ### {217}{}{What? No, no, don't lower the floodgates! Canceling the command.}
 {217}{}{什么不，不，不要降低闸门！正在取消命令。}

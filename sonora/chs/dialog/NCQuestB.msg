@@ -43,7 +43,7 @@
 ### {234}{}{Must be hard?}
 {234}{}{一定很难吗？}
 ### {235}{}{Work is always harder than sitting in ambush on caravan routes. Isn't it? Oh, sorry, I thought you were one of those...}
-{235}{}{工作总是比在商队路线上埋伏更难。不是吗？哦，对不起，我还以为你是那种。。。}
+{235}{}{工作总是比在商队路线上埋伏更难。不是吗？哦，对不起，我还以为你是那种...}
 ### {236}{}{I'll be offended next time.}
 {236}{}{下次我会生气的。}
 ### {237}{}{Nothing. I understand your distrust of an outsider.}
@@ -70,9 +70,9 @@
 ### {249}{}{Why don't you fight for your rights?}
 {249}{}{你为什么不为自己的权利而战？}
 ### {250}{}{Because we don't have them. We are just peasants with lifelong peonage, almost slaves... Any insolence is strictly punished here, and riots are a direct road to the next world. Let's leave it at that. Do not provoke the beast while he sleeps.}
-{250}{}{因为我们没有。我们只是终身苦役的农民，几乎是奴隶。。。任何无礼的行为在这里都会受到严厉惩罚，暴乱是通往下一个世界的直接道路。就这样吧。野兽睡觉时，不要惹他。}
+{250}{}{因为我们没有。我们只是终身苦役的农民，几乎是奴隶...任何无礼的行为在这里都会受到严厉惩罚，暴乱是通往下一个世界的直接道路。就这样吧。野兽睡觉时，不要惹他。}
 ### {251}{}{Everything is clear with you...}
-{251}{}{一切都很清楚。。。}
+{251}{}{一切都很清楚...}
 ### {252}{}{Wait... hmm. I can speak frankly with our hero, right?}
 {252}{}{等待嗯。我可以坦率地和我们的英雄说话，对吧？}
 ### {1252}{}{Wait... hmm. Can I speak frankly with our heroine?}

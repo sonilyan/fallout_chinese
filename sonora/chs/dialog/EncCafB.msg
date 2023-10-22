@@ -24,7 +24,7 @@
 ### {118}{}{I can do a relaxing massage.}
 {118}{}{我可以做一个放松的按摩。}
 ### {119}{}{You look like this... attractive.}
-{119}{}{你看起来像这样。。。有吸引力的}
+{119}{}{你看起来像这样...有吸引力的}
 ### {120}{}{Surely you're thirsty from the road.}
 {120}{}{你肯定在路上渴了。}
 ### {121}{}{Oh, we always welcome new faces}

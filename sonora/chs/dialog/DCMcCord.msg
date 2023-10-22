@@ -16,11 +16,11 @@
 ### {203}{}{I don't want to fight you.}
 {203}{}{我不想和你打架。}
 ### {204}{}{Now we will find out...}
-{204}{}{现在我们会发现。。。}
+{204}{}{现在我们会发现...}
 ### {205}{}{It turns out you're one of those fools that life doesn't teach anything to. There is neither good nor evil in the world. If you take pity on someone, they will shoot you in the back at the first opportunity. This is the law of this world.}
 {205}{}{事实证明，你是一个生活没有教给你任何东西的傻瓜。世界上既没有善也没有恶。如果你可怜某人，他们会一有机会就朝你背后开枪。这就是这个世界的规律。}
 ### {206}{}{What a heartbreaking speech. But stop talking. I'll take your head to Bruce Turner...}
-{206}{}{多么令人心碎的演讲啊。但别再说了。我带你去见布鲁斯·特纳。。。}
+{206}{}{多么令人心碎的演讲啊。但别再说了。我带你去见布鲁斯·特纳...}
 ### {207}{}{Let's disperse peacefully. We don't need to fight.}
 {207}{}{让我们和平地散吧。我们不需要战斗。}
 ### {208}{}{To give you a more convenient moment to attack? No. This number won't work with me.}
@@ -46,6 +46,6 @@
 ### {1216}{}{(He pauses in bewilderment, then spreads into a satisfied grin). Ha! I thought so. You're an ordinary charlatan. Now get out of my sight, you are not worthy of my attention.}
 {1216}{}{（他困惑地停顿了一下，然后露出满意的笑容）。哈我想是的。你是个普通的江湖骗子。现在滚出我的视线，你不值得我注意。}
 ### {217}{}{And that was in vain-ah. Now you won't get rid of me so easily, you bastard...}
-{217}{}{那是徒劳的啊。现在你不会这么容易就摆脱我的，你这个混蛋。。。}
+{217}{}{那是徒劳的啊。现在你不会这么容易就摆脱我的，你这个混蛋...}
 ### {218}{}{Whatever you say, sir.}
 {218}{}{不管你说什么，先生。}

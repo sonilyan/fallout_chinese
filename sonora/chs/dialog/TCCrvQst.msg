@@ -8,7 +8,7 @@
 ### {200}{}{Hey, you're not from around here, right? You can see them right away. Let me give you a free tip - don't mess with these dealers. They don't put outsiders in anything.}
 {200}{}{嘿，你不是这一带的人，对吧？你可以马上看到他们。让我免费给你小费——不要惹这些经销商。他们不把外人放在任何事情上。}
 ### {201}{}{And you...}
-{201}{}{而你。。。}
+{201}{}{而你...}
 ### {202}{}{Another victim of their bad faith, if you want to know. The tinkerers refuse to sell power cells for the generator to my settlement. And do you know why? Because they called us unworthy of old technologies!}
 {202}{}{如果你想知道的话，另一个他们恶意的受害者。修修补补的人拒绝把发电机的电池卖给我的定居点。你知道为什么吗？因为他们说我们不配使用旧技术！}
 ### {203}{}{Tell us more about this problem.}
@@ -51,9 +51,9 @@
 ### {250}{}{What are you going to do now?}
 {250}{}{你现在打算做什么？}
 ### {251}{}{We urgently need power cells... Look, you're a peasant like us, right? I can see that. How not to hide behind all these clothes and armor, and your eyes and hands give away what you are doing. We have to stick together, amigo. Help us, and we will help you.}
-{251}{}{我们急需动力电池。。。你和我们一样是农民，对吧？我看得出来。如何不躲在所有这些衣服和盔甲后面，你的眼睛和手泄露了你正在做的事情。我们必须团结一致，朋友。帮助我们，我们就会帮助你。}
+{251}{}{我们急需动力电池...你和我们一样是农民，对吧？我看得出来。如何不躲在所有这些衣服和盔甲后面，你的眼睛和手泄露了你正在做的事情。我们必须团结一致，朋友。帮助我们，我们就会帮助你。}
 ### {1251}{}{We urgently need power cells... Look, you're a peasant like us, right? I can see that. How not to hide behind all these clothes and armor, and your eyes and hands give away what you are doing. We have to stick together, amigo. Help us, and we will help you.}
-{1251}{}{我们急需动力电池。。。你和我们一样是农民，对吧？我看得出来。如何不躲在所有这些衣服和盔甲后面，你的眼睛和手泄露了你正在做的事情。我们必须团结一致，朋友。帮助我们，我们就会帮助你。}
+{1251}{}{我们急需动力电池...你和我们一样是农民，对吧？我看得出来。如何不躲在所有这些衣服和盔甲后面，你的眼睛和手泄露了你正在做的事情。我们必须团结一致，朋友。帮助我们，我们就会帮助你。}
 ### {252}{}{Why should I help you?}
 {252}{}{我为什么要帮你？}
 ### {253}{}{I have a lot of friends among the caravaneers, I can arrange with them about the escort, and I will raise your reputation. And yet, this is pre-war money. They don't seem to be used anymore, but maybe you'll find a use for them.}

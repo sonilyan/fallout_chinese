@@ -10,7 +10,7 @@
 ### {110}{}{Ts-s!}
 {110}{}{Ts-s！}
 ### {111}{}{Hush! They will hear us...}
-{111}{}{安静他们会听到我们的。。。}
+{111}{}{安静他们会听到我们的...}
 ### {112}{}{It's better to keep silent}
 {112}{}{最好保持沉默}
 ### {113}{}{Speak softly}
@@ -59,7 +59,7 @@
 ### {212}{}{Why such secrecy? Why not tell the chiefs everything?}
 {212}{}{为什么要这样保密？为什么不把一切都告诉首领呢？}
 ### {213}{}{Us... we were forbidden to go down to the dungeons... They say an evil spirit lives there, there are landslides, and stuff like that. But it was so interesting that we couldn't resist.}
-{213}{}{我们…我们被禁止下地牢。。。他们说那里住着一个邪恶的灵魂，那里有山体滑坡，诸如此类的东西。但它太有趣了，我们无法抗拒。}
+{213}{}{我们…我们被禁止下地牢...他们说那里住着一个邪恶的灵魂，那里有山体滑坡，诸如此类的东西。但它太有趣了，我们无法抗拒。}
 ### {214}{}{I need to get ready for the road. Take your best spear and put on the most reliable shoes. Wait here, guys.}
 {214}{}{我需要为上路做好准备。带上你最好的长矛，穿上最可靠的鞋子。在这里等着，伙计们。}
 ### {215}{}{Take me to these dungeons.}

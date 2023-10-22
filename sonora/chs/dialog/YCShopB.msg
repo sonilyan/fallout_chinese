@@ -16,17 +16,17 @@
 ### {203}{}{Why?}
 {203}{}{为什么？}
 ### {204}{}{Here in the Old City, we believe that we must help people restore civilization with the help of old things and knowledge... Well, that's what Butler says. Personally, I'm just looking for a benefit. I'm a merchant. Always has been.}
-{204}{}{在老城，我们相信，我们必须借助古老的事物和知识帮助人们恢复文明。。。巴特勒就是这么说的。就我个人而言，我只是在寻求利益。我是个商人。一直都是。}
+{204}{}{在老城，我们相信，我们必须借助古老的事物和知识帮助人们恢复文明...巴特勒就是这么说的。就我个人而言，我只是在寻求利益。我是个商人。一直都是。}
 ### {205}{}{Let's see what kind of junk they brought you this time...}
-{205}{}{让我们看看他们这次给你带来了什么样的垃圾。。。}
+{205}{}{让我们看看他们这次给你带来了什么样的垃圾...}
 ### {206}{}{I wanted to take a look at all these pre-war relics. Show your product...}
-{206}{}{我想看看所有这些战前的遗迹。显示您的产品。。。}
+{206}{}{我想看看所有这些战前的遗迹。显示您的产品...}
 ### {207}{}{Sorry, man, but you can't count on discounts. The prices for you will be the same as for the rest of the smooth-skinned.}
 {207}{}{对不起，伙计，你不能指望折扣。你的价格将与其他光滑皮肤的价格相同。}
 ### {208}{}{Okay, whatever you say...}
-{208}{}{好吧，不管你说什么。。。}
+{208}{}{好吧，不管你说什么...}
 ### {209}{}{I have special prices for mutants and ghouls. They are more... let's put it this way... democratic. Don't think I'm a racist, but we have two attitudes towards people here. And I will sell you the goods at a reasonable price.}
-{209}{}{我有变种人和食尸鬼的特价。他们更。。。这么说吧。。。民主的不要认为我是种族主义者，但我们对这里的人有两种态度。我会以合理的价格卖给你。}
+{209}{}{我有变种人和食尸鬼的特价。他们更...这么说吧...民主的不要认为我是种族主义者，但我们对这里的人有两种态度。我会以合理的价格卖给你。}
 ### {210}{}{Oh, thank you, my friend.}
 {210}{}{哦，谢谢你，我的朋友。}
 ### {211}{}{Here is all the best that was found in the ruins of the great city!}
@@ -56,7 +56,7 @@
 ### {232}{}{Who else could have seen it?}
 {232}{}{还有谁能看到它？}
 ### {233}{}{Well, the courier Steve Morgan brought this thing. It seems that after that he went to burn the caps in the bar. I haven't seen him since.}
-{233}{}{快递员史蒂夫·摩根带来了这个东西。似乎在那之后，他去酒吧烧帽子了。从那以后我再也没见过他。}
+{233}{}{快递员史蒂夫·摩根带来了这个东西。似乎在那之后，他去酒吧烧瓶盖了。从那以后我再也没见过他。}
 ### {234}{}{I'll try to find him there. Later.}
 {234}{}{我会试着在那里找到他。后来}
 
@@ -77,7 +77,7 @@
 ### {247}{}{Did he say what he was going to do?}
 {247}{}{他说他要做什么了吗？}
 ### {248}{}{No. Although... He said he was tired and wanted to relax.}
-{248}{}{没有。尽管。。。他说他很累，想放松一下。}
+{248}{}{没有。尽管...他说他很累，想放松一下。}
 ### {249}{}{And what did you say?}
 {249}{}{你说了什么？}
 ### {250}{}{Well, I told you about the recreation area at the La Pension Hotel. I haven't seen him since.}

@@ -13,7 +13,7 @@
 ### {201}{}{Perhaps.}
 {201}{}{可能}
 ### {202}{}{...}
-{202}{}{。。。}
+{202}{}{...}
 
 ### {210}{}{I'll be damned, what's wrong with your skin?}
 {210}{}{我会被诅咒的，你的皮肤怎么了？}
@@ -41,25 +41,25 @@
 ### {221}{}{Why are you suddenly so nice?}
 {221}{}{你为什么突然这么好？}
 ### {222}{}{Obviously, you deserve good treatment... sir.}
-{222}{}{显然，你应该得到良好的待遇。。。先生}
+{222}{}{显然，你应该得到良好的待遇...先生}
 ### {1222}{}{Obviously, you deserve good treatment... ma'am.}
-{1222}{}{显然，你应该得到良好的待遇。。。夫人。}
+{1222}{}{显然，你应该得到良好的待遇...夫人。}
 ### {223}{}{Well, well, here's our new star. You allow yourself too much in this city. Do you think you can get away with it?}
 {223}{}{好吧，好吧，这是我们的新星。你在这个城市太放纵自己了。你认为你能逃脱惩罚吗？}
 ### {224}{}{The townspeople are so mean and mean. We peasants are much better.}
 {224}{}{镇上的人太卑鄙了。我们农民好多了。}
 ### {225}{}{You shouldn't have crawled out of your desert. I will return your body to the sands... a dead body.}
-{225}{}{你不应该爬出你的沙漠。我会把你的尸体放回沙滩。。。一具尸体。}
+{225}{}{你不应该爬出你的沙漠。我会把你的尸体放回沙滩...一具尸体。}
 ### {226}{}{What are you...}
-{226}{}{你是什么。。。}
+{226}{}{你是什么...}
 ### {227}{}{I will defend myself.}
 {227}{}{我会为自己辩护。}
 ### {228}{}{I survive as best I can. It's not for you to judge me.}
 {228}{}{我尽我所能生存下去。你不能评判我。}
 ### {229}{}{Oh no. The city pays me to catch criminals. And you're one of them. Guys... (gives a sign)}
-{229}{}{哦，不。这个城市付钱给我捉拿罪犯。而你就是其中之一。伙计们。。。（示意）}
+{229}{}{哦，不。这个城市付钱给我捉拿罪犯。而你就是其中之一。伙计们...（示意）}
 ### {230}{}{Don't do this, Bruce...}
-{230}{}{别这样，布鲁斯。。。}
+{230}{}{别这样，布鲁斯...}
 ### {231}{}{I will defend myself.}
 {231}{}{我会为自己辩护。}
 ### {232}{}{I don't want a fight. Let's make a deal?}
@@ -122,25 +122,25 @@
 {259}{}{（慢慢地把手放在机枪上，凝视着你的眼睛）滚出我的办公室。}
 
 ### {260}{}{Welcome back... Stop. Show me your neck. These are the marks from the collar. It's strange for a runaway slave to come here. What do you want, slave?}
-{260}{}{欢迎回来。。。停止让我看看你的脖子。这些是衣领上的印记。一个逃跑的奴隶来到这里真奇怪。你想要什么，奴隶？}
+{260}{}{欢迎回来...停止让我看看你的脖子。这些是衣领上的印记。一个逃跑的奴隶来到这里真奇怪。你想要什么，奴隶？}
 ### {261}{}{Don't call me that. Or you'll regret it.}
 {261}{}{别那样叫我。否则你会后悔的。}
 ### {262}{}{You don't seem to understand your precarious position. Guys... (gives a sign)}
-{262}{}{你似乎不了解自己岌岌可危的处境。伙计们。。。（示意）}
+{262}{}{你似乎不了解自己岌岌可危的处境。伙计们...（示意）}
 ### {263}{}{Not in the face...}
-{263}{}{不是在脸上。。。}
+{263}{}{不是在脸上...}
 ### {264}{}{I will kill all the slavers in Arizona.}
 {264}{}{我要杀死亚利桑那州所有的奴隶主。}
 ### {265}{}{I want my freedom back. The tinkerers treated me badly.}
 {265}{}{我想重获自由。修补匠们待我不好。}
 ### {266}{}{Hmm. Tinkerers will not want to buy a runaway slave again at the same price. You're putting me in an awkward position. Well, I'm ready to buy your rights and sign a free one. But it will cost 1000 caps. I doubt you have that amount.}
-{266}{}{嗯。修补匠们不会再以同样的价格买一个逃跑的奴隶了。你让我处于尴尬的境地。好吧，我准备买下你的权利并签署一份免费的。但它将花费1000顶帽子。我怀疑你有那么多钱。}
+{266}{}{嗯。修补匠们不会再以同样的价格买一个逃跑的奴隶了。你让我处于尴尬的境地。好吧，我准备买下你的权利并签署一份免费的。但它将花费1000个瓶盖。我怀疑你有那么多钱。}
 ### {267}{}{I'll find it.}
 {267}{}{我会找到的。}
 ### {268}{}{Then there's nothing left for me... I'll kill you.}
 {268}{}{那我就什么都没有了…我要杀了你。}
 ### {269}{}{Hmm. Okay, that's settled. I'm waiting for 1000 caps.}
-{269}{}{嗯。好吧，这就解决了。我在等1000顶帽子。}
+{269}{}{嗯。好吧，这就解决了。我在等1000个瓶盖。}
 
 ### {270}{}{(squints, peering into your face) Hmm. Recently I received information about one of the main bandits. And you look suspiciously like his description.}
 {270}{}{（眯着眼睛，凝视着你的脸）嗯。最近我收到了关于一个主要土匪的消息。你看起来可疑地像他的描述。}
@@ -159,7 +159,7 @@
 ### {277}{}{They have a lot of enemies, that's right.}
 {277}{}{他们有很多敌人，没错。}
 ### {278}{}{You know too much, Bruce. I'm sorry, but I'm going to have to keep you quiet...}
-{278}{}{你知道的太多了，布鲁斯。对不起，我得让你安静。。。}
+{278}{}{你知道的太多了，布鲁斯。对不起，我得让你安静...}
 
 ### {280}{}{This is the armor of the mainline workers. Where did you get it from?}
 {280}{}{这是主线工人的盔甲。你从哪里得到的？}
@@ -209,7 +209,7 @@
 ### {302}{}{I represent Chuck from the Blue Shield Gang.}
 {302}{}{我代表蓝盾帮的查克。}
 ### {303}{}{Just a minute... Yes, this is some petty thief, for whom a reward has been appointed by the mayor of Casa Grande. Do you want to exonerate him or pay for his head? The reward is 250 caps.}
-{303}{}{等一下是的，这是一个小偷，格兰德之家的市长已经为他指定了奖励。你是想为他开脱罪责还是为他的脑袋买单？奖励是250顶帽子。}
+{303}{}{等一下是的，这是一个小偷，格兰德之家的市长已经为他指定了奖励。你是想为他开脱罪责还是为他的脑袋买单？奖励是250个瓶盖。}
 ### {304}{}{Pay. Here are the bottlecaps.}
 {304}{}{支付这是水瓶。}
 ### {305}{}{Now this criminal is officially free. I will also transmit this alert to Casa Grande.}
@@ -227,7 +227,7 @@
 ### {310}{}{I want to redeem my slavery.}
 {310}{}{我想救赎我的奴隶制度。}
 ### {311}{}{We've already discussed this. Do you have 1000 caps?}
-{311}{}{我们已经讨论过了。你有1000顶帽子吗？}
+{311}{}{我们已经讨论过了。你有1000个瓶盖吗？}
 ### {312}{}{No.}
 {312}{}{不}
 ### {313}{}{Then the question is closed.}
@@ -237,13 +237,13 @@
 ### {315}{}{Here are the bottlecaps.}
 {315}{}{这是水瓶。}
 ### {316}{}{To be honest, I'm surprised. I doubt that these caps were obtained honestly, but I don't want to know for sure.}
-{316}{}{老实说，我很惊讶。我怀疑这些帽子是否是诚实获得的，但我不想确定。}
+{316}{}{老实说，我很惊讶。我怀疑这些瓶盖是否是诚实获得的，但我不想确定。}
 ### {317}{}{And the free one?}
 {317}{}{那免费的呢？}
 ### {318}{}{It will take some time...}
-{318}{}{这需要一些时间。。。}
+{318}{}{这需要一些时间...}
 ### {319}{}{I'll wait...}
-{319}{}{我会等着。。。}
+{319}{}{我会等着...}
 ### {320}{}{Done. You're officially free now. Congratulations. Appreciate your second chance.}
 {320}{}{完成。你现在正式自由了。祝贺感谢你的第二次机会。}
 ### {1320}{}{Done. You're officially free now. Congratulations. Appreciate your second chance.}
@@ -279,7 +279,7 @@
 ### {334}{}{Clearly. Have a good service.}
 {334}{}{清晰地服务好。}
 ### {335}{}{I need to see him. I'll pay 10 caps for the meeting.}
-{335}{}{我需要见他。我将为会议支付10顶帽子。}
+{335}{}{我需要见他。我将为会议支付10个瓶盖。}
 ### {336}{}{OK. You have ten minutes.}
 {336}{}{好的，你有十分钟的时间。}
 ### {337}{}{Here are the bottlecaps.}
@@ -291,11 +291,11 @@
 ### {340}{}{Hmm. If you think about it, it's a pathetic little thing. I'll release him on 100 caps bail.}
 {340}{}{嗯。如果你仔细想想，这是一件可悲的小事。我将以100顶保释金释放他。}
 ### {341}{}{OK. Here are 100 caps.}
-{341}{}{好的。这是100顶帽子。}
+{341}{}{好的。这是100个瓶盖。}
 ### {342}{}{It's too much. He's not worth it.}
 {342}{}{太多了。他不值得。}
 ### {343}{}{Can I just talk to him? I'll pay 10 caps for it.}
-{343}{}{我能和他谈谈吗？我将为此支付10顶帽子。}
+{343}{}{我能和他谈谈吗？我将为此支付10个瓶盖。}
 ### {344}{}{However, this does not guarantee that he will not get caught again. You know these cardinals, don't you? They are all hooligans and rebels. They are a threat to society.}
 {344}{}{然而，这并不能保证他不会再次被捕。你认识这些红衣主教，不是吗？他们都是流氓和反叛分子。他们对社会构成威胁。}
 ### {345}{}{I won't argue with that.}
@@ -344,11 +344,11 @@
 ### {370}{}{I'm looking for slaves originally from Villa.}
 {370}{}{我在寻找来自维拉的奴隶。}
 ### {371}{}{Villa... It doesn't mean anything to me.}
-{371}{}{别墅。。。这对我来说没有任何意义。}
+{371}{}{别墅...这对我来说没有任何意义。}
 ### {372}{}{I'm looking for slaves originally from the Villa. They were brought here from Flagstaff.}
 {372}{}{我在寻找来自别墅的奴隶。他们是从弗拉格斯塔夫带到这里的。}
 ### {373}{}{Villa... It doesn't mean anything to me. If these slaves have been to Flagstaff, it won't be easy to find them.}
-{373}{}{别墅。。。这对我来说没有任何意义。如果这些奴隶去过弗拉格斯塔夫，就不容易找到他们。}
+{373}{}{别墅...这对我来说没有任何意义。如果这些奴隶去过弗拉格斯塔夫，就不容易找到他们。}
 ### {374}{}{I see. Sorry to bother you.}
 {374}{}{我明白了。很抱歉打扰你。}
 ### {375}{}{Eh, we'll have to figure everything out on our own again. Goodbye.}
@@ -376,7 +376,7 @@
 ### {385}{}{You know, Bruce, your help wasn't very helpful. Goodbye.}
 {385}{}{你知道，布鲁斯，你的帮助不是很有帮助。再见}
 ### {386}{}{I'll come back later. Now I don't have so many caps with me.}
-{386}{}{我稍后再回来。现在我没有那么多帽子了。}
+{386}{}{我稍后再回来。现在我没有那么多瓶盖了。}
 
 ### {390}{}{We need to eliminate one rowdy. His name is George Crook.}
 {390}{}{我们需要消除一个吵闹的人。他的名字叫乔治·克鲁克。}
@@ -403,9 +403,9 @@
 ### {400}{}{I'm interested in finding criminals. For whom and how much do they pay?}
 {400}{}{我对寻找罪犯很感兴趣。他们为谁付了多少钱？}
 ### {401}{}{(sigh) Another bounty hunter...}
-{401}{}{（叹气）又是一个赏金猎人。。。}
+{401}{}{（叹气）又是一个赏金猎人...}
 ### {1401}{}{A bounty hunter in a lace apron? Where are we going...}
-{1401}{}{一个穿着蕾丝围裙的赏金猎人？我们要去哪里。。。}
+{1401}{}{一个穿着蕾丝围裙的赏金猎人？我们要去哪里...}
 ### {402}{}{Is something wrong?}
 {402}{}{有什么不对劲吗？}
 ### {1402}{}{Ahem. Should I remind you that your security guard is a woman?}
@@ -470,9 +470,9 @@
 ### {431}{}{Uh, okay.}
 {431}{}{好吧。}
 ### {432}{}{I won't get the caps? This is very bad.}
-{432}{}{我拿不到帽子？这太糟糕了。}
+{432}{}{我拿不到瓶盖？这太糟糕了。}
 ### {433}{}{Great job. Here are your 500 caps. I hope you're not going to give up this activity? We need such people.}
-{433}{}{干得好。这是你的500顶帽子。我希望你不会放弃这项活动？我们需要这样的人。}
+{433}{}{干得好。这是你的500个瓶盖。我希望你不会放弃这项活动？我们需要这样的人。}
 ### {434}{}{I'll think about it.}
 {434}{}{我会考虑的。}
 ### {435}{}{I don't know, this activity is too dangerous.}
@@ -487,7 +487,7 @@
 ### {443}{}{It's a little weird. But it is even more strange that the chieftains had the same brand as you and your mercenaries.}
 {443}{}{这有点奇怪。但更奇怪的是，酋长们与你和你的雇佣兵有着相同的品牌。}
 ### {444}{}{Hmm. It had to be revealed sometime... We have embellished their legend a little. In fact, these three worked as mercenaries in our guild. They learned a lot here. But having felt the power and authority over people, they stopped being interested in honest work.}
-{444}{}{嗯，总有一天会揭晓的。。。我们对他们的传说做了一些修饰。事实上，这三个人在我们公会当过雇佣兵。他们在这里学到了很多。但在感受到了对人的权力和权威后，他们不再对诚实的工作感兴趣。}
+{444}{}{嗯，总有一天会揭晓的...我们对他们的传说做了一些修饰。事实上，这三个人在我们公会当过雇佣兵。他们在这里学到了很多。但在感受到了对人的权力和权威后，他们不再对诚实的工作感兴趣。}
 ### {445}{}{You should have warned me about this.}
 {445}{}{你应该警告我这件事的。}
 ### {446}{}{These people are a disgrace to the guild. We cannot allow our reputation to suffer because of them.}
@@ -505,7 +505,7 @@
 ### {452}{}{Well, that's great news.}
 {452}{}{好吧，这是个好消息。}
 ### {453}{}{The cap is more important to me. You'll figure out the rest yourself.}
-{453}{}{帽子对我来说更重要。剩下的你自己想。}
+{453}{}{瓶盖对我来说更重要。剩下的你自己想。}
 ### {454}{}{Right. For now, rest and have fun. And I'll think about what other job you can leave.}
 {454}{}{正确的现在，休息并享受乐趣。我会考虑你还能留下什么其他工作。}
 ### {455}{}{More work? Great, I'm looking forward to it.}
@@ -549,7 +549,7 @@
 ### {1474}{}{I've done your dirty work. Here's his head.}
 {1474}{}{我干了你的脏活。这是他的头。}
 ### {475}{}{(nods sadly) Gil McCord. You were one of us. And that's what greed has brought you to. His story will serve as an example to others. You're owed 750 caps, as we agreed. I really hope that this amount will not turn your head, as it turned Gila. And from now on, try not to spread about our little secret.}
-{475}{}{（悲伤地点点头）吉尔·麦考德。你是我们中的一员。这就是贪婪带给你的。他的故事将成为其他人的榜样。按照我们的约定，你欠了750顶帽子。我真的希望这个数额不会像吉拉那样让你头疼。从现在开始，尽量不要散布我们的小秘密。}
+{475}{}{（悲伤地点点头）吉尔·麦考德。你是我们中的一员。这就是贪婪带给你的。他的故事将成为其他人的榜样。按照我们的约定，你欠了750个瓶盖。我真的希望这个数额不会像吉拉那样让你头疼。从现在开始，尽量不要散布我们的小秘密。}
 ### {476}{}{No problem, boss. Goodbye.}
 {476}{}{没问题，老板。再见}
 ### {477}{}{After everything you've seen? I won't even take a step here.}

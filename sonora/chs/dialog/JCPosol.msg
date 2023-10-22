@@ -3,7 +3,7 @@
 ### {101}{}{Here is a negotiator from the Rangers.}
 {101}{}{这是游骑兵队的谈判代表。}
 ### {102}{}{The ambassador was killed... jackals. And I have nothing to do with it.}
-{102}{}{大使被杀了。。。豺狼。我和它没有任何关系。}
+{102}{}{大使被杀了...豺狼。我和它没有任何关系。}
 ### {103}{}{What kind of cretin started a massacre? All my work went down the jackal's ass!}
 {103}{}{什么白痴发动了大屠杀？我所有的工作都白费了！}
 ### {104}{}{Something happened. Now the Jackals are chasing me away.}

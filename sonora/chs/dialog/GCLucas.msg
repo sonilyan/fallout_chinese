@@ -71,7 +71,7 @@
 ### {180}{}{Here's the data from the computer you asked for.}
 {180}{}{这是你要的电脑数据。}
 ### {181}{}{So, let's see... yeah... clear...}
-{181}{}{所以，让我们看看。。。是 啊清楚的}
+{181}{}{所以，让我们看看...是 啊清楚的}
 ### {182}{}{What is clear to you?}
 {182}{}{你清楚什么？}
 ### {183}{}{You talk to yourself a lot, don't you?}
@@ -103,7 +103,7 @@
 ### {196}{}{No talking until I get the contracts.}
 {196}{}{在我拿到合同之前不要说话。}
 ### {197}{}{OK, there will be contracts for you...}
-{197}{}{好的，会有合同给你。。。}
+{197}{}{好的，会有合同给你...}
 ### {198}{}{Oh, really!}
 {198}{}{哦，真的！}
 
@@ -116,7 +116,7 @@
 ### {220}{}{What is this place?}
 {220}{}{这是什么地方？}
 ### {221}{}{Do you really not know what a factory is? And you look like you have dark skin. You probably live in the desert... The factories used to produce machinery and utensils. Now, of course, they do not produce.}
-{221}{}{你真的不知道工厂是什么吗？你看起来皮肤很黑。你可能住在沙漠里。。。这些工厂过去生产机械和用具。现在，当然，他们不生产。}
+{221}{}{你真的不知道工厂是什么吗？你看起来皮肤很黑。你可能住在沙漠里...这些工厂过去生产机械和用具。现在，当然，他们不生产。}
 ### {222}{}{I'm not interested in the factory topic anymore. Can we talk about something else?}
 {222}{}{我对工厂的话题不再感兴趣了。我们能谈谈别的吗？}
 ### {223}{}{Why?}
@@ -124,7 +124,7 @@
 ### {224}{}{You said that the factories are now inactive. Why?}
 {224}{}{你说工厂现在不活跃了。为什么？}
 ### {225}{}{Nowadays there is nowhere to take so much energy. And if there is a source, then only a few have the necessary skills and knowledge to use it. Since the Great War, people have squandered their achievements...}
-{225}{}{现在没有地方可以消耗这么多精力了。如果有来源，那么只有少数人具备使用它所需的技能和知识。自第一次世界大战以来，人们浪费了他们的成就。。。}
+{225}{}{现在没有地方可以消耗这么多精力了。如果有来源，那么只有少数人具备使用它所需的技能和知识。自第一次世界大战以来，人们浪费了他们的成就...}
 ### {226}{}{And what was produced here?}
 {226}{}{这里生产了什么？}
 ### {227}{}{This is a factory of Watts Electronics. Parts for electronic equipment and nuclear batteries were manufactured here.}
@@ -172,7 +172,7 @@
 ### {253}{}{I need time to pack.}
 {253}{}{我需要时间收拾行李。}
 ### {254}{}{Relax for now, it will take some time...}
-{254}{}{暂时放松，这需要一些时间。。。}
+{254}{}{暂时放松，这需要一些时间...}
 ### {255}{}{[Go with the scavengers]}
 {255}{}{[和拾荒者一起去]}
 ### {256}{}{No, wait, I need some time.}
@@ -181,7 +181,7 @@
 {257}{}{可以在水泵旁等我。}
 
 ### {260}{}{The transaction was successful! Without your help, it would have been much more difficult for us, and we are now in debt to you. Here, take 200 caps. This is your share of the deal.}
-{260}{}{交易成功！如果没有你的帮助，我们会更加困难，我们现在欠你的债。给，拿200顶帽子。这是你在交易中的份额。}
+{260}{}{交易成功！如果没有你的帮助，我们会更加困难，我们现在欠你的债。给，拿200个瓶盖。这是你在交易中的份额。}
 ### {261}{}{What are you going to do now?}
 {261}{}{你现在打算做什么？}
 ### {262}{}{I will restore the plant. We were promised to bring fuel for the reactor, then we will be able to start the machines and start producing new parts.}
@@ -193,7 +193,7 @@
 ### {265}{}{The transaction was successful! It would have been a little harder for us without your help. But we consulted and decided that you don't deserve your share.}
 {265}{}{交易成功！如果没有你的帮助，这对我们来说会有点困难。但我们进行了咨询，并决定你不配分享。}
 ### {266}{}{caps are good. What are you going to do now?}
-{266}{}{帽子很好。你现在打算做什么？}
+{266}{}{瓶盖很好。你现在打算做什么？}
 ### {267}{}{Your weapon would be more useful to me than these bottlecaps.}
 {267}{}{你的武器对我来说会比这些瓶子更有用。}
 ### {268}{}{Of course, take it. This is a laser emitter. I put it together from local parts. And I'll probably collect more.}
@@ -206,13 +206,13 @@
 ### {272}{}{Why do they need peasants?}
 {272}{}{为什么他们需要农民？}
 ### {273}{}{At first they were looking for a den of Jackals to force them to work in some mines. But then Kogan sensed a profit and suggested an attack on the Villa. He knows where to put the caps. Because Flagstaff promises to be a good client for the cartel.}
-{273}{}{起初，他们在找一个豺狼窝，强迫他们在一些矿井里工作。但随后，科根感觉到了盈利，建议进攻维拉。他知道把帽子放在哪里。因为弗拉格斯塔夫承诺会成为卡特尔的好客户。}
+{273}{}{起初，他们在找一个豺狼窝，强迫他们在一些矿井里工作。但随后，科根感觉到了盈利，建议进攻维拉。他知道把瓶盖放在哪里。因为弗拉格斯塔夫承诺会成为卡特尔的好客户。}
 ### {274}{}{So you're all tied up here, right?}
 {274}{}{所以你们都被绑在这里了，对吧？}
 ### {275}{}{You understand, such a deal provided Garage City with a good welding. And our meeting with the caravan was part of this process. You may not like it, but we scavengers need to survive on our own.}
 {275}{}{你知道，这样的交易为车库城提供了一个很好的焊接。我们与商队的会面就是这个过程的一部分。你可能不喜欢，但我们这些拾荒者需要靠自己生存。}
 ### {276}{}{I forgive you. And now I have to go to this one... Flagstaff.}
-{276}{}{我原谅你。现在我必须去这个。。。Flagstaff。}
+{276}{}{我原谅你。现在我必须去这个...Flagstaff。}
 ### {277}{}{Don't think we'll ever forget this story. The peasants of the Villa have a long memory.}
 {277}{}{别以为我们会忘记这个故事。别墅里的农民有很长的记忆。}
 

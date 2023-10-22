@@ -11,7 +11,7 @@
 ### {201}{}{Hey, where are your parents, baby?}
 {201}{}{嘿，你的父母在哪里，宝贝？}
 ### {202}{}{(looks around warily and returns to his business, muttering the answer under his breath) I have... no parents.}
-{202}{}{（小心翼翼地环顾四周，又回到自己的事情上，低声说出答案）我。。。没有父母。}
+{202}{}{（小心翼翼地环顾四周，又回到自己的事情上，低声说出答案）我...没有父母。}
 ### {203}{}{How is that? Do you really want to say that you were made on a lathe?}
 {203}{}{怎么了？你真的想说你是在车床上制造的吗？}
 ### {204}{}{I'm sorry, I don't mean to offend. But how did you end up here?}
@@ -58,11 +58,11 @@
 ### {251}{}{Consider me not here.}
 {251}{}{想想我不在这里。}
 ### {252}{}{By the way, I can stop by the Casa Grande if you want and ask a couple...}
-{252}{}{顺便说一句，如果你愿意的话，我可以去格兰德之家问几个。。。}
+{252}{}{顺便说一句，如果你愿意的话，我可以去格兰德之家问几个...}
 ### {253}{}{I don't want to! This is my home now, and the tinsmiths treat me very well. You're only going to make trouble for me. Leave me alone! (turns around in fright and walks away)}
 {253}{}{我不想！这是我现在的家，铁匠们对我很好。你只会给我制造麻烦，别管我！（吓得转身就走）}
 ### {254}{}{Oh, I'm sorry...}
-{254}{}{哦，对不起。。。}
+{254}{}{哦，对不起...}
 ### {255}{}{Come on, kid, throw out all the shit that you have accumulated because of your local upbringing.}
 {255}{}{来吧，孩子，扔掉你因为在当地长大而积累的所有垃圾。}
 
@@ -109,4 +109,4 @@
 ### {277}{}{Hard himself told me about it. I believe him.}
 {277}{}{Hard自己告诉我了，我相信他。}
 ### {278}{}{Looks like I'm going to have to talk to him about something...}
-{278}{}{看来我得和他谈谈。。。}
+{278}{}{看来我得和他谈谈...}

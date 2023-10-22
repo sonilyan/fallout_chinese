@@ -61,4 +61,4 @@
 ### {174}{}{If the commander runs away with Paul, then we have nothing to do here.}
 {174}{}{如果指挥官带着保罗逃跑，那么我们在这里就没有什么可做的了。}
 ### {175}{}{They told me that it was not worth getting into this war...}
-{175}{}{他们告诉我不值得卷入这场战争。。。}
+{175}{}{他们告诉我不值得卷入这场战争...}

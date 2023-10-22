@@ -29,7 +29,7 @@
 ### {211}{}{Is it normal to eat human flesh, in your opinion?}
 {211}{}{在你看来，吃人的肉正常吗？}
 ### {212}{}{What else can we eat if there is nothing else? Not even grass grows in the desert. Even the water in the river makes the bellies swell and bleed... hmm. Do you have food.}
-{212}{}{如果没有别的，我们还能吃什么？沙漠里连草都长不出来。即使是河里的水也会让腹部肿胀流血。。。嗯。你有食物吗。}
+{212}{}{如果没有别的，我们还能吃什么？沙漠里连草都长不出来。即使是河里的水也会让腹部肿胀流血...嗯。你有食物吗。}
 ### {213}{}{Are there other strangers here besides me?}
 {213}{}{除了我，这里还有其他陌生人吗？}
 ### {214}{}{Yes... our lunch. A tough outsider. Very good meat. (grinning) You can't get to him, the Nocturnal Beast protects the warehouses well. Only a Rabid Bitch knows how to talk to him.}
@@ -49,4 +49,4 @@
 ### {221}{}{Tell me more.}
 {221}{}{告诉我更多。}
 ### {222}{}{No one. Last lunch slipped away from us. Left us hungry... (spits angrily)}
-{222}{}{没有人最后一顿午餐从我们身边溜走了。让我们饿了。。。（愤怒地吐唾沫）}
+{222}{}{没有人最后一顿午餐从我们身边溜走了。让我们饿了...（愤怒地吐唾沫）}

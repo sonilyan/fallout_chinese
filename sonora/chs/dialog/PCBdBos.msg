@@ -3,7 +3,7 @@
 ### {101}{}{You see a man in a badly worn suit. Circles under his eyes and a nervous tic indicate overwork.}
 {101}{}{你看到一个男人穿着破旧的西装。他眼睛下面的圆圈和紧张的抽搐表明工作过度。}
 ### {102}{}{We have, of course, a dangerous area, but to be so...}
-{102}{}{当然，我们有一个危险的地区，但要这样。。。}
+{102}{}{当然，我们有一个危险的地区，但要这样...}
 ### {103}{}{Please stop them! They'll tear everything down here!}
 {103}{}{请阻止他们！他们会把这里的一切都拆了！}
 
@@ -36,7 +36,7 @@
 ### {212}{}{Why are you kicking me out?}
 {212}{}{你为什么要把我赶出去？}
 ### {213}{}{(dissatisfied sleepy grumbling) Burke... burke... Pr-k-lyatye, do you even know what time it is...}
-{213}{}{（不满的瞌睡发牢骚）伯克。。。伯克。。。你知道现在几点了吗。。。}
+{213}{}{（不满的瞌睡发牢骚）伯克...伯克...你知道现在几点了吗...}
 ### {214}{}{Sorry to distract you from sleep.}
 {214}{}{抱歉打扰你睡觉了。}
 ### {215}{}{I don't care.}
@@ -70,7 +70,7 @@
 ### {241}{}{I don't even know. And what is this place?}
 {241}{}{我甚至不知道。这个地方是什么？}
 ### {242}{}{This is a community house, and I am its manager. However, I don't think people of your rank will be interested here. They live in our ghetto... less successful citizens.}
-{242}{}{这是一个社区住宅，我是它的经理。然而，我认为像你这样级别的人不会对这里感兴趣。他们住在我们的贫民区。。。不太成功的公民。}
+{242}{}{这是一个社区住宅，我是它的经理。然而，我认为像你这样级别的人不会对这里感兴趣。他们住在我们的贫民区...不太成功的公民。}
 ### {243}{}{Then be kind enough to answer a couple of questions.}
 {243}{}{然后好心回答几个问题。}
 ### {244}{}{It was clear from the very beginning that this was a hole. They won't see me here anymore.}
@@ -88,7 +88,7 @@
 ### {251}{}{What's wrong with you?}
 {251}{}{你怎么了？}
 ### {252}{}{Eh? Oh, it's you... This damn headache... I used to take medications that Gonzalez found. But now he's dead, and I don't know where to get them... Um...}
-{252}{}{呃？哦，是你。。。这个该死的头痛。。。我曾经服用冈萨雷斯发现的药物。但现在他死了，我不知道从哪里得到它们。。。嗯。。。}
+{252}{}{呃？哦，是你...这个该死的头痛...我曾经服用冈萨雷斯发现的药物。但现在他死了，我不知道从哪里得到它们...嗯...}
 ### {253}{}{Sucks. Well, come on.}
 {253}{}{糟透了。好吧，来吧。}
 ### {254}{}{Oh, I'm sorry, it seemed to me that the death of this pusher would be for everyone's good.}
@@ -98,7 +98,7 @@
 ### {256}{}{It's none of your business anymore.}
 {256}{}{这已经不关你的事了。}
 ### {257}{}{Well yes... of course... Then get the hell out of my office.}
-{257}{}{嗯，是的。。。当然那就滚出我的办公室。}
+{257}{}{嗯，是的...当然那就滚出我的办公室。}
 ### {258}{}{Watch your tongue, otherwise you'll end up like your pusher.}
 {258}{}{小心你的舌头，否则你会变成你的推手。}
 ### {259}{}{Yeah.}
@@ -179,7 +179,7 @@
 ### {1326}{}{Today I will be kind and break only two fingers for you until I know everything I want.}
 {1326}{}{今天我会很善良，只为你折断两根手指，直到我知道我想要的一切。}
 ### {327}{}{Grm...}
-{327}{}{Grm。。。}
+{327}{}{Grm...}
 ### {328}{}{Stop it! Think about it, would we attack monks near our own house? It's too reckless. But there are rumors about a secret club of fire-phobes. After all, in the past, Aaron, with the help of the Church of Fire, staged a revolution and ruined the whole city. Surely many people have been wanting to take revenge on him since then.}
 {328}{}{住手！想想看，我们会在自己家附近袭击僧侣吗？这太鲁莽了。但是，有传言说，有一个秘密俱乐部的消防恐惧症。毕竟，在过去，亚伦在火之教会的帮助下，发动了一场革命，毁掉了整个城市。从那以后，肯定有很多人想报复他。}
 ### {329}{}{A curious thought. Perhaps you deserve my mercy for today.}
@@ -337,7 +337,7 @@
 ### {424}{}{You're crazy. Do you even know what you're asking?}
 {424}{}{你疯了。你知道你在问什么吗？}
 ### {425}{}{Please? Uh, no, I'm just complaining. Eliminating such a gang sounds fantastic. But you've already done so much for us. Do you have any ideas? Actually, we've dropped all our last caps over Orris' head here. Without him, the gang will fall apart. This will give at least some respite to us, ordinary residents.}
-{425}{}{请不，我只是在抱怨。消灭这样一个帮派听起来太棒了。但你已经为我们做了这么多。你有什么想法吗？事实上，我们已经把最后的帽子都扔到了奥的头上。没有他，这帮人就会分崩离析。这至少会给我们这些普通居民一些喘息的机会。}
+{425}{}{请不，我只是在抱怨。消灭这样一个帮派听起来太棒了。但你已经为我们做了这么多。你有什么想法吗？事实上，我们已经把最后的瓶盖都扔到了奥的头上。没有他，这帮人就会分崩离析。这至少会给我们这些普通居民一些喘息的机会。}
 ### {426}{}{You will have to think carefully about this task. See you later, Vernon.}
 {426}{}{你必须仔细考虑这项任务。回头见，弗农。}
 ### {427}{}{Okay, I'll help you. I hope the payment will be decent.}
@@ -347,9 +347,9 @@
 ### {429}{}{Oh! We'll pay all the caps we have if you kill their leader, Orris. Without him, the gang will weaken. This will give at least some respite to us, ordinary residents.}
 {429}{}{哦如果你杀了他们的首领欧里斯，我们会付出所有的代价。没有他，这帮人就会衰弱。这至少会给我们这些普通居民一些喘息的机会。}
 ### {430}{}{Don't worry about the caps. I will deal with this problem.}
-{430}{}{别担心帽子。我会处理这个问题。}
+{430}{}{别担心瓶盖。我会处理这个问题。}
 ### {431}{}{Get the caps ready, because I'll take EVERYTHING you have for his head.}
-{431}{}{把帽子准备好，因为我会把你所有的东西都拿给他的。}
+{431}{}{把瓶盖准备好，因为我会把你所有的东西都拿给他的。}
 ### {432}{}{Tell me more about the Red Cardinals and their gang.}
 {432}{}{告诉我更多关于红雀队和他们的帮派的信息。}
 ### {433}{}{The gang owns the whole area. There are dozens of people in it. They know how to fight well and they have weapons. Their leader is Orris. He's a scary guy, he won't let anyone down. Neither us, nor the bandits themselves. Please spare us from his lawlessness. Besides you, no one else will want to help us.}
@@ -365,7 +365,7 @@
 ### {437}{}{To hell with these tearful speeches. Drive the bottlecaps. Do you think I'm taking such a risk out of the kindness of my heart?}
 {437}{}{让这些含泪的演讲见鬼去吧。开瓶车。你认为我这么冒险是出于好心吗？}
 ### {438}{}{Uh, yes, take these caps, there are 217 pieces here. This is all we managed to collect.}
-{438}{}{嗯，是的，拿着这些帽子，这里有217个。这就是我们收集的全部。}
+{438}{}{嗯，是的，拿着这些瓶盖，这里有217个。这就是我们收集的全部。}
 ### {439}{}{Idiot! I wouldn't risk it for such bottlecaps. Well, we'll have to take what we have.}
 {439}{}{蠢人我不会为这样的瓶子冒险的。好吧，我们得拿我们所有的。}
 ### {1439}{}{Idiot! I wouldn't take the risk for such bottlecaps. Well, we'll have to take what we have.}
@@ -377,7 +377,7 @@
 ### {442}{}{Goodbye, Vernon.}
 {442}{}{再见，弗农。}
 ### {443}{}{Leave the caps to those from whom you collected them. It was important for me to get justice.}
-{443}{}{把帽子留给你收集的人。伸张正义对我来说很重要。}
+{443}{}{把瓶盖留给你收集的人。伸张正义对我来说很重要。}
 ### {444}{}{You're an extraordinary person. Know that you are always welcome in our house.}
 {444}{}{你是一个非凡的人。要知道你在我们家总是受欢迎的。}
 ### {445}{}{Goodbye, Vernon.}

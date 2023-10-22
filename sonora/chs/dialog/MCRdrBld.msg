@@ -7,13 +7,13 @@
 ### {103}{}{I would have died like that if it wasn't for you, Doc.}
 {103}{}{如果不是你，我早就那样死了，医生。}
 ### {104}{}{S-bitches from the caravan shot through the shoulder during the raid... How it hurts!}
-{104}{}{大篷车里的S婊子在突袭中肩部中弹。。。真疼！}
+{104}{}{大篷车里的S婊子在突袭中肩部中弹...真疼！}
 ### {105}{}{I was shot in the shoulder during a raid on a caravan. But we took everything they had anyway.}
 {105}{}{我在一次对大篷车的突袭中肩部中弹。但我们拿走了他们所有的东西。}
 ### {106}{}{Are you sure this is medicine, Doc? Something is only getting worse for me...}
-{106}{}{你确定这是药吗，医生？有些事情对我来说只会变得更糟。。。}
+{106}{}{你确定这是药吗，医生？有些事情对我来说只会变得更糟...}
 ### {107}{}{Oops! He, uh, had an advanced stage...}
-{107}{}{哎呀！他，呃，有一个高级阶段。。。}
+{107}{}{哎呀！他，呃，有一个高级阶段...}
 ### {108}{}{Who let you in?}
 {108}{}{谁让你进来的？}
 

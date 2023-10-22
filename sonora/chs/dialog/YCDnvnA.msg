@@ -1,7 +1,7 @@
 ### {100}{}{This is Frank.}
 {100}{}{这是弗兰克。}
 ### {101}{}{Here is a ghoul in a business suit and hat, just like in the good old days.}
-{101}{}{这是一个穿着西装、戴着帽子的食尸鬼，就像过去一样。}
+{101}{}{这是一个穿着西装、戴着瓶盖的食尸鬼，就像过去一样。}
 ### {102}{}{Thank you, friend. Without you, this story could have ended very badly.}
 {102}{}{谢谢你，朋友。如果没有你，这个故事的结局可能会很糟糕。}
 ### {103}{}{Don't touch me, smooth face! I'm on edge right now.}

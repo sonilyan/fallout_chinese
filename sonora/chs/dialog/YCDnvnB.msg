@@ -8,9 +8,9 @@
 {103}{}{对不起，我现在太兴奋了。}
 
 ### {200}{}{(Jane)... Frank, I feel like something's happened to him. He would have been back long ago... Oh, we're being overheard.}
-{200}{}{（简）。。。弗兰克，我觉得他好像出事了。他早就回来了。。。哦，我们被偷听到了。}
+{200}{}{（简）...弗兰克，我觉得他好像出事了。他早就回来了...哦，我们被偷听到了。}
 ### {1200}{}{(Frank)... I'm telling you, Jane, he's in trouble! Otherwise, he would have returned long ago... Hey, are you eavesdropping on us, smooth face?}
-{1200}{}{（弗兰克）。。。我告诉你，简，他有麻烦了！否则，他早就回来了。。。嘿，你在偷听我们吗，光滑的脸？}
+{1200}{}{（弗兰克）...我告诉你，简，他有麻烦了！否则，他早就回来了...嘿，你在偷听我们吗，光滑的脸？}
 ### {201}{}{What do you seem excited about?}
 {201}{}{你似乎对什么感到兴奋？}
 ### {202}{}{(Frank) None of your business, man. This is our dead business.}
@@ -46,11 +46,11 @@
 ### {217}{}{I really don't care about your problems. Be there.}
 {217}{}{我真的不在乎你的问题。在那里。}
 ### {218}{}{(Frank) Hey, hey, hey, don't be in such a hurry! Just in case, keep in mind that our friend Donovan is somewhere in the ruins on the way to San Ysidro. If you meet him... well, at least remind him of us, okay?}
-{218}{}{（弗兰克）嘿，嘿，嘿不要这么着急！以防万一，请记住，我们的朋友多诺万在去圣伊西德罗的路上就在废墟中。如果你遇到他。。。好吧，至少让他想起我们，好吗？}
+{218}{}{（弗兰克）嘿，嘿，嘿不要这么着急！以防万一，请记住，我们的朋友多诺万在去圣伊西德罗的路上就在废墟中。如果你遇到他...好吧，至少让他想起我们，好吗？}
 ### {219}{}{Okay. See you later.}
 {219}{}{可以回头见。}
 ### {220}{}{(Jane)... Frank, I feel like something's happened to him. He would have been back long ago... Oh, we're being overheard.}
-{220}{}{（简）。。。弗兰克，我觉得他好像出事了。他早就回来了。。。哦，我们被偷听到了。}
+{220}{}{（简）...弗兰克，我觉得他好像出事了。他早就回来了...哦，我们被偷听到了。}
 ### {221}{}{[Next]}
 {221}{}{[下一个]}
 ### {222}{}{(Frank) Hmm. I don't remember your face. But it's still good to see you. Will you give us some time?}
@@ -62,7 +62,7 @@
 ### {225}{}{Let me guess ? and you'll ask me to find him?}
 {225}{}{让我猜猜? 你会让我去找他吗？}
 ### {226}{}{And you're smart for a ghoul. Anyway, we need help. Donovan is somewhere in the ruins on his way to San Ysidro. If you meet him... Well, try not to leave in trouble, okay?}
-{226}{}{你是个聪明的食尸鬼。不管怎样，我们需要帮助。多诺万在去圣伊西德罗的路上在废墟中的某个地方。如果你遇到他。。。好吧，尽量不要惹麻烦离开，好吗？}
+{226}{}{你是个聪明的食尸鬼。不管怎样，我们需要帮助。多诺万在去圣伊西德罗的路上在废墟中的某个地方。如果你遇到他...好吧，尽量不要惹麻烦离开，好吗？}
 ### {227}{}{Okay. See you later.}
 {227}{}{可以回头见。}
 
@@ -79,7 +79,7 @@
 ### {235}{}{I see. I'll keep looking.}
 {235}{}{我明白了。我会继续找的。}
 ### {236}{}{What are you talking about? Donovan was the brain of our humble company.  .........}
-{236}{}{你在说什么？多诺万是我们公司的智囊。。。。。。。。。}
+{236}{}{你在说什么？多诺万是我们公司的智囊.........}
 ### {237}{}{I have some bad news. Here's Donovan's body. Donovan is dead.}
 {237}{}{我有一些坏消息。这是多诺万的尸体。多诺万死了。}
 ### {238}{}{Why didn't you say Donovan was short? No wonder it was so hard to find.}

@@ -8,7 +8,7 @@
 ### {200}{}{Well, well. Looks like we've got a troublemaker here. }
 {200}{}{嗯，嗯。看来我们这里有个麻烦制造者。}
 ### {201}{}{Oops...}
-{201}{}{哎呀。。。}
+{201}{}{哎呀...}
 ### {202}{}{What are you doing, you fool?}
 {202}{}{你在干什么，你这个傻瓜？}
 ### {1202}{}{What is such a lady doing in a cemetery?}
@@ -20,9 +20,9 @@
 ### {205}{}{[Next]}
 {205}{}{[下一个]}
 ### {206}{}{(pulls out a weapon) By the authority vested in me by the Arizona Ranger Department and the constitution, I sentence you... to death. The sentence should be carried out immediately.}
-{206}{}{（拿出武器）根据亚利桑那州游骑兵部和宪法赋予我的权力，我判你。。。死亡。该判决应立即执行。}
+{206}{}{（拿出武器）根据亚利桑那州游骑兵部和宪法赋予我的权力，我判你...死亡。该判决应立即执行。}
 ### {207}{}{Thu...}
-{207}{}{周四。。。}
+{207}{}{周四...}
 ### {208}{}{Go to hell.}
 {208}{}{见鬼去吧。}
 ### {209}{}{Stop! The tinsmiths asked me. They are looking for their comrade, he is lying in this grave.}
@@ -65,7 +65,7 @@
 ### {231}{}{Work hard, I'm listening carefully.}
 {231}{}{努力工作，我在认真听讲。}
 ### {232}{}{You see, I'm looking... [Get a weapon and attack]}
-{232}{}{你看，我在看。。。[拿起武器攻击]}
+{232}{}{你看，我在看...[拿起武器攻击]}
 ### {233}{}{It's none of your business. I won't tell you anything.}
 {233}{}{这不关你的事。我什么都不告诉你。}
 ### {234}{}{The tinsmiths asked me. They are looking for their brother. He's here.}
@@ -80,7 +80,7 @@
 ### {243}{}{[Next]}
 {243}{}{[下一个]}
 ### {244}{}{And what attracted you so much to tinsmiths? Bribed by the ringing of rusty caps?}
-{244}{}{是什么吸引你这么喜欢锡匠？被锈迹斑斑的帽子铃声淹没了？}
+{244}{}{是什么吸引你这么喜欢锡匠？被锈迹斑斑的瓶盖铃声淹没了？}
 ### {245}{}{Maybe so. I'm a simple mercenary, I don't care about your Arizona and justice.}
 {245}{}{也许是这样。我只是一个简单的雇佣兵，我不在乎你的亚利桑那州和正义。}
 ### {1245}{}{Maybe so. I'm a simple mercenary, I don't care about your Arizona and justice.}
@@ -94,17 +94,17 @@
 ### {248}{}{No need. Please.}
 {248}{}{不需要。请}
 ### {249}{}{Oh shit...}
-{249}{}{哦，该死。。。}
+{249}{}{哦，该死...}
 ### {250}{}{So, you confessed. Tell me the reason why you should be left alive.}
 {250}{}{所以，你承认了。告诉我为什么你还活着。}
 ### {251}{}{(pulls out a weapon) I have six reasons, you fool. Listen carefully...}
-{251}{}{（拿出武器）我有六个理由，你这个傻瓜。仔细听。。。}
+{251}{}{（拿出武器）我有六个理由，你这个傻瓜。仔细听...}
 ### {1251}{}{ (pulls out a weapon) I have six reasons, you fool. Listen carefully...}
-{1251}{}{（拿出武器）我有六个理由，你这个傻瓜。仔细听。。。}
+{1251}{}{（拿出武器）我有六个理由，你这个傻瓜。仔细听...}
 ### {252}{}{Oh shit...}
-{252}{}{哦，该死。。。}
+{252}{}{哦，该死...}
 ### {253}{}{Oh, don't...}
-{253}{}{哦，不要。。。}
+{253}{}{哦，不要...}
 ### {254}{}{I'm a ranger too. And I'm on a mission. I have been ordered to infiltrate the ranks of the tinsmiths to find their weaknesses.}
 {254}{}{我也是一名护林员。我正在执行一项任务。我奉命潜入铁匠队伍，寻找他们的弱点。}
 ### {255}{}{Hmm. An unexpected meeting, comrade. It's good to see you. Well, in that case, I have no more questions. We will assume that this meeting did not take place.}

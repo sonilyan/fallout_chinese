@@ -4,7 +4,7 @@
 ### {110}{}{How old are you?}
 {110}{}{你多大了？}
 ### {111}{}{We went a long way from the Necropolis to the Hub, and then from the Hub to San Diego... And here we are.}
-{111}{}{我们从墓地到枢纽走了很长一段路，然后从枢纽到圣地亚哥。。。我们来了。}
+{111}{}{我们从墓地到枢纽走了很长一段路，然后从枢纽到圣地亚哥...我们来了。}
 ### {112}{}{There are only super mutants and ghouls in San Diego right now.}
 {112}{}{圣地亚哥现在只有超级变种人和食尸鬼。}
 ### {113}{}{There is a continuous band of radiation in the northwest.}
@@ -18,7 +18,7 @@
 ### {117}{}{I miss the burnt ruins of my native Necropolis.}
 {117}{}{我怀念家乡墓地被烧毁的废墟。}
 ### {118}{}{Do you also use caps? A strange coincidence.}
-{118}{}{你也用帽子吗？一个奇怪的巧合。}
+{118}{}{你也用瓶盖吗？一个奇怪的巧合。}
 ### {119}{}{The creator for some reason bred flying worms and crossed people with dogs.}
 {119}{}{出于某种原因，创造者培育了飞虫，并将人与狗杂交。}
 ### {120}{}{The Creator is overthrown, his army is defeated.}

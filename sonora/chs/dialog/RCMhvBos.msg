@@ -28,17 +28,17 @@
 ### {212}{}{And now get out so I don't see you here.}
 {212}{}{现在滚出去，这样我就不会在这里看到你了。}
 ### {213}{}{As you say...}
-{213}{}{正如你所说。。。}
+{213}{}{正如你所说...}
 ### {214}{}{Hey, give me my stuff! Immediately.}
 {214}{}{嘿，把我的东西给我！立即}
 ### {215}{}{I'm not giving you anything.}
 {215}{}{我什么都不给你。}
 ### {216}{}{It's worse for you. Guys, you know what to do...}
-{216}{}{这对你来说更糟。伙计们，你们知道该怎么办。。。}
+{216}{}{这对你来说更糟。伙计们，你们知道该怎么办...}
 ### {217}{}{Everyone stop!}
 {217}{}{大家停下！}
 ### {218}{}{OK, I'll give it all. Here, take it...}
-{218}{}{好的，我会全力以赴。给，拿着。。。}
+{218}{}{好的，我会全力以赴。给，拿着...}
 ### {219}{}{These things are terribly radioactive. Do you want to make sure of this on your health?}
 {219}{}{这些东西具有极强的放射性。你想确保你的健康吗？}
 ### {220}{}{I'm not buying these tricks. Last warning, or you're dead.}
@@ -59,7 +59,7 @@
 ### {230}{}{I represent the LAW. The power is in my hands, and who are you? Obey!}
 {230}{}{我代表法律。权力掌握在我手中，你是谁？服从}
 ### {231}{}{The hell with two...}
-{231}{}{有两个。。。}
+{231}{}{有两个...}
 ### {232}{}{If you're a ranger, then you're not worthy of your badge. I'm stripping you of your rank. Give me the badge.}
 {232}{}{如果你是一名护林员，那么你就配不上你的徽章。我要剥夺你的军衔。把徽章给我。}
 ### {233}{}{A ranger who has violated the Law is deprived of his rank. Give me the badge.}
@@ -94,7 +94,7 @@
 ### {253}{}{I think I've heard something about it. So you and I are both outlaws.}
 {253}{}{我想我听说了一些事情。所以你和我都是亡命之徒。}
 ### {254}{}{Exactly. And no one will notice if I just kill you. Say goodbye to life, loser...}
-{254}{}{确切地如果我杀了你，没人会注意到的。跟生活说再见，失败者。。。}
+{254}{}{确切地如果我杀了你，没人会注意到的。跟生活说再见，失败者...}
 ### {255}{}{I ask you - no unnecessary civilian casualties. It's not to blame for anything. You're taking revenge on the wrong people.}
 {255}{}{我请求你们——不要有不必要的平民伤亡。什么都不怪它。你是在报复错误的人。}
 ### {256}{}{I KNOW. But what should we do? We are outlaws, we have nowhere to go.}
@@ -102,7 +102,7 @@
 ### {257}{}{What about hunting game or protecting caravans? You can always find a legal way.}
 {257}{}{狩猎游戏或保护大篷车怎么样？你总能找到合法的途径。}
 ### {258}{}{To hell with talking. Such a criminal cannot be persuaded...}
-{258}{}{见鬼去吧。这样的罪犯是无法说服的。。。}
+{258}{}{见鬼去吧。这样的罪犯是无法说服的...}
 ### {259}{}{We discussed it a lot in the gang. We have already been bullied by such a life. There are few people in these wastelands, and the risks are getting higher. It's time to decide something. A badge? Yes, take it. He's no good anyway.}
 {259}{}{我们在帮派里讨论了很多。我们已经被这样的生活欺负过了。这些荒地上的人很少，而且风险越来越高。是时候做决定了。徽章？是的，拿着吧。他无论如何都不好。}
 ### {260}{}{This is a very wise decision. Thank you.}
@@ -110,7 +110,7 @@
 ### {261}{}{Get out before I shoot you.}
 {261}{}{在我开枪之前滚出去。}
 ### {262}{}{I'm already leaving...}
-{262}{}{我已经离开了。。。}
+{262}{}{我已经离开了...}
 
 ### {300}{}{You again? Don't you understand the first time?}
 {300}{}{你又来了？你第一次不明白吗？}

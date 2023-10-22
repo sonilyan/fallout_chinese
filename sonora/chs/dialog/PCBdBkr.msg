@@ -27,13 +27,13 @@
 {207}{}{给我时间把瓶子装好。}
 
 ### {210}{}{Brought 500 caps?}
-{210}{}{带了500顶帽子？}
+{210}{}{带了500个瓶盖？}
 ### {1210}{}{Did you bring 500 caps?}
-{1210}{}{你带了500顶帽子吗？}
+{1210}{}{你带了500个瓶盖吗？}
 ### {211}{}{Did you bring 700 caps?}
-{211}{}{你带了700顶帽子吗？}
+{211}{}{你带了700个瓶盖吗？}
 ### {1211}{}{Did you bring 700 caps?}
-{1211}{}{你带了700顶帽子吗？}
+{1211}{}{你带了700个瓶盖吗？}
 ### {212}{}{Give me time to pack the bottlecaps.}
 {212}{}{给我时间把瓶子装好。}
 
@@ -48,20 +48,20 @@
 ### {224}{}{By the way, I've changed my mind. The price has increased to 700 caps.}
 {224}{}{顺便说一句，我改变主意了。价格已升至700顶。}
 ### {225}{}{Gr-rm...}
-{225}{}{Gr-rm。。。}
+{225}{}{Gr-rm...}
 ### {226}{}{It's stupid. I'll just kill you.}
 {226}{}{这太愚蠢了。我就杀了你。}
 
 ### {230}{}{Here are the bottlecaps. Now give me the ignition key.}
 {230}{}{这是水瓶。现在把点火钥匙给我。}
 ### {231}{}{(casually throws the key on the ground) Take it. I didn't know how to use it anyway. (with a grin, he heads deeper into the area, weighing the caps in his hand with a satisfied look)}
-{231}{}{（漫不经心地把钥匙扔在地上）拿着，反正我也不知道怎么用。（他咧嘴一笑，朝着更深的地方走去，用满意的表情称着手中的帽子）}
+{231}{}{（漫不经心地把钥匙扔在地上）拿着，反正我也不知道怎么用。（他咧嘴一笑，朝着更深的地方走去，用满意的表情称着手中的瓶盖）}
 ### {232}{}{Thanks, uh, good purchase.}
 {232}{}{谢谢，嗯，买得好。}
 ### {233}{}{Someday I'll lie in wait for you in bed at night and cut your throat. And I will laugh. Yes, laugh.}
 {233}{}{总有一天晚上我会躺在床上等你，割断你的喉咙。我会笑的。是的，笑。}
 ### {234}{}{Not so fast, you bastard. Now give me all my caps.}
-{234}{}{别这么快，你这个混蛋。现在把我所有的帽子都给我。}
+{234}{}{别这么快，你这个混蛋。现在把我所有的瓶盖都给我。}
 
 ### {240}{}{You're a fool if you decided to run into a champion. Do you want to make sure of this?}
 {240}{}{如果你决定撞上冠军，那你就是个傻瓜。你想确定一下吗？}
@@ -70,7 +70,7 @@
 ### {242}{}{Do you know who the magistrals are? I'm one of them. Don't underestimate us.}
 {242}{}{你知道裁判法院是谁吗？我就是其中之一。不要低估我们。}
 ### {243}{}{ (grinning like a dog cornered) H-damn, I didn't know... Sorry, here's the key... Is everything okay now? I'll, uh, go.}
-{243}{}{（咧嘴笑得像走投无路的狗）该死，我不知道。。。对不起，这是钥匙。。。现在一切都好吗？我会去的。}
+{243}{}{（咧嘴笑得像走投无路的狗）该死，我不知道...对不起，这是钥匙...现在一切都好吗？我会去的。}
 ### {244}{}{Get out.}
 {244}{}{滚出去。}
 ### {245}{}{No problems. Let's forget about this misunderstanding.}

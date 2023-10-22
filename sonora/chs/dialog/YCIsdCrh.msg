@@ -27,7 +27,7 @@
 ### {113}{}{My friend Zerah, though he was a ghoul, has now become a ghoul literally.}
 {113}{}{我的朋友泽拉，虽然他是一个食尸鬼，但现在已经变成了一个真正的食尸鬼。}
 ### {114}{}{Well, not that it's my fault...}
-{114}{}{不是我的错。。。}
+{114}{}{不是我的错...}
 ### {115}{}{But I left him.}
 {115}{}{但我离开了他。}
 ### {116}{}{It was in the hospital, it was burning with hellfire.}

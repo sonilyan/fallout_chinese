@@ -34,7 +34,7 @@
 ### {220}{}{Completion of excavations in Navajo.}
 {220}{}{完成纳瓦霍的挖掘工作。}
 ### {221}{}{The Navajo military camp turned out to be almost useless. Almost all local resources were destroyed by explosions in warehouses. Only the burnt pillars of the old buildings remained. It is unprofitable to extract the remaining resources due to labor losses. The camp will have to be closed. But such a jackpot was planned...}
-{221}{}{事实证明，纳瓦霍军营几乎毫无用处。几乎所有的当地资源都被仓库的爆炸摧毁了。只剩下被烧毁的老建筑的柱子。由于劳动力损失，开采剩余资源是无利可图的。营地将不得不关闭。但这样的头奖是有计划的。。。}
+{221}{}{事实证明，纳瓦霍军营几乎毫无用处。几乎所有的当地资源都被仓库的爆炸摧毁了。只剩下被烧毁的老建筑的柱子。由于劳动力损失，开采剩余资源是无利可图的。营地将不得不关闭。但这样的头奖是有计划的...}
 ### {222}{}{Personal note.}
 {222}{}{个人笔记。}
 ### {223}{}{When I created this colony, I counted on understanding the idea of a New World. But visitors are only interested in bottlecaps. Dirty little bastards, I will force them to adopt new laws and change!}

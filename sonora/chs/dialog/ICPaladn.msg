@@ -22,11 +22,11 @@
 ### {113}{}{Hmm, it looks like the intelligence made a mistake by a couple of zeros in the number of the enemy.}
 {113}{}{嗯，看起来情报犯了一个错误，因为敌人的数字中有几个零。}
 ### {114}{}{Eh, reminds me of the old days...}
-{114}{}{呃，让我想起了过去。。。}
+{114}{}{呃，让我想起了过去...}
 
 #Counter dialogue
 ### {200}{}{Argh, damn... I almost shot you. I thought you were another mutant. Are you from a support group?}
-{200}{}{啊，该死。。。我差点开枪打你。我以为你是另一个变种人。你是支持小组的成员吗？}
+{200}{}{啊，该死...我差点开枪打你。我以为你是另一个变种人。你是支持小组的成员吗？}
 ### {201}{}{What kind of group? What are we talking about?}
 {201}{}{什么样的团体？我们在说什么？}
 ### {202}{}{Damn it. So the Brotherhood didn't send you to help? It's a bad business. Then what are you doing in this cursed place?}
@@ -52,7 +52,7 @@
 ### {211}{}{Tell me what happened.}
 {211}{}{告诉我发生了什么事。}
 ### {212}{}{You should have shot, you idiot. Now it's my turn...}
-{212}{}{你应该开枪的，你这个白痴。现在轮到我了。。。}
+{212}{}{你应该开枪的，你这个白痴。现在轮到我了...}
 ### {213}{}{So you're from the Brotherhood of Steel? I hate you all. Die, scum!}
 {213}{}{你是钢铁兄弟会的？我恨你们所有人。死吧，人渣！}
 
@@ -69,7 +69,7 @@
 ### {1224}{}{Who are you talking about? I'm alone.}
 {1224}{}{你在说谁？我一个人。}
 ### {225}{}{Damn it! What are they thinking about? That one mercenary can handle such a situation? However, a small group has a tactical advantage among the ruins... Okay, I really hope that at least you won't get in the way.}
-{225}{}{该死！他们在想什么？一个雇佣兵能应付这种情况吗？然而，一个小团体在废墟中有战术优势。。。好吧，我真的希望至少你不会挡道。}
+{225}{}{该死！他们在想什么？一个雇佣兵能应付这种情况吗？然而，一个小团体在废墟中有战术优势...好吧，我真的希望至少你不会挡道。}
 ### {226}{}{So what happened?}
 {226}{}{那么发生了什么？}
 ### {227}{}{Em... Here, I have the Brotherhood badge. Do you believe now?}
@@ -79,7 +79,7 @@
 ### {229}{}{Em... To hell with it. Die!}
 {229}{}{嗯…见鬼去吧，死吧！}
 ### {230}{}{Yes, I'm not from the Brotherhood. I just thought you were about to shoot me...}
-{230}{}{是的，我不是兄弟会的。我只是以为你要开枪打我。。。}
+{230}{}{是的，我不是兄弟会的。我只是以为你要开枪打我...}
 ### {231}{}{Ugh, you pussy shit, and how can I trust you now?}
 {231}{}{啊，你这个婊子养的，我现在怎么能相信你？}
 ### {232}{}{Why don't you tell me what happened and we'll try to help each other?}
@@ -102,7 +102,7 @@
 ### {244}{}{Okay. So what's your plan?}
 {244}{}{可以那么你的计划是什么？}
 ### {245}{}{I need to assemble a squad, if there is anyone else to assemble. And somehow put yourself in order to continue to follow to the destination... Hey, show your civic duty - do me a favor?}
-{245}{}{如果有其他人要集合的话，我需要集合一个小队。以某种方式让自己继续追随目标。。。嘿，表现出你的公民义务——帮我个忙吗？}
+{245}{}{如果有其他人要集合的话，我需要集合一个小队。以某种方式让自己继续追随目标...嘿，表现出你的公民义务——帮我个忙吗？}
 ### {246}{}{Sure. I can't leave a man in trouble.}
 {246}{}{当然我不能让一个人陷入困境。}
 ### {247}{}{I knew I could rely on you. If I complete my mission, I will not remain in debt.}
@@ -110,7 +110,7 @@
 ### {248}{}{That's right.}
 {248}{}{没错。}
 ### {249}{}{You're out of luck, soldier. I'm not the kind of person who cares about other people's problems. Give away all your ammunition in a good way...}
-{249}{}{你运气不好，士兵。我不是那种关心别人问题的人。以一种好的方式把你所有的弹药都送出去。。。}
+{249}{}{你运气不好，士兵。我不是那种关心别人问题的人。以一种好的方式把你所有的弹药都送出去...}
 ### {250}{}{You're talking about a dangerous event. Why on earth would I take such a risk?}
 {250}{}{你说的是一个危险的事件。我究竟为什么要冒这样的风险？}
 ### {251}{}{Don't worry about the payment. When we get to the base, you will be rewarded handsomely.}
@@ -172,7 +172,7 @@
 ### {315}{}{How did you manage to do that?}
 {315}{}{你是怎么做到的？}
 ### {316}{}{Caught in a trap. These creatures set traps in our path and set a smoke screen. Sons of bitches, got caught like a rookie...}
-{316}{}{陷入陷阱。这些生物在我们的路上设下陷阱并设置烟幕。婊子养的，像菜鸟一样被抓。。。}
+{316}{}{陷入陷阱。这些生物在我们的路上设下陷阱并设置烟幕。婊子养的，像菜鸟一样被抓...}
 ### {317}{}{Clearly. Let's repeat our plan.}
 {317}{}{清晰地让我们重复我们的计划。}
 ### {318}{}{I'm starting the task.}
@@ -217,7 +217,7 @@
 ### {337}{}{Go on.}
 {337}{}{继续}
 ### {338}{}{We killed a few of the creatures, but there were too many of them. And when the frontal attack began, only I managed to cope. I had to retreat... Damn, what a pity I didn't have time to use the power armor!}
-{338}{}{我们杀死了一些生物，但它们太多了。当正面进攻开始时，只有我能应付。我不得不撤退。。。该死，真可惜我没有时间使用力量盔甲！}
+{338}{}{我们杀死了一些生物，但它们太多了。当正面进攻开始时，只有我能应付。我不得不撤退...该死，真可惜我没有时间使用力量盔甲！}
 ### {339}{}{I'm sorry.}
 {339}{}{对不起。}
 ### {340}{}{Everyone has failures, Paladin. You are no exception.}
@@ -242,7 +242,7 @@
 ### {350}{}{Your brothers are dead. Here are their tokens. I'm sorry.}
 {350}{}{你的兄弟都死了。这是他们的代币。对不起。}
 ### {351}{}{They died fighting like real warriors. Bright memory to them... What about the girl? We had a civilian with us, a teacher from the Followers of the Apocalypse.}
-{351}{}{他们像真正的战士一样战斗而死。给他们美好的回忆。。。那女孩呢？我们身边有一位平民，一位来自启示录追随者的老师。}
+{351}{}{他们像真正的战士一样战斗而死。给他们美好的回忆...那女孩呢？我们身边有一位平民，一位来自启示录追随者的老师。}
 ### {352}{}{I don't know anything about her.}
 {352}{}{我对她一无所知。}
 ### {353}{}{I need to know for sure. The command gave a clear instruction to escort her to her destination. She was entrusted to my protection. I can't break orders by leaving her to her own devices.}
@@ -274,7 +274,7 @@
 ### {366}{}{Diana has already left the city. She didn't want to linger in this hell.}
 {366}{}{戴安娜已经离开了这个城市。她不想在这地狱里逗留。}
 ### {367}{}{She left and didn't warn you? What a bitch. I've been risking my life here trying to find her... Okay, let him roll wherever he wants. Now she is not under my command.}
-{367}{}{她走了，没有警告你？真是个婊子。我冒着生命危险在这里找她。。。好吧，让他滚到他想滚的地方。现在她不在我的指挥之下。}
+{367}{}{她走了，没有警告你？真是个婊子。我冒着生命危险在这里找她...好吧，让他滚到他想滚的地方。现在她不在我的指挥之下。}
 ### {368}{}{Is that all you've been looking for?}
 {368}{}{这就是你一直在寻找的吗？}
 ### {369}{}{I managed to find Diana.}
@@ -284,7 +284,7 @@
 ### {371}{}{I'm going to look for the others.}
 {371}{}{我要去找其他人。}
 ### {372}{}{They died fighting like real warriors. Bright memory to them...}
-{372}{}{他们像真正的战士一样战斗而死。给他们美好的回忆。。。}
+{372}{}{他们像真正的战士一样战斗而死。给他们美好的回忆...}
 ### {373}{}{That's right. But I still can't return to the base without completing the main task.}
 {373}{}{没错。但如果不完成主要任务，我仍然无法返回基地。}
 ### {374}{}{What kind of task?}
@@ -418,7 +418,7 @@
 ### {434}{}{I definitely can't do it without you. If you refuse to participate, then I'm leaving town.}
 {434}{}{没有你我肯定做不到。如果你拒绝参加，那么我就离开小镇。}
 ### {435}{}{I knew I couldn't rely on you... Okay, my leg doesn't hurt so much anymore, I can move.}
-{435}{}{我知道我不能依赖你。。。好吧，我的腿不再那么疼了，我可以动了。}
+{435}{}{我知道我不能依赖你...好吧，我的腿不再那么疼了，我可以动了。}
 ### {436}{}{That's good.}
 {436}{}{这很好。}
 ### {437}{}{You know, you're really going to be a burden. I'd rather walk alone. Later.}
@@ -492,17 +492,17 @@
 ### {480}{}{I don't want to talk about it. Such a ridiculous defeat in Puerto only fills me with anger.}
 {480}{}{我不想谈论它。在波多黎各如此荒谬的失败只会让我感到愤怒。}
 ### {481}{}{I can't believe...}
-{481}{}{我简直不敢相信。。。}
+{481}{}{我简直不敢相信...}
 ### {482}{}{Are you okay?}
 {482}{}{你还好吗？}
 ### {483}{}{My brothers and sisters... Such a ridiculous death... What could have happened?}
-{483}{}{我的兄弟姐妹。。。如此荒谬的死亡。。。可能发生了什么？}
+{483}{}{我的兄弟姐妹...如此荒谬的死亡...可能发生了什么？}
 ### {484}{}{Probably the negligence of the quartermaster or some kind of leak.}
 {484}{}{可能是军需官的疏忽或某种泄漏。}
 ### {485}{}{Nonsense!  We have always been careful about weapons and equipment! I refuse to believe that it was a mistake by someone from the staff. It could only be a diversion.}
 {485}{}{胡说我们一直对武器和装备很小心！我不相信这是工作人员的错误。这只能是一种消遣。}
 ### {486}{}{Well, you have a lot of enemies...}
-{486}{}{你有很多敌人。。。}
+{486}{}{你有很多敌人...}
 ### {487}{}{Okay, I'm sorry I yelled. After the events in Inferno, it's too much to get such a blow to the Brotherhood.}
 {487}{}{好吧，对不起，我喊了。在地狱事件之后，兄弟会受到这样的打击实在太过分了。}
 ### {488}{}{I understand. But now you are completely free from regulations and orders, aren't you?}

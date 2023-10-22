@@ -41,9 +41,9 @@
 ### {221}{}{Listen, I've got a lot of trash in my pockets here. Take a look, which of these can be useful?}
 {221}{}{听着，我口袋里有很多垃圾。看看，其中哪些有用？}
 ### {222}{}{Wait a minute, I'm rummaging in my pockets...}
-{222}{}{等一下，我在口袋里翻找。。。}
+{222}{}{等一下，我在口袋里翻找...}
 ### {223}{}{(you dump pocket garbage on the counter, the bartender is perplexed sorting through this stuff) If I had such pockets, I would have become rich a long time ago. Look, there's a pre-war bill here, a couple of caps and a cartridge. With all this you can buy... a whole tail from a fried iguana, ha ha!}
-{223}{}{（你把口袋里的垃圾倒在柜台上，酒保在整理这些东西时很困惑）如果我有这样的口袋，我早就发财了。看，这里有一张战前账单，几顶帽子和一个子弹。有了这些，你可以买到。。。炸鬣蜥的整条尾巴，哈哈！}
+{223}{}{（你把口袋里的垃圾倒在柜台上，酒保在整理这些东西时很困惑）如果我有这样的口袋，我早就发财了。看，这里有一张战前账单，几个瓶盖和一个子弹。有了这些，你可以买到...炸鬣蜥的整条尾巴，哈哈！}
 ### {224}{}{Ugh, finally, at least some benefit from this garbage.}
 {224}{}{啊，最后，至少从这些垃圾中得到了一些好处。}
 
@@ -114,7 +114,7 @@
 ### {261}{}{Why are you paying with caps here? We usually sell something *useful*.}
 {261}{}{你为什么在这里用上限付款？我们通常卖一些有用的东西。}
 ### {262}{}{Ah, you're from the wasteland. I don't know the whole story myself, but in big cities they came up with the idea of using caps as currency. It's like money before the Great War... You don't know anything about money either? Well... In general, this is all for exchange.}
-{262}{}{啊，你来自荒原。我自己不知道整个故事，但在大城市，他们想出了用上限作为货币的主意。这就像大战前的钱。。。你对钱也一无所知？好总的来说，这都是为了交换。}
+{262}{}{啊，你来自荒原。我自己不知道整个故事，但在大城市，他们想出了用上限作为货币的主意。这就像大战前的钱...你对钱也一无所知？好总的来说，这都是为了交换。}
 ### {263}{}{[Next]}
 {263}{}{[下一个]}
 ### {264}{}{However, the bottlecaps have taken root only in large cities, and in the wastelands they are rarely used.}
@@ -152,13 +152,13 @@
 ### {283}{}{No problem, here are the bottlecaps.}
 {283}{}{没问题，瓶子在这儿。}
 ### {284}{}{So many caps for all these beggars? So, I'm leaving here.}
-{284}{}{这么多帽子给这些乞丐？所以，我要离开这里。}
+{284}{}{这么多瓶盖给这些乞丐？所以，我要离开这里。}
 ### {285}{}{I can't afford it right now. Another time.}
 {285}{}{我现在买不起。下次}
 ### {286}{}{And you're having trouble counting cash, right?}
 {286}{}{你数现金有困难，对吧？}
 ### {287}{}{...}
-{287}{}{。。。}
+{287}{}{...}
 ### {288}{}{Hey, guys! A newcomer from the wasteland wishes to introduce himself. It's at his expense.}
 {288}{}{嘿，伙计们！一位来自荒原的新来者希望自我介绍。这是以他为代价的。}
 ### {1288}{}{Hey, guys! A stranger from the wasteland wants to introduce herself. It's at her expense.}
@@ -253,7 +253,7 @@
 ### {339}{}{Looks like you're all tied up here.}
 {339}{}{看来你们都被绑在这里了。}
 ### {340}{}{Really? You know, there are rumors about you... not particularly flattering.}
-{340}{}{真正地你知道，有传言说你。。。不是特别讨人喜欢。}
+{340}{}{真正地你知道，有传言说你...不是特别讨人喜欢。}
 ### {341}{}{Seriously? I didn't notice something.}
 {341}{}{认真地我没有注意到什么。}
 ### {1341}{}{Seriously? I didn't notice something.}
@@ -307,7 +307,7 @@
 ### {370}{}{I'm happy for you, my friend. Now the whole city will cheer up.}
 {370}{}{我为你感到高兴，我的朋友。现在整个城市都将振作起来。}
 ### {371}{}{Here are 100 caps for the courier service and my old gun. I know it's not much, but I'm expecting big expenses!}
-{371}{}{这是快递服务的100顶帽子和我的旧枪。我知道不多，但我预计会有大笔开支！}
+{371}{}{这是快递服务的100个瓶盖和我的旧枪。我知道不多，但我预计会有大笔开支！}
 ### {372}{}{I've never had to endure such a scam before. Goodbye, miser.}
 {372}{}{我以前从未忍受过这样的骗局。再见，吝啬鬼。}
 ### {373}{}{Thank you, that's enough. And I'll sell the gun in the next town. Happily.}
@@ -352,7 +352,7 @@
 ### {414}{}{Your people, uh, fell to a wild brahmin. He was stronger than anyone could have imagined.}
 {414}{}{你们的人民，呃，堕落到一个野蛮的婆罗门。他比任何人想象的都强壮。}
 ### {415}{}{Damn it. No meat, no people. Eh, it looks like the hungry season is waiting for us again...}
-{415}{}{该死，没有肉，没有人。呃，看来饥饿的季节又在等着我们了。。。}
+{415}{}{该死，没有肉，没有人。呃，看来饥饿的季节又在等着我们了...}
 ### {416}{}{Is it really that bad?}
 {416}{}{真的那么糟糕吗？}
 ### {417}{}{So you know what really happened there. You're not going to talk about it, are you?}
@@ -406,7 +406,7 @@
 ### {440}{}{So, have the caravans from the south returned?}
 {440}{}{那么，南方的商队回来了吗？}
 ### {441}{}{Business is coming to life. Thanks to you, we are getting meat from the San Brahmin again. So hunger does not threaten the city. And the turnover of caps in the bar has also increased. Thanks! Here, take a hundred as a share of the deal.}
-{441}{}{商业正在复苏。多亏了你，我们又从圣婆罗门那里得到了肉。因此，饥饿不会威胁到这座城市。酒吧里的帽子营业额也有所增加。谢谢在这里，拿一百作为交易的一部分。}
+{441}{}{商业正在复苏。多亏了你，我们又从圣婆罗门那里得到了肉。因此，饥饿不会威胁到这座城市。酒吧里的瓶盖营业额也有所增加。谢谢在这里，拿一百作为交易的一部分。}
 ### {442}{}{You're welcome.}
 {442}{}{不客气。}
 ### {443}{}{The resumption of trade will increase the turnover of dried meat and caps in the bar.}
@@ -414,7 +414,7 @@
 ### {444}{}{There will be no caravans. San Brahmin made an alliance with the Rangers.}
 {444}{}{不会有大篷车。圣婆罗门与游骑兵结盟。}
 ### {445}{}{It's bad... The city will not last long on the meat of coyotes and iguanas.}
-{445}{}{这很糟糕。。。这座城市靠郊狼和鬣蜥的肉撑不了多久。}
+{445}{}{这很糟糕...这座城市靠郊狼和鬣蜥的肉撑不了多久。}
 ### {446}{}{And what should we do now?}
 {446}{}{我们现在该怎么办？}
 ### {447}{}{So now buy meat from the rangers.}

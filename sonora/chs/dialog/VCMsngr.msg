@@ -3,7 +3,7 @@
 ### {101}{}{You see the boy is Chris' brother.}
 {101}{}{你看，这个男孩是克里斯的哥哥。}
 ### {102}{}{How do you control this thing? She's a little scary...}
-{102}{}{你是如何控制这件事的？她有点吓人。。。}
+{102}{}{你是如何控制这件事的？她有点吓人...}
 
 ### {200}{}{Hi.}
 {200}{}{你好}
@@ -23,7 +23,7 @@
 {207}{}{不，什么都没有。}
 
 ### {210}{}{Hi, I'm walking here...}
-{210}{}{嗨，我走在这里。。。}
+{210}{}{嗨，我走在这里...}
 ### {211}{}{It's more like you're bringing someone food.}
 {211}{}{这更像是你给别人带食物。}
 ### {212}{}{Aren't you lying? Okay, I'll believe it this time.}

@@ -1,7 +1,7 @@
 ### {100}{}{This is Arthur Carrington.}
 {100}{}{我是阿瑟·卡林顿。}
 ### {101}{}{You see the same archaeologist from Vault 27.}
-{101}{}{你看到的是27号金库的同一位考古学家。}
+{101}{}{你看到的是27号避难所的同一位考古学家。}
 
 #The first dialog
 ### {200}{}{It's good to see you again. I have to thank you for the honor. Your Villa opens up new facets for my research work. And I'm already amazed at new discoveries! The way you cope without high technology - it amazes every understanding. Although some technologies should be brought back into use.}

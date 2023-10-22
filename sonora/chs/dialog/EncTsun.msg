@@ -14,7 +14,7 @@
 ### {114}{}{The program tells me to kill.}
 {114}{}{程序告诉我杀。}
 ### {115}{}{I'm a machine, I'm a machine, I'm not a person...}
-{115}{}{我是一台机器，我是一部机器，我不是一个人。。。}
+{115}{}{我是一台机器，我是一部机器，我不是一个人...}
 ### {116}{}{This voice in my head does not allow me to execute the program!}
 {116}{}{我脑子里的这个声音不允许我执行程序！}
 ### {117}{}{I'm just a variable in a big program. Don't stop her from working!}

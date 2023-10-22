@@ -7,6 +7,6 @@
 ### {103}{}{Bunks down and ready to fight!}
 {103}{}{蹲下来准备战斗！}
 ### {104}{}{I'll be damned if this tin can moves...}
-{104}{}{如果这个罐子能动，我会被诅咒的。。。}
+{104}{}{如果这个罐子能动，我会被诅咒的...}
 ### {105}{}{Okay, that's enough. It already looks silly.}
 {105}{}{好了，够了。它看起来已经很傻了。}

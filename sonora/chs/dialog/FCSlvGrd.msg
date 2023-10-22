@@ -13,7 +13,7 @@
 ### {112}{}{What are you doing here?}
 {112}{}{你在这里干什么？}
 ### {113}{}{Our colony is open to everyone... Well, you know.}
-{113}{}{我们的殖民地对所有人开放。。。嗯，你知道。}
+{113}{}{我们的殖民地对所有人开放...嗯，你知道。}
 ### {114}{}{You can make good money here.}
 {114}{}{你在这里可以赚很多钱。}
 ### {115}{}{They say that raid on the Villa brought excellent bottlecaps.}
@@ -43,7 +43,7 @@
 ### {126}{}{You weren't invited here.}
 {126}{}{你没有被邀请来这里。}
 ### {127}{}{Do you want to go to the pen? Now we'll arrange it for you...}
-{127}{}{你想去钢笔那儿吗？现在我们将为您安排。。。}
+{127}{}{你想去钢笔那儿吗？现在我们将为您安排...}
 ### {128}{}{Better not piss me off.}
 {128}{}{最好别惹我生气。}
 ### {129}{}{Don't linger.}

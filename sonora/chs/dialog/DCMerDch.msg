@@ -7,24 +7,24 @@
 ### {103}{}{Wow, how do you go to the toilet in this thing?}
 {103}{}{哇，你怎么穿着这东西上厕所的？}
 ### {104}{}{Daddy... daddy... he's gone...}
-{104}{}{爸爸。。。爸爸。。。他走了。。。}
+{104}{}{爸爸...爸爸...他走了...}
 ### {105}{}{Where did you get THIS? Hide it immediately before anyone sees it. Dad's bodyguards immediately shoot at any highway worker.}
 {105}{}{你从哪里得到的？在任何人看到它之前立即把它藏起来。爸爸的保镖立即向任何高速公路工作人员开枪。}
 ### {106}{}{What's going on? Where's my dad?}
 {106}{}{怎么回事？我爸爸在哪里？}
 
 ### {110}{}{Z-z-z...}
-{110}{}{Z-Z-Z。。。}
+{110}{}{Z-Z-Z...}
 ### {111}{}{Hr-r...}
-{111}{}{小时-小时。。。}
+{111}{}{小时-小时...}
 ### {112}{}{...Daddy, it's too early...}
-{112}{}{…爸爸，现在还为时过早。。。}
+{112}{}{…爸爸，现在还为时过早...}
 ### {113}{}{...It's not a dream...}
-{113}{}{…这不是梦。。。}
+{113}{}{…这不是梦...}
 ### {114}{}{I'm... dreaming...}
-{114}{}{我是做梦。。。}
+{114}{}{我是做梦...}
 ### {115}{}{...It's... a dream...}
-{115}{}{…这是…一个梦。。。}
+{115}{}{…这是…一个梦...}
 ### {116}{}{Do you know what time it is now?}
 {116}{}{你知道现在几点了吗？}
 ### {117}{}{I want to sleep.}
@@ -41,11 +41,11 @@
 ### {122}{}{Maybe offer that newcomer a poker game?}
 {122}{}{也许给那个新人一场扑克游戏？}
 ### {123}{}{We need to ask for more caps from Daddy.}
-{123}{}{我们需要向爸爸要更多的帽子。}
+{123}{}{我们需要向爸爸要更多的瓶盖。}
 ### {124}{}{Nothing, Daddy will forgive me.}
 {124}{}{没什么，爸爸会原谅我的。}
 ### {125}{}{Eh, how boring...}
-{125}{}{呃，好无聊。。。}
+{125}{}{呃，好无聊...}
 ### {126}{}{What would you like to do?}
 {126}{}{你想做什么？}
 ### {127}{}{Water, caps. caps, water. They can't think of anything else?}
@@ -56,7 +56,7 @@
 {129}{}{没有酒吧真的很无聊。}
 
 ### {130}{}{Ah...}
-{130}{}{啊。。。}
+{130}{}{啊...}
 ### {131}{}{*Sigh*}
 {131}{}{*叹气*}
 ### {132}{}{I don't even want to play cards.}
@@ -78,7 +78,7 @@
 ### {200}{}{Oh, hello. New faces are always so interesting. My name is Kristina. Are you here for a long time?}
 {200}{}{哦，你好。新面孔总是那么有趣。我的名字叫克里斯蒂娜。你在这里很长时间了吗？}
 ### {201}{}{Well, I...}
-{201}{}{嗯，我。。。}
+{201}{}{嗯，我...}
 ### {202}{}{Come on, stay, it's good here. Although the city, of course, is boring. I'm just dying without gambling.}
 {202}{}{来吧，留下来，这里很好。当然，尽管这个城市很无聊。没有赌博我就要死了。}
 ### {203}{}{Not a bad idea, but I need to talk to the mayor.}
@@ -113,7 +113,7 @@
 ### {220}{}{Oh, hello. Do you want to play cards?}
 {220}{}{哦，你好。你想打牌吗？}
 ### {221}{}{Let's play. I'm putting 10 caps on.}
-{221}{}{让我们玩吧。我要戴10顶帽子。}
+{221}{}{让我们玩吧。我要戴10个瓶盖。}
 ### {222}{}{Oh, hi. Do you want to play cards? I haven't played with anyone for so long that I'm dying of boredom.}
 {222}{}{哦，嗨。你想打牌吗？我好久没和任何人玩了，无聊得要死了。}
 ### {223}{}{Sorry, but I don't gamble.}
@@ -135,19 +135,19 @@
 ### {231}{}{What a pity. Okay, go solve your *important things*.}
 {231}{}{真遗憾。好吧，去解决你的“重要事情”。}
 ### {232}{}{You know, it's time for me to relax. I'll put 10 caps on.}
-{232}{}{你知道，是时候让我放松了。我要戴10顶帽子。}
+{232}{}{你知道，是时候让我放松了。我要戴10个瓶盖。}
 ### {233}{}{Uh, bye.}
 {233}{}{再见。}
 ### {234}{}{OK, let's play. I put 10 caps.}
-{234}{}{好的，让我们玩吧。我戴了10顶帽子。}
+{234}{}{好的，让我们玩吧。我戴了10个瓶盖。}
 ### {235}{}{Great. This is already intriguing...}
-{235}{}{太棒了这已经很有趣了。。。}
+{235}{}{太棒了这已经很有趣了...}
 ### {236}{}{And he will do the right thing. Stop wasting his capital.}
 {236}{}{他会做正确的事。别再浪费他的资本了。}
 ### {237}{}{See you later. Don't miss.}
 {237}{}{回头见。不要错过。}
 ### {238}{}{Oops. And where are my bottlecaps...}
-{238}{}{哎呀。我的水瓶在哪里。。。}
+{238}{}{哎呀。我的水瓶在哪里...}
 ### {239}{}{[Start the game]}
 {239}{}{[开始游戏]}
 ### {240}{}{Hurray! The card went!}
@@ -221,7 +221,7 @@
 {327}{}{我明白了。不要灰心。}
 
 ### {330}{}{Oh, it's you... They killed my dad, do you know?}
-{330}{}{哦，是你。。。他们杀了我爸爸，你知道吗？}
+{330}{}{哦，是你...他们杀了我爸爸，你知道吗？}
 ### {331}{}{Yes, I saw it with my own eyes. How are you?}
 {331}{}{是的，我亲眼看到了。你好吗}
 ### {1331}{}{Yes, I saw it with my own eyes. How are you?}
@@ -231,7 +231,7 @@
 ### {333}{}{Stop being a naive fool, open your eyes - any power is violence. Your daddy is just an example.}
 {333}{}{别再做一个天真的傻瓜了，睁开你的眼睛——任何力量都是暴力。你爸爸只是一个例子。}
 ### {334}{}{I understand... Perhaps he was a tyrant and committed terrible atrocities. But for me, he was a loving dad. He always tolerated my whims and gave me the best. How could it have turned out like this?}
-{334}{}{我明白。。。也许他是个暴君，犯下了可怕的暴行。但对我来说，他是个慈爱的父亲。他总是容忍我的奇思妙想，给我最好的。怎么会变成这样？}
+{334}{}{我明白...也许他是个暴君，犯下了可怕的暴行。但对我来说，他是个慈爱的父亲。他总是容忍我的奇思妙想，给我最好的。怎么会变成这样？}
 ### {335}{}{Welcome to the world of reality, baby. A world built on blood.}
 {335}{}{欢迎来到现实世界，宝贝。一个建立在鲜血之上的世界。}
 ### {336}{}{Yes. Now I understand. And I will do everything so that this does not happen again.}
@@ -257,7 +257,7 @@
 ### {345}{}{Goodbye.}
 {345}{}{再见}
 ### {346}{}{Oh, it's you... I am eternally grateful to you for saving me.}
-{346}{}{哦，是你。。。我永远感激你救了我。}
+{346}{}{哦，是你...我永远感激你救了我。}
 ### {347}{}{Then why do you have such a sad face?}
 {347}{}{那你为什么有一张如此悲伤的脸？}
 ### {348}{}{Hey, where's that gambling look of a naive girl?}

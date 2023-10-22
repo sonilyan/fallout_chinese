@@ -27,7 +27,7 @@
 ### {230}{}{The Los Panchos Gang.}
 {230}{}{洛斯潘乔斯帮。}
 ### {231}{}{Attention! Especially dangerous criminals are wanted - the atamans of the Los Panchos gang. (their portraits are attached) Payment of 500 caps per head of each.}
-{231}{}{注意特别危险的罪犯被通缉——洛斯潘乔斯团伙的共济会成员。（附上他们的肖像）每人支付500顶帽子。}
+{231}{}{注意特别危险的罪犯被通缉——洛斯潘乔斯团伙的共济会成员。（附上他们的肖像）每人支付500个瓶盖。}
 ### {232}{}{Hernando Aviles.}
 {232}{}{埃尔南多·阿维莱斯。}
 ### {233}{}{[Crossed out] Hernando Aviles.}
@@ -50,14 +50,14 @@
 ### {250}{}{Gil McCord is wanted.}
 {250}{}{吉尔·麦考德被通缉。}
 ### {251}{}{The former shooter Gil McCord is wanted for attacks on representatives of the mercenary guild. Reward 750 caps for dead or alive.}
-{251}{}{前枪手吉尔·麦考德因袭击雇佣兵协会代表而被通缉。奖励750顶死亡或活着的帽子。}
+{251}{}{前枪手吉尔·麦考德因袭击雇佣兵协会代表而被通缉。奖励750顶死亡或活着的瓶盖。}
 ### {252}{}{[Crossed out] Gil McCord is wanted.}
 {252}{}{吉尔·麦考德被通缉。}
 
 ### {260}{}{Wanted }
 {260}{}{受通缉的}
 ### {261}{}{ from the Villa... what?}
-{261}{}{从别墅。。。什么}
+{261}{}{从别墅...什么}
 ### {262}{}{Wanted for numerous crimes against Phoenix residents. Any contact with this person can cost you your life.}
 {262}{}{因对凤凰城居民犯下多项罪行而被通缉。与这个人的任何接触都可能让你付出生命的代价。}
 ### {263}{}{Wanted for numerous crimes against the Church of the Sacred Fire. Any contact with this heretic can cost you your reputation and well-being.}

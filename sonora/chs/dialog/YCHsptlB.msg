@@ -3,21 +3,21 @@
 ### {101}{}{You see an ordinary ghoul.}
 {101}{}{你看到一个普通的食尸鬼。}
 ### {102}{}{Z-z-z...}
-{102}{}{Z-Z-Z。。。}
+{102}{}{Z-Z-Z...}
 
 ### {110}{}{Oh...}
 {110}{}{哦}
 ### {111}{}{Ah...}
-{111}{}{啊。。。}
+{111}{}{啊...}
 ### {112}{}{It hurts...}
-{112}{}{很疼。。。}
+{112}{}{很疼...}
 ### {113}{}{It still hurts...}
-{113}{}{它仍然很痛。。。}
+{113}{}{它仍然很痛...}
 
 ### {200}{}{Hey, man, help me! I just got caught in a landslide a little bit and broke a couple of bones. These old houses are no good at all...}
-{200}{}{嘿，伙计，帮帮我！我刚刚遇到山体滑坡，摔断了几块骨头。这些老房子一点也不好。。。}
+{200}{}{嘿，伙计，帮帮我！我刚刚遇到山体滑坡，摔断了几块骨头。这些老房子一点也不好...}
 ### {201}{}{Hey, buddy, help me! I just got caught in a landslide a little bit and broke a couple of bones. These old houses are no good at all...}
-{201}{}{嘿，伙计，帮帮我！我刚刚遇到山体滑坡，摔断了几块骨头。这些老房子一点也不好。。。}
+{201}{}{嘿，伙计，帮帮我！我刚刚遇到山体滑坡，摔断了几块骨头。这些老房子一点也不好...}
 ### {202}{}{Oh my God! Don't move, I'll help you now!}
 {202}{}{天啊！别动，我现在就帮你！}
 ### {203}{}{Daydreaming. I don't even want to dirty my hands about such a freak.}

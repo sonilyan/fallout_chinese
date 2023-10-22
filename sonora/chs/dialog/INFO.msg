@@ -140,7 +140,7 @@
 ### {304}{}{Your eyes are crippled! You are suffering from unbearable pain.}
 {304}{}{你的眼睛残废了！你正遭受着难以忍受的痛苦。}
 ### {305}{}{Ugh, it's going to take a very long time to heal...}
-{305}{}{呃，这需要很长时间才能痊愈。。。}
+{305}{}{呃，这需要很长时间才能痊愈...}
 
 #---------------------------------------------
 # Messages in battle
@@ -249,7 +249,7 @@
 ### {412}{}{ succumbs to the harmful effects of the chemical and becomes enraged.}
 {412}{}{屈服于化学物质的有害影响而变得愤怒。}
 ### {413}{}{Alcohol? Not interested...}
-{413}{}{含酒精饮料不感兴趣。。。}
+{413}{}{含酒精饮料不感兴趣...}
 ### {414}{}{That's what I've been missing!}
 {414}{}{这就是我一直错过的！}
 ### {415}{}{It is not necessary to tease the members of the Brotherhood with their own rations. You may be mistaken for a thief.}
@@ -385,7 +385,7 @@
 ### {480}{}{Usually keys are used on locks.}
 {480}{}{通常钥匙用在锁上。}
 ### {481}{}{Amazingly. And as soon as it occurred to you...}
-{481}{}{令人惊奇。你一想到。。。}
+{481}{}{令人惊奇。你一想到...}
 ### {482}{}{The weapon should be used in combat mode, holding it in your hands.}
 {482}{}{武器应该在战斗模式下使用，拿在手里。}
 ### {483}{}{With the help of a surgical kit, you have cured all your injuries.}
@@ -451,7 +451,7 @@
 ### {516}{}{Power armor alarms your interlocutor.}
 {516}{}{力量盔甲会提醒对话者。}
 ### {517}{}{...}
-{517}{}{。。。}
+{517}{}{...}
 ### {518}{}{It seems this robot can't talk.}
 {518}{}{这个机器人好像不会说话。}
 ### {519}{}{This person refuses to obey you.}

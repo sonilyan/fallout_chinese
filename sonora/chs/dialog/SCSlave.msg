@@ -26,9 +26,9 @@
 {1114}{}{不管你说什么，塞诺拉。}
 
 ### {200}{}{What can I do for you, se?or... Oh, you're not from the Brotherhood. Then you better not talk to me, paladins don't like it.}
-{200}{}{我能为你做什么，塞诺。。。哦，你不是兄弟会的。那你最好别跟我说话，圣骑士们不喜欢。}
+{200}{}{我能为你做什么，塞诺...哦，你不是兄弟会的。那你最好别跟我说话，圣骑士们不喜欢。}
 ### {1200}{}{What can I do for you, se?ora... Oh, you're not from the Brotherhood. Then you better not talk to me, paladins don't like it.}
-{1200}{}{我能为你做什么，塞诺拉。。。哦，你不是兄弟会的。那你最好别跟我说话，圣骑士们不喜欢。}
+{1200}{}{我能为你做什么，塞诺拉...哦，你不是兄弟会的。那你最好别跟我说话，圣骑士们不喜欢。}
 ### {201}{}{Why?}
 {201}{}{为什么？}
 ### {202}{}{They're always imagining a conspiracy. And when they find a reason, they arrange inspections and even a public flogging. Here with this strictly. One was recently drowned for stealing food from the supreme Paladin. I don't want to be in his place.}
@@ -55,7 +55,7 @@
 ### {218}{}{Go away or I'll call the paladins!}
 {218}{}{走开，否则我会叫圣骑士的！}
 ### {219}{}{Gr-r...}
-{219}{}{Gr-r。。。}
+{219}{}{Gr-r...}
 
 ### {220}{}{Who are you? You're not in the Brotherhood, are you?}
 {220}{}{你是谁？你不在兄弟会，是吗？}
@@ -68,7 +68,7 @@
 ### {223}{}{Prisoner? But why are you being held against your will?}
 {223}{}{囚犯但为什么你被强行关押？}
 ### {224}{}{I just took a couple of ears from the plantation... Well, a couple of fruits... Actually, not a couple, but a whole bag... But I had to eat something! Now I'm working on the ship until I've served my sentence.}
-{224}{}{我刚从种植园里摘了几只耳朵。。。好吧，几个水果。。。事实上，不是一对，而是一整袋。。。但我不得不吃点东西！现在我在船上工作，直到我刑满为止。}
+{224}{}{我刚从种植园里摘了几只耳朵...好吧，几个水果...事实上，不是一对，而是一整袋...但我不得不吃点东西！现在我在船上工作，直到我刑满为止。}
 ### {225}{}{And are there many people like you serving a sentence here?}
 {225}{}{还有很多像你一样的人在这里服刑吗？}
 ### {226}{}{Only a few servants are kept on the ship, the rest work in different places - on plantations, in ruins, in a cement factory, building houses or simply dragging goods across the desert. I was luckier than them.}

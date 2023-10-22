@@ -42,7 +42,7 @@
 ### {218}{}{It's not like you're focusing on your prayer.}
 {218}{}{这不像你在专注于你的祈祷。}
 ### {219}{}{Urh... If someone didn't interfere with my meditation, it would be easier.}
-{219}{}{呃。。。如果没有人干扰我的冥想，那会更容易。}
+{219}{}{呃...如果没有人干扰我的冥想，那会更容易。}
 ### {220}{}{So prayer or meditation? You seem confused.}
 {220}{}{祈祷还是冥想？你看起来很困惑。}
 ### {221}{}{Hmm. Your persistence is like the persistence of a louse in an old cassock. What do you need?}
@@ -71,17 +71,17 @@
 ### {1250}{}{I came on behalf of Marcos.}
 {1250}{}{我是代表马科斯来的。}
 ### {251}{}{Marcos... Who is this?}
-{251}{}{马科斯。。。这是谁？}
+{251}{}{马科斯...这是谁？}
 ### {252}{}{How, he was supposed to contact you?}
 {252}{}{他是怎么联系你的？}
 ### {253}{}{Your uncertainty is like an atomic moan in the belly of a mushroom cloud. Go away and come back only when you organize your thoughts.}
 {253}{}{你的不确定性就像蘑菇云中的原子呻吟。只有当你整理好自己的想法时，你才能离开并回来。}
 ### {254}{}{Uh, okay...}
-{254}{}{好吧。。。}
+{254}{}{好吧...}
 ### {255}{}{You know who I mean. The one who sits in the subway and wants the same revenge with you.}
 {255}{}{你知道我的意思。那个坐在地铁里想要和你一样复仇的人。}
 ### {256}{}{Yes, of course... Revenge... The base feeling of atomic beings dragging out a miserable existence. Don't you dare compare me to you, the inhabitants of the fetid sewers. My whole being is oppressed only by the thought of what Aaron did to the church of the Sacred Fire.}
-{256}{}{是的，当然。。。报复原子生物拖着悲惨的生活的基本感觉。恶臭下水道的居民们，你们不敢把我比作你们。一想到亚伦对圣火教堂所做的一切，我整个人都感到压抑。}
+{256}{}{是的，当然...报复原子生物拖着悲惨的生活的基本感觉。恶臭下水道的居民们，你们不敢把我比作你们。一想到亚伦对圣火教堂所做的一切，我整个人都感到压抑。}
 ### {257}{}{So are you against his policy?}
 {257}{}{你反对他的政策吗？}
 ### {258}{}{We don't care about your motives. The main thing is that we have one goal.}
@@ -165,7 +165,7 @@
 ### {316}{}{You should be concerned about the library records right now. You obviously followed the novices.}
 {316}{}{你现在应该关心图书馆的记录。你显然跟在新手后面。}
 ### {317}{}{It's not what you think...}
-{317}{}{这不是你想的。。。}
+{317}{}{这不是你想的...}
 ### {318}{}{I can convince Aaron to do a full search of your belongings and contacts. What do you say to that?}
 {318}{}{我可以说服亚伦对你的物品和联系人进行全面搜查。你对此怎么说？}
 ### {319}{}{You're trying my patience, nuclear worm. Get out.}
@@ -187,7 +187,7 @@
 
 #Dialogue in the confessional
 ### {330}{}{I have to say, I didn't expect a newcomer from the wasteland to be able to unravel this case. I managed to hide my actions even from Aaron. But you...}
-{330}{}{我不得不说，我没想到一个来自荒原的新人能够解开这个案子。我甚至对亚伦隐瞒了自己的行为。但是你。。。}
+{330}{}{我不得不说，我没想到一个来自荒原的新人能够解开这个案子。我甚至对亚伦隐瞒了自己的行为。但是你...}
 ### {331}{}{But why do you, a servant of Aaron, help his enemies?}
 {331}{}{但你作为亚伦的仆人，为什么帮助他的敌人呢？}
 ### {332}{}{Under Aaron's leadership, the church changed its beliefs. The stronghold of holiness and wisdom has become a receptacle of sin. I can't look at it anymore.}
@@ -227,9 +227,9 @@
 ### {348}{}{It's stupid. I'll tell Aaron everything.}
 {348}{}{这太愚蠢了。我会把一切都告诉亚伦。}
 ### {349}{}{In that case, you leave me no choice. May the Sacred Fire forgive us...}
-{349}{}{那样的话，你让我别无选择。愿圣火宽恕我们。。。}
+{349}{}{那样的话，你让我别无选择。愿圣火宽恕我们...}
 ### {350}{}{Er...}
-{350}{}{呃。。。}
+{350}{}{呃...}
 ### {351}{}{OK, I agree. It will be interestaing to hear the other side of the conflict.}
 {351}{}{好的，我同意。听听冲突的另一方的意见会很有意思。}
 ### {1351}{}{OK, I agree. It will be interestaing to hear the other side of the conflict.}

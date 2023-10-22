@@ -3,7 +3,7 @@
 ### {101}{}{You see a neat man in a suit. For a while you watch in fascination how deftly he shuffles the cards.}
 {101}{}{你看到一个穿着西装的整洁男人。有一段时间，你会着迷地看着他如何灵巧地洗牌。}
 ### {102}{}{Uh, I'm afraid you won't be able to hold the cards in THIS...}
-{102}{}{呃，恐怕你拿不住这张牌了。。。}
+{102}{}{呃，恐怕你拿不住这张牌了...}
 ### {103}{}{Sorry, sir, I'm forbidden to serve you.}
 {103}{}{对不起，先生，我被禁止为您服务。}
 ### {1103}{}{Sorry, ma'am, But I'm not allowed to serve you.}
@@ -104,13 +104,13 @@
 ### {247}{}{Pass.}
 {247}{}{通过}
 ### {248}{}{The first player skips a card. We continue the distribution ...}
-{248}{}{第一个玩家跳过一张牌。我们继续分发。。。}
+{248}{}{第一个玩家跳过一张牌。我们继续分发...}
 ### {249}{}{[Continue playing]}
 {249}{}{[继续播放]}
 ### {250}{}{More.}
 {250}{}{更多}
 ### {251}{}{The first player takes a card...}
-{251}{}{第一个玩家拿一张牌。。。}
+{251}{}{第一个玩家拿一张牌...}
 ### {252}{}{[Continue playing]}
 {252}{}{[继续播放]}
 

@@ -21,7 +21,7 @@
 ### {210}{}{You're bad! You're a terrible person! Let that monster devour you!}
 {210}{}{你太坏了！你是个可怕的人！让那个怪物吞噬你！}
 ### {211}{}{Better shut up...}
-{211}{}{最好闭嘴。。。}
+{211}{}{最好闭嘴...}
 
 ### {220}{}{We're not going to die, are we?}
 {220}{}{我们不会死的，是吗？}

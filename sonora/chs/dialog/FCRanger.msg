@@ -91,7 +91,7 @@
 ### {241}{}{So what, you're not going to shoot?}
 {241}{}{那又怎样，你不打算开枪？}
 ### {242}{}{What an idiotic answer... (preparing to shoot)}
-{242}{}{多么愚蠢的回答。。。（准备拍摄）}
+{242}{}{多么愚蠢的回答...（准备拍摄）}
 ### {243}{}{Stop, stop, stop! I'm really here for another reason.}
 {243}{}{停下，停下，停下！我来这里还有另一个原因。}
 ### {244}{}{[Parry the attack]}
@@ -106,7 +106,7 @@
 ### {260}{}{The bounty hunter. They say there's a good reward for yours.}
 {260}{}{赏金猎人。他们说你的报酬很高。}
 ### {261}{}{It's true. Faber is haunted by the fact that there is a higher justice over him. Well, your death will serve as a reminder to him...}
-{261}{}{这是真的。费伯被这样一个事实所困扰，那就是他身上有更高的正义。你的死会提醒他。。。}
+{261}{}{这是真的。费伯被这样一个事实所困扰，那就是他身上有更高的正义。你的死会提醒他...}
 ### {262}{}{Then let's start the fun.}
 {262}{}{那我们开始玩吧。}
 ### {263}{}{Wait, I don't want to fight you.}
@@ -172,7 +172,7 @@
 ### {316}{}{You need a spy in town, don't you?}
 {316}{}{你在城里需要一个间谍，不是吗？}
 ### {317}{}{Hmm, maybe... Go around doorways and don't touch the back door.}
-{317}{}{嗯，也许。。。绕过门口，不要碰后门。}
+{317}{}{嗯，也许...绕过门口，不要碰后门。}
 ### {318}{}{Thank you.}
 {318}{}{非常感谢。}
 ### {319}{}{No.}
@@ -216,13 +216,13 @@
 ### {343}{}{There are not many people of my tribe left. You've hardly heard of us.}
 {343}{}{我部落的人已经不多了。你几乎没听说过我们。}
 ### {344}{}{Sounds like an Indian name. Mojave, Hopi... Navajo?}
-{344}{}{听起来像个印度人的名字。莫哈韦，霍皮。。。纳瓦霍？}
+{344}{}{听起来像个印度人的名字。莫哈韦，霍皮...纳瓦霍？}
 ### {345}{}{Hmm. I'm surprised. Usually our tribes stayed hidden from the white people after the Fire Rain. I left the Reservation when the slavers came.}
 {345}{}{嗯，我很惊讶。通常，我们的部落在“火雨”过后对白人隐藏起来。奴隶贩子来的时候我离开了保留地。}
 ### {346}{}{Our stories have something in common. My village was also enslaved and burned.}
 {346}{}{我们的故事有一些共同点。我的村庄也被奴役和焚烧。}
 ### {347}{}{I'm sorry... (puts some rifle cartridges in your hands) You should get revenge.}
-{347}{}{对不起。。。（把一些步枪子弹放在手里）你应该报仇。}
+{347}{}{对不起...（把一些步枪子弹放在手里）你应该报仇。}
 ### {348}{}{Uh, thanks.}
 {348}{}{谢谢。}
 ### {349}{}{Absolutely.}
@@ -308,7 +308,7 @@
 ### {412}{}{I won't rest until Roy Faber breathes the air of Arizona. And while there are people in his pen.}
 {412}{}{我不会休息，直到罗伊·费伯呼吸亚利桑那州的空气。当他的笔里有人的时候。}
 ### {413}{}{Faber's death or the prisoners' escape? You have serious ambitions...}
-{413}{}{费伯之死还是犯人逃跑？你有雄心壮志。。。}
+{413}{}{费伯之死还是犯人逃跑？你有雄心壮志...}
 ### {414}{}{So it was you who shot the patrolmen from the garrison?}
 {414}{}{所以是你射杀了驻军的巡警？}
 ### {415}{}{That's right. They got what they deserved.}
@@ -351,7 +351,7 @@
 ### {459}{}{Well, yes, you kept radio silence, so you don't know yet that the dam is washed out.}
 {459}{}{嗯，是的，你保持了无线电静默，所以你还不知道大坝被冲走了。}
 ### {460}{}{This is very bad news... I'll have to contact the outpost. If they confirm your words there, I will return to the base.}
-{460}{}{这是个非常坏的消息。。。我必须联系前哨站。如果他们在那里证实了你的话，我会回到基地。}
+{460}{}{这是个非常坏的消息...我必须联系前哨站。如果他们在那里证实了你的话，我会回到基地。}
 ### {461}{}{That's settled.}
 {461}{}{这就解决了。}
 ### {462}{}{The general demands to return to the base. This is an order.}
@@ -375,7 +375,7 @@
 ### {471}{}{No. You're just obsessed with your past.}
 {471}{}{不，你只是痴迷于你的过去。}
 ### {472}{}{What do you know about my past? I fought so much that I forgot about peace... Home, family... They are gone because of scum like Faber!}
-{472}{}{你对我的过去了解多少？我打了那么多仗，以至于忘记了和平。。。家，家人。。。他们离开是因为费伯这样的人渣！}
+{472}{}{你对我的过去了解多少？我打了那么多仗，以至于忘记了和平...家，家人...他们离开是因为费伯这样的人渣！}
 ### {473}{}{Stop killing. Go back to your people. They need you.}
 {473}{}{停止杀戮。回到你的人身边。他们需要你。}
 ### {474}{}{Well, if that's the case, then I can't convince you otherwise. Fight on.}
@@ -383,9 +383,9 @@
 ### {475}{}{I'm staying.}
 {475}{}{我要留下来。}
 ### {476}{}{It looks like I was really obsessed. But the general warned... Okay I will leave Flagstaff and return to base. Thanks, buddy.}
-{476}{}{看起来我真的很着迷。但是将军警告说。。。好的，我将离开弗拉格斯塔夫返回基地。谢谢，伙计。}
+{476}{}{看起来我真的很着迷。但是将军警告说...好的，我将离开弗拉格斯塔夫返回基地。谢谢，伙计。}
 ### {1476}{}{It looks like I was really obsessed. But the general warned... Okay I will leave Flagstaff and return to base. Thank you, girlfriend.}
-{1476}{}{看起来我真的很着迷。但是将军警告说。。。好的，我将离开弗拉格斯塔夫返回基地。谢谢你，女朋友。}
+{1476}{}{看起来我真的很着迷。但是将军警告说...好的，我将离开弗拉格斯塔夫返回基地。谢谢你，女朋友。}
 ### {477}{}{Good luck.}
 {477}{}{祝你好运}
 ### {478}{}{Better hurry up.}
@@ -394,7 +394,7 @@
 ### {480}{}{Faber is dead. Is that enough for you?}
 {480}{}{费伯死了。这对你来说够了吗？}
 ### {481}{}{So is it true? (inhales noisily and pauses) You know, I don't feel anything about this. It seemed to me that having eradicated evil, I would find peace. But now I finally understand. A new one will take the place of one Faber. And so it will continue again and again... Because people don't change. The General was right when he said I was possessed. Thanks for the help. I have to get back to base.}
-{481}{}{那么这是真的吗？（大声吸气，停顿了一下）你知道，我对此没有任何感觉。在我看来，铲除了邪恶，我会找到平静。但现在我终于明白了。一个新的将取代一个Faber。因此，它将一次又一次地继续。。。因为人们不会改变。将军说我走火入魔是对的。谢谢你的帮助。我必须回到基地。}
+{481}{}{那么这是真的吗？（大声吸气，停顿了一下）你知道，我对此没有任何感觉。在我看来，铲除了邪恶，我会找到平静。但现在我终于明白了。一个新的将取代一个Faber。因此，它将一次又一次地继续...因为人们不会改变。将军说我走火入魔是对的。谢谢你的帮助。我必须回到基地。}
 ### {482}{}{Ugh, it's good that we solved this issue.}
 {482}{}{啊，我们解决了这个问题真是太好了。}
 ### {483}{}{Yeah, go ahead.}

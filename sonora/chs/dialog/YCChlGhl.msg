@@ -10,7 +10,7 @@
 {104}{}{食尸鬼自己应该受到谴责。这堆东西与它无关。}
 
 ### {200}{}{Hr-r-r... h-man... a ghoul... fear...}
-{200}{}{小时-小时。。。h-man。。。一个食尸鬼。。。害怕}
+{200}{}{小时-小时...h-man...一个食尸鬼...害怕}
 ### {201}{}{I'm a friend, I want to help you.}
 {201}{}{我是朋友，我想帮助你。}
 ### {202}{}{... friend... love... life...}
@@ -18,7 +18,7 @@
 ### {203}{}{Yes, yes, your ghoul friends are worried about you. Let's go to them, they'll take care of you.}
 {203}{}{是的，是的，你的食尸鬼朋友很担心你。我们去找他们吧，他们会照顾你的。}
 ### {204}{}{Gonzo... wants... to friends...}
-{204}{}{极不寻常的想要。。。给朋友。。。}
+{204}{}{极不寻常的想要...给朋友...}
 ### {205}{}{Let's go right now before you change your mind.}
 {205}{}{在你改变主意之前，我们现在就走吧。}
 ### {206}{}{No, no, it will work right now. Wait here a bit.}

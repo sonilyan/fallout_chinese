@@ -21,7 +21,7 @@
 ### {206}{}{Don Diego, listen to me. The community I came from fell victim to the slavers. I'm trying to get it back the way it was.}
 {206}{}{圣地亚哥，听我说，我所在的社区成了奴隶贩子的牺牲品。我正在努力恢复原状。}
 ### {207}{}{So why don't you ask Aaron himself for help? As far as I know, it is his cult that supplies caps to slavers in various colonies. I can't and don't want to help you.}
-{207}{}{那你为什么不向亚伦本人寻求帮助呢？据我所知，正是他的崇拜为各个殖民地的奴隶主提供了帽子。我不能也不想帮助你。}
+{207}{}{那你为什么不向亚伦本人寻求帮助呢？据我所知，正是他的崇拜为各个殖民地的奴隶主提供了瓶盖。我不能也不想帮助你。}
 ### {208}{}{Sorry to hear that. Goodbye, Don Diego.}
 {208}{}{很抱歉听到这个消息。再见，唐·迭戈。}
 ### {209}{}{Curious. Are you asking for my help?}
@@ -95,7 +95,7 @@
 ### {304}{}{Breaking in with an interrogation has become the norm for Followers? Okay, I'll answer out of respect for the church that feeds the city.}
 {304}{}{闯入审讯已经成为追随者们的常态？好吧，我会出于对为城市提供食物的教堂的尊重而回答。}
 ### {305}{}{Great, let me open the notebook... Here we go.}
-{305}{}{太好了，让我打开笔记本。。。我们开始吧。}
+{305}{}{太好了，让我打开笔记本...我们开始吧。}
 ### {306}{}{Ya. Nothing. I don't know.}
 {306}{}{是的。没有什么我不知道。}
 ### {307}{}{Uh, what?}
@@ -131,4 +131,4 @@
 ### {321}{}{A reasonable remark. I should think about it.}
 {321}{}{一句合理的话。我应该好好想想。}
 ### {322}{}{Well organized and armed. Just like your casino... No, no, I'm not accusing you of anything. Farewell, Don Diego.}
-{322}{}{组织严密，武装精良。就像你的赌场一样。。。不，不，我没有指责你。再见了，唐·迭戈。}
+{322}{}{组织严密，武装精良。就像你的赌场一样...不，不，我没有指责你。再见了，唐·迭戈。}

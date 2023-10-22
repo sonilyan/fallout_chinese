@@ -34,7 +34,7 @@
 {212}{}{后来}
 
 ### {213}{}{Oh... (studies your ghoulish appearance in dismay) You... Are you sick of anything? Look, don't infect anyone here.}
-{213}{}{哦（沮丧地研究着你那令人毛骨悚然的样子）你。。。你厌倦什么了吗？听着，不要感染这里的任何人。}
+{213}{}{哦（沮丧地研究着你那令人毛骨悚然的样子）你...你厌倦什么了吗？听着，不要感染这里的任何人。}
 ### {214}{}{Don't worry about that.}
 {214}{}{别担心。}
 
@@ -149,7 +149,7 @@
 ### {274}{}{Then I want to know too.}
 {274}{}{那我也想知道。}
 ### {275}{}{Are you really interested? It's an old story. I was a child when our camp was attacked by bandits...}
-{275}{}{你真的感兴趣吗？这是一个古老的故事。当我们的营地遭到土匪袭击时，我还是个孩子。。。}
+{275}{}{你真的感兴趣吗？这是一个古老的故事。当我们的营地遭到土匪袭击时，我还是个孩子...}
 ### {276}{}{Go on.}
 {276}{}{继续}
 ### {277}{}{Uh, not now, we'll finish it another time.}
@@ -171,7 +171,7 @@
 ### {285}{}{Destroying a gang with traps and tricks alone is something incredible.}
 {285}{}{仅仅用陷阱和把戏摧毁一个帮派是不可思议的。}
 ### {286}{}{Pf, traps for weaklings. However, you were a teenager...}
-{286}{}{Pf，弱者的陷阱。然而，你还是个十几岁的孩子。。。}
+{286}{}{Pf，弱者的陷阱。然而，你还是个十几岁的孩子...}
 ### {287}{}{But after all this suffering, I realized that murder remains murder. The Wastelands don't need a man with a rifle, but law and order. And only the Rangers shared the same views. After the story with the bandits, I was accepted into the cadets without further ado.}
 {287}{}{但在经历了这么多痛苦之后，我意识到谋杀仍然是谋杀。荒原不需要一个带步枪的人，但需要法律和秩序。只有游骑兵队有相同的观点。在讲述了土匪的故事后，我毫不犹豫地被学员录取了。}
 ### {288}{}{That's the story.}
@@ -217,7 +217,7 @@
 ### {1315}{}{Damn it! Why did I trust such an idiot! Get out, otherwise I can't vouch for myself!}
 {1315}{}{该死！我为什么相信这样一个白痴！滚出去，否则我不能为自己担保！}
 ### {316}{}{Er...}
-{316}{}{呃。。。}
+{316}{}{呃...}
 
 ### {320}{}{Do you know that the quartermaster has lost a weapon from the warehouse?}
 {320}{}{你知道军需官丢失了仓库里的一件武器吗？}

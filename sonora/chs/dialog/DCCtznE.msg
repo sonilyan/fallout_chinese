@@ -26,7 +26,7 @@
 ### {209}{}{Shah! yEntonces hablas espa?ol? Gusto escuchar mi lengua matera! (Ah, so you speak Spanish? How glad I am to hear my native language!)}
 {209}{}{沙阿！你有空?ol？Gusto escuchar mi lengua matera！（啊，你会说西班牙语吗？听到我的母语我真高兴！）}
 ### {210}{}{Todo... est... bien?}
-{210}{}{Todo。。。est。。。比恩？}
+{210}{}{Todo...est...比恩？}
 ### {211}{}{Eh? quieres decir? No entiendo nada, habla m?s claro.}
 {211}{}{呃？quieres decir？没有完整的nada，habla m?s claro。}
 ### {212}{}{It's too complicated for my mind. Goodbye, old man.}

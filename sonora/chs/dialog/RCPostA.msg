@@ -100,7 +100,7 @@
 {251}{}{再见}
 
 ### {260}{}{I want to report a fugitive spy who is hiding in a shack on the old road...}
-{260}{}{我想报告一个在逃的间谍，他躲在旧路上的一个棚屋里。。。}
+{260}{}{我想报告一个在逃的间谍，他躲在旧路上的一个棚屋里...}
 ### {261}{}{...Thanks for the tip. We will send scouts there and try to catch the bastard by surprise.}
 {261}{}{…谢谢你的小费。我们将派侦察兵去那里，试图出其不意地抓住那个混蛋。}
 ### {262}{}{}
@@ -127,7 +127,7 @@
 ### {278}{}{Then shove this injustice back where it came from.}
 {278}{}{然后把这种不公正现象推回到原来的地方。}
 ### {279}{}{That's how it is...}
-{279}{}{事情就是这样。。。}
+{279}{}{事情就是这样...}
 ### {280}{}{Why don't you let this woman see the General?}
 {280}{}{你为什么不让这个女人见将军？}
 ### {281}{}{The General is too busy.}

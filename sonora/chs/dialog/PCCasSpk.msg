@@ -8,7 +8,7 @@
 {103}{}{等一下，保安不是在找你吗？哦，是的，你最好别去赌场。}
 
 ### {110}{}{Hey, do you need to lift the caps quickly?}
-{110}{}{嘿，你需要快点把帽子提起来吗？}
+{110}{}{嘿，你需要快点把瓶盖提起来吗？}
 ### {111}{}{Stop rummaging through the ruins! Here you will earn caps without leaving the place!}
 {111}{}{别在废墟中翻找了！在这里，您将足不出户即可获得上限！}
 ### {112}{}{The only casino in all of Arizona!}
@@ -18,7 +18,7 @@
 ### {114}{}{Uranium and caps! Caps and uranium!}
 {114}{}{铀和盖子！上限和铀！}
 ### {115}{}{Never before has the radiation sign meant a mountain of caps!}
-{115}{}{辐射标志从来没有意味着一座帽子山！}
+{115}{}{辐射标志从来没有意味着一座瓶盖山！}
 ### {116}{}{Come in, fortune's favorites.}
 {116}{}{进来吧，财富的宠儿。}
 ### {117}{}{Are you passing by? Maybe you're missing the last chance to get rich!}

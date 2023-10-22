@@ -22,7 +22,7 @@
 ### {208}{}{Well, I won't bother you.}
 {208}{}{好吧，我不会打扰你的。}
 ### {209}{}{It's better not to distract him...}
-{209}{}{最好不要分散他的注意力。。。}
+{209}{}{最好不要分散他的注意力...}
 
 ### {210}{}{What do you need, wasteland man?}
 {210}{}{你需要什么，荒原人？}
@@ -65,7 +65,7 @@
 ### {241}{}{So how about a little introductory course?}
 {241}{}{那么来点入门课程怎么样？}
 ### {242}{}{Do you know the basics of quantum mechanics? Then let's not waste time...}
-{242}{}{你知道量子力学的基础知识吗？那我们就不要浪费时间了。。。}
+{242}{}{你知道量子力学的基础知识吗？那我们就不要浪费时间了...}
 ### {243}{}{[Next]}
 {243}{}{[下一个]}
 ### {244}{}{The tinker turned out to be a demanding teacher. But he really taught you a lot.}

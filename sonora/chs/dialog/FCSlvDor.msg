@@ -7,7 +7,7 @@
 ### {103}{}{Until this guard comes to his senses, you can sneak into the pen.}
 {103}{}{在这个警卫苏醒过来之前，你可以偷偷溜进围栏。}
 ### {104}{}{Hr-r-r... Eh? Come in...}
-{104}{}{小时-小时。。。呃？进来吧}
+{104}{}{小时-小时...呃？进来吧}
 ### {105}{}{Wait, closed territory, entrance only with the permission of the boss.}
 {105}{}{等等，封闭的区域，只有在老板允许的情况下才能进入。}
 ### {106}{}{I warned you!}

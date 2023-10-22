@@ -33,7 +33,7 @@
 ### {214}{}{Which one?}
 {214}{}{哪一个？}
 ### {215}{}{I've been asking the knights from Puerto to send me a new Geiger counter for a long time. But when it comes to technology, they become terrible misers. By the time I wait for a new meter from them, we will all have time to die from radiation. Joke. But if you bring me a new meter, I'll exchange it for a battery. Or I'll pay with clean caps.}
-{215}{}{很长一段时间以来，我一直要求来自波多黎各的骑士们给我寄一个新的盖革计数器。但当涉及到技术时，他们变成了可怕的吝啬鬼。当我等待他们提供新的测量仪时，我们都有时间死于辐射。笑话但如果你给我带一个新电表，我会把它换成电池。否则我会用干净的帽子付款。}
+{215}{}{很长一段时间以来，我一直要求来自波多黎各的骑士们给我寄一个新的盖革计数器。但当涉及到技术时，他们变成了可怕的吝啬鬼。当我等待他们提供新的测量仪时，我们都有时间死于辐射。笑话但如果你给我带一个新电表，我会把它换成电池。否则我会用干净的瓶盖付款。}
 ### {216}{}{I will keep in mind.}
 {216}{}{我会记住的。}
 ### {217}{}{You're lucky. I just have one such counter, and I don't need it.}
@@ -43,7 +43,7 @@
 ### {219}{}{Where can I buy nuclear batteries for my bike here?}
 {219}{}{我在哪里可以买到自行车的核电池？}
 ### {220}{}{Finally! I'll check it out now... Hmm... it seems to work. What will you take in return? bottlecaps or the battery you needed?}
-{220}{}{最后我现在就去看看。。。嗯……它似乎起作用了。你会得到什么回报？瓶装水还是你需要的电池？}
+{220}{}{最后我现在就去看看...嗯……它似乎起作用了。你会得到什么回报？瓶装水还是你需要的电池？}
 ### {221}{}{A nuclear battery.}
 {221}{}{一个核电池。}
 ### {222}{}{bottlecaps.}
@@ -68,7 +68,7 @@
 ### {240}{}{Hilberto says you've been to Inferno?}
 {240}{}{希尔伯托说你去过地狱？}
 ### {241}{}{A scary place. Burnt ruins and... human BONES are all around.}
-{241}{}{一个可怕的地方。烧毁的废墟和。。。人类的骨头无处不在。}
+{241}{}{一个可怕的地方。烧毁的废墟和...人类的骨头无处不在。}
 ### {242}{}{Wow, can you tell me more? I'm going there for one task.}
 {242}{}{哇，你能告诉我更多吗？我要去那里执行一项任务。}
 ### {243}{}{It's creepy. Don't even go on, I don't want to hear it.}
@@ -82,7 +82,7 @@
 ### {247}{}{Here are 20 caps for tea. I want to hear your story.}
 {247}{}{这里有20顶茶帽。我想听你的故事。}
 ### {248}{}{I don't have any caps right now. Maybe another time.}
-{248}{}{我现在没有帽子。也许改天吧。}
+{248}{}{我现在没有瓶盖。也许改天吧。}
 ### {249}{}{I was looking for useful things there. These ruins haven't been looted by looters like in Phoenix yet, so there are plenty of old relics there. But it is extremely dangerous to get them because of radiation and collapses. Half the way I made my way through underground passages. There, by the way, you can hide from radiation for a while.}
 {249}{}{我在那里找有用的东西。这些废墟还没有像凤凰城那样被抢劫者洗劫过，所以那里有很多古老的遗迹。但由于辐射和坍塌，得到它们是极其危险的。走到一半的时候，我穿过地下通道。顺便说一句，在那里，你可以躲避一段时间的辐射。}
 ### {250}{}{Go on.}
@@ -119,7 +119,7 @@
 ### {265}{}{Hmm, on the other hand, there is still an opportunity to find the treasure. So I will sell, but for a very good price. Say for }
 {265}{}{嗯，另一方面，还是有机会找到宝藏的。所以我会卖，但价格很好。为…说话}
 ### {266}{}{ caps.}
-{266}{}{帽子。}
+{266}{}{瓶盖。}
 ### {267}{}{I'll pay. Here are the bottlecaps.}
 {267}{}{我会付钱的。这是水瓶。}
 ### {268}{}{How much? Well, no. Keep this piece of paper for yourself.}
@@ -127,9 +127,9 @@
 ### {269}{}{No, that's not enough. Come back when you dig up. I also want to make money on someone else's greed.}
 {269}{}{不，这还不够。挖出来的时候再来。我也想靠别人的贪婪赚钱。}
 ### {270}{}{Uh, okay. I'll be back with the caps...}
-{270}{}{好吧。我会带着帽子回来。。。}
+{270}{}{好吧。我会带着瓶盖回来...}
 ### {271}{}{(enthusiastically counts the caps) It looks like I'm going to exhaust my entire year's supply of luck today! Here is my part of the map. Good luck in finding the treasure. You'll need it.}
-{271}{}{（热情地数着帽子）看起来我今天要耗尽我一整年的运气了！这是我的那部分地图。祝你好运，找到宝藏。你会需要它的。}
+{271}{}{（热情地数着瓶盖）看起来我今天要耗尽我一整年的运气了！这是我的那部分地图。祝你好运，找到宝藏。你会需要它的。}
 ### {272}{}{Later.}
 {272}{}{后来}
 
@@ -140,7 +140,7 @@
 ### {282}{}{Who do you think it could be?}
 {282}{}{你认为可能是谁？}
 ### {283}{}{I don't know. Johnny was everyone's favorite. Only Ruiz treated him coolly. But he hates everyone in general. Also this comical guy... Tin-Tan, sort of. I think Johnny was avoiding him. Which is strange, because Johnny used to be very happy that his uncle was about to arrive from Phoenix. And after his arrival, the kid seemed to have been replaced.}
-{283}{}{我不知道。约翰尼是每个人的最爱。只有鲁伊斯对他冷淡。但他讨厌所有人。还有这个滑稽的家伙。。。天坛，有点像。我觉得强尼在躲避他。这很奇怪，因为约翰尼过去很高兴他的叔叔即将从凤凰城来。在他到达后，这个孩子似乎被替换了。}
+{283}{}{我不知道。约翰尼是每个人的最爱。只有鲁伊斯对他冷淡。但他讨厌所有人。还有这个滑稽的家伙...天坛，有点像。我觉得强尼在躲避他。这很奇怪，因为约翰尼过去很高兴他的叔叔即将从凤凰城来。在他到达后，这个孩子似乎被替换了。}
 ### {284}{}{Is he really from Phoenix?}
 {284}{}{他真的来自凤凰城吗？}
 ### {285}{}{Well yes. His documents are in order. All documents were processed in Sonora Express. However, there is no branch in our wilderness. That's why the caravans take correspondence to Casa Nueva when we want to send it to Phoenix.}

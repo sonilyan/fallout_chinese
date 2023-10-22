@@ -67,7 +67,7 @@
 ### {253}{}{It's not for me to judge you. Apparently, you had no other choice.}
 {253}{}{我不能评判你。显然，你别无选择。}
 ### {254}{}{I guessed you'd say that. I think myself - and when did we fall so low that we sold our soul to the devil? But this has never happened before. I remember the days without El Diablo. Bright beautiful days...}
-{254}{}{我猜你会这么说。我想我自己——我们是什么时候堕落到把灵魂出卖给魔鬼的？但这种情况以前从未发生过。我记得没有暗黑破坏神的日子。明亮美丽的日子。。。}
+{254}{}{我猜你会这么说。我想我自己——我们是什么时候堕落到把灵魂出卖给魔鬼的？但这种情况以前从未发生过。我记得没有暗黑破坏神的日子。明亮美丽的日子...}
 ### {255}{}{Well, now you have a chance to start over.}
 {255}{}{好吧，现在你有机会重新开始了。}
 ### {256}{}{So he's dead after all, right? What a relief! But Ilario won't let it go. He will resist the changes and lie as if El Diablo did not die. For fifteen years, he was too used to power. I want to get this freeloader out of town. Help me. Not everyone here is as opposed to him as I am.}
@@ -136,7 +136,7 @@
 ### {285}{}{Hola, amigo. Recently, a caravan from Casa Nueva came to us. Thank you for your help.}
 {285}{}{你好，朋友。最近，一辆来自努瓦之家的大篷车来找我们。谢谢你的帮助。}
 ### {286}{}{Here's the thing... Ilario ALSO passed away. Don't ask how it happened.}
-{286}{}{事情是这样的。。。伊拉里奥也去世了。不要问它是怎么发生的。}
+{286}{}{事情是这样的...伊拉里奥也去世了。不要问它是怎么发生的。}
 ### {287}{}{Ilario fled the village when he realized that his power had come to an end. I doubt he'll come back.}
 {287}{}{伊拉里奥意识到自己的权力已经结束后逃离了村庄。我怀疑他会回来。}
 

@@ -3,13 +3,13 @@
 ### {101}{}{This is Flick, a traveling merchant.}
 {101}{}{这是弗利克，一个旅行商人。}
 ### {102}{}{No more Nuka-Cola... honestly.}
-{102}{}{再也没有努卡可乐了。。。真的}
+{102}{}{再也没有努卡可乐了...真的}
 ### {103}{}{The merchant lost the harmful goods. It remains to report the success to Commander Helford.}
 {103}{}{商人丢失了有害的货物。尚待向赫尔福德指挥官报告成功情况。}
 
 #Start of the dialog
 ### {200}{}{Hey, traveler, do you need useful things for the road? I can get anything... But wait, I sold all the goods to these rangers. Damn.}
-{200}{}{嘿，旅行者，路上需要有用的东西吗？我可以得到任何东西。。。但是等等，我把所有的东西都卖给了这些护林员。该死}
+{200}{}{嘿，旅行者，路上需要有用的东西吗？我可以得到任何东西...但是等等，我把所有的东西都卖给了这些护林员。该死}
 ### {201}{}{So you're a merchant?}
 {201}{}{那么你是个商人？}
 ### {202}{}{My name is Flick. I sell all sorts of small things in the Ranger lands. What are you looking for? Tell me, maybe I know where to get it?}
@@ -28,15 +28,15 @@
 ### {220}{}{What do you sell, Flick?}
 {220}{}{你卖什么，弗利克？}
 ### {221}{}{I sell what I can -food, clothes, household utensils. But now I have nothing but caps left.}
-{221}{}{我卖我能卖的东西——食物、衣服、家用器具。但现在我只剩下帽子了。}
+{221}{}{我卖我能卖的东西——食物、衣服、家用器具。但现在我只剩下瓶盖了。}
 ### {222}{}{What's the story with caps?}
-{222}{}{戴帽子的故事是什么？}
+{222}{}{戴瓶盖的故事是什么？}
 ### {223}{}{Don't you know? In a big city in the east, someone thought of using caps as currency. That is, to exchange them for goods. It's a strange idea, but it's convenient! The only problem is that the Rangers do not recognize the caps and refuse to trade on them.}
 {223}{}{你不知道吗？在东部的一个大城市，有人想到用上限作为货币。也就是说，用它们来交换货物。这是个奇怪的主意，但很方便！唯一的问题是流浪者队不承认上限，拒绝交易。}
 ### {224}{}{What kind of principle is this?}
 {224}{}{这是什么样的原则？}
 ### {225}{}{Well, they think currency is a speculative thing. After all, you never know the true price of caps. And barter exchange is honest and not subject to any kind of "inflation". And yet many now have bags for caps, someday the rangers will be forced to change.}
-{225}{}{他们认为货币是一种投机行为。毕竟，你永远不知道上限的真实价格。易货交换是诚实的，不受任何形式的“通货膨胀”的影响。然而，现在很多人都有了帽子，总有一天流浪者队将被迫改变。}
+{225}{}{他们认为货币是一种投机行为。毕竟，你永远不知道上限的真实价格。易货交换是诚实的，不受任何形式的“通货膨胀”的影响。然而，现在很多人都有了瓶盖，总有一天流浪者队将被迫改变。}
 ### {226}{}{How interesting. Let's talk some more, aren't you in a hurry?}
 {226}{}{真有趣。我们再聊几句吧，你不急吗？}
 ### {227}{}{I care about my relatives, not the currency. So come on.}
@@ -74,7 +74,7 @@
 ### {246}{}{I will not. I'd rather stick to you with a couple of new questions.}
 {246}{}{我不会的。我宁愿继续问你几个新问题。}
 ### {247}{}{I should have warned you right away. I think I'll move away... on the other side of the road.}
-{247}{}{我本应该马上警告你的。我想我会搬走。。。在路的另一边。}
+{247}{}{我本应该马上警告你的。我想我会搬走...在路的另一边。}
 
 ### {250}{}{Have you ever been to Quartz?}
 {250}{}{你去过Quartz吗？}
@@ -92,7 +92,7 @@
 ### {263}{}{Hmm-m-m. Whatever you say.}
 {263}{}{嗯。不管你说什么。}
 ### {264}{}{Hmm-m-m. (ponders, assessing the prospects) Damn, it's too far and dangerous... Uh, I mean, there's nothing I can do to help you.}
-{264}{}{嗯。（沉思，评估前景）该死，太远了，太危险了。。。呃，我的意思是，我帮不了你什么。}
+{264}{}{嗯。（沉思，评估前景）该死，太远了，太危险了...呃，我的意思是，我帮不了你什么。}
 ### {265}{}{My people were kidnapped by slavers. I hope the Rangers will help bring them back.}
 {265}{}{我的人民被奴隶贩子绑架了。我希望流浪者队能帮助他们回来。}
 ### {266}{}{I doubt it, my friend. But you talk to the commander in the infocenter. And where is your village located?}
@@ -109,7 +109,7 @@
 ### {271}{}{Yeah. What are you doing here after this accident?}
 {271}{}{是 啊事故发生后你在这里干什么？}
 ### {272}{}{The Rangers are in big trouble now, and this smacks of chaos. But you know what - in all this mess, my services and goods are still appreciated. I just have to now... slightly change the assortment.}
-{272}{}{流浪者队现在遇到了大麻烦，这有点混乱。但你知道吗？在这一切混乱中，我的服务和商品仍然受到赞赏。我现在必须。。。稍微改变一下产品组合。}
+{272}{}{流浪者队现在遇到了大麻烦，这有点混乱。但你知道吗？在这一切混乱中，我的服务和商品仍然受到赞赏。我现在必须...稍微改变一下产品组合。}
 ### {273}{}{For example, to sell weapons, alcohol and drugs?}
 {273}{}{例如，出售武器、酒精和毒品？}
 ### {274}{}{Don't talk about it here, they might hear us. But until the Rangers regain control of their lands, it offers great prospects for previously unwanted business. You get the idea, huh?}
@@ -129,9 +129,9 @@
 ### {303}{}{That's what everyone says. How about checking with a radiometer?}
 {303}{}{每个人都这么说。用辐射计检查一下怎么样？}
 ### {304}{}{Thu... The hell I'm going to let you near my product. Step away from the cart!}
-{304}{}{周四。。。我会让你接近我的产品。离开推车！}
+{304}{}{周四...我会让你接近我的产品。离开推车！}
 ### {305}{}{...}
-{305}{}{。。。}
+{305}{}{...}
 
 ### {310}{}{Leave me alone. I will not give away my goods.}
 {310}{}{别管我。我不会泄露我的货物。}

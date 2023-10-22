@@ -124,11 +124,11 @@
 ### {264}{}{I hope so. Because sooner or later our guys will get to the truth. And you know how we honor the Law, especially so close to our citadel.}
 {264}{}{我希望如此。因为我们的人迟早会知道真相的。你知道我们是如何遵守法律的，尤其是离我们的城堡这么近。}
 ### {265}{}{Of course, uh, you'll surely find the culprits. Well, I have to go...}
-{265}{}{当然，呃，你肯定会找到罪魁祸首的。好吧，我得走了。。。}
+{265}{}{当然，呃，你肯定会找到罪魁祸首的。好吧，我得走了...}
 
 #Farm Spy
 ### {270}{}{I want to report a spy. He's hiding in a shack on the old road...}
-{270}{}{我想告发一个间谍。他躲在旧路上的一个棚屋里。。。}
+{270}{}{我想告发一个间谍。他躲在旧路上的一个棚屋里...}
 ### {271}{}{...Thanks for the tip. We'll send scouts there and try to catch him off guard. It's time to nail this bastard.}
 {271}{}{…谢谢你的小费。我们会派侦察兵去那里，试图让他措手不及。是时候抓住这个混蛋了。}
 ### {272}{}{Success in the operation.}
@@ -171,7 +171,7 @@
 ### {291}{}{That's how it was, Commander.}
 {291}{}{事情就是这样，指挥官。}
 ### {292}{}{(shakes his head) Rednecks... What else can I expect from you? You're lucky no one saw the crime itself and that Flick's reputation was as shoddy as his merchandise. You can go now. But don't forget that we are always on guard.}
-{292}{}{（摇摇头）红脖子。。。我还能指望你做什么？你很幸运，没有人看到犯罪本身，弗利克的声誉和他的商品一样低劣。你现在可以走了。但别忘了，我们总是保持警惕。}
+{292}{}{（摇摇头）红脖子...我还能指望你做什么？你很幸运，没有人看到犯罪本身，弗利克的声誉和他的商品一样低劣。你现在可以走了。但别忘了，我们总是保持警惕。}
 ### {293}{}{As you say, Commander.}
 {293}{}{正如你所说，指挥官。}
 ### {294}{}{It would be better this way. I'll believe you for now, but don't forget that we are always on guard. And now you can go.}
@@ -236,9 +236,9 @@
 ### {330}{}{Maybe I can help in some way?}
 {330}{}{也许我能帮上忙？}
 ### {331}{}{Usually *we* help someone... But in this case, I will be glad of any assistance. Even from a simple peasant.}
-{331}{}{通常我们会帮助别人。。。但在这种情况下，我很乐意得到任何帮助。即使来自一个简单的农民。}
+{331}{}{通常我们会帮助别人...但在这种情况下，我很乐意得到任何帮助。即使来自一个简单的农民。}
 ### {1331}{}{Usually *we* help someone... But in this case, I will be glad of any assistance. Even from a simple peasant woman.}
-{1331}{}{通常我们会帮助别人。。。但在这种情况下，我很乐意得到任何帮助。甚至来自一个简单的农妇。}
+{1331}{}{通常我们会帮助别人...但在这种情况下，我很乐意得到任何帮助。甚至来自一个简单的农妇。}
 ### {332}{}{What should I do?}
 {332}{}{我该怎么办？}
 
@@ -278,7 +278,7 @@
 ### {353}{}{The radio station is out of order. And it's not my fault.}
 {353}{}{电台坏了。这不是我的错。}
 ### {354}{}{(irritated) I already know. You're of no use! (pulls himself together) Okay... Of course, I believe it's not your fault, because the Rangers' help was in your best interest.}
-{354}{}{（被激怒了）我已经知道了。你没有用！（振作起来）好吧。。。当然，我相信这不是你的错，因为流浪者队的帮助符合你的最大利益。}
+{354}{}{（被激怒了）我已经知道了。你没有用！（振作起来）好吧...当然，我相信这不是你的错，因为流浪者队的帮助符合你的最大利益。}
 ### {355}{}{I'm sorry about that.}
 {355}{}{我对此感到抱歉。}
 ### {356}{}{Just don't yell at me.}
@@ -315,7 +315,7 @@
 ### {374}{}{Uh, I have no idea.}
 {374}{}{我不知道。}
 ### {375}{}{(sighs) Idiots... Here is an example of how thoughtless admiration for the technology of the Ancients destroys people. What were they thinking? That they can just run this old technology? Information about it was lost many generations ago! No wonder these fools paid so cruelly for their vanity.}
-{375}{}{（叹气）白痴。。。以下是一个例子，说明对古人技术的轻率钦佩是如何摧毁人们的。他们在想什么？他们可以运行这种旧技术吗？关于它的信息在几代人之前就已经丢失了！难怪这些傻瓜为他们的虚荣心付出如此残酷的代价。}
+{375}{}{（叹气）白痴...以下是一个例子，说明对古人技术的轻率钦佩是如何摧毁人们的。他们在想什么？他们可以运行这种旧技术吗？关于它的信息在几代人之前就已经丢失了！难怪这些傻瓜为他们的虚荣心付出如此残酷的代价。}
 ### {376}{}{And yet they were almost there.}
 {376}{}{然而他们几乎到了。}
 ### {377}{}{It's all the better that now no one will get this relic.}
@@ -334,9 +334,9 @@
 ### {391}{}{Aren't you taking on too much? I regularly have to deal with slander against the Rangers. Besides, Ranger Garth has a lot of good references. Anyway, I don't have time for this nonsense, get out of here.}
 {391}{}{你是不是承担得太多了？我经常要处理对流浪者队的诽谤。此外，流浪者加思有很多很好的参考资料。不管怎样，我没有时间胡说八道，离开这里。}
 ### {392}{}{Um...}
-{392}{}{嗯。。。}
+{392}{}{嗯...}
 ### {393}{}{And yet William Garth turned out to be a criminal. Who would have thought? So many awards and recommendations... You know, peaceful life has spoiled this soldier. Once "retired", he began to see any outsider as a potential enemy. I'm afraid to imagine what will happen to me in such conditions.}
-{393}{}{然而，威廉·加思却成了罪犯。谁会想到呢？这么多奖项和推荐。。。你知道，平静的生活宠坏了这个士兵。一旦“退休”，他就开始将任何局外人视为潜在的敌人。我不敢想象在这种情况下我会发生什么。}
+{393}{}{然而，威廉·加思却成了罪犯。谁会想到呢？这么多奖项和推荐...你知道，平静的生活宠坏了这个士兵。一旦“退休”，他就开始将任何局外人视为潜在的敌人。我不敢想象在这种情况下我会发生什么。}
 ### {394}{}{We all have our own problems. This is normal, Commander.}
 {394}{}{我们都有自己的问题。这很正常，指挥官。}
 ### {395}{}{His story will be edifying for the rest of the rangers. And for you, Commander.}
@@ -429,11 +429,11 @@
 ### {459}{}{Now he will not be able to get away.}
 {459}{}{现在他将无法逃脱。}
 ### {460}{}{Exactly. But Flick had already gone to the wasteland for the trading circle. Hurry up before he goes too far. You should take all his irradiated goods... any way.}
-{460}{}{确切地但弗利克已经为了交易圈而去了荒原。在他走得太远之前快点。你应该拿走他所有的辐照物品。。。无论如何。}
+{460}{}{确切地但弗利克已经为了交易圈而去了荒原。在他走得太远之前快点。你应该拿走他所有的辐照物品...无论如何。}
 ### {461}{}{It will be done!}
 {461}{}{它会完成的！}
 ### {462}{}{Oh, to go roasting in the wasteland again...}
-{462}{}{哦，又去荒原上烤了。。。}
+{462}{}{哦，又去荒原上烤了...}
 ### {463}{}{There will be no more problems from the Flick. Now he's trading in hell.}
 {463}{}{Flick不会再有问题了。现在他在地狱里交易。}
 ### {464}{}{Is Flick dead? Damn, I didn't expect that you would decide on such an extreme measure. However, I don't want to know anything about this story. Thanks for getting rid of this problem.}

@@ -7,4 +7,4 @@
 ### {103}{}{Thank you, Doctor. But the monks did not want to treat me.}
 {103}{}{谢谢你，医生。但是僧侣们不想待我。}
 ### {104}{}{Help the cripple, good man! Don't pass by...}
-{104}{}{帮帮瘸子，好人！不要路过。。。}
+{104}{}{帮帮瘸子，好人！不要路过...}

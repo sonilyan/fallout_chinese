@@ -20,15 +20,15 @@
 ### {202}{}{The military is nearby, but I do not know you. If you're here by chance, you'd better leave.}
 {202}{}{军队就在附近，但我不认识你。如果你是偶然来的，你最好离开。}
 ### {203}{}{I'll do that. I don't want to meet even more resistance from the locals...}
-{203}{}{我会那样做的。我不想遇到更多来自当地人的阻力。。。}
+{203}{}{我会那样做的。我不想遇到更多来自当地人的阻力...}
 ### {204}{}{Would you refuse a favor to a traveler from the north? I just want to ask about this city.}
 {204}{}{你会拒绝帮一个来自北方的旅行者的忙吗？我只想问一下这个城市的情况。}
 ### {205}{}{(raises his gun threateningly) Get off my ranch.}
 {205}{}{（威胁地举起枪）滚出我的牧场。}
 ### {206}{}{Okay, whatever you say...}
-{206}{}{好吧，不管你说什么。。。}
+{206}{}{好吧，不管你说什么...}
 ### {207}{}{You'll regret it...}
-{207}{}{你会后悔的。。。}
+{207}{}{你会后悔的...}
 ### {208}{}{You again. I told you to get off my ranch.}
 {208}{}{你又来了。我叫你离开我的牧场。}
 ### {209}{}{Sure, man, no problem.}

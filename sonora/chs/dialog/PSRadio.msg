@@ -51,7 +51,7 @@
 ### {231}{}{"Accepted. We are sending an agent. Be careful, Murphy. Orris must not suspect that you are working for us. Out of touch."}
 {231}{}{“接受。我们正在派一名特工。小心点，墨菲。奥利斯决不能怀疑你在为我们工作。失去联系。”}
 ### {232}{}{What? Is Murphy an agent of the Cathedral? What a surprise...}
-{232}{}{什么墨菲是大教堂的代理人吗？真是个惊喜。。。}
+{232}{}{什么墨菲是大教堂的代理人吗？真是个惊喜...}
 ### {233}{}{What? Are you kidding? First the atomists, and now Murphy. This is becoming the norm.}
 {233}{}{什么你在开玩笑吗？首先是原子论者，现在是墨菲。这正成为常态。}
 
@@ -72,6 +72,6 @@
 ### {257}{}{"Accepted. Keep us informed and may the Fire be with you."}
 {257}{}{“接受。随时通知我们，愿大火与你同在。”}
 ### {258}{}{What? Ralph sold out to the church? That's the story...}
-{258}{}{什么拉尔夫出卖了教堂？这就是故事。。。}
+{258}{}{什么拉尔夫出卖了教堂？这就是故事...}
 ### {259}{}{What? Are you kidding? First Murphy, and now the atomists. This is becoming the norm.}
 {259}{}{什么你在开玩笑吗？首先是墨菲，现在是原子论者。这正成为常态。}

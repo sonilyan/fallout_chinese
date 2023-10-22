@@ -20,7 +20,7 @@
 ### {207}{}{Then pick up your rags and run to the parade ground! Anyone who escapes from the Restricted Area before the end of the mission will be permanently dismantled.}
 {207}{}{然后拿起你的破布，跑向阅兵场！任何在任务结束前逃离禁区的人都将被永久解散。}
 ### {208}{}{It looks like it's going to be a tough test...}
-{208}{}{看起来这将是一个艰难的考验。。。}
+{208}{}{看起来这将是一个艰难的考验...}
 ### {209}{}{No more questions.}
 {209}{}{没有更多的问题。}
 
@@ -76,4 +76,4 @@
 ### {238}{}{The great ZAX is defeated! Now we will have hot working days. So, it's time to look for new slaves.}
 {238}{}{伟大的ZAX被击败了！现在我们将有炎热的工作日。所以，是时候寻找新的奴隶了。}
 ### {239}{}{I hope you can do without me this time... Uh, bye.}
-{239}{}{我希望你这次可以不用我。。。再见。}
+{239}{}{我希望你这次可以不用我...再见。}

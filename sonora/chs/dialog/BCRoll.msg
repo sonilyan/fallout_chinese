@@ -3,7 +3,7 @@
 ### {101}{}{You see a man with long black hair.}
 {101}{}{你看到一个留着黑色长发的男人。}
 ### {102}{}{Oh, these mushrooms turned out to be more powerful than I thought...}
-{102}{}{哦，这些蘑菇原来比我想象的更厉害。。。}
+{102}{}{哦，这些蘑菇原来比我想象的更厉害...}
 
 ### {200}{}{What do you need, stranger?}
 {200}{}{你需要什么，陌生人？}
@@ -38,7 +38,7 @@
 ### {213}{}{Nothing at all? Well, then I won't be in a hurry.}
 {213}{}{什么都没有？那我就不急了。}
 ### {214}{}{I'll fix the cart, but not for nothing. The parts are worth the caps, you know.}
-{214}{}{我会修这辆车，但不是白修的。你知道，这些零件值这些帽子。}
+{214}{}{我会修这辆车，但不是白修的。你知道，这些零件值这些瓶盖。}
 ### {215}{}{It seems that all the palefaces are obsessed with the sound of all sorts of garbage. I don't have anything like that. But if you really fix the cart, I'll give you dried meat.}
 {215}{}{似乎所有的苍白面孔都痴迷于各种垃圾的声音。我没有那样的东西。但如果你真的把车修好了，我就给你肉干。}
 ### {216}{}{I will think about this proposal.}

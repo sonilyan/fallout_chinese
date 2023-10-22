@@ -35,7 +35,7 @@
 ### {212}{}{Are you also worried about slavers?}
 {212}{}{你也担心奴隶主吗？}
 ### {213}{}{Madre... Padre... I want to go home!}
-{213}{}{马德雷。。。神父。。。我想回家！}
+{213}{}{马德雷...神父...我想回家！}
 ### {214}{}{Oh, poor child. Perhaps the Dark Brahmin of Radiation cursed the seed of your kind. I feel sorry for you.}
 {214}{}{哦，可怜的孩子。也许辐射的黑暗婆罗门诅咒了你这一类的种子。我为你感到难过。}
 ### {215}{}{Bra-Min? No, no, the padre's name is Andres!}

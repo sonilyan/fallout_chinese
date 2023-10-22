@@ -24,7 +24,7 @@
 ### {207}{}{To hell with talking. You deserve only death.}
 {207}{}{见鬼去吧。你该死。}
 ### {208}{}{Ten thousand caps.}
-{208}{}{一万顶帽子。}
+{208}{}{一万个瓶盖。}
 ### {209}{}{Ten thousand? You can't get that much in the whole city.}
 {209}{}{一万？你不可能在整个城市得到那么多。}
 ### {210}{}{It's not our problem. So, there is only one thing left - the life of the mayor. Let him take his daughter's place.}
@@ -38,7 +38,7 @@
 ### {214}{}{What does it matter?}
 {214}{}{这有什么关系？}
 ### {215}{}{caps are not the main thing for me. There is an old cemetery in the east of the city. A mass grave. In this place, where only dry grass grows, the inhabitants of Casa Grande rest. My parents are among them.}
-{215}{}{帽子对我来说不是主要的东西。在城市的东部有一个古老的墓地。乱葬岗。在这个只有干草生长的地方，卡萨格兰德的居民休息着。我的父母也在其中。}
+{215}{}{瓶盖对我来说不是主要的东西。在城市的东部有一个古老的墓地。乱葬岗。在这个只有干草生长的地方，卡萨格兰德的居民休息着。我的父母也在其中。}
 ### {216}{}{[Listen]}
 {216}{}{[听]}
 ### {217}{}{They were trying to establish a peaceful life in this city. They worked tirelessly to launch a water pump and equip the city. But then Bustos came, killed them and took the city for himself. He left no one alive who stood in his way.}
@@ -50,7 +50,7 @@
 ### {220}{}{I will convey your demands to the mayor.}
 {220}{}{我会把你的要求转达给市长。}
 ### {221}{}{You're lying. And I will kill you so that others will not be offended...}
-{221}{}{你在撒谎。我会杀了你，这样别人就不会被冒犯。。。}
+{221}{}{你在撒谎。我会杀了你，这样别人就不会被冒犯...}
 ### {222}{}{Are you sure you want even more blood on the land of your ancestors?}
 {222}{}{你确定你想在你祖先的土地上留下更多的血吗？}
 ### {223}{}{I'm not going to argue with you. Bring me the mayor. I will only talk to him.}
@@ -58,7 +58,7 @@
 ### {224}{}{This city is already knee-deep in blood. Only now have we managed to achieve at least some peace.}
 {224}{}{这座城市已经血流成河。直到现在，我们才设法至少实现了一些和平。}
 ### {225}{}{There will be no more negotiations. You're going to die right now...}
-{225}{}{不会再有谈判了。你现在就要死了。。。}
+{225}{}{不会再有谈判了。你现在就要死了...}
 ### {226}{}{Are you saying I'm just being selfish? How do you think I should live after the mayor banished me from my land? I eat carrion and rob caravans on the highway just to survive. And all because of one greedy scoundrel.}
 {226}{}{你是说我只是自私吗？市长把我驱逐出我的土地后，你认为我该怎么生活？为了生存，我在高速公路上吃腐肉和抢劫大篷车。这一切都是因为一个贪婪的恶棍。}
 ### {227}{}{So get off this road. You can live in Phoenix or another city.}
@@ -80,17 +80,17 @@
 ### {234}{}{Well...}
 {234}{}{好}
 ### {235}{}{You will only get a thousand caps and leave the city. Otherwise you won't get out of here alive.}
-{235}{}{你只会得到一千顶帽子，然后离开这个城市。否则你就不会活着离开这里。}
+{235}{}{你只会得到一千个瓶盖，然后离开这个城市。否则你就不会活着离开这里。}
 ### {236}{}{Surprisingly. I thought Bustos wouldn't give ten caps...}
-{236}{}{惊人地我以为巴斯托斯不会给10场比赛。。。}
+{236}{}{惊人地我以为巴斯托斯不会给10场比赛...}
 ### {237}{}{[Next]}
 {237}{}{[下一个]}
 ### {238}{}{(One of the accomplices interrupts the leader, takes him into a corner and begins to actively discuss something with him) And ... yes... You're right, buddy, calm down... (comes back to you) We accept your terms. Give me the caps and you can take the girl.}
-{238}{}{（其中一名同伙打断了领导的话，把他带到角落里，开始积极地和他讨论一些事情）然后。。。对你是对的，伙计，冷静点。。。（回复您）我们接受您的条件。把帽子给我，你就可以带走那个女孩。}
+{238}{}{（其中一名同伙打断了领导的话，把他带到角落里，开始积极地和他讨论一些事情）然后...对你是对的，伙计，冷静点...（回复您）我们接受您的条件。把瓶盖给我，你就可以带走那个女孩。}
 ### {239}{}{Why would the count be so nice to robbers? I'll just kill you and take the bottlecaps for myself...}
-{239}{}{伯爵为什么对强盗这么好？我会杀了你，把瓶子给我自己。。。}
+{239}{}{伯爵为什么对强盗这么好？我会杀了你，把瓶子给我自己...}
 ### {240}{}{We'll have to wait a bit. I'll go get the caps.}
-{240}{}{我们得等一等。我去拿帽子。}
+{240}{}{我们得等一等。我去拿瓶盖。}
 ### {241}{}{The whole amount is here.}
 {241}{}{全部金额都在这里。}
 ### {242}{}{Tell the count that we're leaving, and don't let him try to send a tail after us.}

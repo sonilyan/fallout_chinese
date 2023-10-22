@@ -6,7 +6,7 @@
 ### {110}{}{Welcome to the Gulsky paradise.}
 {110}{}{欢迎来到古尔斯基天堂。}
 ### {111}{}{Keep quiet while you're at the hotel... if possible.}
-{111}{}{在酒店时保持安静。。。如果可能的话。}
+{111}{}{在酒店时保持安静...如果可能的话。}
 ### {112}{}{Welcome to the hotel "La Pension".}
 {112}{}{欢迎光临“La Pension”酒店。}
 ### {113}{}{Do you need an administrator? He's at the end of the corridor.}

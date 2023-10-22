@@ -45,7 +45,7 @@
 ### {204}{}{I have no strength left because of the work. So I fell to the ground with the cart. He scattered all the ore under his feet.}
 {204}{}{由于工作的关系，我已经没有力气了。所以我和马车一起倒在了地上。他把所有的矿石都撒在脚下。}
 ### {205}{}{And it pissed him off? You have a nervous situation here...}
-{205}{}{这让他很生气？你现在有点紧张。。。}
+{205}{}{这让他很生气？你现在有点紧张...}
 ### {206}{}{That's not the word. We are not keeping up with the schedule, and then there are these rumors about giant rodents in the mine. So the bosses are angry, they break down at every opportunity.}
 {206}{}{不是这个词。我们没有跟上进度，然后有传言说矿井里有巨型啮齿动物。所以老板们很生气，他们一有机会就崩溃。}
 ### {207}{}{I see.}

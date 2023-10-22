@@ -38,7 +38,7 @@
 {221}{}{（科迪是修补匠们在外定居点获得的孩子之一，并根据他们的章程接受了再教育。父母给了科迪修复卡萨格兰德供水站的费用。然而，为了更好地将孩子融入集体，他的官方历史被稍微“简化”了。）}
 
 ### {230}{}{Getting the part from... Garage City?}
-{230}{}{正在从中获取零件。。。车库城？}
+{230}{}{正在从中获取零件...车库城？}
 ### {231}{}{(As it turned out, the tinsmiths received from the Followers of Fire the very detail that you gave to the caravaneers in Garage City. She was sent here for mass reproduction.)}
 {231}{}{（事实证明，锡匠们从火的追随者那里收到了你在车库城给商队的细节。她被送到这里进行大规模复制。）}
 ### {232}{}{The dossier on Carlos.}
@@ -46,7 +46,7 @@
 ### {233}{}{(Oddly enough, for all their closeness, the tinsmiths loved and accepted Carlos for his talents and interests in technology.)}
 {233}{}{（奇怪的是，尽管他们关系密切，但由于卡洛斯在技术方面的天赋和兴趣，锡匠们还是喜欢并接受了他。）}
 ### {234}{}{Well, let's fix the dossier here a little... and then... I hope this will knock Carlos down.}
-{234}{}{好吧，让我们把档案整理一下。。。然后。。。我希望这能击倒卡洛斯。}
+{234}{}{好吧，让我们把档案整理一下...然后...我希望这能击倒卡洛斯。}
 ### {235}{}{(You committed a diversion. The tinkerers will surely have suspicions about this newcomer from the wasteland)}
 {235}{}{（你犯了一个转移注意力的错误。修补匠们肯定会怀疑这个来自荒原的新人）}
 ### {236}{}{Great, this will make Carlos leave Two-Sun.}

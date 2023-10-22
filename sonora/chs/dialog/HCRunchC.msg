@@ -3,7 +3,7 @@
 ### {101}{}{Here is a typical country boy. And he smells like it.}
 {101}{}{这是一个典型的乡村男孩。他闻起来很香。}
 ### {102}{}{Hr-r-r...}
-{102}{}{小时-小时。。。}
+{102}{}{小时-小时...}
 ### {103}{}{The old shoes haven't worn out yet.}
 {103}{}{这双旧鞋还没穿破。}
 ### {104}{}{The child is very happy about the new shoes.}

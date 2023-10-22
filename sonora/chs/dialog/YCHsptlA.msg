@@ -5,7 +5,7 @@
 ### {102}{}{Another disgusting ghoul. How did you get me!}
 {102}{}{又是一个恶心的食尸鬼。你是怎么弄到我的！}
 ### {103}{}{Who do we have here? A favorite of ghouls or a free scavenger? In any case, you will not leave here...}
-{103}{}{我们这里有谁？食尸鬼的最爱还是免费的拾荒者？无论如何，你都不会离开这里。。。}
+{103}{}{我们这里有谁？食尸鬼的最爱还是免费的拾荒者？无论如何，你都不会离开这里...}
 ### {104}{}{Get out of here while I'm being nice.}
 {104}{}{趁我好的时候离开这里。}
 
@@ -52,7 +52,7 @@
 ### {135}{}{Tell me, you disgusting mug, where do you keep all the most valuable things?}
 {135}{}{告诉我，你这个恶心的家伙，你把最值钱的东西都放在哪里了？}
 ### {136}{}{I ask for the last time: wHere are the caps?}
-{136}{}{我最后一次问：w帽子在这儿？}
+{136}{}{我最后一次问：w瓶盖在这儿？}
 ### {137}{}{}
 {137}{}{error : string is empty}
 ### {138}{}{}
@@ -67,16 +67,16 @@
 ### {142}{}{A bunch of morons, you couldn't even keep track of the ghoul!}
 {142}{}{一群白痴，你连食尸鬼的踪迹都找不到！}
 ### {143}{}{And this ghoul turned out to be more cunning than I thought...}
-{143}{}{这个食尸鬼比我想象的更狡猾。。。}
+{143}{}{这个食尸鬼比我想象的更狡猾...}
 ### {144}{}{It looks like the ghoul was not alone...}
-{144}{}{看起来食尸鬼并不孤单。。。}
+{144}{}{看起来食尸鬼并不孤单...}
 ### {145}{}{If this ghoul calls his friends from San Isidro...}
-{145}{}{如果这个食尸鬼打电话给圣伊西德罗的朋友。。。}
+{145}{}{如果这个食尸鬼打电话给圣伊西德罗的朋友...}
 ### {146}{}{Damn it, this ghoul will tell everyone that we're here.}
 {146}{}{该死，这个食尸鬼会告诉所有人我们来了。}
 ### {147}{}{We need to get out of here before that ghoul tells everyone else.}
 {147}{}{我们必须在那个食尸鬼告诉其他人之前离开这里。}
 ### {148}{}{The little green brat ran right out from under his nose...}
-{148}{}{绿色的小淘气从他的鼻子下面跑了出来。。。}
+{148}{}{绿色的小淘气从他的鼻子下面跑了出来...}
 ### {149}{}{We need to get out of here. I give everyone an hour to pack!}
 {149}{}{我们需要离开这里。我给每个人一个小时收拾行李！}

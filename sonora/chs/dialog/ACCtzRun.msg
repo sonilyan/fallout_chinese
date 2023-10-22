@@ -16,7 +16,7 @@
 ### {200}{}{Oh, amigo! What wind brought you to these lands?}
 {200}{}{噢，朋友！是什么风把你带到了这些地方？}
 ### {201}{}{Well, I...}
-{201}{}{嗯，我。。。}
+{201}{}{嗯，我...}
 ### {202}{}{Hush! Don't say a word! These people don't like outsiders. They even look at me with a knife in their pocket.}
 {202}{}{安静别说一句话！这些人不喜欢外人。他们甚至用口袋里的刀看着我。}
 ### {203}{}{Why? Did something happen between you?}

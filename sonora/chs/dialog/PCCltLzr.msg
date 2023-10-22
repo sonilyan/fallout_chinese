@@ -18,7 +18,7 @@
 ### {112}{}{Such as me, nothing shines in the city.}
 {112}{}{像我一样，这个城市没有什么闪光点。}
 ### {113}{}{I'm going to lie down here... you don't mind?}
-{113}{}{我要躺在这里。。。你不介意吗？}
+{113}{}{我要躺在这里...你不介意吗？}
 ### {114}{}{I want to quit this street life, but I can't.}
 {114}{}{我想放弃这种街头生活，但我做不到。}
 ### {115}{}{Phoenix is thriving, and I'm falling further and further.}
@@ -26,7 +26,7 @@
 ### {116}{}{This, do you have some food for the poor brother from the street?}
 {116}{}{这个，你有给街上那个可怜的兄弟的食物吗？}
 ### {117}{}{Borrow some caps, I'll give it, honestly.}
-{117}{}{借几顶帽子，老实说，我会给你的。}
+{117}{}{借几个瓶盖，老实说，我会给你的。}
 ### {118}{}{I really need medicine for the baby. Help me out, huh?}
 {118}{}{我真的需要给孩子吃药。帮我吧？}
 ### {119}{}{I'm starving, at least give me a rat's tail.}
@@ -76,7 +76,7 @@
 ### {154}{}{I gave all my savings to the church, but I never cured my illness.}
 {154}{}{我把所有积蓄都捐给了教堂，但我从未治好我的病。}
 ### {155}{}{The monks treat me with prayers. And I feel a surge of strength! Oh, no...}
-{155}{}{僧侣们为我祈祷。我感觉到了力量的激增！哦，不。。。}
+{155}{}{僧侣们为我祈祷。我感觉到了力量的激增！哦，不...}
 ### {156}{}{The monks say I need to purify my soul. And for this you need to give everything to the church.}
 {156}{}{僧侣们说我需要净化我的灵魂。为此，你需要把一切都奉献给教会。}
 ### {157}{}{I'm so worthless, right?}

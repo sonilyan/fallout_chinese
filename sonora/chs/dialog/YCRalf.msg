@@ -12,7 +12,7 @@
 ### {202}{}{I didn't want to leave Phoenix for a while. Because there are rather fat rats in the local sewers. But then a gloomy ghoul came to the city and told about the Dayglow. It dawned on me that it was better to be closer to my own people than to perish in the sands all alone. But what are you doing here?}
 {202}{}{我有一段时间不想离开凤凰城。因为当地的下水道里有相当肥的老鼠。但是，一个阴郁的食尸鬼来到这座城市，讲述了曙光的故事。我突然意识到，与其孤独地死在沙子里，不如更亲近自己的人民。但是你在这里干什么？}
 ### {203}{}{Looking for new adventures... probably.}
-{203}{}{寻找新的冒险。。。可能}
+{203}{}{寻找新的冒险...可能}
 ### {204}{}{Hmm? I don't even know what to say. You're a strange man. Maybe you're not all right at home? But it will be difficult for you to get along here ? radiation and traces of the Old World are all around. }
 {204}{}{嗯？我甚至不知道该说什么。你是个奇怪的人。也许你在家不舒服？但是你在这里会很难相处? 辐射和旧世界的痕迹无处不在。}
 ### {205}{}{I know.}

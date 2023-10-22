@@ -141,7 +141,7 @@
 ### {286}{}{It was very reckless! Geronimo resisted the union. But Chatto could have mediated in his place. Now we have no one to negotiate with. The tribe will scatter across the desert, breaking up into small flocks again.}
 {286}{}{这太鲁莽了！杰罗尼莫抵制工会。但查特本可以替他调停的。现在我们没有人可以谈判了。部落将分散在沙漠中，再次分成小群。}
 ### {287}{}{It was hard to foresee...}
-{287}{}{很难预见。。。}
+{287}{}{很难预见...}
 ### {288}{}{But you wanted to get rid of the leader yourself.}
 {288}{}{但你想自己摆脱领导。}
 ### {289}{}{In any case, the situation has become easier. We will settle in the pueblo and force the savages to accept our rules by force. They won't be able to resist an entire colony.}

@@ -27,7 +27,7 @@
 ### {122}{}{How can I turn it off?}
 {122}{}{我怎样才能把它关掉？}
 ### {123}{}{It's a pity there are no knights nearby...}
-{123}{}{很遗憾附近没有骑士。。。}
+{123}{}{很遗憾附近没有骑士...}
 ### {124}{}{How does it work?}
 {124}{}{它是如何工作的？}
 ### {125}{}{It's easier to blow up than to disable, by God!}
@@ -75,7 +75,7 @@
 ### {214}{}{That's enough! Morons like you can't be saved. You're going to get a big thrashing!}
 {214}{}{够了！像你这样的白痴是救不了的。你会被狠狠地揍一顿的！}
 ### {215}{}{Oh, it's going to hurt...}
-{215}{}{哦，会很疼的。。。}
+{215}{}{哦，会很疼的...}
 ### {216}{}{Dreaming, imagining!}
 {216}{}{做梦，想象！}
 ### {217}{}{I know who you're keeping locked up. And I can tell where his squad is.}

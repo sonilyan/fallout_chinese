@@ -31,7 +31,7 @@
 ### {203}{}{Perhaps.}
 {203}{}{可能}
 ### {204}{}{Oh my God! What have these damned wastelands done to you? Your skin feels like... burned! How are you doing? Can you talk? Ugh, I don't know what to think. It looks like you're going to stay in this skin forever. I am so sorry. But don't worry - we will definitely find a cure for this disease.}
-{204}{}{天啊！这些该死的荒原对你做了什么？你的皮肤感觉。。。烧了！你好吗？你会说话吗？啊，我不知道该怎么想。看起来你将永远保持这种皮肤。我很抱歉。但别担心，我们一定会找到治愈这种疾病的方法。}
+{204}{}{天啊！这些该死的荒原对你做了什么？你的皮肤感觉...烧了！你好吗？你会说话吗？啊，我不知道该怎么想。看起来你将永远保持这种皮肤。我很抱歉。但别担心，我们一定会找到治愈这种疾病的方法。}
 ### {205}{}{Oh that, I'm already starting to get used to my new body.}
 {205}{}{哦，我已经开始习惯我的新身体了。}
 
@@ -48,7 +48,7 @@
 ### {221}{}{Of course, because I can be honest with you?}
 {221}{}{当然，因为我可以对你说实话？}
 ### {222}{}{Why was the rest of the world hidden from the residents of the Villa? I managed to visit various unusual places, and it was... an unexpected experience.}
-{222}{}{为什么世界的其他地方对别墅的居民隐藏起来？我设法参观了各种不寻常的地方，这是。。。意想不到的经历。}
+{222}{}{为什么世界的其他地方对别墅的居民隐藏起来？我设法参观了各种不寻常的地方，这是...意想不到的经历。}
 ### {223}{}{Ah! Look at the Villa. When the Founder brought people here, it was a lifeless wasteland. Our ancestors invested their whole lives so that at least something edible could grow here. They succeeded only thanks to their faith in the precepts of the Founder: work for the good of the community, share your gains with everyone and do not let strangers in.}
 {223}{}{啊！看看别墅。当创始人把人们带到这里时，这里是一片死气沉沉的荒地。我们的祖先投入了他们的一生，这样至少可以在这里种植一些可食用的东西。他们的成功归功于他们对创始人戒律的信仰：为社区的利益工作，与每个人分享你的收获，不要让陌生人进来。}
 ### {224}{}{[Listen]}
@@ -88,11 +88,11 @@
 ### {257}{}{The padre died. Don't wait for him.}
 {257}{}{牧师死了。不要等他。}
 ### {258}{}{(sighs) I can't believe it... He was a strong leader, the whole community was supported by him... Do you know that for sure? Then we should not waste any more time.}
-{258}{}{（叹气）我简直不敢相信……他是一位坚强的领袖，整个社区都得到了他的支持。。。你确定吗？那我们就不应该再浪费时间了。}
+{258}{}{（叹气）我简直不敢相信……他是一位坚强的领袖，整个社区都得到了他的支持...你确定吗？那我们就不应该再浪费时间了。}
 ### {259}{}{What are you talking about?}
 {259}{}{你在说什么？}
 ### {260}{}{Go to the town hall. We need to gather the elders and decide what to do next. You're our leader now. Make decisions thoughtfully... And I need to lie down. Don't worry about me.}
-{260}{}{去市政厅。我们需要召集长辈，决定下一步该做什么。你现在是我们的领袖。深思熟虑地做出决定。。。我需要躺下。别担心我。}
+{260}{}{去市政厅。我们需要召集长辈，决定下一步该做什么。你现在是我们的领袖。深思熟虑地做出决定...我需要躺下。别担心我。}
 ### {261}{}{OK, I'll be there.}
 {261}{}{好的，我会去的。}
 ### {262}{}{Have you come across Sancho and Hugo? It looks like they stayed in Flagstaff, if they didn't disappear in an attempt to escape.}
@@ -144,7 +144,7 @@
 ### {294}{}{Why would someone need your pendant?}
 {294}{}{为什么有人需要你的吊坠？}
 ### {295}{}{Well, he said he would get "good caps" from the bartender for it. I doubt that he helped out at least one and a half caps.}
-{295}{}{嗯，他说他会从酒保那里得到“好帽子”。我怀疑他至少帮了一顶半帽子。}
+{295}{}{嗯，他说他会从酒保那里得到“好瓶盖”。我怀疑他至少帮了一顶半瓶盖。}
 ### {296}{}{Sorry to hear that. I hope that jailer got what he deserved.}
 {296}{}{很抱歉听到这个消息。我希望那个狱卒得到他应得的。}
 ### {297}{}{It's just a family pendant. You can forget about him.}

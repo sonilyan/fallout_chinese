@@ -60,7 +60,7 @@
 ### {211}{}{Watch where you're going.}
 {211}{}{注意你要去的地方。}
 ### {212}{}{Damn tourists...}
-{212}{}{该死的游客。。。}
+{212}{}{该死的游客...}
 ### {213}{}{Don't bother passersby, otherwise you'll get between the eyes.}
 {213}{}{不要打扰路人，否则你会被打扰的。}
 ### {214}{}{You're not from the locals, it's obvious right away.}
@@ -101,7 +101,7 @@
 ### {230}{}{Don't touch me, Iron Man!}
 {230}{}{不要碰我，钢铁侠！}
 ### {231}{}{Hello, uh, sir... or ma'am... or whoever it is.}
-{231}{}{你好，先生。。。或者女士。。。或者不管是谁。}
+{231}{}{你好，先生...或者女士...或者不管是谁。}
 ### {232}{}{Can I ride you?}
 {232}{}{我能载你吗？}
 ### {233}{}{This, can you kill a couple of my enemies?}
@@ -121,13 +121,13 @@
 
 #- GG follower
 ### {240}{}{I pray to the Sacred Fire every day... the truth is true.}
-{240}{}{我每天都向圣火祈祷。。。事实是真的。}
+{240}{}{我每天都向圣火祈祷...事实是真的。}
 ### {241}{}{I'm sorry, I'll get out of the way immediately...}
-{241}{}{对不起，我马上让开。。。}
+{241}{}{对不起，我马上让开...}
 ### {242}{}{I promise I'll be good.}
 {242}{}{我保证我会好起来的。}
 ### {243}{}{May the Sacred Fire be glorified... What's next?}
-{243}{}{愿圣火得到荣耀。。。下一步是什么？}
+{243}{}{愿圣火得到荣耀...下一步是什么？}
 ### {244}{}{I'm sorry, I won't breathe YOUR air anymore.}
 {244}{}{对不起，我再也不能呼吸你的空气了。}
 ### {245}{}{I honor Aaron, our liberator.}
@@ -147,7 +147,7 @@
 ### {251}{}{Damn, if you lost, my bet would have won.}
 {251}{}{该死，如果你输了，我打赌会赢的。}
 ### {252}{}{I'm sorry, I'll get out of the way immediately... And I'll leave town.}
-{252}{}{对不起，我马上让开。。。我要离开小镇。}
+{252}{}{对不起，我马上让开...我要离开小镇。}
 ### {253}{}{And you don't look like you're a champion.}
 {253}{}{而且你看起来不像是冠军。}
 ### {254}{}{How long did you have to train?}
@@ -168,7 +168,7 @@
 ### {1251}{}{Damn, if you lost, my bet would have won.}
 {1251}{}{该死，如果你输了，我打赌会赢的。}
 ### {1252}{}{I'm sorry, I'll get out of the way immediately... And I'll leave town.}
-{1252}{}{对不起，我马上让开。。。我要离开小镇。}
+{1252}{}{对不起，我马上让开...我要离开小镇。}
 ### {1253}{}{And you don't look like you're a champion.}
 {1253}{}{而且你看起来不像是冠军。}
 ### {1254}{}{How long did you have to train?}
@@ -200,7 +200,7 @@
 ### {266}{}{Are you all right?}
 {266}{}{你还好吗？}
 ### {267}{}{Looks like you're doing well... judging by the dilated pupils.}
-{267}{}{看起来你做得很好。。。从瞳孔放大的情况来看。}
+{267}{}{看起来你做得很好...从瞳孔放大的情况来看。}
 ### {268}{}{It won't do any good.}
 {268}{}{这不会有任何好处。}
 ### {269}{}{Need drugs? Look for them in the slums, loser.}
@@ -227,14 +227,14 @@
 ### {278}{}{It's time to get out of this city.}
 {278}{}{是时候离开这个城市了。}
 ### {279}{}{Phoenix is crowded with people... and problems.}
-{279}{}{凤凰城挤满了人。。。和问题。}
+{279}{}{凤凰城挤满了人...和问题。}
 
 ### {280}{}{Fortune has turned away from me.}
 {280}{}{命运已经从我身边溜走了。}
 ### {281}{}{I'm going to break the bank at the casino.}
 {281}{}{我要在赌场破财。}
 ### {282}{}{I'm trying to quit, but...}
-{282}{}{我想辞职，但是。。。}
+{282}{}{我想辞职，但是...}
 ### {283}{}{I'm having fun tonight!}
 {283}{}{我今晚玩得很开心！}
 ### {284}{}{I want to try my luck at the casino.}
@@ -260,7 +260,7 @@
 ### {293}{}{Death awaits you in the slums.}
 {293}{}{死亡在贫民窟等着你。}
 ### {294}{}{Caravaneers, caravaneers all around...}
-{294}{}{房车客，周围的房车客。。。}
+{294}{}{房车客，周围的房车客...}
 
 ### {295}{}{}
 {295}{}{error : string is empty}
@@ -287,9 +287,9 @@
 ### {331}{}{Do you think it wants to attack someone?}
 {331}{}{你认为它想攻击别人吗？}
 ### {332}{}{Just ignore, just ignore...}
-{332}{}{忽略，忽略。。。}
+{332}{}{忽略，忽略...}
 ### {333}{}{From the sight of this one... THINGS are getting uncomfortable.}
-{333}{}{从这个角度来看。。。事情变得越来越不舒服了。}
+{333}{}{从这个角度来看...事情变得越来越不舒服了。}
 ### {334}{}{It doesn't look like a robot.}
 {334}{}{它看起来不像机器人。}
 ### {335}{}{So that's what it is - the legendary power armor.}
@@ -309,13 +309,13 @@
 ### {341}{}{It looks ominous.}
 {341}{}{这看起来很不祥。}
 ### {342}{}{These sectarians are divorced... oops, it's better to be silent.}
-{342}{}{这些宗派主义者离婚了。。。哎呀，最好保持沉默。}
+{342}{}{这些宗派主义者离婚了...哎呀，最好保持沉默。}
 ### {343}{}{Don't speak ill of Followers.}
 {343}{}{不要说追随者的恶。}
 ### {344}{}{Don't look at the followers point-blank, it's a bad sign.}
 {344}{}{不要直视追随者，这是个坏兆头。}
 ### {345}{}{Is it a follower? I have to say something flattering...}
-{345}{}{它是追随者吗？我不得不说一些奉承的话。。。}
+{345}{}{它是追随者吗？我不得不说一些奉承的话...}
 ### {346}{}{These followers have spies everywhere.}
 {346}{}{这些追随者到处都有间谍。}
 ### {347}{}{Walking around the city openly like this? These sectarians have become quite arrogant.}
@@ -333,7 +333,7 @@
 ### {352}{}{This fighter is a fighter to all fighters.}
 {352}{}{这个战士是所有战士的战士。}
 ### {353}{}{Just don't look at him, just don't look...}
-{353}{}{别看他，别看。。。}
+{353}{}{别看他，别看...}
 ### {354}{}{Hey, great fight, champion!}
 {354}{}{嘿，打得好，冠军！}
 ### {355}{}{*whistles* Hey! Champion!}
@@ -341,7 +341,7 @@
 ### {356}{}{I wonder if this bully will pay attention to me.}
 {356}{}{我不知道这个恶霸会不会注意到我。}
 ### {357}{}{Men earn money from fights. What the world has come to...}
-{357}{}{男人靠打架赚钱。世界变成了什么样子。。。}
+{357}{}{男人靠打架赚钱。世界变成了什么样子...}
 ### {358}{}{Why aren't you fighting anymore?}
 {358}{}{你为什么不再打架了？}
 ### {359}{}{Come on, big guy, show me your left hook!}
@@ -355,7 +355,7 @@
 ### {362}{}{This bitch will put anyone on the shoulder blades.}
 {362}{}{这个婊子会让任何人都受不了的。}
 ### {363}{}{Just don't look at her, just don't look...}
-{363}{}{别看她，别看。。。}
+{363}{}{别看她，别看...}
 ### {364}{}{Hey, great fight, champion!}
 {364}{}{嘿，打得好，冠军！}
 ### {365}{}{*whistles* Hey! Champion!}
@@ -363,7 +363,7 @@
 ### {366}{}{I wonder if this star will pay attention to me.}
 {366}{}{我想知道这位明星是否会关注我。}
 ### {367}{}{A woman and an arena champion? What have we come to...}
-{367}{}{一个女人和一个竞技场冠军？我们来了什么。。。}
+{367}{}{一个女人和一个竞技场冠军？我们来了什么...}
 ### {368}{}{Why aren't you fighting anymore?}
 {368}{}{你为什么不再打架了？}
 ### {369}{}{Come on, woman, show me your right hook!}
@@ -384,9 +384,9 @@
 ### {375}{}{It's getting a little crowded in the city.}
 {375}{}{城市里有点拥挤了。}
 ### {376}{}{It's good that that guy was hanged...}
-{376}{}{那家伙被吊死了真是太好了。。。}
+{376}{}{那家伙被吊死了真是太好了...}
 ### {377}{}{There are only tramps and idlers around...}
-{377}{}{周围只有流浪汉和游手好闲的人。。。}
+{377}{}{周围只有流浪汉和游手好闲的人...}
 ### {378}{}{I can't live in such conditions anymore.}
 {378}{}{我不能再生活在这样的条件下了。}
 ### {379}{}{It's time to get out of the city.}
@@ -397,14 +397,14 @@
 ### {381}{}{Not a foot in the casino anymore.}
 {381}{}{再也不进赌场了。}
 ### {382}{}{I'll go to the casino for an hour... or more.}
-{382}{}{我要去赌场玩一个小时。。。或更多。}
+{382}{}{我要去赌场玩一个小时...或更多。}
 ### {383}{}{Fortune has turned away from me.}
 {383}{}{命运已经从我身边溜走了。}
 ### {384}{}{Everything was against me.}
 {384}{}{一切都对我不利。}
 
 ### {385}{}{If Followers start reading me another moral...}
-{385}{}{如果追随者开始读我另一个道德。。。}
+{385}{}{如果追随者开始读我另一个道德...}
 ### {386}{}{Even during the day it is dangerous in the slums.}
 {386}{}{即使在白天，在贫民窟也很危险。}
 ### {387}{}{There are more caravans.}
@@ -430,8 +430,8 @@
 ### {396}{}{A nuclear bomb? Yes, they were definitely abnormal.}
 {396}{}{核弹？是的，他们肯定不正常。}
 ### {397}{}{After the explosion in the Cathedral, the caps began to depreciate.}
-{397}{}{大教堂发生爆炸后，帽子开始贬值。}
+{397}{}{大教堂发生爆炸后，瓶盖开始贬值。}
 ### {398}{}{Who will now control the course of the caps?}
 {398}{}{现在谁来控制上限的进程？}
 ### {399}{}{It looks like the caps will become useless junk again.}
-{399}{}{看起来这些帽子又将变成无用的垃圾了。}
+{399}{}{看起来这些瓶盖又将变成无用的垃圾了。}

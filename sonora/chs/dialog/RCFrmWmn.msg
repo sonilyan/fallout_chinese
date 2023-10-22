@@ -15,7 +15,7 @@
 ### {114}{}{I wish those peasants in the north would share their seeds.}
 {114}{}{我希望北方的农民能分享他们的种子。}
 ### {115}{}{I'm so tired...}
-{115}{}{我太累了。。。}
+{115}{}{我太累了...}
 ### {116}{}{I'll have to get a new dog.}
 {116}{}{我得养一只新狗。}
 ### {117}{}{These radscorpions are real hooligans.}
@@ -52,9 +52,9 @@
 ### {131}{}{*Yawns*}
 {131}{}{*Yawns*}
 ### {132}{}{...I have to get up early tomorrow...}
-{132}{}{…我明天得早起。。。}
+{132}{}{…我明天得早起...}
 ### {133}{}{...How tired I am...}
-{133}{}{…我有多累。。。}
+{133}{}{…我有多累...}
 ### {134}{}{Z-z-z}
 {134}{}{Z-Z-Z}
 ### {135}{}{*Snoring*}
@@ -72,13 +72,13 @@
 ### {204}{}{. But if you need a place to sleep or food, then contact the rangers. Their settlement is up the road, just a couple of hours away.}
 {204}{}{。但如果你需要一个地方睡觉或吃饭，请联系护林员。他们的定居点就在路上，只有几个小时的路程。}
 ### {205}{}{Well, nice to meet you... a man with a strange name}
-{205}{}{很高兴认识你。。。一个名字奇怪的人}
+{205}{}{很高兴认识你...一个名字奇怪的人}
 ### {206}{}{Then why do you live here?}
 {206}{}{那你为什么住在这里？}
 ### {207}{}{Looks like you're just trying to kick me out.}
 {207}{}{看起来你只是想把我赶出去。}
 ### {208}{}{Why such rudeness? We have a peaceful farm. And if you're going to get rowdy, then remember that this is Ranger territory. And Rangers don't like brawlers...}
-{208}{}{为什么这么粗鲁？我们有一个宁静的农场。如果你想变得吵闹，那就记住这是游骑兵队的地盘。游骑兵队不喜欢打架。。。}
+{208}{}{为什么这么粗鲁？我们有一个宁静的农场。如果你想变得吵闹，那就记住这是游骑兵队的地盘。游骑兵队不喜欢打架...}
 ### {209}{}{Okay, okay, I get it.}
 {209}{}{好吧，好吧，我明白了。}
 ### {210}{}{That's good.}

@@ -8,7 +8,7 @@
 ### {200}{}{Where are you in a hurry, sectarian? Decided to get out of town? The right decision. We will help you.}
 {200}{}{你在哪里赶时间，宗派主义者？决定出城吗？正确的决定。我们会帮助你的。}
 ### {201}{}{Really? That's so kind...}
-{201}{}{真正地真是太好了。。。}
+{201}{}{真正地真是太好了...}
 ### {202}{}{You're confusing me with someone else.}
 {202}{}{你把我和别人搞混了。}
 ### {203}{}{We know you're a fire worshipper. And you know what? We will no longer tolerate this "nuclear magic" of yours here. Get out of town, scum.}
@@ -26,15 +26,15 @@
 ### {209}{}{No, I don't understand. Explain it again, stupid.}
 {209}{}{不，我不明白。再解释一遍，笨蛋。}
 ### {210}{}{Now I'll explain everything, scum...}
-{210}{}{现在我来解释一切，人渣。。。}
+{210}{}{现在我来解释一切，人渣...}
 ### {211}{}{What are you doing... stop...}
-{211}{}{你在干什么。。。停止}
+{211}{}{你在干什么...停止}
 ### {212}{}{Attack one at a time, guys.}
 {212}{}{一次攻击一个，伙计们。}
 ### {213}{}{Wait, guys. We're in this together. It was thanks to me that the church was swallowed up by a big hole.}
 {213}{}{等等，伙计们。我们在一起。多亏了我，教堂才被一个大洞吞没了。}
 ### {214}{}{Thu... Do you take me for a fool? No one will believe it.}
-{214}{}{周四。。。你以为我是个傻瓜吗？没有人会相信。}
+{214}{}{周四...你以为我是个傻瓜吗？没有人会相信。}
 ### {215}{}{In vain. These sectarians sponsored the slavers who kidnapped my relatives. The explosion was retribution.}
 {215}{}{徒劳。这些宗派主义者资助了绑架我亲属的奴隶贩子。这次爆炸是报复。}
 ### {216}{}{Yeah... You're singing too sweetly. If that's true, then you're responsible for the destruction all over Phoenix. Do you think this should make us happy? Get out of town. You go back and you're dead. Is that clear to you?}
@@ -46,11 +46,11 @@
 ### {219}{}{I don't care what you believe.}
 {219}{}{我不在乎你相信什么。}
 ### {220}{}{It looks like this little bitch doesn't understand human language. I'll have to explain with my fists...}
-{220}{}{看起来这个小婊子不懂人类语言。我得用拳头解释。。。}
+{220}{}{看起来这个小婊子不懂人类语言。我得用拳头解释...}
 ### {1220}{}{It looks like this bitch doesn't understand human language. We'll have to explain it by brute force...}
-{1220}{}{这个婊子好像不懂人类语言。我们必须用蛮力来解释。。。}
+{1220}{}{这个婊子好像不懂人类语言。我们必须用蛮力来解释...}
 ### {221}{}{Just be gentle, guys...}
-{221}{}{只要温柔一点，伙计们。。。}
+{221}{}{只要温柔一点，伙计们...}
 ### {222}{}{This is your last mistake.}
 {222}{}{这是你最后一次犯错。}
 ### {223}{}{You're threatening me. And those who threatened me ended their lives very quickly.}
@@ -73,7 +73,7 @@
 ### {236}{}{Hmm... (looks around from head to toe, expressing undisguised disgust) You can go now.}
 {236}{}{嗯……（从头到脚环顾四周，毫不掩饰地表示厌恶）你现在可以走了。}
 ### {237}{}{...}
-{237}{}{。。。}
+{237}{}{...}
 ### {238}{}{ It's hard for a person with my face to hide. What do you have against fire worshippers?}
 {238}{}{像我这样的人很难掩饰。你对拜火者有什么反对意见？}
 ### {239}{}{We are eradicating all sectarians in the city. After the explosion in the cathedral, they have no place here. And you too.}
@@ -81,25 +81,25 @@
 ### {240}{}{Why so much rudeness? Didn't the fire worshippers teach patience and love?}
 {240}{}{为什么这么粗鲁？拜火者不是教人耐心和爱吗？}
 ### {241}{}{In words, maybe. But they themselves were preparing a nuclear bomb in their dark dungeon. There is no faith for such anymore... In any case, you're not welcome here. Get out of town, atomic litter.}
-{241}{}{换句话说，也许。但他们自己却在黑暗的地牢里准备核弹。再也没有这样的信仰了。。。无论如何，这里不欢迎你。滚出去，原子垃圾。}
+{241}{}{换句话说，也许。但他们自己却在黑暗的地牢里准备核弹。再也没有这样的信仰了...无论如何，这里不欢迎你。滚出去，原子垃圾。}
 ### {242}{}{I can't argue with you. Good luck, guys.}
 {242}{}{我不能和你争论。祝你们好运。}
 ### {243}{}{For such words I will tear out your eyes and suck the brains out of your cooling skull.}
 {243}{}{为了这些话，我会撕裂你的眼睛，从你冰冷的头骨里吸出大脑。}
 ### {244}{}{It seems that this creature does not understand human language. Guys...}
-{244}{}{这个生物似乎不懂人类的语言。伙计们。。。}
+{244}{}{这个生物似乎不懂人类的语言。伙计们...}
 ### {245}{}{Oh, no violence...}
-{245}{}{哦，没有暴力。。。}
+{245}{}{哦，没有暴力...}
 ### {246}{}{You gulen-haters are all the same.}
 {246}{}{你们这些憎恨葛兰的人都一样。}
 ### {247}{}{Exactly. I am a victim, not a sectarian.}
 {247}{}{确切地我是受害者，而不是宗派主义者。}
 ### {248}{}{I don't believe you. Guys, don't let him escape...}
-{248}{}{我不相信你。伙计们，别让他逃跑。。。}
+{248}{}{我不相信你。伙计们，别让他逃跑...}
 ### {1248}{}{I don't believe you. Guys, don't let her escape...}
-{1248}{}{我不相信你。伙计们，别让她逃跑。。。}
+{1248}{}{我不相信你。伙计们，别让她逃跑...}
 ### {249}{}{Just not in the face...}
-{249}{}{只是不在脸上。。。}
+{249}{}{只是不在脸上...}
 ### {250}{}{Maybe so... Okay, go ahead. But if we find out that you are a fire worshipper, then you will burn at the stake with the others.}
 {250}{}{也许是这样…好吧，继续吧。但如果我们发现你是一个火崇拜者，那么你就会和其他人一起被烧死。}
 

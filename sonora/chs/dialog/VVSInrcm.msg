@@ -11,13 +11,13 @@
 ### {202}{}{Eh? Are you a talking box to me? I'm just passing by here.}
 {202}{}{呃？你是我的话匣子吗？我只是路过这里。}
 ### {203}{}{Damn it. I was expecting help from Phoenix... But maybe it's better this way. Tell me, wanderer, why are you here? Are you looking for something?}
-{203}{}{该死。我本来期待着菲尼克斯的帮助。。。但也许这样更好。告诉我，流浪者，你为什么在这里？你在找什么吗？}
+{203}{}{该死。我本来期待着菲尼克斯的帮助...但也许这样更好。告诉我，流浪者，你为什么在这里？你在找什么吗？}
 ### {1203}{}{Damn it. I was expecting help from Phoenix... But maybe it's better this way. Tell me, wanderer, why are you here? Are you looking for something?}
-{1203}{}{该死。我本来期待着菲尼克斯的帮助。。。但也许这样更好。告诉我，流浪者，你为什么在这里？你在找什么吗？}
+{1203}{}{该死。我本来期待着菲尼克斯的帮助...但也许这样更好。告诉我，流浪者，你为什么在这里？你在找什么吗？}
 ### {204}{}{It seemed to me that here I would find the prehistory of my people. There were things from Vault 27 in the Villa. This must be the place.}
-{204}{}{在我看来，我会在这里找到我的人民的史前史。别墅里有27号金库里的东西。这一定是个地方。}
+{204}{}{在我看来，我会在这里找到我的人民的史前史。别墅里有27号避难所里的东西。这一定是个地方。}
 ### {205}{}{Villa... Yes, I know what you're talking about. And I know how to help you.}
-{205}{}{别墅。。。是的，我知道你在说什么。我知道如何帮助你。}
+{205}{}{别墅...是的，我知道你在说什么。我知道如何帮助你。}
 ### {206}{}{Great! Tell me where to go?}
 {206}{}{太棒了告诉我去哪里？}
 ### {207}{}{Take your time. Help me first. I'm stuck on the lower level and I won't get out of here myself. All you need is to find a backup generator on the residential level and start it.}
@@ -64,15 +64,15 @@
 ### {227}{}{What do I need to know before going down to the Vault?}
 {227}{}{在进入保险库之前，我需要知道什么？}
 ### {228}{}{It's dark here, there's no energy. The air is poisoned, but gas masks will solve this problem. And take the weapon... just in case.}
-{228}{}{这里很黑，没有能量。空气是有毒的，但防毒面具可以解决这个问题。拿着武器。。。以防万一。}
+{228}{}{这里很黑，没有能量。空气是有毒的，但防毒面具可以解决这个问题。拿着武器...以防万一。}
 ### {229}{}{Why are there weapons here?}
 {229}{}{为什么这里有武器？}
 ### {230}{}{I'm just offering to be safe. This is an old Vault. I don't know all his secrets myself.}
-{230}{}{我只是想保证安全。这是一个旧金库。我自己并不知道他的所有秘密。}
+{230}{}{我只是想保证安全。这是一个旧避难所。我自己并不知道他的所有秘密。}
 ### {231}{}{You didn't tell me anything about those horrible people in gas masks!}
 {231}{}{你没有告诉我任何关于那些戴着防毒面具的可怕的人的事！}
 ### {232}{}{Ghosts? Shadows of the past. We woke them up when we went downstairs. It's hard to believe they're still alive... if they can be considered alive at all.}
-{232}{}{鬼魂？过去的阴影。我们下楼时把他们叫醒了。很难相信他们还活着。。。如果他们还活着的话。}
+{232}{}{鬼魂？过去的阴影。我们下楼时把他们叫醒了。很难相信他们还活着...如果他们还活着的话。}
 ### {233}{}{So you knew!}
 {233}{}{所以你知道！}
 ### {234}{}{I'm sorry, I should have warned you, but then I could have lost my only hope of salvation. Don't you understand?}
@@ -96,6 +96,6 @@
 ### {247}{}{Maybe distract them?}
 {247}{}{也许会分散他们的注意力？}
 ### {248}{}{I thought about it too... Inspect the adjacent rooms and try to run something from the old equipment there, which will create a lot of noise. And try not to get caught by the ghosts.}
-{248}{}{我也想过。。。检查相邻的房间，试着用那里的旧设备运行一些东西，这会产生很多噪音。尽量不要被鬼魂抓住。}
+{248}{}{我也想过...检查相邻的房间，试着用那里的旧设备运行一些东西，这会产生很多噪音。尽量不要被鬼魂抓住。}
 ### {249}{}{Okay.}
 {249}{}{可以}

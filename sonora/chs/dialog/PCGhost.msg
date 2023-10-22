@@ -1,14 +1,14 @@
 ### {100}{}{There's a ghost in front of you!}
 {100}{}{你面前有个鬼！}
 ### {101}{}{You see... the soul of a man burned in a nuclear flame.}
-{101}{}{你看。。。一个人的灵魂在核火焰中燃烧。}
+{101}{}{你看...一个人的灵魂在核火焰中燃烧。}
 
 ### {102}{}{What the hell is this?}
 {102}{}{这到底是什么？}
 ### {103}{}{It wasn't real, was it?}
 {103}{}{这不是真的，是吗？}
 ### {104}{}{I think I'm going crazy... Or not?}
-{104}{}{我想我快疯了。。。还是不？}
+{104}{}{我想我快疯了...还是不？}
 ### {105}{}{These souls are everywhere!}
 {105}{}{这些灵魂无处不在！}
 

@@ -25,7 +25,7 @@
 ### {111}{}{I won't tell anyone I saw you. Honestly.}
 {111}{}{我不会告诉任何人我看见你了。真的}
 ### {112}{}{Not by the face! I have only one tooth left...}
-{112}{}{不是靠脸！我只剩下一颗牙齿了。。。}
+{112}{}{不是靠脸！我只剩下一颗牙齿了...}
 ### {113}{}{Leave me alone!}
 {113}{}{别管我！}
 ### {114}{}{I don't have anything edible!}

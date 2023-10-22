@@ -11,11 +11,11 @@
 ### {201}{}{I'm just a man from the wasteland. I'm looking for my relatives from the Villa.}
 {201}{}{我只是一个来自荒原的人。我在别墅里找我的亲戚。}
 ### {202}{}{Villa... The database contains information about a settlement with that name. Several slaves arrived from there. But who are you to barge in here and ask questions?}
-{202}{}{别墅。。。该数据库包含有关具有该名称的定居点的信息。几个奴隶从那里来了。但你是谁来闯进来问问题？}
+{202}{}{别墅...该数据库包含有关具有该名称的定居点的信息。几个奴隶从那里来了。但你是谁来闯进来问问题？}
 ### {203}{}{Well, if you think about it, no one.}
 {203}{}{好吧，如果你仔细想想，没有人。}
 ### {204}{}{Directness and assertiveness. We value these qualities. Therefore, I will give you, a primitive creature from the desert, the opportunity to show yourself... as a volunteer.}
-{204}{}{直率和自信。我们珍视这些品质。因此，我将给你，一个来自沙漠的原始生物，展示自己的机会。。。作为一名志愿者。}
+{204}{}{直率和自信。我们珍视这些品质。因此，我将给你，一个来自沙漠的原始生物，展示自己的机会...作为一名志愿者。}
 ### {205}{}{I am one of the Followers of the Sacred Fire.}
 {205}{}{我是圣火的追随者之一。}
 ### {206}{}{Some of our ministers came out of this church. But here, where Two Suns shine, the rules are different from the ones you are used to. You can stay in our city, but don't distract my people from important work.}
@@ -27,7 +27,7 @@
 ### {209}{}{Actually, I want to see my relatives. Are they here?}
 {209}{}{事实上，我想见我的亲人。他们在这儿吗？}
 ### {210}{}{ (calculating something from his database) Peasants from the Villa... Your visit is late. Your tribesmen are already in the Sacred Mines in search of ancient technologies.}
-{210}{}{（根据他的数据库计算）别墅里的农民。。。你来晚了。你的部落成员已经在神圣的矿井中寻找古老的技术。}
+{210}{}{（根据他的数据库计算）别墅里的农民...你来晚了。你的部落成员已经在神圣的矿井中寻找古老的技术。}
 ### {211}{}{I will have to ask a number of questions.}
 {211}{}{我将不得不问一些问题。}
 ### {212}{}{I am on my way to Puerto Penasco on behalf of the Church of the Sacred Fire.}
@@ -35,9 +35,9 @@
 ### {213}{}{You're just obsessed. You must be stopped before you send the entire population of the wasteland to the Mines.}
 {213}{}{你只是被迷住了。在你把荒地上的所有人送到矿场之前，你必须被阻止。}
 ### {214}{}{You don't know who you're talking to, you fool. Submit, you will be assimilated...}
-{214}{}{你不知道你在和谁说话，你这个傻瓜。提交，你将被同化。。。}
+{214}{}{你不知道你在和谁说话，你这个傻瓜。提交，你将被同化...}
 ### {1214}{}{You don't know who you're talking to, you stupid wasteland creature. Submit, you will be assimilated...}
-{1214}{}{你不知道你在和谁说话，你这个愚蠢的荒原生物。提交，你将被同化。。。}
+{1214}{}{你不知道你在和谁说话，你这个愚蠢的荒原生物。提交，你将被同化...}
 ### {215}{}{Well, no!}
 {215}{}{不！}
 ### {216}{}{What are you talking about? I'm just going to get out of here. And just try to stop me, you freak with nuts.}
@@ -169,7 +169,7 @@
 ### {307}{}{We are only servants of these gods. They rule our lands in the name of Progress. They manage our resources and technologies for the development of the entire Wasteland. The story of the enslavement of the Villa was only part of this process. You are lucky to be in the center of a great change.}
 {307}{}{我们只是这些神的仆人。他们以进步的名义统治着我们的土地。他们管理我们的资源和技术，以开发整个荒原。别墅被奴役的故事只是这个过程的一部分。你很幸运能处于一个巨大变化的中心。}
 ### {308}{}{Your point of view... deserves attention.}
-{308}{}{你的观点。。。值得关注。}
+{308}{}{你的观点...值得关注。}
 ### {309}{}{Rub this nonsense into the rest of the tinkerers, but not me.}
 {309}{}{把这些胡言乱语灌输给其他修补匠，但不是我。}
 
@@ -284,9 +284,9 @@
 ### {421}{}{Very good. It looks like you have a vein of steel in you that we appreciate. Now provide a full report.}
 {421}{}{很好。看起来你身上有一股钢铁般的气质，我们对此表示赞赏。现在提供一份完整的报告。}
 ### {422}{}{It was like this...}
-{422}{}{就像这样。。。}
+{422}{}{就像这样...}
 ### {423}{}{...We are pleased with the results. The award will be given by the quartermaster... Wait. There is one more task for you.}
-{423}{}{……我们对结果感到满意。该奖项将由军需官颁发。。。等待你还有一项任务。}
+{423}{}{……我们对结果感到满意。该奖项将由军需官颁发...等待你还有一项任务。}
 ### {424}{}{Tell me.}
 {424}{}{告诉我。}
 ### {425}{}{By completing the task, you have increased your reputation with the tinsmiths.}
@@ -298,7 +298,7 @@
 ### {428}{}{I'm on my way.}
 {428}{}{我在路上。}
 ### {429}{}{...The result is satisfactory. The award will be given by the quartermaster... Wait. There is one more task for you.}
-{429}{}{……结果令人满意。该奖项将由军需官颁发。。。等待你还有一项任务。}
+{429}{}{……结果令人满意。该奖项将由军需官颁发...等待你还有一项任务。}
 
 ### {430}{}{I managed to find a tinker in Casa Grande. He's dead. Here's the proof - his neurochip.}
 {430}{}{我设法在格兰德之家找到了一个修补匠。他死了。这是证据——他的神经芯片。}

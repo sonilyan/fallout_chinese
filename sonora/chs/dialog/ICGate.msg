@@ -54,7 +54,7 @@
 ### {229}{}{Okay...}
 {229}{}{可以}
 ### {230}{}{You've always been like this... so unusual?}
-{230}{}{你一直都是这样。。。这么不寻常？}
+{230}{}{你一直都是这样...这么不寻常？}
 ### {231}{}{I was once a man like you. I remember my feelings-fear, hatred and envy. But the Creator opened a new path for me, and I got rid of human vices. And then the Normies took the Creator away from me.}
 {231}{}{我曾经是一个像你一样的人。我记得我的感受——恐惧、仇恨和嫉妒。但造物主为我开辟了一条新的道路，我摆脱了人类的恶习。然后北欧人把造物主从我身边带走了。}
 ### {232}{}{Sorry, this question seems to annoy you. I'd rather leave.}
@@ -105,7 +105,7 @@
 ### {254}{}{Microwave? This is one of Levi's developments. Will you teach me how to use it?}
 {254}{}{微波炉这是李维斯的发展之一。你能教我怎么用它吗？}
 ### {255}{}{And you normies need to be taught everything. Okay, I'll show you... If you bring me a proper meal.}
-{255}{}{你们这些正常人需要被教会一切。好的，我给你看。。。如果你给我带一顿像样的饭。}
+{255}{}{你们这些正常人需要被教会一切。好的，我给你看...如果你给我带一顿像样的饭。}
 ### {256}{}{Okay, I'll look for something.}
 {256}{}{好吧，我去找点什么。}
 ### {257}{}{Food? Here? You want too much, green.}
@@ -118,7 +118,7 @@
 ### {262}{}{Okay. I'll show you. It's not difficult.}
 {262}{}{可以我给你看。这并不难。}
 ### {263}{}{Then let's not waste time. I don't want to be in a situation where you get hungry again in the middle of training...}
-{263}{}{那我们就不要浪费时间了。我不想让你在训练中再次感到饥饿。。。}
+{263}{}{那我们就不要浪费时间了。我不想让你在训练中再次感到饥饿...}
 ### {264}{}{Great, but we'll do it a little later.}
 {264}{}{很好，但我们稍后再做。}
 ### {265}{}{Actually, I'm not really interested in energy weapons. But this trunk is something. Show me how to handle heavy weapons!}

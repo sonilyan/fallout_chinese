@@ -48,7 +48,7 @@
 ### {213}{}{Go away. Otherwise, the power of Progress will level you to the ground.}
 {213}{}{走开。否则，“进步”的力量会将你夷为平地。}
 ### {214}{}{We'll see about that...}
-{214}{}{我们拭目以待。。。}
+{214}{}{我们拭目以待...}
 ### {215}{}{You can go through. While you're inside, hide your weapons and don't run into trouble. Don't talk to slaves. Do not enter the Restricted Area without permission. Go straight to the hangar and talk to Master Hard, our leader. That's it.}
 {215}{}{你可以通过。当你在里面的时候，把武器藏起来，不要惹麻烦。不要和奴隶说话。未经许可，请勿进入禁区。直接去机库和我们的领导人哈德大师谈谈。就是这样。}
 ### {216}{}{Quite a harsh set of rules. I will try not to create problems.}
@@ -80,11 +80,11 @@
 {228}{}{这是令人鼓舞的。}
 
 ### {229}{}{I need maintenance. Here are two hundred caps to start with.}
-{229}{}{我需要保养。这里有200顶帽子。}
+{229}{}{我需要保养。这里有200个瓶盖。}
 ### {230}{}{We love work. And we love technology. Your problem will become our problem if you are able to pay.}
 {230}{}{我们热爱工作。我们热爱科技。如果你有能力付款，你的问题就会变成我们的问题。}
 ### {231}{}{I think I will find the right amount of caps.}
-{231}{}{我想我会找到合适数量的帽子。}
+{231}{}{我想我会找到合适数量的瓶盖。}
 
 ### {232}{}{I am only a peaceful preacher of the Sacred Fire. Let me in for the night, generous tinker!}
 {232}{}{我只是一个和平的圣火传教士。让我进来过夜吧，慷慨的修补匠！}

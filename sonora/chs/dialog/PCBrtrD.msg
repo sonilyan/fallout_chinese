@@ -33,7 +33,7 @@
 ### {202}{}{I have only the freshest, straight from the wastelands. Do you want rat soup? Mmm, a delicious rat! I was running around the sewers this morning.}
 {202}{}{我只有最新鲜的，直接来自荒原的。你要老鼠汤吗？嗯，一只美味的老鼠！今天早上我在下水道里跑来跑去。}
 ### {203}{}{Uh, let me think...}
-{203}{}{呃，让我想想。。。}
+{203}{}{呃，让我想想...}
 ### {204}{}{By the way, I had to raise the prices after all the hype in the Cathedral.}
 {204}{}{顺便说一句，在大教堂里大肆宣传之后，我不得不提高价格。}
 ### {205}{}{Well, your right.}
@@ -48,7 +48,7 @@
 ### {221}{}{Hey, don't you care which sewer the rat is caught in? They bring them to me from all over the city. I'm not going to clarify every time, right?}
 {221}{}{嘿，你不在乎老鼠是在哪个下水道里被抓的吗？他们把他们从城里各地带到我这里来。我不会每次都澄清的，对吧？}
 ### {222}{}{I shouldn't have asked that...}
-{222}{}{我不该问这个。。。}
+{222}{}{我不该问这个...}
 ### {223}{}{Do you have anything less disgusting?}
 {223}{}{你有什么不那么恶心的吗？}
 ### {224}{}{Sometimes the scavengers bring those unforgettable pre-war dinners. Mmm! But I keep them for special clients.}
@@ -66,7 +66,7 @@
 ### {230}{}{Your list of "special clients" simply must have Followers of Fire.}
 {230}{}{你的“特殊客户”名单上必须有火的追随者。}
 ### {231}{}{I think you won't refuse a generous tip. Here are 10 caps.}
-{231}{}{我想你不会拒绝慷慨的小费的。这里有10顶帽子。}
+{231}{}{我想你不会拒绝慷慨的小费的。这里有10个瓶盖。}
 ### {232}{}{(smiling with crooked teeth) Thank you, mister.}
 {232}{}{（笑着弯着牙）谢谢你，先生。}
 ### {233}{}{So what about those pre-war dinners?}
@@ -82,7 +82,7 @@
 ### {238}{}{Yes, it wasn't really necessary.}
 {238}{}{是的，其实没有必要。}
 ### {239}{}{ (throws up his hands) Is this a joke? If there are no caps, then get out of here! I don't feed beggars.}
-{239}{}{（举起双手）这是个笑话吗？如果没有帽子，那就离开这里！我不喂乞丐。}
+{239}{}{（举起双手）这是个笑话吗？如果没有瓶盖，那就离开这里！我不喂乞丐。}
 ### {240}{}{[Leave]}
 {240}{}{[离开]}
 ### {241}{}{Where did all of a sudden so much fresh meat come from, my friend?}
@@ -101,11 +101,11 @@
 ### {251}{}{Some street robber stabbed him like a dog. There was nothing to shine with your new suit.}
 {251}{}{某个街头抢劫犯像狗一样刺伤了他。你的新西装一点光彩都没有。}
 ### {252}{}{It was from my caps that he bought it.}
-{252}{}{他是从我的帽子里买的。}
+{252}{}{他是从我的瓶盖里买的。}
 ### {253}{}{Well, then you are in some sense an accomplice, hehe... Oh.}
-{253}{}{那么，从某种意义上说，你就是同谋，呵呵。。。哦}
+{253}{}{那么，从某种意义上说，你就是同谋，呵呵...哦}
 ### {1253}{}{Well, then you are in some sense an accomplice, hehe... Oh.}
-{1253}{}{那么，从某种意义上说，你就是同谋，呵呵。。。哦}
+{1253}{}{那么，从某种意义上说，你就是同谋，呵呵...哦}
 ### {254}{}{Hmm. A curious thought.}
 {254}{}{嗯，一个奇怪的想法。}
 ### {255}{}{Watch your mouth before you go after Lloyd.}
@@ -117,15 +117,15 @@
 ### {301}{}{Hey, I need to cook here. Would you like some rat soup? Take a portion, you won't regret it.}
 {301}{}{嘿，我需要在这里做饭。你想要一些老鼠汤吗？吃一份，你不会后悔的。}
 ### {302}{}{I don't have caps to buy.}
-{302}{}{我没有帽子可买。}
+{302}{}{我没有瓶盖可买。}
 ### {303}{}{And I don't have time to talk. Excuse me.}
 {303}{}{我没有时间说话。打扰一下}
 ### {304}{}{I see, goodbye.}
 {304}{}{我明白了，再见。}
 ### {305}{}{Great, here are 10 caps, and while I'm eating your soup, you'll tell me how it was. OK?}
-{305}{}{太好了，这是10顶帽子，当我吃你的汤时，你会告诉我它是如何的。好啊}
+{305}{}{太好了，这是10个瓶盖，当我吃你的汤时，你会告诉我它是如何的。好啊}
 ### {306}{}{Sorry, but even a spoonful of soup won't pay for such caps.}
-{306}{}{对不起，即使是一勺汤也买不起这样的帽子。}
+{306}{}{对不起，即使是一勺汤也买不起这样的瓶盖。}
 ### {307}{}{Uh, I think I miscalculated a little.}
 {307}{}{呃，我想我有点误判了。}
 ### {1307}{}{Uh, I think I miscalculated a little.}

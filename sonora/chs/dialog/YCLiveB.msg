@@ -22,13 +22,13 @@
 ### {202}{}{Well, then you're lucky. I'm lucky too. More points every time!}
 {202}{}{那你就幸运了。我也很幸运。每一次都获得更多积分！}
 ### {203}{}{Well, that's...}
-{203}{}{嗯，那是。。。}
+{203}{}{嗯，那是...}
 ### {204}{}{Oh, if only I had always been so fortified! I thought that my old age would be quite sad, but in this hotel I feel young like never before! And it's so much fun!}
 {204}{}{噢，要是我一直这么坚强就好了！我原以为我的晚年会很难过，但在这家酒店里，我感到前所未有的年轻！这太有趣了！}
 ### {205}{}{I actually...}
-{205}{}{实际上我。。。}
+{205}{}{实际上我...}
 ### {206}{}{Glad that...}
-{206}{}{很高兴。。。}
+{206}{}{很高兴...}
 ### {207}{}{And now I'm sorry, Daddy needs a pair of brand new shoes. Eh, there was no such thing! I bet on red!}
 {207}{}{现在我很抱歉，爸爸需要一双崭新的鞋子。啊，根本就没有！我赌红色！}
 ### {208}{}{I won't interfere.}
@@ -102,6 +102,6 @@
 ### {1250}{}{As you asked, I told her you were dead. And do you know what happened? Her heart couldn't stand it and burst!}
 {1250}{}{正如你所问，我告诉她你已经死了。你知道发生了什么吗？她的心受不了了，爆裂了！}
 ### {251}{}{How... it can't be... I didn't expect this... oh... ugh...}
-{251}{}{怎样不可能…我没想到。。。哦呃。。。}
+{251}{}{怎样不可能…我没想到...哦呃...}
 ### {252}{}{Just don't tell me that you're going to throw away your skates now.}
 {252}{}{只是别告诉我你现在要扔掉你的溜冰鞋。}

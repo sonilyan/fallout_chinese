@@ -5,7 +5,7 @@
 ### {102}{}{Don't come near me! You, uh, smell bad.}
 {102}{}{不要靠近我！你，呃，闻起来很臭。}
 ### {103}{}{Damn it, and it's all because of that sucker...}
-{103}{}{该死，都是因为那个混蛋。。。}
+{103}{}{该死，都是因为那个混蛋...}
 
 ### {200}{}{Ay-yay-yay, what a small fish! Why do I need you? Swim back to the sea, get big and then come back. Let's! See you later, little fish!}
 {200}{}{呀呀呀呀，多么小的一条鱼啊！我为什么需要你？游回大海，变大，然后回来。让我们回头见，小鱼儿！}
@@ -36,7 +36,7 @@
 ### {223}{}{Tin-Tan - what a strange name?}
 {223}{}{天坛——多么奇怪的名字？}
 ### {224}{}{I used to be... drum roll... Topillo! And then I became Tin-Tan. Actually, my name is... boom, boom, boom... Herman Genaro Cipriano Gomez Valdez y Castillo! But it's a little... uncomfortable, you know?}
-{224}{}{我曾经是…鼓手。。。托皮洛！然后我变成了天坛。事实上，我的名字是…轰，轰，轰。。。Herman Genaro Cipriano Gomez Valdez y Castillo！但这有点。。。不舒服，你知道吗？}
+{224}{}{我曾经是…鼓手...托皮洛！然后我变成了天坛。事实上，我的名字是…轰，轰，轰...Herman Genaro Cipriano Gomez Valdez y Castillo！但这有点...不舒服，你知道吗？}
 ### {225}{}{Ah, now it's clear.}
 {225}{}{啊，现在清楚了。}
 ### {226}{}{I'd say it's a nickname, you idiot.}

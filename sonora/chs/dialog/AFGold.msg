@@ -69,11 +69,11 @@
 ### {241}{}{Come here!}
 {241}{}{过来！}
 ### {242}{}{Uh, okay...}
-{242}{}{好吧。。。}
+{242}{}{好吧...}
 ### {243}{}{The hell with it! I'll find the treasure without you.}
 {243}{}{见鬼去吧！没有你我会找到宝藏的。}
 ### {244}{}{Ta-ak... (Takes out his fragment, connects everything together and twirls them together for a long time) Here it is...}
-{244}{}{Ta ak。。。（拿出他的碎片，把所有的东西连接在一起，旋转了很长一段时间）就在这里。。。}
+{244}{}{Ta ak...（拿出他的碎片，把所有的东西连接在一起，旋转了很长一段时间）就在这里...}
 ### {245}{}{Are you sure?}
 {245}{}{你确定吗？}
 ### {246}{}{Precisely! It remains to come and take it. Now find a shovel and go to the place. The treasure is buried next to the old lighthouse on the coast north of the village.}
@@ -92,7 +92,7 @@
 ### {254}{}{And who did you sell it to?}
 {254}{}{你把它卖给了谁？}
 ### {255}{}{I even have it in my notes, look here... Only Tin-Tan has been buying rope lately. Hey, isn't he like Uncle Johnny? No wonder he had my rope.}
-{255}{}{我的笔记里都有，看这里。。。最近只有田谭在买绳子。嘿，他不像强尼叔叔吗？怪不得他有我的绳子。}
+{255}{}{我的笔记里都有，看这里...最近只有田谭在买绳子。嘿，他不像强尼叔叔吗？怪不得他有我的绳子。}
 ### {256}{}{Okay. I'll talk to this uncle.}
 {256}{}{可以我会和这位叔叔谈谈。}
 ### {257}{}{I'm asking questions here, you idiot. Who was the last person to buy a rope from you?}

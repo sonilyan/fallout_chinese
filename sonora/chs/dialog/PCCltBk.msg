@@ -62,7 +62,7 @@
 ### {240}{}{What is this place?}
 {240}{}{这是什么地方？}
 ### {241}{}{This is a library. A place where paper sources of knowledge are stored... mostly pre-war. I understand that this looks a little strange, because there is not a single library left in the world anymore. But our work is all the more valuable.}
-{241}{}{这是一个图书馆。一个储存纸质知识来源的地方。。。大部分是战前。我知道这看起来有点奇怪，因为世界上已经没有一个图书馆了。但我们的工作更有价值。}
+{241}{}{这是一个图书馆。一个储存纸质知识来源的地方...大部分是战前。我知道这看起来有点奇怪，因为世界上已经没有一个图书馆了。但我们的工作更有价值。}
 ### {242}{}{Where did all these books come from?}
 {242}{}{这些书都是从哪里来的？}
 ### {243}{}{From everywhere. We buy up all pre-war books and manuscripts. Part of this collection came to us from our predecessors, who buried them in the desert.}
@@ -83,7 +83,7 @@
 ### {250}{}{About the drawing. Tell me, what does "transformer unit 6-B" mean?}
 {250}{}{关于绘图。告诉我，“变压器单元6-B”是什么意思？}
 ### {251}{}{This is... well... the name of the document, obviously.}
-{251}{}{这是…嗯。。。显然是文件的名称。}
+{251}{}{这是…嗯...显然是文件的名称。}
 ### {252}{}{I understand that. But WHAT does it mean?}
 {252}{}{我理解。但这意味着什么？}
 ### {253}{}{This is the *name* of the drawing you're looking at. And what does your name mean?}
@@ -97,7 +97,7 @@
 ### {257}{}{I think almost nothing. But what does the drawing symbolize, Brother Francis?}
 {257}{}{我几乎什么都没想。但这幅画象征着什么，弗朗西斯兄弟？}
 ### {258}{}{He... symbolizes ... (turns over the drawing and reads the inscription) transformer unit 6-In.}
-{258}{}{他象征着。。。（翻转图纸并阅读铭文）变压器单元6-In。}
+{258}{}{他象征着...（翻转图纸并阅读铭文）变压器单元6-In。}
 ### {259}{}{It's all clear, Brother Francis. It's all clear to me now.}
 {259}{}{一切都很清楚，弗朗西斯兄弟。我现在都清楚了。}
 
@@ -147,7 +147,7 @@
 ### {283}{}{Hmm. These documents are used quite rarely. I think I can match it with the seals of the visitors. But name the dates you need.}
 {283}{}{嗯。这些文件很少使用。我想我可以把它与来访者的印章相匹配。但说出你需要的日期。}
 ### {284}{}{I am interested in these days...}
-{284}{}{我对这些天很感兴趣。。。}
+{284}{}{我对这些天很感兴趣...}
 ### {285}{}{...Well, apparently, in those days only Prior Mathias could study the documents.}
 {285}{}{……很明显，在那些日子里，只有Prior Mathias才能研究这些文件。}
 ### {286}{}{Where can I find him?}
@@ -195,11 +195,11 @@
 ### {316}{}{You are welcome. Goodbye.}
 {316}{}{不客气。再见}
 ### {317}{}{I want to get caps for this.}
-{317}{}{我想买帽子。}
+{317}{}{我想买瓶盖。}
 ### {318}{}{Sure. That's fair. Here's your reward - }
 {318}{}{当然这很公平。这是你的奖励-}
 ### {319}{}{ caps.}
-{319}{}{帽子。}
+{319}{}{瓶盖。}
 ### {320}{}{Maybe the library needs some specific books?}
 {320}{}{也许图书馆需要一些特定的书？}
 ### {321}{}{Oh, yes. Some people don't want to share old knowledge. Perhaps you can get through their stupidity?}
@@ -227,7 +227,7 @@
 ### {332}{}{I have the holy Book.}
 {332}{}{我有圣书。}
 ### {333}{}{Oh, these pages are beautiful! God, there's even Latin here. Ugh, it takes my breath away with anticipation...}
-{333}{}{哦，这些页面真漂亮！上帝，这里甚至还有拉丁语。啊，这让我大吃一惊。。。}
+{333}{}{哦，这些页面真漂亮！上帝，这里甚至还有拉丁语。啊，这让我大吃一惊...}
 ### {334}{}{If it's so important to the church, then take it for free. I just want to do something good.}
 {334}{}{如果它对教会如此重要，那就免费拿走吧。我只想做点好事。}
 ### {335}{}{I will pray for you, my brother. The world lacks people like you.}
@@ -237,9 +237,9 @@
 ### {336}{}{Good luck, Brother Francis.}
 {336}{}{祝你好运，弗朗西斯兄弟。}
 ### {337}{}{It was very difficult to get this thing. I demand 300 caps in return.}
-{337}{}{得到这个东西很困难。我要求300顶帽子作为回报。}
+{337}{}{得到这个东西很困难。我要求300个瓶盖作为回报。}
 ### {338}{}{Of course, here are the bottlecaps. It's not a pity for this relic of caps.}
-{338}{}{当然，这是瓶装水。这顶帽子的遗迹一点也不可惜。}
+{338}{}{当然，这是瓶装水。这个瓶盖的遗迹一点也不可惜。}
 ### {339}{}{Good luck, Brother Francis.}
 {339}{}{祝你好运，弗朗西斯兄弟。}
 ### {340}{}{Wait, brother. I think you should talk to Aaron himself. I will inform him about the help you have given to our church. And if you need my recommendation, you can count on it.}

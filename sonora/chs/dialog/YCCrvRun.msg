@@ -30,13 +30,13 @@
 ### {209}{}{[Leave]}
 {209}{}{[离开]}
 ### {210}{}{Hey, wait, I actually have 1000 caps. Now bring the goods.}
-{210}{}{嘿，等等，我实际上有1000顶帽子。现在把货物带来。}
+{210}{}{嘿，等等，我实际上有1000个瓶盖。现在把货物带来。}
 ### {211}{}{That's what I understand ? business people! Well, all the best, partner.}
 {211}{}{这就是我所理解的? 商界人士！好吧，一切都好，伙计。}
 ### {212}{}{Goodbye.}
 {212}{}{再见}
 ### {213}{}{And now give the caps back, you idiot.}
-{213}{}{现在把帽子还给我，你这个白痴。}
+{213}{}{现在把瓶盖还给我，你这个白痴。}
 ### {214}{}{Aren't you lying? I was told that Steve Morgan had gone down this road.}
 {214}{}{你不是在撒谎吗？有人告诉我，史蒂夫·摩根已经走上了这条路。}
 ### {215}{}{No, I'm not Steve Morgan. And why do you need it?}
@@ -50,7 +50,7 @@
 ### {219}{}{Sorry. Where's Morgan then?}
 {219}{}{很抱歉那摩根在哪里？}
 ### {220}{}{Just don't kill me! Okay, I took the fuel controller. Truckers pay little. I was hoping to sell this thing in the Hub for a lot of money... listen, what about the deal? I will sell the controller to you for 800 caps, and you will resell it to Truckers, how do you like this option?}
-{220}{}{别杀了我！好吧，我拿了燃油控制器。卡车司机付的钱很少。我希望能在Hub卖这个东西赚很多钱。。。听着，交易怎么样？我会以800顶的价格把控制器卖给你，你会把它转售给卡车司机，你觉得这个选项怎么样？}
+{220}{}{别杀了我！好吧，我拿了燃油控制器。卡车司机付的钱很少。我希望能在Hub卖这个东西赚很多钱...听着，交易怎么样？我会以800顶的价格把控制器卖给你，你会把它转售给卡车司机，你觉得这个选项怎么样？}
 ### {221}{}{But truckers pay half as much.}
 {221}{}{但卡车司机要付一半的钱。}
 ### {222}{}{Damn, that's right. But understand that this is my thing and I set the price for it, not them. So are you going to buy it?}
@@ -62,14 +62,14 @@
 ### {225}{}{[Leave]}
 {225}{}{[离开]}
 ### {226}{}{Wait, I've changed my mind. Here are 800 caps. Now bring the goods.}
-{226}{}{等等，我改变主意了。这里有800顶帽子。现在把货物带来。}
+{226}{}{等等，我改变主意了。这里有800个瓶盖。现在把货物带来。}
 ### {227}{}{If you don't want to give up the controller, then I'll take it by force...}
-{227}{}{如果你不想放弃控制器，那么我会强行拿走。。。}
+{227}{}{如果你不想放弃控制器，那么我会强行拿走...}
 ### {228}{}{Yes. Here are 800 caps.}
-{228}{}{对这里有800顶帽子。}
+{228}{}{对这里有800个瓶盖。}
 ### {229}{}{Yes. Here are 1000 caps.}
-{229}{}{对这里有1000顶帽子。}
+{229}{}{对这里有1000个瓶盖。}
 ### {230}{}{Morgan still wants to sell the controller for 1000 hubbucks. Well, is it a deal?}
 {230}{}{摩根仍然想以1000美元的价格出售控制器。好吧，这是一笔交易吗？}
 ### {231}{}{The conditions have not changed: 800 caps, and the controller is yours. So are you going to buy it?}
-{231}{}{条件没有改变：800顶帽子，控制器是你的。你打算买吗？}
+{231}{}{条件没有改变：800个瓶盖，控制器是你的。你打算买吗？}

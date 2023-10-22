@@ -5,9 +5,9 @@
 ### {102}{}{Good luck. I'm leaving the Aqueduct soon. I'll try to find a place to live upstream of Colorado.}
 {102}{}{祝你好运我马上就要离开渡槽了。我会设法在科罗拉多上游找个地方住。}
 ### {103}{}{What happened... in that water...}
-{103}{}{发生了什么。。。在那水里。。。}
+{103}{}{发生了什么...在那水里...}
 ### {104}{}{Ah-x...}
-{104}{}{啊。。。}
+{104}{}{啊...}
 
 #Dialog
 ### {200}{}{Uh, hello?}
@@ -15,7 +15,7 @@
 ### {201}{}{I'm new here. Looking for dating.}
 {201}{}{我是新来的。正在寻找约会。}
 ### {202}{}{That's how... great. I'm new here too. And I'm not lucky at dating.}
-{202}{}{这就是为什么。。。太棒了我也是新来的。我在约会方面运气不好。}
+{202}{}{这就是为什么...太棒了我也是新来的。我在约会方面运气不好。}
 ### {203}{}{Did something happen?}
 {203}{}{发生什么事了吗？}
 ### {204}{}{I came with two friends, but they disappeared, and the locals don't want to do business with me. Now I'm sitting by the fire, fishing and thinking about the future.}
@@ -54,9 +54,9 @@
 {226}{}{再见回头见。}
 
 ### {230}{}{I managed to find your friends... at the bottom of the aqueduct.}
-{230}{}{我设法找到了你的朋友。。。在渡槽底部。}
+{230}{}{我设法找到了你的朋友...在渡槽底部。}
 ### {231}{}{They're dead, aren't they? Damn... Now I understand why Garth forbids going to that ancient structure. Surely we're not the first ones he and his henchmen have killed. Damn Rangers...}
-{231}{}{他们死了，不是吗？该死现在我明白为什么加思禁止去那个古老的建筑了。我们肯定不是他和他的党羽杀死的第一批人。该死的流浪者。。。}
+{231}{}{他们死了，不是吗？该死现在我明白为什么加思禁止去那个古老的建筑了。我们肯定不是他和他的党羽杀死的第一批人。该死的流浪者...}
 ### {232}{}{What are you going to do now?}
 {232}{}{你现在打算做什么？}
 ### {233}{}{I would like to take revenge on this bastard so that history does not repeat itself. But this way I will only make enemies for myself. In any case, I can't stay here.}
@@ -74,7 +74,7 @@
 ### {239}{}{Go to hell, I'm already up to my ears in shit because of you.}
 {239}{}{见鬼去吧，因为你，我已经到了极点了。}
 ### {240}{}{Of course, forget it. I'll just walk out of here, and Garth will go unpunished... yes. It's BETTER this WAY.}
-{240}{}{当然，忘了它。我就离开这里，加思就会逍遥法外。。。对这样更好。}
+{240}{}{当然，忘了它。我就离开这里，加思就会逍遥法外...对这样更好。}
 ### {241}{}{Just don't put pressure on my feelings! Adios, man.}
 {241}{}{只是不要给我的感情施加压力！再见，伙计。}
 ### {242}{}{Let's just kill Garth? It will be easier and more fun.}

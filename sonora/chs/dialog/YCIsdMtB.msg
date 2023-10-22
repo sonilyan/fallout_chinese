@@ -16,7 +16,7 @@
 {109}{}{error : string is empty}
 
 ### {200}{}{Who do we have here? Come here, man! You will be my sweet...}
-{200}{}{我们这里有谁？过来，伙计！你将是我的爱人。。。}
+{200}{}{我们这里有谁？过来，伙计！你将是我的爱人...}
 ### {201}{}{Catch it first, asshole.}
 {201}{}{先抓住它，混蛋。}
 ### {202}{}{Please don't touch me!}
@@ -26,7 +26,7 @@
 ### {204}{}{Stop, scum!}
 {204}{}{住手，人渣！}
 ### {205}{}{Don't...}
-{205}{}{不要。。。}
+{205}{}{不要...}
 ### {206}{}{Listen, I'm trying to help the ghouls. Have pity on us, we are not your enemies!}
 {206}{}{听着，我正试图帮助食尸鬼。可怜我们吧，我们不是你的敌人！}
 ### {207}{}{You? Help? Walking? Ha-ha-ha, made me laugh! I didn't know there were such fools.}
@@ -40,7 +40,7 @@
 ### {210}{}{Oh, it's a pity to even dirty your hands like you. Don't get in our way again.}
 {210}{}{哦，像你这样弄脏你的手真是太可惜了。别再妨碍我们了。}
 ### {211}{}{Ugh, it's gone...}
-{211}{}{啊，它不见了。。。}
+{211}{}{啊，它不见了...}
 ### {212}{}{And here's another body. We're lucky to be out partying today. Good catch.}
 {212}{}{这是另一具尸体。我们今天很幸运能出去聚会。抢手货}
 ### {213}{}{You look big and formidable, but you don't have any brains.}
@@ -52,9 +52,9 @@
 ### {216}{}{What did you say? Shut your mouth, scavenger! We are not dirty mutants, we are pure-blooded soldiers of the Creator!}
 {216}{}{你说什么？闭上你的嘴，拾荒者！我们不是肮脏的变种人，我们是造物主的纯正战士！}
 ### {217}{}{I think I just made him angry...}
-{217}{}{我想我只是让他生气了。。。}
+{217}{}{我想我只是让他生气了...}
 ### {1217}{}{I think I just made him angry...}
-{1217}{}{我想我只是让他生气了。。。}
+{1217}{}{我想我只是让他生气了...}
 ### {218}{}{Hmm, that's true. People hate us all for it. But this is all that unites us. We're not scavengers like you. We are pure-blooded soldiers of the Creator! Remember that, half-breed.}
 {218}{}{嗯，那是真的。人们因此憎恨我们所有人。但这是我们团结在一起的全部。我们不像你那样是拾荒者。我们是造物主的纯正战士！记住，混血儿。}
 ### {219}{}{Yes, sir. I'll remember that.}

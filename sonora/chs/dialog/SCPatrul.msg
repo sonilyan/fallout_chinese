@@ -26,9 +26,9 @@
 ### {208}{}{Okay. Now tell me, amigo, what brought you to us?}
 {208}{}{可以现在告诉我，朋友，是什么把你带到我们这里来的？}
 ### {209}{}{I'm from a village in the north. We were attacked by slavers, and now I'm trying to save the village...}
-{209}{}{我来自北方的一个村庄。我们被奴隶贩子袭击了，现在我正试图拯救这个村庄。。。}
+{209}{}{我来自北方的一个村庄。我们被奴隶贩子袭击了，现在我正试图拯救这个村庄...}
 ### {210}{}{That's exactly what I need. My village was enslaved by slavers, and I'm trying to save it...}
-{210}{}{这正是我所需要的。我的村庄被奴隶贩子奴役，我正在努力拯救它。。。}
+{210}{}{这正是我所需要的。我的村庄被奴隶贩子奴役，我正在努力拯救它...}
 ### {211}{}{I'm sorry, but I won't bother the general about one village. We just don't have time for this.}
 {211}{}{对不起，我不会为一个村庄的事打扰将军。我们只是没有时间。}
 ### {212}{}{No, you don't understand. You are the slavers. I'll destroy your whole gang!}
@@ -60,11 +60,11 @@
 ### {224}{}{Agreed. But you can't get away from me, Paladin.}
 {224}{}{同意。但是你不能离开我，圣骑士。}
 ### {225}{}{M-mutants... Ugh! When will you all rest?}
-{225}{}{M-突变体。。。啊！你们什么时候休息？}
+{225}{}{M-突变体...啊！你们什么时候休息？}
 ### {226}{}{Give me a minute, boss, I'm not doing anything wrong.}
 {226}{}{给我一分钟，老板，我没有做错什么。}
 ### {227}{}{Oh, it won't be soon, my pale-skinned friend...}
-{227}{}{哦，不会很快的，我苍白皮肤的朋友。。。}
+{227}{}{哦，不会很快的，我苍白皮肤的朋友...}
 
 ### {230}{}{What do you need?}
 {230}{}{你需要什么？}
@@ -88,7 +88,7 @@
 ### {246}{}{Let me take a little more of your time, paladin.}
 {246}{}{让我多花点时间，圣骑士。}
 ### {247}{}{I know what happened in Inferno...}
-{247}{}{我知道地狱里发生了什么。。。}
+{247}{}{我知道地狱里发生了什么...}
 ### {248}{}{...The scribes were telling the truth - this is a CURSED place. Thank you. You need to talk to our general.}
 {248}{}{……抄写员说的是实话——这是一个封闭的地方。非常感谢。你需要和我们的将军谈谈。}
 ### {249}{}{By the general himself?}
@@ -102,11 +102,11 @@
 ### {253}{}{Okay, slow down. WHERE did you get this power armor from?}
 {253}{}{好的，慢一点。你从哪里得到的力量盔甲？}
 ### {254}{}{It was a terrible place. Well, you know, dead people on the streets, ruins all around...}
-{254}{}{那是一个可怕的地方。嗯，你知道，街上的死人，周围的废墟。。。}
+{254}{}{那是一个可怕的地方。嗯，你知道，街上的死人，周围的废墟...}
 ### {255}{}{It looks like a description of the Inferno through which our lost convoy passed. Have you come across people who carried this armor?}
 {255}{}{这看起来像是对我们迷路的车队经过的地狱的描述。你有没有遇到过携带这件盔甲的人？}
 ### {256}{}{Now I'll tell you what I know...}
-{256}{}{现在我告诉你我所知道的。。。}
+{256}{}{现在我告诉你我所知道的...}
 ### {257}{}{I won't tell you anything. This is my trophy, and I won't give it up.}
 {257}{}{我什么都不告诉你。这是我的奖杯，我不会放弃。}
 
@@ -131,7 +131,7 @@
 ### {269}{}{I'll be back when I find out something.}
 {269}{}{我发现什么事就会回来。}
 ### {270}{}{There is a Mexican army fort in Hermosillo...}
-{270}{}{在赫莫西洛有一座墨西哥军队的堡垒。。。}
+{270}{}{在赫莫西洛有一座墨西哥军队的堡垒...}
 ### {271}{}{...Great job! Your intelligence will give us an advantage over the enemy if it comes to an offensive.}
 {271}{}{…干得好！如果进攻的话，你的智慧会使我们比敌人更有优势。}
 ### {272}{}{Hermosillo is quite far across the desert. I doubt that the Mexicans will reach these places in the near future.}
@@ -166,7 +166,7 @@
 ### {285}{}{Ah, that's the thing. No, we don't need ballast on the way. And your authority in this matter does not change anything. I don't know you well enough to answer your requests.}
 {285}{}{啊，就是这样。不，我们在路上不需要压载物。你在这件事上的权威不会改变任何事情。我对你不够了解，不能回答你的要求。}
 ### {286}{}{You can understand...}
-{286}{}{你可以理解。。。}
+{286}{}{你可以理解...}
 ### {287}{}{Ah, that's the thing. Well, I listen to the requests of those who have shown themselves to be a worthy warrior. Tell Corwin I'll take him on patrol to Casa Nueva and back. It's not exactly a furlough, but it's enough for him to get some fresh air.}
 {287}{}{啊，就是这样。好吧，我听取了那些表现出自己是一名有价值的战士的请求。告诉科温，我会带他去努瓦之家巡逻，然后再回来。这并不完全是休假，但对他来说，呼吸新鲜空气就足够了。}
 ### {288}{}{Thank you, Paladin Latham. You've been very helpful.}
@@ -199,7 +199,7 @@
 ### {311}{}{Yes, but you are clearly not the level of fruit to fight shoulder to shoulder with you. Start with something simpler.}
 {311}{}{是的，但你显然不是那种与你并肩作战的水果级别。从简单的事情开始。}
 ### {312}{}{Yes, but you... However, we really don't have enough people for one big operation.}
-{312}{}{是的，但是你。。。然而，我们真的没有足够的人手来进行一次大手术。}
+{312}{}{是的，但是你...然而，我们真的没有足够的人手来进行一次大手术。}
 ### {313}{}{Great. Tell me what's what.}
 {313}{}{太棒了告诉我什么是什么。}
 ### {314}{}{Take me on patrol.}
@@ -238,7 +238,7 @@
 {329}{}{带我去巡逻，圣骑士莱瑟姆。}
 
 ### {330}{}{Here is my report on the raid on the bandit camp...}
-{330}{}{这是我关于突袭土匪营地的报告。。。}
+{330}{}{这是我关于突袭土匪营地的报告...}
 ### {331}{}{...Very good. Obviously, it was just a small field camp. After the attack on the caravan, the bandits split up. The second group took the goods to their main base. Rescuing a caravan is an important mission, but it is even more important to get the stolen cargo.}
 {331}{}{…非常好。很明显，这只是一个小的野外营地。商队遭到袭击后，匪徒们散开了。第二组把货物运到他们的主要基地。营救大篷车是一项重要任务，但找回被盗货物更为重要。}
 ### {332}{}{So there is another sortie ahead?}
@@ -254,7 +254,7 @@
 ### {337}{}{If there are no other leads, then it's worth taking the risk.}
 {337}{}{如果没有其他线索，那么值得冒险。}
 ### {338}{}{Did I ask for your opinion? Ahem... Well, never mind. You're doing really well. It would be a little harder for us without you.}
-{338}{}{我征求你的意见了吗？啊。。。好吧，没关系。你做得很好。没有你对我们来说会有点困难。}
+{338}{}{我征求你的意见了吗？啊...好吧，没关系。你做得很好。没有你对我们来说会有点困难。}
 ### {339}{}{So what are the instructions, sir?}
 {339}{}{那么指示是什么，先生？}
 ### {340}{}{...It turns out that the camp in Kaborka was organized only to attack our caravan routes. The main base of the bandits is in the mountains to the east. No wonder it took us so long to figure them out.}

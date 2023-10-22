@@ -35,13 +35,13 @@
 ### {215}{}{Isn't the punishment for wrongdoing too heavy?}
 {215}{}{对不法行为的惩罚不是太重了吗？}
 ### {216}{}{Well, I just had too much tequila... and then he became violent. My fault, I admit. But I would have gotten away with it if I hadn't yelled at Frank himself back then. That was a mistake.}
-{216}{}{我只是喝了太多龙舌兰酒。。。然后他变得暴力。我承认是我的错。但如果当时我没有对弗兰克本人大喊大叫，我早就逃脱了惩罚。那是个错误。}
+{216}{}{我只是喝了太多龙舌兰酒...然后他变得暴力。我承认是我的错。但如果当时我没有对弗兰克本人大喊大叫，我早就逃脱了惩罚。那是个错误。}
 ### {217}{}{Still, Frank had a reason. It's good that you admit it.}
 {217}{}{尽管如此，弗兰克还是有原因的。你承认这一点很好。}
 ### {218}{}{Frank can't do that. You didn't do anything wrong.}
 {218}{}{弗兰克不能那样做。你没有做错什么。}
 ### {219}{}{I realized that I was wrong. It won't happen again. If only the others would forgive me... Ah-h, now my head is splitting...}
-{219}{}{我意识到我错了。这种事不会再发生了。如果其他人能原谅我就好了…啊，现在我的头都裂了。。。}
+{219}{}{我意识到我错了。这种事不会再发生了。如果其他人能原谅我就好了…啊，现在我的头都裂了...}
 ### {220}{}{Do you want me to untie you from the post?}
 {220}{}{你想让我给你松绑吗？}
 ### {221}{}{Okay, come on.}

@@ -51,7 +51,7 @@
 ### {123}{}{It's a pity Harold isn't with us. He went north.}
 {123}{}{很遗憾哈罗德没有和我们在一起。他去了北方。}
 ### {124}{}{Don't move! I dropped my brains... Haha, my favorite joke.}
-{124}{}{别动！我掉了脑袋。。。哈哈，我最喜欢的笑话。}
+{124}{}{别动！我掉了脑袋...哈哈，我最喜欢的笑话。}
 ### {125}{}{And yet I will miss the Necropolis.}
 {125}{}{然而我会想念墓地。}
 ### {126}{}{The necropolis is now deader than ever.}
@@ -75,7 +75,7 @@
 {134}{}{我们现在就住在这里，带着科罗纳多的小东西！}
 
 ### {135}{}{Eh, I had such plans for Coronado...}
-{135}{}{呃，我对科罗纳多有这样的计划。。。}
+{135}{}{呃，我对科罗纳多有这样的计划...}
 ### {136}{}{Coronado could be a Klondike. Sorry.}
 {136}{}{科罗纳多可能是克朗代克。很抱歉}
 ### {137}{}{There is nothing left of Coronado Island at all.}
@@ -92,7 +92,7 @@
 ### {152}{}{I am a law-abiding citizen.}
 {152}{}{我是一个守法的公民。}
 ### {153}{}{It's nice to see the remnants of the law on the wastelands... Oh, it's not your badge!}
-{153}{}{很高兴在荒原上看到法律的残余。。。哦，这不是你的徽章！}
+{153}{}{很高兴在荒原上看到法律的残余...哦，这不是你的徽章！}
 ### {154}{}{You must have almost a hundred years of service?}
 {154}{}{你一定有将近一百年的服役经历？}
 ### {155}{}{Some played with the law like that. And in the end, they played the Third World War.}

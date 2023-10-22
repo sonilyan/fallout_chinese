@@ -66,7 +66,7 @@
 ### {235}{}{I'm tired of your mockery. It's time to stuff your face!}
 {235}{}{我受够了你的嘲笑。是时候塞你的脸了！}
 ### {236}{}{My name is Larry. I'm here... I do various things. For example, I guard the city when necessary. Not for free, of course.}
-{236}{}{我的名字叫拉里。我在这里。。。我做各种各样的事情。例如，我在必要的时候守卫城市。当然不是免费的。}
+{236}{}{我的名字叫拉里。我在这里...我做各种各样的事情。例如，我在必要的时候守卫城市。当然不是免费的。}
 ### {237}{}{So you're not one of the scavengers?}
 {237}{}{你不是拾荒者吗？}
 ### {238}{}{No, stupid. I'm from an elite squad of fighters who don't like it when questionable types appear in their city.}
@@ -116,7 +116,7 @@
 ### {305}{}{Important? Hey, did you hear someone has important business here!}
 {305}{}{重要的嘿，你听说有人在这儿有要事吗！}
 ### {306}{}{I'm going to save my people...}
-{306}{}{我要拯救我的人民。。。}
+{306}{}{我要拯救我的人民...}
 ### {307}{}{Ooh! A noble peasant is coming to save people! Everyone make way!}
 {307}{}{哦！一个高尚的农民来救人了！大家让路！}
 ### {1307}{}{Wow! A noble peasant woman is coming to save people! Everyone make way!}
@@ -126,10 +126,10 @@
 ### {309}{}{I really have to go.}
 {309}{}{我真的得走了。}
 ### {310}{}{Let me just give you 10 caps. And we'll forget about everything.}
-{310}{}{让我给你10顶帽子。我们会忘记一切。}
+{310}{}{让我给你10个瓶盖。我们会忘记一切。}
 ### {311}{}{The right decision, amigo. Now get out of the bar.}
 {311}{}{正确的决定，朋友。现在滚出酒吧。}
 ### {312}{}{I've changed my mind. Give me my bottlecaps, bitch!}
 {312}{}{我改变了主意。把我的水瓶给我，婊子！}
 ### {313}{}{Ah, yeah...}
-{313}{}{啊，是的。。。}
+{313}{}{啊，是的...}

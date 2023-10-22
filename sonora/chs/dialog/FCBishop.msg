@@ -3,9 +3,9 @@
 ### {101}{}{You see a man in a shabby cassock.}
 {101}{}{你看到一个穿着破旧袈裟的男人。}
 ### {102}{}{What... what are you doing...}
-{102}{}{什么你在干什么。。。}
+{102}{}{什么你在干什么...}
 ### {103}{}{...kx-x... hr-r-r...}
-{103}{}{…kx-x…hr-r-。。。}
+{103}{}{…kx-x…hr-r-...}
 ### {104}{}{Heretic! The technology of the Ancients is not for simple walks. This armor belongs in our main temple, in Phoenix.}
 {104}{}{异教徒古人的技术不适合简单的散步。这件盔甲属于我们在凤凰城的主庙。}
 
@@ -17,7 +17,7 @@
 ### {201}{}{Why is that?}
 {201}{}{为什么？}
 ### {202}{}{Flagstaff is one of the few places in the wastelands where order is accepted... in a way. Some outsiders in this city are condemned to forced labor, and some to the death penalty in order to become fuel for the Sacred Fire. But ultimately it's up to you.}
-{202}{}{弗拉格斯塔夫是荒原上为数不多的接受订单的地方之一。。。在某种程度上这个城市的一些外来者被判处强迫劳动，一些人被判处死刑，以成为圣火的燃料。但最终取决于你。}
+{202}{}{弗拉格斯塔夫是荒原上为数不多的接受订单的地方之一...在某种程度上这个城市的一些外来者被判处强迫劳动，一些人被判处死刑，以成为圣火的燃料。但最终取决于你。}
 ### {203}{}{Clearly. I want to talk to you.}
 {203}{}{清晰地我想和你谈谈。}
 ### {204}{}{Okay, I'll take that into account. Goodbye.}
@@ -51,11 +51,11 @@
 ### {216}{}{Is your temple somehow useful to Flagstaff?}
 {216}{}{你的神庙对弗拉格斯塔夫有用吗？}
 ### {217}{}{Oh, of course! Let's start with the fact that Flagstaff is built on the roof of our church... or rather, the main temple, which is located in Phoenix.}
-{217}{}{哦，当然！让我们从弗拉格斯塔夫建在我们教堂的屋顶上开始。。。或者更确切地说，是位于凤凰城的主庙。}
+{217}{}{哦，当然！让我们从弗拉格斯塔夫建在我们教堂的屋顶上开始...或者更确切地说，是位于凤凰城的主庙。}
 ### {218}{}{Why do you need this?}
 {218}{}{你为什么需要这个？}
 ### {219}{}{Uranium is one of the sacred resources inherited from our ancestors. We collect its radiant energy and use it for the glory of the Sacred Fire...}
-{219}{}{铀是从我们祖先那里继承下来的神圣资源之一。我们收集它的辐射能量，并将其用于神圣之火的荣耀。。。}
+{219}{}{铀是从我们祖先那里继承下来的神圣资源之一。我们收集它的辐射能量，并将其用于神圣之火的荣耀...}
 ### {220}{}{More?}
 {220}{}{更多}
 ### {221}{}{We teach literacy and pre-war knowledge to everyone who expresses such a desire. And I, a humble servant of the Sacred Fire, am endowed with the gift of healing.}
@@ -79,7 +79,7 @@
 ### {229}{}{I can barely read the syllables.}
 {229}{}{我几乎看不懂音节。}
 ### {230}{}{So the secrets of the Sacred Fire will not reach your mind! We will start with the basics - with literacy. One lesson will cost a hundred caps.}
-{230}{}{所以圣火的秘密不会到达你的脑海！我们将从基础知识开始——识字。一节课要花一百顶帽子。}
+{230}{}{所以圣火的秘密不会到达你的脑海！我们将从基础知识开始——识字。一节课要花一百个瓶盖。}
 ### {231}{}{Here are the bottlecaps. I want to get smarter!}
 {231}{}{这是水瓶。我想变得更聪明！}
 ### {232}{}{Not now. Answer the other questions first.}
@@ -89,7 +89,7 @@
 ### {234}{}{Well, that's enough for today. From now on, you will be able to learn pre-war knowledge yourself if you practice reading and writing more. And don't forget who revealed this sacrament to you!}
 {234}{}{好吧，今天就够了。从现在起，如果你多练习阅读和写作，你将能够自己学习战前的知识。别忘了是谁向你展示了这份圣礼！}
 ### {235}{}{So... a lot... information. I already have a headache. Let's take a break.}
-{235}{}{所以…很多。。。信息我已经头疼了。让我们休息一下。}
+{235}{}{所以…很多...信息我已经头疼了。让我们休息一下。}
 ### {236}{}{Anyone should not be allowed to enter the mysteries of the Sacred Fire. After all, this knowledge can be used both for good and for harm. Prove your devotion to our faith - make a solid donation. 300 caps - that's the price.}
 {236}{}{任何人都不应该被允许进入神圣之火的奥秘。毕竟，这些知识既可以用来做好事，也可以用来做坏事。证明你对我们信仰的忠诚——做出坚定的捐赠。300顶——这就是价格。}
 ### {237}{}{I think I've had enough donations for your church.}
@@ -147,17 +147,17 @@
 ### {263}{}{Nothing today. Goodbye.}
 {263}{}{今天什么都没有。再见}
 ### {264}{}{Only 10 caps.}
-{264}{}{只有10顶帽子。}
+{264}{}{只有10个瓶盖。}
 ### {265}{}{Here are 50 caps.}
-{265}{}{这里有50顶帽子。}
+{265}{}{这里有50个瓶盖。}
 ### {266}{}{As many as 100 caps.}
-{266}{}{多达100顶帽子。}
+{266}{}{多达100个瓶盖。}
 ### {267}{}{(quickly hides a handful of caps in the folds of his cassock) Thank you.}
-{267}{}{（很快在他的袈裟褶皱里藏了一把帽子）谢谢你。}
+{267}{}{（很快在他的袈裟褶皱里藏了一把瓶盖）谢谢你。}
 ### {268}{}{(hastily pours your caps into a leather pouch on his belt) Truly, your generosity knows no bounds!}
-{268}{}{（匆忙地把帽子倒进他腰带上的皮包里）真的，你的慷慨是无止境的！}
+{268}{}{（匆忙地把瓶盖倒进他腰带上的皮包里）真的，你的慷慨是无止境的！}
 ### {269}{}{(pours your caps into a leather pouch on his belt) May the Sacred Fire be with you!}
-{269}{}{（把你的帽子倒进他腰带上的皮包里）愿圣火与你同在！}
+{269}{}{（把你的瓶盖倒进他腰带上的皮包里）愿圣火与你同在！}
 
 #Treatment
 ### {270}{}{I need treatment.}
@@ -177,7 +177,7 @@
 ### {277}{}{Of course, the church will help you, but don't you want to reward her with a small donation? It 's about the amount in }
 {277}{}{当然，教会会帮助你，但你不想用一点捐款来奖励她吗？大约是}
 ### {278}{}{ caps.}
-{278}{}{帽子。}
+{278}{}{瓶盖。}
 ### {279}{}{Here are the bottlecaps.}
 {279}{}{这是水瓶。}
 ### {280}{}{I don't have so many bottlecaps!}
@@ -259,7 +259,7 @@
 ### {314}{}{I managed to catch this vandal by surprise. It turned out to be a balding colonist from a house to the south.}
 {314}{}{我出其不意地抓住了这个破坏者。原来是一个来自南方一所房子的秃头殖民者。}
 ### {315}{}{Festus... A hopeless victim of atomic fission.}
-{315}{}{费斯图斯。。。原子裂变的无望受害者。}
+{315}{}{费斯图斯...原子裂变的无望受害者。}
 ### {316}{}{Do you know each other?}
 {316}{}{你们彼此认识吗？}
 ### {317}{}{He came to the sermons, but could not penetrate the radiant truths of Fire. When the time came, Festus was blinded by anger and pride. And I closed the doors of the temple before him.}
@@ -277,7 +277,7 @@
 ### {323}{}{To reason with Festus so that he would abandon the threats and give the child to the temple? This is extremely difficult.}
 {323}{}{跟非斯都讲道理，让他放弃威胁，把孩子交给圣殿？这是非常困难的。}
 ### {324}{}{It remains... murder?}
-{324}{}{它仍然。。。谋杀}
+{324}{}{它仍然...谋杀}
 ### {325}{}{Uh, I'll try the first option.}
 {325}{}{呃，我会试试第一种选择。}
 ### {326}{}{I need time to think.}
@@ -303,7 +303,7 @@
 ### {335}{}{Truly great is the Power of the Atom! Festus is waiting for public repentance, but his son has a great future as a scribe and scientist in the temple of Fire. Great job.}
 {335}{}{真正伟大的是原子的力量！费斯图正在等待公众的忏悔，但他的儿子作为火神庙的抄写员和科学家有着美好的未来。干得好。}
 ### {336}{}{It happened to Festus... accident. He's not a problem anymore.}
-{336}{}{这件事发生在费斯图斯身上。。。事故他不再是个问题了。}
+{336}{}{这件事发生在费斯图斯身上...事故他不再是个问题了。}
 ### {337}{}{May the Sacred Fire incinerate his soul! Festus could not be reformed anyway, and his conversion to our faith would only serve to harm. But his son has a great future as a scribe and scientist in the temple of Fire. Good job.}
 {337}{}{愿圣火焚烧他的灵魂！费斯图无论如何都不能被改造，他皈依我们的信仰只会带来伤害。但他的儿子作为一名抄写员和科学家在火神庙有着美好的未来。干得好}
 ### {338}{}{How can I reward you for your efforts?}
@@ -315,7 +315,7 @@
 ### {341}{}{Can I count on a 20% discount for treatment?}
 {341}{}{我可以指望20%的治疗折扣吗？}
 ### {342}{}{I need caps to release my fellow tribesmen from prison.}
-{342}{}{我需要帽子才能把我的部落同胞从监狱里释放出来。}
+{342}{}{我需要瓶盖才能把我的部落同胞从监狱里释放出来。}
 ### {343}{}{I have a big dream - to get to the main temple of Fire and turn to its leader.}
 {343}{}{我有一个远大的梦想——去主火神庙，向它的领袖求助。}
 ### {344}{}{I need access to your library.}
@@ -340,7 +340,7 @@
 ### {353}{}{Well, it's deserved. You can count on... "discount".}
 {353}{}{这是应得的。你可以指望…“折扣”。}
 ### {354}{}{I can only offer 100 caps, as parishioners are stingy with donations. However, this is enough to get Faber to talk.}
-{354}{}{我只能提供100顶帽子，因为教区居民对捐款很吝啬。然而，这足以让费伯开口说话。}
+{354}{}{我只能提供100个瓶盖，因为教区居民对捐款很吝啬。然而，这足以让费伯开口说话。}
 ### {355}{}{Hmm. I can write a letter of recommendation to the main Fire temple in Phoenix. But still your merit is not so great. We'll have to make some more donations.}
 {355}{}{嗯。我可以写一封推荐信给凤凰城的主火神庙。但是你的优点还是不那么大。我们还得再捐款。}
 ### {356}{}{This collection of priceless pre-war knowledge requires special treatment. Treat him with respect.}
@@ -374,7 +374,7 @@
 ### {369}{}{I'll stay on my own.}
 {369}{}{我会一个人呆着。}
 ### {370}{}{Expected...}
-{370}{}{应为。。。}
+{370}{}{应为...}
 ### {371}{}{Why such unscrupulousness?}
 {371}{}{为什么如此肆无忌惮？}
 ### {372}{}{It's hard to change adults. And often it doesn't make much sense. It is through children that the roots of faith must be planted. And the treatment will be forgotten. After all, people are not distinguished by gratitude now.}
@@ -384,7 +384,7 @@
 
 #Dialogue corrections after the events at the Phoenix Temple
 ### {400}{}{Leave me in the po... Oh, it's you. Nevermind.}
-{400}{}{把我留在办公室。。。哦，是你。永远不会。}
+{400}{}{把我留在办公室...哦，是你。永远不会。}
 ### {401}{}{Is someone bothering you?}
 {401}{}{有人打扰你吗？}
 ### {402}{}{The colonists became intolerant of my faith when they learned about the events in the south. Some people want to expel me from the city. But from now on I have nowhere to go.}
@@ -400,7 +400,7 @@
 ### {406}{}{For our faith, distance is an insignificant barrier. The Messengers of Rebirth have reported about you.}
 {406}{}{对于我们的信仰来说，距离是一个微不足道的障碍。重生使者已经报道了你的情况。}
 ### {407}{}{Oh yes, the postal service...}
-{407}{}{哦，是的，邮政服务。。。}
+{407}{}{哦，是的，邮政服务...}
 ### {408}{}{}
 {408}{}{error : string is empty}
 ### {409}{}{}
@@ -424,7 +424,7 @@
 ### {415}{}{Uh, I think I'll go.}
 {415}{}{呃，我想我会去的。}
 ### {416}{}{That's how. It was revenge... What a barbaric motive! But if I am not a member of the cult now, then it remains to throw off the robe of a preacher and get away from Flagstaff. Your action gives me the right to start all over again. Maybe it's not so bad.}
-{416}{}{就是这样。这是复仇。。。多么野蛮的动机！但是，如果我现在不是邪教的一员，那么脱下传教士的长袍，离开弗拉格斯塔夫就是了。你的行为给了我重新开始的权利。也许还没那么糟。}
+{416}{}{就是这样。这是复仇...多么野蛮的动机！但是，如果我现在不是邪教的一员，那么脱下传教士的长袍，离开弗拉格斯塔夫就是了。你的行为给了我重新开始的权利。也许还没那么糟。}
 ### {417}{}{Well, come on.}
 {417}{}{好吧，来吧。}
 ### {418}{}{I have received news of your expulsion from the Brotherhood of Fire. I need to know the reasons.}
@@ -448,15 +448,15 @@
 ### {427}{}{Well, well.}
 {427}{}{嗯，嗯。}
 ### {428}{}{Can I trust you... brother? Perhaps you are not lost to our mission yet. Go ahead. And show your devotion to the faith with real deeds. Under the flag of the temple or without it.}
-{428}{}{我能相信你吗。。。兄弟也许你还没有迷失在我们的使命中。着手用实际行动表明你对信仰的虔诚。在寺庙的旗帜下或没有它。}
+{428}{}{我能相信你吗...兄弟也许你还没有迷失在我们的使命中。着手用实际行动表明你对信仰的虔诚。在寺庙的旗帜下或没有它。}
 ### {1428}{}{Can I trust you... sister? Perhaps you are not lost to our mission yet. Go ahead. And show your devotion to the faith with real deeds. Under the flag of the temple or without it.}
-{1428}{}{我能相信你吗。。。姐妹也许你还没有迷失在我们的使命中。着手用实际行动表明你对信仰的虔诚。在寺庙的旗帜下或没有它。}
+{1428}{}{我能相信你吗...姐妹也许你还没有迷失在我们的使命中。着手用实际行动表明你对信仰的虔诚。在寺庙的旗帜下或没有它。}
 ### {429}{}{Okay.}
 {429}{}{可以}
 ### {430}{}{By your very existence you are already helping the church. But we always need bottlecaps from any hands.}
 {430}{}{由于你的存在，你已经在帮助教会了。但我们总是需要任何人的瓶装水。}
 ### {431}{}{Anyone should not be allowed to enter the mysteries of the Sacred Fire. After all, this knowledge can be used both for good and for harm...}
-{431}{}{任何人都不应该被允许进入神圣之火的奥秘。毕竟，这些知识既可以用来做好事，也可以用来做坏事。。。}
+{431}{}{任何人都不应该被允许进入神圣之火的奥秘。毕竟，这些知识既可以用来做好事，也可以用来做坏事...}
 ### {432}{}{Of course. And I have already proved my devotion to the faith.}
 {432}{}{当然我已经证明了我对信仰的虔诚。}
 ### {1432}{}{Of course. And I have already proved my devotion to faith.}

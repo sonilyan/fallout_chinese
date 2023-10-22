@@ -1,7 +1,7 @@
 ### {100}{}{This is Arthur Carrington.}
 {100}{}{我是阿瑟·卡林顿。}
 ### {101}{}{You see the same archaeologist from Vault 27.}
-{101}{}{你看到的是27号金库的同一位考古学家。}
+{101}{}{你看到的是27号避难所的同一位考古学家。}
 ### {102}{}{Thanks for everything! Meet me in Casa Nueva.}
 {102}{}{谢谢你所做的一切！在努瓦之家见我。}
 ### {103}{}{Thanks for everything! I'll meet you at the Villa.}
@@ -11,7 +11,7 @@
 ### {200}{}{And here is my savior. Good to see you.}
 {200}{}{这是我的救世主。很高兴见到你。}
 ### {201}{}{What are you doing here? It seemed to me that after the Vault you would go to the Temple of Fire and plunge into science.}
-{201}{}{你在这里干什么？在我看来，在金库之后，你会去火神庙，投身于科学。}
+{201}{}{你在这里干什么？在我看来，在避难所之后，你会去火神庙，投身于科学。}
 ### {202}{}{That's what I did. But the Temple of Fire was destroyed. I don't know what happened there, but the fire worshippers are now in exile, and no one needs a scientist like me anymore.}
 {202}{}{我就是这么做的。但是火神庙被毁了。我不知道那里发生了什么，但拜火者现在流亡海外，再也不需要像我这样的科学家了。}
 ### {203}{}{Are you sure?}
@@ -31,7 +31,7 @@
 ### {220}{}{Why do you think the Temple of Fire fell?}
 {220}{}{你认为火神庙为什么会倒塌？}
 ### {221}{}{I know that a nuclear bomb was made in the Vault under the temple. But a spontaneous explosion is almost impossible. It looks very much like a diversion. The fire worshippers had many enemies, the only wonder is that they were able to penetrate so deeply. Hmm, obviously it was someone they trusted...}
-{221}{}{我知道一枚核弹是在寺庙下面的地下室里制造的。但自发爆炸几乎是不可能的。这看起来很像是一种消遣。拜火者有很多敌人，唯一的奇迹是他们能穿透得如此之深。嗯，很明显是他们信任的人。。。}
+{221}{}{我知道一枚核弹是在寺庙下面的地下室里制造的。但自发爆炸几乎是不可能的。这看起来很像是一种消遣。拜火者有很多敌人，唯一的奇迹是他们能穿透得如此之深。嗯，很明显是他们信任的人...}
 ### {222}{}{It was me.}
 {222}{}{是我。}
 ### {1222}{}{It was me.}
@@ -49,9 +49,9 @@
 ### {228}{}{Move to the Villa. We need workers to recover from the raid. And fresh brains that won't be limited by our foundations.}
 {228}{}{搬到别墅去。我们需要工人从突袭中恢复过来。以及不受我们基础限制的新鲜大脑。}
 ### {229}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{229}{}{你说的金库里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
+{229}{}{你说的避难所里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
 ### {1229}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{1229}{}{你说的金库里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
+{1229}{}{你说的避难所里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
 ### {230}{}{Agreed. When you get there, tell me you're from me. See you at the Villa.}
 {230}{}{同意。当你到了那里，告诉我你是我的。别墅见。}
 ### {231}{}{Take your time, I'll still try to find out about the Followers of the Apocalypse.}
@@ -64,13 +64,13 @@
 {234}{}{努瓦之家见。}
 
 ### {240}{}{I will look for a place where scientists like me are needed. So far, I only know about the scientific base in Casa Nueva. But my reputation... doesn't quite answer this place. Do you know other places?}
-{240}{}{我将寻找一个需要像我这样的科学家的地方。到目前为止，我只知道Casa Nueva的科学基地。但我的名声。。。不太适合这个地方。你知道其他地方吗？}
+{240}{}{我将寻找一个需要像我这样的科学家的地方。到目前为止，我只知道Casa Nueva的科学基地。但我的名声...不太适合这个地方。你知道其他地方吗？}
 ### {241}{}{Move to the Villa. We need workers to recover from the raid. And fresh brains that will not be limited by our foundations.}
 {241}{}{搬到别墅去。我们需要工人从突袭中恢复过来。以及不受我们基础限制的新鲜大脑。}
 ### {242}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{242}{}{你说的金库里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
+{242}{}{你说的避难所里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
 ### {1242}{}{The villa you were talking about in the Vault, right? I made inquiries and found out that this is a closed rural community. The Cult of Fire has managed to collect quite a lot of information about you. Well, I think this is a great place for research and the introduction of new technologies.}
-{1242}{}{你说的金库里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
+{1242}{}{你说的避难所里的别墅，对吧？我询问了一下，发现这是一个封闭的农村社区。火教已经收集了很多关于你的信息。嗯，我认为这是一个研究和引进新技术的好地方。}
 ### {243}{}{Agreed. When you get there, tell me you're from me. See you at the Villa.}
 {243}{}{同意。当你到了那里，告诉我你是我的。别墅见。}
 ### {244}{}{You know, it's a bad idea. They won't accept you there, they generally have a bad attitude towards scientists there. You'd better go to Casa Nueva. Or wherever you were going.}

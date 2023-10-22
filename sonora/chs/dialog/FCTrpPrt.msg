@@ -14,7 +14,7 @@
 ### {114}{}{Look what Arizona was like before Faber came.}
 {114}{}{看看费伯来之前亚利桑那州是什么样子。}
 ### {115}{}{Damn savages...}
-{115}{}{该死的野蛮人。。。}
+{115}{}{该死的野蛮人...}
 ### {116}{}{This tribe constantly put a stick in our wheels.}
 {116}{}{这个部落不断地用棍子捅我们的车轮。}
 ### {117}{}{If you see a savage, let me know.}

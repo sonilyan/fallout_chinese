@@ -7,4 +7,4 @@
 ### {113}{}{The lifting mechanism shatters into pieces, and the load-bearing cables fall into the darkness with a whoosh. Soon, at the bottom of the mine, you hear a strong rumble of a falling shutter.}
 {113}{}{升降机构破碎成碎片，承重电缆“嗖”的一声落入黑暗。很快，在矿井底部，你会听到百叶窗掉下来的强烈隆隆声。}
 ### {114}{}{It seems the Rangers are waiting... a small flood.}
-{114}{}{看来游骑兵队在等着。。。小洪水。}
+{114}{}{看来游骑兵队在等着...小洪水。}

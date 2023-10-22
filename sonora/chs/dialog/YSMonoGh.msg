@@ -84,16 +84,16 @@
 ### {241}{}{I'm not trying for you.}
 {241}{}{我不是在帮你。}
 ### {242}{}{Probably, I need to share the fee with you ? 1000 caps. And thank you... friend.}
-{242}{}{也许，我需要和你分担费用? 1000顶。谢谢你。。。朋友}
+{242}{}{也许，我需要和你分担费用? 1000顶。谢谢你...朋友}
 ### {1242}{}{I probably need to share the fee with you ? 1000 caps. And thank you... a friend.}
-{1242}{}{我可能需要和你分担费用? 1000顶。谢谢你。。。朋友。}
+{1242}{}{我可能需要和你分担费用? 1000顶。谢谢你...朋友。}
 ### {243}{}{You're welcome... friend.}
-{243}{}{不客气。。。朋友}
+{243}{}{不客气...朋友}
 ### {244}{}{Probably, I need to share the fee with you ? 1000 caps. And thank you... partner.}
-{244}{}{也许，我需要和你分担费用? 1000顶。谢谢你。。。搭档}
+{244}{}{也许，我需要和你分担费用? 1000顶。谢谢你...搭档}
 ### {245}{}{You're welcome... partner.}
-{245}{}{不客气。。。搭档}
+{245}{}{不客气...搭档}
 ### {246}{}{I probably need to share the fee with you ? 500 caps. And thank you... partner.}
-{246}{}{我可能需要和你分担费用? 500顶。谢谢你。。。搭档}
+{246}{}{我可能需要和你分担费用? 500顶。谢谢你...搭档}
 ### {247}{}{And that's it? You're not my "partner" anymore.}
 {247}{}{就这样？你不再是我的“伙伴”了。}

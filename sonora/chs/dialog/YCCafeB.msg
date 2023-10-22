@@ -1,7 +1,7 @@
 ### {100}{}{You see the bartender.}
 {100}{}{你看到酒保了。}
 ### {101}{}{Here is an ordinary bartender... would you like to say that if he wasn't a ghoul.}
-{101}{}{这是一个普通的酒保。。。如果他不是个食尸鬼，你愿意这么说吗。}
+{101}{}{这是一个普通的酒保...如果他不是个食尸鬼，你愿意这么说吗。}
 ### {102}{}{Again, these drunken showdowns! Stop them! They'll blow up my bar!}
 {102}{}{再一次，这些醉醺醺的对决！阻止他们！他们会炸掉我的酒吧！}
 
@@ -21,7 +21,7 @@
 ### {223}{}{Not the best choice. He has been suffering from a thirst for profit since the War, but he cannot even earn money for a new car. Hehe, just kidding. Anyway, he said he was going to return to the Hub. I was just talking, sitting right in the same chair as you.}
 {223}{}{不是最好的选择。自战争以来，他一直渴望利润，但他甚至赚不到新车的钱。呵呵，开玩笑吧。不管怎样，他说他要回到中心。我只是在说话，和你坐在同一张椅子上。}
 ### {224}{}{When is he going to be back? Right now? I'll try to catch up with him on the highway...}
-{224}{}{他什么时候回来？马上我会试着在高速公路上赶上他。。。}
+{224}{}{他什么时候回来？马上我会试着在高速公路上赶上他...}
 ### {225}{}{I should have said it right away, idiot!}
 {225}{}{我应该马上说的，白痴！}
 ### {226}{}{What are the black scavengers doing here?}
@@ -36,7 +36,7 @@
 ### {231}{}{Good liquor has become a rarity. What is found in the ruins is usually sold to caravans from the north, and the bar is left with all sorts of swill.}
 {231}{}{好酒已成罕见。在废墟中发现的东西通常被卖给来自北方的商队，酒吧里留下了各种各样的swill。}
 ### {232}{}{It's a pity. And I was so hoping for a good drink...}
-{232}{}{真遗憾。我非常希望能喝一杯。。。}
+{232}{}{真遗憾。我非常希望能喝一杯...}
 ### {233}{}{I can look for supplies for you in the ruins.}
 {233}{}{我可以在废墟中为你寻找补给品。}
 ### {234}{}{Bring it, I'll be happy to pay triple the price.}
@@ -62,11 +62,11 @@
 {243}{}{清楚的非常感谢。}
 
 ### {260}{}{I want to exchange dollars for caps.}
-{260}{}{我想用美元换帽子。}
+{260}{}{我想用美元换瓶盖。}
 ### {261}{}{No problems. Today the course is }
 {261}{}{没有问题。今天的课程是}
 ### {262}{}{ caps.}
-{262}{}{帽子。}
+{262}{}{瓶盖。}
 ### {263}{}{Not today. I'll wait for the course change.}
 {263}{}{今天不行。我会等课程改的。}
 ### {264}{}{Another time. Better let me see your menu.}
@@ -88,7 +88,7 @@
 ### {272}{}{What is it, a hole in your pocket? It happens.}
 {272}{}{它是什么，你口袋里的一个洞？它发生了。}
 ### {273}{}{Yes, it is...}
-{273}{}{是的，是。。。}
+{273}{}{是的，是...}
 ### {274}{}{Please.}
 {274}{}{请}
 ### {275}{}{Thank you.}

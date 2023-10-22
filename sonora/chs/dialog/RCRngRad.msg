@@ -37,7 +37,7 @@
 ### {230}{}{What is this place?}
 {230}{}{这是什么地方？}
 ### {231}{}{This is a radio station. Ra-di-o-station. Don't confuse it with radiation... Damn, it looks like you're going to have to explain this for a long time. In short, we use this equipment to communicate remotely with our patrols.}
-{231}{}{这是一个广播电台。Ra-di-o--station。不要把它和辐射混为一谈。。。该死，看来你要解释很长一段时间了。简而言之，我们使用这种设备与巡逻队进行远程通信。}
+{231}{}{这是一个广播电台。Ra-di-o--station。不要把它和辐射混为一谈...该死，看来你要解释很长一段时间了。简而言之，我们使用这种设备与巡逻队进行远程通信。}
 ### {232}{}{It's amazing that all this technology still works.}
 {232}{}{令人惊讶的是，所有这些技术仍然有效。}
 ### {233}{}{Yes. Works. And it keeps "afloat" only thanks to external relations. We get spare parts from trade caravans, and energy from the local dam.}
@@ -63,7 +63,7 @@
 ### {243}{}{Cemetery. Rangers and their loved ones are buried there. I hope you're not going to desecrate the graves, otherwise it will be the last mistake in your short life.}
 {243}{}{墓地游骑兵和他们的亲人被埋葬在那里。我希望你不要亵渎坟墓，否则这将是你短暂生命中的最后一个错误。}
 ### {244}{}{Can I ask another question about this one... a radio station?}
-{244}{}{我能再问一个关于这个的问题吗。。。电台？}
+{244}{}{我能再问一个关于这个的问题吗...电台？}
 
 ### {250}{}{I need radio codes.}
 {250}{}{我需要无线电代码。}
@@ -114,7 +114,7 @@
 ### {278}{}{Really?}
 {278}{}{真正地}
 ### {279}{}{The fact is that half of the signal amplifiers have long been out of order. We need to fix them or find a replacement for them. Then the connection will be enough to control the territory up to Phoenix... Well, or at least to San Brahmin.}
-{279}{}{事实是，一半的信号放大器长期以来一直处于故障状态。我们需要修复它们或找到替代品。然后连接将足以控制领土直到凤凰城。。。好吧，至少对圣婆罗门来说。}
+{279}{}{事实是，一半的信号放大器长期以来一直处于故障状态。我们需要修复它们或找到替代品。然后连接将足以控制领土直到凤凰城...好吧，至少对圣婆罗门来说。}
 ### {280}{}{Commander Helford sent me.}
 {280}{}{赫尔福德司令派我来。}
 ### {281}{}{Great. The station is in need of repair, and Helford is sending peasants for this! Do you have any idea how a radio station works?}
@@ -128,7 +128,7 @@
 ### {285}{}{Go down to the utility room under the antenna. I'm afraid there won't be enough cans and forks to fix it. Perhaps the scavengers will have useful parts in Garage City, but they don't like rangers. Can you help us with this problem?}
 {285}{}{去天线下面的杂物间。恐怕没有足够的罐头和叉子来修理它。也许拾荒者在车库城会有有用的零件，但他们不喜欢护林员。你能帮我们解决这个问题吗？}
 ### {286}{}{I'm going to see what it is...}
-{286}{}{我要去看看是什么。。。}
+{286}{}{我要去看看是什么...}
 ### {287}{}{Wait a minute. You're probably going to the Garage for the parts, right? Then there is one more request. We lost patrolmen in that area. Try to find out what happened to them. Our communication does not reach far, but near the radios will be able to detect each other's signals. If you manage, the Rangers will be grateful to you.}
 {287}{}{等一下。你可能会去车库取零件，对吧？然后还有一个请求。我们在那个地区失去了巡逻员。试着找出他们发生了什么事。我们的通信不远，但在附近的无线电将能够检测到彼此的信号。如果你成功了，流浪者队会感激你的。}
 ### {288}{}{I will definitely find them.}
@@ -144,21 +144,21 @@
 ### {293}{}{Still, it's difficult for your mind, isn't it? Find the source that creates the "echo" in our broadcasts. To do this, go to the wasteland to the east of our base. You will need to monitor the signal on the walkie-talkie to determine the location of the source.}
 {293}{}{尽管如此，这对你的大脑来说还是很困难的，不是吗？找到在我们的广播中产生“回声”的来源。要做到这一点，去我们基地以东的荒地。您需要监控对讲机上的信号，以确定信号源的位置。}
 ### {294}{}{Great. Let's see what came of it...}
-{294}{}{太棒了让我们看看结果如何。。。}
+{294}{}{太棒了让我们看看结果如何...}
 ### {295}{}{[Next]}
 {295}{}{[下一个]}
 ### {296}{}{Amazing! Now we will be able to expand control over the territory... Wait a minute. Do you hear that?}
-{296}{}{太神了现在我们将能够扩大对领土的控制。。。等一下。你听到了吗？}
+{296}{}{太神了现在我们将能够扩大对领土的控制...等一下。你听到了吗？}
 ### {297}{}{Echo? Is something duplicating your signal?}
 {297}{}{回响有什么东西在复制你的信号吗？}
 ### {298}{}{It looks like it... The signal is very low, coming in an easterly direction. We couldn't detect it before. It may be a mistake of the new equipment, but... look, we need to know exactly what it is. This hindrance should not be ignored.}
-{298}{}{看起来…信号很低，向东。我们以前没发现。这可能是新设备的错误，但是。。。看，我们需要确切地知道它是什么。这个障碍不应该被忽视。}
+{298}{}{看起来…信号很低，向东。我们以前没发现。这可能是新设备的错误，但是...看，我们需要确切地知道它是什么。这个障碍不应该被忽视。}
 ### {299}{}{[Next]}
 {299}{}{[下一个]}
 ### {300}{}{Go to the signal bearing and find out what causes the radio echo. I'll give you a walkie-talkie to find him.}
 {300}{}{转到信号方位，找出无线电回波的原因。我给你一部对讲机去找他。}
 ### {301}{}{Eh, and it already seemed to me that the task was completed ...}
-{301}{}{呃，我觉得任务已经完成了。。。}
+{301}{}{呃，我觉得任务已经完成了...}
 
 ### {302}{}{What a surprise! It seemed to me that only we possess the technology of such powerful radio broadcasts. Tell Captain Helford about the results of the operation immediately.}
 {302}{}{真是个惊喜！在我看来，只有我们拥有如此强大的无线电广播技术。立即将行动结果告诉赫尔福德上尉。}

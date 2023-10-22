@@ -41,7 +41,7 @@
 ### {224}{}{I came across one farm on the way.}
 {224}{}{我在路上遇到一个农场。}
 ### {225}{}{There are several farms and ranches in the area. The Rangers cover our brother, but they take their own percentages of the harvest for it... Sometimes leaving us pitiful crumbs for living... But things get better over time. The Earth is recovering from a lot of Pollution from year to year.}
-{225}{}{这个地区有几个农场和牧场。游骑兵队掩护我们的兄弟，但他们拿走了他们自己的收成百分比…有时给我们留下可怜的面包屑。。。但随着时间的推移，情况会好转。地球每年都在从大量污染中恢复。}
+{225}{}{这个地区有几个农场和牧场。游骑兵队掩护我们的兄弟，但他们拿走了他们自己的收成百分比…有时给我们留下可怜的面包屑...但随着时间的推移，情况会好转。地球每年都在从大量污染中恢复。}
 ### {226}{}{Pollution?}
 {226}{}{污染}
 ### {227}{}{The general once told me over a cup of herbal tea. When the nuclear bombs fell a hundred years ago, these lands were covered with clouds of radioactive ash. The clouds came from the west, east and south, depending on where the wind was blowing from. It was bad everywhere in those years. They say the land here has been barren for generations. Only cacti managed to maintain their life cycle thanks to deep roots. And only now the earth has begun to recover.}

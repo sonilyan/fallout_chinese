@@ -24,11 +24,11 @@
 ### {1206}{}{Where are you going? Have you lost all fear? Get out of here!}
 {1206}{}{你要去哪里？你失去了所有的恐惧吗？滚出去！}
 ### {207}{}{Stop! This is our te... Damn, super mutant! All ready to fight!}
-{207}{}{停止这是我们的。。。该死，超级变种人！一切准备战斗！}
+{207}{}{停止这是我们的...该死，超级变种人！一切准备战斗！}
 ### {208}{}{Oh, no, no, wait...}
-{208}{}{哦，不，不，等等。。。}
+{208}{}{哦，不，不，等等...}
 ### {209}{}{OK. It's your own fault, asshole...}
-{209}{}{好吧，这是你自己的错，混蛋。。。}
+{209}{}{好吧，这是你自己的错，混蛋...}
 
 ### {210}{}{I know what's going on here. You work without the permission of the Old City. And besides, you have enslaved the ghouls.}
 {210}{}{我知道这里发生了什么。你未经老城允许就工作。此外，你还奴役了食尸鬼。}
@@ -132,7 +132,7 @@
 ### {262}{}{The last one? Ho-ho, and you're quicker than these guys. Great. You can have fun with your green-skinned friends. There's nothing else for us to do here. Ringing caps and hub women are waiting for us in the Maltese Falcon! Hey, brothers, get on your horses!}
 {262}{}{最后一个？呵呵，你比这些家伙快。太棒了你可以和你的绿皮肤朋友玩得很开心。我们在这里没有别的事可做。Ringing caps和hub women在马耳他猎鹰号等着我们！嘿，兄弟们，快骑上你们的马！}
 ### {263}{}{The last one? Ho-ho, and you turned out to be more agile than these guys. Then we'll figure it out for ourselves. Jangling caps and booze are waiting for us in the Old Town. Hey, brothers, get on your horses!}
-{263}{}{最后一个？呵呵，原来你比这些家伙更敏捷。然后我们自己想办法。喧闹的帽子和酒在老城区等着我们。嘿，兄弟们，快骑上你们的马！}
+{263}{}{最后一个？呵呵，原来你比这些家伙更敏捷。然后我们自己想办法。喧闹的瓶盖和酒在老城区等着我们。嘿，兄弟们，快骑上你们的马！}
 ### {264}{}{It's done. It's really time to go back to the Old Town.}
 {264}{}{它完成了。是时候回到老城区了。}
 ### {265}{}{Don't get cocky. Now the ghouls are the masters here. You will work for them and follow their rules.}

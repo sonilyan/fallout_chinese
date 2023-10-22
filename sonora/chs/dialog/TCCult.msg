@@ -124,10 +124,10 @@
 ### {317}{}{You know, it's not me who needs to get out of Two-Sun. And you.}
 {317}{}{你知道，不是我需要离开两个太阳。还有你。}
 ### {318}{}{Have a good stay, misanthrope...}
-{318}{}{祝你住得愉快，厌世的人。。。}
+{318}{}{祝你住得愉快，厌世的人...}
 ### {319}{}{Come on, it's not that bad...}
-{319}{}{来吧，没那么糟。。。}
+{319}{}{来吧，没那么糟...}
 ### {320}{}{Leave me, demon of atomic division!}
 {320}{}{离开我，原子分裂的恶魔！}
 ### {321}{}{What are you...}
-{321}{}{你是什么。。。}
+{321}{}{你是什么...}

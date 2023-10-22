@@ -21,7 +21,7 @@
 ### {117}{}{Clothes straight from pre-war warehouses.}
 {117}{}{战前仓库里的衣服。}
 ### {118}{}{Felt hats and business suits are no longer in fashion.}
-{118}{}{毡制帽子和商务套装已不再流行。}
+{118}{}{毡制瓶盖和商务套装已不再流行。}
 ### {119}{}{Fire worshippers know a lot about clothes.}
 {119}{}{火崇拜者对衣服了解很多。}
 
@@ -37,7 +37,7 @@
 ### {211}{}{Not yet.}
 {211}{}{还没有。}
 ### {212}{}{And let's try this on...}
-{212}{}{让我们试试这个。。。}
+{212}{}{让我们试试这个...}
 
 #Questions
 ### {220}{}{Where do you get all these clothes?}
@@ -59,7 +59,7 @@
 ### {228}{}{I don't want to walk in this old stuff.}
 {228}{}{我不想穿这种旧衣服。}
 ### {229}{}{Hmm. It seems to me that the ancestors considered these costumes something decent. Oh, the old days... Okay, forget it.}
-{229}{}{嗯。在我看来，祖先们认为这些服装很体面。哦，过去的日子。。。好吧，算了。}
+{229}{}{嗯。在我看来，祖先们认为这些服装很体面。哦，过去的日子...好吧，算了。}
 
 #Glasses
 ### {230}{}{Is this all your product?}
@@ -79,7 +79,7 @@
 ### {237}{}{Put it aside for now, I'll think about it.}
 {237}{}{暂时把它放在一边，我会考虑的。}
 ### {238}{}{So, let's see what I can offer in return...}
-{238}{}{所以，让我们看看我能提供什么回报。。。}
+{238}{}{所以，让我们看看我能提供什么回报...}
 ### {239}{}{Show me what you have.}
 {239}{}{让我看看你有什么。}
 
@@ -89,7 +89,7 @@
 ### {241}{}{This is a bit not my profile. Ordinary citizens don't need armor, and few can afford it. If anyone needs it, I make an order with prepayment.}
 {241}{}{这有点不是我的个人资料。普通市民不需要盔甲，很少有人买得起。如果有人需要，我会提前付款订购。}
 ### {242}{}{I will pay 50 caps for the work.}
-{242}{}{我将为这项工作支付50顶帽子。}
+{242}{}{我将为这项工作支付50个瓶盖。}
 ### {243}{}{Come on, you probably have something in a secret drawer for special clients.}
 {243}{}{拜托，你可能在一个秘密抽屉里为特殊客户准备了一些东西。}
 ### {244}{}{Listen, why do you need armor? Better take an armored jacket, you're not going to war.}
@@ -121,7 +121,7 @@
 ### {264}{}{Are you out of your mind? Yes, they will kill me for this!}
 {264}{}{你疯了吗？是的，他们会因此杀了我的！}
 ### {265}{}{You just lost a mountain of caps. Congratulations.}
-{265}{}{你刚刚丢了一大堆帽子。祝贺}
+{265}{}{你刚刚丢了一大堆瓶盖。祝贺}
 ### {266}{}{Sorry to bother you.}
 {266}{}{很抱歉打扰你。}
 ### {267}{}{Oh, that changes a lot. But I hope you know what you're doing.}
@@ -151,7 +151,7 @@
 ### {286}{}{Here's the overall from the Vault you wanted.}
 {286}{}{这是你想要的保险库的整体。}
 ### {287}{}{Super! I'm finally going to change out of this smelly jacket. Hey, don't forget the caps. And thank you.}
-{287}{}{超级的我终于要换掉这件有臭味的夹克了。嘿，别忘了帽子。谢谢你。}
+{287}{}{超级的我终于要换掉这件有臭味的夹克了。嘿，别忘了瓶盖。谢谢你。}
 ### {288}{}{Please.}
 {288}{}{请}
 ### {289}{}{The main thing is the bottlecaps. And keep the gratitude for yourself.}
@@ -159,7 +159,7 @@
 ### {290}{}{What's the story with the overalls?}
 {290}{}{工装裤是怎么回事？}
 ### {291}{}{Well, it's an old legend. They say that before the Great War, several Vaults were built around Phoenix. Some people survived the War there and then came out to revive the city. True, the rumors are contradictory.}
-{291}{}{这是一个古老的传说。他们说，在大战之前，凤凰城周围建了几个金库。一些人在那里的战争中幸存下来，然后出来复兴这座城市。的确，这些传言是矛盾的。}
+{291}{}{这是一个古老的传说。他们说，在大战之前，凤凰城周围建了几个避难所。一些人在那里的战争中幸存下来，然后出来复兴这座城市。的确，这些传言是矛盾的。}
 ### {292}{}{[Next]}
 {292}{}{[下一个]}
 ### {293}{}{Besides, my parents had such a jumpsuit. This is a special memory for me. Unfortunately, that jumpsuit has long since decayed.}

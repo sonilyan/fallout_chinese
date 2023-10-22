@@ -63,7 +63,7 @@
 ### {231}{}{I doubt your business will be useful to the Rangers.}
 {231}{}{我怀疑你的生意对流浪者队是否有用。}
 ### {232}{}{As you wish...}
-{232}{}{如你所愿。。。}
+{232}{}{如你所愿...}
 ### {233}{}{}
 {233}{}{error : string is empty}
 ### {234}{}{Where are you from?}
@@ -133,7 +133,7 @@
 ### {284}{}{How to prove it?}
 {284}{}{如何证明？}
 ### {285}{}{It's simple. Everyone has a token with a personal number and name. Bring a token and you'll get caps. We don't usually deal with caps, but otherwise it's hard to interest ordinary residents from the wasteland.}
-{285}{}{这很简单。每个人都有一个带有个人号码和姓名的代币。带上代币，你就会得到帽子。我们通常不处理上限问题，但除此之外，很难引起荒地上普通居民的兴趣。}
+{285}{}{这很简单。每个人都有一个带有个人号码和姓名的代币。带上代币，你就会得到瓶盖。我们通常不处理上限问题，但除此之外，很难引起荒地上普通居民的兴趣。}
 ### {286}{}{I'll remember that. Bye.}
 {286}{}{我会记住的。再见}
 ### {287}{}{I have a badge of the Brotherhood of Steel.}
@@ -143,7 +143,7 @@
 ### {289}{}{Better than nothing. Here's the token.}
 {289}{}{总比什么都没有好。这是代币。}
 ### {290}{}{No caps needed. Save them for someone else.}
-{290}{}{不需要帽子。把它们留给别人。}
+{290}{}{不需要瓶盖。把它们留给别人。}
 ### {291}{}{Each such token increases the fighting spirit of ordinary rangers. Thank you. And good luck in the wastelands.}
 {291}{}{每一个这样的象征都增加了普通护林员的战斗精神。非常感谢。在荒原上祝你好运。}
 ### {292}{}{See you again.}
@@ -198,7 +198,7 @@
 ### {322}{}{It was stolen by Agatha's cadets along with the cartridges. They wanted to practice shooting.}
 {322}{}{它和子弹一起被阿加莎的学员偷走了。他们想练习射击。}
 ### {323}{}{Damn dam rats... They won't get away with it. And you deserve some of the bullets that were meant for these cadets. Thank you for your help.}
-{323}{}{该死的水坝老鼠。。。他们不会逃脱惩罚的。你应该得到一些为这些学员准备的子弹。谢谢你的帮助。}
+{323}{}{该死的水坝老鼠...他们不会逃脱惩罚的。你应该得到一些为这些学员准备的子弹。谢谢你的帮助。}
 ### {324}{}{Glad to help.}
 {324}{}{很乐意帮忙。}
 ### {1324}{}{Glad to help.}

@@ -15,7 +15,7 @@
 ### {1200}{}{Hey, woman, don't get too close to a brahmin. What do you want from our peaceful camp?}
 {1200}{}{嘿，女人，不要离婆罗门太近。你想从我们的和平营地得到什么？}
 ### {201}{}{I need your brahmin... No, the whole Garage City needs your brahmin.}
-{201}{}{我需要你的婆罗门。。。不，整个车库城都需要你的婆罗门。}
+{201}{}{我需要你的婆罗门...不，整个车库城都需要你的婆罗门。}
 ### {202}{}{We don't share sacred animals with scum. Leave us.}
 {202}{}{我们不与渣滓共享神圣的动物。离开我们。}
 ### {203}{}{Okay, I'll leave.}
@@ -66,7 +66,7 @@
 ### {241}{}{(exchange glances) What can you offer in return?}
 {241}{}{（交换眼神）你能提供什么作为回报？}
 ### {242}{}{Let's see...}
-{242}{}{让我们看看。。。}
+{242}{}{让我们看看...}
 ### {243}{}{To be honest, I don't have anything. Sorry to bother you in vain.}
 {243}{}{老实说，我什么都没有。很抱歉白打扰你。}
 ### {244}{}{I'm offering you a pitchfork. Eat, stupid rednecks!}

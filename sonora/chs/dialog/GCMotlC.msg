@@ -25,7 +25,7 @@
 ### {1206}{}{You're not right in the head. And we have nothing to do with women who are knocked out. Get lost!}
 {1206}{}{你脑子不对劲。我们与那些被淘汰的女性没有任何关系。迷路}
 ### {207}{}{Chill out, man, I'm already leaving...}
-{207}{}{冷静点，伙计，我已经走了。。。}
+{207}{}{冷静点，伙计，我已经走了...}
 ### {208}{}{I won't let you go on.}
 {208}{}{我不会让你继续下去的。}
 ### {209}{}{Uh-oh, we have the very Nobility here.  And what will you do? Well, tell me, BITCH?}
@@ -59,4 +59,4 @@
 ### {222}{}{Know your place, punk. If you don't calm down, you will have problems.}
 {222}{}{知道你的位置，朋克。如果你不冷静下来，你就会遇到问题。}
 ### {223}{}{Uh, okay... We don't need any problems. We'll leave as if we weren't there...}
-{223}{}{好吧。。。我们不需要任何问题。我们会离开，就好像我们不在那里一样。。。}
+{223}{}{好吧...我们不需要任何问题。我们会离开，就好像我们不在那里一样...}

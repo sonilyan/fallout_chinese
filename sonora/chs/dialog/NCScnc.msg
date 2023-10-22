@@ -1,7 +1,7 @@
 ### {100}{}{This is Arthur Carrington.}
 {100}{}{我是阿瑟·卡林顿。}
 ### {101}{}{You see the same archaeologist from Vault 27.}
-{101}{}{你看到的是27号金库的同一位考古学家。}
+{101}{}{你看到的是27号避难所的同一位考古学家。}
 
 #The first dialog
 ### {200}{}{Glad to see you again, hero.}

@@ -1,7 +1,7 @@
 ### {102}{}{Unnoticed theft in such conditions is simply impossible.}
 {102}{}{在这种情况下，不引人注意的盗窃是不可能的。}
 ### {103}{}{We... are not... stop...}
-{103}{}{我们不是。。。停止}
+{103}{}{我们不是...停止}
 ### {104}{}{}
 {104}{}{error : string is empty}
 ### {105}{}{Get out!}
@@ -13,13 +13,13 @@
 ### {201}{}{Impressive. Even after raising the alarm throughout the Vault, you managed to get to the command center itself. Few people are capable of this. What do you want?}
 {201}{}{给人印象深刻的即使在整个Vault中发出警报后，您还是设法到达了命令中心本身。很少有人能做到这一点。你想要什么？}
 ### {202}{}{Hmm. A stranger in a Vault is always suspicious. Why are you here?}
-{202}{}{嗯。金库里的陌生人总是很可疑。你为什么在这里？}
+{202}{}{嗯。避难所里的陌生人总是很可疑。你为什么在这里？}
 ### {203}{}{Aaron sent me. I want to serve the Sacred Fire.}
 {203}{}{亚伦派我来的。我想为圣火服务。}
 ### {204}{}{I'm here for one purpose - to kill you.}
 {204}{}{我来这里的目的只有一个——杀了你。}
 ### {205}{}{Then let's not waste time...}
-{205}{}{那我们就不要浪费时间了。。。}
+{205}{}{那我们就不要浪费时间了...}
 ### {206}{}{Die for the freedom of the Villa!}
 {206}{}{为别墅的自由而死！}
 ### {207}{}{I won't answer until I know who I'm talking to.}
@@ -33,7 +33,7 @@
 ### {210}{}{I'm looking for my tribesmen from the Villa. They say the Followers of Fire enslaved them.}
 {210}{}{我在别墅里找我的部落成员。他们说火的追随者奴役了他们。}
 ### {211}{}{Villa... I remember. One of the primitive villages in the northwest. The slaves were transported from there to Two-Sun and now they will become fuel in the progress machine. It's a great honor, even if you don't like it.}
-{211}{}{别墅。。。我记得。西北部的一个原始村庄。奴隶们从那里被运送到两个太阳，现在他们将成为进步机器的燃料。这是一种莫大的荣誉，即使你不喜欢。}
+{211}{}{别墅...我记得。西北部的一个原始村庄。奴隶们从那里被运送到两个太阳，现在他们将成为进步机器的燃料。这是一种莫大的荣誉，即使你不喜欢。}
 ### {212}{}{Why do you need slaves?}
 {212}{}{你为什么需要奴隶？}
 ### {213}{}{Oh, there are many reasons - infrastructure restoration, work in mines, transportation between cities and much of what will be much more difficult to do by the forces of free mercenaries. The development of civilization requires large labor resources. And slavery is the most appropriate way to get them.}
@@ -63,9 +63,9 @@
 ### {225}{}{That's reasonable. Sonora clearly lacks a strong hand to unite the fallen population.}
 {225}{}{这是合理的。索诺拉显然缺乏团结衰落人口的有力力量。}
 ### {226}{}{It's a pity that you didn't manage to get into our ideas. However, nothing new. You're just an ordinary hindrance to our plans. I'll have to eliminate you...}
-{226}{}{很遗憾你没能理解我们的想法。然而，没有什么新鲜事。你只是我们计划的一个普通障碍。我必须淘汰你。。。}
+{226}{}{很遗憾你没能理解我们的想法。然而，没有什么新鲜事。你只是我们计划的一个普通障碍。我必须淘汰你...}
 ### {227}{}{Wait, we haven't...}
-{227}{}{等等，我们还没有。。。}
+{227}{}{等等，我们还没有...}
 ### {228}{}{To do this, it is necessary to abandon the past - from superstitions, traditions and even family ties. Are you ready for such hardships?}
 {228}{}{要做到这一点，就必须抛弃过去——抛弃迷信、传统甚至家庭关系。你准备好面对这样的困难了吗？}
 ### {1228}{}{To do this, it is necessary to abandon the past - from superstitions, traditions and even family ties. Are you ready for such hardships?}
@@ -121,7 +121,7 @@
 ### {250}{}{What about the Villa?}
 {250}{}{别墅怎么样？}
 ### {251}{}{Oh, yes, the Villa... One of the primitive villages in the northwest. The report says you're from there. I'm sorry about what happened. In any case, your tribesmen have become fuel in the progress machine, and this is a great honor. And as a member of the Brotherhood of Steel, you should understand and accept this.}
-{251}{}{哦，是的，别墅。。。西北部的一个原始村庄。报告说你来自那里。我对发生的事情感到抱歉。无论如何，你的部落成员已经成为进步机器的燃料，这是一种莫大的荣誉。作为钢铁兄弟会的一员，你应该理解并接受这一点。}
+{251}{}{哦，是的，别墅...西北部的一个原始村庄。报告说你来自那里。我对发生的事情感到抱歉。无论如何，你的部落成员已经成为进步机器的燃料，这是一种莫大的荣誉。作为钢铁兄弟会的一员，你应该理解并接受这一点。}
 ### {252}{}{Is it possible to free the Villa from bondage?}
 {252}{}{有可能把别墅从束缚中解放出来吗？}
 ### {253}{}{Of course. But the Villa should become one of our colonies. Unfortunately, right now I have too much work to deal with this issue. You're going to have to help me. Talk to Aaron, he will give further instructions.}
@@ -145,13 +145,13 @@
 
 #After the destruction of Puerto
 ### {260}{}{I knew you'd show up... Savage! Even after destroying our base in Puerto, you can't stop in your thirst for revenge? This is the problem of all local tribes - you cling to the past, although a bright future is revealed to you. We just need to accept progress and abandon old prejudices. But no, it's too difficult for you!}
-{260}{}{我就知道你会出现。。。凶恶的即使在摧毁了我们在波多黎各的基地后，你也不能停止复仇的渴望？这是所有当地部落的问题——你执着于过去，尽管光明的未来展现在你面前。我们只需要接受进步，摒弃旧的偏见。但不，这对你来说太难了！}
+{260}{}{我就知道你会出现...凶恶的即使在摧毁了我们在波多黎各的基地后，你也不能停止复仇的渴望？这是所有当地部落的问题——你执着于过去，尽管光明的未来展现在你面前。我们只需要接受进步，摒弃旧的偏见。但不，这对你来说太难了！}
 ### {261}{}{In other words, the Brotherhood has failed in the lands of Sonora. Get over it, you idiot.}
 {261}{}{换句话说，兄弟会在索诺拉的土地上失败了。忘掉它，你这个白痴。}
 ### {262}{}{It's just a postponement of the inevitable. The elders in California will open a new fort in Sonora sooner or later. By this time I will have time to prepare the Phoenix. Everything is just beginning.}
 {262}{}{这只是不可避免的事情的延期。加利福尼亚州的长老们迟早会在索诺拉开设一座新堡垒。到这个时候，我将有时间准备凤凰号。一切才刚刚开始。}
 ### {263}{}{Hey, why do you need these machine guns... wait, you're not going to...}
-{263}{}{嘿，你为什么需要这些机关枪。。。等等，你不会。。。}
+{263}{}{嘿，你为什么需要这些机关枪...等等，你不会...}
 ### {264}{}{You're wrong. The Brotherhood failed because of mistakes in its ideology, not because of the backwardness of the region.}
 {264}{}{你错了。兄弟会的失败是因为其意识形态上的错误，而不是因为该地区的落后。}
 ### {265}{}{Nonsense!}
@@ -171,9 +171,9 @@
 ### {272}{}{And as a result, they became ordinary invaders.}
 {272}{}{结果，他们变成了普通的入侵者。}
 ### {273}{}{Enough! Get back to your garden beds, savage. These lands are unworthy of our attention...}
-{273}{}{足够地回到你的花园床上，野蛮人。这些土地不值得我们关注。。。}
+{273}{}{足够地回到你的花园床上，野蛮人。这些土地不值得我们关注...}
 ### {274}{}{Hmm...}
-{274}{}{嗯。。。}
+{274}{}{嗯...}
 ### {275}{}{Looks like I can't change your mind.}
 {275}{}{看来我无法改变你的想法。}
 
@@ -223,7 +223,7 @@
 ### {328}{}{What kind of Vault is this?}
 {328}{}{这是什么类型的保险库？}
 ### {329}{}{Before the Great War, similar Vaults were built all over the United States of America. They were intended to protect the population from nuclear strikes and their consequences. This Vault had the number 25.}
-{329}{}{在第一次世界大战之前，美利坚合众国各地都建造了类似的金库。它们旨在保护民众免受核打击及其后果的影响。这个保险库的编号是25。}
+{329}{}{在第一次世界大战之前，美利坚合众国各地都建造了类似的避难所。它们旨在保护民众免受核打击及其后果的影响。这个保险库的编号是25。}
 ### {330}{}{What do you know about the Great War?}
 {330}{}{你对大战了解多少？}
 ### {331}{}{Many countries have exterminated each other for a handful of natural resources and world domination. The usual thing with the only difference is that wars have never had such large-scale and destructive consequences.}
@@ -249,7 +249,7 @@
 ### {341}{}{Can we talk about the Brotherhood of Steel?}
 {341}{}{我们能谈谈钢铁兄弟会吗？}
 ### {342}{}{The Brotherhood of Steel is an organization that surpasses the locals in everything... In everything except numbers.}
-{342}{}{钢铁兄弟会是一个在所有方面都超越当地人的组织。。。除了数字以外的所有东西。}
+{342}{}{钢铁兄弟会是一个在所有方面都超越当地人的组织...除了数字以外的所有东西。}
 ### {343}{}{How did it turn out that the Brotherhood runs a cult?}
 {343}{}{兄弟会是如何运作邪教的？}
 ### {344}{}{The Brotherhood needs control over the surrounding lands. We cannot provide it on our own. Therefore, it was decided to establish a puppet government in Phoenix and manage the region through it. We created this cult and staged a revolution under its banners.}
@@ -274,7 +274,7 @@
 ### {356}{}{How can I go unnoticed then?}
 {356}{}{那我怎么能被人忽视呢？}
 ### {357}{}{Think about it. I will pay 500 caps for the elimination of the commander.}
-{357}{}{想想看，我会为消灭指挥官支付500顶帽子。}
+{357}{}{想想看，我会为消灭指挥官支付500个瓶盖。}
 ### {358}{}{Okay. I'll take the case. I will report on the result.}
 {358}{}{可以我来接这个案子。我将报告结果。}
 ### {359}{}{Too risky. I'd rather do a holodisk.}
@@ -312,7 +312,7 @@
 ### {400}{}{You managed to outsmart Aaron and ingratiate yourself with him. But this number won't work with me. After all this history at the Villa, you must have very different ambitions.}
 {400}{}{你设法智胜亚伦，讨好他。但这个数字对我不起作用。在维拉度过了这么长的历史之后，你一定有着非常不同的抱负。}
 ### {401}{}{Thu... How are you...}
-{401}{}{周四。。。你好吗}
+{401}{}{周四...你好吗}
 ### {402}{}{I know everything that happens in this city. There are eyes and ears everywhere. Of course, the Villa reports did not pass by. So what are you trying to achieve with all this conspiracy?}
 {402}{}{我知道这个城市发生的一切。到处都是眼睛和耳朵。当然，维拉的报道并没有被忽略。那么，你想通过这些阴谋达到什么目的呢？}
 ### {403}{}{I only want freedom for my people.}
@@ -364,8 +364,8 @@
 ### {425}{}{That's enough! This will never happen. You are just robbers and extortionists.}
 {425}{}{够了！这永远不会发生。你们只是强盗和勒索者。}
 ### {426}{}{What narrowness of views... It looks like you can't be of any use to us.}
-{426}{}{多么狭隘的观点。。。看来你对我们没有任何用处。}
+{426}{}{多么狭隘的观点...看来你对我们没有任何用处。}
 ### {1426}{}{What narrowness of views... It looks like you can't be of any use to us.}
-{1426}{}{多么狭隘的观点。。。看来你对我们没有任何用处。}
+{1426}{}{多么狭隘的观点...看来你对我们没有任何用处。}
 ### {427}{}{Hey, is that a gun?}
 {427}{}{嘿，那是把枪吗？}

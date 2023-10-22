@@ -36,7 +36,7 @@
 ### {205}{}{Hey, people, get your asses off the ground. We are performing!}
 {205}{}{嘿，伙计们，快离开地面。我们正在表演！}
 ### {206}{}{It seems to have started...}
-{206}{}{它似乎已经开始了。。。}
+{206}{}{它似乎已经开始了...}
 ### {207}{}{It is not worth going against this person. You will never rise to his position.}
 {207}{}{与这个人作对是不值得的。你永远也升不到他的位置。}
 ### {208}{}{We had no choice. There was no work and the city became cramped for all of us. It looks like now we just have to go and lay low. There is a lot of space in the wastelands for this purpose.}

@@ -31,4 +31,4 @@
 ### {212}{}{Two against a crowd? Well, if you think about it, there is a chance, and if I die, it's even better. Okay, it's a deal. Can you get me a weapon?}
 {212}{}{两个人对一群人？好吧，如果你仔细想想，还有机会，如果我死了，那就更好了。好吧，这是一笔交易。你能给我拿把武器吗？}
 ### {213}{}{That's reasonable. Cover your rags so no one can see...}
-{213}{}{这是合理的。把你的破布盖起来，这样没人能看见。。。}
+{213}{}{这是合理的。把你的破布盖起来，这样没人能看见...}

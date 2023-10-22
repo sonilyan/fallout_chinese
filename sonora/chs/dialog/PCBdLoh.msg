@@ -22,7 +22,7 @@
 ### {116}{}{This may be the last day of my life.}
 {116}{}{这可能是我生命的最后一天。}
 ### {117}{}{Can you borrow a thousand caps? I will return, ches-word.}
-{117}{}{你能借一千顶帽子吗？我会回来的。}
+{117}{}{你能借一千个瓶盖吗？我会回来的。}
 ### {118}{}{It looks like they're going to make a slave out of me soon.}
 {118}{}{看起来他们很快就会把我变成奴隶。}
 ### {119}{}{Soon I will be evicted to the street.}
@@ -94,7 +94,7 @@
 ### {255}{}{If you want to stop my fist, say something encouraging.}
 {255}{}{如果你想阻止我的拳头，说一些鼓励的话。}
 ### {256}{}{Wait, don't go that far. If Don Diego wants his caps back, he needs me alive and unharmed. Is that right? And if not, he would have sent me into slavery long ago. You get it, what's the deal?}
-{256}{}{等等，不要走那么远。如果圣地亚哥想要回他的帽子，他需要我活着，安然无恙。是这样吗？如果不是，他早就把我变成奴隶了。明白了，怎么回事？}
+{256}{}{等等，不要走那么远。如果圣地亚哥想要回他的瓶盖，他需要我活着，安然无恙。是这样吗？如果不是，他早就把我变成奴隶了。明白了，怎么回事？}
 ### {257}{}{Damn, I'm wasting my time with you.}
 {257}{}{该死，我在浪费时间和你在一起。}
 ### {258}{}{How are you going to repay your debts?}
@@ -114,7 +114,7 @@
 ### {265}{}{Your insolence knows no bounds. But I'll listen to what you come up with this time.}
 {265}{}{你的傲慢是无止境的。但这次我会听你说的。}
 ### {266}{}{There is one place where there are just MOUNTAINS of caps. I'm not lying, it's true. Nobody knows about him except me. We'll go there, open the warehouse and take out everything that has survived, and we'll divide the bottlecaps in half. Well, is it a deal?}
-{266}{}{有一个地方只有堆积如山的帽子。我没有撒谎，这是真的。除了我，没有人知道他。我们会去那里，打开仓库，取出所有幸存的东西，然后把瓶子分成两半。好吧，这是一笔交易吗？}
+{266}{}{有一个地方只有堆积如山的瓶盖。我没有撒谎，这是真的。除了我，没有人知道他。我们会去那里，打开仓库，取出所有幸存的东西，然后把瓶子分成两半。好吧，这是一笔交易吗？}
 ### {267}{}{Something is wrong here. Why didn't you do it before?}
 {267}{}{这里出了问题。你以前为什么不这么做？}
 ### {268}{}{Sounds like a blatant lie. Tell me right away - what's the catch?}

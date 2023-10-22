@@ -37,7 +37,7 @@
 ### {203}{}{Is there a way to get into the pen?}
 {203}{}{有办法进入钢笔吗？}
 ### {204}{}{Well, if you have a lot of caps, then Faber will let you in. I just don't know if it will *release*... I'll tell you one thing - the prison guards have a lazy job, so try to suck up to one of them.}
-{204}{}{好吧，如果你有很多帽子，那么费伯会让你进去的。我只是不知道它是否会发布。。。我要告诉你一件事——狱警的工作很懒，所以试着去讨好他们中的一个。}
+{204}{}{好吧，如果你有很多瓶盖，那么费伯会让你进去的。我只是不知道它是否会发布...我要告诉你一件事——狱警的工作很懒，所以试着去讨好他们中的一个。}
 ### {205}{}{Wait a minute, I need to know more.}
 {205}{}{等一下，我需要知道更多。}
 ### {206}{}{Then I'll do it myself.}
@@ -73,7 +73,7 @@
 ### {219}{}{So much equipment for the sake of communication alone?}
 {219}{}{仅仅为了交流就有这么多设备？}
 ### {220}{}{Well yes... Except for the management of collars.}
-{220}{}{嗯，是的。。。除了项圈的管理。}
+{220}{}{嗯，是的...除了项圈的管理。}
 ### {221}{}{Do you know how to disable prisoners' collars?}
 {221}{}{你知道如何使犯人的项圈残废吗？}
 ### {222}{}{We need an access code to the terminal. Only Faber and I have it. And I won't tell it to you.}
@@ -104,7 +104,7 @@
 ### {252}{}{Do you want to get out?}
 {252}{}{你想出去吗？}
 ### {253}{}{Me? To freedom? But... What am I going to do there? The boss, though angry, at least feeds and protects from robbers. And where can I go without him? I don't know...}
-{253}{}{我自由？但是我在那里该怎么办？老板虽然很生气，但至少能为强盗提供食物和保护。没有他我能去哪里？我不知道。。。}
+{253}{}{我自由？但是我在那里该怎么办？老板虽然很生气，但至少能为强盗提供食物和保护。没有他我能去哪里？我不知道...}
 ### {254}{}{Bitch, you pawned me to Faber!}
 {254}{}{婊子，你把我押给费伯了！}
 ### {255}{}{P-wait! Have mercy! Don't hit me! I'm just a prisoner! What was I supposed to do? After all, you have zero chances against mercenaries, and I will live here until the end of my days. If Faber had found out, he would have just killed me!}
@@ -123,7 +123,7 @@
 ### {261}{}{God, why?! Without Faber, the whole Flagstaff will come to an end! The mercenaries will now fight over his place, and pogroms and looting will begin in the city! Do you have any idea how much work has been invested in the arrangement of this place? Thank you, of course, for freedom, but I don't need it anymore.}
 {261}{}{天啊，为什么？！没有费伯，整个弗拉格斯塔夫将走向终结！雇佣兵现在将争夺他的位置，大屠杀和抢劫将在城市开始！你知道在这个地方的布置上投入了多少工作吗？当然，谢谢你的自由，但我不再需要它了。}
 ### {262}{}{Hmm...}
-{262}{}{嗯。。。}
+{262}{}{嗯...}
 ### {263}{}{Why didn't you run away with the rest of the prisoners?}
 {263}{}{你为什么不和其他囚犯一起逃跑？}
 ### {264}{}{And where should I run? In the wasteland? The first mole-rat will bite me there. And in the city they won't even look at me. Prison is the only place where my talents were appreciated, given food and protection. Think what you want, but I was satisfied with this life.}

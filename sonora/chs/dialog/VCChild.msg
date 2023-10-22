@@ -27,7 +27,7 @@
 ### {120}{}{And if the aliens come back, will someone protect us?}
 {120}{}{如果外星人回来了，会有人保护我们吗？}
 ### {121}{}{It was scary! I'm still shaking...}
-{121}{}{太可怕了！我还在发抖。。。}
+{121}{}{太可怕了！我还在发抖...}
 ### {122}{}{I'm afraid the raiders will come again.}
 {122}{}{恐怕袭击者还会再来。}
 ### {123}{}{Why are strangers so stupid?}

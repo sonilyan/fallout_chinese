@@ -36,7 +36,7 @@
 ### {222}{}{What do you think? Bring back our men and women. At least their parents. They, too, fell into the clutches of these extranos.}
 {222}{}{你觉得怎么样？把我们的男人和女人带回来。至少是他们的父母。他们也落入了这些外部网络的魔掌。}
 ### {223}{}{It won't be easy...}
-{223}{}{这并不容易。。。}
+{223}{}{这并不容易...}
 ### {224}{}{(nods) Right. And I'll tell you what, although your padre won't like it terribly. Downstairs, in the cellars under the town hall, there is a secret room with family heirlooms. Only a few people know about it. Go down, find and take everything that will be useful to you on the road. And do it right now, time is precious.}
 {224}{}{（点点头）对。我会告诉你的，尽管你的牧师不会很喜欢。楼下，在市政厅地下的地窖里，有一间密室，里面有传家宝。只有少数人知道。走下去，找到并带走路上对你有用的一切。现在就做，时间是宝贵的。}
 ### {225}{}{Thanks, Grandma. Now every little thing will help me.}
@@ -139,7 +139,7 @@
 ### {302}{}{The wastelands opened my eyes to the world. You are living wrong.}
 {302}{}{荒原让我大开眼界。你活得不对。}
 ### {303}{}{It's not up to you to decide how we live! The villa survived thanks to the traditions and foundations that we chose. And no Wastelands can dictate to us another way. But you...}
-{303}{}{我们的生活方式不是由你决定的！由于我们选择的传统和基础，别墅得以幸存。没有一片荒原可以对我们另辟蹊径。但是你。。。}
+{303}{}{我们的生活方式不是由你决定的！由于我们选择的传统和基础，别墅得以幸存。没有一片荒原可以对我们另辟蹊径。但是你...}
 ### {304}{}{?}
 {304}{}{？}
 ### {305}{}{You're just a hypocrite who bottlecaps up his stupidity with the outside world! Go away and don't come back. I curse you, }
@@ -176,7 +176,7 @@
 ### {328}{}{Not without it.}
 {328}{}{没有它。}
 ### {329}{}{Again these moralizing ...}
-{329}{}{再次这些道德说教。。。}
+{329}{}{再次这些道德说教...}
 ### {330}{}{Then conflicts and family breakdown begin. Perhaps the story of the raid was very useful - it reminded us that we should stick together. The founder of the Villa understood this well and prescribed it in his address to the descendants.}
 {330}{}{然后，冲突和家庭破裂开始了。也许这次突袭的故事非常有用——它提醒我们应该团结一致。别墅的创始人很清楚这一点，并在给后代的讲话中规定了这一点。}
 ### {331}{}{By the way, what happened to him?}

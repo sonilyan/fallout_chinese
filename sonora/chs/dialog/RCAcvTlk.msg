@@ -6,7 +6,7 @@
 ### {200}{}{Is it too late for a visit?}
 {200}{}{现在去拜访太晚了吗？}
 ### {201}{}{I'm just...}
-{201}{}{我只是。。。}
+{201}{}{我只是...}
 ### {202}{}{Away! Away!}
 {202}{}{离开离开}
 ### {203}{}{Okay, man. We'll talk in the afternoon.}

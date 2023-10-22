@@ -64,7 +64,7 @@
 ### {236}{}{You'll regret it. Someday.}
 {236}{}{总有一天你会后悔的。}
 ### {237}{}{Now you have a choice ? to die or work for De-Santi. So, I'm waiting for an answer. Times...}
-{237}{}{现在你可以选择了? 为德桑蒂而死或工作。所以，我在等待答案。次数。。。}
+{237}{}{现在你可以选择了? 为德桑蒂而死或工作。所以，我在等待答案。次数...}
 ### {238}{}{Hey, hey, you're not going to do the dirty work for some ex-thug, are you?}
 {238}{}{嘿，嘿，你不会为某个前暴徒做脏活的，是吗？}
 ### {239}{}{I'm not going to. I'm just kidding. Bye, Derrick.}

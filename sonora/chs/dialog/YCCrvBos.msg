@@ -12,7 +12,7 @@
 ### {202}{}{It seems you were carrying some kind of goods. Can I take a look?}
 {202}{}{你好像带了什么东西。我可以看看吗？}
 ### {203}{}{This product was intended for ghouls, but they were not interested in it... }
-{203}{}{这个产品是为食尸鬼准备的，但他们对它不感兴趣。。。}
+{203}{}{这个产品是为食尸鬼准备的，但他们对它不感兴趣...}
 ### {204}{}{[Trade]}
 {204}{}{[贸易]}
 ### {205}{}{Yes, by the way, I was hoping to buy some things from ghouls. But they don't want to get them, or they charge too much. I'll pay you if you find them for me in the ruins.}
@@ -48,7 +48,7 @@
 ### {220}{}{Where can I find a water chip?}
 {220}{}{我在哪里能找到水芯片？}
 ### {221}{}{This technology was used in the Vaults of the company "Vault-Tech". I know that there was one such Vault in the vicinity of San Diego. But I don't have the exact coordinates.}
-{221}{}{这项技术被用于“Vault Tech”公司的金库。我知道在圣地亚哥附近有一个这样的金库。但我没有确切的坐标。}
+{221}{}{这项技术被用于“Vault Tech”公司的避难所。我知道在圣地亚哥附近有一个这样的避难所。但我没有确切的坐标。}
 ### {222}{}{Where can I find a printed circuit board?}
 {222}{}{我在哪里可以找到印刷电路板？}
 ### {223}{}{This technology can only be used in old printing houses. Residents of the Hub want to print their own money, and for this you need to launch a printing press. And just this detail they do not have.}
@@ -70,9 +70,9 @@
 ### {231}{}{.}
 {231}{}{。}
 ### {232}{}{Great job! Here are your 400 caps. And I'll take this to the Hub.}
-{232}{}{干得好！这是你的400顶帽子。我会把这个带到中心。}
+{232}{}{干得好！这是你的400个瓶盖。我会把这个带到中心。}
 ### {233}{}{Thanks for the caps.}
-{233}{}{谢谢你的帽子。}
+{233}{}{谢谢你的瓶盖。}
 ### {234}{}{You have completely closed the Truckers' contract. Great job!}
 {234}{}{你已经完全终止了卡车司机的合同。干得好！}
 ### {235}{}{Good to see you.}
@@ -82,7 +82,7 @@
 ### {237}{}{[Continue the conversation]}
 {237}{}{[继续对话]}
 ### {238}{}{It's good to see you... You, but not your mutant friend.}
-{238}{}{很高兴见到你。。。你，但不是你的变种朋友。}
+{238}{}{很高兴见到你...你，但不是你的变种朋友。}
 ### {239}{}{It seems we are no longer welcome in the Shining. We'll be leaving this place soon.}
 {239}{}{看来我们在闪灵不再受欢迎了。我们很快就会离开这个地方。}
 
@@ -97,11 +97,11 @@
 ### {244}{}{I see.}
 {244}{}{我明白了。}
 ### {245}{}{Phoenix also uses caps for exchange.}
-{245}{}{菲尼克斯也使用帽子进行交换。}
+{245}{}{菲尼克斯也使用瓶盖进行交换。}
 ### {246}{}{Are there Hubbucks in Phoenix? Hmm! The Hub has been supporting the cap currency for many years. Probably, someone moved this idea to the east. Just what kind of people could cross the Toxic Divide between Arizona and California? This is interesting!}
 {246}{}{菲尼克斯有Hubbucks吗？嗯！该中心多年来一直支持上限货币。也许，有人把这个想法搬到了东方。什么样的人可以跨越亚利桑那州和加利福尼亚州之间的有毒鸿沟？这很有趣！}
 ### {247}{}{Let's go back...}
-{247}{}{让我们回到过去。。。}
+{247}{}{让我们回到过去...}
 ### {248}{}{Which company's office?}
 {248}{}{哪家公司的办公室？}
 ### {249}{}{Which company are you from?}

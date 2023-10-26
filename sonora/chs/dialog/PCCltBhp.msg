@@ -1,7 +1,7 @@
 ### {100}{}{You see an adept.}
 {100}{}{你看到一个熟练的人。}
 ### {101}{}{Here is one of the Followers of Fire. He's chanting something crazy to attract attention.}
-{101}{}{这是火的追随者之一。他在唱一些疯狂的歌来吸引注意力。}
+{101}{}{这是拜火教徒之一。他在唱一些疯狂的歌来吸引注意力。}
 
 #Floating replicas
 ### {110}{}{Fear the Sacred Fire!}
@@ -111,7 +111,7 @@
 ### {271}{}{Can I discuss our faith with you?}
 {271}{}{我可以和你谈谈我们的信仰吗？}
 ### {272}{}{The Church of the Sacred Fire is located to the north of the city. Walk along the main street, the road itself will lead you to the cathedral. It is better to learn about faith in sermons than from me.}
-{272}{}{圣火教堂位于城市的北部。沿着主街走，这条路会把你带到大教堂。在讲道中学习信仰比从我身上学习要好。}
+{272}{}{拜火教堂位于城市的北部。沿着主街走，这条路会把你带到大教堂。在讲道中学习信仰比从我身上学习要好。}
 ### {273}{}{And who are you actually?}
 {273}{}{你到底是谁？}
 ### {274}{}{A cheap trick to lure, sectarian. You can't fool me with that.}

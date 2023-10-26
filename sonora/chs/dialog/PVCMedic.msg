@@ -19,7 +19,7 @@
 ### {1203}{}{I don't know... What will make me special?}
 {1203}{}{我不知道...什么会让我与众不同？}
 ### {204}{}{A special title of a Follower of Fire... Or a large amount of caps. So do you need something?}
-{204}{}{火的追随者的特别称号...或者大量的上限。你需要什么吗？}
+{204}{}{拜火教徒的特别称号...或者大量的上限。你需要什么吗？}
 ### {205}{}{Perhaps.}
 {205}{}{可能}
 ### {206}{}{No, nothing. I was just curious.}

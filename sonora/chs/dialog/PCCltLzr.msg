@@ -84,23 +84,23 @@
 ### {158}{}{I ask my followers to help me.}
 {158}{}{我请求我的追随者帮助我。}
 ### {159}{}{Only Followers of Fire can heal as well as before the Great War.}
-{159}{}{只有火的追随者才能像大战前一样痊愈。}
+{159}{}{只有拜火教徒才能像大战前一样痊愈。}
 
 #- refugee
 ### {170}{}{I am here to seek refuge from the Followers of Fire.}
-{170}{}{我来这里是为了躲避火的追随者。}
+{170}{}{我来这里是为了躲避拜火教徒。}
 ### {171}{}{I was told that the church accepts refugees, but this is not the case.}
 {171}{}{有人告诉我教会接受难民，但事实并非如此。}
 ### {172}{}{We fled from bandits, but the church does not want to receive us.}
 {172}{}{我们逃离了土匪，但教堂不愿意接待我们。}
 ### {173}{}{Followers of Fire help refugees.}
-{173}{}{火的追随者帮助难民。}
+{173}{}{拜火教徒帮助难民。}
 ### {174}{}{The monks here are unusually round-cheeked. They are probably ill with something.}
 {174}{}{这里的僧侣们的脸异常圆。他们可能病了。}
 ### {175}{}{Only near the temple do I feel safe.}
 {175}{}{只有在寺庙附近我才感到安全。}
 ### {176}{}{They are strange - these fire worshippers.}
-{176}{}{他们很奇怪——这些拜火者。}
+{176}{}{他们很奇怪——这些拜火教徒。}
 ### {177}{}{These fanatics promise paradise on earth.}
 {177}{}{这些狂热分子许诺人间天堂。}
 ### {178}{}{They say we should be afraid, but I don't understand what or who.}

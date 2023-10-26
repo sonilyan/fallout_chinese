@@ -85,14 +85,14 @@
 ### {238}{}{You don't think so, do you?}
 {238}{}{你不这么认为，是吗？}
 ### {239}{}{(He looks down, not knowing what to say; it looks like he was seriously beaten by fire worshippers.)}
-{239}{}{（他往下看，不知道该说什么；看起来他被拜火者狠狠地打了一顿。）}
+{239}{}{（他往下看，不知道该说什么；看起来他被拜火教徒狠狠地打了一顿。）}
 
 ### {240}{}{Tell me about the Vault.}
 {240}{}{告诉我有关保险库的情况。}
 ### {241}{}{Vault number 25, built by Vault-Tec to protect people from nuclear war and its consequences...}
 {241}{}{25号避难所，由Vault Tec建造，旨在保护人们免受核战争及其后果的影响...}
 ### {242}{}{Wait, but how did the fire worshippers end up here?}
-{242}{}{等等，但是那些拜火者是怎么来到这里的？}
+{242}{}{等等，但是那些拜火教徒是怎么来到这里的？}
 ### {243}{}{(hesitantly) They... they came from outside and... p-settled here.}
 {243}{}{（犹豫地）他们...他们从外面来...p在此设置。}
 ### {244}{}{You're not telling me something.}
@@ -144,7 +144,7 @@
 ### {267}{}{Do you always fulfill the requests of strangers?}
 {267}{}{你总是满足陌生人的要求吗？}
 ### {268}{}{There are no outsiders in the Vault, only Followers of Fire. And my sacred mission is to be useful to them...}
-{268}{}{避难所里没有外人，只有火的追随者。我的神圣使命是对他们有用...}
+{268}{}{避难所里没有外人，只有拜火教徒。我的神圣使命是对他们有用...}
 ### {269}{}{Did you decide that yourself?}
 {269}{}{这是你自己决定的吗？}
 ### {270}{}{The adviser gives me instructions.}

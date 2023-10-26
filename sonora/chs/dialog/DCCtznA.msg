@@ -102,18 +102,18 @@
 ### {160}{}{These mummers from the cult sometimes frighten me.}
 {160}{}{这些来自邪教的木乃伊有时会吓到我。}
 ### {162}{}{I don't understand these fire worshippers.}
-{162}{}{我不理解这些拜火者。}
+{162}{}{我不理解这些拜火教徒。}
 ### {163}{}{Fire worshippers, tinkerers, Blue Shields... Are we the only ones normal here?}
-{163}{}{火崇拜者，修修补补者，蓝盾...这里只有我们正常吗？}
+{163}{}{拜火教徒，修修补补者，蓝盾...这里只有我们正常吗？}
 ### {161}{}{That sectarian offered me writing lessons. Fool, hehe.}
 {161}{}{那个教派给我上了写作课。傻瓜，呵呵。}
 ### {164}{}{These fire worshippers seem to be pious, but they themselves have a sharp knife under their mantle.}
-{164}{}{这些拜火者看起来很虔诚，但他们自己也有一把锋利的刀。}
+{164}{}{这些拜火教徒看起来很虔诚，但他们自己也有一把锋利的刀。}
 
 ### {165}{}{The caravaneers are talking about the big bang in Phoenix.}
 {165}{}{房车客们正在谈论凤凰城的大爆炸。}
 ### {166}{}{I'm telling you - the Cathedral of fire worshippers has really been destroyed.}
-{166}{}{我告诉你，火崇拜者的大教堂真的被摧毁了。}
+{166}{}{我告诉你，拜火教徒的大教堂真的被摧毁了。}
 ### {167}{}{Now instead of the Cathedral in Phoenix, there is one big hole.}
 {167}{}{现在有一个大洞，而不是凤凰城的大教堂。}
 ### {168}{}{When you're in Phoenix, don't mess with sectarians.}

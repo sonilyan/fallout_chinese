@@ -26,7 +26,7 @@
 ### {216}{}{Sending prisoners to Phoenix.}
 {216}{}{把囚犯送到凤凰城。}
 ### {217}{}{As expected, the fire worshippers immediately bought out the strongest peasants of the Villa and some savages. Compared to the rest of the prisoners, it was the highest quality product. In exchange, we received new weapons and ammunition, which were so lacking. Great deal.}
-{217}{}{不出所料，拜火者立即买下了别墅里最强壮的农民和一些野蛮人。与其他囚犯相比，它是最高质量的产品。作为交换，我们得到了新的武器和弹药，而这些武器和弹药是如此缺乏。太好了。}
+{217}{}{不出所料，拜火教徒立即买下了别墅里最强壮的农民和一些野蛮人。与其他囚犯相比，它是最高质量的产品。作为交换，我们得到了新的武器和弹药，而这些武器和弹药是如此缺乏。太好了。}
 ### {218}{}{Reduction of meat supplies.}
 {218}{}{减少肉类供应。}
 ### {219}{}{Due to problems in San Brahmin, the supply of meat has decreased. We'll have to start hunting for mole rats and get a trapper camp in the mountains. Damn it, more unexpected expenses! On the other hand, this is another incentive for the development of the city.}

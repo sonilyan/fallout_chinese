@@ -553,7 +553,7 @@
 ### {500}{}{Who are you talking about?}
 {500}{}{你在说谁？}
 ### {501}{}{Your padre told me that the tinsmiths and fire worshippers were a puppet of the Brotherhood of Steel. Find this Brotherhood and stop it before it's too late. And don't come back to the Villa until then.}
-{501}{}{你的牧师告诉我，锡匠和拜火者是钢铁兄弟会的傀儡。找到这个兄弟会，在为时已晚之前阻止它。在那之前不要回到别墅。}
+{501}{}{你的牧师告诉我，锡匠和拜火教徒是钢铁兄弟会的傀儡。找到这个兄弟会，在为时已晚之前阻止它。在那之前不要回到别墅。}
 ### {502}{}{OK. I'm leaving.}
 {502}{}{好的，我要走了。}
 ### {503}{}{A handful of old people. You're just crazy.}
@@ -561,7 +561,7 @@
 ### {504}{}{Are you talking about the Brotherhood of Steel?}
 {504}{}{你在说钢铁兄弟会吗？}
 ### {505}{}{Tinsmiths and fire worshippers were a puppet of the Brotherhood of Steel. Find this Brotherhood and stop it before it's too late. And don't come back to the Villa until then.}
-{505}{}{铁匠和拜火者是钢铁兄弟会的傀儡。找到这个兄弟会，在为时已晚之前阻止它。在那之前不要回到别墅。}
+{505}{}{铁匠和拜火教徒是钢铁兄弟会的傀儡。找到这个兄弟会，在为时已晚之前阻止它。在那之前不要回到别墅。}
 ### {506}{}{I destroyed the Brotherhood of Steel ship. His voyage was over.}
 {506}{}{我摧毁了钢铁兄弟会的飞船。他的航行结束了。}
 ### {1506}{}{I destroyed the Brotherhood of Steel ship. His voyage has come to an end.}

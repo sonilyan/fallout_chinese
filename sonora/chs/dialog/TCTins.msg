@@ -69,7 +69,7 @@
 ### {140}{}{What do they want in the Cathedral of Fire?}
 {140}{}{他们想在火之大教堂做什么？}
 ### {141}{}{These fire worshippers do not understand the essence of technology at all.}
-{141}{}{这些拜火者根本不了解技术的本质。}
+{141}{}{这些拜火教徒根本不了解技术的本质。}
 ### {142}{}{The more the ambassador of the Cathedral is here, the more difficult it is to work.}
 {142}{}{大教堂的大使在这里越多，工作就越困难。}
 ### {143}{}{Tell the ambassador of the Cathedral to pick up his worthless orders.}
@@ -78,7 +78,7 @@
 {144}{}{如果大教堂想这样做，让他们先找到图纸。}
 
 ### {145}{}{No matter how much we ridiculed the fire worshippers, we needed them.}
-{145}{}{不管我们多么嘲笑拜火者，我们都需要他们。}
+{145}{}{不管我们多么嘲笑拜火教徒，我们都需要他们。}
 ### {146}{}{Without the Cathedral of Fire, it will become much harder to obtain nuclear material.}
 {146}{}{如果没有火之大教堂，获得核材料将变得更加困难。}
 ### {147}{}{After the explosion in the Cathedral, the value of the caps plummeted.}

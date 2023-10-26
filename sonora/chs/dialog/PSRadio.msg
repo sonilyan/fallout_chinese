@@ -1,7 +1,7 @@
 ### {110}{}{The equipment fails.}
 {110}{}{设备出现故障。}
 ### {111}{}{You managed to disable the radio transmitter. The fire worshippers were left without radio communication.}
-{111}{}{你设法禁用了无线电发射机。拜火者没有无线电通讯。}
+{111}{}{你设法禁用了无线电发射机。拜火教徒没有无线电通讯。}
 
 #Dialog
 ### {200}{}{Enter the command.}
@@ -16,7 +16,7 @@
 {204}{}{由于大教堂断电，电台无法工作。}
 
 ### {210}{}{Copy the frequencies and the cipher. This way I can eavesdrop on the fire worshippers' radio conversations.}
-{210}{}{复制频率和密码。这样我就可以窃听拜火者的无线电对话。}
+{210}{}{复制频率和密码。这样我就可以窃听拜火教徒的无线电对话。}
 ### {211}{}{Radio frequencies copied.}
 {211}{}{无线电频率复制。}
 ### {212}{}{Examine the request history. I wonder if anyone could have shared information to organize attacks on the monks?}

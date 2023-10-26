@@ -32,9 +32,9 @@
 ### {123}{}{These passwords should be used on computers and other electronic systems.}
 {123}{}{这些密码应该在计算机和其他电子系统上使用。}
 ### {124}{}{You tore up this letter, trying to forget everything that connected you with the sect of fire worshippers.}
-{124}{}{你撕毁了这封信，试图忘记你与火崇拜者教派之间的一切。}
+{124}{}{你撕毁了这封信，试图忘记你与拜火教徒教派之间的一切。}
 ### {125}{}{This letter should be presented to the Followers of Fire in Phoenix.}
-{125}{}{这封信应该交给凤凰城的火的追随者。}
+{125}{}{这封信应该交给凤凰城的拜火教徒。}
 ### {126}{}{Damn sectarians...}
 {126}{}{该死的宗派主义者...}
 ### {127}{}{I don't want to think about them anymore.}

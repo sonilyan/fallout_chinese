@@ -36,7 +36,7 @@
 ### {214}{}{Isn't a preacher engaged in healing and teaching?}
 {214}{}{传教士不是在从事治疗和教学吗？}
 ### {215}{}{Yes... if you properly appease him with a bunch of caps and then listen to idiotic nonsense. I can tell this nonsense about radiance, rent genes and other atoms for free myself. The whole church of the Sacred Fire consists of ordinary charlatans who help only for huge donations.}
-{215}{}{对如果你用一堆瓶盖来安抚他，然后听愚蠢的废话。我可以告诉这些关于辐射的废话，免费租用基因和其他原子。整个圣火教堂都是由普通的江湖骗子组成的，他们只为巨额捐款而提供帮助。}
+{215}{}{对如果你用一堆瓶盖来安抚他，然后听愚蠢的废话。我可以告诉这些关于辐射的废话，免费租用基因和其他原子。整个拜火教堂都是由普通的江湖骗子组成的，他们只为巨额捐款而提供帮助。}
 ### {216}{}{I fully share your hatred for this stupid cult. What can we do?}
 {216}{}{我完全赞同你对这个愚蠢邪教的憎恨。我们能做什么？}
 ### {217}{}{I'll have to leave you with your skepticism. Be there.}
@@ -52,7 +52,7 @@
 ### {222}{}{The task requires time for reflection. I'll be back later.}
 {222}{}{这项任务需要时间进行反思。我稍后回来。}
 ### {223}{}{They say your relatives were enslaved. Then you should know that the sectarian has blessed the mercenaries for this "God-pleasing" enterprise. Some of your relatives were taken away by other fire worshippers and taken somewhere out of the city. If this is not enough, then think about the medicines that the sectarian receives from the south. That's where the real "uranium vein" is, eh?}
-{223}{}{他们说你的亲戚被奴役了。那么你应该知道，教派为雇佣兵的这一“讨上帝喜欢”的事业祝福。你的一些亲戚被其他拜火者带走，带到城外的某个地方。如果这还不够，那就想想教派从南方得到的药物吧。那才是真正的“铀矿脉”，嗯？}
+{223}{}{他们说你的亲戚被奴役了。那么你应该知道，教派为雇佣兵的这一“讨上帝喜欢”的事业祝福。你的一些亲戚被其他拜火教徒带走，带到城外的某个地方。如果这还不够，那就想想教派从南方得到的药物吧。那才是真正的“铀矿脉”，嗯？}
 ### {224}{}{How glad I am to see you!}
 {224}{}{见到你我真高兴！}
 ### {225}{}{Glad to see you.}
@@ -79,7 +79,7 @@
 ### {238}{}{Okay. But blame yourself.}
 {238}{}{可以但是责怪你自己。}
 ### {239}{}{Hell, even away from Phoenix, you can't avoid these crazy fire worshippers... Okay, I'll talk to Hiram. I will try to establish a common language, but only to avoid conflict.}
-{239}{}{地狱，即使远离凤凰城，你也无法避免这些疯狂的拜火者...好的，我和海勒姆谈谈。我将努力建立一种共同的语言，但只是为了避免冲突。}
+{239}{}{地狱，即使远离凤凰城，你也无法避免这些疯狂的拜火教徒...好的，我和海勒姆谈谈。我将努力建立一种共同的语言，但只是为了避免冲突。}
 ### {240}{}{Great, keep it up.}
 {240}{}{太好了，坚持下去。}
 ### {241}{}{The job is done - Hiram is no more.}

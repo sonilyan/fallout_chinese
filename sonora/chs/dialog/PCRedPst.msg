@@ -35,7 +35,7 @@
 {213}{}{你好你好吗}
 
 ### {214}{}{Are you aware that someone leaked your business to the fire worshippers?}
-{214}{}{你知道有人把你的生意泄露给了拜火者吗？}
+{214}{}{你知道有人把你的生意泄露给了拜火教徒吗？}
 ### {215}{}{What? Is there a sectarian agent among us? Yes, it can't be. I can't even imagine who it could be.}
 {215}{}{什么我们中间有宗派代理人吗？是的，不可能。我甚至无法想象它会是谁。}
 ### {216}{}{If it turns out that you did it, you'll be in big trouble.}

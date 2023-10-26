@@ -36,7 +36,7 @@
 ### {230}{}{Medical experiments.}
 {230}{}{医学实验。}
 ### {231}{}{The followers of Fire are conducting various medical experiments thanks to the perfectly preserved equipment of the Vault.}
-{231}{}{火的追随者们正在进行各种医学实验，这要归功于避难所保存完好的设备。}
+{231}{}{拜火教徒们正在进行各种医学实验，这要归功于避难所保存完好的设备。}
 ### {232}{}{Projects in development.}
 {232}{}{正在开发的项目。}
 ### {233}{}{Increased resistance to radiation; increased combat capability of guards with chemical agents; antivirus for "wasteland disease".}
@@ -49,7 +49,7 @@
 ### {240}{}{Affordable food project.}
 {240}{}{平价食品项目。}
 ### {241}{}{Followers of Fire are conducting various research to solve the food problem in Phoenix. These are experiments on plants (the project has been transferred to the Casa Nueva department), mushroom and microbiological farms, the manufacture of new food processors in Two-Sun, research on the GECK technology.}
-{241}{}{火的追随者们正在进行各种研究，以解决凤凰城的食物问题。这些是对植物的实验（该项目已移交给Casa Nueva部门）、蘑菇和微生物农场、Two Sun新食品加工厂的制造、GECK技术的研究。}
+{241}{}{拜火教徒们正在进行各种研究，以解决凤凰城的食物问题。这些是对植物的实验（该项目已移交给Casa Nueva部门）、蘑菇和微生物农场、Two Sun新食品加工厂的制造、GECK技术的研究。}
 ### {242}{}{What else is GECK?}
 {242}{}{GECK还有什么？}
 ### {243}{}{The Eden Bushes Compact Generator is an ancient technology for restoring the earth after being hit by a nuclear strike. The technology turned out to be too complex to be repeated in the laboratory conditions of Vault 25. In search of a GECK worker, the Followers equipped expeditions to other Vaults.}

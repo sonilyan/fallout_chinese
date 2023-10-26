@@ -61,7 +61,7 @@
 ### {232}{}{Why be so careful?}
 {232}{}{为什么要这么小心？}
 ### {233}{}{The followers of Fire don't like it when I sell good weapons to untested types. They think that sooner or later he will be turned against the church. Therefore, all the best is bought by the followers themselves, as well as casino security, the bounty hunters guild and other respected people of the city who can be trusted.}
-{233}{}{火的追随者不喜欢我把好武器卖给未经测试的人。他们认为他迟早会反对教会。因此，所有最好的东西都是由追随者自己购买的，还有赌场保安、赏金猎人协会和其他值得信赖的城市里受人尊敬的人。}
+{233}{}{拜火教徒不喜欢我把好武器卖给未经测试的人。他们认为他迟早会反对教会。因此，所有最好的东西都是由追随者自己购买的，还有赌场保安、赏金猎人协会和其他值得信赖的城市里受人尊敬的人。}
 ### {234}{}{Why did you cover part of the product?}
 {234}{}{为什么要覆盖部分产品？}
 ### {235}{}{I want to take a look at those special guns.}
@@ -83,7 +83,7 @@
 {242}{}{这就是你为最重要的客户保留的东西？多么可悲的景象。}
 
 ### {243}{}{The fire worshippers are on the run, their sect doesn't have long left. It's time to forget about your agreement.}
-{243}{}{火崇拜者正在逃亡，他们的教派已经所剩无几了。是时候忘记你的协议了。}
+{243}{}{拜火教徒正在逃亡，他们的教派已经所剩无几了。是时候忘记你的协议了。}
 ### {244}{}{I have recently been initiated in the Cathedral.}
 {244}{}{我最近在大教堂接受了启蒙。}
 ### {1244}{}{I have recently been initiated in the Cathedral.}
@@ -296,7 +296,7 @@
 ### {407}{}{Something is doubtful. This is the only gun shop, right?}
 {407}{}{有些事情值得怀疑。这是唯一的枪支商店，对吧？}
 ### {408}{}{Although my shop is the only one in the city, you can get weapons anywhere. The most armed people in the city are, perhaps, the Followers of Fire themselves. At one time, all the trunks were collected by them to make a revolution. Besides, I supply the best weapons to them, such an agreement.}
-{408}{}{虽然我的商店是城里唯一的一家，但你可以在任何地方买到武器。这座城市里武装最多的人，也许就是火的追随者。有一段时间，所有的树干都被他们收集起来进行革命。此外，我向他们提供最好的武器，这样的协议。}
+{408}{}{虽然我的商店是城里唯一的一家，但你可以在任何地方买到武器。这座城市里武装最多的人，也许就是拜火教徒。有一段时间，所有的树干都被他们收集起来进行革命。此外，我向他们提供最好的武器，这样的协议。}
 ### {409}{}{Then who could attack the monks?}
 {409}{}{那么谁能攻击僧侣呢？}
 ### {410}{}{Are you *asking* me that? You're a shitty detective. My advice to you is to talk to people in the market, they saw everything with their own eyes.}

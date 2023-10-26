@@ -178,7 +178,7 @@
 ### {296}{}{Followers of the Apocalypse... It's a strange name, but we're already used to it. They conduct scientific research, teach children, treat diseases. Needless to say, the plantation itself appeared in the middle of the desert thanks to their experiments. But it's easier for you to ask the Followers themselves.}
 {296}{}{启示录的追随者...这是一个奇怪的名字，但我们已经习惯了。他们进行科学研究，教育孩子，治疗疾病。不用说，由于他们的实验，种植园本身出现在沙漠中央。但你更容易问追随者自己。}
 ### {297}{}{I know about some other followers - Followers of Fire in Phoenix.}
-{297}{}{我知道其他一些追随者-凤凰城的火的追随者。}
+{297}{}{我知道其他一些追随者-凤凰城的拜火教徒。}
 ### {298}{}{I heard something about them, but we never crossed paths. Except for the caravans that come from Phoenix.}
 {298}{}{我听说了一些关于他们的事情，但我们从未有过交集。除了来自凤凰城的大篷车。}
 ### {299}{}{By the way, why is alcohol banned here?}

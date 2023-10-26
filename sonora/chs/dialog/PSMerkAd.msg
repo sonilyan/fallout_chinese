@@ -61,4 +61,4 @@
 ### {262}{}{Wanted for numerous crimes against Phoenix residents. Any contact with this person can cost you your life.}
 {262}{}{因对凤凰城居民犯下多项罪行而被通缉。与这个人的任何接触都可能让你付出生命的代价。}
 ### {263}{}{Wanted for numerous crimes against the Church of the Sacred Fire. Any contact with this heretic can cost you your reputation and well-being.}
-{263}{}{因对圣火教会犯下多项罪行而被通缉。与这个异教徒的任何接触都会让你失去名誉和幸福。}
+{263}{}{因对拜火教犯下多项罪行而被通缉。与这个异教徒的任何接触都会让你失去名誉和幸福。}

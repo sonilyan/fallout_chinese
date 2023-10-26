@@ -16,7 +16,7 @@
 ### {205}{}{An alliance of cult and savages? Why does the church need this?}
 {205}{}{邪教和野蛮人的联盟？为什么教会需要这个？}
 ### {206}{}{The church cares about people from the wastelands. Is this your first time in this city? Look how many benefits the Church of the Sacred Fire has brought to these lands. The followers conquered the Sun and imprisoned it in sticks and lamps, isn't this an indicator of their greatness, their divine power?}
-{206}{}{教会关心来自荒原的人们。这是你第一次来这个城市吗？看看圣火教会给这些土地带来了多少好处。追随者们征服了太阳，并将其囚禁在棍棒和灯中，这难道不是他们伟大、神圣力量的象征吗？}
+{206}{}{教会关心来自荒原的人们。这是你第一次来这个城市吗？看看拜火教给这些土地带来了多少好处。追随者们征服了太阳，并将其囚禁在棍棒和灯中，这难道不是他们伟大、神圣力量的象征吗？}
 ### {207}{}{Do you understand anything of their teachings?}
 {207}{}{你了解他们的教义吗？}
 ### {208}{}{Not much, to be honest. But the Followers promised to teach. They will open their temple in our valley, teach you to understand the language of the Ancients and even conquer the Sun. Well, that's what they promised.}

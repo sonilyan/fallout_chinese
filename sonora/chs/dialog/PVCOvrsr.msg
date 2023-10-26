@@ -31,7 +31,7 @@
 
 #The first dialogue if GG is a peasant
 ### {210}{}{I'm looking for my tribesmen from the Villa. They say the Followers of Fire enslaved them.}
-{210}{}{我在别墅里找我的部落成员。他们说火的追随者奴役了他们。}
+{210}{}{我在别墅里找我的部落成员。他们说拜火教徒奴役了他们。}
 ### {211}{}{Villa... I remember. One of the primitive villages in the northwest. The slaves were transported from there to Two-Sun and now they will become fuel in the progress machine. It's a great honor, even if you don't like it.}
 {211}{}{别墅...我记得。西北部的一个原始村庄。奴隶们从那里被运送到两个太阳，现在他们将成为进步机器的燃料。这是一种莫大的荣誉，即使你不喜欢。}
 ### {212}{}{Why do you need slaves?}
@@ -109,7 +109,7 @@
 ### {244}{}{What is the Brotherhood paladin doing in the heart of a strange cult?}
 {244}{}{兄弟会圣骑士在一个奇怪的邪教中心做什么？}
 ### {245}{}{In fact, I run this cult, although few people know about it. The fact is that the Church of the Sacred Fire was organized by the Brotherhood of Steel a few years ago. Back then there was a time of troubles in Phoenix, we helped one of the clans seize power over the city and then put the people we needed at the helm. I still lead this elite for the sake of the Brotherhood.}
-{245}{}{事实上，我管理着这个邪教，尽管很少有人知道它。事实上，圣火教堂是几年前由钢铁兄弟会组织的。当时凤凰城有一段麻烦时期，我们帮助其中一个部族夺取了城市的权力，然后让我们需要的人掌舵。为了兄弟会，我仍然领导着这个精英。}
+{245}{}{事实上，我管理着这个邪教，尽管很少有人知道它。事实上，拜火教堂是几年前由钢铁兄弟会组织的。当时凤凰城有一段麻烦时期，我们帮助其中一个部族夺取了城市的权力，然后让我们需要的人掌舵。为了兄弟会，我仍然领导着这个精英。}
 ### {246}{}{In other words, are Aaron and the other sectarians just a puppet in the hands of the Brotherhood?}
 {246}{}{换句话说，亚伦和其他宗派主义者只是兄弟会手中的傀儡吗？}
 ### {247}{}{All right. The Brotherhood needs various resources and power over the region. But there are too few of us to keep the situation under control on our own. The idea of a revolution and the creation of a subsidiary cult turned out to be an ideal solution. Now we can only give commands, the real work is done by people accountable to us.}
@@ -189,7 +189,7 @@
 ### {304}{}{The members of the Brotherhood of Steel should trust each other.}
 {304}{}{钢铁兄弟会的成员应该相互信任。}
 ### {305}{}{As a member of the Sacred Fire Church, I swear to be careful.}
-{305}{}{作为圣火教会的一员，我发誓一定要小心。}
+{305}{}{作为拜火教的一员，我发誓一定要小心。}
 ### {306}{}{It is difficult to fulfill your mission without basic support.}
 {306}{}{没有基本的支持很难完成你的使命。}
 ### {307}{}{Okay, I'll manage.}
@@ -213,7 +213,7 @@
 ### {323}{}{Can I ask one more question?}
 {323}{}{我能再问一个问题吗？}
 ### {324}{}{Can we talk about the Sacred Fire Church?}
-{324}{}{我们能谈谈圣火教堂吗？}
+{324}{}{我们能谈谈拜火教堂吗？}
 ### {325}{}{A cult that spiritualizes progress and knowledge.}
 {325}{}{将进步和知识精神化的邪教。}
 ### {326}{}{Is this cult also created by the Brotherhood of Steel?}

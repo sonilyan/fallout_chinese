@@ -64,7 +64,7 @@
 ### {229}{}{[Next]}
 {229}{}{[下一个]}
 ### {230}{}{Your list of "special clients" simply must have Followers of Fire.}
-{230}{}{你的“特殊客户”名单上必须有火的追随者。}
+{230}{}{你的“特殊客户”名单上必须有拜火教徒。}
 ### {231}{}{I think you won't refuse a generous tip. Here are 10 caps.}
 {231}{}{我想你不会拒绝慷慨的小费的。这里有10个瓶盖。}
 ### {232}{}{(smiling with crooked teeth) Thank you, mister.}

@@ -12,6 +12,6 @@
 ### {113}{}{A complete disappointment was to be expected from such a hole. I'll have to leave with nothing.}
 {113}{}{从这样一个洞里可以预料到完全的失望。我将不得不一无所有地离开。}
 ### {114}{}{I'll be damned! What is a Follower of Fire doing in such a hole?}
-{114}{}{我会被诅咒的！火的追随者在这样的洞里做什么？}
+{114}{}{我会被诅咒的！拜火教徒在这样的洞里做什么？}
 ### {115}{}{Hmm. I didn't think I'd see power armor in such a hole. Curious.}
 {115}{}{嗯。我没想到我会在这样一个洞里看到强力盔甲。好奇的}

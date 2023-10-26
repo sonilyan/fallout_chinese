@@ -91,9 +91,9 @@
 ### {1232}{}{I am only a peaceful preacher of the Sacred Fire. Let us in for the night, generous tinker!}
 {1232}{}{我只是一个和平的圣火传教士。让我们进来过夜吧，慷慨的修补匠！}
 ### {233}{}{The Church of the Sacred Fire has been our reliable partner for several years. We welcome you to Two-Sun, minister.}
-{233}{}{圣火教会多年来一直是我们可靠的合作伙伴。部长，我们欢迎您光临二日。}
+{233}{}{拜火教多年来一直是我们可靠的合作伙伴。部长，我们欢迎您光临二日。}
 ### {1233}{}{Sacred Fire Church has been our reliable partner for several years. We welcome you to Two-Sun, servant.}
-{1233}{}{圣火教会多年来一直是我们可靠的合作伙伴。我们欢迎您光临二日餐厅，仆人。}
+{1233}{}{拜火教多年来一直是我们可靠的合作伙伴。我们欢迎您光临二日餐厅，仆人。}
 ### {234}{}{I'm glad to hear that.}
 {234}{}{听到这个我很高兴。}
 
@@ -105,7 +105,7 @@
 {237}{}{这是真的。}
 
 ### {238}{}{See this robe? I am a Follower of Fire, we have good relations with your people.}
-{238}{}{看到这件长袍了吗？我是火的追随者，我们和你们的人民关系很好。}
+{238}{}{看到这件长袍了吗？我是拜火教徒，我们和你们的人民关系很好。}
 ### {239}{}{After the fall of your citadel, you risk just your appearance. Go away and don't cause us any problems.}
 {239}{}{在你的城堡倒塌后，你只会冒着露面的风险。走开，不要给我们带来任何问题。}
 ### {240}{}{Damn...}
@@ -114,7 +114,7 @@
 ### {241}{}{I'm going from the Cathedral of Fire to the Steel Port. I was told I'd find a place to sleep on the way here.}
 {241}{}{我要从火之大教堂去钢铁港。有人告诉我，在来的路上我会找个地方睡觉。}
 ### {242}{}{We appreciate what the Sacred Fire Church does. You can pass.}
-{242}{}{我们感谢圣火教会所做的一切。你可以通过。}
+{242}{}{我们感谢拜火教所做的一切。你可以通过。}
 ### {243}{}{Thank you.}
 {243}{}{非常感谢。}
 ### {244}{}{I'm here to trade. This atomic clock is not the only thing available to me.}
@@ -157,7 +157,7 @@
 ### {270}{}{Why did you hang this man on a pole?}
 {270}{}{你为什么把这个人挂在杆子上？}
 ### {271}{}{The followers of Fire turned out to be stupid and unworthy of our technologies. The body of this despicable one will serve as an example to the rest.}
-{271}{}{火的追随者原来是愚蠢的，不值得我们的技术。这个卑鄙的人的身体将成为其他人的榜样。}
+{271}{}{拜火教徒原来是愚蠢的，不值得我们的技术。这个卑鄙的人的身体将成为其他人的榜样。}
 ### {272}{}{I approve. It is high time for these sectarians to disappear from our world.}
 {272}{}{我同意。现在是这些宗派主义者从我们的世界上消失的时候了。}
 ### {273}{}{Don't you find it too cruel? However, it's up to you.}

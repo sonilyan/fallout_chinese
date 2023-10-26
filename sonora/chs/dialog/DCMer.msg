@@ -93,7 +93,7 @@
 ### {236}{}{Bustos. My name is Alfred Bustos. Welcome to my city.}
 {236}{}{巴斯托斯。我的名字叫阿尔弗雷德·布斯托斯。欢迎来到我的城市。}
 ### {237}{}{I need the mayor of this city. I'm from the Sacred Fire Church.}
-{237}{}{我需要这个城市的市长。我来自圣火教堂。}
+{237}{}{我需要这个城市的市长。我来自拜火教堂。}
 ### {238}{}{What a surprise. Usually I am warned about the appearance of the ambassador of your church.}
 {238}{}{真是个惊喜。通常我会被警告你们教会大使的出现。}
 ### {239}{}{Come in. Make yourself at home.}

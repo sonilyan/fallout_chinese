@@ -54,7 +54,7 @@
 ### {221}{}{Why?}
 {221}{}{为什么？}
 ### {222}{}{You know why. This is the mantle of the Followers of Fire, and we don't like these guys. They climb with their charter into someone else's monastery. This is unacceptable.}
-{222}{}{你知道为什么。这是火之追随者的衣钵，我们不喜欢这些家伙。他们拿着特许状爬进别人的修道院。这是不可接受的。}
+{222}{}{你知道为什么。这是拜火教徒的衣钵，我们不喜欢这些家伙。他们拿着特许状爬进别人的修道院。这是不可接受的。}
 ### {223}{}{I see.}
 {223}{}{我明白了。}
 ### {224}{}{Isn't that the guy Old Rufus was waiting for? Well done for bringing him. Let it benefit the Wastelands. Such craftsmen have no place in the garbage heap.}

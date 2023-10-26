@@ -67,7 +67,7 @@
 ### {212}{}{[Interrupt speech]}
 {212}{}{[中断语音]}
 ### {213}{}{We were a close-knit community, but the fire worshippers brought us selfishness! We believed in one god, but they taught us to argue about religion! We wanted to do good to our fellow tribesmen, but the clans have once again entered the path of enmity...}
-{213}{}{我们是一个紧密团结的社区，但拜火者给我们带来了自私！我们相信一个神，但他们教会我们争论宗教！我们想对我们的部落同胞做好事，但部落再次走上了敌对的道路...}
+{213}{}{我们是一个紧密团结的社区，但拜火教徒给我们带来了自私！我们相信一个神，但他们教会我们争论宗教！我们想对我们的部落同胞做好事，但部落再次走上了敌对的道路...}
 ### {214}{}{The Phoenix taught us to trade brahmins as objects, although these animals are sacred. How many more outsiders will destroy our foundations? How many more feuds within the tribe will they cause just by their appearance in our lands?}
 {214}{}{凤凰教我们将婆罗门作为物品进行交易，尽管这些动物是神圣的。还有多少外来者会摧毁我们的基础？仅仅因为他们出现在我们的土地上，就会在部落内部引发多少世仇？}
 ### {215}{}{Now look at Chatto. He learned to read pagan texts from the caravaneers. Reading! He calls for the Brahmins to be exchanged for the soulless technology of outsiders. He and his friends want to trade our freedom for an alliance with Phoenix. They want to put the pueblo in the hands of missionaries!}
@@ -79,7 +79,7 @@
 ### {218}{}{Oh, I see a stranger in the pueblo. Who are you? What are you doing in a strange tribe?}
 {218}{}{哦，我在普韦布洛看到一个陌生人。你是谁？你在一个陌生的部落里干什么？}
 ### {219}{}{Oh, I see a fire worshipper in the pueblo. What do you want? Take away our children and our brahmins? We have already answered your predecessors that the San Brahmin tribe cannot be bought, as you have done with the rest. Get back to your stinking Phoenix, pagan!}
-{219}{}{哦，我在普韦布洛看到一个火崇拜者。你想要什么？带走我们的孩子和婆罗门？我们已经回答了你的前任，圣婆罗门部落是买不来的，就像你对其他部落所做的那样。回到你的臭凤凰，异教徒！}
+{219}{}{哦，我在普韦布洛看到一个拜火教徒。你想要什么？带走我们的孩子和婆罗门？我们已经回答了你的前任，圣婆罗门部落是买不来的，就像你对其他部落所做的那样。回到你的臭凤凰，异教徒！}
 ### {220}{}{I am going to the chief on behalf of the Villa. Nana missed me.}
 {220}{}{我代表维拉去见酋长。娜娜想我了。}
 ### {221}{}{Ah, the Divine Brahmin of Peace! If Nana lets in an outsider, there must be a reason. Okay, come on in. But keep in mind that nothing will hide from my eagle eye. I'll be watching your every move in the pueblo.}

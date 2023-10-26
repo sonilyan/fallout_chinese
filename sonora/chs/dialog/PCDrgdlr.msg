@@ -92,7 +92,7 @@
 ### {234}{}{More serious? Like buffout and psycho?}
 {234}{}{更严重？像小丑和神经病？}
 ### {235}{}{I'm sorry, but the fire worshippers forbade me to sell such goods. They buy all the army drugs themselves.}
-{235}{}{对不起，拜火者禁止我出售这种商品。所有的军药都是他们自己买的。}
+{235}{}{对不起，拜火教徒禁止我出售这种商品。所有的军药都是他们自己买的。}
 ### {236}{}{But why did they need old army drugs?}
 {236}{}{但他们为什么需要旧的军药？}
 ### {237}{}{They hide behind caring for the residents of the city... look, I really don't know why they do this, but I don't want to go against the rules. However... (goes into a whisper)}
@@ -158,7 +158,7 @@
 ### {272}{}{Doesn't sound very reliable, don't you think?}
 {272}{}{听起来不太可靠，你不觉得吗？}
 ### {273}{}{Calmly. Chemistry is almost without impurities. You can't find the best dope in the city... Except, perhaps, the Followers of Fire. But they don't share it with anyone.}
-{273}{}{冷静。化学几乎没有杂质。你在这个城市找不到最好的毒品...也许除了火的追随者。但他们不会与任何人分享。}
+{273}{}{冷静。化学几乎没有杂质。你在这个城市找不到最好的毒品...也许除了拜火教徒。但他们不会与任何人分享。}
 ### {274}{}{And what kind of "dope" do you sell?}
 {274}{}{你卖什么“毒品”？}
 ### {275}{}{Almost? I need *really* quality medicines.}
@@ -266,13 +266,13 @@
 ### {324}{}{Eh, how?}
 {324}{}{呃，怎么回事？}
 ### {325}{}{No matter. Here, take the finished product. And tell your people that because of the fire worshippers, it's getting harder to do dope.}
-{325}{}{不管怎样给，拿着成品。告诉你的人民，因为有了火崇拜者，吸毒变得越来越难了。}
+{325}{}{不管怎样给，拿着成品。告诉你的人民，因为有了拜火教徒，吸毒变得越来越难了。}
 ### {326}{}{Bye.}
 {326}{}{再见}
 ### {327}{}{There was an overlay with the last courier. You know how hard it is to cross the tenth highway.}
 {327}{}{最后一个快递员在上面。你知道过第十条高速公路有多难。}
 ### {328}{}{Well yes. And how to make dope without raw materials, stupid? Okay, here's the finished product. Give it to Rio, let him take care of the courier before the fire worshippers shut down my shop.}
-{328}{}{是的。愚蠢的人，如何在没有原料的情况下制造毒品？好的，这是成品。把它交给里奥，让他在拜火者关闭我的商店之前照顾快递员。}
+{328}{}{是的。愚蠢的人，如何在没有原料的情况下制造毒品？好的，这是成品。把它交给里奥，让他在拜火教徒关闭我的商店之前照顾快递员。}
 ### {329}{}{Bye.}
 {329}{}{再见}
 

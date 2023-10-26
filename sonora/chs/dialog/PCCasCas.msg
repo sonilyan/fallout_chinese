@@ -184,7 +184,7 @@
 ### {280}{}{Why are caps so important?}
 {280}{}{为什么上限如此重要？}
 ### {281}{}{Caps are a currency. Like pre-war money. They are used to exchange for goods. But unlike depreciated dollars, the rate of caps is set by Followers of Fire. This is one of those wise ideas that the Followers have bestowed on Phoenix.}
-{281}{}{上限是一种货币。就像战前的钱。它们被用来交换货物。但与贬值的美元不同，上限利率是由火的追随者设定的。这是信徒们赋予凤凰的智慧之一。}
+{281}{}{上限是一种货币。就像战前的钱。它们被用来交换货物。但与贬值的美元不同，上限利率是由拜火教徒设定的。这是信徒们赋予凤凰的智慧之一。}
 ### {282}{}{So you accept pre-war money?}
 {282}{}{所以你接受战前的钱？}
 ### {283}{}{Yes, it's possible. Although the pre-war dollars have depreciated, they still bring some confusion to the exchange rate of the caps. Would you like to exchange?}
@@ -196,7 +196,7 @@
 ### {286}{}{ Yes, I'll need it.}
 {286}{}{是的，我需要它。}
 ### {287}{}{It's possible. But note that dollars have halved in value. Previously, the course was controlled by the Followers of Fire, but due to the crisis they can no longer perform this function.}
-{287}{}{这是可能的。但请注意，美元的价值已经减半。此前，该课程由火之追随者控制，但由于危机，他们无法再履行这一职能。}
+{287}{}{这是可能的。但请注意，美元的价值已经减半。此前，该课程由拜火教徒控制，但由于危机，他们无法再履行这一职能。}
 ### {288}{}{I see.}
 {288}{}{我明白了。}
 ### {289}{}{All the pre-war dollars I have.}

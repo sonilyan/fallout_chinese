@@ -360,7 +360,7 @@
 ### {380}{}{Who's the bad guy here? Me? Let them dare to say it to your face.}
 {380}{}{谁是这里的坏人？我让他们敢于当着你的面说出来。}
 ### {381}{}{They say you belong to a sect of Followers of Fire. This is far from the best recommendation.}
-{381}{}{他们说你属于火之追随者的一个教派。这远不是最好的建议。}
+{381}{}{他们说你属于拜火教徒的一个教派。这远不是最好的建议。}
 ### {382}{}{The Rangers just need their own man in this church.}
 {382}{}{游骑兵队只需要他们自己的人在这个教堂里。}
 ### {383}{}{It is sad that you have disagreements with our faith. You should repent before the Sacred Fire.}

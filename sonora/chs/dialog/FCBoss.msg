@@ -114,9 +114,9 @@
 ### {247}{}{Who buys it?}
 {247}{}{谁买的？}
 ### {248}{}{There are several buyers in the south, the main one is the cult of fire worshippers.}
-{248}{}{南方有几个买家，主要是对火崇拜者的崇拜。}
+{248}{}{南方有几个买家，主要是对拜火教徒的崇拜。}
 ### {249}{}{There are several buyers in the south. Previously, the bulk of the goods were bought by fire worshippers. Now it has become a little more difficult with clients.}
-{249}{}{南方有几个买主。此前，大部分商品都是由拜火者购买的。现在，这对客户来说变得有点困难了。}
+{249}{}{南方有几个买主。此前，大部分商品都是由拜火教徒购买的。现在，这对客户来说变得有点困难了。}
 
 #Liberation
 ### {250}{}{I don't see any reason to do this.}

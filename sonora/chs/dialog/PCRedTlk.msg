@@ -58,7 +58,7 @@
 ### {220}{}{They say you've been betrayed. Who do you think it could be?}
 {220}{}{他们说你被背叛了。你认为可能是谁？}
 ### {221}{}{You're delusional. We can't stand the spirit of fire worshippers. None of us can even get close to the cathedral. They consider us criminals there.}
-{221}{}{你有妄想症。我们无法忍受火崇拜者的精神。我们谁也不能靠近大教堂。他们认为我们是罪犯。}
+{221}{}{你有妄想症。我们无法忍受拜火教徒的精神。我们谁也不能靠近大教堂。他们认为我们是罪犯。}
 ### {222}{}{Sounds quite convincing.}
 {222}{}{听起来很有说服力。}
 ### {223}{}{I will prove that there is a traitor among you.}
@@ -128,7 +128,7 @@
 ### {255}{}{You're a dangerous guy. I need to be careful with you.}
 {255}{}{你是个危险的家伙。我需要小心你。}
 ### {256}{}{Why is your gang outlawed? They say the fire worshippers are pinching you.}
-{256}{}{为什么你们的帮派是非法的？他们说拜火者在掐你。}
+{256}{}{为什么你们的帮派是非法的？他们说拜火教徒在掐你。}
 ### {257}{}{Damn sectarians, I can't stand them. They tell us what is right and what is wrong. Why on earth? There is only one law on the streets - whoever is stronger is right. We proved it with our deeds. Only we have the right to manage this territory.}
 {257}{}{该死的宗派主义者，我受不了他们。他们告诉我们什么是对的，什么是错的。为什么？街头只有一条法律——谁更强大，谁就是对的。我们用行动证明了这一点。只有我们有权管理这块领土。}
 ### {258}{}{Sounds reasonable.}
@@ -155,7 +155,7 @@
 ### {268}{}{You have nothing to fear. Even if you're involved, I won't turn you in.}
 {268}{}{你没有什么可害怕的。即使你参与其中，我也不会告发你。}
 ### {269}{}{Fear? For me? Ha! To be honest, I'm involved in this shit myself. Someone from the Cathedral asked for a diversion in order to persuade the ghouls to cooperate, because they themselves will not be able to fix anything. It turned out to be easy, because one of the undead himself was eager to get used to the fire worshippers.}
-{269}{}{害怕为了我？哈老实说，我自己也卷入了这件事。大教堂里有人要求转移注意力，以说服食尸鬼合作，因为他们自己无法解决任何问题。事实证明，这很容易，因为其中一个不死生物自己也渴望适应火崇拜者。}
+{269}{}{害怕为了我？哈老实说，我自己也卷入了这件事。大教堂里有人要求转移注意力，以说服食尸鬼合作，因为他们自己无法解决任何问题。事实证明，这很容易，因为其中一个不死生物自己也渴望适应拜火教徒。}
 ### {270}{}{Wow, that's a story! Now I'll know who's the main dude here. Bye, Murphy.}
 {270}{}{哇，真是个故事！现在我知道谁是这里的主要人物了。再见，墨菲。}
 ### {271}{}{Why would you hide something? You're a cool dude, come on, tell me.}

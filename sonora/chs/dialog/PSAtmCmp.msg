@@ -32,7 +32,7 @@
 {224}{}{这些食尸鬼知道该怎么办。}
 
 ### {230}{}{A contract with the Church of the Sacred Fire.}
-{230}{}{与圣火教会签订的合同。}
+{230}{}{与拜火教签订的合同。}
 ### {231}{}{Agreement on the supply of fuel cells for the reactor of the Theodore Roosevelt Nuclear Power Plant, Phoenix, Arizona, August 17, 2163.}
 {231}{}{关于西奥多·罗斯福核电站反应堆燃料电池供应的协议，亚利桑那州凤凰城，2163年8月17日。}
 ### {232}{}{General information about the station.}
@@ -42,6 +42,6 @@
 ### {234}{}{Contract for parts from... Garage City?}
 {234}{}{来自…的零件合同...车库城？}
 ### {235}{}{(As it turned out, the tinsmiths received from the Followers of Fire the very detail that you handed over to the caravaneers in Garage City. She was sent here to replace the old damaged one.)}
-{235}{}{（事实证明，锡匠们从火的追随者那里收到了你在车库城交给商队的细节。她被派到这里来更换旧的损坏的。）}
+{235}{}{（事实证明，锡匠们从拜火教徒那里收到了你在车库城交给商队的细节。她被派到这里来更换旧的损坏的。）}
 ### {236}{}{Hey, I remember that story!}
 {236}{}{嘿，我记得那个故事！}

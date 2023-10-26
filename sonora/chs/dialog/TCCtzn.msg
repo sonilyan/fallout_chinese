@@ -26,11 +26,11 @@
 {118}{}{蓝盾队变得更强了。现在他们必须被考虑在内。}
 
 ### {119}{}{I've always found these fire worshippers funny.}
-{119}{}{我一直觉得这些拜火者很有趣。}
+{119}{}{我一直觉得这些拜火教徒很有趣。}
 ### {120}{}{The followers of Fire got what they dreamed of.}
-{120}{}{火的追随者得到了他们的梦想。}
+{120}{}{拜火教徒得到了他们的梦想。}
 ### {121}{}{Brazen fire worshippers are trying to tell us what to do.}
-{121}{}{厚颜无耻的拜火者正试图告诉我们该做什么。}
+{121}{}{厚颜无耻的拜火教徒正试图告诉我们该做什么。}
 
 ### {122}{}{This uranium from Flagstaff is not enough.}
 {122}{}{这些来自弗拉格斯塔夫的铀是不够的。}

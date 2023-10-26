@@ -199,7 +199,7 @@
 ### {352}{}{Where did you get your education from?}
 {352}{}{你是从哪里接受教育的？}
 ### {353}{}{My parents taught me the basics of writing and computer skills. This is a rarity in our area, so many people in Phoenix used my services. When the cult of fire worshippers took over the city, I had new opportunities for doing science, which I could only dream of before.}
-{353}{}{我父母教我基本的写作和电脑技能。这在我们地区是罕见的，所以凤凰城有很多人使用我的服务。当火崇拜者的崇拜席卷整个城市时，我有了从事科学研究的新机会，这是我以前梦寐以求的。}
+{353}{}{我父母教我基本的写作和电脑技能。这在我们地区是罕见的，所以凤凰城有很多人使用我的服务。当拜火教徒的崇拜席卷整个城市时，我有了从事科学研究的新机会，这是我以前梦寐以求的。}
 ### {354}{}{Who were your parents?}
 {354}{}{你的父母是谁？}
 ### {355}{}{I think they were the descendants of those who came out of the Vault. Although they did not directly talk about it.}
@@ -207,7 +207,7 @@
 ### {356}{}{Why did you go on an expedition?}
 {356}{}{你为什么去探险？}
 ### {357}{}{The fire worshippers were looking for people to scout. Their interests were too much... mercantile. They needed only practically significant things-old equipment, energy sources, weapons, after all. As a scientist, I looked at things more broadly. The Vault could tell a lot about the Old World and help in the development of the New One. Ancient relics should not be thrown around so recklessly.}
-{357}{}{拜火者在找人侦察。他们的兴趣太多了...商业的毕竟，他们只需要一些实际意义重大的东西——旧设备、能源、武器。作为一名科学家，我更广泛地看待事物。避难所可以讲述很多关于旧世界的故事，并有助于新世界的发展。古代文物不应该如此肆无忌惮地乱扔。}
+{357}{}{拜火教徒在找人侦察。他们的兴趣太多了...商业的毕竟，他们只需要一些实际意义重大的东西——旧设备、能源、武器。作为一名科学家，我更广泛地看待事物。避难所可以讲述很多关于旧世界的故事，并有助于新世界的发展。古代文物不应该如此肆无忌惮地乱扔。}
 
 ### {360}{}{Tell me what happened to the expedition.}
 {360}{}{告诉我探险队发生了什么事。}
@@ -336,7 +336,7 @@
 ### {471}{}{How was your report received? You're not really beaming with happiness.}
 {471}{}{你的报告收到得怎么样？你并不是真的喜气洋洋。}
 ### {472}{}{Now no one needs the results of my many months of work. The Temple of Fire is destroyed. I don't know what happened there, but the fire worshippers are now in exile, and no one needs a scientist like me anymore.}
-{472}{}{现在没有人需要我几个月工作的结果。火神庙被毁。我不知道那里发生了什么，但拜火者现在流亡海外，再也不需要像我这样的科学家了。}
+{472}{}{现在没有人需要我几个月工作的结果。火神庙被毁。我不知道那里发生了什么，但拜火教徒现在流亡海外，再也不需要像我这样的科学家了。}
 ### {473}{}{Are you sure?}
 {473}{}{你确定吗？}
 ### {474}{}{There is one clue. In the Cathedral, I came across scant reports about the city of scientists somewhere in the south, but there is too little information about it. I want to go there to find happiness at last. If you're going that way, let me know.}

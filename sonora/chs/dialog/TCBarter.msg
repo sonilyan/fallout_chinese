@@ -56,9 +56,9 @@
 ### {241}{}{Why?}
 {241}{}{为什么？}
 ### {242}{}{Caps as currency are supported by the Sacred Fire Church in Phoenix. Although I don't like this idea with bulky caps. We could make new coins on our machines. And someday it will happen exactly like this.}
-{242}{}{作为货币的上限得到了凤凰城圣火教堂的支持。虽然我不喜欢这种大瓶盖的想法。我们可以在机器上制造新硬币。总有一天它会像这样发生。}
+{242}{}{作为货币的上限得到了凤凰城拜火教堂的支持。虽然我不喜欢这种大瓶盖的想法。我们可以在机器上制造新硬币。总有一天它会像这样发生。}
 ### {243}{}{The caps as currency were maintained by the Sacred Fire Church in Phoenix. And although the church has been deposed, caps will remain the most reliable currency for the coming years.}
-{243}{}{作为货币的上限由凤凰城的圣火教堂维持。尽管教会已经被废黜，但在未来几年里，上限仍然是最可靠的货币。}
+{243}{}{作为货币的上限由凤凰城的拜火教堂维持。尽管教会已经被废黜，但在未来几年里，上限仍然是最可靠的货币。}
 ### {244}{}{I see.}
 {244}{}{我明白了。}
 ### {245}{}{Where did so many canned noodles come from?}
@@ -78,7 +78,7 @@
 ### {252}{}{You'll give a discount to a member of the Brotherhood of Steel, won't you?}
 {252}{}{你会给钢铁兄弟会的一个成员折扣，不是吗？}
 ### {253}{}{Will you give a discount to a Follower of Fire?}
-{253}{}{你会给火的追随者折扣吗？}
+{253}{}{你会给拜火教徒折扣吗？}
 ### {254}{}{Sure. Our friends deserve such respect.}
 {254}{}{当然我们的朋友值得这样的尊重。}
 ### {255}{}{Wonderful.}

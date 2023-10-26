@@ -23,7 +23,7 @@
 ### {118}{}{Felt hats and business suits are no longer in fashion.}
 {118}{}{毡制瓶盖和商务套装已不再流行。}
 ### {119}{}{Fire worshippers know a lot about clothes.}
-{119}{}{火崇拜者对衣服了解很多。}
+{119}{}{拜火教徒对衣服了解很多。}
 
 ### {200}{}{Hi. I have different casual clothes and some work clothes. Look, don't be shy.}
 {200}{}{你好我有不同的休闲服和一些工作服。听着，别害羞。}
@@ -47,7 +47,7 @@
 ### {222}{}{I see.}
 {222}{}{我明白了。}
 ### {223}{}{Where do the Followers of Fire get their robes from?}
-{223}{}{火的追随者从哪里得到他们的长袍？}
+{223}{}{拜火教徒从哪里得到他们的长袍？}
 ### {224}{}{Obviously, they make it themselves. And they are in no hurry to share this technology with ordinary mortals.}
 {224}{}{显然，这是他们自己做的。他们并不急于与普通人分享这项技术。}
 ### {225}{}{Before the War, it was considered good clothes.}
@@ -111,7 +111,7 @@
 
 #The Mantle of Followers
 ### {260}{}{I need the robe of a Follower of Fire.}
-{260}{}{我需要火之追随者的长袍。}
+{260}{}{我需要拜火教徒的长袍。}
 ### {261}{}{(looks around warily) Listen, I'm not going to ask why you need this, but I don't need problems.}
 {261}{}{（警惕地环顾四周）听着，我不会问你为什么需要这个，但我不需要麻烦。}
 ### {262}{}{I'll pay whatever you say. And no one will know about our secret deal.}

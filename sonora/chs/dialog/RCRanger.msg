@@ -35,7 +35,7 @@
 {121}{}{Flagstaff正在扩张。这不好。}
 
 ### {122}{}{The fire worshippers must be stopped before they finally burn out these lands.}
-{122}{}{在他们最终烧毁这些土地之前，必须阻止那些拜火者。}
+{122}{}{在他们最终烧毁这些土地之前，必须阻止那些拜火教徒。}
 ### {123}{}{The Cult of fire is defeated by its own weapon}
 {123}{}{火教被自己的武器打败了}
 ### {124}{}{The damned sectarians are seizing more and more land.}

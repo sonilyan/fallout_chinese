@@ -22,15 +22,15 @@
 ### {214}{}{Information about slaves from Phoenix.}
 {214}{}{关于凤凰城奴隶的信息。}
 ### {215}{}{(The main source of slaves for tinsmiths is the Sacred Fire Church in Phoenix. You enter the coordinates in your Pip-Boy.)}
-{215}{}{（锡匠奴隶的主要来源是凤凰城的圣火教堂。你可以在你的皮普男孩中输入坐标。）}
+{215}{}{（锡匠奴隶的主要来源是凤凰城的拜火教堂。你可以在你的皮普男孩中输入坐标。）}
 ### {216}{}{Reports on trading operations.}
 {216}{}{交易操作报告。}
 ### {217}{}{(Tinsmiths actively trade with several settlements, where they exchange technology items and provide repair services. Main contracts: Sacred Fire Church in Phoenix (slaves, clothing, food), Flagstaff Colony (slaves, uranium), Casa Nueva (food), Casa Grande (clean water).)}
-{217}{}{（锡匠积极与几个定居点进行贸易，在那里他们交换技术物品并提供维修服务。主要合同：凤凰城的圣火教堂（奴隶、衣服、食物）、弗拉格斯塔夫殖民地（奴隶、铀）、努瓦之家（食物）、格兰德之家（清洁水）。）}
+{217}{}{（锡匠积极与几个定居点进行贸易，在那里他们交换技术物品并提供维修服务。主要合同：凤凰城的拜火教堂（奴隶、衣服、食物）、弗拉格斯塔夫殖民地（奴隶、铀）、努瓦之家（食物）、格兰德之家（清洁水）。）}
 ### {218}{}{Instructions of the General Staff.}
 {218}{}{总参谋部的指示。}
 ### {219}{}{(The leader of the Tinsmiths receives direct instructions from the Brotherhood of Steel from Puerto Penasco. The brotherhood does not interfere in the internal affairs of local residents, but regulates some production and foreign policy. In particular, the Brotherhood obliges to fulfill important requests from the Church of the Sacred Fire in Phoenix. The last such contract was parts for a nuclear bomb.)}
-{219}{}{（锡匠的领袖直接接受来自佩纳斯科港的钢铁兄弟会的指示。该兄弟会不干涉当地居民的内政，但管理一些生产和外交政策。特别是，兄弟会有义务满足凤凰城圣火教堂的重要要求。上一份这样的合同是核武器的一部分。）r炸弹。）}
+{219}{}{（锡匠的领袖直接接受来自佩纳斯科港的钢铁兄弟会的指示。该兄弟会不干涉当地居民的内政，但管理一些生产和外交政策。特别是，兄弟会有义务满足凤凰城拜火教堂的重要要求。上一份这样的合同是核武器的一部分。）r炸弹。）}
 
 ### {220}{}{Cody's file.}
 {220}{}{科迪的档案。}
@@ -40,7 +40,7 @@
 ### {230}{}{Getting the part from... Garage City?}
 {230}{}{正在从中获取零件...车库城？}
 ### {231}{}{(As it turned out, the tinsmiths received from the Followers of Fire the very detail that you gave to the caravaneers in Garage City. She was sent here for mass reproduction.)}
-{231}{}{（事实证明，锡匠们从火的追随者那里收到了你在车库城给商队的细节。她被送到这里进行大规模复制。）}
+{231}{}{（事实证明，锡匠们从拜火教徒那里收到了你在车库城给商队的细节。她被送到这里进行大规模复制。）}
 ### {232}{}{The dossier on Carlos.}
 {232}{}{关于卡洛斯的档案。}
 ### {233}{}{(Oddly enough, for all their closeness, the tinsmiths loved and accepted Carlos for his talents and interests in technology.)}

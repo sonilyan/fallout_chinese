@@ -155,7 +155,7 @@
 ### {340}{}{I'll think about your offer.}
 {340}{}{我会考虑你的报价。}
 ### {341}{}{Let me guess- your customer was fire worshippers, right? In that case, I have bad news - the Temple of Fire has been destroyed.}
-{341}{}{让我猜一猜——你的顾客是拜火者，对吧？在这种情况下，我有一个坏消息——火神庙被毁了。}
+{341}{}{让我猜一猜——你的顾客是拜火教徒，对吧？在这种情况下，我有一个坏消息——火神庙被毁了。}
 ### {342}{}{It can't be! Do you have any idea what that means?! Not only have I lost my earnings, but the whole wasteland will fall in riots! I definitely shouldn't go back to Phoenix now... We must go to the mountains and eat carrion until the dust settles... Forget about the cipher, I don't need it anymore.}
 {342}{}{不可能！你知道这意味着什么吗？！我不仅失去了收入，而且整个荒原都将在暴乱中沦陷！我现在绝对不应该回凤凰城了...我们必须去山里吃腐肉，直到尘埃落定...忘记密码吧，我不再需要它了。}
 ### {343}{}{That's right, there's nothing else for you to do here.}
@@ -185,7 +185,7 @@
 ### {355}{}{I won't tell you anything!}
 {355}{}{我什么都不告诉你！}
 ### {356}{}{That was a smart move, don't you think? Now the fire worshippers will give me a lot of caps. They will be *forced* to accept me into their ranks! I'm going to join the Phoenix elite, you know?!}
-{356}{}{你不觉得这是个聪明的举动吗？现在拜火者会给我很多瓶盖。他们将被迫接受我加入他们的队伍！我要加入凤凰精英，你知道吗？！}
+{356}{}{你不觉得这是个聪明的举动吗？现在拜火教徒会给我很多瓶盖。他们将被迫接受我加入他们的队伍！我要加入凤凰精英，你知道吗？！}
 ### {357}{}{Sounds great. If I end up in Phoenix, will you help me join the elite?}
 {357}{}{听起来不错。如果我最终来到凤凰城，你会帮我加入精英吗？}
 ### {358}{}{You don't even need caps, right? We need people with an idea. Anyway, see you later. I have to go.}

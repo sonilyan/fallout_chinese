@@ -78,11 +78,11 @@
 {238}{}{奉承不适合唯利是图的老板。但我很感激。}
 
 ### {240}{}{Don't move. First I want to know what happened between you and the followers of Fire.}
-{240}{}{不要动。首先我想知道你和火的追随者之间发生了什么。}
+{240}{}{不要动。首先我想知道你和拜火教徒之间发生了什么。}
 ### {241}{}{This is our personal business. It doesn't concern you.}
 {241}{}{这是我们个人的事。这与你无关。}
 ### {242}{}{Oh no. This is a mercenary guild, not a brothel. I've been working with the fire worshippers for years, ferrying slaves and convicts across the desert. And all of a sudden you come and block me a damn bunch of contracts. What the hell?}
-{242}{}{哦，不是。这是一个雇佣兵帮会，不是妓院。多年来，我一直在和火崇拜者一起工作，运送奴隶和罪犯穿越沙漠。突然间，你来阻止我一堆该死的合同。什么鬼东西？}
+{242}{}{哦，不是。这是一个雇佣兵帮会，不是妓院。多年来，我一直在和拜火教徒一起工作，运送奴隶和罪犯穿越沙漠。突然间，你来阻止我一堆该死的合同。什么鬼东西？}
 ### {243}{}{I'm telling you, it's personal.}
 {243}{}{我告诉你，这是针对个人的。}
 ### {244}{}{Ah, is this about revenge? I understand. It's lucky for you that your followers can't pay for your head yet. But if that happens, I promise - your head will be on my desk.}
@@ -362,7 +362,7 @@
 ### {379}{}{It's not worth it, I'll try to figure it out on my own.}
 {379}{}{这不值得，我会自己想办法。}
 ### {380}{}{Something has become clear. Several slaves originally from the Villa actually ended up in the Flagstaff colony. They were bought by fire worshippers and transported to their Cathedral. They must have been damn good slaves if they had to be driven over such distances. What became of them is known only to the monks. }
-{380}{}{有些事情已经变得很清楚了。几名来自别墅的奴隶最终被关进了弗拉格斯塔夫殖民地。它们被火崇拜者买下并运到他们的大教堂。如果他们必须被赶过这么长的距离，他们一定是非常好的奴隶。他们的下场只有僧侣们知道。}
+{380}{}{有些事情已经变得很清楚了。几名来自别墅的奴隶最终被关进了弗拉格斯塔夫殖民地。它们被拜火教徒买下并运到他们的大教堂。如果他们必须被赶过这么长的距离，他们一定是非常好的奴隶。他们的下场只有僧侣们知道。}
 ### {381}{}{Thank you, Bruce. It's time for me to visit this very Cathedral of Fire. Or whatever his name is.}
 {381}{}{谢谢你，布鲁斯。是时候让我参观这座火之大教堂了。或者不管他叫什么名字。}
 ### {382}{}{Ugh. I would have found out without you.}
@@ -370,7 +370,7 @@
 ### {1382}{}{Ugh. I would have found out without you.}
 {1382}{}{啊。如果没有你，我早就知道了。}
 ### {383}{}{Something has become clear. Several slaves originally from the Villa ended up in the Flagstaff colony. They were bought by fire worshippers and transported to penal servitude in Two-Sun. Apparently, they were damn good slaves if they had to be driven over such distances.}
-{383}{}{有些事情已经变得很清楚了。几个最初来自别墅的奴隶最终被关进了弗拉格斯塔夫殖民地。它们被火崇拜者买下，并在二日被流放到劳役所。显然，如果他们必须被赶过这么长的距离，他们就是该死的好奴隶。}
+{383}{}{有些事情已经变得很清楚了。几个最初来自别墅的奴隶最终被关进了弗拉格斯塔夫殖民地。它们被拜火教徒买下，并在二日被流放到劳役所。显然，如果他们必须被赶过这么长的距离，他们就是该死的好奴隶。}
 ### {384}{}{Thank you, Bruce. It's time for me to visit this dubious town. I hope caravans go there.}
 {384}{}{谢谢你，布鲁斯。是时候让我参观这个可疑的小镇了。我希望大篷车能去那里。}
 ### {385}{}{You know, Bruce, your help wasn't very helpful. Goodbye.}

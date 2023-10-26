@@ -1,5 +1,5 @@
 ### {100}{}{You see a Follower of Fire.}
-{100}{}{你看到一个火的追随者。}
+{100}{}{你看到一个拜火教徒。}
 ### {101}{}{Here is one of the Followers. He completely withdrew into himself because of the frantic prayer.}
 {101}{}{这是一个追随者。由于疯狂的祈祷，他完全退缩了。}
 

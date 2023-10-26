@@ -36,7 +36,7 @@
 ### {216}{}{It's good that we found a common language.}
 {216}{}{我们找到了一种共同的语言，这很好。}
 ### {217}{}{As a Follower of Fire, I am outraged by your service!}
-{217}{}{作为火的追随者，我对你的服务感到愤怒！}
+{217}{}{作为拜火教徒，我对你的服务感到愤怒！}
 ### {218}{}{I think the Brotherhood of Steel will not approve of such an attitude towards its subordinates.}
 {218}{}{我认为钢铁兄弟会不会赞成这种对待下属的态度。}
 ### {219}{}{Come on, why so much distrust?}

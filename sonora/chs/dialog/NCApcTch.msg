@@ -40,7 +40,7 @@
 ### {213}{}{I see.}
 {213}{}{我明白了。}
 ### {214}{}{By the way, I have come across Followers of Fire. They also have a library and they also teach children.}
-{214}{}{顺便说一下，我遇到了火的追随者。他们还有一个图书馆，还教孩子们。}
+{214}{}{顺便说一下，我遇到了拜火教徒。他们还有一个图书馆，还教孩子们。}
 ### {215}{}{Ugh, these half-wits don't know what they're talking about. What can they teach with their twisted faith? Do not confuse the scientific school and theology. We, the Followers of the Apocalypse, are direct carriers of pre-war science.}
 {215}{}{啊，这些半信半疑的人不知道他们在说什么。他们扭曲的信仰能教什么？不要混淆科学学派和神学。我们，启示录的追随者，是战前科学的直接载体。}
 ### {216}{}{Really?}

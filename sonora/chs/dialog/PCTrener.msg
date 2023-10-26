@@ -69,9 +69,9 @@
 ### {225}{}{In fact, I'm here in search of my family. They were abducted by slavers.}
 {225}{}{事实上，我来这里是为了寻找我的家人。他们被奴隶贩子绑架了。}
 ### {226}{}{I'm sorry, I don't get involved in such things. But I know that the fire worshippers are somehow connected with the slavers. Be careful with this - it's a risky business.}
-{226}{}{对不起，我不参与这样的事情。但我知道，拜火者在某种程度上与奴隶主有联系。小心点，这是一件冒险的事。}
+{226}{}{对不起，我不参与这样的事情。但我知道，拜火教徒在某种程度上与奴隶主有联系。小心点，这是一件冒险的事。}
 ### {227}{}{Thanks, Mike. Looks like it's time for me to talk to these fire worshippers.}
-{227}{}{谢谢，迈克。看来是时候和这些拜火者谈谈了。}
+{227}{}{谢谢，迈克。看来是时候和这些拜火教徒谈谈了。}
 ### {228}{}{I want to learn the art of fighting.}
 {228}{}{我想学习格斗艺术。}
 ### {229}{}{I've already said that I'm not going to train anyone.}

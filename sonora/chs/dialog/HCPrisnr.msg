@@ -108,7 +108,7 @@
 ### {260}{}{I've never been to these parts. We've gone too far. Hey, I'll never get to Puerto Penasco like this!}
 {260}{}{我从来没有去过这些地方。我们走得太远了。嘿，我再也不会这样去佩纳斯科港了！}
 ### {261}{}{The Church of the Fire Worshippers is a local landmark. Although these people are pious, they also know how to hold weapons in their hands.}
-{261}{}{火崇拜者教堂是当地的地标。尽管这些人很虔诚，但他们也知道如何将武器握在手中。}
+{261}{}{拜火教徒教堂是当地的地标。尽管这些人很虔诚，但他们也知道如何将武器握在手中。}
 ### {262}{}{This place is creepy. It seems as if a pair of eyes are staring at you through the cracks.}
 {262}{}{这个地方令人毛骨悚然。好像有一双眼睛正透过缝隙盯着你。}
 ### {263}{}{Are you kidding? There is no brotherhood anymore!}

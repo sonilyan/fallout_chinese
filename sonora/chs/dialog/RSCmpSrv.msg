@@ -59,7 +59,7 @@
 ### {250}{}{Red Threat.}
 {250}{}{红色威胁。}
 ### {251}{}{The Followers of Fire are a sect of worship of nuclear power and technology of the Old World.}
-{251}{}{火的追随者是一个崇拜旧世界核能和技术的教派。}
+{251}{}{拜火教徒是一个崇拜旧世界核能和技术的教派。}
 ### {252}{}{The current threat.}
 {252}{}{当前的威胁。}
 ### {253}{}{The sect is in a state of disintegration and persecution. The main base of Followers was destroyed, presumably by an underground nuclear explosion. Details of the incident are unknown. At the moment, only individual clans and detachments are dangerous, which can parasitize settlements that were previously friendly to them or engage in open banditry.}
@@ -73,11 +73,11 @@
 ### {257}{}{Sabotage in Flagstaff.}
 {257}{}{弗拉格斯塔夫大屠杀。}
 ### {258}{}{The colony actively uses slave labor and is sponsored by the Church of the Sacred Fire. All sabotage operations in Flagstaff are temporarily suspended.}
-{258}{}{该殖民地积极使用奴隶劳动，并得到圣火教会的赞助。弗拉格斯塔夫的所有破坏行动暂时停止。}
+{258}{}{该殖民地积极使用奴隶劳动，并得到拜火教的赞助。弗拉格斯塔夫的所有破坏行动暂时停止。}
 ### {259}{}{Support for the struggle in San Brahmin.}
 {259}{}{支持圣婆罗门的斗争。}
 ### {260}{}{The sect of fire worshippers actively sponsors revolutionary sentiments in the city of San Brahmin in order to expand its empire. We are forced to intervene in the course of events. Consultants have been sent to San Brahmin to fight the empire.}
-{260}{}{火崇拜者的教派积极支持圣婆罗门市的革命情绪，以扩大其帝国。我们被迫干预事态发展。顾问们被派往圣婆罗门与帝国作战。}
+{260}{}{拜火教徒的教派积极支持圣婆罗门市的革命情绪，以扩大其帝国。我们被迫干预事态发展。顾问们被派往圣婆罗门与帝国作战。}
 ### {261}{}{Espionage in Phoenix.}
 {261}{}{凤凰城的间谍活动。}
 ### {262}{}{There are several rangers operating in Phoenix for the purpose of reconnaissance. Now their priority task is to establish contact with a mysterious group of guerrillas acting against the cult of Fire.}
@@ -85,7 +85,7 @@
 ### {263}{}{Support for runaway slaves in Two-Sun.}
 {263}{}{支持《两个太阳》中的逃亡奴隶。}
 ### {264}{}{The activities of the techno-worshippers of the city of Two-Sun pose a particular threat to the well-being of other settlements. Phoenix Fire worshippers actively cooperate with them to obtain various goods and services. Due to the remoteness of the territory, it is difficult to control the situation, so we have sent spies to help runaway slaves who are conducting sabotage activities there. }
-{264}{}{太阳城的技术崇拜者的活动对其他定居点的福祉构成了特别的威胁。凤凰火崇拜者积极与他们合作，获得各种商品和服务。由于领土偏远，很难控制局势，所以我们派了间谍来帮助在那里进行破坏活动的逃亡奴隶。}
+{264}{}{太阳城的技术崇拜者的活动对其他定居点的福祉构成了特别的威胁。凤凰拜火教徒积极与他们合作，获得各种商品和服务。由于领土偏远，很难控制局势，所以我们派了间谍来帮助在那里进行破坏活动的逃亡奴隶。}
 
 ### {290}{}{Threat from the south.}
 {290}{}{来自南方的威胁。}

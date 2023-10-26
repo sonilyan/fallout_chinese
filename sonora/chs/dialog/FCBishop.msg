@@ -317,7 +317,7 @@
 ### {342}{}{I need caps to release my fellow tribesmen from prison.}
 {342}{}{我需要瓶盖才能把我的部落同胞从监狱里释放出来。}
 ### {343}{}{I have a big dream - to get to the main temple of Fire and turn to its leader.}
-{343}{}{我有一个远大的梦想——去主火神庙，向它的领袖求助。}
+{343}{}{我有一个远大的梦想——去拜火神庙，向它的领袖求助。}
 ### {344}{}{I need access to your library.}
 {344}{}{我需要进入你们的图书馆。}
 ### {345}{}{[Next]}
@@ -342,7 +342,7 @@
 ### {354}{}{I can only offer 100 caps, as parishioners are stingy with donations. However, this is enough to get Faber to talk.}
 {354}{}{我只能提供100个瓶盖，因为教区居民对捐款很吝啬。然而，这足以让费伯开口说话。}
 ### {355}{}{Hmm. I can write a letter of recommendation to the main Fire temple in Phoenix. But still your merit is not so great. We'll have to make some more donations.}
-{355}{}{嗯。我可以写一封推荐信给凤凰城的主火神庙。但是你的优点还是不那么大。我们还得再捐款。}
+{355}{}{嗯。我可以写一封推荐信给凤凰城的拜火神庙。但是你的优点还是不那么大。我们还得再捐款。}
 ### {356}{}{This collection of priceless pre-war knowledge requires special treatment. Treat him with respect.}
 {356}{}{这些珍贵的战前知识需要特殊处理。尊重他。}
 ### {357}{}{Forget about Festus and his baby. You're late.}
@@ -362,7 +362,7 @@
 ### {363}{}{We've already eliminated Festus. It's time to fulfill the promise.}
 {363}{}{我们已经淘汰了费斯图斯。是时候兑现承诺了。}
 ### {364}{}{Delaying the process will not please the main temple of Fire.}
-{364}{}{推迟这个过程不会让主火神庙满意。}
+{364}{}{推迟这个过程不会让拜火神庙满意。}
 ### {365}{}{Your integrity will only turn people against us.}
 {365}{}{你的正直只会让人们反对我们。}
 ### {366}{}{The temple will increase its reputation if it concedes in this situation.}

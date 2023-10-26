@@ -12,7 +12,7 @@
 ### {202}{}{You're confusing me with someone else.}
 {202}{}{你把我和别人搞混了。}
 ### {203}{}{We know you're a fire worshipper. And you know what? We will no longer tolerate this "nuclear magic" of yours here. Get out of town, scum.}
-{203}{}{我们知道你是个火崇拜者。你知道吗？我们将不再容忍你们在这里的这种“核魔法”。滚出去，人渣。}
+{203}{}{我们知道你是个拜火教徒。你知道吗？我们将不再容忍你们在这里的这种“核魔法”。滚出去，人渣。}
 ### {204}{}{No, no, I'm not a member of this sect anymore.}
 {204}{}{不，不，我已经不是这个教派的成员了。}
 ### {205}{}{Shut your mouth! After the explosion in the cathedral, half of the city was destroyed, and a real war began among the people. We will not rest until there is not a single sectarian left in the city, active or former. Is that clear to you?}
@@ -75,11 +75,11 @@
 ### {237}{}{...}
 {237}{}{...}
 ### {238}{}{ It's hard for a person with my face to hide. What do you have against fire worshippers?}
-{238}{}{像我这样的人很难掩饰。你对拜火者有什么反对意见？}
+{238}{}{像我这样的人很难掩饰。你对拜火教徒有什么反对意见？}
 ### {239}{}{We are eradicating all sectarians in the city. After the explosion in the cathedral, they have no place here. And you too.}
 {239}{}{我们正在铲除这个城市的所有宗派主义者。大教堂发生爆炸后，他们在这里没有立足之地。你也是。}
 ### {240}{}{Why so much rudeness? Didn't the fire worshippers teach patience and love?}
-{240}{}{为什么这么粗鲁？拜火者不是教人耐心和爱吗？}
+{240}{}{为什么这么粗鲁？拜火教徒不是教人耐心和爱吗？}
 ### {241}{}{In words, maybe. But they themselves were preparing a nuclear bomb in their dark dungeon. There is no faith for such anymore... In any case, you're not welcome here. Get out of town, atomic litter.}
 {241}{}{换句话说，也许。但他们自己却在黑暗的地牢里准备核弹。再也没有这样的信仰了...无论如何，这里不欢迎你。滚出去，原子垃圾。}
 ### {242}{}{I can't argue with you. Good luck, guys.}
@@ -101,10 +101,10 @@
 ### {249}{}{Just not in the face...}
 {249}{}{只是不在脸上...}
 ### {250}{}{Maybe so... Okay, go ahead. But if we find out that you are a fire worshipper, then you will burn at the stake with the others.}
-{250}{}{也许是这样…好吧，继续吧。但如果我们发现你是一个火崇拜者，那么你就会和其他人一起被烧死。}
+{250}{}{也许是这样…好吧，继续吧。但如果我们发现你是一个拜火教徒，那么你就会和其他人一起被烧死。}
 
 ### {260}{}{Wait. I don't want to get into a fight, but I have to say it. We know that you are a former fire worshipper. In this city, such people are no longer welcome. Go away and don't come back. If you come back, all this ammunition will not save you from retribution.}
-{260}{}{等待我不想打架，但我必须说出来。我们知道你以前是个拜火者。在这个城市，这样的人不再受欢迎。走开，别回来。如果你回来了，所有这些弹药都不会让你免于报复。}
+{260}{}{等待我不想打架，但我必须说出来。我们知道你以前是个拜火教徒。在这个城市，这样的人不再受欢迎。走开，别回来。如果你回来了，所有这些弹药都不会让你免于报复。}
 ### {261}{}{I understand. You won't see me again. Goodbye.}
 {261}{}{我理解。你再也见不到我了。再见}
 ### {262}{}{I'm not going anywhere. Who dares to stop me?}

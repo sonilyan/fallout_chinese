@@ -1,7 +1,7 @@
 ### {100}{}{You see the preacher.}
 {100}{}{你看到传教士了。}
 ### {101}{}{Here is one of the Followers of Fire. He diligently serves his next mass.}
-{101}{}{这是火的追随者之一。他勤奋地为下一次弥撒服务。}
+{101}{}{这是拜火教徒之一。他勤奋地为下一次弥撒服务。}
 ### {102}{}{The preacher is too busy with mass to be distracted by you.}
 {102}{}{牧师忙于弥撒，不会被你分心。}
 

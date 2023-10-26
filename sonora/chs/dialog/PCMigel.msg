@@ -81,11 +81,11 @@
 ### {211}{}{It seemed to me that you were almost in his thrall.}
 {211}{}{在我看来，你几乎被他的奴役了。}
 ### {212}{}{You shouldn't have come here. Everything is too fragile. Diego was a criminal type, it's true. But he was developing the city. And now what? The fire worshippers will surely take control of the casino. Do you know what that means? I can see by my eyes that there isn't.}
-{212}{}{你不应该来这里。一切都太脆弱了。迭戈是个罪犯，这是真的。但他正在开发这座城市。现在呢？拜火者肯定会控制赌场的。你知道这意味着什么吗？我可以用眼睛看到没有。}
+{212}{}{你不应该来这里。一切都太脆弱了。迭戈是个罪犯，这是真的。但他正在开发这座城市。现在呢？拜火教徒肯定会控制赌场的。你知道这意味着什么吗？我可以用眼睛看到没有。}
 ### {213}{}{So will you help me find the padre?}
 {213}{}{你能帮我找到牧师吗？}
 ### {214}{}{Look, I'm well settled in this city and I don't want any problems. Look for help elsewhere. For example... The Followers of Fire. They're the ones who pay mercenaries all over Arizona for their missionary projects.}
-{214}{}{听着，我在这个城市住得很好，我不想有任何问题。在其他地方寻求帮助。例如火的追随者。他们付钱给亚利桑那州各地的雇佣兵做传教项目。}
+{214}{}{听着，我在这个城市住得很好，我不想有任何问题。在其他地方寻求帮助。例如拜火教徒。他们付钱给亚利桑那州各地的雇佣兵做传教项目。}
 ### {215}{}{Okay. Goodbye, Uncle Miguel.}
 {215}{}{可以再见，米格尔叔叔。}
 ### {216}{}{Don't worry about it. I'm leaving Phoenix soon, my business is already over.}
@@ -163,7 +163,7 @@
 ### {312}{}{Do you know where our people are being held?}
 {312}{}{你知道我们的人被关押在哪里吗？}
 ### {313}{}{I don't know for sure. The Followers of the Fire in the Cathedral may have this information.}
-{313}{}{我不确定。大教堂里的火的追随者可能有这些信息。}
+{313}{}{我不确定。大教堂里的拜火教徒可能有这些信息。}
 ### {314}{}{And what does the Followers have to do with it?}
 {314}{}{追随者们和它有什么关系？}
 ### {315}{}{Slaves are used by mercenaries, and mercenaries perform the tasks of Followers. They are in some way customers or patrons of the slave trade, although not everyone understands this. A colony in Flagstaff, built with the money of the Cathedral, or tinsmiths who signed many contracts with Followers - slaves are needed everywhere now.}

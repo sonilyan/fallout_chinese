@@ -1,5 +1,5 @@
 ### {100}{}{You see a Follower of Fire.}
-{100}{}{你看到一个火的追随者。}
+{100}{}{你看到一个拜火教徒。}
 ### {101}{}{Here is one of the Followers. He whispers to himself either a prayer or some kind of nonsense.}
 {101}{}{这是一个追随者。他自言自语，要么祈祷，要么胡言乱语。}
 ### {102}{}{His Majesty Aaron is waiting for you.}

@@ -198,7 +198,7 @@
 ### {283}{}{God is no more. God has fallen at the hands of fools. We are the only ones who bring light to this hell after his death.}
 {283}{}{上帝已经不在了。上帝已落入愚人之手。在他死后，我们是唯一给这个地狱带来光明的人。}
 ### {284}{}{Hmm. I have already met such a mantle. The followers of Fire in Phoenix wear something similar.}
-{284}{}{嗯，我已经遇到过这样的衣钵。凤凰城之火的追随者穿着类似的衣服。}
+{284}{}{嗯，我已经遇到过这样的衣钵。凤凰城之拜火教徒穿着类似的衣服。}
 ### {285}{}{We have already encountered imitators who parasitized small settlements under our banner. Don't believe these blasphemers, their faith is fake.}
 {285}{}{我们已经遇到了寄生在我们旗帜下的小定居点的模仿者。不要相信这些亵渎者，他们的信仰是假的。}
 ### {286}{}{And who did you mean when you spoke about God?}

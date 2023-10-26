@@ -55,7 +55,7 @@
 ### {233}{}{And who are your customers?}
 {233}{}{你的客户是谁？}
 ### {234}{}{I was hired by the Followers of Fire. That's the end of the questions. I have a rule not to discuss clients with the first person I meet.}
-{234}{}{我受雇于火的追随者。问题到此结束。我有一条规则，不要和我遇到的第一个人讨论客户。}
+{234}{}{我受雇于拜火教徒。问题到此结束。我有一条规则，不要和我遇到的第一个人讨论客户。}
 ### {235}{}{Okay, forget it.}
 {235}{}{好吧，算了。}
 ### {236}{}{And who are the tinsmiths?}
@@ -105,7 +105,7 @@
 ### {303}{}{Do you know how to get to Puerto Penasco?}
 {303}{}{你知道怎么去佩纳斯科港吗？}
 ### {304}{}{As a Follower of Fire, I will be useful in your contracts in the future.}
-{304}{}{作为火的追随者，我将来会在你的合同中发挥作用。}
+{304}{}{作为拜火教徒，我将来会在你的合同中发挥作用。}
 ### {305}{}{Sorry. But maybe you know about other things.}
 {305}{}{很抱歉但也许你知道其他事情。}
 ### {306}{}{So are you another adventurer who decided to covet the remnants of a great nation? It's up to you, but we have postponed any trips to Two-Sun for now.}

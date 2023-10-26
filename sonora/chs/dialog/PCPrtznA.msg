@@ -13,7 +13,7 @@
 ### {201}{}{A party? Yes, I'm here by accident. And what do you do in general?}
 {201}{}{派对？是的，我是偶然来到这里的。你一般做什么？}
 ### {202}{}{Are you saying that you managed to find this box and circumvent our traps solely out of luck? It sounds very doubtful. But now there is no point in hiding - we are fighting against the Followers of Fire and their leader Aaron. What do you think about it?}
-{202}{}{你是说你找到这个盒子并绕过我们的陷阱完全是运气使然吗？这听起来很可疑。但现在没有必要躲藏了——我们正在与火的追随者和他们的领袖亚伦作战。你觉得怎么样？}
+{202}{}{你是说你找到这个盒子并绕过我们的陷阱完全是运气使然吗？这听起来很可疑。但现在没有必要躲藏了——我们正在与拜火教徒和他们的领袖亚伦作战。你觉得怎么样？}
 ### {203}{}{I'm here to eliminate your entire criminal gang.}
 {203}{}{我来这里是为了消灭你的整个犯罪团伙。}
 ### {204}{}{Oh-very good. Capture the spy!}
@@ -102,7 +102,7 @@
 ### {262}{}{Why did you call the church false?}
 {262}{}{你为什么说教堂是假的？}
 ### {263}{}{Fire worshippers misinterpret the old religion, trying to justify the inhumane actions of their leader. They forgot about the pre-war covenants.}
-{263}{}{火崇拜者曲解了古老的宗教，试图为他们的领袖的不人道行为辩护。他们忘记了战前的盟约。}
+{263}{}{拜火教徒曲解了古老的宗教，试图为他们的领袖的不人道行为辩护。他们忘记了战前的盟约。}
 ### {264}{}{Why is it so important for you to overthrow Aaron?}
 {264}{}{为什么推翻亚伦对你来说如此重要？}
 ### {265}{}{Without its leader, the church will fall in the eyes of the city.}

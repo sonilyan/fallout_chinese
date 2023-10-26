@@ -47,11 +47,11 @@
 ### {225}{}{Tell me about Phoenix.}
 {225}{}{告诉我关于凤凰城的事。}
 ### {226}{}{The biggest city I know of. You'll find everything there that you can find in the Wastelands, but you have to be careful. It's not safe in the city, even after the fire worshippers seized power there.}
-{226}{}{我所知道的最大的城市。你会在荒原上找到你能找到的一切，但你必须小心。这座城市并不安全，即使在拜火者夺取政权之后也是如此。}
+{226}{}{我所知道的最大的城市。你会在荒原上找到你能找到的一切，但你必须小心。这座城市并不安全，即使在拜火教徒夺取政权之后也是如此。}
 ### {227}{}{The direction is south. But why would I share with you the subtleties of my craft?}
 {227}{}{方向是南方。但我为什么要和你分享我技艺的精妙之处呢？}
 ### {228}{}{Fire worshippers?}
-{228}{}{火崇拜者？}
+{228}{}{拜火教徒？}
 ### {229}{}{Strange guys. They worship pre-war atomic energy - that's all I understand. There are too many words to delve into. But they don't sit there idle either - it's with them that Phoenix has become a real city.}
 {229}{}{奇怪的家伙。他们崇拜战前的原子能——这就是我所理解的。有太多的话要深究。但他们也不会无所事事——正是有了他们，凤凰城才成为一座真正的城市。}
 
@@ -62,7 +62,7 @@
 ### {232}{}{Yes, who needs it?}
 {232}{}{是的，谁需要它？}
 ### {233}{}{To everyone who has a good old nuclear-powered technology. But the fire worshippers in Phoenix are the first to buy uranium, and then they sell it to smaller buyers at five times the price.}
-{233}{}{献给每一个拥有古老核动力技术的人。但凤凰城的火崇拜者是第一批购买铀的人，然后他们以五倍的价格卖给规模较小的买家。}
+{233}{}{献给每一个拥有古老核动力技术的人。但凤凰城的拜火教徒是第一批购买铀的人，然后他们以五倍的价格卖给规模较小的买家。}
 ### {234}{}{Doesn't uranium lead to radiation sickness?}
 {234}{}{铀不会导致辐射病吗？}
 ### {235}{}{Leads... if you eat it for breakfast, lunch and dinner. This ore is weakly radioactive and harmless until it is in the reactor. That's when it's best to stay as far away as possible.}
@@ -99,13 +99,13 @@
 ### {255}{}{The mine is destroyed, and it will take a lot of time and effort to clear it. I doubt this place will have a future.}
 {255}{}{地雷被毁了，清理它需要花费大量的时间和精力。我怀疑这个地方是否会有未来。}
 ### {256}{}{After the fire worshippers in Phoenix were atomized, the mine lost its main customer. Of course, there is a demand for ore, other settlements are ready to buy it, but it is unlikely that this will pay for the work of the mine.}
-{256}{}{凤凰城的拜火者被雾化后，该矿失去了主要客户。当然，对矿石有需求，其他定居点也准备购买，但这不太可能支付矿山的工作费用。}
+{256}{}{凤凰城的拜火教徒被雾化后，该矿失去了主要客户。当然，对矿石有需求，其他定居点也准备购买，但这不太可能支付矿山的工作费用。}
 ### {257}{}{The garrison of Flagstaff is defeated, the prisoners have escaped, the manager is dead. Now we don't even know who we work for. It seems that no one needs our vacancy now.}
 {257}{}{弗拉格斯塔夫的守军被打败了，犯人逃走了，经理死了。现在我们甚至不知道自己为谁工作。现在似乎没有人需要我们的空缺。}
 ### {258}{}{You're caravan drivers. Do you care who you work for?}
 {258}{}{你们是大篷车司机。你在乎你为谁工作吗？}
 ### {259}{}{We have a special reputation. Because of the connection with the fire worshippers and Faber's mercenaries, not everyone will want to work with us. Competitors especially do not like us out of envy. After recent events, it will be very difficult to change patrons. If at all possible.}
-{259}{}{我们有着特殊的声誉。由于与火崇拜者和费伯雇佣兵的联系，并不是每个人都愿意与我们合作。竞争对手尤其不喜欢我们，因为他们嫉妒我们。在最近的事件之后，更换顾客将非常困难。如果可能的话。}
+{259}{}{我们有着特殊的声誉。由于与拜火教徒和费伯雇佣兵的联系，并不是每个人都愿意与我们合作。竞争对手尤其不喜欢我们，因为他们嫉妒我们。在最近的事件之后，更换顾客将非常困难。如果可能的话。}
 ### {260}{}{So you canceled all flights?}
 {260}{}{所以你取消了所有的航班？}
 ### {261}{}{Exactly. Until the situation gets better, we will have to stay in Flagstaff. I don't know what we're going to do yet, but we'll figure something out.}

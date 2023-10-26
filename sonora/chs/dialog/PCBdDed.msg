@@ -138,7 +138,7 @@
 ### {276}{}{Sorry to hear that. What about other Vaults?}
 {276}{}{很抱歉听到这个消息。其他避难所呢？}
 ### {277}{}{So eager to find the real treasure, huh? Many tried, but found only brain cancer. Or a bandit bullet. If anyone knows about the Vaults, it's probably the fire worshippers. But they are reluctant to share information.}
-{277}{}{如此渴望找到真正的宝藏，是吗？许多人尝试过，但只发现了脑癌症。或者土匪子弹。如果有人知道避难所的话，那可能是那些拜火者。但他们不愿分享信息。}
+{277}{}{如此渴望找到真正的宝藏，是吗？许多人尝试过，但只发现了脑癌症。或者土匪子弹。如果有人知道避难所的话，那可能是那些拜火教徒。但他们不愿分享信息。}
 ### {278}{}{Thank you, maybe they will help me there.}
 {278}{}{谢谢你，也许他们会在那里帮助我。}
 ### {279}{}{You're no good, you old fart.}
@@ -195,7 +195,7 @@
 ### {358}{}{What do fire worshippers care about your neighborhood?}
 {358}{}{消防崇拜者关心你的社区是什么？}
 ### {359}{}{And what does the fire worshippers care about your neighborhood?}
-{359}{}{火崇拜者关心你的社区是什么？}
+{359}{}{拜火教徒关心你的社区是什么？}
 ### {360}{}{They want to take over the whole city. Slums are just a source of cheap labor for them. All this is covered up by benevolent missions to collect alms to the needy, but we ourselves need more than anyone in the city.}
 {360}{}{他们想占领整个城市。贫民窟对他们来说只是廉价劳动力的来源。所有这些都被慈善使命所掩盖，为穷人募捐，但我们自己比城市里的任何人都更需要。}
 ### {361}{}{Don't you believe them?}
@@ -219,7 +219,7 @@
 ### {370}{}{I can stand up for myself. And for you, too. Tell me, what's wrong with these guys?}
 {370}{}{我可以为自己挺身而出。对你来说也是如此。告诉我，这些家伙怎么了？}
 ### {371}{}{Fire worshippers are not what they seem. In the world, they look like good-natured simpletons and talk about the benefits of literacy. But behind the walls of the Cathedral they become silent recluses. What happens at their secret meetings, only they know.}
-{371}{}{火崇拜者并不像他们看起来的那样。在这个世界上，他们看起来像脾气好的傻瓜，谈论识字的好处。但在大教堂的墙后，他们成了沉默的隐士。在他们的秘密会议上发生了什么，只有他们自己知道。}
+{371}{}{拜火教徒并不像他们看起来的那样。在这个世界上，他们看起来像脾气好的傻瓜，谈论识字的好处。但在大教堂的墙后，他们成了沉默的隐士。在他们的秘密会议上发生了什么，只有他们自己知道。}
 ### {372}{}{Go on.}
 {372}{}{继续}
 ### {373}{}{I know that they collect pre-war knowledge and technology. They say that this is how they try to revive the world. But all this is inaccessible to mere mortals. And if we consider that Aaron came to power through revolutions under the banners of the Sacred Fire, it is not difficult to draw some conclusions about their real interests.}

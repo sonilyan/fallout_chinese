@@ -212,7 +212,7 @@
 ### {289}{}{I think your people were framed by sectarians. But after the explosion of the cathedral, we will not know the truth.}
 {289}{}{我认为你们的人民是被宗派主义者陷害的。但是在大教堂爆炸之后，我们将不知道真相。}
 ### {290}{}{What's the story with the fire worshippers?}
-{290}{}{拜火者的故事是什么？}
+{290}{}{拜火教徒的故事是什么？}
 ### {291}{}{These sectarians consider us bandits and do not recognize our authority over the slums. But when necessary, they are ready to negotiate.}
 {291}{}{这些宗派主义者认为我们是土匪，不承认我们对贫民窟的权威。但在必要的时候，他们准备进行谈判。}
 ### {292}{}{You said you were running an errand for them.}

@@ -17,7 +17,7 @@
 ### {204}{}{Directness and assertiveness. We value these qualities. Therefore, I will give you, a primitive creature from the desert, the opportunity to show yourself... as a volunteer.}
 {204}{}{直率和自信。我们珍视这些品质。因此，我将给你，一个来自沙漠的原始生物，展示自己的机会...作为一名志愿者。}
 ### {205}{}{I am one of the Followers of the Sacred Fire.}
-{205}{}{我是圣火的追随者之一。}
+{205}{}{我是圣拜火教徒之一。}
 ### {206}{}{Some of our ministers came out of this church. But here, where Two Suns shine, the rules are different from the ones you are used to. You can stay in our city, but don't distract my people from important work.}
 {206}{}{我们的一些牧师是从这个教堂出来的。但在这里，“两个太阳”闪耀的地方，规则与你习惯的不同。你可以留在我们的城市，但不要分散我的员工对重要工作的注意力。}
 ### {207}{}{I am the official representative of the Brotherhood of Steel.}
@@ -31,7 +31,7 @@
 ### {211}{}{I will have to ask a number of questions.}
 {211}{}{我将不得不问一些问题。}
 ### {212}{}{I am on my way to Puerto Penasco on behalf of the Church of the Sacred Fire.}
-{212}{}{我代表圣火教会前往佩纳斯科港。}
+{212}{}{我代表拜火教前往佩纳斯科港。}
 ### {213}{}{You're just obsessed. You must be stopped before you send the entire population of the wasteland to the Mines.}
 {213}{}{你只是被迷住了。在你把荒地上的所有人送到矿场之前，你必须被阻止。}
 ### {214}{}{You don't know who you're talking to, you fool. Submit, you will be assimilated...}
@@ -105,7 +105,7 @@
 ### {254}{}{Outsiders call us tinsmiths because our passion is ancient technology. We devoted ourselves to their service, sacrificing even our mortal human bodies. Because technology will save the world and will not let it finally fade away. People will live as long as Two Suns shine, otherwise they will be degraded to the level of savages. And this time the process will be irreversible.}
 {254}{}{外界称我们为锡匠，是因为我们对古老技术的热爱。我们献身于他们的服务，甚至牺牲了我们凡人的身体。因为技术将拯救世界，不会让它最终消失。只要两个太阳发光，人们就会活得很长，否则他们就会堕落到野蛮人的水平。而这一次，这个过程将是不可逆转的。}
 ### {255}{}{Are you somehow connected with the Followers of Fire?}
-{255}{}{你是否与火的追随者有某种联系？}
+{255}{}{你是否与拜火教徒有某种联系？}
 ### {256}{}{A church that was created to carry the banner of Progress, but in words more understandable to commoners. We respect and cooperate with these funny people in cassocks, because their faith makes people closer to our ideas about the world. But they are one fee below us.}
 {256}{}{这座教堂是为了高举进步的旗帜而创建的，但用通俗易懂的语言来说。我们尊重并与这些穿着袈裟的有趣的人合作，因为他们的信仰使人们更接近我们对世界的看法。但他们比我们低一笔费用。}
 ### {257}{}{So this is where they bring uranium from Flagstaff?}

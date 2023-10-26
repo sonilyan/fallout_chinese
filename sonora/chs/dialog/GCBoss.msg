@@ -57,7 +57,7 @@
 
 #Dialog
 ### {170}{}{I've seen such a garment before. What do you have to do with the Followers of Fire?}
-{170}{}{我以前见过这样的衣服。你和火的追随者有什么关系？}
+{170}{}{我以前见过这样的衣服。你和拜火教徒有什么关系？}
 ### {171}{}{The most direct. I'm part of this church.}
 {171}{}{最直接的。我是这个教堂的一部分。}
 ### {172}{}{Hmm... What a curious coincidence. I usually try to bypass any religion. But Followers contribute to progress in Arizona and, as a result, the development of my cartel. You can feel protected here.}

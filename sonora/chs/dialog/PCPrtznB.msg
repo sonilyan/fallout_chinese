@@ -191,6 +191,6 @@
 ### {336}{}{OK, I'll take care of this issue.}
 {336}{}{好的，我来处理这个问题。}
 ### {337}{}{Great job. Now it will be easier for us to listen to the fire worshippers' broadcasts. Tell Marcos about your success.}
-{337}{}{干得好。现在，我们可以更容易地收听火崇拜者的广播了。告诉马科斯你的成功。}
+{337}{}{干得好。现在，我们可以更容易地收听拜火教徒的广播了。告诉马科斯你的成功。}
 ### {338}{}{OK. Bye, Alice.}
 {338}{}{好的，再见，爱丽丝。}

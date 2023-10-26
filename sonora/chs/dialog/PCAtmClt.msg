@@ -16,7 +16,7 @@
 ### {201}{}{I don't even know. An accident, probably. What are you doing here?}
 {201}{}{我甚至不知道。可能是意外。你在这里干什么？}
 ### {202}{}{Oh, I'm just a peaceful pilgrim of the Sacred Fire Church. Our religion worships old knowledge and strives for the rebirth of the world. This nuclear power plant is very important for our mission. It would be very sad to know that she fell into the wrong hands.}
-{202}{}{哦，我只是圣火教堂的一个和平的朝圣者。我们的宗教崇拜古老的知识，为世界的重生而奋斗。这个核电站对我们的任务非常重要。如果知道她落入坏人之手，那将是非常难过的。}
+{202}{}{哦，我只是拜火教堂的一个和平的朝圣者。我们的宗教崇拜古老的知识，为世界的重生而奋斗。这个核电站对我们的任务非常重要。如果知道她落入坏人之手，那将是非常难过的。}
 ### {203}{}{I think you have nothing to fear. Now Ralph is at the head of the station. He's going to renegotiate the contract with the church. You will be satisfied.}
 {203}{}{我认为你没有什么可害怕的。现在拉尔夫是车站的站长。他将与教会重新谈判合同。你会满意的。}
 ### {204}{}{Glory to the Atom! Is that what we should be thanking you for? The world is getting better, with your help. Thank you, stranger. Visit our church when you have time.}

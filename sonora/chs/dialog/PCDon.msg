@@ -27,7 +27,7 @@
 ### {209}{}{Curious. Are you asking for my help?}
 {209}{}{好奇的你在请求我的帮助吗？}
 ### {210}{}{Rather, I offer cooperation. It seems that we have a common enemy - the fire worshippers.}
-{210}{}{相反，我提供合作。我们似乎有一个共同的敌人——拜火者。}
+{210}{}{相反，我提供合作。我们似乎有一个共同的敌人——拜火教徒。}
 ### {211}{}{You're talking about a simple business. As I said, this casino is a family for me, not just a business. I don't want to put myself and my "relatives" at risk in a direct fight against sectarians and act as an aggressor at the same time. But Aaron's pressure is getting stronger, and someday I will have to take drastic measures.}
 {211}{}{你说的是一件简单的事。正如我所说，这家赌场对我来说是一个家庭，而不仅仅是一家企业。我不想让自己和我的“亲戚”在与宗派主义者的直接斗争中处于危险之中，同时又充当侵略者。但亚伦的压力越来越大，总有一天我将不得不采取严厉的措施。}
 ### {212}{}{I'm sorry to hear that. Goodbye, Don Diego.}
@@ -79,7 +79,7 @@
 ### {265}{}{The Cult of Fire interfered with you, didn't it?}
 {265}{}{火教干扰了你，不是吗？}
 ### {266}{}{The departure of fire worshippers from the Phoenix stage opens up good vacancies, but at the same time it is a blow to many areas of activity in the city. Without the cathedral, it will be difficult to maintain the exchange rate of the cap currency, some caravans will lose their jobs, some people are already fleeing the city. What to say about the increased crime. In such conditions, you have to reconsider your entire business. But yes, it's just to my advantage.}
-{266}{}{火崇拜者离开凤凰城舞台带来了很好的空缺，但同时也对城市的许多活动领域造成了打击。如果没有大教堂，将很难维持上限货币的汇率，一些大篷车将失去工作，一些人已经逃离了这座城市。关于犯罪率的上升该怎么说。在这种情况下，你必须重新考虑你的整个业务。但是的，这对我有利。}
+{266}{}{拜火教徒离开凤凰城舞台带来了很好的空缺，但同时也对城市的许多活动领域造成了打击。如果没有大教堂，将很难维持上限货币的汇率，一些大篷车将失去工作，一些人已经逃离了这座城市。关于犯罪率的上升该怎么说。在这种情况下，你必须重新考虑你的整个业务。但是的，这对我有利。}
 ### {267}{}{Thank you for your answer, Don Diego.}
 {267}{}{谢谢你的回答，唐·迭戈。}
 
@@ -111,7 +111,7 @@
 ### {312}{}{And what alibi do you and your subordinates have?}
 {312}{}{你和你的下属有什么不在场证明？}
 ### {313}{}{What the fuck is an alibi? Our casino owes a debt to the Sacred Fire Church for what it has done for the city. The church regulates the turnover of caps and gives people jobs. It makes no sense for us to chop down the brahmin we are milking, do you understand that? Moreover, it is so open and at its own doors.}
-{313}{}{他妈的不在场证明是什么？我们的赌场欠圣火教堂一笔债，因为它为城市所做的一切。教会管理上限的更替，并为人们提供工作。我们砍下正在挤奶的婆罗门是没有意义的，你明白吗？此外，它是如此的开放和敞开自己的大门。}
+{313}{}{他妈的不在场证明是什么？我们的赌场欠拜火教堂一笔债，因为它为城市所做的一切。教会管理上限的更替，并为人们提供工作。我们砍下正在挤奶的婆罗门是没有意义的，你明白吗？此外，它是如此的开放和敞开自己的大门。}
 ### {314}{}{Hmm, nevertheless it looks doubtful. I'll leave, but I'll still take you on a pencil.}
 {314}{}{嗯，不过这看起来很可疑。我会离开的，但我还是会带你去的。}
 ### {315}{}{I understand now. Have a nice day.}

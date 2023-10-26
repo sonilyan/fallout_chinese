@@ -216,7 +216,7 @@
 ### {321}{}{The stagecoach regularly goes to Flagstaff. This new colony is growing rapidly thanks to the patronage of the Cathedral of Fire.}
 {321}{}{驿站马车定期去弗拉格斯塔夫。由于火之大教堂的赞助，这个新殖民地正在迅速发展。}
 ### {322}{}{They say there was a brawl in San Brahmin. They also say that fire worshippers are somehow connected with this. Nobody knows exactly what's going on there.}
-{322}{}{他们说在圣婆罗门发生了一场斗殴。他们还说，拜火者在某种程度上与此有关。没有人确切地知道那里发生了什么。}
+{322}{}{他们说在圣婆罗门发生了一场斗殴。他们还说，拜火教徒在某种程度上与此有关。没有人确切地知道那里发生了什么。}
 ### {323}{}{The rumors from Casa Grande do not lie - the city is torn apart by a constant struggle for power. One mayor replaces another as soon as the sun rises. When you're in those parts, be prepared that you may be deceived or involved in trouble.}
 {323}{}{来自格兰德之家的传言并没有说谎——这座城市被不断的权力斗争撕裂了。太阳一升起，一位市长就接替另一位市长。当你处于这种情况时，要做好准备，以免上当受骗或陷入麻烦。}
 ### {324}{}{There are a lot of rumors about tinsmiths living in the south. Caravans go there, but few of them can trade with this mysterious people.}

@@ -17,6 +17,6 @@
 ### {213}{}{ To make a overall of Vault (consumption of 25% of the material).}
 {213}{}{制作Vault的整体（消耗材料的25%）。}
 ### {214}{}{To make a cassock of Followers of Fire (consumption of 50% of the material).}
-{214}{}{制作火之追随者的袈裟（消耗50%的材料）。}
+{214}{}{制作拜火教徒的袈裟（消耗50%的材料）。}
 ### {215}{}{Done.}
 {215}{}{完成。}

@@ -112,11 +112,11 @@
 ### {2800}{}{Mantle}
 {2800}{}{衣钵}
 ### {2801}{}{The Robe of the Followers of Fire. Made by secret technology with the use of special materials. Provides additional protection against radiation.}
-{2801}{}{火的追随者的长袍。采用特殊材料，采用秘密技术制成。提供额外的辐射防护。}
+{2801}{}{拜火教徒的长袍。采用特殊材料，采用秘密技术制成。提供额外的辐射防护。}
 ### {2900}{}{Mantle with bulletproof vest}
 {2900}{}{背心背心}
 ### {2901}{}{The Robe of the Followers of Fire. Made by secret technology from special materials with additional protection from radiation. A light police bulletproof vest is discreetly hidden under the mantle.}
-{2901}{}{火的追随者的长袍。由特殊材料秘密技术制成，具有额外的辐射防护功能。一件轻型警用防弹背心小心翼翼地藏在斗篷下面。}
+{2901}{}{拜火教徒的长袍。由特殊材料秘密技术制成，具有额外的辐射防护功能。一件轻型警用防弹背心小心翼翼地藏在斗篷下面。}
 ### {3000}{}{Metal armor}
 {3000}{}{金属甲}
 ### {3001}{}{Homemade armor, roughly made of polished metal plates. Provides excellent protection from bullets and blows, but burdens with heavy weight and clumsy shape.}

@@ -418,7 +418,7 @@
 ### {1416}{}{Your words sound more insignificant than the moan of an atom in a fiery cloud. Send her to our brothers in Two-Sun, let her serve the Sacred Fire.}
 {1416}{}{你的话听起来比火焰云中原子的呻吟更微不足道。把她送到我们两个太阳的兄弟那里，让她为圣火服务。}
 ### {417}{}{(one of the councillors interrupts the Ruler and whispers something in his ear) Hmm. Looks like I'm going to have to let you go. But for the future, remember that no one will go unpunished if they go against the Church of the Sacred Fire.}
-{417}{}{（其中一位议员打断了统治者的话，在他耳边低语）嗯。看来我得让你走了。但对于未来，请记住，如果任何人反对圣火教会，他们都不会逍遥法外。}
+{417}{}{（其中一位议员打断了统治者的话，在他耳边低语）嗯。看来我得让你走了。但对于未来，请记住，如果任何人反对拜火教，他们都不会逍遥法外。}
 ### {418}{}{Okay, I'll remember that.}
 {418}{}{好吧，我会记住的。}
 ### {419}{}{Just tell me what to do.}

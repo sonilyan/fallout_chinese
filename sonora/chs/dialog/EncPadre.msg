@@ -46,7 +46,7 @@
 ### {227}{}{It was in a monastic order on the outskirts of Phoenix. Even before the Phoenix was mired in the abyss of discord, and the order settled in the Cathedral of the Sacred Fire and began to interfere in worldly life.}
 {227}{}{它在凤凰城郊区的一个修道院里。甚至在凤凰陷入不和的深渊之前，骑士团就定居在圣火大教堂，开始干预世俗生活。}
 ### {228}{}{So you're from the Sacred Fire Church? And why did you leave your cell?}
-{228}{}{那么你是来自圣火教堂的？你为什么离开牢房？}
+{228}{}{那么你是来自拜火教堂的？你为什么离开牢房？}
 ### {229}{}{We have disagreements with the current bishop of the Cathedral. Previously, our little church did not seek either power or wealth. We didn't meddle in the affairs of big cities. We only helped the suffering and kept ancient relics.}
 {229}{}{我们与大教堂现任主教意见相左。以前，我们的小教会既不追求权力也不追求财富。我们没有干涉大城市的事务。我们只是帮助那些受苦受难的人，保留着古老的遗迹。}
 ### {230}{}{Go on.}

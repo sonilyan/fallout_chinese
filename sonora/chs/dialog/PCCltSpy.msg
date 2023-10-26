@@ -81,7 +81,7 @@
 ### {255}{}{You know who I mean. The one who sits in the subway and wants the same revenge with you.}
 {255}{}{你知道我的意思。那个坐在地铁里想要和你一样复仇的人。}
 ### {256}{}{Yes, of course... Revenge... The base feeling of atomic beings dragging out a miserable existence. Don't you dare compare me to you, the inhabitants of the fetid sewers. My whole being is oppressed only by the thought of what Aaron did to the church of the Sacred Fire.}
-{256}{}{是的，当然...报复原子生物拖着悲惨的生活的基本感觉。恶臭下水道的居民们，你们不敢把我比作你们。一想到亚伦对圣火教堂所做的一切，我整个人都感到压抑。}
+{256}{}{是的，当然...报复原子生物拖着悲惨的生活的基本感觉。恶臭下水道的居民们，你们不敢把我比作你们。一想到亚伦对拜火教堂所做的一切，我整个人都感到压抑。}
 ### {257}{}{So are you against his policy?}
 {257}{}{你反对他的政策吗？}
 ### {258}{}{We don't care about your motives. The main thing is that we have one goal.}

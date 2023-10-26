@@ -116,7 +116,7 @@
 ### {259}{}{Enough of this chatter! Now you will see the real power of the Old World.}
 {259}{}{别再喋喋不休了！现在你将看到旧世界的真正力量。}
 ### {260}{}{I understand you. You want to bring back the old world that you knew. But look around - fire worshippers create another world.}
-{260}{}{我理解你。你想把你熟悉的旧世界带回来。但环顾四周，拜火者创造了另一个世界。}
+{260}{}{我理解你。你想把你熟悉的旧世界带回来。但环顾四周，拜火教徒创造了另一个世界。}
 ### {261}{}{Another... Yes. Aaron is just using them to create an empire. I didn't think about it. But if you think about it... Damn it, what should I do? Go back to ruined California? Or go with the guys to the east? Who knows, maybe it will be possible to find oil in Texas or restore the old Chrysler Motors plants.}
 {261}{}{另一个对亚伦只是利用他们来建立一个帝国。我没想过。但如果你想一想…该死，我该怎么办？回到被毁的加利福尼亚？还是和他们一起去东部？谁知道呢，也许有可能在得克萨斯州找到石油，或者恢复克莱斯勒汽车公司的旧工厂。}
 ### {262}{}{Believe me, they won't let you live here. You will become only a weapon in the hands of the emperor.}
@@ -141,7 +141,7 @@
 ### {272}{}{[Next]}
 {272}{}{[下一个]}
 ### {273}{}{I understand that you have connections with the fire worshippers, otherwise how did you get information about our secret contract?}
-{273}{}{我知道你和拜火者有关系，否则你是怎么得到我们秘密合同的信息的？}
+{273}{}{我知道你和拜火教徒有关系，否则你是怎么得到我们秘密合同的信息的？}
 ### {274}{}{I have a lot of connections. But what are you trying to achieve? Do you want to take your boss's place?}
 {274}{}{我有很多关系。但是你想达到什么目的呢？你想取代你老板的位置吗？}
 ### {275}{}{What narrow-minded motives. Don't forget that I'm a hundred years old. If we were in the Old World, I would crave a career promotion. But what do we have now? The devastation, the lack of transport and roads, even street lighting, people saw only thanks to us and the Church of Fire.}

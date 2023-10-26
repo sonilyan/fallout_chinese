@@ -32,7 +32,7 @@
 ### {116}{}{These sectarians from the south clearly have something on their mind.}
 {116}{}{这些来自南方的宗派主义者显然有一些想法。}
 ### {117}{}{The Church of the Sacred Fire burned to the ground. That's the irony.}
-{117}{}{圣火教堂被烧毁。具有讽刺意味的是。}
+{117}{}{拜火教堂被烧毁。具有讽刺意味的是。}
 ### {118}{}{These sectarians from the south clearly have something on their mind.}
 {118}{}{这些来自南方的宗派主义者显然有一些想法。}
 

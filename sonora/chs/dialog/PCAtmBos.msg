@@ -53,7 +53,7 @@
 ### {213}{}{e... Goodbye.}
 {213}{}{再见。}
 ### {214}{}{But don't tell anyone about our agreement. Especially those crazy fire worshippers.}
-{214}{}{但不要告诉任何人我们的协议。尤其是那些疯狂的拜火者。}
+{214}{}{但不要告诉任何人我们的协议。尤其是那些疯狂的拜火教徒。}
 
 ### {220}{}{Yes, yes, I'm listening.}
 {220}{}{是的，是的，我在听。}
@@ -106,7 +106,7 @@
 ### {252}{}{I don't know. I'm just desperate. I'd better go get a drink.}
 {252}{}{我不知道。我只是绝望了。我最好去喝一杯。}
 ### {253}{}{The explosion was carried out by the Red Cardinals on the order of the fire worshippers. And your devoted assistant, Ralph, helped them in this.}
-{253}{}{爆炸是红雀队在拜火者的命令下进行的。你忠诚的助手拉尔夫在这件事上帮助了他们。}
+{253}{}{爆炸是红雀队在拜火教徒的命令下进行的。你忠诚的助手拉尔夫在这件事上帮助了他们。}
 ### {254}{}{Close my contacts! Why would he interfere in this?}
 {254}{}{关闭我的联系人！他为什么要干涉此事？}
 ### {255}{}{I have no idea, but it's a fact.}

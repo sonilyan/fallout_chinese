@@ -1,7 +1,7 @@
 ### {100}{}{You see Abel.}
 {100}{}{你看到亚伯了。}
 ### {101}{}{Here is a representative of the Church of the Sacred Fire.}
-{101}{}{这是圣火教会的代表。}
+{101}{}{这是拜火教的代表。}
 
 #The first dialog
 ### {200}{}{Are you here on business? Then you need to see Master Hard. It can be found in the workshop.}
@@ -11,7 +11,7 @@
 ### {202}{}{I would like to meet you specifically.}
 {202}{}{我想专门和你见面。}
 ### {203}{}{Too kind to be true. My name is Abel, I am one of the Followers of Fire, if that means anything to you. Now stop wasting my time.}
-{203}{}{太善良了，不可能是真的。我的名字叫亚伯，我是火的追随者之一，如果这对你有什么意义的话。现在别再浪费我的时间了。}
+{203}{}{太善良了，不可能是真的。我的名字叫亚伯，我是拜火教徒之一，如果这对你有什么意义的话。现在别再浪费我的时间了。}
 ### {204}{}{What are you doing?}
 {204}{}{你在干什么？}
 ### {205}{}{I see you're not going to get rid of that easily. The church needs the services of tinsmiths, just like any modern community. I am assigned to monitor the fulfillment of orders.}
@@ -51,7 +51,7 @@
 {222}{}{好的}
 
 ### {230}{}{Actually, I'm also a Follower of Fire.}
-{230}{}{事实上，我也是火的追随者。}
+{230}{}{事实上，我也是拜火教徒。}
 ### {231}{}{Really? It changes a lot. Welcome to Two-Sun, brother. Together we will glorify the Sacred Fire.}
 {231}{}{真正地它变化很大。欢迎来到二孙，兄弟。我们将一起赞美圣火。}
 ### {1231}{}{Really? It changes a lot. Welcome to Two-Sun, Sister. Together we will glorify the Sacred Fire.}
@@ -103,7 +103,7 @@
 ### {301}{}{Wait, why so much hostility?}
 {301}{}{等等，为什么这么多敌意？}
 ### {302}{}{Don't speak my tongue, atomic ignorance! The Followers of Fire have a good network of informants, I have already been informed about your exile. Get out!}
-{302}{}{别说我的舌头，原子的无知！火之追随者有一个很好的线人网络，我已经被告知你被流放的消息。滚出去！}
+{302}{}{别说我的舌头，原子的无知！拜火教徒有一个很好的线人网络，我已经被告知你被流放的消息。滚出去！}
 ### {303}{}{Calm down...}
 {303}{}{冷静}
 
@@ -112,7 +112,7 @@
 ### {311}{}{No one. Why are you so nervous?}
 {311}{}{没有人你为什么这么紧张？}
 ### {312}{}{I have my reasons. And you shouldn't show up in this city at all. It is very suspicious that the enemy of the Followers of Fire suddenly visited the tinsmiths. It looks like you're playing your game right under our noses.}
-{312}{}{我有自己的理由。你根本不应该出现在这个城市。非常可疑的是，火之追随者的敌人突然造访了铁匠铺。看起来你在我们眼皮底下玩游戏。}
+{312}{}{我有自己的理由。你根本不应该出现在这个城市。非常可疑的是，拜火教徒的敌人突然造访了铁匠铺。看起来你在我们眼皮底下玩游戏。}
 ### {313}{}{So the Church of Fire is no longer in high esteem here?}
 {313}{}{所以火之教会在这里不再受人尊敬了？}
 ### {314}{}{The Church was the main engine of progress in Southern Arizona. Now that the main temple has been destroyed, it will take a lot of effort to regain its former greatness and trust. But the tinsmiths have served us for almost ten years. They will not betray their patrons because of a single misunderstanding.}

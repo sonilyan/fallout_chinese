@@ -122,7 +122,7 @@
 {328}{}{索诺兰沙漠以西的废墟。它很远，你到不了那里。}
 
 ### {330}{}{So you're also a Follower of Fire?}
-{330}{}{所以你也是火的追随者？}
+{330}{}{所以你也是拜火教徒？}
 ### {331}{}{What nonsense is this? I'm a scientist, not a preacher! Besides, many things in the teaching seem to me just ridiculous.}
 {331}{}{这是什么胡说八道？我是科学家，不是传教士！此外，在我看来，教学中的许多事情都很荒谬。}
 ### {332}{}{Can you tell me about Aaron?}
@@ -210,7 +210,7 @@
 ### {400}{}{What kind of research does the laboratory do?}
 {400}{}{实验室做什么样的研究？}
 ### {401}{}{Different, obviously. (goes into his thoughts) Our mission is... in order to first provide the Followers of Fire with everything they need... yes. And then take up the reconstruction of the city and its industrial facilities. After all, we need workers... And this is only the first part of the plan. The most important thing now is to eliminate the shortage of food and clean water in Phoenix.}
-{401}{}{显然不同。（进入他的思想）我们的使命是……首先为火的追随者提供他们所需要的一切...对然后着手重建城市及其工业设施。毕竟，我们需要工人...这只是计划的第一部分。现在最重要的事情是消除菲尼克斯的食物和清洁水短缺问题。}
+{401}{}{显然不同。（进入他的思想）我们的使命是……首先为拜火教徒提供他们所需要的一切...对然后着手重建城市及其工业设施。毕竟，我们需要工人...这只是计划的第一部分。现在最重要的事情是消除菲尼克斯的食物和清洁水短缺问题。}
 ### {402}{}{And how are you doing?}
 {402}{}{你过得怎么样？}
 ### {403}{}{There is progress, but it is too slow. The city is badly destroyed, old equipment is destroyed or worn out, and the production base of this Vault will only be enough to provide for the Cathedral. Add to this squabbles between individual clans in the city, illiteracy and a whole list of other problems. And if you don't have any more stupid questions, then I'll go back to finding solutions.}

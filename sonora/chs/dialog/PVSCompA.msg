@@ -37,7 +37,7 @@
 ### {240}{}{Report on the status of the cult.}
 {240}{}{关于邪教状况的报告。}
 ### {241}{}{...Conclusion 1. As expected, the cult of Fire created on the model of the Chad Cathedral showed high results. He captured almost all spheres of life in the city and firmly established himself in his position. The population of Phoenix either remains loyal to the fire worshippers, or is afraid of them. Thus, we can flexibly change the local society at our discretion by the Followers of Fire. Although the rebels hiding in the sewers are still causing problems, they do not pose a significant threat to our plan.}
-{241}{}{…结论1。不出所料，在乍得大教堂模型上创建的火崇拜取得了很高的效果。他几乎占领了这座城市的所有生活领域，并牢牢地确立了自己的地位。凤凰城的居民要么仍然忠于拜火者，要么害怕他们。因此，我们可以通过火的追随者来灵活地改变当地社会。尽管躲在下水道里的叛军仍在制造问题，但他们并没有对我们的计划构成重大威胁。}
+{241}{}{…结论1。不出所料，在乍得大教堂模型上创建的火崇拜取得了很高的效果。他几乎占领了这座城市的所有生活领域，并牢牢地确立了自己的地位。凤凰城的居民要么仍然忠于拜火教徒，要么害怕他们。因此，我们可以通过拜火教徒来灵活地改变当地社会。尽管躲在下水道里的叛军仍在制造问题，但他们并没有对我们的计划构成重大威胁。}
 ### {242}{}{Read more.}
 {242}{}{阅读更多。}
 ### {243}{}{Conclusion 2. We manage to remain incognito, limited only to a small circle of selected persons. The cult leader is ready to follow our instructions without question, regardless of his own ambitions. He is aware of his puppet nature and is ready to reckon with it, but he does not suspect our plans. Presumably, this relationship will continue for the next 3-4 years, after which it will be useful to eliminate Aaron and put a new person.}

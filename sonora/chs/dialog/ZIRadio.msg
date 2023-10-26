@@ -16,7 +16,7 @@
 ### {213}{}{Listen to the Ranger frequency.}
 {213}{}{听Ranger的频率。}
 ### {214}{}{Listen to the frequency of fire worshippers.}
-{214}{}{听听拜火者的频率。}
+{214}{}{听听拜火教徒的频率。}
 ### {215}{}{Listen to the frequency of the Phoenix Rebels.}
 {215}{}{听听凤凰起义军的频率。}
 ### {216}{}{Listen to the frequency of tinkers.}

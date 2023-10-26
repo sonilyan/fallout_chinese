@@ -89,7 +89,7 @@
 ### {303}{}{Don't worry, I'm joining the Brotherhood of Steel.}
 {303}{}{别担心，我要加入钢铁兄弟会。}
 ### {304}{}{Don't worry, I'm one of the Followers of Fire.}
-{304}{}{别担心，我是火的追随者之一。}
+{304}{}{别担心，我是拜火教徒之一。}
 ### {305}{}{Sorry. But maybe you know about other things.}
 {305}{}{很抱歉但也许你知道其他事情。}
 ### {306}{}{Believe me, not a single caravan goes there now. Something went wrong with the Brotherhood of Steel, as a result, their ship exploded like a damn demolition beetle. Now instead of a ship there is a radioactive funnel and not a single living soul.}

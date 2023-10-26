@@ -94,7 +94,7 @@
 ### {242}{}{And who can know?}
 {242}{}{谁能知道呢？}
 ### {243}{}{You need to go to the Followers of Fire. There is so much knowledge in their library that they themselves no longer know what to do with it. Maybe the coordinates of the Vaults are there. That's just they won't want to share without a good reason.}
-{243}{}{你需要去火的追随者那里。他们的图书馆里有太多的知识，以至于他们自己都不知道该怎么办了。也许避难所的坐标就在那里。这只是他们不想在没有充分理由的情况下分享。}
+{243}{}{你需要去拜火教徒那里。他们的图书馆里有太多的知识，以至于他们自己都不知道该怎么办了。也许避难所的坐标就在那里。这只是他们不想在没有充分理由的情况下分享。}
 ### {244}{}{But what about the scavengers?}
 {244}{}{但是拾荒者呢？}
 ### {245}{}{Heh, do you think a normal scavenger would disclose the location of Vaults? After all, according to legend, there are a hell of a lot of relics stored there! But if you have a chatty tongue, then visit Bob in the slums. He's one of the oldest scavengers in Phoenix.}
@@ -149,7 +149,7 @@
 ### {271}{}{[Holy Book]}
 {271}{}{[圣书]}
 ### {272}{}{I think it's a religious book. Surely the Followers of Fire will be interested in her.}
-{272}{}{我认为这是一本宗教书籍。火的追随者肯定会对她感兴趣。}
+{272}{}{我认为这是一本宗教书籍。拜火教徒肯定会对她感兴趣。}
 ### {273}{}{[Photo]}
 {273}{}{[照片]}
 ### {274}{}{A snapshot of the big bang? So that's how it was... Scary. It is not necessary to show this thing to mere mortals. Better find a bald connoisseur of ancient history if you want to talk about the Great War.}
@@ -173,7 +173,7 @@
 ### {283}{}{[The surviving book]}
 {283}{}{[幸存的书]}
 ### {284}{}{A rare find. A valuable source of pre-war wisdom - that's what the Followers of Fire say about them. Basically, they buy them. After all, few people in Phoenix can read. And the knowledge in these books does not really help ordinary residents.}
-{284}{}{罕见的发现。战前智慧的宝贵来源——这就是火的追随者们对他们的评价。基本上，他们会买。毕竟，凤凰城很少有人会读书。这些书中的知识并没有真正帮助到普通居民。}
+{284}{}{罕见的发现。战前智慧的宝贵来源——这就是拜火教徒们对他们的评价。基本上，他们会买。毕竟，凤凰城很少有人会读书。这些书中的知识并没有真正帮助到普通居民。}
 ### {285}{}{[Can of coffee]}
 {285}{}{[一罐咖啡]}
 ### {286}{}{You're very lucky. After all, these are coffee beans. They were used to make a popular drink in the Old World. And now coffee has become so rare that it is served only to rich aesthetes in the casino opposite.}

@@ -112,7 +112,7 @@
 ### {250}{}{You sure can... write?}
 {250}{}{你当然可以...写}
 ### {251}{}{Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I really don't have enough practice.}
-{251}{}{比这个城市的大多数“识字”居民要好得多。我参加了火的追随者的课程...但我真的没有足够的练习。}
+{251}{}{比这个城市的大多数“识字”居民要好得多。我参加了拜火教徒的课程...但我真的没有足够的练习。}
 ### {252}{}{Uh, yes, of course.}
 {252}{}{当然可以。}
 ### {253}{}{We transport parcels once a month. And the cases of their loss can be counted on the fingers. We have experienced couriers. They know the terrain and ways of survival well. In case of loss of the parcel, you can claim compensation.}

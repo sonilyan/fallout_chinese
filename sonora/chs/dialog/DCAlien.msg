@@ -39,7 +39,7 @@
 ### {213}{}{An explosion? What's the story with the explosion?}
 {213}{}{爆炸？爆炸是怎么回事？}
 ### {214}{}{Don't you know? Yes, the whole tenth track is already cracking about this. The Church of the Sacred Fire was blown up. Poof-f! Literally.}
-{214}{}{你不知道吗？是的，整个第十条赛道都已经开始了。圣火教堂被炸毁了。呜呜！字面上}
+{214}{}{你不知道吗？是的，整个第十条赛道都已经开始了。拜火教堂被炸毁了。呜呜！字面上}
 ### {215}{}{Wow. Do the locals know anything about your uncle?}
 {215}{}{哇！当地人了解你叔叔吗？}
 ### {216}{}{The locals don't know anything. The bathhouse is closed, and the owner has not been seen for a long time. I talked to the mayor, but he called me another conman and kicked me out on the street.}

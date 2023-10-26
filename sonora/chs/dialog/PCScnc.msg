@@ -13,7 +13,7 @@
 ### {201}{}{What are you doing here? It seemed to me that after the Vault you would go to the Temple of Fire and plunge into science.}
 {201}{}{你在这里干什么？在我看来，在避难所之后，你会去火神庙，投身于科学。}
 ### {202}{}{That's what I did. But the Temple of Fire was destroyed. I don't know what happened there, but the fire worshippers are now in exile, and no one needs a scientist like me anymore.}
-{202}{}{我就是这么做的。但是火神庙被毁了。我不知道那里发生了什么，但拜火者现在流亡海外，再也不需要像我这样的科学家了。}
+{202}{}{我就是这么做的。但是火神庙被毁了。我不知道那里发生了什么，但拜火教徒现在流亡海外，再也不需要像我这样的科学家了。}
 ### {203}{}{Are you sure?}
 {203}{}{你确定吗？}
 ### {204}{}{There is one clue. In the Temple, I came across scant reports about a cult with a scientific bias called Followers of the Apocalypse. Their base is somewhere in the south, but there is too little information. If you meet these guys, let me know. Okay?}
@@ -31,7 +31,7 @@
 ### {220}{}{Why do you think the Temple of Fire fell?}
 {220}{}{你认为火神庙为什么会倒塌？}
 ### {221}{}{I know that a nuclear bomb was made in the Vault under the temple. But a spontaneous explosion is almost impossible. It looks very much like a diversion. The fire worshippers had many enemies, the only wonder is that they were able to penetrate so deeply. Hmm, obviously it was someone they trusted...}
-{221}{}{我知道一枚核弹是在寺庙下面的地下室里制造的。但自发爆炸几乎是不可能的。这看起来很像是一种消遣。拜火者有很多敌人，唯一的奇迹是他们能穿透得如此之深。嗯，很明显是他们信任的人...}
+{221}{}{我知道一枚核弹是在寺庙下面的地下室里制造的。但自发爆炸几乎是不可能的。这看起来很像是一种消遣。拜火教徒有很多敌人，唯一的奇迹是他们能穿透得如此之深。嗯，很明显是他们信任的人...}
 ### {222}{}{It was me.}
 {222}{}{是我。}
 ### {1222}{}{It was me.}

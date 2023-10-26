@@ -1,7 +1,7 @@
 ### {100}{}{You see an old acquaintance.}
 {100}{}{你看到一个老熟人。}
 ### {101}{}{This is one of the Followers of Fire... since recently.}
-{101}{}{这是火的追随者之一...自最近以来。}
+{101}{}{这是拜火教徒之一...自最近以来。}
 
 ### {200}{}{(In front of you is your old acquaintance who spied on the rangers; he seems depressed and weak-willed, his gaze has dimmed, and his former gangster manners seem to be in the past)}
 {200}{}{（你面前是你的老熟人，他监视着护林员；他看起来很沮丧，意志薄弱，目光暗淡，他以前的黑帮风度似乎已经过去了）}

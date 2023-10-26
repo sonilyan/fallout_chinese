@@ -28,9 +28,9 @@
 ### {207}{}{And what will you do when you become the head of the tribe?}
 {207}{}{当你成为部落首领后，你会做什么？ -- And what will you do when you become the head of the tribe?}
 ### {208}{}{To hell with old traditions and this endless war! We must make peace with Phoenix-for our safety and for our future. Such an alliance would give us many opportunities. Look at the weapons of strangers, at new objects of labor, radio communication alone is worth something...}
-{208}{}{让古老的传统和这场无休止的战争见鬼去吧！为了我们的安全和我们的未来，我们必须与凤凰城和平相处。这样的联盟会给我们很多机会。看看陌生人的武器，看看新的劳动对象，光是无线电通信就有价值。。。 -- To hell with old traditions and this endless war! We must make peace with Phoenix-for our safety and for our future. Such an alliance would give us many opportunities. Look at the weapons of strangers, at new objects of labor, radio communication alone is worth something...}
+{208}{}{让古老的传统和这场无休止的战争见鬼去吧！为了我们的安全和我们的未来，我们必须与凤凰城和平相处。这样的联盟会给我们很多机会。看看陌生人的武器，看看新的劳动对象，光是无线电通信就有价值... -- To hell with old traditions and this endless war! We must make peace with Phoenix-for our safety and for our future. Such an alliance would give us many opportunities. Look at the weapons of strangers, at new objects of labor, radio communication alone is worth something...}
 ### {209}{}{You're developing a thought...}
-{209}{}{你正在形成一种想法。。。 -- You're developing a thought...}
+{209}{}{你正在形成一种想法... -- You're developing a thought...}
 ### {210}{}{And what do the rangers give us? They only protect from bandits and dangerous animals. Many young people support me. We are tired of old people and their instructions. They are leading us to war. It's time for the tribe to change.}
 {210}{}{护林员给我们什么？他们只保护自己不受土匪和危险动物的伤害。很多年轻人支持我。我们厌倦了老人和他们的指示。他们正在把我们引向战争。是时候让部落改变了。 -- And what do the rangers give us? They only protect from bandits and dangerous animals. Many young people support me. We are tired of old people and their instructions. They are leading us to war. It's time for the tribe to change.}
 ### {211}{}{Big ambitions, man. I hope you understand what you're doing. See you later.}
@@ -96,7 +96,7 @@
 ### {250}{}{You risk missing your chance. Your padre has to give in right now. Come on, do it, Chatto.}
 {250}{}{你有错失机会的风险。你的牧师现在必须让步。来吧，干吧，查特。 -- You risk missing your chance. Your padre has to give in right now. Come on, do it, Chatto.}
 ### {251}{}{Kill my father? You're offering the unthinkable...}
-{251}{}{杀了我父亲？你提供了不可思议的。。。 -- Kill my father? You're offering the unthinkable...}
+{251}{}{杀了我父亲？你提供了不可思议的... -- Kill my father? You're offering the unthinkable...}
 ### {252}{}{Sorry. Forget what you heard.}
 {252}{}{很抱歉忘记你听到的。 -- Sorry. Forget what you heard.}
 ### {253}{}{Do it for the future of your tribe. Your padre and the rest of the elders are leading the tribe to the abyss.}
@@ -115,7 +115,7 @@
 {259}{}{我得把他踢出普韦布洛。让他平静地离开这里。 -- I'll have to kick him out of the pueblo. Let him leave here in peace.}
 
 ### {260}{}{What's going on there? I saw shamans running into the sanctuary...}
-{260}{}{那里发生了什么事？我看到萨满跑进圣地。。。 -- What's going on there? I saw shamans running into the sanctuary...}
+{260}{}{那里发生了什么事？我看到萨满跑进圣地... -- What's going on there? I saw shamans running into the sanctuary...}
 ### {261}{}{Your padre has passed away. Now you have to lead the tribe. And you know where.}
 {261}{}{你的牧师去世了。现在你必须领导这个部落。你知道在哪里。 -- Your padre has passed away. Now you have to lead the tribe. And you know where.}
 ### {262}{}{He... died? But... Wait, let me put this in my head.}
@@ -131,7 +131,7 @@
 ### {267}{}{You may have heard about the Phoenix explosion. Do you want such allies?}
 {267}{}{你可能听说过凤凰城爆炸案。你想要这样的盟友吗？ -- You may have heard about the Phoenix explosion. Do you want such allies?}
 ### {268}{}{Then you will be interested in the history of Quartz. Listen carefully...}
-{268}{}{然后你会对石英的历史感兴趣。仔细听。。。 -- Then you will be interested in the history of Quartz. Listen carefully...}
+{268}{}{然后你会对石英的历史感兴趣。仔细听... -- Then you will be interested in the history of Quartz. Listen carefully...}
 ### {269}{}{The Flagstaff colony uses slave labor on Phoenix caps.}
 {269}{}{弗拉格斯塔夫殖民地在凤凰城的帽子上使用奴隶劳动。 -- The Flagstaff colony uses slave labor on Phoenix caps.}
 
@@ -142,7 +142,7 @@
 ### {272}{}{So, are you ready to form an alliance with the Phoenix missionaries?}
 {272}{}{那么，你准备好与凤凰城的传教士结盟了吗？ -- So, are you ready to form an alliance with the Phoenix missionaries?}
 ### {273}{}{That's exactly what I'm going to do. Tell Commander Crook I'm ready to smoke a pipe of peace with him... Or sit down at the negotiating table. Isn't that what they say in the city?}
-{273}{}{这正是我要做的。告诉克鲁克指挥官，我已经准备好和他和平相处了。。。或者坐在谈判桌前。这不是城里人说的吗？ -- That's exactly what I'm going to do. Tell Commander Crook I'm ready to smoke a pipe of peace with him... Or sit down at the negotiating table. Isn't that what they say in the city?}
+{273}{}{这正是我要做的。告诉克鲁克指挥官，我已经准备好和他和平相处了...或者坐在谈判桌前。这不是城里人说的吗？ -- That's exactly what I'm going to do. Tell Commander Crook I'm ready to smoke a pipe of peace with him... Or sit down at the negotiating table. Isn't that what they say in the city?}
 ### {274}{}{Peace and prosperity, Chief.}
 {274}{}{和平与繁荣，酋长。 -- Peace and prosperity, Chief.}
 ### {275}{}{Okay. Bye.}
@@ -175,7 +175,7 @@
 ### {288}{}{You're running ahead of everyone, Chatto. Like a brahmin straying from the herd. You don't know where you're going.}
 {288}{}{你跑在所有人的前面，查特。就像一个浪迹天涯的婆罗门。你不知道自己要去哪里。 -- You're running ahead of everyone, Chatto. Like a brahmin straying from the herd. You don't know where you're going.}
 ### {289}{}{I don't think so...}
-{289}{}{我不这么认为。。。 -- I don't think so...}
+{289}{}{我不这么认为... -- I don't think so...}
 ### {290}{}{Brahmins are herd animals. This is the only way they can protect themselves from enemies. A single brahmin is doomed.}
 {290}{}{婆罗门是群居动物。这是他们保护自己免受敌人攻击的唯一方法。一个婆罗门注定要失败。 -- Brahmins are herd animals. This is the only way they can protect themselves from enemies. A single brahmin is doomed.}
 ### {291}{}{(sigh) So what should I do? Advise me, because you and I are similar, peasant. Stay in the camp and protect his lousy lifestyle? Or continue the struggle with moldy old people living in the past?}
@@ -187,9 +187,9 @@
 ### {293}{}{Cast your vote for an alliance with the Rangers. You and your companions must return to the tribe as part of the whole.}
 {293}{}{投票支持与游骑兵队结盟。你和你的同伴必须作为整体的一部分回到部落。 -- Cast your vote for an alliance with the Rangers. You and your companions must return to the tribe as part of the whole.}
 ### {294}{}{Maybe you're right. I don't know myself anymore... Okay, I'll talk to the others and try to calm them down.}
-{294}{}{也许你是对的。我不再了解自己了。。。好吧，我会和其他人谈谈，试着让他们平静下来。 -- Maybe you're right. I don't know myself anymore... Okay, I'll talk to the others and try to calm them down.}
+{294}{}{也许你是对的。我不再了解自己了...好吧，我会和其他人谈谈，试着让他们平静下来。 -- Maybe you're right. I don't know myself anymore... Okay, I'll talk to the others and try to calm them down.}
 ### {1294}{}{Maybe you're right. I don't know myself anymore... Okay, I'll talk to the others and try to calm them down.}
-{1294}{}{也许你是对的。我不再了解自己了。。。好吧，我会和其他人谈谈，试着让他们平静下来。 -- Maybe you're right. I don't know myself anymore... Okay, I'll talk to the others and try to calm them down.}
+{1294}{}{也许你是对的。我不再了解自己了...好吧，我会和其他人谈谈，试着让他们平静下来。 -- Maybe you're right. I don't know myself anymore... Okay, I'll talk to the others and try to calm them down.}
 ### {295}{}{Go, Chatto.}
 {295}{}{去吧，查特。 -- Go, Chatto.}
 ### {296}{}{I happened to visit Flagstaff. Phoenix created this colony on the lands of the tribe, which was immediately exterminated.}
@@ -207,9 +207,9 @@
 ### {302}{}{As you wish.}
 {302}{}{如你所愿。 -- As you wish.}
 ### {303}{}{OK, let's draw lots... What's it? Does the draw speak in favor of the Rangers?}
-{303}{}{好的，让我们抽签。。。它是什么？抽签结果对游骑兵队有利吗？ -- OK, let's draw lots... What's it? Does the draw speak in favor of the Rangers?}
+{303}{}{好的，让我们抽签...它是什么？抽签结果对游骑兵队有利吗？ -- OK, let's draw lots... What's it? Does the draw speak in favor of the Rangers?}
 ### {304}{}{OK, let's draw lots... What's it? Does the die speak in favor of Phoenix?}
-{304}{}{好的，让我们抽签。。。它是什么？死者是否支持凤凰？ -- OK, let's draw lots... What's it? Does the die speak in favor of Phoenix?}
+{304}{}{好的，让我们抽签...它是什么？死者是否支持凤凰？ -- OK, let's draw lots... What's it? Does the die speak in favor of Phoenix?}
 ### {305}{}{To be honest, I don't like it's a good idea to rely on chance anymore. Forget about this case.}
 {305}{}{老实说，我不喜欢再依赖机会了。忘掉这个案子吧。 -- To be honest, I don't like it's a good idea to rely on chance anymore. Forget about this case.}
 ### {306}{}{Let's draw lots. Let the Wasteland Spirit decide for you.}

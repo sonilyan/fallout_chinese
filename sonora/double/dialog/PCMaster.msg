@@ -78,7 +78,7 @@
 ### {231}{}{This is an outrage! Down with the tyrant!}
 {231}{}{这太令人愤慨了！打倒暴君！ -- This is an outrage! Down with the tyrant!}
 ### {232}{}{Yes, you went...}
-{232}{}{是的，你去了。。。 -- Yes, you went...}
+{232}{}{是的，你去了... -- Yes, you went...}
 ### {233}{}{It's a killer! In the name of Fire, stop him!}
 {233}{}{这是个杀手！以火的名义，阻止他！ -- It's a killer! In the name of Fire, stop him!}
 ### {234}{}{Relax, I'm in charge here now.}
@@ -90,7 +90,7 @@
 ### {237}{}{Security! Kill the spy! Immediately!}
 {237}{}{安全杀死间谍！立即 -- Security! Kill the spy! Immediately!}
 ### {238}{}{They won't stop me...}
-{238}{}{他们不会阻止我。。。 -- They won't stop me...}
+{238}{}{他们不会阻止我... -- They won't stop me...}
 ### {239}{}{I want you dead. You are a vile oppressor and tyrant!}
 {239}{}{我要你死。你是个卑鄙的压迫者和暴君！ -- I want you dead. You are a vile oppressor and tyrant!}
 
@@ -326,7 +326,7 @@
 ### {363}{}{What does "unite the lands" mean?}
 {363}{}{“统一土地”是什么意思？ -- What does "unite the lands" mean?}
 ### {364}{}{One banner, one country, one people... one faith. People should abandon all internecine conflicts and give themselves up to Rebirth in full.}
-{364}{}{一面旗帜，一个国家，一个人民。。。一个信仰。人们应该抛弃一切自相残杀的冲突，全身心地投入到重生中去。 -- One banner, one country, one people... one faith. People should abandon all internecine conflicts and give themselves up to Rebirth in full.}
+{364}{}{一面旗帜，一个国家，一个人民...一个信仰。人们应该抛弃一切自相残杀的冲突，全身心地投入到重生中去。 -- One banner, one country, one people... one faith. People should abandon all internecine conflicts and give themselves up to Rebirth in full.}
 ### {365}{}{And how far has the church spread?}
 {365}{}{教会传播了多远？ -- And how far has the church spread?}
 ### {366}{}{We have chapels in the Phoenix area and in several neighboring cities. By modern standards, this is a huge territory. But we still have room to grow.}
@@ -362,7 +362,7 @@
 ### {385}{}{Evil tongues. Apparently, such a reputation was fixed for the church after the revolution. Yes, we came to power by force. It was a forced measure. But there has always been peace in our hearts.}
 {385}{}{恶毒的舌头。显然，这样的名声是在革命后为教会建立起来的。是的，我们是靠武力上台的。这是一项强制性措施。但是，我们的心中始终是和平的。 -- Evil tongues. Apparently, such a reputation was fixed for the church after the revolution. Yes, we came to power by force. It was a forced measure. But there has always been peace in our hearts.}
 ### {386}{}{I got the impression that the cult owns this city...}
-{386}{}{我得到的印象是邪教拥有这座城市。。。 -- I got the impression that the cult owns this city...}
+{386}{}{我得到的印象是邪教拥有这座城市... -- I got the impression that the cult owns this city...}
 ### {387}{}{The church has really become something big for Phoenix. Science, education and medicine have returned to the city from our submission. We have introduced a cap currency and are establishing trade relations. Thanks to us, crime has decreased in the city. But the bulk of the townspeople live outside of our attention.}
 {387}{}{教堂对凤凰城来说真的很重要。科学、教育和医学已经从我们提交的材料中回到了这个城市。我们已经引入了上限货币，并正在建立贸易关系。多亏了我们，这个城市的犯罪率下降了。但大部分市民都生活在我们关注之外。 -- The church has really become something big for Phoenix. Science, education and medicine have returned to the city from our submission. We have introduced a cap currency and are establishing trade relations. Thanks to us, crime has decreased in the city. But the bulk of the townspeople live outside of our attention.}
 ### {388}{}{Wow, that's a twist. I want to know more about your religion.}
@@ -382,11 +382,11 @@
 ### {401}{}{}
 {401}{}{error : string is empty -- }
 ### {402}{}{ Villa... Yes, I remember our conversation about this village.}
-{402}{}{别墅。。。是的，我记得我们关于这个村庄的谈话。 --  Villa... Yes, I remember our conversation about this village.}
+{402}{}{别墅...是的，我记得我们关于这个村庄的谈话。 --  Villa... Yes, I remember our conversation about this village.}
 ### {403}{}{I think we have already discussed everything. Goodbye, Mr. Aaron.}
 {403}{}{我想我们已经讨论过了。再见，亚伦先生。 -- I think we have already discussed everything. Goodbye, Mr. Aaron.}
 ### {404}{}{Hmm... Villa... Is this some kind of village? I've never heard of her.}
-{404}{}{嗯…别墅。。。这是什么村庄吗？我从没听说过她。 -- Hmm... Villa... Is this some kind of village? I've never heard of her.}
+{404}{}{嗯…别墅...这是什么村庄吗？我从没听说过她。 -- Hmm... Villa... Is this some kind of village? I've never heard of her.}
 ### {405}{}{I'm actually looking for my relatives. They were enslaved.}
 {405}{}{实际上我在找我的亲戚。他们被奴役了。 -- I'm actually looking for my relatives. They were enslaved.}
 ### {406}{}{Oh, poor people. I have infinite sympathy for you and will pray for the salvation of your souls. But why did your search lead you to us?}
@@ -428,7 +428,7 @@
 ### {421}{}{Alas, this is not the case.}
 {421}{}{唉，事实并非如此。 -- Alas, this is not the case.}
 ### {422}{}{Well, sorry. I think I'll go look further...}
-{422}{}{对不起。我想我会再往下看。。。 -- Well, sorry. I think I'll go look further...}
+{422}{}{对不起。我想我会再往下看... -- Well, sorry. I think I'll go look further...}
 ### {423}{}{Wait, I'm not going to resist.}
 {423}{}{等等，我不会反抗的。 -- Wait, I'm not going to resist.}
 ### {424}{}{As a member of the Brotherhood of Steel, I count on assistance in finding the missing peasants.}
@@ -465,7 +465,7 @@
 {438}{}{（给抄写员一个手势，他在电脑里搜索了一些东西，然后悄悄说出了结果）对不起，你的亲戚已经去了南方的神圣矿井工作了。 --  (gives a sign to the scribe, who searches for something in the computer and then whispers the result) I'm sorry, but your relatives have already gone to work in the sacred mines in the south.}
 
 ### {450}{}{Hmm. Remind me, what is the name of this village? (one of the councillors approaches the Ruler and whispers something in his ear) Umgu... Yes, we know where your people are. They got a second chance and are now working out their karma in the south.}
-{450}{}{嗯。提醒我，这个村子叫什么名字？（其中一名议员走近统治者，在他耳边低语）乌姆古。。。是的，我们知道你们的人在哪里。他们得到了第二次机会，现在正在南方解决他们的因果报应。 -- Hmm. Remind me, what is the name of this village? (one of the councillors approaches the Ruler and whispers something in his ear) Umgu... Yes, we know where your people are. They got a second chance and are now working out their karma in the south.}
+{450}{}{嗯。提醒我，这个村子叫什么名字？（其中一名议员走近统治者，在他耳边低语）乌姆古...是的，我们知道你们的人在哪里。他们得到了第二次机会，现在正在南方解决他们的因果报应。 -- Hmm. Remind me, what is the name of this village? (one of the councillors approaches the Ruler and whispers something in his ear) Umgu... Yes, we know where your people are. They got a second chance and are now working out their karma in the south.}
 ### {452}{}{I remember our conversation. The peasants got a second chance and are working off their karma in the south.}
 {452}{}{我记得我们的谈话。农民们得到了第二次机会，正在南方解决他们的因果报应。 -- I remember our conversation. The peasants got a second chance and are working off their karma in the south.}
 ### {453}{}{In the south? And where exactly?}
@@ -567,9 +567,9 @@
 ### {511}{}{But I really want to join your church.}
 {511}{}{但我真的很想加入你们的教会。 -- But I really want to join your church.}
 ### {512}{}{A guarantor is required for admission to the service... But I doubt the purity of your thoughts, peasant from the Villa.}
-{512}{}{接受服务需要有担保人。。。但我怀疑你思想的纯洁性，别墅里的农民。 -- A guarantor is required for admission to the service... But I doubt the purity of your thoughts, peasant from the Villa.}
+{512}{}{接受服务需要有担保人...但我怀疑你思想的纯洁性，别墅里的农民。 -- A guarantor is required for admission to the service... But I doubt the purity of your thoughts, peasant from the Villa.}
 ### {1512}{}{A guarantor is required for admission to the service... But I doubt the purity of your thoughts, peasant woman from the Villa.}
-{1512}{}{接受服务需要有担保人。。。但我怀疑你思想的纯洁性，别墅里的农妇。 -- A guarantor is required for admission to the service... But I doubt the purity of your thoughts, peasant woman from the Villa.}
+{1512}{}{接受服务需要有担保人...但我怀疑你思想的纯洁性，别墅里的农妇。 -- A guarantor is required for admission to the service... But I doubt the purity of your thoughts, peasant woman from the Villa.}
 ### {513}{}{Ulysses Grant advised me to talk to you.}
 {513}{}{尤利西斯·格兰特建议我和你谈谈。 -- Ulysses Grant advised me to talk to you.}
 ### {514}{}{Membership in the Brotherhood of Steel is a sufficient reason?}
@@ -579,7 +579,7 @@
 ### {516}{}{(listens to the whisper of the adviser) This letter doesn't mean anything anymore. Get out.}
 {516}{}{（听顾问低声说）这封信已经没有任何意义了。滚出去。 -- (listens to the whisper of the adviser) This letter doesn't mean anything anymore. Get out.}
 ### {517}{}{Um, but...}
-{517}{}{嗯，但是。。。 -- Um, but...}
+{517}{}{嗯，但是... -- Um, but...}
 ### {518}{}{I had a letter of recommendation from Flagstaff. But it's gone somewhere.}
 {518}{}{我收到了弗拉格斯塔夫的推荐信。但它不见了。 -- I had a letter of recommendation from Flagstaff. But it's gone somewhere.}
 ### {519}{}{I no longer want to join your religion. Happily.}
@@ -636,18 +636,18 @@
 ### {562}{}{Okay, so be it, I'll go there and find out.}
 {562}{}{好吧，就这样吧，我去那里看看。 -- Okay, so be it, I'll go there and find out.}
 ### {563}{}{Well, I don't know. It could be true...}
-{563}{}{嗯，我不知道。这可能是真的。。。 -- Well, I don't know. It could be true...}
+{563}{}{嗯，我不知道。这可能是真的... -- Well, I don't know. It could be true...}
 
 ### {570}{}{The spy turned out to be Mathias. He followed the novices' routine and transmitted the data through the radio station to the enemies of the church.}
 {570}{}{那个间谍原来是马蒂亚斯。他按照新手的惯例，通过电台将数据传输给教会的敌人。 -- The spy turned out to be Mathias. He followed the novices' routine and transmitted the data through the radio station to the enemies of the church.}
 ### {571}{}{ (Aaron's lips turn red with anger) Mathias... I should have guessed sooner. How could one of my closest advisers betray me? Guards! Mathias is under arrest.}
-{571}{}{（亚伦气得嘴唇都红了）马蒂亚斯。。。我应该早点猜出来。我最亲密的顾问怎么会背叛我？卫兵！马蒂亚斯被捕了。 --  (Aaron's lips turn red with anger) Mathias... I should have guessed sooner. How could one of my closest advisers betray me? Guards! Mathias is under arrest.}
+{571}{}{（亚伦气得嘴唇都红了）马蒂亚斯...我应该早点猜出来。我最亲密的顾问怎么会背叛我？卫兵！马蒂亚斯被捕了。 --  (Aaron's lips turn red with anger) Mathias... I should have guessed sooner. How could one of my closest advisers betray me? Guards! Mathias is under arrest.}
 ### {572}{}{Be polite to this respectable man.}
 {572}{}{对这个受人尊敬的人要有礼貌。 -- Be polite to this respectable man.}
 ### {573}{}{Right. And fry his eggs with a shocker.}
 {573}{}{正确的然后用电击器煎鸡蛋。 -- Right. And fry his eggs with a shocker.}
 ### {574}{}{ (wandering around the hall in thought) There is a solid deception all around... I can't even trust my closest subordinates. No one could have thought that Mathias hated the state of things in the church so much.}
-{574}{}{（在大厅里徘徊思考）周围有一个坚实的骗局。。。我甚至不能信任我最亲密的下属。没有人会想到马蒂亚斯如此憎恨教会的现状。 --  (wandering around the hall in thought) There is a solid deception all around... I can't even trust my closest subordinates. No one could have thought that Mathias hated the state of things in the church so much.}
+{574}{}{（在大厅里徘徊思考）周围有一个坚实的骗局...我甚至不能信任我最亲密的下属。没有人会想到马蒂亚斯如此憎恨教会的现状。 --  (wandering around the hall in thought) There is a solid deception all around... I can't even trust my closest subordinates. No one could have thought that Mathias hated the state of things in the church so much.}
 ### {575}{}{He was against your policy, wasn't he?}
 {575}{}{他反对你的政策，不是吗？ -- He was against your policy, wasn't he?}
 ### {576}{}{Mathias advocated the isolation of the cathedral from the world and the complete preservation of our relics. He didn't want to share them with outsiders and didn't see anyone who was worthy of them. I didn't agree. The time has come when this knowledge should be extracted from dust and mold in the name of the Sacred Fire.}
@@ -691,7 +691,7 @@
 ### {602}{}{To be honest, these are all dubious rumors. Let's not jump to conclusions.}
 {602}{}{老实说，这些都是可疑的谣言。我们不要妄下结论。 -- To be honest, these are all dubious rumors. Let's not jump to conclusions.}
 ### {603}{}{The rebels were hiding in the sewers. Now their leader is dead, and the party is split and suppressed...}
-{603}{}{叛军躲在下水道里。现在他们的领袖死了，党也被分裂和镇压了。。。 -- The rebels were hiding in the sewers. Now their leader is dead, and the party is split and suppressed...}
+{603}{}{叛军躲在下水道里。现在他们的领袖死了，党也被分裂和镇压了... -- The rebels were hiding in the sewers. Now their leader is dead, and the party is split and suppressed...}
 ### {604}{}{...Very good. I will send people to clean up the lair of these criminals, and you should pay tribute. It seems that the Sacred Fire itself has sent us enlightenment in your body.}
 {604}{}{…非常好。我会派人去清理这些罪犯的巢穴，你们应该向我致敬。似乎圣火本身已经在你的身体里给我们带来了启示。 -- ...Very good. I will send people to clean up the lair of these criminals, and you should pay tribute. It seems that the Sacred Fire itself has sent us enlightenment in your body.}
 ### {605}{}{I can continue to serve the church if it is useful.}
@@ -776,7 +776,7 @@
 ### {654}{}{Go back to San Brahmin and conquer the tribe in the name of Fire! This is your sacred duty. And if you can't, then sow discord in the tribe. Kill the supreme leader so that the savages will fight for his lousy throne. Make the rangers escape from the pueblo. Go ahead. Go!}
 {654}{}{回到圣婆罗门，以火之名征服部落！这是你的神圣职责。如果你做不到，那就在部落里挑拨离间。杀死最高领袖，这样野蛮人就会为他那糟糕的王位而战。让护林员逃离普韦布洛。着手去 -- Go back to San Brahmin and conquer the tribe in the name of Fire! This is your sacred duty. And if you can't, then sow discord in the tribe. Kill the supreme leader so that the savages will fight for his lousy throne. Make the rangers escape from the pueblo. Go ahead. Go!}
 ### {655}{}{Yes, my lord...}
-{655}{}{是的，大人。。。 -- Yes, my lord...}
+{655}{}{是的，大人... -- Yes, my lord...}
 ### {656}{}{Bad news. The tribe made an alliance with the rangers, who drove the missionaries out of the pueblo and the surrounding lands.}
 {656}{}{坏消息。部落与护林员结盟，护林员将传教士赶出普韦布洛和周围的土地。 -- Bad news. The tribe made an alliance with the rangers, who drove the missionaries out of the pueblo and the surrounding lands.}
 ### {657}{}{ (makes a heavy sigh and crosses his fingers) We're too late. How much effort was spent on conquering the tribe, and all in vain!}

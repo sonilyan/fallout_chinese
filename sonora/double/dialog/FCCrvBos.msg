@@ -66,10 +66,10 @@
 ### {234}{}{Doesn't uranium lead to radiation sickness?}
 {234}{}{铀不会导致辐射病吗？ -- Doesn't uranium lead to radiation sickness?}
 ### {235}{}{Leads... if you eat it for breakfast, lunch and dinner. This ore is weakly radioactive and harmless until it is in the reactor. That's when it's best to stay as far away as possible.}
-{235}{}{潜在客户。。。如果你早餐、午餐和晚餐都吃。这种矿石在进入反应堆之前是弱放射性和无害的。这时最好尽可能远离。 -- Leads... if you eat it for breakfast, lunch and dinner. This ore is weakly radioactive and harmless until it is in the reactor. That's when it's best to stay as far away as possible.}
+{235}{}{潜在客户...如果你早餐、午餐和晚餐都吃。这种矿石在进入反应堆之前是弱放射性和无害的。这时最好尽可能远离。 -- Leads... if you eat it for breakfast, lunch and dinner. This ore is weakly radioactive and harmless until it is in the reactor. That's when it's best to stay as far away as possible.}
 
 ### {236}{}{You realize that you're not helping at all... honest people?}
-{236}{}{你意识到你根本没有帮助。。。诚实的人？ -- You realize that you're not helping at all... honest people?}
+{236}{}{你意识到你根本没有帮助...诚实的人？ -- You realize that you're not helping at all... honest people?}
 ### {237}{}{Are you talking about Faber's mercenaries? I don't care. My people and I need work. And the colony provides jobs and stable earnings. That's enough for me.}
 {237}{}{你在说费伯的雇佣兵吗？我不在乎。我和我的员工需要工作。殖民地提供了就业机会和稳定的收入。这对我来说已经足够了。 -- Are you talking about Faber's mercenaries? I don't care. My people and I need work. And the colony provides jobs and stable earnings. That's enough for me.}
 ### {238}{}{I will pay 30 caps.}
@@ -81,13 +81,13 @@
 ### {241}{}{In your leaky pockets, even the dust of the road is not worth hoping for.}
 {241}{}{在你漏洞百出的口袋里，即使是路上的灰尘也不值得期待。 -- In your leaky pockets, even the dust of the road is not worth hoping for.}
 ### {242}{}{Oops, it's gone somewhere...}
-{242}{}{哎呀，它不见了。。。 -- Oops, it's gone somewhere...}
+{242}{}{哎呀，它不见了... -- Oops, it's gone somewhere...}
 ### {243}{}{The local sect worships atomic energy. However, after the destruction of their main temple, little remained of them. Anyway, it was under them that Phoenix became a real city.}
 {243}{}{当地教派崇拜原子能。然而，在他们的主庙被毁后，他们所剩无几。总之，正是在他们的领导下，凤凰城才成为一座真正的城市。 -- The local sect worships atomic energy. However, after the destruction of their main temple, little remained of them. Anyway, it was under them that Phoenix became a real city.}
 
 #Emergency adjustments
 ### {250}{}{...I'm telling you, we're not going anywhere... Wait, you're not from the administration, are you? Then forget it.}
-{250}{}{…我告诉你，我们哪儿也不去。。。等等，你不是政府的，是吗？那就忘了。 -- ...I'm telling you, we're not going anywhere... Wait, you're not from the administration, are you? Then forget it.}
+{250}{}{…我告诉你，我们哪儿也不去...等等，你不是政府的，是吗？那就忘了。 -- ...I'm telling you, we're not going anywhere... Wait, you're not from the administration, are you? Then forget it.}
 ### {251}{}{What's the problem with the caravan?}
 {251}{}{大篷车出了什么问题？ -- What's the problem with the caravan?}
 ### {252}{}{Don't you know the latest developments? The mine is about to close, which means our business too.}
@@ -127,7 +127,7 @@
 ### {306}{}{In Phoenix, the tongue is cut off for cheating. You're lucky we're not in Phoenix.}
 {306}{}{在凤凰城，人们会因为作弊而被割掉舌头。你很幸运，我们不在凤凰城。 -- In Phoenix, the tongue is cut off for cheating. You're lucky we're not in Phoenix.}
 ### {307}{}{Uh, I'll remember that...}
-{307}{}{呃，我会记得的。。。 -- Uh, I'll remember that...}
+{307}{}{呃，我会记得的... -- Uh, I'll remember that...}
 
 ### {310}{}{500 caps will make me tested?}
 {310}{}{500顶帽子会让我经受考验吗？ -- 500 caps will make me tested?}

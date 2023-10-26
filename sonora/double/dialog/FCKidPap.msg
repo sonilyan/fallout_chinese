@@ -29,7 +29,7 @@
 ### {206}{}{Wow. Garrison work is honorable in this city, isn't it? What happened?}
 {206}{}{哇！驻军工作在这个城市是光荣的，不是吗？发生了什么？ -- Wow. Garrison work is honorable in this city, isn't it? What happened?}
 ### {207}{}{Yes, I was stripped of my rank after inappropriate behavior... simply put, I got drunk like a pig-rat and allowed myself too much.}
-{207}{}{是的，我因为不当行为而被剥夺了军衔。。。简单地说，我醉得像只猪老鼠，放纵自己太多了。 -- Yes, I was stripped of my rank after inappropriate behavior... simply put, I got drunk like a pig-rat and allowed myself too much.}
+{207}{}{是的，我因为不当行为而被剥夺了军衔...简单地说，我醉得像只猪老鼠，放纵自己太多了。 -- Yes, I was stripped of my rank after inappropriate behavior... simply put, I got drunk like a pig-rat and allowed myself too much.}
 ### {208}{}{Is there really no work for the former commander here?}
 {208}{}{这里真的没有前任指挥官的工作吗？ -- Is there really no work for the former commander here?}
 ### {209}{}{If you are forced to resign, then no - everyone is wary and unfriendly to you.}
@@ -73,7 +73,7 @@
 ### {233}{}{It sounds easy, but the Whip probably won't want to leave voluntarily. I need someone to back me up. Just stay close while I negotiate with him, OK?}
 {233}{}{这听起来很容易，但辉格党人可能不想自愿离开。我需要有人支持我。在我和他谈判的时候，保持密切联系，好吗？ -- It sounds easy, but the Whip probably won't want to leave voluntarily. I need someone to back me up. Just stay close while I negotiate with him, OK?}
 ### {234}{}{Okay. Meet me at the mine...}
-{234}{}{可以在矿井见我。。。 -- Okay. Meet me at the mine...}
+{234}{}{可以在矿井见我... -- Okay. Meet me at the mine...}
 ### {235}{}{Good luck. Later.}
 {235}{}{祝你好运后来 -- Good luck. Later.}
 

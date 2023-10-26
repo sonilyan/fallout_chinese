@@ -85,7 +85,7 @@
 ### {250}{}{I'm looking for some slaves. They were brought from Flagstaff colony.}
 {250}{}{我在找一些奴隶。他们是从弗拉格斯塔夫殖民地带来的。 -- I'm looking for some slaves. They were brought from Flagstaff colony.}
 ### {251}{}{Straight from the colony? Aww... Well, I drive caravans and have nothing to do with slaves. You'd better talk to someone from the city.}
-{251}{}{直接从殖民地来的？哇。。。嗯，我开大篷车，与奴隶无关。你最好和城里的人谈谈。 -- Straight from the colony? Aww... Well, I drive caravans and have nothing to do with slaves. You'd better talk to someone from the city.}
+{251}{}{直接从殖民地来的？哇...嗯，我开大篷车，与奴隶无关。你最好和城里的人谈谈。 -- Straight from the colony? Aww... Well, I drive caravans and have nothing to do with slaves. You'd better talk to someone from the city.}
 ### {252}{}{For example? Who is doing this here?}
 {252}{}{例如谁在这里做这件事？ -- For example? Who is doing this here?}
 ### {253}{}{The mercenary guild will find anyone. It's in the business center, to the left of the city gate.}
@@ -148,7 +148,7 @@
 ### {323}{}{A substantial sum. Are you sure you have that many caps?}
 {323}{}{一笔可观的款项。你确定你有那么多帽子吗？ -- A substantial sum. Are you sure you have that many caps?}
 ### {324}{}{Let me count...}
-{324}{}{让我数一下。。。 -- Let me count...}
+{324}{}{让我数一下... -- Let me count...}
 ### {325}{}{I am on an important mission for the Church of Fire.}
 {325}{}{我为火之教会执行一项重要任务。 -- I am on an important mission for the Church of Fire.}
 ### {326}{}{I see. Later.}

@@ -75,7 +75,7 @@
 ### {246}{}{Roy Faber is dead. You should be happy.}
 {246}{}{罗伊·法伯死了。你应该快乐。 -- Roy Faber is dead. You should be happy.}
 ### {247}{}{Rejoice? I don't know... The colony taught me to obey and live by the laws of others. It's cruel, but it's right. Look at the order Faber achieved with his dictatorship. But now others will take his place. And no one knows how it will end. So I do not know whether to be happy or not.}
-{247}{}{高兴我不知道。。。殖民地教会了我服从他人的法律并按照他人的法律生活。这很残忍，但这是对的。看看费伯独裁统治下的秩序。但现在其他人将取代他的位置。没有人知道它将如何结束。所以我不知道该不该快乐。 -- Rejoice? I don't know... The colony taught me to obey and live by the laws of others. It's cruel, but it's right. Look at the order Faber achieved with his dictatorship. But now others will take his place. And no one knows how it will end. So I do not know whether to be happy or not.}
+{247}{}{高兴我不知道...殖民地教会了我服从他人的法律并按照他人的法律生活。这很残忍，但这是对的。看看费伯独裁统治下的秩序。但现在其他人将取代他的位置。没有人知道它将如何结束。所以我不知道该不该快乐。 -- Rejoice? I don't know... The colony taught me to obey and live by the laws of others. It's cruel, but it's right. Look at the order Faber achieved with his dictatorship. But now others will take his place. And no one knows how it will end. So I do not know whether to be happy or not.}
 ### {248}{}{Hmm, this point of view is worth considering.}
 {248}{}{嗯，这个观点值得考虑。 -- Hmm, this point of view is worth considering.}
 ### {249}{}{You're just a weakling, Tom. Accept it.}
@@ -114,7 +114,7 @@
 ### {268}{}{Here are 10 caps.}
 {268}{}{这里有10顶帽子。 -- Here are 10 caps.}
 ### {269}{}{Wait a minute, I'll check if there's anyone outside the window... Yes, it was through this window that I saw everything. The neighborhood kids did it. But keep in mind that this conversation did not happen. And don't you dare hurt the children.}
-{269}{}{等一下，我来看看窗外有没有人。。。是的，正是透过这扇窗户，我看到了一切。附近的孩子们做到了。但请记住，这场对话并没有发生。你不敢伤害孩子们。 -- Wait a minute, I'll check if there's anyone outside the window... Yes, it was through this window that I saw everything. The neighborhood kids did it. But keep in mind that this conversation did not happen. And don't you dare hurt the children.}
+{269}{}{等一下，我来看看窗外有没有人...是的，正是透过这扇窗户，我看到了一切。附近的孩子们做到了。但请记住，这场对话并没有发生。你不敢伤害孩子们。 -- Wait a minute, I'll check if there's anyone outside the window... Yes, it was through this window that I saw everything. The neighborhood kids did it. But keep in mind that this conversation did not happen. And don't you dare hurt the children.}
 ### {270}{}{Thanks for being honest, Uncle Tom. I promise that no one will get hurt.}
 {270}{}{谢谢你的诚实，汤姆叔叔。我保证不会有人受伤。 -- Thanks for being honest, Uncle Tom. I promise that no one will get hurt.}
 ### {271}{}{You don't order me. And in general, pray that I don't turn you in as a patron of young thieves.}

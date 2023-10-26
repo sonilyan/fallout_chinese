@@ -5,9 +5,9 @@
 ### {102}{}{People like this just litter the world.}
 {102}{}{世界上到处都是这样的人。 -- People like this just litter the world.}
 ### {103}{}{Eh, are you talking to me, piece of iron? There must have been something else in that bottle...}
-{103}{}{呃，你在跟我说话吗，铁块？那个瓶子里一定有别的东西。。。 -- Eh, are you talking to me, piece of iron? There must have been something else in that bottle...}
+{103}{}{呃，你在跟我说话吗，铁块？那个瓶子里一定有别的东西... -- Eh, are you talking to me, piece of iron? There must have been something else in that bottle...}
 ### {104}{}{Oh, Lloyd...}
-{104}{}{哦，劳埃德。。。 -- Oh, Lloyd...}
+{104}{}{哦，劳埃德... -- Oh, Lloyd...}
 
 ### {200}{}{Hey, you look like you're a newbie. And newcomers in the city have a hard time. Want some free advice? Make friends, it's appreciated here.}
 {200}{}{嘿，你看起来像个新手。这座城市的新来者过得很艰难。想要一些免费的建议吗？交朋友，这里很感激。 -- Hey, you look like you're a newbie. And newcomers in the city have a hard time. Want some free advice? Make friends, it's appreciated here.}
@@ -72,7 +72,7 @@
 ### {230}{}{Ah, the rumors. That's what I live by.}
 {230}{}{啊，谣言。这就是我的生活。 -- Ah, the rumors. That's what I live by.}
 ### {231}{}{(looks around) N-well...}
-{231}{}{（环顾四周）嗯。。。 -- (looks around) N-well...}
+{231}{}{（环顾四周）嗯... -- (looks around) N-well...}
 ### {232}{}{Lloyd sees everything from this street. That's right.}
 {232}{}{劳埃德从这条街上看到了一切。没错。 -- Lloyd sees everything from this street. That's right.}
 ### {233}{}{You know, I hear a lot here.}
@@ -84,9 +84,9 @@
 ### {236}{}{Hmm... (scratches unwashed stubble)}
 {236}{}{嗯…（刮伤未洗的胡茬） -- Hmm... (scratches unwashed stubble)}
 ### {237}{}{You know, people talk all sorts of things...}
-{237}{}{你知道，人们谈论各种各样的事情。。。 -- You know, people talk all sorts of things...}
+{237}{}{你知道，人们谈论各种各样的事情... -- You know, people talk all sorts of things...}
 ### {238}{}{(humming) Ah, the cap, crack...}
-{238}{}{（哼）啊，帽子，啪。。。 -- (humming) Ah, the cap, crack...}
+{238}{}{（哼）啊，帽子，啪... -- (humming) Ah, the cap, crack...}
 ### {239}{}{Thank you very much.}
 {239}{}{非常感谢。 -- Thank you very much.}
 
@@ -104,7 +104,7 @@
 {245}{}{你怎么说？ -- What do you say?}
 
 ### {250}{}{Hi. How do you like my new clothes? I bought them with your caps, so thank you. Sometimes I think I can get out of this hole and start a new life. Although who am I kidding...}
-{250}{}{你好你觉得我的新衣服怎么样？我和你的帽子一起买的，所以谢谢你。有时我想我可以走出这个洞，开始新的生活。虽然我在开谁的玩笑。。。 -- Hi. How do you like my new clothes? I bought them with your caps, so thank you. Sometimes I think I can get out of this hole and start a new life. Although who am I kidding...}
+{250}{}{你好你觉得我的新衣服怎么样？我和你的帽子一起买的，所以谢谢你。有时我想我可以走出这个洞，开始新的生活。虽然我在开谁的玩笑... -- Hi. How do you like my new clothes? I bought them with your caps, so thank you. Sometimes I think I can get out of this hole and start a new life. Although who am I kidding...}
 ### {251}{}{All is not lost, Lloyd. It still won't work to fall lower.}
 {251}{}{没有失去一切，劳埃德。再往下跌也无济于事。 -- All is not lost, Lloyd. It still won't work to fall lower.}
 ### {252}{}{People like you have no future. Accept it.}

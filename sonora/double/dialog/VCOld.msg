@@ -23,11 +23,11 @@
 ### {202}{}{Ah, }
 {202}{}{啊， -- Ah, }
 ### {203}{}{...Ho-sho... wh... mind... here...}
-{203}{}{…呵呵…呵呵。。。介意在这里 -- ...Ho-sho... wh... mind... here...}
+{203}{}{…呵呵…呵呵...介意在这里 -- ...Ho-sho... wh... mind... here...}
 ### {204}{}{Listen, if you stop chewing your tobacco, maybe I'll hear something.}
 {204}{}{听着，如果你停止咀嚼烟草，也许我会听到一些声音。 -- Listen, if you stop chewing your tobacco, maybe I'll hear something.}
 ### {205}{}{ (spits and wipes himself with a bony palm) I'm talking... The community wants to see you at the meeting. We decided that you should also give your opinion.}
-{205}{}{（吐唾沫，用瘦骨嶙峋的手掌擦拭自己）我在说。。。社区希望在会议上见到你。我们决定你也应该发表意见。 --  (spits and wipes himself with a bony palm) I'm talking... The community wants to see you at the meeting. We decided that you should also give your opinion.}
+{205}{}{（吐唾沫，用瘦骨嶙峋的手掌擦拭自己）我在说...社区希望在会议上见到你。我们决定你也应该发表意见。 --  (spits and wipes himself with a bony palm) I'm talking... The community wants to see you at the meeting. We decided that you should also give your opinion.}
 ### {206}{}{What kind of meeting is this?}
 {206}{}{这是什么样的会议？ -- What kind of meeting is this?}
 ### {207}{}{The community must decide what to do next. After all, the problems do not end with saving our people.}
@@ -58,9 +58,9 @@
 ### {225}{}{You're late. Everyone has been asleep for a long time.}
 {225}{}{你迟到了。每个人都已经睡了很长时间了。 -- You're late. Everyone has been asleep for a long time.}
 ### {226}{}{Hr-r-r... hruk... khr-khr-khr...}
-{226}{}{小时-小时。。。hruk。。。khr khr。。。 -- Hr-r-r... hruk... khr-khr-khr...}
+{226}{}{小时-小时...hruk...khr khr... -- Hr-r-r... hruk... khr-khr-khr...}
 ### {227}{}{He's fast asleep. And it's useless to wake him up now...}
-{227}{}{他睡得很熟。现在叫醒他也没用。。。 -- He's fast asleep. And it's useless to wake him up now...}
+{227}{}{他睡得很熟。现在叫醒他也没用... -- He's fast asleep. And it's useless to wake him up now...}
 
 ### {230}{}{The meeting begins.}
 {230}{}{会议开始了。 -- The meeting begins.}
@@ -89,9 +89,9 @@
 ### {257}{}{[Next]}
 {257}{}{[下一个 -- Next]}
 ### {258}{}{(A voice from the audience: "Old man, what can we do? The first bandits will squeeze us out like a ripe mutafruit.") I know, I know... Hush! It's not that bad. }
-{258}{}{（观众的声音：“老先生，我们能做什么？第一批土匪会把我们像一个成熟的变种水果一样挤出来。”）我知道，我知道。。。安静没那么糟糕。 -- (A voice from the audience: "Old man, what can we do? The first bandits will squeeze us out like a ripe mutafruit.") I know, I know... Hush! It's not that bad. }
+{258}{}{（观众的声音：“老先生，我们能做什么？第一批土匪会把我们像一个成熟的变种水果一样挤出来。”）我知道，我知道...安静没那么糟糕。 -- (A voice from the audience: "Old man, what can we do? The first bandits will squeeze us out like a ripe mutafruit.") I know, I know... Hush! It's not that bad. }
 ### {259}{}{, come out to us. Come closer, sit here...}
-{259}{}{，出来找我们。走近一点，坐在这里。。。 -- , come out to us. Come closer, sit here...}
+{259}{}{，出来找我们。走近一点，坐在这里... -- , come out to us. Come closer, sit here...}
 ### {260}{}{[Go out to the public]}
 {260}{}{[向公众开放 -- Go out to the public]}
 ### {261}{}{Here is our savior. }
@@ -99,9 +99,9 @@
 ### {1261}{}{Here is our savior. }
 {1261}{}{这是我们的救世主。 -- Here is our savior. }
 ### {262}{}{ helped all of you to get out of the bondage. He will also help to keep our families from strangers...}
-{262}{}{帮助你们所有人摆脱束缚。他还将帮助我们的家人远离陌生人。。。 --  helped all of you to get out of the bondage. He will also help to keep our families from strangers...}
+{262}{}{帮助你们所有人摆脱束缚。他还将帮助我们的家人远离陌生人... --  helped all of you to get out of the bondage. He will also help to keep our families from strangers...}
 ### {1262}{}{ helped all of you to get out of the slave fetters. It will also help to keep our families from strangers...}
-{1262}{}{帮助你们所有人摆脱了奴隶的束缚。这也将有助于我们的家人远离陌生人。。。 --  helped all of you to get out of the slave fetters. It will also help to keep our families from strangers...}
+{1262}{}{帮助你们所有人摆脱了奴隶的束缚。这也将有助于我们的家人远离陌生人... --  helped all of you to get out of the slave fetters. It will also help to keep our families from strangers...}
 ### {263}{}{Hello everyone, guys. How are you?}
 {263}{}{大家好，伙计们。你好吗 -- Hello everyone, guys. How are you?}
 ### {264}{}{Glad to see you all.}
@@ -188,7 +188,7 @@
 ### {301}{}{Friends, calm down!}
 {301}{}{朋友们，冷静点！ -- Friends, calm down!}
 ### {302}{}{What a farce ...}
-{302}{}{真是一场闹剧。。。 -- What a farce ...}
+{302}{}{真是一场闹剧... -- What a farce ...}
 ### {303}{}{ (the hall is filled with the hum of discussion, Hidalgo makes a soothing gesture) Hush! Stop making noise! We'll figure it out now, but let's take turns talking. }
 {303}{}{（大厅里充满了讨论的嗡嗡声，伊达尔戈做了一个安抚的手势）嘘！停止制造噪音！我们现在就想办法，但让我们轮流谈谈。 --  (the hall is filled with the hum of discussion, Hidalgo makes a soothing gesture) Hush! Stop making noise! We'll figure it out now, but let's take turns talking. }
 ### {304}{}{, please, it's your turn to keep your word.}
@@ -219,7 +219,7 @@
 ### {317}{}{But everyone will decide in any case. I have expressed my opinion.}
 {317}{}{但无论如何，每个人都会做出决定。我已经表达了我的意见。 -- But everyone will decide in any case. I have expressed my opinion.}
 ### {318}{}{Hmm-m-m... Well, now I see who's in front of me. You value our people and you value our village. You can be trusted. But only if you listen to the old people. (addressing the audience) I approve! (the hall begins to make a joyful noise)}
-{318}{}{嗯嗯。。。好吧，现在我知道谁在我面前了。你重视我们的人民，也重视我们的村庄。你可以被信任。但前提是你要听老人的话。（对听众讲话）我同意！（大厅开始发出欢快的声音） -- Hmm-m-m... Well, now I see who's in front of me. You value our people and you value our village. You can be trusted. But only if you listen to the old people. (addressing the audience) I approve! (the hall begins to make a joyful noise)}
+{318}{}{嗯嗯...好吧，现在我知道谁在我面前了。你重视我们的人民，也重视我们的村庄。你可以被信任。但前提是你要听老人的话。（对听众讲话）我同意！（大厅开始发出欢快的声音） -- Hmm-m-m... Well, now I see who's in front of me. You value our people and you value our village. You can be trusted. But only if you listen to the old people. (addressing the audience) I approve! (the hall begins to make a joyful noise)}
 ### {319}{}{[Next]}
 {319}{}{[下一个 -- Next]}
 ### {320}{}{While you were away, I repaired the weather station that was destroyed by the raiders.}
@@ -227,7 +227,7 @@
 ### {1320}{}{While you were away, I repaired the weather station, which was destroyed by the raiders.}
 {1320}{}{你不在的时候，我修理了被袭击者摧毁的气象站。 -- While you were away, I repaired the weather station, which was destroyed by the raiders.}
 ### {321}{}{What-what? Ah the weather station... Was it really necessary to do this while our people were in trouble? Although the station is really important. Especially now, when we have so little food supplies.}
-{321}{}{什么？啊气象站。。。当我们的人民陷入困境时，真的有必要这样做吗？虽然车站真的很重要。尤其是现在，当我们的食物供应如此之少的时候。 -- What-what? Ah the weather station... Was it really necessary to do this while our people were in trouble? Although the station is really important. Especially now, when we have so little food supplies.}
+{321}{}{什么？啊气象站...当我们的人民陷入困境时，真的有必要这样做吗？虽然车站真的很重要。尤其是现在，当我们的食物供应如此之少的时候。 -- What-what? Ah the weather station... Was it really necessary to do this while our people were in trouble? Although the station is really important. Especially now, when we have so little food supplies.}
 ### {322}{}{Jose would definitely not have coped with his bad leg.}
 {322}{}{何塞肯定不会处理他的坏腿。 -- Jose would definitely not have coped with his bad leg.}
 ### {323}{}{Well, I also chased away the looters. They were trying to take the last remnants of the harvest.}
@@ -278,7 +278,7 @@
 ### {351}{}{, Chris wouldn't be able to escape. Who knows who he'll tell about us in the Wastelands.}
 {351}{}{，克里斯是逃不掉的。谁知道他会告诉谁关于荒原上的我们。 -- , Chris wouldn't be able to escape. Who knows who he'll tell about us in the Wastelands.}
 ### {352}{}{Um, listen...}
-{352}{}{嗯，听着。。。 -- Um, listen...}
+{352}{}{嗯，听着... -- Um, listen...}
 ### {353}{}{Right. It's a bad thing. How can you give yourself such a slack, }
 {353}{}{正确的这是一件坏事。你怎么能放松自己， -- Right. It's a bad thing. How can you give yourself such a slack, }
 ### {354}{}{? If someone is guilty, he must be punished. Your softness is not the best trait for a ruler. How will you justify yourself, }
@@ -298,7 +298,7 @@
 ### {360}{}{Relatives and loved ones should be responsible for each other. Here it is you who deserve a "spanking" for your attitude towards Chris. Shame and shame.}
 {360}{}{亲人和亲人应该对彼此负责。你对克里斯的态度值得“打屁股”。羞耻和羞耻。 -- Relatives and loved ones should be responsible for each other. Here it is you who deserve a "spanking" for your attitude towards Chris. Shame and shame.}
 ### {361}{}{ (the hall subsides in embarrassment) Well... This is debatable. Perhaps I'd better keep quiet here.}
-{361}{}{（大厅尴尬地安静了下来）嗯。。。这是有争议的。也许我最好在这里保持安静。 --  (the hall subsides in embarrassment) Well... This is debatable. Perhaps I'd better keep quiet here.}
+{361}{}{（大厅尴尬地安静了下来）嗯...这是有争议的。也许我最好在这里保持安静。 --  (the hall subsides in embarrassment) Well... This is debatable. Perhaps I'd better keep quiet here.}
 ### {362}{}{That's right.}
 {362}{}{没错。 -- That's right.}
 ### {363}{}{(another voice from the audience) Wait, old man. In defense, I want to add how }
@@ -331,7 +331,7 @@
 ### {376}{}{This technology has saved my life more than once. Perhaps she will save the Villa.}
 {376}{}{这项技术不止一次救了我的命。也许她会拯救别墅。 -- This technology has saved my life more than once. Perhaps she will save the Villa.}
 ### {377}{}{Hmm-m... Well, if you think about it, maybe it is... But still - do not scare your own people. We've been through enough lately.}
-{377}{}{嗯。。。好吧，如果你仔细想想，也许是……但还是不要吓到你自己的人。我们最近已经受够了。 -- Hmm-m... Well, if you think about it, maybe it is... But still - do not scare your own people. We've been through enough lately.}
+{377}{}{嗯...好吧，如果你仔细想想，也许是……但还是不要吓到你自己的人。我们最近已经受够了。 -- Hmm-m... Well, if you think about it, maybe it is... But still - do not scare your own people. We've been through enough lately.}
 ### {378}{}{Okay...}
 {378}{}{可以 -- Okay...}
 ### {379}{}{What's wrong with the old technology if it protects? Some nonsense.}
@@ -361,7 +361,7 @@
 ### {390}{}{. }
 {390}{}{。 -- . }
 ### {391}{}{Wow, like a stone from the soul ...}
-{391}{}{哇，就像一块来自灵魂的石头。。。 -- Wow, like a stone from the soul ...}
+{391}{}{哇，就像一块来自灵魂的石头... -- Wow, like a stone from the soul ...}
 ### {392}{}{Could it have been otherwise? Well, okay.}
 {392}{}{可能不是这样吗？好吧。 -- Could it have been otherwise? Well, okay.}
 ### {393}{}{Less than half. Well, }
@@ -423,7 +423,7 @@
 ### {431}{}{[Next]}
 {431}{}{[下一个 -- Next]}
 ### {432}{}{Jose, tell them. (Jose rises) Yes, of course... }
-{432}{}{何塞，告诉他们。（何塞站起来）是的，当然。。。 -- Jose, tell them. (Jose rises) Yes, of course... }
+{432}{}{何塞，告诉他们。（何塞站起来）是的，当然... -- Jose, tell them. (Jose rises) Yes, of course... }
 ### {433}{}{We will be a point on the caravan routes. Crowds of seekers of earnings will fall here. Along with them, robbers, weapons and alcohol will come to the valley. We will not be able to resist such changes, we will simply be swept away.}
 {433}{}{我们将成为商队路线上的一个点。大批寻求收入的人将涌入这里。与他们一起，强盗、武器和酒精将来到山谷。我们将无法抗拒这种变化，我们将被卷走。 -- We will be a point on the caravan routes. Crowds of seekers of earnings will fall here. Along with them, robbers, weapons and alcohol will come to the valley. We will not be able to resist such changes, we will simply be swept away.}
 ### {434}{}{Are you suggesting to stop production?}
@@ -456,31 +456,31 @@
 ### {451}{}{M? Oh... So did you succeed? Good. Well, let's hope for the best.}
 {451}{}{M哦那么你成功了吗？好的好吧，让我们抱着最好的希望。 -- M? Oh... So did you succeed? Good. Well, let's hope for the best.}
 ### {452}{}{It remains to deal with the plant in Garage City...}
-{452}{}{车库城的工厂还有待处理。。。 -- It remains to deal with the plant in Garage City...}
+{452}{}{车库城的工厂还有待处理... -- It remains to deal with the plant in Garage City...}
 ### {453}{}{I want to inform you that the Flagstaff mines are no longer a problem. Now they use a robot there and reduce the number of slaves.}
 {453}{}{我想通知你，弗拉格斯塔夫煤矿不再是问题。现在他们在那里使用了一个机器人，并减少了奴隶的数量。 -- I want to inform you that the Flagstaff mines are no longer a problem. Now they use a robot there and reduce the number of slaves.}
 ### {454}{}{A robot, you say? That is, a car from ancient times? Oh, it's not good. Who knows how long she will work and whether Faber will think of something else? But the fact that he no longer needs slaves is good.}
 {454}{}{你说是机器人吗？也就是说，一辆古代的汽车？哦，这不好。谁知道她会工作多久，费伯会不会考虑其他事情？但他不再需要奴隶的事实是好的。 -- A robot, you say? That is, a car from ancient times? Oh, it's not good. Who knows how long she will work and whether Faber will think of something else? But the fact that he no longer needs slaves is good.}
 ### {455}{}{Now I'm going to deal with the factory in Garage City...}
-{455}{}{现在我要处理车库城的工厂。。。 -- Now I'm going to deal with the factory in Garage City...}
+{455}{}{现在我要处理车库城的工厂... -- Now I'm going to deal with the factory in Garage City...}
 ### {456}{}{I have news - the machine at the Garage City factory has been destroyed.}
 {456}{}{我有消息，车库城工厂的机器被毁了。 -- I have news - the machine at the Garage City factory has been destroyed.}
 ### {457}{}{M? Ah... Good news. There's nothing to disturb the old demon. We were fine without the factory.}
-{457}{}{M啊。。。好消息。没有什么可以打扰这个老恶魔的。没有工厂我们过得很好。 -- M? Ah... Good news. There's nothing to disturb the old demon. We were fine without the factory.}
+{457}{}{M啊...好消息。没有什么可以打扰这个老恶魔的。没有工厂我们过得很好。 -- M? Ah... Good news. There's nothing to disturb the old demon. We were fine without the factory.}
 ### {458}{}{It remains to deal with the penal servitude in Flagstaff ...}
-{458}{}{弗拉格斯塔夫的劳役问题还有待解决。。。 -- It remains to deal with the penal servitude in Flagstaff ...}
+{458}{}{弗拉格斯塔夫的劳役问题还有待解决... -- It remains to deal with the penal servitude in Flagstaff ...}
 ### {459}{}{We don't need to destroy the machines in Garage City. The leader of the factory offers favorable conditions for the restoration of the Villa.}
 {459}{}{我们不需要摧毁车库城的机器。工厂的领导为别墅的修复提供了有利的条件。 -- We don't need to destroy the machines in Garage City. The leader of the factory offers favorable conditions for the restoration of the Villa.}
 ### {460}{}{Oh... What are you talking about? Are you suggesting an alliance with the scavengers? Many people won't like it. On the other hand, their work would be very useful and would greatly help the whole Villa.}
 {460}{}{哦你在说什么？你是在建议和拾荒者联盟吗？很多人不会喜欢。另一方面，他们的工作会非常有用，对整个维拉都有很大帮助。 -- Oh... What are you talking about? Are you suggesting an alliance with the scavengers? Many people won't like it. On the other hand, their work would be very useful and would greatly help the whole Villa.}
 ### {461}{}{Now I'm going to deal with the mine in Flagstaff...}
-{461}{}{现在我要处理弗拉格斯塔夫的矿井。。。 -- Now I'm going to deal with the mine in Flagstaff...}
+{461}{}{现在我要处理弗拉格斯塔夫的矿井... -- Now I'm going to deal with the mine in Flagstaff...}
 ### {462}{}{So both problems are solved. It's time to convene a new council.}
 {462}{}{所以这两个问题都解决了。是时候召集一个新的理事会了。 -- So both problems are solved. It's time to convene a new council.}
 ### {463}{}{ (thinks for a long time, nodding in response) Good... But now you will only talk to the elders.}
-{463}{}{（想了很久，点头回应）很好。。。但现在你只会和长辈说话。 --  (thinks for a long time, nodding in response) Good... But now you will only talk to the elders.}
+{463}{}{（想了很久，点头回应）很好...但现在你只会和长辈说话。 --  (thinks for a long time, nodding in response) Good... But now you will only talk to the elders.}
 ### {464}{}{Uh, okay...}
-{464}{}{好吧。。。 -- Uh, okay...}
+{464}{}{好吧... -- Uh, okay...}
 ### {465}{}{}
 {465}{}{error : string is empty -- }
 ### {466}{}{, we are grateful to you for getting rid of our enemies. Old Hidalgo told us that Garage City and Flagstaff no longer threaten us. But they are our closest and therefore most dangerous enemies.}
@@ -531,7 +531,7 @@
 ### {489}{}{Yes. The Rangers are ready to form an alliance to protect the Villa.}
 {489}{}{对流浪者队准备组成一个联盟来保护维拉。 -- Yes. The Rangers are ready to form an alliance to protect the Villa.}
 ### {490}{}{Give me a minute. Before such an important event, you need to gather your thoughts...}
-{490}{}{给我一分钟。在这样一个重要的事件之前，你需要收集你的想法。。。 -- Give me a minute. Before such an important event, you need to gather your thoughts...}
+{490}{}{给我一分钟。在这样一个重要的事件之前，你需要收集你的想法... -- Give me a minute. Before such an important event, you need to gather your thoughts...}
 ### {491}{}{The Rangers pretend to care about us. Although in fact they are only concerned about providing food. We will not allow them to go beyond the scope of the contract.}
 {491}{}{游骑兵队假装关心我们。尽管事实上他们只关心提供食物。我们不会允许他们超出合同的范围。 -- The Rangers pretend to care about us. Although in fact they are only concerned about providing food. We will not allow them to go beyond the scope of the contract.}
 ### {492}{}{While we are under their protection, we need to strengthen our position, build up our strength to fight back against our enemies on our own.}
@@ -547,7 +547,7 @@
 ### {497}{}{In that case, we are doomed. We will not be able to defend ourselves from enemies on our own.}
 {497}{}{那样的话，我们就完蛋了。我们将无法独自防御敌人。 -- In that case, we are doomed. We will not be able to defend ourselves from enemies on our own.}
 ### {498}{}{But Flagstaff and Garage City...}
-{498}{}{但是弗拉格斯塔夫和车库城。。。 -- But Flagstaff and Garage City...}
+{498}{}{但是弗拉格斯塔夫和车库城... -- But Flagstaff and Garage City...}
 ### {499}{}{You know perfectly well that they were just the periphery of a big process. Those who control the fate of Sonora are still firmly seated in the south. And they won't miss their chance.}
 {499}{}{你很清楚，它们只是一个大过程的外围。那些控制索诺拉命运的人仍然牢牢地坐在南方。他们不会错过机会的。 -- You know perfectly well that they were just the periphery of a big process. Those who control the fate of Sonora are still firmly seated in the south. And they won't miss their chance.}
 ### {500}{}{Who are you talking about?}

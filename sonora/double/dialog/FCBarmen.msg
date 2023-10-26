@@ -5,7 +5,7 @@
 ### {102}{}{The bar is closed, come in the morning.}
 {102}{}{酒吧关门了，早上来。 -- The bar is closed, come in the morning.}
 ### {103}{}{Z-z-z...}
-{103}{}{Z-Z-Z。。。 -- Z-z-z...}
+{103}{}{Z-Z-Z... -- Z-z-z...}
 ### {104}{}{Cool armor. But you should wear something simpler for the bar.}
 {104}{}{酷炫的盔甲。但是你应该穿简单一点的去酒吧。 -- Cool armor. But you should wear something simpler for the bar.}
 ### {105}{}{Sorry, but no guns in the bar. Such a rule.}
@@ -169,7 +169,7 @@
 ### {250}{}{Look, it's the tooth of that rat king from the mines.}
 {250}{}{看，这是矿井里那个老鼠王的牙齿。 -- Look, it's the tooth of that rat king from the mines.}
 ### {251}{}{Seriously? I'll be damned if this mutant wasn't the size of a brahmin! They've told me all sorts of things about him... listen, sell him to me. I'll pay 100 caps.}
-{251}{}{认真地如果这个变种人不是婆罗门那么大，我会被诅咒的！他们告诉了我关于他的各种事情。。。听着，把他卖给我。我付100顶。 -- Seriously? I'll be damned if this mutant wasn't the size of a brahmin! They've told me all sorts of things about him... listen, sell him to me. I'll pay 100 caps.}
+{251}{}{认真地如果这个变种人不是婆罗门那么大，我会被诅咒的！他们告诉了我关于他的各种事情...听着，把他卖给我。我付100顶。 -- Seriously? I'll be damned if this mutant wasn't the size of a brahmin! They've told me all sorts of things about him... listen, sell him to me. I'll pay 100 caps.}
 ### {252}{}{Why do you need these teeth?}
 {252}{}{你为什么需要这些牙齿？ -- Why do you need these teeth?}
 ### {253}{}{Okay, take it.}
@@ -181,9 +181,9 @@
 ### {256}{}{This attraction is sure to attract customers.}
 {256}{}{这种吸引力一定会吸引顾客。 -- This attraction is sure to attract customers.}
 ### {257}{}{Eh, these rural superstitions of yours... In vain you refuse the bottlecaps. Think again.}
-{257}{}{呃，你的这些农村迷信。。。你拒绝瓶装水是徒劳的。再想想。 -- Eh, these rural superstitions of yours... In vain you refuse the bottlecaps. Think again.}
+{257}{}{呃，你的这些农村迷信...你拒绝瓶装水是徒劳的。再想想。 -- Eh, these rural superstitions of yours... In vain you refuse the bottlecaps. Think again.}
 ### {258}{}{(grins ominously) Now I'm going to unwind with this thing... Oh, yes - your 100 caps.}
-{258}{}{（不祥地笑了笑）现在我要用这个东西来放松。。。哦，是的，你的100顶帽子。 -- (grins ominously) Now I'm going to unwind with this thing... Oh, yes - your 100 caps.}
+{258}{}{（不祥地笑了笑）现在我要用这个东西来放松...哦，是的，你的100顶帽子。 -- (grins ominously) Now I'm going to unwind with this thing... Oh, yes - your 100 caps.}
 ### {259}{}{Good deal.}
 {259}{}{很划算。 -- Good deal.}
 ### {260}{}{Goodbye, speculator.}
@@ -246,7 +246,7 @@
 ### {288}{}{I'll get over it somehow. Thanks for the beer.}
 {288}{}{我会设法克服的。谢谢你的啤酒。 -- I'll get over it somehow. Thanks for the beer.}
 ### {289}{}{Yeah, special prices... twice as big.}
-{289}{}{是的，特价。。。两倍大。 -- Yeah, special prices... twice as big.}
+{289}{}{是的，特价...两倍大。 -- Yeah, special prices... twice as big.}
 
 # About your relatives in the city
 ### {290}{}{I'm looking for my relatives from a village in the west.}
@@ -280,7 +280,7 @@
 ### {304}{}{Show me what you have.}
 {304}{}{让我看看你有什么。 -- Show me what you have.}
 ### {305}{}{Great, now let's see what I can offer you...}
-{305}{}{太好了，现在让我们看看我能为你提供什么。。。 -- Great, now let's see what I can offer you...}
+{305}{}{太好了，现在让我们看看我能为你提供什么... -- Great, now let's see what I can offer you...}
 
 #Quest - return the debt
 ### {310}{}{Is there another task for me?}
@@ -425,7 +425,7 @@
 ### {390}{}{The bartender in Garage City just needs a drink.}
 {390}{}{车库城的酒保只需要喝一杯。 -- The bartender in Garage City just needs a drink.}
 ### {391}{}{It seemed to me that this city was finally bent. Wait a minute, though... Oh, yes, it's probably because of the cattle breeders' tribe. They rebelled and no longer allow caravans to cross their lands.}
-{391}{}{在我看来，这座城市终于屈服了。不过等一下。。。哦，是的，可能是因为养牛人的部落。他们反抗，不再允许商队穿越他们的土地。 -- It seemed to me that this city was finally bent. Wait a minute, though... Oh, yes, it's probably because of the cattle breeders' tribe. They rebelled and no longer allow caravans to cross their lands.}
+{391}{}{在我看来，这座城市终于屈服了。不过等一下...哦，是的，可能是因为养牛人的部落。他们反抗，不再允许商队穿越他们的土地。 -- It seemed to me that this city was finally bent. Wait a minute, though... Oh, yes, it's probably because of the cattle breeders' tribe. They rebelled and no longer allow caravans to cross their lands.}
 ### {392}{}{Besides the booze, there's nothing relaxing left in the Garage.}
 {392}{}{除了酒，车库里没有什么放松的了。 -- Besides the booze, there's nothing relaxing left in the Garage.}
 ### {393}{}{Well, I can share the surplus. But I doubt that the bartender will be enough for a long time. After all, courier delivery is expensive.}
@@ -454,7 +454,7 @@
 ### {407}{}{A terrible thing. It turned out that the administrator was killed. The whole mine is on edge because of this.}
 {407}{}{一件可怕的事情。原来管理员被杀了。整个矿井都因此而紧张。 -- A terrible thing. It turned out that the administrator was killed. The whole mine is on edge because of this.}
 ### {408}{}{Oh... that's how... It's sad to hear that. After all, he paid well for the dinners. I hope the new administrator will continue his glorious tradition. And as for you, you can take the lunch as a fee.}
-{408}{}{哦这就是为什么。。。听到这个消息很难过。毕竟，他的饭钱很高。我希望新任行政长官能继续他的光荣传统。至于你，你可以收取午餐费。 -- Oh... that's how... It's sad to hear that. After all, he paid well for the dinners. I hope the new administrator will continue his glorious tradition. And as for you, you can take the lunch as a fee.}
+{408}{}{哦这就是为什么...听到这个消息很难过。毕竟，他的饭钱很高。我希望新任行政长官能继续他的光荣传统。至于你，你可以收取午餐费。 -- Oh... that's how... It's sad to hear that. After all, he paid well for the dinners. I hope the new administrator will continue his glorious tradition. And as for you, you can take the lunch as a fee.}
 ### {409}{}{That's not what I wanted. But I won't starve to death.}
 {409}{}{这不是我想要的。但我不会饿死的。 -- That's not what I wanted. But I won't starve to death.}
 ### {410}{}{Lunch instead of the promised caps? Pray that your greed is not found out in the garrison, you bastard.}

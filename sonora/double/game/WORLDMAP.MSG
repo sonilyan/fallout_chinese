@@ -115,7 +115,7 @@
 ### {275}{}{Cathedral}
 {275}{}{大教堂 -- Cathedral}
 ### {276}{}{Vault 25}
-{276}{}{保险库25 -- Vault 25}
+{276}{}{25号避难所 -- Vault 25}
 ### {277}{}{Phoenix Ruins}
 {277}{}{凤凰城遗址 -- Phoenix Ruins}
 ### {278}{}{Collectors}
@@ -219,7 +219,7 @@
 ### {368}{}{Piers}
 {368}{}{桥墩 -- Piers}
 ### {369}{}{Vault 24}
-{369}{}{保险库24 -- Vault 24}
+{369}{}{24号避难所 -- Vault 24}
 ### {370}{}{US Navy Base}
 {370}{}{美国海军基地 -- US Navy Base}
 #

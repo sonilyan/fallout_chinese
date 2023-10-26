@@ -87,7 +87,7 @@
 ### {227}{}{Everything happens for the first time sometime. Move your hips, now we'll find a secluded place.}
 {227}{}{一切都是第一次发生。移动你的臀部，现在我们会找到一个隐蔽的地方。 -- Everything happens for the first time sometime. Move your hips, now we'll find a secluded place.}
 ### {228}{}{Sorry, it was a bad idea. Forget it, let me just leave...}
-{228}{}{对不起，这是个坏主意。算了，让我离开吧。。。 -- Sorry, it was a bad idea. Forget it, let me just leave...}
+{228}{}{对不起，这是个坏主意。算了，让我离开吧... -- Sorry, it was a bad idea. Forget it, let me just leave...}
 ### {229}{}{ (after an hour of dirty violence, you get out of bed with satisfaction and look at the limp body below; you take out the bottlecaps and silently throw them on the dirty sheet; the woman turns away and begins to sob quietly)}
 {229}{}{（在一个小时的肮脏暴力之后，你满意地起床，看着下面虚弱的身体；你拿出水瓶，默默地扔在脏床单上；女人转过身来，开始安静地哭泣） --  (after an hour of dirty violence, you get out of bed with satisfaction and look at the limp body below; you take out the bottlecaps and silently throw them on the dirty sheet; the woman turns away and begins to sob quietly)}
 ### {230}{}{[Leave]}

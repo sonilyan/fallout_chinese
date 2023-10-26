@@ -5,7 +5,7 @@
 ### {102}{}{I'm used to talking to real people, not robots. Do you understand?}
 {102}{}{我习惯于和真人说话，而不是和机器人说话。你明白吗？ -- I'm used to talking to real people, not robots. Do you understand?}
 ### {103}{}{Goodbye, Ranger. Your ideals have turned out... not viable.}
-{103}{}{再见，游骑兵。你的理想已经实现了。。。不可行。 -- Goodbye, Ranger. Your ideals have turned out... not viable.}
+{103}{}{再见，游骑兵。你的理想已经实现了...不可行。 -- Goodbye, Ranger. Your ideals have turned out... not viable.}
 ### {104}{}{Sorry, but this lady needs to cool down a bit.}
 {104}{}{对不起，这位女士需要冷静一下。 -- Sorry, but this lady needs to cool down a bit.}
 ### {105}{}{Glad to see you in good health. But I'm not in the mood to talk right now-the evil sown by the Brotherhood still glows in the wastelands.}
@@ -99,7 +99,7 @@
 ### {250}{}{Times are hard in my native village. We need the Rangers' help.}
 {250}{}{在我的家乡，日子不好过。我们需要游骑兵队的帮助。 -- Times are hard in my native village. We need the Rangers' help.}
 ### {251}{}{Hard times... This can be said about almost any settlement in Arizona and California. But unlike ordinary inhabitants, we really have the opportunity to fight for the rights of people in the wastelands.}
-{251}{}{艰难时期。。。亚利桑那州和加利福尼亚州的几乎所有定居点都可以这样说。但与普通居民不同的是，我们确实有机会为荒原上人们的权利而战。 -- Hard times... This can be said about almost any settlement in Arizona and California. But unlike ordinary inhabitants, we really have the opportunity to fight for the rights of people in the wastelands.}
+{251}{}{艰难时期...亚利桑那州和加利福尼亚州的几乎所有定居点都可以这样说。但与普通居民不同的是，我们确实有机会为荒原上人们的权利而战。 -- Hard times... This can be said about almost any settlement in Arizona and California. But unlike ordinary inhabitants, we really have the opportunity to fight for the rights of people in the wastelands.}
 ### {252}{}{[Next]}
 {252}{}{[下一个 -- Next]}
 ### {253}{}{Maintaining order requires serious investments in training rangers, equipping squads and patrols, intelligence and combat operations. Not everyone can invest in such an alliance, but we try to respond to everyone.}
@@ -118,7 +118,7 @@
 {259}{}{我们能够从任何合作中受益。有些人可以建造房屋，有些人可以种植作物，有些人是优秀的学员。有了正确的方法，每个人都可以对社会有用。 -- We are able to benefit from any cooperation. Some can build homes, others can grow crops, and some make good cadets. With the right approach, everyone can become useful to society.}
 
 ### {260}{}{Villa... The Rangers have always respected your independence. But you've always stayed away from the rest of the world. When we needed food in the hungry years, you drove us away. Now you're asking for help. Tell me, who sent you to us?}
-{260}{}{别墅。。。游骑兵队一直尊重你的独立性。但你总是远离世界其他地方。当我们在饥饿的年代需要食物时，你把我们赶走了。现在你在寻求帮助。告诉我，是谁派你来的？ -- Villa... The Rangers have always respected your independence. But you've always stayed away from the rest of the world. When we needed food in the hungry years, you drove us away. Now you're asking for help. Tell me, who sent you to us?}
+{260}{}{别墅...游骑兵队一直尊重你的独立性。但你总是远离世界其他地方。当我们在饥饿的年代需要食物时，你把我们赶走了。现在你在寻求帮助。告诉我，是谁派你来的？ -- Villa... The Rangers have always respected your independence. But you've always stayed away from the rest of the world. When we needed food in the hungry years, you drove us away. Now you're asking for help. Tell me, who sent you to us?}
 ### {261}{}{The community council has decided that it is time to conclude an alliance with you.}
 {261}{}{社区委员会决定是时候和你们结成联盟了。 -- The community council has decided that it is time to conclude an alliance with you.}
 ### {262}{}{Nobody. Many peasants were enslaved and taken to Flagstaff.}
@@ -129,7 +129,7 @@
 {264}{}{我是在未经社区同意的情况下来到这里的。 -- I am here without the consent of the community.}
 
 ### {270}{}{That's how... Well, an alliance with the Villa would be very useful, because now we need food more than ever. But I'm afraid the arrogance of your relatives will spoil the blood of our fighters.}
-{270}{}{这就是为什么。。。和维拉结盟会非常有用，因为现在我们比以往任何时候都更需要食物。但我担心你们亲属的傲慢会破坏我们战士的鲜血。 -- That's how... Well, an alliance with the Villa would be very useful, because now we need food more than ever. But I'm afraid the arrogance of your relatives will spoil the blood of our fighters.}
+{270}{}{这就是为什么...和维拉结盟会非常有用，因为现在我们比以往任何时候都更需要食物。但我担心你们亲属的傲慢会破坏我们战士的鲜血。 -- That's how... Well, an alliance with the Villa would be very useful, because now we need food more than ever. But I'm afraid the arrogance of your relatives will spoil the blood of our fighters.}
 ### {271}{}{It's hard to argue with this. And yet you are ready to help us?}
 {271}{}{对此很难争辩。你准备好帮助我们了吗？ -- It's hard to argue with this. And yet you are ready to help us?}
 ### {272}{}{I don't care about your fighters. I'm only interested in saving the Villa.}
@@ -139,7 +139,7 @@
 ### {274}{}{Problems are my little hobby, General.}
 {274}{}{将军，问题是我的小爱好。 -- Problems are my little hobby, General.}
 ### {275}{}{Talk to Commander Helford. Perhaps he will allocate people to live in the Villa. And then we will discuss the terms of the union... if your community really wants it.}
-{275}{}{和赫尔福德指挥官谈谈。也许他会派人住在别墅里。然后我们将讨论工会的条款。。。如果你的社区真的想要的话。 -- Talk to Commander Helford. Perhaps he will allocate people to live in the Villa. And then we will discuss the terms of the union... if your community really wants it.}
+{275}{}{和赫尔福德指挥官谈谈。也许他会派人住在别墅里。然后我们将讨论工会的条款...如果你的社区真的想要的话。 -- Talk to Commander Helford. Perhaps he will allocate people to live in the Villa. And then we will discuss the terms of the union... if your community really wants it.}
 ### {276}{}{Thank you, General. I'll talk to Helford.}
 {276}{}{谢谢你，将军。我会和赫尔福德谈谈。 -- Thank you, General. I'll talk to Helford.}
 ### {277}{}{Not yet. Keep in mind that you will have to be our right hand in negotiations with the peasants. Your task is to convince them of our friendliness and the need for an alliance.}
@@ -152,7 +152,7 @@
 ### {280}{}{Commander Helford has approved my request to protect the Villa.}
 {280}{}{指挥官赫尔福德已经批准了我保护别墅的请求。 -- Commander Helford has approved my request to protect the Villa.}
 ### {281}{}{(nods his head significantly and ponders the answer for a while) Times are changing...}
-{281}{}{（明显地点了点头，思考了一会儿答案）时代在变。。。 -- (nods his head significantly and ponders the answer for a while) Times are changing...}
+{281}{}{（明显地点了点头，思考了一会儿答案）时代在变... -- (nods his head significantly and ponders the answer for a while) Times are changing...}
 ### {282}{}{Eh, what?}
 {282}{}{呃，什么？ -- Eh, what?}
 ### {283}{}{[Listen]}
@@ -172,7 +172,7 @@
 ### {290}{}{How do you know so much about us?}
 {290}{}{你怎么知道我们这么多？ -- How do you know so much about us?}
 ### {291}{}{We collect information about any settlements in the wastelands. It's part of our job. Besides, the leader of your community has already visited us once... What was his name? Adolf... no, Andres Tejada.}
-{291}{}{我们收集荒地上任何定居点的信息。这是我们工作的一部分。此外，你们社区的领导已经来过我们一次了。。。他叫什么名字？阿道夫。。。不，安德烈斯·特贾达。 -- We collect information about any settlements in the wastelands. It's part of our job. Besides, the leader of your community has already visited us once... What was his name? Adolf... no, Andres Tejada.}
+{291}{}{我们收集荒地上任何定居点的信息。这是我们工作的一部分。此外，你们社区的领导已经来过我们一次了...他叫什么名字？阿道夫...不，安德烈斯·特贾达。 -- We collect information about any settlements in the wastelands. It's part of our job. Besides, the leader of your community has already visited us once... What was his name? Adolf... no, Andres Tejada.}
 ### {292}{}{That's my father! I didn't know that he had left the community so far away.}
 {292}{}{那是我爸爸！我不知道他离开了这么远的社区。 -- That's my father! I didn't know that he had left the community so far away.}
 ### {1292}{}{That's my father! I didn't know that he had left the community so far away.}
@@ -204,7 +204,7 @@
 ### {305}{}{So this is your merit? Well, Ranger Jackson was let down by inexperience - on the way back he got lost and wandered through the desert for a long time until he found one of our abandoned outposts. We never found out the exact coordinates, and combing a whole dangerous area in search of burrows was too big a task.}
 {305}{}{这就是你的优点？流浪者杰克逊因缺乏经验而失望——在回来的路上，他迷路了，在沙漠中徘徊了很长一段时间，直到他找到了我们一个废弃的前哨基地。我们从来没有找到确切的坐标，在整个危险区域搜寻洞穴的任务太大了。 -- So this is your merit? Well, Ranger Jackson was let down by inexperience - on the way back he got lost and wandered through the desert for a long time until he found one of our abandoned outposts. We never found out the exact coordinates, and combing a whole dangerous area in search of burrows was too big a task.}
 ### {306}{}{It turns out that even a ranger is primarily concerned with survival...}
-{306}{}{事实证明，即使是护林员也主要关心生存。。。 -- It turns out that even a ranger is primarily concerned with survival...}
+{306}{}{事实证明，即使是护林员也主要关心生存... -- It turns out that even a ranger is primarily concerned with survival...}
 ### {307}{}{Trust me. I am the only source of information for you.}
 {307}{}{相信我，我是你唯一的信息来源。 -- Trust me. I am the only source of information for you.}
 ### {308}{}{So, where is this base?}
@@ -214,7 +214,7 @@
 ### {310}{}{I need to check the maps. Wait a bit.}
 {310}{}{我需要查一下地图。等一下。 -- I need to check the maps. Wait a bit.}
 ### {311}{}{Yes, it seems to be true. I think we should do some scouting there. And after finding the base... destroy it.}
-{311}{}{是的，这似乎是真的。我认为我们应该在那里做一些侦察。找到基地后。。。摧毁它。 -- Yes, it seems to be true. I think we should do some scouting there. And after finding the base... destroy it.}
+{311}{}{是的，这似乎是真的。我认为我们应该在那里做一些侦察。找到基地后...摧毁它。 -- Yes, it seems to be true. I think we should do some scouting there. And after finding the base... destroy it.}
 ### {312}{}{Great plan. These jackals don't deserve their place in the sun. Destroy them all!}
 {312}{}{伟大的计划。这些豺狼不配在阳光下占有一席之地。毁灭他们！ -- Great plan. These jackals don't deserve their place in the sun. Destroy them all!}
 ### {313}{}{Good. A guide will be useful to us in this operation. Participation will allow you to collect trophies. Agree to help?}
@@ -244,9 +244,9 @@
 ### {323}{}{Goodbye.}
 {323}{}{再见 -- Goodbye.}
 ### {324}{}{You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them with something. So do you agree?}
-{324}{}{你可以站着看着。。。看着你的救世主和保护者被杀害。或者你可以拿起武器帮他们做点什么。你同意吗？ -- You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them with something. So do you agree?}
+{324}{}{你可以站着看着...看着你的救世主和保护者被杀害。或者你可以拿起武器帮他们做点什么。你同意吗？ -- You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them with something. So do you agree?}
 ### {1324}{}{You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them with something. So do you agree?}
-{1324}{}{你可以站着看着。。。看着你的救世主和保护者被杀害。或者你可以拿起武器帮他们做点什么。你同意吗？ -- You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them with something. So do you agree?}
+{1324}{}{你可以站着看着...看着你的救世主和保护者被杀害。或者你可以拿起武器帮他们做点什么。你同意吗？ -- You can just stand and watch... Watch as your saviors and protectors are killed. Or you can take up arms and help them with something. So do you agree?}
 ### {325}{}{Well, you know better what to do next.}
 {325}{}{好吧，你更清楚下一步该做什么。 -- Well, you know better what to do next.}
 ### {326}{}{OK. Then we'll manage on our own. Thank you for the information.}
@@ -284,9 +284,9 @@
 ### {342}{}{Numerous murders of refugees on the grounds of distrust of outsiders. He dumped their bodies into the aqueduct shafts.}
 {342}{}{多次以不信任外来者为由谋杀难民。他把他们的尸体倒进了输水渠。 -- Numerous murders of refugees on the grounds of distrust of outsiders. He dumped their bodies into the aqueduct shafts.}
 ### {343}{}{Can you show them? In this case, we have a big trial ahead of us. We'll take Garth into custody. Thanks for the information... although this news crushes me. Especially in such a difficult time.}
-{343}{}{你能给他们看吗？在这种情况下，我们将面临一场重大的审判。我们将拘留加思。谢谢你提供的信息。。。尽管这个消息让我很伤心，尤其是在这样一个困难的时刻。 -- Can you show them? In this case, we have a big trial ahead of us. We'll take Garth into custody. Thanks for the information... although this news crushes me. Especially in such a difficult time.}
+{343}{}{你能给他们看吗？在这种情况下，我们将面临一场重大的审判。我们将拘留加思。谢谢你提供的信息...尽管这个消息让我很伤心，尤其是在这样一个困难的时刻。 -- Can you show them? In this case, we have a big trial ahead of us. We'll take Garth into custody. Thanks for the information... although this news crushes me. Especially in such a difficult time.}
 ### {344}{}{Yes, I understand... Goodbye, General.}
-{344}{}{是的，我理解。。。再见，将军。 -- Yes, I understand... Goodbye, General.}
+{344}{}{是的，我理解...再见，将军。 -- Yes, I understand... Goodbye, General.}
 
 #Ranger Title
 ### {350}{}{I want to join the ranks of the Rangers.}
@@ -338,11 +338,11 @@
 ### {369}{}{[CHEAT: I deserve this title, General]}
 {369}{}{[CHEAT：我配得上这个称号，将军 -- CHEAT: I deserve this title, General]}
 ### {370}{}{Well, such a list inspires confidence. Let me take a look at the report of your actions... Yes, our scouts collect information about some "outstanding" personalities. Don't worry, it's just part of the general routine.}
-{370}{}{好吧，这样的清单激发了人们的信心。让我看看你的行动报告。。。是的，我们的球探收集一些“杰出”人物的信息。别担心，这只是日常生活的一部分。 -- Well, such a list inspires confidence. Let me take a look at the report of your actions... Yes, our scouts collect information about some "outstanding" personalities. Don't worry, it's just part of the general routine.}
+{370}{}{好吧，这样的清单激发了人们的信心。让我看看你的行动报告...是的，我们的球探收集一些“杰出”人物的信息。别担心，这只是日常生活的一部分。 -- Well, such a list inspires confidence. Let me take a look at the report of your actions... Yes, our scouts collect information about some "outstanding" personalities. Don't worry, it's just part of the general routine.}
 ### {371}{}{Hmm. Okay...}
-{371}{}{好吧。。。 -- Hmm. Okay...}
+{371}{}{好吧... -- Hmm. Okay...}
 ### {372}{}{It looks like your reputation in the wastelands is going against your actions. Many consider you... not a decent enough person.}
-{372}{}{你在荒原上的名声似乎与你的行为背道而驰。许多人认为你。。。不是一个足够体面的人。 -- It looks like your reputation in the wastelands is going against your actions. Many consider you... not a decent enough person.}
+{372}{}{你在荒原上的名声似乎与你的行为背道而驰。许多人认为你...不是一个足够体面的人。 -- It looks like your reputation in the wastelands is going against your actions. Many consider you... not a decent enough person.}
 ### {373}{}{You know what the mores are there. You won't please everyone.}
 {373}{}{你知道那里有什么习俗。你不会取悦所有人的。 -- You know what the mores are there. You won't please everyone.}
 ### {374}{}{Do the Rangers take into account the opinion of dirty beggars? Don't make me laugh.}
@@ -352,7 +352,7 @@
 ### {376}{}{Over time, they will think better of me.}
 {376}{}{随着时间的推移，他们会对我有更好的评价。 -- Over time, they will think better of me.}
 ### {377}{}{I'm not thrilled with some of the rangers either. But I'm not running with reports to the general. Here are the s-s-bitches...}
-{377}{}{我对一些护林员也不太满意。但我并没有向将军报告。这里是s-s-bitches。。。 -- I'm not thrilled with some of the rangers either. But I'm not running with reports to the general. Here are the s-s-bitches...}
+{377}{}{我对一些护林员也不太满意。但我并没有向将军报告。这里是s-s-bitches... -- I'm not thrilled with some of the rangers either. But I'm not running with reports to the general. Here are the s-s-bitches...}
 ### {378}{}{They're talking about your connection with the mainline. Sometimes it's worth staying away from the bad guys.}
 {378}{}{他们在谈论你与主线的联系。有时候，远离坏人是值得的。 -- They're talking about your connection with the mainline. Sometimes it's worth staying away from the bad guys.}
 ### {379}{}{They're not bad guys, believe me, General.}
@@ -431,7 +431,7 @@
 ### {428}{}{Why did you dam the waters of Colorado?}
 {428}{}{你为什么要在科罗拉多州筑坝？ -- Why did you dam the waters of Colorado?}
 ### {429}{}{(sighs mockingly) This dam has been standing here for a long time. It uses water pressure to generate electricity... I hope you know what it is. We have only restored the work of the dam and turned it into a fort for protection from enemies and bad weather.}
-{429}{}{（嘲讽地叹了口气）这座大坝已经在这里矗立了很长时间。它利用水压发电。。。我希望你知道它是什么。我们只是修复了大坝，把它变成了防御敌人和恶劣天气的堡垒。 -- (sighs mockingly) This dam has been standing here for a long time. It uses water pressure to generate electricity... I hope you know what it is. We have only restored the work of the dam and turned it into a fort for protection from enemies and bad weather.}
+{429}{}{（嘲讽地叹了口气）这座大坝已经在这里矗立了很长时间。它利用水压发电...我希望你知道它是什么。我们只是修复了大坝，把它变成了防御敌人和恶劣天气的堡垒。 -- (sighs mockingly) This dam has been standing here for a long time. It uses water pressure to generate electricity... I hope you know what it is. We have only restored the work of the dam and turned it into a fort for protection from enemies and bad weather.}
 ### {430}{}{But you have taken the only place to cross the Colorado for miles around.}
 {430}{}{但你已经走了唯一一个穿越科罗拉多河数英里的地方。 -- But you have taken the only place to cross the Colorado for miles around.}
 ### {431}{}{Roadblocks allow you to save the dam and the power plant from stupid commoners. This is a unique equipment, it is critically important for us and for the surrounding lands. And to cross the river there is a ferry downstream with very reasonable prices.}
@@ -463,11 +463,11 @@
 ### {454}{}{You're welcome.}
 {454}{}{不客气。 -- You're welcome.}
 ### {455}{}{Well, well. Very curious. We have been monitoring this database for a long time and we know that the Cathedral is somehow connected with it. This secret report clarifies the situation a little... I don't understand why you're giving it to us?}
-{455}{}{嗯，嗯。非常好奇。我们已经监控这个数据库很长时间了，我们知道大教堂在某种程度上与之有关。这份秘密报告稍微澄清了情况。。。我不明白你为什么要给我们？ -- Well, well. Very curious. We have been monitoring this database for a long time and we know that the Cathedral is somehow connected with it. This secret report clarifies the situation a little... I don't understand why you're giving it to us?}
+{455}{}{嗯，嗯。非常好奇。我们已经监控这个数据库很长时间了，我们知道大教堂在某种程度上与之有关。这份秘密报告稍微澄清了情况...我不明白你为什么要给我们？ -- Well, well. Very curious. We have been monitoring this database for a long time and we know that the Cathedral is somehow connected with it. This secret report clarifies the situation a little... I don't understand why you're giving it to us?}
 ### {456}{}{Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
-{456}{}{就说我。。。对圣火的想法感到失望。 -- Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
+{456}{}{就说我...对圣火的想法感到失望。 -- Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
 ### {1456}{}{Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
-{1456}{}{就说我。。。对圣火的想法感到失望。 -- Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
+{1456}{}{就说我...对圣火的想法感到失望。 -- Let's just say I'm... disappointed in the ideas of the Sacred Fire.}
 ### {457}{}{I have a personal score to settle with this Cathedral. They patronized the slaveholders who captured my relatives.}
 {457}{}{我对这座大教堂有个人的不满。他们资助那些俘虏我亲戚的奴隶主。 -- I have a personal score to settle with this Cathedral. They patronized the slaveholders who captured my relatives.}
 ### {458}{}{Well, that sounds convincing. Thank you for your assistance, this information can be very valuable.}
@@ -552,7 +552,7 @@
 ### {495}{}{Of course.}
 {495}{}{当然 -- Of course.}
 ### {496}{}{So how did it end in San Brahmin? Waiting for the full report...}
-{496}{}{那么它是如何在圣婆罗门结束的呢？正在等待完整报告。。。 -- So how did it end in San Brahmin? Waiting for the full report...}
+{496}{}{那么它是如何在圣婆罗门结束的呢？正在等待完整报告... -- So how did it end in San Brahmin? Waiting for the full report...}
 ### {497}{}{[Report]}
 {497}{}{[汇报 -- Report]}
 ### {498}{}{Great job. Thanks to us, the tribe gained freedom. This victory will show everyone else how useful the Rangers are. Not to mention the much-needed supply of brahmin meat now.}
@@ -750,9 +750,9 @@
 ### {628}{}{You know, I was released only because I was offered a similar task.}
 {628}{}{你知道，我被释放只是因为我得到了类似的任务。 -- You know, I was released only because I was offered a similar task.}
 ### {629}{}{That's how... And what did you decide? Whose side are you on?}
-{629}{}{这就是为什么。。。你做了什么决定？你站在谁一边？ -- That's how... And what did you decide? Whose side are you on?}
+{629}{}{这就是为什么...你做了什么决定？你站在谁一边？ -- That's how... And what did you decide? Whose side are you on?}
 ### {1629}{}{That's how... And what did you decide? Whose side are you on?}
-{1629}{}{这就是为什么。。。你做了什么决定？你站在谁一边？ -- That's how... And what did you decide? Whose side are you on?}
+{1629}{}{这就是为什么...你做了什么决定？你站在谁一边？ -- That's how... And what did you decide? Whose side are you on?}
 ### {630}{}{Of course, on yours, General.}
 {630}{}{当然是你的，将军。 -- Of course, on yours, General.}
 ### {631}{}{Then do me a favor - use the trust you have gained to destroy our common enemy.}

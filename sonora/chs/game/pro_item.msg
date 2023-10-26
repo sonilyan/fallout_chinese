@@ -250,7 +250,7 @@
 ### {6200}{}{Dried meat}
 {6200}{}{肉干}
 ### {6201}{}{These dried and smoked pieces of meat remain edible and even to some extent nutritious for many, many, many years... Effects: +4 health.}
-{6201}{}{这些干的和烟熏过的肉块在很多年里仍然可以食用，甚至在某种程度上有营养。。。效果：+4健康。}
+{6201}{}{这些干的和烟熏过的肉块在很多年里仍然可以食用，甚至在某种程度上有营养...效果：+4健康。}
 ### {6300}{}{Pre-war noodles}
 {6300}{}{战前面条}
 ### {6301}{}{Canned pasta of a brand widely known before the War. Oddly enough, they can still be eaten. Effects: +7 health.}
@@ -371,7 +371,7 @@
 ### {9200}{}{The poisonous gland}
 {9200}{}{毒腺}
 ### {9201}{}{A fragment of the tail of a radscorpion, which contains some meat... and iron with a strong poison.}
-{9201}{}{一个蛇蝎尾巴的碎片，里面有一些肉。。。铁与剧毒。}
+{9201}{}{一个蛇蝎尾巴的碎片，里面有一些肉...铁与剧毒。}
 ### {9300}{}{Trinity}
 {9300}{}{三一}
 ### {9301}{}{A mineral formed from sand at the epicenter of a nuclear explosion. Nothing at first glance remarkable, but deadly with its radioactivity, an object.}
@@ -1302,7 +1302,7 @@
 ### {32400}{}{Newspaper vending machine}
 {32400}{}{报纸自动售货机}
 ### {32401}{}{This newspaper machine is probably empty... or not.}
-{32401}{}{这台报机可能是空的。。。是否。}
+{32401}{}{这台报机可能是空的...是否。}
 ### {32500}{}{The raiders' belongings}
 {32500}{}{袭击者的财物}
 ### {32501}{}{Fortunately for you, the raiders forgot these things before leaving.}
@@ -1679,11 +1679,11 @@
 ### {41800}{}{Access card}
 {41800}{}{门禁卡}
 ### {41801}{}{Electronic access card from the Vault 25. The access level is limited.}
-{41801}{}{保险库25的电子访问卡。访问级别是有限的。}
+{41801}{}{25号避难所的电子访问卡。访问级别是有限的。}
 ### {41900}{}{Access card}
 {41900}{}{门禁卡}
 ### {41901}{}{Electronic access card from the Vault 25. The admission level is the highest.}
-{41901}{}{保险库25的电子访问卡。录取水平最高。}
+{41901}{}{25号避难所的电子访问卡。录取水平最高。}
 ### {42000}{}{Access card}
 {42000}{}{门禁卡}
 ### {42001}{}{Electronic access card from the Vault 27.}

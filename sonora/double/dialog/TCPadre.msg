@@ -21,7 +21,7 @@
 ### {202}{}{How did you manage to find us?}
 {202}{}{你是怎么找到我们的？ -- How did you manage to find us?}
 ### {203}{}{Well, I had to run through the desert...}
-{203}{}{嗯，我不得不跑过沙漠。。。 -- Well, I had to run through the desert...}
+{203}{}{嗯，我不得不跑过沙漠... -- Well, I had to run through the desert...}
 ### {204}{}{Don't you understand the situation we're in?! Your place should not be here, but at home!}
 {204}{}{你不明白我们现在的处境吗？！你的位置不应该在这里，而应该在家里！ -- Don't you understand the situation we're in?! Your place should not be here, but at home!}
 ### {205}{}{The villa is gradually being restored. I managed to rescue those who were in Flagstaff from slavery.}
@@ -73,7 +73,7 @@
 ### {235}{}{Are there other slaves here?}
 {235}{}{这里还有其他奴隶吗？ -- Are there other slaves here?}
 ### {236}{}{There is a survivor's camp not far from the bunker. But he didn't want to cooperate with us. He doesn't seem to be right in the head. And he looks pretty... painful.}
-{236}{}{在离地堡不远的地方有一个幸存者营地。但他不想和我们合作。他似乎头脑不清醒。他看起来很漂亮。。。痛苦的 -- There is a survivor's camp not far from the bunker. But he didn't want to cooperate with us. He doesn't seem to be right in the head. And he looks pretty... painful.}
+{236}{}{在离地堡不远的地方有一个幸存者营地。但他不想和我们合作。他似乎头脑不清醒。他看起来很漂亮...痛苦的 -- There is a survivor's camp not far from the bunker. But he didn't want to cooperate with us. He doesn't seem to be right in the head. And he looks pretty... painful.}
 ### {237}{}{How can robots be bypassed?}
 {237}{}{如何绕过机器人？ -- How can robots be bypassed?}
 ### {238}{}{These creatures are smarter than mole rats. They hide in dark corners or in the sand, you won't see them right away. But you can hear them from ten yards away. And it also looks like they're reacting to movement. If you move slowly or stand behind, they may not notice you.}
@@ -90,11 +90,11 @@
 ### {243}{}{Our ancestors taught us to be afraid of old technology. They said she was unreliable and dangerous. All right. Have you already come across things that can explode in your hands or harm your health with invisible radiation? I've heard stories of entire settlements dying out from excessive attachment to technology. And in the wrong hands, old things become a weapon.}
 {243}{}{我们的祖先教导我们要害怕旧技术。他们说她不可靠而且危险。好吧你是否已经遇到过会在你手中爆炸或通过隐形辐射危害你健康的东西？我听说过整个定居点因过度依赖技术而消亡的故事。在坏人手中，旧东西变成了武器。 -- Our ancestors taught us to be afraid of old technology. They said she was unreliable and dangerous. All right. Have you already come across things that can explode in your hands or harm your health with invisible radiation? I've heard stories of entire settlements dying out from excessive attachment to technology. And in the wrong hands, old things become a weapon.}
 ### {244}{}{Familiar stories...}
-{244}{}{熟悉的故事。。。 -- Familiar stories...}
+{244}{}{熟悉的故事... -- Familiar stories...}
 ### {245}{}{Remember Flagstaff. Remember how easily a group of stupid bandits enslaved an entire settlement only thanks to their weapons and electric collars. All this equipment must be destroyed! All without exception!}
 {245}{}{记住Flagstaff。记住，一群愚蠢的土匪仅仅凭借他们的武器和电项圈就轻而易举地奴役了整个定居点。所有这些设备都必须销毁！无一例外！ -- Remember Flagstaff. Remember how easily a group of stupid bandits enslaved an entire settlement only thanks to their weapons and electric collars. All this equipment must be destroyed! All without exception!}
 ### {246}{}{It's worth thinking about...}
-{246}{}{值得思考的是。。。 -- It's worth thinking about...}
+{246}{}{值得思考的是... -- It's worth thinking about...}
 ### {247}{}{And what about your pneumoculac? I could use it.}
 {247}{}{你的肺炎球菌呢？我可以用它。 -- And what about your pneumoculac? I could use it.}
 ### {248}{}{Will you leave the old man unprotected? (bitter laugh) Okay, we have one hope left - for you.}
@@ -165,7 +165,7 @@
 ### {310}{}{Bye, Padre.}
 {310}{}{再见，神父。 -- Bye, Padre.}
 ### {311}{}{Meanwhile, find Carlos and try to reason with him. The tinsmiths won this fool over to their side, filled his head with nonsense. In case of failure... It must be eliminated. Do you understand? Perhaps I'm asking too much, but imagine the danger he poses to the whole Villa now.}
-{311}{}{同时，找到卡洛斯，试着和他讲道理。铁匠们把这个傻瓜吸引到他们身边，让他的脑子里充满了胡言乱语。如果出现故障。。。它必须被消除。你明白吗？也许我要求太多了，但想象一下他现在对整个维拉构成的危险。 -- Meanwhile, find Carlos and try to reason with him. The tinsmiths won this fool over to their side, filled his head with nonsense. In case of failure... It must be eliminated. Do you understand? Perhaps I'm asking too much, but imagine the danger he poses to the whole Villa now.}
+{311}{}{同时，找到卡洛斯，试着和他讲道理。铁匠们把这个傻瓜吸引到他们身边，让他的脑子里充满了胡言乱语。如果出现故障...它必须被消除。你明白吗？也许我要求太多了，但想象一下他现在对整个维拉构成的危险。 -- Meanwhile, find Carlos and try to reason with him. The tinsmiths won this fool over to their side, filled his head with nonsense. In case of failure... It must be eliminated. Do you understand? Perhaps I'm asking too much, but imagine the danger he poses to the whole Villa now.}
 ### {312}{}{I understand, Padre. Rely on me.}
 {312}{}{我理解，神父。靠我。 -- I understand, Padre. Rely on me.}
 ### {313}{}{Kill your kinsman? I'm definitely not going to do that. But it's worth talking to him.}

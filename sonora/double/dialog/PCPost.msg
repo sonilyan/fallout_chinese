@@ -69,7 +69,7 @@
 ### {232}{}{This is a courier delivery service. Does the sign outside mean anything to you?}
 {232}{}{这是快递服务。外面的标志对你有意义吗？ -- This is a courier delivery service. Does the sign outside mean anything to you?}
 ### {233}{}{Such a service is not much... unusual, considering the scorched desert around. What are you transporting?}
-{233}{}{这样的服务并不多。。。考虑到周围烧焦的沙漠，这是不寻常的。你在运输什么？ -- Such a service is not much... unusual, considering the scorched desert around. What are you transporting?}
+{233}{}{这样的服务并不多...考虑到周围烧焦的沙漠，这是不寻常的。你在运输什么？ -- Such a service is not much... unusual, considering the scorched desert around. What are you transporting?}
 ### {234}{}{We are ready to transfer anything, even a dead flea, if the right price is paid for it. Are you just curious or are you ready to place an order?}
 {234}{}{如果价格合适，我们准备转移任何东西，即使是一只死跳蚤。你只是好奇还是准备下订单？ -- We are ready to transfer anything, even a dead flea, if the right price is paid for it. Are you just curious or are you ready to place an order?}
 ### {235}{}{Perhaps. I want to know more.}
@@ -140,7 +140,7 @@
 ### {308}{}{Yes, bye.}
 {308}{}{是的，再见。 -- Yes, bye.}
 ### {309}{}{Robbers, slums... No, I won't take that risk for some caps.}
-{309}{}{强盗，贫民窟。。。不，我不会为了一些帽子而冒这个险。 -- Robbers, slums... No, I won't take that risk for some caps.}
+{309}{}{强盗，贫民窟...不，我不会为了一些帽子而冒这个险。 -- Robbers, slums... No, I won't take that risk for some caps.}
 ### {310}{}{Of course I understand. Have a nice day.}
 {310}{}{我当然理解。祝你今天愉快。 -- Of course I understand. Have a nice day.}
 ### {311}{}{Yes, bye.}
@@ -156,14 +156,14 @@
 ### {316}{}{I came across someone's letters. It doesn't look like they reached the recipients.}
 {316}{}{我偶然发现有人的信。看起来他们没有联系到收件人。 -- I came across someone's letters. It doesn't look like they reached the recipients.}
 ### {317}{}{Let me see... Ah, finally! These letters were considered lost after our courier was robbed in the slums. You have no idea what a service you have rendered us.}
-{317}{}{让我看看。。。啊，终于！我们的快递员在贫民窟遭到抢劫后，这些信件被认为是丢失的。你根本不知道你为我们提供了什么样的服务。 -- Let me see... Ah, finally! These letters were considered lost after our courier was robbed in the slums. You have no idea what a service you have rendered us.}
+{317}{}{让我看看...啊，终于！我们的快递员在贫民窟遭到抢劫后，这些信件被认为是丢失的。你根本不知道你为我们提供了什么样的服务。 -- Let me see... Ah, finally! These letters were considered lost after our courier was robbed in the slums. You have no idea what a service you have rendered us.}
 ### {318}{}{You're welcome. Is there a fee due for the find?}
 {318}{}{不客气。这个发现需要付费吗？ -- You're welcome. Is there a fee due for the find?}
 
 ### {320}{}{Are these the letters in question? They were taken over by a man from the gang of Red Cardinals.}
 {320}{}{这些是有问题的信件吗？他们被红雀队的一个人接管了。 -- Are these the letters in question? They were taken over by a man from the gang of Red Cardinals.}
 ### {321}{}{Ah, finally! You have no idea what kind of service you are providing us. Let me see... Yes, it's them.}
-{321}{}{啊，终于！你根本不知道你在为我们提供什么样的服务。让我看看。。。是的，是他们。 -- Ah, finally! You have no idea what kind of service you are providing us. Let me see... Yes, it's them.}
+{321}{}{啊，终于！你根本不知道你在为我们提供什么样的服务。让我看看...是的，是他们。 -- Ah, finally! You have no idea what kind of service you are providing us. Let me see... Yes, it's them.}
 ### {322}{}{And my caps?}
 {322}{}{我的帽子呢？ -- And my caps?}
 ### {323}{}{Of course, here are 50 caps. You know what, I'll pay you another 25 caps for their delivery. More precisely, for the delivery of one of these letters. It is addressed to a certain Steve, who lives in those very dangerous slums. It looks like you manage to walk there safely, and we just need *guaranteed* delivery.}
@@ -196,7 +196,7 @@
 ### {338}{}{Read the contract. You signed it. And there's nothing to shout here now.}
 {338}{}{阅读合同。你签了字。现在这里没有什么可喊的了。 -- Read the contract. You signed it. And there's nothing to shout here now.}
 ### {339}{}{Wh... how... Ur-rh.}
-{339}{}{为什么。。。怎样Ur-rh。 -- Wh... how... Ur-rh.}
+{339}{}{为什么...怎样Ur-rh。 -- Wh... how... Ur-rh.}
 ### {340}{}{Well, that's fair. There are no complaints.}
 {340}{}{这很公平。没有人抱怨。 -- Well, that's fair. There are no complaints.}
 ### {341}{}{[Leave the office with a sense of accomplishment]}

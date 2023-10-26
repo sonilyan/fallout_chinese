@@ -92,7 +92,7 @@
 ### {152}{}{Someday we will change the Wastelands.}
 {152}{}{总有一天我们会改变荒原。 -- Someday we will change the Wastelands.}
 ### {153}{}{It would be great to have a car on the move...}
-{153}{}{如果有一辆车在行驶，那就太好了。。。 -- It would be great to have a car on the move...}
+{153}{}{如果有一辆车在行驶，那就太好了... -- It would be great to have a car on the move...}
 ### {154}{}{It's high time to deal with these bloodthirsty Jackals.}
 {154}{}{是时候对付这些嗜血的豺狼了。 -- It's high time to deal with these bloodthirsty Jackals.}
 ### {155}{}{The red threat is rising in the east.}
@@ -146,7 +146,7 @@
 ### {186}{}{I can't wait to hear your story about the new lands.}
 {186}{}{我迫不及待地想听听你关于新土地的故事。 -- I can't wait to hear your story about the new lands.}
 ### {187}{}{It would be great to have a car on the move...}
-{187}{}{如果有一辆车在行驶，那就太好了。。。 -- It would be great to have a car on the move...}
+{187}{}{如果有一辆车在行驶，那就太好了... -- It would be great to have a car on the move...}
 ### {188}{}{Someday we will change the Wastelands.}
 {188}{}{总有一天我们会改变荒原。 -- Someday we will change the Wastelands.}
 ### {189}{}{Don't let the hucksters fool you.}

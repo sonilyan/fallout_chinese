@@ -31,7 +31,7 @@
 {208}{}{好啊 -- OK.}
 
 ### {210}{}{Wait, what... Is that makeup?}
-{210}{}{等等，什么。。。那是化妆品吗？ -- Wait, what... Is that makeup?}
+{210}{}{等等，什么...那是化妆品吗？ -- Wait, what... Is that makeup?}
 ### {211}{}{This is real leather. A little green, but you can live.}
 {211}{}{这是真皮的。有点绿，但你可以活着。 -- This is real leather. A little green, but you can live.}
 ### {212}{}{With such jokes, you are seriously risking.}
@@ -89,7 +89,7 @@
 ### {246}{}{But he has to pay me for the work.}
 {246}{}{但他得付我工钱。 -- But he has to pay me for the work.}
 ### {247}{}{Then do what he says. He needs the culprits - find them. How to do it? That's bad luck... You know, most likely the bombers penetrated through the sewers. But I thought we sealed all the entrances well.}
-{247}{}{那就照他说的去做。他需要罪犯——找到他们。怎么做？那是坏运气。。。你知道，轰炸机很可能穿过下水道。但我认为我们把所有的入口都封得很好。 -- Then do what he says. He needs the culprits - find them. How to do it? That's bad luck... You know, most likely the bombers penetrated through the sewers. But I thought we sealed all the entrances well.}
+{247}{}{那就照他说的去做。他需要罪犯——找到他们。怎么做？那是坏运气...你知道，轰炸机很可能穿过下水道。但我认为我们把所有的入口都封得很好。 -- Then do what he says. He needs the culprits - find them. How to do it? That's bad luck... You know, most likely the bombers penetrated through the sewers. But I thought we sealed all the entrances well.}
 ### {248}{}{Good idea. This needs to be checked.}
 {248}{}{好主意这需要检查。 -- Good idea. This needs to be checked.}
 ### {249}{}{Most likely, the bombers penetrated through the sewers. But it seemed to me that we had sealed all the passages well.}
@@ -102,7 +102,7 @@
 ### {252}{}{Oh no, we just started the fun. Now you will see the real power of the Old World!}
 {252}{}{哦，不，我们刚开始玩。现在你将看到旧世界的真正力量！ -- Oh no, we just started the fun. Now you will see the real power of the Old World!}
 ### {253}{}{Don't, don't do this...}
-{253}{}{不要，不要这样。。。 -- Don't, don't do this...}
+{253}{}{不要，不要这样... -- Don't, don't do this...}
 ### {254}{}{It's worse for you, you idiot.}
 {254}{}{这对你来说更糟，你这个白痴。 -- It's worse for you, you idiot.}
 ### {255}{}{Listen to me, Ralph. Everything was bad from the very beginning. You were used.}
@@ -137,7 +137,7 @@
 ### {270}{}{I know that the cardinals acted through you. There was information about this in the Cathedral.}
 {270}{}{我知道红衣主教是通过你行事的。大教堂里有关于这件事的信息。 -- I know that the cardinals acted through you. There was information about this in the Cathedral.}
 ### {271}{}{Keep your voice down, there's no need for such rudeness. So, let's go to a secluded place...}
-{271}{}{小声点，没必要这么粗鲁。所以，让我们去一个僻静的地方。。。 -- Keep your voice down, there's no need for such rudeness. So, let's go to a secluded place...}
+{271}{}{小声点，没必要这么粗鲁。所以，让我们去一个僻静的地方... -- Keep your voice down, there's no need for such rudeness. So, let's go to a secluded place...}
 ### {272}{}{[Next]}
 {272}{}{[下一个 -- Next]}
 ### {273}{}{I understand that you have connections with the fire worshippers, otherwise how did you get information about our secret contract?}

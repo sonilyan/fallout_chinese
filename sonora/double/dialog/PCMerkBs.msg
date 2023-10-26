@@ -13,7 +13,7 @@
 ### {201}{}{Perhaps.}
 {201}{}{可能 -- Perhaps.}
 ### {202}{}{...}
-{202}{}{。。。 -- ...}
+{202}{}{... -- ...}
 
 ### {210}{}{I'll be damned, what's wrong with your skin?}
 {210}{}{我会被诅咒的，你的皮肤怎么了？ -- I'll be damned, what's wrong with your skin?}
@@ -41,25 +41,25 @@
 ### {221}{}{Why are you suddenly so nice?}
 {221}{}{你为什么突然这么好？ -- Why are you suddenly so nice?}
 ### {222}{}{Obviously, you deserve good treatment... sir.}
-{222}{}{显然，你应该得到良好的待遇。。。先生 -- Obviously, you deserve good treatment... sir.}
+{222}{}{显然，你应该得到良好的待遇...先生 -- Obviously, you deserve good treatment... sir.}
 ### {1222}{}{Obviously, you deserve good treatment... ma'am.}
-{1222}{}{显然，你应该得到良好的待遇。。。夫人。 -- Obviously, you deserve good treatment... ma'am.}
+{1222}{}{显然，你应该得到良好的待遇...夫人。 -- Obviously, you deserve good treatment... ma'am.}
 ### {223}{}{Well, well, here's our new star. You allow yourself too much in this city. Do you think you can get away with it?}
 {223}{}{好吧，好吧，这是我们的新星。你在这个城市太放纵自己了。你认为你能逃脱惩罚吗？ -- Well, well, here's our new star. You allow yourself too much in this city. Do you think you can get away with it?}
 ### {224}{}{The townspeople are so mean and mean. We peasants are much better.}
 {224}{}{镇上的人太卑鄙了。我们农民好多了。 -- The townspeople are so mean and mean. We peasants are much better.}
 ### {225}{}{You shouldn't have crawled out of your desert. I will return your body to the sands... a dead body.}
-{225}{}{你不应该爬出你的沙漠。我会把你的尸体放回沙滩。。。一具尸体。 -- You shouldn't have crawled out of your desert. I will return your body to the sands... a dead body.}
+{225}{}{你不应该爬出你的沙漠。我会把你的尸体放回沙滩...一具尸体。 -- You shouldn't have crawled out of your desert. I will return your body to the sands... a dead body.}
 ### {226}{}{What are you...}
-{226}{}{你是什么。。。 -- What are you...}
+{226}{}{你是什么... -- What are you...}
 ### {227}{}{I will defend myself.}
 {227}{}{我会为自己辩护。 -- I will defend myself.}
 ### {228}{}{I survive as best I can. It's not for you to judge me.}
 {228}{}{我尽我所能生存下去。你不能评判我。 -- I survive as best I can. It's not for you to judge me.}
 ### {229}{}{Oh no. The city pays me to catch criminals. And you're one of them. Guys... (gives a sign)}
-{229}{}{哦，不。这个城市付钱给我捉拿罪犯。而你就是其中之一。伙计们。。。（示意） -- Oh no. The city pays me to catch criminals. And you're one of them. Guys... (gives a sign)}
+{229}{}{哦，不。这个城市付钱给我捉拿罪犯。而你就是其中之一。伙计们...（示意） -- Oh no. The city pays me to catch criminals. And you're one of them. Guys... (gives a sign)}
 ### {230}{}{Don't do this, Bruce...}
-{230}{}{别这样，布鲁斯。。。 -- Don't do this, Bruce...}
+{230}{}{别这样，布鲁斯... -- Don't do this, Bruce...}
 ### {231}{}{I will defend myself.}
 {231}{}{我会为自己辩护。 -- I will defend myself.}
 ### {232}{}{I don't want a fight. Let's make a deal?}
@@ -122,13 +122,13 @@
 {259}{}{（慢慢地把手放在机枪上，凝视着你的眼睛）滚出我的办公室。 -- (slowly puts his hand on his machine gun, peering into your eyes) Get out of my office.}
 
 ### {260}{}{Welcome back... Stop. Show me your neck. These are the marks from the collar. It's strange for a runaway slave to come here. What do you want, slave?}
-{260}{}{欢迎回来。。。停止让我看看你的脖子。这些是衣领上的印记。一个逃跑的奴隶来到这里真奇怪。你想要什么，奴隶？ -- Welcome back... Stop. Show me your neck. These are the marks from the collar. It's strange for a runaway slave to come here. What do you want, slave?}
+{260}{}{欢迎回来...停止让我看看你的脖子。这些是衣领上的印记。一个逃跑的奴隶来到这里真奇怪。你想要什么，奴隶？ -- Welcome back... Stop. Show me your neck. These are the marks from the collar. It's strange for a runaway slave to come here. What do you want, slave?}
 ### {261}{}{Don't call me that. Or you'll regret it.}
 {261}{}{别那样叫我。否则你会后悔的。 -- Don't call me that. Or you'll regret it.}
 ### {262}{}{You don't seem to understand your precarious position. Guys... (gives a sign)}
-{262}{}{你似乎不了解自己岌岌可危的处境。伙计们。。。（示意） -- You don't seem to understand your precarious position. Guys... (gives a sign)}
+{262}{}{你似乎不了解自己岌岌可危的处境。伙计们...（示意） -- You don't seem to understand your precarious position. Guys... (gives a sign)}
 ### {263}{}{Not in the face...}
-{263}{}{不是在脸上。。。 -- Not in the face...}
+{263}{}{不是在脸上... -- Not in the face...}
 ### {264}{}{I will kill all the slavers in Arizona.}
 {264}{}{我要杀死亚利桑那州所有的奴隶主。 -- I will kill all the slavers in Arizona.}
 ### {265}{}{I want my freedom back. The tinkerers treated me badly.}
@@ -159,7 +159,7 @@
 ### {277}{}{They have a lot of enemies, that's right.}
 {277}{}{他们有很多敌人，没错。 -- They have a lot of enemies, that's right.}
 ### {278}{}{You know too much, Bruce. I'm sorry, but I'm going to have to keep you quiet...}
-{278}{}{你知道的太多了，布鲁斯。对不起，我得让你安静。。。 -- You know too much, Bruce. I'm sorry, but I'm going to have to keep you quiet...}
+{278}{}{你知道的太多了，布鲁斯。对不起，我得让你安静... -- You know too much, Bruce. I'm sorry, but I'm going to have to keep you quiet...}
 
 ### {280}{}{This is the armor of the mainline workers. Where did you get it from?}
 {280}{}{这是主线工人的盔甲。你从哪里得到的？ -- This is the armor of the mainline workers. Where did you get it from?}
@@ -241,9 +241,9 @@
 ### {317}{}{And the free one?}
 {317}{}{那免费的呢？ -- And the free one?}
 ### {318}{}{It will take some time...}
-{318}{}{这需要一些时间。。。 -- It will take some time...}
+{318}{}{这需要一些时间... -- It will take some time...}
 ### {319}{}{I'll wait...}
-{319}{}{我会等着。。。 -- I'll wait...}
+{319}{}{我会等着... -- I'll wait...}
 ### {320}{}{Done. You're officially free now. Congratulations. Appreciate your second chance.}
 {320}{}{完成。你现在正式自由了。祝贺感谢你的第二次机会。 -- Done. You're officially free now. Congratulations. Appreciate your second chance.}
 ### {1320}{}{Done. You're officially free now. Congratulations. Appreciate your second chance.}
@@ -344,11 +344,11 @@
 ### {370}{}{I'm looking for slaves originally from Villa.}
 {370}{}{我在寻找来自维拉的奴隶。 -- I'm looking for slaves originally from Villa.}
 ### {371}{}{Villa... It doesn't mean anything to me.}
-{371}{}{别墅。。。这对我来说没有任何意义。 -- Villa... It doesn't mean anything to me.}
+{371}{}{别墅...这对我来说没有任何意义。 -- Villa... It doesn't mean anything to me.}
 ### {372}{}{I'm looking for slaves originally from the Villa. They were brought here from Flagstaff.}
 {372}{}{我在寻找来自别墅的奴隶。他们是从弗拉格斯塔夫带到这里的。 -- I'm looking for slaves originally from the Villa. They were brought here from Flagstaff.}
 ### {373}{}{Villa... It doesn't mean anything to me. If these slaves have been to Flagstaff, it won't be easy to find them.}
-{373}{}{别墅。。。这对我来说没有任何意义。如果这些奴隶去过弗拉格斯塔夫，就不容易找到他们。 -- Villa... It doesn't mean anything to me. If these slaves have been to Flagstaff, it won't be easy to find them.}
+{373}{}{别墅...这对我来说没有任何意义。如果这些奴隶去过弗拉格斯塔夫，就不容易找到他们。 -- Villa... It doesn't mean anything to me. If these slaves have been to Flagstaff, it won't be easy to find them.}
 ### {374}{}{I see. Sorry to bother you.}
 {374}{}{我明白了。很抱歉打扰你。 -- I see. Sorry to bother you.}
 ### {375}{}{Eh, we'll have to figure everything out on our own again. Goodbye.}
@@ -403,9 +403,9 @@
 ### {400}{}{I'm interested in finding criminals. For whom and how much do they pay?}
 {400}{}{我对寻找罪犯很感兴趣。他们为谁付了多少钱？ -- I'm interested in finding criminals. For whom and how much do they pay?}
 ### {401}{}{(sigh) Another bounty hunter...}
-{401}{}{（叹气）又是一个赏金猎人。。。 -- (sigh) Another bounty hunter...}
+{401}{}{（叹气）又是一个赏金猎人... -- (sigh) Another bounty hunter...}
 ### {1401}{}{A bounty hunter in a lace apron? Where are we going...}
-{1401}{}{一个穿着蕾丝围裙的赏金猎人？我们要去哪里。。。 -- A bounty hunter in a lace apron? Where are we going...}
+{1401}{}{一个穿着蕾丝围裙的赏金猎人？我们要去哪里... -- A bounty hunter in a lace apron? Where are we going...}
 ### {402}{}{Is something wrong?}
 {402}{}{有什么不对劲吗？ -- Is something wrong?}
 ### {1402}{}{Ahem. Should I remind you that your security guard is a woman?}
@@ -487,7 +487,7 @@
 ### {443}{}{It's a little weird. But it is even more strange that the chieftains had the same brand as you and your mercenaries.}
 {443}{}{这有点奇怪。但更奇怪的是，酋长们与你和你的雇佣兵有着相同的品牌。 -- It's a little weird. But it is even more strange that the chieftains had the same brand as you and your mercenaries.}
 ### {444}{}{Hmm. It had to be revealed sometime... We have embellished their legend a little. In fact, these three worked as mercenaries in our guild. They learned a lot here. But having felt the power and authority over people, they stopped being interested in honest work.}
-{444}{}{嗯，总有一天会揭晓的。。。我们对他们的传说做了一些修饰。事实上，这三个人在我们公会当过雇佣兵。他们在这里学到了很多。但在感受到了对人的权力和权威后，他们不再对诚实的工作感兴趣。 -- Hmm. It had to be revealed sometime... We have embellished their legend a little. In fact, these three worked as mercenaries in our guild. They learned a lot here. But having felt the power and authority over people, they stopped being interested in honest work.}
+{444}{}{嗯，总有一天会揭晓的...我们对他们的传说做了一些修饰。事实上，这三个人在我们公会当过雇佣兵。他们在这里学到了很多。但在感受到了对人的权力和权威后，他们不再对诚实的工作感兴趣。 -- Hmm. It had to be revealed sometime... We have embellished their legend a little. In fact, these three worked as mercenaries in our guild. They learned a lot here. But having felt the power and authority over people, they stopped being interested in honest work.}
 ### {445}{}{You should have warned me about this.}
 {445}{}{你应该警告我这件事的。 -- You should have warned me about this.}
 ### {446}{}{These people are a disgrace to the guild. We cannot allow our reputation to suffer because of them.}

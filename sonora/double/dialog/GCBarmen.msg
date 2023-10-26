@@ -41,9 +41,9 @@
 ### {221}{}{Listen, I've got a lot of trash in my pockets here. Take a look, which of these can be useful?}
 {221}{}{听着，我口袋里有很多垃圾。看看，其中哪些有用？ -- Listen, I've got a lot of trash in my pockets here. Take a look, which of these can be useful?}
 ### {222}{}{Wait a minute, I'm rummaging in my pockets...}
-{222}{}{等一下，我在口袋里翻找。。。 -- Wait a minute, I'm rummaging in my pockets...}
+{222}{}{等一下，我在口袋里翻找... -- Wait a minute, I'm rummaging in my pockets...}
 ### {223}{}{(you dump pocket garbage on the counter, the bartender is perplexed sorting through this stuff) If I had such pockets, I would have become rich a long time ago. Look, there's a pre-war bill here, a couple of caps and a cartridge. With all this you can buy... a whole tail from a fried iguana, ha ha!}
-{223}{}{（你把口袋里的垃圾倒在柜台上，酒保在整理这些东西时很困惑）如果我有这样的口袋，我早就发财了。看，这里有一张战前账单，几顶帽子和一个子弹。有了这些，你可以买到。。。炸鬣蜥的整条尾巴，哈哈！ -- (you dump pocket garbage on the counter, the bartender is perplexed sorting through this stuff) If I had such pockets, I would have become rich a long time ago. Look, there's a pre-war bill here, a couple of caps and a cartridge. With all this you can buy... a whole tail from a fried iguana, ha ha!}
+{223}{}{（你把口袋里的垃圾倒在柜台上，酒保在整理这些东西时很困惑）如果我有这样的口袋，我早就发财了。看，这里有一张战前账单，几顶帽子和一个子弹。有了这些，你可以买到...炸鬣蜥的整条尾巴，哈哈！ -- (you dump pocket garbage on the counter, the bartender is perplexed sorting through this stuff) If I had such pockets, I would have become rich a long time ago. Look, there's a pre-war bill here, a couple of caps and a cartridge. With all this you can buy... a whole tail from a fried iguana, ha ha!}
 ### {224}{}{Ugh, finally, at least some benefit from this garbage.}
 {224}{}{啊，最后，至少从这些垃圾中得到了一些好处。 -- Ugh, finally, at least some benefit from this garbage.}
 
@@ -114,7 +114,7 @@
 ### {261}{}{Why are you paying with caps here? We usually sell something *useful*.}
 {261}{}{你为什么在这里用上限付款？我们通常卖一些有用的东西。 -- Why are you paying with caps here? We usually sell something *useful*.}
 ### {262}{}{Ah, you're from the wasteland. I don't know the whole story myself, but in big cities they came up with the idea of using caps as currency. It's like money before the Great War... You don't know anything about money either? Well... In general, this is all for exchange.}
-{262}{}{啊，你来自荒原。我自己不知道整个故事，但在大城市，他们想出了用上限作为货币的主意。这就像大战前的钱。。。你对钱也一无所知？好总的来说，这都是为了交换。 -- Ah, you're from the wasteland. I don't know the whole story myself, but in big cities they came up with the idea of using caps as currency. It's like money before the Great War... You don't know anything about money either? Well... In general, this is all for exchange.}
+{262}{}{啊，你来自荒原。我自己不知道整个故事，但在大城市，他们想出了用上限作为货币的主意。这就像大战前的钱...你对钱也一无所知？好总的来说，这都是为了交换。 -- Ah, you're from the wasteland. I don't know the whole story myself, but in big cities they came up with the idea of using caps as currency. It's like money before the Great War... You don't know anything about money either? Well... In general, this is all for exchange.}
 ### {263}{}{[Next]}
 {263}{}{[下一个 -- Next]}
 ### {264}{}{However, the bottlecaps have taken root only in large cities, and in the wastelands they are rarely used.}
@@ -158,7 +158,7 @@
 ### {286}{}{And you're having trouble counting cash, right?}
 {286}{}{你数现金有困难，对吧？ -- And you're having trouble counting cash, right?}
 ### {287}{}{...}
-{287}{}{。。。 -- ...}
+{287}{}{... -- ...}
 ### {288}{}{Hey, guys! A newcomer from the wasteland wishes to introduce himself. It's at his expense.}
 {288}{}{嘿，伙计们！一位来自荒原的新来者希望自我介绍。这是以他为代价的。 -- Hey, guys! A newcomer from the wasteland wishes to introduce himself. It's at his expense.}
 ### {1288}{}{Hey, guys! A stranger from the wasteland wants to introduce herself. It's at her expense.}
@@ -253,7 +253,7 @@
 ### {339}{}{Looks like you're all tied up here.}
 {339}{}{看来你们都被绑在这里了。 -- Looks like you're all tied up here.}
 ### {340}{}{Really? You know, there are rumors about you... not particularly flattering.}
-{340}{}{真正地你知道，有传言说你。。。不是特别讨人喜欢。 -- Really? You know, there are rumors about you... not particularly flattering.}
+{340}{}{真正地你知道，有传言说你...不是特别讨人喜欢。 -- Really? You know, there are rumors about you... not particularly flattering.}
 ### {341}{}{Seriously? I didn't notice something.}
 {341}{}{认真地我没有注意到什么。 -- Seriously? I didn't notice something.}
 ### {1341}{}{Seriously? I didn't notice something.}
@@ -352,7 +352,7 @@
 ### {414}{}{Your people, uh, fell to a wild brahmin. He was stronger than anyone could have imagined.}
 {414}{}{你们的人民，呃，堕落到一个野蛮的婆罗门。他比任何人想象的都强壮。 -- Your people, uh, fell to a wild brahmin. He was stronger than anyone could have imagined.}
 ### {415}{}{Damn it. No meat, no people. Eh, it looks like the hungry season is waiting for us again...}
-{415}{}{该死，没有肉，没有人。呃，看来饥饿的季节又在等着我们了。。。 -- Damn it. No meat, no people. Eh, it looks like the hungry season is waiting for us again...}
+{415}{}{该死，没有肉，没有人。呃，看来饥饿的季节又在等着我们了... -- Damn it. No meat, no people. Eh, it looks like the hungry season is waiting for us again...}
 ### {416}{}{Is it really that bad?}
 {416}{}{真的那么糟糕吗？ -- Is it really that bad?}
 ### {417}{}{So you know what really happened there. You're not going to talk about it, are you?}
@@ -414,7 +414,7 @@
 ### {444}{}{There will be no caravans. San Brahmin made an alliance with the Rangers.}
 {444}{}{不会有大篷车。圣婆罗门与游骑兵结盟。 -- There will be no caravans. San Brahmin made an alliance with the Rangers.}
 ### {445}{}{It's bad... The city will not last long on the meat of coyotes and iguanas.}
-{445}{}{这很糟糕。。。这座城市靠郊狼和鬣蜥的肉撑不了多久。 -- It's bad... The city will not last long on the meat of coyotes and iguanas.}
+{445}{}{这很糟糕...这座城市靠郊狼和鬣蜥的肉撑不了多久。 -- It's bad... The city will not last long on the meat of coyotes and iguanas.}
 ### {446}{}{And what should we do now?}
 {446}{}{我们现在该怎么办？ -- And what should we do now?}
 ### {447}{}{So now buy meat from the rangers.}

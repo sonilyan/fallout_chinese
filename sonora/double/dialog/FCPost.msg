@@ -5,7 +5,7 @@
 ### {102}{}{Z-z-z}
 {102}{}{Z-Z-Z -- Z-z-z}
 ### {103}{}{Sorry, we're closed. In these parts, no one needs our services anymore...}
-{103}{}{抱歉，我们关门了。在这些地方，没有人需要我们的服务了。。。 -- Sorry, we're closed. In these parts, no one needs our services anymore...}
+{103}{}{抱歉，我们关门了。在这些地方，没有人需要我们的服务了... -- Sorry, we're closed. In these parts, no one needs our services anymore...}
 
 #Replicas when a prisoner is attacked
 ### {120}{}{Please calm down!}
@@ -15,7 +15,7 @@
 ### {122}{}{Don't touch anything here!}
 {122}{}{不要碰这里的任何东西！ -- Don't touch anything here!}
 ### {123}{}{Listen, I really feel for you...}
-{123}{}{听着，我真的很同情你。。。 -- Listen, I really feel for you...}
+{123}{}{听着，我真的很同情你... -- Listen, I really feel for you...}
 ### {124}{}{I really can't help you!}
 {124}{}{我真的帮不了你！ -- I really can't help you!}
 ### {125}{}{Please go away, I have nothing!}
@@ -33,7 +33,7 @@
 ### {200}{}{(you see a woman in an unusually decent outfit; it looks like she is watching herself and looks down on others)}
 {200}{}{（你看到一个女人穿着异常得体的衣服；看起来她在监视自己，看不起别人） -- (you see a woman in an unusually decent outfit; it looks like she is watching herself and looks down on others)}
 ### {201}{}{My respects, Miss...}
-{201}{}{尊敬的女士。。。 -- My respects, Miss...}
+{201}{}{尊敬的女士... -- My respects, Miss...}
 ### {202}{}{Hey, hello.}
 {202}{}{嘿，你好。 -- Hey, hello.}
 ### {203}{}{En Brandley. And call me Mrs..}
@@ -110,9 +110,9 @@
 {249}{}{这份合同的可靠性如何？ -- How reliable is this contract?}
 
 ### {250}{}{You sure can... write?}
-{250}{}{你当然可以。。。写 -- You sure can... write?}
+{250}{}{你当然可以...写 -- You sure can... write?}
 ### {251}{}{Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I really don't have enough practice.}
-{251}{}{比这个城市的大多数“识字”居民要好得多。我参加了火的追随者的课程。。。但我真的没有足够的练习。 -- Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I really don't have enough practice.}
+{251}{}{比这个城市的大多数“识字”居民要好得多。我参加了火的追随者的课程...但我真的没有足够的练习。 -- Much better than most of the "literate" residents of the city. I took courses with the Followers of Fire... But I really don't have enough practice.}
 ### {252}{}{Uh, yes, of course.}
 {252}{}{当然可以。 -- Uh, yes, of course.}
 ### {253}{}{We transport parcels once a month. And the cases of their loss can be counted on the fingers. We have experienced couriers. They know the terrain and ways of survival well. In case of loss of the parcel, you can claim compensation.}

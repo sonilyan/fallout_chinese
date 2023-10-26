@@ -133,7 +133,7 @@
 ### {164}{}{You have discovered a small town surrounded by green plantations. There is a lot of life in this oasis.}
 {164}{}{你发现了一个被绿色种植园包围的小镇。这片绿洲里有很多生命。 -- You have discovered a small town surrounded by green plantations. There is a lot of life in this oasis.}
 ### {165}{}{In the middle of the desert there is a huge plantation. So familiar to you and at the same time so alien landscape...}
-{165}{}{在沙漠中央有一个巨大的种植园。你是如此熟悉，同时又是如此陌生。。。 -- In the middle of the desert there is a huge plantation. So familiar to you and at the same time so alien landscape...}
+{165}{}{在沙漠中央有一个巨大的种植园。你是如此熟悉，同时又是如此陌生... -- In the middle of the desert there is a huge plantation. So familiar to you and at the same time so alien landscape...}
 ### {166}{}{}
 {166}{}{error : string is empty -- }
 ### {167}{}{A deserted highway leads you to a bandit's lair. It looks like no one is waiting for you here.}

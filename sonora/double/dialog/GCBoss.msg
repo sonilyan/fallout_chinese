@@ -25,7 +25,7 @@
 ### {113}{}{*Burp*}
 {113}{}{*打嗝* -- *Burp*}
 ### {114}{}{Damn heartburn...}
-{114}{}{该死的烧心。。。 -- Damn heartburn...}
+{114}{}{该死的烧心... -- Damn heartburn...}
 ### {115}{}{ }
 {115}{}{error : string is empty --  }
 ### {116}{}{ }
@@ -45,13 +45,13 @@
 ### {122}{}{Larry, for fuck's sake! Why the hell are you breaking into my office?}
 {122}{}{拉里，看在他妈的份上！你为什么闯进我的办公室？ -- Larry, for fuck's sake! Why the hell are you breaking into my office?}
 ### {123}{}{What's the matter? No one dares to break into my office...}
-{123}{}{怎么了？没有人敢闯入我的办公室。。。 -- What's the matter? No one dares to break into my office...}
+{123}{}{怎么了？没有人敢闯入我的办公室... -- What's the matter? No one dares to break into my office...}
 ### {124}{}{Mr. Kogan! There, in the dormitory, a serious mess began!}
 {124}{}{Kogan先生！在宿舍里，一片狼藉开始了！ -- Mr. Kogan! There, in the dormitory, a serious mess began!}
 ### {125}{}{Well, what else can happen in this hole? Probably another drunken brawl.}
 {125}{}{这个洞里还能发生什么？可能又是一场酒后斗殴。 -- Well, what else can happen in this hole? Probably another drunken brawl.}
 ### {126}{}{No, it doesn't look like it. I didn't understand the reason for the fight, I immediately ran here...}
-{126}{}{不，看起来不像。我不明白打架的原因，我马上跑过来。。。 -- No, it doesn't look like it. I didn't understand the reason for the fight, I immediately ran here...}
+{126}{}{不，看起来不像。我不明白打架的原因，我马上跑过来... -- No, it doesn't look like it. I didn't understand the reason for the fight, I immediately ran here...}
 ### {127}{}{So go figure it out, idiot!}
 {127}{}{去想办法吧，白痴！ -- So go figure it out, idiot!}
 
@@ -90,7 +90,7 @@
 ### {184}{}{You'll have to work hard to earn my respect. It all depends on you.}
 {184}{}{你必须努力工作才能赢得我的尊重。这一切都取决于你。 -- You'll have to work hard to earn my respect. It all depends on you.}
 ### {185}{}{That's how...}
-{185}{}{这就是为什么。。。 -- That's how...}
+{185}{}{这就是为什么... -- That's how...}
 ### {186}{}{He started it first! I was just defending myself.}
 {186}{}{他先开始的！我只是在为自己辩护。 -- He started it first! I was just defending myself.}
 ### {1186}{}{He started it first! I was just defending myself.}
@@ -99,7 +99,7 @@
 {187}{}{这是我们对他的不满。它们与你无关。 -- This is our grater with him. They don't concern you.}
 
 ### {190}{}{You again... (sigh) Do you know about the Rangers? I hate these guys. They're always poking their noses into other people's business, as if the whole wasteland belongs to them. You're not going to do the same in *my* city, are you?}
-{190}{}{你又。。。（叹气）你知道游骑兵队吗？我讨厌这些家伙。他们总是对别人的事情嗤之以鼻，好像整个荒地都属于他们。你不会在我的城市做同样的事，是吗？ -- You again... (sigh) Do you know about the Rangers? I hate these guys. They're always poking their noses into other people's business, as if the whole wasteland belongs to them. You're not going to do the same in *my* city, are you?}
+{190}{}{你又...（叹气）你知道游骑兵队吗？我讨厌这些家伙。他们总是对别人的事情嗤之以鼻，好像整个荒地都属于他们。你不会在我的城市做同样的事，是吗？ -- You again... (sigh) Do you know about the Rangers? I hate these guys. They're always poking their noses into other people's business, as if the whole wasteland belongs to them. You're not going to do the same in *my* city, are you?}
 ### {191}{}{No, Mr. Kogan. I'm here solely on business.}
 {191}{}{不，Kogan先生。我来这里只是出差。 -- No, Mr. Kogan. I'm here solely on business.}
 ### {192}{}{OK. I think we understand each other. Don't forget who this place belongs to.}
@@ -178,7 +178,7 @@
 {223}{}{这不是我要问的。 -- That's not what I'm asking.}
 
 ### {230}{}{These scavengers can be unbearable when they get drunk... Listen, if you're going to stay in town, you're going to need my protection. And now a great opportunity has turned up to show itself.}
-{230}{}{这些拾荒者喝醉了会让人难以忍受。。。听着，如果你要留在城里，你需要我的保护。现在出现了一个展示自己的大好机会。 -- These scavengers can be unbearable when they get drunk... Listen, if you're going to stay in town, you're going to need my protection. And now a great opportunity has turned up to show itself.}
+{230}{}{这些拾荒者喝醉了会让人难以忍受...听着，如果你要留在城里，你需要我的保护。现在出现了一个展示自己的大好机会。 -- These scavengers can be unbearable when they get drunk... Listen, if you're going to stay in town, you're going to need my protection. And now a great opportunity has turned up to show itself.}
 ### {231}{}{Are you suggesting I calm down the workers?}
 {231}{}{你是在建议我让工人们冷静下来吗？ -- Are you suggesting I calm down the workers?}
 ### {232}{}{Go to the dorm and find out what happened there. I don't need any extra problems in the city.}
@@ -268,7 +268,7 @@
 ### {276}{}{It's not like you want to come back.}
 {276}{}{你好像不想回来。 -- It's not like you want to come back.}
 ### {277}{}{I'm afraid we have some with the main office... disagreements.}
-{277}{}{恐怕我们总公司有一些。。。分歧。 -- I'm afraid we have some with the main office... disagreements.}
+{277}{}{恐怕我们总公司有一些...分歧。 -- I'm afraid we have some with the main office... disagreements.}
 ### {278}{}{What is your cartel doing?}
 {278}{}{你们的卡特尔在干什么？ -- What is your cartel doing?}
 ### {279}{}{Mainly extracts minerals from old ruins. For a hundred years after the Great War, many things have deteriorated, but some have survived and can be useful to society. We also try to fix some things, but things are much more complicated with this.}
@@ -349,7 +349,7 @@
 ### {339}{}{Well, that was very stupid of you. Get out of my town. And you won't get any reward.}
 {339}{}{你真是太愚蠢了。滚出我的城市。而且你不会得到任何奖励。 -- Well, that was very stupid of you. Get out of my town. And you won't get any reward.}
 ### {340}{}{...}
-{340}{}{。。。 -- ...}
+{340}{}{... -- ...}
 ### {341}{}{ Yes. I'm with you.}
 {341}{}{对我支持你。 --  Yes. I'm with you.}
 ### {342}{}{Very good. Get ready for the meeting, take everything you need. And then come back to me.}
@@ -415,7 +415,7 @@
 ### {382}{}{What about the Villa and the raiders?}
 {382}{}{别墅和袭击者呢？ -- What about the Villa and the raiders?}
 ### {383}{}{And you still won't calm down... The slave convoy has gone to the city of Flagstaff, it is located to the east, a week away from here. Go along the 40th federal highway, you won't miss.}
-{383}{}{你还是不会冷静下来。。。奴隶车队已经前往弗拉格斯塔夫市，该市位于东部，距离这里一周路程。沿着40号联邦高速公路走，你不会错过的。 -- And you still won't calm down... The slave convoy has gone to the city of Flagstaff, it is located to the east, a week away from here. Go along the 40th federal highway, you won't miss.}
+{383}{}{你还是不会冷静下来...奴隶车队已经前往弗拉格斯塔夫市，该市位于东部，距离这里一周路程。沿着40号联邦高速公路走，你不会错过的。 -- And you still won't calm down... The slave convoy has gone to the city of Flagstaff, it is located to the east, a week away from here. Go along the 40th federal highway, you won't miss.}
 ### {384}{}{Great, now I'm going to deal with these damn raiders.}
 {384}{}{太好了，现在我要对付这些该死的袭击者。 -- Great, now I'm going to deal with these damn raiders.}
 ### {385}{}{I hope there will be something to spend the earned caps on.}

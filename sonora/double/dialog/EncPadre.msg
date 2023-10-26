@@ -38,7 +38,7 @@
 ### {223}{}{Who are you?}
 {223}{}{你是谁？ -- Who are you?}
 ### {224}{}{My name is Fred Stadtmaller. I am engaged in spreading the word of God in these lands. Just as before the Great War, the clergy of the Catholic Church were engaged in this... But many have already forgotten this and see me as just a strange person.}
-{224}{}{我的名字叫弗雷德·斯塔德马勒。我致力于在这些土地上传播上帝的话语。就像大战前一样，天主教会的神职人员也参与了这项工作。。。但许多人已经忘记了这一点，并将我视为一个陌生的人。 -- My name is Fred Stadtmaller. I am engaged in spreading the word of God in these lands. Just as before the Great War, the clergy of the Catholic Church were engaged in this... But many have already forgotten this and see me as just a strange person.}
+{224}{}{我的名字叫弗雷德·斯塔德马勒。我致力于在这些土地上传播上帝的话语。就像大战前一样，天主教会的神职人员也参与了这项工作...但许多人已经忘记了这一点，并将我视为一个陌生的人。 -- My name is Fred Stadtmaller. I am engaged in spreading the word of God in these lands. Just as before the Great War, the clergy of the Catholic Church were engaged in this... But many have already forgotten this and see me as just a strange person.}
 ### {225}{}{One more question, please.}
 {225}{}{请再问一个问题。 -- One more question, please.}
 ### {226}{}{Who gave you this rank, priest?}
@@ -61,7 +61,7 @@
 ### {240}{}{How did you learn to control an iron bird?}
 {240}{}{你是怎么学会控制铁鸟的？ -- How did you learn to control an iron bird?}
 ### {241}{}{Ancient books store not only knowledge about civil aviation... But what am I talking about if Phoenix and other settlements lived by candlelight a few years ago.}
-{241}{}{古籍不仅保存着有关民航的知识。。。但是，如果几年前凤凰城和其他定居点靠烛光生活，我在说什么呢。 -- Ancient books store not only knowledge about civil aviation... But what am I talking about if Phoenix and other settlements lived by candlelight a few years ago.}
+{241}{}{古籍不仅保存着有关民航的知识...但是，如果几年前凤凰城和其他定居点靠烛光生活，我在说什么呢。 -- Ancient books store not only knowledge about civil aviation... But what am I talking about if Phoenix and other settlements lived by candlelight a few years ago.}
 
 ### {250}{}{Yes, I need your help.}
 {250}{}{是的，我需要你的帮助。 -- Yes, I need your help.}
@@ -80,13 +80,13 @@
 ### {257}{}{I want to repent, Holy Father. There have been many transgressions in my past.}
 {257}{}{我想忏悔，圣父。在我的过去有许多违法行为。 -- I want to repent, Holy Father. There have been many transgressions in my past.}
 ### {258}{}{I will not relieve you of your burden. But I can make it easier. Get down on your knees, my child....}
-{258}{}{我不会减轻你的负担。但我可以让它变得更容易。跪下来，我的孩子。。。。 -- I will not relieve you of your burden. But I can make it easier. Get down on your knees, my child....}
+{258}{}{我不会减轻你的负担。但我可以让它变得更容易。跪下来，我的孩子...。 -- I will not relieve you of your burden. But I can make it easier. Get down on your knees, my child....}
 ### {259}{}{Thank you, Padre.}
 {259}{}{谢谢你，神父。 -- Thank you, Padre.}
 ### {260}{}{I need all your stuff. Come on, give me everything you've got. And take off your clothes too.}
 {260}{}{我需要你所有的东西。来吧，把你所有的都给我。还脱下你的衣服。 -- I need all your stuff. Come on, give me everything you've got. And take off your clothes too.}
 ### {261}{}{May Saint Joseph forgive you...}
-{261}{}{愿圣约瑟夫原谅你。。。 -- May Saint Joseph forgive you...}
+{261}{}{愿圣约瑟夫原谅你... -- May Saint Joseph forgive you...}
 ### {262}{}{Shut up.}
 {262}{}{闭嘴。 -- Shut up.}
 ### {263}{}{I'm tired of the cactus society and I want to get back to people. Can you carry me on your iron bird?}

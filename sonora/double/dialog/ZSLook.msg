@@ -28,7 +28,7 @@
 ### {204}{}{This computer is so ancient that its parts are completely rusty. It hasn't been used for at least forty years. This is not surprising for the Villa.}
 {204}{}{这台电脑太古老了，它的零件都生锈了。它至少有四十年没用了。这对维拉来说并不奇怪。 -- This computer is so ancient that its parts are completely rusty. It hasn't been used for at least forty years. This is not surprising for the Villa.}
 ### {205}{}{The padre didn't tell me...}
-{205}{}{牧师没有告诉我。。。 -- The padre didn't tell me...}
+{205}{}{牧师没有告诉我... -- The padre didn't tell me...}
 ### {206}{}{You come to the conclusion that the symbol depicts a winged creature flying out of the fire. But this is not accurate.}
 {206}{}{你得出的结论是，这个符号描绘了一个有翅膀的生物从火中飞出来。但这并不准确。 -- You come to the conclusion that the symbol depicts a winged creature flying out of the fire. But this is not accurate.}
 ### {207}{}{This symbol was left by the raiders}
@@ -64,7 +64,7 @@
 ### {220}{}{It seems that surgical operations are sometimes performed here, and the basement hides the screams of patients.}
 {220}{}{这里似乎有时会进行外科手术，地下室里隐藏着病人的尖叫声。 -- It seems that surgical operations are sometimes performed here, and the basement hides the screams of patients.}
 ### {221}{}{And no hygiene...}
-{221}{}{而且没有卫生。。。 -- And no hygiene...}
+{221}{}{而且没有卫生... -- And no hygiene...}
 ### {222}{}{The information on the stand does not correspond to reality. It looks like this mine is from pre-war times.}
 {222}{}{看台上的信息与现实不符。看起来这个地雷是战前的。 -- The information on the stand does not correspond to reality. It looks like this mine is from pre-war times.}
 ### {223}{}{This stand is older than the colony}
@@ -86,7 +86,7 @@
 ### {230}{}{This exhibit is admired and feared at the same time.}
 {230}{}{这个展览既令人钦佩，又令人恐惧。 -- This exhibit is admired and feared at the same time.}
 ### {231}{}{It's good that there are no such monsters in the world anymore... probably.}
-{231}{}{世界上再也没有这样的怪物了，这很好。。。可能 -- It's good that there are no such monsters in the world anymore... probably.}
+{231}{}{世界上再也没有这样的怪物了，这很好...可能 -- It's good that there are no such monsters in the world anymore... probably.}
 ### {232}{}{Movie titles are written here. You've never seen them. You haven't seen any movies at all.}
 {232}{}{电影标题写在这里。你从未见过他们。你根本没看过电影。 -- Movie titles are written here. You've never seen them. You haven't seen any movies at all.}
 ### {233}{}{ }
@@ -112,7 +112,7 @@
 ### {248}{}{This statue has no signatures. We can only guess why it was put here.}
 {248}{}{这座雕像没有签名。我们只能猜测它为什么被放在这里。 -- This statue has no signatures. We can only guess why it was put here.}
 ### {249}{}{It looks quite... appropriate. For these ruins.}
-{249}{}{看起来很。。。适当的为了这些废墟。 -- It looks quite... appropriate. For these ruins.}
+{249}{}{看起来很...适当的为了这些废墟。 -- It looks quite... appropriate. For these ruins.}
 
 #Two-Sun, Vault 27
 ### {250}{}{This computer was created by tinsmiths from various components. Surprisingly, it works great.}
@@ -220,7 +220,7 @@
 ### {298}{}{This welcome index is written in two languages ? Spanish and English.}
 {298}{}{这个欢迎索引是用两种语言编写的? 西班牙语和英语。 -- This welcome index is written in two languages ? Spanish and English.}
 ### {299}{}{Probably, once these ruins were a nice place...}
-{299}{}{也许，这些废墟曾经是个不错的地方。。。 -- Probably, once these ruins were a nice place...}
+{299}{}{也许，这些废墟曾经是个不错的地方... -- Probably, once these ruins were a nice place...}
 
 ### {300}{}{This equipment is used to connect local residents with Puerto Penasco.}
 {300}{}{该设备用于连接当地居民与Puerto Penasco。 -- This equipment is used to connect local residents with Puerto Penasco.}
@@ -249,6 +249,6 @@
 ### {317}{}{It looks like some kind of code.}
 {317}{}{它看起来像某种代码。 -- It looks like some kind of code.}
 ### {318}{}{This is the first time you see a TV in action. This sight turned out to be quite enough... disappointing.}
-{318}{}{这是你第一次看到电视在运行。这景象已经足够了。。。令人失望的 -- This is the first time you see a TV in action. This sight turned out to be quite enough... disappointing.}
+{318}{}{这是你第一次看到电视在运行。这景象已经足够了...令人失望的 -- This is the first time you see a TV in action. This sight turned out to be quite enough... disappointing.}
 ### {319}{}{And this noise was watched by people in the past for some reason?}
 {319}{}{这种噪音在过去被人们看到是出于某种原因吗？ -- And this noise was watched by people in the past for some reason?}

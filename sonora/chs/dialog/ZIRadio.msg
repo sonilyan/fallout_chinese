@@ -24,7 +24,7 @@
 ### {217}{}{Listen to the frequency of the Brotherhood of Steel.}
 {217}{}{听听钢铁兄弟会的频率。}
 ### {218}{}{Listen to the emergency frequency of the Vault 27.}
-{218}{}{收听保险库27的紧急频率。}
+{218}{}{收听27号避难所的紧急频率。}
 ### {219}{}{Turn it off.}
 {219}{}{把它关掉。}
 

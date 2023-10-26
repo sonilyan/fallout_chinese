@@ -3,11 +3,11 @@
 ### {101}{}{Here is the tinsmith responsible for the warehouse. His shaved head is covered with a powerful computing helmet.}
 {101}{}{这是负责仓库的锡匠。他剃光的头上戴着一顶功能强大的电脑头盔。 -- Here is the tinsmith responsible for the warehouse. His shaved head is covered with a powerful computing helmet.}
 ### {102}{}{Power armor T51b... Curious, how did YOU manage to tame such a complex technology?}
-{102}{}{动力装甲T51b。。。好奇的是，你是如何驯服如此复杂的技术的？ -- Power armor T51b... Curious, how did YOU manage to tame such a complex technology?}
+{102}{}{动力装甲T51b...好奇的是，你是如何驯服如此复杂的技术的？ -- Power armor T51b... Curious, how did YOU manage to tame such a complex technology?}
 
 #The first dialog
 ### {200}{}{(as if not noticing you) Five thousand one hundred and eighty-six... no, it doesn't add up...}
-{200}{}{（好像没有注意到你）五千一百八十六。。。不，加起来不算。。。 -- (as if not noticing you) Five thousand one hundred and eighty-six... no, it doesn't add up...}
+{200}{}{（好像没有注意到你）五千一百八十六...不，加起来不算... -- (as if not noticing you) Five thousand one hundred and eighty-six... no, it doesn't add up...}
 ### {201}{}{Hey, what are you doing?}
 {201}{}{嘿，你在干什么？ -- Hey, what are you doing?}
 ### {202}{}{ (without looking up from the list) I am responsible for the warehouse and trade. If you're not trading, then go to our boss, he's upstairs.}
@@ -184,7 +184,7 @@
 ### {310}{}{Everything is ready. The master in Garage City has updated both the tires and the engine system. Tell me about that idea with the aviation accelerator.}
 {310}{}{一切都准备好了。车库城的师傅已经更新了轮胎和发动机系统。告诉我关于航空加速器的想法。 -- Everything is ready. The master in Garage City has updated both the tires and the engine system. Tell me about that idea with the aviation accelerator.}
 ### {311}{}{The planes used the most powerful traction systems, but I can adapt some of these parts to a motorcycle. In order for the system not to overheat, you will also need a good blowing and thermal discharge pipes. Also, a couple of new modules for the on-board computer will not hurt... And, perhaps, a better aviation lubricant.}
-{311}{}{飞机使用了最强大的牵引系统，但我可以将其中一些零件改装成摩托车。为了使系统不会过热，您还需要一个良好的吹风管和散热管。此外，车载电脑的几个新模块不会对。。。也许还有一种更好的航空润滑剂。 -- The planes used the most powerful traction systems, but I can adapt some of these parts to a motorcycle. In order for the system not to overheat, you will also need a good blowing and thermal discharge pipes. Also, a couple of new modules for the on-board computer will not hurt... And, perhaps, a better aviation lubricant.}
+{311}{}{飞机使用了最强大的牵引系统，但我可以将其中一些零件改装成摩托车。为了使系统不会过热，您还需要一个良好的吹风管和散热管。此外，车载电脑的几个新模块不会对...也许还有一种更好的航空润滑剂。 -- The planes used the most powerful traction systems, but I can adapt some of these parts to a motorcycle. In order for the system not to overheat, you will also need a good blowing and thermal discharge pipes. Also, a couple of new modules for the on-board computer will not hurt... And, perhaps, a better aviation lubricant.}
 ### {312}{}{Sounds good.}
 {312}{}{听起来不错。 -- Sounds good.}
 ### {313}{}{According to cursory calculations, this will give an increase in speed by 40%. Still interested? Then prepare }
@@ -198,7 +198,7 @@
 ### {317}{}{For some reason, I was expecting tricks like this. Nothing else can be expected from you savages from the wasteland.}
 {317}{}{出于某种原因，我本以为会有这样的把戏。你们这些来自荒原的野蛮人别无指望。 -- For some reason, I was expecting tricks like this. Nothing else can be expected from you savages from the wasteland.}
 ### {318}{}{Yes, I didn't do it on purpose...}
-{318}{}{是的，我不是故意的。。。 -- Yes, I didn't do it on purpose...}
+{318}{}{是的，我不是故意的... -- Yes, I didn't do it on purpose...}
 ### {319}{}{Ta-dam! Your bike has been transformed beyond recognition. Now he will not drive, but fly over the highway!}
 {319}{}{Ta dam！你的自行车被改造得面目全非。现在他不会开车，而是飞越高速公路！ -- Ta-dam! Your bike has been transformed beyond recognition. Now he will not drive, but fly over the highway!}
 ### {320}{}{Sounds like something too complicated, expensive and impractical. I'll probably do without it.}
@@ -252,7 +252,7 @@
 ### {404}{}{I will give them away for free as a sign of upcoming deals. You won't refuse my services, will you?}
 {404}{}{我会免费赠送它们，作为即将到来的交易的标志。你不会拒绝我的服务的，是吗？ -- I will give them away for free as a sign of upcoming deals. You won't refuse my services, will you?}
 ### {405}{}{That's reasonable. You can count on more reasonable prices, Dika... the man from the desert.}
-{405}{}{这是合理的。你可以指望更合理的价格，迪卡。。。那个来自沙漠的人。 -- That's reasonable. You can count on more reasonable prices, Dika... the man from the desert.}
+{405}{}{这是合理的。你可以指望更合理的价格，迪卡...那个来自沙漠的人。 -- That's reasonable. You can count on more reasonable prices, Dika... the man from the desert.}
 ### {406}{}{Very good.}
 {406}{}{很好。 -- Very good.}
 ### {407}{}{I will sell this watch for 350 caps.}
@@ -270,7 +270,7 @@
 ### {413}{}{We have a great pneumatic fist with which we knock out any nonsense from the minds of strangers. I don't see a watch among your junk, desert savage.}
 {413}{}{我们有一个巨大的气动拳头，可以把陌生人脑子里的任何废话都敲出来。我在你的垃圾堆里看不到手表，沙漠野蛮人。 -- We have a great pneumatic fist with which we knock out any nonsense from the minds of strangers. I don't see a watch among your junk, desert savage.}
 ### {414}{}{How did it happen so...}
-{414}{}{怎么会这样。。。 -- How did it happen so...}
+{414}{}{怎么会这样... -- How did it happen so...}
 ### {415}{}{Give me time to think. Don't worry, the watch won't go bad during this time.}
 {415}{}{给我时间思考。别担心，这段时间手表不会坏的。 -- Give me time to think. Don't worry, the watch won't go bad during this time.}
 ### {416}{}{The quartermaster lowered the cost of his goods by 10%.}

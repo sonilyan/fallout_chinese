@@ -29,7 +29,7 @@
 ### {170}{}{So that I can be enrolled in some sect? Well, no!}
 {170}{}{这样我就可以加入某个教派了？不！ -- So that I can be enrolled in some sect? Well, no!}
 ### {171}{}{T-you... y-you are this... You're not going to sleep in that tin can, are you? And why do you need a motel with such and such equipment?}
-{171}{}{你。。。你就是这个。。。你不会睡在那个锡罐里吧？为什么你需要一家有这样那样设备的汽车旅馆？ -- T-you... y-you are this... You're not going to sleep in that tin can, are you? And why do you need a motel with such and such equipment?}
+{171}{}{你...你就是这个...你不会睡在那个锡罐里吧？为什么你需要一家有这样那样设备的汽车旅馆？ -- T-you... y-you are this... You're not going to sleep in that tin can, are you? And why do you need a motel with such and such equipment?}
 ### {172}{}{First get yourself a power armor to tell me what to do.}
 {172}{}{首先给自己找一件力量盔甲，告诉我该怎么做。 -- First get yourself a power armor to tell me what to do.}
 ### {173}{}{Don't worry, I won't hurt you.}
@@ -89,7 +89,7 @@
 ### {201}{}{Hi there.}
 {201}{}{你好。 -- Hi there.}
 ### {202}{}{Hey, hey! These guys were just hooligans. I didn't want problems and turned a blind eye to their tricks. What else could I do? I am also a victim of circumstances. But killing guys... Let me say I didn't see anything, and you just leave, okay?}
-{202}{}{嘿，嘿！这些家伙只是流氓。我不想遇到麻烦，对他们的把戏视而不见。我还能做什么？我也是环境的受害者。但是杀人。。。让我说我什么都没看到，你就走吧，好吗？ -- Hey, hey! These guys were just hooligans. I didn't want problems and turned a blind eye to their tricks. What else could I do? I am also a victim of circumstances. But killing guys... Let me say I didn't see anything, and you just leave, okay?}
+{202}{}{嘿，嘿！这些家伙只是流氓。我不想遇到麻烦，对他们的把戏视而不见。我还能做什么？我也是环境的受害者。但是杀人...让我说我什么都没看到，你就走吧，好吗？ -- Hey, hey! These guys were just hooligans. I didn't want problems and turned a blind eye to their tricks. What else could I do? I am also a victim of circumstances. But killing guys... Let me say I didn't see anything, and you just leave, okay?}
 ### {203}{}{Don't worry, I won't inconvenience you anymore.}
 {203}{}{别担心，我不会再给你带来不便了。 -- Don't worry, I won't inconvenience you anymore.}
 ### {204}{}{Stay quiet and keep your head down. Don't think you'll get rid of me so easily.}
@@ -125,7 +125,7 @@
 {229}{}{我在追赶这支车队。你知道他去哪儿了吗？ -- I'm chasing this convoy. Do you know where he went?}
 
 ### {230}{}{(scrapes the bottlecaps under the table in amazement) I didn't think you were serious... yes, these guys have raised a fuss in our quiet town. It's been a long time since it's been so lively here. But the whole city got an excellent welding from them.}
-{230}{}{（惊讶地刮桌子下面的瓶子）我不认为你是认真的。。。是的，这些家伙在我们安静的小镇上引起了骚动。这里已经很久没有这么热闹了。但整个城市都从他们那里得到了极好的焊接。 -- (scrapes the bottlecaps under the table in amazement) I didn't think you were serious... yes, these guys have raised a fuss in our quiet town. It's been a long time since it's been so lively here. But the whole city got an excellent welding from them.}
+{230}{}{（惊讶地刮桌子下面的瓶子）我不认为你是认真的...是的，这些家伙在我们安静的小镇上引起了骚动。这里已经很久没有这么热闹了。但整个城市都从他们那里得到了极好的焊接。 -- (scrapes the bottlecaps under the table in amazement) I didn't think you were serious... yes, these guys have raised a fuss in our quiet town. It's been a long time since it's been so lively here. But the whole city got an excellent welding from them.}
 ### {231}{}{What are you talking about? What kind of welding?}
 {231}{}{你在说什么？什么类型的焊接？ -- What are you talking about? What kind of welding?}
 ### {232}{}{Yes, almost any institution in the city got something of its own. In my motel, for example, there is not a single empty seat left. Almost all the drinks were drunk at the bar. And Mr. Kogan was counting on some contracts. The city lived for a whole week at the expense of all this mess with slaves.}
@@ -177,7 +177,7 @@
 ### {264}{}{Wow, you can give a lot for a quiet, peaceful sleep. How much does one night cost? }
 {264}{}{哇，你可以为一个安静、平静的睡眠付出很多。一晚多少钱？ -- Wow, you can give a lot for a quiet, peaceful sleep. How much does one night cost? }
 ### {265}{}{Oh, you should know about the wonderful adobe houses in my village... And how much does a night in this bedbug cost?}
-{265}{}{哦，你应该知道我村里那些很棒的土坯房。。。在这个臭虫里住一晚要多少钱？ -- Oh, you should know about the wonderful adobe houses in my village... And how much does a night in this bedbug cost?}
+{265}{}{哦，你应该知道我村里那些很棒的土坯房...在这个臭虫里住一晚要多少钱？ -- Oh, you should know about the wonderful adobe houses in my village... And how much does a night in this bedbug cost?}
 ### {266}{}{For you, it will cost in }
 {266}{}{对你来说，这将花费 -- For you, it will cost in }
 ### {267}{}{ caps.}
@@ -200,7 +200,7 @@
 ### {283}{}{So you're with them for one thing, or what?}
 {283}{}{所以你和他们在一起是为了一件事，还是什么？ -- So you're with them for one thing, or what?}
 ### {284}{}{The girl herself has sunk to such a life. If she didn't want to, she wouldn't have gotten involved with these guys. Don't feel sorry for her. And nothing terrible is happening. The guys will play and let them go... I'm telling you - it's none of your business!}
-{284}{}{这个女孩自己也适应了这样的生活。如果她不想，她就不会和这些家伙扯上关系。不要为她感到难过。没有什么可怕的事情发生。伙计们会玩，然后让他们走。。。我告诉你，这不关你的事！ -- The girl herself has sunk to such a life. If she didn't want to, she wouldn't have gotten involved with these guys. Don't feel sorry for her. And nothing terrible is happening. The guys will play and let them go... I'm telling you - it's none of your business!}
+{284}{}{这个女孩自己也适应了这样的生活。如果她不想，她就不会和这些家伙扯上关系。不要为她感到难过。没有什么可怕的事情发生。伙计们会玩，然后让他们走...我告诉你，这不关你的事！ -- The girl herself has sunk to such a life. If she didn't want to, she wouldn't have gotten involved with these guys. Don't feel sorry for her. And nothing terrible is happening. The guys will play and let them go... I'm telling you - it's none of your business!}
 ### {285}{}{Damn, I can't just leave it like that.}
 {285}{}{该死，我不能就这样算了。 -- Damn, I can't just leave it like that.}
 ### {286}{}{Ah, well, then I really should pass by.}

@@ -64,7 +64,7 @@
 ### {223}{}{I don't have that many caps. I'll be back when I collect it.}
 {223}{}{我没有那么多帽子。我收的时候会回来的。 -- I don't have that many caps. I'll be back when I collect it.}
 ### {224}{}{No problem. I guarantee that you will be let in and let out... if you behave yourself.}
-{224}{}{没问题。我保证你会被允许进出。。。如果你表现得好一点。 -- No problem. I guarantee that you will be let in and let out... if you behave yourself.}
+{224}{}{没问题。我保证你会被允许进出...如果你表现得好一点。 -- No problem. I guarantee that you will be let in and let out... if you behave yourself.}
 ### {225}{}{I'll try.}
 {225}{}{我会试试的。 -- I'll try.}
 ### {226}{}{I don't have that many caps. Give us just a minute!}
@@ -72,9 +72,9 @@
 ### {227}{}{I named my price. If you can't pay, then get lost.}
 {227}{}{我说出了我的价格。如果你付不起，那就迷路吧。 -- I named my price. If you can't pay, then get lost.}
 ### {228}{}{Ugh...}
-{228}{}{啊。。。 -- Ugh...}
+{228}{}{啊... -- Ugh...}
 ### {229}{}{You peasants have an amazingly developed sense of gregariousness... Okay, go ahead. But if you behave badly, you will stay there forever.}
-{229}{}{你们农民的合群意识发展得惊人。。。好吧，继续。但如果你表现不好，你将永远呆在那里。 -- You peasants have an amazingly developed sense of gregariousness... Okay, go ahead. But if you behave badly, you will stay there forever.}
+{229}{}{你们农民的合群意识发展得惊人...好吧，继续。但如果你表现不好，你将永远呆在那里。 -- You peasants have an amazingly developed sense of gregariousness... Okay, go ahead. But if you behave badly, you will stay there forever.}
 
 #Slave theme
 ### {230}{}{Here, in penal servitude, these useless scum of society will be able to give at least some benefit.}
@@ -82,7 +82,7 @@
 ### {231}{}{What kind of hard labor are we talking about?}
 {231}{}{我们说的是什么样的苦役？ -- What kind of hard labor are we talking about?}
 ### {232}{}{Uranium mines in the north, caravans in the south, Flagstaff restoration, sometimes orders come from Phoenix... I can't remember everything.}
-{232}{}{北部的铀矿，南部的大篷车，弗拉格斯塔夫的修复，有时订单来自凤凰城。。。我记不清所有的事了。 -- Uranium mines in the north, caravans in the south, Flagstaff restoration, sometimes orders come from Phoenix... I can't remember everything.}
+{232}{}{北部的铀矿，南部的大篷车，弗拉格斯塔夫的修复，有时订单来自凤凰城...我记不清所有的事了。 -- Uranium mines in the north, caravans in the south, Flagstaff restoration, sometimes orders come from Phoenix... I can't remember everything.}
 ### {233}{}{So this is not a slave pen, but a prison?}
 {233}{}{所以这不是一个奴隶围栏，而是一个监狱？ -- So this is not a slave pen, but a prison?}
 ### {234}{}{Until recently, it was. Half of the garbage in our colony has fallen into the clutches of lawyers in the southern lands. Then they were brought here. Bandits, rapists, card debtors - we will find a use for everyone.}
@@ -144,7 +144,7 @@
 ### {260}{}{What are you talking about?! The mines are destroyed, and it will take months to clear them! Does this look like a problem solver? No. Now get out!}
 {260}{}{你在说什么？！地雷被摧毁了，需要几个月的时间才能清除！这看起来像是解决问题的方法吗？不，现在滚出去！ -- What are you talking about?! The mines are destroyed, and it will take months to clear them! Does this look like a problem solver? No. Now get out!}
 ### {261}{}{That's how it is...}
-{261}{}{事情就是这样。。。 -- That's how it is...}
+{261}{}{事情就是这样... -- That's how it is...}
 ### {262}{}{Remind me about our deal.}
 {262}{}{提醒我我们的交易。 -- Remind me about our deal.}
 ### {263}{}{Don't you understand the first time? Go to the administrator at the mine. He will tell you what to do.}
@@ -156,7 +156,7 @@
 ### {266}{}{About the "wasteland disease", of course. The residents of the Villa are immune to it, but the colonists are unlikely. Haven't you heard?}
 {266}{}{当然是关于“荒地病”。别墅的居民对此免疫，但殖民者不太可能。你没听说吗？ -- About the "wasteland disease", of course. The residents of the Villa are immune to it, but the colonists are unlikely. Haven't you heard?}
 ### {267}{}{Damn, but in the south whole settlements died out from some kind of infection... What can you prove?}
-{267}{}{该死，但在南部，整个定居点都死于某种感染。。。你能证明什么？ -- Damn, but in the south whole settlements died out from some kind of infection... What can you prove?}
+{267}{}{该死，但在南部，整个定居点都死于某种感染...你能证明什么？ -- Damn, but in the south whole settlements died out from some kind of infection... What can you prove?}
 ### {268}{}{When the disease manifests, you'll see for yourself. Decide for yourself whether it's worth the risk.}
 {268}{}{当疾病出现时，你会亲眼看到的。自己决定是否值得冒险。 -- When the disease manifests, you'll see for yourself. Decide for yourself whether it's worth the risk.}
 ### {269}{}{Damn it... So, I'll let your peasants go, but to get out of the colony right now!}
@@ -168,7 +168,7 @@
 ### {272}{}{If you continue to put pressure on my brain, you will end up even worse than your fellow tribesmen.}
 {272}{}{如果你继续给我的大脑施加压力，你最终会比你的部落同胞更糟糕。 -- If you continue to put pressure on my brain, you will end up even worse than your fellow tribesmen.}
 ### {273}{}{Hey, take it easy...}
-{273}{}{嘿，别紧张。。。 -- Hey, take it easy...}
+{273}{}{嘿，别紧张... -- Hey, take it easy...}
 
 ### {274}{}{They say someone is sniffing out information among my people. I don't like it. If I get at least one more denunciation against you, you will go straight to the gallows.}
 {274}{}{他们说有人在我的人中间窥探信息。我不喜欢。如果我再受到一次对你的谴责，你就会直接上绞刑架。 -- They say someone is sniffing out information among my people. I don't like it. If I get at least one more denunciation against you, you will go straight to the gallows.}
@@ -182,7 +182,7 @@
 ### {278}{}{(screaming) Rat brat, do you even realize that the whole Flagstaff is under threat because of a handful of dirty peasants! Years of work on the arrangement and control of the whole city, the hopes of the whole south for prosperity - all this is down the drain for the Brahmin. Come on, show ALL your will to live!}
 {278}{}{（尖叫）小老鼠，你知道吗，整个弗拉格斯塔夫都受到了威胁，因为有几个肮脏的农民！多年来对整个城市的安排和控制，整个南方对繁荣的希望——所有这些对婆罗门来说都是徒劳的。来吧，展现你所有的生活意志！ -- (screaming) Rat brat, do you even realize that the whole Flagstaff is under threat because of a handful of dirty peasants! Years of work on the arrangement and control of the whole city, the hopes of the whole south for prosperity - all this is down the drain for the Brahmin. Come on, show ALL your will to live!}
 ### {279}{}{So, wait a minute...}
-{279}{}{所以，等一下。。。 -- So, wait a minute...}
+{279}{}{所以，等一下... -- So, wait a minute...}
 
 #Quests
 ### {280}{}{Maybe I can work off these bottlecaps?}
@@ -202,7 +202,7 @@
 ### {287}{}{Why won't your mercenaries do it?}
 {287}{}{为什么你的雇佣兵不这么做？ -- Why won't your mercenaries do it?}
 ### {288}{}{The ruins of the old city are too confusing and dangerous. I'll lose more people if I send them to scout. But now I have you... What is it? Are you already refusing?}
-{288}{}{古城的废墟太令人困惑和危险了。如果我派他们去侦察，我会失去更多的人。但现在我有了你。。。它是什么？你已经拒绝了吗？ -- The ruins of the old city are too confusing and dangerous. I'll lose more people if I send them to scout. But now I have you... What is it? Are you already refusing?}
+{288}{}{古城的废墟太令人困惑和危险了。如果我派他们去侦察，我会失去更多的人。但现在我有了你...它是什么？你已经拒绝了吗？ -- The ruins of the old city are too confusing and dangerous. I'll lose more people if I send them to scout. But now I have you... What is it? Are you already refusing?}
 ### {289}{}{Then I have no choice. You're going to die!}
 {289}{}{那我就别无选择了。你会死的！ -- Then I have no choice. You're going to die!}
 ### {290}{}{A ranger? An ordinary criminal who fancies himself a hero. Well, not a bad job. Here are your 300 caps.}
@@ -212,7 +212,7 @@
 ### {292}{}{Great.}
 {292}{}{太棒了 -- Great.}
 ### {293}{}{Exactly. Including *your* miserable worthless life. Until now, the surrounding savages only cared about personal survival. I have a colony - the only place in Sonora where a person lives for something *more*... However, you won't understand it.}
-{293}{}{确切地包括你那毫无价值的悲惨生活。直到现在，周围的野蛮人只关心个人的生存。我有一个殖民地——索诺拉州唯一一个有人为了更多的东西而生活的地方。。。然而，你不会理解的。 -- Exactly. Including *your* miserable worthless life. Until now, the surrounding savages only cared about personal survival. I have a colony - the only place in Sonora where a person lives for something *more*... However, you won't understand it.}
+{293}{}{确切地包括你那毫无价值的悲惨生活。直到现在，周围的野蛮人只关心个人的生存。我有一个殖民地——索诺拉州唯一一个有人为了更多的东西而生活的地方...然而，你不会理解的。 -- Exactly. Including *your* miserable worthless life. Until now, the surrounding savages only cared about personal survival. I have a colony - the only place in Sonora where a person lives for something *more*... However, you won't understand it.}
 ### {294}{}{Yeah. Bye.}
 {294}{}{是 啊再见 -- Yeah. Bye.}
 ### {295}{}{A ranger? An ordinary criminal who fancies himself a hero. Well, not a bad job. Here are your 200 caps.}
@@ -293,7 +293,7 @@
 ### {331}{}{I don't need idiots here. Get lost.}
 {331}{}{我这里不需要白痴。迷路 -- I don't need idiots here. Get lost.}
 ### {332}{}{Prova... ah! Yes, yes, I'm going home. The villa is my home, yes.}
-{332}{}{普罗瓦。。。啊！是的，是的，我要回家了。别墅是我的家，是的。 -- Prova... ah! Yes, yes, I'm going home. The villa is my home, yes.}
+{332}{}{普罗瓦...啊！是的，是的，我要回家了。别墅是我的家，是的。 -- Prova... ah! Yes, yes, I'm going home. The villa is my home, yes.}
 ### {333}{}{Wait... What are you saying? We recently received a batch of slaves from the Villa. Are you from there too? No wonder they left you at home - you can't even trust such idiots with a shovel.}
 {333}{}{等待你在说什么？我们最近从别墅收到了一批奴隶。你也是那里人吗？难怪他们把你留在家里——你甚至不能相信这些拿着铲子的白痴。 -- Wait... What are you saying? We recently received a batch of slaves from the Villa. Are you from there too? No wonder they left you at home - you can't even trust such idiots with a shovel.}
 ### {334}{}{What is a lop-pat?}
@@ -303,7 +303,7 @@
 ### {336}{}{Oh! Yes! Friends!}
 {336}{}{哦对朋友们！ -- Oh! Yes! Friends!}
 ### {337}{}{Yes, your friends... Listen to me, you moron piece. Go to the mine and go down. There's a big rat there. Kill the rat and I'll take you to your friends. Understand?}
-{337}{}{是的，你的朋友们。。。听我说，你这个白痴。去矿井然后下去。那里有一只大老鼠。杀了老鼠，我带你去见你的朋友。懂 -- Yes, your friends... Listen to me, you moron piece. Go to the mine and go down. There's a big rat there. Kill the rat and I'll take you to your friends. Understand?}
+{337}{}{是的，你的朋友们...听我说，你这个白痴。去矿井然后下去。那里有一只大老鼠。杀了老鼠，我带你去见你的朋友。懂 -- Yes, your friends... Listen to me, you moron piece. Go to the mine and go down. There's a big rat there. Kill the rat and I'll take you to your friends. Understand?}
 ### {338}{}{No, I want to go to friends now!}
 {338}{}{不，我现在想去朋友圈！ -- No, I want to go to friends now!}
 ### {339}{}{A rat! Kill the rat! Kill!}
@@ -347,13 +347,13 @@
 ### {357}{}{Why don't you do a check and fire this pest?}
 {357}{}{你为什么不检查一下，把这个害虫放了？ -- Why don't you do a check and fire this pest?}
 ### {358}{}{I'm not asking for your opinion on what I should do. But if you're not lying, then it won't be easy to replace the Whip. I'll be looking for a replacement for him, but I don't think I'll find one anytime soon... Here, take five caps for the information.}
-{358}{}{我不是在征求你对我应该做什么的意见。但如果你没有撒谎，那么更换辉格党人就不容易了。我会为他寻找替代者，但我想我不会很快找到。。。在这里，取五个大写字母作为信息。 -- I'm not asking for your opinion on what I should do. But if you're not lying, then it won't be easy to replace the Whip. I'll be looking for a replacement for him, but I don't think I'll find one anytime soon... Here, take five caps for the information.}
+{358}{}{我不是在征求你对我应该做什么的意见。但如果你没有撒谎，那么更换辉格党人就不容易了。我会为他寻找替代者，但我想我不会很快找到...在这里，取五个大写字母作为信息。 -- I'm not asking for your opinion on what I should do. But if you're not lying, then it won't be easy to replace the Whip. I'll be looking for a replacement for him, but I don't think I'll find one anytime soon... Here, take five caps for the information.}
 ### {359}{}{Thank you, sir.}
 {359}{}{谢谢你，先生。 -- Thank you, sir.}
 ### {360}{}{[Leave silently]}
 {360}{}{[默默地离开 -- Leave silently]}
 ### {361}{}{About the Whip. I know one suitable candidate...}
-{361}{}{关于辉格党。我知道一个合适的候选人。。。 -- About the Whip. I know one suitable candidate...}
+{361}{}{关于辉格党。我知道一个合适的候选人... -- About the Whip. I know one suitable candidate...}
 ### {362}{}{...Okay. I don't mind Knut resigning from his post. It will be fun to see how one warden moves another. Although I still don't understand why you care about it.}
 {362}{}{…好吧。我不介意克努特辞职。看看一个典狱长如何移动另一个，会很有趣。尽管我仍然不明白你为什么关心它。 -- ...Okay. I don't mind Knut resigning from his post. It will be fun to see how one warden moves another. Although I still don't understand why you care about it.}
 ### {363}{}{Yes, nothing.}

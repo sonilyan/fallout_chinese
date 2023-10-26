@@ -33,7 +33,7 @@
 ### {121}{}{I'm doing science here, baby.}
 {121}{}{我在这里做科学，宝贝。 -- I'm doing science here, baby.}
 ### {122}{}{What do you know about plasma accelerators? I thought so...}
-{122}{}{你对等离子体加速器了解多少？我是这么想的。。。 -- What do you know about plasma accelerators? I thought so...}
+{122}{}{你对等离子体加速器了解多少？我是这么想的... -- What do you know about plasma accelerators? I thought so...}
 ### {123}{}{Pour some tequila, do something useful.}
 {123}{}{倒一些龙舌兰酒，做一些有用的事。 -- Pour some tequila, do something useful.}
 ### {124}{}{If you bother me, I'll throw it back to the casino.}
@@ -51,21 +51,21 @@
 
 #First meeting
 ### {200}{}{Hey, who let you in? It's closed... }
-{200}{}{嘿，谁让你进来的？它关闭了。。。 -- Hey, who let you in? It's closed... }
+{200}{}{嘿，谁让你进来的？它关闭了... -- Hey, who let you in? It's closed... }
 ### {201}{}{?! I'll be damned, }
 {201}{}{？！我会被诅咒的， -- ?! I'll be damned, }
 ### {202}{}{, what the...}
-{202}{}{，什么。。。 -- , what the...}
+{202}{}{，什么... -- , what the...}
 ### {203}{}{Uncle Miguel, is that you? Long time no see!}
 {203}{}{米格尔叔叔，是你吗？好久不见了！ -- Uncle Miguel, is that you? Long time no see!}
 ### {204}{}{Oh, how you've grown! I didn't recognize you right away. Although the facial features still resemble your padre... But, look, this is so unexpected. What are you doing here?}
-{204}{}{哦，你怎么长大了！我没有马上认出你。虽然面部特征仍然像你的牧师。。。但是，看，这太出乎意料了。你在这里干什么？ -- Oh, how you've grown! I didn't recognize you right away. Although the facial features still resemble your padre... But, look, this is so unexpected. What are you doing here?}
+{204}{}{哦，你怎么长大了！我没有马上认出你。虽然面部特征仍然像你的牧师...但是，看，这太出乎意料了。你在这里干什么？ -- Oh, how you've grown! I didn't recognize you right away. Although the facial features still resemble your padre... But, look, this is so unexpected. What are you doing here?}
 ### {1204}{}{Oh, how you've grown! I didn't recognize you right away. Although the facial features still resemble your padre... But, look, this is so unexpected. What are you doing here?}
-{1204}{}{哦，你怎么长大了！我没有马上认出你。虽然面部特征仍然像你的牧师。。。但是，看，这太出乎意料了。你在这里干什么？ -- Oh, how you've grown! I didn't recognize you right away. Although the facial features still resemble your padre... But, look, this is so unexpected. What are you doing here?}
+{1204}{}{哦，你怎么长大了！我没有马上认出你。虽然面部特征仍然像你的牧师...但是，看，这太出乎意料了。你在这里干什么？ -- Oh, how you've grown! I didn't recognize you right away. Although the facial features still resemble your padre... But, look, this is so unexpected. What are you doing here?}
 ### {205}{}{I'm looking for my padre. It's a long story. In short, he and the other residents of the Villa were taken away by slavers.}
 {205}{}{我在找我的牧师。说来话长。简而言之，他和别墅的其他居民都被奴隶贩子带走了。 -- I'm looking for my padre. It's a long story. In short, he and the other residents of the Villa were taken away by slavers.}
 ### {206}{}{That's how... I am so sorry. But I don't know anything about it. In any case, it's best if you leave this city as soon as possible.}
-{206}{}{这就是为什么。。。我很抱歉。但我对此一无所知。无论如何，你最好尽快离开这个城市。 -- That's how... I am so sorry. But I don't know anything about it. In any case, it's best if you leave this city as soon as possible.}
+{206}{}{这就是为什么...我很抱歉。但我对此一无所知。无论如何，你最好尽快离开这个城市。 -- That's how... I am so sorry. But I don't know anything about it. In any case, it's best if you leave this city as soon as possible.}
 ### {207}{}{Why are you sending me away? Uncle Miguel, I've come so many miles to find you!}
 {207}{}{你为什么要把我打发走？米格尔叔叔，我千里迢迢来找你！ -- Why are you sending me away? Uncle Miguel, I've come so many miles to find you!}
 ### {1207}{}{Why are you sending me away? Uncle Miguel, I've come so many miles to find you!}
@@ -112,9 +112,9 @@
 {226}{}{所以你做得很好。我必须去别墅，我在这里的生意已经结束了。 -- So you're doing great. And I have to go to the Villa, my business here is already over.}
 
 ### {230}{}{Hey, who let you in? It's closed... }
-{230}{}{嘿，谁让你进来的？它关闭了。。。 -- Hey, who let you in? It's closed... }
+{230}{}{嘿，谁让你进来的？它关闭了... -- Hey, who let you in? It's closed... }
 ### {1230}{}{Hey, who let you in? It's closed... }
-{1230}{}{嘿，谁让你进来的？它关闭了。。。 -- Hey, who let you in? It's closed... }
+{1230}{}{嘿，谁让你进来的？它关闭了... -- Hey, who let you in? It's closed... }
 ### {231}{}{?! Damn me, it's my favorite nephew! It's good to see you, especially after all these events.}
 {231}{}{？！该死的，这是我最喜欢的侄子！很高兴见到你，尤其是在经历了这么多之后。 -- ?! Damn me, it's my favorite nephew! It's good to see you, especially after all these events.}
 ### {1231}{}{?! Damn me, it's my favorite nephew! Glad to see you, especially after all these events.}
@@ -124,7 +124,7 @@
 ### {233}{}{And you're growing up. I remember you at table level. A lot has changed since then.}
 {233}{}{你在成长。我记得你在餐桌上。从那以后发生了很多变化。 -- And you're growing up. I remember you at table level. A lot has changed since then.}
 ### {234}{}{Oh yes. And I have something to tell you. About the Villa, about the padre, about the robbers...}
-{234}{}{哦，是的。我有话要告诉你。关于别墅，关于牧师，关于强盗。。。 -- Oh yes. And I have something to tell you. About the Villa, about the padre, about the robbers...}
+{234}{}{哦，是的。我有话要告诉你。关于别墅，关于牧师，关于强盗... -- Oh yes. And I have something to tell you. About the Villa, about the padre, about the robbers...}
 ### {235}{}{Wait, to be honest, I knew about you and your mission. I even wanted to come out of the shadows and help you while you were in Phoenix. But something was missing for me. It seemed to me that the Villa had become the past for me, and now I regret that I was so careless.}
 {235}{}{等等，说实话，我知道你和你的任务。当你在凤凰城的时候，我甚至想走出阴影，帮助你。但我缺少了一些东西。在我看来，别墅已经成为我的过去，现在我后悔我这么粗心。 -- Wait, to be honest, I knew about you and your mission. I even wanted to come out of the shadows and help you while you were in Phoenix. But something was missing for me. It seemed to me that the Villa had become the past for me, and now I regret that I was so careless.}
 ### {236}{}{Yes, the Villa is not the same as before.}

@@ -115,7 +115,7 @@
 ### {247}{}{I'm interested in a slave convoy. Perhaps such a one took place here recently.}
 {247}{}{我对奴隶车队感兴趣。也许最近在这里发生了这样一件事。}
 ### {248}{}{Recently, the tinkerers have been collecting slaves for some important business. Several such caravans passed through my city. But I don't ask where they got the slaves from.}
-{248}{}{最近，修补匠们一直在为一些重要的生意收集奴隶。有几辆这样的大篷车经过我的城市。但我不会问他们从哪里得到这些奴隶。}
+{248}{}{最近，锡匠们一直在为一些重要的生意收集奴隶。有几辆这样的大篷车经过我的城市。但我不会问他们从哪里得到这些奴隶。}
 ### {249}{}{So Two-Sun... Thank you, Mr. Mayor. I'll see you again.}
 {249}{}{所以两个太阳...谢谢你，市长先生。我会再见到你的。}
 
@@ -307,7 +307,7 @@
 ### {354}{}{And you didn't see anything strange about it?}
 {354}{}{你没发现什么奇怪的地方吗？}
 ### {355}{}{The tinkerers consider us mere mortals to be something like savages. They are a strange people, you can expect anything from them. Therefore, I did not worry about the quiet departure of our guest. Surely he is already among his own.}
-{355}{}{修补匠们认为我们这些凡人有点像野蛮人。他们是一个奇怪的人，你可以从他们那里得到任何东西。因此，我并不担心我们的客人安静地离开。他肯定已经是自己人了。}
+{355}{}{锡匠们认为我们这些凡人有点像野蛮人。他们是一个奇怪的人，你可以从他们那里得到任何东西。因此，我并不担心我们的客人安静地离开。他肯定已经是自己人了。}
 ### {356}{}{No, he didn't go back to Two-Sun. Master Hard asked me to find him.}
 {356}{}{不，他没有回到《太阳二号》。哈德大师让我去找他。}
 ### {357}{}{Ah, I understand. Well, I've told you everything I know. You can ask around somewhere else.}
@@ -317,11 +317,11 @@
 ### {359}{}{In my opinion, something is not clean here. You're lucky, Mayor, if his disappearance has nothing to do with you.}
 {359}{}{在我看来，这里有些地方不干净。你很幸运，市长，如果他的失踪与你无关。}
 ### {360}{}{It seems that the locals don't like tinsmiths. Who could wish him harm?}
-{360}{}{看来当地人不喜欢铁匠。谁会希望他受到伤害？}
+{360}{}{看来当地人不喜欢锡匠。谁会希望他受到伤害？}
 ### {361}{}{Hold your tongue, mercenary. We are indebted to the tinsmiths for repairing the water pump and regular caravans. None of the locals would dream of harming them.}
-{361}{}{住口，唯利是图。我们感谢修理水泵和普通大篷车的铁匠。当地人做梦也不会伤害他们。}
+{361}{}{住口，唯利是图。我们感谢修理水泵和普通大篷车的锡匠。当地人做梦也不会伤害他们。}
 ### {1361}{}{Hold your tongue, mercenary. We are indebted to the tinsmiths for repairing the water pump and regular caravans. None of the locals would dream of harming them.}
-{1361}{}{住口，唯利是图。我们感谢修理水泵和普通大篷车的铁匠。当地人做梦也不会伤害他们。}
+{1361}{}{住口，唯利是图。我们感谢修理水泵和普通大篷车的锡匠。当地人做梦也不会伤害他们。}
 ### {362}{}{And yet I will check this version. Goodbye.}
 {362}{}{但我会检查这个版本。再见}
 ### {363}{}{Such confidence breeds even more doubts, Mayor. Hope she doesn't let you down.}
@@ -354,7 +354,7 @@
 ### {375}{}{Let me take a little more of your time.}
 {375}{}{让我多花点时间给你。}
 ### {376}{}{In a former moonshiner's shack in the east. Tinsmiths don't like to be around... "ordinary" people.}
-{376}{}{在东部一个曾经的登月者的棚屋里。铁匠们不喜欢在身边...“普通”人。}
+{376}{}{在东部一个曾经的登月者的棚屋里。锡匠们不喜欢在身边...“普通”人。}
 
 ### {380}{}{What can I do in this city?}
 {380}{}{在这个城市我能做什么？}
@@ -739,7 +739,7 @@
 ### {590}{}{I'll bring the bottlecaps in soon.}
 {590}{}{我很快就会把瓶子带来。}
 ### {591}{}{The Blue Shields offer an alliance. They have already agreed with the tinsmiths.}
-{591}{}{蓝盾提供了一个联盟。他们已经同意了铁匠的意见。}
+{591}{}{蓝盾提供了一个联盟。他们已经同意了锡匠的意见。}
 ### {592}{}{What? Are these bandits protected by tinkerers? What an injustice!}
 {592}{}{什么这些土匪有修匠保护吗？多么不公正！}
 ### {593}{}{The tinsmiths recognized them as a peaceful independent settlement.}
@@ -747,12 +747,12 @@
 ### {594}{}{I should have acted faster. It's good that the gang will leave us and the caravans behind for a while. But bandits can't be trusted. In addition, many of them seek revenge on me personally or the entire Casa Grande.}
 {594}{}{我本应该行动得更快。这帮人会把我们和大篷车留下一段时间，这很好。但是土匪是不能信任的。此外，他们中的许多人都在为我个人或整个格兰德之家复仇。}
 ### {595}{}{You don't have a choice. The tinkerers won't approve of resistance.}
-{595}{}{你别无选择。修补匠们不会赞成抵抗。}
+{595}{}{你别无选择。锡匠们不会赞成抵抗。}
 ### {596}{}{Obviously, it is. I will sign the contract, considering your past achievements. But I will do everything to make the Shields pay dearly for it.}
 {596}{}{很明显，是的。考虑到你过去的成就，我会签合同的。但我会尽一切努力让希尔兹一家为此付出高昂的代价。}
 ### {597}{}{I'll tell Ben what you said. Goodbye.}
 {597}{}{我会把你说的告诉本。再见}
 ### {598}{}{I'll be damned if I sign this union. Get out and tell Ben that the tinkers won't protect him and his gang from a righteous judgment.}
-{598}{}{如果我签了这个工会，我会被诅咒的。出去告诉本，修补匠们不会保护他和他的帮派免受正义的审判。}
+{598}{}{如果我签了这个工会，我会被诅咒的。出去告诉本，锡匠们不会保护他和他的帮派免受正义的审判。}
 ### {599}{}{I'll tell Ben what you said. Goodbye.}
 {599}{}{我会把你说的告诉本。再见}

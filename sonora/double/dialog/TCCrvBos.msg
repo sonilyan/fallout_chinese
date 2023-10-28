@@ -26,7 +26,7 @@
 ### {220}{}{What are you doing?}
 {220}{}{你在干什么？ -- What are you doing?}
 ### {221}{}{I transport cargo across the desert. The tinkerers trust me with this case like no one else.}
-{221}{}{我运送货物穿越沙漠。修补匠们在这个案子上信任我，这是独一无二的。 -- I transport cargo across the desert. The tinkerers trust me with this case like no one else.}
+{221}{}{我运送货物穿越沙漠。锡匠们在这个案子上信任我，这是独一无二的。 -- I transport cargo across the desert. The tinkerers trust me with this case like no one else.}
 ### {222}{}{Hauling cargo across the desert? Who needs him there?}
 {222}{}{运输货物穿越沙漠？谁需要他在那里？ -- Hauling cargo across the desert? Who needs him there?}
 ### {223}{}{Sounds unconvincing, but there really are a couple of places in the desert where our cargo is very much expected. And they pay great caps for it.}
@@ -45,7 +45,7 @@
 {228}{}{非常感谢。 -- Thank you.}
 
 ### {230}{}{So who are the tinkerers really?}
-{230}{}{那么，修补匠到底是谁呢？ -- So who are the tinkerers really?}
+{230}{}{那么，锡匠到底是谁呢？ -- So who are the tinkerers really?}
 ### {231}{}{Something like a cult, they worship technology and progress. Their most cherished dream is to find robotic bodies and upload their consciousness into them. Sounds fantastic, right? But they are already implanting some kind of hardware in themselves. And with their technical skills, no one in all of Sonora can compare.}
 {231}{}{有点像邪教，他们崇拜技术和进步。他们最珍视的梦想是找到机器人的身体，并将他们的意识上传到其中。听起来很棒，对吧？但他们已经在自己身上植入了某种硬件。以他们的技术水平，在索诺拉没有人能与之相比。 -- Something like a cult, they worship technology and progress. Their most cherished dream is to find robotic bodies and upload their consciousness into them. Sounds fantastic, right? But they are already implanting some kind of hardware in themselves. And with their technical skills, no one in all of Sonora can compare.}
 ### {232}{}{What are their immediate plans?}
@@ -59,7 +59,7 @@
 ### {236}{}{Aren't you going to the place where the whole port was blown up recently?}
 {236}{}{你不是要去最近整个港口被炸毁的地方吗？ -- Aren't you going to the place where the whole port was blown up recently?}
 ### {237}{}{Well, there's almost nothing left now. But there are still Casa Nueva plantations on the way. However, how long will he have the strength to survive without the protection of the Brotherhood of Steel? Sooner or later, the settlement will obey the will of the tinsmiths or become empty.}
-{237}{}{嗯，现在几乎什么都没有了。但仍有Casa Nueva种植园在路上。然而，如果没有钢铁兄弟会的保护，他还能活多久？定居点迟早会服从铁匠的意愿，或者变成空的。 -- Well, there's almost nothing left now. But there are still Casa Nueva plantations on the way. However, how long will he have the strength to survive without the protection of the Brotherhood of Steel? Sooner or later, the settlement will obey the will of the tinsmiths or become empty.}
+{237}{}{嗯，现在几乎什么都没有了。但仍有Casa Nueva种植园在路上。然而，如果没有钢铁兄弟会的保护，他还能活多久？定居点迟早会服从锡匠的意愿，或者变成空的。 -- Well, there's almost nothing left now. But there are still Casa Nueva plantations on the way. However, how long will he have the strength to survive without the protection of the Brotherhood of Steel? Sooner or later, the settlement will obey the will of the tinsmiths or become empty.}
 ### {238}{}{It looks like life there will get worse anyway. Let's change the subject?}
 {238}{}{看起来那里的生活无论如何都会变得更糟。我们换个话题吧？ -- It looks like life there will get worse anyway. Let's change the subject?}
 

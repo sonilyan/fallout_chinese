@@ -133,7 +133,7 @@
 ### {263}{}{[Atomic clock]}
 {263}{}{[原子钟]}
 ### {264}{}{Wow, it's rare to find a pocket watch in working condition. And this brand has always been distinguished by quality. In addition, the atomic battery lasts for decades. If the tinsmiths were here, they would tear this thing off with their hands.}
-{264}{}{哇，很少能找到一块工作状态良好的怀表。这个品牌一直以质量著称。此外，原子电池可以使用几十年。如果铁匠们在这里，他们会用手把这个东西撕下来。}
+{264}{}{哇，很少能找到一块工作状态良好的怀表。这个品牌一直以质量著称。此外，原子电池可以使用几十年。如果锡匠们在这里，他们会用手把这个东西撕下来。}
 ### {265}{}{[Snow globe]}
 {265}{}{[雪球]}
 ### {266}{}{Snow! I've never seen real snow, except for a few mountain peaks in the distance. Yes, any rich man will fork out for such a thing. You know, I can find a use for this trinket.}

@@ -3,7 +3,7 @@
 ### {101}{}{You see an unusually clean person. He doesn't have to get dirty with such work.}
 {101}{}{你看到一个异常干净的人。他不必因为这样的工作而变得肮脏。 -- You see an unusually clean person. He doesn't have to get dirty with such work.}
 ### {102}{}{Are you from the tinsmiths? Then don't scare people with this tin can.}
-{102}{}{你是铁匠铺的吗？那就别用这个锡罐吓唬人了。 -- Are you from the tinsmiths? Then don't scare people with this tin can.}
+{102}{}{你是锡匠的吗？那就别用这个锡罐吓唬人了。 -- Are you from the tinsmiths? Then don't scare people with this tin can.}
 ### {103}{}{There is no place for highway workers in this city. Get out before I shoot you.}
 {103}{}{这个城市没有公路工人的容身之地。在我开枪之前滚出去。 -- There is no place for highway workers in this city. Get out before I shoot you.}
 ### {104}{}{This is the price for your greed, bitch.}
@@ -84,7 +84,7 @@
 ### {231}{}{Why is this?}
 {231}{}{为什么会这样？ -- Why is this?}
 ### {232}{}{I'm sorry for being so insistent. But after the fall of the tinsmiths, many slaves escaped from Two-Sun. Nothing good can be expected from them. I just want to make sure I'm talking to a decent person.}
-{232}{}{我很抱歉这么坚持。但是在铁匠们倒下之后，许多奴隶逃离了二日。不能指望他们做什么好事。我只是想确保我在和一个体面的人说话。 -- I'm sorry for being so insistent. But after the fall of the tinsmiths, many slaves escaped from Two-Sun. Nothing good can be expected from them. I just want to make sure I'm talking to a decent person.}
+{232}{}{我很抱歉这么坚持。但是在锡匠们倒下之后，许多奴隶逃离了二日。不能指望他们做什么好事。我只是想确保我在和一个体面的人说话。 -- I'm sorry for being so insistent. But after the fall of the tinsmiths, many slaves escaped from Two-Sun. Nothing good can be expected from them. I just want to make sure I'm talking to a decent person.}
 ### {233}{}{You have bad manners.}
 {233}{}{你不礼貌。 -- You have bad manners.}
 ### {234}{}{We don't need conflicts.}
@@ -116,7 +116,7 @@
 ### {247}{}{Why?}
 {247}{}{为什么？ -- Why?}
 ### {248}{}{I have to get out of it. There are no more tinsmiths, and with them the entire caravan trail is shrinking. We must stock up on caps, otherwise trading will be meaningless at all.}
-{248}{}{我必须离开这里。再也没有铁匠了，整个商队的足迹都在缩小。我们必须储备上限，否则交易将毫无意义。 -- I have to get out of it. There are no more tinsmiths, and with them the entire caravan trail is shrinking. We must stock up on caps, otherwise trading will be meaningless at all.}
+{248}{}{我必须离开这里。再也没有锡匠了，整个商队的足迹都在缩小。我们必须储备上限，否则交易将毫无意义。 -- I have to get out of it. There are no more tinsmiths, and with them the entire caravan trail is shrinking. We must stock up on caps, otherwise trading will be meaningless at all.}
 ### {249}{}{I see.}
 {249}{}{我明白了。 -- I see.}
 
@@ -246,7 +246,7 @@
 ### {321}{}{You're selling water to Two-Sun. Hard won't like this attitude towards me.}
 {321}{}{你在向两个太阳卖水。Hard不会喜欢这种对我的态度。 -- You're selling water to Two-Sun. Hard won't like this attitude towards me.}
 ### {322}{}{Is that what the caravaneers are saying about you? The only outsider who has taken root among the tinsmiths. Yes, you're worth dealing with.}
-{322}{}{房车司机就是这么评价你的吗？唯一一个在铁匠中扎根的局外人。是的，你值得打交道。 -- Is that what the caravaneers are saying about you? The only outsider who has taken root among the tinsmiths. Yes, you're worth dealing with.}
+{322}{}{房车司机就是这么评价你的吗？唯一一个在锡匠中扎根的局外人。是的，你值得打交道。 -- Is that what the caravaneers are saying about you? The only outsider who has taken root among the tinsmiths. Yes, you're worth dealing with.}
 ### {323}{}{You won't regret it, partner.}
 {323}{}{你不会后悔的，伙伴。 -- You won't regret it, partner.}
 ### {324}{}{I managed to fix your filters. Don't I deserve better treatment?}

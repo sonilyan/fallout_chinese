@@ -130,9 +130,9 @@
 ### {304}{}{He is currently staying in Two-Sun and is waiting for your answer.}
 {304}{}{他目前住在Two Sun，正在等待您的答复。}
 ### {305}{}{What a surprise. So he is... tinker?}
-{305}{}{真是个惊喜。所以他是…修补匠？}
+{305}{}{真是个惊喜。所以他是…锡匠？}
 ### {306}{}{No, no, he's from my village. The tinkerers accepted Carlos, appreciating his talents.}
-{306}{}{不，不，他来自我的村庄。修补匠们接受了卡洛斯，欣赏他的才华。}
+{306}{}{不，不，他来自我的村庄。锡匠们接受了卡洛斯，欣赏他的才华。}
 ### {307}{}{However, I am not sure that it is worth discussing with anyone. Sorry to bother you.}
 {307}{}{然而，我不确定这是否值得与任何人讨论。很抱歉打扰你。}
 ### {308}{}{Oh, curious. I'm relying on your reputation. If you believe in the cleanliness of his thoughts, then that's enough for me. Tell him that we are ready to welcome your friend with all the hospitality.}
@@ -371,7 +371,7 @@
 ### {433}{}{Where did all this equipment come from?}
 {433}{}{这些设备是从哪里来的？}
 ### {434}{}{Some things were made by tinsmiths to order. Some things were brought with caravans from different places.}
-{434}{}{有些东西是铁匠按订单做的。有些东西是用大篷车从不同的地方带来的。}
+{434}{}{有些东西是锡匠按订单做的。有些东西是用大篷车从不同的地方带来的。}
 ### {435}{}{I see.}
 {435}{}{我明白了。}
 ### {436}{}{I'm interested in your methods. In our Villa, apart from herbs and mushrooms, it is difficult to find anything.}

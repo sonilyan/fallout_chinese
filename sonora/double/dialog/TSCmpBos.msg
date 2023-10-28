@@ -14,7 +14,7 @@
 ### {210}{}{Slave supply reports.}
 {210}{}{从属供应报告。 -- Slave supply reports.}
 ### {211}{}{(Tinsmiths seem to love numbers and accounting. It contains detailed statistics about slaves - their origin, employment, causes of death. Half of the slaves were sent to the Forbidden Zone, their fate is unknown.)}
-{211}{}{（铁匠们似乎喜欢数字和会计。它包含了关于奴隶的详细统计数据——他们的出身、工作、死亡原因。一半的奴隶被送往禁区，他们的命运未知。） -- (Tinsmiths seem to love numbers and accounting. It contains detailed statistics about slaves - their origin, employment, causes of death. Half of the slaves were sent to the Forbidden Zone, their fate is unknown.)}
+{211}{}{（锡匠们似乎喜欢数字和会计。它包含了关于奴隶的详细统计数据——他们的出身、工作、死亡原因。一半的奴隶被送往禁区，他们的命运未知。） -- (Tinsmiths seem to love numbers and accounting. It contains detailed statistics about slaves - their origin, employment, causes of death. Half of the slaves were sent to the Forbidden Zone, their fate is unknown.)}
 ### {212}{}{Information about slaves originally from the Villa.}
 {212}{}{关于奴隶的信息最初来自别墅。 -- Information about slaves originally from the Villa.}
 ### {213}{}{(You have discovered information about two slaves. Carlos is working in the hangar, and your padre has been sent to the Restricted Area. I'll have to go there on my own to find it.)}
@@ -35,7 +35,7 @@
 ### {220}{}{Cody's file.}
 {220}{}{科迪的档案。 -- Cody's file.}
 ### {221}{}{(Cody was among the children that the tinkerers acquired in the outer settlements and re-educated under their charter. The parents gave Cody as payment for fixing the water station in Casa Grande. However, for better assimilation of the child within the Collective, his official history has been slightly "simplified".)}
-{221}{}{（科迪是修补匠们在外定居点获得的孩子之一，并根据他们的章程接受了再教育。父母给了科迪修复卡萨格兰德供水站的费用。然而，为了更好地将孩子融入集体，他的官方历史被稍微“简化”了。） -- (Cody was among the children that the tinkerers acquired in the outer settlements and re-educated under their charter. The parents gave Cody as payment for fixing the water station in Casa Grande. However, for better assimilation of the child within the Collective, his official history has been slightly "simplified".)}
+{221}{}{（科迪是锡匠们在外定居点获得的孩子之一，并根据他们的章程接受了再教育。父母给了科迪修复卡萨格兰德供水站的费用。然而，为了更好地将孩子融入集体，他的官方历史被稍微“简化”了。） -- (Cody was among the children that the tinkerers acquired in the outer settlements and re-educated under their charter. The parents gave Cody as payment for fixing the water station in Casa Grande. However, for better assimilation of the child within the Collective, his official history has been slightly "simplified".)}
 
 ### {230}{}{Getting the part from... Garage City?}
 {230}{}{正在从中获取零件...车库城？ -- Getting the part from... Garage City?}
@@ -48,6 +48,6 @@
 ### {234}{}{Well, let's fix the dossier here a little... and then... I hope this will knock Carlos down.}
 {234}{}{好吧，让我们把档案整理一下...然后...我希望这能击倒卡洛斯。 -- Well, let's fix the dossier here a little... and then... I hope this will knock Carlos down.}
 ### {235}{}{(You committed a diversion. The tinkerers will surely have suspicions about this newcomer from the wasteland)}
-{235}{}{（你犯了一个转移注意力的错误。修补匠们肯定会怀疑这个来自荒原的新人） -- (You committed a diversion. The tinkerers will surely have suspicions about this newcomer from the wasteland)}
+{235}{}{（你犯了一个转移注意力的错误。锡匠们肯定会怀疑这个来自荒原的新人） -- (You committed a diversion. The tinkerers will surely have suspicions about this newcomer from the wasteland)}
 ### {236}{}{Great, this will make Carlos leave Two-Sun.}
 {236}{}{太好了，这将使卡洛斯离开两个太阳。 -- Great, this will make Carlos leave Two-Sun.}

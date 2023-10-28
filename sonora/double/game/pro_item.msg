@@ -1551,7 +1551,7 @@
 ### {38600}{}{Neurochip}
 {38600}{}{神经晶片 -- Neurochip}
 ### {38601}{}{Implant extracted from the body of the deceased tinker.}
-{38601}{}{从已故修补匠的尸体上提取的植入物。 -- Implant extracted from the body of the deceased tinker.}
+{38601}{}{从已故锡匠的尸体上提取的植入物。 -- Implant extracted from the body of the deceased tinker.}
 ### {38700}{}{Ranger badge}
 {38700}{}{游骑兵徽章 -- Ranger badge}
 ### {38701}{}{This badge turned out to be in the hands of the wrong people at the time.}

@@ -34,14 +34,14 @@
 ### {1210}{}{I escaped from a labor camp and I need help.}
 {1210}{}{我从劳改营逃出来，需要帮助。 -- I escaped from a labor camp and I need help.}
 ### {211}{}{We were all slaves of tinsmiths once. But we managed to escape. And now our goal is to bring justice to those who put themselves above us. I think we'll work together.}
-{211}{}{我们曾经都是铁匠的奴隶。但我们设法逃脱了。现在，我们的目标是为那些凌驾于我们之上的人伸张正义。我认为我们将共同努力。 -- We were all slaves of tinsmiths once. But we managed to escape. And now our goal is to bring justice to those who put themselves above us. I think we'll work together.}
+{211}{}{我们曾经都是锡匠的奴隶。但我们设法逃脱了。现在，我们的目标是为那些凌驾于我们之上的人伸张正义。我认为我们将共同努力。 -- We were all slaves of tinsmiths once. But we managed to escape. And now our goal is to bring justice to those who put themselves above us. I think we'll work together.}
 ### {212}{}{It's good that we found mutual understanding.}
 {212}{}{我们找到了相互理解，这很好。 -- It's good that we found mutual understanding.}
 
 ### {220}{}{I'm here on behalf of the tinsmiths. They are investigating the attack on the caravan.}
 {220}{}{我是代表锡匠们来的。他们正在调查对商队的袭击。 -- I'm here on behalf of the tinsmiths. They are investigating the attack on the caravan.}
 ### {221}{}{Yes, that was our job... More precisely, our achievement. It took a whole month to prepare for this operation, and we coped. Now the tinkerers will understand that they are not alone on the Wastelands. And the supplies we got will go to the good cause of our struggle.}
-{221}{}{是的，那是我们的工作。。。更确切地说，是我们的成就。我们花了整整一个月的时间为这次行动做准备，我们应付了。现在，修补匠们将明白，在荒原上，他们并不孤单。我们得到的物资将用于我们的斗争。 -- Yes, that was our job... More precisely, our achievement. It took a whole month to prepare for this operation, and we coped. Now the tinkerers will understand that they are not alone on the Wastelands. And the supplies we got will go to the good cause of our struggle.}
+{221}{}{是的，那是我们的工作。。。更确切地说，是我们的成就。我们花了整整一个月的时间为这次行动做准备，我们应付了。现在，锡匠们将明白，在荒原上，他们并不孤单。我们得到的物资将用于我们的斗争。 -- Yes, that was our job... More precisely, our achievement. It took a whole month to prepare for this operation, and we coped. Now the tinkerers will understand that they are not alone on the Wastelands. And the supplies we got will go to the good cause of our struggle.}
 ### {222}{}{I see.}
 {222}{}{我明白了。 -- I see.}
 ### {223}{}{You know I can't let you go now. Or is there a reason?}
@@ -83,7 +83,7 @@
 ### {260}{}{I wonder where you all come from?}
 {260}{}{我想知道你们都是从哪里来的？ -- I wonder where you all come from?}
 ### {261}{}{Each of us was once a slave to the tinsmiths. We were sent to a Restricted Area for mining, but some managed to escape. It is impossible to get far from here, I had to settle in these ruins and survive on my own.}
-{261}{}{我们每个人都曾经是铁匠的奴隶。我们被送到一个限制区采矿，但有些人设法逃脱了。离开这里是不可能的，我不得不在这些废墟中安顿下来，独自生存。 -- Each of us was once a slave to the tinsmiths. We were sent to a Restricted Area for mining, but some managed to escape. It is impossible to get far from here, I had to settle in these ruins and survive on my own.}
+{261}{}{我们每个人都曾经是锡匠的奴隶。我们被送到一个限制区采矿，但有些人设法逃脱了。离开这里是不可能的，我不得不在这些废墟中安顿下来，独自生存。 -- Each of us was once a slave to the tinsmiths. We were sent to a Restricted Area for mining, but some managed to escape. It is impossible to get far from here, I had to settle in these ruins and survive on my own.}
 ### {262}{}{What did you mine?}
 {262}{}{你的是什么？ -- What did you mine?}
 ### {263}{}{Objects of ancient technologies. Many of them have not been working for a long time, and some are too dangerous to touch. Therefore, the disturbed spirit of old technologies resisted our appearance and began to destroy all people in the Forbidden Zone, even if they are not here of their own free will.}
@@ -95,7 +95,7 @@
 ### {266}{}{Why don't you leave here?}
 {266}{}{你为什么不离开这里？ -- Why don't you leave here?}
 ### {267}{}{We are like this old repository. The tinkerers have destroyed everything that was dear to us, but we are trying to preserve at least a little of the life we are used to. If not for ourselves, then for our relatives who could still survive in the wastelands.}
-{267}{}{我们就像这个古老的仓库。修补匠们摧毁了我们所珍视的一切，但我们正在努力至少保留一点我们习惯的生活。如果不是为了我们自己，那就是为了我们仍然可以在荒原中生存的亲人。 -- We are like this old repository. The tinkerers have destroyed everything that was dear to us, but we are trying to preserve at least a little of the life we are used to. If not for ourselves, then for our relatives who could still survive in the wastelands.}
+{267}{}{我们就像这个古老的仓库。锡匠们摧毁了我们所珍视的一切，但我们正在努力至少保留一点我们习惯的生活。如果不是为了我们自己，那就是为了我们仍然可以在荒原中生存的亲人。 -- We are like this old repository. The tinkerers have destroyed everything that was dear to us, but we are trying to preserve at least a little of the life we are used to. If not for ourselves, then for our relatives who could still survive in the wastelands.}
 ### {268}{}{Speaking of survival, do you mean attacking travelers?}
 {268}{}{说到生存，你的意思是攻击旅行者吗？ -- Speaking of survival, do you mean attacking travelers?}
 ### {269}{}{Including. Our worst enemies are provided with everything they need because of the wasteland merchants. However, it is not necessary to kill them - it is enough just to scare them away from the feeder so that they stay away from fear.}
@@ -119,12 +119,12 @@
 ### {283}{}{Hard is dead, the tinsmiths are in turmoil. Isn't it time for you to go home?}
 {283}{}{硬死了，打铁的人一片混乱。你不是该回家了吗？ -- Hard is dead, the tinsmiths are in turmoil. Isn't it time for you to go home?}
 ### {284}{}{So is it true? At first I didn't believe the denunciations, but now I see how it turned out. While it is difficult to say what such a shock will turn out for the tinsmiths, but they will obviously not get stronger soon. I think now we can go home and start life anew. Thanks for the help.}
-{284}{}{那么这是真的吗？起初我不相信这些谴责，但现在我看到了结果。虽然很难说这样的冲击会对铁匠们产生什么影响，但他们显然不会很快变得更强。我想现在我们可以回家重新开始生活了。谢谢你的帮助。 -- So is it true? At first I didn't believe the denunciations, but now I see how it turned out. While it is difficult to say what such a shock will turn out for the tinsmiths, but they will obviously not get stronger soon. I think now we can go home and start life anew. Thanks for the help.}
+{284}{}{那么这是真的吗？起初我不相信这些谴责，但现在我看到了结果。虽然很难说这样的冲击会对锡匠们产生什么影响，但他们显然不会很快变得更强。我想现在我们可以回家重新开始生活了。谢谢你的帮助。 -- So is it true? At first I didn't believe the denunciations, but now I see how it turned out. While it is difficult to say what such a shock will turn out for the tinsmiths, but they will obviously not get stronger soon. I think now we can go home and start life anew. Thanks for the help.}
 ### {285}{}{You're welcome.}
 {285}{}{不客气。 -- You're welcome.}
 
 ### {286}{}{The tinsmiths are preparing to attack. Run if life is precious.}
-{286}{}{铁匠们正准备进攻。如果生命是宝贵的，就跑吧。 -- The tinsmiths are preparing to attack. Run if life is precious.}
+{286}{}{锡匠们正准备进攻。如果生命是宝贵的，就跑吧。 -- The tinsmiths are preparing to attack. Run if life is precious.}
 ### {287}{}{I'm not going to run because of questionable rumors.}
 {287}{}{我不会因为可疑的谣言而参选。 -- I'm not going to run because of questionable rumors.}
 ### {288}{}{Then it will remain your problem.}
@@ -137,7 +137,7 @@
 ### {291}{}{You won't last in this basement if the tinkerers break through the barricades. And even more so, you will achieve nothing by your death.}
 {291}{}{如果修修补补的人冲破路障，你在这个地下室就撑不下去了。更重要的是，你的死将一事无成。 -- You won't last in this basement if the tinkerers break through the barricades. And even more so, you will achieve nothing by your death.}
 ### {292}{}{We have to keep fighting! You can't leave tinkerers unpunished.}
-{292}{}{我们必须继续战斗！你不能让修补匠逍遥法外。 -- We have to keep fighting! You can't leave tinkerers unpunished.}
+{292}{}{我们必须继续战斗！你不能让锡匠逍遥法外。 -- We have to keep fighting! You can't leave tinkerers unpunished.}
 ### {293}{}{If you want to punish them, it's better to do it peacefully, undermining trade ties and reputation. Now you are exhausted and powerless.}
 {293}{}{如果你想惩罚他们，最好是和平地惩罚，破坏贸易关系和声誉。现在你已经筋疲力尽，无能为力。 -- If you want to punish them, it's better to do it peacefully, undermining trade ties and reputation. Now you are exhausted and powerless.}
 ### {294}{}{It's up to you.}
@@ -147,4 +147,4 @@
 ### {296}{}{The right idea...}
 {296}{}{正确的想法。。。 -- The right idea...}
 ### {297}{}{The tinsmiths are preparing for an attack. You have no chance.}
-{297}{}{铁匠们正在为进攻做准备。你没有机会。 -- The tinsmiths are preparing for an attack. You have no chance.}
+{297}{}{锡匠们正在为进攻做准备。你没有机会。 -- The tinsmiths are preparing for an attack. You have no chance.}

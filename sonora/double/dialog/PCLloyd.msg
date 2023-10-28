@@ -220,7 +220,7 @@
 ### {323}{}{The rumors from Casa Grande do not lie - the city is torn apart by a constant struggle for power. One mayor replaces another as soon as the sun rises. When you're in those parts, be prepared that you may be deceived or involved in trouble.}
 {323}{}{来自格兰德之家的传言并没有说谎——这座城市被不断的权力斗争撕裂了。太阳一升起，一位市长就接替另一位市长。当你处于这种情况时，要做好准备，以免上当受骗或陷入麻烦。 -- The rumors from Casa Grande do not lie - the city is torn apart by a constant struggle for power. One mayor replaces another as soon as the sun rises. When you're in those parts, be prepared that you may be deceived or involved in trouble.}
 ### {324}{}{There are a lot of rumors about tinsmiths living in the south. Caravans go there, but few of them can trade with this mysterious people.}
-{324}{}{有很多关于住在南方的铁匠的传言。大篷车去那里，但很少有人能和这个神秘的人交易。 -- There are a lot of rumors about tinsmiths living in the south. Caravans go there, but few of them can trade with this mysterious people.}
+{324}{}{有很多关于住在南方的锡匠的传言。大篷车去那里，但很少有人能和这个神秘的人交易。 -- There are a lot of rumors about tinsmiths living in the south. Caravans go there, but few of them can trade with this mysterious people.}
 ### {325}{}{When the caravans began to go south, bandits immediately lined up along the highways. Highway workers, as they are called, rob and kill travelers.}
 {325}{}{当大篷车开始向南行驶时，土匪立即沿着高速公路排起了长队。公路工人，正如他们所说的，抢劫并杀害旅行者。 -- When the caravans began to go south, bandits immediately lined up along the highways. Highway workers, as they are called, rob and kill travelers.}
 ### {326}{}{Here's another cap. How can I protect myself on the way?}

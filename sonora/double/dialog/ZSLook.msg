@@ -118,7 +118,7 @@
 ### {250}{}{This computer was created by tinsmiths from various components. Surprisingly, it works great.}
 {250}{}{这台计算机是由锡匠用各种部件制造的。令人惊讶的是，它的效果非常好。 -- This computer was created by tinsmiths from various components. Surprisingly, it works great.}
 ### {251}{}{It looks like the tinsmiths have made good progress}
-{251}{}{看起来铁匠们已经取得了很好的进步 -- It looks like the tinsmiths have made good progress}
+{251}{}{看起来锡匠们已经取得了很好的进步 -- It looks like the tinsmiths have made good progress}
 ### {252}{}{Blackened gold bars. They say they used to have a high price, but now no one will pay even one lid for them.}
 {252}{}{发黑的金条。他们说他们以前的价格很高，但现在没有人愿意为他们支付哪怕一个盖子。 -- Blackened gold bars. They say they used to have a high price, but now no one will pay even one lid for them.}
 ### {253}{}{This gold has long been devalued}

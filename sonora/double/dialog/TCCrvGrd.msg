@@ -18,12 +18,12 @@
 ### {116}{}{Talk to the boss, I'm just guarding the cargo.}
 {116}{}{跟老板说，我只是在看管货物。 -- Talk to the boss, I'm just guarding the cargo.}
 ### {117}{}{I'd stay away from tinsmiths if I were you.}
-{117}{}{如果我是你，我会远离铁匠。 -- I'd stay away from tinsmiths if I were you.}
+{117}{}{如果我是你，我会远离锡匠。 -- I'd stay away from tinsmiths if I were you.}
 ### {118}{}{Need some advice? Don't go to the local doctor.}
 {118}{}{需要一些建议吗？不要去看当地的医生。 -- Need some advice? Don't go to the local doctor.}
 ### {119}{}{I'd rather go back to Phoenix.}
 {119}{}{我宁愿回凤凰城。 -- I'd rather go back to Phoenix.}
 ### {120}{}{Tinsmiths don't like strangers and try to avoid unnecessary conversations.}
-{120}{}{铁匠不喜欢陌生人，尽量避免不必要的谈话。 -- Tinsmiths don't like strangers and try to avoid unnecessary conversations.}
+{120}{}{锡匠不喜欢陌生人，尽量避免不必要的谈话。 -- Tinsmiths don't like strangers and try to avoid unnecessary conversations.}
 ### {121}{}{I'm scared of these tinsmiths - they're like robots.}
-{121}{}{我害怕这些铁匠，他们就像机器人。 -- I'm scared of these tinsmiths - they're like robots.}
+{121}{}{我害怕这些锡匠，他们就像机器人。 -- I'm scared of these tinsmiths - they're like robots.}

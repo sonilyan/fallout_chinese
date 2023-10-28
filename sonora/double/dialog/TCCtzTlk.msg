@@ -1,5 +1,5 @@
 ### {100}{}{You see the tinker.}
-{100}{}{你看到修补匠了。 -- You see the tinker.}
+{100}{}{你看到锡匠了。 -- You see the tinker.}
 ### {101}{}{Here is a resident of Two-Sun. She looks more civilized than other residents.}
 {101}{}{这是Two Sun的一位居民。她看起来比其他居民更文明。 -- Here is a resident of Two-Sun. She looks more civilized than other residents.}
 ### {102}{}{You have won the favor of the local population.}
@@ -49,7 +49,7 @@
 
 #Questions
 ### {220}{}{Can you tell me why tinsmiths buy slaves?}
-{220}{}{你能告诉我为什么铁匠会买奴隶吗？ -- Can you tell me why tinsmiths buy slaves?}
+{220}{}{你能告诉我为什么锡匠会买奴隶吗？ -- Can you tell me why tinsmiths buy slaves?}
 ### {221}{}{We need a workforce to make progress. Without slaves, the process would be much slower and less efficient. Someday we will replace slaves with robots, but it will take a lot of time and energy, which is so lacking now.}
 {221}{}{我们需要一支队伍来取得进步。如果没有奴隶，这个过程会慢得多，效率也会降低。总有一天，我们会用机器人取代奴隶，但这需要大量的时间和精力，而这正是现在所缺乏的。 -- We need a workforce to make progress. Without slaves, the process would be much slower and less efficient. Someday we will replace slaves with robots, but it will take a lot of time and energy, which is so lacking now.}
 ### {222}{}{Tell us about the Progress.}
@@ -82,7 +82,7 @@
 ### {235}{}{We accept children from the wastelands and program them to serve our collective. Personality doesn't matter. Family is not needed.}
 {235}{}{我们接纳来自荒原的孩子，并安排他们为我们的集体服务。个性并不重要。不需要家庭。 -- We accept children from the wastelands and program them to serve our collective. Personality doesn't matter. Family is not needed.}
 ### {236}{}{Some tinsmiths are different from others.}
-{236}{}{有些铁匠与其他的不同。 -- Some tinsmiths are different from others.}
+{236}{}{有些锡匠与其他的不同。 -- Some tinsmiths are different from others.}
 ### {237}{}{Our society is divided into levels. Each level has its own set of knowledge and technologies. For example, only the highest members of the team can perform complex and expensive implant operations.}
 {237}{}{我们的社会是分层次的。每个级别都有自己的一套知识和技术。例如，只有团队中最高级别的成员才能进行复杂而昂贵的植入手术。 -- Our society is divided into levels. Each level has its own set of knowledge and technologies. For example, only the highest members of the team can perform complex and expensive implant operations.}
 

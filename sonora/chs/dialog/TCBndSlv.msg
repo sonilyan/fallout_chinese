@@ -4,9 +4,9 @@
 {101}{}{这是一个逃亡的奴隶谁定居在这些废墟。}
 
 ### {110}{}{The tinsmiths will pay for everything.}
-{110}{}{铁匠们将支付一切费用。}
+{110}{}{锡匠们将支付一切费用。}
 ### {111}{}{Did the tinsmiths separate you from your family? I understand...}
-{111}{}{铁匠把你和家人分开了吗？我明白...}
+{111}{}{锡匠把你和家人分开了吗？我明白...}
 ### {112}{}{If you hate tinkers, then you are among your own.}
 {112}{}{如果你讨厌修修补补，那么你就是属于你自己的人。}
 ### {113}{}{Do you want to join us?}

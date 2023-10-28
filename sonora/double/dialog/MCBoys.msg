@@ -38,4 +38,4 @@
 ### {132}{}{I wish I had armor like yours.}
 {132}{}{我希望我有像你一样的盔甲。 -- I wish I had armor like yours.}
 ### {133}{}{Are you a tinker's invention?}
-{133}{}{你是修补匠的发明吗？ -- Are you a tinker's invention?}
+{133}{}{你是锡匠的发明吗？ -- Are you a tinker's invention?}

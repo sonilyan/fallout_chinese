@@ -32,7 +32,7 @@
 ### {220}{}{I'm looking for relatives of a boy named Cody.}
 {220}{}{我在找一个叫科迪的男孩的亲戚。}
 ### {221}{}{Cody? That was our son's name... I haven't heard from him for several years- since the tinsmiths took him away.}
-{221}{}{科迪？那是我们儿子的名字...自从铁匠把他带走后，我已经好几年没有他的消息了。}
+{221}{}{科迪？那是我们儿子的名字...自从锡匠把他带走后，我已经好几年没有他的消息了。}
 ### {222}{}{Apparently we're talking about the same person.}
 {222}{}{显然，我们谈论的是同一个人。}
 ### {223}{}{So he's alive? It's a miracle, we didn't even hope... That is, I want to say that there are terrible rumors about tinsmiths. How is he feeling?}
@@ -40,7 +40,7 @@
 ### {224}{}{He is brainwashed and forced to work, but outwardly he looks fine.}
 {224}{}{他被洗脑，被迫工作，但从表面上看他很好。}
 ### {225}{}{Yes, of course. He's already a different person... He was brought up as a tinsmith, deals with his hardware and probably doesn't even remember about us. It will be better if it stays that way. I just hope he doesn't hold a grudge against us.}
-{225}{}{是的，当然。他已经是另一个人了...他从小就是一个打铁匠，处理他的硬件，可能甚至不记得我们了。如果保持这种状态会更好。我只是希望他不要对我们怀恨在心。}
+{225}{}{是的，当然。他已经是另一个人了...他从小就是一个打锡匠，处理他的硬件，可能甚至不记得我们了。如果保持这种状态会更好。我只是希望他不要对我们怀恨在心。}
 ### {226}{}{Hmm. I think I should clarify this point with him. Goodbye.}
 {226}{}{嗯。我想我应该向他澄清这一点。再见}
 

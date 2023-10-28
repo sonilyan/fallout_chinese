@@ -184,7 +184,7 @@
 ### {1290}{}{I escaped from the slave pen of the tinsmiths. Now I have nowhere to go.}
 {1290}{}{我逃离了锡匠的奴隶圈。现在我无处可去。}
 ### {291}{}{You can be understood. Tinsmiths have annoyed many people in these lands. We ourselves have become a victim of their expansion.}
-{291}{}{你可以被理解。铁匠们惹恼了这些地方的许多人。我们自己也成了他们扩张的牺牲品。}
+{291}{}{你可以被理解。锡匠们惹恼了这些地方的许多人。我们自己也成了他们扩张的牺牲品。}
 ### {292}{}{Does that mean you'll accept me?}
 {292}{}{这意味着你会接受我吗？}
 ### {293}{}{You'll have to prove your loyalty to the gang.}
@@ -227,11 +227,11 @@
 ### {322}{}{But how did you come to such a life? Where did all these guys come from?}
 {322}{}{但你是怎么过上这种生活的？这些家伙是从哪里来的？}
 ### {323}{}{Everyone has their own story. But we are all exiles. Some were kicked out of Casa Grande when Count Bustos came to power. Others were driven from their homes by tinsmiths. There are also those who fled from problems from Phoenix. We have no other way.}
-{323}{}{每个人都有自己的故事。但我们都是流亡者。当巴斯托斯伯爵掌权时，一些人被赶出了格兰德之家。其他人则被铁匠从家里赶了出来。还有一些人逃离了凤凰城的问题。我们别无选择。}
+{323}{}{每个人都有自己的故事。但我们都是流亡者。当巴斯托斯伯爵掌权时，一些人被赶出了格兰德之家。其他人则被锡匠从家里赶了出来。还有一些人逃离了凤凰城的问题。我们别无选择。}
 ### {324}{}{It's really a turbulent time now.}
 {324}{}{现在真是一个动荡的时期。}
 ### {325}{}{What did the tinsmiths annoy you with?}
-{325}{}{铁匠们用什么惹你生气？}
+{325}{}{锡匠们用什么惹你生气？}
 ### {326}{}{Their power is expanding, and the inhabitants of the Wasteland take it for granted. They brazenly seize technologies and resources, impose their own rules in settlements, force them to work for the glory of their ideas. Now we are doing the same with their caravans.}
 {326}{}{他们的力量正在扩大，荒原上的居民认为这是理所当然的。他们明目张胆地夺取技术和资源，在定居点强加自己的规则，迫使他们为自己的想法而努力。现在我们对他们的大篷车也采取了同样的做法。}
 ### {327}{}{[Listen]}
@@ -278,11 +278,11 @@
 ### {358}{}{Well, it finally dawned on you that I'm here for a reason.}
 {358}{}{你终于明白我来这里是有原因的。}
 ### {359}{}{I sent that guy to investigate for a reason. The tinkerers are expanding their power, there are more caravans, and the mayor of Casa Grande is hiring more and more cool mercenaries. A new order is coming to these lands and Great Road Wars are brewing. My gang needs to strengthen in this new world.}
-{359}{}{我派那个人去调查是有原因的。修补匠们正在扩大他们的权力，有了更多的大篷车，卡萨格兰德市长正在雇佣越来越多的酷炫雇佣兵。一个新的秩序正在向这些土地袭来，伟大的道路战争正在酝酿。在这个新世界里，我的帮派需要加强。}
+{359}{}{我派那个人去调查是有原因的。锡匠们正在扩大他们的权力，有了更多的大篷车，卡萨格兰德市长正在雇佣越来越多的酷炫雇佣兵。一个新的秩序正在向这些土地袭来，伟大的道路战争正在酝酿。在这个新世界里，我的帮派需要加强。}
 ### {360}{}{What are you up to?}
 {360}{}{你在干什么？}
 ### {361}{}{We are outlawed now. We are considered criminals. I want to negotiate a truce with the tinkerers. Go to Two-Sun and convince Master Hard to sign a contract - our fuel in exchange for independence.}
-{361}{}{我们现在被宣布为非法。我们被认为是罪犯。我想和修补匠们谈判休战。去找两个太阳，说服哈德大师签一份合同——我们的燃料，以换取独立。}
+{361}{}{我们现在被宣布为非法。我们被认为是罪犯。我想和锡匠们谈判休战。去找两个太阳，说服哈德大师签一份合同——我们的燃料，以换取独立。}
 ### {362}{}{And if he refuses?}
 {362}{}{如果他拒绝了呢？}
 ### {363}{}{He must not refuse. Do everything to win his favor.}
@@ -303,9 +303,9 @@
 ### {370}{}{The bad news is that the tinkerers have been defeated by artificial intelligence. There is no one else to negotiate with.}
 {370}{}{坏消息是，修补者已经被人工智能打败了。没有其他人可以谈判。}
 ### {371}{}{The bad news is that Master Hard has died, and other tinkerers are too aggressive towards outsiders.}
-{371}{}{坏消息是，哈德大师去世了，其他修补匠对局外人太过咄咄逼人。}
+{371}{}{坏消息是，哈德大师去世了，其他锡匠对局外人太过咄咄逼人。}
 ### {372}{}{So is it true? Damn it, without tinsmiths, the tracks will be empty again. There will be fewer caravans, it will hurt all residents. It looks like hard times are coming.}
-{372}{}{那么这是真的吗？该死，没有打铁匠，铁轨又会空荡荡的。大篷车将减少，这将伤害所有居民。看起来困难时期即将到来。}
+{372}{}{那么这是真的吗？该死，没有打锡匠，铁轨又会空荡荡的。大篷车将减少，这将伤害所有居民。看起来困难时期即将到来。}
 ### {373}{}{What are the plans?}
 {373}{}{计划是什么？}
 ### {374}{}{Rob as much as we can carry. And when the tracks are completely empty, you will have to go to the mountains in search of game.}
@@ -320,7 +320,7 @@
 ### {380}{}{Good news - Hard has agreed to a trade contract.}
 {380}{}{好消息-哈德已经同意了一项贸易合同。}
 ### {381}{}{Hmm, things seem to be getting better. Although I was sure that the idea would not work. However, it is not enough to negotiate with the tinsmiths.}
-{381}{}{嗯，情况似乎在好转。尽管我确信这个想法不会奏效。然而，仅仅与铁匠谈判是不够的。}
+{381}{}{嗯，情况似乎在好转。尽管我确信这个想法不会奏效。然而，仅仅与锡匠谈判是不够的。}
 ### {382}{}{Who else is bothering you?}
 {382}{}{还有谁在打扰你？}
 ### {383}{}{Count Bustos, mayor of Casa Grande. If he refuses to recognize us as a peaceful settlement, then the caravaneers will have nothing to do with us. We need to convince him to sign the contract... or - get rid of the mayor.}

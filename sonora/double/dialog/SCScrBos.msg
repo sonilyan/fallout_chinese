@@ -296,7 +296,7 @@
 ### {336}{}{A whole war broke out in San Brahmin. Is that what you wanted?}
 {336}{}{圣婆罗门爆发了一场全面的战争。这就是你想要的吗？ -- A whole war broke out in San Brahmin. Is that what you wanted?}
 ### {337}{}{Two-Sun's tinsmiths are very strong. They take technology from others and condemn people to death in Sacred Mines.}
-{337}{}{孙的两个铁匠都很强壮。他们从其他人那里拿走技术，并在神圣矿山判处人们死刑。 -- Two-Sun's tinsmiths are very strong. They take technology from others and condemn people to death in Sacred Mines.}
+{337}{}{孙的两个锡匠都很强壮。他们从其他人那里拿走技术，并在神圣矿山判处人们死刑。 -- Two-Sun's tinsmiths are very strong. They take technology from others and condemn people to death in Sacred Mines.}
 ### {338}{}{Casa Grande. Visit the local cemetery to see how technology has doomed the population to bloody wars over water.}
 {338}{}{格兰德之家。参观当地的墓地，看看技术是如何使人们注定要为争夺水源而进行血腥战争的。 -- Casa Grande. Visit the local cemetery to see how technology has doomed the population to bloody wars over water.}
 ### {339}{}{Casa Nueva is like a paddock with a herd of Brahmins. Without you, these people are weak-willed and helpless.}

@@ -70,9 +70,9 @@
 ### {223}{}{I was sent by Hard from Two-Sun for service. Here is his recommendation.}
 {223}{}{我是从两个太阳派来的。这是他的推荐信。 -- I was sent by Hard from Two-Sun for service. Here is his recommendation.}
 ### {224}{}{Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how did you earn such trust among tinkerers?}
-{224}{}{Hard一定有很好的理由推荐你。听说《两个太阳》最近有大的变化？但请告诉我你自己，你是谁？你是如何在修补匠中赢得如此信任的？ -- Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how did you earn such trust among tinkerers?}
+{224}{}{Hard一定有很好的理由推荐你。听说《两个太阳》最近有大的变化？但请告诉我你自己，你是谁？你是如何在锡匠中赢得如此信任的？ -- Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how did you earn such trust among tinkerers?}
 ### {1224}{}{Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how have you earned such trust among tinkerers?}
-{1224}{}{Hard一定有很好的理由推荐你。听说《两个太阳》最近有大的变化？但请告诉我你自己，你是谁？你是如何在修补匠中赢得如此信任的？ -- Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how have you earned such trust among tinkerers?}
+{1224}{}{Hard一定有很好的理由推荐你。听说《两个太阳》最近有大的变化？但请告诉我你自己，你是谁？你是如何在锡匠中赢得如此信任的？ -- Hard must have a really good reason for your recommendation. I heard that there have been major changes in Two-Sun recently? But tell me about yourself, who are you and how have you earned such trust among tinkerers?}
 ### {225}{}{The Rangers sent me. They want to stop you, but I'm interested in listening to both sides.}
 {225}{}{游骑兵队派我来了。他们想阻止你，但我有兴趣听取双方的意见。 -- The Rangers sent me. They want to stop you, but I'm interested in listening to both sides.}
 ### {226}{}{Ha, we know the Rangers are scouting. But I respect your courage. Tell me, what did the Rangers promise you in exchange for our secrets?}

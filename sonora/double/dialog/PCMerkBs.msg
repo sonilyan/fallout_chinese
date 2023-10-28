@@ -132,9 +132,9 @@
 ### {264}{}{I will kill all the slavers in Arizona.}
 {264}{}{我要杀死亚利桑那州所有的奴隶主。 -- I will kill all the slavers in Arizona.}
 ### {265}{}{I want my freedom back. The tinkerers treated me badly.}
-{265}{}{我想重获自由。修补匠们待我不好。 -- I want my freedom back. The tinkerers treated me badly.}
+{265}{}{我想重获自由。锡匠们待我不好。 -- I want my freedom back. The tinkerers treated me badly.}
 ### {266}{}{Hmm. Tinkerers will not want to buy a runaway slave again at the same price. You're putting me in an awkward position. Well, I'm ready to buy your rights and sign a free one. But it will cost 1000 caps. I doubt you have that amount.}
-{266}{}{嗯。修补匠们不会再以同样的价格买一个逃跑的奴隶了。你让我处于尴尬的境地。好吧，我准备买下你的权利并签署一份免费的。但它将花费1000顶帽子。我怀疑你有那么多钱。 -- Hmm. Tinkerers will not want to buy a runaway slave again at the same price. You're putting me in an awkward position. Well, I'm ready to buy your rights and sign a free one. But it will cost 1000 caps. I doubt you have that amount.}
+{266}{}{嗯。锡匠们不会再以同样的价格买一个逃跑的奴隶了。你让我处于尴尬的境地。好吧，我准备买下你的权利并签署一份免费的。但它将花费1000顶帽子。我怀疑你有那么多钱。 -- Hmm. Tinkerers will not want to buy a runaway slave again at the same price. You're putting me in an awkward position. Well, I'm ready to buy your rights and sign a free one. But it will cost 1000 caps. I doubt you have that amount.}
 ### {267}{}{I'll find it.}
 {267}{}{我会找到的。 -- I'll find it.}
 ### {268}{}{Then there's nothing left for me... I'll kill you.}

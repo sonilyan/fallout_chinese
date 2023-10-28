@@ -43,7 +43,7 @@
 ### {227}{}{Not my profile, slaves are too troublesome. For such a case, they usually organize a special convoy in the mercenary guild or recruit people from the population.}
 {227}{}{不是我的个人资料，奴隶太麻烦了。在这种情况下，他们通常会在雇佣军公会中组织一支特殊的车队，或者从人群中招募人员。}
 ### {228}{}{Who are these tinsmiths?}
-{228}{}{这些铁匠是谁？}
+{228}{}{这些锡匠是谁？}
 ### {229}{}{A strange, closed people, obsessed with technology. They have restored ancient machines and are now repairing broken machinery. No one in all of Arizona can match their skills.}
 {229}{}{一个奇怪、封闭的人，痴迷于技术。他们修复了古老的机器，现在正在修理损坏的机器。亚利桑那州没有人能与他们的技术相媲美。}
 ### {230}{}{Where is their settlement?}
@@ -59,14 +59,14 @@
 ### {235}{}{Okay, forget it.}
 {235}{}{好吧，算了。}
 ### {236}{}{And who are the tinsmiths?}
-{236}{}{那些铁匠是谁？}
+{236}{}{那些锡匠是谁？}
 
 ### {240}{}{Damn it! Why did Followers decide to leave this world right now, when business was booming?}
 {240}{}{该死！为什么追随者们在生意兴隆的时候决定离开这个世界？}
 ### {241}{}{Were they that important to your caravan?}
 {241}{}{它们对你的商队有那么重要吗？}
 ### {242}{}{After the Followers, no one will want to do business with me. We only worked with them. Besides, without Followers, the tinsmiths themselves will probably reduce the turnover. Hell, the entire Phoenix economy will come to an end because of some ridiculous explosion. What the hell happened there?}
-{242}{}{在追随者之后，没有人愿意和我做生意。我们只和他们一起工作。此外，如果没有追随者，铁匠们自己可能会减少营业额。见鬼，整个凤凰城的经济将因为某种荒谬的爆炸而结束。那里到底发生了什么？}
+{242}{}{在追随者之后，没有人愿意和我做生意。我们只和他们一起工作。此外，如果没有追随者，锡匠们自己可能会减少营业额。见鬼，整个凤凰城的经济将因为某种荒谬的爆炸而结束。那里到底发生了什么？}
 ### {243}{}{How should I know? I generally go about my business. Bye.}
 {243}{}{我该怎么知道？我一般都是做我的事。再见}
 ### {244}{}{I have nothing to do with it! It's definitely not because of me.}
@@ -117,10 +117,10 @@
 ### {308}{}{Perhaps. But not in your case.}
 {308}{}{可能但不是在你的情况下。}
 ### {309}{}{I think I heard about this city from the tinsmiths in Two-Sun. They trade with this city, but I don't know anything else.}
-{309}{}{我想我是从《两个太阳》中的铁匠那里听说这个城市的。他们和这个城市进行贸易，但我不知道其他什么。}
+{309}{}{我想我是从《两个太阳》中的锡匠那里听说这个城市的。他们和这个城市进行贸易，但我不知道其他什么。}
 
 ### {310}{}{OK. Looks like I can do business with you. You can come with us. But keep in mind that the tinsmiths reliably guard their settlement and do not tolerate idle strangers. To get inside, you'll have to find a good reason.}
-{310}{}{好的。看来我可以和你做生意了。你可以和我们一起去。但请记住，铁匠们可靠地守卫着他们的定居点，不会容忍游手好闲的陌生人。要想进去，你必须找到一个好的理由。}
+{310}{}{好的。看来我可以和你做生意了。你可以和我们一起去。但请记住，锡匠们可靠地守卫着他们的定居点，不会容忍游手好闲的陌生人。要想进去，你必须找到一个好的理由。}
 ### {311}{}{When are the fees?}
 {311}{}{什么时候收费？}
 ### {312}{}{The fees are at 6 am. Take no more than 150 pounds of cargo with you. Also keep in mind that we will make a stop at Casa Grande, whether you like it or not.}

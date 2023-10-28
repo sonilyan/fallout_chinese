@@ -165,7 +165,7 @@
 ### {320}{}{Why do tinsmiths implant electronics in themselves?}
 {320}{}{为什么锡匠会在自己身上植入电子产品？ -- Why do tinsmiths implant electronics in themselves?}
 ### {321}{}{The human body is fragile and vulnerable. By replacing parts with electronics, we are trying to protect ourselves, become stronger, smarter and more viable. The dream of every tinker is to achieve complete cybernetization and digitization of personality. But this, unfortunately, is an unattainable ideal.}
-{321}{}{人体是脆弱的。通过用电子产品取代零件，我们正在努力保护自己，变得更强大、更智能、更可行。每个修补匠的梦想都是实现人格的完全网络化和数字化。但不幸的是，这是一个遥不可及的理想。 -- The human body is fragile and vulnerable. By replacing parts with electronics, we are trying to protect ourselves, become stronger, smarter and more viable. The dream of every tinker is to achieve complete cybernetization and digitization of personality. But this, unfortunately, is an unattainable ideal.}
+{321}{}{人体是脆弱的。通过用电子产品取代零件，我们正在努力保护自己，变得更强大、更智能、更可行。每个锡匠的梦想都是实现人格的完全网络化和数字化。但不幸的是，这是一个遥不可及的理想。 -- The human body is fragile and vulnerable. By replacing parts with electronics, we are trying to protect ourselves, become stronger, smarter and more viable. The dream of every tinker is to achieve complete cybernetization and digitization of personality. But this, unfortunately, is an unattainable ideal.}
 
 ### {330}{}{What happened to this patient?}
 {330}{}{这个病人怎么了？ -- What happened to this patient?}

@@ -41,7 +41,7 @@
 ### {230}{}{Can you explain what's going on here?}
 {230}{}{你能解释一下这里发生了什么吗？}
 ### {231}{}{Tinsmiths are trying to open the burial of ancient equipment in the Forbidden Zone. They need local technologies and resources to expand and promote the idea of Progress. But the territory is well protected. Periodically, detachments of slaves and mercenaries are sent there, usually none of them returns.}
-{231}{}{铁匠们正试图打开紫禁城内古代设备的埋葬处。他们需要当地的技术和资源来扩大和推广进步的理念。但这块领土受到了很好的保护。奴隶和雇佣兵分遣队定期被派往那里，通常没有一个返回。}
+{231}{}{锡匠们正试图打开紫禁城内古代设备的埋葬处。他们需要当地的技术和资源来扩大和推广进步的理念。但这块领土受到了很好的保护。奴隶和雇佣兵分遣队定期被派往那里，通常没有一个返回。}
 ### {232}{}{Tell me about the tinsmiths.}
 {232}{}{告诉我关于锡匠的事。}
 ### {233}{}{This is a semi-religious clan with an old history. They want to revive the ancient technologies they worship in order to put them in the service of people.}
@@ -61,7 +61,7 @@
 ### {240}{}{Thanks for the answers. Now it's time for me to get busy.}
 {240}{}{谢谢你的回答。现在是我忙碌的时候了。}
 ### {241}{}{Come on, the tinkerers should be interested in my success!}
-{241}{}{来吧，修补匠们应该对我的成功感兴趣！}
+{241}{}{来吧，锡匠们应该对我的成功感兴趣！}
 ### {242}{}{(looks around) I can give you something. These are pulse grenades. They say you can kill a robot with such a weapon at a time. Use them as a last resort.}
 {242}{}{（环顾四周）我可以给你一些东西。这些是脉冲手榴弹。他们说你可以一次用这样的武器杀死一个机器人。把它们作为最后的手段。}
 ### {243}{}{Thank you, Carlos. You helped me a lot.}
@@ -75,7 +75,7 @@
 ### {250}{}{I need a power cell for the generator. Can you get it?}
 {250}{}{我需要一个发电机的电池。你能拿到吗？}
 ### {251}{}{Don't ask me for anything! The tinkerers won't like it if I distribute technology without their permission.}
-{251}{}{什么都不要问我！如果我在未经他们许可的情况下分发技术，修补匠们不会喜欢的。}
+{251}{}{什么都不要问我！如果我在未经他们许可的情况下分发技术，锡匠们不会喜欢的。}
 ### {252}{}{It is very important. Help me!}
 {252}{}{这非常重要。帮帮我！}
 ### {253}{}{No and no again! I'm not going to risk my place for the benefit of a handful of diggers.}
@@ -123,7 +123,7 @@
 ### {313}{}{We'll see about that...}
 {313}{}{我们拭目以待...}
 ### {314}{}{Right. Tinkerers are distrustful of the rest of the inhabitants of the Wastelands. Their trust can only be achieved by fanaticism about technology. It will be very difficult to join their ranks as equals.}
-{314}{}{正确的修补匠们不信任荒原上的其他居民。他们的信任只能通过对技术的狂热来实现。要平等地加入他们的行列将是非常困难的。}
+{314}{}{正确的锡匠们不信任荒原上的其他居民。他们的信任只能通过对技术的狂热来实现。要平等地加入他们的行列将是非常困难的。}
 ### {315}{}{Then go back to the Villa and bring your knowledge there - that's your way.}
 {315}{}{然后回到别墅，把你的知识带到那里——这就是你的方式。}
 ### {316}{}{Finally I hear the voice of reason in all this nonsense.}

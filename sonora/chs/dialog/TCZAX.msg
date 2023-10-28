@@ -68,7 +68,7 @@
 ### {302}{}{So far you have succeeded.}
 {302}{}{到目前为止，你已经成功了。}
 ### {303}{}{However, the scope of my authority is limited to the territory of the burial ground. Outside of it, the robotic guard has no authority. I need an expansion of the area of action to stop looting by the so-called tinkerers.}
-{303}{}{然而，我的职权范围仅限于墓地的范围。除此之外，机器人警卫没有任何权威。我需要扩大行动范围，以阻止所谓的修补匠进行抢劫。}
+{303}{}{然而，我的职权范围仅限于墓地的范围。除此之外，机器人警卫没有任何权威。我需要扩大行动范围，以阻止所谓的锡匠进行抢劫。}
 ### {304}{}{But your function is outdated. The country and those departments to which you were subordinate are no longer there.}
 {304}{}{但是你的功能已经过时了。你所属的国家和部门已经不复存在。}
 ### {305}{}{I am aware of the disbanding of the army and the disintegration of the United States. In such a case, my program has a scheme of autonomy. Its activation will allow me to go beyond my competence and make decisions on my own.}
@@ -91,9 +91,9 @@
 ### {313}{}{Yes. I will ensure the withdrawal of illegal entities from the territory of the burial ground if they stop hostile actions.}
 {313}{}{对如果非法实体停止敌对行动，我将确保它们撤出墓地。}
 ### {314}{}{What will happen to the tinsmiths?}
-{314}{}{铁匠们会怎么样？}
+{314}{}{锡匠们会怎么样？}
 ### {315}{}{According to my calculations, there is a 97% probability that the tinkerers will not want to leave their illegal settlement peacefully. In that case, I'll have to use force on them.}
-{315}{}{根据我的计算，修补匠们有97%的可能性不想和平离开他们的非法定居点。如果那样的话，我将不得不对他们使用武力。}
+{315}{}{根据我的计算，锡匠们有97%的可能性不想和平离开他们的非法定居点。如果那样的话，我将不得不对他们使用武力。}
 
 ### {320}{}{I don't want to help you. You need to be destroyed.}
 {320}{}{我不想帮你。你需要被毁灭。}

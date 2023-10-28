@@ -84,7 +84,7 @@
 ### {240}{}{What is this place?}
 {240}{}{这是什么地方？ -- What is this place?}
 ### {241}{}{As far as I understand, this is a graveyard of long-forgotten technologies. The tinkerers want to revive them. I wouldn't want that to happen. These fools do not understand the danger posed by the technology of the Ancients!}
-{241}{}{据我所知，这是一个被遗忘已久的技术的墓地。修补匠们想让它们复活。我不希望发生这种事。这些傻瓜不明白古人的技术所带来的危险！ -- As far as I understand, this is a graveyard of long-forgotten technologies. The tinkerers want to revive them. I wouldn't want that to happen. These fools do not understand the danger posed by the technology of the Ancients!}
+{241}{}{据我所知，这是一个被遗忘已久的技术的墓地。锡匠们想让它们复活。我不希望发生这种事。这些傻瓜不明白古人的技术所带来的危险！ -- As far as I understand, this is a graveyard of long-forgotten technologies. The tinkerers want to revive them. I wouldn't want that to happen. These fools do not understand the danger posed by the technology of the Ancients!}
 ### {242}{}{How do you know that these technologies are dangerous?}
 {242}{}{你怎么知道这些技术是危险的？ -- How do you know that these technologies are dangerous?}
 ### {243}{}{Our ancestors taught us to be afraid of old technology. They said she was unreliable and dangerous. All right. Have you already come across things that can explode in your hands or harm your health with invisible radiation? I've heard stories of entire settlements dying out from excessive attachment to technology. And in the wrong hands, old things become a weapon.}
@@ -165,7 +165,7 @@
 ### {310}{}{Bye, Padre.}
 {310}{}{再见，神父。 -- Bye, Padre.}
 ### {311}{}{Meanwhile, find Carlos and try to reason with him. The tinsmiths won this fool over to their side, filled his head with nonsense. In case of failure... It must be eliminated. Do you understand? Perhaps I'm asking too much, but imagine the danger he poses to the whole Villa now.}
-{311}{}{同时，找到卡洛斯，试着和他讲道理。铁匠们把这个傻瓜吸引到他们身边，让他的脑子里充满了胡言乱语。如果出现故障...它必须被消除。你明白吗？也许我要求太多了，但想象一下他现在对整个维拉构成的危险。 -- Meanwhile, find Carlos and try to reason with him. The tinsmiths won this fool over to their side, filled his head with nonsense. In case of failure... It must be eliminated. Do you understand? Perhaps I'm asking too much, but imagine the danger he poses to the whole Villa now.}
+{311}{}{同时，找到卡洛斯，试着和他讲道理。锡匠们把这个傻瓜吸引到他们身边，让他的脑子里充满了胡言乱语。如果出现故障...它必须被消除。你明白吗？也许我要求太多了，但想象一下他现在对整个维拉构成的危险。 -- Meanwhile, find Carlos and try to reason with him. The tinsmiths won this fool over to their side, filled his head with nonsense. In case of failure... It must be eliminated. Do you understand? Perhaps I'm asking too much, but imagine the danger he poses to the whole Villa now.}
 ### {312}{}{I understand, Padre. Rely on me.}
 {312}{}{我理解，神父。靠我。 -- I understand, Padre. Rely on me.}
 ### {313}{}{Kill your kinsman? I'm definitely not going to do that. But it's worth talking to him.}

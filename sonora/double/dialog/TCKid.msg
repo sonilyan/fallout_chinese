@@ -1,11 +1,11 @@
 ### {100}{}{You see Romeo-Six.}
 {100}{}{你看到罗密欧六号了。 -- You see Romeo-Six.}
 ### {101}{}{Here is one of the tinsmiths. He looks very young, almost a teenager.}
-{101}{}{这是一个铁匠。他看起来很年轻，几乎是个十几岁的孩子。 -- Here is one of the tinsmiths. He looks very young, almost a teenager.}
+{101}{}{这是一个锡匠。他看起来很年轻，几乎是个十几岁的孩子。 -- Here is one of the tinsmiths. He looks very young, almost a teenager.}
 ### {102}{}{To remove the implant, use the surgery skill.}
 {102}{}{要移除植入物，请使用手术技巧。 -- To remove the implant, use the surgery skill.}
 ### {103}{}{Following the tinker's instructions, you manage to extract the chip from his body.}
-{103}{}{按照修补匠的指示，你设法从他身上取出芯片。 -- Following the tinker's instructions, you manage to extract the chip from his body.}
+{103}{}{按照锡匠的指示，你设法从他身上取出芯片。 -- Following the tinker's instructions, you manage to extract the chip from his body.}
 ### {104}{}{Alien? Here? Perhaps I should double-check my weapon...}
 {104}{}{外星人在这里也许我应该仔细检查一下我的武器。。。 -- Alien? Here? Perhaps I should double-check my weapon...}
 
@@ -118,7 +118,7 @@
 ### {261}{}{Agreed.}
 {261}{}{同意。 -- Agreed.}
 ### {1261}{}{Oh, a date with a tinker? It's intriguing. I'll be there.}
-{1261}{}{哦，和小修补匠约会？这很有趣。我会在那里。 -- Oh, a date with a tinker? It's intriguing. I'll be there.}
+{1261}{}{哦，和小锡匠约会？这很有趣。我会在那里。 -- Oh, a date with a tinker? It's intriguing. I'll be there.}
 ### {262}{}{I don't think I want to be with you... uh, dating.}
 {262}{}{我想我不想和你在一起。。。呃，约会。 -- I don't think I want to be with you... uh, dating.}
 
@@ -167,7 +167,7 @@
 ### {323}{}{Okay, I'll help you escape. What should I do?}
 {323}{}{好的，我帮你逃跑。我该怎么办？ -- Okay, I'll help you escape. What should I do?}
 ### {324}{}{I can ask to join the caravan, but first I need to get rid of the chip control. Every tinker has such a chip sewn under the skin on his neck. It transmits data about my location. Help me remove it! I won't do it myself.}
-{324}{}{我可以要求加入车队，但首先我需要摆脱芯片控制。每个修补匠的脖子上都缝着这样一块芯片。它传输有关我所在位置的数据。帮我把它取下来！我不会自己做的。 -- I can ask to join the caravan, but first I need to get rid of the chip control. Every tinker has such a chip sewn under the skin on his neck. It transmits data about my location. Help me remove it! I won't do it myself.}
+{324}{}{我可以要求加入车队，但首先我需要摆脱芯片控制。每个锡匠的脖子上都缝着这样一块芯片。它传输有关我所在位置的数据。帮我把它取下来！我不会自己做的。 -- I can ask to join the caravan, but first I need to get rid of the chip control. Every tinker has such a chip sewn under the skin on his neck. It transmits data about my location. Help me remove it! I won't do it myself.}
 ### {325}{}{Okay, let's try...}
 {325}{}{好吧，让我们试试。。。 -- Okay, let's try...}
 
@@ -186,7 +186,7 @@
 ### {330}{}{Hard has agreed to meet with your family in Two-Sun. You don't have to go against the collective anymore.}
 {330}{}{Hard已同意在Two Sun与您的家人见面。你不必再反对集体了。 -- Hard has agreed to meet with your family in Two-Sun. You don't have to go against the collective anymore.}
 ### {331}{}{How did you manage it?! It's hard to argue with Master Hard, even for his narrow circle of confidants. But you're not even a tinker. Amazingly... I mean, I'm grateful to you. With your help, I will finally be able to sort out the old thorn. This is very important to me.}
-{331}{}{你是怎么做到的？！很难与哈德大师争论，即使是他的密友圈子很窄。但你甚至不是一个修补匠。令人惊奇的是。。。我的意思是，我很感激你。在你的帮助下，我终于能够解决这个老刺了。这对我来说非常重要。 -- How did you manage it?! It's hard to argue with Master Hard, even for his narrow circle of confidants. But you're not even a tinker. Amazingly... I mean, I'm grateful to you. With your help, I will finally be able to sort out the old thorn. This is very important to me.}
+{331}{}{你是怎么做到的？！很难与哈德大师争论，即使是他的密友圈子很窄。但你甚至不是一个锡匠。令人惊奇的是。。。我的意思是，我很感激你。在你的帮助下，我终于能够解决这个老刺了。这对我来说非常重要。 -- How did you manage it?! It's hard to argue with Master Hard, even for his narrow circle of confidants. But you're not even a tinker. Amazingly... I mean, I'm grateful to you. With your help, I will finally be able to sort out the old thorn. This is very important to me.}
 ### {332}{}{Well, I think we have resolved this issue.}
 {332}{}{嗯，我认为我们已经解决了这个问题。 -- Well, I think we have resolved this issue.}
 
@@ -198,7 +198,7 @@
 {337}{}{好吧，祝你旅途愉快。 -- Well, have a good trip.}
 
 ### {340}{}{I think you should know that. The tinsmiths didn't take you away, but took me as payment for helping repair the water station.}
-{340}{}{我想你应该知道这一点。铁匠们没有把你带走，而是把我当作帮修理供水站的报酬。 -- I think you should know that. The tinsmiths didn't take you away, but took me as payment for helping repair the water station.}
+{340}{}{我想你应该知道这一点。锡匠们没有把你带走，而是把我当作帮修理供水站的报酬。 -- I think you should know that. The tinsmiths didn't take you away, but took me as payment for helping repair the water station.}
 ### {341}{}{Me... sold by parents?! It changes a lot... You know, Master Hard won't like it if I keep bringing up the past. Especially after what I found out. Anyway, thanks to you, I can get rid of the old splinter.}
 {341}{}{我…被父母出卖了？！它变化很大。。。你知道吗，如果我继续提起过去，哈德大师不会喜欢的。尤其是在我发现之后。不管怎样，多亏了你，我可以摆脱旧碎片。 -- Me... sold by parents?! It changes a lot... You know, Master Hard won't like it if I keep bringing up the past. Especially after what I found out. Anyway, thanks to you, I can get rid of the old splinter.}
 ### {342}{}{Exactly. It's time to put an end to this story and move on.}
@@ -228,7 +228,7 @@
 ### {421}{}{I need nuclear batteries.}
 {421}{}{我需要核电池。 -- I need nuclear batteries.}
 ### {422}{}{The pneumatic fist that tinsmiths are famous for.}
-{422}{}{铁匠们以气动拳头闻名。 -- The pneumatic fist that tinsmiths are famous for.}
+{422}{}{锡匠们以气动拳头闻名。 -- The pneumatic fist that tinsmiths are famous for.}
 ### {423}{}{One of your pneumatic copies.}
 {423}{}{你的一个气动复制品。 -- One of your pneumatic copies.}
 ### {424}{}{Can you get glasses with a night visor?}

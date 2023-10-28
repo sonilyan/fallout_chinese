@@ -11,7 +11,7 @@
 ### {111}{}{I'm not allowed to talk to strangers.}
 {111}{}{我不允许和陌生人说话。 -- I'm not allowed to talk to strangers.}
 ### {112}{}{We are just expendable for tinsmiths.}
-{112}{}{我们只是铁匠的牺牲品。 -- We are just expendable for tinsmiths.}
+{112}{}{我们只是锡匠的牺牲品。 -- We are just expendable for tinsmiths.}
 ### {113}{}{I used to be in a gang, but I was captured and sent here.}
 {113}{}{我曾经是一伙人，但我被抓了，送到这里。 -- I used to be in a gang, but I was captured and sent here.}
 ### {114}{}{I miss my gang.}

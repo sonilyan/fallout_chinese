@@ -26,7 +26,7 @@
 ### {208}{}{Go to hell.}
 {208}{}{见鬼去吧。 -- Go to hell.}
 ### {209}{}{Stop! The tinsmiths asked me. They are looking for their comrade, he is lying in this grave.}
-{209}{}{停止铁匠们问我。他们在找他们的战友，他躺在这个坟墓里。 -- Stop! The tinsmiths asked me. They are looking for their comrade, he is lying in this grave.}
+{209}{}{停止锡匠们问我。他们在找他们的战友，他躺在这个坟墓里。 -- Stop! The tinsmiths asked me. They are looking for their comrade, he is lying in this grave.}
 
 ### {210}{}{Looking for valuables, sir.}
 {210}{}{先生，正在找贵重物品。 -- Looking for valuables, sir.}
@@ -54,7 +54,7 @@
 ### {220}{}{I'm a ranger. But who are you? Why do you come to this city and act like you can do anything?}
 {220}{}{我是一名护林员。但你是谁？你为什么来到这个城市，表现得好像什么都能做？ -- I'm a ranger. But who are you? Why do you come to this city and act like you can do anything?}
 ### {221}{}{The tinsmiths are looking for their comrade. He was killed. And it looks like you know something about it.}
-{221}{}{铁匠们正在寻找他们的战友。他被杀了。看起来你对此有所了解。 -- The tinsmiths are looking for their comrade. He was killed. And it looks like you know something about it.}
+{221}{}{锡匠们正在寻找他们的战友。他被杀了。看起来你对此有所了解。 -- The tinsmiths are looking for their comrade. He was killed. And it looks like you know something about it.}
 ### {222}{}{Who are you anyway?}
 {222}{}{你到底是谁？ -- Who are you anyway?}
 ### {223}{}{None of your business.}
@@ -69,14 +69,14 @@
 ### {233}{}{It's none of your business. I won't tell you anything.}
 {233}{}{这不关你的事。我什么都不告诉你。 -- It's none of your business. I won't tell you anything.}
 ### {234}{}{The tinsmiths asked me. They are looking for their brother. He's here.}
-{234}{}{铁匠们问我。他们在找他们的兄弟。他在这里。 -- The tinsmiths asked me. They are looking for their brother. He's here.}
+{234}{}{锡匠们问我。他们在找他们的兄弟。他在这里。 -- The tinsmiths asked me. They are looking for their brother. He's here.}
 
 ### {240}{}{I know. I killed him.}
 {240}{}{我知道。我杀了他。 -- I know. I killed him.}
 ### {241}{}{But why? What's wrong with the tinker?}
-{241}{}{但为什么呢？修补匠怎么了？ -- But why? What's wrong with the tinker?}
+{241}{}{但为什么呢？锡匠怎么了？ -- But why? What's wrong with the tinker?}
 ### {242}{}{Scum like tinsmiths should be lying in the ground. They consider themselves gods, as if everything is allowed to them. They oppress the residents, take away the latest technologies from them and force them to work. Their power casts doubt on any hopes for justice in the lands of Southern Arizona. And their very existence, combined (contemptuously) with technology, is inhumane. As for me, this is quite enough.}
-{242}{}{像铁匠一样的渣滓应该躺在地上。他们认为自己是神，好像一切都允许他们。他们压迫居民，剥夺他们的最新技术，强迫他们工作。他们的力量使人们对亚利桑那州南部地区伸张正义的希望产生了怀疑。他们的存在，与技术相结合（轻蔑地），是不人道的。对我来说，这已经足够了。 -- Scum like tinsmiths should be lying in the ground. They consider themselves gods, as if everything is allowed to them. They oppress the residents, take away the latest technologies from them and force them to work. Their power casts doubt on any hopes for justice in the lands of Southern Arizona. And their very existence, combined (contemptuously) with technology, is inhumane. As for me, this is quite enough.}
+{242}{}{像锡匠一样的渣滓应该躺在地上。他们认为自己是神，好像一切都允许他们。他们压迫居民，剥夺他们的最新技术，强迫他们工作。他们的力量使人们对亚利桑那州南部地区伸张正义的希望产生了怀疑。他们的存在，与技术相结合（轻蔑地），是不人道的。对我来说，这已经足够了。 -- Scum like tinsmiths should be lying in the ground. They consider themselves gods, as if everything is allowed to them. They oppress the residents, take away the latest technologies from them and force them to work. Their power casts doubt on any hopes for justice in the lands of Southern Arizona. And their very existence, combined (contemptuously) with technology, is inhumane. As for me, this is quite enough.}
 ### {243}{}{[Next]}
 {243}{}{[下一个 -- Next]}
 ### {244}{}{And what attracted you so much to tinsmiths? Bribed by the ringing of rusty caps?}
@@ -106,13 +106,13 @@
 ### {253}{}{Oh, don't...}
 {253}{}{哦，不要。。。 -- Oh, don't...}
 ### {254}{}{I'm a ranger too. And I'm on a mission. I have been ordered to infiltrate the ranks of the tinsmiths to find their weaknesses.}
-{254}{}{我也是一名护林员。我正在执行一项任务。我奉命潜入铁匠队伍，寻找他们的弱点。 -- I'm a ranger too. And I'm on a mission. I have been ordered to infiltrate the ranks of the tinsmiths to find their weaknesses.}
+{254}{}{我也是一名护林员。我正在执行一项任务。我奉命潜入锡匠队伍，寻找他们的弱点。 -- I'm a ranger too. And I'm on a mission. I have been ordered to infiltrate the ranks of the tinsmiths to find their weaknesses.}
 ### {255}{}{Hmm. An unexpected meeting, comrade. It's good to see you. Well, in that case, I have no more questions. We will assume that this meeting did not take place.}
 {255}{}{一个意想不到的会议，同志。很高兴见到你。既然如此，我就没有问题了。我们假定这次会议没有举行。 -- Hmm. An unexpected meeting, comrade. It's good to see you. Well, in that case, I have no more questions. We will assume that this meeting did not take place.}
 ### {256}{}{Sure. No one saw anything.}
 {256}{}{当然没有人看到任何东西。 -- Sure. No one saw anything.}
 ### {257}{}{Let me carry the remains. Tinsmiths deserve respect.}
-{257}{}{让我来抬遗体。铁匠值得尊敬。 -- Let me carry the remains. Tinsmiths deserve respect.}
+{257}{}{让我来抬遗体。锡匠值得尊敬。 -- Let me carry the remains. Tinsmiths deserve respect.}
 ### {258}{}{I can't let you keep working for these bastards.}
 {258}{}{我不能让你继续为这些混蛋工作。 -- I can't let you keep working for these bastards.}
 ### {259}{}{[Next]}
@@ -120,9 +120,9 @@
 ### {260}{}{You can hate them. But as a ranger, you have to respect a strong enemy. Let me take the remains to them.}
 {260}{}{你可以恨他们。但作为一名护林员，你必须尊重一个强大的敌人。让我把遗体带给他们。 -- You can hate them. But as a ranger, you have to respect a strong enemy. Let me take the remains to them.}
 ### {261}{}{Hmm. These words make you think. Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
-{261}{}{这些话让你思考。好吧，干你的脏活，雇佣兵。告诉铁匠们，荒原不会永远跪在他们面前。 -- Hmm. These words make you think. Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
+{261}{}{这些话让你思考。好吧，干你的脏活，雇佣兵。告诉锡匠们，荒原不会永远跪在他们面前。 -- Hmm. These words make you think. Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
 ### {1261}{}{Hmm. These words make you think. Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands won't always be on their knees before them.}
-{1261}{}{这些话让你思考。好吧，干你的脏活，雇佣兵。告诉铁匠们，荒原不会总是跪在他们面前。 -- Hmm. These words make you think. Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands won't always be on their knees before them.}
+{1261}{}{这些话让你思考。好吧，干你的脏活，雇佣兵。告诉锡匠们，荒原不会总是跪在他们面前。 -- Hmm. These words make you think. Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands won't always be on their knees before them.}
 ### {262}{}{Uh, yes, sir. As you say, sir.}
 {262}{}{嗯，是的，先生。正如你所说，先生。 -- Uh, yes, sir. As you say, sir.}
 ### {263}{}{Just leave me alone.}
@@ -130,8 +130,8 @@
 ### {264}{}{Sir, I have no complaints against you. I'm just fulfilling a peace contract.}
 {264}{}{先生，我对你没有任何抱怨。我只是在履行一份和平合同。 -- Sir, I have no complaints against you. I'm just fulfilling a peace contract.}
 ### {265}{}{(mockery) Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
-{265}{}{（嘲笑）好吧，干你的脏活，雇佣兵。告诉铁匠们，荒原不会永远跪在他们面前。 -- (mockery) Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
+{265}{}{（嘲笑）好吧，干你的脏活，雇佣兵。告诉锡匠们，荒原不会永远跪在他们面前。 -- (mockery) Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
 ### {1265}{}{(mockery) Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
-{1265}{}{（嘲笑）好吧，干你的脏活，雇佣兵。告诉铁匠们，荒原不会永远跪在他们面前。 -- (mockery) Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
+{1265}{}{（嘲笑）好吧，干你的脏活，雇佣兵。告诉锡匠们，荒原不会永远跪在他们面前。 -- (mockery) Okay, do your dirty work, mercenary. And tell the tinsmiths that the wastelands will not always kneel before them.}
 ### {266}{}{I'm just fulfilling a contract. What problems?}
 {266}{}{我只是在履行合同。什么问题？ -- I'm just fulfilling a contract. What problems?}

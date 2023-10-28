@@ -1,5 +1,5 @@
 ### {100}{}{You see the tinker.}
-{100}{}{你看到修补匠了。 -- You see the tinker.}
+{100}{}{你看到锡匠了。 -- You see the tinker.}
 ### {101}{}{In front of you is a man in dirty overalls. His bald head is wrapped in wires and sensors.}
 {101}{}{你面前是一个穿着脏工装裤的男人。他的光头被电线和传感器包裹着。 -- In front of you is a man in dirty overalls. His bald head is wrapped in wires and sensors.}
 

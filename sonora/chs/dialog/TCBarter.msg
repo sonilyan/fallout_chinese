@@ -64,7 +64,7 @@
 ### {245}{}{Where did so many canned noodles come from?}
 {245}{}{这么多罐头面条是从哪里来的？}
 ### {246}{}{From military depots that were recently found and opened. Excellent army rations. Although monotony sometimes depresses even us tinsmiths.}
-{246}{}{来自最近发现并开放的军事仓库。出色的军队口粮。尽管单调有时甚至让我们这些铁匠也感到沮丧。}
+{246}{}{来自最近发现并开放的军事仓库。出色的军队口粮。尽管单调有时甚至让我们这些锡匠也感到沮丧。}
 ### {247}{}{Noodles make me gag. Is there anything else?}
 {247}{}{面条让我作呕。还有别的吗？}
 ### {248}{}{Well... no.}
@@ -92,7 +92,7 @@
 ### {261}{}{Why don't you leave?}
 {261}{}{你为什么不离开？}
 ### {262}{}{I have nowhere to go. Tinsmiths were all I knew. And without technology, I certainly won't be able to survive. But there is one idea - I will try to make a flying platform and go to California on it. There will surely be a use for me there.}
-{262}{}{我无处可去。我只知道打铁匠。如果没有技术，我肯定无法生存。但有一个想法——我会试着做一个飞行平台，坐着它去加利福尼亚。在那里肯定会对我有用。}
+{262}{}{我无处可去。我只知道打锡匠。如果没有技术，我肯定无法生存。但有一个想法——我会试着做一个飞行平台，坐着它去加利福尼亚。在那里肯定会对我有用。}
 ### {263}{}{That's it. Well, come on.}
 {263}{}{就这样。好吧，来吧。}
 ### {264}{}{How did you survive?}
@@ -266,7 +266,7 @@
 ### {411}{}{Well, that's fair. I have the information I need. With her help, you will surely improve your skills. Although many of us do not like it when commoners have a hand in great ancient technologies.}
 {411}{}{这很公平。我有我需要的信息。在她的帮助下，你一定会提高你的技能。尽管我们中的许多人不喜欢平民参与伟大的古代技术。}
 ### {412}{}{I'll need it. See you later, tinker.}
-{412}{}{我需要它。回头见，修补匠。}
+{412}{}{我需要它。回头见，锡匠。}
 ### {413}{}{We have a great pneumatic fist with which we knock out any nonsense from the minds of strangers. I don't see a watch among your junk, desert savage.}
 {413}{}{我们有一个巨大的气动拳头，可以把陌生人脑子里的任何废话都敲出来。我在你的垃圾堆里看不到手表，沙漠野蛮人。}
 ### {414}{}{How did it happen so...}

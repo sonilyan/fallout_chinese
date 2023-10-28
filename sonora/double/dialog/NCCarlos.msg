@@ -14,7 +14,7 @@
 ### {202}{}{How did your Followers receive you?}
 {202}{}{你的追随者是如何接待你的？ -- How did your Followers receive you?}
 ### {203}{}{Quite kindly. They are good people, which cannot be said about the tinsmiths.}
-{203}{}{非常友善。他们是好人，这不能说是铁匠。 -- Quite kindly. They are good people, which cannot be said about the tinsmiths.}
+{203}{}{非常友善。他们是好人，这不能说是锡匠。 -- Quite kindly. They are good people, which cannot be said about the tinsmiths.}
 ### {204}{}{Have you sorted out your place in Casa Nueva yet?}
 {204}{}{你把你在努瓦之家的位置整理好了吗？ -- Have you sorted out your place in Casa Nueva yet?}
 ### {205}{}{There's a lot of work for me here. Besides, I signed a contract for several years... Well, I put a cross. Now I have a home and all the conditions for survival. I won't starve, that's for sure.}

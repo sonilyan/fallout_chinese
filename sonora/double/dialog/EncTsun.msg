@@ -1,7 +1,7 @@
 ### {100}{}{Here is a cyberpsih.}
 {100}{}{这是一个赛博精神。 -- Here is a cyberpsih.}
 ### {101}{}{You see a distraught tinker whose mind has been taken over by technology.}
-{101}{}{你会看到一个心烦意乱的修补匠，他的思想已经被技术接管了。 -- You see a distraught tinker whose mind has been taken over by technology.}
+{101}{}{你会看到一个心烦意乱的锡匠，他的思想已经被技术接管了。 -- You see a distraught tinker whose mind has been taken over by technology.}
 
 ### {110}{}{How my head hurts!}
 {110}{}{我的头好疼！ -- How my head hurts!}

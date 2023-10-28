@@ -108,7 +108,7 @@
 ### {256}{}{Phoenix is actively developing slavery throughout Southern Arizona. The villa has already become a victim.}
 {256}{}{菲尼克斯正在亚利桑那州南部积极发展奴隶制。别墅已经成为受害者。}
 ### {257}{}{Phoenix cooperates with the tinsmiths who enslave the tribes. None of them can be trusted.}
-{257}{}{菲尼克斯与奴役部落的铁匠合作。他们谁都不可信。}
+{257}{}{菲尼克斯与奴役部落的锡匠合作。他们谁都不可信。}
 ### {258}{}{There is another person who is bothering you and your tribe. What are you going to do with Ranger?}
 {258}{}{还有另一个人在困扰你和你的部落。你打算怎么处置流浪者？}
 ### {259}{}{I'll have to kick him out of the pueblo. Let him leave here in peace.}

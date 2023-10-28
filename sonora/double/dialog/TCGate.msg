@@ -87,9 +87,9 @@
 {231}{}{我想我会找到合适数量的帽子。 -- I think I will find the right amount of caps.}
 
 ### {232}{}{I am only a peaceful preacher of the Sacred Fire. Let me in for the night, generous tinker!}
-{232}{}{我只是一个和平的圣火传教士。让我进来过夜吧，慷慨的修补匠！ -- I am only a peaceful preacher of the Sacred Fire. Let me in for the night, generous tinker!}
+{232}{}{我只是一个和平的圣火传教士。让我进来过夜吧，慷慨的锡匠！ -- I am only a peaceful preacher of the Sacred Fire. Let me in for the night, generous tinker!}
 ### {1232}{}{I am only a peaceful preacher of the Sacred Fire. Let us in for the night, generous tinker!}
-{1232}{}{我只是一个和平的圣火传教士。让我们进来过夜吧，慷慨的修补匠！ -- I am only a peaceful preacher of the Sacred Fire. Let us in for the night, generous tinker!}
+{1232}{}{我只是一个和平的圣火传教士。让我们进来过夜吧，慷慨的锡匠！ -- I am only a peaceful preacher of the Sacred Fire. Let us in for the night, generous tinker!}
 ### {233}{}{The Church of the Sacred Fire has been our reliable partner for several years. We welcome you to Two-Sun, minister.}
 {233}{}{圣火教会多年来一直是我们可靠的合作伙伴。部长，我们欢迎您光临二日。 -- The Church of the Sacred Fire has been our reliable partner for several years. We welcome you to Two-Sun, minister.}
 ### {1233}{}{Sacred Fire Church has been our reliable partner for several years. We welcome you to Two-Sun, servant.}

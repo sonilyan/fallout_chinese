@@ -15,11 +15,11 @@
 ### {204}{}{What are you doing?}
 {204}{}{你在干什么？ -- What are you doing?}
 ### {205}{}{I see you're not going to get rid of that easily. The church needs the services of tinsmiths, just like any modern community. I am assigned to monitor the fulfillment of orders.}
-{205}{}{我看你不会轻易摆脱的。教堂需要铁匠的服务，就像任何现代社区一样。我被指派监督订单的履行情况。 -- I see you're not going to get rid of that easily. The church needs the services of tinsmiths, just like any modern community. I am assigned to monitor the fulfillment of orders.}
+{205}{}{我看你不会轻易摆脱的。教堂需要锡匠的服务，就像任何现代社区一样。我被指派监督订单的履行情况。 -- I see you're not going to get rid of that easily. The church needs the services of tinsmiths, just like any modern community. I am assigned to monitor the fulfillment of orders.}
 ### {206}{}{Are the tinkers that good?}
-{206}{}{修补匠有那么好吗？ -- Are the tinkers that good?}
+{206}{}{锡匠有那么好吗？ -- Are the tinkers that good?}
 ### {207}{}{They are the best in their field. You may have already come across their inventions. Pneumatic weapons, computing devices, even prosthetics and simple implants. Fortunately, tinkerers aren't stupid enough to deal with the first person they meet. They are reluctant to share knowledge and technology. Our church had the honor to find a common language with them.}
-{207}{}{他们是本领域最好的。你可能已经发现了他们的发明。气动武器，计算机设备，甚至假肢和简单的植入物。幸运的是，修补匠们并没有愚蠢到与他们遇到的第一个人打交道。他们不愿分享知识和技术。我们的教会有幸与他们找到了共同的语言。 -- They are the best in their field. You may have already come across their inventions. Pneumatic weapons, computing devices, even prosthetics and simple implants. Fortunately, tinkerers aren't stupid enough to deal with the first person they meet. They are reluctant to share knowledge and technology. Our church had the honor to find a common language with them.}
+{207}{}{他们是本领域最好的。你可能已经发现了他们的发明。气动武器，计算机设备，甚至假肢和简单的植入物。幸运的是，锡匠们并没有愚蠢到与他们遇到的第一个人打交道。他们不愿分享知识和技术。我们的教会有幸与他们找到了共同的语言。 -- They are the best in their field. You may have already come across their inventions. Pneumatic weapons, computing devices, even prosthetics and simple implants. Fortunately, tinkerers aren't stupid enough to deal with the first person they meet. They are reluctant to share knowledge and technology. Our church had the honor to find a common language with them.}
 ### {208}{}{It shows. Well, I'll look at it all in action. Goodbye.}
 {208}{}{它显示了。好吧，我会看看所有的行动。再见 -- It shows. Well, I'll look at it all in action. Goodbye.}
 ### {209}{}{Simply put, someone coveted power in this region. Have a nice day.}
@@ -78,7 +78,7 @@
 ### {246}{}{Do you not preach in this city?}
 {246}{}{你不在这个城市传教吗？ -- Do you not preach in this city?}
 ### {247}{}{The church is striving to expand, but it is enough to have one ambassador in Two-Sun. Tinkerers do not share our faith in everything, but their sympathies are enough for joint achievements.}
-{247}{}{教会正在努力扩张，但在两个太阳里有一个大使就足够了。修补匠们并不认同我们对每件事的信仰，但他们的同情足以让我们共同取得成就。 -- The church is striving to expand, but it is enough to have one ambassador in Two-Sun. Tinkerers do not share our faith in everything, but their sympathies are enough for joint achievements.}
+{247}{}{教会正在努力扩张，但在两个太阳里有一个大使就足够了。锡匠们并不认同我们对每件事的信仰，但他们的同情足以让我们共同取得成就。 -- The church is striving to expand, but it is enough to have one ambassador in Two-Sun. Tinkerers do not share our faith in everything, but their sympathies are enough for joint achievements.}
 ### {248}{}{Something tells me that there are orders that you would prefer to keep quiet about.}
 {248}{}{有件事告诉我，有些订单你更愿意保持沉默。 -- Something tells me that there are orders that you would prefer to keep quiet about.}
 ### {249}{}{Now I see why the church accepted you. Yes, there are several special technologies that mere mortals should not know about. This may upset the balance of power or cause waves of protest among the population.}
@@ -89,7 +89,7 @@
 {251}{}{如果有人能确保在这个地区取得进展，那只有我们——神圣之火的仆人。我们一直接受这个想法，不会放弃。相信我，教会正在尽一切努力把索诺拉变成一个繁荣的天堂。 -- If anyone can ensure progress in this region, it is only us - the servants of the Sacred Fire. We have lived with this idea and are not going to give it up. Believe me, the church is doing everything to turn Sonora into a thriving paradise.}
 
 ### {260}{}{The tinsmiths enslaved several of my acquaintances. Is there any way to release them?}
-{260}{}{铁匠们奴役了我的几个熟人。有办法释放他们吗？ -- The tinsmiths enslaved several of my acquaintances. Is there any way to release them?}
+{260}{}{锡匠们奴役了我的几个熟人。有办法释放他们吗？ -- The tinsmiths enslaved several of my acquaintances. Is there any way to release them?}
 ### {261}{}{But why ? I don't think your acquaintances are that valuable outside of slave bondage. To serve Progress is a great honor and benefit to all mankind. In any case, most of the slaves have already been sent to the Forbidden Zone. You'll have to go there and save your friends yourself.}
 {261}{}{但为什么呢？我认为你的熟人在奴隶束缚之外没有那么值钱。为进步服务是全人类的巨大荣誉和利益。无论如何，大多数奴隶已经被送到了禁区。你必须亲自去救你的朋友。 -- But why ? I don't think your acquaintances are that valuable outside of slave bondage. To serve Progress is a great honor and benefit to all mankind. In any case, most of the slaves have already been sent to the Forbidden Zone. You'll have to go there and save your friends yourself.}
 ### {262}{}{While I'm looking for a solution, let's talk about other topics.}
@@ -112,13 +112,13 @@
 ### {311}{}{No one. Why are you so nervous?}
 {311}{}{没有人你为什么这么紧张？ -- No one. Why are you so nervous?}
 ### {312}{}{I have my reasons. And you shouldn't show up in this city at all. It is very suspicious that the enemy of the Followers of Fire suddenly visited the tinsmiths. It looks like you're playing your game right under our noses.}
-{312}{}{我有自己的理由。你根本不应该出现在这个城市。非常可疑的是，火之追随者的敌人突然造访了铁匠铺。看起来你在我们眼皮底下玩游戏。 -- I have my reasons. And you shouldn't show up in this city at all. It is very suspicious that the enemy of the Followers of Fire suddenly visited the tinsmiths. It looks like you're playing your game right under our noses.}
+{312}{}{我有自己的理由。你根本不应该出现在这个城市。非常可疑的是，火之追随者的敌人突然造访了锡匠。看起来你在我们眼皮底下玩游戏。 -- I have my reasons. And you shouldn't show up in this city at all. It is very suspicious that the enemy of the Followers of Fire suddenly visited the tinsmiths. It looks like you're playing your game right under our noses.}
 ### {313}{}{So the Church of Fire is no longer in high esteem here?}
 {313}{}{所以火之教会在这里不再受人尊敬了？ -- So the Church of Fire is no longer in high esteem here?}
 ### {314}{}{The Church was the main engine of progress in Southern Arizona. Now that the main temple has been destroyed, it will take a lot of effort to regain its former greatness and trust. But the tinsmiths have served us for almost ten years. They will not betray their patrons because of a single misunderstanding.}
-{314}{}{教会是亚利桑那州南部进步的主要引擎。现在主庙已经被毁，要想恢复昔日的伟大和信任，还需要付出很多努力。但是这些铁匠已经为我们服务了将近十年。他们不会因为一个误会就背叛他们的赞助人。 -- The Church was the main engine of progress in Southern Arizona. Now that the main temple has been destroyed, it will take a lot of effort to regain its former greatness and trust. But the tinsmiths have served us for almost ten years. They will not betray their patrons because of a single misunderstanding.}
+{314}{}{教会是亚利桑那州南部进步的主要引擎。现在主庙已经被毁，要想恢复昔日的伟大和信任，还需要付出很多努力。但是这些锡匠已经为我们服务了将近十年。他们不会因为一个误会就背叛他们的赞助人。 -- The Church was the main engine of progress in Southern Arizona. Now that the main temple has been destroyed, it will take a lot of effort to regain its former greatness and trust. But the tinsmiths have served us for almost ten years. They will not betray their patrons because of a single misunderstanding.}
 ### {315}{}{But then why are you so turned on? Looks like the tinkerers were less submissive, right?}
-{315}{}{但你为什么这么兴奋？看起来修补匠们没有那么顺从了，对吧？ -- But then why are you so turned on? Looks like the tinkerers were less submissive, right?}
+{315}{}{但你为什么这么兴奋？看起来锡匠们没有那么顺从了，对吧？ -- But then why are you so turned on? Looks like the tinkerers were less submissive, right?}
 ### {316}{}{We thought of them as working machines. Now that they felt free and superior, they could use a charge of electric current to put them in their place. And now stop making fun, you despicable atom. Get out of my sight.}
 {316}{}{我们认为它们是工作机器。既然他们感到自由和优越，他们就可以用一股电流把他们安置在自己的位置上。现在别开玩笑了，你这个卑鄙的原子。离开我的视线。 -- We thought of them as working machines. Now that they felt free and superior, they could use a charge of electric current to put them in their place. And now stop making fun, you despicable atom. Get out of my sight.}
 ### {317}{}{You know, it's not me who needs to get out of Two-Sun. And you.}

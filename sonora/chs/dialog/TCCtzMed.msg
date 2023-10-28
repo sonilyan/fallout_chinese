@@ -1,7 +1,7 @@
 ### {100}{}{You see the patient.}
 {100}{}{你看到病人了。}
 ### {101}{}{Here is a sick tinker. He is suffering from postoperative complications.}
-{101}{}{这是一个生病的修补匠。他患有术后并发症。}
+{101}{}{这是一个生病的锡匠。他患有术后并发症。}
 ### {102}{}{How could primitive medicine cure me? This is illogical!}
 {102}{}{原始医学怎么能治好我？这是不合逻辑的！}
 ### {104}{}{Why... I'm not... digitized yet...}

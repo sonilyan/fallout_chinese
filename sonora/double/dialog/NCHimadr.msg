@@ -124,7 +124,7 @@
 ### {1255}{}{I've never seen anything like it.}
 {1255}{}{我从来没有见过这样的东西。 -- I've never seen anything like it.}
 ### {256}{}{The mayor was making an order from the tinsmiths. They then took payment with the harvest. It is very expensive, but without tools we will have a hard time working. And besides tinsmiths, no one else can do it.}
-{256}{}{市长正在向铁匠们下命令。然后，他们用收获来支付。它很贵，但如果没有工具，我们将很难工作。除了打铁匠，没有其他人能做到。 -- The mayor was making an order from the tinsmiths. They then took payment with the harvest. It is very expensive, but without tools we will have a hard time working. And besides tinsmiths, no one else can do it.}
+{256}{}{市长正在向锡匠们下命令。然后，他们用收获来支付。它很贵，但如果没有工具，我们将很难工作。除了打锡匠，没有其他人能做到。 -- The mayor was making an order from the tinsmiths. They then took payment with the harvest. It is very expensive, but without tools we will have a hard time working. And besides tinsmiths, no one else can do it.}
 ### {257}{}{How familiar. At our Villa, we also have to do everything manually.}
 {257}{}{多么熟悉啊。在我们的别墅，我们还必须手动完成所有事情。 -- How familiar. At our Villa, we also have to do everything manually.}
 ### {258}{}{Really? I've never heard of other plantations. Aren't you lying?}

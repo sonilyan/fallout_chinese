@@ -100,7 +100,7 @@
 ### {256}{}{Sewage system? Well... listen, what are we even doing here?}
 {256}{}{污水系统？好听着，我们在这里干什么？}
 ### {257}{}{I've been here a few times, but I've never been to the tinsmiths' base. They don't like newcomers and consider them second-class people. However, if you get along with technology, you will quickly find a common language with them.}
-{257}{}{我来过这里几次，但从来没有去过铁匠铺的基地。他们不喜欢新来的人，认为他们是二流人。然而，如果你与技术打交道，你会很快找到与他们通用的语言。}
+{257}{}{我来过这里几次，但从来没有去过锡匠的基地。他们不喜欢新来的人，认为他们是二流人。然而，如果你与技术打交道，你会很快找到与他们通用的语言。}
 ### {258}{}{A small oasis on the trade route. Literally. The water pump is still operating here, so the caravans willingly stop for the night. There won't be any special problems with the locals if you don't meddle in their affairs yourself.}
 {258}{}{贸易路线上的一片小绿洲。字面上水泵还在这里工作，所以大篷车愿意停下来过夜。如果你不亲自干预当地人的事务，他们就不会有什么特别的问题。}
 ### {259}{}{This is a peaceful, but semi-closed town. Mostly agave and maize are grown here... listen, further west is Puerto Penasco. It would be nice to go there right now. It won't take long.}

@@ -443,7 +443,7 @@
 ### {456}{}{After Inferno, this place seems like paradise. And it seems that there was not without the Brotherhood of Steel.}
 {456}{}{在地狱之后，这个地方就像天堂。似乎没有钢铁兄弟会。 -- After Inferno, this place seems like paradise. And it seems that there was not without the Brotherhood of Steel.}
 ### {457}{}{It seems that tinsmiths live here. The Brotherhood had a contract with them to maintain the outpost.}
-{457}{}{这里似乎住着铁匠。兄弟会与他们签订了维护前哨基地的合同。 -- It seems that tinsmiths live here. The Brotherhood had a contract with them to maintain the outpost.}
+{457}{}{这里似乎住着锡匠。兄弟会与他们签订了维护前哨基地的合同。 -- It seems that tinsmiths live here. The Brotherhood had a contract with them to maintain the outpost.}
 ### {458}{}{A big developing city. In California, only the Hub can compare with it. It's nice to see that civilization is getting back on its feet.}
 {458}{}{一个发展中的大城市。在加利福尼亚州，只有Hub可以与之相比。很高兴看到文明正在重新站起来。 -- A big developing city. In California, only the Hub can compare with it. It's nice to see that civilization is getting back on its feet.}
 ### {459}{}{I read about this church in the scribes' reports. It seems the local leader is on good terms with the Brotherhood.}

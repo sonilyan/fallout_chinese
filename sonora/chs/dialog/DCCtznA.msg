@@ -61,18 +61,18 @@
 ### {141}{}{What sane person would team up with a machine?}
 {141}{}{哪个理智的人会和一台机器合作？}
 ### {142}{}{Tinsmiths despise people like us.}
-{142}{}{铁匠们鄙视像我们这样的人。}
+{142}{}{锡匠们鄙视像我们这样的人。}
 ### {143}{}{If it weren't for the tinsmiths, there wouldn't be so many caravans.}
-{143}{}{如果不是铁匠，就不会有那么多大篷车。}
+{143}{}{如果不是锡匠，就不会有那么多大篷车。}
 ### {144}{}{Thanks to the tinsmiths for a safe highway.}
-{144}{}{感谢铁匠们为我们提供了一条安全的高速公路。}
+{144}{}{感谢锡匠们为我们提供了一条安全的高速公路。}
 
 ### {145}{}{Now trade will decrease and the city will become even poorer.}
 {145}{}{现在贸易将减少，城市将变得更加贫穷。}
 ### {146}{}{There will be fewer caravans without tinsmiths.}
-{146}{}{没有铁匠的大篷车将会减少。}
+{146}{}{没有锡匠的大篷车将会减少。}
 ### {147}{}{As much as I didn't like tinsmiths, but they were useful.}
-{147}{}{尽管我不喜欢打铁匠，但它们很有用。}
+{147}{}{尽管我不喜欢打锡匠，但它们很有用。}
 ### {148}{}{Finally, someone pulled the plug out of the socket in Two-Sun.}
 {148}{}{最后，有人把两个太阳的插座拔了出来。}
 ### {149}{}{The sun will not rise again in Two-Sun. Never.}

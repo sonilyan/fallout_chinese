@@ -3,7 +3,7 @@
 ### {101}{}{You see a man in combat gear. He's watching you closely.}
 {101}{}{你看到一个男人穿着战斗装备。他在密切关注着你。 -- You see a man in combat gear. He's watching you closely.}
 ### {102}{}{Hey, piece of iron, go back to the tinsmiths, we don't need such.}
-{102}{}{嘿，铁块，回到铁匠铺去吧，我们不需要这样。 -- Hey, piece of iron, go back to the tinsmiths, we don't need such.}
+{102}{}{嘿，铁块，回到锡匠去吧，我们不需要这样。 -- Hey, piece of iron, go back to the tinsmiths, we don't need such.}
 
 ### {110}{}{The count is too busy for scum like you.}
 {110}{}{伯爵太忙了，不适合你这样的渣滓。 -- The count is too busy for scum like you.}

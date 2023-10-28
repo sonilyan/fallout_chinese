@@ -1,7 +1,7 @@
 ### {100}{}{You see the instructor.}
 {100}{}{你看到教练了。}
 ### {101}{}{Here is one of the tinsmiths responsible for training slaves.}
-{101}{}{这是一位负责训练奴隶的铁匠。}
+{101}{}{这是一位负责训练奴隶的锡匠。}
 
 ### {200}{}{ (addressing the whole group) Listen to me, rusty gears! You were brought to this city so that your insignificant existence would find at least some meaning!}
 {200}{}{（对整个小组讲话）听我说，生锈的齿轮！你被带到这个城市是为了让你微不足道的存在至少找到一些意义！}

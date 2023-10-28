@@ -80,7 +80,7 @@
 {233}{}{够了，谢谢。 -- That's enough, thank you.}
 
 ### {234}{}{I'm looking for a tinker. Was there one here?}
-{234}{}{我在找修补匠。这里有一个吗？ -- I'm looking for a tinker. Was there one here?}
+{234}{}{我在找锡匠。这里有一个吗？ -- I'm looking for a tinker. Was there one here?}
 ### {235}{}{Yes, I was. Silently inspected the station, discussed minor repairs and went to the mayor. I haven't seen him since.}
 {235}{}{是的，我是。默默地视察了车站，讨论了小修事宜，然后去找市长。从那以后我再也没见过他。 -- Yes, I was. Silently inspected the station, discussed minor repairs and went to the mayor. I haven't seen him since.}
 ### {236}{}{Thanks, I'll go ask the mayor.}
@@ -136,7 +136,7 @@
 ### {271}{}{Where did you get so much knowledge in pre-war technology?}
 {271}{}{你从哪里得到这么多战前技术的知识？ -- Where did you get so much knowledge in pre-war technology?}
 ### {272}{}{To tell the truth, the tinsmiths were engaged in the repair. I can still do something thanks to experience, but the rest of the guys only know which buttons to press.}
-{272}{}{说实话，铁匠们正在进行修理。由于经验，我仍然可以做一些事情，但其他人只知道该按哪个按钮。 -- To tell the truth, the tinsmiths were engaged in the repair. I can still do something thanks to experience, but the rest of the guys only know which buttons to press.}
+{272}{}{说实话，锡匠们正在进行修理。由于经验，我仍然可以做一些事情，但其他人只知道该按哪个按钮。 -- To tell the truth, the tinsmiths were engaged in the repair. I can still do something thanks to experience, but the rest of the guys only know which buttons to press.}
 ### {273}{}{It's like you don't trust them?}
 {273}{}{就好像你不信任他们？ -- It's like you don't trust them?}
 {274}{}{}

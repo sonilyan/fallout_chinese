@@ -20,7 +20,7 @@
 ### {205}{}{I want to talk to your boss.}
 {205}{}{我想和你老板谈谈。}
 ### {206}{}{We don't have a boss. We're all equal here. Are you a slave too? Or are you sniffing around for the tinsmiths? Okay, go to Jeff, he's in charge of tactics. Let's see what he says.}
-{206}{}{我们没有老板。我们在这里是平等的。你也是奴隶吗？或者你在四处寻找铁匠？好吧，去找杰夫，他负责战术。让我们看看他说了什么。}
+{206}{}{我们没有老板。我们在这里是平等的。你也是奴隶吗？或者你在四处寻找锡匠？好吧，去找杰夫，他负责战术。让我们看看他说了什么。}
 ### {207}{}{OK. We'll find something to talk about with him.}
 {207}{}{好的。我们会找点事和他谈谈的。}
 ### {208}{}{Actually, I've already sniffed out everything I need. Now you will die.}
@@ -44,7 +44,7 @@
 ### {220}{}{Tell me how you got here?}
 {220}{}{告诉我你是怎么来的？}
 ### {221}{}{I was captured in Phoenix and sold to tinsmiths as a slave. Then they were sent to the Forbidden Zone to collect old things. Luckily for me, Jeff was there and helped me out of the trap. Now I'm here, helping in any way I can. I am appreciated for my skill with traps.}
-{221}{}{我在凤凰城被捕，被卖到了铁匠铺当奴隶。然后他们被送到紫禁城去收集旧物。对我来说幸运的是，杰夫在那里帮我走出了陷阱。现在我在这里，尽我所能提供帮助。我很欣赏我的陷阱技巧。}
+{221}{}{我在凤凰城被捕，被卖到了锡匠当奴隶。然后他们被送到紫禁城去收集旧物。对我来说幸运的是，杰夫在那里帮我走出了陷阱。现在我在这里，尽我所能提供帮助。我很欣赏我的陷阱技巧。}
 ### {222}{}{Just grabbed, right? Somehow doubtful.}
 {222}{}{只是抓住了，对吧？不知怎的令人怀疑。}
 ### {223}{}{Hey, have you ever come across these fanatics worshipping nuclear energy? They don't consider the people in the wastelands to be people. If they need slaves, then no matter who you are and what you do, they will still grab you by the throat with a collar.}

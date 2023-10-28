@@ -180,7 +180,7 @@
 ### {283}{}{They can't stop me!}
 {283}{}{他们无法阻止我！ -- They can't stop me!}
 ### {284}{}{I managed to negotiate with the tinsmiths.}
-{284}{}{我设法与铁匠们谈判。 -- I managed to negotiate with the tinsmiths.}
+{284}{}{我设法与锡匠们谈判。 -- I managed to negotiate with the tinsmiths.}
 ### {285}{}{It looks extremely suspicious. But until I get a rebuttal, you can breathe the air of freedom. Appreciate this time allotted to you by the Sacred Fire.}
 {285}{}{看起来非常可疑。但在我得到反驳之前，你可以呼吸自由的空气。感谢神圣之火分配给你的时间。 -- It looks extremely suspicious. But until I get a rebuttal, you can breathe the air of freedom. Appreciate this time allotted to you by the Sacred Fire.}
 ### {286}{}{Suspicious? You're right. Because I'm here to get revenge.}
@@ -475,7 +475,7 @@
 ### {459}{}{Why these unnecessary questions? During your subordination, you were given the opportunity to get to know the tinsmiths better. This tribe reveres ancient technologies, although it sees them in a very narrow light.}
 {459}{}{为什么这些不必要的问题？在你的从属关系中，你有机会更好地了解锡匠。这个部落尊重古老的技术，尽管他们对这些技术的看法非常狭隘。 -- Why these unnecessary questions? During your subordination, you were given the opportunity to get to know the tinsmiths better. This tribe reveres ancient technologies, although it sees them in a very narrow light.}
 ### {460}{}{Who are these tinsmiths?}
-{460}{}{这些铁匠是谁？ -- Who are these tinsmiths?}
+{460}{}{这些锡匠是谁？ -- Who are these tinsmiths?}
 ### {461}{}{An occult tribe of admirers of ancient technologies. Like us, they advocate the revival of the ancient world, but they see it exclusively in a technological way. Now we have common goals with them, but someday misunderstanding will become a conflict.}
 {461}{}{古代科技崇拜者的神秘部落。和我们一样，他们主张复兴古代世界，但他们完全以技术的方式看待它。现在我们和他们有共同的目标，但总有一天误解会变成冲突。 -- An occult tribe of admirers of ancient technologies. Like us, they advocate the revival of the ancient world, but they see it exclusively in a technological way. Now we have common goals with them, but someday misunderstanding will become a conflict.}
 ### {462}{}{What do you care about their technologies?}
@@ -537,7 +537,7 @@
 ### {490}{}{Oh, you're wrong. Society is not ready to be independent. He needs tyrants and guides.}
 {490}{}{哦，你错了。社会还没有做好独立的准备。他需要暴君和向导。 -- Oh, you're wrong. Society is not ready to be independent. He needs tyrants and guides.}
 ### {491}{}{And what does this have to do with the tinsmiths in Two-Sun?}
-{491}{}{这和《两个太阳》中的铁匠有什么关系？ -- And what does this have to do with the tinsmiths in Two-Sun?}
+{491}{}{这和《两个太阳》中的锡匠有什么关系？ -- And what does this have to do with the tinsmiths in Two-Sun?}
 ### {492}{}{Now it's clear what you have to do with the Flagstaff jailers.}
 {492}{}{现在很清楚你该怎么处理弗拉格斯塔夫监狱的人了。 -- Now it's clear what you have to do with the Flagstaff jailers.}
 

@@ -1,7 +1,7 @@
 ### {100}{}{You see Hard.}
 {100}{}{你看Hard。}
 ### {101}{}{Here is the leader of the tinsmiths. It seems that there is more iron in him than flesh.}
-{101}{}{这是铁匠的首领。他身上似乎有更多的铁而不是肉。}
+{101}{}{这是锡匠的首领。他身上似乎有更多的铁而不是肉。}
 ### {102}{}{Go to your virtual world!}
 {102}{}{去你的虚拟世界吧！}
 
@@ -171,7 +171,7 @@
 ### {308}{}{Your point of view... deserves attention.}
 {308}{}{你的观点...值得关注。}
 ### {309}{}{Rub this nonsense into the rest of the tinkerers, but not me.}
-{309}{}{把这些胡言乱语灌输给其他修补匠，但不是我。}
+{309}{}{把这些胡言乱语灌输给其他锡匠，但不是我。}
 
 #Kodi
 ### {350}{}{They say you kidnapped Cody from Casa Grande. Is it true?}
@@ -290,7 +290,7 @@
 ### {424}{}{Tell me.}
 {424}{}{告诉我。}
 ### {425}{}{By completing the task, you have increased your reputation with the tinsmiths.}
-{425}{}{通过完成这项任务，你在铁匠中的声誉得到了提升。}
+{425}{}{通过完成这项任务，你在锡匠中的声誉得到了提升。}
 ### {426}{}{One of our delegates went to Casa Grande, but did not return. There are no messages from him on any of our communication channels. We need to find our brother and find out what happened.}
 {426}{}{我们的一名代表去了格兰德之家，但没有回来。在我们的任何沟通渠道上都没有他的消息。我们需要找到我们的兄弟，找出发生了什么。}
 ### {427}{}{My new shoes won't survive this trip. I hope it's worth it.}
@@ -301,7 +301,7 @@
 {429}{}{……结果令人满意。该奖项将由军需官颁发...等待你还有一项任务。}
 
 ### {430}{}{I managed to find a tinker in Casa Grande. He's dead. Here's the proof - his neurochip.}
-{430}{}{我设法在格兰德之家找到了一个修补匠。他死了。这是证据——他的神经芯片。}
+{430}{}{我设法在格兰德之家找到了一个锡匠。他死了。这是证据——他的神经芯片。}
 ### {431}{}{What is the cause of death?}
 {431}{}{死因是什么？}
 ### {432}{}{He was killed by a Ranger spy.}

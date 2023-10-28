@@ -142,7 +142,7 @@
 ### {505}{}{Find out who attacked the caravan and stop this threat}
 {505}{}{找出谁袭击了商队并阻止这种威胁 -- Find out who attacked the caravan and stop this threat}
 ### {506}{}{Find the missing tinker in Casa Grande}
-{506}{}{在格兰德之家找到失踪的修补匠 -- Find the missing tinker in Casa Grande}
+{506}{}{在格兰德之家找到失踪的锡匠 -- Find the missing tinker in Casa Grande}
 ### {507}{}{Cody experiences a personality conflict and asks to find his family in Casa Grande}
 {507}{}{Cody经历了性格冲突，要求在Casa Grande找到家人 -- Cody experiences a personality conflict and asks to find his family in Casa Grande}
 ### {508}{}{Get an energy cell for a peasant}

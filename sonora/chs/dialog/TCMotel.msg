@@ -57,9 +57,9 @@
 ### {260}{}{Tell me what's going on here?}
 {260}{}{告诉我这里发生了什么？}
 ### {261}{}{Tinsmiths are trying to open the burial ground of military equipment. There are no results yet, but it's only a matter of time.}
-{261}{}{铁匠们正试图打开军事装备的墓地。目前还没有结果，但这只是时间问题。}
+{261}{}{锡匠们正试图打开军事装备的墓地。目前还没有结果，但这只是时间问题。}
 ### {262}{}{Tinsmiths have opened the burial ground of military equipment. It looks like we have a lot of work ahead of us.}
-{262}{}{铁匠们已经开辟了军事装备的墓地。看来我们还有很多工作要做。}
+{262}{}{锡匠们已经开辟了军事装备的墓地。看来我们还有很多工作要做。}
 ### {263}{}{Do you know anything about slaves from the Villa?}
 {263}{}{你知道别墅里的奴隶吗？}
 ### {264}{}{No. I don't know. Ask in the hangar, they keep slaves there.}
@@ -67,4 +67,4 @@
 ### {265}{}{How did you manage to get along in this place?}
 {265}{}{你在这个地方是怎么相处的？}
 ### {266}{}{I came here a few years ago when the tinsmiths opened a trade route with Phoenix. They needed a hotel to work with caravanners, and I organized it for them. If it wasn't for the tinsmiths, I wouldn't have lasted to my age. Surely he would be lying somewhere in the wastelands right now, warming his bones in the sun.}
-{266}{}{几年前，我来到这里，当时锡匠公司开通了与凤凰城的贸易路线。他们需要一家酒店来与房车司机合作，我为他们组织了这家酒店。如果不是因为铁匠，我就活不下去了。他现在肯定会躺在荒原上的某个地方，在阳光下温暖他的骨头。}
+{266}{}{几年前，我来到这里，当时锡匠公司开通了与凤凰城的贸易路线。他们需要一家酒店来与房车司机合作，我为他们组织了这家酒店。如果不是因为锡匠，我就活不下去了。他现在肯定会躺在荒原上的某个地方，在阳光下温暖他的骨头。}

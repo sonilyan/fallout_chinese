@@ -36,7 +36,7 @@
 {126}{}{不要越过我们的路。}
 
 ### {130}{}{Who the fuck are you? Are you from the tinsmiths?}
-{130}{}{你他妈的是谁？你是铁匠铺的吗？}
+{130}{}{你他妈的是谁？你是锡匠的吗？}
 ### {131}{}{You're it, keep it down there.}
 {131}{}{你就是它，把它放在下面。}
 ### {132}{}{I wish I had armor like yours.}

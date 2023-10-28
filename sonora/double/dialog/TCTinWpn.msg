@@ -1,10 +1,10 @@
 ### {100}{}{You see the Second-Of-Three.}
 {100}{}{你看三个中的第二个。 -- You see the Second-Of-Three.}
 ### {101}{}{Here is one of the tinsmiths. He is diligently cleaning his laser pistol.}
-{101}{}{这是一个铁匠。他正在认真地清洗他的激光手枪。 -- Here is one of the tinsmiths. He is diligently cleaning his laser pistol.}
+{101}{}{这是一个锡匠。他正在认真地清洗他的激光手枪。 -- Here is one of the tinsmiths. He is diligently cleaning his laser pistol.}
 
 ### {200}{}{(You watch the tinker stubbornly cleaning his laser gun, not paying attention to you.)}
-{200}{}{（你看到修补匠固执地清洗他的激光枪，却没有注意到你。） -- (You watch the tinker stubbornly cleaning his laser gun, not paying attention to you.)}
+{200}{}{（你看到锡匠固执地清洗他的激光枪，却没有注意到你。） -- (You watch the tinker stubbornly cleaning his laser gun, not paying attention to you.)}
 ### {201}{}{Have you been doing this for a long time?}
 {201}{}{你这样做很久了吗？ -- Have you been doing this for a long time?}
 ### {202}{}{(Raises his head to look at you, his gaze expresses complete indifference.) Laser technology is my specialty. I've been doing this all my life.}

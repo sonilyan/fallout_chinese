@@ -261,7 +261,7 @@
 ### {430}{}{The tinsmiths sent an ambassador here. Do you know anything about it?}
 {430}{}{锡匠们派了一位大使来这里。你知道这件事吗？ -- The tinsmiths sent an ambassador here. Do you know anything about it?}
 ### {431}{}{I saw this tinker, but he didn't talk to anyone and immediately went to the mayor. I never saw him again.}
-{431}{}{我看到了这个修补匠，但他没有和任何人说话，立即去找市长。我再也没见过他。 -- I saw this tinker, but he didn't talk to anyone and immediately went to the mayor. I never saw him again.}
+{431}{}{我看到了这个锡匠，但他没有和任何人说话，立即去找市长。我再也没见过他。 -- I saw this tinker, but he didn't talk to anyone and immediately went to the mayor. I never saw him again.}
 ### {432}{}{At least some information. Bye.}
 {432}{}{至少有一些信息。再见 -- At least some information. Bye.}
 ### {433}{}{You're of no use. Bye.}

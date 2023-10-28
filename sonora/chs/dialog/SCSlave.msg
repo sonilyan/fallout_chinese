@@ -93,7 +93,7 @@
 ### {240}{}{What do you know about the Brotherhood of Steel?}
 {240}{}{你对钢铁兄弟会了解多少？}
 ### {241}{}{I know a little, the order doesn't like to talk about themselves. I know that this is just an outpost, and the general staff is located far to the west. And these are the coolest guys in all of Sonora. Even tinkerers can't compare with them.}
-{241}{}{我知道一点，秩序不喜欢谈论自己。我知道这只是一个前哨基地，总参谋部就在西边。这些都是索诺拉最酷的家伙。即使是修补匠也无法与他们相比。}
+{241}{}{我知道一点，秩序不喜欢谈论自己。我知道这只是一个前哨基地，总参谋部就在西边。这些都是索诺拉最酷的家伙。即使是锡匠也无法与他们相比。}
 ### {242}{}{Clearly. In general, the Brotherhood is not to be trifled with. Let's change the subject.}
 {242}{}{清晰地总的来说，兄弟会是不容轻视的。让我们换个话题。}
 ### {243}{}{Who's in charge here?}

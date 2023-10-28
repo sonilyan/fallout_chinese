@@ -166,7 +166,7 @@
 ### {325}{}{Maybe I'm just too far away from him. We need to get back to the center of Casa Grande.}
 {325}{}{也许我只是离他太远了。我们需要回到格兰德之家的中心。}
 ### {326}{}{You pick up the tinker's barely noticeable signal.}
-{326}{}{你听到了修补匠几乎不明显的信号。}
+{326}{}{你听到了锡匠几乎不明显的信号。}
 ### {327}{}{Okay, great, he's in town somewhere. It seems the signal is coming from the east.}
 {327}{}{好吧，太好了，他在城里的某个地方。信号似乎来自东方。}
 ### {328}{}{The signal from the radio implant is clearly audible.}

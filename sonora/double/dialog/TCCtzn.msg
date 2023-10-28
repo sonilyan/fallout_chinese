@@ -1,5 +1,5 @@
 ### {100}{}{You see the tinker.}
-{100}{}{你看到修补匠了。 -- You see the tinker.}
+{100}{}{你看到锡匠了。 -- You see the tinker.}
 ### {101}{}{Here is one of the ordinary residents of Two-Sun.}
 {101}{}{这是两个太阳的一位普通居民。 -- Here is one of the ordinary residents of Two-Sun.}
 

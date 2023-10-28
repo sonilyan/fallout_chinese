@@ -72,7 +72,7 @@
 ### {243}{}{An interesting point of view.}
 {243}{}{一个有趣的观点。 -- An interesting point of view.}
 ### {244}{}{Why the tinsmiths were sent here... a ghoul?}
-{244}{}{为什么要把铁匠送到这里。。。食尸鬼？ -- Why the tinsmiths were sent here... a ghoul?}
+{244}{}{为什么要把锡匠送到这里。。。食尸鬼？ -- Why the tinsmiths were sent here... a ghoul?}
 ### {245}{}{Because having lived for so many years, I know a lot more than any smooth-skinned person. Add immunity to radiation - and here you have an ideal candidate for opening old bases. But the truth is that I have absolutely no idea how to disable the damn defense system of this damned burial ground!}
 {245}{}{因为生活了这么多年，我比任何一个皮肤光滑的人都了解得多。加上对辐射的免疫力，你就有了打开旧基地的理想人选。但事实是，我完全不知道如何禁用这个该死的墓地的该死的防御系统！ -- Because having lived for so many years, I know a lot more than any smooth-skinned person. Add immunity to radiation - and here you have an ideal candidate for opening old bases. But the truth is that I have absolutely no idea how to disable the damn defense system of this damned burial ground!}
 ### {246}{}{I see.}

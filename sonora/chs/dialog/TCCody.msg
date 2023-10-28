@@ -36,11 +36,11 @@
 ### {220}{}{What's your name, baby?}
 {220}{}{你叫什么名字，宝贝？}
 ### {221}{}{So far, my name is Cody, just like before. But when I am initiated into the tinsmiths, I will get my own ID, and the old name will remain in the past.}
-{221}{}{到目前为止，我的名字叫科迪，和以前一样。但当我开始进入铁匠铺时，我会得到自己的身份证，旧名字将留在过去。}
+{221}{}{到目前为止，我的名字叫科迪，和以前一样。但当我开始进入锡匠时，我会得到自己的身份证，旧名字将留在过去。}
 ### {222}{}{I see.}
 {222}{}{我明白了。}
 ### {223}{}{Are the tinsmiths treating you well?}
-{223}{}{铁匠们待你好吗？}
+{223}{}{锡匠们待你好吗？}
 ### {224}{}{Quite. They feed and clothe me, and they give me work only on my strength. No one is offended here. But if you break the rules or try to harm something, the punishment will be quite unpleasant.}
 {224}{}{相当地他们给我衣食无忧，只给我体力劳动。这里没有人被冒犯。但是，如果你违反规则或试图伤害他人，惩罚将是非常不愉快的。}
 ### {225}{}{I see.}
@@ -60,7 +60,7 @@
 ### {252}{}{By the way, I can stop by the Casa Grande if you want and ask a couple...}
 {252}{}{顺便说一句，如果你愿意的话，我可以去格兰德之家问几个...}
 ### {253}{}{I don't want to! This is my home now, and the tinsmiths treat me very well. You're only going to make trouble for me. Leave me alone! (turns around in fright and walks away)}
-{253}{}{我不想！这是我现在的家，铁匠们对我很好。你只会给我制造麻烦，别管我！（吓得转身就走）}
+{253}{}{我不想！这是我现在的家，锡匠们对我很好。你只会给我制造麻烦，别管我！（吓得转身就走）}
 ### {254}{}{Oh, I'm sorry...}
 {254}{}{哦，对不起...}
 ### {255}{}{Come on, kid, throw out all the shit that you have accumulated because of your local upbringing.}
@@ -97,11 +97,11 @@
 ### {271}{}{Don't think I'm going to hate this place now. But now no one will fool me so easily.}
 {271}{}{别以为我现在会讨厌这个地方。但现在没有人会这么容易骗我了。}
 ### {272}{}{I like your way of thinking. Don't let the tinsmiths make a soulless part of you in a big machine.}
-{272}{}{我喜欢你的思维方式。不要让铁匠在一台大机器里把你塑造成没有灵魂的样子。}
+{272}{}{我喜欢你的思维方式。不要让锡匠在一台大机器里把你塑造成没有灵魂的样子。}
 ### {273}{}{Anyway, they gave you a much better life than the Casa Grande slum. Believe me, there's nothing human left in that hole.}
 {273}{}{不管怎样，他们给了你比卡萨格兰德贫民窟更好的生活。相信我，那个洞里已经没有人了。}
 ### {274}{}{Tinsmiths are usually disliked. If you, a stranger from the wasteland, praise Two-Sun, then I can only believe that this is really the best place on earth.}
-{274}{}{铁匠通常不受欢迎。如果你，一个来自荒原的陌生人，赞美两个太阳，那么我只能相信这真的是地球上最好的地方。}
+{274}{}{锡匠通常不受欢迎。如果你，一个来自荒原的陌生人，赞美两个太阳，那么我只能相信这真的是地球上最好的地方。}
 ### {275}{}{Exactly. Make Two-Sun a model for the whole wasteland, boy.}
 {275}{}{确切地让两个太阳成为整个荒原的典范，孩子。}
 ### {276}{}{Listen, are you sure your parents are dead?}

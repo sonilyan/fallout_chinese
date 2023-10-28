@@ -37,14 +37,14 @@
 ### {230}{}{Nowhere else to get power cells?}
 {230}{}{没有其他地方可以获得动力电池？}
 ### {231}{}{Tinsmiths *are the only ones* who produce them nowadays. And pre-war cells became difficult to find. After all, the nearest neighborhoods have long been ruined by these technofanatics.}
-{231}{}{如今只有铁匠们生产这些产品。战前的牢房变得很难找到。毕竟，最近的社区早已被这些技术狂热分子摧毁。}
+{231}{}{如今只有锡匠们生产这些产品。战前的牢房变得很难找到。毕竟，最近的社区早已被这些技术狂热分子摧毁。}
 ### {232}{}{Have you tried searching in Phoenix?}
 {232}{}{你试过在凤凰城搜索吗？}
 ### {233}{}{Are you kidding? We are settled people, it will be a great challenge to overcome such a distance. In addition, the Big City also buys batteries from tinsmiths. And the prices there are much more expensive.}
 {233}{}{你在开玩笑吗？我们是安定下来的人，克服这样的距离将是一个巨大的挑战。此外，大城市还从锡匠那里购买电池。而且那里的价格要贵得多。}
 
 ### {240}{}{Why don't the tinsmiths want to trade with you?}
-{240}{}{铁匠们为什么不想和你交易？}
+{240}{}{锡匠们为什么不想和你交易？}
 ### {241}{}{They consider us unworthy of their technology. They think that we will waste their valuable resource. But this is complete nonsense - we need cells for survival, what could be more important?!}
 {241}{}{他们认为我们配不上他们的技术。他们认为我们会浪费他们宝贵的资源。但这完全是无稽之谈——我们需要细胞来生存，还有什么更重要的呢？！}
 
@@ -67,7 +67,7 @@
 ### {257}{}{We'll see about that.}
 {257}{}{我们拭目以待。}
 ### {258}{}{In other words, do you propose to rob the tinsmiths?}
-{258}{}{换言之，你打算抢劫铁匠吗？}
+{258}{}{换言之，你打算抢劫锡匠吗？}
 ### {259}{}{Just like they robbed many. But you will save an entire settlement and earn friends among honest people. So what do you think, amigo?}
 {259}{}{就像他们抢劫了很多一样。但你将节省整个定居点，并在诚实的人中赢得朋友。你觉得呢，朋友？}
 

@@ -33,7 +33,7 @@
 ### {207}{}{A caravan? What kind of caravan?}
 {207}{}{大篷车？什么样的房车？}
 ### {208}{}{And of course, the one who carried ore to Two-Sun. Now the tinsmiths are rusting under the sun, and I don't have a job. Thanks to the idiot who arranged it.}
-{208}{}{当然，还有那个把矿石运到二太阳的人。现在铁匠在阳光下生锈了，我没有工作。感谢安排它的白痴。}
+{208}{}{当然，还有那个把矿石运到二太阳的人。现在锡匠在阳光下生锈了，我没有工作。感谢安排它的白痴。}
 ### {209}{}{You know, I don't think he wanted such consequences...}
 {209}{}{你知道，我不认为他想要这样的后果...}
 ### {210}{}{Fuck you! (he waves it away and walks away)}

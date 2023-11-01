@@ -1,334 +1,349 @@
 #
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++?
+# 控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控
 #
 # Text labels and messages used by EDITOR.C
-# 
+#
 # (These MUST match "text message" enumeration on the top of EDITOR.C)
 #
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++?
+# 控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控控
 #
 #
-{100}{}{DONE}
-{101}{}{ }
-{102}{}{CANCEL}
-{103}{}{ }
-{104}{}{AGE}
-{105}{}{SEX}
-{106}{}{NAME}
-{107}{}{WHITE}
-{108}{}{BLACK}
-{109}{}{ }
-{110}{}{ }
-{111}{}{ }
-{112}{}{ }
-{113}{}{Level:}
-{114}{}{Exp:}
-{115}{}{Next Level:}
-{116}{}{  CHAR PTS.}
-{117}{}{ }
-{118}{}{You must use all character points}
-{119}{}{before starting the game!} 
+{100}{}{完成}
+{101}{}{选项}
+{102}{}{取消}
+{103}{}{打印}
+{104}{}{年龄}
+{105}{}{性别}
+{106}{}{名字}
+{107}{}{男性}
+{108}{}{女性}
+{109}{}{PERKS}
+{110}{}{道德良知}
+{111}{}{战绩}
+{112}{}{技能点数}
+{113}{}{等级:}
+{114}{}{经验:}
+{115}{}{下次升级:}
+{116}{}{角色点数}
+{117}{}{技能}
+{118}{}{开始游戏之前你必须分配所有} # 1
+{119}{}{可用的角色点数！}         # 2
 #
-{120}{}{Character Points}
-{121}{}{The quantity of character points that can be added to one of your basic stats.}
-{122}{}{Next Level}
-{123}{}{The amount of experience points you need to advance to the next level.}
+{120}{}{角色点数}
+{121}{}{这些点数可以分配到角色基本的基础属性中。}
+{122}{}{到下次升级}
+{123}{}{下一次升级所需要的经验点数。}
 {124}{}{Perks}
-{125}{}{Karma}
-{126}{}{Kills}
-{127}{}{Perks add additional talents. Every third experience level, you can choose one perk.}
-{128}{}{These are the effects of the choices you make during the game.}
-{129}{}{A counter that keeps track of the type and numbers of creatures you have slaughtered, or have seen killed in your presence.}
-{130}{}{Skill Points}
-{131}{}{Use available skill points to increase your expertise in a skill. As your skill rating improves, you'll require more points to attain further increases. Mastering a skill may take a lot of time and effort.}
+{125}{}{道德}
+{126}{}{战绩}
+{127}{}{Perks给予角色更多的能力。角色每提升三个等级，可选择一种新的Perk。}
+{128}{}{角色在游戏中的选择会影响到该数值的变化。}
+{129}{}{这一项所显示的是角色在整个游戏中所杀死的角色或是生物。}
+{130}{}{技能点数}
+{131}{}{使用可用的技能点提高某项技能水平。当你越擅长某项技能，提升需要的点数就越多。因此，精通一项技能需要大量的时间和不懈的努力。}
 #
-{132}{}{Already at maximum level.}        # 1
-{133}{}{Unable to increment.}  # 2
-{134}{}{Already at minimum level.}        # 1
-{135}{}{Unable to decrement.}  # 2
-{136}{}{Not enough skill points available.}
-{137}{}{Base:}
-{138}{}{ }
-{139}{}{OPTIONAL TRAITS}
-{140}{}{You already have the maximum of} # 1
-{141}{}{three tag skills!}               # 2
-{142}{}{You must select all tag skills}  # 1
-{143}{}{before starting the game!}       # 2
-{144}{}{Tag Skills}
-{145}{}{Tag skills are skills in which your character specializes.  Each tag skill gains +20%, and increases twice as fast.  You must pick three tag skills.}
-{146}{}{Optional Traits}
-{147}{}{Optional traits describe your character in more detail.  All traits will have positive and negative effects.  You may choose up to two traits during creation.}
-{148}{}{You already have the maximum of} # 1
-{149}{}{two traits!}                     # 2
-{150}{}{Skills}
-{151}{}{Skills are learned knowledge.  Skills increase with experience, or during the course of the game if special events occur. The higher the skill level, the better you are at that skill.}
+{132}{}{已达到最大值。}   # 1
+{133}{}{无法再增加。}   # 2
+{134}{}{已达到最小值。}   # 1
+{135}{}{无法再减少。}   # 2
+{136}{}{技能点数不够。}
+{137}{}{基础:}
+{138}{}{特长技能}
+{139}{}{可选特质}
+{140}{}{你已经选择了全部的}   # 1
+{141}{}{三项特长技能了！}   # 2
+{142}{}{开始游戏前必须选择} # 1
+{143}{}{三项特长技能！}   # 2
+{144}{}{特长技能}
+{145}{}{特长技能是角色所擅长的技能。每个选择的特长技能提高20%，加点以两倍速提升。你必须选择三项特长技能。}
+{146}{}{可选特质}
+{147}{}{特质用于更深入诠释角色。每种特质都有优势和劣势，最多可选择两项。}
+{148}{}{你已经选择了全部的}   # 1
+{149}{}{两种特质了} # 2
+{150}{}{技能}
+{151}{}{技能是学习到的知识。技能随着经验增长，或是在游戏过程中的随机事件改变。技能水平越高，你越擅长该技能。}
 #
-{152}{}{PICK A PERK}
-{153}{}{PICK A NEW TRAIT}
-{154}{}{LOSE A TRAIT}
-{155}{}{PICK A NEW TAG SKILL}
-{156}{}{TRAITS}
+{152}{}{选择一个PERK}
+{153}{}{选择一个新特质}
+{154}{}{移除一个特质}
+{155}{}{选择一个新特长技能}
+{156}{}{特质}
 #
-{157}{}{All stats must be between 1 and 10} # 1
-{158}{}{before starting the game!}          # 2
+{157}{}{在游戏开始之前，所有属性} # 1
+{158}{}{必须在1到10之间！}          # 2
 # Fallout 2:
-{160}{}{Warning: You haven't changed your player} # 1
-{161}{}{name.  Use this character anyway?}        # 2
+{160}{}{警告：你还没有改变角色的名字，你坚持要} # 1
+{161}{}{继续使用这个角色吗？}        # 2
 
-{175}{}{Next Lvl:}  # Short for Level:
+{175}{}{到下一等级:}  # Short for Level:
+
+
 #
 # Abbreviated basic stat levels
 #
-{200}{}{V.Bad}  # Terrible
-{201}{}{Bad}    # Bad
-{202}{}{Poor}   # Poor
-{203}{}{Fair}   # Fair
-{204}{}{Avrg}   # Average
-{205}{}{Good}   # Good
-{206}{}{V.Good} # Very Good
-{207}{}{Great}  # Great
-{208}{}{Exclnt} # Excellent
-{209}{}{Heroic} # Heroic
+{200}{}{非常糟} # Terrible
+{201}{}{糟糕}   # Bad
+{202}{}{贫弱}   # Poor
+{203}{}{尚可}   # Fair
+{204}{}{平均}   # Average
+{205}{}{好}     # Good
+{206}{}{较好}   # Very Good
+{207}{}{很好}   # Great
+{208}{}{优秀}   # Excellent
+{209}{}{完美}   # Heroic
+
 #
 # Abbreviated Derived/Non Derived stat names
 #
-{300}{}{Hit Points}
-{301}{}{Action Points }
-{302}{}{Armor Class}
-{303}{}{Unarmed Damage}
-{304}{}{Melee Damage}
-{305}{}{Damage Res.  }
-{306}{}{Poison Res.   }
-{307}{}{Radiation Res.}
-{308}{}{Sequence}
-{309}{}{Healing Rate}
-{310}{}{Critical Chance}
-{311}{}{Carry Weight}
-{312}{}{Poisoned}
-{313}{}{Radiated}
-{314}{}{Eye Damage}
-{315}{}{Crippled Right Arm}
-{316}{}{Crippled Left Arm}
-{317}{}{Crippled Right Leg}
-{318}{}{Crippled Left Leg}
+{300}{}{生命值}
+{301}{}{行动点数}
+{302}{}{防护等级}
+{303}{}{徒手伤害}
+{304}{}{近战伤害}
+{305}{}{伤害抗性}
+{306}{}{毒素抗性}
+{307}{}{辐射抗性}
+{308}{}{行动顺序}
+{309}{}{康复速度}
+{310}{}{暴击概率}
+{311}{}{最大负重}
+{312}{}{中毒影响}
+{313}{}{辐射影响}
+{314}{}{眼部受伤}
+{315}{}{右臂伤残}
+{316}{}{左臂伤残}
+{317}{}{右腿伤残}
+{318}{}{左腿伤残}
+
 #
 # Damage info texts
 #
 # Poisoned
-{400}{}{Your character is poisoned.  Poison persists in causing damage over a period of time unless an antivenin is taken or until it passes from your system naturally.}
+{400}{}{你的角色中毒了。毒素将会周期性的造成伤害，直到从你体内清除或者你被毒死。}
 # Radiation
-{401}{}{Your character is suffering from a substantial degree of acute radiation poisoning.  The more radiation your body accumulates, the more dire the effects.}
+{401}{}{你的角色受到了大量辐射的影响，越高的辐射损伤将会带来越致命的效果。噢，你在发光耶！}
 # Eye Damage
-{402}{}{Your character is seriously wounded in one or both eyes.  Your perception suffers as a result.}
+{402}{}{这代表着你的角色的眼睛受了重伤，这将影响你的感知。你看不到这个游戏里猫爪杂志里的内容了}
 # Crippled right arm
-{403}{}{Your right arm is severely injured, its functionality impaired.  If one arm is crippled, you can't use two-handed weapons.  If both arms are crippled, you can't attack with any weapons.}
+{403}{}{你角色的右臂受到严重伤害，无法行使正常功能。一只手臂残废将无法使用双手武器。若双臂残废则无法使用武器攻击。}
 # Crippled left arm
-{404}{}{Your character's left arm is severely injured, its functionality impaired.  If one arm is crippled, you can't use two-handed weapons.  If both arms are crippled, you can't attack with any weapons.}
+{404}{}{你角色的左臂受到严重伤害，无法行使正常功能。一只手臂残废将无法使用双手武器。若双臂残废则无法使用武器攻击。}
 # Crippled right leg
-{405}{}{Your character's right leg is crippled.}
+{405}{}{你角色的右腿伤残。}
 # Crippled left leg
-{406}{}{Your character's left leg is crippled.}
+{406}{}{你角色的左腿伤残。}
 
 # Month strings
-{500}{}{January}
-{501}{}{February}
-{502}{}{March}
-{503}{}{April}
-{504}{}{May}
-{505}{}{June}
-{506}{}{July}
-{507}{}{August}
-{508}{}{September}
-{509}{}{October}
-{510}{}{November}
-{511}{}{December}
+{500}{}{一月}
+{501}{}{二月}
+{502}{}{三月}
+{503}{}{四月}
+{504}{}{五月}
+{505}{}{六月}
+{506}{}{七月}
+{507}{}{八月}
+{508}{}{九月}
+{509}{}{十月}
+{510}{}{十一月}
+{511}{}{十二月}
+
 #
 # Option menu text
 #
-{600}{}{SAVE}
-{601}{}{LOAD}
-{602}{}{PRINT TO FILE}
-{603}{}{ERASE}
-{604}{}{DONE}
-{605}{}{Are you sure you want to erase}      # line 1
-{606}{}{the current character?}                 # line 2
-{607}{}{ was successfully saved.}
-{608}{}{ was successfully loaded.}
-{609}{}{already exists.}
-{610}{}{Do you wish to overwrite?}
-{611}{}{Error saving }
-{612}{}{Error loading }
-{613}{}{Character file invalid.}
-{614}{}{Character data invalid.}
-{615}{}{Error reading file list!}
+{600}{}{储存}
+{601}{}{读取}
+{602}{}{打印到文件}
+{603}{}{删除}
+{604}{}{完成}
+{605}{}{你确定要删除}      # line 1
+{606}{}{当前的角色吗？}                 # line 2
+{607}{}{成功储存。}
+{608}{}{成功读取。}
+{609}{}{已经存在。}
+{610}{}{你确定要覆盖吗？}
+{611}{}{储存错误}
+{612}{}{读取错误}
+{613}{}{无效的角色文件。}
+{614}{}{无效的角色数据。}
+{615}{}{无法读取档案名单！}
 {616}{}{PRINT}
 {617}{}{PLAYER}
 {618}{}{BLANK.GCD}
+
 #
 # ASCII text file printing text
 #
-{620}{}{FALLOUT}                   # Title line 1
-{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
-{622}{}{hours} # Title line 3
+{620}{}{异尘余生}                   # Title line 1
+{621}{}{第１３号避难所人员记录} # Title line 2
+{622}{}{小时} # Title line 3
 # -
 # -
-#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
-#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
-#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000}
-#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
-#{000}{}{  Intelligence: 00       Damage Res.: 000}
-#{000}{}{       Agility: 00    Radiation Res.: 000}
-#{000}{}{          Luck: 00       Poison Res.: 000}
+#{000}{}{力量: 00        生命值: 000/000         行动顺序: 00}
+#{000}{}{感知: 00        防护等级: 000             康复速度: 00}
+#{000}{}{耐力: 00        行动点数: 000             暴击概率: 000%}
+#{000}{}{魅力: 00        近战伤害: 000             负重: 000 lbs.}
+#{000}{}{智力: 00        伤害抗性: 000%}
+#{000}{}{敏捷: 00        辐射抗性: 000%}
+#{000}{}{运气: 00        毒素抗性: 000%}
 #
-{623}{}{ ::: Statistics :::}
-{624}{}{       Strength:}
-{625}{}{        Hit Points:}
-{626}{}{        Sequence:}
+{623}{}{ ::: 资      料 :::}
+{624}{}{           力量:}
+{625}{}{            生命值:}
+{626}{}{        攻击次序:}
 # -
-{627}{}{     Perception:}
-{628}{}{       Armor Class:}
-{629}{}{        Healing Rate:}
+{627}{}{         感知:}
+{628}{}{            防御力:}
+{629}{}{              治愈力:}
 # -
-{630}{}{      Endurance:}
-{631}{}{     Action Points:}
-{632}{}{      Critical Chance:}
+{630}{}{           耐力:}
+{631}{}{          行动点数:}
+{632}{}{         暴击概率:}
 # -
-{633}{}{       Charisma:}
-{634}{}{      Melee Damage:}
-{635}{}{         Carry Weight:}
+{633}{}{           魅力:}
+{634}{}{          徒手伤害:}
+{635}{}{         负重:}
 # -
-{636}{}{   Intelligence:}
-{637}{}{       Damage Res.:}
+{636}{}{           智力:}
+{637}{}{        伤害抗性:}
 # -
-{638}{}{        Agility:}
-{639}{}{    Radiation Res.:}
+{638}{}{           敏捷:}
+{639}{}{          辐射抗性:}
 # -
-{640}{}{           Luck:}
-{641}{}{       Poison Res.:}
+{640}{}{           运气:}
+{641}{}{          毒素抗性:}
 # -
 # -
-#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
-{642}{}{  Name:}
-{643}{}{Age:}
-{644}{}{               Gender:}
-{645}{}{White}
-{646}{}{Black}
+#{000}{}{ 名字: 01234567890        Age: 00         Gender: Female}
+{642}{}{  名字:}
+{643}{}{年龄:}
+{644}{}{                性别:}
+{645}{}{男性}
+{646}{}{女性}
 #-
 #{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
-{647}{}{ Level:}
-{648}{}{                Exp:}
-{649}{}{Next Level:}
+{647}{}{  等级:}
+{648}{}{             经验值:}
+{649}{}{到下次升级:}
 #-
-{650}{}{ ::: Traits :::}
-{651}{}{ ::: Perks :::}
-{652}{}{ ::: Karma :::}
+{650}{}{ :::特质:::}
+{651}{}{ :::额外能力:::}
+{652}{}{ :::道德良知:::}
+
 #-
-{653}{}{ ::: Skills :::                ::: Kills :::}
+{653}{}{ :::  技能  :::                ::: 杀敌数 :::}
 #-
-{654}{}{ ::: Inventory :::}
+{654}{}{ ::: 物     品 :::}
 #-
-{655}{}{                                      Total Weight:}
-{656}{}{ ::: Addictions :::}
-{657}{}{ ::: Reputation :::}
+{655}{}{                                            总重量:}
+{656}{}{ ::: 上      瘾 :::}
+{657}{}{ ::: 名      誉 :::}
+
 #
 # Karma name strings
 #
-{1000}{}{Reputation (General) }
-{1001}{}{Childkiller}
-{1002}{}{God of Olympus}
-{1003}{}{Berserker}
-{1004}{}{Spot-Up addiction}
-{1005}{}{Stronghold addiction}
-{1006}{}{Brainiac addiction}
-{1007}{}{Combatid addiction}
-{1008}{}{Resistanol addiction}
-{1009}{}{Alcoholism}
-{1010}{}{Drop addiction}
-{1011}{}{Tragic addiction}
+{1000}{}{名誉 (整体)}
+{1001}{}{疯子}
+{1002}{}{捍卫者}
+{1003}{}{孩童杀手}
+{1004}{}{核子可乐上瘾}
+{1005}{}{壮大灵上瘾}
+{1006}{}{曼他特上瘾}
+{1007}{}{疯狂药上瘾}
+{1008}{}{消辐宁上瘾}
+{1009}{}{酒精上瘾}
+{1010}{}{杰特上瘾}
+{1011}{}{悲剧卡上瘾}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
-{1013}{}{Ray of Hope}
-{1014}{}{True Believer}
-{1015}{}{Atheist}
-{1016}{}{Butcher}
-{1017}{}{Savior}
-{1018}{}{Pack Leader}
-{1019}{}{Supervisor}
-{1020}{}{Overseer}
-{1021}{}{Druglord}
-{1022}{}{Lord of the Wastes}
-{1023}{}{Mystery Seeker}
-{1024}{}{Magical Hands}
-{1025}{}{Sex Machine}
-{1026}{}{Gravedigger}
+{1013}{}{性爱专家}
+{1014}{}{职业拳击手}
+{1015}{}{牛郎}
+{1016}{}{盗墓者}
+{1017}{}{救主：沙尔瓦多}
+{1018}{}{已婚}
+{1019}{}{艳星}
+{1020}{}{奴隶贩子}
+{1021}{}{荒野的处女（男）}
+{1022}{}{帮派分子：彼希}
+{1023}{}{帮派分子：莫丁诺}
+{1024}{}{帮派分子：莱特}
+{1025}{}{离婚者}
+{1026}{}{烟鬼}
+
 #
 # Karma description strings
 #
-{1100}{}{This is a ranged stat that represents your general reputation. The higher the number, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
-{1101}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
-{1102}{}{This is it, you are now the God of Olympus! How much I had to go through, but it was worth it! But what to do with such power?}
-{1103}{}{You have killed a large number of people. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
-{1104}{}{You thoroughly enjoy Spot-Up, the brown and warm soda of the post-nuclear world.}
-{1105}{}{You are addicted to the chem Stronghold. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Brainiac addiction. You must take this particular chem or suffer withdrawal.}
-{1107}{}{You have a chem addiction. If you do not take Combatid on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadOut. While not life threatening, you must take it regularly.}
-{1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
-{1110}{}{You have a chem addiction. You must take Drop on a regular basis.}
-{1111}{}{Tragically, you are hooked on the Garnering. You are constantly in search of new expansions.}
+{1100}{}{这是一个变动的数值，代表你的整体声誉。这个数值越高你将被知晓和尊重，负数声望则是因你的卑劣行径而被讨厌。}
+{1101}{}{你因杀了太多的人而出名。这并不是个出名的好方法，不过邪恶的人会对你产生点好感。}
+{1102}{}{你的行动表明你是人们的守护者，你与邪恶战斗的故事在人们之间传开。富有正义感的人都会尊敬你。}
+{1103}{}{你曾杀过小孩，这被认为是一件相当邪恶的事。你是个邪恶，坏透了的人。}
+{1104}{}{你对畅饮核子可乐无比渴望，它是战前世界流行的饮料。}
+{1105}{}{你对壮大灵上瘾，你只能持续服用这种药物，或是接受戒断治疗。}
+{1106}{}{你对曼他特上瘾，你只能服用这种药物，或是接受戒断治疗。}
+{1107}{}{你对疯狂药上瘾。你若不按时使用会觉得很痛苦，但如果你用药，其他人就倒霉了。}
+{1108}{}{你的身体对消辐宁产生依赖。虽然无生命威胁，但你要定期使用了。}
+{1109}{}{酒对你来说成了一个问题，事实上饮酒习惯给你带来了很多问题。}
+{1110}{}{你有杰特成瘾症，这是可以控制和治愈的，标准治疗是只要你定时服用杰特就行了。}
+{1111}{}{不幸的是，你沉迷于收藏，一直在寻找新的扩展包。}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{You decided to direct all the resources of the skyscraper to the needs of the inhabitants of the Wasteland, even though this makes Olympus defenseless against robbers and marauders.}
-{1114}{}{You diligently agitated the inhabitants of Tartarus to serve the fictional Gods, and they began to work harder. Food and water became abundant and many unrest was quelled. Lying for salvation?}
-{1115}{}{You diligently convinced the people of Tartarus that they were being fooled, and that there were no gods. Many threw down their work and more unrest arose. There is less food and water but more cruelty from the "Gods".}
-{1116}{}{You managed to incite a retaliatory squadron of Olympus to the Caves of the Undead! Rejoice, nobody left alive there.}
-{1117}{}{You did a nice job of making the soil in the Undeath Caves a little more fertile, and the harvest a little richer. Rejoice, now they live a little easier.}
-{1118}{}{Betrayals, secret murders, deception, denunciations ... Who cares? Winners are not judged! You are now the leader of the Sunset Jackals!}
-{1119}{}{Intrigues of intrigue and long-standing family feuds - you unraveled everything, and even took the post of Supervisor in the New World Order Cannery! Well, now you are definitely provided with canned food.}
-{1120}{}{It is not easy to be the head of four crazy families in Livos, but in a crazy world there are crazy rules. Oh, and why do the vault residents call you "Commander"?}
-{1121}{}{Controlling drugs and narcotics is not everyone's dream in the Wastes. You made that dream come true and now control the entire Rainbow Raiders community under your iron fist!}
-{1122}{}{How is that even possible? Four groups that hate each other, and you managed to become the head figure in each of them! Bravo!}
-{1123}{}{You are a famous seeker of old world governmental, scientific or other secrets... and of course the loot therein. Finding the unknown is your motto!}
-{1124}{}{How many locks you've opened and collected either useful items or garbage... Truly, your hands can work wonders with locks!}
-{1125}{}{You have thoroughly decided to tackle this business. How many women have passed through you? A hundred? Two? Maybe it's time to go to the doctor and get yourself checked?}
-{1126}{}{"They're dead, they don't care," has become your motto. Digging up the remains of others is more than a hobby for you.}
+{1113}{}{你熟知各种床上摔跤技巧，懂得如何进行前戏，如何取悦异性，让他们事后仍意犹未尽。}
+{1114}{}{你是北加州重量级的拳击冠军。你得到了名誉、尊敬和众人的爱戴等等，与此同时你的坚韧和徒手技能将获得加成。}
+{1115}{}{让我们开门见山的说：只要是有两条脚的都可以与你上床。}
+{1116}{}{“他们死了，不会介意的。”是你的座右铭。对你来说，将死人遗骨挖出变成了你的习惯。}
+{1117}{}{你成为了沙尔瓦多家族的救世主。软呢帽下风度翩翩的你被人们所熟识和尊重。}
+{1118}{}{恋爱的坟墓，家庭的枷锁。}
+{1119}{}{你是一颗明亮的巨星。你在三级片中的精彩演出已在新里诺众人皆知。}
+{1120}{}{你已被登记为奴隶公会的成员。你额头上明显的纹身向他人展示了你的职业。}
+{1121}{}{你真的得要多玩玩，你还从未有过...性经验。}
+{1122}{}{你成为了彼希家族中的名人。软呢帽下风度翩翩的你，被人们所熟识和尊重。}
+{1123}{}{你成为了莫丁诺家族中的名人。软呢帽下风度翩翩的你，被人们所熟识和尊重。}
+{1124}{}{你成为了莱特家族中的名人。软呢帽下风度翩翩的你，被人们所熟识和尊重。}
+{1125}{}{你的配偶已经离开你了。我希望你高兴。}
+{1126}{}{你是个烟鬼。别人说吸烟会害死你，但你就是没死。顺带一提，这是末世之前的世界里装酷的好方法。}
+
 #
 # Town reputations
 #
-{2000}{}{Idolized}
-{2001}{}{Liked}
-{2002}{}{Accepted}
-{2003}{}{Neutral}
-{2004}{}{Antipathy}
-{2005}{}{Hated}
-{2006}{}{Vilified}
-{2100}{}{Everyone in this area would like to be you. You're the toast-of-the-town and are held up as a shining example of all that a person can be.}
-{2101}{}{People wave and greet you wherever you go in this area. Everyone has heard talk of you, and they like what they've heard.}
-{2102}{}{Although you're not greeted with open arms, most people in this area will at least nod in acknowledgment when you meet. You fit in as well as most.}
-{2103}{}{Normally suspicious of strangers, the people of this area haven't made up their minds about you yet.}
-{2104}{}{You're just another out-of-towner in this area. Probably up to no good.}
-{2105}{}{You've proven to the people in this area that their initial distrust was well founded. People in this area look at you and mutter to one another when you come near. They know you're up to no good.}
-{2106}{}{Staring and muttering, some cross the street to avoid walking near you, while others spit and turn away when you come near. Everyone knows that you're one of the worst things that's ever slithered into this area.}
+{2000}{}{崇拜}
+{2001}{}{喜爱}
+{2002}{}{接受}
+{2003}{}{中立}
+{2004}{}{怀疑}
+{2005}{}{讨厌}
+{2006}{}{憎恶}
+
+{2100}{}{因为你英勇的事迹遍布四处，备受敬仰的你是人们追求成为的光辉模范。}
+{2101}{}{这个地区人们向你招手欢迎。 每个人都听过你的故事，也欣赏你的作为。}
+{2102}{}{尽管没有伸开双手迎接你，但大多数人与你碰面时向你点头肯定。你被人们所接受。}
+{2103}{}{虽然通常对陌生人表示怀疑，但是这里的人还未对你有什么看法。}
+{2104}{}{你对这里的人来说不过是又一个外人，也许有什么不良的企图。}
+{2105}{}{你证明了这些人原本对你的不信任是对的。当你走近时这个地区时，当地人看着你议论纷纷，他们知道你不是个东西。}
+{2106}{}{你一走近，街上行人就躲着你，盯着你嘀咕，甚至有人向你唾弃，转身离开。众人皆知你是这里的灾星。}
+
 #
 # Karma status strings
 #
-{3000}{}{Savior of the Damned}
-{3001}{}{Guardian of the Wastes}
-{3002}{}{Shield of Hope}
-{3003}{}{Defender}
-{3004}{}{Wanderer}
-{3005}{}{Betrayer}
-{3006}{}{Sword of Despair}
-{3007}{}{Scourge of the Wastes}
-{3008}{}{Demon Spawn}
+{3000}{}{救世主}
+{3001}{}{废土卫士}
+{3002}{}{希望之盾}
+{3003}{}{捍卫者}
+{3004}{}{云游者}
+{3005}{}{背叛者}
+{3006}{}{绝望之剑}
+{3007}{}{废土之灾}
+{3008}{}{恶魔转生}
+
 #
 # Karma section titles.
 #
-{4000}{}{Reputation}
-{4001}{}{Addictions}
+{4000}{}{名誉}
+{4001}{}{上瘾}
+
 #
 # Karma section descriptions.
 #
-{4100}{}{Represents your reputation for a particular location.}
-{4101}{}{Things you have become addicted to.}
+{4100}{}{你在某一地区的声望。}
+{4101}{}{已经让你上瘾的东西。}
+
 #
 # Special Demo version only text
 #

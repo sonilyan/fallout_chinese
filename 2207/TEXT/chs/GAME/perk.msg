@@ -1,247 +1,250 @@
 #
-#  Messages from perk.c
-# 
+#   Messages from perk.c
 #
-#  PERK NAMES
 #
-{101}{}{Awareness}
-{102}{}{Bonus HtH Attacks}
-{103}{}{Bonus HtH Damage}
-{104}{}{Bonus Move}
-{105}{}{Bonus Ranged Damage}
-{106}{}{Bonus Rate of Fire}
-{107}{}{Earlier Sequence}
-{108}{}{Faster Healing}
-{109}{}{More Criticals}
-{110}{}{Night Vision}
-{111}{}{Presence}
-{112}{}{Rad Resistance}
-{113}{}{Toughness}
-{114}{}{Strong Back}
-{115}{}{Sharpshooter}
-{116}{}{Silent Running}
-{117}{}{Survivalist}
-{118}{}{Master Trader}
-{119}{}{Educated}
-{120}{}{Healer}
-{121}{}{Fortune Finder}
-{122}{}{Better Criticals}
-{123}{}{Empathy}
-{124}{}{Slayer}
-{125}{}{Sniper}
-{126}{}{Silent Death}
-{127}{}{Action Boy}
-{128}{}{Mental Block}
-{129}{}{Lifegiver}
-{130}{}{Dodger}
-{131}{}{Snakeater}
-{132}{}{Mr. Fixit}
-{133}{}{Medic}
-{134}{}{Master Thief}
-{135}{}{Speaker}
-{136}{}{Heave Ho!}
-{137}{}{ERROR -- UNIMPED} # was -- Friendly Foe
-{138}{}{Pickpocket}
-{139}{}{Ghost}
-{140}{}{Cult of Personality}
-{141}{}{Scrounger}
-{142}{}{Explorer}
-{143}{}{Flower Child}
-{144}{}{Pathfinder}
-{145}{}{Animal Friend}
-{146}{}{Scout}
-{147}{}{Mysterious Stranger}
-{148}{}{Ranger}
-{149}{}{Quick Pockets}
-{150}{}{Smooth Talker}
-{151}{}{Swift Learner}
-{152}{}{Tag!}
-{153}{}{Mutate!}
-{154}{}{Spot-Up Addiction}
-{155}{}{Stronghold Addiction}
-{156}{}{Brainiac Addiction}
-{157}{}{Combatid Addiction}
-{158}{}{Resistanol Addiction}
-{159}{}{Weapon Long Range}
-{160}{}{Weapon Accurate}
-{161}{}{Weapon Penetrate}
-{162}{}{Weapon Knockback}
-{163}{}{Powered Armor}
-{164}{}{Combat Armor}
-{165}{}{Weapon Scope Range}
-{166}{}{Weapon Fast Reload}
-{167}{}{Weapon Night Sight}
-{168}{}{Weapon Flameboy}
-{169}{}{Armor Advanced I}
-{170}{}{Armor Advanced II}
-{171}{}{Drop Addiction}
-{172}{}{Tragic Addiction}
-{173}{}{Armor Charisma}
-{174}{}{Gecko Skinning}
-{175}{}{Dermal Impact Armor}
-{176}{}{Dermal Impact Asslt. Enhance.}
-{177}{}{Phoenix Armor Implants}
-{178}{}{Phoenix Assault Enhancement}
-{179}{}{Vault City Inoculations}
-{180}{}{Adrenaline Rush}
-{181}{}{Cautious Nature}
-{182}{}{Comprehension}
-{183}{}{Demolition Expert}
-{184}{}{Lover}
-{185}{}{Gain Strength}
-{186}{}{Gain Perception}
-{187}{}{Gain Endurance}
-{188}{}{Gain Charisma}
-{189}{}{Gain Intelligence}
-{190}{}{Gain Agility}
-{191}{}{Gain Luck}
-{192}{}{Harmless}
-{193}{}{Here and Now}
-{194}{}{HtH Evade}
-{195}{}{Kama Sutra Master}
-{196}{}{Karma Beacon}
-{197}{}{Light Step}
-{198}{}{Living Anatomy}
-{199}{}{Magnetic Personality}
-{200}{}{Negotiator}
-{201}{}{Pack Rat}
-{202}{}{Pyromaniac}
-{203}{}{Quick Recovery}
-{204}{}{Salesman}
-{205}{}{Stonewall}
-{206}{}{Thief}
-{207}{}{Weapon Handling}
-{208}{}{Vault City Training}
-{209}{}{Alcohol Raised hit points}
-{210}{}{Alcohol Raised hit points II}
-{211}{}{Alcohol Lowered hit points}
-{212}{}{Alcohol Lowered hit points II}
-{213}{}{Autodoc Raised hit points}
-{214}{}{Autodoc Raised hit points II}
-{215}{}{Autodoc Lowered hit points}
-{216}{}{Autodoc Lowered hit points II}
-{217}{}{Expert Excrement Expeditor}
-{218}{}{Weapon Enhanced Knockout}
-{219}{}{Jinxed}
+#   PERK NAMES
 #
-#  PERK DESCRIPTIONS
+{101}{}{警觉力}
+{102}{}{更快的徒手攻击}
+{103}{}{增加徒手伤害}
+{104}{}{增加移动力}
+{105}{}{增加远程攻击伤害}
+{106}{}{更快的开火速度}
+{107}{}{先发制人}
+{108}{}{快速康复}
+{109}{}{更多的致命一击}
+{110}{}{夜视能力}
+{111}{}{彬彬有礼}
+{112}{}{辐射抗性}
+{113}{}{强悍过人}
+{114}{}{善背}
+{115}{}{神射手}
+{116}{}{衔枚疾走}
+{117}{}{生存专家}
+{118}{}{大奸商}
+{119}{}{知识份子}
+{120}{}{医疗师}
+{121}{}{寻宝者}
+{122}{}{更强的致命一击}
+{123}{}{神入}
+{124}{}{杀手}
+{125}{}{狙击手}
+{126}{}{暗杀}
+{127}{}{活力小子}
+{128}{}{意志力}
+{129}{}{强韧生命力}
+{130}{}{闪躲高手}
+{131}{}{吃蛇人}
+{132}{}{维修大师}
+{133}{}{医学常识}
+{134}{}{神偷}
+{135}{}{演说家}
+{136}{}{飞刀手！}
+{137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
+{138}{}{妙手空空}
+{139}{}{神出鬼没}
+{140}{}{八面玲珑}
+{141}{}{搜寻者}
+{142}{}{探险家}
+{143}{}{提高免疫力}
+{144}{}{寻路者}
+{145}{}{动物之友}
+{146}{}{斥侯}
+{147}{}{神秘陌生人}
+{148}{}{游侠}
+{149}{}{快速翻找}
+{150}{}{舌灿莲花}
+{151}{}{聪明过人}
+{152}{}{增加特长技能}
+{153}{}{突变！}
+{154}{}{核子可乐上瘾}
+{155}{}{壮大灵上瘾}
+{156}{}{曼他特上瘾}
+{157}{}{疯狂药上瘾}
+{158}{}{消辐宁上瘾}
+{159}{}{武器长射程}
+{160}{}{武器准确度}
+{161}{}{武器穿甲}
+{162}{}{武器击退}
+{163}{}{动力装甲}
+{164}{}{战斗装甲}
+{165}{}{武器远距狙击}
+{166}{}{武器快速上膛}
+{167}{}{武器夜视镜}
+{168}{}{玩火专家}
+{169}{}{先进装甲Ｉ}
+{170}{}{先进装甲ＩＩ}
+{171}{}{杰特上瘾}
+{172}{}{悲剧卡上瘾}
+{173}{}{装甲强度}
+{174}{}{剥蜥蜴皮}
+{175}{}{植入皮肤装甲}
+{176}{}{植入皮肤强化装甲}
+{177}{}{植入凤凰装甲}
+{178}{}{植入凤凰强化装甲}
+{179}{}{地下掩体市疫苗接种}
+{180}{}{肾上腺素}
+{181}{}{小心翼翼}
+{182}{}{博学广识}
+{183}{}{爆破专家}
+{184}{}{赌徒}
+{185}{}{增加力量}
+{186}{}{增加感知}
+{187}{}{增加耐力}
+{188}{}{增加魅力}
+{189}{}{增加智力}
+{190}{}{增加敏捷}
+{191}{}{增加运气}
+{192}{}{无辜嘴脸}
+{193}{}{鼠目寸光}
+{194}{}{闪避徒手攻击}
+{195}{}{性爱大师}
+{196}{}{道德标杆}
+{197}{}{轻手轻脚}
+{198}{}{生物学家}
+{199}{}{吸引力的人格}
+{200}{}{谈判专家}
+{201}{}{爱背东西的人}
+{202}{}{纵火狂}
+{203}{}{百折不挠}
+{204}{}{推销员}
+{205}{}{铜墙铁壁}
+{206}{}{小偷}
+{207}{}{武器专家}
+{208}{}{地下掩体市的训练}
+{209}{}{酒精增加生命值}
+{210}{}{酒精增加生命值２}
+{211}{}{酒精减少生命值}
+{212}{}{酒精减少生命值２}
+{213}{}{自动医生增加生命值}
+{214}{}{自动医生增加生命值２}
+{215}{}{自动医生减少生命值}
+{216}{}{自动医生减少生命值２}
+{217}{}{专家级铲屎官}
+{218}{}{武器强化击倒}
+{219}{}{倒霉蛋}
+{220}{}{酒精上瘾}
+{221}{}{烟鬼}
+
 #
-{1101}{}{With Awareness, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
-{1103}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
-{1104}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
-{1105}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat. For each level of this Perk, you do +2 points of damage with ranged weapons.}
-{1106}{}{This Perk allows you to pull the trigger a little faster and still remain as accurate as before. Each ranged weapon attack costs 1 AP less to perform.}
-{1107}{}{You are more likely to move before your opponents in combat, since your Sequence is +2 for each level of this Perk.}
-{1108}{}{With each level of this Perk, you get a +2 bonus to your Healing Rate. This is in addition to your normal healing rate, thus you heal faster.}
-{1109}{}{You are more likely to cause critical hits in combat if you have this Perk. Each level of More Criticals gets you an additional +5% chance to cause a critical hit.}
-{1110}{}{With the Night Vision Perk, you can see in the dark better. This will reduce the overall darkness level by 20%.}
-{1111}{}{You command attention by just walking into a room. The initial reaction of another person is improved by 10% for each level of this Perk.}
-{1112}{}{You are better able to avoid radiation and the bad effects radiation causes. Each level of this Perk improves your Radiation Resistance by 15%.}
-{1113}{}{When you are tough, you take less damage. Each level of this Perk adds +10% to your general damage resistance.}
-{1114}{}{AKA Mule. You can carry an additional 50 pounds of equipment for each level of this Perk.}
-{1115}{}{You have a talent for hitting things at longer distances. For each level of this Perk, you get a +2 bonus to Perception for the purposes of determining range modifiers. It's easier than ever to kill at long range!}
-{1116}{}{With this Perk, you now have the ability to move quickly and still remain quiet. You can Sneak and run at the same time. Without this Perk, you would automatically stop Sneaking if you ran.}
-{1117}{}{You are a master of the outdoors. This Perk confers the ability to survive in hostile environments. You get a +25% bonus to Outdoorsman.}
-{1118}{}{You have mastered one aspect of bartering - buying goods far more cheaply than normal. With this Perk, you get a 25% discount when purchasing items from a store or another trader.}
-{1119}{}{Each level of Educated adds +2 skill points when you gain a new experience level. This Perk works best when purchased early in your adventure.}
-{1120}{}{The healing of bodies comes easier to you with this Perk. Each level of this Perk heals 4-10 additional hit points when using the First Aid or Doctor skills.}
-{1121}{}{You have the talent of finding money. You find additional money in random encounters in the desert.}
-{1122}{}{The critical hits you cause in combat are more devastating. You gain a 20% bonus on the critical hit table, almost ensuring that more damage will be done. This does not affect the chance to cause a critical hit.}
-{1123}{}{You have studied other human beings, giving you inside knowledge of their emotional reaction to you. You will see the reaction level of the person you are talking to when involved in an indepth conversation.}
-{1124}{}{The Slayer walks the earth! In hand-to-hand combat all of your hits are upgraded to critical hits, causing destruction and mayhem.}
-{1125}{}{You have mastered the firearm as a source of pain. With this Perk, any successful hit in combat with a ranged weapon will be upgraded to a critical hit if you also make a Luck roll.}
-{1126}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a hand-to-hand attack. Silent Death is that kind of Perk.}
-{1127}{}{Each level of Action Boy (insert Girl if you wish) gives you an additional AP to spend every combat turn. You can use these generic APs on any task.}
-{1128}{}{Mental Block is the ability to tune out any outside mental interference. You must have learned this talent from a passing guru, or from a really late night at a bar.}
-{1129}{}{With each level of this Perk, you gain an additional 4 Hit Points every time you advance a level. This is in addition to the hit points you already gain per level based off of your endurance.}
-{1130}{}{You are less likely to be hit in combat if you have this Perk. You gain a +5 to your Armor Class, in addition to the AC bonus from any armor worn.}
-{1131}{}{Yum! Tastes like chicken. For each level of this Perk, you gain +25% to your Poison Resistance.}
-{1132}{}{This Perk will give you a one-time bonus of +10% to the Repair and Science skills. A little late night cramming never hurt anybody, especially you.}
-{1133}{}{The Medic Perk gives you a one-time bonus of +10% to the First Aid and Doctor skills. Healing skills are a good thing.}
-{1134}{}{A Master Thief is proficient at stealing and picking locks. You gain +15 to Stealing and Lockpicking. Steal from the rich, and give to you.}
-{1135}{}{Being a Speaker means you have a one-time bonus of +20% to Speech. From the mouth of babes and all that.}
-{1136}{}{Each level of the Heave Ho! Perk gives you an additional +2 to Strength (up to 10,) for purposes of determining range with thrown weapons only. This Perk will not exceed a weapon's maximum range.}
+#   PERK DESCRIPTIONS
+#
+{1101}{}{细致的观察，让你在观察任何生物时，获取他们的生命值和装备武器的信息。}
+{1102}{}{你学到了东方的神秘技巧，或者说你出拳更快了，怎么说都成。减少1点徒手攻击AP消耗。}
+{1103}{}{熟悉空手攻击技巧让你有更高破坏力。该能力每级提高你2点近战伤害。}
+{1104}{}{该技能每等级额外提供2点移动专用AP。换句话说，你每回合可额外移动2格。}
+{1105}{}{对枪械和其他远程武器的训练，使你在远程作战中更加致命。该能力每级提高2点远程武器伤害。}
+{1106}{}{该能力使得你开火速度提高，但依旧保持精准。减少1点所有远程武器攻击AP消耗。}
+{1107}{}{你有更大的机会能在战斗中比敌人先行动，该项能力每级提高你2点战斗顺序。}
+{1108}{}{该能力每级提高2点康复速度。额外的康复能力让你伤势更快恢复。}
+{1109}{}{该技能提高你的暴击概率。每级该能力提高5%的暴击概率。}
+{1110}{}{该能力能让你在黑暗中看得更清楚。减少20%画面阴暗度。}
+{1111}{}{你总是让人印象深刻，该能力每级提高10%别人对你的第一印象。}
+{1112}{}{你能更好的抵御辐射和辐射造成的不良效果。该能力每级提高15%辐射抗性。}
+{1113}{}{你有着和超人一样坚实的体格，可抵御受到的伤害。该能力每级提高10%常规伤害抗性。}
+{1114}{}{你和骡子一样能扛，该能力每级提高50点负重。}
+{1115}{}{攻击远处目标的天赋。该能力每级将在你远程武器攻击时提升2点感知。现在攻击远处敌人更加容易了！}
+{1116}{}{有了这项能力你可以在快速移动时保持安静。你可以在潜行时奔跑。如果没有这项能力，你奔跑时将取消潜行。}
+{1117}{}{你是野外求生的专家。该能力会提高你在恶劣环境下的生还能力。你得到了25%生存技能。}
+{1118}{}{你掌握了买卖中杀价的诀窍。该项能力会使你在商店或他人处购买时，获得25%价格折扣。}
+{1119}{}{当你每次升级时额外获得2技能点。越早获得该能力对你越有利。}
+{1120}{}{治愈变得更加简单了。每级该能力使得你使用急救或医疗时额外恢复4-10点生命值。}
+{1121}{}{你拥有了寻找财物的天赋，你能在随机遭遇中获得额外的钱。}
+{1122}{}{你的暴击更加具有破坏力，增加20%暴击伤害。该能力不会影响暴击概率。}
+{1123}{}{你深入研究过人类行为，获得了情绪反应方面的知识。你能看见与你深入交谈的人的反应态度。}
+{1124}{}{你是现行于世的杀戮战士！你所有的近身攻击都将提升为暴击。这个额外能力的说明书最后一页上写着前下前拳，你不知道这是为什么。}
+{1125}{}{狙击手！哈！你的射击极其准确且致命。这个能力会将成功通过幸运判定的远程武器命中攻击升级为暴击。}
+{1126}{}{潜行时从生物后方发动的近战攻击造成双倍伤害。名副其实的安静死亡。}
+{1127}{}{每级该能力在每个战斗回合额外提供1点AP，该AP的使用不受限制。}
+{1128}{}{精神屏障是免除外界精神干扰的能力。你一定是从一位路过的大师，或许是在深夜的酒吧掌握了这种能力。}
+{1129}{}{当你升级时该能力每级额外增加4点生命上限。该增益是在耐力提升生命上限基础上附加的。}
+{1130}{}{该能力会减少你被命中的概率。你将额外获得5点防御等级。}
+{1131}{}{嗯，吃起来就像鸡肉。每级该能力提升你25%毒素抗性。}
+{1132}{}{提高你10%的修理和科学技能，只能选择一次。临阵磨枪，不亮也光。}
+{1133}{}{提高你10%的医疗和急救技能，只能选择一次。实用的疗伤技能。}
+{1134}{}{一个熟练的小偷精通偷窃和开锁。增加15%偷窃和开锁技能。}
+{1135}{}{成为演说家使你提升20%口才技能，只能选择一次。}
+{1136}{}{该能力每级将在你投掷攻击时提升2点力量(上限10)，不会影响投掷武器射程。}
 {1137}{}{ERROR.UNIMPED!}
-{1138}{}{You are much more adept at stealing than the common crook. You can steal as the best of them because with this Perk, you ignore size and facing modifiers when stealing from a person.}
-{1139}{}{When the sun goes down or you are in a poorly lit area, you move like a ghost with this Perk. Your Sneak skill is enhanced +20% in dark conditions.}
-{1140}{}{Your reputation is always positive to people. Without this Perk, a large negative reputation would have a bad effect on good natured people. This works in the reverse as well. Evil people will even treat Mr. Goodie Good as one of the gang.}
-{1141}{}{You can find more ammo than the normal post-holocaust survivor. This Perk doubles the amount of ammo found in random encounters.}
-{1142}{}{The mark of the Explorer is to search out new and interesting locations. With this Perk, you have a greater chance of finding special places and people.}
-{1143}{}{With this Perk, you are less likely to be reliant to chems (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
-{1144}{}{The Pathfinder is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
-{1145}{}{Animals will not attack one of their friends, unless the animal is threatened or attacked first. Exactly what an animal is in this world is open to debate.}
-{1146}{}{You have improved your ability to see distant locations, increasing the size of explorations on the World Map by one square in each direction. You also have a better chance of finding special encounters.}
-{1147}{}{With this Perk, you have gained the attention of a Mysterious Stranger, who will appear to help you from time to time. If your ally is lost in combat, do not expect him (or her) to be replaced.}
-{1148}{}{You gain a +15% toward your Outdoorsman skill. You are more likely to avoid random encounters if you choose, and tend to find those "special" encounters more than most.}
-{1149}{}{You have learned to pack your equipment better. Accessing your inventory only costs you 2 Action Points in Combat instead of 4.}
-{1150}{}{You have learned to increase your dialog options without understanding what you're talking about. Each level of this Perk will increase your Intelligence by one, up to 10, for purposes of dialog only.}
-{1151}{}{You are indeed a Swift Learner with this Perk, as each level gives you an additional +5% bonus whenever you earn experience points. This is best taken early.}
-{1152}{}{Your skills have improved to the point where you can pick an additional Tag Skill. Tag skills increase twice as fast.}
-{1153}{}{The radiation of the wasteland has changed you! One of your Traits has mutated into something else...}
-{1154}{}{You crave another Spot-Up.}
-{1155}{}{You've got the shakes. You could really use that wonderful ointment, which increased your strength. You wonder why.}
-{1156}{}{You feel groggy. You want another Brainiac dose.}
-{1157}{}{You are in terrible pain without another dose of Combatid. You're not ready to sell your soul to the Devil for one, but you could certainly lend it to him for a while.}
-{1158}{}{You feel an unbearable itch, your skin is covered in pus boils. You're sure that without take of Resistanol your skin will just come off.}
-{1159}{}{Weapon Long Range}
-{1160}{}{Weapon Accurate}
-{1161}{}{Weapon Penetrate}
-{1162}{}{Weapon Knockback}
-{1163}{}{Powered Armor}
-{1164}{}{Combat Armor}
-{1165}{}{Weapon Scope Range}
-{1166}{}{Weapon Fast Reload}
-{1167}{}{Weapon Night Sight}
-{1168}{}{Weapon Flameboy}
-{1169}{}{Armor Advanced I}
-{1170}{}{Armor Advanced II}
-{1171}{}{You feel terrible. Even the tips of your hair hurt. You begin to wonder who you need to kill to get another dose of the Drop.}
-{1172}{}{You feel a burning desire to open another box of Tragic cards.}
-{1173}{}{Armor Charisma}
-{1174}{}{You know how to collect everything useful from the carcasses of slaughtered animals.}
-{1175}{}{You have inherent protection against physical attacks.}   # Dermal Impact Armor
-{1176}{}{You have extra inherent protection against physical attacks.} # Dermal Impact Assault Enhancement
-{1177}{}{You have inherent protection against energy attacks.}   # Phoenix Armor Implants
-{1178}{}{You have extra inherent protection against energy attacks.} # Phoenix Assault Enhancement
-{1179}{}{You have gained +10% resistance to both poison and radiation.} # Vault City Inoculations
-{1180}{}{With this Perk, you gain +1 to your Strength when you drop below 1/2 of your max hit points.} # Adrenaline Rush
-{1181}{}{You are more alert outdoors and enemies are less likely to sneak up on you. With this Perk you get a +3 to your perception in random encounters when determining placement.} # Cautious Nature
-{1182}{}{You pay much closer attention to the smaller details when reading. You gain 50% more skill points when reading books.} # Comprehension
-{1183}{}{You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.} # Demolition Expert
-{1184}{}{You can charm anyone. You get a +20% bonus to the Casanova skill.} # Gambler
-{1185}{}{With this Perk you gain +1 to your Strength.}   # Gain Strength
-{1186}{}{With this Perk you gain +1 to your Perception.}  # Gain Perception
-{1187}{}{With this Perk you gain +1 to your Endurance.}  # Gain Endurance
-{1188}{}{With this Perk you gain +1 to your Charisma.}   # Gain Charisma
-{1189}{}{With this Perk you gain +1 to your Intelligence.} # Gain Intelligence
-{1190}{}{With this Perk you gain +1 to your Agility.}   # Gain Agility
-{1191}{}{With this Perk you gain +1 to your Luck.}     # Gain Luck
-{1192}{}{Your innocent demeanor makes stealing from people a little easier. You gain 20% to your Steal skill.} # Harmless
-{1193}{}{With this Perk you immediately gain one experience level.} # Here and Now
-{1194}{}{If both item slots are empty, each unused action point gives you a +2 instead of +1 towards your armor class at the end of your turn, plus 1/12 of your unarmed skill.} # HtH Evade
-{1195}{}{When it comes to pleasing sexually, you wrote the book.} # Kama Sutra Master
-{1196}{}{Your Karma shines twice as bright. Whether good or bad, your Karma is doubled for any kind of reaction or modifiers.} # Karma Beacon
-{1197}{}{You are agile, lucky, and always careful. This perk halves your chances of setting off a trap.} # Light Step
-{1198}{}{You have a better understanding of living creatures and their strengths and weaknesses. You get a one-time bonus of +10% to Doctor, and you do +5 damage per attack to living creatures.} # Living Anatomy
-{1199}{}{You get 1 extra slot in your companion limit, but don't forget that more than 5 is always a crowd.} # Magnetic Personality
-{1200}{}{You are a very skilled negotiator. Not only can you barter with the best of them, but you can talk your way into or out of almost anything. With this Perk you gain +10% to both Barter and Speech.} # Negotiator
-{1201}{}{You are efficient at arranging your inventory in general. This makes it much easier to carry that little extra you've always needed.} # Pack Rat
-{1202}{}{You do extra damage with fire-based weapons, and enemies always seem to die in the most painful fiery fashion.} # Pyromaniac
-{1203}{}{You are quick at recovering from being knocked down.} # Quick Recovery
-{1204}{}{You are an adept salesperson. With this Perk you gain +20% towards your Barter skill.} # Salesman
-{1205}{}{You are much less likely to be knocked down in combat.} # Stonewall
-{1206}{}{The blood of a thief runs through your veins. With the Thief Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills. A well rounded thief is a live thief.} # Thief
-{1207}{}{You can wield weapons much larger than normally allowed. You gain a +3 to your strength for the purposes of Strength checks when trying to wield weaponry.} # Weapon Handling
-{1208}{}{You have received the Vault City medical training.} # Vault City Training
-{1209}{}{Your hit points have been enhanced a little by repeated drunkeness.} # Alcohol Enhanced hit points
-{1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.} # Alcohol Enhanced hit points II
-{1211}{}{Your hit points have been lowered slightly by repeated drunkeness.} # Alcohol Lowered hit points
-{1212}{}{Your hit points have been lowered slightly by repeated drunkeness.} # Alcohol Lowered hit points II
-{1213}{}{Your hit points have been enhanced a little by repeated use of the autodoc.} # Autodoc Enhanced hit points
-{1214}{}{Your hit points have been enhanced a little more by repeated use of the autodoc.} # Autodoc Enhanced hit points II
-{1215}{}{Your hit points have been lowered slightly by repeated use of the autodoc.} # Autodoc Lowered hit points
-{1216}{}{Your hit points have been lowered slightly by repeated use of the autodoc.} # Autodoc Lowered hit points II
-{1217}{}{You can sling bull with the best of them.}
-{1218}{}{Weapon Enhanced Knockout}
-{1219}{}{The good thing is that everyone around you has more critical failures in combat. The bad thing is that you do too!}
+{1138}{}{扒手中的专家！你比普通的扒手更擅长偷窃。你可以偷走别人最好的东西，该能力使得你偷窃时忽略物品尺寸和人物面向的修正值。}
+{1139}{}{当日落后或是在待阴暗处时，你移动就像鬼一样无声无息。在低光环境下增加20%潜行技能。}
+{1140}{}{你在人心目中的印象将会永远是正面的。没有该能力，负面名誉对于好人有负面影响。相反有了该能力，邪恶的人甚至会把好人看成一伙。}
+{1141}{}{你比别其他浩劫幸存者更容易找到弹药。该能力使你随机遭遇时找到的弹药翻倍。}
+{1142}{}{探险家的目的就是发现新事物。该能力会使你非常容易遇到特殊地点和人物。}
+{1143}{}{该能力使你减少50%药物上瘾概率和成瘾负面影响的持续时间。}
+{1144}{}{寻路使你更容易找到捷径。该能力每级减少25%世界地图旅行时间。}
+{1145}{}{动物们不会攻击你，除非他们受到威胁或先被攻击。事实上在这个世界里什么是动物还存在争论。}
+{1146}{}{你远眺的能力增强了，在世界地图上看到范围的每个方向将会增加一格。增加特殊遭遇的概率也会因此提高。}
+{1147}{}{该能力会使你得到一位神秘陌生人关注，他将不时地助你一臂之力。不过，如果他死于战斗中，将不会有人接替。}
+{1148}{}{增加15%的野外生存技能。你将能够更容易避开随机遭遇，不过却会增加遇到“特殊”事件的概率。}
+{1149}{}{你学会如何将物品作更有序的整理。这能力使你使用背包时只使用2点行动点数，而不是平常的4点。}
+{1150}{}{增加你的对话选项，尽管有可能你并不知道你在说什么。每级该能力在对话过程中暂时增加1点智力，上限10。}
+{1151}{}{你是个学习速度快的人。该能力每级提高5%经验获得率，越早获得该能力对你越有利。}
+{1152}{}{你的技能达到一个新高度，可以再一个选择特长技能。特长技能提升速度是普通技能的两倍。}
+{1153}{}{在荒野中的辐射改变了你！你的其中一个特质变成了另一种特质。}
+{1154}{}{你想要再来一瓶核子可乐。}
+{1155}{}{你全身发抖。}
+{1156}{}{你觉得摇摇晃晃。}
+{1157}{}{你觉得头昏眼花。}
+{1158}{}{你觉得想吐。}
+{1159}{}{远程武器}
+{1160}{}{武器准确度}
+{1161}{}{武器穿透力}
+{1162}{}{武器击退力}
+{1163}{}{动力装甲}
+{1164}{}{战斗护甲}
+{1165}{}{武器射程}
+{1166}{}{武器快速装填}
+{1167}{}{武器夜视镜}
+{1168}{}{玩火专家}
+{1169}{}{装甲升级1}
+{1170}{}{装甲升级2}
+{1171}{}{每一样东西都在飘来飘去……你需要来点杰特，现在就要！}
+{1172}{}{你心中燃起想要再开一盒悲剧卡的冲动。}
+{1173}{}{装备魅力}
+{1174}{}{你掌握了如何正确地剥下蜥蜴的外皮。}
+{1175}{}{你有内在保护，抵御物理攻击。}     # Dermal Impact Armor
+{1176}{}{你有强化的内在保护，抵御物理攻击。}  # Dermal Impact Assault Enhancement
+{1177}{}{你有内在保护，抵御能量攻击。}     # Phoenix Armor Implants
+{1178}{}{你有强化的内在保护，抵御能量攻击。}  # Phoenix Assault Enhancement
+{1179}{}{你得到了10%毒素和辐射抗性。}  # Vault City Inoculations
+{1180}{}{该能力使得你在最大生命低于50%时提升1点力量。}  # Adrenaline Rush
+{1181}{}{你在野外更加的警觉，敌人很难对你进行偷袭。在随机遭遇中感知增加3点，取决于敌对生物与你的距离。}  # Cautious Nature
+{1182}{}{阅读时你更加注重细节。从书籍中获得50%额外技能。}  # Comprehension
+{1183}{}{你是精通爆破艺术的专家。炸弹会以精准的时间爆炸，同时造成额外的伤害。}  # Demolition Expert
+{1184}{}{你是扔骰子的高手。增加20%赌博技能。}  # Gambler
+{1185}{}{增加1点力量。} # Gain Strength
+{1186}{}{增加1点感知。} # Gain Perception
+{1187}{}{增加1点耐力。} # Gain Endurance
+{1188}{}{增加1点魅力。} # Gain Charisma
+{1189}{}{增加1点智力。} # Gain Intelligence
+{1190}{}{增加1点敏捷。} # Gain Agility
+{1191}{}{增加1点运气。} # Gain Luck
+{1192}{}{你无辜的外表让你偷东西更加容易。增加了20%偷窃技能。} # Harmless
+{1193}{}{这个能力会让你立即提升一个等级。} # Here and Now
+{1194}{}{如果你的两个物品槽均为空，回合结束时剩余每点AP提高2点防御等级，每12%徒手技能提高1点防御等级。}  # HtH Evade
+{1195}{}{每当提到用性来取悦对方，你就能写本书。} # Kama Sutra Master
+{1196}{}{你的魅力倍加闪耀。无论好坏，别人对你的态度和受到的影响都会加倍。}  # Karma Beacon
+{1197}{}{你身手敏捷、运气不错且小心谨慎。这个能力使你触发陷阱的概率减半。}  # Light Step
+{1198}{}{你对于生物的长处和弱点了若指掌。一次性增加的10%医疗技能，每次对有机生物攻击增加5点伤害。}  # Living Anatomy
+{1199}{}{你可以多带1个伙伴，但别忘了上限5人。}  # Magnetic Personality
+{1200}{}{你是一个经验丰富的谈判家。不仅能搞定一笔好买卖，而且能把任何事说的天花乱坠。增加10%交易和口才。}  # Negotiator
+{1201}{}{你对物品的整理方面相当的有效率。让你总可以多放一点东西在背包里。}  # Pack Rat
+{1202}{}{你的火焰武器可以造成额外的伤害，你的敌人总会被烤得很惨。}  # Pyromaniac
+{1203}{}{你被打倒时，可以很快的站起来。}  # Quick Recovery
+{1204}{}{你是个熟练的推销员。增加20%交易技能。}  # Salesman
+{1205}{}{你在战斗中将不易被打倒在地。脚下生根！}  # Stonewall
+{1206}{}{小偷的血液流遍你的全身。一次性增加10%的潜行、开锁、偷窃和陷阱。一个活灵活现的贼。}  # Thief
+{1207}{}{你可以使用更大的武器。当你在试图装备武器，检查力量需求时增加3点力量。}  # Weapon Handling
+{1208}{}{你接受了地下掩体市的医疗训练。}  # Vault City Training
+{1209}{}{你的最大生命值因为反复醉酒而增加。}  # Alcohol Enhanced hit points
+{1210}{}{你的最大生命值因为反复醉酒而进一步增加。}  # Alcohol Enhanced hit points II
+{1211}{}{你的最大生命值因为反复醉酒而减少。}  # Alcohol Lowered hit points
+{1212}{}{你的最大生命值因为反复醉酒而进一步减少。}  # Alcohol Lowered hit points II
+{1213}{}{你的最大生命值因为多次使用自动医生而增加。}  # Autodoc Enhanced hit points
+{1214}{}{你的最大生命值因为多次使用自动医生而进一步增加。}  # Autodoc Enhanced hit points II
+{1215}{}{你的最大生命值因为多次使用自动医生而减少。}  # Autodoc Lowered hit points
+{1216}{}{你的最大生命值因为多次使用自动医生而进一步减少。}
+{1217}{}{你照看牛群不比任何人差。}
+{1218}{}{武器增加击倒能力。}
+{1219}{}{好消息是你周围的人在战斗中经常遭遇这样或那样的失败，这会让他们看起来很蠢，坏消息是--你也一样！}

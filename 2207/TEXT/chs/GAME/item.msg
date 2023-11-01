@@ -1,55 +1,35 @@
 #
-# Item.c messages 
+# Item.c messages
 #
-### {1}{}{You gained %d %s.}
-{1}{}{你获得了%d%s。}
-### {2}{}{You lost %d %s.}
-{2}{}{您丢失了%d%s。}
-### {3}{}{You feel better.}
-{3}{}{你感觉好多了。}
-### {4}{}{You suffer a fatal heart attack from chem overdose.}
-{4}{}{你因服用过量化学药品而心脏病发作致死。}
-### {5}{}{%s has no charges left.}
-{5}{}{%s已经没有任何指控了。}
-### {6}{}{%s is on.}
-{6}{}{%s已打开。}
-### {7}{}{%s is off.}
-{7}{}{%s已关闭。}
-### {8}{}{You pass the Geiger counter over your body. The rad counter reads: %d}
-{8}{}{你把盖革计数器放在身上。rad计数器读取：%d}
-### {9}{}{This item can only be used from the interface bar.}
-{9}{}{此项只能从界面栏中使用。}
-### {10}{}{Nothing happens.}
-{10}{}{什么也没发生。}
+{1}{}{你得到了 %d %s 。}
+{2}{}{你失去了 %d %s 。}
+{3}{}{你觉得好多了。}
+{4}{}{你因过量使用药物心力衰竭。}
+{5}{}{[%s]没电了。}
+{6}{}{[%s]是打开的。}
+{7}{}{[%s]是关闭的。}
+{8}{}{你将盖勒计数器对着躯体。雷姆计数器度数：%d}
+{9}{}{该物品只能在操作界面里使用。}
+{10}{}{什么都没有发生。}
 
 
 # Fallout 2:
-### {50}{}{That didn't seem to do that much.}
-{50}{}{这似乎并没有起到多大作用。}
+{50}{}{那好像没什么作用。}
 
 
 #
 # Fallout 2
 #
-### {500}{}{There is not enough light to recharge this item.}
-{500}{}{光线不足，无法为该物品充电。}
+{500}{}{这里光线不足，无法对该物品充电。}
 #
-### {600}{}{%s succumbs to the adverse effects of chems.}
-{600}{}{%s死于化学药品的不良影响。}
+{600}{}{[%s]受到化学药物的副作用。}
 
 # Weapon Damage strings
-### {800}{}{Light}
-{800}{}{光}
-### {801}{}{Medium}
-{801}{}{中等的}
-### {802}{}{Heavy}
-{802}{}{重的}
-### {803}{}{Extreme}
-{803}{}{极端}
+{800}{}{轻微}
+{801}{}{一般}
+{802}{}{较重}
+{803}{}{严重}
 # Weapon Range strings
-### {820}{}{Short}
-{820}{}{短的}
-### {821}{}{Medium}
-{821}{}{中等的}
-### {822}{}{Long}
-{822}{}{长的}
+{820}{}{近}
+{821}{}{中}
+{822}{}{远}

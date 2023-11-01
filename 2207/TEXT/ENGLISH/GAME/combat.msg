@@ -1,0 +1,901 @@
+#
+# This is all of the combat messages used by combat.c
+# Note: all 0 values will be filled with a number greater than 1
+#
+# Truly Generic strings (no need for gender/number issues)
+#
+{100}{}{You need %d action points.}
+{101}{}{Out of ammo.}
+{102}{}{Target is too far away.}
+{103}{}{Combat cannot end with nearby hostile creatures.}
+{104}{}{Your aim is blocked.}
+{105}{}{You cannot use weapons with both arms crippled.}
+{106}{}{You cannot use two-handed weapons with a crippled arm.}
+{107}{}{You are not strong enough to use this weapon properly.}
+{108}{}{ and }
+#
+# Combat Flag Strings (all of these happen to you, the MALE player)
+#
+{200}{}{knocked out}
+{201}{}{knocked down}
+{202}{}{crippled your left leg}
+{203}{}{crippled your right leg}
+{204}{}{crippled your left arm}
+{205}{}{crippled your right arm}
+{206}{}{blinded}
+{207}{}{were killed}
+{208}{}{hit}
+{209}{}{critical}
+{210}{}{on fire}
+{211}{}{had your armor bypassed}
+{212}{}{your weapon exploded}
+{213}{}{your weapon destroyed}
+{214}{}{your weapon dropped}
+{215}{}{lost your next turn}
+{216}{}{hit yourself}
+{217}{}{lost the rest of your ammo}
+{218}{}{fired a dud shot}
+{219}{}{hurt yourself}
+{220}{}{hit randomly}
+{221}{}{crippled a random limb}
+{222}{}{peppered with fragments}
+#
+# Combat Flag Strings (all of these happen to you, the FEMALE player)
+#
+{250}{}{knocked out}
+{251}{}{knocked down}
+{252}{}{crippled your left leg}
+{253}{}{crippled your right leg}
+{254}{}{crippled your left arm}
+{255}{}{crippled your right arm}
+{256}{}{blinded}
+{257}{}{were killed}
+{258}{}{hit}
+{259}{}{critical}
+{260}{}{on fire}
+{261}{}{had your armor bypassed}
+{262}{}{your weapon exploded}
+{263}{}{your weapon destroyed}
+{264}{}{your weapon dropped}
+{265}{}{lost your next turn}
+{266}{}{hit yourself}
+{267}{}{lost the rest of your ammo}
+{268}{}{fired a dud shot}
+{269}{}{hurt yourself}
+{270}{}{hit randomly}
+{271}{}{crippled a random limb}
+{272}{}{peppered with fragments}
+#
+# Combat Flag Strings (all of these happen to a male)
+#
+{300}{}{knocked out}
+{301}{}{knocked down}
+{302}{}{crippled his left leg}
+{303}{}{crippled his right leg}
+{304}{}{crippled his left arm}
+{305}{}{crippled his right arm}
+{306}{}{blinded}
+{307}{}{was killed}
+{308}{}{hit}
+{309}{}{critical}
+{310}{}{on fire}
+{311}{}{had his armor bypassed}
+{312}{}{his weapon exploded}
+{313}{}{his weapon destroyed}
+{314}{}{his weapon dropped}
+{315}{}{lost his next turn}
+{316}{}{hit himself}
+{317}{}{lost the rest of his ammo}
+{318}{}{fired a dud shot}
+{319}{}{hurt himself}
+{320}{}{hit randomly}
+{321}{}{crippled a random limb}
+{322}{}{peppered with fragments}
+#
+# Combat Flag Strings (all of these happen to a female)
+#
+{400}{}{knocked out}
+{401}{}{knocked down}
+{402}{}{crippled her left leg}
+{403}{}{crippled her right leg}
+{404}{}{crippled her left arm}
+{405}{}{crippled her right arm}
+{406}{}{blinded}
+{407}{}{was killed}
+{408}{}{hit}
+{409}{}{critical}
+{410}{}{on fire}
+{411}{}{had her armor bypassed}
+{412}{}{her weapon exploded}
+{413}{}{her weapon destroyed}
+{414}{}{her weapon dropped}
+{415}{}{lost her next turn}
+{416}{}{hit herself}
+{417}{}{lost the rest of her ammo}
+{418}{}{fired a dud shot}
+{419}{}{hurt herself}
+{420}{}{hit randomly}
+{421}{}{crippled a random limb}
+{422}{}{peppered with fragments}
+#
+# Miscellaneous combat messages (all of these happen to you, the male player)
+# Note: the first  will be replaced by the value of line 506, which
+#          should be the language's equivalent to 2nd person male singular,
+#          which is "You" in English. The first letter of line 506 should
+#          be capitalized, since it will start a sentence.
+#       the second  (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 509
+#          where the second  is the name of another creature
+{506}{}{You}
+{509}{}{Oops! %s were hit instead of %s!}
+{511}{}{%s were critically hit in %s for %d hit points}
+{512}{}{%s were hit in %s for %d hit points}
+{513}{}{%s were hit for %d hit points}
+{514}{}{%s critically missed}
+{515}{}{%s missed}
+{520}{}{%s were critically hit for %d hit points}
+{521}{}{%s were critically hit in %s for 1 hit point}
+{522}{}{%s were hit in %s for 1 hit point}
+{523}{}{%s were hit for 1 hit point}
+{524}{}{%s were critically hit for 1 hit point}
+{525}{}{%s were critically hit in %s for no damage}
+{526}{}{%s were hit in %s for no damage}
+{527}{}{%s were hit for no damage}
+{528}{}{%s were critically hit for no damage}
+{533}{}{%s critically missed and took 1 hit point}
+{534}{}{%s critically missed and took %d hit points}
+#
+# Miscellaneous combat messages (all of these happen to you, the female player)
+# Note: the first  will be replaced by the value of line 556, which
+#          should be the language's equivalent to 2nd person female singular,
+#          which is "You" in English. The first letter of line 556 should
+#          be capitalized, since it will start a sentence.
+#       the second  (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 559
+#          where the second  is the name of another creature
+{556}{}{You}
+{559}{}{Oops! %s were hit instead of %s!}
+{561}{}{%s were critically hit in %s for %d hit points}
+{562}{}{%s were hit in %s for %d hit points}
+{563}{}{%s were hit for %d hit points}
+{564}{}{%s critically missed}
+{565}{}{%s missed}
+{570}{}{%s were critically hit for %d hit points}
+{571}{}{%s were critically hit in %s for 1 hit point}
+{572}{}{%s were hit in %s for 1 hit point}
+{573}{}{%s were hit for 1 hit point}
+{574}{}{%s were critically hit for 1 hit point}
+{575}{}{%s were critically hit in %s for no damage}
+{576}{}{%s were hit in %s for no damage}
+{577}{}{%s were hit for no damage}
+{578}{}{%s were critically hit for no damage}
+{583}{}{%s critically missed and took 1 hit point}
+{584}{}{%s critically missed and took %d hit points}
+#
+# Miscellaneous combat messages (all of these happen to a male)
+# Note: the first  is the name of the male creature
+#       the second  (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 609
+#          where the second  is the name of another creature
+#
+{608}{}{Oops! %s was hit instead of you!}
+{609}{}{Oops! %s was hit instead of %s!}
+{611}{}{%s was critically hit in %s for %d hit points}
+{612}{}{%s was hit in %s for %d hit points}
+{613}{}{%s was hit for %d hit points}
+{614}{}{%s critically missed}
+{615}{}{%s missed}
+{620}{}{%s was critically hit for %d hit points}
+{621}{}{%s was critically hit in %s for 1 hit point}
+{622}{}{%s was hit in %s for 1 hit point}
+{623}{}{%s was hit for 1 hit point}
+{624}{}{%s was critically hit for 1 hit point}
+{625}{}{%s was critically hit in %s for no damage}
+{626}{}{%s was hit in %s for no damage}
+{627}{}{%s was hit for no damage}
+{628}{}{%s was critically hit for no damage}
+{633}{}{%s critically missed and took 1 hit point}
+{634}{}{%s critically missed and took %d hit points}
+#
+# Miscellaneous combat messages (all of these happen to a female)
+# Note: the first  is the name of the female creature
+#       the second  (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 709
+#          where the second  is the name of another creature
+#
+{708}{}{Oops! %s was hit instead of you!}
+{709}{}{Oops! %s was hit instead of %s!}
+{711}{}{%s was critically hit in %s for %d hit points}
+{712}{}{%s was hit in %s for %d hit points}
+{713}{}{%s was hit for %d hit points}
+{714}{}{%s critically missed}
+{715}{}{%s missed}
+{720}{}{%s was critically hit for %d hit points}
+{721}{}{%s was critically hit in %s for 1 hit point}
+{722}{}{%s was hit in %s for 1 hit point}
+{723}{}{%s was hit for 1 hit point}
+{724}{}{%s was critically hit for 1 hit point}
+{725}{}{%s was critically hit in %s for no damage}
+{726}{}{%s was hit in %s for no damage}
+{727}{}{%s was hit for no damage}
+{728}{}{%s was critically hit for no damage}
+{733}{}{%s critically missed and took 1 hit point}
+{734}{}{%s critically missed and took %d hit points}
+#
+# Hit Locations (by art_num alias)
+#
+# childrens
+#
+{1010}{}{head}
+{1011}{}{left arm}
+{1012}{}{right arm}
+{1013}{}{body}
+{1014}{}{right leg}
+{1015}{}{left leg}
+{1016}{}{eyes}
+{1017}{}{crotch}
+{1018}{}{undescribed}
+#
+# teens guys
+#
+{1050}{}{head}
+{1051}{}{left arm}
+{1052}{}{right arm}
+{1053}{}{body}
+{1054}{}{right leg}
+{1055}{}{left leg}
+{1056}{}{eyes}
+{1057}{}{crotch}
+{1058}{}{undescribed}
+#
+# teens girls
+#
+{1080}{}{head}
+{1081}{}{left arm}
+{1082}{}{right arm}
+{1083}{}{грудь}
+{1084}{}{right leg}
+{1085}{}{left leg}
+{1086}{}{eyes}
+{1087}{}{crotch}
+{1088}{}{undescribed}
+#
+# regular humans - MEN
+#
+{1100}{}{head}
+{1101}{}{left arm}
+{1102}{}{right arm}
+{1103}{}{body}
+{1104}{}{right leg}
+{1105}{}{left leg}
+{1106}{}{eyes}
+{1107}{}{crotch}
+{1108}{}{undescribed}
+#
+# regular humans - WOMEN
+#
+{1160}{}{head}
+{1161}{}{left arm}
+{1162}{}{right arm}
+{1163}{}{body}
+{1164}{}{right leg}
+{1165}{}{left leg}
+{1166}{}{eyes}
+{1167}{}{crotch}
+{1168}{}{undescribed}
+#
+# Lavache (Mutant Cow) this thil conform to file critters.lst, for exemple for Lavashs - mabrom,25
+#
+{1250}{}{head}
+{1251}{}{left hindleg}
+{1252}{}{right hindleg}
+{1253}{}{body}
+{1254}{}{right foreleg}
+{1255}{}{left foreleg}
+{1256}{}{eyes}
+{1257}{}{udder}
+{1258}{}{undescribed}
+#
+# dogs
+#
+{1770}{}{head}
+{1771}{}{hindleg}
+{1772}{}{hindleg}
+{1773}{}{body}
+{1774}{}{foreleg}
+{1775}{}{foreleg}
+{1776}{}{eyes}
+{1777}{}{groin}
+{1778}{}{undescribed}
+#
+# Rat
+#
+{1810}{}{head}
+{1811}{}{left paw}
+{1812}{}{right paw}
+{1813}{}{torso}
+{1814}{}{right leg}
+{1815}{}{left leg}
+{1816}{}{little eyes}
+{1817}{}{tail}
+{1818}{}{undescribed}
+#
+# Mole-Rat
+#
+{1820}{}{head}
+{1821}{}{left paw}
+{1822}{}{right paw}
+{1823}{}{body}
+{1824}{}{right leg}
+{1825}{}{left leg}
+{1826}{}{little eyes}
+{1827}{}{groin}
+{1828}{}{undescribed}
+#
+# Ant
+#
+{1830}{}{head}
+{1831}{}{left foreleg}
+{1832}{}{right foreleg}
+{1833}{}{body}
+{1834}{}{right hindleg}
+{1835}{}{left hindleg}
+{1836}{}{feelers}
+{1837}{}{metathorax}
+{1838}{}{undescribed}
+#
+# Radscorpion
+#
+{1850}{}{head}
+{1851}{}{tail}
+{1852}{}{claw}
+{1853}{}{carapace}
+{1854}{}{forelegs}
+{1855}{}{hindlegs}
+{1856}{}{eyes}
+{1857}{}{ganglion}
+{1858}{}{undescribed}
+#
+# Security Robot
+#
+{1860}{}{head}
+{1861}{}{missile hand}
+{1862}{}{руку gun hand}
+{1863}{}{body}
+{1864}{}{right leg}
+{1865}{}{left leg}
+{1866}{}{sensors}
+{1867}{}{rack}
+{1868}{}{undescribed}
+#
+# Robotron
+#
+{1870}{}{coordination module}
+{1871}{}{left manipulator}
+{1872}{}{right manipulator}
+{1873}{}{body}
+{1874}{}{right stilt}
+{1875}{}{right stilt}
+{1876}{}{power node}
+{1877}{}{reserve power node}
+{1878}{}{undescribed}
+#
+# Chimeras
+#
+{1890}{}{horned head}
+{1891}{}{left paw}
+{1892}{}{right paw}
+{1893}{}{torso}
+{1894}{}{right leg}
+{1895}{}{left leg}
+{1896}{}{eyes}
+{1897}{}{groin}
+{1898}{}{undescribed}
+#
+# Onca Devils
+#
+{1930}{}{head}
+{1931}{}{left paw}
+{1932}{}{right paw}
+{1933}{}{torso}
+{1934}{}{right leg}
+{1935}{}{left leg}
+{1936}{}{eyes}
+{1937}{}{groin}
+{1938}{}{undescribed}
+#
+# Gun Turret
+#
+{1940}{}{CPU}
+{1941}{}{gun's left servo}
+{1942}{}{gun's right servo}
+{1943}{}{rack}
+{1944}{}{cupola's right servo}
+{1945}{}{cupola's left servo}
+{1946}{}{hypervisor}
+{1947}{}{regulator}
+{1948}{}{undescribed}
+#
+# Urs
+#
+{1950}{}{head}
+{1951}{}{left paw}
+{1952}{}{right paw}
+{1953}{}{torso}
+{1954}{}{right leg}
+{1955}{}{left leg}
+{1956}{}{eyes}
+{1957}{}{crotch}
+{1958}{}{undescribed}
+#
+# Laser turret
+#
+{1990}{}{CPU}
+{1991}{}{target system's support}
+{1992}{}{target system's support}
+{1993}{}{rack}
+{1994}{}{supporting bracket}
+{1995}{}{supporting bracket}
+{1996}{}{hypervisor}
+{1997}{}{regulator}
+{1998}{}{undescribed}
+#
+# Minigun turret
+#
+{2000}{}{CPU}
+{2001}{}{trigger's servo}
+{2002}{}{trigger's servo}
+{2003}{}{rack}
+{2004}{}{supporting bracket}
+{2005}{}{supporting bracket}
+{2006}{}{hypervisor}
+{2007}{}{regulator}
+{2008}{}{undescribed}
+#
+# Plasma turret
+#
+{2010}{}{CPU}
+{2011}{}{trigger's servo}
+{2012}{}{trigger's servo}
+{2013}{}{rack}
+{2014}{}{supporting bracket}
+{2015}{}{supporting bracket}
+{2016}{}{hypervisor}
+{2017}{}{regulator}
+{2018}{}{undescribed}
+#
+# BOSS1
+#
+{2020}{}{sensor}
+{2021}{}{left support}
+{2022}{}{right suport}
+{2023}{}{rack}
+{2024}{}{right bracket}
+{2025}{}{left bracket}
+{2026}{}{visor's contactor}
+{2027}{}{switchplug}
+{2028}{}{undescribed}
+#
+# Rocket turret
+#
+{2030}{}{CPU}
+{2031}{}{trigger's servo}
+{2032}{}{trigger's servo}
+{2033}{}{rack}
+{2034}{}{supporting bracket}
+{2035}{}{supporting bracket}
+{2036}{}{hypervisor}
+{2037}{}{regulator}
+{2038}{}{undescribed}
+#
+# Left shield
+#
+{2040}{}{emitter}
+{2041}{}{left support}
+{2042}{}{right support}
+{2043}{}{emitter}
+{2044}{}{support's anchor}
+{2045}{}{support's anchor}
+{2046}{}{power cable}
+{2047}{}{emitter's casing}
+{2048}{}{---}
+#
+# Center shield
+#
+{2050}{}{emitter}
+{2051}{}{left support}
+{2052}{}{right support}
+{2053}{}{emitter}
+{2054}{}{support's anchor}
+{2055}{}{support's anchor}
+{2056}{}{power cable}
+{2057}{}{emitter's casing}
+{2058}{}{---}
+#
+# Right shield
+#
+{2060}{}{emitter}
+{2061}{}{left support}
+{2062}{}{right support}
+{2063}{}{emitter}
+{2064}{}{support's anchor}
+{2065}{}{support's anchor}
+{2066}{}{power cable}
+{2067}{}{emitter's casing}
+{2068}{}{---}
+#
+# Critical Hit Messages
+#
+# 5000 series - men (including generics) - see file PROTO.MSG, section on line 1469 - Kill Types
+#
+{5000}{}{ and it really hurts}
+{5001}{}{. A serious wound is inflicted}
+{5002}{}{ with no armor defenses}
+{5003}{}{. The damaging attack knocks him unconscious}
+{5004}{}{. The blow knocks him to the ground}
+{5005}{}{. The strong blow to the head knocks him out}
+{5006}{}{. The attack crushes his temple. Good night, sweet prince}
+{5007}{}{, death is instantaneous}
+{5008}{}{, causing severe tennis elbow}
+{5009}{}{, pushing the arm out of the way}
+{5010}{}{, leaving a big bruise}
+{5011}{}{, crippling the left arm}
+{5012}{}{, leaving the left arm dangling by the skin}
+{5013}{}{. That arm now looks like a bloody stump}
+{5014}{}{, leaving a crippled right arm}
+{5015}{}{. His right arm is pulverized by this powerful blow}
+{5016}{}{ in a forceful blow}
+{5017}{}{ blowing through the armor}
+{5018}{}{, inflicting an extra helping of damage}
+{5019}{}{ with no armor, knocking the combatant to the ground}
+{5020}{}{ knocking the air out, he slumps to the ground out of the fight}
+{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
+{5022}{}{ putting a major hurt on his leg}
+{5023}{}{, knocking him to the ground like a bowling pin in a league game}
+{5024}{}{, bowling him over and crippling that leg}
+{5025}{}{, smashing the knee into the next town. He falls}
+{5026}{}{. The intense pain of having a leg removed causes him to quit}
+{5027}{}{ inflicting some extra pain}
+{5028}{}{ causing blindness, unluckily for him}
+{5029}{}{, and with no protection there, causing serious pain}
+{5030}{}{, and blinding him with a stunning blow}
+{5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
+{5032}{}{, sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
+{5033}{}{. Ouch! That had to hurt}
+{5034}{}{, and he's not wearing a cup, either}
+{5035}{}{ and without protection, he falls over, groaning in agony}
+{5036}{}{. The pain is too much for him and he collapses like a rag}
+{5037}{}{. He mumbles "Mother", as his eyes roll into the back of his head}
+#
+# series 5100 - women
+#
+{5100}{}{ and really hurts}
+{5101}{}{. A serious wound is inflicted}
+{5102}{}{ with no armor}
+{5103}{}{. The damaging attack knocks her unconscious}
+{5104}{}{. The blow knocks her to the ground}
+{5105}{}{. The strong blow to the head knocks her out}
+{5106}{}{. The attack crushes her temple. Good night, Gracie}
+{5107}{}{, death is instantaneous}
+{5108}{}{, causing severe tennis elbow}
+{5109}{}{, pushing the arm out of the way}
+{5110}{}{, leaving a big bruise}
+{5111}{}{, crippling the left arm}
+{5112}{}{. The left arm is barely attached to her shoulder}
+{5113}{}{. That arm now looks like a bloody stump}
+{5114}{}{, leaving a crippled right arm}
+{5115}{}{. Her right arm is turned into hamburger by the blow}
+{5116}{}{ in a forceful blow}
+{5117}{}{ piercing through her defenses}
+{5118}{}{, inflicting an extra helping of damage}
+{5119}{}{ with no armor, knocking the female fighter to the ground}
+{5120}{}{ knocking the air out, she slumps to the ground}
+{5121}{}{. Unfortunately, her major organs have been exposed to the light}
+{5122}{}{ putting a major hurt on her leg}
+{5123}{}{, knocking her over like a bad blind date}
+{5124}{}{, knocking her down and crippling that leg}
+{5125}{}{, smashing the knee into the next town. She takes the fast track to the ground}
+{5126}{}{. She screams in pain from the broken leg}
+{5127}{}{ inflicting some extra pain}
+{5128}{}{ causing blindness. She grimaces}
+{5129}{}{, and with no protection there, causing serious pain}
+{5130}{}{. The wound causes severe blindness, as if there is any other kind}
+{5131}{}{. She faints from the blinding attack}
+{5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
+{5133}{}{. She takes it like a man. That is to say, it hurts}
+{5134}{}{, knocking her to the ground}
+{5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
+#
+# series 5200 - little boy
+#
+{5200}{}{. The little kid starts to cry from a terrible pain}
+{5201}{}{. Unconscious, the small child falls over}
+{5202}{}{. Ouchie!}
+{5203}{}{. The blow is strong, and the child is knocked unconscious}
+{5204}{}{, smashing the small child around like a limp rag}
+{5205}{}{. The left arm of this kid now has an owie}
+{5206}{}{, throwing the small child off balance}
+{5207}{}{, breaking that arm with a loud snap. Some serious tears start to flow}
+{5208}{}{, easily snapping that arm like a small piece of candy}
+{5209}{}{. The right arm starts to swell, like a balloon}
+{5210}{}{, and starts to cry}
+{5211}{}{ in a sensitive spot}
+{5212}{}{. The attack to a vital organ knocks the kid over}
+{5213}{}{, knocking the little kid over like a toy}
+{5214}{}{. Now this young child will never really experience life}
+{5215}{}{, inflicting a deep cut}
+{5216}{}{. The attack bowls the child over, and breaks the leg}
+{5217}{}{, inflicting great harm to the small child}
+{5218}{}{. The young child looks up and starts to cry}
+{5219}{}{, which blinds the youth}
+{5220}{}{, bashing in the youthful looking nose}
+{5221}{}{. A cut appears above the eyes and the blood starts to flow freely}
+{5222}{}{, which opens an eye like an exploding grape. The child looks bewildered}
+{5223}{}{ causing blindness. The young child drops to the ground}
+{5224}{}{, the blow continues into the small brain}
+{5225}{}{. The child looks confused and shaken}
+{5226}{}{, knocking this young target to the ground}
+#
+# series 5300 - Little girl
+#
+{5300}{}{. The little girl starts to cry from a terrible pain}
+{5301}{}{, hitting a weak spot. }
+{5302}{}{. Hitting a soft spot makes girl fall over.}
+{5303}{}{. The blow is strong, and the child is knocked unconscious}
+{5304}{}{, smashing the little girl's head like a melon}
+{5305}{}{. The young child looks up and starts to cry}
+{5306}{}{, girl starts to cry and beg for mercy}
+{5307}{}{, the girl's arm now hangs in a limp}
+{5308}{}{, the blow damages her knee, which makes the girl rolls her eyes}
+{5309}{}{, girl holds her severed arm but the blood continues to spurt around}
+{5310}{}{, the girl falls in an instant}
+{5311}{}{, her damaged organs are bleeding}
+{5312}{}{, which knocks the girl to the ground}
+{5313}{}{. her leg is holding only on the remaining skin}
+{5314}{}{, hitting a weak spot. The little girl falls down, breaking her leg}
+{5315}{}{. The pain from a broken leg makes the girl to cry for help}
+{5316}{}{, the blood covers her little face}
+{5317}{}{, her eyes are flowing out, she is cathartic}
+{5318}{}{, attack on her eyes makes the poor sob to fall}
+{5319}{}{. The girl lost her sight, blood and tears are dripping on the ground}
+{5320}{}{, the girl is blinded and unconscious}
+{5321}{}{. Poor girl slowly descends on the ground}
+#
+# series 5400 - Ghouls
+#
+{5400}{}{. The ghoul is surprised, and fails to defend against this attack}
+{5401}{}{. This blow buries this ghoul}
+{5402}{}{. The stunned ghoul's hand flies open}
+{5403}{}{, sneaking through his armor and striking a critical joint}
+{5404}{}{, sneaking through his armor and lopping the arm off}
+{5405}{}{. The ghoul makes a wrong move at the wrong moment, leading to an eye loss}
+{5406}{}{. The ghoul is wearing no armor there}
+{5407}{}{, and without armor, the ghoul is blinded}
+{5408}{}{, causing the ghoul to look bewildered in his final moments}
+#
+# series 5500 - Lavash
+#
+{5500}{}{, knocking the big beast to the ground}
+{5501}{}{, stunning both brains and felling the giant animal}
+{5502}{}{. The Lavash gives a loud, startled cry}
+{5503}{}{, breaking one of the Lavash's legs}
+{5504}{}{, seriously hurting the Lavash}
+{5505}{}{, easily penetrating the thick hide of the giant beast}
+{5506}{}{, penetrating straight through both hearts of the two-headed beast}
+{5507}{}{, blinding both sets of eyes with a single blow}
+{5508}{}{, blinding both heads and stunning the animal}
+{5509}{}{, completely blinding the Lavash and knocking it out}
+{5510}{}{, the large mutant bovine stumbles for a moment}
+{5511}{}{. The Lavash shakes with rage}
+{5512}{}{. The Lavash snorts with pain}
+{5513}{}{. The Lavash is most upset with this udderly devastating attack}
+#
+# series 5600 - Radscorpions
+#
+{5600}{}{, sending the Radscorpion flying on its back}
+{5601}{}{, separating the head from the carapace}
+{5602}{}{, seriously damaging the tail}
+{5603}{}{, causing a magor damage of its claws}
+{5604}{}{. The blow slips between the cracks of the Radscorpion's tough carapace}
+{5605}{}{, striking through the tough carapace}
+{5606}{}{, passing through the natural armor and knocking the Radscorpion over}
+{5607}{}{. The Radscorpion cannot cope with a new sensation, like missing internal organs}
+{5608}{}{, sending the scorpion flying and crippling some of its legs}
+{5609}{}{. The attack cuts through an unprotected leg joint, severing it}
+{5610}{}{, seriously wounding and blinding the mutant creature}
+{5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
+{5612}{}{, almost penetrating to the brain, but blinding the creature instead}
+{5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
+{5614}{}{. If it was human, you would swear it's pretty pissed off}
+{5615}{}{, knocking the poor creature senseless}
+{5616}{}{, spiking the brain to the floor}
+
+#
+# series 5700 - Rats
+#
+{5700}{}{. The rodent's skull makes several unhealthy sounds}
+{5701}{}{, squashing the rodent's skull like a wet paper bag}
+{5702}{}{, and the left paw now looks a little flat}
+{5703}{}{. The left paw of the rat is blown off}
+{5704}{}{. The right paw is heavily damaged}
+{5705}{}{, blowing the right paw off}
+{5706}{}{. The rat is seriously wounded by this attack}
+{5707}{}{, seriously wounding the rat and knocking it around}
+{5708}{}{, splattering the rat across the floor}
+{5709}{}{, crippling the right leg}
+{5710}{}{, putting a big hole in the left leg}
+{5711}{}{, doing some extra damage due to the sensitive location}
+{5712}{}{, summoning this creature to the great ratcatcher in the sky}
+#
+# series 5800 - Onca Devils
+#
+{5800}{}{, the creature drops to the ground}
+{5801}{}{, Onca falls to the ground, agonizing in pain}
+{5802}{}{, with serious consequences to the creature's continued existance}
+{5803}{}{, stunning the foul creature}
+{5804}{}{, hitting a sensitive spot there and stunning the Onca}
+{5805}{}{. The blow causes the Onca to explode violently in a crimson cloud}
+{5806}{}{, the blow causes some sort of violent reaction from the creature}
+{5807}{}{. The animal suddenly bursts into flames}
+{5808}{}{ which surprises him}
+{5809}{}{, with the blow hitting a sensitive spot}
+{5810}{}{. The creature is obviously agitated}
+#
+# series 5900 - Mindless
+#
+{5900}{}{, pushed like a bad habit, the Feral falls over and is stunned}
+{5901}{}{ as the blow strikes a critical spot}
+{5902}{}{, causing a massive neurological failure}
+{5903}{}{, stunning it with your violent attack}
+{5904}{}{, crippling the arm}
+{5905}{}{ striking a critical spot, and crippling the arm}
+{5906}{}{, knocking the creature over and crippling the leg}
+{5907}{}{, stunning the Feral as it is knocked over with a crippled leg}
+{5908}{}{, rendering its lidless eyes completely useless. The Feral can't see.}
+{5909}{}{, surprising the Feral. It blindly stumbles for a moment}
+{5910}{}{, surprising the Feral. Bulging its eyes, it collapses to the ground}
+{5911}{}{, surprising the Feral. It collapses in a pile of goo}
+{5912}{}{. The attack was not as effective as it could have been - the creature has not enough organs}
+#
+# series 6000 - Robots
+#
+{6000}{}{, inflicting some structural damage}
+{6001}{}{, sparks fly and the robot goes momentarily out of control}
+{6002}{}{, hitting a critical component and forcing the robot out of control}
+{6003}{}{, hitting a critical component and causing a massive malfunction}
+{6004}{}{. The robot attempts to compensate}
+{6005}{}{. The robot strains to compensate}
+{6006}{}{, hitting some key part and causing heavy damage}
+{6007}{}{, inflicting heavy structural damage}
+{6008}{}{, hitting a critical component and causing severe damage}
+{6009}{}{. The robot shudders under this intense attack}
+{6010}{}{, dismantling the robot}
+{6011}{}{. The robot attempts to compensate, but fails, falling to the ground}
+{6012}{}{. The robot strains under the pressure, falling to the ground}
+{6013}{}{, breaking the sensor lenses}
+#
+# series 6100 - Sand Jackals
+#
+{6100}{}{, knocking the animal to the ground}
+{6101}{}{, just as intended}
+{6102}{}{. The jackal falls over, but it is still breathing}
+{6103}{}{, the jackal coughs up a splurt of blood}
+{6104}{}{, crippling the leg. The howl makes your skin crawl}
+{6105}{}{, crippling the leg. The animal tries to stand still, but fails}
+{6106}{}{. The blinded animal howls in pain}
+{6107}{}{, the jackal howls in agony}
+#
+# series 6200 - Mantis
+#
+{6200}{}{, knocking down this mutated insect}
+{6201}{}{, which makes it collapse}
+{6202}{}{. The mantis ponders whether to continue living}
+{6203}{}{, crippling the limb}
+{6204}{}{, causing the Mantis to lick its wounds and nervously gaze}
+{6205}{}{, bypassing the chitinous armor}
+{6206}{}{. The mantis inhumanly shrieks and begins to shivers}
+{6207}{}{, which causes the mantis to fall over. A limb is bent at an odd shape}
+{6208}{}{, shredding the wings}
+{6209}{}{, bypassing the chitinous armor and spurting the mantis around}
+{6210}{}{, blinding the insect with an accurate blow}
+#
+# series 6300 - Chimeras
+#
+{6300}{}{. Looks like the creature is dazzled by this attack}
+{6301}{}{, its huge fangs don't protect from a huge blow. Chimera shivers, frightened}
+{6302}{}{, resulting in a vast damage to the Chimera's eyes}
+#
+# series 6400 - Turrets
+#
+{6400}{}{, turret's protective casing is penetrated}
+{6401}{}{, some screws and wires are sent flying in different directions}
+{6402}{}{, damaged servos are hissing air from leaked hoses}
+{6403}{}{, important machinery has been severely damaged}
+{6404}{}{, one of the targeting system's lenses happily explodes in a myriad of sparkling pieces}
+{6405}{}{. The turret twitches and sparkles. Looks like it's almost completely destroyed}
+{6406}{}{, most of the servos and cylinders are critically damaged}
+#
+# series 6500 - The Player
+#
+{6500}{}{. You'll have a headache tomorrow, if you live that long}
+{6501}{}{. Your armor provides no protection from this well-aimed blow}
+{6502}{}{. You feel the pain for just a moment, and then darkness takes you..}
+{6503}{}{, bypassing your armor. The blow knocks you off your feet}
+{6504}{}{, the shock makes your vision go dark. After a moment, you notice that your vision has not returned}
+{6505}{}{. You get a nice view of your body as your head sails through the air}
+{6506}{}{. Surprisingly, the damage feels no worse than normal}
+{6507}{}{, stunning you for a moment}
+{6508}{}{. Feel the pain}
+{6509}{}{. The attack leaves your arm useless}
+{6510}{}{, slipping past your armor. The blow cracks the bones in your arm like deadwood}
+{6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
+{6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
+{6513}{}{, crushing your internal organs. All you can do is gurgle blood}
+{6514}{}{, sending head over heels}
+{6515}{}{, sending you flying and breaking your leg}
+{6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
+{6517}{}{. The pain from your broken leg sends you into unconsciousness}
+{6518}{}{. The painful blow makes you flinch, but does little else}
+{6519}{}{. Unlucky for you, it also causes immediate vision loss}
+{6520}{}{. It takes you a moment to wipe the blood from your eyes}
+{6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore}
+{6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death}
+{6523}{}{, making you cringe}
+{6524}{}{. You cup your groin and fall to the floor in pain}
+{6525}{}{. The pain is sufficient to knock you out. Ouch}
+{6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}
+# Fallout 2:
+#
+# series 6700 - Molerats
+#
+{6700}{}{, the skin of disgusting creature is penetrated}
+{6701}{}{, tearing some of its slimy skin off}
+{6702}{}{, breaking some of its digits}
+{6703}{}{, damaging its breathing ability}
+{6704}{}{, knocking the stuffing out of it}
+{6705}{}{, almost tipping it over}
+{6706}{}{, damaging some of its limbs}
+#
+# series 6800 - Les ours
+#
+{6800}{}{, a thick hide of mighty beast is penetrated}
+{6801}{}{, a piece of hide is sent off flying. Ursa roars, shaking the ground}
+{6802}{}{, his paw is broken, bones are sticking out. The beast's eyes are flashing with red}
+{6803}{}{, the bear's lung is punctured, the plucking of blood is heard}
+{6804}{}{, the blow opens up the mighty beast's belly and his guts are falling out into the dust}
+{6805}{}{, a mutated bear is barely holding up on his weak paws}
+{6806}{}{, Ursa's paw is broken, bones penetrating through the hide. The bear gives a surprised look to his limb}
+#
+# series 6900 - Giant Ant
+#
+{6900}{}{, the chitin shell of an insect is penetrated}
+{6901}{}{, ripping some of its antennae off}
+{6902}{}{, breaking some of its feelers}
+{6903}{}{, damaging its health}
+{6904}{}{, knocking it around a bit}
+{6905}{}{, almost tipping it over}
+{6906}{}{, damaging some of its shell}
+
+#
+# series 7000 - Gun Turret  -- WIP! Won't Work!
+#
+{7000}{}{, breaking past the ant's defenses}
+{7001}{}{, ripping some of its antennae off}
+{7002}{}{, breaking some of its feelers}
+{7003}{}{, damaging its health}
+{7004}{}{, knocking it around a bit}
+{7005}{}{, almost tipping it over}
+{7006}{}{, damaging some of its exoskeleton}
+
+# Series 7100 - Reserved
+{7100}{}{, blowing past the Bodyguard's armor}
+{7101}{}{, bringing the Bodyguard to his knees}
+{7102}{}{, destroying his arm control mechanism}
+{7103}{}{, destroying his leg rotator mechanism}
+{7104}{}{, shattering his bionic eye}
+{7105}{}{, causing him to pause and shake of your massive attack}
+{7106}{}{, compacting his chest plate}

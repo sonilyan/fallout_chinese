@@ -2633,10 +2633,15 @@
 {171900}{}{通风口}
 {172000}{}{通风口}
 {172100}{}{防弹玻璃}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
 {172200}{}{防弹玻璃}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
 {172300}{}{防弹玻璃}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{激光炮台}
+{172401}{}{The turret rotates in a menacing way.}
 {172500}{}{激光炮台}
+{172501}{}{The turret rotates in a menacing way.}
 {172600}{}{石头}
 {172700}{}{石头}
 {172800}{}{石头}
@@ -3488,3 +3493,63 @@
 {229901}{}{这个生物看起来就象一具尸体，有很多植物的根茎缠绕在上面。}
 {230000}{}{一个看起来很奇怪的生物}
 {230001}{}{这个生物看起来就象一具尸体，有很多植物的根茎缠绕在上面。}
+{230100}{}{Smoke}
+{230200}{}{Smoke}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Stack of Tires}
+{230501}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
+{230600}{}{Stack of Tires}
+{230601}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Car}
+{230901}{}{This automobile is in terrible shape. You cannot think of a way to restore it.}
+{231000}{}{Car}
+{231001}{}{This rusted piece of scrap-metal cannot be restored.}
+{231100}{}{Car}
+{231101}{}{You determine that this vehicle will never drive again. Really.}
+{231200}{}{Car}
+{231201}{}{There is no way that this junkyard wannabe will ever drive again.}
+{231300}{}{Desk}
+{231301}{}{A wooden desk.}
+{231400}{}{Dresser}
+{231401}{}{A wooden dresser.}
+{231500}{}{Dresser}
+{231501}{}{A wooden dresser.}
+{231600}{}{Desk}
+{231601}{}{A generic desk. Seen one desk, you've seen them all.}
+{231700}{}{Desk}
+{231701}{}{A generic desk.}
+{231800}{}{Desk}
+{231801}{}{A generic desk.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Barrel}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Barrel}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Barrel}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Barrel}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Vent}
+{233200}{}{Vent}
+{233300}{}{Vent}
+{233400}{}{Vent}

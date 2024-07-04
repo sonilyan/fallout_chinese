@@ -5,7 +5,7 @@
 #{200}{}{You see a Mutant Hunter in power armor.}
 {200}{}{你看到一个穿着动力盔甲的变种猎人。}
 #{250}{}{You see Dutch, commander of the city wall defense.}
-{250}{}{你看到达奇，外围防御的指挥官。}
+{250}{}{你看到达奇，一位外防指挥官。}
 #{300}{}{Don't bother me.}
 {300}{}{不要打扰我。}
 #{301}{}{Get lost.}

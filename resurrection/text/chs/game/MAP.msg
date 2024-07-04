@@ -18,9 +18,9 @@
 #	  descriptions are just the map name itself (this also helps
 #	  pinpoint unfinished ones when you go through here).
 #
-{100}{}{沙漠}                           // DESERT1.MAP
-{101}{}{沙漠}                           // DESERT2.MAP
-{102}{}{沙漠}                           // DESERT3.MAP
+{100}{}{Desert}                           // DESERT1.MAP
+{101}{}{Desert}                           // DESERT2.MAP
+{102}{}{Desert}                           // DESERT3.MAP
 {103}{}{Arroyo}                           // arcaves.MAP
 {104}{}{Arroyo}                           // arvillag.MAP
 {105}{}{Arroyo}                           // arbridge.MAP
@@ -89,64 +89,64 @@
 #
 # Format: 3 (max elevations), by city
 #
-# 00: Pou殱, Pou殱1.MAP
+# 00: Pou, Pou1.MAP
 {200}{}{Desert}
 {201}{}{}
 {202}{}{}
-# 01: Pou殱, Pou殱2.MAP
+# 01: Pou, Pou2.MAP
 {203}{}{Desert}
 {204}{}{}
 {205}{}{}
-# 02: Pou殱, Pou殱3.MAP
+# 02: Pou, Pou3.MAP
 {206}{}{Desert}
 {207}{}{}
 {208}{}{}
 # 03: New Hope Cave
-{209}{}{- 3新希望 山洞}
-{210}{}{- 31新希望 山洞}
-{211}{}{- 32新希望 山洞}
+{209}{}{- Cave}
+{210}{}{- Cave}
+{211}{}{- Cave}
 # 04: New Hope Cave Entrance
-{212}{}{- 4新希望 山洞入口}
-{213}{}{- 41新希望 山洞入口}
-{214}{}{- 42新希望 山洞入口}
+{212}{}{- Cave Entrance}
+{213}{}{- Cave Entrance}
+{214}{}{- Cave Entrance}
 # 05: New Hope Pastures
-{215}{}{- 5牧场}
+{215}{}{- Pastures}
 {216}{}{}
 {217}{}{}
 # 06: New Hope Village
-{218}{}{- 6新希望 村庄}
-{219}{}{- 61新希望 村庄}
+{218}{}{- Village}
+{219}{}{- Village}
 {220}{}{}
 # 07: Rat Hole South
-{221}{}{- 老鼠洞 南区}
+{221}{}{- South Side}
 {222}{}{}
 {223}{}{}
 # 08: Rat Hole North
-{224}{}{- 老鼠洞 北区 }
-{225}{}{- 老鼠洞 伦纳德的地下室}
+{224}{}{- North Side}
+{225}{}{- Leonard's Basement}
 {226}{}{}
 # 09: Sedit Short Street
-{227}{}{- 塞迪特 短道 Short Lane}
+{227}{}{- Short Lane}
 {228}{}{}
 {229}{}{}
 # 10: Sedit Downtown
-{230}{}{- 塞迪特 市中心 Downtown}
+{230}{}{- Downtown}
 {231}{}{}
 {232}{}{}
 # 11: Sedit Little Hub
-{233}{}{- 塞迪特 小枢纽 Little Hub}
-{234}{}{- 塞迪特 猎鹰飞行 Falcon's Flight}
+{233}{}{- Little Hub}
+{234}{}{- Falcon's Flight}
 {235}{}{}
 # 12: Sedit Main Street
-{236}{}{- 塞迪特 大街 Main Street}
-{237}{}{- 塞迪特大篷车地下室 Sedit Caravans Basement}
+{236}{}{- Main Street}
+{237}{}{- Sedit Caravans Basement}
 {238}{}{}
 # 13: Sedit Lost Quarter
-{239}{}{- 塞迪特 失落之城 Lost Town}
-{240}{}{- 塞迪特 赌场 Casino}
-{241}{}{- 塞迪特 掠夺者藏身处 Raiders' Hideout}
+{239}{}{- Lost Town}
+{240}{}{- Casino}
+{241}{}{- Raiders' Hideout}
 # 14: Sedit Lost Quarter 2
-{242}{}{- 塞迪特 赌场地下室 Casino Basement}
+{242}{}{- Casino Basement}
 {243}{}{}
 {244}{}{}
 # 15: Corath Old City
@@ -273,11 +273,11 @@
 {335}{}{- Hillock}
 {336}{}{- Hillock}
 {337}{}{- Hillock}
-# 46: Random Encounter Pob鴈烅 1
+# 46: Random Encounter Pobe 1
 {338}{}{- Coast}
 {339}{}{- Coast}
 {340}{}{- Coast}
-# 47: Random Encounter Pob鴈烅 2
+# 47: Random Encounter Pobe 2
 {341}{}{- Coast}
 {342}{}{- Coast}
 {343}{}{- Coast}
@@ -285,83 +285,83 @@
 {344}{}{- Cavern}
 {345}{}{- Cavern}
 {346}{}{- Cavern}
-# 49: Random Encounter Pou殱 4
+# 49: Random Encounter Pou 4
 {347}{}{- Desert}
 {348}{}{- Desert}
 {349}{}{- Desert}
-# 50. Random Encounter Pou殱 5
+# 50. Random Encounter Pou 5
 {350}{}{- Desert}
 {351}{}{- Desert}
 {352}{}{- Desert}
-# 51. Random Encounter Pou殱 6
+# 51. Random Encounter Pou 6
 {353}{}{- Dry Grassland}
 {354}{}{- Dry Grassland}
 {355}{}{- Dry Grassland}
-# 52. Random Encounter Pou殱 7
+# 52. Random Encounter Pou 7
 {356}{}{- Semi-Desert}
 {357}{}{- Dried-out Lake}
 {358}{}{- Dried-out Lake}
-# 53. Random Encounter Pob鴈烅 3
+# 53. Random Encounter Pobe 3
 {359}{}{- Coastline}
 {360}{}{- Coastline}
 {361}{}{- Coastline}
-# 54. Random Encounter Pob鴈烅 4
+# 54. Random Encounter Pobe 4
 {362}{}{- Beach}
 {363}{}{- Beach}
 {364}{}{- Beach}
-# 55. Random Encounter Pob鴈烅 5
+# 55. Random Encounter Pobe 5
 {365}{}{- Shore}
 {366}{}{- Shore}
 {367}{}{- Shore}
-# 56. Random Encounter Pob鴈烅 6
+# 56. Random Encounter Pobe 6
 {368}{}{- Shoreline}
 {369}{}{- Shoreline}
 {370}{}{- Shoreline}
-# 57. Random Encounter Pob鴈烅 7
+# 57. Random Encounter Pobe 7
 {371}{}{- Desolate Beach}
 {372}{}{- Desolate Beach}
 {373}{}{- Desolate Beach}
-# 58. Random Encounter Pob鴈烅 8
+# 58. Random Encounter Pobe 8
 {374}{}{- Deserted Beach}
 {375}{}{- Deserted Beach}
 {376}{}{- Deserted Beach}
-# 59. Random Encounter Pob鴈烅 9
+# 59. Random Encounter Pobe 9
 {377}{}{- Desolate Coastline}
 {378}{}{- Desolate Coastline}
 {379}{}{- Desolate Coastline}
-# 60. Pob鴈烅 Encounter 10
+# 60. Pobe Encounter 10
 {380}{}{- Coastline}
 {381}{}{- Coastline}
 {382}{}{- Coastline}
-# 61. Pob鴈烅 Encounter 11
+# 61. Pobe Encounter 11
 {383}{}{- Shore}
 {384}{}{- Shore}
 {385}{}{- Shore}
-# 62. Pob鴈烅 Encounter 12
+# 62. Pobe Encounter 12
 {386}{}{- Desolate Shore}
 {387}{}{- Desolate Shore}
 {388}{}{- Desolate Shore}
-# 63. Pou殱 Encounter 8
+# 63. Pou Encounter 8
 {389}{}{- Desert}
 {390}{}{- Desert}
 {391}{}{- Desert}
-# 64. Pou殱 Encounter 9
+# 64. Pou Encounter 9
 {392}{}{- Semi-Desert}
 {393}{}{- Semi-Desert}
 {394}{}{- Semi-Desert}
-# 65. Pou殱 Encounter 10
+# 65. Pou Encounter 10
 {395}{}{- Desert}
 {396}{}{- Desert}
 {397}{}{- Desert}
-# 66. Pou殱 Encounter 11
+# 66. Pou Encounter 11
 {398}{}{- Desert}
 {399}{}{- Desert}
 {400}{}{- Desert}
-# 67. Pou殱 Encounter 12
+# 67. Pou Encounter 12
 {401}{}{- Dried-out Lake}
 {402}{}{- Dried-out Lake}
 {403}{}{- Dried-out Lake}
-# 68. Pou殱 Encounter 13
+# 68. Pou Encounter 13
 {404}{}{- Cavern}
 {405}{}{- Cavern}
 {406}{}{- Cavern}
@@ -530,11 +530,11 @@
 {528}{}{- Cave}
 {529}{}{- Cave}
 #
-#	Short City names 地图显示的地名，不能改中文，不显示1500-1531
+#	Short City names
 #
-{1500}{}{New Hope}
-{1501}{}{Rat Hole}
-{1502}{}{Sedit}
+{1500}{}{新希望}
+{1501}{}{老鼠洞}
+{1502}{}{赛迪特}
 {1503}{}{Corath}
 {1504}{}{Scrapyard}
 {1505}{}{Asmodeus' Cave}
@@ -565,13 +565,13 @@
 {1530}{}{Cave}
 {1531}{}{Desert}
 
-{1550}{}{2新希望}
-{1551}{}{2老鼠洞 Rat Hole}
-{1552}{}{塞迪特 Sedit}
-{1553}{}{塞迪特-失落之城 Sedit - Lost Town}
-{1554}{}{科拉斯 Corath}
-{1555}{}{垃圾场 Scrapyard}
-{1556}{}{阿尔伯克基 Albuquerque}
-{1557}{}{帝国之城 Imperial City}
-{1558}{}{变种人营地 Camp of Mutants}
-{1559}{}{重生基地 Rebirth Base}
+{1550}{}{新希望}
+{1551}{}{老鼠洞}
+{1552}{}{赛迪特}
+{1553}{}{赛迪特——迷失之城}
+{1554}{}{Corath}
+{1555}{}{Scrapyard}
+{1556}{}{Albuquerque}
+{1557}{}{Imperial City}
+{1558}{}{Camp of Mutants}
+{1559}{}{Rebirth Base}

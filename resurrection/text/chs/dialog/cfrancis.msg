@@ -21,7 +21,7 @@
 #{311}{}{Good job. The law applies to everyone.}
 {311}{}{干得好。法律适用于所有人。}
 #{400}{}{Kiss your ass goodbye.}
-{400}{}{吻别你的屁股。}
+{400}{}{跟你的屁股说再见吧。}
 #{401}{}{We'll take care of you quickly.}
 {401}{}{我们会很快照顾你的。}
 #{402}{}{I'm not gonna let anyone disturb the order.}
@@ -83,7 +83,7 @@
 #{750}{}{Some nutcase murderer is in town. He's already claimed four victims and a fifth barely escaped him. He kills his victims with a knife, and the curious thing is that he cuts out their tongues. Your task will be to see if you can find out anything about last murder victim, and go talk to the woman who survived.}
 {750}{}{镇上有个疯子杀手。他已经认领了四个受害者，第五个几乎没有逃过他的手。他用刀杀死受害者，奇怪的是他割下了他们的舌头。你的任务是看看你是否能找到关于最后一个受害者的任何信息，然后去和幸存的女人谈谈。}
 #{751}{}{OK.}
-{751}{}{好 啊。}
+{751}{}{好啊。}
 #{752}{}{Gross. I'm not interested in that.}
 {752}{}{真恶心。我对此不感兴趣。}
 #{800}{}{The fourth victim was killed in her own home. It's in Uncle's Yard. Have a look around to see if you can find some clues. Also, stop by at Dr. Linsday's and ask him what he found out by examining the body. His place is right above the ring. You should also talk to Susan, the whore who survived. She can describe the attacker for you. Wanda's brothel is in the Iron District, in case you didn't know. When you're done with all that, come back to me and report what you've found.}

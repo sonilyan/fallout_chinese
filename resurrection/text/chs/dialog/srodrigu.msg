@@ -30,8 +30,8 @@
 {602}{}{[听他说。]}
 #{603}{}{Got it, just tell me who's the guy you want dead and I'll make sure to make him so.}
 {603}{}{明白了，告诉我你想杀的人是谁，我一定会让他死的。}
-#{650}{}{There are three ghouls living in town, they own a restaurante with a hotel named Falcon's Flight. They are an ugly sore on the face of Sedit. No one likes those filthy ghouls but nobody does anything about them, so I have to take care of them myself. I've presented them with a choice of leaving but they had the guts to decline that offer. I want them dead for their audacity.}
-{650}{}{镇上住着三个僵尸，他们有一家餐馆和一家名为Falcon's Flight的酒店。他们是塞迪特脸上难看的疮。没有人喜欢那些肮脏的僵尸，但没有人对他们做任何事，所以我必须自己照顾他们。我让他们选择离开，但他们有勇气拒绝这个提议。我要他们死，因为他们太大胆了。}
+#{650}{}{There are three ghouls living in town, they own a restaurante with a hotel named 猎鹰飞行. They are an ugly sore on the face of Sedit. No one likes those filthy ghouls but nobody does anything about them, so I have to take care of them myself. I've presented them with a choice of leaving but they had the guts to decline that offer. I want them dead for their audacity.}
+{650}{}{镇上住着三个僵尸，他们有一家餐馆和一家名为猎鹰飞行的酒店。他们是塞迪特脸上难看的疮。没有人喜欢那些肮脏的僵尸，但没有人对他们做任何事，所以我必须自己照顾他们。我让他们选择离开，但他们有勇气拒绝这个提议。我要他们死，因为他们太大胆了。}
 #{651}{}{I will do as you ask, Senor.}
 {651}{}{我会照你说的做，先生。}
 #{652}{}{Now wait a moment, I'll have nothing to do with killing innocents.}
@@ -58,8 +58,8 @@
 {851}{}{谢谢你，先生。}
 #{852}{}{Damn, I always do well.}
 {852}{}{妈的，我总是做得很好。}
-#{900}{}{There are three ghouls living in town, they own a restaurante with a hotel named Falcon's Flight. They are an ugly sore on the face of Sedit. No one likes those filthy ghouls but nobody does anything about them, so I have to take care of them myself. I've presented them with a choice of leaving but they had the guts to decline that offer. I want them dead for their audacity.}
-{900}{}{镇上住着三个僵尸，他们有一家餐馆和一家名为Falcon's Flight的酒店。他们是塞迪特脸上难看的疮。没有人喜欢那些肮脏的僵尸，但没有人对他们做任何事，所以我必须自己照顾他们。我让他们选择离开，但他们有勇气拒绝这个提议。我要他们死，因为他们太大胆了。}
+#{900}{}{There are three ghouls living in town, they own a restaurante with a hotel named 猎鹰飞行. They are an ugly sore on the face of Sedit. No one likes those filthy ghouls but nobody does anything about them, so I have to take care of them myself. I've presented them with a choice of leaving but they had the guts to decline that offer. I want them dead for their audacity.}
+{900}{}{镇上住着三个僵尸，他们有一家餐馆和一家名为猎鹰飞行的酒店。他们是塞迪特脸上难看的疮。没有人喜欢那些肮脏的僵尸，但没有人对他们做任何事，所以我必须自己照顾他们。我让他们选择离开，但他们有勇气拒绝这个提议。我要他们死，因为他们太大胆了。}
 #{901}{}{I will do as you ask, Senor.}
 {901}{}{我会照你说的做，先生。}
 #{902}{}{Now wait a moment, I'll have nothing to do with killing innocents.}

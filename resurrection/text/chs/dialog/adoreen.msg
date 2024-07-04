@@ -153,7 +153,7 @@
 #{956}{}{Alright, I'm going.}
 {956}{}{好吧，我要走了。}
 #{957}{}{Williaaams! Smash face!}
-{957}{}{威廉斯！砸碎你的脸！}
+{957}{}{威廉斯-斯！砸碎你的脸！}
 #{958}{}{Okays, bai.}
 {958}{}{好的，白。}
 #{1000}{}{[You tried to use your left hand to cover her mouth and your right to slit her throat, but you were too slow; Doreen managed to dodge at the last moment. Frightened, she starts screaming.] Guards!}

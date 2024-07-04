@@ -11,17 +11,17 @@
 #{105}{}{Help the hunters hunt geckos.}
 {105}{}{帮助猎人猎杀蜥蜴。}
 #{200}{}{Get 3 stimpaks, 2 Buffouts and an antidote. If possible, get a doctor's bag. Bring everything to doctor Moore.}
-{200}{}{拿3个兴奋剂，2个兴奋剂和解药。如果可能的话，去拿个医生的包。把所有东西都带给摩尔医生。}
+{200}{}{3支治疗针，2份壮大灵和1份解毒剂。可以的话再弄个医生手提袋给摩尔}
 #{201}{}{Get the protection money from the barman in North Side.}
 {201}{}{从北区的酒吧招待那里拿到保护费。}
 #{202}{}{Kill Leonard and his sidekick Alexa.}
 {202}{}{杀了伦纳德和他的伙伴爱丽莎。}
 #{203}{}{Find 5 boxes of 10mm ammo JHP, 2 boxes of AP and 1 magazine of .44 Magnum JHP.}
-{203}{}{找到5箱10毫米弹药JHP，2箱AP和1个.44万能JHP弹匣。}
+{203}{}{找到5摞10mm JHP，2摞AP和，至少一个.44 马格南 JHP弹匣}
 #{204}{}{Eliminate doctor Moore.}
 {204}{}{干掉摩尔医生。}
 #{205}{}{Finish off Julian once and for all.}
-{205}{}{一劳永逸地干掉朱利安。}
+{205}{}{干掉朱利安一劳永逸。}
 #{206}{}{Find the murderer of Maria, George's daughter.}
 {206}{}{找到谋杀乔治女儿玛丽亚的凶手。}
 #{207}{}{Get Trevor his favorite cigarettes.}
@@ -37,7 +37,7 @@
 #{303}{}{Eradicate all mantises from Peter's field.}
 {303}{}{从彼得的能量场中消灭所有螳螂。}
 #{304}{}{Get the necessary supplies for Falcon's Flight: 15x beer, 10x fruit, 5x Xander.}
-{304}{}{获取猎鹰飞行所需的必需品：15倍的啤酒，10倍的水果，5倍的桑德。}
+{304}{}{获取猎鹰飞行所需的必需品：15瓶的啤酒，10个的水果，5个桑德。}
 #{305}{}{Steal the sheriff's gold nuggets for the ghouls from Falcon's Flight.}
 {305}{}{从猎鹰号的航班上为僵尸偷警长的金块。}
 #{306}{}{Kill Juan Rodriguez and his deputy Sanchez.}
@@ -79,7 +79,7 @@
 #{352}{}{Join Rodriguez's men at the meeting with the raiders.}
 {352}{}{和罗德里格斯的人一起参加袭击者的会议。}
 #{353}{}{Kill the Falcon's Flight ghouls.}
-{353}{}{杀死猎鹰的飞行僵尸。}
+{353}{}{杀死猎鹰飞行的僵尸。}
 #{354}{}{Sell the "God's gifts" (3 Psychos) to the policeman guarding the gate to the sheriff's villa.}
 {354}{}{把“上帝的礼物”（3个精神病）卖给守卫治安官别墅大门的警察。}
 #{355}{}{Sell the "God's gifts" (3 Psychos and 2 Buffouts) to Gordon. You'll find him in Corath.}
@@ -139,9 +139,9 @@
 #{607}{}{Find out what the savages know about their lost people for Falber.}
 {607}{}{找出野蛮人对他们失去的人的了解。}
 #{608}{}{Get permission from Herman for collecting savages in Albuquerque.}
-{608}{}{得到赫尔曼在阿尔伯克基收集野人的许可。}
+{608}{}{得到赫尔曼在阿尔伯克基收集野蛮人的许可。}
 #{609}{}{Take part in the great savage collecting in Albuquerque.}
-{609}{}{参加阿尔伯克基的大野人收藏。}
+{609}{}{参加阿尔伯克基的野蛮人收藏。}
 #{610}{}{Bring information to Sebastian about Rebirth from the base controlled by supermutants.}
 {610}{}{给塞巴斯蒂安带去由超级变种人控制的基地重生的信息。}
 #{611}{}{Get a YK32 pulse pistol for commander Tulsa and bring it to Kraig.}

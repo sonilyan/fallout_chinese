@@ -43,7 +43,7 @@
 #{556}{}{Nothing, actually. Goodbye, Rachel.}
 {556}{}{其实没什么。再见，瑞秋。}
 #{600}{}{Of course he did! That good-for-nothing lazy ass! He'll do anything just to avoid me. [Rachel throws an angry glance at Greg.] When some loser gets stung by a radscorpion, he suddenly has all the time in the world, but for his wife? Never! Oh, he'll pay for this! He'll regret neglecting me like this!}
-{600}{}{他当然做了！那个没用的懒汉！他会做任何事来躲避我。[雷切尔愤怒地瞥了格雷格一眼]当一个失败者被蝎子蜇伤时，他突然拥有了世界上所有的时间，但他的妻子呢？从未！哦，他会为此付出代价的！他会后悔这样忽视我的！}
+{600}{}{他当然做了！那个没用的懒汉！他会做任何事来躲避我。[雷切尔愤怒地瞥了格雷格一眼]当一个失败者被蝎子蜇伤时，他突然拥有所有的时间去研究药物，但他的妻子呢？他从来没有关照过！哦，他会为此付出代价的！他会后悔这样忽视我的！}
 #{601}{}{Yeah, sure. Look, do you need help or not?}
 {601}{}{是的，当然。听着，你到底需要不需要帮助？}
 #{602}{}{I'm not surprised. If I were him, I'd have run away years ago.}
@@ -83,9 +83,9 @@
 #{775}{}{Wasn't I clear the first time?! I looked everywhere! There is absolutely no way that it's still here. Do you understand?!}
 {775}{}{我第一次不是很清楚吗？！我到处找了！绝对不可能它还在这里。你明白吗？！}
 #{776}{}{Eh, yes. But... Please look one more time. Just to be sure.}
-{776}{}{嗯，是的。但是。。。请再看一遍。只是想确定一下。}
+{776}{}{嗯，是的。但是……请再看一遍。只是想确定一下。}
 #{800}{}{[Rachel frowns.] Never in my life have I met someone so annoyingly stubborn! Fine! I'll look one more time, but afterwards you have to finally leave me alone. [She huffs and starts looking through her things. Suddenly she stops.] It's here. That's... This could happen to anyone!}
-{800}{}{[瑞秋皱眉]我这辈子从没见过这么顽固的人！好的！我再看一次，但之后你总得让我一个人呆着。[她怒气冲冲地开始翻看她的东西。突然她停了下来。]它来了。那是。。。这可能发生在任何人身上！}
+{800}{}{[瑞秋皱眉]我这辈子从没见过这么顽固的人！好的！我再看一次，但之后你总得让我一个人呆着。[她怒气冲冲地开始翻看她的东西。突然她停了下来。]它来了。那是……这可能发生在任何人身上！}
 #{801}{}{I'm sure it could. Next time, please be more careful. Goodbye.}
 {801}{}{我肯定会的。下次，请多加小心。再见。}
 #{900}{}{No one talks to me like that! Get out and never come back! And forget about any more treatment! My husband won't even look at you!}

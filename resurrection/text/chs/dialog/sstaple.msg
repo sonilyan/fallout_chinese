@@ -63,7 +63,7 @@
 #{803}{}{Why such caution?}
 {803}{}{为什么如此谨慎？}
 #{804}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{804}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{804}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{805}{}{I'm not looking for anything in particular right now.}
 {805}{}{我现在不想找什么特别的东西。}
 #{850}{}{I've run across this in several publications. It's a warning sign against biological hazards. Judging by the form of this one ?? a talisman, I'd say it serves today as a symbol to some new religion or cult without the knowledge of its previous meaning. It's nothing unusual. Children of the Cathedral, for example, used the sign for radiation as their symbol.}
@@ -77,7 +77,7 @@
 #{854}{}{Why such caution before you even started talking to me?}
 {854}{}{为什么在你跟我说话之前就这么小心？}
 #{855}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{855}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{855}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{856}{}{Thanks, that'll be all.}
 {856}{}{谢谢，就这些。}
 #{900}{}{I suppose you know what kind of world we live in. Violence is often the most persuasive argument. Just because I'm living alone, many people think I'm easy prey. And it's hard for them to understand that the only things I have are my books.}
@@ -91,7 +91,7 @@
 #{904}{}{Do you know by any chance what this sign could mean? [Show her the talisman.]}
 {904}{}{你知道这个标志是什么意思吗？[给她看护身符。]}
 #{905}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{905}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{905}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{906}{}{I see, good-bye, then.}
 {906}{}{我明白了，那么再见。}
 #{950}{}{There's no police. There're just individual cops and none of them care about you unless they can get a buck or two out of you. I refuse to pay for something I should be able to take for granted.}
@@ -103,7 +103,7 @@
 #{953}{}{Do you know by any chance what this sign could mean? [Show her the talisman.]}
 {953}{}{你知道这个标志是什么意思吗？[给她看护身符。]}
 #{954}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{954}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{954}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{955}{}{That's all I need right now.}
 {955}{}{这就是我现在所需要的。}
 #{1000}{}{Yes. [She sighs.] Please let's talk about something else.}
@@ -123,11 +123,11 @@
 #{1007}{}{Bye, then.}
 {1007}{}{那么，再见。}
 #{1050}{}{You really want to hear about it? Ask anyone who was living there, you'll always get a slightly different version of the same story. Supermutants attacked and destroyed the Hub. I managed to escape before the fighting began. Because of this, I wasn't able to take much with me. Most of my collection of books burned down along with the rest of the town. I've told myself many times that I should have died there in my feeble effort to defend.}
-{1050}{}{你真的想听吗？如果问住在那里的人，你总是会得到同一个故事稍有不同的版本。超级变种人袭击并摧毁了中心。我在战斗开始前设法逃走了。因为这个，我不能带太多东西。我收藏的大部分书和镇上其他的书一起被烧毁了。我已经告诉自己很多次了，我应该死在那里，在我无力的努力捍卫。}
+{1050}{}{你真的想听吗？如果问住在那里的人，你总是会得到同一个故事稍有不同的版本。超级变种人袭击并摧毁了中枢市。我在战斗开始前设法逃走了。因为这个，我不能带太多东西。我收藏的大部分书和镇上其他的书一起被烧毁了。我已经告诉自己很多次了，我应该死在那里，在我无力的努力捍卫。}
 #{1051}{}{And why did you come to Sedit in particular?}
 {1051}{}{你为什么特别来这里？}
 #{1052}{}{Nobody tried to rebuild the Hub?}
-{1052}{}{没有人试图重建中心？}
+{1052}{}{没有人试图重建中枢市？}
 #{1053}{}{I'll have a look at what you've got.}
 {1053}{}{我看看你有什么。}
 #{1054}{}{Show me the holodisks you sell.}
@@ -139,9 +139,9 @@
 #{1057}{}{I have to go.}
 {1057}{}{我得走了。}
 #{1100}{}{I don't know myself, I guess I just wanted to go as far away as possible, away from all those things and this town had been known in the Hub for a short while before the attack. In the end, I'm doing the same here what I did there, even though I suppose I'll never collect as many books as I did there. There's not many left and there are even less people interested in them.}
-{1100}{}{我不了解我自己，我想我只是想走得越远越好，远离所有这些东西，在袭击发生前，这个小镇在市中心已经有一段时间了。最后，我在这里做的和在那里做的一样，尽管我想我永远不会像在那里那样收集那么多的书。剩下的不多了，对他们感兴趣的人更少了。}
+{1100}{}{我不了解我自己，我想我只是想走得越远越好，远离所有这些东西，在袭击发生前，这个小镇在市中枢市已经有一段时间了。最后，我在这里做的和在那里做的一样，尽管我想我永远不会像在那里那样收集那么多的书。剩下的不多了，对他们感兴趣的人更少了。}
 #{1101}{}{Nobody tried to rebuild the Hub?}
-{1101}{}{没有人试图重建中心？}
+{1101}{}{没有人试图重建中枢市？}
 #{1102}{}{I'll have a look at what you've got.}
 {1102}{}{我看看你有什么。}
 #{1103}{}{Show me the holodisks you sell.}
@@ -153,9 +153,9 @@
 #{1106}{}{I have to go.}
 {1106}{}{我得走了。}
 #{1150}{}{A religion that had the Master as their living god. But the only Master's achievement was the creation of supermutants who accomplished only destruction. Just as they destroyed the Hub.}
-{1150}{}{一种以主人为他们的活神的宗教。但大师唯一的成就是创造了只完成毁灭的超级变种人。就像他们摧毁了中心一样。}
+{1150}{}{一种以主教为他们的活神的宗教。但主教唯一的成就是创造了只完成毁灭的超级变种人。就像他们摧毁了中枢市一样。}
 #{1151}{}{What happened to the Hub?}
-{1151}{}{中心怎么了？}
+{1151}{}{中枢市怎么了？}
 #{1152}{}{I'll have a look at what you've got.}
 {1152}{}{我看看你有什么。}
 #{1153}{}{Show me the holodisks you sell.}
@@ -165,7 +165,7 @@
 #{1155}{}{That's all, bye.}
 {1155}{}{就这些，再见。}
 #{1200}{}{That's strange, it's true I've heard some rumors about rebuilding the Hub. But I don't pay much attention to them. I don't want to waste time reminiscing. Moreover, I suppose it's just someone's wishful thinking.}
-{1200}{}{真奇怪，我确实听说过一些关于重建中心的传言。但我不太注意他们。我不想浪费时间回忆。而且，我想这只是某人的一厢情愿。}
+{1200}{}{真奇怪，我确实听说过一些关于重建中枢市的传言。但我不太注意他们。我不想浪费时间回忆。而且，我想这只是某人的一厢情愿。}
 #{1201}{}{And why did you go to Sedit in particular?}
 {1201}{}{你为什么特别去赛迪特？}
 #{1202}{}{I'll have a look at what you've got.}
@@ -203,7 +203,7 @@
 #{1354}{}{Why such caution before you even started talking to me?}
 {1354}{}{为什么在你跟我说话之前就这么小心？}
 #{1355}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{1355}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{1355}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{1356}{}{Actually, that'll be all.}
 {1356}{}{实际上，就这些了。}
 #{1400}{}{I'm glad to see you again. What are you looking for this time? [She's being nice but the gun's still in her hands.]}
@@ -217,7 +217,7 @@
 #{1404}{}{Why still so cautious?}
 {1404}{}{为什么还这么谨慎？}
 #{1405}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{1405}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{1405}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{1406}{}{I'm not looking for anything in particular right now.}
 {1406}{}{我现在不想找什么特别的东西。}
 #{1407}{}{Hoo!}
@@ -249,11 +249,11 @@
 #{1554}{}{Why such caution?}
 {1554}{}{为什么如此谨慎？}
 #{1555}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{1555}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{1555}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{1556}{}{Thank you.}
 {1556}{}{非常感谢。}
 #{1580}{}{Interesting...}
-{1580}{}{有趣。。。}
+{1580}{}{有趣……}
 #{1581}{}{Yes?}
 {1581}{}{对？}
 #{1600}{}{I've noticed you own a Pip-Boy. I might have some pre-war holodisks, if you'd be interested.}
@@ -267,17 +267,17 @@
 #{1604}{}{Not at the moment, bye.}
 {1604}{}{现在不行，再见。}
 #{1650}{}{As you can see, I don't have many, but all of them have been recorder before the war. They cost 600 caps each and I don't negotiate.}
-{1650}{}{正如你所看到的，我没有多少，但所有的都是战前的录音机。他们每顶600顶，我不谈判。}
+{1650}{}{正如你所看到的，我没有多少，但所有的都是战前的录音机。他们每个600瓶盖，我不会与你讲价。}
 #{1651}{}{How exactly do holodisks work?}
 {1651}{}{全息盘到底是怎么工作的？}
 #{1652}{}{Can you tell me in more detail what's on those holodisks?}
 {1652}{}{你能更详细地告诉我那些全息磁盘上有什么吗？}
 #{1653}{}{I'll take the "Nuclear Attacks and You" holodisk. Here's 600 caps.}
-{1653}{}{我要“核攻击和你”的全息光盘。这是600顶瓶盖。}
+{1653}{}{我要“核攻击和你”的全息光盘。这是600瓶盖。}
 #{1654}{}{I'll take the holodisk "Vault Locations v12.004". Here's 600 caps.}
-{1654}{}{我要全息磁盘“保险库位置v12.004”。这是600顶瓶盖。}
+{1654}{}{我要全息磁盘“保险库位置v12.004”。这是600瓶盖。}
 #{1655}{}{I'll take the "A Treatise on Mutations". Here's 600 caps.}
-{1655}{}{我要“突变论”。这是600顶瓶盖。}
+{1655}{}{我要“突变论”。这是600瓶盖。}
 #{1656}{}{I'm interested in something else right now.}
 {1656}{}{我现在对别的东西感兴趣。}
 #{1657}{}{I don't want any holodisks, bye.}
@@ -285,17 +285,17 @@
 #{1658}{}{I don't have 600 caps. I'm interested in something else.}
 {1658}{}{我没有600个瓶盖。我对别的东西感兴趣。}
 #{1659}{}{Maybe I'll come back when I have 600 caps, bye.}
-{1659}{}{也许我有600顶瓶盖就回来，再见。}
+{1659}{}{也许我有600瓶盖就回来，再见。}
 #{1700}{}{A holodisk contains information that can be read by certain special devices. I've noticed you own Pip-Boy. You can use it to decode, read and archive information stored on the holodisk.}
 {1700}{}{全息磁盘包含某些特殊设备可以读取的信息。我注意到你有个皮普小子。你可以用它来解码，读取和存档存储在全息磁盘上的信息。}
 #{1701}{}{Can you tell me in more detail what's on those holodisks?}
 {1701}{}{你能更详细地告诉我那些全息磁盘上有什么吗？}
 #{1702}{}{I'll take the "Nuclear Attacks and You" holodisk. Here's 600 caps.}
-{1702}{}{我要“核攻击和你”的全息光盘。这是600顶瓶盖。}
+{1702}{}{我要“核攻击和你”的全息光盘。这是600瓶盖。}
 #{1703}{}{I'll take the holodisk "Vault Locations v12.004". Here's 600 caps.}
-{1703}{}{我要全息磁盘“保险库位置v12.004”。这是600顶瓶盖。}
+{1703}{}{我要全息磁盘“保险库位置v12.004”。这是600瓶盖。}
 #{1704}{}{I'll take the "A Treatise on Mutations". Here's 600 caps.}
-{1704}{}{我要“突变论”。这是600顶瓶盖。}
+{1704}{}{我要“突变论”。这是600瓶盖。}
 #{1705}{}{I'm interested in something else right now.}
 {1705}{}{我现在对别的东西感兴趣。}
 #{1706}{}{I don't want any holodisks, bye.}
@@ -303,17 +303,17 @@
 #{1707}{}{I don't have 600 caps. I'm interested in something else.}
 {1707}{}{我没有600个瓶盖。我对别的东西感兴趣。}
 #{1708}{}{Maybe I'll come back when I have 600 caps, bye.}
-{1708}{}{也许我有600顶瓶盖就回来，再见。}
+{1708}{}{也许我有600瓶盖就回来，再见。}
 #{1750}{}{I'm sorry, but I no longer own a device that would read them. You'll have to do with what's written on the tags.}
 {1750}{}{很抱歉，我已经没有可以读取它们的设备了。你得处理标签上写的东西。}
 #{1751}{}{How exactly do holodisks work?}
 {1751}{}{全息盘到底是怎么工作的？}
 #{1752}{}{I'll take the "Nuclear Attacks and You" holodisk. Here's 600 caps.}
-{1752}{}{我要“核攻击和你”的全息光盘。这是600顶瓶盖。}
+{1752}{}{我要“核攻击和你”的全息光盘。这是600瓶盖。}
 #{1753}{}{I'll take the holodisk "Vault Locations v12.004". Here's 600 caps.}
-{1753}{}{我要全息磁盘“保险库位置v12.004”。这是600顶瓶盖。}
+{1753}{}{我要全息磁盘“保险库位置v12.004”。这是600瓶盖。}
 #{1754}{}{I'll take the "A Treatise on Mutations". Here's 600 caps.}
-{1754}{}{我要“突变论”。这是600顶瓶盖。}
+{1754}{}{我要“突变论”。这是600瓶盖。}
 #{1755}{}{I'm interested in something else right now.}
 {1755}{}{我现在对别的东西感兴趣。}
 #{1756}{}{I don't want any holodisks, bye.}
@@ -321,7 +321,7 @@
 #{1757}{}{I don't have 600 caps. I'm interested in something else.}
 {1757}{}{我没有600个瓶盖。我对别的东西感兴趣。}
 #{1758}{}{Maybe I'll come back when I have 600 caps, bye.}
-{1758}{}{也许我有600顶瓶盖就回来，再见。}
+{1758}{}{也许我有600瓶盖就回来，再见。}
 #{1800}{}{Are you interested in any other holodisks or books?}
 {1800}{}{你对其他全息光盘或书感兴趣吗？}
 #{1801}{}{Books.}
@@ -333,7 +333,7 @@
 #{1804}{}{Why such caution before you even started talking to me?}
 {1804}{}{为什么在你跟我说话之前就这么小心？}
 #{1805}{}{You live in this part of town. Does that mean you too were originally from the Hub?}
-{1805}{}{你住在城里的这个地方。那是不是说你也是从中心来的？}
+{1805}{}{你住在城里的这个地方。那是不是说你也是从中枢市来的？}
 #{1806}{}{Actually, that'll be all.}
 {1806}{}{实际上，就这些了。}
 #{1850}{}{We're closed. Please leave or I'll be forced to start shooting.}
@@ -343,6 +343,6 @@
 #{1852}{}{Feel free to try it. We'll see who'll remain standing.}
 {1852}{}{尽管试试吧。我们看看谁还能站着。}
 #{1853}{}{No boom! Bye-bye.}
-{1853}{}{没有轰！再见。}
+{1853}{}{没有轰！再-见。}
 #{1854}{}{Wham bam to you, you dead.}
 {1854}{}{砰的一声，你死定了。}

@@ -27,7 +27,7 @@
 #{506}{}{Me bottle up!}
 {506}{}{把瓶子给我！}
 #{507}{}{Chow yum yum!}
-{507}{}{周百胜！}
+{507}{}{好吃好吃!}
 #{508}{}{Sleepy eyes!}
 {508}{}{昏昏欲睡的眼睛！}
 #{509}{}{Nuffin! See you, mista'.}
@@ -41,7 +41,7 @@
 #{553}{}{What are all the squatters doing here?}
 {553}{}{所有的棚户区居民都在这里干什么？}
 #{554}{}{Tell me again why you left the Hub.}
-{554}{}{再告诉我一次你为什么离开中心。}
+{554}{}{再告诉我一次你为什么离开中枢市。}
 #{555}{}{Have you ever seen this sign? [Show it to him.]}
 {555}{}{你见过这个标志吗？[给他看。]}
 #{556}{}{Have you ever seen this sign? [Describe the sign to him.]}
@@ -191,11 +191,11 @@
 #{952}{}{Yeah, sure. I've got to go.}
 {952}{}{是的，当然。我得走了。}
 #{1000}{}{They came here from the Hub, a big city far to the west of Sedit.}
-{1000}{}{他们是从塞迪特以西的一个大城市中心来到这里的。}
+{1000}{}{他们是从塞迪特以西的一个大城市中枢市来到这里的。}
 #{1001}{}{Why did they leave it?}
 {1001}{}{他们为什么离开？}
 #{1002}{}{The Hub? Can you tell me anything else about the place?}
-{1002}{}{中心？你能告诉我这个地方的其他情况吗？}
+{1002}{}{中枢市？你能告诉我这个地方的其他情况吗？}
 #{1003}{}{Thank you. I have another question.}
 {1003}{}{非常感谢。我还有一个问题。}
 #{1004}{}{I've got to go. Good-bye, Rene.}
@@ -205,21 +205,21 @@
 #{1051}{}{Why did they move to Sedit in particular?}
 {1051}{}{他们为什么特别搬到塞迪特？}
 #{1052}{}{Can you tell me more about this Hub?}
-{1052}{}{你能告诉我更多关于这个中心的情况吗？}
+{1052}{}{你能告诉我更多关于这个中枢市的情况吗？}
 #{1053}{}{I see. I want to ask something else.}
 {1053}{}{我懂了。我想问点别的。}
 #{1054}{}{I've got to go. Good-bye, Rene.}
 {1054}{}{我得走了。再见，雷内。}
 #{1100}{}{There were a lot of reasons. For one, Sedit was the most distant town they knew. Their caravans discovered it only a few years before the destruction of the Hub. They thought this would be the least likely place for supermutants to attack. And Sedit resembles the Hub in several ways, so moving out here wasn't that big a change for most people.}
-{1100}{}{原因有很多。首先，塞迪特是他们所知道的最遥远的城镇。他们的商队在中心被毁前几年才发现了它。他们认为这是超级变种人最不可能攻击的地方。而且Sedit在几个方面与这个中心相似，所以搬出这里对大多数人来说并没有太大的改变。}
+{1100}{}{原因有很多。首先，塞迪特是他们所知道的最遥远的城镇。他们的商队在中枢市被毁前几年才发现了它。他们认为这是超级变种人最不可能攻击的地方。而且Sedit在几个方面与这个中枢市相似，所以搬出这里对大多数人来说并没有太大的改变。}
 #{1101}{}{Can you tell me more about this Hub?}
-{1101}{}{你能告诉我更多关于这个中心的情况吗？}
+{1101}{}{你能告诉我更多关于这个中枢市的情况吗？}
 #{1102}{}{That makes sense. I have another question.}
 {1102}{}{这是有道理的。我还有一个问题。}
 #{1103}{}{I've got to go. Good-bye, Rene.}
 {1103}{}{我得走了。再见，雷内。}
 #{1150}{}{Sure I can, I used to live there for a long time myself. The Hub was always a place of commerce and caravans, even more than Sedit itself. It was an amazing place, a real oasis in the heart of the wasteland. I liked it there...}
-{1150}{}{我当然可以，我自己也曾在那里住过很长时间。这个中心一直是商业和商队的聚集地，甚至比塞迪特本身还要多。这是一个神奇的地方，一个真正的绿洲在荒地的心脏。我喜欢那里。。。}
+{1150}{}{我当然可以，我自己也曾在那里住过很长时间。这个中枢市一直是商业和商队的聚集地，甚至比塞迪特本身还要多。这是一个神奇的地方，一个真正的绿洲在荒地的心脏。我喜欢那里。。。}
 #{1151}{}{[Let Rene speak.]}
 {1151}{}{[让雷内说出来。]}
 #{1152}{}{I see, I have another question.}
@@ -227,7 +227,7 @@
 #{1153}{}{I've got to go. Good-bye, Rene.}
 {1153}{}{我得走了。再见，雷内。}
 #{1200}{}{You know, I left the Hub a long time before the rest of the people around here. We left it with Mimi and Ivet back in the twenties, way back then. That's when they killed the governor of the Hub, a man named Angus and then chaos spread over the city. A group of merchants used the anarchy that was gripping the city to seize the water reserves and thus started a terrible war. The conflict destroyed everything we'd built and there were a lot of people who went after us just 'cause of the way we looked. In the end, we had to flee. We visited many places during our travels, until we finally settled in Sedit. We've been here for a long time, but... somehow, I still have that soft spot for the good old Hub.}
-{1200}{}{你知道，我比这里其他人早离开中心很久了。我们在20多岁的时候把它留给了咪咪和艾薇特。就在那时，他们杀死了中心的长官，一个叫安格斯的人，然后混乱蔓延到整个城市。一群商人利用笼罩着城市的无政府状态夺取水源，从而发动了一场可怕的战争。冲突摧毁了我们建造的一切，有很多人因为我们的长相而追杀我们。最后，我们只好逃跑。我们在旅行中参观了许多地方，直到最后在塞迪特定居下来。我们已经在这里很久了，但是。。。不知怎么的，我仍然对这个好的旧中心有好感。}
+{1200}{}{你知道，我比这里其他人早离开中枢市很久了。我们在20多岁的时候把它留给了咪咪和艾薇特。就在那时，他们杀死了中枢市的长官，一个叫安格斯的人，然后混乱蔓延到整个城市。一群商人利用笼罩着城市的无政府状态夺取水源，从而发动了一场可怕的战争。冲突摧毁了我们建造的一切，有很多人因为我们的长相而追杀我们。最后，我们只好逃跑。我们在旅行中参观了许多地方，直到最后在塞迪特定居下来。我们已经在这里很久了，但是。。。不知怎么的，我仍然对这个好的旧中枢市有好感。}
 #{1201}{}{I understand you. But why did the others leave it?}
 {1201}{}{我理解你。但其他人为什么要离开呢？}
 #{1202}{}{That's how it goes. I have another question.}

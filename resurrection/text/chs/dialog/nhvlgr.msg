@@ -21,7 +21,7 @@
 #{308}{}{We don't have many visitors around here.}
 {308}{}{我们这附近的访客不多。}
 #{309}{}{No one foreign has visited for a long time.}
-{309}{}{很久没有外国游客来过了。}
+{309}{}{很久没有外面的游客来过了。}
 #{310}{}{Glad to see you.}
 {310}{}{见到你很高兴。}
 #{311}{}{It's starting to get lively around here.}

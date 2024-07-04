@@ -5,9 +5,9 @@
 #{200}{}{You see an elderly farmer. He's not looking exactly friendly.}
 {200}{}{你看到一个上了年纪的农民。他看起来不太友好。}
 #{250}{}{You see farmer Peter. He looks grumpy as usual.}
-{250}{}{你看到农夫彼得了。他像往常一样脾气暴躁。}
+{250}{}{你看到农夫彼得了。他脾气像往常一样暴躁。}
 #{300}{}{::Sigh:: Another greenhorn?}
-{300}{}{又一个新手？}
+{300}{}{::叹息::又一个新手？}
 #{301}{}{Kill those mantises.}
 {301}{}{杀死那些螳螂。}
 #{450}{}{You'll regret this!}

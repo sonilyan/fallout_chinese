@@ -1,5 +1,5 @@
 #{100}{}{You see a nightkin.}
-{100}{}{你看到了睡衣。}
+{100}{}{你看到了夜猫子。}
 #{150}{}{You see Dernus.}
 {150}{}{你看到德努斯了。}
 #{200}{}{You see a nightkin, he's a fearsome creature.}
@@ -15,9 +15,9 @@
 #{503}{}{I need to find the location of the Rebirth base. I was told it's recorded in the computer on the lower level.}
 {503}{}{我要找到重生基地的位置。有人告诉我这是在下层电脑里录的。}
 #{504}{}{Don't you see that I'm with the Children of the Cathedral?! Let me pass! In the name of the Master!}
-{504}{}{你没看到我和大教堂的孩子们在一起吗？！让我过去！以主人的名义！}
+{504}{}{你没看到我和主教大教堂在一起吗？！让我过去！以主人的名义！}
 #{505}{}{I... umm... Well, I'll just be leaving now.}
-{505}{}{一、 。。。嗯。。。好吧，我现在就走。}
+{505}{}{我 ……嗯……好吧，我现在就走。}
 #{506}{}{Ugly monster, eww!}
 {506}{}{丑陋的怪物，哇！}
 #{550}{}{It was a mistake to come here. [He's about to open fire.]}
@@ -97,17 +97,17 @@
 #{1150}{}{So you're just a poor fella infected by the Hunters' madness, then.}
 {1150}{}{所以你只是一个被猎人的疯狂感染的可怜的家伙。}
 #{1151}{}{But...}
-{1151}{}{但是。。。}
+{1151}{}{但是……}
 #{1200}{}{So you're just a poor girl infected by the Hunters' madness, then.}
 {1200}{}{所以你只是一个被猎人的疯狂感染的可怜女孩。}
 #{1201}{}{But...}
-{1201}{}{但是。。。}
+{1201}{}{但是……}
 #{1250}{}{You? Lost memory... It would explain a lot. [He looks at you for a moment, thinking.] Yes, you could be him. But I have to be sure.}
-{1250}{}{你呢？失去记忆。。。这可以解释很多。[他看了你一会儿，心想]是的，你可能就是他。但我必须确定。}
+{1250}{}{你呢？失去记忆……这可以解释很多。[他看了你一会儿，心想]是的，你可能就是他。但我必须确定。}
 #{1251}{}{What? What do you know about me? What are you talking about?!}
 {1251}{}{什么？你对我了解多少？你在说什么？！}
 #{1300}{}{You? Lost memory... It would explain a lot. [He looks at you for a moment, thinking.] Yes, you could be her. But I have to be sure.}
-{1300}{}{你呢？失去记忆。。。这可以解释很多。[他看了你一会儿，心想]是的，你可能就是她。但我必须确定。}
+{1300}{}{你呢？失去记忆……这可以解释很多。[他看了你一会儿，心想]是的，你可能就是她。但我必须确定。}
 #{1301}{}{What? What do you know about me? What are you talking about?!}
 {1301}{}{什么？你对我了解多少？你在说什么？！}
 #{1350}{}{For now you should know that you'll find the information you're looking for here, but I won't reveal any more until you do as told. We have use of you, at the very least it will prove that you're not a member of the Mutant Hunters.}
@@ -177,7 +177,7 @@
 #{1800}{}{You were supposed to bring Sebastian here. I gave you a chance, human, and you blew it.}
 {1800}{}{你应该带塞巴斯蒂安来的。我给了你一个机会，人类，你却搞砸了。}
 #{1801}{}{But...}
-{1801}{}{但是。。。}
+{1801}{}{但是……}
 #{1802}{}{Huh?}
 {1802}{}{嗯？}
 #{1850}{}{You were supposed to bring Sebastian here. I gave you a chance, human, and you blew it.}
@@ -265,11 +265,11 @@
 #{2302}{}{I have to go.}
 {2302}{}{我得走了。}
 #{2350}{}{You've never heard of supermutants? Our father created us in perfection. He is known as the Master. He had a vision of peace, of the Unity. But humans destroyed everything, especially the Children of the Cathedral. The actions of the Vault Dweller were just the consequences.}
-{2350}{}{你从没听说过超级变种人？我们的父亲完美地创造了我们。他被称为大师。他憧憬着和平，憧憬着团结。但是人类摧毁了一切，尤其是大教堂的孩子们。金库居民的行为只是后果。}
+{2350}{}{你从没听说过超级变种人？我们的父亲完美地创造了我们。他被称为大师。他憧憬着和平，憧憬着团结。但是人类摧毁了一切，尤其是主教大教堂。金库居民的行为只是后果。}
 #{2351}{}{Tell me about the Master.}
 {2351}{}{告诉我师父的事。}
 #{2352}{}{Tell me about the Children of the Cathedral.}
-{2352}{}{告诉我大教堂的孩子们。}
+{2352}{}{告诉我主教大教堂。}
 #{2353}{}{Tell me about the Vault Dweller.}
 {2353}{}{跟我说说那个地下室的人。}
 #{2354}{}{I want to ask about something else.}
@@ -281,7 +281,7 @@
 #{2401}{}{No offense, but most supermutants don't seem that smart.}
 {2401}{}{无意冒犯，但大多数超级变种人看起来没那么聪明。}
 #{2402}{}{Tell me about the Children of the Cathedral.}
-{2402}{}{告诉我大教堂的孩子们。}
+{2402}{}{告诉我主教大教堂。}
 #{2403}{}{I want to ask about something else.}
 {2403}{}{我想问些别的事。}
 #{2404}{}{I have to go.}
@@ -295,7 +295,7 @@
 #{2453}{}{I have to go.}
 {2453}{}{我得走了。}
 #{2500}{}{I come from a vault, I remember quite a lot. Fear, jealousy, constant desire to possess and the resulting competition, anger... and hatred. We learned that again, with the death of our Master.}
-{2500}{}{我来自金库，我记得很多。恐惧，嫉妒，持续的占有欲和由此产生的竞争，愤怒。。。还有仇恨。随着主人的去世，我们又学到了这一点。}
+{2500}{}{我来自金库，我记得很多。恐惧，嫉妒，持续的占有欲和由此产生的竞争，愤怒……还有仇恨。随着主人的去世，我们又学到了这一点。}
 #{2501}{}{What do you mean by that?}
 {2501}{}{你这是什么意思？}
 #{2502}{}{I want to ask about something else.}
@@ -319,11 +319,11 @@
 #{2603}{}{I have to go.}
 {2603}{}{我得走了。}
 #{2650}{}{You've never heard of supermutants? Our father created us in perfection. He is known as the Master. He had a vision of peace, of the Unity. But humans destroyed everything, especially the Children of the Cathedral. The actions of the Vault Dweller were just the consequences.}
-{2650}{}{你从没听说过超级变种人？我们的父亲完美地创造了我们。他被称为大师。他憧憬着和平，憧憬着团结。但是人类摧毁了一切，尤其是大教堂的孩子们。金库居民的行为只是后果。}
+{2650}{}{你从没听说过超级变种人？我们的父亲完美地创造了我们。他被称为大师。他憧憬着和平，憧憬着团结。但是人类摧毁了一切，尤其是主教大教堂。金库居民的行为只是后果。}
 #{2651}{}{Tell me about the Master.}
 {2651}{}{告诉我师父的事。}
 #{2652}{}{Tell me about the Children of the Cathedral.}
-{2652}{}{告诉我大教堂的孩子们。}
+{2652}{}{告诉我主教大教堂。}
 #{2653}{}{Tell me about the Vault Dweller.}
 {2653}{}{跟我说说那个地下室的人。}
 #{2654}{}{I want to ask about something else.}
@@ -331,7 +331,7 @@
 #{2655}{}{I have to go.}
 {2655}{}{我得走了。}
 #{2700}{}{The Master wanted to give humans a choice to join the Unity, not to force them violently. That's why he created the church of the Children of the Cathedral, whose objectives were same as his. Through this church it was possible to voluntarily join the Unity.}
-{2700}{}{大师想要给人类一个选择加入统一，而不是暴力地强迫他们。这就是为什么他创建了大教堂的孩子们的教堂，其目标和他的一样。通过这个教会可以自愿加入联合会。}
+{2700}{}{大师想要给人类一个选择加入统一，而不是暴力地强迫他们。这就是为什么他创建了主教大教堂的教堂，其目标和他的一样。通过这个教会可以自愿加入联合会。}
 #{2701}{}{What went wrong?}
 {2701}{}{出什么事了？}
 #{2702}{}{I want to ask about something else.}

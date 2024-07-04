@@ -53,9 +53,9 @@
 #{551}{}{[She stops crying and looks at you.] Outsider knows Aleea's name? What does she want from her?}
 {551}{}{[她停止哭泣，看着你。]外人知道阿莉娅的名字吗？她想从她身上得到什么？}
 #{552}{}{[She stops crying and looks at you.] Tribe friend knows Aleea's name? What does he want from her?}
-{552}{}{【她停止哭泣，看着你。】部落朋友知道阿莉娅的名字吗？他想从她那里得到什么？}
+{552}{}{[她停止哭泣，看着你。]部落朋友知道阿莉娅的名字吗？他想从她那里得到什么？}
 #{553}{}{[She stops crying and looks at you.] Tribe friend knows Aleea's name? What does she want from her?}
-{553}{}{【她停止哭泣，看着你。】部落朋友知道阿莉娅的名字吗？她想从她身上得到什么？}
+{553}{}{[她停止哭泣，看着你。]部落朋友知道阿莉娅的名字吗？她想从她身上得到什么？}
 #{554}{}{Ben sends me. He's sorry for what he's done and he begs your forgiveness. I'm supposed to give you this. [Give her the earring.]}
 {554}{}{本派我来的。他为自己的所作所为感到抱歉，并请求你的原谅。我应该给你这个。[把耳环给她。]}
 #{555}{}{Ben sends me. He's sorry for what he's done and he begs your forgiveness.}

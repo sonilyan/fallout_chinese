@@ -115,7 +115,7 @@
 #{1050}{}{We're closed, go away and come in the morning.}
 {1050}{}{我们关门了，走吧，明早再来。}
 #{1051}{}{OK.}
-{1051}{}{好 啊。}
+{1051}{}{好啊。}
 #{1052}{}{Okee.}
 {1052}{}{好的。}
 #{1100}{}{It was a pleasure doing business with you.}
@@ -129,9 +129,9 @@
 #{1200}{}{You don't have any weapons suitable for a useful modification.}
 {1200}{}{你没有任何适合改装的武器。}
 #{1201}{}{OK.}
-{1201}{}{好 啊。}
+{1201}{}{好啊。}
 #{1250}{}{Hm, Desert Eagle, .44 caliber Magnum. Its only disadvantage is probably its small magazine. I can make you one for 20 rounds. It's not exactly a standard mod but I've tried it before and it works. It'll cost you 2000 caps.}
-{1250}{}{嗯，沙漠之鹰，.44口径大酒瓶。它唯一的缺点可能是它的小杂志。我可以给你做20发子弹。这不完全是一个标准的模式，但我已经尝试过它之前，它的工作。你要花2000个瓶盖。}
+{1250}{}{嗯，沙漠之鹰，.44口径大酒瓶。它唯一的缺点可能是它的弹夹太小了。我可以给你做20发子弹。这不完全是一个标准的模式，但我已经尝试过它之前，它的工作。你要花2000个瓶盖。}
 #{1251}{}{OK, I'm in. [Hand her the weapon.]}
 {1251}{}{好的，我进去了。[把武器递给她。]}
 #{1252}{}{I don't have enough money for that. Can you modify one of my other guns?}
@@ -141,7 +141,7 @@
 #{1254}{}{Actually, I'm not interested in modifications anymore.}
 {1254}{}{实际上，我对修改已经不感兴趣了。}
 #{1300}{}{I could equip that Colt Rangemaster hunting rifle with a telescope. That won't make it a proper sniping rifle but you can bet you'll be able to hunt at greater distances with efficiency. Whatever'll be in your crosshair. It's not a demanding job, the most expensive thing'll be a good quality telescope, so that'll be 2000 caps total.}
-{1300}{}{我可以用望远镜装备骑兵猎枪。这不会使它成为一个合适的狙击步枪，但你可以打赌，你将能够在更大的距离与效率狩猎。不管你的十字准星上会有什么。这不是一项要求很高的工作，最贵的是一台高质量的望远镜，所以总共需要2000个。}
+{1300}{}{我可以用望远镜装备骑兵猎枪。这不会使它成为一个合适的狙击步枪，但你可以打赌，你将能够在更大的距离与效率狩猎。不管你的十字准星上会有什么。这不是一项要求很高的工作，最贵的是一台高质量的望远镜，所以总共需要2000个瓶盖。}
 #{1301}{}{OK, I'm in. [Hand her the weapon.]}
 {1301}{}{好的，我进去了。[把武器递给她。]}
 #{1302}{}{I don't have enough money for that. Can you modify one of my other weapons?}
@@ -181,7 +181,7 @@
 #{1414}{}{Actually, I'm not interested in modifications anymore.}
 {1414}{}{实际上，我对修改已经不感兴趣了。}
 #{1420}{}{I don't get to lay my eyes on Revolver Magnum .44 very often. [She weighs it in her hand, ejects, then closes the drum magazine.] Nice piece. I can make you a special reloader that'll reload the gun with all six bullets in one go. It'll cost you 2000 caps.}
-{1420}{}{我不会经常盯着万能左轮手枪。[她用手称了称，弹了出来，然后合上了鼓盒。]不错。我可以给你做一个特殊的重新装弹器，一次装完六颗子弹。你要花2000个瓶盖。}
+{1420}{}{我不会经常盯着左轮手枪马格南。[她用手称了称，弹了出来，然后合上了鼓盒。]不错。我可以给你做一个特殊的重新装弹器，一次装完六颗子弹。你要花2000个瓶盖。}
 #{1421}{}{OK, I'm in. [Hand her the weapon.]}
 {1421}{}{好的，我进去了。[把武器递给她。]}
 #{1422}{}{I don't have enough money for that. Can you modify one of my other guns?}
@@ -203,17 +203,17 @@
 #{1450}{}{You don't have any weapons suitable for a useful modification.}
 {1450}{}{你没有任何适合改装的武器。}
 #{1451}{}{I'm interested in expanding the magazine on my Desert Eagle. [Hand her the weapon.]}
-{1451}{}{我有兴趣扩大我的沙漠鹰杂志。[把武器递给她。]}
+{1451}{}{我有兴趣扩大我的沙漠鹰弹夹。[把武器递给她。]}
 #{1452}{}{I'm interested in a telescope for my hunting rifle. [Hand her the weapon.]}
 {1452}{}{我对我猎枪的望远镜感兴趣。[把武器递给她。]}
 #{1453}{}{I'm interested in shortening the barrels of my shotgun. [Hand her the weapon.]}
 {1453}{}{我有兴趣缩短我的猎枪枪管。[把武器递给她。]}
 #{1454}{}{I'm interested in an additional magazine for my assault rifle. [Hand her the weapon.]}
-{1454}{}{我想再给我的突击步枪买一本杂志。[把武器递给她。]}
+{1454}{}{我想再给我的突击步枪添加一个弹夹。[把武器递给她。]}
 #{1455}{}{I'm interested in turning my sniper rifle into a pistol. [Hand her the weapon.]}
 {1455}{}{我想把我的狙击步枪变成手枪。[把武器递给她。]}
 #{1456}{}{I'm interested in a Revolver Magnum reloader. [Hand her the weapon.]}
-{1456}{}{我对一把万能左轮手枪感兴趣。[把武器递给她。]}
+{1456}{}{我对左轮手枪马格南装填弹感兴趣。[把武器递给她。]}
 #{1457}{}{I'm interested in reinforcing my combat shotgun. [Hand her the weapon.]}
 {1457}{}{我有兴趣加强我的战斗猎枪。[把武器递给她。]}
 #{1458}{}{I'm not interested in any modifications.}
@@ -221,19 +221,19 @@
 #{1500}{}{Fine, come back tomorrow.}
 {1500}{}{好的，明天再来。}
 #{1501}{}{OK.}
-{1501}{}{好 啊。}
+{1501}{}{好啊。}
 #{1550}{}{OK, come back in two days.}
 {1550}{}{好的，两天后再来。}
 #{1551}{}{OK.}
-{1551}{}{好 啊。}
+{1551}{}{好啊。}
 #{1600}{}{Fine, come back in three days.}
 {1600}{}{好吧，三天后再来。}
 #{1601}{}{OK.}
-{1601}{}{好 啊。}
+{1601}{}{好啊。}
 #{1650}{}{OK, come back in four days.}
 {1650}{}{好的，四天后再来。}
 #{1651}{}{OK.}
-{1651}{}{好 啊。}
+{1651}{}{好啊。}
 #{1700}{}{Your weapon's not ready yet.}
 {1700}{}{你的武器还没准备好。}
 #{1701}{}{Never mind, I want to buy something.}
@@ -245,7 +245,7 @@
 #{1704}{}{Uff.}
 {1704}{}{不明飞行物。}
 #{1750}{}{You're finally here. Good, your weapon's ready as we agreed. Here you go, have fun with it.}
-{1750}{}{你终于来了。很好，你的武器已经准备好了。给你，玩得开心点。}
+{1750}{}{你终于来了。很好，你的武器已经准备好了。给你，玩得开心。}
 #{1751}{}{You bet.}
 {1751}{}{当然。}
 #{1752}{}{Heehee.}

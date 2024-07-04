@@ -5,7 +5,7 @@
 #{200}{}{You see an old bent man in a faded purple robe.}
 {200}{}{你看到一个穿着褪了色的紫色长袍的弯腰老人。}
 #{250}{}{You see Tadeus, a former member of the Children of the Cathedral.}
-{250}{}{你看塔德乌斯，一位前大教堂儿童会成员。}
+{250}{}{你看塔德乌斯，一位前主教大教堂成员。}
 #{301}{}{Go ahead, do it! You can take my stuff after that if you want.}
 {301}{}{去吧，去做！如果你愿意的话，你可以拿走我的东西。}
 #{302}{}{I follow Unity!}
@@ -23,7 +23,7 @@
 #{500}{}{Leave me alone.}
 {500}{}{别管我。}
 #{501}{}{Are you Tadeus, former member of the Children of the Cathedral?}
-{501}{}{你是塔德乌斯，大教堂孩子们的前成员吗？}
+{501}{}{你是塔德乌斯，主教大教堂，前成员吗？}
 #{502}{}{Why? Something happened? Do you want to talk about it?}
 {502}{}{为什么？出什么事了？你想谈谈吗？}
 #{503}{}{Ugh.}
@@ -51,11 +51,11 @@
 #{701}{}{What do you want?}
 {701}{}{你想要什么？}
 #{750}{}{I'm talking about the Master being our one and only salvation! He was the one true hope! We could have become better. By ceasing to be human! Humans never managed anything apart from killing one another. And one human doomed the Master, doomed our hope.}
-{750}{}{我说的是师父是我们唯一的救世主！他是唯一真正的希望！我们本可以变得更好的。不再是人类！人类除了互相残杀之外，什么也没做过。一个人注定了主人，注定了我们的希望。}
+{750}{}{我说的是主教是我们唯一的救世主！他是唯一真正的希望！我们本可以变得更好的。不再是人类！人类除了互相残杀之外，什么也没做过。一个人注定了主教，注定了我们的希望。}
 #{751}{}{But...}
-{751}{}{但是。。。}
+{751}{}{但是……}
 #{800}{}{Mutants! I know what you're about to say. But the mutants and the Master were one! Unity! With him gone, they turned to dreadful, mindless murdering to avenge their Master. That's why they destroyed the Hub and other places! Supermutants are only a sad memory now. Too much radiation meant their transformation went wrong, they are so stupid they now listen to anyone wearing the robe of the Children. That's not how it was supposed to be.}
-{800}{}{变种人！我知道你要说什么。但是变种人和主人是一体的！团结！他走后，他们转向可怕的，无意识的谋杀，以报复他们的主人。这就是为什么他们摧毁了中心和其他地方！超级变种人现在只是一个悲伤的记忆。太多的辐射意味着他们的转变出了问题，他们是如此愚蠢，他们现在听任何人穿长袍的孩子。事情本来不是这样的。}
+{800}{}{变种人！我知道你要说什么。但是变种人和主教是一体的！团结！他走后，他们转向可怕的，无意识的谋杀，以报复他们的主教。这就是为什么他们摧毁了中心和其他地方！超级变种人现在只是一个悲伤的记忆。太多的辐射意味着他们的转变出了问题，他们是如此愚蠢，他们现在听任何人穿长袍的孩子。事情本来不是这样的。}
 #{801}{}{OK, you bled your heart out with your tongue, it's time you bled for real.}
 {801}{}{好吧，你的舌头把你的心都流出来了，是时候你真的流出来了。}
 #{802}{}{Maybe you're right. But what should I do?}
@@ -89,7 +89,7 @@
 #{1002}{}{I'll risk it!}
 {1002}{}{我要冒这个险！}
 #{1050}{}{Remember, nothing's what it seems to be at first glance. Now I am ready to walk through the Holy Flame! I follow Unity, we will soon meet, Master!}
-{1050}{}{记住，乍一看什么都不像。现在我准备好穿过圣火了！我跟随团结，我们很快就会相遇，师父！}
+{1050}{}{记住，乍一看什么都不像。现在我准备好穿过圣火了！我跟随团结，我们很快就会相遇，主教！}
 #{1051}{}{Bye.}
 {1051}{}{再见。}
 #{1100}{}{And why haven't you done it yet? Why haven't you killed another stranger for a handful of cursed caps like I'm sure you've done so many times before?}

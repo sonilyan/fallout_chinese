@@ -7,17 +7,17 @@
 #{250}{}{You see Salem, a short, fat salesman.}
 {250}{}{你看塞勒姆，一个又矮又胖的推销员。}
 #{500}{}{Welcome! You must be new here! And you've come to the right place! Everybody will end up at Salem's one way or the other! I've got everything!}
-{500}{}{欢迎光临！你一定是新来的！你来对地方了！每个人都会以这样或那样的方式在塞勒姆家结束！我什么都有！}
+{500}{}{欢迎光临！你一定是新来的！你来对地方了！每个人都会以这样或那样的方式来到塞勒姆大家庭！我什么都有！}
 #{501}{}{What does it mean, everything?}
 {501}{}{什么意思，一切？}
 #{502}{}{Ugh, I think I got the wrong door.}
 {502}{}{呃，我想我走错门了。}
 #{503}{}{Bhe?}
-{503}{}{Bhe公司？}
+{503}{}{额？}
 #{550}{}{Absolutely everything you might need, my friend! Even things you don't yet know you need! I've got supplies, wasteland equipment, things for entertainment, and some weapons, too. Nothing too complicated, yet simple to kill with. I'm sure you don't have time to spend setting up some complicated rifle when a raider jumps on you, he-he.}
 {550}{}{你可能需要的一切，我的朋友！即使是你还不知道你需要的东西！我有补给，荒地设备，娱乐用品，还有一些武器。没有什么太复杂，但简单的杀戮。他说：“我敢肯定，当一个袭击者向你扑过来时，你没有时间去安装一把复杂的步枪。”。}
 #{551}{}{Surely, so...}
-{551}{}{当然，所以。。。}
+{551}{}{当然，所以……}
 #{600}{}{And hear this! Here on these shelves behind me are the special goods! Things you won't even see in other places! Each thing a unique, one-of-a-kind piece!}
 {600}{}{听我说！在我身后的这些架子上有特殊的商品！你在其他地方都看不到的东西！每件事都是独一无二的！}
 #{601}{}{Fine, fine, show me what you've got.}
@@ -29,7 +29,7 @@
 #{650}{}{I can see my huge range of goods paralyzed you! No wonder! And you haven't seen my amazing prices yet! You can start purchasing as soon as you recover! Ain't it great?! It is great!}
 {650}{}{我可以看到我的大范围的货物瘫痪你！难怪！你还没看到我惊人的价格呢！你一康复就可以开始购买了！是不是很棒？！太好了！}
 #{651}{}{Hoo... Hee?}
-{651}{}{呼。。。嘿？}
+{651}{}{呼……嘿？}
 #{700}{}{And I haven't told you that right here behind me I keep my special goods! You won't see things like these anywhere else! Each thing a unique, one-of-a-kind piece! So? What'll it be?}
 {700}{}{我还没告诉你，就在我身后，我保存着我的特殊物品！你在别的地方看不到这样的东西！每件事都是独一无二的！所以呢？会是什么？}
 #{701}{}{Want shop!!}
@@ -39,7 +39,7 @@
 #{703}{}{Yell too much! Booo!}
 {703}{}{喊太多了！嘘！}
 #{750}{}{Welcome! You must be new here! And you've come to the right place! Everybody will end up at Salem's one way or the other! I've got everything!}
-{750}{}{欢迎光临！你一定是新来的！你来对地方了！每个人都会以这样或那样的方式在塞勒姆家结束！我什么都有！}
+{750}{}{欢迎光临！你一定是新来的！你来对地方了！每个人都会以这样或那样的方式来到塞勒姆大家庭！我什么都有！}
 #{751}{}{What does it mean, everything?}
 {751}{}{什么意思，一切？}
 #{752}{}{Ugh, I think I got the wrong door.}
@@ -49,7 +49,7 @@
 #{800}{}{Absolutely everything you might need, my dear! Even things you don't yet know you need! I've got supplies, wasteland equipment, things for entertainment, and some weapons, too. Nothing too complicated, yet simple to kill with. I'm sure you don't have time to spend setting up some complicated rifle when a raider jumps on you, he-he.}
 {800}{}{你可能需要的一切，亲爱的！即使是你还不知道你需要的东西！我有补给，荒地设备，娱乐用品，还有一些武器。没有什么太复杂，但简单的杀戮。他说：“我敢肯定，当一个袭击者向你扑过来时，你没有时间去安装一把复杂的步枪。”。}
 #{801}{}{Surely, so...}
-{801}{}{当然，所以。。。}
+{801}{}{当然，所以……}
 #{850}{}{Welcome back. I'll bet you won't resist this time and let me tell you about the amazing range of goods I'm offering!}
 {850}{}{欢迎回来。我敢打赌这次你不会反抗的，让我告诉你我提供的各种各样的商品！}
 #{851}{}{So, what do you offer?}
@@ -107,7 +107,7 @@
 #{1060}{}{An inflatable doll?}
 {1060}{}{充气娃娃？}
 #{1061}{}{That talisman looks exactly like... Can I have a closer look at it?}
-{1061}{}{那个护身符看起来很像。。。我能仔细看看吗？}
+{1061}{}{那个护身符看起来很像……我能仔细看看吗？}
 #{1062}{}{These are all useless junk.}
 {1062}{}{这些都是无用的垃圾。}
 #{1100}{}{[Salem hands you a framed picture of a man whose face has faded away long ago. There's some text beneath the picture saying "El". The rest is gone.] That's the great El! He must have been a holy man of some kind. I bet the picture brings luck to its owner. Great thing for a 50, huh? Sure it is!}
@@ -151,7 +151,7 @@
 #{1254}{}{Not interested.}
 {1254}{}{不感兴趣。}
 #{1300}{}{[Salem shows you the inflatable doll with a wide smile.] Traveler's best friend. She doesn't speak and is always willing. And this one doesn't even leak! True, she's got a few unplanned holes but they've all been properly sealed, ha ha. 300 caps, just 'cause it's you!}
-{1300}{}{【塞勒姆微笑着向你展示充气娃娃。】旅行者最好的朋友。她不说话，总是心甘情愿。而这个甚至不漏！是的，她有几个计划外的洞，但都封好了，哈哈。300个瓶盖，就因为是你！}
+{1300}{}{[塞勒姆微笑着向你展示充气娃娃。.]旅行者最好的朋友。她不说话，总是心甘情愿。而这个甚至不漏！是的，她有几个计划外的洞，但都封好了，哈哈。300个瓶盖，就因为是你，伙计！}
 #{1301}{}{OK, I'll take it.}
 {1301}{}{好的，我买了。}
 #{1302}{}{I don't have enough cash, I'll be back.}
@@ -253,7 +253,7 @@
 #{1706}{}{]}
 {1706}{}{]}
 #{1707}{}{Pikchoor!}
-{1707}{}{皮克丘尔！}
+{1707}{}{皮克丘！}
 #{1708}{}{Pretty dolly!}
 {1708}{}{漂亮的多莉！}
 #{1709}{}{Paper!}
@@ -305,7 +305,7 @@
 #{1904}{}{Ugly, eeew!}
 {1904}{}{丑陋，恶心！}
 #{1950}{}{[Salem shows you the inflatable doll with a wide smile.] Yeah, you can have lotsa fun with this thing or you can use it as an inflatable boat. All you have to do is find a big enough body of water... Somewhere out in the desert, ha ha. Just because it's you, I'll give it to you for a lousy 500 caps!}
-{1950}{}{【塞勒姆带着灿烂的笑容向你展示充气娃娃。】是的，你可以玩得很开心，也可以把它当作充气船。你要做的就是找到一个足够大的水体。。。在沙漠的某个地方，哈哈。就因为是你，我就给你500英镑！}
+{1950}{}{【塞勒姆带着灿烂的笑容向你展示充气娃娃。】是的，你可以玩得很开心，也可以把它当作充气船。你要做的就是找到一个足够大的水体……在沙漠的某个地方，哈哈。就因为是你，我就给你500英镑！}
 #{1951}{}{Mee want!}
 {1951}{}{我想要！}
 #{1952}{}{Boo.}
@@ -315,7 +315,7 @@
 #{1954}{}{Ugly, eeew!}
 {1954}{}{丑陋，恶心！}
 #{2000}{}{Well, miss... A fantastic new item! An inflatable boat ideally formed to copy the shape of human body! All you have to do is find a body of water big enough... Somewhere out in the desert, ha ha. Just because it's you, I'll give it to you for a lousy 500 caps!}
-{2000}{}{嗯，小姐。。。一个奇妙的新项目！一个理想的充气船形成复制人体的形状！你要做的就是找到一个足够大的水体。。。在沙漠的某个地方，哈哈。就因为是你，我就给你500英镑！}
+{2000}{}{嗯，小姐……一个奇妙的新项目！一个理想的充气船形成复制人体的形状！你要做的就是找到一个足够大的水体……在沙漠的某个地方，哈哈。就因为是你，我就给你500英镑！}
 #{2001}{}{Mee want!}
 {2001}{}{我想要！}
 #{2002}{}{Boo.}
@@ -325,11 +325,11 @@
 #{2004}{}{Ugly, eeew!}
 {2004}{}{丑陋，恶心！}
 #{2050}{}{[Salem hands you a nice shiny talisman. You like it, but... Of course! You already have one just like that!] A beautiful magic talisman! And how it reflects the light! Costs only 30 caps!}
-{2050}{}{[塞勒姆递给你一个漂亮闪亮的护身符。你喜欢，但是。。。当然！你已经有这样一个了！]一个美丽的魔法护身符！以及它如何反射光线！只需要30个瓶盖！}
+{2050}{}{[塞勒姆递给你一个漂亮闪亮的护身符。你喜欢，但是……当然！你已经有这样一个了！]一个美丽的魔法护身符！以及它如何反射光线！只需要30个瓶盖！}
 #{2051}{}{[Salem hands you a nice shiny talisman. You like it, but... Of course! You already had one just like that!] A beautiful magic talisman! And how it reflects the light! Costs only 30 caps!}
-{2051}{}{[塞勒姆递给你一个漂亮闪亮的护身符。你喜欢，但是。。。当然！你已经有一个这样的了！]一个美丽的魔法护身符！以及它如何反射光线！只需要30个瓶盖！}
+{2051}{}{[塞勒姆递给你一个漂亮闪亮的护身符。你喜欢，但是……当然！你已经有一个这样的了！]一个美丽的魔法护身符！以及它如何反射光线！只需要30个瓶盖！}
 #{2052}{}{[Salem hands you a nice shiny talisman. You like it, but... Of course! You already had one just like that!] A beautiful magic talisman! And how it reflects the light! Costs only 30 caps!}
-{2052}{}{[塞勒姆递给你一个漂亮闪亮的护身符。你喜欢，但是。。。当然！你已经有一个这样的了！]一个美丽的魔法护身符！以及它如何反射光线！只需要30个瓶盖！}
+{2052}{}{[塞勒姆递给你一个漂亮闪亮的护身符。你喜欢，但是……当然！你已经有一个这样的了！]一个美丽的魔法护身符！以及它如何反射光线！只需要30个瓶盖！}
 #{2053}{}{Mee want!}
 {2053}{}{我想要！}
 #{2054}{}{Boo.}
@@ -355,7 +355,7 @@
 #{2150}{}{I got it, I got it! My goods're so great and prices so low you can't wait to shop at my store! Unfortunately, you'll have to wait a little. Please leave and come back during the opening hours.}
 {2150}{}{我明白了，我明白了！我的商品很好，价格也很低，你等不及要到我的店里买了！不幸的是，你得等一会儿。请在营业时间离开并回来。}
 #{2151}{}{Eehm... Yeah, just as you say. Me and my patience. I'll come back later.}
-{2151}{}{嗯。。。是的，就像你说的。我和我的耐心。我一会儿回来。}
+{2151}{}{嗯……是的，就像你说的。我和我的耐心。我一会儿回来。}
 #{2152}{}{I'm not going anywhere. I'll choose from your sortiment right away. And I certainly don't intend to pay.}
 {2152}{}{我哪儿也不去。我马上就从你的悲伤中选择。我当然不打算付钱。}
 #{2153}{}{Huh? Oh. Goodie.}

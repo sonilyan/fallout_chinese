@@ -13,7 +13,7 @@
 #{302}{}{Don't provoke the police.}
 {302}{}{别惹警察。}
 #{303}{}{It's not bad livin' in Sedit... at least I think so.}
-{303}{}{住在塞迪特还不错。。。至少我这么认为。}
+{303}{}{住在塞迪特还不错……至少我这么认为。}
 #{304}{}{It's always busy 'round here.}
 {304}{}{这里总是很忙。}
 #{305}{}{I don't wanna hear any more travel stories.}
@@ -31,7 +31,7 @@
 #{311}{}{Tyler's worse than Carpenter.}
 {311}{}{泰勒比木匠差。}
 #{312}{}{So the ol' Carpenter kicked the bucket, eh?}
-{312}{}{所以老木匠踢了桶，嗯？}
+{312}{}{所以老木匠死了，嗯？}
 #{313}{}{I heard someone shot every damn soul in the casino. Know anythin' bout it?}
 {313}{}{我听到有人在赌场里枪杀了所有该死的人。你知道吗？}
 #{314}{}{Know anything 'bout what's goin' on in Lost Town?}
@@ -73,7 +73,7 @@
 #{340}{}{Whoah! I almost shat in my pants.}
 {340}{}{哇哦！我差点把裤子弄破了。}
 #{341}{}{What the...?}
-{341}{}{什么。。。？}
+{341}{}{什么……？}
 #{342}{}{'scuse me. Don't come near me in that thing.}
 {342}{}{“拜托。别用那东西靠近我。}
 #{343}{}{That armor looks mighty dangerous.}
@@ -91,13 +91,13 @@
 #{352}{}{That beast of yours is givin' me a real hungry look.}
 {352}{}{你那畜生真是饿坏了。}
 #{353}{}{Ew... It drools.}
-{353}{}{电子战。。。它流口水。}
+{353}{}{额……它说着胡话。}
 #{354}{}{Is that some kind of mutant?!}
-{354}{}{那是某种变种吗？！}
+{354}{}{那是某种变种人吗？！}
 #{355}{}{Someone oughta kill that thing. And you as well.}
 {355}{}{应该有人杀了那东西。你也是。}
 #{356}{}{What does it feed on? Actually, I don't wanna know.}
-{356}{}{它以什么为食？实际上，我不想知道。}
+{356}{}{它以什么为食？你觉得我想知道吗。}
 #{357}{}{Shouldn't you put a strap or a fuckin' harness on that thing?}
 {357}{}{你不该在那东西上系条带子或他妈的安全带吗？}
 #{358}{}{You didn't have any trouble with the cops 'cause of that thing, didja?}
@@ -109,15 +109,15 @@
 #{362}{}{Finish him!}
 {362}{}{干掉他！}
 #{363}{}{Yeah!}
-{363}{}{是 啊！}
+{363}{}{耶！}
 #{364}{}{Sic!}
-{364}{}{原文如此！}
+{364}{}{攻击！}
 #{365}{}{Bite!}
 {365}{}{咬！}
 #{366}{}{Die already!}
-{366}{}{已经死了！}
+{366}{}{死亡已夺走生命！}
 #{367}{}{I wanna see blood!}
-{367}{}{我想看看血！}
+{367}{}{我想看看血液飞溅！}
 #{368}{}{You'll end up fodder!}
 {368}{}{你会变成饲料的！}
 #{369}{}{Aiieee!}

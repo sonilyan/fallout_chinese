@@ -51,22 +51,22 @@
 #{187}{}{The odds don't seem quite right.}
 {187}{}{可能性似乎不大。}
 #{200}{}{::Cheers::}
-{200}{}{●干杯：}
+{200}{}{::干杯::}
 #{201}{}{::Claps::}
-{201}{}{●鼓掌声：}
+{201}{}{::鼓掌声::}
 #{202}{}{::Whistles::}
-{202}{}{●口哨声：}
+{202}{}{::口哨声::}
 #{203}{}{}
 {203}{}{}
 #{204}{}{Thought you'd forgotten about us while you were off saving the world.}
 {204}{}{以为你在拯救世界的时候忘记了我们。}
 #{215}{}{Hello, }
 {215}{}{你好，}
-#{216}{}{If you're looking for a little company later�}
+#{216}{}{If you're looking for a little company later}
 {216}{}{如果你以后想找个小公司的话}
-#{217}{}{Hey, you�[winks]�you looking to gamble?}
+#{217}{}{Hey, you[winks]you looking to gamble?}
 {217}{}{嘿，你想赌博吗？}
-#{218}{}{He looks so�[shivers]�dangerous.}
+#{218}{}{He looks so[shivers]dangerous.}
 {218}{}{他看起来很危险。}
 #{219}{}{Welcome to the casino, }
 {219}{}{欢迎来到赌场，}
@@ -76,37 +76,37 @@
 {221}{}{你好，女士。如果我能帮你什么，请告诉我。}
 #{222}{}{Looking to gamble, ma'am?}
 {222}{}{想赌博吗，女士？}
-#{223}{}{She looks so�[shivers]�dangerous.}
+#{223}{}{She looks so[shivers]dangerous.}
 {223}{}{她看起来很危险。}
 #{235}{}{Looks like this one's already gambling with his life.}
 {235}{}{看来这个人已经在拿自己的生命冒险了。}
-#{236}{}{Uh, I think he just walked into the wrong casino�}
+#{236}{}{Uh, I think he just walked into the wrong casino}
 {236}{}{呃，我想他进错赌场了}
-#{237}{}{If he doesn't leave before the boys see him�}
+#{237}{}{If he doesn't leave before the boys see him}
 {237}{}{如果他在孩子们看到他之前不离开的话}
-#{238}{}{Uh-oh. Trouble�}
+#{238}{}{Uh-oh. Trouble}
 {238}{}{哦哦。麻烦}
 #{239}{}{Looks like this one's already gambling with her life.}
 {239}{}{看来这个人已经在用生命赌博了。}
-#{240}{}{Uh, I think she just walked into the wrong casino�}
+#{240}{}{Uh, I think she just walked into the wrong casino}
 {240}{}{呃，我想她进错赌场了}
-#{241}{}{If she doesn't leave before the boys see her�}
+#{241}{}{If she doesn't leave before the boys see her}
 {241}{}{如果她在孩子们看到她之前不离开的话}
 #{250}{}{Hey, muscles. You looking to spend some chips?}
-{250}{}{嘿，肌肉。你想花点钱吗？}
-#{251}{}{Hey, champ�[winks]�you looking to gamble?}
+{250}{}{嘿，肌肉小子。你想花点钱吗？}
+#{251}{}{Hey, champ[winks]you looking to gamble?}
 {251}{}{嘿，冠军你想赌博吗？}
-#{252}{}{Hey, champ�[smiles]�wanna take a chance?}
+#{252}{}{Hey, champ[smiles]wanna take a chance?}
 {252}{}{嘿，冠军，想试试吗？}
-#{253}{}{If you're looking for a little company later�}
+#{253}{}{If you're looking for a little company later}
 {253}{}{如果你以后想找个小公司的话}
-#{254}{}{I wonder if I should talk to him�}
+#{254}{}{I wonder if I should talk to him}
 {254}{}{我不知道我是否应该和他谈谈}
 #{255}{}{Hey, }
 {255}{}{嘿，}
 #{256}{}{If you're looking to win some chips, you came to the right place.}
 {256}{}{如果你想赢些筹码，你来对地方了。}
-#{257}{}{Lady Luck's in the house tonight�nothing but winners!}
+#{257}{}{Lady Luck's in the house tonightnothing but winners!}
 {257}{}{幸运女神今晚在家里，只有赢家！}
 #{258}{}{Step right up, }
 {258}{}{站起来，}
@@ -128,7 +128,7 @@
 {272}{}{嘿，}
 #{273}{}{If you're looking to win some chips }
 {273}{}{如果你想赢些筹码}
-#{274}{}{Lady Luck's in the house tonight�nothing but winners!}
+#{274}{}{Lady Luck's in the house tonightnothing but winners!}
 {274}{}{幸运女神今晚在家里，只有赢家！}
 #{275}{}{Step right up, }
 {275}{}{站起来，}
@@ -142,13 +142,13 @@
 {279}{}{你今晚跳舞吗？}
 #{290}{}{Hey there, sweetie. You looking to spend some chips?}
 {290}{}{嘿，亲爱的。你想花点钱吗？}
-#{291}{}{Hey, sweetie�[winks]�you looking to gamble?}
+#{291}{}{Hey, sweetie[winks]you looking to gamble?}
 {291}{}{嘿，亲爱的你想赌博吗？}
-#{292}{}{Hey, sweetie�[smiles]�wanna take a chance?}
+#{292}{}{Hey, sweetie[smiles]wanna take a chance?}
 {292}{}{嘿，亲爱的，想试试吗？}
 #{293}{}{If you're looking to win some chips, you came to the right place.}
 {293}{}{如果你想赢些筹码，你来对地方了。}
-#{294}{}{Lady Luck's in the house tonight�nothing but winners!}
+#{294}{}{Lady Luck's in the house tonightnothing but winners!}
 {294}{}{幸运女神今晚在家里，只有赢家！}
 #{295}{}{Step right up, win some chips.}
 {295}{}{站起来，赢些筹码。}
@@ -156,7 +156,7 @@
 {296}{}{需要再来一杯吗，亲爱的？}
 #{297}{}{Welcome to the casino, honey.}
 {297}{}{欢迎来到赌场，亲爱的。}
-#{298}{}{This table's free if you're looking to gamble�}
+#{298}{}{This table's free if you're looking to gamble}
 {298}{}{如果你想赌博，这张桌子是免费的}
 #{299}{}{Hey there, honey. You looking to spend some chips?}
 {299}{}{嘿，亲爱的。你想花点钱吗？}
@@ -164,7 +164,7 @@
 {300}{}{想赌博吗，亲爱的？}
 #{301}{}{Welcome to the casino, honey.}
 {301}{}{欢迎来到赌场，亲爱的。}
-#{320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your bets�minimum bet $}
+#{320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your betsminimum bet $}
 {320}{}{[庄家紧张地看着你，然后咬着嘴唇。]嗯，下注-最低下注$}
 #{321}{}{Place your bet, sir. Minimum bet $}
 {321}{}{下注吧，先生。最小赌注$}
@@ -175,8 +175,8 @@
 #{324}{}{Me bet-ter than you}
 {324}{}{我打赌我比你厉害}
 #{325}{}{Me play craps in pants}
-{325}{}{我在裤子里拉屎}
-#{326}{}{What this game? Can you bet gecko skin?  Me got geck�ooooh�pretty lights! [Wander off.]}
+{325}{}{我穿着裤子玩骰子}
+#{326}{}{What this game? Can you bet gecko skin?  Me got geckoooohpretty lights! [Wander off.]}
 {326}{}{这是什么游戏？你能打赌壁虎皮吗？我得到了格克-哦-漂亮的灯！[离开]}
 #{327}{}{[You have $}
 {327}{}{[你有$}
@@ -188,7 +188,7 @@
 {330}{}{今天不用赌了，谢谢。}
 #{331}{}{Uhhh, sorry, I don't know how to play these crazy games.}
 {331}{}{呃，对不起，我不知道怎么玩这些疯狂的游戏。}
-#{340}{}{Um�I hear they're giving away brains out back. Maybe you should go check it out.}
+#{340}{}{UmI hear they're giving away brains out back. Maybe you should go check it out.}
 {340}{}{嗯，我听说他们要把脑浆送出去。也许你应该去看看。}
 #{341}{}{Uh, very well, sir. Come back soon.}
 {341}{}{呃，很好，先生。快回来。}
@@ -197,15 +197,15 @@
 #{343}{}{Byeee-byeeee}
 {343}{}{再见再见}
 #{344}{}{Gooodie. }
-{344}{}{古迪。}
-#{345}{}{Uh�brains�what them?! Me go see!}
+{344}{}{太___棒__了。}
+#{345}{}{Uhbrainswhat them?! Me go see!}
 {345}{}{呃，脑子是什么？！我去看看！}
 #{350}{}{Very well, sir. Come back soon.}
 {350}{}{很好，先生。快回来。}
 #{351}{}{Very well, ma'am. Come back soon.}
 {351}{}{很好，夫人。快回来。}
 #{352}{}{[Dealer raises an eyebrow.] $}
-{352}{}{【经销商扬起眉毛】$}
+{352}{}{[经销商扬起眉毛]$}
 #{354}{}{I will, thanks.}
 {354}{}{我会的，谢谢。}
 #{355}{}{Maybe so.}
@@ -250,7 +250,7 @@
 {454}{}{很抱歉听到这个消息。谢谢。}
 #{2203}{}{! Welcome to the casino, hero!}
 {2203}{}{! 欢迎来到赌场，英雄！}
-#{2215}{}{. Can I help you with�*anything?*}
+#{2215}{}{. Can I help you with*anything?*}
 {2215}{}{. 有什么需要我帮忙的吗？*}
 #{2219}{}{.}
 {2219}{}{.}
@@ -266,7 +266,7 @@
 {2262}{}{?}
 #{2263}{}{.}
 {2263}{}{.}
-#{2321}{}{. Place your bets�}
+#{2321}{}{. Place your bets}
 {2321}{}{. 下注}
 #{2327}{}{.] }
 {2327}{}{.]}

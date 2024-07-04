@@ -109,7 +109,7 @@
 #{752}{}{And are you available too, handsome?}
 {752}{}{你也有空吗，帅哥？}
 #{753}{}{And are you available too, hun?}
-{753}{}{你也有空吗，洪？}
+{753}{}{你也有空吗,我想不太会。}
 #{754}{}{I'd rather see what drinks you have on offer.}
 {754}{}{我倒想看看你们有什么饮料。}
 #{755}{}{In that case, I am interested.}
@@ -135,7 +135,7 @@
 #{852}{}{And are you available too, handsome?}
 {852}{}{你也有空吗，帅哥？}
 #{853}{}{And are you available too, hun?}
-{853}{}{你也有空吗，洪？}
+{853}{}{你也有空吗,我想不太会。}
 #{854}{}{Alright, I'll have something.}
 {854}{}{好吧，我来点东西。}
 #{855}{}{Where can I pay for one of the girls, then?}

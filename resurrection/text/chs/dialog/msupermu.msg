@@ -1,9 +1,9 @@
 #{100}{}{You see a supermutant.}
-{100}{}{你看到一个超级变种。}
+{100}{}{你看到一个超级变种人。}
 #{200}{}{You see a supermutant, he is huge and holding a big weapon as if it had no weight.}
-{200}{}{你看到一个超级毛驴，他是巨大的，拿着一个大武器，好像它没有重量。}
+{200}{}{你看到一个超级变种人，他是巨大的，拿着一个大武器，在它的手里似乎没有重量。}
 #{300}{}{::He is ignoring you.::}
-{300}{}{●他不理你。：：}
+{300}{}{::他不理你。：：}
 #{301}{}{Don't piss me off.}
 {301}{}{别惹我生气。}
 #{302}{}{Lil' human. Kill him?}

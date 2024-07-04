@@ -15,13 +15,13 @@
 #{305}{}{Come on, come one, don't slow down. I've got to win it all back.}
 {305}{}{快点，快点，别慢下来。我一定要赢回来。}
 #{306}{}{Come on, seven, please!}
-{306}{}{快点，七，拜托！}
+{306}{}{快来吧！快来吧！七，拜托！}
 #{307}{}{I continue, I got plenty of caps.}
 {307}{}{我继续，我有很多瓶盖。}
 #{308}{}{Fuck off.}
 {308}{}{滚开。}
 #{309}{}{Get lost.}
-{309}{}{滚开。}
+{309}{}{起开。}
 #{310}{}{What're you starin' at?}
 {310}{}{你在看什么？}
 #{311}{}{Leave me alone.}
@@ -41,4 +41,4 @@
 #{400}{}{Go ahead ?? make my day.}
 {400}{}{去吧，让我开心。}
 #{401}{}{You've got to ask yourself one question: "Do I feel lucky?" Well, do ya, punk?}
-{401}{}{你必须问自己一个问题：“我觉得幸运吗？”是吗，朋克？}
+{401}{}{你必须问自己一个问题：“我觉得幸运吗？”是吗，小混混？}

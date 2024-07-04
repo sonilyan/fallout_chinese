@@ -2663,10 +2663,10 @@
 {174900}{}{眼睛检查表}
 {175000}{}{荒野}
 {175100}{}{永恒守护者}
-{175101}{}{This is the first Stargate you've ever seen in your life. Still, you can't shake the feeling that something is out of place with the way it looks. It is probably damaged.}
-{175200}{}{Out of Order Sign}
-{175300}{}{Collapsed Floor}
-{175400}{}{Toilet}
+{175101}{}{这是你一生中见到的一个奇怪的震撼的星际之门。你无法摆脱不动感觉，有些东西不适配星际之门的样子。它可能损坏了。}
+{175200}{}{故障标志}
+{175300}{}{崩塌地板}
+{175400}{}{厕所}
 {175500}{}{Cross}
 {175600}{}{Wall}
 {175700}{}{Wall}

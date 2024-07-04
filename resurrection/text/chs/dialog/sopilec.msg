@@ -11,7 +11,7 @@
 #{303}{}{Go fuck yourshelves, all o'ya!}
 {303}{}{去你的架子，好吗！}
 #{304}{}{Meksheekan faggots, haahaa!}
-{304}{}{Meksheekan同性恋，哈哈！}
+{304}{}{Meksheekans基佬，哈哈！}
 #{305}{}{Thish beer tashtesh like pissh!}
 {305}{}{这啤酒太辣了！}
 #{306}{}{Come on, gimme more!}

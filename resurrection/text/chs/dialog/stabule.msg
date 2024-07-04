@@ -87,7 +87,7 @@
 #{1002}{}{[Leave.]}
 {1002}{}{[离开]}
 #{1050}{}{Falcon's Flight - food, drinks, ro-- [The rest of the paper is torn and right under it on the wood is in clumsy writing "Stinkin ghoolz!"]}
-{1050}{}{猎鹰的飞行-食物，饮料，ro-[剩下的纸被撕破了，就在它下面的木头上，笨拙地写着“臭烘烘的戈尔兹！”]}
+{1050}{}{猎鹰的飞行-食物，饮料，[剩下的纸被撕破了，就在它下面的木头上，笨拙地写着“臭烘烘的戈尔兹！”]}
 #{1051}{}{[Read something else.]}
 {1051}{}{[阅读其他内容。]}
 #{1052}{}{[Leave.]}

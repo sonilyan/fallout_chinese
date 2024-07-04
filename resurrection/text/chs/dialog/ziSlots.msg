@@ -13,7 +13,7 @@
 #{141}{}{ cap.}
 {141}{}{ 瓶盖。}
 #{150}{}{An old pre-war slot machine was modified to accept and occasionally also give off bottle caps. }
-{150}{}{一台经过改装的战前老式老虎机，可以接受瓶盖，偶尔也会吐出瓶盖。}
+{150}{}{一台经过改装的战前老式老虎机，可以投入瓶盖，偶尔也会吐出瓶盖。}
 #{151}{}{Its polished housing and gilded lever seductively gleam below the flashing lights. }
 {151}{}{它抛光的外壳和镀金的杠杆在闪烁的灯光下闪闪发光。}
 #{165}{}{It's intended for people who are not afraid to gamble. }
@@ -21,11 +21,11 @@
 #{180}{}{The potential payout looks very interesting. }
 {180}{}{潜在的回报看起来很有趣。}
 #{200}{}{[You're holding caps in your shaking hand. The slot machine keeps whispering to you.] *Come on, baby... That's right... Let's do it... Don't tease me...*}
-{200}{}{[你用颤抖的手拿着瓶盖。吃角子老虎机一直在对你耳语。]*来吧，宝贝。。。这是正确的。。。我们开始吧。。。别取笑我*}
+{200}{}{[你用颤抖的手拿着瓶盖。吃角子老虎机一直在对你耳语。]*来吧，宝贝……这是正确的……我们开始吧……别取笑我*}
 #{201}{}{You see a slot machine. Its polished housing and gilded lever seductively gleam below the flashing lights. The slot for bottle caps draws you to it and you can feel your cheeks blush with anticipation.}
 {201}{}{你看到老虎机了。它抛光的外壳和镀金的杠杆在闪烁的灯光下闪闪发光。瓶盖的缝隙吸引着你，你可以感觉到你的脸颊因期待而脸红。}
 #{202}{}{[You're holding caps in your shaking hand. The slot machine keeps whispering to you.] *Come on, honey... That's right... Grab that lever... Grab it harder... Let's do it...*}
-{202}{}{[你用颤抖的手拿着瓶盖。吃角子老虎机一直在对你窃窃私语。。。这是正确的。。。抓住那个杠杆。。。抓紧点。。。我们开始吧*}
+{202}{}{[你用颤抖的手拿着瓶盖。吃角子老虎机一直在对你窃窃私语……这是正确的……抓住那个杠杆……抓紧点……我们开始吧*}
 #{250}{}{Insert }
 {250}{}{插入}
 #{251}{}{ caps.}
@@ -37,7 +37,7 @@
 #{254}{}{Tough luck today.}
 {254}{}{今天真倒霉。}
 #{255}{}{You've hit the bottom. Tough luck today.}
-{255}{}{你已经触底了。今天真倒霉。}
+{255}{}{你已经跌到谷底了。。今天真倒霉。}
 #{256}{}{Bad night.}
 {256}{}{糟糕的夜晚。}
 #{257}{}{You've hit the bottom. Bad night.}
@@ -75,7 +75,7 @@
 #{1003}{}{plum}
 {1003}{}{梅子}
 #{1004}{}{bell}
-{1004}{}{铃}
+{1004}{}{铃铛}
 #{1005}{}{bar}
 {1005}{}{横条}
 #{1006}{}{melon}
@@ -103,7 +103,7 @@
 #{2002}{}{*Welcome. I'll be good to you.*}
 {2002}{}{*欢迎光临。我会对你好的*}
 #{2003}{}{*Beep... Beep... Beeeeeep...*}
-{2003}{}{*嘟嘟。。。嘟嘟。。。睡吧*}
+{2003}{}{*嘟嘟……嘟嘟……睡吧*}
 #{2004}{}{*Bing*}
 {2004}{}{*砰沟*}
 #{2005}{}{*Bang*}
@@ -123,7 +123,7 @@
 #{2012}{}{*You look tough enough. Why don't you come and play?*}
 {2012}{}{*你看起来很坚强。你为什么不来玩呢？*}
 #{2175}{}{[While staring at the slot machine, you come to realize you have nothing to gamble with and you curse your poverty. Maybe some other time...]}
-{2175}{}{[当你盯着老虎机看的时候，你意识到你没有什么可赌的，你诅咒你的贫穷。也许改天吧……]}
+{2175}{}{[当你盯着老虎机看的时候，你意识到你没有什么可赌的，你诅咒自己的贫穷。也许改天吧……]}
 #{2176}{}{[Leave.]}
 {2176}{}{[离开]}
 #{2185}{}{[A light with an inscription "OUT OF ORDER" is flashing on the machine.]}
@@ -133,7 +133,7 @@
 #{2100}{}{You see a strange metal gilded box with three eyes and an arm. It's one of the most beautiful things that have ever appeared in your life.}
 {2100}{}{你看到一个奇怪的金属镀金盒子，有三个窗口和一支杠杆。它是你生命中最美丽的事物之一。}
 #{2101}{}{Sheeeeesh.}
-{2101}{}{谢耶什。}
+{2101}{}{谢-斯-斯。}
 #{2102}{}{[Leave.]}
 {2102}{}{[离开]}
 #{2201}{}{[You can hear the machine laughing at you.]}
@@ -165,7 +165,7 @@
 #{2251}{}{*Come on, honey... Let's try one more time... Grab that lever... Grab it real tight... Let's do it...*}
 {2251}{}{*来吧，亲爱的……让我们再试一次……抓住那个杠杆……抓紧它……我们开始吧*}
 #{2252}{}{*That's it, sweetie... Keep tugging at that lever... Faster, come on, faster... Do it, baby...*}
-{2252}{}{*就这样，亲爱的。。。继续拉那个杠杆。。。快点，快点，快点。。。做吧，宝贝*}
+{2252}{}{*就这样，亲爱的……继续拉那个杠杆……快点，快点，快点……做吧，宝贝*}
 #{2253}{}{*Aaaaaaaah! That's it, sweetheart! One more time! Tug at it harder this time! Harder!*}
 {2253}{}{*啊啊啊！就这样，亲爱的！再来一次！这次再用力一点！更努力！*}
 #{3000}{}{Come on, }

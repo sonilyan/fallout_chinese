@@ -15,7 +15,7 @@
 #{300}{}{This year's harvest is great.}
 {300}{}{今年的收成很好。}
 #{301}{}{::Sigh::}
-{301}{}{●叹息：}
+{301}{}{::叹息::}
 #{302}{}{We should really do something about that cave.}
 {302}{}{我们真的应该对那个洞穴做点什么。}
 #{500}{}{Hello stranger. I'm mayor Helen. I heard what you had to go through in that cave and I'm very sorry. That cave is nothing but trouble for all of us.}
@@ -23,7 +23,7 @@
 #{501}{}{It's all right. I should have been more careful.}
 {501}{}{没事的。我应该更小心点。}
 #{502}{}{Right, like an apology is gonna help me...}
-{502}{}{对，好像道歉能帮我。。。}
+{502}{}{对，好像道歉能帮我……}
 #{503}{}{Yeah, I saw.}
 {503}{}{是的，我看到了。}
 #{504}{}{Huh?!}
@@ -35,7 +35,7 @@
 #{5501}{}{I'm glad to see you again }
 {5501}{}{很高兴再次见到你}
 #{5502}{}{. Can I help you with anything?}
-{5502}{}{. 有什么需要我帮忙的吗？}
+{5502}{}{有什么需要我帮忙的吗？}
 #{551}{}{Have you ever seen this symbol before? [Show her the talisman.]}
 {551}{}{你以前见过这个符号吗？[给她看护身符。]}
 #{552}{}{I would like to trade.}
@@ -51,7 +51,7 @@
 #{557}{}{Trade?}
 {557}{}{交易？}
 #{558}{}{Na-a!}
-{558}{}{娜娜！}
+{558}{}{哪-哪！}
 #{559}{}{One of the Sedit caravan companies would like to establish a trade route with you. They sent me as an intermediary. Would you be interested?}
 {559}{}{其中一家赛迪特商队公司希望与您建立贸易路线。他们派我做中间人。你有兴趣吗？}
 #{560}{}{I just wanted to let you know that I've cleared the cave.}
@@ -95,7 +95,7 @@
 #{753}{}{Bye-Bye.}
 {753}{}{再见。}
 #{800}{}{I'll gladly trade with you. Here's what I offer...}
-{800}{}{我很乐意和你交易。这是我提供的。。。}
+{800}{}{我很乐意和你交易。这是我的东西……}
 #{801}{}{[Trade.]}
 {801}{}{[贸易]}
 #{850}{}{Do you need anything else?}
@@ -105,9 +105,9 @@
 #{852}{}{Not really. Bye.}
 {852}{}{不是真的。再见。}
 #{853}{}{Mhm.}
-{853}{}{Mhm公司。}
+{853}{}{额。}
 #{854}{}{Na-ah. Bye.}
-{854}{}{不，啊。再见。}
+{854}{}{哪--额。没什么想说的，再见。}
 #{900}{}{What would you like to know?}
 {900}{}{你想知道什么？}
 #{901}{}{Have you ever seen this symbol before? [Show her the talisman.]}
@@ -139,7 +139,7 @@
 #{1002}{}{I'll think about it. But first I'd like to ask you about something else.}
 {1002}{}{我会考虑的。但首先我想问你一些别的事。}
 #{1050}{}{Ehm, there is something, but I'm not sure it's for you... but... alright. I need someone to watch over brahmin on the pastures. It's not hard. You just have to make sure nothing harms them. You think you can handle that?}
-{1050}{}{嗯，有些东西，但我不确定是给你的。。。但是。。。好吧。我需要有人看守牧场上的双头牛。这并不难。你只需要确保没有什么伤害他们。你觉得你能应付吗？}
+{1050}{}{嗯，有些东西，但我不确定是给你的……但是……好吧。我需要有人看守牧场上的双头牛。这并不难。你只需要确保没有什么伤害他们。你觉得你能应付吗？}
 #{1051}{}{Uhu. [Go guard the brahmin.]}
 {1051}{}{嗯。[去守护双头牛。]}
 #{1052}{}{No no.}
@@ -155,13 +155,13 @@
 #{1151}{}{Doesn't matter. Let me ask you about something else.}
 {1151}{}{没关系。我再问你一件事。}
 #{1152}{}{Pff.}
-{1152}{}{Pff公司。}
+{1152}{}{啐!}
 #{1160}{}{I won't trust you with any more work.}
 {1160}{}{我不会再相信你做更多的工作了。}
 #{1161}{}{As you wish. Let me ask you about something else.}
 {1161}{}{如你所愿。我再问你一件事。}
 #{1162}{}{Pfft!}
-{1162}{}{Pfft！}
+{1162}{}{啐!}
 #{1200}{}{You're a natural brahmin herder. Here is your reward.}
 {1200}{}{你是天生的双头牛牧人。这是你的奖赏。}
 #{1201}{}{You didn't do very well. But I guess it could have gone worse. Here is your reward.}
@@ -171,11 +171,11 @@
 #{1203}{}{Had your brahmin not been so tame and dumb, it would have gone better. But forget it. I want to ask about something else.}
 {1203}{}{如果你的双头牛不是那么温顺和沉默，它会变得更好。但是算了吧。我想问些别的事。}
 #{1204}{}{Thaaanks! Else also...}
-{1204}{}{Thaaanks！否则。。。}
+{1204}{}{谢谢！否则……}
 #{1205}{}{Thanks. I want to ask you about something else.}
 {1205}{}{谢谢。我想问你别的事。}
 #{1206}{}{Eeeh. Else also...}
-{1206}{}{嗯。否则。。。}
+{1206}{}{嗯。否则……}
 #{1250}{}{Thanks for your help with the hunt. Here's your reward.}
 {1250}{}{谢谢你帮忙打猎。这是你的奖赏。}
 #{1251}{}{It's terrible that we've lost one of our friends. There are already so very few of us. But I'm still grateful for your help. Here is your reward.}
@@ -185,7 +185,7 @@
 #{1253}{}{[Take the caps.] I want to ask you about something else.}
 {1253}{}{我想问你别的事。}
 #{1254}{}{Thaaanks! Else also...}
-{1254}{}{Thaaanks！否则。。。}
+{1254}{}{谢谢！否则……}
 #{1260}{}{[Helen thinks about it for a while.] We do have a surplus that others might need. And trade could really help us. So yes, I think we're interested. But can you really make it happen? As far as I know, Sedit is very far.}
 {1260}{}{[海伦想了一会儿]我们确实有别人可能需要的盈余。贸易确实可以帮助我们。是的，我想我们有兴趣。但你真的能做到吗？据我所知，这很遥远。}
 #{1261}{}{Even with the distance, it's still going to be beneficial. So should I let them know that you agree?}
@@ -231,7 +231,7 @@
 #{1507}{}{Never mind, nothing. Goodbye.}
 {1507}{}{没关系，没什么。再见。}
 #{1550}{}{Only for a few years. We're all originally from Kirtland. We left when the town started turning into one big battlefield. These days, things are so bad there that no one calls it anything other than Rat Hole. Probably because it's just the rats who manage to get by there. We didn't have any other choice but to leave that place. Here we found the best conditions for settlement, and gradually built our little community. We all hope that we'll do as well as before.}
-{1550}{}{只有几年。我们都是科特兰人。当小镇开始变成一个大战场时，我们离开了。这些天，那里的情况非常糟糕，除了老鼠洞，没人管它叫什么。可能是因为只有老鼠能在那里生存。我们别无选择，只好离开那个地方。在这里，我们找到了最好的定居条件，并逐步建立了我们的小社区。我们都希望我们能做得像以前一样好。}
+{1550}{}{只有几年。我们都是老鼠洞那边的人。当小镇开始变成一个大战场时，我们离开了。这些天，那里的情况非常糟糕，除了老鼠洞，没人管它叫什么。可能是因为只有老鼠能在那里生存。我们别无选择，只好离开那个地方。在这里，我们找到了最好的定居条件，并逐步建立了我们的小社区。我们都希望我们能做得像以前一样好。}
 #{1551}{}{Rat Hole, you say? What is that place?}
 {1551}{}{你说老鼠洞？那是什么地方？}
 #{1552}{}{I understand. I have another question.}
@@ -327,7 +327,7 @@
 #{2151}{}{It's all right. I should have been more careful.}
 {2151}{}{没事的。我应该更小心点。}
 #{2152}{}{Right, like an apology is gonna help me...}
-{2152}{}{对，好像道歉能帮我。。。}
+{2152}{}{对，好像道歉能帮我……}
 #{2153}{}{Yeah, I saw.}
 {2153}{}{是的，我看到了。}
 #{2154}{}{Huh?!}
@@ -341,11 +341,11 @@
 #{2203}{}{Had your brahmin not been so tame and dumb, it would have gone better. But forget it. I want to ask about something else.}
 {2203}{}{如果你的双头牛不是那么温顺和沉默，它会变得更好。但是算了吧。我想问些别的事。}
 #{2204}{}{Thaaanks! Else also...}
-{2204}{}{Thaaanks！否则。。。}
+{2204}{}{谢谢！否则……}
 #{2205}{}{Thanks. I want to ask you about something else.}
 {2205}{}{谢谢。我想问你别的事。}
 #{2206}{}{Ahaaaa! Else also...}
-{2206}{}{啊哈！否则。。。}
+{2206}{}{啊哈！否则……}
 #{2250}{}{I'm so glad to see you again. We are all very grateful for your mediation of the caravans deal. Their goods are very useful for our community.}
 {2250}{}{很高兴再次见到你。我们都非常感谢你对商队交易的调解。他们的产品对我们社区很有用。}
 #{2251}{}{Glad to help.}
@@ -359,7 +359,7 @@
 #{2303}{}{[Take the caps.] I want to ask you about something else.}
 {2303}{}{我想问你别的事。}
 #{2304}{}{Thaaanks! Else also...}
-{2304}{}{Thaaanks！否则。。。}
+{2304}{}{Thaaanks！否则……}
 #{2350}{}{You ran away. The hunters had to take care of geckos by themselves. You can't expect to get paid.}
 {2350}{}{你跑了。猎人们不得不自己照顾壁虎。你不能指望得到报酬。}
 #{2351}{}{You ran away. The hunters had to take care of geckos by themselves. You can't expect to get paid.}
@@ -367,7 +367,7 @@
 #{2352}{}{As you wish. Let me ask you about something else.}
 {2352}{}{如你所愿。我再问你一件事。}
 #{2353}{}{Eeeh. Else also...}
-{2353}{}{嗯。否则。。。}
+{2353}{}{嗯。否则……}
 #{2400}{}{That's very noble of you. I wouldn't expect such help from an outsider. While it's only a matter of time before it is again filled with vermin, I'm still very grateful.}
 {2400}{}{你真是太高尚了。我不指望外人会给我这样的帮助。虽然它再次充满害虫只是时间问题，但我仍然非常感激。}
 #{2401}{}{That's very noble of you. I wouldn't expect such help from an outsider. While it's only a matter of time before it is again filled with vermin, I'm still very grateful.}

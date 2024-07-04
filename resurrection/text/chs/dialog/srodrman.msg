@@ -23,7 +23,7 @@
 #{309}{}{You wear that to scare the little ninos?}
 {309}{}{你穿这个来吓唬小尼诺？}
 #{310}{}{Diablo argentado! ::laugh::}
-{310}{}{暗黑破坏神阿根塔多！●笑：}
+{310}{}{暗黑破坏神阿根塔多！::笑::}
 #{311}{}{Nice freakin' beast.}
 {311}{}{很好的怪兽。}
 #{312}{}{Sell that floater for the ring, Cristos will pay you good.}

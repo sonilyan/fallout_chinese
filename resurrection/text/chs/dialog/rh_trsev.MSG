@@ -5,7 +5,7 @@
 #{300}{}{Go search the house and find Leonard! We'll secure the surroundings to make sure he doesn't get away.}
 {300}{}{去搜房子找到伦纳德！我们会保护周围的安全以确保他不会逃跑。}
 #{301}{}{Go find Leonard! If we all go in, he'll escape through the back door.}
-{301}{}{去找莱纳德！如果我们都进去，他会从后门逃走的。}
+{301}{}{去找伦纳德！如果我们都进去，他会从后门逃走的。}
 #{302}{}{Searched? Then go find Julian and report to him. The boys will keep an eye on things here.}
 {302}{}{搜查过了吗？那就去找朱利安向他报告。孩子们会注意这里的东西。}
 #{303}{}{Don't look at me. Julian is in charge of this action.}
@@ -15,6 +15,6 @@
 #{305}{}{Shit, it's all fucked up now. Without Julian we're done for.}
 {305}{}{妈的，现在都搞砸了。没有朱利安我们就完了。}
 #{350}{}{Well let's go. Kick those bastards' asses!}
-{350}{}{我们走吧。踢那些混蛋的屁股！}
+{350}{}{我们走吧。踢飞那些混蛋兼白痴！}
 #{400}{}{My patience for you just ran out!}
 {400}{}{我对你的耐心已经耗尽了！}

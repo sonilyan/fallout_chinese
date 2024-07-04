@@ -37,13 +37,13 @@
 #{300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
 {300}{}{“这里躺着克里斯·阿维隆，舞池之王。”}
 #{301}{}{"Chris Jones. Nightwing."}
-{301}{}{“克里斯·琼斯。夜莺。”}
+{301}{}{“克里斯 琼斯.夜莺。”}
 #{302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
 {302}{}{“克里斯托弗·迈克尔·霍兰德，又名‘克里斯·霍兰德’，又名‘克里斯’：有两个半的理由来读这块墓碑……通常情况下，您会希望列出这些原因。”}
 #{303}{}{"Colin McComb: Another pointless life"}
-{303}{}{“科林·麦科姆：另一种毫无意义的生活”}
+{303}{}{“科林·麦科姆：一种毫无意义的生活”}
 #{304}{}{"David Hendee: the loudest amoung the dead. May he rest in peace, quietly."}
-{304}{}{大卫·亨迪：死人中最吵的。愿他安息，安静。”}
+{304}{}{”大卫·亨迪：死人中最吵的。愿他安息。”}
 #{305}{}{"Ed Hyland. He told the world to 'suck it.'"}
 {305}{}{“埃德·海兰。他告诉全世界“去死吧。”}
 #{306}{}{"Eric Demilt. The TRUE Combat Boy."}
@@ -63,7 +63,7 @@
 #{313}{}{"Jeremy Barnes. The bald headed monkey of Black Isle."}
 {313}{}{“杰里米·巴恩斯。黑岛的秃头猴子。”}
 #{314}{}{"Jesse Reynolds. Liked ginger snaps. Too much."}
-{314}{}{“杰西·雷诺兹。喜欢姜汁脆饼。太多了。”}
+{314}{}{“杰西·雷诺兹。异常喜欢姜汁脆饼。”}
 #{315}{}{"John Deiley."}
 {315}{}{“约翰·戴利。”}
 #{316}{}{"John Price."}
@@ -75,13 +75,13 @@
 #{319}{}{"Matt Norton. He coulda been someone. He coulda been a contenda, instead of a bum, which is what he was."}
 {319}{}{“马特·诺顿。他可能是个大人物。他本可以成为一个竞争者，而不是一个流浪汉，他就是这样。”}
 #{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top]}
-{320}{}{“尼克·凯斯汀。”[上面有一小桶圆铜蛞蝓]}
+{320}{}{“尼克·凯斯汀。”[上面有一小桶圆铜子弹]}
 #{321}{}{"Robert Collier. Silent. Deadly. Rob."}
-{321}{}{“罗伯特·科利尔。沉默。致命的。抢劫。”}
+{321}{}{“罗伯特·科利尔。沉默的.致命的.抢劫”}
 #{322}{}{"Robert Hertenstein 2. His doctor tried to tell him, but he insisted, 'That's a bit too much information.'"}
-{322}{}{“罗伯特·赫滕斯坦 2世。他的医生试图告诉他，但他坚持说：'这信息有点多'“}
+{322}{}{“罗伯特·赫滕斯坦 2世。他的医生试图告诉他，但他坚持说：'这坏消息太多了'“}
 #{323}{}{"Scott Campbell. Not the soup."}
-{323}{}{“斯科特·坎贝尔。不是汤。”}
+{323}{}{“斯科特·坎贝尔。不是一种汤。”}
 #{324}{}{"Here lies Scott Everts. Late for work. Late for life."}
 {324}{}{“斯科特·埃弗茨躺在这里。上班迟到了。迟到的生活。”}
 #{325}{}{"Scott Rodenhizer. Built 3D heads."}

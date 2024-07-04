@@ -63,7 +63,7 @@
 #{751}{}{I see.}
 {751}{}{我懂了。}
 #{800}{}{I have plenty of God's gifts here for a laughingly low price, considering the pleasure they offer to one's senses. And then there is... [He breathes in through his nose loudly.] My own creation! I call it "Elevation".}
-{800}{}{考虑到上帝的恩赐给人的感官带来的愉悦，我这里有很多上帝的恩赐，价格低得可笑。还有。。。[他用鼻子大声吸气]我自己创造的！我称之为“提升”。}
+{800}{}{考虑到上帝的恩赐给人的感官带来的愉悦，我这里有很多上帝的恩赐，价格低得可笑。还有……[他用鼻子大声吸气]我自己创造的！我称之为“提升”。}
 #{801}{}{Show me what you've got.}
 {801}{}{给我看看你有什么。}
 #{802}{}{I'm interested in the "Elevation" thing.}
@@ -73,9 +73,9 @@
 #{850}{}{First you have to understand. God created many substances that seem to be without purpose. But he gave us that gift, the ability to alter and combine them and thus create His gifts. "Elevation" is my creation, my ability. But you cannot rise up immediately, you have to proceed in small doses. A single deep inhalation for 500 caps will make you rise. Not more! Even the angels themselves cannot go too close to the Sun lest their wings should burn up.}
 {850}{}{首先你要明白。上帝创造了许多似乎毫无目的的物质。但是他给了我们这种天赋，改变和组合它们的能力，从而创造了他的天赋。”“提升”是我的创造，我的能力。但是你不能马上站起来，你必须小剂量地进行。一次深吸500个瓶盖就能让你站起来。不要再多了！即使是天使自己也不能离太阳太近，以免他们的翅膀烧毁。}
 #{851}{}{Here's 500 caps, I want to try it.}
-{851}{}{这有500顶瓶盖，我想试试。}
+{851}{}{这有500瓶盖，我想试试。}
 #{852}{}{I don't have 500 caps.}
-{852}{}{我没有500顶瓶盖。}
+{852}{}{我没有500瓶盖。}
 #{853}{}{Isn't it hazardous to one's health?}
 {853}{}{对人的健康不有害吗？}
 #{854}{}{I think I'd like to see what else you've got to offer, instead.}
@@ -91,11 +91,11 @@
 #{951}{}{[Breathe in deeply.]}
 {951}{}{[深呼吸。]}
 #{960}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine.]}
-{960}{}{[你感觉很棒，好像。。。好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
+{960}{}{[你感觉很棒，好像……好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
 #{961}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine.]}
-{961}{}{[你感觉很棒，好像。。。好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
+{961}{}{[你感觉很棒，好像……好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
 #{962}{}{Great...}
-{962}{}{伟大的。。。}
+{962}{}{伟大的……}
 #{1000}{}{I'm sorry but I cannot lower the price. It's not simple to fetch the right substances and then breathe God's power into them! We are not talking about any regular stuff, we're talking about the best of my creations, we're talking about "Elevation"!}
 {1000}{}{对不起，我不能降价。获取正确的物质，然后将上帝的力量注入其中，这并不简单！我们谈论的不是任何常规的东西，我们谈论的是我最好的创作，我们谈论的是“提升”！}
 #{1001}{}{I think I'd like to see what else you've got to offer, instead.}
@@ -111,23 +111,23 @@
 #{1100}{}{How could it? How can a gift from God be hazardous in any way? Repent, thou of little faith! I myself often elevate and you can see I am healthy! I am more than that, I'm fully blessed, enlightened and thus I can send forth God's gifts to all who believe.}
 {1100}{}{怎么可能呢？上帝的恩赐怎么会有危险呢？悔改吧，你这个缺乏信心的人！我自己经常提升，你可以看到我很健康！我不仅如此，我是完全受祝福的，开悟的，因此我可以把上帝的礼物送给所有相信我的人。}
 #{1101}{}{Good, here's 500 caps, I wan to try it.}
-{1101}{}{很好，这有500顶瓶盖，我想试试。}
+{1101}{}{很好，这有500瓶盖，我想试试。}
 #{1102}{}{But I don't have 500 caps.}
-{1102}{}{但我没有500顶瓶盖。}
+{1102}{}{但我没有500瓶盖。}
 #{1103}{}{I think I'd like to see what else you've got to offer, instead.}
 {1103}{}{我想我想看看你还能提供什么。}
 #{1104}{}{I'm not interested, anyway.}
 {1104}{}{反正我也不感兴趣。}
 #{1150}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine. You seem to hear Malcolm's voice from a great distance.] Yes, your first elevation! You are strong, my son, and I'm sure you have access to town. Do you want to help the needy to elevate as well? To bear God's gifts to those who cannot come for them on their own?}
-{1150}{}{[你感觉很棒，好像。。。好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你好像从很远的地方听到马尔科姆的声音]是的，你的第一次提升！你很强壮，我的儿子，我相信你有机会进城。你想帮助穷人也提升吗？把神的恩赐赐给那些不能自己来的人？}
+{1150}{}{[你感觉很棒，好像……好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你好像从很远的地方听到马尔科姆的声音]是的，你的第一次提升！你很强壮，我的儿子，我相信你有机会进城。你想帮助穷人也提升吗？把神的恩赐赐给那些不能自己来的人？}
 #{1151}{}{Hmm?}
-{1151}{}{隐马尔可夫模型？}
+{1151}{}{额-额？}
 #{1200}{}{There is a cop who would seek my blessing were it not for the allegedly benevolent police which nevertheless forbids the use of the gifts of our Lord. Because of that, I am not allowed to enter the devil's ground that the town is, but you surely are. Carry the gifts I'll sell you for 1500 caps to this man and he will exchange them for 2000 caps. That way you and your holy quest will be blessed by acquiring the value of "Elevation". You can find the policeman guarding the gate to the sheriff's estate. He wasn't willing to tell more about himself.}
 {1200}{}{有一个警察会寻求我的祝福，如果不是所谓的仁慈的警察，但禁止使用我们的上帝的礼物。因此，我不能进入那城的魔鬼之地，但你确实是。把礼物拿给这个人，我以1500个瓶盖的价格卖给你，他将以2000个瓶盖的价格交换。这样，你和你的神圣追求将通过获得“提升”的价值而得到祝福。你可以找到警察守着警长庄园的大门。他不愿意透露更多关于自己的情况。}
 #{1201}{}{I will take up this holy quest.}
 {1201}{}{我将承担这神圣的任务。}
 #{1202}{}{I don't have 1500 caps.}
-{1202}{}{我没有1500顶瓶盖。}
+{1202}{}{我没有1500瓶盖。}
 #{1203}{}{That's too dangerous, I don't want to do it.}
 {1203}{}{那太危险了，我不想做。}
 #{1250}{}{God bless Senor, because he chooses as his agents the strongest of the flock and does not inhibit their growth. You've come at the right moment for me to send you on a holy quest.}
@@ -135,9 +135,9 @@
 #{1251}{}{What do I have to do?}
 {1251}{}{我该怎么办？}
 #{1300}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine. You feel as if you were floating higher and higher... Your physical body no longer interests you, you don't need it... What body? You're forgetting... You lose consciousness.]}
-{1300}{}{[你感觉很棒，好像。。。好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你觉得自己好像在飘得越来越高。。。你的身体不再让你感兴趣，你不需要它。。。什么尸体？你忘了。。。你失去了知觉。]}
+{1300}{}{[你感觉很棒，好像……好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你觉得自己好像在飘得越来越高……你的身体不再让你感兴趣，你不需要它……什么尸体？你忘了……你失去了知觉。]}
 #{1301}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine. You feel as if you were floating higher and higher... Your physical body no longer interests you, you don't need it... What body? You're forgetting... You lose consciousness.]}
-{1301}{}{[你感觉很棒，好像。。。好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你觉得自己好像在飘得越来越高。。。你的身体不再让你感兴趣，你不需要它。。。什么尸体？你忘了。。。你失去了知觉。]}
+{1301}{}{[你感觉很棒，好像……好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你觉得自己好像在飘得越来越高……你的身体不再让你感兴趣，你不需要它……什么尸体？你忘了……你失去了知觉。]}
 #{1302}{}{[THE END]}
 {1302}{}{[结尾]}
 #{1350}{}{Ooh, what imposing woes try to mar your holy journey! Do not despair, though. Find the money, return soon and I will set you on a journey where you can find your blessing.}
@@ -153,9 +153,9 @@
 #{1403}{}{Nothing.}
 {1403}{}{没有什么。}
 #{1450}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine. You seem to hear Malcolm's voice from a great distance.] Yes, your first elevation! You are strong, my daughter, and I'm sure you have access to town. Do you want to help the needy to elevate as well? To bear God's gifts to those who cannot come for them on their own?}
-{1450}{}{[你感觉很棒，好像。。。好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你好像从很远的地方听到马尔科姆的声音]是的，你的第一次提升！你很强壮，我的女儿，我相信你可以进城。你想帮助穷人也提升吗？把神的恩赐赐给那些不能自己来的人？}
+{1450}{}{[你感觉很棒，好像……好像你在漂浮。没有语言来描述这段经历，但它肯定是惊人的，甚至可能是神圣的。你好像从很远的地方听到马尔科姆的声音]是的，你的第一次提升！你很强壮，我的女儿，我相信你可以进城。你想帮助穷人也提升吗？把神的恩赐赐给那些不能自己来的人？}
 #{1451}{}{Hmm?}
-{1451}{}{隐马尔可夫模型？}
+{1451}{}{额-额？}
 #{1500}{}{Great! [Malcolm gave you 3 Psychos for 1500 caps.]}
 {1500}{}{太好了！[马尔科姆给了你3个精神病治疗1500次]}
 #{1501}{}{See you.}
@@ -211,7 +211,7 @@
 #{1704}{}{I'm not interested in this anymore.}
 {1704}{}{我对这个不感兴趣了。}
 #{1750}{}{Great! [Malcolm gives you 3 Psychos and 2 Buffouts for 2000 caps.]}
-{1750}{}{太好了！[马尔科姆给你3个精神病和2个助攻2000次出场。]}
+{1750}{}{太好了！[马尔科姆给你3个精神病和2个助攻2000瓶盖。]}
 #{1751}{}{See you.}
 {1751}{}{再见。}
 #{1800}{}{I share my joy with you. By completing another holy quest, you've come closer to God again. I don't have any more quests for you. Now is the time to reap what you sowed and enjoy "Elevation"!}
@@ -253,11 +253,11 @@
 #{2051}{}{[Breathe in deeply.]}
 {2051}{}{[深呼吸。]}
 #{2060}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine.]}
-{2060}{}{[你感觉很棒，好像。。。好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
+{2060}{}{[你感觉很棒，好像……好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
 #{2061}{}{[You feel great, as if... As if you were floating. There are no words to describe the experience, but it certainly is amazing, possibly even divine.]}
-{2061}{}{[你感觉很棒，好像。。。好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
+{2061}{}{[你感觉很棒，好像……好像你在漂浮。我们无法用语言来描述这段经历，但它确实令人惊叹，甚至可能是神圣的。]}
 #{2062}{}{Aaa...}
-{2062}{}{啊。。。}
+{2062}{}{啊……}
 #{2100}{}{Poor child, someone lied to you. You must have eaten the fake God's gifts, your mind is touched by the sign of the Devil. Do not despair, you're with Father Malcolm, I can help you. The true God's gifts have that power. Or you can forget about everything and be elevated!}
 {2100}{}{可怜的孩子，有人骗了你。你一定是吃了假神的礼物，你的心被魔鬼的神迹感动了。别绝望，你和马尔科姆神父在一起，我可以帮你。真神的恩赐也有这种能力。或者你可以忘记所有的事情，得到提升！}
 #{2101}{}{Heehee.}

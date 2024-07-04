@@ -7,7 +7,7 @@
 #{250}{}{You see Trevor. As usual, he's smoking a cigarette and looking around.}
 {250}{}{你看到特雷弗了。像往常一样，他抽着烟环顾四周。}
 #{300}{}{::Smokes his cigarette::}
-{300}{}{●抽烟：：}
+{300}{}{：：抽烟：：}
 #{301}{}{Somehow it's not that good today.}
 {301}{}{不知怎的，今天不太好。}
 #{302}{}{Get out of my sight stranger, before my patience runs out!}
@@ -31,13 +31,13 @@
 #{503}{}{Oh never mind.}
 {503}{}{哦，没关系。}
 #{504}{}{Bye bye man... Smokeys yucky.}
-{504}{}{再见，伙计。。。Smokeys真恶心。}
+{504}{}{再见，伙计……烟真恶心。}
 #{505}{}{I've gotten those smokes for you.}
 {505}{}{我给你买了烟。}
 #{550}{}{Ask? Let me tell you just one thing... [He has a coughing fit, his cigarette falls down.] Damn. Just one thing, but it's a very important thing. You can ask whatever, but answers, pal, answers is what you have to pay for around here... [He flashes his half-dumb smile again.] And I bet that's probably the last thing that you'll learn for free in this town.}
-{550}{}{问？让我告诉你一件事。。。[他咳嗽，香烟掉下来了]该死。只有一件事，但这是一件非常重要的事。你可以问任何问题，但是答案，伙计，答案是你在这里必须付出的。。。[他又露出半哑的微笑]我敢打赌这可能是你在这个镇上免费学到的最后一件事。}
+{550}{}{问？让我告诉你一件事……[他咳嗽，香烟掉下来了]该死。只有一件事，但这是一件非常重要的事。你可以问任何问题，但是答案，伙计，答案是你在这里必须付出的……[他又露出半哑的微笑]我敢打赌这可能是你在这个镇上免费学到的最后一件事。}
 #{551}{}{Ask? Let me tell you just one thing... [He has a coughing fit, his cigarette falls down.] Damn. Just one thing, but it's a very important thing. You can ask whatever, but answers, kitty-cat, answers is what you have to pay for around here... [He flashes his half-dumb smile again.] And I bet that's probably the last thing that you'll learn for free in this town.}
-{551}{}{问？让我告诉你一件事。。。[他咳嗽，香烟掉下来了]该死。只有一件事，但这是一件非常重要的事。你可以问任何问题，但是答案，凯蒂猫，答案是你在这里必须付出的。。。[他又露出半哑的微笑]我敢打赌这可能是你在这个镇上免费学到的最后一件事。}
+{551}{}{问？让我告诉你一件事……[他咳嗽，香烟掉下来了]该死。只有一件事，但这是一件非常重要的事。你可以问任何问题，但是答案，凯蒂猫，答案是你在这里必须付出的……[他又露出半哑的微笑]我敢打赌这可能是你在这个镇上免费学到的最后一件事。}
 #{552}{}{Look, either you talk or I'll have to beat the answers out of you!}
 {552}{}{听着，要么你开口，要么我把你的答案打出来！}
 #{553}{}{I see. Sorry to hear that. I don't have that many spare caps.}
@@ -59,17 +59,17 @@
 #{652}{}{Yeah, yeah, caps here. Give me!}
 {652}{}{是的，是的，瓶盖在这里。给我！}
 #{653}{}{Not have caps, waaaa... Man say something else.}
-{653}{}{没有瓶盖，哇。。。男人说些别的。}
+{653}{}{没有瓶盖，哇……男人说些别的。}
 #{700}{}{Thanks. Here you go. [He lets you have one puff of his cigarette.]}
 {700}{}{谢谢。干得好。[他让你吸一口烟。]}
 #{701}{}{Pufff... Pufff... Want more!}
-{701}{}{帕夫。。。帕夫。。。想要更多！}
+{701}{}{帕夫……帕夫……想要更多！}
 #{702}{}{Yuuuck... Baad... A-choo... Man wants to poison! Away!}
-{702}{}{真恶心。。。巴德。。。阿乔。。。男人想下毒！走开！}
+{702}{}{真恶心……巴德……阿乔……男人想下毒！走开！}
 #{750}{}{Shut up! This place is too good for an idiot like you... Get lost!}
-{750}{}{闭嘴！这个地方对你这样的白痴来说太好了。。。滚开！}
+{750}{}{闭嘴！这个地方对你这样的白痴来说太好了……滚开！}
 #{751}{}{Shut up! This place is too good for an idiot like you... Get lost!}
-{751}{}{闭嘴！这个地方对你这样的白痴来说太好了。。。滚开！}
+{751}{}{闭嘴！这个地方对你这样的白痴来说太好了……滚开！}
 #{752}{}{[Leave.]}
 {752}{}{[离开]}
 #{753}{}{Man bad! I boom boom you.}
@@ -155,7 +155,7 @@
 #{1252}{}{Thanks for your time, maybe I'll stop by later.}
 {1252}{}{谢谢你的时间，也许我晚点过来。}
 #{1300}{}{In one word, fucked up. Not for softies. If you trip over a dead guy, don't look surprised. I think that gives you an idea, eh? Oh don't look that way. The north also has one bar, a church and the place where that bastard Leonard lives. Like I said, you should avoid that part of town...}
-{1300}{}{一句话，搞砸了。不适合软性子。如果你被一个死人绊倒了，不要显得惊讶。我想这给了你一个主意，嗯？哦，别那样看。北方也有一个酒吧，一个教堂，还有那个混蛋伦纳德住的地方。就像我说的，你应该避开那个地方。。。}
+{1300}{}{一句话，搞砸了。不适合软性子。如果你被一个死人绊倒了，不要显得惊讶。我想这给了你一个主意，嗯？哦，别那样看。北方也有一个酒吧，一个教堂，还有那个混蛋伦纳德住的地方。就像我说的，你应该避开那个地方……}
 #{1301}{}{I see. I'd like to ask you something else.}
 {1301}{}{我懂了。我想问你别的问题。}
 #{1302}{}{Thanks for your time, maybe I'll stop by later.}
@@ -265,13 +265,13 @@
 #{2000}{}{Wait! OK, so what is it you want?}
 {2000}{}{等待！好吧，那你想要什么？}
 #{2001}{}{Let's say... 50 caps for my silence?}
-{2001}{}{比如说。。。我沉默50个瓶盖？}
+{2001}{}{比如说……我沉默50个瓶盖？}
 #{2002}{}{Let's say... 50 caps for my silence?}
-{2002}{}{比如说。。。我沉默50个瓶盖？}
+{2002}{}{比如说……我沉默50个瓶盖？}
 #{2003}{}{Let's say... 100 caps for my silence?}
-{2003}{}{比如说。。。100个瓶盖换我的沉默？}
+{2003}{}{比如说……100个瓶盖换我的沉默？}
 #{2004}{}{Let's say... 100 caps for my silence?}
-{2004}{}{比如说。。。100个瓶盖换我的沉默？}
+{2004}{}{比如说……100个瓶盖换我的沉默？}
 #{2005}{}{Calm down, I just wanted to show you that you had to be more careful with what you say. If you'd like I could get you some smokes myself.}
 {2005}{}{冷静点，我只是想让你知道你说话要更小心。如果你愿意，我可以自己给你弄点烟。}
 #{2050}{}{You're crazy! You think I'll let myself be blackmailed? I should've killed you straight away. You're only trouble!}

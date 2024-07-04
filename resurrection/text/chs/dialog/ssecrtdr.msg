@@ -9,11 +9,11 @@
 #{166}{}{You dismantle the trap, but it cost you }
 {166}{}{你拆除了陷阱，但却花了你的钱}
 #{167}{}{ hit points.}
-{167}{}{生命值。}
+{167}{}{打击点。}
 #{168}{}{ managed to dismantle the trap but lost }
 {168}{}{设法拆除了陷阱，但失败了}
 #{169}{}{ hit points.}
-{169}{}{生命值。}
+{169}{}{打击点。}
 #{170}{}{You deftly unlock the secret door.}
 {170}{}{你巧妙地打开了密门。}
 #{171}{}{Due to your lack of experience, the secret door lock jammed.}

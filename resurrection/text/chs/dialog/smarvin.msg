@@ -7,11 +7,11 @@
 #{250}{}{You see Marvin, a local drunk.}
 {250}{}{你看马文，一个当地的酒鬼。}
 #{300}{}{::tries to sing:: La-la-la, I'm so drrr-unk.}
-{300}{}{●试着唱歌：：啦啦啦啦，我太棒了。}
+{300}{}{::试着唱歌：：啦啦啦啦，我太棒了。}
 #{301}{}{::snores loudly::}
-{301}{}{●鼾声大：}
+{301}{}{::大鼾声::}
 #{302}{}{::snore::}
-{302}{}{●打鼾：}
+{302}{}{::打鼾::}
 #{303}{}{Ooh, the scourge of all deathclaws's here. How's it cookin'?}
 {303}{}{哦，所有死爪的祸害都来了。煮得怎么样？}
 #{304}{}{Howdy, tough guy.}
@@ -23,7 +23,7 @@
 #{401}{}{Maybe you got bigger guns and whatnot, but I'm drunker'n'you!}
 {401}{}{也许你有更大的枪什么的，但我醉了你！}
 #{500}{}{[The man's trying to focus on you. He's apparently completely drunk and he's managed to stay conscious only thanks to all his effort. The heavy alcoholic stench coming out of his mouth has brought tears to your eyes.] Uh...}
-{500}{}{[那人想把注意力集中在你身上。他显然已经喝得烂醉了，多亏了他的努力，他才得以保持清醒。从他嘴里冒出来的酒味让你热泪盈眶。。。}
+{500}{}{[那人想把注意力集中在你身上。他显然已经喝得烂醉了，多亏了他的努力，他才得以保持清醒。从他嘴里冒出来的酒味让你热泪盈眶……}
 #{501}{}{Stop breathing at me, you heap of shit!}
 {501}{}{别对我呼吸了，你这个混蛋！}
 #{502}{}{Who're you?}
@@ -55,13 +55,13 @@
 #{607}{}{I change mind! Can help?}
 {607}{}{我改变主意了！你能帮忙吗？}
 #{650}{}{Last time? We've met b'fore? Well, forget 'bout that. [He searches the surrounding mess.] Damn, there's not a single drop left. Ah guess I gotta go out. Oh, hell's bells...}
-{650}{}{上次？我们以前见过？算了吧。[他搜遍了周围的烂摊子]妈的，一滴都没有了。我想我得出去了。哦，地狱的钟声。。。}
+{650}{}{上次？我们以前见过？算了吧。[他搜遍了周围的烂摊子]妈的，一滴都没有了。我想我得出去了。哦，地狱的钟声……}
 #{651}{}{Can I help you?}
 {651}{}{我能帮助你吗？}
 #{652}{}{Abstaining will only do you good. Good-bye.}
 {652}{}{弃权只会对你有好处。再见。}
 #{700}{}{[He looks at you.] The fact is, you can. See here, I often go to the Sedit Caravan bar, they got great whores and 'specially great booze! But like everyone else, I need to go either through tha' stupid tunnel full of 'em deathclaws or I gotta go all the way around and that's kinda complicated. Last time Ah almost got lost in the desert. But, d'ya see, if somun' took care of dem deathclaws...}
-{700}{}{[他看着你]事实是，你可以。看这里，我经常去塞迪特大篷车酒吧，他们有很棒的妓女和'特别棒的酒！但和其他人一样，我要么要穿过那条满是死爪的愚蠢隧道，要么要一直走，这有点复杂。上次啊差点在沙漠里迷路。但是，你看，如果索蒙照顾死爪。。。}
+{700}{}{[他看着你]事实是，你可以。看这里，我经常去塞迪特大篷车酒吧，他们有很棒的妓女和'特别棒的酒！但和其他人一样，我要么要穿过那条满是死爪的愚蠢隧道，要么要一直走，这有点复杂。上次啊差点在沙漠里迷路。但是，你看，如果索蒙照顾死爪……}
 #{701}{}{And that's me? You think I'll risk my neck against the deathclaws so you can get drunk easier?}
 {701}{}{那就是我？你以为我会冒着生命危险让你更容易喝醉？}
 #{702}{}{No need. I already took care of them.}
@@ -91,7 +91,7 @@
 #{952}{}{I'm sorry. I mean the money you owe at the bar.}
 {952}{}{我很抱歉。我是说你在酒吧欠的钱。}
 #{1000}{}{Why didn't you say so right away? Here's the 750 I owe and somepin extra as interest. [He gives you a total of 1000 caps.] I dunno why I didn't go back a long time ago. And thanks for takin' care of it.}
-{1000}{}{你为什么不马上说？这是我欠的750英镑和一些额外的利息。[他总共给了你1000顶瓶盖]我不知道为什么我很久以前没有回去。谢谢你照顾它。}
+{1000}{}{你为什么不马上说？这是我欠的750瓶盖和一些额外的利息。[他总共给了你1000瓶盖]我不知道为什么我很久以前没有回去。谢谢你照顾它。}
 #{1001}{}{Where did you so suddenly get that kind of money?}
 {1001}{}{你这么突然从哪儿弄到这么多钱的？}
 #{1002}{}{Don't mention it.}
@@ -105,7 +105,7 @@
 #{1053}{}{I'm a debt collector.}
 {1053}{}{我是个讨债的。}
 #{1100}{}{Oh that... Stupid me and my mem'ry! I should've returned the cash a long time 'go. Here, I feel like mah head's gonna burst. Take the 750 I owe and somepin on top as interest. [He gives you a total of 1000 caps.] And thanks for takin'em back.}
-{1100}{}{哦那。。。愚蠢的我和我的记忆！我早该把钱还回去的。我觉得我的脑袋要炸了。把我欠的750英镑和上面的东西作为利息。[他总共给了你1000顶瓶盖]谢谢你把瓶盖拿回来。}
+{1100}{}{哦那……愚蠢的我和我的记忆！我早该把钱还回去的。我觉得我的脑袋要炸了。把我欠的750瓶盖和上面的东西作为利息。[他总共给了你1000顶瓶盖]谢谢你把瓶盖拿回来。}
 #{1101}{}{Where did you so suddenly get that kind of money?}
 {1101}{}{你这么突然从哪儿弄到这么多钱的？}
 #{1102}{}{Don't mention it.}
@@ -121,13 +121,13 @@
 #{1201}{}{OK, if you think.}
 {1201}{}{好吧，如果你想的话。}
 #{1250}{}{Yeah, sure. [He searches the surrounding mess.] Damn, there's not a single drop left. Ah guess I gotta go out. Oh, hell's bells...}
-{1250}{}{是的，当然。[他搜遍了周围的烂摊子]妈的，一滴都没有了。我想我得出去了。哦，地狱的钟声。。。}
+{1250}{}{是的，当然。[他搜遍了周围的烂摊子]妈的，一滴都没有了。我想我得出去了。哦，地狱的钟声……}
 #{1251}{}{Can I help you in any way?}
 {1251}{}{我能帮你什么忙吗？}
 #{1252}{}{Abstaining will only do you good. Good-bye.}
 {1252}{}{弃权只会对你有好处。再见。}
 #{1300}{}{Hey, nobody's pushin' you into it. I'm just sayin' it'd help. But so that you understand, I'd be very thankful. See, I won a year old jackpot at the casino jus' before they banned me from goin' there, so like I said, I'd be willin' to be very thankful. As thankful as... How about }
-{1300}{}{嘿，没人逼你这么做。我只是说这会有帮助的。但为了让你明白，我会非常感激的。你看，我在赌场赢了一年的头奖，然后他们禁止我去那里，所以就像我说的，我会非常感激的。像…一样感激。。。怎么样}
+{1300}{}{嘿，没人逼你这么做。我只是说这会有帮助的。但为了让你明白，我会非常感激的。你看，我在赌场赢了一年的头奖，然后他们禁止我去那里，所以就像我说的，我会非常感激的。像…一样感激……怎么样}
 #{1301}{}{ caps?}
 {1301}{}{瓶盖？}
 #{1302}{}{That might be worth the effort. I'm in.}
@@ -155,9 +155,9 @@
 #{1452}{}{Not at all, all the deathclaws are already dead.}
 {1452}{}{一点也不，所有的死爪都已经死了。}
 #{1453}{}{Well... Actually, I already killed all of the deathclaws. It's all been taken care of.}
-{1453}{}{好。。。实际上，我已经杀了所有的死爪。一切都处理好了。}
+{1453}{}{好……实际上，我已经杀了所有的死爪。一切都处理好了。}
 #{1454}{}{Well... Actually, I already killed all of the deathclaws. It's all been taken care of.}
-{1454}{}{好。。。实际上，我已经杀了所有的死爪。一切都处理好了。}
+{1454}{}{好……实际上，我已经杀了所有的死爪。一切都处理好了。}
 #{1455}{}{Are you Marvin?}
 {1455}{}{你是马文吗？}
 #{1456}{}{I came for the money you owe.}
@@ -167,9 +167,9 @@
 #{1458}{}{Deathclaws dead! Alluv'em.}
 {1458}{}{死爪死了！诱惑他们。}
 #{1459}{}{Uh... Ehm.}
-{1459}{}{休斯敦大学。。。嗯。}
+{1459}{}{……嗯。}
 #{1500}{}{Fuck me and feed me to mutants, you really did it! Unbelievable... I can finally get a drink and get rid of that damn hangover. Here's your money and I'm off. [He staggers.] Uff, as soon as Ah'm ready.}
-{1500}{}{操我，把我喂给变种人，你真的做到了！难以置信。。。我终于可以喝一杯摆脱宿醉了。这是你的钱，我走了。[他摇摇晃晃]啊，等我准备好了。}
+{1500}{}{操我，把我喂给变种人，你真的做到了！难以置信……我终于可以喝一杯摆脱宿醉了。这是你的钱，我走了。[他摇摇晃晃]啊，等我准备好了。}
 #{1501}{}{Hope you have fun.}
 {1501}{}{希望你玩得开心。}
 #{1502}{}{I can't accept that money from you. I found a few things in those tunnels that make up a little fortune by themselves. I take that as a sufficient reward.}
@@ -225,15 +225,15 @@
 #{1704}{}{As you wish.}
 {1704}{}{如你所愿。}
 #{1750}{}{What?! You look like you're in worse shit'n I am, buddy. What didja drink? I might give it a try...}
-{1750}{}{什么？！你看起来比我更糟，伙计。你喝什么？我可以试试。。。}
+{1750}{}{什么？！你看起来比我更糟，伙计。你喝什么？我可以试试……}
 #{1751}{}{What?! You look like you're in worse shit'n I am, girl. What didja drink? I might give it a try...}
-{1751}{}{什么？！你看起来比我更糟，姑娘。你喝什么？我可以试试。。。}
+{1751}{}{什么？！你看起来比我更糟，姑娘。你喝什么？我可以试试……}
 #{1752}{}{Eh? }
 {1752}{}{嗯？}
 #{1753}{}{ like... Eee... Always!}
-{1753}{}{就像。。。呃。。。永远！}
+{1753}{}{就像……呃……永远！}
 #{1800}{}{Oh, OK, then. Look, it was nice meetin' you 'n all... [He searches the surrounding mess.] Damn, there's not a single drop left! Ah guess I gotta go out. Oh, hell's bells...}
-{1800}{}{哦，那好吧。听着，很高兴见到你们。。。[他搜遍了周围的烂摊子]妈的，一滴都没有了！我想我得出去了。哦，地狱的钟声。。。}
+{1800}{}{哦，那好吧。听着，很高兴见到你们……[他搜遍了周围的烂摊子]妈的，一滴都没有了！我想我得出去了。哦，地狱的钟声……}
 #{1801}{}{Cannee help?}
 {1801}{}{罐头帮助？}
 #{1802}{}{You blah! Goin away.}

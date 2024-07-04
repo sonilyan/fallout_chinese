@@ -25,15 +25,15 @@
 #{502}{}{More?}
 {502}{}{更多？}
 #{503}{}{Um... I'll think about it. Bye.}
-{503}{}{嗯。。。我会考虑的。再见。}
+{503}{}{嗯……我会考虑的。再见。}
 #{550}{}{[She approaches you and whispers in your ear.] I'll do you like no other. You can fuck me any way you like, I'm open to anything. [She is so close you can almost feel the touch of her breasts.]}
 {550}{}{[她走近你，在你耳边低语]我不会像其他人那样对你。你想干什么就干什么，我什么都愿意干。[她离你很近，你几乎能感觉到她胸部的触感。]}
 #{551}{}{[She approaches you and whispers in your ear.] We can do each other any way you like, I'm open to anything. [She is so close you can almost feel her breasts brushing against yours.]}
 {551}{}{[她走近你，在你耳边窃窃私语]我们可以做任何你想做的事，我对任何事都敞开心扉。[她离你太近了，你几乎能感觉到她的乳房在你的乳房上摩擦。]}
 #{552}{}{[Touch those incredible breasts.]}
-{552}{}{[触摸那些不可思议的乳房。]}
+{552}{}{[触摸这不可思议的乳房！]}
 #{553}{}{Well... I better be going. See you, Marylin.}
-{553}{}{好。。。我最好走了。再见，马里林。}
+{553}{}{好……我最好走了。再见，马里林。}
 #{600}{}{[She deftly pushes you away.] Not so fast, pretty boy. If you want to have fun, you must pay Wanda first.}
 {600}{}{[她巧妙地把你推开]别那么快，帅哥。如果你想玩得开心，你必须先付钱给万达。}
 #{601}{}{[She deftly pushes you away.] Not so fast, princess. If you want to have fun, you must pay Wanda first.}

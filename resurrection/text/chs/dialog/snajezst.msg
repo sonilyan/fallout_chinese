@@ -11,9 +11,9 @@
 #{303}{}{Once Damian's tired of you, I'm gonna taste your flesh.}
 {303}{}{一旦达米安厌倦了你，我要尝尝你的肉。}
 #{304}{}{::burps::}
-{304}{}{●打嗝：}
+{304}{}{::打嗝::}
 #{305}{}{::barks::}
-{305}{}{●吠声：}
+{305}{}{::吠声::}
 #{306}{}{Stop running around here.}
 {306}{}{别在这儿跑了。}
 #{307}{}{You want more blood?}

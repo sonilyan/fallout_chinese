@@ -11,7 +11,7 @@
 #{251}{}{You see old Adam.}
 {251}{}{你看老亚当。}
 #{300}{}{I wonder how my brother is doing...}
-{300}{}{我想知道我弟弟怎么样了。。。}
+{300}{}{我想知道我弟弟怎么样了……}
 #{301}{}{I miss my family.}
 {301}{}{我想念我的家人。}
 #{350}{}{You have done me a great service. Thank you.}
@@ -41,7 +41,7 @@
 #{555}{}{Na-ah.}
 {555}{}{不，啊。}
 #{600}{}{I assume you're going to pass Kirtland... I mean Rat Hole, that's what it's called now that it's been destroyed by a local dispute. It's the closest town from here. Just like everyone else in the settlement, I'm originally from Kirtland. And like many others, I left part of my family there. [He sighs.] I'd like to know how they are doing.}
-{600}{}{我猜你要经过克特兰。。。我是说老鼠洞，这就是它现在的名字，因为它被当地的争端摧毁了。这是离这儿最近的城镇。就像定居点里的其他人一样，我来自科特兰。和其他许多人一样，我把我的一部分家人留在了那里。[他叹了口气]我想知道他们怎么样了。}
+{600}{}{我猜你要经过克特兰……我是说老鼠洞，这就是它现在的名字，因为它被当地的争端摧毁了。这是离这儿最近的城镇。就像定居点里的其他人一样，我来自科特兰。和其他许多人一样，我把我的一部分家人留在了那里。[他叹了口气]我想知道他们怎么样了。}
 #{601}{}{I understand. How do you want to do this?}
 {601}{}{我理解。你想怎么做？}
 #{602}{}{And how much are you willing to pay for this?}
@@ -55,7 +55,7 @@
 #{653}{}{I don't care. I don't deal with people who ask too many questions.}
 {653}{}{我不在乎。我不和问太多问题的人打交道。}
 #{700}{}{Ehm... I'm not sure you're the right person, but I have no choice. I need something from you. [He shows you a letter.] You think you can bring this where I tell you?}
-{700}{}{嗯。。。我不确定你是不是合适的人，但我别无选择。我需要你的东西。[他给你看了封信]你觉得你能把这个带到我告诉你的地方吗？}
+{700}{}{嗯……我不确定你是不是合适的人，但我别无选择。我需要你的东西。[他给你看了封信]你觉得你能把这个带到我告诉你的地方吗？}
 #{701}{}{Can!}
 {701}{}{我可以！}
 #{702}{}{Eh. [Shake your head.]}
@@ -105,7 +105,7 @@
 #{1101}{}{Yay, tasty! Nom-nom!}
 {1101}{}{耶，好吃！不，不！}
 #{1150}{}{Ehm, I can give you five caps. Will that be enough?}
-{1150}{}{嗯，我可以给你五顶瓶盖。够了吗？}
+{1150}{}{嗯，我可以给你五个瓶盖。够了吗？}
 #{1151}{}{Keep the caps. And please, continue.}
 {1151}{}{留着瓶盖。请继续。}
 #{1152}{}{[Take the caps.] So what is it you actually want me to do?}
@@ -131,11 +131,11 @@
 #{1351}{}{[Take the letter.] I hope so too. Goodbye, Adam.}
 {1351}{}{我也希望如此。再见，亚当。}
 #{1400}{}{I... Certainly. Here's 50 caps. That's all I have.}
-{1400}{}{一、 。。。当然。这是50顶瓶盖。我只有这些了。}
+{1400}{}{我 ……当然。这是50顶瓶盖。我只有这些了。}
 #{1401}{}{That will do. [Give him the letter.] Goodbye, Adam.}
 {1401}{}{那就行了。[把信给他]再见，亚当。}
 #{1402}{}{[Take the caps.] Unfortunately that's not enough. You are not entitled to this letter. [Tear it up.] Who knows what he wanted to tell you. But you will never know...}
-{1402}{}{很遗憾，这还不够。你无权得到这封信。谁知道他想告诉你什么。但你永远不会知道。。。}
+{1402}{}{很遗憾，这还不够。你无权得到这封信。谁知道他想告诉你什么。但你永远不会知道……}
 #{1450}{}{Greetings, I'm Adam. I heard what you went through in that cave. It's a good thing it didn't end up worse than it did. I assume you aren't planning to stay here long?}
 {1450}{}{你好，我是亚当。我听到你在山洞里经历了什么。幸好最后没有比现在更糟。我猜你不打算在这里呆很久吧？}
 #{1451}{}{Probably not. Why are you asking?}
@@ -143,7 +143,7 @@
 #{1453}{}{That's none of your business.}
 {1453}{}{那不关你的事。}
 #{1454}{}{Yea, travel! Here! There!}
-{1454}{}{是的，旅行！在这里！在那里！}
+{1454}{}{是的，旅行者！在这里！在那里！}
 #{1500}{}{I wrote them a letter. This was some time ago, but nothing much has changed since then. I'm still just trying to survive. I'd appreciate if you brought it to them. Rat Hole is here. [He shows you the location on a map.] Their house should be somewhere on the south end of the town. That's all I remember. I hope they'll still be there.}
 {1500}{}{我给他们写了封信。这是很久以前的事了，但从那以后没有什么变化。我只是想活下去。如果你把它带给他们我会很感激的。老鼠洞在这里。[他给你看地图上的位置]他们的房子应该在镇的南端。我只记得这些。我希望他们还在那里。}
 #{1501}{}{[Take the letter.] I hope so too. Goodbye for now, Adam.}

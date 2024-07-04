@@ -41,7 +41,7 @@
 #{325}{}{I'm fine, Hunter.}
 {325}{}{我很好，猎人。}
 #{326}{}{Chill out. Just a quick fuck and I'm gone.}
-{326}{}{冷静点。就干一炮，我就走了。}
+{326}{}{冷静点。我发泄一下就走了。}
 #{327}{}{I'd buy you a drink, but I'm all out of caps. Sorry.}
 {327}{}{我想请你喝一杯，但我没瓶盖了。对不起。}
 #{328}{}{A toast to the Mutant Hunters!}
@@ -55,9 +55,9 @@
 #{352}{}{Shake it, baby!}
 {352}{}{摇吧，宝贝！}
 #{353}{}{Get those clothes off!}
-{353}{}{脱掉那些衣服！}
+{353}{}{脱掉那些无用衣服！}
 #{354}{}{I wanna see everything!}
-{354}{}{我想看到所有！}
+{354}{}{我想看你从头到脚的身体！}
 #{355}{}{C'mon, shake 'em!}
 {355}{}{来吧，摇一摇！}
 #{356}{}{Baby, you got the stuff.}

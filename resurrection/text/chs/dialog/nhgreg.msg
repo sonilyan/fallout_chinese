@@ -17,7 +17,7 @@
 #{504}{}{Thank you, it is better, but I can't remember a thing. It's possible that I have amnesia.}
 {504}{}{谢谢，好多了，但我什么都记不起来了。我可能有健忘症。}
 #{505}{}{I... I don't remember anything.}
-{505}{}{一、 。。。我什么都不记得了。}
+{505}{}{我 ……我什么都不记得了。}
 #{550}{}{Hmm, I suppose the wound was deep enough to cause memory loss. It will hopefully come back, just give it time. Unfortunately, that's not the case for the other mental damage.}
 {550}{}{嗯，我想伤口很深，足以导致记忆丧失。希望它能回来，给它点时间。不幸的是，另一种精神损害并非如此。}
 #{551}{}{Me }
@@ -25,15 +25,15 @@
 #{552}{}{See? Well done! You remember your name! Do you remember anything else?}
 {552}{}{看到了吗？做得好！你记得你的名字！你还记得什么吗？}
 #{553}{}{Remember! Bam, bam!! Pain... Rat want nom nom me!}
-{553}{}{记得！砰，砰！！疼痛。。。老鼠要我的名字！}
+{553}{}{记得！砰，砰！！疼痛……老鼠把我拖走了！}
 #{554}{}{Uhm, maybe I should take another look at the wound. Perhaps there's still something stuck in there.}
 {554}{}{嗯，也许我应该再看看伤口。也许还有什么东西卡在里面。}
 #{555}{}{Nooooo!}
-{555}{}{不！}
+{555}{}{不-不-不！}
 #{556}{}{All right, all right. I won't touch it anymore. Are you from a vault, perhaps? You're wearing their jumpsuit.}
 {556}{}{好吧，好吧。我不会再碰它了。你也许是从保险库来的？你穿着他们的连身衣。}
 #{557}{}{Wowlt? Nooooo!!! Wowlt ewww!! No like men from big hole.}
-{557}{}{沃尔特？不！！！哇哦！！不喜欢大洞里的男人。}
+{557}{}{沃尔特？不-不-不！！！哇哦！！不像来自大洞里的人。}
 #{558}{}{Okay, too bad for the previous owner. You should probably go now.}
 {558}{}{好吧，对以前的主人来说太糟糕了。你该走了。}
 #{559}{}{Huuuh? [Stick your talisman in front of his face.]}
@@ -73,19 +73,19 @@
 #{703}{}{That's great. Do you remember anything else?}
 {703}{}{太好了。你还记得什么吗？}
 #{704}{}{No... Perhaps only... A fight, gunshot, I was wounded. [You automatically touch the wound on your head and immediately wince in pain.]}
-{704}{}{不。。。也许只是。。。一场战斗，一声枪响，我受伤了。[你会自动触摸头部的伤口，并立即因疼痛而畏缩。]}
+{704}{}{不……也许只是……一场战斗，一声枪响，我受伤了。[你会不自觉触摸头部的伤口，并立即因疼痛而退缩。]}
 #{705}{}{No... Perhaps only... A fight, gunshot, I was wounded. [You automatically touch the wound on your head and immediately wince in pain.]}
-{705}{}{不。。。也许只是。。。一场战斗，一声枪响，我受伤了。[你会自动触摸头部的伤口，并立即因疼痛而畏缩。]}
+{705}{}{不……也许只是……一场战斗，一声枪响，我受伤了。[你会不自觉触摸头部的伤口，并立即因疼痛而退缩。]}
 #{706}{}{You better not touch that wound, it's far from healed.}
 {706}{}{你最好别碰那个伤口，还远没有愈合。}
 #{707}{}{That's how it must have happened... Afterwards I just remember waking up. That damned rat was pulling me into its lair.}
-{707}{}{一定是这样的。。。后来我只记得醒来。那该死的老鼠把我拉到它的巢穴里。}
+{707}{}{一定是这样的……后来我只记得醒来。那该死的老鼠把我拉到它的巢穴里。}
 #{708}{}{You're lucky to be alive. I see you're wearing a vault jumpsuit. The thirteen on your back should indicate the number of the vault. Is that where you come from?}
-{708}{}{你还活着真幸运。我看到你穿了一件跳马服。你背上的十三应该标明保险库的编号。你就是从这里来的吗？}
+{708}{}{你还活着真幸运。我看到你穿了一件避难所服装。你背上的十三应该标明了你的避难所的编号。你就是从这里来的吗？}
 #{709}{}{No, definitely not. I feel it... Now that you brought it up, I remember some sort of... yes, hatred! Hatred towards the people from vaults!}
-{709}{}{不，绝对不是。我感觉到了。。。既然你提出来了，我记得有点。。。是的，仇恨！从地下室对人民的仇恨！}
+{709}{}{不，绝对不是。我感觉到了……既然你提出来了，我记得有点……是的，仇恨！是对避难所里的，人的仇恨！}
 #{710}{}{Maybe you picked it up from a corpse. Some people wear vault jumpsuits, but aren't themselves from a vault. I just hope you're not some murderer, we don't stand such people around here.}
-{710}{}{也许是你从尸体上捡到的。有些人穿跳马服，但他们自己不是跳马的。我只希望你不是什么杀人犯，我们这里不允许这样的人。}
+{710}{}{也许是你从尸体上捡到的。有些人穿避难所服装，但他们自己不是避难所的。我只希望你不是什么杀人犯，我们这里不允许这样的人。}
 #{711}{}{I don't know, I don't remember. I'll have to search for my past. My only clue is this talisman. [Show him your talisman.] I'm sure that it's very important in my life. Have you seen it before?}
 {711}{}{我不知道，我不记得了。我将不得不寻找我的过去。我唯一的线索就是这个护身符。[给他看你的护身符]我相信这对我的生活很重要。你以前见过吗？}
 #{712}{}{I don't know, I don't remember. I'll have to search for my past. My only clue is the talisman I had on me. [Describe the talisman.] I'm sure that it's very important in my life. Have you seen something like that before?}
@@ -127,11 +127,11 @@
 #{953}{}{Can you heal one of my companions?}
 {953}{}{你能治好我的一个同伴吗？}
 #{954}{}{Huuurt!}
-{954}{}{霍尔特！}
+{954}{}{呼-呼-呼！}
 #{955}{}{Drools huuurt!}
-{955}{}{胡特流口水！}
+{955}{}{流口水！}
 #{956}{}{Mutt huuurt!}
-{956}{}{胡尔特！}
+{956}{}{穆特 呼-呼-呼！}
 #{957}{}{Nothing, actually.}
 {957}{}{其实没什么。}
 #{958}{}{Nooo!}
@@ -193,11 +193,11 @@
 #{1153}{}{Can you heal one of my companions?}
 {1153}{}{你能治好我的一个同伴吗？}
 #{1154}{}{Huuurt!}
-{1154}{}{霍尔特！}
+{1154}{}{呼-呼-呼！}
 #{1155}{}{Drools huuurt!}
-{1155}{}{胡特流口水！}
+{1155}{}{流口水！}
 #{1156}{}{Mutt huuurt!}
-{1156}{}{胡尔特！}
+{1156}{}{穆特 呼-呼-呼！}
 #{1157}{}{That's it.}
 {1157}{}{就这样。}
 #{1158}{}{Could you make me some healing powder?}
@@ -235,11 +235,11 @@
 #{1305}{}{Nothing, actually.}
 {1305}{}{其实没什么。}
 #{1306}{}{Huuurt!}
-{1306}{}{霍尔特！}
+{1306}{}{呼-呼-呼！}
 #{1307}{}{Drools huuurt!}
-{1307}{}{胡特流口水！}
+{1307}{}{流口水！}
 #{1308}{}{Mutt huuurt!}
-{1308}{}{胡尔特！}
+{1308}{}{穆特 呼-呼-呼！}
 #{1309}{}{Nothing, actually.}
 {1309}{}{其实没什么。}
 #{1310}{}{Nooo!}
@@ -259,7 +259,7 @@
 #{1404}{}{Mario.}
 {1404}{}{马里奥。}
 #{1405}{}{My dog, Mutt.}
-{1405}{}{我的狗，杂种。}
+{1405}{}{我的狗，穆特。}
 #{1406}{}{No one, actually.}
 {1406}{}{实际上，没有人。}
 #{1450}{}{Do you have the money?}
@@ -273,13 +273,13 @@
 #{1501}{}{Here you go.}
 {1501}{}{干得好。}
 #{1550}{}{That won't be a problem. I treat everyone here, people, dogs, even brahmin. There isn't much of a difference, anyway. Do you have the money?}
-{1550}{}{那不是问题。我对待这里的每一个人，人，狗，甚至双头牛。反正没什么区别。你有钱吗？}
+{1550}{}{那不是问题。我对待这里的每一个人，狗，甚至双头牛。都是平等的。你有钱吗？}
 #{1551}{}{Yes.}
 {1551}{}{对。}
 #{1552}{}{No.}
 {1552}{}{不。}
 #{1650}{}{I'm sorry, but I'm not going anywhere near that thing. I don't want to lose my hands... or head.}
-{1650}{}{对不起，我哪也不想靠近那东西。我不想失去我的手。。。或者头部。}
+{1650}{}{对不起，我哪也不想靠近那东西。我不想失去我的手……或者头部。}
 #{1651}{}{Ugh.}
 {1651}{}{啊。}
 #{1700}{}{I'll heal him. Do you have the money?}

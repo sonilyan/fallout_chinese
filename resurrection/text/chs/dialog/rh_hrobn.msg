@@ -49,7 +49,7 @@
 #{653}{}{I want to ask something else.}
 {653}{}{我想问点别的。}
 #{700}{}{Hah! That's one good question! Why? Because I got used to it. I used to be a gravedigger, but nobody cares about burials nowadays. People here immediately strip every corpse of its property and sometimes of its meat. Rats take care of the rest. Just look at these graves; not a single new one in years.}
-{700}{}{哈哈！这是个好问题！为什么？因为我已经习惯了。我以前是个掘墓人，但现在没人关心墓葬了。这里的人们立即剥夺了每具尸体的财产，有时甚至是肉。剩下的都是老鼠。看看这些坟墓，好几年没有一个新的了。}
+{700}{}{没错！这是个好问题！为什么？因为我已经习惯了。我以前是个掘墓人，但现在没人关心墓葬了。这里的人们立即剥夺了每具尸体的财产，有时甚至是肉。剩下的都是老鼠。看看这些坟墓，好几年没有一个新的了。}
 #{701}{}{Hmm, I've been thinking... wouldn't you like to go back to your profession for a while and dig around again?}
 {701}{}{嗯，我一直在想。。。你不想回到你的职业中去，再四处挖掘一下吗？}
 #{702}{}{I want to ask something else.}
@@ -83,9 +83,9 @@
 #{903}{}{One from the row of five graves.}
 {903}{}{五座坟墓中的一座。}
 #{904}{}{Here's 80, excavate the row of four graves.}
-{904}{}{这是80个，挖一排四个坟墓。}
+{904}{}{这是80瓶盖，挖一排四个坟墓。}
 #{905}{}{Here's 40, excavate the row of four graves.}
-{905}{}{这是40个，挖一排四个坟墓。}
+{905}{}{这是40瓶盖，挖一排四个坟墓。}
 #{906}{}{One from the row of four graves.}
 {906}{}{四座坟墓中的一座。}
 #{907}{}{Excavate the two next to each other.}
@@ -191,17 +191,17 @@
 #{1501}{}{Who was doctor Reed?}
 {1501}{}{里德医生是谁？}
 #{1502}{}{If I give you 40 caps, will you dig up those graves?}
-{1502}{}{如果我给你40顶瓶盖，你会把那些坟墓挖出来吗？}
+{1502}{}{如果我给你40瓶盖，你会把那些坟墓挖出来吗？}
 #{1503}{}{If I give you 20 caps, will you dig up those graves?}
-{1503}{}{如果我给你20顶瓶盖，你会把那些坟墓挖出来吗？}
+{1503}{}{如果我给你20瓶盖，你会把那些坟墓挖出来吗？}
 #{1504}{}{Thanks, you helped me a lot.}
 {1504}{}{谢谢，你帮了我很多。}
 #{1550}{}{Simply a doctor! I hadn't even known she'd been dead until I saw her body. Maybe she knew something she wasn't supposed to know, and that's why I surely won't care about it.}
 {1550}{}{只是个医生！直到看到她的尸体我才知道她已经死了。也许她知道一些不该知道的事情，所以我肯定不会在意。}
 #{1551}{}{If I give you 40 caps, will you dig up those graves?}
-{1551}{}{如果我给你40顶瓶盖，你会把那些坟墓挖出来吗？}
+{1551}{}{如果我给你40瓶盖，你会把那些坟墓挖出来吗？}
 #{1552}{}{If I give you 20 caps, will you dig up those graves?}
-{1552}{}{如果我给你20顶瓶盖，你会把那些坟墓挖出来吗？}
+{1552}{}{如果我给你20瓶盖，你会把那些坟墓挖出来吗？}
 #{1553}{}{Thanks, you helped me a lot.}
 {1553}{}{谢谢，你帮了我很多。}
 #{1600}{}{Damn, I'll tell you if you insist.}
@@ -227,9 +227,9 @@
 #{1750}{}{Are you nuts?! I already told you about these graves, and yet you want to excavate them?}
 {1750}{}{你疯了吗？！我已经告诉过你这些坟墓的事了，你还想把它们挖出来？}
 #{1751}{}{I'd love to look inside because of your story. You can make some money or I'll do it alone. I'd prefer the first option.}
-{1751}{}{因为你的故事我想看看里面。你可以赚点钱，否则我一个人干。我更喜欢第一种选择。}
+{1751}{}{因为你的故事，我想看看里面。你可以赚点钱，否则我自己挖坟，你一分钱也别想要。我觉得你更喜欢第一种选择。}
 #{1752}{}{I'd love to look inside because of your story. You can make some money or I'll do it alone. I'd prefer the first option.}
-{1752}{}{因为你的故事我想看看里面。你可以赚点钱，否则我一个人干。我更喜欢第一种选择。}
+{1752}{}{因为你的故事，我想看看里面。你可以赚点钱，否则我自己挖坟，你一分钱也别想要。我觉得你更喜欢第一种选择。}
 #{1753}{}{Fine, forget it.}
 {1753}{}{好吧，算了吧。}
 #{1800}{}{No way. I'll dig up any but these two. Forget about them.}

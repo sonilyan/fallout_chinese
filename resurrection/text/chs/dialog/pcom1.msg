@@ -25,7 +25,7 @@
 #{507}{}{[Exit.]}
 {507}{}{[退出。]}
 #{508}{}{Uhm... [Leave.]}
-{508}{}{嗯。。。[离开]}
+{508}{}{嗯……[离开]}
 #{550}{}{The Project: Genetic Manipulation (a.k.a. PROGEMA) research facility is operated by the United States Army. For security and confidentiality reasons, this four story facility is set deep inside the local rock formation. The main purpose of the project is the creation of a brand new organism for battle deployment. The secondary goal is to improve human abilities and characteristics for military units.}
 {550}{}{该项目：基因操纵（又称PROGEMA）研究设施由美国陆军运营。出于安全和保密的原因，这座四层楼高的设施被设置在当地岩层的深处。该项目的主要目的是为作战部署创造一个全新的有机体。第二个目标是提高军事单位的人的能力和特点。}
 #{551}{}{Display the main goal of the project.}

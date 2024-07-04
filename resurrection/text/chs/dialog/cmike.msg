@@ -9,19 +9,19 @@
 #{300}{}{Eh.}
 {300}{}{嗯。}
 #{301}{}{Um... Hi.}
-{301}{}{嗯。。。你好。}
+{301}{}{嗯……你好。}
 #{302}{}{::He blushes.::}
-{302}{}{●他脸红了：}
+{302}{}{::他脸红了：}
 #{303}{}{Um.}
 {303}{}{嗯。}
 #{304}{}{::He tries to smile.::}
-{304}{}{●他试着微笑：}
+{304}{}{::他试着微笑：}
 #{305}{}{Uh.}
-{305}{}{休斯敦大学。}
+{305}{}{哈。}
 #{306}{}{::He lowers his gaze.::}
-{306}{}{●他低下头来：}
+{306}{}{::他低下头来：}
 #{307}{}{I... Um... Nothing. Sorry.}
-{307}{}{一、 。。。嗯。。。没有什么。对不起的。}
+{307}{}{我想 ……嗯……没有什么。对不起。}
 #{308}{}{Francis is a good sheriff.}
 {308}{}{弗朗西斯是个好治安官。}
 #{309}{}{Try to stay out of trouble.}
@@ -71,11 +71,11 @@
 #{331}{}{You must be crazy!}
 {331}{}{你一定是疯了！}
 #{500}{}{Uh... Hi... I... [The young miner struggles for words, more and more, until he falls silent. Now his terrified eyes are simply watching you.]}
-{500}{}{休斯敦大学。。。你好。。。一、 。。。[年轻的矿工挣扎着要说些什么，越来越多，直到他陷入沉默。现在他惊恐的眼睛只是看着你}
+{500}{}{嗯……你好……我 ……[年轻的矿工挣扎着要说些什么，越来越多，直到他陷入沉默。现在他惊恐的眼睛只是看着你}
 #{501}{}{Yes?}
 {501}{}{对？}
 #{550}{}{I wanted... I mean, you're beautiful...}
-{550}{}{我想。。。我是说，你很漂亮。。。}
+{550}{}{我想……我是说，你很漂亮……}
 #{551}{}{Wanna do it?}
 {551}{}{想做吗？}
 #{600}{}{[He blushes.]}
@@ -85,35 +85,35 @@
 #{602}{}{Well forget it. I'm no whore!}
 {602}{}{算了吧。我不是妓女！}
 #{650}{}{I just... Didn't want to... Uh... I thought... Sorry.}
-{650}{}{我只是。。。我不想。。。休斯敦大学。。。我以为。。。对不起的。}
+{650}{}{我只是……我不想……休斯敦大学……我以为……对不起的。}
 #{651}{}{Just don't try it again.}
 {651}{}{别再尝试了。}
 #{700}{}{Well, Wanda... She's in charge here... Maybe you could somehow arrange with her to... Uh... You know.}
-{700}{}{嗯，旺达。。。她负责这里。。。也许你可以安排她。。。休斯敦大学。。。你知道的。}
+{700}{}{嗯，旺达……她负责这里……也许你可以安排她……休斯敦大学……你知道的。}
 #{701}{}{I see you've put some thought into this. Well well, look at you.}
 {701}{}{我看你已经考虑过了。好吧，看看你。}
 #{750}{}{No! I wanted... Uhh... Well I didn't dare, but you're so beautiful...}
-{750}{}{不！我想。。。呃。。。我不敢，但你真漂亮。。。}
+{750}{}{不！我想……呃……我不敢，但你真漂亮……}
 #{751}{}{All right, I'll take that as a compliment. I'll talk to Wanda.}
 {751}{}{好吧，那我就当是恭维了。我去和旺达谈谈。}
 #{800}{}{Hi. I, uh... I'm glad to see you again.}
-{800}{}{你好。一、 呃。。。很高兴再次见到你。}
+{800}{}{你好。我 ，呃……很高兴再次见到你。}
 #{801}{}{Feeling's mutual. I talked to Wanda. We can use an empty room. Standard price.}
 {801}{}{感情是相互的。我和旺达谈过了。我们可以用一个空房间。标准价格。}
 #{850}{}{Uh... That's... I, you know, I never... Well... I mean... You know...}
-{850}{}{休斯敦大学。。。那是。。。一、 你知道，我从不。。。好。。。我是说。。。你知道的。。。}
+{850}{}{休斯敦大学……那是……我 你知道，我从不……好……我是说……你知道的……}
 #{851}{}{Don't worry, it'll work itself out. What's your name anyway?}
 {851}{}{别担心，它会自己解决的。你叫什么名字？}
 #{900}{}{I... Mike. My name is Mike.}
-{900}{}{一、 。。。迈克。我叫迈克。}
+{900}{}{我 ……迈克。我叫迈克。}
 #{901}{}{Pleased to meet you Mike, my name is }
 {901}{}{很高兴认识你，迈克，我的名字是}
 #{902}{}{. So come along, you'll enjoy it. Trust me.}
 {902}{}{. 所以来吧，你会喜欢的。相信我。}
 #{950}{}{That... That was... Incredible! You're wonderful, }
-{950}{}{那个。。。那是。。。简直 不可思议！你太棒了，}
+{950}{}{那个……那是……简直 不可思议！你太棒了，}
 #{951}{}{. I... I'd like to see you again some time. If you don't mind.}
-{951}{}{. 一、 。。。我想改天再见到你。如果你不介意的话。}
+{951}{}{. 我 ……我想改天再见到你。如果你不介意的话。}
 #{952}{}{I can't promise anything, Mike. If I'm still in the city, I might stop by here.}
 {952}{}{我什么都不能保证，迈克。如果我还在城里，我可能会在这里停留。}
 #{1000}{}{That's all I ask. I'll wait. I work in the mine, but as soon as I have enough caps, I'll be waiting here for you. Here's 150 for today.}
@@ -121,13 +121,13 @@
 #{1001}{}{Give me 100, take the rest to Wanda. That's her cut for the room.}
 {1001}{}{给我100，剩下的给万达。那是她在房间里的位置。}
 #{1050}{}{Uh... OK. Bye.}
-{1050}{}{休斯敦大学。。。好 啊。再见。}
+{1050}{}{休斯敦大学……好 啊。再见。}
 #{1051}{}{See you Mike.}
 {1051}{}{再见，迈克。}
 #{1100}{}{Hi }
 {1100}{}{您好!}
 #{1101}{}{, you've come back. I... I've got enough caps. I've been waiting for you.}
-{1101}{}{，你回来了。一、 。。。我有足够的瓶盖。我一直在等你。}
+{1101}{}{，你回来了。我 ……我有足够的瓶盖。我一直在等你。}
 #{1102}{}{OK, let's find a room.}
 {1102}{}{好的，我们找个房间吧。}
 #{1103}{}{You know what? Let me teach you a couple of tricks so we both enjoy this a little more.}
@@ -135,16 +135,16 @@
 #{1104}{}{I'm sorry, Mike, I can't. Maybe later.}
 {1104}{}{对不起，迈克，我不能。也许以后吧。}
 #{1150}{}{You are... Simply wonderful. I'll be back again in a week. [He kisses you goodbye.]}
-{1150}{}{你是。。。简直太棒了。我一周后再来。[他吻你说再见。]}
+{1150}{}{你是……简直太棒了。我一周后再来。[他吻你说再见。]}
 #{1151}{}{Bye, Mike.}
 {1151}{}{再见，迈克。}
 #{1200}{}{Well... Alright. Anything for you.}
-{1200}{}{好。。。好吧。为你做任何事。}
+{1200}{}{好……好吧。为你做任何事。}
 #{1201}{}{Come on.}
 {1201}{}{来吧。}
 #{1250}{}{Wow... You're a great teacher, }
-{1250}{}{真 的。。。你是个好老师，}
+{1250}{}{真 的……你是个好老师，}
 #{1251}{}{. Thanks very much. Here's a hundred extra, and let's not tell Wanda anything. I... You know... That is the least I can do for you in exchange.}
-{1251}{}{. 非常感谢。这里有一百个额外的，我们什么都不要告诉旺达。一、 。。。你知道的。。。这是我能为你做的最起码的交换。}
+{1251}{}{. 非常感谢。这里有一百个额外的瓶盖，我们什么都不要告诉旺达。我 ……你知道的……这是我能为你做的最起码的交换。}
 #{1252}{}{Thanks, Mike.}
 {1252}{}{谢谢，迈克。}
